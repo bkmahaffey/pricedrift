@@ -1,0 +1,297 @@
+[
+  {
+    "id": "resend-com-pricing-20230605202412",
+    "url": "https://resend.com/pricing",
+    "ts": "20230605202412",
+    "date": "2023-06-05",
+    "source": "wayback",
+    "prevTs": "20230518040351",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Resend: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Sign up for free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 24,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "resend-com-pricing-20230718165621",
+    "url": "https://resend.com/pricing",
+    "ts": "20230718165621",
+    "date": "2023-07-18",
+    "source": "wayback",
+    "prevTs": "20230605202412",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 1,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Resend: 1 price, 2 limits changed (100 → 3,000)",
+    "pairs": [
+      {
+        "before": "$0 / mo Up to 100 emails / mo Email Support",
+        "after": "$0 / mo Up to 3,000 emails / mo 100 emails / day Email Support",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "100",
+            "after": "3,000"
+          },
+          {
+            "before": null,
+            "after": "100"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "1 Domain",
+      "$20 / mo 50,000 emails / mo No daily sending limit Slack Support",
+      "Unlimited Domains",
+      "Unlimited Domains"
+    ],
+    "removed": [
+      "$20 / mo 50,000 emails / mo Slack Support"
+    ],
+    "totals": {
+      "removed": 11,
+      "added": 65,
+      "materialRemoved": 2,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "resend-com-pricing-20240207134433",
+    "url": "https://resend.com/pricing",
+    "ts": "20240207134433",
+    "date": "2024-02-07",
+    "source": "wayback",
+    "prevTs": "20230718165621",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Resend: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "resend-com-pricing-20240716225552",
+    "url": "https://resend.com/pricing",
+    "ts": "20240716225552",
+    "date": "2024-07-16",
+    "source": "wayback",
+    "prevTs": "20240207134433",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Resend: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "resend-com-pricing-20240918133240",
+    "url": "https://resend.com/pricing",
+    "ts": "20240918133240",
+    "date": "2024-09-18",
+    "source": "wayback",
+    "prevTs": "20240716225552",
+    "kind": "price",
+    "score": 7,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Resend: 2 prices, 1 limit changed (removed “$0 / mo Up to 3,000 emails / mo 100 emails / …”; added “$0 / mo Up to 3,000 emails / mo”)",
+    "pairs": [],
+    "added": [
+      "$0 / mo Up to 3,000 emails / mo",
+      "100 emails / day",
+      "$20 / mo 50,000 emails / mo"
+    ],
+    "removed": [
+      "$0 / mo Up to 3,000 emails / mo 100 emails / day Email Support",
+      "$20 / mo 50,000 emails / mo No daily sending limit Slack Support"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 13,
+      "materialRemoved": 2,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "resend-com-pricing-20241110212750",
+    "url": "https://resend.com/pricing",
+    "ts": "20241110212750",
+    "date": "2024-11-10",
+    "source": "wayback",
+    "prevTs": "20240918133240",
+    "kind": "price",
+    "score": 35,
+    "counts": {
+      "price": 2,
+      "limit": 9,
+      "plan": 6
+    },
+    "material": true,
+    "headline": "Resend: 2 prices, 9 limits, 6 plan names changed (removed “$0 / mo Up to 3,000 emails / mo”; added “3K 3,000”)",
+    "pairs": [],
+    "added": [
+      "3K 3,000",
+      "50K 50,000",
+      "100K 100,000",
+      "200K 200,000",
+      "500K 500,000",
+      "1.0M 1,000,000",
+      "1.5M 1,500,000",
+      "2.5M 2,500,000",
+      "3.0M+ 3,000,000+",
+      "Free Recommended",
+      "$0 / mo 3,000 emails / mo",
+      "1 Domain",
+      "100 emails a day",
+      "10 Domains",
+      "$90 / mo 100,000 emails / mo",
+      "1,000 Domains",
+      "Free",
+      "Free",
+      "1 day",
+      "3 days",
+      "7 days",
+      "Free",
+      "Free"
+    ],
+    "removed": [
+      "Free",
+      "$0 / mo Up to 3,000 emails / mo",
+      "100 emails / day",
+      "1 Domain",
+      "Unlimited Domains",
+      "Unlimited Domains"
+    ],
+    "totals": {
+      "removed": 20,
+      "added": 137,
+      "materialRemoved": 6,
+      "materialAdded": 23
+    }
+  },
+  {
+    "id": "resend-com-pricing-20241203155312",
+    "url": "https://resend.com/pricing",
+    "ts": "20241203155312",
+    "date": "2024-12-03",
+    "source": "wayback",
+    "prevTs": "20241110212750",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Resend: 2 limits changed (removed “1.0M 1,000,000”; added “1M 1,000,000”)",
+    "pairs": [],
+    "added": [
+      "1M 1,000,000",
+      "3M+ 3,000,000+"
+    ],
+    "removed": [
+      "1.0M 1,000,000",
+      "3.0M+ 3,000,000+"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "resend-com-pricing-20250112184320",
+    "url": "https://resend.com/pricing",
+    "ts": "20250112184320",
+    "date": "2025-01-12",
+    "source": "wayback",
+    "prevTs": "20241203155312",
+    "kind": "price",
+    "score": 20,
+    "counts": {
+      "price": 2,
+      "limit": 7,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Resend: 2 prices, 7 limits, 1 plan name changed (removed “3K 3,000”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "3K 3,000",
+      "50K 50,000",
+      "100K 100,000",
+      "200K 200,000",
+      "500K 500,000",
+      "1M 1,000,000",
+      "1.5M 1,500,000",
+      "2.5M 2,500,000",
+      "3M+ 3,000,000+",
+      "Free Recommended",
+      "$0 / mo 3,000 emails / mo",
+      "1 Domain",
+      "100 emails a day",
+      "$20 / mo 50,000 emails / mo",
+      "10 Domains",
+      "$90 / mo 100,000 emails / mo",
+      "1,000 Domains"
+    ],
+    "totals": {
+      "removed": 52,
+      "added": 1,
+      "materialRemoved": 17,
+      "materialAdded": 0
+    }
+  }
+]

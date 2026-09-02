@@ -829,5 +829,583 @@
       "materialRemoved": 23,
       "materialAdded": 22
     }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20241103131020",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20241103131020",
+    "date": "2024-11-03",
+    "source": "wayback",
+    "prevTs": "20241006022049",
+    "kind": "price",
+    "score": 5,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare Workers: 1 price, 1 limit changed (1000000 → 1,000,000; 768 → 10,000)",
+    "pairs": [
+      {
+        "before": "To calculate your potential usage, calculate the sum of your stored + queried vectors, multiply by the dimension size, and multiply by the unit price. The formula is defined as (queried vectors * dimensions * ($0.01 / 1000000) + (stored vectors + dimensions * ($0.05 / 100000000)",
+        "after": "To calculate your potential usage, calculate the queried vector dimensions and the stored vector dimensions, and multiply by the unit price. The formula is defined as ((queried vectors + stored vectors) * dimensions * ($0.01 / 1,000,000)) + (stored vectors + dimensions * ($0.05 / 100,000,000))",
+        "confidence": 0.79,
+        "deltas": [
+          {
+            "before": "1000000",
+            "after": "1,000,000"
+          },
+          {
+            "before": "100000000",
+            "after": "100,000,000"
+          }
+        ]
+      },
+      {
+        "before": "Separately, and excluding the included monthly allocation, this would be calculated as (30,000 * 768 * ($0.01 / 1,000,000) + (10,000 * 768 * ($0.05 / 100,000,000) and sum to $0.23 per month.",
+        "after": "Separately, and excluding the included monthly allocation, this would be calculated as (30,000 + 10,000) * 768 * ($0.01 / 1,000,000) + (10,000 * 768 * ($0.05 / 100,000,000)) and sum to $0.31 per month.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "768",
+            "after": "10,000"
+          },
+          {
+            "before": "$0.01",
+            "after": "768"
+          },
+          {
+            "before": "1,000,000",
+            "after": "$0.01"
+          },
+          {
+            "before": "10,000",
+            "after": "1,000,000"
+          },
+          {
+            "before": "768",
+            "after": "10,000"
+          },
+          {
+            "before": "$0.05",
+            "after": "768"
+          },
+          {
+            "before": "100,000,000",
+            "after": "$0.05"
+          },
+          {
+            "before": "$0.23",
+            "after": "100,000,000"
+          },
+          {
+            "before": null,
+            "after": "$0.31"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20241206105258",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20241206105258",
+    "date": "2024-12-06",
+    "source": "wayback",
+    "prevTs": "20241103131020",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Workers: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 29,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20250201004230",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20250201004230",
+    "date": "2025-02-01",
+    "source": "wayback",
+    "prevTs": "20241206105258",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Workers: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20250305232545",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20250305232545",
+    "date": "2025-03-05",
+    "source": "wayback",
+    "prevTs": "20250201004230",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Workers: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 26,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20250407160839",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20250407160839",
+    "date": "2025-04-07",
+    "source": "wayback",
+    "prevTs": "20250305232545",
+    "kind": "limits",
+    "score": 10,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Cloudflare Workers: 3 limits, 2 plan names changed (removed “1 Rows read and rows written included limits …”; added “100,000 / day”)",
+    "pairs": [],
+    "added": [
+      "By default, users have access to the Workers Free plan.",
+      "Durable Objects are available both on Workers Free and Workers Paid plans.",
+      "Workers Free plan: Only Durable Objects with SQLite storage backend",
+      "If you wish to downgrade from a Workers Paid plan to a Workers Free plan, you must first ensure that you have deleted all Durable Object namespaces with the key-value storage backend.",
+      "Free plan",
+      "100,000 / day",
+      "13,000 GB-s / day",
+      "is recommended for all new Durable Object classes. Workers Free plan can only create and access SQLite-backed Durable Objects.",
+      "Workers Free plan",
+      "100,000 / day",
+      "5 GB (total)",
+      "1 Rows read and rows written included limits and rates match D1 pricing"
+    ],
+    "removed": [
+      "By default, users have access to the Workers Free plan. The Workers Free plan includes limited usage of Workers, Pages Functions and Workers KV. Read more about the Free plan limits",
+      "1 Rows read and rows written included limits and rates match D1, Cloudflare's serverless SQL database, pricing"
+    ],
+    "totals": {
+      "removed": 41,
+      "added": 80,
+      "materialRemoved": 7,
+      "materialAdded": 17
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20250502025234",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20250502025234",
+    "date": "2025-05-02",
+    "source": "wayback",
+    "prevTs": "20250407160839",
+    "kind": "limits",
+    "score": 6,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Cloudflare Workers: 1 price, 1 limit, 1 plan name changed (removed “The Workers Paid plan includes Workers, Pages…”; added “Max of 5 minutes of CPU time”)",
+    "pairs": [],
+    "added": [
+      "By default, users have access to the Workers Free plan. The Workers Free plan includes limited usage of Workers, Pages Functions, Workers KV and Hyperdrive. Read more about the Free plan limits",
+      "Max of 5 minutes of CPU time",
+      "Hyperdrive is included in both the Free and Paid Workers plans",
+      "Free plan 1",
+      "100,000 / day",
+      "Unlimited"
+    ],
+    "removed": [
+      "By default, users have access to the Workers Free plan.",
+      "The Workers Paid plan includes Workers, Pages Functions, Workers KV, and Durable Objects usage for a minimum charge of $5 USD per month for an account. The plan includes increased initial usage allotments, with clear charges for usage that exceeds the base plan."
+    ],
+    "totals": {
+      "removed": 9,
+      "added": 26,
+      "materialRemoved": 3,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20250610074118",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20250610074118",
+    "date": "2025-06-10",
+    "source": "wayback",
+    "prevTs": "20250502025234",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Workers: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 6,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20250703104412",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20250703104412",
+    "date": "2025-07-03",
+    "source": "wayback",
+    "prevTs": "20250610074118",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Workers: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20250802214302",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20250802214302",
+    "date": "2025-08-02",
+    "source": "wayback",
+    "prevTs": "20250703104412",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Workers: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 3,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20250905160048",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20250905160048",
+    "date": "2025-09-05",
+    "source": "wayback",
+    "prevTs": "20250802214302",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Workers: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20251005004225",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20251005004225",
+    "date": "2025-10-05",
+    "source": "wayback",
+    "prevTs": "20250905160048",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Workers: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 8,
+      "added": 7,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20260103155804",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20260103155804",
+    "date": "2026-01-03",
+    "source": "wayback",
+    "prevTs": "20251005004225",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Workers: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20260304140151",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20260304140151",
+    "date": "2026-03-04",
+    "source": "wayback",
+    "prevTs": "20260103155804",
+    "kind": "price",
+    "score": 39,
+    "counts": {
+      "price": 7,
+      "limit": 5,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Cloudflare Workers: 7 prices, 5 limits, 4 plan names changed (added “10,000 operations/day included”)",
+    "pairs": [],
+    "added": [
+      "Workers Free",
+      "10,000 operations/day included",
+      "24 hours (non-configurable)",
+      "4 days default, configurable up to 14 days",
+      "Free",
+      "10 GB-month / month",
+      "$0.015 / GB-month",
+      "$0.01 / GB-month",
+      "$4.50 / million requests",
+      "$9.00 / million requests",
+      "$0.36 / million requests",
+      "$0.90 / million requests",
+      "$0.01 / GB",
+      "Free",
+      "Containers are billed for every 10ms that they are actively running at the following rates, with included monthly usage as part of the $5 USD per month Workers Paid plan",
+      "Free",
+      "25 GiB-hours/month included",
+      "+$0.0000025 per additional GiB-second",
+      "375 vCPU-minutes/month",
+      "+ $0.000020 per additional vCPU-second",
+      "200 GB-hours/month",
+      "+$0.00000007 per additional GB-second",
+      "$0.025",
+      "1 TB",
+      "$0.05",
+      "500 GB",
+      "$0.04",
+      "500 GB"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 36,
+      "added": 67,
+      "materialRemoved": 0,
+      "materialAdded": 28
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20260401171129",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20260401171129",
+    "date": "2026-04-01",
+    "source": "wayback",
+    "prevTs": "20260304140151",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare Workers: 2 prices changed (removed “1 million, + $0.15/million”; added “1 million / month, + $0.15/million”)",
+    "pairs": [],
+    "added": [
+      "1 million / month, + $0.15/million",
+      "400,000 GB-s / month, + $12.50/million GB-s 4,5"
+    ],
+    "removed": [
+      "1 million, + $0.15/million",
+      "400,000 GB-s, + $12.50/million GB-s 4,5"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 6,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20260504044149",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20260504044149",
+    "date": "2026-05-04",
+    "source": "wayback",
+    "prevTs": "20260401171129",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Workers: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20260706150950",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20260706150950",
+    "date": "2026-07-06",
+    "source": "wayback",
+    "prevTs": "20260504044149",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare Workers: 3 prices changed (added “$5.00”)",
+    "pairs": [],
+    "added": [
+      "$5.00",
+      "$27.00",
+      "(100,000,000 requests - 10,000,000 included requests) / 1,000,000 * $0.30",
+      "$2.20",
+      "((7 ms of CPU time per request * 20,000,000 requests) - 30,000,000 included CPU ms) / 1,000,000 * $0.02",
+      "$34.20"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 21,
+      "materialRemoved": 0,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20260811155042",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20260811155042",
+    "date": "2026-08-11",
+    "source": "wayback",
+    "prevTs": "20260706150950",
+    "kind": "price",
+    "score": 11,
+    "counts": {
+      "price": 2,
+      "limit": 2,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Cloudflare Workers: 2 prices, 2 limits, 1 plan name changed (added “100,000 per day ( shared with Workers requests”)",
+    "pairs": [],
+    "added": [
+      "Workers Free",
+      "100,000 per day ( shared with Workers requests",
+      "10 million included per month + $0.30 per additional million",
+      "30 million CPU milliseconds included per month + $0.02 per additional million CPU milliseconds",
+      "1 GB",
+      "1 GB included per month + $0.20/ GB-month",
+      "3,000 per day",
+      "500,000 included per month + $0.80/ additional 100,000 per month"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 33,
+      "materialRemoved": 0,
+      "materialAdded": 8
+    }
   }
 ]

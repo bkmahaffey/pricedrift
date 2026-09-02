@@ -110,7 +110,7 @@ main.wide { max-width: 1160px; }
 .change-meta .svc { font-weight: 650; color: var(--ink); text-decoration: none; }
 .change-meta .svc:hover { text-decoration: underline; }
 .kind { font-size: 0.75rem; border: 1px solid var(--line-2); border-radius: 999px; padding: 0.25rem 0.55rem; line-height: 1; color: var(--ink-2); }
-.kind-price .kind { border-color: var(--mark-ink); color: var(--ink); background: var(--mark); }
+.kind-price .kind { border-color: var(--mark-ink); color: var(--mark-ink); background: var(--mark); }
 .kind.flap { border-style: dashed; }
 .flap { opacity: 0.8; }
 .change-title { font-size: 1.0625rem; margin: 0.3rem 0 0.35rem; }

@@ -1,0 +1,87 @@
+[
+  {
+    "id": "render-com-pricing-20230201052823",
+    "url": "https://render.com/pricing",
+    "ts": "20230201052823",
+    "date": "2023-02-01",
+    "source": "wayback",
+    "prevTs": "20230103122936",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Render: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "render-com-pricing-20230510204608",
+    "url": "https://render.com/pricing",
+    "ts": "20230510204608",
+    "date": "2023-05-10",
+    "source": "wayback",
+    "prevTs": "20230201052823",
+    "kind": "price",
+    "score": 8,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Render: 3 prices changed (removed “$ 0 / month”; added “$495/month”)",
+    "pairs": [],
+    "added": [
+      "$495/month",
+      "$ 0 USD / month",
+      "Why was I charged $1 after adding a credit card?",
+      "A $1 USD transaction will be performed as a credit security check to ensure the card details are correct and authorized. The charge will be refunded after the transaction is complete."
+    ],
+    "removed": [
+      "$ 0 / month"
+    ],
+    "totals": {
+      "removed": 11,
+      "added": 17,
+      "materialRemoved": 11,
+      "materialAdded": 14
+    }
+  },
+  {
+    "id": "render-com-pricing-20230603204407",
+    "url": "https://render.com/pricing",
+    "ts": "20230603204407",
+    "date": "2023-06-03",
+    "source": "wayback",
+    "prevTs": "20230510204608",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Render: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  }
+]

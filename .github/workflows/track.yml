@@ -19,7 +19,7 @@ permissions:
 jobs:
   track:
     # A push of the bot's own daily data commit does not need another build.
-    if: github.event_name != 'push' || !startsWith(github.event.head_commit.message, 'data: daily check')
+    if: ${{ github.event_name != 'push' || !startsWith(github.event.head_commit.message, 'data: daily check') }}
     runs-on: ubuntu-latest
     timeout-minutes: 90
     steps:
