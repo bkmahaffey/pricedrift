@@ -73,7 +73,7 @@ function highlight(line, tokens) {
 }
 
 function renderDeltas(c) {
-  const pairs = (c.pairs || []).slice(0, 6);
+  const pairs = (c.pairs || []).slice(0, 6).filter(p => (p.deltas || []).length);
   if (!pairs.length) return '';
   return `<ol class="deltas">${pairs.map(p => `<li><span class="was">${highlight(short(p.before), p.deltas.map(d => d.before))}</span><span class="now">${highlight(short(p.after), p.deltas.map(d => d.after))}</span></li>`).join('')}</ol>`;
 }
@@ -144,7 +144,7 @@ function sponsorSlot() {
   return `<aside class="sponsor open" aria-label="Sponsor"><span class="sponsor-k">Sponsor</span><a href="${u('/sponsor/')}">This slot is open</a><span class="sponsor-t">Reach developers comparing infrastructure pricing.</span></aside>`;
 }
 
-function layout({ title, description, path: p, body, feed, wide = false, ogImage }) {
+function layout({ title, description, path: p, body, feed, wide = false, ogImage, jsonLd }) {
   const fullTitle = p === '/' ? `${site.name} · ${site.tagline}` : `${title} · ${site.name}`;
   return `<!doctype html>
 <html lang="en">
@@ -165,6 +165,7 @@ ${feed ? `<link rel="alternate" type="application/rss+xml" title="${esc(feed.tit
 <meta property="og:url" content="${esc(abs(p))}">
 <meta property="og:image" content="${esc(abs(ogImage || '/og/default.png'))}">
 <meta name="twitter:card" content="summary_large_image">
+${jsonLd ? `<script type="application/ld+json">${JSON.stringify(jsonLd)}</script>` : ''}
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
@@ -327,7 +328,11 @@ for (const s of services) {
 </div>
 </div>`;
   const desc = s.free_tier ? `${s.name} free tier: ${freeStatus(s).label}${(s.free_tier.limits || []).slice(0, 3).map(l => `, ${l.metric} ${l.value}`).join('')}. Paid from ${paidFrom(s) || 'n/a'}. ${mat.length} pricing changes recorded.` : `${s.name} pricing history: ${mat.length} detected price and limit changes, with diffs.`;
-  await page(`/s/${s.slug}/`, { title: `${s.name} pricing history and free tier`, description: desc, feed: { title: `${s.name} pricing changes`, href: `/s/${s.slug}/feed.xml` }, ogImage: `/og/${s.slug}.png`, body, wide: true });
+  const jsonLd = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Services', item: abs('/services/') },
+    { '@type': 'ListItem', position: 2, name: CATEGORIES[s.category].name, item: abs(`/c/${s.category}/`) },
+    { '@type': 'ListItem', position: 3, name: s.name, item: abs(`/s/${s.slug}/`) } ] };
+  await page(`/s/${s.slug}/`, { title: `${s.name} pricing history and free tier`, description: desc, feed: { title: `${s.name} pricing changes`, href: `/s/${s.slug}/feed.xml` }, ogImage: `/og/${s.slug}.png`, body, wide: true, jsonLd });
 }
 
 // LLM pages
@@ -350,7 +355,7 @@ ${shownPrimary.length ? table(shownPrimary.slice(0, 300)) : '<p class="empty">Th
 }
 
 // Data, About, Sponsor
-await page('/data/', { title: 'Open data: JSON and CSV', description: 'Download every tracked service, change and LLM price event as JSON or CSV. CC BY 4.0.', body: `<h1>Data</h1><p class="lede-p">Everything on this site is generated from files you can download. Licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>: use it, credit ${esc(site.name)}.</p>
+await page('/data/', { title: 'Open data: JSON and CSV', description: 'Download every tracked service, change and LLM price event as JSON or CSV. CC BY 4.0.', jsonLd: { '@context': 'https://schema.org', '@type': 'Dataset', name: `${site.name} developer pricing changes`, description: site.description, url: abs('/data/'), license: 'https://creativecommons.org/licenses/by/4.0/', creator: { '@type': 'Organization', name: site.name, url: abs('/') }, distribution: [ { '@type': 'DataDownload', encodingFormat: 'application/json', contentUrl: abs('/api/changes.json') }, { '@type': 'DataDownload', encodingFormat: 'text/csv', contentUrl: abs('/api/changes.csv') }, { '@type': 'DataDownload', encodingFormat: 'application/json', contentUrl: abs('/api/llm-prices.json') } ] }, body: `<h1>Data</h1><p class="lede-p">Everything on this site is generated from files you can download. Licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>: use it, credit ${esc(site.name)}.</p>
 <dl class="api">
 <dt><a href="${u('/api/services.json')}">/api/services.json</a></dt><dd>All ${services.length} services with category, tracked pages, free tier facts, entry price and verification date.</dd>
 <dt><a href="${u('/api/changes.json')}">/api/changes.json</a></dt><dd>All ${material.length} price and limit changes with paired before/after lines and removed/added lines.</dd>
@@ -372,7 +377,7 @@ await page('/about/', { title: 'About and methodology', description: `How ${site
 
 await page('/sponsor/', { title: 'Sponsor', description: `Sponsor ${site.name} and reach developers comparing infrastructure pricing.`, body: `<h1>Sponsor ${esc(site.name)}</h1>
 <p class="lede-p">One sponsor at a time, shown on every page and in the RSS feed description. Readers are developers and founders actively comparing hosting, database, AI and tooling prices.</p>
-<h2>What you get</h2><ul><li>Your name, one line of text and a link in the sponsor slot on all ${pages.length + services.length}+ pages for the month.</li><li>A line in the site’s RSS feed description.</li><li>No tracking pixels, no popups. The slot is plain text and clearly labeled.</li></ul>
+<h2>What you get</h2><ul><li>Your name, one line of text and a link in the sponsor slot on every page of the site (all ${services.length} service pages, every category and changelog page) for the month.</li><li>A line in the site’s RSS feed description.</li><li>No tracking pixels, no popups. The slot is plain text and clearly labeled.</li></ul>
 <h2>What it costs</h2><p>Priced monthly. ${site.sponsor?.checkoutUrl ? `<a class="btn" href="${esc(site.sponsor.checkoutUrl)}">Book the slot</a>` : `Get in touch ${site.contactEmail ? `at <a href="mailto:${esc(site.contactEmail)}">${esc(site.contactEmail)}</a>` : `via <a href="${esc(site.repo)}/issues/new?title=Sponsorship">GitHub</a>`} and you will get current traffic numbers and the price.`}</p>
 <h2>What is not for sale</h2><p>Listings, classifications and facts. Sponsors cannot be removed from tracking, and sponsorship is never mentioned in change entries.</p>` });
 

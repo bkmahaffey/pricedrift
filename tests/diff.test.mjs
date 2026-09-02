@@ -42,3 +42,18 @@ test('fuzzy pairing tolerates small wording changes', () => {
   const { pairs } = pairLines(['$19 per month per member, billed monthly'], ['$20 per month per member, billed monthly or yearly']);
   assert.equal(pairs.length, 1);
 });
+
+test('formatting-only number changes are not deltas', () => {
+  const c = computeChange(['$2.5 per GB', '5K events'], ['$2.50 per GB', '5,000 events']);
+  assert.equal(c.kind, 'copy');
+});
+
+test('moved or reworded lines with the same numbers cancel out', () => {
+  const c = computeChange(['Pro', '$100 per month', 'Team', '2,500 events'], ['Team', '2,500 events', 'Pro', '$100 / month']);
+  assert.equal(c.kind, 'copy');
+});
+
+test('headline names removed numbers instead of a placeholder', () => {
+  const c = computeChange(['Enterprise: $350 per month'], ['Enterprise: contact us']);
+  assert.match(headline(c, 'X'), /removed/);
+});

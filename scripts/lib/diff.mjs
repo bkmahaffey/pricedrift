@@ -1,6 +1,6 @@
 // Change detection between two snapshots of a pricing page.
 import { diffArrays } from 'diff';
-import { isMaterialLine, isVolatileLine, numericTokens, shape, isWeakToken, CURRENCY_RE, UNIT_RE } from './text.mjs';
+import { isMaterialLine, isVolatileLine, numericTokens, shape, isWeakToken, sameValue, numericSignature, CURRENCY_RE, UNIT_RE } from './text.mjs';
 
 const PLAN_WORDS = /\b(free|hobby|starter|basic|developer|dev|pro|plus|premium|standard|team|teams|business|scale|growth|enterprise|launch|build|essentials?|personal|individual|organization|ultimate|max|lite|core)\b/i;
 
@@ -47,6 +47,7 @@ export function deltas(pair) {
   for (let i = 0; i < n; i++) {
     if (b[i] === a[i]) continue;
     if (b[i] === undefined && a[i] === undefined) continue;
+    if (b[i] !== undefined && a[i] !== undefined && sameValue(b[i], a[i])) continue; // $2.5 vs $2.50, 5K vs 5,000
     const weak = (b[i] === undefined || isWeakToken(b[i], pair.before)) && (a[i] === undefined || isWeakToken(a[i], pair.after));
     if (weak) continue;
     out.push({ before: b[i] ?? null, after: a[i] ?? null });
@@ -64,7 +65,8 @@ export function classify(pairs, unpairedRemoved, unpairedAdded) {
     else limit++;
   }
   for (const l of [...unpairedRemoved, ...unpairedAdded]) {
-    if (CURRENCY_RE.test(l)) price += 0.5;
+    // After reworded/moved lines are cancelled, a price line that appears or disappears is a real change.
+    if (CURRENCY_RE.test(l)) price += 1;
     else if (UNIT_RE.test(l)) limit += 0.5;
     const words = l.split(' ');
     if (words.length <= 3 && PLAN_WORDS.test(l) && /^[A-Z]/.test(l)) plan++;
@@ -75,6 +77,15 @@ export function classify(pairs, unpairedRemoved, unpairedAdded) {
   else if (plan >= 1) kind = 'plans';
   const score = Math.round(price * 3 + limit * 2 + plan * 2);
   return { kind, score, counts: { price: Math.round(price), limit: Math.round(limit), plan } };
+}
+
+// Lines that were merely moved or reworded carry the same numbers on both sides; drop them from both.
+export function cancelReworded(removed, added) {
+  const sigA = new Map();
+  added.forEach((l, i) => { const k = numericSignature(l); if (!k) return; if (!sigA.has(k)) sigA.set(k, []); sigA.get(k).push(i); });
+  const dropR = new Set(), dropA = new Set();
+  removed.forEach((l, i) => { const k = numericSignature(l); if (!k) return; const c = sigA.get(k); if (c && c.length) { dropA.add(c.shift()); dropR.add(i); } });
+  return { unpairedRemoved: removed.filter((_, i) => !dropR.has(i)), unpairedAdded: added.filter((_, i) => !dropA.has(i)) };
 }
 
 export function computeChange(prevLines, nextLines) {
@@ -101,7 +112,7 @@ export function computeChange(prevLines, nextLines) {
   // Second pass across hunks: only exact-shape matches with enough words to be specific (a moved table row).
   const cross = pairLines(leftoverR, leftoverA, { exactOnly: true, minWords: 3 });
   pairs.push(...cross.pairs);
-  const unpairedRemoved = cross.unpairedRemoved, unpairedAdded = cross.unpairedAdded;
+  const { unpairedRemoved, unpairedAdded } = cancelReworded(cross.unpairedRemoved, cross.unpairedAdded);
   const mRemoved = removed.filter(isMaterialLine);
   const mAdded = added.filter(isMaterialLine);
   const realPairs = pairs.filter(p => deltas(p).length);
@@ -123,7 +134,7 @@ export function headline(change, serviceName) {
   if (c.price) parts.push(`${c.price} price${c.price === 1 ? '' : 's'}`);
   if (c.limit) parts.push(`${c.limit} limit${c.limit === 1 ? '' : 's'}`);
   if (c.plan) parts.push(`${c.plan} plan name${c.plan === 1 ? '' : 's'}`);
-  const ex = change.pairs.slice(0, 2).flatMap(p => p.deltas.slice(0, 1)).map(d => `${d.before ?? '∅'} → ${d.after ?? '∅'}`);
+  const ex = change.pairs.slice(0, 2).flatMap(p => p.deltas.slice(0, 1)).map(d => d.before === null ? `${d.after} added` : d.after === null ? `${d.before} removed` : `${d.before} → ${d.after}`);
   if (change.kind === 'copy') return `${serviceName}: pricing page text changed (no price or limit change detected)`;
   const what = parts.join(', ') + ' changed';
   if (ex.length) return `${serviceName}: ${what} (${ex.join('; ')})`;

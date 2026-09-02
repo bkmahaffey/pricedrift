@@ -27,6 +27,9 @@ test('volatile lines are ignored', () => {
 test('numeric tokens and shape', () => {
   assert.deepEqual(numericTokens('$20 per member / month, 100 GB included'), ['$20', '100GB']);
   assert.deepEqual(numericTokens('04 I went over 5 GB'), ['5GB']);
+  assert.deepEqual(numericTokens('60 compute hours'), ['60']);
+  assert.deepEqual(numericTokens('10 projects'), ['10']);
+  assert.deepEqual(numericTokens('12 Why did my bill go up this month when nothing changed?'), []);
   assert.equal(shape('$20 per member / month'), '¤ per member month');
   assert.equal(shape('$25 per member / month'), shape('$20 per member / month'));
 });

@@ -40,6 +40,7 @@ export function normalizeLine(s) {
     .replace(/[​‌‍﻿]/g, '')
     .replace(/\s+/g, ' ')
     .replace(/\s([,.;:!?)])/g, '$1')
+    .replace(/^[.,;:]\s+/, '')
     .trim()
     .slice(0, 500);
 }
@@ -50,8 +51,15 @@ export const CURRENCY_RE = /(?:(?:US|CA|AU|NZ|SG|HK)?\$|€|£|¥|₹|CHF|USD|EU
 export const UNIT_RE = /\b\d[\d,]*(?:\.\d+)?\s?(?:k|m|b|gb|tb|mb|kb|pb|gib|tib|mib|ms|s|sec|min|mins|minutes?|hours?|hrs?|days?|weeks?|months?|years?|vcpus?|cpus?|cores?|ram|gpus?|cu|cu-hours?|compute hours?|requests?|reqs?|req|invocations?|executions?|runs?|builds?|deploys?|deployments?|sites?|projects?|apps?|databases?|dbs?|branches?|repos?|repositories?|seats?|users?|members?|editors?|collaborators?|teammates?|maus?|dau|monthly active users?|events?|sessions?|pageviews?|page views|visitors?|emails?|messages?|sms|contacts?|subscribers?|records?|rows?|documents?|objects?|files?|images?|videos?|tokens?|characters?|chars|words?|credits?|queries?|operations?|ops|reads?|writes?|transactions?|connections?|domains?|environments?|workers?|functions?|cron jobs?|jobs?|webhooks?|logs?|traces?|spans?|metrics?|alerts?|monitors?|checks?|uptime|bandwidth|egress|storage|transfer|rpm|rpd|tpm|tpd|qps|rps|per second|per minute|per day|per month|\/\s?(?:mo|month|yr|year|day|hour|hr|min|sec|user|seat|site|project|gb|tb|k|m|1k|1m|million|1,000|1000|1,000,000))\b/i;
 export const FREE_RE = /\b(?:free|free trial|unlimited|no credit card|always free)\b/i;
 // Leading enumeration like "04 I went over my credit" or "1. Create a project" is not a quantity.
-const LEADING_ORDINAL_RE = /^\s*(?:step\s*)?\d{1,2}[.)]?\s+(?=[A-Za-z])/i;
-export function stripOrdinal(line) { return line.replace(LEADING_ORDINAL_RE, ''); }
+// Only a leading zero ("04 I went over…"), punctuation ("1. Create a project"), or a sentence-shaped
+// line ("12 Why did my bill go up?") marks an ordinal; "60 compute hours" and "10 projects" are limits.
+const LEADING_ORDINAL_RE = /^\s*(?:step\s*)?(?:0\d|\d{1,2}[.)])\s+(?=[A-Za-z])/i;
+const LEADING_SENTENCE_RE = /^\s*\d{1,2}\s+(?=[A-Z][a-z]+\s)/;
+export function stripOrdinal(line) {
+  if (LEADING_ORDINAL_RE.test(line)) return line.replace(LEADING_ORDINAL_RE, '');
+  if (line.length > 40 && /[?!.]$/.test(line) && LEADING_SENTENCE_RE.test(line)) return line.replace(LEADING_SENTENCE_RE, '');
+  return line;
+}
 
 export function isMaterialLine(line) {
   if (line.length > 320) return false; // long prose paragraphs are not price tables
@@ -106,4 +114,25 @@ export function shape(line) {
     .replace(/[^a-z#¤ ]+/g, ' ')
     .replace(/\s+/g, ' ')
     .trim();
+}
+
+// Parse a numeric token into a comparable value: "$2.50" → {v:2.5,c:'$'}, "5K" → {v:5000}, "1,000" → {v:1000}, "100GB" → {v:100,u:'gb'}
+export function parseToken(tok) {
+  if (tok === null || tok === undefined) return null;
+  const m = String(tok).replace(/\s+/g, '').match(/^([$€£¥₹]|US\$|CA\$|AU\$)?([\d,]*\.?\d+)(%|k|m|b|gb|tb|mb|kb|pb|gib|tib|mib)?$/i);
+  if (!m) return { raw: String(tok) };
+  let v = parseFloat(m[2].replace(/,/g, ''));
+  const suf = (m[3] || '').toLowerCase();
+  if (suf === 'k') v *= 1e3; else if (suf === 'm') v *= 1e6; else if (suf === 'b') v *= 1e9;
+  return { v, c: m[1] ? '$' : '', u: ['k', 'm', 'b'].includes(suf) ? '' : suf };
+}
+export function sameValue(a, b) {
+  const pa = parseToken(a), pb = parseToken(b);
+  if (!pa || !pb) return a === b;
+  if (pa.raw !== undefined || pb.raw !== undefined) return pa.raw === pb.raw;
+  return pa.v === pb.v && pa.c === pb.c && pa.u === pb.u;
+}
+// Signature of the numbers in a line, independent of wording: used to cancel moved or reworded lines.
+export function numericSignature(line) {
+  return numericTokens(line).map(t => { const p = parseToken(t); return p.raw !== undefined ? p.raw : `${p.c}${p.v}${p.u}`; }).sort().join('|');
 }
