@@ -40,6 +40,10 @@ node scripts/build.mjs && npm run serve
 ```
 
 Backfill history for a new service: `node scripts/backfill.mjs --only <slug> --from 2023-01`.
+Continue a service whose history stopped (redesign, moved page): add `--resume`. After changing the
+detector, `node scripts/recompute.mjs` re-derives every change from the stored snapshots. After moving
+the tracker to a new environment, `node scripts/rebaseline.mjs` accepts pending observations without
+publishing them.
 
 ## Adding or fixing a service
 
