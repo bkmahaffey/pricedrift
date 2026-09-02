@@ -23,7 +23,7 @@ export function isInverse(a, b) {
  * Record a new observation of `url` for `service`.
  * Returns {status: 'first'|'unchanged'|'changed'|'skipped', change?}
  */
-export async function observe(service, url, ts, lines, source, { serviceName } = {}) {
+export async function observe(service, url, ts, lines, source, { serviceName, forceTransition = false } = {}) {
   const slug = service.slug;
   const key = urlKey(url);
   const state = await readState(slug);
@@ -64,7 +64,7 @@ export async function observe(service, url, ts, lines, source, { serviceName } =
   const changes = await readChanges(slug);
   // The first live capture after archived history usually differs in rendering (regions, currency
   // toggles, client-side sections). Record the diff but keep it out of the main feed.
-  const transition = st.lastSource === 'wayback' && source !== 'wayback';
+  const transition = forceTransition || (st.lastSource === 'wayback' && source !== 'wayback');
   const entry = {
     id: `${key}-${ts}`,
     url, ts, date: tsToDate(ts), source, ...(transition ? { transition: true } : {}),

@@ -1995,5 +1995,44 @@
     },
     "flap": true,
     "transition": true
+  },
+  {
+    "id": "mailchimp-com-pricing-marketing-20260902203052",
+    "url": "https://mailchimp.com/pricing/marketing/",
+    "ts": "20260902203052",
+    "date": "2026-09-02",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260902202107",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mailchimp: 1 price changed (0 → $20)",
+    "pairs": [
+      {
+        "before": "Then, starts at 0 /month† per month†",
+        "after": "Then, starts at $20 /month† per month†",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "0",
+            "after": "$20"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
   }
 ]
