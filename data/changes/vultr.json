@@ -1,0 +1,3708 @@
+[
+  {
+    "id": "vultr-com-pricing-20230202143223",
+    "url": "https://www.vultr.com/pricing/",
+    "ts": "20230202143223",
+    "date": "2023-02-02",
+    "source": "wayback",
+    "prevTs": "20230103114113",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Vultr: 2 prices changed (removed “$0.03/GB Overage Rate Singapore”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$0.03/GB Overage Rate Singapore",
+      "$0.05/GB Overage Rate Bangalore, India"
+    ],
+    "totals": {
+      "removed": 31,
+      "added": 5,
+      "materialRemoved": 3,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "vultr-com-pricing-20230304021625",
+    "url": "https://www.vultr.com/pricing/",
+    "ts": "20230304021625",
+    "date": "2023-03-04",
+    "source": "wayback",
+    "prevTs": "20230202143223",
+    "kind": "price",
+    "score": 217,
+    "counts": {
+      "price": 39,
+      "limit": 50,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Vultr: 39 prices, 50 limits changed ($0.02 → $5)",
+    "pairs": [
+      {
+        "before": "$0.02 per additional GB stored",
+        "after": "$5 per additional TB stored",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.02",
+            "after": "$5"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "1 GB GPU RAM",
+      "1 vCPU",
+      "4 GB RAM",
+      "50 GB Storage",
+      "1 TB",
+      "$22 /mo",
+      "$0.032 /hr",
+      "2 GB GPU RAM",
+      "1 vCPU",
+      "8 GB RAM",
+      "50 GB Storage",
+      "1 TB",
+      "$43 /mo",
+      "$0.064 /hr",
+      "4 GB GPU RAM",
+      "2 vCPUs",
+      "16 GB RAM",
+      "80 GB Storage",
+      "2 TB",
+      "$86 /mo",
+      "$0.128 /hr",
+      "8 GB GPU RAM",
+      "3 vCPUs",
+      "32 GB RAM",
+      "170 GB Storage",
+      "3 TB",
+      "$172 /mo",
+      "$0.256 /hr",
+      "16 GB GPU RAM",
+      "6 vCPUs",
+      "64 GB RAM",
+      "350 GB Storage",
+      "6 TB",
+      "$344 /mo",
+      "$0.512 /hr",
+      "32 GB GPU RAM",
+      "12 vCPUs",
+      "128 GB RAM",
+      "700 GB Storage",
+      "10 TB"
+    ],
+    "removed": [
+      "$3,000 /month $4.464/hour",
+      "2 x 480 GB SSD",
+      "6 x 6.4 TB NVMe",
+      "64 cores / 128 threads @ 2.8GHz",
+      "1024 GB Memory",
+      "20 TB Bandwidth",
+      "$3,000 /month $4.464/hour",
+      "2 x 480 GB SSD",
+      "6 x 6.4 TB NVMe",
+      "64 cores / 128 threads @ 2.8GHz",
+      "1024 GB Memory",
+      "20 TB Bandwidth"
+    ],
+    "totals": {
+      "removed": 20,
+      "added": 159,
+      "materialRemoved": 13,
+      "materialAdded": 127
+    }
+  },
+  {
+    "id": "vultr-com-pricing-20230401000214",
+    "url": "https://www.vultr.com/pricing/",
+    "ts": "20230401000214",
+    "date": "2023-04-01",
+    "source": "wayback",
+    "prevTs": "20230304021625",
+    "kind": "limits",
+    "score": 20,
+    "counts": {
+      "price": 0,
+      "limit": 10,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Vultr: 10 limits changed (2800GB → 1400GB; 5600GB → 1400GB)",
+    "pairs": [
+      {
+        "before": "2800 GB Storage",
+        "after": "1400 GB Storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2800GB",
+            "after": "1400GB"
+          }
+        ]
+      },
+      {
+        "before": "5600 GB Storage",
+        "after": "1400 GB Storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "5600GB",
+            "after": "1400GB"
+          }
+        ]
+      },
+      {
+        "before": "10200 GB Storage",
+        "after": "3500 GB Storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10200GB",
+            "after": "3500GB"
+          }
+        ]
+      },
+      {
+        "before": "2800 GB Storage",
+        "after": "1400 GB Storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2800GB",
+            "after": "1400GB"
+          }
+        ]
+      },
+      {
+        "before": "5600 GB Storage",
+        "after": "1400 GB Storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "5600GB",
+            "after": "1400GB"
+          }
+        ]
+      },
+      {
+        "before": "10200 GB Storage",
+        "after": "3500 GB Storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10200GB",
+            "after": "3500GB"
+          }
+        ]
+      },
+      {
+        "before": "1440 GB Storage",
+        "after": "1400 GB Storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1440GB",
+            "after": "1400GB"
+          }
+        ]
+      },
+      {
+        "before": "8900 GB Storage",
+        "after": "1400 GB Storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8900GB",
+            "after": "1400GB"
+          }
+        ]
+      },
+      {
+        "before": "1440 GB Storage",
+        "after": "1400 GB Storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1440GB",
+            "after": "1400GB"
+          }
+        ]
+      },
+      {
+        "before": "8900 GB Storage",
+        "after": "1400 GB Storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8900GB",
+            "after": "1400GB"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 11,
+      "added": 11,
+      "materialRemoved": 10,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "vultr-com-pricing-20230508013425",
+    "url": "https://www.vultr.com/pricing/",
+    "ts": "20230508013425",
+    "date": "2023-05-08",
+    "source": "wayback",
+    "prevTs": "20230401000214",
+    "kind": "limits",
+    "score": 8,
+    "counts": {
+      "price": 0,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Vultr: 4 limits changed (removed “1 vCPU”; added “2 vCPUs”)",
+    "pairs": [],
+    "added": [
+      "2 vCPUs",
+      "2 vCPUs",
+      "2 vCPUs",
+      "2 vCPUs"
+    ],
+    "removed": [
+      "1 vCPU",
+      "1 vCPU",
+      "1 vCPU",
+      "1 vCPU"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 5,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "vultr-com-pricing-20230606190646",
+    "url": "https://www.vultr.com/pricing/",
+    "ts": "20230606190646",
+    "date": "2023-06-06",
+    "source": "wayback",
+    "prevTs": "20230508013425",
+    "kind": "price",
+    "score": 222,
+    "counts": {
+      "price": 36,
+      "limit": 57,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Vultr: 36 prices, 57 limits changed (removed “4 x NVIDIA A40 48GB”; added “2 GB Memory”)",
+    "pairs": [],
+    "added": [
+      "2 GB Memory",
+      "3.00 TB Bandwidth",
+      "65 GB Storage",
+      "$15 /mo",
+      "$0.022 /hr",
+      "2 vCPU",
+      "2 vCPU",
+      "2 GB Memory",
+      "3.00 TB Bandwidth",
+      "65 GB Storage",
+      "$22.50 /mo",
+      "$0.033 /hr",
+      "2 GB Memory",
+      "3.00 TB Bandwidth",
+      "65 GB Storage",
+      "$15 /mo",
+      "$0.022 /hr",
+      "2 vCPU",
+      "2 vCPU",
+      "2 GB Memory",
+      "3.00 TB Bandwidth",
+      "65 GB Storage",
+      "$22.50 /mo",
+      "$0.033 /hr",
+      "1 GB GPU RAM",
+      "1 vCPU",
+      "3 GB RAM",
+      "40 GB Storage",
+      "2 TB",
+      "$30 /mo",
+      "$0.045 /hr",
+      "2 GB GPU RAM",
+      "1 vCPU",
+      "5 GB RAM",
+      "90 GB Storage",
+      "3 TB",
+      "$55 /mo",
+      "$0.082 /hr",
+      "4 GB GPU RAM",
+      "2 vCPUs"
+    ],
+    "removed": [
+      "4 x NVIDIA A40 48GB",
+      "$5,000 /month $7.440/hour",
+      "2 x 480 GB SSD",
+      "6 x 1.6 TB NVMe",
+      "48 cores / 96 threads @ 2.8GHz",
+      "512 GB Memory",
+      "15 TB Bandwidth",
+      "4 x NVIDIA A16 64GB",
+      "$5,500 /month $8.185/hour",
+      "2 x 480 GB SSD",
+      "4 x 1.9 TB NVMe",
+      "48 cores / 96 threads @ 2.8GHz",
+      "512 GB Memory",
+      "15 TB Bandwidth",
+      "4 x NVIDIA A100 80GB",
+      "$7,000 /month $10.417/hour",
+      "2 x 480 GB SSD",
+      "6 x 1.6 TB NVMe",
+      "48 cores / 96 threads @ 2.8GHz",
+      "512 GB Memory",
+      "15 TB Bandwidth",
+      "8 x NVIDIA A100 80GB",
+      "$14,000 /month $20.833/hour",
+      "2 x 480 GB SSD",
+      "4 x 3.84 TB NVMe",
+      "48 cores / 96 threads @ 2.8GHz",
+      "1024 GB Memory",
+      "25 TB Bandwidth",
+      "4 x NVIDIA A40 48GB",
+      "$5,000 /month $7.440/hour",
+      "2 x 480 GB SSD",
+      "6 x 1.6 TB NVMe",
+      "48 cores / 96 threads @ 2.8GHz",
+      "512 GB Memory",
+      "15 TB Bandwidth",
+      "4 x NVIDIA A16 64GB",
+      "$5,500 /month $8.185/hour",
+      "2 x 480 GB SSD",
+      "4 x 1.9 TB NVMe",
+      "48 cores / 96 threads @ 2.8GHz"
+    ],
+    "totals": {
+      "removed": 86,
+      "added": 108,
+      "materialRemoved": 56,
+      "materialAdded": 94
+    }
+  },
+  {
+    "id": "vultr-com-pricing-20230717072449",
+    "url": "https://www.vultr.com/pricing/",
+    "ts": "20230717072449",
+    "date": "2023-07-17",
+    "source": "wayback",
+    "prevTs": "20230606190646",
+    "kind": "price",
+    "score": 58,
+    "counts": {
+      "price": 8,
+      "limit": 17,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Vultr: 8 prices, 17 limits changed (255GB → 256GB; 255GB → 256GB)",
+    "pairs": [
+      {
+        "before": "255 GB Memory",
+        "after": "256 GB Memory",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "255GB",
+            "after": "256GB"
+          }
+        ]
+      },
+      {
+        "before": "255 GB Memory",
+        "after": "256 GB Memory",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "255GB",
+            "after": "256GB"
+          }
+        ]
+      },
+      {
+        "before": "$1,575 /month $2.344/hour",
+        "after": "$825 /month $1.228/hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1,575",
+            "after": "$825"
+          },
+          {
+            "before": "$2.344",
+            "after": "$1.228"
+          }
+        ]
+      },
+      {
+        "before": "24 cores / 48 threads @ 3.2GHz",
+        "after": "32 cores / 64 threads @ 3.25GHz",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "24",
+            "after": "32"
+          },
+          {
+            "before": "48",
+            "after": "64"
+          }
+        ]
+      },
+      {
+        "before": "512 GB Memory",
+        "after": "768 GB Memory",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "512GB",
+            "after": "768GB"
+          }
+        ]
+      },
+      {
+        "before": "15 TB Bandwidth",
+        "after": "10 TB Bandwidth",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "15TB",
+            "after": "10TB"
+          }
+        ]
+      },
+      {
+        "before": "$1,575 /month $2.344/hour",
+        "after": "$825 /month $1.228/hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1,575",
+            "after": "$825"
+          },
+          {
+            "before": "$2.344",
+            "after": "$1.228"
+          }
+        ]
+      },
+      {
+        "before": "24 cores / 48 threads @ 3.2GHz",
+        "after": "32 cores / 64 threads @ 3.25GHz",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "24",
+            "after": "32"
+          },
+          {
+            "before": "48",
+            "after": "64"
+          }
+        ]
+      },
+      {
+        "before": "512 GB Memory",
+        "after": "768 GB Memory",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "512GB",
+            "after": "768GB"
+          }
+        ]
+      },
+      {
+        "before": "15 TB Bandwidth",
+        "after": "10 TB Bandwidth",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "15TB",
+            "after": "10TB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "2 x 1.92 TB NVMe",
+      "24 cores / 48 threads @ 2.9GHz",
+      "384 GB Memory",
+      "10 TB Bandwidth",
+      "$1,450 /month $2.158/hour",
+      "2 x 480 GB SSD",
+      "2 x 1.92 TB NVMe",
+      "24 cores / 48 threads @ 2.9GHz",
+      "384 GB Memory",
+      "10 TB Bandwidth",
+      "$1,450 /month $2.158/hour",
+      "2 x 480 GB SSD"
+    ],
+    "removed": [
+      "2 vCPU",
+      "2 GB Memory",
+      "3.00 TB Bandwidth",
+      "65 GB Storage",
+      "$22.50 /mo",
+      "$0.033 /hr",
+      "2 vCPU",
+      "2 GB Memory",
+      "3.00 TB Bandwidth",
+      "65 GB Storage",
+      "$22.50 /mo",
+      "$0.033 /hr"
+    ],
+    "totals": {
+      "removed": 26,
+      "added": 32,
+      "materialRemoved": 22,
+      "materialAdded": 22
+    }
+  },
+  {
+    "id": "vultr-com-pricing-20230809101302",
+    "url": "https://www.vultr.com/pricing/",
+    "ts": "20230809101302",
+    "date": "2023-08-09",
+    "source": "wayback",
+    "prevTs": "20230717072449",
+    "kind": "price",
+    "score": 420,
+    "counts": {
+      "price": 100,
+      "limit": 60,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Vultr: 100 prices, 60 limits changed (3500GB → 2200GB; 3500GB → 2200GB)",
+    "pairs": [
+      {
+        "before": "3500 GB Storage",
+        "after": "2200 GB Storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3500GB",
+            "after": "2200GB"
+          }
+        ]
+      },
+      {
+        "before": "3500 GB Storage",
+        "after": "2200 GB Storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3500GB",
+            "after": "2200GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "12525 GB",
+      "$9,700 /mo",
+      "$14.435 /hr",
+      "12525 GB",
+      "$16,160 /mo",
+      "$24.048 /hr",
+      "12525 GB",
+      "$22,630 /mo",
+      "$33.676 /hr",
+      "12525 GB",
+      "$9,700 /mo",
+      "$14.435 /hr",
+      "12525 GB",
+      "$16,160 /mo",
+      "$24.048 /hr",
+      "12525 GB",
+      "$22,630 /mo",
+      "$33.676 /hr",
+      "12525 GB",
+      "$9,700 /mo",
+      "$14.435 /hr",
+      "12525 GB",
+      "$16,160 /mo",
+      "$24.048 /hr",
+      "12525 GB",
+      "$22,630 /mo",
+      "$33.676 /hr",
+      "12525 GB",
+      "$9,700 /mo",
+      "$14.435 /hr",
+      "12525 GB",
+      "$16,160 /mo",
+      "$24.048 /hr",
+      "12525 GB",
+      "$22,630 /mo",
+      "$33.676 /hr"
+    ],
+    "removed": [
+      "$825 /month $1.228/hour",
+      "2 x 480 GB SSD",
+      "2 x 1.92 TB NVMe",
+      "24 cores / 48 threads @ 2.9GHz",
+      "384 GB Memory",
+      "10 TB Bandwidth",
+      "$1,450 /month $2.158/hour",
+      "2 x 480 GB SSD",
+      "4 x 6.4 TB NVMe",
+      "32 cores / 64 threads @ 3.25GHz",
+      "768 GB Memory",
+      "10 TB Bandwidth",
+      "$825 /month $1.228/hour",
+      "2 x 480 GB SSD",
+      "2 x 1.92 TB NVMe",
+      "24 cores / 48 threads @ 2.9GHz",
+      "384 GB Memory",
+      "10 TB Bandwidth",
+      "$1,450 /month $2.158/hour",
+      "2 x 480 GB SSD",
+      "4 x 6.4 TB NVMe",
+      "32 cores / 64 threads @ 3.25GHz",
+      "768 GB Memory",
+      "10 TB Bandwidth",
+      "192 GB",
+      "24 vCPUs",
+      "5760 GB",
+      "$5,550 /mo",
+      "$8.259 /hr",
+      "192 GB",
+      "24 vCPUs",
+      "5760 GB",
+      "$9,250 /mo",
+      "$13.765 /hr",
+      "192 GB",
+      "24 vCPUs",
+      "5760 GB",
+      "$12,950 /mo",
+      "$19.271 /hr",
+      "5760 GB"
+    ],
+    "totals": {
+      "removed": 214,
+      "added": 38,
+      "materialRemoved": 182,
+      "materialAdded": 38
+    }
+  },
+  {
+    "id": "vultr-com-pricing-20230914031042",
+    "url": "https://www.vultr.com/pricing/",
+    "ts": "20230914031042",
+    "date": "2023-09-14",
+    "source": "wayback",
+    "prevTs": "20230809101302",
+    "kind": "price",
+    "score": 139,
+    "counts": {
+      "price": 31,
+      "limit": 23,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Vultr: 31 prices, 23 limits changed ($1,575 → $825; 2 → 3)",
+    "pairs": [
+      {
+        "before": "$1,575 /month $2.344/hour",
+        "after": "$825 /month $1.228/hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1,575",
+            "after": "$825"
+          },
+          {
+            "before": "$2.344",
+            "after": "$1.228"
+          }
+        ]
+      },
+      {
+        "before": "32 cores / 64 threads @ 2.8GHz",
+        "after": "32 cores / 64 threads @ 3.25GHz",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2",
+            "after": "3"
+          }
+        ]
+      },
+      {
+        "before": "512 GB Memory",
+        "after": "768 GB Memory",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "512GB",
+            "after": "768GB"
+          }
+        ]
+      },
+      {
+        "before": "15 TB Bandwidth",
+        "after": "10 TB Bandwidth",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "15TB",
+            "after": "10TB"
+          }
+        ]
+      },
+      {
+        "before": "$1,575 /month $2.344/hour",
+        "after": "$825 /month $1.228/hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1,575",
+            "after": "$825"
+          },
+          {
+            "before": "$2.344",
+            "after": "$1.228"
+          }
+        ]
+      },
+      {
+        "before": "32 cores / 64 threads @ 2.8GHz",
+        "after": "32 cores / 64 threads @ 3.25GHz",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2",
+            "after": "3"
+          }
+        ]
+      },
+      {
+        "before": "512 GB Memory",
+        "after": "768 GB Memory",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "512GB",
+            "after": "768GB"
+          }
+        ]
+      },
+      {
+        "before": "15 TB Bandwidth",
+        "after": "10 TB Bandwidth",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "15TB",
+            "after": "10TB"
+          }
+        ]
+      },
+      {
+        "before": "$5 per additional TB stored",
+        "after": "$6 per additional TB stored",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$5",
+            "after": "$6"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "4 x NVIDIA A100 80GB",
+      "$7,000 /month $10.417/hour",
+      "2 x 480 GB SSD",
+      "6 x 1.6 TB NVMe",
+      "48 cores / 96 threads @ 2.8GHz",
+      "512 GB Memory",
+      "15 TB Bandwidth",
+      "8 x NVIDIA HGX H100 GPU SXM 80GB",
+      "8 x 3.84 TB NVMe",
+      "2 x 480 GB SSD",
+      "112 cores / 224 threads @ 2GHz",
+      "2048 GB Memory",
+      "15 TB Bandwidth",
+      "2 x 1.92 TB NVMe",
+      "24 cores / 48 threads @ 2.9GHz",
+      "384 GB Memory",
+      "10 TB Bandwidth",
+      "$1,450 /month $2.158/hour",
+      "2 x 480 GB SSD",
+      "4 x NVIDIA A100 80GB",
+      "$7,000 /month $10.417/hour",
+      "2 x 480 GB SSD",
+      "6 x 1.6 TB NVMe",
+      "48 cores / 96 threads @ 2.8GHz",
+      "512 GB Memory",
+      "15 TB Bandwidth",
+      "8 x NVIDIA HGX H100 GPU SXM 80GB",
+      "8 x 3.84 TB NVMe",
+      "2 x 480 GB SSD",
+      "112 cores / 224 threads @ 2GHz",
+      "2048 GB Memory",
+      "15 TB Bandwidth",
+      "2 x 1.92 TB NVMe",
+      "24 cores / 48 threads @ 2.9GHz",
+      "384 GB Memory",
+      "10 TB Bandwidth",
+      "$1,450 /month $2.158/hour",
+      "2 x 480 GB SSD"
+    ],
+    "removed": [
+      "$9,700 /mo",
+      "$14.435 /hr",
+      "$16,160 /mo",
+      "$24.048 /hr",
+      "$22,630 /mo",
+      "$33.676 /hr",
+      "$9,700 /mo",
+      "$14.435 /hr",
+      "$16,160 /mo",
+      "$24.048 /hr",
+      "$22,630 /mo",
+      "$33.676 /hr",
+      "$9,700 /mo",
+      "$14.435 /hr",
+      "$16,160 /mo",
+      "$24.048 /hr",
+      "$22,630 /mo",
+      "$33.676 /hr",
+      "$9,700 /mo",
+      "$14.435 /hr",
+      "$16,160 /mo",
+      "$24.048 /hr",
+      "$22,630 /mo",
+      "$33.676 /hr"
+    ],
+    "totals": {
+      "removed": 35,
+      "added": 79,
+      "materialRemoved": 33,
+      "materialAdded": 47
+    }
+  },
+  {
+    "id": "vultr-com-pricing-20231004140800",
+    "url": "https://www.vultr.com/pricing/",
+    "ts": "20231004140800",
+    "date": "2023-10-04",
+    "source": "wayback",
+    "prevTs": "20230914031042",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Vultr: 1 price changed (removed “Both the requester and accepter of the VPC pe…”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Both the requester and accepter of the VPC peer connection are charged $10/mo. If the requester and accepter are the same Vultr account, the cost is $20/mo."
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 0,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "vultr-com-pricing-20231108060131",
+    "url": "https://www.vultr.com/pricing/",
+    "ts": "20231108060131",
+    "date": "2023-11-08",
+    "source": "wayback",
+    "prevTs": "20231004140800",
+    "kind": "price",
+    "score": 109,
+    "counts": {
+      "price": 19,
+      "limit": 26,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Vultr: 19 prices, 26 limits changed (added “On-demand HGX H100 GPU from $7.50 per GPU per…”)",
+    "pairs": [],
+    "added": [
+      "On-demand HGX H100 GPU from $7.50 per GPU per hour.",
+      "48 GB GPU RAM",
+      "16 vCPUs",
+      "240 GB RAM",
+      "1600 GB Storage",
+      "10 TB",
+      "$1,750 /mo",
+      "$2.604 /hr",
+      "96 GB GPU RAM",
+      "32 vCPUs",
+      "480 GB RAM",
+      "2200 GB Storage",
+      "10 TB",
+      "$3,500 /mo",
+      "$5.208 /hr",
+      "192 GB GPU RAM",
+      "64 vCPUs",
+      "960 GB RAM",
+      "2600 GB Storage",
+      "15 TB",
+      "$7,000 /mo",
+      "$10.417 /hr",
+      "384 GB GPU RAM",
+      "128 vCPUs",
+      "1920 GB RAM",
+      "3400 GB Storage",
+      "25 TB",
+      "$14,000 /mo",
+      "$20.833 /hr",
+      "48 GB GPU RAM",
+      "16 vCPUs",
+      "240 GB RAM",
+      "1600 GB Storage",
+      "10 TB",
+      "$1,750 /mo",
+      "$2.604 /hr",
+      "96 GB GPU RAM",
+      "32 vCPUs",
+      "480 GB RAM",
+      "2200 GB Storage"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 102,
+      "materialRemoved": 0,
+      "materialAdded": 71
+    }
+  },
+  {
+    "id": "vultr-com-pricing-20231202190352",
+    "url": "https://www.vultr.com/pricing/",
+    "ts": "20231202190352",
+    "date": "2023-12-02",
+    "source": "wayback",
+    "prevTs": "20231108060131",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Vultr: 1 price changed ($7.50 → $2.30)",
+    "pairs": [
+      {
+        "before": "On-demand HGX H100 GPU from $7.50 per GPU per hour.",
+        "after": "HGX H100 GPU from $2.30 per GPU per hour.",
+        "confidence": 0.83,
+        "deltas": [
+          {
+            "before": "$7.50",
+            "after": "$2.30"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "vultr-com-pricing-20240106235109",
+    "url": "https://www.vultr.com/pricing/",
+    "ts": "20240106235109",
+    "date": "2024-01-06",
+    "source": "wayback",
+    "prevTs": "20231202190352",
+    "kind": "limits",
+    "score": 12,
+    "counts": {
+      "price": 0,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Vultr: 6 limits changed (96GB → 192GB; 192GB → 768GB)",
+    "pairs": [
+      {
+        "before": "96 GB GPU RAM",
+        "after": "192 GB GPU RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "96GB",
+            "after": "192GB"
+          }
+        ]
+      },
+      {
+        "before": "192 GB GPU RAM",
+        "after": "768 GB GPU RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "192GB",
+            "after": "768GB"
+          }
+        ]
+      },
+      {
+        "before": "384 GB GPU RAM",
+        "after": "3072 GB GPU RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "384GB",
+            "after": "3072GB"
+          }
+        ]
+      },
+      {
+        "before": "96 GB GPU RAM",
+        "after": "192 GB GPU RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "96GB",
+            "after": "192GB"
+          }
+        ]
+      },
+      {
+        "before": "192 GB GPU RAM",
+        "after": "768 GB GPU RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "192GB",
+            "after": "768GB"
+          }
+        ]
+      },
+      {
+        "before": "384 GB GPU RAM",
+        "after": "3072 GB GPU RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "384GB",
+            "after": "3072GB"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 8,
+      "added": 8,
+      "materialRemoved": 6,
+      "materialAdded": 6
+    },
+    "flap": true
+  },
+  {
+    "id": "vultr-com-pricing-20240203155257",
+    "url": "https://www.vultr.com/pricing/",
+    "ts": "20240203155257",
+    "date": "2024-02-03",
+    "source": "wayback",
+    "prevTs": "20240106235109",
+    "kind": "price",
+    "score": 46,
+    "counts": {
+      "price": 8,
+      "limit": 11,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Vultr: 8 prices, 11 limits changed (192GB → 96GB; 768GB → 192GB)",
+    "pairs": [
+      {
+        "before": "192 GB GPU RAM",
+        "after": "96 GB GPU RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "192GB",
+            "after": "96GB"
+          }
+        ]
+      },
+      {
+        "before": "768 GB GPU RAM",
+        "after": "192 GB GPU RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "768GB",
+            "after": "192GB"
+          }
+        ]
+      },
+      {
+        "before": "3072 GB GPU RAM",
+        "after": "384 GB GPU RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3072GB",
+            "after": "384GB"
+          }
+        ]
+      },
+      {
+        "before": "192 GB GPU RAM",
+        "after": "96 GB GPU RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "192GB",
+            "after": "96GB"
+          }
+        ]
+      },
+      {
+        "before": "768 GB GPU RAM",
+        "after": "192 GB GPU RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "768GB",
+            "after": "192GB"
+          }
+        ]
+      },
+      {
+        "before": "3072 GB GPU RAM",
+        "after": "384 GB GPU RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3072GB",
+            "after": "384GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0.033 /hr",
+      "$0.033 /hr"
+    ],
+    "removed": [
+      "1 GB GPU RAM",
+      "1 vCPU",
+      "3 GB RAM",
+      "40 GB Storage",
+      "2 TB",
+      "$30 /mo",
+      "$0.045 /hr",
+      "1 GB GPU RAM",
+      "1 vCPU",
+      "3 GB RAM",
+      "40 GB Storage",
+      "2 TB",
+      "$30 /mo",
+      "$0.045 /hr",
+      "$0.032 /hr",
+      "$0.032 /hr"
+    ],
+    "totals": {
+      "removed": 28,
+      "added": 12,
+      "materialRemoved": 24,
+      "materialAdded": 10
+    },
+    "flap": true
+  },
+  {
+    "id": "vultr-com-pricing-20240301232820",
+    "url": "https://www.vultr.com/pricing/",
+    "ts": "20240301232820",
+    "date": "2024-03-01",
+    "source": "wayback",
+    "prevTs": "20240203155257",
+    "kind": "price",
+    "score": 140,
+    "counts": {
+      "price": 27,
+      "limit": 30,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Vultr: 27 prices, 30 limits changed (2 added; 2 added)",
+    "pairs": [
+      {
+        "before": "112 cores / 224 threads @ 2GHz",
+        "after": "112 cores / 224 threads @ 2.0GHz",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "2"
+          }
+        ]
+      },
+      {
+        "before": "112 cores / 224 threads @ 2GHz",
+        "after": "112 cores / 224 threads @ 2.0GHz",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "2"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Vultr makes accelerated computing affordable and easy to use. In just minutes, provision VMs with fractional, full, or multiple NVIDIA GPUs. Hourly Price is calculated based on 672 hours per month. Contact us for additional contract duration and payment options.",
+      "96 GB GPU RAM",
+      "72 vCPUs",
+      "480 GB RAM",
+      "4800 GB Storage",
+      "25 TB",
+      "$2,913 /mo",
+      "$4.335 /hr",
+      "96 GB GPU RAM",
+      "72 vCPUs",
+      "480 GB RAM",
+      "4800 GB Storage",
+      "25 TB",
+      "$2,913 /mo",
+      "$4.335 /hr",
+      "640 GB GPU RAM",
+      "224 vCPUs",
+      "32640 GB Storage",
+      "$13,432 /mo",
+      "$19.988 /hr",
+      "640 GB GPU RAM",
+      "224 vCPUs",
+      "32640 GB Storage",
+      "$13,432 /mo",
+      "$19.988 /hr",
+      "640 GB GPU RAM",
+      "112 vCPUs",
+      "2048 GB RAM",
+      "32640 GB Storage",
+      "15 TB",
+      "$8,669 /mo",
+      "$12.900 /hr",
+      "640 GB GPU RAM",
+      "112 vCPUs",
+      "2048 GB RAM",
+      "32640 GB Storage",
+      "15 TB",
+      "$8,669 /mo",
+      "$12.900 /hr",
+      "Starting from $3.99 per hour"
+    ],
+    "removed": [
+      "HGX H100 GPU from $2.30 per GPU per hour.",
+      "$7,000 /month $10.417/hour",
+      "$14,000 /month $20.833/hour",
+      "$7,000 /month $10.417/hour",
+      "$14,000 /month $20.833/hour"
+    ],
+    "totals": {
+      "removed": 60,
+      "added": 205,
+      "materialRemoved": 37,
+      "materialAdded": 109
+    },
+    "flap": true
+  },
+  {
+    "id": "vultr-com-pricing-20240402212458",
+    "url": "https://www.vultr.com/pricing/",
+    "ts": "20240402212458",
+    "date": "2024-04-02",
+    "source": "wayback",
+    "prevTs": "20240301232820",
+    "kind": "price",
+    "score": 735,
+    "counts": {
+      "price": 134,
+      "limit": 167,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Vultr: 134 prices, 167 limits changed (2 removed; 2 removed)",
+    "pairs": [
+      {
+        "before": "112 cores / 224 threads @ 2.0GHz",
+        "after": "112 cores / 224 threads @ 2GHz",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "112 cores / 224 threads @ 2.0GHz",
+        "after": "112 cores / 224 threads @ 2GHz",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$7,000 /month $10.417/hour",
+      "$14,000 /month $20.833/hour",
+      "3.2 TB Network",
+      "$7,000 /month $10.417/hour",
+      "$14,000 /month $20.833/hour",
+      "3.2 TB Network"
+    ],
+    "removed": [
+      "Vultr makes accelerated computing affordable and easy to use. In just minutes, provision VMs with fractional, full, or multiple NVIDIA GPUs. Hourly Price is calculated based on 672 hours per month. Contact us for additional contract duration and payment options.",
+      "48 GB GPU RAM",
+      "16 vCPUs",
+      "240 GB RAM",
+      "1600 GB Storage",
+      "10 TB",
+      "$1,750 /mo",
+      "$2.604 /hr",
+      "96 GB GPU RAM",
+      "32 vCPUs",
+      "480 GB RAM",
+      "2200 GB Storage",
+      "10 TB",
+      "$3,500 /mo",
+      "$5.208 /hr",
+      "192 GB GPU RAM",
+      "64 vCPUs",
+      "960 GB RAM",
+      "2600 GB Storage",
+      "$7,000 /mo",
+      "$10.417 /hr",
+      "384 GB GPU RAM",
+      "128 vCPUs",
+      "1920 GB RAM",
+      "3400 GB Storage",
+      "25 TB",
+      "$14,000 /mo",
+      "$20.833 /hr",
+      "48 GB GPU RAM",
+      "16 vCPUs",
+      "240 GB RAM",
+      "1600 GB Storage",
+      "10 TB",
+      "$1,750 /mo",
+      "$2.604 /hr",
+      "96 GB GPU RAM",
+      "32 vCPUs",
+      "480 GB RAM",
+      "2200 GB Storage",
+      "10 TB"
+    ],
+    "totals": {
+      "removed": 616,
+      "added": 39,
+      "materialRemoved": 473,
+      "materialAdded": 22
+    },
+    "flap": true
+  },
+  {
+    "id": "vultr-com-pricing-20240502061246",
+    "url": "https://www.vultr.com/pricing/",
+    "ts": "20240502061246",
+    "date": "2024-05-02",
+    "source": "wayback",
+    "prevTs": "20240402212458",
+    "kind": "price",
+    "score": 712,
+    "counts": {
+      "price": 128,
+      "limit": 164,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Vultr: 128 prices, 164 limits changed (2 added; 2 added)",
+    "pairs": [
+      {
+        "before": "112 cores / 224 threads @ 2GHz",
+        "after": "112 cores / 224 threads @ 2.0GHz",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "2"
+          }
+        ]
+      },
+      {
+        "before": "112 cores / 224 threads @ 2GHz",
+        "after": "112 cores / 224 threads @ 2.0GHz",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "2"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "1 GPU",
+      "1 GPU",
+      "8 GPU",
+      "8 GPU",
+      "8 GPU",
+      "8 GPU",
+      "4 GB GPU RAM",
+      "1 vCPU",
+      "6 GB RAM",
+      "70 GB Storage",
+      "1 TB",
+      "$90 /mo",
+      "$0.134 /hr",
+      "8 GB GPU RAM",
+      "1 vCPU",
+      "12 GB RAM",
+      "140 GB Storage",
+      "1 TB",
+      "$180 /mo",
+      "$0.268 /hr",
+      "10 GB GPU RAM",
+      "2 vCPUs",
+      "15 GB RAM",
+      "170 GB Storage",
+      "2 TB",
+      "$250 /mo",
+      "$0.372 /hr",
+      "20 GB GPU RAM",
+      "3 vCPUs",
+      "30 GB RAM",
+      "350 GB Storage",
+      "3 TB",
+      "$450 /mo",
+      "$0.670 /hr",
+      "40 GB GPU RAM",
+      "6 vCPUs",
+      "60 GB RAM",
+      "700 GB Storage",
+      "6 TB",
+      "$875 /mo"
+    ],
+    "removed": [
+      "$7,000 /month $10.417/hour",
+      "$14,000 /month $20.833/hour",
+      "3.2 TB Network",
+      "$7,000 /month $10.417/hour",
+      "$14,000 /month $20.833/hour",
+      "3.2 TB Network"
+    ],
+    "totals": {
+      "removed": 41,
+      "added": 610,
+      "materialRemoved": 28,
+      "materialAdded": 468
+    },
+    "flap": true
+  },
+  {
+    "id": "vultr-com-pricing-20240608105141",
+    "url": "https://www.vultr.com/pricing/",
+    "ts": "20240608105141",
+    "date": "2024-06-08",
+    "source": "wayback",
+    "prevTs": "20240502061246",
+    "kind": "price",
+    "score": 30,
+    "counts": {
+      "price": 2,
+      "limit": 12,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Vultr: 2 prices, 12 limits changed ($2,900 → $2,925; 500GB → 480GB)",
+    "pairs": [
+      {
+        "before": "$2,900 per month $4.315 per hour",
+        "after": "$2,925 per month $4.353 per hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2,900",
+            "after": "$2,925"
+          },
+          {
+            "before": "$4.315",
+            "after": "$4.353"
+          }
+        ]
+      },
+      {
+        "before": "1 x 500 GB NVMe",
+        "after": "1 x 480 GB NVMe",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "500GB",
+            "after": "480GB"
+          }
+        ]
+      },
+      {
+        "before": "16 x 5.5 TB NVMe",
+        "after": "16 x 6.4 TB NVMe",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "5.5TB",
+            "after": "6.4TB"
+          }
+        ]
+      },
+      {
+        "before": "$2,900 per month $4.315 per hour",
+        "after": "$2,925 per month $4.353 per hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2,900",
+            "after": "$2,925"
+          },
+          {
+            "before": "$4.315",
+            "after": "$4.353"
+          }
+        ]
+      },
+      {
+        "before": "1 x 500 GB NVMe",
+        "after": "1 x 480 GB NVMe",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "500GB",
+            "after": "480GB"
+          }
+        ]
+      },
+      {
+        "before": "16 x 5.5 TB NVMe",
+        "after": "16 x 6.4 TB NVMe",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "5.5TB",
+            "after": "6.4TB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "2 TB RAM",
+      "2 TB RAM",
+      "2 TB RAM",
+      "1536 GB RAM",
+      "2 TB RAM",
+      "2 TB RAM",
+      "2 TB RAM",
+      "1536 GB RAM"
+    ],
+    "removed": [
+      "2048 GB Memory",
+      "1500 GB Memory",
+      "2048 GB Memory",
+      "2048 GB Memory",
+      "2048 GB Memory",
+      "2048 GB Memory",
+      "1500 GB Memory",
+      "2048 GB Memory"
+    ],
+    "totals": {
+      "removed": 38,
+      "added": 38,
+      "materialRemoved": 34,
+      "materialAdded": 34
+    }
+  },
+  {
+    "id": "vultr-com-pricing-20240801175727",
+    "url": "https://www.vultr.com/pricing/",
+    "ts": "20240801175727",
+    "date": "2024-08-01",
+    "source": "wayback",
+    "prevTs": "20240608105141",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Vultr: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 8,
+      "added": 8,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "vultr-com-pricing-20241007044241",
+    "url": "https://www.vultr.com/pricing/",
+    "ts": "20241007044241",
+    "date": "2024-10-07",
+    "source": "wayback",
+    "prevTs": "20240801175727",
+    "kind": "price",
+    "score": 602,
+    "counts": {
+      "price": 187,
+      "limit": 21,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Vultr: 187 prices, 21 limits changed (240GB → 180GB; 480GB → 375GB)",
+    "pairs": [
+      {
+        "before": "240 GB RAM",
+        "after": "180 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "240GB",
+            "after": "180GB"
+          }
+        ]
+      },
+      {
+        "before": "480 GB RAM",
+        "after": "375 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "480GB",
+            "after": "375GB"
+          }
+        ]
+      },
+      {
+        "before": "1920 GB RAM",
+        "after": "1500 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1920GB",
+            "after": "1500GB"
+          }
+        ]
+      },
+      {
+        "before": "9600 GB Storage",
+        "after": "3400 GB Storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "9600GB",
+            "after": "3400GB"
+          }
+        ]
+      },
+      {
+        "before": "240 GB RAM",
+        "after": "180 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "240GB",
+            "after": "180GB"
+          }
+        ]
+      },
+      {
+        "before": "480 GB RAM",
+        "after": "375 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "480GB",
+            "after": "375GB"
+          }
+        ]
+      },
+      {
+        "before": "1920 GB RAM",
+        "after": "1500 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1920GB",
+            "after": "1500GB"
+          }
+        ]
+      },
+      {
+        "before": "9600 GB Storage",
+        "after": "3400 GB Storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "9600GB",
+            "after": "3400GB"
+          }
+        ]
+      },
+      {
+        "before": "Starting from $3.99 per hour",
+        "after": "Starting from $3.32 per hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.99",
+            "after": "$3.32"
+          }
+        ]
+      },
+      {
+        "before": "Starting from $0.99 per hour",
+        "after": "Starting from $0.848 per hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.99",
+            "after": "$0.848"
+          }
+        ]
+      },
+      {
+        "before": "Starting from $3.99 per hour",
+        "after": "Starting from $3.32 per hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.99",
+            "after": "$3.32"
+          }
+        ]
+      },
+      {
+        "before": "Starting from $0.99 per hour",
+        "after": "Starting from $0.848 per hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.99",
+            "after": "$0.848"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "16 vCPU",
+      "58 GB Memory",
+      "9.00 TB Bandwidth",
+      "1024 GB Storage",
+      "$320 /mo",
+      "$0.476 /hr",
+      "16 vCPU",
+      "58 GB Memory",
+      "9.00 TB Bandwidth",
+      "1024 GB Storage",
+      "$320 /mo",
+      "$0.476 /hr",
+      "Delivering up to 10X higher performance for applications running terabytes of data, enabling scientists and researchers to reach unprecedented solutions for the world’s most complex problems. Hourly price is calculated based on 730 hours per month. Contact us for additional contract duration and payment options.",
+      "Designed specifically for AI and HPC workloads, featuring fourth-generation Tensor Cores and the Transformer Engine with FP8 precision for accelerated performance. Hourly price is calculated based on 730 hours per month. Contact us for additional contract duration and payment options.",
+      "$0.123 /hr",
+      "$0.247 /hr",
+      "$0.342 /hr",
+      "$0.616 /hr",
+      "$1.199 /hr",
+      "$2.397 /hr",
+      "$4.795 /hr",
+      "$9.589 /hr",
+      "$19.178 /hr",
+      "$0.123 /hr",
+      "$0.247 /hr",
+      "$0.342 /hr",
+      "$0.616 /hr",
+      "$1.199 /hr",
+      "$2.397 /hr",
+      "$4.795 /hr",
+      "$9.589 /hr",
+      "$19.178 /hr",
+      "$1.671 /hr",
+      "$3.342 /hr",
+      "192 GB GPU RAM",
+      "64 vCPUs",
+      "750 GB RAM",
+      "2600 GB Storage",
+      "15 TB",
+      "$6.685 /hr"
+    ],
+    "removed": [
+      "$2,913 /mo",
+      "$2,913 /mo",
+      "$13,432 /mo",
+      "$13,432 /mo",
+      "$8,669 /mo",
+      "$8,669 /mo",
+      "$90 /mo",
+      "$0.134 /hr",
+      "$180 /mo",
+      "$0.268 /hr",
+      "$250 /mo",
+      "$0.372 /hr",
+      "$450 /mo",
+      "$0.670 /hr",
+      "$875 /mo",
+      "$1.302 /hr",
+      "$1,750 /mo",
+      "$2.604 /hr",
+      "$3,500 /mo",
+      "$5.208 /hr",
+      "$7,000 /mo",
+      "$10.417 /hr",
+      "$14,000 /mo",
+      "$20.833 /hr",
+      "$90 /mo",
+      "$0.134 /hr",
+      "$180 /mo",
+      "$0.268 /hr",
+      "$250 /mo",
+      "$0.372 /hr",
+      "$450 /mo",
+      "$0.670 /hr",
+      "$875 /mo",
+      "$1.302 /hr",
+      "$1,750 /mo",
+      "$2.604 /hr",
+      "$3,500 /mo",
+      "$5.208 /hr",
+      "$7,000 /mo",
+      "$10.417 /hr"
+    ],
+    "totals": {
+      "removed": 150,
+      "added": 111,
+      "materialRemoved": 132,
+      "materialAdded": 100
+    }
+  },
+  {
+    "id": "vultr-com-pricing-20241115213030",
+    "url": "https://www.vultr.com/pricing/",
+    "ts": "20241115213030",
+    "date": "2024-11-15",
+    "source": "wayback",
+    "prevTs": "20241007044241",
+    "kind": "price",
+    "score": 621,
+    "counts": {
+      "price": 169,
+      "limit": 57,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Vultr: 169 prices, 57 limits changed (removed “$0.119 /hr”; added “$0.02 /hr”)",
+    "pairs": [],
+    "added": [
+      "$0.02 /hr",
+      "$0.02 /hr",
+      "$0.02 /hr",
+      "$0.02 /hr",
+      "$0.02 /hr",
+      "$0.02 /hr",
+      "$0.02 /hr",
+      "$0.02 /hr",
+      "$3.143 /hr",
+      "$3.215 /hr",
+      "$3.143 /hr",
+      "$3.215 /hr",
+      "$3.143 /hr",
+      "$3.215 /hr",
+      "$3.143 /hr",
+      "$3.215 /hr",
+      "$160 /mo",
+      "$320 /mo",
+      "$480 /mo",
+      "$0.714 /hr",
+      "$325 /mo",
+      "$0.484 /hr",
+      "$650 /mo",
+      "$0.967 /hr",
+      "$975 /mo",
+      "$1.451 /hr",
+      "$650 /mo",
+      "$0.967 /hr",
+      "$1,300 /mo",
+      "$1.935 /hr",
+      "$1,950 /mo",
+      "$2.902 /hr",
+      "$1,300 /mo",
+      "$1.935 /hr",
+      "$2,600 /mo",
+      "$3.869 /hr",
+      "$3,900 /mo",
+      "$5.804 /hr",
+      "$1,950 /mo",
+      "$2.902 /hr"
+    ],
+    "removed": [
+      "$0.119 /hr",
+      "$0.952 /hr",
+      "$0.119 /hr",
+      "$0.476 /hr",
+      "$0.952 /hr",
+      "Delivering up to 10X higher performance for applications running terabytes of data, enabling scientists and researchers to reach unprecedented solutions for the world’s most complex problems. Hourly price is calculated based on 730 hours per month. Contact us for additional contract duration and payment options.",
+      "1 GPU",
+      "96 GB GPU RAM",
+      "72 vCPUs",
+      "4800 GB Storage",
+      "$4.335 /hr",
+      "1 GPU",
+      "96 GB GPU RAM",
+      "72 vCPUs",
+      "4800 GB Storage",
+      "$4.335 /hr",
+      "Designed specifically for AI and HPC workloads, featuring fourth-generation Tensor Cores and the Transformer Engine with FP8 precision for accelerated performance. Hourly price is calculated based on 730 hours per month. Contact us for additional contract duration and payment options.",
+      "8 GPU",
+      "224 vCPUs",
+      "2048 GB RAM",
+      "32640 GB Storage",
+      "$19.988 /hr",
+      "8 GPU",
+      "224 vCPUs",
+      "2048 GB RAM",
+      "32640 GB Storage",
+      "$19.988 /hr",
+      "8 GPU",
+      "112 vCPUs",
+      "2048 GB RAM",
+      "32640 GB Storage",
+      "$12.900 /hr",
+      "8 GPU",
+      "112 vCPUs",
+      "2048 GB RAM",
+      "32640 GB Storage",
+      "$12.900 /hr",
+      "15 TB",
+      "15 TB",
+      "15 TB"
+    ],
+    "totals": {
+      "removed": 1069,
+      "added": 975,
+      "materialRemoved": 1000,
+      "materialAdded": 943
+    }
+  },
+  {
+    "id": "vultr-com-pricing-20241203012059",
+    "url": "https://www.vultr.com/pricing/",
+    "ts": "20241203012059",
+    "date": "2024-12-03",
+    "source": "wayback",
+    "prevTs": "20241115213030",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Vultr: 2 prices changed ($1.48 → $1.49; $1.48 → $1.49)",
+    "pairs": [
+      {
+        "before": "Starting from $1.48 per hour",
+        "after": "Starting from $1.49 per hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.48",
+            "after": "$1.49"
+          }
+        ]
+      },
+      {
+        "before": "Starting from $1.48 per hour",
+        "after": "Starting from $1.49 per hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.48",
+            "after": "$1.49"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "vultr-com-pricing-20250105121703",
+    "url": "https://www.vultr.com/pricing/",
+    "ts": "20250105121703",
+    "date": "2025-01-05",
+    "source": "wayback",
+    "prevTs": "20241203012059",
+    "kind": "price",
+    "score": 337,
+    "counts": {
+      "price": 81,
+      "limit": 47,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Vultr: 81 prices, 47 limits changed (4GB → 48GB; 6GB → 180GB)",
+    "pairs": [
+      {
+        "before": "4 GB GPU RAM",
+        "after": "48 GB GPU RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4GB",
+            "after": "48GB"
+          }
+        ]
+      },
+      {
+        "before": "6 GB RAM",
+        "after": "180 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "6GB",
+            "after": "180GB"
+          }
+        ]
+      },
+      {
+        "before": "70 GB Storage",
+        "after": "1200 GB Storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "70GB",
+            "after": "1200GB"
+          }
+        ]
+      },
+      {
+        "before": "1 TB Bandwidth",
+        "after": "10 TB Bandwidth",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1TB",
+            "after": "10TB"
+          }
+        ]
+      },
+      {
+        "before": "8 GB GPU RAM",
+        "after": "96 GB GPU RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8GB",
+            "after": "96GB"
+          }
+        ]
+      },
+      {
+        "before": "12 GB RAM",
+        "after": "375 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "12GB",
+            "after": "375GB"
+          }
+        ]
+      },
+      {
+        "before": "140 GB Storage",
+        "after": "2200 GB Storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "140GB",
+            "after": "2200GB"
+          }
+        ]
+      },
+      {
+        "before": "1 TB Bandwidth",
+        "after": "10 TB Bandwidth",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1TB",
+            "after": "10TB"
+          }
+        ]
+      },
+      {
+        "before": "2 x 240 GB SSD",
+        "after": "12 x 240 GB SSD",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2",
+            "after": "12"
+          }
+        ]
+      },
+      {
+        "before": "$120 per month $0.179 per hour",
+        "after": "$0.179 per hour",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$120",
+            "after": "$0.179"
+          },
+          {
+            "before": "$0.179",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$185 per month $0.275 per hour",
+        "after": "$0.275 per hour",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$185",
+            "after": "$0.275"
+          },
+          {
+            "before": "$0.275",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$350 per month $0.521 per hour",
+        "after": "$0.521 per hour",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$350",
+            "after": "$0.521"
+          },
+          {
+            "before": "$0.521",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$350 per month $0.521 per hour",
+        "after": "$0.521 per hour",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$350",
+            "after": "$0.521"
+          },
+          {
+            "before": "$0.521",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$725 per month $1.079 per hour",
+        "after": "$1.079 per hour",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$725",
+            "after": "$1.079"
+          },
+          {
+            "before": "$1.079",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$825 per month $1.228 per hour",
+        "after": "$1.228 per hour",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$825",
+            "after": "$1.228"
+          },
+          {
+            "before": "$1.228",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$1,450 per month $2.158 per hour",
+        "after": "$2.158 per hour",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$1,450",
+            "after": "$2.158"
+          },
+          {
+            "before": "$2.158",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$2,925 per month $4.353 per hour",
+        "after": "$4.353 per hour",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$2,925",
+            "after": "$4.353"
+          },
+          {
+            "before": "$4.353",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$5,500 per month $8.185 per hour",
+        "after": "$8.185 per hour",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$5,500",
+            "after": "$8.185"
+          },
+          {
+            "before": "$8.185",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "2 x 240 GB SSD",
+        "after": "12 x 240 GB SSD",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2",
+            "after": "12"
+          }
+        ]
+      },
+      {
+        "before": "$120 per month $0.179 per hour",
+        "after": "$0.179 per hour",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$120",
+            "after": "$0.179"
+          },
+          {
+            "before": "$0.179",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$185 per month $0.275 per hour",
+        "after": "$0.275 per hour",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$185",
+            "after": "$0.275"
+          },
+          {
+            "before": "$0.275",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$350 per month $0.521 per hour",
+        "after": "$0.521 per hour",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$350",
+            "after": "$0.521"
+          },
+          {
+            "before": "$0.521",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$350 per month $0.521 per hour",
+        "after": "$0.521 per hour",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$350",
+            "after": "$0.521"
+          },
+          {
+            "before": "$0.521",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$725 per month $1.079 per hour",
+        "after": "$1.079 per hour",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$725",
+            "after": "$1.079"
+          },
+          {
+            "before": "$1.079",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$825 per month $1.228 per hour",
+        "after": "$1.228 per hour",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$825",
+            "after": "$1.228"
+          },
+          {
+            "before": "$1.228",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$1,450 per month $2.158 per hour",
+        "after": "$2.158 per hour",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$1,450",
+            "after": "$2.158"
+          },
+          {
+            "before": "$2.158",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$2,925 per month $4.353 per hour",
+        "after": "$4.353 per hour",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$2,925",
+            "after": "$4.353"
+          },
+          {
+            "before": "$4.353",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$5,500 per month $8.185 per hour",
+        "after": "$8.185 per hour",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$5,500",
+            "after": "$8.185"
+          },
+          {
+            "before": "$8.185",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "4 GB GPU RAM",
+        "after": "1536 GB GPU RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4GB",
+            "after": "1536GB"
+          }
+        ]
+      },
+      {
+        "before": "8 GB GPU RAM",
+        "after": "1536 GB GPU RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8GB",
+            "after": "1536GB"
+          }
+        ]
+      },
+      {
+        "before": "48 GB GPU RAM",
+        "after": "640 GB GPU RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "48GB",
+            "after": "640GB"
+          }
+        ]
+      },
+      {
+        "before": "96 GB GPU RAM",
+        "after": "640 GB GPU RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "96GB",
+            "after": "640GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0.11 /hr",
+      "$0.219 /hr",
+      "$0.438 /hr",
+      "$0.877 /hr",
+      "$0.11 /hr",
+      "$0.219 /hr",
+      "$0.438 /hr",
+      "$0.877 /hr",
+      "The prices shown in the table below reflect on-demand pricing. 36-month prepaid pricing for the AMD MI300X starts at $1.841/GPU/hr.",
+      "256 vCPUs",
+      "2048 GB RAM",
+      "8940 GB Storage",
+      "$2.190 /GPU/hr",
+      "256 vCPUs",
+      "2048 GB RAM",
+      "8940 GB Storage",
+      "$2.190 /GPU/hr",
+      "Designed specifically for AI and HPC workloads, featuring fourth-generation Tensor Cores and the Transformer Engine with FP8 precision for accelerated performance. Hourly price is calculated based on 730 hours per month. Contact us for additional contract duration and payment options.",
+      "224 vCPUs",
+      "2048 GB RAM",
+      "32640 GB Storage",
+      "$2.990 /GPU/hr",
+      "224 vCPUs",
+      "2048 GB RAM",
+      "32640 GB Storage",
+      "$2.990 /GPU/hr",
+      "Breakthrough multi-workload acceleration for large language model (LLM) inference and training, graphics, and video applications based on the latest Ada Lovelace architecture. The prices shown in the table below reflect on-demand pricing. 36-month prepaid pricing for the NVIDIA L40S starts at $0.848/GPU/hr.",
+      "15 TB Bandwidth",
+      "$6.684 /hr",
+      "$13.368 /hr",
+      "15 TB Bandwidth",
+      "$6.684 /hr",
+      "$13.368 /hr",
+      "Delivering up to 10X higher performance for applications running terabytes of data, enabling scientists and researchers to reach unprecedented solutions for the world’s most complex problems. Hourly price is calculated based on 730 hours per month. The prices shown in the table below reflect on-demand pricing.",
+      "96 GB GPU RAM",
+      "480 GB RAM",
+      "4800 GB Storage",
+      "15 TB Bandwidth",
+      "$2.900 /GPU/hr",
+      "96 GB GPU RAM"
+    ],
+    "removed": [
+      "$0.02 /hr",
+      "$0.02 /hr",
+      "$0.02 /hr",
+      "$0.02 /hr",
+      "$0.02 /hr",
+      "$0.02 /hr",
+      "$0.02 /hr",
+      "$0.02 /hr",
+      "1 vCPU",
+      "$0.123 /hr",
+      "1 vCPU",
+      "$0.247 /hr",
+      "1 vCPU",
+      "6 GB RAM",
+      "70 GB Storage",
+      "1 TB Bandwidth",
+      "$0.123 /hr",
+      "1 vCPU",
+      "12 GB RAM",
+      "140 GB Storage",
+      "1 TB Bandwidth",
+      "$0.247 /hr",
+      "$6.685 /hr",
+      "$13.37 /hr",
+      "180 GB RAM",
+      "1200 GB Storage",
+      "10 TB Bandwidth",
+      "375 GB RAM",
+      "2200 GB Storage",
+      "10 TB Bandwidth",
+      "$6.685 /hr",
+      "$13.37 /hr",
+      "Starting from $3.32 per hour",
+      "Starting from $3.32 per hour"
+    ],
+    "totals": {
+      "removed": 191,
+      "added": 352,
+      "materialRemoved": 128,
+      "materialAdded": 189
+    }
+  },
+  {
+    "id": "vultr-com-pricing-20250302100031",
+    "url": "https://www.vultr.com/pricing/",
+    "ts": "20250302100031",
+    "date": "2025-03-02",
+    "source": "wayback",
+    "prevTs": "20250105121703",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Vultr: 2 limits changed (12 → 2; 12 → 2)",
+    "pairs": [
+      {
+        "before": "12 x 240 GB SSD",
+        "after": "2 x 240 GB SSD",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "12",
+            "after": "2"
+          }
+        ]
+      },
+      {
+        "before": "12 x 240 GB SSD",
+        "after": "2 x 240 GB SSD",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "12",
+            "after": "2"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 12,
+      "added": 10,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "vultr-com-pricing-20250401225823",
+    "url": "https://www.vultr.com/pricing/",
+    "ts": "20250401225823",
+    "date": "2025-04-01",
+    "source": "wayback",
+    "prevTs": "20250302100031",
+    "kind": "price",
+    "score": 8,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Vultr: 2 prices, 1 limit changed ($6 → $18)",
+    "pairs": [
+      {
+        "before": "$6 per additional TB stored",
+        "after": "$ 18 per additional TB stored",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$6",
+            "after": "$18"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$18 /month",
+      "1 TB of Storage",
+      "1 TB of Bandwidth"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 8,
+      "added": 10,
+      "materialRemoved": 2,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "vultr-com-pricing-20250501173326",
+    "url": "https://www.vultr.com/pricing/",
+    "ts": "20250501173326",
+    "date": "2025-05-01",
+    "source": "wayback",
+    "prevTs": "20250401225823",
+    "kind": "price",
+    "score": 104,
+    "counts": {
+      "price": 18,
+      "limit": 25,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Vultr: 18 prices, 25 limits changed (256 → 248; 2048GB → 2154GB)",
+    "pairs": [
+      {
+        "before": "256 vCPUs",
+        "after": "248 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "256",
+            "after": "248"
+          }
+        ]
+      },
+      {
+        "before": "2048 GB RAM",
+        "after": "2154 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2048GB",
+            "after": "2154GB"
+          }
+        ]
+      },
+      {
+        "before": "8940 GB Storage",
+        "after": "13000 GB Storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8940GB",
+            "after": "13000GB"
+          }
+        ]
+      },
+      {
+        "before": "$2.190 /GPU/hr",
+        "after": "$3.990 /GPU/hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.190",
+            "after": "$3.990"
+          }
+        ]
+      },
+      {
+        "before": "256 vCPUs",
+        "after": "248 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "256",
+            "after": "248"
+          }
+        ]
+      },
+      {
+        "before": "2048 GB RAM",
+        "after": "2154 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2048GB",
+            "after": "2154GB"
+          }
+        ]
+      },
+      {
+        "before": "8940 GB Storage",
+        "after": "13000 GB Storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8940GB",
+            "after": "13000GB"
+          }
+        ]
+      },
+      {
+        "before": "$2.190 /GPU/hr",
+        "after": "$3.990 /GPU/hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.190",
+            "after": "$3.990"
+          }
+        ]
+      },
+      {
+        "before": "$2.900 /GPU/hr",
+        "after": "$2.990 /GPU/hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.900",
+            "after": "$2.990"
+          }
+        ]
+      },
+      {
+        "before": "$2.900 /GPU/hr",
+        "after": "$2.990 /GPU/hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.900",
+            "after": "$2.990"
+          }
+        ]
+      },
+      {
+        "before": "$1.841 /GPU/hour",
+        "after": "$1.850 /GPU/hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.841",
+            "after": "$1.850"
+          }
+        ]
+      },
+      {
+        "before": "1 x 3.84 TB NVMe",
+        "after": "2 x 1.92 TB NVMe",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1",
+            "after": "2"
+          },
+          {
+            "before": "3.84TB",
+            "after": "1.92TB"
+          }
+        ]
+      },
+      {
+        "before": "$2.990 /GPU/hour",
+        "after": "$2.890 /GPU/hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.990",
+            "after": "$2.890"
+          }
+        ]
+      },
+      {
+        "before": "$1.841 /GPU/hour",
+        "after": "$1.850 /GPU/hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.841",
+            "after": "$1.850"
+          }
+        ]
+      },
+      {
+        "before": "1 x 3.84 TB NVMe",
+        "after": "2 x 1.92 TB NVMe",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1",
+            "after": "2"
+          },
+          {
+            "before": "3.84TB",
+            "after": "1.92TB"
+          }
+        ]
+      },
+      {
+        "before": "$2.990 /GPU/hour",
+        "after": "$2.890 /GPU/hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.990",
+            "after": "$2.890"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Setting new standards in HPC, AI training, and deployments with inference-optimized acceleration and efficiency. The prices shown in the table below reflect on-demand pricing. 36-month prepaid pricing for AMD MI325X GPUs starts at $2.000/GPU/hr.",
+      "2048 GB GPU RAM",
+      "248 vCPUs",
+      "2872 GB RAM",
+      "13000 GB Storage",
+      "15 TB Bandwidth",
+      "$4.615 /GPU/hr",
+      "2048 GB GPU RAM",
+      "248 vCPUs",
+      "2872 GB RAM",
+      "13000 GB Storage",
+      "15 TB Bandwidth",
+      "$4.615 /GPU/hr",
+      "Delivering powerful and efficient AI and HPC deployments with exceptional performance and inference-optimized acceleration. The prices shown in the table below reflect on-demand pricing. 24-month prepaid pricing for AMD MI300X GPUs starts at $1.850/GPU/hr.",
+      "8 x AMD Instinct™ MI325X 256 GB",
+      "2 x 960 GB NVMe",
+      "8 x 3.84 TB NVMe",
+      "128 cores / 256 threads @ 3.3 GHz",
+      "3 TB RAM",
+      "15 TB Bandwidth",
+      "$2.000 /GPU/hour",
+      "8 x NVIDIA B200 192 GB",
+      "8 x 3.84 TB NVMe",
+      "128 cores / 256 threads @ 3.3 GHz",
+      "3 TB RAM",
+      "1 x 3.84 TB NVMe",
+      "15 TB Bandwidth",
+      "$2.990 /GPU/hour",
+      "8 x AMD Instinct™ MI325X 256 GB",
+      "2 x 960 GB NVMe",
+      "8 x 3.84 TB NVMe",
+      "128 cores / 256 threads @ 3.3 GHz",
+      "3 TB RAM",
+      "15 TB Bandwidth",
+      "$2.000 /GPU/hour",
+      "8 x NVIDIA B200 192 GB",
+      "8 x 3.84 TB NVMe",
+      "128 cores / 256 threads @ 3.3 GHz",
+      "3 TB RAM",
+      "1 x 3.84 TB NVMe"
+    ],
+    "removed": [
+      "The prices shown in the table below reflect on-demand pricing. 36-month prepaid pricing for the AMD MI300X starts at $1.841/GPU/hr."
+    ],
+    "totals": {
+      "removed": 37,
+      "added": 124,
+      "materialRemoved": 25,
+      "materialAdded": 67
+    }
+  },
+  {
+    "id": "vultr-com-pricing-20250608113440",
+    "url": "https://www.vultr.com/pricing/",
+    "ts": "20250608113440",
+    "date": "2025-06-08",
+    "source": "wayback",
+    "prevTs": "20250501173326",
+    "kind": "price",
+    "score": 87,
+    "counts": {
+      "price": 9,
+      "limit": 29,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Vultr: 9 prices, 29 limits, 1 plan name changed (10TB → 5TB; 10TB → 5TB)",
+    "pairs": [
+      {
+        "before": "10 TB Bandwidth",
+        "after": "5 TB Bandwidth",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10TB",
+            "after": "5TB"
+          }
+        ]
+      },
+      {
+        "before": "10 TB Bandwidth",
+        "after": "5 TB Bandwidth",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10TB",
+            "after": "5TB"
+          }
+        ]
+      },
+      {
+        "before": "128 cores / 256 threads @ 3.3 GHz",
+        "after": "4 cores / 8 threads @ 3.8 GHz",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "128",
+            "after": "4"
+          },
+          {
+            "before": "256",
+            "after": "8"
+          },
+          {
+            "before": "3.3",
+            "after": "3.8"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "6 cores / 12 threads @ 4.0 GHz",
+      "$0.439 per hour",
+      "2 x 960 GB NVMe",
+      "6 cores / 12 threads @ 3.9 GHz",
+      "32 GB RAM",
+      "5 TB Bandwidth",
+      "$295 /month",
+      "8 cores / 16 threads @ 3.2 GHz",
+      "8 cores / 16 threads @ 3.7 GHz",
+      "$0.588 per hour",
+      "2 x 1.9 TB NVMe",
+      "8 cores / 16 threads @ 3.8 GHz",
+      "128 GB RAM",
+      "10 TB Bandwidth",
+      "$395 /month",
+      "24 cores / 48 threads @ 2.85 GHz",
+      "24 cores / 48 threads @ 2.9 GHz",
+      "32 cores / 64 threads @ 3.25 GHz",
+      "64 cores / 128 threads @ 3.2 GHz",
+      "128 cores / 256 threads @ 2.0 GHz",
+      "128 cores / 256 threads @ 3.3 GHz",
+      "4 cores / 8 threads @ 3.8 GHz",
+      "6 cores / 12 threads @ 4.0 GHz",
+      "$0.439 per hour",
+      "2 x 960 GB NVMe",
+      "6 cores / 12 threads @ 3.9 GHz",
+      "32 GB RAM",
+      "5 TB Bandwidth",
+      "$295 /month",
+      "8 cores / 16 threads @ 3.2 GHz",
+      "8 cores / 16 threads @ 3.7 GHz",
+      "$0.588 per hour",
+      "2 x 1.9 TB NVMe",
+      "8 cores / 16 threads @ 3.8 GHz",
+      "128 GB RAM",
+      "10 TB Bandwidth",
+      "$395 /month",
+      "24 cores / 48 threads @ 2.85 GHz",
+      "24 cores / 48 threads @ 2.9 GHz",
+      "32 cores / 64 threads @ 3.25 GHz"
+    ],
+    "removed": [
+      "4 cores / 8 threads @ 3.8GHz",
+      "6 cores / 12 threads @ 4GHz",
+      "8 cores / 16 threads @ 3.7GHz",
+      "8 cores / 16 threads @ 3.2GHz",
+      "24 cores / 48 threads @ 2.85GHz",
+      "24 cores / 48 threads @ 2.9GHz",
+      "32 cores / 64 threads @ 3.25GHz",
+      "64 cores / 128 threads @ 3.2GHz",
+      "128 cores / 256 threads @ 2GHz",
+      "4 cores / 8 threads @ 3.8GHz",
+      "6 cores / 12 threads @ 4GHz",
+      "8 cores / 16 threads @ 3.7GHz",
+      "8 cores / 16 threads @ 3.2GHz",
+      "24 cores / 48 threads @ 2.85GHz",
+      "24 cores / 48 threads @ 2.9GHz",
+      "32 cores / 64 threads @ 3.25GHz",
+      "64 cores / 128 threads @ 3.2GHz",
+      "128 cores / 256 threads @ 2GHz"
+    ],
+    "totals": {
+      "removed": 48,
+      "added": 102,
+      "materialRemoved": 34,
+      "materialAdded": 60
+    }
+  },
+  {
+    "id": "vultr-com-pricing-20250803045214",
+    "url": "https://www.vultr.com/pricing/",
+    "ts": "20250803045214",
+    "date": "2025-08-03",
+    "source": "wayback",
+    "prevTs": "20250608113440",
+    "kind": "price",
+    "score": 30,
+    "counts": {
+      "price": 6,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Vultr: 6 prices, 6 limits changed (36 added)",
+    "pairs": [
+      {
+        "before": "Designed specifically for AI and HPC workloads, featuring fourth-generation Tensor Cores and the Transformer Engine with FP8 precision for accelerated performance. Hourly price is calculated based on 730 hours per month. Contact us for additional contract duration and payment options.",
+        "after": "Designed specifically for AI and HPC workloads, featuring fourth-generation Tensor Cores and the Transformer Engine with FP8 precision for accelerated performance. Hourly price is calculated based on 730 hours per month. 36-month prepaid pricing for the NVIDIA HGX H100 starts at $2.300/GPU/hr. Contact us",
+        "confidence": 0.71,
+        "deltas": [
+          {
+            "before": null,
+            "after": "36"
+          },
+          {
+            "before": null,
+            "after": "100"
+          },
+          {
+            "before": null,
+            "after": "$2.300"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "1536 GB GPU RAM",
+      "248 vCPUs",
+      "2826 GB RAM",
+      "14304 GB Storage",
+      "15 TB Bandwidth",
+      "$2.890 /hr",
+      "1536 GB GPU RAM",
+      "248 vCPUs",
+      "2826 GB RAM",
+      "14304 GB Storage",
+      "15 TB Bandwidth",
+      "$2.890 /hr",
+      "10 GB of Storage"
+    ],
+    "removed": [
+      "40 GB",
+      "$1/40GB",
+      "$ 1.00 /month",
+      "$1/10GB"
+    ],
+    "totals": {
+      "removed": 19,
+      "added": 43,
+      "materialRemoved": 7,
+      "materialAdded": 16
+    }
+  },
+  {
+    "id": "vultr-com-pricing-20260902202107",
+    "url": "https://www.vultr.com/pricing/",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "browser",
+    "prevTs": "20250803045214",
+    "kind": "price",
+    "score": 1170,
+    "counts": {
+      "price": 210,
+      "limit": 270,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Vultr: 210 prices, 270 limits changed ($4.615 → $2.000; $4.615 → $2.000)",
+    "pairs": [
+      {
+        "before": "$4.615 /GPU/hr",
+        "after": "$2.000 /GPU/hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$4.615",
+            "after": "$2.000"
+          }
+        ]
+      },
+      {
+        "before": "$4.615 /GPU/hr",
+        "after": "$2.000 /GPU/hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$4.615",
+            "after": "$2.000"
+          }
+        ]
+      },
+      {
+        "before": "$3.990 /GPU/hr",
+        "after": "$1.850 /GPU/hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.990",
+            "after": "$1.850"
+          }
+        ]
+      },
+      {
+        "before": "$3.990 /GPU/hr",
+        "after": "$1.850 /GPU/hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.990",
+            "after": "$1.850"
+          }
+        ]
+      },
+      {
+        "before": "224 vCPUs",
+        "after": "216 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "224",
+            "after": "216"
+          }
+        ]
+      },
+      {
+        "before": "2048 GB RAM",
+        "after": "1914 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2048GB",
+            "after": "1914GB"
+          }
+        ]
+      },
+      {
+        "before": "$2.990 /GPU/hr",
+        "after": "$2.300 /GPU/hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.990",
+            "after": "$2.300"
+          }
+        ]
+      },
+      {
+        "before": "224 vCPUs",
+        "after": "216 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "224",
+            "after": "216"
+          }
+        ]
+      },
+      {
+        "before": "2048 GB RAM",
+        "after": "1914 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2048GB",
+            "after": "1914GB"
+          }
+        ]
+      },
+      {
+        "before": "$2.990 /GPU/hr",
+        "after": "$2.300 /GPU/hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.990",
+            "after": "$2.300"
+          }
+        ]
+      },
+      {
+        "before": "$2.990 /GPU/hr",
+        "after": "$1.990 /GPU/hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.990",
+            "after": "$1.990"
+          }
+        ]
+      },
+      {
+        "before": "$2.990 /GPU/hr",
+        "after": "$1.990 /GPU/hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.990",
+            "after": "$1.990"
+          }
+        ]
+      },
+      {
+        "before": "$2.890 /GPU/hour",
+        "after": "$3.500 /GPU/hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.890",
+            "after": "$3.500"
+          }
+        ]
+      },
+      {
+        "before": "8 x AMD Instinct™ MI325X 256 GB",
+        "after": "8 x AMD MI355X 288 GB",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "256GB",
+            "after": "288GB"
+          }
+        ]
+      },
+      {
+        "before": "8 x 3.84 TB NVMe",
+        "after": "8 x 7.68 TB NVMe",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3.84TB",
+            "after": "7.68TB"
+          }
+        ]
+      },
+      {
+        "before": "$2.000 /GPU/hour",
+        "after": "$2.650 /GPU/hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.000",
+            "after": "$2.650"
+          }
+        ]
+      },
+      {
+        "before": "$2.990 /GPU/hour",
+        "after": "$1.990 /GPU/hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.990",
+            "after": "$1.990"
+          }
+        ]
+      },
+      {
+        "before": "4 x 3.84 TB NVMe",
+        "after": "8 x 3.84 TB NVMe",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4",
+            "after": "8"
+          }
+        ]
+      },
+      {
+        "before": "$0.848 /GPU/hour",
+        "after": "$1.750 /GPU/hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.848",
+            "after": "$1.750"
+          }
+        ]
+      },
+      {
+        "before": "8 cores / 16 threads @ 3.2 GHz",
+        "after": "8 cores / 16 threads @ 3.7 GHz",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3.2",
+            "after": "3.7"
+          }
+        ]
+      },
+      {
+        "before": "8 cores / 16 threads @ 3.7 GHz",
+        "after": "8 cores / 16 threads @ 3.2 GHz",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3.7",
+            "after": "3.2"
+          }
+        ]
+      },
+      {
+        "before": "$2.890 /GPU/hour",
+        "after": "$3.500 /GPU/hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.890",
+            "after": "$3.500"
+          }
+        ]
+      },
+      {
+        "before": "8 x AMD Instinct™ MI325X 256 GB",
+        "after": "8 x AMD MI355X 288 GB",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "256GB",
+            "after": "288GB"
+          }
+        ]
+      },
+      {
+        "before": "8 x 3.84 TB NVMe",
+        "after": "8 x 7.68 TB NVMe",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3.84TB",
+            "after": "7.68TB"
+          }
+        ]
+      },
+      {
+        "before": "$2.000 /GPU/hour",
+        "after": "$2.650 /GPU/hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.000",
+            "after": "$2.650"
+          }
+        ]
+      },
+      {
+        "before": "$2.990 /GPU/hour",
+        "after": "$1.990 /GPU/hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.990",
+            "after": "$1.990"
+          }
+        ]
+      },
+      {
+        "before": "4 x 3.84 TB NVMe",
+        "after": "8 x 3.84 TB NVMe",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4",
+            "after": "8"
+          }
+        ]
+      },
+      {
+        "before": "$0.848 /GPU/hour",
+        "after": "$1.750 /GPU/hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.848",
+            "after": "$1.750"
+          }
+        ]
+      },
+      {
+        "before": "8 cores / 16 threads @ 3.2 GHz",
+        "after": "8 cores / 16 threads @ 3.7 GHz",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3.2",
+            "after": "3.7"
+          }
+        ]
+      },
+      {
+        "before": "8 cores / 16 threads @ 3.7 GHz",
+        "after": "8 cores / 16 threads @ 3.2 GHz",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3.7",
+            "after": "3.2"
+          }
+        ]
+      },
+      {
+        "before": "10 GB GPU RAM",
+        "after": "1728 GB GPU RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10GB",
+            "after": "1728GB"
+          }
+        ]
+      },
+      {
+        "before": "20 GB GPU RAM",
+        "after": "1728 GB GPU RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "20GB",
+            "after": "1728GB"
+          }
+        ]
+      },
+      {
+        "before": "40 GB GPU RAM",
+        "after": "2304 GB GPU RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "40GB",
+            "after": "2304GB"
+          }
+        ]
+      },
+      {
+        "before": "160 GB GPU RAM",
+        "after": "2304 GB GPU RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "160GB",
+            "after": "2304GB"
+          }
+        ]
+      },
+      {
+        "before": "320 GB GPU RAM",
+        "after": "1116 GB GPU RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "320GB",
+            "after": "1116GB"
+          }
+        ]
+      },
+      {
+        "before": "10 GB GPU RAM",
+        "after": "1116 GB GPU RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10GB",
+            "after": "1116GB"
+          }
+        ]
+      },
+      {
+        "before": "20 GB GPU RAM",
+        "after": "2232 GB GPU RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "20GB",
+            "after": "2232GB"
+          }
+        ]
+      },
+      {
+        "before": "40 GB GPU RAM",
+        "after": "2232 GB GPU RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "40GB",
+            "after": "2232GB"
+          }
+        ]
+      },
+      {
+        "before": "128 cores / 256 threads @ 2.45 GHz",
+        "after": "112 cores / 224 threads @ 2.0 GHz",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "128",
+            "after": "112"
+          },
+          {
+            "before": "256",
+            "after": "224"
+          },
+          {
+            "before": "2.45",
+            "after": "2.0"
+          }
+        ]
+      },
+      {
+        "before": "128 cores / 256 threads @ 2.45 GHz",
+        "after": "128 cores / 256 threads @ 3.3 GHz",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2.45",
+            "after": "3.3"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0.060 /hr",
+      "$0.120 /hr",
+      "7.00 TB Bandwidth",
+      "$0.240 /hr",
+      "16 vCPUs",
+      "64 GB Memory",
+      "$0.480 /hr",
+      "32 vCPUs",
+      "128 GB Memory",
+      "9.00 TB Bandwidth",
+      "$0.960 /hr",
+      "192 GB Memory",
+      "9.00 TB Bandwidth",
+      "$1.440 /hr",
+      "64 vCPUs",
+      "256 GB Memory",
+      "$1.920 /hr",
+      "96 vCPUs",
+      "384 GB Memory",
+      "$2.880 /hr",
+      "192 vCPUs",
+      "768 GB Memory",
+      "$5.760 /hr",
+      "120 GB NVMe Storage",
+      "$0.076 /hr",
+      "$0.153 /hr",
+      "7.00 TB Bandwidth",
+      "$0.306 /hr",
+      "16 vCPUs",
+      "64 GB Memory",
+      "960 GB NVMe Storage",
+      "$0.612 /hr",
+      "32 vCPUs",
+      "128 GB Memory",
+      "9.00 TB Bandwidth",
+      "1920 GB NVMe Storage",
+      "$1.233 /hr",
+      "192 GB Memory",
+      "9.00 TB Bandwidth",
+      "2880 GB NVMe Storage"
+    ],
+    "removed": [
+      "Setting new standards in HPC, AI training, and deployments with inference-optimized acceleration and efficiency. The prices shown in the table below reflect on-demand pricing. 36-month prepaid pricing for AMD MI325X GPUs starts at $2.000/GPU/hr.",
+      "13000 GB Storage",
+      "13000 GB Storage",
+      "Delivering powerful and efficient AI and HPC deployments with exceptional performance and inference-optimized acceleration. The prices shown in the table below reflect on-demand pricing. 24-month prepaid pricing for AMD MI300X GPUs starts at $1.850/GPU/hr.",
+      "13000 GB Storage",
+      "13000 GB Storage",
+      "14304 GB Storage",
+      "$2.890 /hr",
+      "14304 GB Storage",
+      "$2.890 /hr",
+      "Designed specifically for AI and HPC workloads, featuring fourth-generation Tensor Cores and the Transformer Engine with FP8 precision for accelerated performance. Hourly price is calculated based on 730 hours per month. 36-month prepaid pricing for the NVIDIA HGX H100 starts at $2.300/GPU/hr. Contact us",
+      "32640 GB Storage",
+      "32640 GB Storage",
+      "Breakthrough multi-workload acceleration for large language model (LLM) inference and training, graphics, and video applications based on the latest Ada Lovelace architecture. The prices shown in the table below reflect on-demand pricing. 36-month prepaid pricing for the NVIDIA L40S starts at $0.848/GPU/hr.",
+      "1200 GB Storage",
+      "2200 GB Storage",
+      "$3.342 /hr",
+      "2600 GB Storage",
+      "$6.684 /hr",
+      "3400 GB Storage",
+      "$13.368 /hr",
+      "1200 GB Storage",
+      "2200 GB Storage",
+      "$3.342 /hr",
+      "2600 GB Storage",
+      "$6.684 /hr",
+      "3400 GB Storage",
+      "$13.368 /hr",
+      "Delivering up to 10X higher performance for applications running terabytes of data, enabling scientists and researchers to reach unprecedented solutions for the world’s most complex problems. Hourly price is calculated based on 730 hours per month. The prices shown in the table below reflect on-demand pricing.",
+      "4800 GB Storage",
+      "4800 GB Storage",
+      "32640 GB Storage",
+      "32640 GB Storage",
+      "Delivering unprecedented acceleration and powering the world's highest-performing AI, data analytics, and HPC workloads. The prices shown in the table below reflect on-demand pricing. 36-month prepaid pricing for the NVIDIA A100 PCIe starts at $1.290/GPU/hr.",
+      "15 GB RAM",
+      "170 GB Storage",
+      "$0.342 /hr",
+      "3 vCPUs",
+      "30 GB RAM",
+      "350 GB Storage"
+    ],
+    "totals": {
+      "removed": 454,
+      "added": 969,
+      "materialRemoved": 369,
+      "materialAdded": 693
+    },
+    "transition": true
+  }
+]

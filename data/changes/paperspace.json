@@ -1,0 +1,278 @@
+[
+  {
+    "id": "paperspace-com-pricing-20230918173557",
+    "url": "https://www.paperspace.com/pricing",
+    "ts": "20230918173557",
+    "date": "2023-09-18",
+    "source": "wayback",
+    "prevTs": "20230203064304",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Paperspace: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 26,
+      "added": 40,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "paperspace-com-pricing-20240115131920",
+    "url": "https://www.paperspace.com/pricing",
+    "ts": "20240115131920",
+    "date": "2024-01-15",
+    "source": "wayback",
+    "prevTs": "20230918173557",
+    "kind": "price",
+    "score": 8,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Paperspace: 2 prices, 1 limit changed (added “Access NVIDIA H100 GPUs for as low as $2.24/h…”)",
+    "pairs": [],
+    "added": [
+      "Access NVIDIA H100 GPUs for as low as $2.24/hour!",
+      "256 GB RAM",
+      "20 vCPU",
+      "*$2.24/ hour pricing is for a 3-year commitment. On-demand pricing for H100 is $8.96 per hour."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 11,
+      "added": 20,
+      "materialRemoved": 2,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "paperspace-com-pricing-20240302230938",
+    "url": "https://www.paperspace.com/pricing",
+    "ts": "20240302230938",
+    "date": "2024-03-02",
+    "source": "wayback",
+    "prevTs": "20240115131920",
+    "kind": "price",
+    "score": 17,
+    "counts": {
+      "price": 3,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Paperspace: 3 prices, 4 limits changed (8 → 12; 24GB → 16GB)",
+    "pairs": [
+      {
+        "before": "8 vCPU",
+        "after": "12 vCPU",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8",
+            "after": "12"
+          }
+        ]
+      },
+      {
+        "before": "24 GB GPU",
+        "after": "16 GB GPU",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "24GB",
+            "after": "16GB"
+          }
+        ]
+      },
+      {
+        "before": "12 vCPU",
+        "after": "8 vCPU",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "12",
+            "after": "8"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "24 GB GPU",
+      "*$2.24/hour pricing is for a 3-year commitment. On-demand pricing for H100 is $5.95/hour under our special promo price.**$1.15/hour pricing is for a 3-year commitment.",
+      "**$1.15/hour pricing is for a 3-year commitment."
+    ],
+    "removed": [
+      "*$2.24/ hour pricing is for a 3-year commitment. On-demand pricing for H100 is $8.96 per hour.",
+      "16 GB GPU"
+    ],
+    "totals": {
+      "removed": 39,
+      "added": 43,
+      "materialRemoved": 16,
+      "materialAdded": 17
+    }
+  },
+  {
+    "id": "paperspace-com-pricing-20240502181114",
+    "url": "https://www.paperspace.com/pricing",
+    "ts": "20240502181114",
+    "date": "2024-05-02",
+    "source": "wayback",
+    "prevTs": "20240302230938",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Paperspace: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "paperspace-com-pricing-20240705234643",
+    "url": "https://www.paperspace.com/pricing",
+    "ts": "20240705234643",
+    "date": "2024-07-05",
+    "source": "wayback",
+    "prevTs": "20240502181114",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Paperspace: 1 price changed (removed “Access NVIDIA H100 GPUs for as low as $2.24/h…”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Access NVIDIA H100 GPUs for as low as $2.24/hour!",
+      "Instances outside of the free-tier are billed per hour at their hourly rate. Learn more.",
+      "Instances outside of the free-tier are billed per hour at their hourly rate. Learn more.",
+      "Instances outside of the free-tier are billed per hour at their hourly rate. Learn more."
+    ],
+    "totals": {
+      "removed": 8,
+      "added": 6,
+      "materialRemoved": 4,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "paperspace-com-pricing-20240902033034",
+    "url": "https://www.paperspace.com/pricing",
+    "ts": "20240902033034",
+    "date": "2024-09-02",
+    "source": "wayback",
+    "prevTs": "20240705234643",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Paperspace: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "paperspace-com-pricing-20241202185350",
+    "url": "https://www.paperspace.com/pricing",
+    "ts": "20241202185350",
+    "date": "2024-12-02",
+    "source": "wayback",
+    "prevTs": "20240902033034",
+    "kind": "limits",
+    "score": 16,
+    "counts": {
+      "price": 0,
+      "limit": 8,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Paperspace: 8 limits changed (removed “2 vCPU”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "2 vCPU",
+      "4 GB RAM",
+      "512 MB GPU",
+      "Starts at 50GB SSD",
+      "4 vCPU",
+      "8 GB RAM",
+      "512 MB GPU",
+      "Starts at 50GB SSD",
+      "6 vCPU",
+      "16 GB RAM",
+      "2 GB GPU",
+      "Starts at 50GB SSD",
+      "8 vCPU",
+      "32 GB RAM",
+      "4 GB GPU",
+      "Starts at 50GB SSD"
+    ],
+    "totals": {
+      "removed": 40,
+      "added": 3,
+      "materialRemoved": 16,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "paperspace-com-pricing-20250708111241",
+    "url": "https://www.paperspace.com/pricing",
+    "ts": "20250708111241",
+    "date": "2025-07-08",
+    "source": "wayback",
+    "prevTs": "20241202185350",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Paperspace: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  }
+]

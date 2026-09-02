@@ -1,0 +1,28 @@
+{
+  "slug": "elastic-cloud",
+  "urls": {
+    "elastic-co-pricing": {
+      "url": "https://www.elastic.co/pricing",
+      "lastChecked": "20260902202804",
+      "lastSource": "http",
+      "latestTs": "20260902202804",
+      "hash": "1751334a9cad4972",
+      "firstTs": "20230109150458",
+      "status": "ok",
+      "lastChanged": "20260902202804",
+      "lastNote": "http: only 122 lines; browser: 200, 122 lines; wayback: 116 lines",
+      "failures": 2
+    },
+    "elastic-co-cloud-elasticsearch-service-signup": {
+      "url": "https://www.elastic.co/cloud/elasticsearch-service/signup",
+      "status": "ok",
+      "lastChecked": "20260902202804",
+      "lastNote": "http: only 18 lines; browser: 200, 18 lines; wayback: 18 lines",
+      "failures": 0,
+      "latestTs": "20260902202628",
+      "hash": "01b32a3ca9e85040",
+      "firstTs": "20260902202628",
+      "lastSource": "http"
+    }
+  }
+}

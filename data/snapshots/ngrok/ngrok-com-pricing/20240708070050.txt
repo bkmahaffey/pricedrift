@@ -1,0 +1,378 @@
+🤯 Introducing Traffic Inspector - Observability right from the ngrok dashboard. Learn more ->
+Log in
+Sign up
+Pricing
+For developers bringing new projects to life, ngrok is always free.
+Sign up for free
+ngrok for production
+Usage-based pricing for production workloads
+ngrok for development
+Seat-based pricing for dev and test
+Pay-as-you-go
+Deliver globally available high-performance apps and APIs.
+Pay only for what you use.
+Get started
+Starting at
+$18
+/month
+Custom
+For businesses with additional security and support needs.
+Talk to us
+What's included per month on production plans
+Endpoints and Traffic
+1 active HTTP, TCP, or TLS endpoint
+100,000 HTTP requests
+10,000 conns to TCP endpoints
+10GB data transfer out
+Traffic Policy
+2,000 requests with basic, advanced, and enterprise policy actions each
+Up to 5 rules per policy
+Agents
+Unlimited agents
+No deprecation for older agent versions
+Identity
+Up to 5 MAUs
+Observability
+3 day data retention
+User Management
+Unlimited teammates
+Endpoints and Traffic
+Pricing for additional endpoints, bandwidth, requests and connections.
+Pricing details
+Additional active endpoints start at
+$15
+/ month
+Bulk discounts and by-the-hour pricing available.
+Traffic Policy
+CEL-based rules engine for shaping traffic to your services with IP Restrictions, Load Balancing, Rate Limiting and more.
+Starting at
+$49
+/ month
+Pricing details
+Identity
+Secure your ngrok endpoints with OAuth, OpenID Connect and SAML.
+Starting at
+$5
+/ MAU
+Observability
+Export your traffic logs to S3, CloudWatch, Datadog, and other destinations.
+Starting at
+$99
+/ month
+Pricing details
+Account Governance
+Centrally manage your ngrok account with SAML, OpenID Connect, SCIM, RBAC, and Audit Logs.
+Talk to our team
+Support and Services
+Get help fast with guaranteed response time SLAs.
+Details
+Private Edition
+Self-host your own version of the ngrok server software to address data residency and compliance requirements.
+Talk to our team
+Need help with pricing your use case?
+Talk to an expert
+FREE
+Run your pre-release versions or internal apps on ngrok. Free forever.
+Get started
+Free
+Serve HTTP apps, webhooks, and APIs with a free static domain
+Ephemeral/random domains for testing
+Automated SSL/TLS certificates to save time
+Secure and restrict access to your services with OAuth
+Webhook security verifications
+Request inspection & replay
+APIs and Terraform provider
+Restricted bandwidth and usage
+Free email support
+PERSONAL
+For individual developers with non-commercial projects and custom domains
+Get started
+$8
+per developer / mo billed annually
+($10 billed monthly)
+All free features
+One custom domain or ngrok subdomain
+One reserved ngrok TCP address
+Serve TCP traffic
+PRO
+For teams of developers
+who want to collaborate on projects
+Get started
+$20
+per developer / mo billed annually
+($25 billed monthly)
+All personal features
+Edge managed configuration
+Granular configuration per URL route
+Unlimited webhook verification providers
+Load balancing
+On-demand pricing for additional usage
+IP restrictions
+ENTERPRISE
+For organizations with large engineering teams and security needs
+Get started
+$39
+per developer/ mo billed annually
+($47 billed monthly)
+All pro features
+Mutual TLS
+OIDC/SAML SSO at the edge
+Dashboard SSO
+Wildcard domains
+TLS edges and tunnels
+Role Based Access Control
+Over the wire agent updates
+Agent ACLs
+Do you want to use ngrok for production?
+Check out our Pay-as-you-go plan
+.
+Allowances & Usage Pricing
+Free
+Switch Plan
+For developers bringing new projects to life.
+Personal
+Switch Plan
+For individuals with non-commercial projects
+Pro
+Switch Plan
+For teams of developers and scaling production
+Enterprise
+Switch Plan
+For businesses with advanced security needs
+Licensing
+Team Members
+Connect any system fast and with confidence
+Secure Tunnel Agents
+Domains or TCP addresses
+Endpoints
+Secure Tunnels
+Connectivity
+Launch secure tunnels to websites, REST APIs, and Webhook listeners
+HTTPS tunnels
+Launch secure tunnels to Servers, Databases, and any TCP compatible system
+TCP tunnels
+Launch secure tunnels with additional encryption
+TLS tunnels
+Developer
+Inspect and troubleshoot requests in real-time via inspection UI and APIs
+Web Inspection Agent
+Replay any request with a single click and dramatically speed up your iteration cycle
+Replay Requests
+Serve local files with a built-in fileserver
+File Server
+Agent
+Install and launch tunnels on all major Operating Systems (OS) with lightweight agents
+OS Agents
+Launch tunnels in your container infrastructure with Docker containers
+Docker Agents
+Run secure tunnels without agents via ssh gateway
+Agentless Tunnels
+Manage tunnels, collect metrics, inspect, and replay requests programmatically
+Agent APIs
+Proxy outbound traffic via ngrok agent
+Outbound Proxy
+Agent Management
+Keep tunnels up after process crashes, system crashes, and energy outages with native integrations to OS services like systemd and Windows Services
+OS Service Integration
+Monitor and manage agents remotely via our CLI, APIs, SDK, and Admin Dashboard
+Remote Management
+Update agents without requiring side channels, backdoors, VPNs, or additional remote clients
+Over the Wire Updates
+Security
+Provide unique authtokens for ngrok agents, enabling granular Access Control
+Per Agent Authtokens
+Restrict tunnel connections with Access Control Lists (ACLs)
+Agent ACLs
+Limit agents launching secure tunnels using IP allow and deny lists
+Granular IP Restrictions: Agents
+Customize your URL for tunnel communications and improve security and branding
+Custom Ingress Domains
+Authenticate tunnel traffic with mutual TLS client authentication
+Zero Knowledge Mutual TLS (mTLS)
+Ensure no one – not even ngrok – see your tunnel data with end-to-end encryption
+Zero Knowledge Encryption
+Cloud Edge
+Connectivity
+Front HTTP Sites, Apps, and APIs with edge availability, security, and performance
+HTTPS Edges
+Add edge connectivity to servers, databases, and any TCP-based systems
+TCP Edges
+Add an extra layer of security to your network with the highest graded encryption
+TLS Edges
+Edge Logic
+Modify HTTP requests and responses to send data to your systems and enforce security headers
+HTTP Header Manipulation
+Enrich event logs and requests with the IP and geographic context from requesters
+Geo Enrichment
+Add security, observability, encryption, and logic to HTTP, TCP, and TLS traffic
+Modules
+Define behaviors and logic granularly per URL
+Routes
+Resiliency/Performance
+Improve your App performance with native HTTP/2 and ALPN support
+HTTP/2
+Optimize HTTP traffic and reduce traffic and improve response times
+HTTP Compression
+Protect and isolate your services from spikes and cascading failures
+Circuit Breaker
+Route edge traffic to multiple backends for scale and fault tolerance
+Load Balancing
+Route edge traffic to backends based on percentage. Great for canary and blue/green deployments
+Weighted Balancing
+Identity & Access Control
+Restrict access to edges with HTTP Basic authentication
+Basic Auth
+Ensure that only legitimate webhook calls reach your systems with built-in validation of webhook request signatures
+Webhook Verification
+Add Facebook, GitHub, Google, LinkedIn, and Microsoft Authentication with OpenID Connect/OAuth in a single command
+OAuth 2.0 Authentication
+Request specific scopes with the OAuth authorization request
+OAuth 2.0 Scope Request
+Restrict edge access using SAML and OpenID Connect Single Sign-On
+SAML / OIDC SSO
+Restrict SAML, OIDC, and OAuth access based on user email and email domain
+Email based Authorization
+Add SSO with multiple SAML, OAuth, and OpenID Connect Identity Providers for partners
+Multiple Identity Providers
+Authenticate machines access to edges with TLS client authentication
+Mutual TLS Authentication (mTLS)
+Security
+All ngrok HTTP edges are automatically secured with TLS certificates and A+ graded encryption
+Automatic Certificates and Encryption
+Bring your own certificates for control, Mutual TLS Authentication, and Zero-Knowledge encryption
+Custom TLS Certificates
+Granularly restrict access to Edges and URL routes using IP allow and deny lists
+Granular IP Restrictions: Edges and Routes
+Private Labeling
+Get a random ngrok subdomain automatically assigned every time you launch an edge or tunnel
+Ephemeral / Random ngrok domains
+Reserve and assign custom ngrok URLs for your edges to keep configurations consistent
+Custom ngrok subdomains
+Reserve and assign ngrok addresses to keep TCP configurations consistent
+Reserved ngrok TCP addresses
+Customize tunnels with your own domain and branding
+Custom Domains
+Handle traffic for all subdomains using a single edge
+Wildcard Domains
+Platform
+Manage edge, tunnel, and security configurations from a friendly UI
+Dashboard UI
+Manage edge, tunnel, and security configurations programmatically via our official APIs and community-built SDKs
+APIs / SDKs Client Access
+Manage ngrok using our official Terraform Provider
+Terraform Provider
+Invite multiple users to create and manage secure tunnels and cloud edges
+Team Management
+Restrict administrative access rights based on Roles
+Role Based Access Control (RBAC)
+Restrict access to Edges using IP allow and deny lists
+Account-Wide IP Restrictions: Cloud Edge
+Restrict access to the Dashboard using IP allow and deny lists
+Account-Wide IP Restrictions: Dashboard UI
+Restrict access to APIs using IP allow and deny lists
+Account-Wide IP Restrictions: APIs / SDKs Client Access
+Monitor and keep a history of administrative events via event logs
+Audit Log Events
+Integrate with SIEM tools to analyze events in real-time.
+Connection / Request SIEM Logging
+Support
+Get help directly from the ngrok team
+Email technical support
+Production support, with anytime access to ngrok's support engineers
+24×7×365 support with SLA
+Security Questionnaire
+Custom Invoicing
+SOC2 Report
+Extras
+Number of simultaneous tunnels per agent
+Tunnels per agent
+Peak simultaneous TCP connections
+Peak Simultaneous TCP connections
+Peak TCP connection rate
+Peak TCP Connection rate
+Network Bandwidth in a month per seat
+Network Bandwidth
+1
+With credit card verification
+up to 3
+500 verifications/mo
+5 MAUs included
+10,000 Datadog logs
+2
+up to 100
+up to 120/min
+up to 1GB/mo
+1
+up to 3
+500 verifications/mo
+50 MAUs included
+1
+10,000 Datadog logs
+20
+up to 100
+up to 120/min
+up to 5GB/mo
+1 per seat
+$25/mo per additional seat
+1 per seat
+$14/mo per additional agent
+1 per seat
+$14/mo per additional seat
+up to 3
+50 MAUs
+then $50/mo per 1000 MAUs
+1 per seat
+10,000 Datadog logs
+20
+100
+then $0.01/conn
+120/min
+then $0.01/conn/min
+15GB/mo
+then $0.10/gb
+1 per seat
+$47/mo per additional seat
+1 per seat
+$14/mo per additional agent
+1 per seat
+$14/mo per additional seat
+Contact us
+up to 50
+unlimited origins
+50 MAUs
+then $50/mo per 1000 MAUs
+$100/mo per 10 Tunnel MAUs
+Contact us
+1 per seat
+Contact us
+20
+100
+then $0.01/conn
+120/min
+then $0.01/conn/min
+15GB/mo
+then $0.10/gb
+Trusted by over 5 million developers and recommended by category leaders
+With ngrok, we get comprehensive security with a full scope of functionality for all of our use cases.
+Ihor Leshko
+,
+Director of Engineering
+,
+Databricks
+Frequently asked questions
+What's the difference between development and production plans?
+Do you offer volume discounts?
+Free
+Run your pre-release versions or internal apps on ngrok
+Pay-as-you-go
+Make your apps globally available on the internet
+Pay-as-you-go
+Make your apps globally available on the internet
+Free
+Run your pre-release versions or internal apps on ngrok
+Personal
+For individual developers with non-commercial projects
+Pro
+For teams of developers and scaling production
+Enterprise
+For businesses with advancedsecurity needs

@@ -1,0 +1,231 @@
+Skip to content
+Colaboratory
+Frequently Asked Questions
+The Basics
+What is Colaboratory? Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free of charge access to computing resources, including GPUs and TPUs. Colab is especially well suited to machine learning, data science, and education.
+Is it really free of charge to use? Yes. Colab is free of charge to use.
+Seems too good to be true. What are the limitations? In order to provide access to as many students and under-resourced groups around the world as possible, Colab prioritizes users who are actively programming in a notebook. Colab also restricts actions that negatively impact others or are associated with bypassing our anti-abuse policies. See Which activities are restricted in Colab?
+for a list of actions that are disallowed. Colab resources are not guaranteed and not unlimited, and usage limits sometimes fluctuate. This is necessary for Colab to be able to provide resources free of charge. For more details, see Resource Limits
+.
+Which activities are restricted in Colab? Colab managed runtimes prohibit abusive actions that negatively impact others and actions associated with bypassing our policies. The following are disallowed from all managed Colab runtimes:
+file hosting, media serving, or other web service offerings not related to interactive compute with Colab
+downloading torrents or engaging in peer-to-peer file-sharing
+connecting to remote proxies
+mining cryptocurrency
+running denial-of-service attacks
+password cracking
+using multiple accounts to work around access or resource usage restrictions
+creating deepfakes
+Unfortunately it is not possible to provide more specificity in how our abuse detection system works as bad actors try to take advantage of the compute subsidies Colab offers.
+In addition to these restrictions, and in order to provide access to students and under-resourced groups around the world, Colab prioritizes users who are actively programming in a notebook. The following are disallowed from managed Colab runtimes running free of charge, without a positive Colab compute unit balance, and may be terminated at any time without warning:
+remote control such as SSH shells, remote desktops
+bypassing the notebook UI to interact primarily via a web UI
+chess training
+running distributed computing workers
+You can remove these types of restrictions by purchasing one of our paid plans here
+and maintaining a positive compute unit balance. You may find not all runtimes that match the descriptions are terminated; we attempt to support as much as we can within reason to benefit the global community.
+You can purchase guaranteed resources without Colab-enforced usage limitations via GCP Marketplace
+or Colab Enterprise
+or use your own compute via a local runtime
+you control. Note that Google Drive mounting on the runtime filesystem will not work with these approaches.
+Why does my Colab runtime keep terminating prematurely? In order to provide access to students and under-resourced groups around the world, Colab prioritizes users who are actively programming in a notebook.
+Users in our free of charge tier commonly experience runtime terminations when attempting to bypass the notebook UI and using a web UI on a Colab managed runtime for content generation. These experiences are popular and impressive, but are compute intensive and fall outside our priorities for our free of charge tier users, who we want to help in programming.
+You can remove these types of restrictions by purchasing one of our paid plans here
+.
+You can purchase guaranteed resources without Colab-enforced usage limitations via GCP Marketplace
+or Colab Enterprise
+or use your own compute via a local runtime
+you control. Note that Google Drive mounting on the runtime filesystem will not work with these approaches.
+What is the difference between Jupyter and Colab? Jupyter
+is the open source project on which Colab is based. Colab allows you to use and share Jupyter notebooks with others without having to download, install, or run anything.
+Using Colab
+Where are my notebooks stored, and can I share them? Colab notebooks are stored in Google Drive
+or can be loaded from GitHub
+Colab notebooks can be shared just as you would with Google Docs or Sheets. Simply click the Share button at the top right of any Colab notebook, or follow these Google Drive file sharing instructions
+.
+If I share my notebook, what will be shared? If you choose to share a notebook, the full contents of your notebook (text, code, output, and comments) will be shared. You can omit code cell output from being saved or shared by using Edit > Notebook settings > Omit code cell output when saving this notebook. The virtual machine you’re using, including any custom files and libraries that you’ve setup, will not be shared. So it’s a good idea to include cells which install and load any custom librari
+or files
+that your notebook needs.
+Can I import an existing Jupyter/IPython notebook into Colab? Yes. Choose "Upload notebook" from the File menu.
+How can I search Colab notebooks? You can search Colab notebooks using Google Drive
+Clicking on the Colab logo at the top left of the notebook view will show all notebooks in Drive. You can also search for notebooks that you have opened recently using File > Open notebook.
+Where is my code executed? What happens to my execution state if I close the browser window? Code is executed in a virtual machine private to your account. Virtual machines are deleted when idle for a while, and have a maximum lifetime enforced by the Colab service.
+How can I get my data out? You can download any Colab notebook that you’ve created from Google Drive following these instructions
+or from within Colab’s File menu. All Colab notebooks are stored in the open source Jupyter notebook format (.ipynb).
+How can I reset the virtual machine(s) my code runs on, and why is this sometimes unavailable? Selecting Runtime > Disconnect and delete runtime to return all managed virtual machines assigned to you to their original state. This can be helpful in cases where a virtual machine has become unhealthy e.g. due to accidental overwrite of system files, or installation of incompatible software. Colab limits how often this can be done to prevent undue resource consumption. If an attempt fails, please tr
+Why does drive.mount() saying "timed out", and why do I/O operations reading from folders sometimes fail? Google Drive operations can time out when the number of files or subfolders in a folder grows too large. Avoid storing thousands of items in the top-level "My Drive" folder: storing more than approximately ten thousand items in the root directory can cause mounting to fail.
+If you encounter this problem, try moving files and folders directly contained in "My Drive" into sub-folders, though each folder should not contain more than ten thousand items.
+A similar problem can occur when reading from other folders after a successful drive.mount(). Accessing items in any folder containing many items can cause errors like OSError: [Errno 5] Input/output error. You can fix this problem by moving directly contained items into sub-folders.
+Note that "deleting" files or subfolders by moving them to the Trash may not be enough; if that doesn't seem to help, make sure to also Empty your Trash
+.
+You can also try using DagsHub Storage, an alternative to Google Drive that is built for working on large datasets and machine learning and tends to be more scalable and reliable for the type of workflows common on Colab. Read more in their docs
+or check out the example notebook
+DagsHub is a third-party service not affiliated with Google.
+Why is drive.mount() sometimes slow? Files stored in Google Drive may be stored in a distant region from your Colab runtime. To maximize performance, reduce read/writes from Drive. Note that operations in folders mounted by drive.mount(), rely on the Colab runtime. If you attempt to move files from one folder to another via Colab and your operation is interrupted, you may lose all of the data in transit.
+Why does "Mount Drive" sometimes insert code into the notebook? Mounting Google Drive on Colab allows any code in your notebook to access any files in your Google Drive. We usually require that users manually grant this access every time they connect to a new runtime by adding a code cell to the notebook. This ensures that the user fully understands the permissions being granted to the notebook.
+In some cases, we only require Google Drive authorization once, and automatically re-mount Google Drive during future sessions. To protect your files, we only allow this when a notebook passes multiple checks. For example, any notebooks which have been edited by another user do not automatically mount Google Drive.
+Why do Drive operations sometimes fail due to quota? Google Drive enforces various limits, including per-user and per-file operation count and bandwidth quotas. Exceeding these limits will trigger Input/output error as above, and show a notification in the Colab UI. A typical cause is accessing a popular shared file, or accessing too many distinct files too quickly. Workarounds include:
+Copy the file using drive.google.com
+and don't share it widely so that other users don't use up its limits.
+Avoid making many small I/O reads, instead opting to copy data from Drive to the Colab VM in an archive format (e.g..zip or.tar.gz files) and unarchive the data locally on the VM instead of in the mounted Drive directory.
+Wait a day for quota limits to reset.
+Why do Drive operations sometimes fail due to storage quota? Google Drive imposes a limit on how much data can be stored in it by each user. If Drive operations are failing with Input/output error and a notification says storage quota has been exceeded, delete some files using drive.google.com
+and Empty your Trash
+to reclaim the space. It might take a little while for the reclaimed space to be available in Colab.
+If you'd like to purchase more Drive space, visit Google Drive
+Note that purchasing more space on Drive will not increase the amount of disk available on Colab VMs. Subscribing to Colab Pro
+will.
+Resource Limits
+Why aren’t resources guaranteed in Colab? In order to dynamically offer powerful GPUs at scale for a low price, Colab needs to maintain the flexibility to adjust usage limits and hardware availability dynamically.
+In the version of Colab that is free of charge, access to expensive resources like GPUs is heavily restricted. For the paid version of Colab, we target giving our users high value per their spend.
+You can purchase guaranteed resources without Colab-enforced usage limitations via GCP Marketplace
+or Colab Enterprise
+or use your own compute via a local runtime
+you control. Note that Google Drive mounting on the runtime filesystem will not work with these approaches.
+What are the usage limits of Colab? Colab is able to provide resources free of charge in part by having dynamic usage limits that sometimes fluctuate, and by not providing guaranteed or unlimited resources. This means that overall usage limits as well as idle timeout periods, maximum VM lifetime, GPU types available, and other factors vary over time. Colab does not publish these limits, in part because they can vary over time.
+You can access more compute power and longer runtimes by purchasing one of our paid plans here
+These plans have similar dynamics in that resource availability may change over time. Paid users whose compute unit balance is exhausted will revert to the free-of-charge tier policies and restrictions until the balance is increased.
+You can purchase guaranteed resources without Colab-enforced usage limitations via GCP Marketplace
+or Colab Enterprise
+or use your own compute via a local runtime
+you control. Note that Google Drive mounting on the runtime filesystem will not work with these approaches.
+What types of GPU/TPUs are available in Colab? The types of GPUs and TPUs that are available in Colab vary over time. This is necessary for Colab to be able to provide access to these resources free of charge.
+You can access premium GPUs subject to availability by purchasing one of our paid plans here
+.
+If you would like access to specific dedicated hardware, explore using GCP Marketplace
+Colab.
+How long can notebooks run in Colab? Colab prioritizes interactive compute. Runtimes will time out if you are idle.
+In the version of Colab that is free of charge notebooks can run for at most 12 hours, depending on availability and your usage patterns. Colab Pro, Pro+, and Pay As You Go offer you increased compute availability based on your compute unit balance.
+In general, notebooks can run for at most 12 hours, depending on availability and your usage patterns. You can expect to experience backend termination if you exhaust your available compute units on a Pro, Pro+, or Pay As You Go plan.
+Colab Pro+ supports continuous code execution for up to 24 hours if you have sufficient compute units. Idle timeouts only apply if code execution terminates.
+You can fully relax any runtime limits and idle timeouts by purchasing a dedicated VM at GCP Marketplace
+.
+How much memory is available in Colab? In the version of Colab that is free of charge you are able to access VMs with a standard system memory profile.
+In paid versions of Colab you are able to access machines with a high memory system profile subject to availability and your compute unit balance.
+Note that memory refers to system memory. All GPU chips have the same memory profile.
+How can I get the most out of Colab? Consider closing your Colab tabs when you are done with your work, and avoid opting for GPUs or extra memory when it is not needed for your work. This will make it less likely that you will run into usage limits within Colab. You can always purchase more compute via Pay As You Go should you hit limits.
+For more information on getting the most out of the paid version of Colab, see Making the Most of your Colab Subscription
+.
+I saw a message saying my GPU is not being utilized. What should I do? Colab offers optional accelerated compute environments, including GPU and TPU. Executing code in a GPU or TPU runtime does not automatically mean that the GPU or TPU is being utilized. To avoid hitting your GPU usage limits
+we recommend switching to a standard runtime if you are not utilizing the GPU. Choose Runtime > Change Runtime Type and set Hardware Accelerator to None.
+For examples of how to utilize GPU and TPU runtimes in Colab, see the Tensorflow With GPU
+and TPUs In Colab
+example notebooks.
+AI Coding
+How do I get access to AI coding in Colab? We are slowly rolling out AI coding features like AI-enabled autocompletions, natural language to code, and a chatbot based on Google's most advanced coding assistance models.
+Users in select locales have access to these features now.
+Select AI features are available for a limited time for unsubscribed users.
+I'm a paid subscriber and I don't see AI coding features, what's going on? Only users in select locales have access to AI coding features. To get access to AI coding features:
+Confirm your account age is 18+
+AI-enabled autocompletions will appear as you type. Natural language to code and the chatbot both have visible buttons ('generate' and 'Gemini'). If you see neither of those, and you've confirmed you should have access, please report feedback in product ("Help > Send feedback"). If you want a response via email, you must select the box titled 'We may email you for more information or updates'.
+Additionally, code generation is available for a limited time for unsubscribed users.
+Can I rely on AI coding features in Colab for production quality work? Colab can help with coding and topics about coding, but AI coding in Colab
+is still experimental and you are responsible for your use of code or coding explanations. You should use discretion and carefully test and review all code for errors, bugs, and vulnerabilities before relying on it.
+If any generated code is subject to an open source license, Colab will cite it.
+What can I ask the Gemini in Colab chatbot? Please only use the Gemini in Colab chatbot to ask questions related to Colab or coding in Colab. If you want to ask a chatbot about another subject, we recommend Gemini
+for general queries (and questions about other languages like Java!)
+What languages can Colab help me with? AI coding in Colab works best and is optimized for Python.
+Does Colab give accurate and safe responses? AI coding in Colab is experimental
+and some of the responses may be inaccurate, so double-check Colab's responses. With your feedback, AI coding in Colab is getting better every day.
+Accelerating people's ideas with generative AI is truly exciting, but it's still early days, and AI coding is an experiment. While Colab has built-in safety controls and clear mechanisms for feedback in line with our AI Principles
+be aware that it may display inaccurate information, links or offensive statements.
+How can I give feedback about a specific AI response? If you get an AI response that you feel is unsafe, not helpful, inaccurate, or bad for any other reason, you can let us know by submitting feedback.
+At the bottom right of the response, click the thumbs up or thumbs down icons.
+How can I turn off AI coding in Colab? If you wish to disable AI coding in Colab, from the Tools menu select Settings, then AI Assistance.
+In that space you'll be able to revoke consent and hide AI coding features.
+How and when does Colab cite sources in its responses? AI coding in Colab, like some other standalone LLM experiences, is intended to generate original content and not replicate existing content at length. We've designed our systems to limit the chances of this occurring, and we will continue to improve how these systems function. If Colab does directly quote at length from a source, it cites that source.
+What data is collected? How is it used? When you use generative AI features in Colab, Google collects prompts, related code, generated output, related feature usage information, and your feedback. Google uses this data to provide, improve, and develop Google products and services and machine learning technologies, including Google's enterprise products such as Google Cloud.
+To help with quality and improve our products, human reviewers may read, annotate, and process your prompts, generated output, related feature usage information, and your feedback. Please do not include sensitive (e.g., confidential) or personal information that can be used to identify you or others in your prompts or feedback. Your data will be stored in a way where Google cannot tell who provided it and can no longer fulfill any deletion requests and will be retained for up to 18 months.
+What is the difference between Generate in the code cell and the Gemini in Colab chatbot? Generate in the code cell provides in-context help to write code snippets for you. Code is generated using your prompt as well as nearby notebook content to provide context to the model.
+The Gemini in Colab chatbot can be used for more general questions about Python. It provides explanations along with code snippets.
+Data Science Agent
+What is Data Science Agent in Colab? Data Science Agent in Colab is a new agentic experience that helps you with data exploration, analysis, visualization, and more.
+Simply upload your data in the Gemini side panel and ask a question. Data Science Agent will construct an analysis plan to help you achieve your task. You can iterate on this plan as many times as you would like by sending plan feedback in the prompt input box. You can ask Data Science Agent to take another approach, sharpen the plan around analysis of specific features, or cancel unnecessary steps.
+Once you're happy, click "Execute Plan". At this point, Data Science Agent will start generating and executing code to analyze your data following the agreed plan. This is the agentic capability of Data Science Agent - you'll see how Data Science Agent reasons about plan progress, repairs code that results in an error, and even tries alternate directions if the current plan isn't working.
+Once the plan is complete, you'll have a working notebook with the complete analysis.
+Get Started with Data Science Agent Here are some sample datasets and prompts you can use to get started with Data Science Agent:
+Stack Overflow Annual Developer Survey
+try asking “Visualize most popular programming languages”
+Iris Species
+try asking “Calculate and visualize the Pearson, Spearman, and Kendall correlations in this data”
+Glass Classification
+try asking “Train a random forest classifier on this dataset”
+Explore other datasets on Kaggle
+and Data Commons
+Happy coding!
+I already have code in my notebook. Can I use Data Science Agent? Yes! You can still trigger Data Science Agent in your notebook through Gemini chat. Data Science Agent will never write over your existing cells, it will simply append the code it generates.
+Can Data Science Agent autonomously execute code in my notebook? Yes it can! Data Science Agent will generate code for each step of its plan and reason about the execution results to understand if it has completed a step correctly, needs to repair broken code, or should take a different approach. Autonomously executed code will run in an agent mode runtime so there will be no conflicts with your existing executions.
+Can Data Science Agent access my Drive or user secrets? No, Data Science Agent does not have access to your Drive or user secrets. Data Science Agent runs in agent mode where it cannot access your user data. To exit agent mode, reload your notebook or switch runtimes.
+Do Data Science Agent runtimes have access to the internet? Yes, they do. This means Data Science Agent could interact with external APIs while executing your plan and could upload or download data while conducting its analysis.
+What kinds of files does Data Science Agent support? Data Science Agent accepts files of many types including CSV, TSV, JSON, XLS, XLSX, XLSM, XLSB, ODF, ODS, ODT, and TXT. Files can be as large as 1GB.
+How many files can Data Science Agent analyze at a time? You can use Data Science Agent to analyze a single file or up to 5 files at the same time.
+How do I provide feedback on Data Science Agent? We would love to hear from you! Feel free give us thumbs feedback in the Gemini side panel or report feedback in product ("Help > Send feedback").
+Additional Questions
+What browsers are supported? Colab works with most major browsers, and is most thoroughly tested with the latest versions of Chrome
+Firefox
+and Safari
+.
+How is this related to colaboratory.jupyter.org? In 2014 we worked with the Jupyter development team to release an early version of the tool. Since then Colab has continued to evolve, guided by internal usage.
+What about other programming languages? Colab focuses on supporting Python and its ecosystem of third-party tools. We're aware that users are interested in support for other Jupyter kernels (eg R or Scala). We would like to support these, but don't yet have any ETA.
+I found a bug or have a question, who do I contact? Open any Colab notebook. Then go to the Help menu and select ”Send feedback...”.
+How do I change the editor font? Colab uses a generic monospace font for the editor. You can configure what font family is used for monospace in most modern browsers. Here's a few common ones:
+In Firefox, follow the steps provided in the Firefox support documents
+to configure the "Monospace" font.
+In Chrome, navigate to "chrome://settings/fonts" and modify the section labeled "Fixed-width font".
+Does Colab support Python 2? Python 2 is no longer supported in Colab. For information on migrating your code from Python 2 to Python 3, see Porting Python 2 Code to Python 3
+.
+Where can I learn more about the paid versions of Colab? There is an FAQ on the sign-up page
+.
+How does billing work for the paid versions of Colab? Information for Colab Pro, Pro+, and Pay As You Go, including pricing and how upgrades are handled, can be found at the sign-up page
+.
+How do I access Colab with a Workspace account? Access to Colab for Workspace users is controlled by the Workspace on/off control accessible to your organization's administrator
+.
+Workspace for Education organizations are required to obtain parental consent for students' (under the age of 18) use of Additional Services with their Google Workspace for Education account. This can be achieved with this notice template
+Please be sure to include Colab in the list of additional services.
+For more information, please read our Help Center article “Communicating with Parents and Guardians about Google Workspace for Education”
+.
+Google
+About Google
+Privacy
+Terms
+Change language: български
+বাংলা
+čeština
+dansk
+Deutsch
+Ελληνικά
+English
+English (United Kingdom)
+español
+español (Latinoamérica)
+eesti
+suomi
+français
+Gaeilge
+हिन्दी
+hrvatski
+magyar
+Indonesia
+italiano
+日本語
+한국어
+lietuvių
+latviešu
+मराठी
+Nederlands
+norsk
+polski
+português (Brasil)
+português (Portugal)
+română
+русский
+slovenčina
+slovenščina
+svenska
+తెలుగు
+ไทย
+Türkçe
+українська
+Tiếng Việt
+中文（中国）
+中文（台灣）

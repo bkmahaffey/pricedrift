@@ -32,17 +32,16 @@ export async function observe(service, url, ts, lines, source, { serviceName } =
   const hash = hashLines(stable);
   st.url = url;
   st.lastChecked = ts;
-  st.lastSource = source;
 
   if (!st.latestTs) {
     await writeSnapshot(slug, url, ts, lines);
-    Object.assign(st, { latestTs: ts, hash, firstTs: ts, status: 'ok' });
+    Object.assign(st, { latestTs: ts, hash, firstTs: ts, status: 'ok', lastSource: source });
     state.urls[key] = st;
     await writeState(slug, state);
     return { status: 'first' };
   }
   if (st.hash === hash) {
-    st.status = 'ok';
+    st.status = 'ok'; st.lastSource = source;
     state.urls[key] = st;
     await writeState(slug, state);
     return { status: 'unchanged' };
@@ -63,9 +62,12 @@ export async function observe(service, url, ts, lines, source, { serviceName } =
     return { status: 'unchanged' };
   }
   const changes = await readChanges(slug);
+  // The first live capture after archived history usually differs in rendering (regions, currency
+  // toggles, client-side sections). Record the diff but keep it out of the main feed.
+  const transition = st.lastSource === 'wayback' && source !== 'wayback';
   const entry = {
     id: `${key}-${ts}`,
-    url, ts, date: tsToDate(ts), source,
+    url, ts, date: tsToDate(ts), source, ...(transition ? { transition: true } : {}),
     prevTs: st.latestTs,
     kind: change.kind, score: change.score, counts: change.counts, material: change.material,
     headline: headline(change, serviceName || service.name),
@@ -87,7 +89,7 @@ export async function observe(service, url, ts, lines, source, { serviceName } =
       try { await fs.unlink(snapshotPath(slug, url, st.latestTs)); } catch {}
     }
   }
-  Object.assign(st, { latestTs: ts, hash, lastChanged: ts, status: 'ok' });
+  Object.assign(st, { latestTs: ts, hash, lastChanged: ts, status: 'ok', lastSource: source });
   state.urls[key] = st;
   await writeState(slug, state);
   return { status: 'changed', change: entry };

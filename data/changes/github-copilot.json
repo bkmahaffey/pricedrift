@@ -1,0 +1,1015 @@
+[
+  {
+    "id": "github-com-features-copilot-plans-20240601185013",
+    "url": "https://github.com/features/copilot/plans",
+    "ts": "20240601185013",
+    "date": "2024-06-01",
+    "source": "wayback",
+    "prevTs": "20231222202512",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "GitHub Copilot: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Chat Included, Unlimited messages and interactions",
+      "Chat Included, Unlimited messages and interactions",
+      "Chat Included, Unlimited messages and interactions"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 32,
+      "added": 92,
+      "materialRemoved": 4,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "github-com-features-copilot-plans-20240801104349",
+    "url": "https://github.com/features/copilot/plans",
+    "ts": "20240801104349",
+    "date": "2024-08-01",
+    "source": "wayback",
+    "prevTs": "20240601185013",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "GitHub Copilot: 3 prices changed (added “$ 10 per user per month”)",
+    "pairs": [],
+    "added": [
+      "$ 10 per user per month",
+      "$ 19 per user per month",
+      "$ 39 per user per month",
+      "Start a free trial"
+    ],
+    "removed": [
+      "Chat Included, Unlimited messages and interactions",
+      "Chat Included, Unlimited messages and interactions"
+    ],
+    "totals": {
+      "removed": 79,
+      "added": 120,
+      "materialRemoved": 3,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "github-com-features-copilot-plans-20241213070750",
+    "url": "https://github.com/features/copilot/plans",
+    "ts": "20241213070750",
+    "date": "2024-12-13",
+    "source": "wayback",
+    "prevTs": "20240801104349",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "GitHub Copilot: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Tailor chat conversations to your private codebase (up to 5/50/unlimited repos) 1",
+      "Unlimited integrations with GitHub Copilot Extensions Preview"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 88,
+      "added": 166,
+      "materialRemoved": 2,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "github-com-features-copilot-plans-20250101153657",
+    "url": "https://github.com/features/copilot/plans",
+    "ts": "20250101153657",
+    "date": "2025-01-01",
+    "source": "wayback",
+    "prevTs": "20241213070750",
+    "kind": "price",
+    "score": 78,
+    "counts": {
+      "price": 7,
+      "limit": 4,
+      "plan": 25
+    },
+    "material": true,
+    "headline": "GitHub Copilot: 7 prices, 4 limits, 25 plan names changed ($10 → $0; $10 → $19)",
+    "pairs": [
+      {
+        "before": "$ 10 USD",
+        "after": "$ 0 USD",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$10",
+            "after": "$0"
+          }
+        ]
+      },
+      {
+        "before": "$ 10 per user per month",
+        "after": "$19 per user / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$10",
+            "after": "$19"
+          }
+        ]
+      },
+      {
+        "before": "$ 19 per user per month",
+        "after": "$39 per user / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$19",
+            "after": "$39"
+          }
+        ]
+      },
+      {
+        "before": "$ 39 per user per month",
+        "after": "$10 per month",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$39",
+            "after": "$10"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free",
+      "For developers who want unlimited access to GitHub Copilot.",
+      "$ 10 USD",
+      "per month. First 30 days free.",
+      "Free for verified students, teachers, and maintainers of popular open source projects. Learn more",
+      "Free",
+      "$0",
+      "Free plan Up to 50 per month Up to 50 per month",
+      "Pro plan Unlimited Unlimited",
+      "Business plan Unlimited Unlimited",
+      "Enterprise plan Unlimited Unlimited",
+      "Free plan Included",
+      "Free plan Included",
+      "Free plan Included",
+      "Free plan Included",
+      "Free plan Included",
+      "Free plan Included",
+      "Free plan Included",
+      "Free plan Included",
+      "Free plan Included",
+      "Free plan Up to 2,000 per month Up to 2,000 per month",
+      "Pro plan Unlimited Unlimited",
+      "Business plan Unlimited Unlimited",
+      "Enterprise plan Unlimited Unlimited",
+      "Free plan Included",
+      "Free plan Included",
+      "Free plan Included",
+      "Free plan Included",
+      "Free plan Included",
+      "Free plan Not included",
+      "Free plan Not included",
+      "Free plan Not included",
+      "Free plan Included",
+      "Free plan Included",
+      "Free plan Included",
+      "Free plan Not included",
+      "Free plan Included",
+      "Free plan Included",
+      "Free plan Included",
+      "Free plan Not included"
+    ],
+    "removed": [
+      "per month / $100 USD per year",
+      "Start a free trial",
+      "Free for verified students, teachers, and maintainers of popular open source projects.",
+      "Unlimited messages and interactions",
+      "Start a free trial"
+    ],
+    "totals": {
+      "removed": 164,
+      "added": 493,
+      "materialRemoved": 11,
+      "materialAdded": 80
+    }
+  },
+  {
+    "id": "github-com-features-copilot-plans-20250212064247",
+    "url": "https://github.com/features/copilot/plans",
+    "ts": "20250212064247",
+    "date": "2025-02-12",
+    "source": "wayback",
+    "prevTs": "20250101153657",
+    "kind": "plans",
+    "score": 14,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 7
+    },
+    "material": true,
+    "headline": "GitHub Copilot: 7 plan names changed",
+    "pairs": [],
+    "added": [
+      "Free plan Included",
+      "Free plan Included",
+      "Free plan Not included",
+      "Free plan Included",
+      "Free plan Included",
+      "Free plan Included",
+      "Free plan Included",
+      "Free plan Included"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 60,
+      "materialRemoved": 0,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "github-com-features-copilot-plans-20250301012636",
+    "url": "https://github.com/features/copilot/plans",
+    "ts": "20250301012636",
+    "date": "2025-03-01",
+    "source": "wayback",
+    "prevTs": "20250212064247",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "GitHub Copilot: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "Free plan Not included",
+      "Free plan Not included",
+      "Free plan Included"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 20,
+      "materialRemoved": 2,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "github-com-features-copilot-plans-20250401074352",
+    "url": "https://github.com/features/copilot/plans",
+    "ts": "20250401074352",
+    "date": "2025-04-01",
+    "source": "wayback",
+    "prevTs": "20250301012636",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "GitHub Copilot: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "github-com-features-copilot-plans-20250501174406",
+    "url": "https://github.com/features/copilot/plans",
+    "ts": "20250501174406",
+    "date": "2025-05-01",
+    "source": "wayback",
+    "prevTs": "20250401074352",
+    "kind": "price",
+    "score": 46,
+    "counts": {
+      "price": 8,
+      "limit": 4,
+      "plan": 7
+    },
+    "material": true,
+    "headline": "GitHub Copilot: 8 prices, 4 limits, 7 plan names changed ($19 → $39; 50 removed)",
+    "pairs": [
+      {
+        "before": "$19 per user / month",
+        "after": "$39 per month",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$19",
+            "after": "$39"
+          }
+        ]
+      },
+      {
+        "before": "Free plan Up to 50 per month Up to 50 per month",
+        "after": "Free plan Up to 50 per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "Free plan Up to 2,000 per month Up to 2,000 per month",
+        "after": "Free plan Up to 2,000 per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2,000",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Most popular Unlimited completions and chats with access to more models.",
+      "$19 $10 USD per month or $100 per year",
+      "Everything in Free and:",
+      "Unlimited agent mode and chats with GPT-4o",
+      "Unlimited code completions",
+      "6x more premium requests to use latest models than Free, with the option to buy more 1",
+      "$39 USD per month or $390 per year",
+      "30x more premium requests to use latest models than Free, with the option to buy more 1",
+      "Pro+ plan Unlimited with GPT-4o",
+      "Free plan Up to 50 per month",
+      "Pro plan Up to 300 per month",
+      "Pro+ plan Up to 1,500 per month",
+      "Purchase additional premium requests at $0.04/request 1",
+      "Free plan Up to 50 per month",
+      "Pro plan Unlimited with GPT-4o",
+      "Pro+ plan Unlimited with GPT-4o",
+      "Free plan Anthropic Claude 3.5 Sonnet",
+      "Pro+ plan Unlimited"
+    ],
+    "removed": [
+      "For developers who want unlimited access to GitHub Copilot.",
+      "$ 10 USD",
+      "$ 19 USD",
+      "$ 39 USD",
+      "$39 per user / month",
+      "Business plan Unlimited Unlimited",
+      "Enterprise plan Unlimited Unlimited",
+      "Free plan Included",
+      "Free plan Not included",
+      "Free plan Included",
+      "Free plan Included",
+      "Free plan Included",
+      "Business plan Unlimited Unlimited",
+      "Enterprise plan Unlimited Unlimited",
+      "Free plan Included",
+      "Free plan Not included",
+      "Free plan Not included",
+      "Free plan Not included",
+      "Free plan Not included",
+      "Free plan Included"
+    ],
+    "totals": {
+      "removed": 233,
+      "added": 172,
+      "materialRemoved": 28,
+      "materialAdded": 26
+    }
+  },
+  {
+    "id": "github-com-features-copilot-plans-20250603023935",
+    "url": "https://github.com/features/copilot/plans",
+    "ts": "20250603023935",
+    "date": "2025-06-03",
+    "source": "wayback",
+    "prevTs": "20250501174406",
+    "kind": "price",
+    "score": 15,
+    "counts": {
+      "price": 1,
+      "limit": 5,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "GitHub Copilot: 1 price, 5 limits, 1 plan name changed ($19 → $10; 4.1 added)",
+    "pairs": [
+      {
+        "before": "$19 $10 USD per month or $100 per year",
+        "after": "$ 10 USD per month or $100 per year",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$19",
+            "after": "$10"
+          },
+          {
+            "before": "$10",
+            "after": "$100"
+          },
+          {
+            "before": "$100",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "Unlimited agent mode and chats with GPT-4o",
+        "after": "Unlimited agent mode and chats with GPT-4.1",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "4.1"
+          }
+        ]
+      },
+      {
+        "before": "Pro plan Unlimited with GPT-4o",
+        "after": "Pro plan Unlimited with GPT-4.1",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "4.1"
+          }
+        ]
+      },
+      {
+        "before": "Pro+ plan Unlimited with GPT-4o",
+        "after": "Pro+ plan Unlimited with GPT-4.1",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "4.1"
+          }
+        ]
+      },
+      {
+        "before": "Pro plan Unlimited with GPT-4o",
+        "after": "Pro plan Unlimited with GPT-4.1",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "4.1"
+          }
+        ]
+      },
+      {
+        "before": "Pro+ plan Unlimited with GPT-4o",
+        "after": "Pro+ plan Unlimited with GPT-4.1",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "4.1"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free plan Not included",
+      "Free plan Included"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 26,
+      "added": 39,
+      "materialRemoved": 12,
+      "materialAdded": 14
+    }
+  },
+  {
+    "id": "github-com-features-copilot-plans-20250701012543",
+    "url": "https://github.com/features/copilot/plans",
+    "ts": "20250701012543",
+    "date": "2025-07-01",
+    "source": "wayback",
+    "prevTs": "20250603023935",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "GitHub Copilot: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 9,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "github-com-features-copilot-plans-20250803051233",
+    "url": "https://github.com/features/copilot/plans",
+    "ts": "20250803051233",
+    "date": "2025-08-03",
+    "source": "wayback",
+    "prevTs": "20250701012543",
+    "kind": "plans",
+    "score": 5,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "GitHub Copilot: 1 limit, 2 plan names changed (added “Pro+ plan Up to 375 per month”)",
+    "pairs": [],
+    "added": [
+      "Pro+ plan Up to 375 per month",
+      "Free plan Not included",
+      "Pro+ plan Unlimited",
+      "Free plan Not included",
+      "Free plan Not included",
+      "Pro+ plan Unlimited",
+      "Free plan Not included"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 12,
+      "added": 24,
+      "materialRemoved": 1,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "github-com-features-copilot-plans-20250901141016",
+    "url": "https://github.com/features/copilot/plans",
+    "ts": "20250901141016",
+    "date": "2025-09-01",
+    "source": "wayback",
+    "prevTs": "20250803051233",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "GitHub Copilot: 1 limit changed (4.1 → 5)",
+    "pairs": [
+      {
+        "before": "Unlimited agent mode and chats with GPT-4.1",
+        "after": "Unlimited agent mode and chats with GPT-5 mini",
+        "confidence": 0.88,
+        "deltas": [
+          {
+            "before": "4.1",
+            "after": "5"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 19,
+      "added": 30,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "github-com-features-copilot-plans-20251001111812",
+    "url": "https://github.com/features/copilot/plans",
+    "ts": "20251001111812",
+    "date": "2025-10-01",
+    "source": "wayback",
+    "prevTs": "20250901141016",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "GitHub Copilot: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 12,
+      "added": 18,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "github-com-features-copilot-plans-20251101005811",
+    "url": "https://github.com/features/copilot/plans",
+    "ts": "20251101005811",
+    "date": "2025-11-01",
+    "source": "wayback",
+    "prevTs": "20251001111812",
+    "kind": "limits",
+    "score": 25,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 11
+    },
+    "material": true,
+    "headline": "GitHub Copilot: 2 limits, 11 plan names changed (375 → 50)",
+    "pairs": [
+      {
+        "before": "Pro+ plan Up to 375 per month",
+        "after": "Free plan 50 per month",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "375",
+            "after": "50"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free plan Anthropic Haiku 4.5",
+      "Pro plan Unlimited",
+      "Pro+ plan Unlimited"
+    ],
+    "removed": [
+      "Unlimited completions and chats with access to more models.",
+      "6x more premium requests than Copilot Free to use the latest models, with the option to buy more",
+      "30x more premium requests than Copilot Free to use the latest models, with the option to buy more",
+      "Pro plan Unlimited with GPT-4.1",
+      "Pro+ plan Unlimited with GPT-4.1",
+      "Free plan Not included",
+      "Free plan Included",
+      "Free plan Up to 50 per month",
+      "Pro plan Unlimited with GPT-4.1",
+      "Pro+ plan Unlimited with GPT-4.1",
+      "Free plan Anthropic Claude Sonnet 3.5",
+      "Free plan Included",
+      "Free plan Included",
+      "Free plan Included",
+      "Free plan Included",
+      "Free plan Included",
+      "Free plan Included",
+      "Free plan Not included",
+      "Free plan Not included",
+      "Free plan Not included",
+      "Free plan Not included",
+      "Free plan Not included",
+      "Free plan Included",
+      "Tailor chat conversations to your private codebase (unlimited repositories indexed)",
+      "Unlimited integrations with GitHub Copilot Extensions",
+      "Free plan Included",
+      "Free plan Not included",
+      "Free plan Not included"
+    ],
+    "totals": {
+      "removed": 192,
+      "added": 108,
+      "materialRemoved": 49,
+      "materialAdded": 24
+    }
+  },
+  {
+    "id": "github-com-features-copilot-plans-20260301081303",
+    "url": "https://github.com/features/copilot/plans",
+    "ts": "20260301081303",
+    "date": "2026-03-01",
+    "source": "wayback",
+    "prevTs": "20251101005811",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "GitHub Copilot: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "No credit card required",
+      "Unlimited inline suggestions",
+      "Free plan Not included"
+    ],
+    "removed": [
+      "Unlimited code completions"
+    ],
+    "totals": {
+      "removed": 51,
+      "added": 112,
+      "materialRemoved": 8,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "github-com-features-copilot-plans-20260401035544",
+    "url": "https://github.com/features/copilot/plans",
+    "ts": "20260401035544",
+    "date": "2026-04-01",
+    "source": "wayback",
+    "prevTs": "20260301081303",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "GitHub Copilot: 2 prices changed ($100 removed; $390 removed)",
+    "pairs": [
+      {
+        "before": "$ 10 USD per month or $100 per year",
+        "after": "$ 10 USD per user / month",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "$100",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$ 39 USD per month or $390 per year",
+        "after": "$ 39 USD per user / month",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "$390",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "No credit card required. Verified students have access to the GitHub Copilot Student plan. Learn more",
+      "How does GitHub use the Copilot data from Individual (Free/Pro/Pro+) Subscribers?",
+      "For details on GitHub's data processing activities as a controller, particularly for Copilot Free, Copilot Pro, and Copilot Pro customers, refer to the GitHub Terms of Service",
+      "How does GitHub use the Copilot data from Individual (Free/Pro/Pro+) Subscribers?",
+      "For details on GitHub's data processing activities as a controller, particularly for Copilot Free, Copilot Pro, and Copilot Pro customers, refer to the GitHub Terms of Service"
+    ],
+    "removed": [
+      "No credit card required"
+    ],
+    "totals": {
+      "removed": 32,
+      "added": 36,
+      "materialRemoved": 4,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "github-com-features-copilot-plans-20260501003942",
+    "url": "https://github.com/features/copilot/plans",
+    "ts": "20260501003942",
+    "date": "2026-05-01",
+    "source": "wayback",
+    "prevTs": "20260401035544",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "GitHub Copilot: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Try for 30 days free",
+      "Free for verified teachers and maintainers of popular open source projects. Learn more"
+    ],
+    "totals": {
+      "removed": 24,
+      "added": 18,
+      "materialRemoved": 2,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "github-com-features-copilot-plans-20260601021600",
+    "url": "https://github.com/features/copilot/plans",
+    "ts": "20260601021600",
+    "date": "2026-06-01",
+    "source": "wayback",
+    "prevTs": "20260501003942",
+    "kind": "price",
+    "score": 68,
+    "counts": {
+      "price": 18,
+      "limit": 1,
+      "plan": 6
+    },
+    "material": true,
+    "headline": "GitHub Copilot: 18 prices, 1 limit, 6 plan names changed (50 → $15; 300 → $70)",
+    "pairs": [
+      {
+        "before": "Free plan 50 per month",
+        "after": "Pro plan $15 per month",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "50",
+            "after": "$15"
+          }
+        ]
+      },
+      {
+        "before": "Pro plan 300 per month",
+        "after": "Pro+ plan $70 per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "300",
+            "after": "$70"
+          }
+        ]
+      },
+      {
+        "before": "Pro+ plan 1,500 per month",
+        "after": "Pro plan $10 per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1,500",
+            "after": "$10"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Unlimited code completion and next edit suggestions",
+      "$ 100 USD per user / month",
+      "$100 per month",
+      "Credits used when interacting with Copilot features. Chat, agent mode, code review, Copilot cloud agent, Copilot CLI, and Copilot Apps consume GitHub AI Credits. Free plan supports CLI and agent mode. Learn more",
+      "Free plan Limited chat and agent usage",
+      "Max plan $200 per month",
+      "Free plan Limited chat and agent usage",
+      "Pro+ plan $ 39 per month",
+      "Max plan $100 per month",
+      "Pro plan $5 per month",
+      "Pro+ plan $31 per month",
+      "Max plan $100 per month",
+      "Free plan Not included",
+      "Free plan Not included",
+      "Free plan Included",
+      "Max plan Unlimited",
+      "GitHub Copilot Max is built for heavy Copilot usage, including sustained agent-driven workflows, and includes $100/month in GitHub AI Credits.",
+      "GitHub AI Credits are how you pay for AI usage in GitHub Copilot. Every plan includes a monthly allowance: 1 AI credit = $0.01 USD.",
+      "You use credits when you chat with Copilot, work with agents, or use Copilot CLI, Spaces, and Spark. Code completions and next edit suggestions don't use credits. They remain unlimited with every paid plan.",
+      "Keep working with paid usage. Set a dollar budget for additional usage and Copilot continues without interruption. Credits draw down at $0.01 each, so a $10 budget covers 1,000 credits.",
+      "GitHub Copilot Max is built for heavy Copilot usage, including sustained agent-driven workflows, and includes $100/month in GitHub AI Credits.",
+      "GitHub AI Credits are how you pay for AI usage in GitHub Copilot. Every plan includes a monthly allowance: 1 AI credit = $0.01 USD.",
+      "You use credits when you chat with Copilot, work with agents, or use Copilot CLI, Spaces, and Spark. Code completions and next edit suggestions don't use credits. They remain unlimited with every paid plan.",
+      "Keep working with paid usage. Set a dollar budget for additional usage and Copilot continues without interruption. Credits draw down at $0.01 each, so a $10 budget covers 1,000 credits."
+    ],
+    "removed": [
+      "Unlimited agent mode and chats with GPT-5 mini",
+      "Unlimited inline suggestions",
+      "Purchase additional premium requests at $0.04/request",
+      "Free plan 50 per month",
+      "Pro plan Unlimited",
+      "Pro+ plan Unlimited",
+      "Free plan 50 per month",
+      "Pro plan Unlimited",
+      "Pro+ plan Unlimited"
+    ],
+    "totals": {
+      "removed": 51,
+      "added": 157,
+      "materialRemoved": 15,
+      "materialAdded": 30
+    }
+  },
+  {
+    "id": "github-com-features-copilot-plans-20260701015027",
+    "url": "https://github.com/features/copilot/plans",
+    "ts": "20260701015027",
+    "date": "2026-07-01",
+    "source": "wayback",
+    "prevTs": "20260601021600",
+    "kind": "price",
+    "score": 13,
+    "counts": {
+      "price": 3,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "GitHub Copilot: 3 prices, 1 limit, 1 plan name changed (4.5 → 5)",
+    "pairs": [
+      {
+        "before": "Free plan Anthropic Claude Haiku 4.5",
+        "after": "Free plan Anthropic Claude Fable 5",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "4.5",
+            "after": "5"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$15 monthly total credits for Pro",
+      "$70 monthly total credits for Pro+",
+      "$200 monthly total credits for Max"
+    ],
+    "removed": [
+      "Free plan Included"
+    ],
+    "totals": {
+      "removed": 26,
+      "added": 32,
+      "materialRemoved": 2,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "github-com-features-copilot-plans-20260801050043",
+    "url": "https://github.com/features/copilot/plans",
+    "ts": "20260801050043",
+    "date": "2026-08-01",
+    "source": "wayback",
+    "prevTs": "20260701015027",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "GitHub Copilot: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 29,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "github-com-features-copilot-plans-20260902202107",
+    "url": "https://github.com/features/copilot/plans",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260801050043",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "GitHub Copilot: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Free plan Not included"
+    ],
+    "totals": {
+      "removed": 34,
+      "added": 21,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

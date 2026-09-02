@@ -1,0 +1,214 @@
+[
+  {
+    "id": "cloudinary-com-pricing-20230531164808",
+    "url": "https://cloudinary.com/pricing",
+    "ts": "20230531164808",
+    "date": "2023-05-31",
+    "source": "wayback",
+    "prevTs": "20230107104228",
+    "kind": "price",
+    "score": 15,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Cloudinary: 2 prices, 1 limit, 4 plan names changed (added “$0”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "Sign Up Free",
+      "$0",
+      "Free",
+      "No credit card required",
+      "$0 $0",
+      "Free",
+      "No credit card required",
+      "3 Users / 1 Account"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 8,
+      "added": 47,
+      "materialRemoved": 0,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "cloudinary-com-pricing-20230902172240",
+    "url": "https://cloudinary.com/pricing",
+    "ts": "20230902172240",
+    "date": "2023-09-02",
+    "source": "wayback",
+    "prevTs": "20230531164808",
+    "kind": "price",
+    "score": 20,
+    "counts": {
+      "price": 3,
+      "limit": 4,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Cloudinary: 3 prices, 4 limits, 2 plan names changed (removed “$0 $0”; added “3 Users”)",
+    "pairs": [],
+    "added": [
+      "3 Users",
+      "25 GB of Storage",
+      "$59",
+      "10 Users",
+      "100 GB of Storage",
+      "$199",
+      "40 Users",
+      "400 GB of Storage"
+    ],
+    "removed": [
+      "Free",
+      "$0 $0",
+      "Free",
+      "No credit card required",
+      "3 Users / 1 Account"
+    ],
+    "totals": {
+      "removed": 51,
+      "added": 57,
+      "materialRemoved": 6,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "cloudinary-com-pricing-20240128230955",
+    "url": "https://cloudinary.com/pricing",
+    "ts": "20240128230955",
+    "date": "2024-01-28",
+    "source": "wayback",
+    "prevTs": "20230902172240",
+    "kind": "price",
+    "score": 20,
+    "counts": {
+      "price": 3,
+      "limit": 4,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Cloudinary: 3 prices, 4 limits, 2 plan names changed (removed “3 Users”; added “$0 $0”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "$0 $0",
+      "Free",
+      "No credit card required",
+      "3 Users / 1 Account"
+    ],
+    "removed": [
+      "3 Users",
+      "25 GB of Storage",
+      "$59",
+      "10 Users",
+      "100 GB of Storage",
+      "$199",
+      "40 Users",
+      "400 GB of Storage"
+    ],
+    "totals": {
+      "removed": 57,
+      "added": 51,
+      "materialRemoved": 9,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "cloudinary-com-pricing-20250902141445",
+    "url": "https://cloudinary.com/pricing",
+    "ts": "20250902141445",
+    "date": "2025-09-02",
+    "source": "wayback",
+    "prevTs": "20240128230955",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudinary: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 36,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "cloudinary-com-pricing-20260806155659",
+    "url": "https://cloudinary.com/pricing",
+    "ts": "20260806155659",
+    "date": "2026-08-06",
+    "source": "wayback",
+    "prevTs": "20250902141445",
+    "kind": "price",
+    "score": 19,
+    "counts": {
+      "price": 2,
+      "limit": 3,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Cloudinary: 2 prices, 3 limits, 4 plan names changed (removed “$0”; added “Try for 30 days”)",
+    "pairs": [],
+    "added": [
+      "Try for 30 days",
+      "Free Free",
+      "Try for 30 days",
+      "1GB",
+      "1GB",
+      "2GB"
+    ],
+    "removed": [
+      "Free",
+      "Sign Up Free",
+      "$0",
+      "No credit card required",
+      "$0 $0",
+      "Free",
+      "No credit card required"
+    ],
+    "totals": {
+      "removed": 12,
+      "added": 33,
+      "materialRemoved": 7,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "cloudinary-com-pricing-20260902202107",
+    "url": "https://cloudinary.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260806155659",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudinary: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

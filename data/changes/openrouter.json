@@ -1,0 +1,397 @@
+[
+  {
+    "id": "openrouter-ai-docs-api-reference-limits-20250301072423",
+    "url": "https://openrouter.ai/docs/api-reference/limits",
+    "ts": "20250301072423",
+    "date": "2025-03-01",
+    "source": "wayback",
+    "prevTs": "20250206113924",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "OpenRouter: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "openrouter-ai-docs-api-reference-limits-20250408060656",
+    "url": "https://openrouter.ai/docs/api-reference/limits",
+    "ts": "20250408060656",
+    "date": "2025-04-08",
+    "source": "wayback",
+    "prevTs": "20250301072423",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 1,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OpenRouter: 1 price, 2 limits changed (removed “Free limit: If you are using a free model var…”; added “Free usage limits: If you’re using a free mod…”)",
+    "pairs": [],
+    "added": [
+      "Free usage limits: If you’re using a free model variant (with an ID ending in: free), you can make up to 20 requests per minute.",
+      "If your account has less than 10 credits, you’re limited to 50 requests per day.",
+      "If you maintain a balance of at least $ 10, your daily limit increases to 1000 requests per day."
+    ],
+    "removed": [
+      "Free limit: If you are using a free model variant (with an ID ending in: free), then you will be limited to 20 requests per minute and 200 requests per day."
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 53,
+      "materialRemoved": 1,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "openrouter-ai-docs-faq-20250503120529",
+    "url": "https://openrouter.ai/docs/faq",
+    "ts": "20250503120529",
+    "date": "2025-05-03",
+    "source": "wayback",
+    "prevTs": "20250324042112",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OpenRouter: 2 limits changed (200 → 50)",
+    "pairs": [
+      {
+        "before": "available on OpenRouter, it is important to note that these models have low rate limits (200 requests per day total) and are usually not suitable for production use.",
+        "after": "available on OpenRouter, it is important to note that these models have low rate limits ( 50 requests per day total) and are usually not suitable for production use. If you have purchased at least 10 credits, the free models will be limited to 1000 requests per day.",
+        "confidence": 0.74,
+        "deltas": [
+          {
+            "before": "200",
+            "after": "50"
+          },
+          {
+            "before": null,
+            "after": "10"
+          },
+          {
+            "before": null,
+            "after": "1000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "For free models, rate limits are determined by the credits that you have purchased. If you have total credits purchased lower than 10 credits, you will be rate limited to 50 requests per day. If you have purchased at least 10 credits, you will be rate limited to 1000 requests per day."
+    ],
+    "removed": [
+      "Your account has a hard limit of 200 requests per day total across all free models. For all other models, rate limits are determined by the credits in your account. You can read more details in our rate limits documentation"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 57,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "openrouter-ai-docs-api-reference-limits-20250503181557",
+    "url": "https://openrouter.ai/docs/api-reference/limits",
+    "ts": "20250503181557",
+    "date": "2025-05-03",
+    "source": "wayback",
+    "prevTs": "20250408060656",
+    "kind": "price",
+    "score": 4,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OpenRouter: 1 price, 1 limit changed (removed “If you maintain a balance of at least $ 10, y…”; added “If you purchase at least 10 credits, your dai…”)",
+    "pairs": [],
+    "added": [
+      "If you purchase at least 10 credits, your daily limit is increased to 1000: free model requests per day."
+    ],
+    "removed": [
+      "If you maintain a balance of at least $ 10, your daily limit increases to 1000 requests per day."
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 7,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "openrouter-ai-docs-faq-20250605100506",
+    "url": "https://openrouter.ai/docs/faq",
+    "ts": "20250605100506",
+    "date": "2025-06-05",
+    "source": "wayback",
+    "prevTs": "20250503120529",
+    "kind": "price",
+    "score": 5,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OpenRouter: 1 price, 1 limit changed (50 → 1000)",
+    "pairs": [
+      {
+        "before": "For free models, rate limits are determined by the credits that you have purchased. If you have total credits purchased lower than 10 credits, you will be rate limited to 50 requests per day. If you have purchased at least 10 credits, you will be rate limited to 1000 requests per day.",
+        "after": "For free models, rate limits are determined by the credits that you have purchased. If you have purchased at least 10 credits, your free model rate limit will be 1000 requests per day. Otherwise, you will be rate limited to 50 free model API requests per day.",
+        "confidence": 0.7,
+        "deltas": [
+          {
+            "before": "50",
+            "after": "1000"
+          },
+          {
+            "before": "10",
+            "after": "50"
+          },
+          {
+            "before": "1000",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "OpenRouter charges a 5% + $0.35 fee when you purchase credits. We pass through the pricing of the underlying model providers without any markup, so you pay the same rate as you would directly with the provider."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 10,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "openrouter-ai-docs-api-reference-limits-20250614224259",
+    "url": "https://openrouter.ai/docs/api-reference/limits",
+    "ts": "20250614224259",
+    "date": "2025-06-14",
+    "source": "wayback",
+    "prevTs": "20250503181557",
+    "kind": "limits",
+    "score": 7,
+    "counts": {
+      "price": 0,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OpenRouter: 4 limits changed (removed “interval: string; // in this interval, e.g. \"…”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "interval: string; // in this interval, e.g. \"10s\"",
+      "For all other requests, rate limits are a function of the number of credits remaining on the key or account. Partial credits round up in your favor. For the credits available on your API key, you can make 1 request per credit per second up to the surge limit (typically 500 requests per second, but you can go higher).",
+      "0.5 credits → 1 req/s (minimum)",
+      "5 credits → 5 req/s",
+      "10 credits → 10 req/s",
+      "500 credits → 500 req/s",
+      "1000 credits → Contact us if you see ratelimiting from OpenRouter"
+    ],
+    "totals": {
+      "removed": 13,
+      "added": 3,
+      "materialRemoved": 7,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "openrouter-ai-docs-faq-20250703191915",
+    "url": "https://openrouter.ai/docs/faq",
+    "ts": "20250703191915",
+    "date": "2025-07-03",
+    "source": "wayback",
+    "prevTs": "20250605100506",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OpenRouter: 1 price changed (5 → 5.5)",
+    "pairs": [
+      {
+        "before": "OpenRouter charges a 5% + $0.35 fee when you purchase credits. We pass through the pricing of the underlying model providers without any markup, so you pay the same rate as you would directly with the provider.",
+        "after": "OpenRouter charges a 5.5% ($0.80 minimum) fee when you purchase credits. We pass through the pricing of the underlying model providers without any markup, so you pay the same rate as you would directly with the provider.",
+        "confidence": 0.96,
+        "deltas": [
+          {
+            "before": "5",
+            "after": "5.5"
+          },
+          {
+            "before": "$0.35",
+            "after": "$0.80"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 14,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "openrouter-ai-docs-api-reference-limits-20251107223220",
+    "url": "https://openrouter.ai/docs/api-reference/limits",
+    "ts": "20251107223220",
+    "date": "2025-11-07",
+    "source": "wayback",
+    "prevTs": "20250614224259",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "OpenRouter: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "limit_remaining: number | null; // Remaining credits for the key, or null if unlimited"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 23,
+      "added": 58,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "openrouter-ai-docs-faq-20260610064250",
+    "url": "https://openrouter.ai/docs/faq",
+    "ts": "20260610064250",
+    "date": "2026-06-10",
+    "source": "wayback",
+    "prevTs": "20250703191915",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "OpenRouter: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "You can also use the Free Models Router",
+      "( openrouter/free) to automatically select a free model for your requests."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 73,
+      "added": 73,
+      "materialRemoved": 1,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "openrouter-ai-docs-faq-20260714161110",
+    "url": "https://openrouter.ai/docs/faq",
+    "ts": "20260714161110",
+    "date": "2026-07-14",
+    "source": "wayback",
+    "prevTs": "20260610064250",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 1,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OpenRouter: 1 price, 2 limits changed (50 removed)",
+    "pairs": [
+      {
+        "before": "available on OpenRouter, it is important to note that these models have low rate limits ( 50 requests per day total) and are usually not suitable for production use. If you have purchased at least 10 credits, the free models will be limited to 1000 requests per day.",
+        "after": "available on OpenRouter, it is important to note that these models have low rate limits ( requests per day total) and are usually not suitable for production use. If you have purchased at least credits, the free models will be limited to requests per day. You can also use the Free Models Router",
+        "confidence": 0.91,
+        "deltas": [
+          {
+            "before": "50",
+            "after": null
+          },
+          {
+            "before": "10",
+            "after": null
+          },
+          {
+            "before": "1000",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "OpenRouter charges a 5.5% ($0.80 minimum) fee when you purchase credits. We pass through the pricing of the underlying model providers without any markup, so you pay the same rate as you would directly with the provider.",
+      "For free models, rate limits are determined by the credits that you have purchased. If you have purchased at least 10 credits, your free model rate limit will be 1000 requests per day. Otherwise, you will be rate limited to 50 free model API requests per day.",
+      "You can also use the Free Models Router"
+    ],
+    "totals": {
+      "removed": 101,
+      "added": 30,
+      "materialRemoved": 5,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "openrouter-ai-docs-faq-20260825143826",
+    "url": "https://openrouter.ai/docs/faq",
+    "ts": "20260825143826",
+    "date": "2026-08-25",
+    "source": "wayback",
+    "prevTs": "20260714161110",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "OpenRouter: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 11,
+      "added": 10,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  }
+]

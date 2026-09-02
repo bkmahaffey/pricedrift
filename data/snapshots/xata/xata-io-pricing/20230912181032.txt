@@ -1,0 +1,91 @@
+Start free with all features
+Generous free tier. Scale to billions of records.
+Estimate your usage
+Xata charges in pre-paid capacity units. Never get surprised by a bill. First three units for free.
+Show examples
+Show unit usage
+Select an example
+Personal site or prototype
+SaaS application - 1k users
+SaaS application - 10k users
+SaaS application - 100k users
+SaaS application - 1MM users
+E-commerce - 30k users
+E-commerce - 1MM users
+E-commerce - 100MM users
+Chat app - 5k users
+Chat app - 1MM users
+Chat app - 10MM users
+Custom
+A personal site or prototype that builds statically and doesn't require much interactivity.
+Estimated cost
+$ 0 per month
+750 k total records
+Measured across all tables
+15 branches
+Per database
+75 Requests per second
+30 of which can be in parallel
+15 GB Data size on disk
+Stored in the transactional store and file attachments
+250 AI questions
+That hit the Ask endpoints
+For a database that can do it all
+High-availability on all plans
+Unlimited team members
+No servers to configure
+Vector & keyword search engine
+Database branching
+Preview database for each PR
+Spreadsheet-like editing
+Zero downtime migrations
+Data aggregations & analytics
+Edge caching
+TypeScript SDK
+Python client
+Common questions
+What is a capacity unit?
+In most cases, you can think of a unit as 250,000 records. There are extra limits applied (rate limit, concurrency limit, data size limit) but with normal usage patterns you shouldn't hit them.
+Is there a maximum number of reads and writes per month?
+No, you can serve as many reads and writes as you want within the rate limit, which is defined per second (resets every second).
+How is the data size measured?
+We measure one copy of your data, as it is stored in the primary transactional store and file attachments. For data redundancy purposes, and because we use multiple types of stores, we store multiple copies of your data (typically 5 copies), but we only charge for one.
+What is the concurrency limit?
+The concurrency limit is the maximum number of queries that are executed in parallel. It is different from a "connections limit" because the queries are counted only while they are actually executing, and more connections can be accepted and queued. Its goal is to protect against very slow queries.
+What happens when I exceed the number of records or data size limit?
+The number of records and data size are soft-limits and are not enforced in real-time. If you are over the limit for a long time, we will contact you to upgrade.
+What happens when the rate limit or concurrency limits are reached?
+When the rate limit or concurrency limits are reached, we will throttle your requests and we might answer with a 429 status code. Your app will be in degraded mode, but only the requests over the limit are affected. The rate limit is reset every second, and the concurrency limit is measured at any given time.
+What happens on upgrade and downgrade?
+If you upgrade in the middle of the billing month, you will be charged a pro-rated amount for the remaining days of the month. If you downgrade in the middle of the billing month, we will credit you a pro-rated amount for the remaining days of the month.
+Will my database be suspended after a period of inactivity?
+Nope, even if it’s not accessed, we don’t put your DB to sleep, even on the free plan. We want projects of all kinds to be able to depend on Xata even if they are not paying.
+Do you have a startups program?
+Yes, we do, please get in touch with us for details.
+We are a non-profit. Do you have discounts?
+Yes! In fact, the idea for Xata was born out of a non-profit. Get in touch with us, we’d love to help.
+Copyright © 2023 Xatabase Inc.
+All rights reserved.
+Product
+Roadmap
+Feature requests
+Pricing
+Status
+AI solutions
+File attachments
+Company
+About
+Careers
+Blog
+RSS
+Contact
+Email
+Support
+Discord
+Twitter
+GitHub
+Legal
+Cookies
+Security
+Terms
+Privacy policy

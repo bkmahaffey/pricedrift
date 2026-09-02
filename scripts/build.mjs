@@ -36,14 +36,14 @@ for (const s of services) {
   s._urlKeys = s.track_urls.map(urlKey);
   const primaryKey = s._urlKeys[0];
   s._lastChecked = Object.values(state.urls || {}).map(x => x.lastChecked).filter(Boolean).sort().pop() || null;
-  s._lastMaterial = changes.filter(c => c.material && !c.flap).map(c => c.ts).sort().pop() || null;
-  s._materialCount = changes.filter(c => c.material && !c.flap).length;
-  s._minorCount = changes.filter(c => !c.material || c.flap).length;
+  s._lastMaterial = changes.filter(c => c.material && !c.flap && !c.transition).map(c => c.ts).sort().pop() || null;
+  s._materialCount = changes.filter(c => c.material && !c.flap && !c.transition).length;
+  s._minorCount = changes.filter(c => !c.material || c.flap || c.transition).length;
   s._primaryStatus = state.urls?.[primaryKey]?.status || 'unknown';
   s._stale = !!(s.verified_on && s._lastMaterial && s._lastMaterial.slice(0, 8) > String(s.verified_on).replace(/-/g, ''));
 }
 all.sort((a, b) => b.ts.localeCompare(a.ts));
-const material = all.filter(c => c.material && !c.flap);
+const material = all.filter(c => c.material && !c.flap && !c.transition);
 const firstDate = all.length ? all[all.length - 1].date : TODAY;
 const llmEvents = (llm.events || []).filter(e => e.type === 'price' && !(e.flags || []).length).sort((a, b) => b.date.localeCompare(a.date));
 // First-party model vendors lead the main feed; resellers and clouds (DeepInfra, OpenRouter, Bedrock, Vertex, Azure) have their own pages.
@@ -95,7 +95,7 @@ function renderChange(c, { showService = true, id = true } = {}) {
   const s = c.service;
   const wb = waybackUrl(c);
   return `<article class="change kind-${c.kind}${c.flap ? ' flap' : ''}"${id ? ` id="${esc(c.id)}"` : ''}>
-  <div class="change-meta"><time datetime="${esc(tsToIso(c.ts))}">${fmtDate(c.date)}</time>${showService ? ` <a class="svc" href="${svcUrl(s)}">${esc(s.name)}</a>` : ''} <span class="kind">${kindLabel[c.kind] || c.kind}</span>${c.flap ? ' <span class="kind flap">reverted</span>' : ''}</div>
+  <div class="change-meta"><time datetime="${esc(tsToIso(c.ts))}">${fmtDate(c.date)}</time>${showService ? ` <a class="svc" href="${svcUrl(s)}">${esc(s.name)}</a>` : ''} <span class="kind">${kindLabel[c.kind] || c.kind}</span>${c.flap ? ' <span class="kind flap">reverted</span>' : ''}${c.transition ? ' <span class="kind flap" title="First live capture after archived history; may include rendering differences rather than vendor changes">archive → live baseline</span>' : ''}</div>
   <h3 class="change-title">${esc(c.headline)}</h3>
   ${renderDeltas(c)}
   ${renderDiff(c)}
@@ -269,8 +269,8 @@ function fmtLlmDelta(e) {
     const list = material.filter(c => c.date.startsWith(y));
     await page(`/changes/${y}/`, { title: `Price and limit changes in ${y}`, description: `${list.length} price, limit and plan changes detected across developer services in ${y}.`, body: `<h1>Changes in ${y}</h1>${nav(y)}${monthGroups(list)}`, wide: true });
   }
-  const minor = all.filter(c => !c.material || c.flap).slice(0, 200);
-  await page('/changes/minor/', { title: 'Wording-only edits and reverted changes', description: 'Pricing page edits where no price or limit change was detected, plus changes that were reverted.', body: `<h1>Wording-only edits</h1><p class="lede-p">Edits where the detector found no changed price or limit, and changes that reverted within a capture or two (often A/B tests). Kept for completeness; not in the main feed.</p>${nav('minor')}${minor.map(c => renderChange(c)).join('\n') || '<p class="empty">Nothing here yet.</p>'}`, wide: true });
+  const minor = all.filter(c => !c.material || c.flap || c.transition).slice(0, 200);
+  await page('/changes/minor/', { title: 'Wording-only edits and reverted changes', description: 'Pricing page edits where no price or limit change was detected, plus changes that were reverted.', body: `<h1>Wording-only edits</h1><p class="lede-p">Edits where the detector found no changed price or limit, changes that reverted within a capture or two (often A/B tests), and the first live capture after archived history (which can differ in rendering rather than substance). Kept for completeness; not in the main feed.</p>${nav('minor')}${minor.map(c => renderChange(c)).join('\n') || '<p class="empty">Nothing here yet.</p>'}`, wide: true });
 }
 
 // Weekly digests: one page per ISO week with at least one material change.
@@ -322,8 +322,8 @@ for (const [k, c] of Object.entries(CATEGORIES)) {
 
 // Service pages
 for (const s of services) {
-  const mat = s._changes.filter(c => c.material && !c.flap).sort((a, b) => b.ts.localeCompare(a.ts)).map(c => ({ ...c, service: s }));
-  const minor = s._changes.filter(c => !c.material || c.flap).sort((a, b) => b.ts.localeCompare(a.ts)).map(c => ({ ...c, service: s }));
+  const mat = s._changes.filter(c => c.material && !c.flap && !c.transition).sort((a, b) => b.ts.localeCompare(a.ts)).map(c => ({ ...c, service: s }));
+  const minor = s._changes.filter(c => !c.material || c.flap || c.transition).sort((a, b) => b.ts.localeCompare(a.ts)).map(c => ({ ...c, service: s }));
   const st = s._state.urls || {};
   const related = services.filter(x => x.category === s.category && x.slug !== s.slug).slice(0, 8);
   const status = Object.values(st).some(x => x.status === 'unreachable') ? `<p class="notice">One of this service’s pages could not be fetched on the last check; history continues from the last good capture.</p>` : '';
@@ -345,7 +345,7 @@ for (const s of services) {
   <section id="history" aria-labelledby="hist-h">
     <h2 id="hist-h">Changes <span class="count">${mat.length}</span></h2>
     ${mat.length ? mat.map(c => renderChange(c, { showService: false })).join('\n') : `<p class="empty">No price or limit changes detected on ${esc(s.name)}’s pricing page since tracking began${st[s._urlKeys[0]]?.firstTs ? ` in ${st[s._urlKeys[0]].firstTs.slice(0, 4)}-${st[s._urlKeys[0]].firstTs.slice(4, 6)}` : ''}. When one happens it will appear here and in the feed within a day.</p>`}
-    ${minor.length ? `<details class="minor"><summary>${minor.length} wording-only or reverted edit${minor.length === 1 ? '' : 's'}</summary>${minor.map(c => renderChange(c, { showService: false })).join('\n')}</details>` : ''}
+    ${minor.length ? `<details class="minor"><summary>${minor.length} wording-only, reverted, or baseline edit${minor.length === 1 ? '' : 's'}</summary>${minor.map(c => renderChange(c, { showService: false })).join('\n')}</details>` : ''}
   </section>
   ${related.length ? `<nav class="related" aria-labelledby="rel-h"><h2 id="rel-h">Also in ${esc(CATEGORIES[s.category].name.toLowerCase())}</h2><ul>${related.map(r => `<li><a href="${svcUrl(r)}">${esc(r.name)}</a> <span class="pill status-${freeStatus(r).cls}">${freeStatus(r).label}</span></li>`).join('')}</ul></nav>` : ''}
 </div>

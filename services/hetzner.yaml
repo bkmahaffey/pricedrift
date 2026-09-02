@@ -3,6 +3,8 @@ name: Hetzner Cloud
 category: compute
 website: https://www.hetzner.com/cloud
 tagline: Cloud VPS with hourly billing, monthly price caps and included traffic
+min_lines: 5
+min_material: 0
 track_urls:
   - https://www.hetzner.com/cloud/
   - https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/

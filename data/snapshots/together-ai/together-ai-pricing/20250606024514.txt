@@ -1,0 +1,442 @@
+Pricing that scales from idea to production
+Build
+Get started with fast inference, reliability, and no daily rate limits
+Get started
+Includes:
+Free Llama Vision 11B + FLUX.1 [schnell]
+$1 credit for all other models
+Fully pay as you go, and easily add credits
+No daily rate limits, up to 6000 requests and 2M tokens per minute for LLMs
+Deploy on-demand dedicated endpoints (no rate limits)
+Monitoring dashboard with 24-hr data
+Email and in-app chat support
+sCALE
+Scale production traffic, with reserved GPUs, and advanced config
+Contact sales
+Includes everything in Build plus
+Up to 9,000 requests per minute and 5M tokens per minute for LLMs
+Premium support
+Support via private slack channel
+Monitoring dashboard with 30-day data (coming soon!)
+Discounts on monthly reserved dedicated GPU
+Advanced dedicated endpoint configuration
+99% availability dedicated endpoints SLA
+HIPAA compliance
+eNTERPRISE
+Private deployments and model optimization at scale
+Contact sales
+Includes everything in scale plus
+Custom rate limits and no token limits
+VPC deployment
+Enterprise grade security & compliance
+Monitoring dashboard with 1 year data (coming soon!)
+Continuous model optimization
+Dedicated success representative
+99.9% dedicated endpoints SLA with geo redundancy
+Priority access to hardware including H100 & H200 GPUs
+Custom regions
+Inference pricing
+Over 100 leading open-source Chat, Multimodal, Language, Image, Code, and Embedding models are available through the Together Inference API. For these models you pay just for what you use.
+Serverless Endpoints
+Prices are per 1 million tokens including input and output tokens for Chat, Multimodal, Language and Code models, only including input tokens for Embedding models, and based on image size and steps for Image models.
+Llama 4 MODELS
+MODEL
+price 1M tokens
+Llama 4 Maverick
+price 1M tokens
+$0.27 input / $0.85 output
+Llama 4 Scout
+price 1M tokens
+$0.18 input / $0.59 output
+Llama 3.3, Llama 3.2, LLAMA 3.1, LLama 3 MODELS
+MODEL SIZE
+type
+LITE
+TURBO
+REFERENCE
+Up to 3B
+Text
+LITE
+TURBO
+$0.06
+REFERENCE
+8B
+Text
+LITE
+$0.10
+TURBO
+$0.18
+REFERENCE
+$0.20
+11B
+Vision
+LITE
+TURBO
+$0.18
+REFERENCE
+70B
+Text
+LITE
+$0.54
+TURBO
+$0.88
+REFERENCE
+$0.90
+90B
+Vision
+LITE
+TURBO
+$1.20
+REFERENCE
+405B
+Text
+TURBO
+$3.50
+For vision models images are converted to 1,601 to 6,404 tokens depending on image size.
+DeepSeek MODELS
+Model
+price 1M tokens
+DeepSeek-V3
+price 1M tokens
+$1.25
+DeepSeek-R1
+price 1M tokens
+$3 input / $7 output
+Deepseek-R1-Distill-Llama-70B
+price 1M tokens
+$2.00
+Deepseek-R1-Distill-Qwen-14B
+price 1M tokens
+$1.60
+Deepseek-R1-Distill-Qwen-1.5B
+price 1M tokens
+$0.18
+DeepSeek LLM Chat 67B
+price 1M tokens
+$0.90
+Qwen models
+Model
+price 1M tokens
+Qwen 2 72B
+price 1M tokens
+$0.90
+Qwen 2-VL-72B
+price 1M tokens
+$1.20
+Qwen 2.5 7B
+price 1M tokens
+$0.30
+Qwen 2.5 14B
+price 1M tokens
+$0.80
+Qwen 2.5 72B
+price 1M tokens
+$1.20
+Qwen 2.5 Coder 32B
+price 1M tokens
+$0.80
+Qwen QwQ 32B Preview
+price 1M tokens
+$1.20
+Qwen 3 235B A22B
+price 1M tokens
+$0.20 input / $0.60 output
+ALL OTHER CHat, language, code and moderation models
+Model size
+price 1M tokens
+Up to 4B
+price 1M tokens
+$0.10
+4.1B - 8B
+price 1M tokens
+$0.20
+8.1B - 21B
+price 1M tokens
+$0.30
+21.1B - 41B
+price 1M tokens
+$0.80
+41.1B - 80B
+price 1M tokens
+$0.90
+80.1B - 110B
+price 1M tokens
+$1.80
+Mixture-of-experts
+Model size
+price 1M tokens
+Up to 56B total parameters
+price 1M tokens
+$0.60
+56.1B - 176B total parameters
+price 1M tokens
+$1.20
+176.1B - 480B total parameters
+price 1M tokens
+$2.40
+FLUX Image models
+Model
+PRICE PER MP
+IMAGES per $1 (1MP)
+FLUX.1 Kontext [max]
+PRICE PER MP
+$0.08
+IMAGES per $1 (1MP)
+12.5
+FLUX.1 Kontext [pro]
+PRICE PER MP
+$0.04
+IMAGES per $1 (1MP)
+25
+FLUX.1 [dev]
+PRICE PER MP
+$0.025
+IMAGES per $1 (1MP)
+40
+FLUX.1 [dev] lora
+PRICE PER MP
+$0.035
+IMAGES per $1 (1MP)
+29
+FLUX.1 [schnell]
+PRICE PER MP
+$0.0027
+IMAGES per $1 (1MP)
+370
+FLUX1.1 [pro]
+PRICE PER MP
+$0.04
+IMAGES per $1 (1MP)
+25
+FLUX.1 [pro]
+PRICE PER MP
+$0.05
+IMAGES per $1 (1MP)
+20
+FLUX.1 Canny [dev]
+PRICE PER MP
+$0.025
+IMAGES per $1 (1MP)
+40
+FLUX.1 Depth [dev]
+PRICE PER MP
+$0.025
+IMAGES per $1 (1MP)
+40
+FLUX.1 Redux [dev]
+PRICE PER MP
+$0.025
+IMAGES per $1 (1MP)
+40
+For all FLUX models except pro - prices are based on the default steps and will scale linearly with additional steps.
+STABILITY IMAGE MODELS
+Image Size
+25 steps
+50 steps
+75 steps
+100 steps
+512X512
+25 steps
+$0.001
+50 steps
+$0.002
+75 steps
+$0.0035
+100 steps
+$0.005
+1024X1024
+25 steps
+$0.01
+50 steps
+$0.02
+75 steps
+$0.035
+100 steps
+$0.05
+AUDIO MODELS
+Model
+price 1M CHARACTERS
+Cartesia Sonic
+price 1M tokens
+$65.00
+EMbeddings models
+Model size
+price 1M tokens
+Up to 150M
+price 1M tokens
+$0.008
+151M - 350M
+price 1M tokens
+$0.016
+351M+
+price 1M tokens
+$0.02
+GTE-Modernbert-base
+price 1M tokens
+$0.08
+rerank models
+Model size
+price 1M tokens
+Up to 8B
+price 1M tokens
+$0.10
+Interested in a dedicated endpoint for your own model?
+Contact us
+Dedicated endpoints
+Deploy a selection of available models on customizable GPU endpoints with per-minute billing. Also supports uploading custom fine-tuned models. Start or stop endpoints via the web UI, API or CLI.
+ALL SUPPORTED models
+hardware type
+price/MINUTE
+Price/hour
+1x RTX-6000 48GB
+price/MINUTE
+$0.025
+price/hour
+$1.49
+1x L40 48GB
+price/MINUTE
+$0.025
+price/hour
+$1.49
+1x L40S 48GB
+price/MINUTE
+$0.035
+price/hour
+$2.10
+1x A100 PCIe 80GB
+price/minute
+$0.040
+price/hour
+$2:40
+1x A100 SXM 40GB
+price/minute
+$0.040
+price/hour
+$2.40
+1x A100 SXM 80GB
+price/minute
+$0.043
+price/hour
+$2.56
+1x H100 80GB
+price/minute
+$0.056
+price/hour
+$3.36
+1x H200 141GB
+price/minute
+$0.083
+price/hour
+$4.99
+Interested in a dedicated endpoint for your own model?
+Contact us
+Fine-tuning pricing
+Pricing for fine-tuning is based on model size, dataset size, and the number of epochs.
+Supervised Fine-tuning
+(Per 1M Tokens)
+DPO
+(Per 1M Tokens)
+sIZE
+lORA
+fULL ft
+lOra
+Full FT
+Up to 16B
+Supervised Fine-tuning
+lORA
+$0.48
+fULL ft
+$0.54
+DPO
+lOra
+$1.20
+fULL ft
+$1.35
+17B-69B
+Supervised Fine-tuning
+lORA
+$1.50
+fULL ft
+$1.65
+DPO
+lOra
+$3.75
+fULL ft
+$4.12
+70-100B
+Supervised Fine-tuning
+lORA
+$2.90
+fULL ft
+$3.20
+DPO
+lOra
+$7.25
+fULL ft
+$8.00
+*Price is per 1M tokens, based on the sum of tokens processed in the fine-tuning training dataset (training dataset size * number of epochs) plus any tokens in the optional evaluation dataset (validation dataset size * number of evaluations)
+Need to fine-tune large models at scale?
+Contact us
+Together GPU Clusters Pricing
+State-of-the-art clusters with NVIDIA Blackwell and Hopper GPUs, interconnected via NVIDIA NVLink and InfiniBand for optimal AI training and inference performance.
+haRDWARE TYPES AVAILABLE
+GPU MEMORY
+pricing
+NVIDIA GB200
+price 1k tokens
+384GB HBM3e
+price 1k tokens
+Contact us
+NVIDIA B200
+price 1k tokens
+192GB HBM3e
+price 1k tokens
+Contact us
+NVIDIA H200
+price 1k tokens
+141GB HBM3e
+price 1k tokens
+Starting at $2.09/hr
+NVIDIA H100
+price 1k tokens
+80GB HBM2e
+price 1k tokens
+Starting at $1.75/hr
+NVIDIA A100
+price 1k tokens
+80GB HBM2e
+price 1k tokens
+Starting at $1.30/hr
+Request your cluster today
+Code Execution
+Customize a deployment of VM sandboxes for large development environments or pay per code execution session.
+TOGETHER CODE SANDBOX
+Price/hour
+Per vCPU
+price/hour
+$0.0446
+Per GiB RAM
+price/hour
+$0.0149
+TOGETHER CODE INTERPRETER
+Price/SESSION
+Session (60 minutes)
+price/hour
+$0.03
+Interested in a custom large-scale deployment?
+Contact us
+Subscribe to newsletter
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+Products
+Solutions
+Research
+Blog
+About
+Pricing
+Contact
+Support
+Status
+© 2025 San Francisco, CA 94114
+Privacy policy
+Terms of service

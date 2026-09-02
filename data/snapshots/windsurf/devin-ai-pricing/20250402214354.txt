@@ -1,0 +1,140 @@
+How Nubank refactors millions of lines of code to improve engineering efficiency with Devin
+8x
+engineering time efficiency gain
+20x
+cost savings
+Overview
+One of Nubank’s most critical, company-wide projects for 2023-2024 was a migration of their core ETL — an 8 year old, multi-million lines of code monolith — to sub-modules. To handle such a large refactor, their only option was a multi-year effort that distributed repetitive refactoring work across over one thousand of their engineers. With Devin, however, this changed: engineers were able to delegate Devin to handle their migrations and achieve a 12x efficiency improvement in terms of engineeri
+The Problem
+Nubank was born into the tradition of centralized ETL FinServ architectures. To date, the monolith architecture had worked well for Nubank — it enabled the developer autonomy and flexibility that carried them through their hypergrowth phases. After 8 years, however, Nubank’s sheer volume of customer growth, as well as geographic and product expansion beyond their original credit card business, led to an entangled, behemoth ETL with countless cross-dependencies and no clear path to continuing to 
+For Nubankers, business critical data transformations started taking increasingly long to run, with chains of dependencies as deep as 70 and insufficient formal agreements on who was responsible for maintaining what. As the company continued to grow, it became clear that the ETL would be a primary bottleneck to scale.
+Nubank concluded that there was an urgent need to split up their monolithic ETL repository, amassing over 6 million lines of code, into smaller, more flexible sub-modules.
+Nubank’s code migration was filled with the monotonous, repetitive work that engineers dread. Moving each data class implementation from one architecture to another while tracing imports correctly, performing multiple delicate refactoring steps, and accounting for any number of edge cases was highly tedious, even to do just once or twice. At Nubank’s scale, however, the total migration scope involved more than 1,000 engineers moving ~100,000 data class implementations over an expected timeline o
+In a world where engineering resources are scarce, such large-scale migrations and modernizations become massively expensive, time-consuming projects that distract from any engineering team’s core mission: building better products for customers. Unfortunately, this is the reality for many of the world’s largest organizations.
+The Decision: an army of Devins to tackle subtasks in parallel
+At project outset in 2023, Nubank had no choice but to rely on their engineers to perform code changes manually. Migrating one data class was a highly discretionary task, with multiple variations, edge cases, and ad hoc decision-making — far too complex to be scriptable, but high-volume enough to be a significant manual effort.
+Within weeks of Devin’s launch, Nubank identified a clear opportunity to accelerate their refactor at a fraction of the engineering hours. Migration or large refactoring tasks are often fantastic projects for Devin: after investing a small, fixed cost to teach Devin how to approach sub-tasks, Devin can go and complete the migration autonomously. A human is kept in the loop just to manage the project and approve Devin’s changes.
+The Solution: Custom ETL Migration Devin
+A task of this magnitude, with the vast number of variations that it had, was a ripe opportunity for fine-tuning. The Nubank team helped to collect examples of previous migrations their engineers had done manually, some of which were fed to Devin for fine-tuning. The rest were used to create a benchmark evaluation set.
+Against this evaluation set, we observed a doubling of Devin’s task completion scores after fine-tuning, as well as a 4x improvement in task speed. Roughly 40 minutes per sub-task dropped to 10, which made the whole migration start to look much cheaper and less time-consuming, allowing the company to devote more energy to new business and new value creation instead.
+Devin contributed to its own speed improvements by building itself classical tools and scripts it would later use on the most common, mechanical components of the migration. For instance, detecting the country extension of a data class (either ‘br’, ‘co’, or ‘mx’) based on its file path was a few-step process for each sub-task. Devin’s script automatically turned this into a single step executable — improvements from which added up immensely across all tens of thousands of sub-tasks.
+There is also a compounding advantage on Devin’s learning. In the first weeks, it was common to see outstanding errors to fix, or small things Devin wasn’t sure how to solve. But as Devin saw more examples and gained familiarity with the task, it started to avoid rabbit holes more often and find faster solutions to previously-seen errors and edge cases. Much like a human engineer, we observed obvious speed and reliability improvements with every day Devin worked on the migration.
+Results: Delivering an 8-12x faster migration, lifting a burden from every engineer, and slashing migration costs by 20x.
+“Devin provided an easy way to reduce the number of engineering hours for the migration, in a way that was more stable and less prone to human error. Rather than engineers having to work across several files and complete an entire migration task 100%, they could just review Devin’s changes, make minor adjustments, then merge their PR”
+Jose Carlos Castro, Senior Product Manager
+8-12x efficiency gains This is calculated by comparing the typical engineering hours required to complete a data class migration task against the total engineering hours spent prompting and reviewing Devin’s work on the same task.
+Over 20x cost savings on scope of the migration delegated to Devin This is calculated by comparing the cost of running Devin versus the hourly cost of an engineer completing that task. The significant savings are heavily driven by speed of task execution and cost effectiveness of Devin relative to human engineering time – it does not even consider the value captured by completing the entire project months ahead of schedule!
+Fewer dreaded migration tasks for Nubank engineers
+Choose a plan
+that's right for you
+Team
+$500/month
+Get started
+Includes:
+Core capabilities of Devin:
+Access to Devin Devin is our standard AI engineer
+Autonomous task completion
+Collaborate in natural language
+Learns over time
+Usage:
+Unlimited seats
+Monthly ACUs Devin’s unit of work is an Agent Compute Unit, or ACU. It’s a normalized measure of the resources used by Devin.
+Teams:
+Dedicated team workspace
+Share and collaborate
+Enterprise
+Custom pricing
+Contact us
+Everything in Team, plus:
+Core capabilities of Devin:
+Access to Devin Enterprise Devin Enterprise is the most capable version of Devin, available for users on the Enterprise plan.
+Access to Custom Devins Custom Devins are fine-tuned versions of Devin specialized for specific use cases and/or proprietary datasets. Custom Devins are faster and more reliable for a narrower set of use cases, and are recommended for repetitive engineering tasks.
+Access to MultiDevin Tackle large backlogs of tasks by delegating to a team of Devins that work in parallel. “Manager” Devins oversee “worker” Devins.
+Security & support:
+Deploy in your virtual private cloud (VPC)
+Dedicated account team
+Custom terms
+Compare all plans
+Team
+$500/month
+Get started
+Enterprise
+Custom pricing
+Contact us
+Team
+Enterprise
+$500/month
+Get started
+Custom pricing
+Contact us
+Core capabilities of Devin:
+Access to
+Devin
+Powered by
+Devin Devin is our standard AI engineer.
+Powered by
+Devin Enterprise Devin Enterprise is the most capable version of Devin, available for users on the Enterprise plan.
+Autonomous task completion
+Collaborate in natural language
+Learns over time
+Devin's workspace Devin is equipped with its own shell, browser, code editor, and planner.
+Devin API Programmatically create Devin sessions and retrieve results (including strutured output) using our REST API.
+Usage:
+Monthly Agent Compute Units (ACUs) Devin’s unit of work is an Agent Compute Unit, or ACU. It’s a normalized measure of the resources used by Devin.
+250 ACUs/month
+Custom
+Option to purchase additional ACUs
+Available
+Custom
+Team:
+Dedicated workspace
+Share and collaborate
+Security & Support:
+Deploy in your virtual private cloud (VPC)
+Dedicated account team
+Assigned Forward Deployed Engineer
+Custom terms
+Advanced authentication controls
+Fine-grained access controls
+Audit trails and logging
+Integrations:
+GitHub
+Slack
+Additional Features:
+Secure secrets sharing Secrets shared with Devin are stored securely and revocable at any time.
+Machine snapshots Machine snapshots are ‘save’ states for Devin. After you take a snapshot, you can start from that machine state (with everything you’ve downloaded/installed) on any future Devin run.
+Use Devin's editor, shell, and browser Take over and run commands, edit code, or use the browser for Devin at any time.
+Rollback and resume Restore Devin to previous points in time — Devin’s files and memory will be rolled back.
+Custom Devins Custom Devins are fine-tuned versions of Devin specialized for specific use cases and/or proprietary datasets. Custom Devins are faster and more reliable for a narrower set of use cases, and are recommended for repetitive engineering tasks.
+MultiDevin Tackle large backlogs of tasks by delegating to a team of Devins that work in parallel. “Manager” Devins oversee “worker” Devins.
+Contact us
+Event-driven automation Spin up new Devins in real time to handle on call tickets, CI failures, etc. Devin can proactively handle tickets suited to its capabilities.
+Contact us
+FAQs
+Contact us at support@cognition.ai
+to learn more
+What is an ACU?
+Devin's unit of work is an Agent Compute Unit, or ACU. It's a normalized measure of the computing resources Devin uses to complete a task, such as virtual machine time, model inference, and networking bandwidth.
+How will I be billed?
+For Team plans, you will be charged at the start of your monthly billing cycle for your subscription. Once the ACU capacity included with your subscription is used, you can pay-as-you-go for additional ACUs, up to a limit you set. You will be billed for pay-as-you-go ACUs at the end of your billing cycle. For the Enterprise plan, contact us to learn more.
+What happens if I don't use my full ACU capacity?
+For Team plans, the ACU capacity included with your subscription resets each billing cycle. For the Enterprise plan, contact us to learn more.
+How will I know how many ACUs I've used each month?
+Log in to your account and navigate to the Usage & Limits page under Settings. There, you'll see the number of ACUs used, the number of ACUs available, and a breakdown of ACU usage by Devin session.
+What is Devin?
+Devin is our standard AI engineer. For the most capable version, try Devin Enterprise on our Enterprise plan.
+Additional questions?
+Contact us at support@cognition.ai
+to learn more.
+Build more with
+Devin
+Get started
+Need Devin for your enterprise?
+Get started with Devin Enterprise
+Devin Enterprise provides additional capabilities, security and control for your organization.
+Learn about Devin Enterprise
+Contact us
+Privacy policy
+Terms of service
+Linkedin
+X (Twitter)

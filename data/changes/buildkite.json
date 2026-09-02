@@ -1,0 +1,1083 @@
+[
+  {
+    "id": "buildkite-com-pricing-20230605103114",
+    "url": "https://buildkite.com/pricing/",
+    "ts": "20230605103114",
+    "date": "2023-06-05",
+    "source": "wayback",
+    "prevTs": "20230112225858",
+    "kind": "limits",
+    "score": 22,
+    "counts": {
+      "price": 0,
+      "limit": 11,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Buildkite: 11 limits changed (30 → 90; 30 → 90)",
+    "pairs": [
+      {
+        "before": "30 days",
+        "after": "90 days",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "30",
+            "after": "90"
+          }
+        ]
+      },
+      {
+        "before": "30 days",
+        "after": "90 days",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "30",
+            "after": "90"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "5k Job minutes/month",
+      "100k Test executions/month",
+      "20k Job minutes/month + 5k per user",
+      "250k Test executions/month + 50k per user",
+      "40k Job minutes/month + 12.5k per user",
+      "500k Test executions/month + 50k per user",
+      "100k Job minutes/month + 25k per user",
+      "1M Test executions/month + 50k per user",
+      "1 year",
+      "1 year"
+    ],
+    "removed": [
+      "5k Job minutes/month 100k Test executions/month 30 day Build retention",
+      "20k Job minutes/month 250k Test executions/month 6 month Build retention",
+      "40k Job minutes/month 500k Test executions/month 1 year Build retention",
+      "100k Job minutes/month 1M Test executions/month 2 year Build retention",
+      "6 months",
+      "2 years",
+      "6 months",
+      "2 years"
+    ],
+    "totals": {
+      "removed": 24,
+      "added": 29,
+      "materialRemoved": 22,
+      "materialAdded": 24
+    }
+  },
+  {
+    "id": "buildkite-com-pricing-20231011073434",
+    "url": "https://buildkite.com/pricing/",
+    "ts": "20231011073434",
+    "date": "2023-10-11",
+    "source": "wayback",
+    "prevTs": "20230605103114",
+    "kind": "price",
+    "score": 62,
+    "counts": {
+      "price": 12,
+      "limit": 10,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Buildkite: 12 prices, 10 limits, 3 plan names changed ($9 → $19; 20k → 40,000)",
+    "pairs": [
+      {
+        "before": "Team $ 9 /user per month",
+        "after": "$ 19 per user / month",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "$9",
+            "after": "$19"
+          }
+        ]
+      },
+      {
+        "before": "20k Job minutes/month + 5k per user",
+        "after": "40,000 / month + 12,500 per user",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "20k",
+            "after": "40,000"
+          },
+          {
+            "before": "5k",
+            "after": "12,500"
+          }
+        ]
+      },
+      {
+        "before": "250k Test executions/month + 50k per user",
+        "after": "$ 35 per user / month",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "250k",
+            "after": "$35"
+          },
+          {
+            "before": "50k",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "Business $ 19 /user per month",
+        "after": "100,000 / month + 25,000 per user",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "$19",
+            "after": "100,000"
+          },
+          {
+            "before": null,
+            "after": "25,000"
+          }
+        ]
+      },
+      {
+        "before": "$ 19 /user",
+        "after": "$ 0 / user",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$19",
+            "after": "$0"
+          }
+        ]
+      },
+      {
+        "before": "$ 35 /user",
+        "after": "$ 0 / user",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$35",
+            "after": "$0"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 0",
+      "No credit card required",
+      "Unlimited concurrency",
+      "Unlimited parallelism",
+      "30 day free trial Business",
+      "No credit card required",
+      "Additional usage $0.002 / minute",
+      "$ 0",
+      "Unlimited",
+      "$ 0",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "removed": [
+      "Pricing: Get Started for Free",
+      "All plans include unlimited concurrency",
+      "Developer Free up to 3 users",
+      "Get started free",
+      "40k Job minutes/month + 12.5k per user",
+      "500k Test executions/month + 50k per user",
+      "Enterprise $ 35 /user per month (minimum 30 users)",
+      "100k Job minutes/month + 25k per user",
+      "1M Test executions/month + 50k per user",
+      "Free",
+      "$ 9 /user",
+      "20k/month + 5k per user",
+      "40k/month + 12.5k per user",
+      "100k/month + 25k per user",
+      "100k/month",
+      "250k/month + 50k per user",
+      "500k/month + 50k per user",
+      "1M/month + 50k per user",
+      "Free",
+      "5k/month",
+      "100k/month",
+      "$ 9 /user",
+      "20k/month + 5k per user",
+      "250k/month + 50k per user",
+      "1 year"
+    ],
+    "totals": {
+      "removed": 63,
+      "added": 69,
+      "materialRemoved": 41,
+      "materialAdded": 29
+    }
+  },
+  {
+    "id": "buildkite-com-pricing-20240223101258",
+    "url": "https://buildkite.com/pricing/",
+    "ts": "20240223101258",
+    "date": "2024-02-23",
+    "source": "wayback",
+    "prevTs": "20231011073434",
+    "kind": "price",
+    "score": 44,
+    "counts": {
+      "price": 9,
+      "limit": 6,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Buildkite: 9 prices, 6 limits, 3 plan names changed ($19 → $20; $19 → $20)",
+    "pairs": [
+      {
+        "before": "$ 19 per user / month",
+        "after": "$ 20 per user / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$19",
+            "after": "$20"
+          }
+        ]
+      },
+      {
+        "before": "$ 19 / user per month",
+        "after": "$ 20 per user / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$19",
+            "after": "$20"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free",
+      "Full features from Free plan, plus:",
+      "Free",
+      "Additional usage $0.002 / minute",
+      "Additional usage $0.002 / minute",
+      "Free",
+      "$ 20 per user / month",
+      "Additional usage $0.002 / minute",
+      "Unlimited",
+      "Buildkite is free for open source projects. Sign up for our Free plan, if you need additional usage or inclusions, contact us"
+    ],
+    "removed": [
+      "Buildkite is free for open source projects. Sign up for our Developer plan, if you need additional usage or inclusions, contact us",
+      "90 days",
+      "1 year",
+      "$ 0",
+      "5,000/month",
+      "100,000/month",
+      "Unlimited",
+      "90 days",
+      "$ 0 / user",
+      "40,000/month + 12,500 per user",
+      "Unlimited",
+      "500,000/month + 50,000 per user",
+      "Unlimited",
+      "1 year",
+      "$ 0 / user",
+      "100,000/month + 25,000 per user",
+      "Unlimited",
+      "1,000,000/month + 50,000 per user",
+      "1 year"
+    ],
+    "totals": {
+      "removed": 116,
+      "added": 123,
+      "materialRemoved": 23,
+      "materialAdded": 14
+    }
+  },
+  {
+    "id": "buildkite-com-pricing-20240521195205",
+    "url": "https://buildkite.com/pricing/",
+    "ts": "20240521195205",
+    "date": "2024-05-21",
+    "source": "wayback",
+    "prevTs": "20240223101258",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Buildkite: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "buildkite-com-pricing-20240906194911",
+    "url": "https://buildkite.com/pricing/",
+    "ts": "20240906194911",
+    "date": "2024-09-06",
+    "source": "wayback",
+    "prevTs": "20240521195205",
+    "kind": "price",
+    "score": 13,
+    "counts": {
+      "price": 3,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Buildkite: 3 prices, 2 limits changed (removed “$ 35 per user / month”; added “100,000 / month”)",
+    "pairs": [],
+    "added": [
+      "100,000 / month",
+      "500,000 / month",
+      "Unlimited",
+      "Unlimited",
+      "includes free storage for small, short-lived artifacts—up to 5GB per artifact, retained for six months. Buildkite Packages"
+    ],
+    "removed": [
+      "$ 35 per user / month",
+      "100,000 / month + 25,000 per user",
+      "$ 35 per user / month",
+      "Additional usage $0.002 / minute",
+      "Unlimited",
+      "Unlimited",
+      "Build artifact storage is free of charge, and build artifacts are retained for six months."
+    ],
+    "totals": {
+      "removed": 24,
+      "added": 40,
+      "materialRemoved": 10,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "buildkite-com-pricing-20241116192050",
+    "url": "https://buildkite.com/pricing/",
+    "ts": "20241116192050",
+    "date": "2024-11-16",
+    "source": "wayback",
+    "prevTs": "20240906194911",
+    "kind": "price",
+    "score": 109,
+    "counts": {
+      "price": 30,
+      "limit": 7,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Buildkite: 30 prices, 7 limits, 3 plan names changed ($20 → $30)",
+    "pairs": [
+      {
+        "before": "$ 20 USD, per user / month",
+        "after": "$ 30 USD, per active user / month",
+        "confidence": 0.8,
+        "deltas": [
+          {
+            "before": "$20",
+            "after": "$30"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 30 USD, per active user / month",
+      "Then, US$2.50 per concurrent agent / month",
+      "Then, US$0.10 per managed test / month",
+      "20GB of storage and bandwidth (combined) per org / month",
+      "Then, US$1.25 per GB / month, discounted with increasing volume",
+      "10 concurrent agents Then, US$2.50 per concurrent agent / month",
+      "250 managed tests Then, US$0.10 per managed test / month",
+      "20GB of storage and bandwidth (combined) Then, US$1.25 per GB / month, discounted with increasing volume",
+      "$ 30 USD, per active user / month",
+      "10 concurrent agents Then, US$2.50 per concurrent agent / month",
+      "250 managed tests Then, US$0.10 per managed test / month",
+      "20GB of storage and bandwidth (combined) Then, US$1.25 per GB / month, discounted with increasing volume",
+      "Buildkite is free for open source projects. Sign up for our Pro plan, and contact us",
+      "Each new signup gets a free two-week trial to test hosted agents before paying.",
+      "4 vCPU, 7GB RAM",
+      "$0.103 USD",
+      "6 vCPU, 14GB RAM",
+      "$0.171 USD",
+      "12 vCPU, 28GB RAM",
+      "$0.303 USD",
+      "2 vCPU, 4GB RAM",
+      "$0.013 USD",
+      "4 vCPU, 16GB RAM",
+      "$0.026 USD",
+      "8 vCPU, 32GB RAM",
+      "$0.052 USD",
+      "50GB of storage and bandwidth (combined) per month is always included with Buildkite platform access. Then, additional usage is billed at:",
+      "Tier 1: 1,000GB @ US$1.25 per GB",
+      "Tier 2: 2,500GB @ US$1.00 per GB",
+      "Tier 3: 5,000GB @ US$0.75 per GB",
+      "Tier 4: 20,000GB @ US$0.50 per GB",
+      "Tier 5: 50,000GB @ US$0.25 per GB"
+    ],
+    "removed": [
+      "Free",
+      "$ 0",
+      "5,000 / month",
+      "100,000 / month",
+      "Unlimited concurrency",
+      "Unlimited parallelism",
+      "$ 20 USD, per user / month",
+      "No credit card required",
+      "Full features from Free plan, plus:",
+      "40,000 / month + 12,500 per user",
+      "500,000 / month",
+      "Additional usage $0.002 / minute",
+      "Free",
+      "$ 0",
+      "Unlimited",
+      "Additional usage $0.002 / minute",
+      "Unlimited",
+      "Free",
+      "$ 20 USD, per user / month",
+      "Unlimited",
+      "Additional usage $0.002 / minute",
+      "Unlimited",
+      "Buildkite is free for open source projects. Sign up for our Free plan, if you need additional usage or inclusions, contact us",
+      "There is no extra charge for running builds in parallel, or parallelism within a build (such as parallelizing tests across 100 jobs). For example, distributing a one hour test suite into 60 one-minute-long parallel jobs costs the same as running a single one hour job."
+    ],
+    "totals": {
+      "removed": 133,
+      "added": 415,
+      "materialRemoved": 29,
+      "materialAdded": 37
+    }
+  },
+  {
+    "id": "buildkite-com-pricing-20250415140428",
+    "url": "https://buildkite.com/pricing/",
+    "ts": "20250415140428",
+    "date": "2025-04-15",
+    "source": "wayback",
+    "prevTs": "20241116192050",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Buildkite: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 29,
+      "added": 49,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "buildkite-com-pricing-20250719020134",
+    "url": "https://buildkite.com/pricing/",
+    "ts": "20250719020134",
+    "date": "2025-07-19",
+    "source": "wayback",
+    "prevTs": "20250415140428",
+    "kind": "price",
+    "score": 14,
+    "counts": {
+      "price": 3,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Buildkite: 3 prices, 3 limits changed (4 → 6; $0.103 → $0.18)",
+    "pairs": [
+      {
+        "before": "4 vCPU, 7GB RAM",
+        "after": "6 vCPU, 28GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4",
+            "after": "6"
+          },
+          {
+            "before": "7GB",
+            "after": "28GB"
+          }
+        ]
+      },
+      {
+        "before": "$0.103 USD",
+        "after": "$0.18 USD",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.103",
+            "after": "$0.18"
+          }
+        ]
+      },
+      {
+        "before": "6 vCPU, 14GB RAM",
+        "after": "12 vCPU, 56GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "6",
+            "after": "12"
+          },
+          {
+            "before": "14GB",
+            "after": "56GB"
+          }
+        ]
+      },
+      {
+        "before": "$0.171 USD",
+        "after": "$0.36 USD",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.171",
+            "after": "$0.36"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "12 vCPU, 28GB RAM",
+      "$0.303 USD"
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 7,
+      "materialRemoved": 6,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "buildkite-com-pricing-20250917012139",
+    "url": "https://buildkite.com/pricing/",
+    "ts": "20250917012139",
+    "date": "2025-09-17",
+    "source": "wayback",
+    "prevTs": "20250719020134",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Buildkite: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "buildkite-com-pricing-20251115031740",
+    "url": "https://buildkite.com/pricing/",
+    "ts": "20251115031740",
+    "date": "2025-11-15",
+    "source": "wayback",
+    "prevTs": "20250917012139",
+    "kind": "price",
+    "score": 82,
+    "counts": {
+      "price": 13,
+      "limit": 22,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Buildkite: 13 prices, 22 limits changed (removed “When you sign up, you start on a 30-day trial…”; added “$ 0”)",
+    "pairs": [],
+    "added": [
+      "$ 0",
+      "50k test executions/mo",
+      "1GB storage & bandwidth (combined)/mo",
+      "500 minutes/month",
+      "Unlimited test executions",
+      "2,000 minutes/month",
+      "Unlimited",
+      "$ 0",
+      "Unlimited Volume discounts",
+      "Unlimited",
+      "90 days",
+      "1 year",
+      "50k/mo",
+      "Unlimited",
+      "1GB included",
+      "500 minutes/month included Upgrade to Pro for more",
+      "2,000 minutes/month included Then $0.013 USD/minute",
+      "2 vCPU, 4 GB RAM",
+      "$0.026 USD/minute",
+      "4 vCPU, 16 GB RAM",
+      "$0.052 USD/minute",
+      "8 vCPU, 32 GB RAM",
+      "6 vCPU, 28 GB RAM",
+      "12 vCPU, 56 GB RAM",
+      "Up to 6 vCPU Max 3 concurrent jobs",
+      "Up to 48 vCPU",
+      "Up to 24 vCPU",
+      "$ 0",
+      "90 days",
+      "50k/mo",
+      "1GB included",
+      "500 minutes/month included Upgrade to Pro for more",
+      "2 vCPU, 4 GB RAM",
+      "4 vCPU, 16 GB RAM",
+      "8 vCPU, 32 GB RAM",
+      "6 vCPU, 28 GB RAM",
+      "12 vCPU, 56 GB RAM",
+      "Up to 6 vCPU Max 3 concurrent jobs",
+      "Start a 30 day free trial",
+      "Unlimited"
+    ],
+    "removed": [
+      "No credit card required",
+      "When you sign up, you start on a 30-day trial of the Pro plan. After 30 days, you’ll need to provide a credit card or contact us to continue to access the Buildkite platform."
+    ],
+    "totals": {
+      "removed": 129,
+      "added": 325,
+      "materialRemoved": 21,
+      "materialAdded": 85
+    }
+  },
+  {
+    "id": "buildkite-com-pricing-20251201093954",
+    "url": "https://buildkite.com/pricing/",
+    "ts": "20251201093954",
+    "date": "2025-12-01",
+    "source": "wayback",
+    "prevTs": "20251115031740",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Buildkite: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "buildkite-com-pricing-20260120161640",
+    "url": "https://buildkite.com/pricing/",
+    "ts": "20260120161640",
+    "date": "2026-01-20",
+    "source": "wayback",
+    "prevTs": "20251201093954",
+    "kind": "price",
+    "score": 36,
+    "counts": {
+      "price": 12,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Buildkite: 12 prices changed (added “$5.00 / MTok”)",
+    "pairs": [],
+    "added": [
+      "$5.00 / MTok",
+      "$25.00 / MTok",
+      "$6.25 / MTok",
+      "$0.50 / MTok",
+      "$3.00 / MTok",
+      "$15.00 / MTok",
+      "$3.75 / MTok",
+      "$0.30 / MTok",
+      "$1.00 / MTok",
+      "$5.00 / MTok",
+      "$1.25 / MTok",
+      "$0.10 / MTok"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 36,
+      "materialRemoved": 0,
+      "materialAdded": 12
+    }
+  },
+  {
+    "id": "buildkite-com-pricing-20260304034732",
+    "url": "https://buildkite.com/pricing/",
+    "ts": "20260304034732",
+    "date": "2026-03-04",
+    "source": "wayback",
+    "prevTs": "20260120161640",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Buildkite: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "buildkite-com-pricing-20260512120640",
+    "url": "https://buildkite.com/pricing/",
+    "ts": "20260512120640",
+    "date": "2026-05-12",
+    "source": "wayback",
+    "prevTs": "20260304034732",
+    "kind": "price",
+    "score": 86,
+    "counts": {
+      "price": 16,
+      "limit": 19,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Buildkite: 16 prices, 19 limits changed (removed “50k test executions/mo”; added “3 concurrent jobs, 1 user, 90-day retention”)",
+    "pairs": [],
+    "added": [
+      "Free forever; no credit card, no expiry",
+      "3 concurrent jobs, 1 user, 90-day retention",
+      "Unlimited Self-hosted: unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "2,000 mins/mo included Additional at per-minute rates",
+      "Up to 24 vCPU",
+      "1,500 mins included",
+      "Up to 12 vCPU",
+      "Unlimited Self-hosted: unlimited",
+      "Unlimited",
+      "90 days",
+      "Unlimited",
+      "Unlimited",
+      "20GB included",
+      "2,000 mins included",
+      "Up to 24 vCPU",
+      "1,500 mins included",
+      "Up to 12 vCPU",
+      "2,000 mins/mo included Additional at per-minute rates",
+      "What happens after 30 days?",
+      "No. The All Access Trial is completely free for 30 days with no credit card required. You only enter payment details if you choose to upgrade to Pro after your evaluation.",
+      "You get 2,000 vCPU minutes on Linux AMD64 (with 24 vCPU concurrency) and 1,500 vCPU minutes on macOS M4 (with 12 vCPU concurrency). Minutes are shared across agent shapes — for example, 1,000 minutes on Linux Small or 500 minutes on Linux Medium. You also get unlimited self-hosted agents.",
+      "Choose the Buildkite platform plan that works best for you, and then pay-as-you-go for a fully managed CI/CD environment. Each new signup gets a free two-week trial to test hosted agents before paying."
+    ],
+    "removed": [
+      "50k test executions/mo",
+      "1GB storage & bandwidth (combined)/mo",
+      "Then $2.50 USD per concurrent agent/mo",
+      "Unlimited",
+      "$ 30 USD, per active user/mo",
+      "2,000 minutes/month included Then $0.013 USD/minute",
+      "2 vCPU, 4 GB RAM",
+      "$0.026 USD/minute",
+      "4 vCPU, 16 GB RAM",
+      "$0.052 USD/minute",
+      "8 vCPU, 32 GB RAM",
+      "$0.18 USD/minute",
+      "6 vCPU, 28 GB RAM",
+      "$0.36 USD/minute",
+      "12 vCPU, 56 GB RAM",
+      "$ 0",
+      "500 minutes/month included Upgrade to Pro for more",
+      "2 vCPU, 4 GB RAM",
+      "4 vCPU, 16 GB RAM",
+      "8 vCPU, 32 GB RAM",
+      "6 vCPU, 28 GB RAM",
+      "12 vCPU, 56 GB RAM",
+      "$ 30 USD, per active user/mo",
+      "2,000 minutes/month included Then $0.013 USD/minute",
+      "2 vCPU, 4 GB RAM",
+      "$0.026 USD/minute",
+      "4 vCPU, 16 GB RAM",
+      "$0.052 USD/minute",
+      "8 vCPU, 32 GB RAM",
+      "$0.18 USD/minute",
+      "6 vCPU, 28 GB RAM",
+      "$0.36 USD/minute",
+      "12 vCPU, 56 GB RAM",
+      "2 vCPU, 4 GB RAM",
+      "4 vCPU, 16 GB RAM",
+      "8 vCPU, 32 GB RAM",
+      "6 vCPU, 28 GB RAM",
+      "12 vCPU, 56 GB RAM",
+      "Each new signup gets a free two-week trial to test hosted agents before paying.",
+      "$1.25 / MTok"
+    ],
+    "totals": {
+      "removed": 468,
+      "added": 505,
+      "materialRemoved": 72,
+      "materialAdded": 55
+    }
+  },
+  {
+    "id": "buildkite-com-pricing-20260819001236",
+    "url": "https://buildkite.com/pricing/",
+    "ts": "20260819001236",
+    "date": "2026-08-19",
+    "source": "wayback",
+    "prevTs": "20260512120640",
+    "kind": "price",
+    "score": 189,
+    "counts": {
+      "price": 40,
+      "limit": 32,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Buildkite: 40 prices, 32 limits, 3 plan names changed (2,000 → 4,000; 24 → 20)",
+    "pairs": [
+      {
+        "before": "2,000 mins/mo included Additional at per-minute rates",
+        "after": "4,000 mins/month included Additional at per-minute rates",
+        "confidence": 0.86,
+        "deltas": [
+          {
+            "before": "2,000",
+            "after": "4,000"
+          }
+        ]
+      },
+      {
+        "before": "Up to 24 vCPU",
+        "after": "Up to 20 vCPU",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "24",
+            "after": "20"
+          }
+        ]
+      },
+      {
+        "before": "Up to 48 vCPU",
+        "after": "Up to 256 vCPU",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "48",
+            "after": "256"
+          }
+        ]
+      },
+      {
+        "before": "Up to 24 vCPU",
+        "after": "Up to 48 vCPU",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "24",
+            "after": "48"
+          }
+        ]
+      },
+      {
+        "before": "90 days",
+        "after": "30 days",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "90",
+            "after": "30"
+          }
+        ]
+      },
+      {
+        "before": "2,000 mins/mo included Additional at per-minute rates",
+        "after": "4,000 mins/month included Additional at per-minute rates",
+        "confidence": 0.86,
+        "deltas": [
+          {
+            "before": "2,000",
+            "after": "4,000"
+          }
+        ]
+      },
+      {
+        "before": "Up to 48 vCPU",
+        "after": "Up to 256 vCPU",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "48",
+            "after": "256"
+          }
+        ]
+      },
+      {
+        "before": "Up to 24 vCPU",
+        "after": "Up to 48 vCPU",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "24",
+            "after": "48"
+          }
+        ]
+      },
+      {
+        "before": "Up to 12 vCPU",
+        "after": "Up to 20 vCPU",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "12",
+            "after": "20"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free Plan",
+      "No credit card needed to start",
+      "No credit card needed to start",
+      "Up to 5 users",
+      "Up to 250k test executions per month",
+      "30 days of full access to the entire Buildkite Platform",
+      "No credit card needed to start",
+      "The option to choose the plan that fits your needs after 30 days, or walk away without any commitment.",
+      "30 days of full access to the entire Buildkite Platform",
+      "No credit card needed to start",
+      "The option to choose the plan that fits your needs after 30 days, or walk away without any commitment.",
+      "Up to 50 users",
+      "1M test executions per month",
+      "Free Plan",
+      "Up to 250 10 included, then $3.50 agent/month",
+      "30 user minimum",
+      "30 days",
+      "30 days",
+      "250GB/month",
+      "250GB/month",
+      "2.5TB/month",
+      "250k/month",
+      "1M/month included Then $15/M executions",
+      "7 days",
+      "28 days",
+      "Free Plan",
+      "30 days",
+      "50GB/month",
+      "250GB/month",
+      "250k/month",
+      "24 hours",
+      "Up to 250 10 included, then $3.50 agent/month",
+      "30 days",
+      "250GB/month",
+      "2.5TB/month",
+      "1M/month included Then $15/M executions",
+      "7 days",
+      "30 user minimum",
+      "28 days",
+      "$0.004 USD per vCPU minute"
+    ],
+    "removed": [
+      "All Access Trial unlocked $ 0",
+      "Free forever; no credit card, no expiry",
+      "3 concurrent jobs, 1 user, 90-day retention",
+      "Unlimited users and test executions",
+      "Unlimited Self-hosted: unlimited",
+      "Unlimited 10 included, then $2.50 USD/agent/mo",
+      "Unlimited",
+      "Unlimited",
+      "250 included Then $0.10 USD/managed test/mo",
+      "Unlimited",
+      "50k/mo",
+      "Unlimited",
+      "20GB included Then $1.25 USD/GB/month",
+      "500 mins/mo Small only. Upgrade to Pro for more",
+      "Up to 6 vCPU Max 3 concurrent jobs",
+      "1,500 mins included",
+      "Unlimited Self-hosted: unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "1,500 mins included",
+      "50k/mo",
+      "500 mins/mo Small only. Upgrade to Pro for more",
+      "Up to 6 vCPU Max 3 concurrent jobs",
+      "Unlimited 10 included, then $2.50 USD/agent/mo",
+      "Unlimited",
+      "250 included Then $0.10 USD/managed test/mo",
+      "Unlimited",
+      "20GB included Then $1.25 USD/GB/month",
+      "1 year",
+      "Unlimited",
+      "You get 2,000 vCPU minutes on Linux AMD64 (with 24 vCPU concurrency) and 1,500 vCPU minutes on macOS M4 (with 12 vCPU concurrency). Minutes are shared across agent shapes — for example, 1,000 minutes on Linux Small or 500 minutes on Linux Medium. You also get unlimited self-hosted agents.",
+      "Tier 1: 1,000GB @ US$1.25 per GB",
+      "Tier 2: 2,500GB @ US$1.00 per GB",
+      "Tier 3: 5,000GB @ US$0.75 per GB",
+      "Tier 4: 20,000GB @ US$0.50 per GB",
+      "Tier 5: 50,000GB @ US$0.25 per GB",
+      "includes free storage for small, short-lived artifacts—up to 5GB per artifact, retained for six months. Buildkite Package Registries",
+      "Buildkite is free for open source projects. Get access to our Pro plan - contact us to discuss usage and inclusions.",
+      "Choose the Buildkite platform plan that works best for you, and then pay-as-you-go for a fully managed CI/CD environment. Each new signup gets a free two-week trial to test hosted agents before paying."
+    ],
+    "totals": {
+      "removed": 492,
+      "added": 256,
+      "materialRemoved": 83,
+      "materialAdded": 77
+    }
+  },
+  {
+    "id": "buildkite-com-pricing-20260901171817",
+    "url": "https://buildkite.com/pricing/",
+    "ts": "20260901171817",
+    "date": "2026-09-01",
+    "source": "wayback",
+    "prevTs": "20260819001236",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Buildkite: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "No credit card required See what’s included",
+      "No credit card required See what’s included"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 6,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  }
+]

@@ -1,0 +1,98 @@
+Straightforward Pricing
+Access our models directly through our API to create scalable production workloads.
+Contact Sales
+Generative Models
+Command R+
+Command R+, our most powerful, scalable large language model (LLM) purpose-built to excel at real-world enterprise use cases.
+Input
+$ 2.50
+/ 1M tokens
+Output
+$ 10.00
+/ 1M tokens
+Learn more about Command
+Command R
+new
+Command R is a generative model optimized for long context tasks such as retrieval-augmented generation (RAG) and using external APIs and tools.
+Input
+$ 0.15
+/ 1M tokens
+Output
+$ 0.60
+/ 1M tokens
+Fine-tuned Model
+Command R
+Fine-tuned Model
+new
+Input
+$ 0.30
+/ 1M tokens
+Output
+$ 1.20
+/ 1M tokens
+Training
+$ 3.00
+/ 1M tokens
+The pricing above is applicable to the most recent versions of the Command R series of models, Command R 08-2024 and Command R+ 08-2024. See the FAQ for pricing details for previous versions of Command R 03-2024 and Command R+ 04-2024. We charge differently for input and output tokens. You are charged based on the sum of tokens processed.
+Retrieval Models
+Rerank 3
+new
+Rerank provides a powerful semantic boost to the search quality of any keyword or vector search system without requiring any overhaul or replacement.
+Cost
+$ 2.00
+/ 1K searches
+Learn more about rerank
+We count a single search unit as a query with up to 100 documents to be ranked. Documents longer than 4096 tokens when including the length of the search query will be split up into multiple chunks, where each chunk counts as a singular document. Fine-tuning inference costs will be the same as our base models.
+Embed 3
+Embed is the leading multimodal embedding model. It acts as an intelligent retrieval engine for semantic search and retrieval-augmented generation (RAG) systems.
+Cost
+$ 0.10
+/ 1M tokens
+Image Cost
+$ 0.0001
+/ 1 Image
+Learn more about embed
+Embeddings perform best when the text to be embedded is less than 512 tokens. You can create up to 96 text embeddings per API call. You can create 1 image embedding per API call.
+We count a single search unit as a query with up to 100 documents to be ranked. Documents longer than 4096 tokens when including the length of the search query will be split up into multiple chunks, where each chunk counts as a singular document. Fine-tuning inference costs will be the same as our base models.
+Embeddings perform best when the text to be embedded is less than 512 tokens. You can create up to 96 text embeddings per API call. You can create 1 image embedding per API call.
+Our Customers
+Contact Sales
+Want to speak directly with someone? Please provide your information and someone from our team will get back to you shortly.
+Cloud and private deployment options
+Command, Embed, Rerank use cases
+Questions on pricing, billing, and rate limits
+Frequently Asked Questions
+1. How do I get a Trial API Key?
+When an account is created, we automatically create an Trial API key for you. This API key will be available on the dashboard for you to copy, as well as in the dashboard section called “API Keys.”
+2. How do I get a Production API key?
+To get a Production key, you'll need to have Owner privileges (or ask your organization Owner to complete the following steps). Navigate to the Billing and Usage page in your Cohere dashboard. Click on the Get Your Production key button and fill out the Go to Production workflow.
+3. What is the difference between a Trial API key and Production API key?
+API calls made from a Trial API key are free. However, trial keys are rate limited and are not permitted to be used for production or commercial purposes. API calls made from a Production API key will be charged on a pay-as-you-go basis. Production API keys are designed for production use at scale.
+4. Are there any account limitations upon signup?
+Every account begins as a personal account and only has access to Trial API keys. As a personal account, you will not be able to add other members until you become part of an organization.
+5. What is the difference between an organization and a personal account?
+At Cohere, an organization is a group of personal accounts that share a singular billing portal. Organizations are not automatically given Production API key access, and a member of the organization must still fill out our application form for production access. Personal accounts cannot share billing information with other accounts.
+6. Which model should I pick?
+Your model selection reflects your relative prioritization of model performance and speed. Larger models offer better performance and are capable of more complex tasks, while smaller models have faster response times.
+7. When do I get billed?
+API calls made from a Trial API key will be free. API calls made from a Production key will be billed on a pay-as-you-go basis. Your bill will be issued at the end of every calendar month or when you reach $250 in outstanding balances.
+8. The endpoint I’m using is billed by token. What is a token?
+Language models understand “tokens” rather than characters or bytes. The number of tokens per word depends on the complexity of the text. Simple text may approach 1 token per word on average, while complex texts may use less common words that require 3-4 tokens per word on average. For more details on tokens, refer to this page
+.
+9. What endpoints does the Command R family support?
+The Command R family supports the chat endpoint. For existing customers using the summarize or generate endpoints, pricing will not change, remaining at $0.50/1M Tokens for Input and $1.50/1M Tokens for Output.
+10. Where do I find pricing for our legacy models (i.e. Rerank 2, Command Light, and Classify)?
+For existing customers:
+- Classify pricing is $0.05/1K Classifications for Input and Output
+- Command pricing is $1.00/1M Tokens for Input and $2.00/1M Tokens for Output
+- Command-light pricing is $0.30/1M Tokens for Input and $0.60/1M Tokens for Output
+- Command R 03-2024 pricing is $0.50/1M Tokens for Input and $1.50/1M Tokens for Output
+- Command R+ 04-2024 pricing is $3.00/1M Tokens for Input and $15.00/1M Tokens for Output
+- Rerank 2 pricing is $1.00/1K Searches for Input and Output
+11. What is the cost for accessing the research Aya models via the API?
+Aya Expanse models (8B and 32B) on the API are charged at $0.50/1M Tokens for Input and $1.50/1M Tokens for Output. Find more information about the Aya models here
+.
+Want to try it first?
+Create an account and build with Cohere
+Try the Playground
+Read our docs

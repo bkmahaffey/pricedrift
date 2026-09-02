@@ -1,0 +1,46 @@
+Docs
+Pricing
+Company
+Log in
+Sign Up
+Simple pricing
+With Modal, you always pay for what you use, and nothing more. You never pay for idle resources — just actual compute time, down to the percentage.
+CPU
+$0.000053333 /core/s
+$0.192/core/h
+Memory
+$0.000006667 /GiB/s
+$0.024/GiB/h
+GPU (T4)
+$0.000163889 /s
+$0.59/h
+GPU (A10G)
+$0.000305556 /s
+$1.10/h
+GPU (A100 40GB)
+$0.000527778 /s
+$1.90/h
+Cron jobs
+unlimited
+Webhooks
+unlimited
+Monitoring
+unlimited
+Logging
+unlimited
+Custom images
+unlimited
+CPU tasks
+Modal measures the CPU utilization continuously in terms of the number of fractional physical cores. Each physical core is equivalent to 2 vCPUs.
+Memory consumption is measured continuously. For both memory and CPU, you only pay for what you actually use, and nothing more.
+Example: Cron job
+You schedule a job to run once an hour for 15 seconds. This job uses 50% of one CPU core and 256 MiB of memory.
+This job will cost $0.0096/day for the CPU, and $0.0006/day for the memory, adding up to $0.0102/day, or $0.306/month.
+GPU tasks
+There is an additional charge for GPU tasks which depends on the type of GPU you're using. Multi-GPU options are coming soon!
+Example: Stable diffusion
+You run stable diffusion on an A10G GPU. This will run for about 1.5 seconds to generate each image, while using 4GB RAM and 1 CPU.
+This will cost $0.000458333/image in GPU charges, $0.00008/image in CPU charges, and $0.00004/image in memory charges, adding up to $0.000578333/image in total charges, i.e. $0.587333 per 1,000 images.
+Try it before you buy it
+All Modal users get $30/month of free credits.
+Sign up

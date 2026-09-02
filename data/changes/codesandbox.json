@@ -1,0 +1,910 @@
+[
+  {
+    "id": "codesandbox-io-pricing-20230221164833",
+    "url": "https://codesandbox.io/pricing",
+    "ts": "20230221164833",
+    "date": "2023-02-21",
+    "source": "wayback",
+    "prevTs": "20230122115854",
+    "kind": "limits",
+    "score": 12,
+    "counts": {
+      "price": 0,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "CodeSandbox: 6 limits changed (4GB → 2GB; 4GB → 6GB)",
+    "pairs": [
+      {
+        "before": "4GB RAM",
+        "after": "2GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4GB",
+            "after": "2GB"
+          }
+        ]
+      },
+      {
+        "before": "4GB Disk",
+        "after": "6GB Disk",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4GB",
+            "after": "6GB"
+          }
+        ]
+      },
+      {
+        "before": "4GB RAM",
+        "after": "2GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4GB",
+            "after": "2GB"
+          }
+        ]
+      },
+      {
+        "before": "4GB Disk",
+        "after": "6GB Disk",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4GB",
+            "after": "6GB"
+          }
+        ]
+      },
+      {
+        "before": "500MB per user",
+        "after": "1000MB per user",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "500MB",
+            "after": "1000MB"
+          }
+        ]
+      },
+      {
+        "before": "30MB upload",
+        "after": "60MB upload",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "30MB",
+            "after": "60MB"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 8,
+      "added": 8,
+      "materialRemoved": 6,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "codesandbox-io-pricing-20230307222521",
+    "url": "https://codesandbox.io/pricing",
+    "ts": "20230307222521",
+    "date": "2023-03-07",
+    "source": "wayback",
+    "prevTs": "20230221164833",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "CodeSandbox: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 7,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "codesandbox-io-pricing-20230412103426",
+    "url": "https://codesandbox.io/pricing",
+    "ts": "20230412103426",
+    "date": "2023-04-12",
+    "source": "wayback",
+    "prevTs": "20230307222521",
+    "kind": "price",
+    "score": 16,
+    "counts": {
+      "price": 2,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "CodeSandbox: 2 prices, 5 limits changed ($15 → $9; $18 → $12)",
+    "pairs": [
+      {
+        "before": "Team Pro $15",
+        "after": "Team Pro $9",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$15",
+            "after": "$9"
+          }
+        ]
+      },
+      {
+        "before": "per editor per month, billed annually or $18 per month.",
+        "after": "per editor per month, billed annually or $12 per month.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$18",
+            "after": "$12"
+          }
+        ]
+      },
+      {
+        "before": "6GB RAM",
+        "after": "2GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "6GB",
+            "after": "2GB"
+          }
+        ]
+      },
+      {
+        "before": "12GB Disk",
+        "after": "6GB Disk",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "12GB",
+            "after": "6GB"
+          }
+        ]
+      },
+      {
+        "before": "6GB RAM",
+        "after": "2GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "6GB",
+            "after": "2GB"
+          }
+        ]
+      },
+      {
+        "before": "4 vCPUs",
+        "after": "2 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4",
+            "after": "2"
+          }
+        ]
+      },
+      {
+        "before": "12GB Disk",
+        "after": "6GB Disk",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "12GB",
+            "after": "6GB"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 29,
+      "added": 13,
+      "materialRemoved": 9,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "codesandbox-io-pricing-20230525103959",
+    "url": "https://codesandbox.io/pricing",
+    "ts": "20230525103959",
+    "date": "2023-05-25",
+    "source": "wayback",
+    "prevTs": "20230412103426",
+    "kind": "price",
+    "score": 20,
+    "counts": {
+      "price": 2,
+      "limit": 7,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "CodeSandbox: 2 prices, 7 limits changed ($9 → $15; $12 → $18)",
+    "pairs": [
+      {
+        "before": "Team Pro $9",
+        "after": "Team Pro $15",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$9",
+            "after": "$15"
+          }
+        ]
+      },
+      {
+        "before": "per editor per month, billed annually or $12 per month.",
+        "after": "per editor per month, billed annually or $18 per month.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$12",
+            "after": "$18"
+          }
+        ]
+      },
+      {
+        "before": "6GB Disk",
+        "after": "12GB Disk",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "6GB",
+            "after": "12GB"
+          }
+        ]
+      },
+      {
+        "before": "2 vCPUs",
+        "after": "4 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2",
+            "after": "4"
+          }
+        ]
+      },
+      {
+        "before": "6GB Disk",
+        "after": "12GB Disk",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "6GB",
+            "after": "12GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "2GiB RAM",
+      "8GiB RAM",
+      "2GiB RAM",
+      "8GiB RAM"
+    ],
+    "removed": [
+      "2GB RAM",
+      "2GB RAM",
+      "2GB RAM",
+      "2GB RAM",
+      "school We can provide more flexible free plans for educators and open source contributors. Request access chevron_right"
+    ],
+    "totals": {
+      "removed": 11,
+      "added": 11,
+      "materialRemoved": 11,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "codesandbox-io-pricing-20230603052852",
+    "url": "https://codesandbox.io/pricing",
+    "ts": "20230603052852",
+    "date": "2023-06-03",
+    "source": "wayback",
+    "prevTs": "20230525103959",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "CodeSandbox: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 7,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "codesandbox-io-pricing-20230826042253",
+    "url": "https://codesandbox.io/pricing",
+    "ts": "20230826042253",
+    "date": "2023-08-26",
+    "source": "wayback",
+    "prevTs": "20230603052852",
+    "kind": "price",
+    "score": 33,
+    "counts": {
+      "price": 5,
+      "limit": 6,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "CodeSandbox: 5 prices, 6 limits, 3 plan names changed (removed “Up to 5 editors”; added “per editor per month, billed annually. + $2 f…”)",
+    "pairs": [],
+    "added": [
+      "Free to learn and experiment.",
+      "Free for individuals",
+      "Unlimited public sandboxes",
+      "Unlimited public repositories",
+      "per editor per month, billed annually. + $2 for the 2nd and 3rd editor.",
+      "Unlimited editors",
+      "Unlimited editors",
+      "Unlimited public & private sandboxes",
+      "Unlimited public & private repositories",
+      "Free",
+      "$15 / month",
+      "2-3 users",
+      "+ $2 per user / month",
+      "+ $15 for every",
+      "500MB/user",
+      "30MB upload",
+      "2GB RAM",
+      "8GB RAM",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "removed": [
+      "Up to 5 editors",
+      "per editor per month, billed annually or $18 per month.",
+      "Up to 20 editors",
+      "Unlimited sandboxes",
+      "Unlimited repositories",
+      "Free",
+      "Unlimited (public and private)",
+      "Unlimited (public and private)",
+      "2GiB RAM",
+      "8GiB RAM",
+      "Use any of the 1M+ public packages on npm in your sandboxes.",
+      "1000MB per user",
+      "60MB upload"
+    ],
+    "totals": {
+      "removed": 44,
+      "added": 131,
+      "materialRemoved": 17,
+      "materialAdded": 24
+    }
+  },
+  {
+    "id": "codesandbox-io-pricing-20230921093444",
+    "url": "https://codesandbox.io/pricing",
+    "ts": "20230921093444",
+    "date": "2023-09-21",
+    "source": "wayback",
+    "prevTs": "20230826042253",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "CodeSandbox: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "codesandbox-io-pricing-20231113194435",
+    "url": "https://codesandbox.io/pricing",
+    "ts": "20231113194435",
+    "date": "2023-11-13",
+    "source": "wayback",
+    "prevTs": "20230921093444",
+    "kind": "limits",
+    "score": 9,
+    "counts": {
+      "price": 0,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "CodeSandbox: 5 limits changed (removed “2vCPUs”; added “2 vCPUs”)",
+    "pairs": [],
+    "added": [
+      "2 vCPUs",
+      "Up to 20 editors",
+      "4 vCPUs",
+      "Unlimited API",
+      "Up to 128 GiB RAM",
+      "Up to 64 vCPUs",
+      "Unlimited disk",
+      "Up to 128GB RAM",
+      "Up to 64 vCPUs",
+      "Unlimited Disk"
+    ],
+    "removed": [
+      "2vCPUs",
+      "Unlimited editors",
+      "4vCPUs",
+      "Unlimited public & private sandboxes",
+      "Unlimited public & private repositories"
+    ],
+    "totals": {
+      "removed": 31,
+      "added": 41,
+      "materialRemoved": 9,
+      "materialAdded": 14
+    }
+  },
+  {
+    "id": "codesandbox-io-pricing-20231228225858",
+    "url": "https://codesandbox.io/pricing",
+    "ts": "20231228225858",
+    "date": "2023-12-28",
+    "source": "wayback",
+    "prevTs": "20231113194435",
+    "kind": "plans",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "CodeSandbox: 2 plan names changed",
+    "pairs": [],
+    "added": [
+      "Unlimited public devboxes",
+      "Free",
+      "Free",
+      "Create unlimited sandboxes as you need and manage their permissions.",
+      "Create unlimited devboxes as you need and manage their permissions."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 18,
+      "added": 24,
+      "materialRemoved": 1,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "codesandbox-io-pricing-20240117120209",
+    "url": "https://codesandbox.io/pricing",
+    "ts": "20240117120209",
+    "date": "2024-01-17",
+    "source": "wayback",
+    "prevTs": "20231228225858",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "CodeSandbox: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "codesandbox-io-pricing-20240222011426",
+    "url": "https://codesandbox.io/pricing",
+    "ts": "20240222011426",
+    "date": "2024-02-22",
+    "source": "wayback",
+    "prevTs": "20240117120209",
+    "kind": "price",
+    "score": 61,
+    "counts": {
+      "price": 8,
+      "limit": 15,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "CodeSandbox: 8 prices, 15 limits, 4 plan names changed (removed “2 GiB RAM”; added “Usage check Up to 40 hours worth of VM credit…”)",
+    "pairs": [],
+    "added": [
+      "Free For learning and experimenting",
+      "Get started for free",
+      "Usage check Up to 40 hours worth of VM credits Credits measure VM runtime and apply to Devboxes and Repositories.",
+      "check 20 GB storage per VM",
+      "check VMs up to 4 vCPUs + 8 GB RAM",
+      "check Unlimited Devboxes Devboxes are our Cloud Development Environment, which runs in virtual machines and requires VM credits.",
+      "check 5 members",
+      "$9 Early access discount",
+      "Usage check Start from 100 hours worth of VM credits Credits measure VM runtime and apply to Devboxes and Repositories.",
+      "check 50 GB storage per VM",
+      "check VMs up to 16 vCPUs + 32 GB RAM",
+      "check Unlimited Devboxes Devboxes are our Cloud Development Environment, which runs in virtual machines and requires VM credits.",
+      "check Unlimited personal drafts Personal drafts are Sandbox drafts that are not shareable or embeddable.",
+      "for $0.18 per hour",
+      "Features check All free features",
+      "Everything in Pro, plus: check Unlimited members",
+      "check Unlimited API",
+      "check VMs up to 64 vCPUs + 128 GB RAM",
+      "Discounts for education, open source and non-profits. Get special conditions and free or low-cost access to CodeSandbox if you're working on educational projects, licensed open-source software, developer community projects or for non-profit organizations.",
+      "Unlimited",
+      "20 GB",
+      "50 GB",
+      "Unlimited",
+      "16 vCPUs",
+      "32 GB RAM",
+      "VM credits are only used on Devboxes and repositories, to translate virtual machine (VM) runtime per hour into precise costs. They are priced at $0.018 each.",
+      "Start for free"
+    ],
+    "removed": [
+      "Free for individuals or small teams",
+      "Unlimited public sandboxes",
+      "Unlimited public devboxes",
+      "Unlimited public repositories",
+      "2 GiB RAM",
+      "2 vCPUs",
+      "6 GB Disk",
+      "Pro $15",
+      "per editor per month, billed annually. + $2 for the 2nd and 3rd editor.",
+      "8 GiB RAM",
+      "12 GB Disk",
+      "Unlimited editors",
+      "Unlimited API",
+      "Up to 128 GiB RAM",
+      "Unlimited disk",
+      "$15 / month",
+      "2-3 users",
+      "Free",
+      "+ $2 per user / month",
+      "Free",
+      "+ $15 for every",
+      "Create unlimited sandboxes as you need and manage their permissions.",
+      "Create unlimited devboxes as you need and manage their permissions.",
+      "20MB total",
+      "7MB upload",
+      "500MB/user",
+      "30MB upload",
+      "2GB RAM",
+      "2 vCPUs",
+      "6GB Disk",
+      "4 vCPUs",
+      "12GB Disk",
+      "Up to 64 vCPUs",
+      "Unlimited Disk"
+    ],
+    "totals": {
+      "removed": 265,
+      "added": 106,
+      "materialRemoved": 40,
+      "materialAdded": 33
+    }
+  },
+  {
+    "id": "codesandbox-io-pricing-20240312063810",
+    "url": "https://codesandbox.io/pricing",
+    "ts": "20240312063810",
+    "date": "2024-03-12",
+    "source": "wayback",
+    "prevTs": "20240222011426",
+    "kind": "limits",
+    "score": 14,
+    "counts": {
+      "price": 0,
+      "limit": 7,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "CodeSandbox: 7 limits changed (8GB → 8GiB; 32GB → 32GiB)",
+    "pairs": [
+      {
+        "before": "check VMs up to 4 vCPUs + 8 GB RAM",
+        "after": "check VMs up to 4 vCPUs + 8 GiB RAM",
+        "confidence": 0.8,
+        "deltas": [
+          {
+            "before": "8GB",
+            "after": "8GiB"
+          }
+        ]
+      },
+      {
+        "before": "check VMs up to 16 vCPUs + 32 GB RAM",
+        "after": "check VMs up to 16 vCPUs + 32 GiB RAM",
+        "confidence": 0.8,
+        "deltas": [
+          {
+            "before": "32GB",
+            "after": "32GiB"
+          }
+        ]
+      },
+      {
+        "before": "check VMs up to 64 vCPUs + 128 GB RAM",
+        "after": "check VMs up to 64 vCPUs + 128 GiB RAM",
+        "confidence": 0.8,
+        "deltas": [
+          {
+            "before": "128GB",
+            "after": "128GiB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "check Unlimited Sandboxes Sandboxes are powered by your browser and don't require credits to run.",
+      "check Unlimited Codeium AI code completions",
+      "Unlimited",
+      "8 GiB RAM",
+      "32 GiB RAM",
+      "128 GiB RAM"
+    ],
+    "removed": [
+      "check 20 GB storage per VM",
+      "check 50 GB storage per VM",
+      "8 GB RAM",
+      "32 GB RAM",
+      "128 GB RAM"
+    ],
+    "totals": {
+      "removed": 14,
+      "added": 13,
+      "materialRemoved": 8,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "codesandbox-io-pricing-20240415224727",
+    "url": "https://codesandbox.io/pricing",
+    "ts": "20240415224727",
+    "date": "2024-04-15",
+    "source": "wayback",
+    "prevTs": "20240312063810",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "CodeSandbox: 2 limits changed (32GiB → 32GB)",
+    "pairs": [
+      {
+        "before": "check VMs up to 16 vCPUs + 32 GiB RAM",
+        "after": "check VMs up to 16 vCPUs + 32 GB RAM",
+        "confidence": 0.8,
+        "deltas": [
+          {
+            "before": "32GiB",
+            "after": "32GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "check 50 GB storage per VM"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 7,
+      "materialRemoved": 2,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "codesandbox-io-pricing-20240915210321",
+    "url": "https://codesandbox.io/pricing",
+    "ts": "20240915210321",
+    "date": "2024-09-15",
+    "source": "wayback",
+    "prevTs": "20240415224727",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "CodeSandbox: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "check Unlimited public Sandboxes Sandboxes are powered by your browser and don't require credits to run.",
+      "check Unlimited public Sandboxes Sandboxes are powered by your browser and don't require credits to run.",
+      "check Unlimited private Sandboxes Sandboxes are powered by your browser and don't require credits to run.",
+      "check Unlimited personal drafts Personal drafts are Sandbox drafts that are not shareable or embeddable.",
+      "Unlimited"
+    ],
+    "removed": [
+      "check Unlimited Sandboxes Sandboxes are powered by your browser and don't require credits to run."
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 14,
+      "materialRemoved": 2,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "codesandbox-io-pricing-20250123212032",
+    "url": "https://codesandbox.io/pricing",
+    "ts": "20250123212032",
+    "date": "2025-01-23",
+    "source": "wayback",
+    "prevTs": "20240915210321",
+    "kind": "price",
+    "score": 15,
+    "counts": {
+      "price": 2,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "CodeSandbox: 2 prices, 5 limits changed (removed “check 50 GB storage per VM”; added “check VMs up to 16 vCPUs + 32 GiB RAM”)",
+    "pairs": [],
+    "added": [
+      "check VMs up to 16 vCPUs + 32 GiB RAM",
+      "$119",
+      "Usage check Start from 160 hours of monthly VM credits Credits measure VM runtime and apply to Devboxes and Repositories.",
+      "check Unlimited Sandboxes & Devboxes Devboxes are our Cloud Development Environment, which runs in virtual machines and requires VM credits.",
+      "check 20 members",
+      "for $0.18 per hour",
+      "check Unlimited members",
+      "20 GB",
+      "Unlimited",
+      "Unlimited",
+      "16 vCPUs",
+      "32 GiB RAM"
+    ],
+    "removed": [
+      "check Unlimited public Sandboxes Sandboxes are powered by your browser and don't require credits to run.",
+      "check Unlimited personal drafts Personal drafts are Sandbox drafts that are not shareable or embeddable.",
+      "check 50 GB storage per VM",
+      "check VMs up to 16 vCPUs + 32 GB RAM",
+      "check Unlimited public Sandboxes Sandboxes are powered by your browser and don't require credits to run.",
+      "check Unlimited private Sandboxes Sandboxes are powered by your browser and don't require credits to run.",
+      "check Unlimited personal drafts Personal drafts are Sandbox drafts that are not shareable or embeddable.",
+      "check Unlimited Codeium AI code completions",
+      "Everything in Pro, plus: check Unlimited members",
+      "check Unlimited API",
+      "50 GB",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 47,
+      "added": 42,
+      "materialRemoved": 18,
+      "materialAdded": 17
+    }
+  },
+  {
+    "id": "codesandbox-io-pricing-20250312180919",
+    "url": "https://codesandbox.io/pricing",
+    "ts": "20250312180919",
+    "date": "2025-03-12",
+    "source": "wayback",
+    "prevTs": "20250123212032",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "CodeSandbox: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 5,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "codesandbox-io-pricing-20250601150053",
+    "url": "https://codesandbox.io/pricing",
+    "ts": "20250601150053",
+    "date": "2025-06-01",
+    "source": "wayback",
+    "prevTs": "20250312180919",
+    "kind": "price",
+    "score": 26,
+    "counts": {
+      "price": 7,
+      "limit": 2,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "CodeSandbox: 7 prices, 2 limits, 1 plan name changed ($0.018 → $0.015)",
+    "pairs": [
+      {
+        "before": "VM credits are only used on Devboxes to translate virtual machine (VM) runtime per hour into precise costs. They are priced at $0.018 each.",
+        "after": "VM credits are only used on VM Sandboxes to translate virtual machine (VM) runtime per hour into precise costs. They are priced at $0.015 each.",
+        "confidence": 0.89,
+        "deltas": [
+          {
+            "before": "$0.018",
+            "after": "$0.015"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "check Unlimited Browser & VM Sandboxes VM Sandboxes run on virtual machines and require VM credits.",
+      "$170",
+      "priced at $0.15 per hour",
+      "Everything in Scale, plus: Usage check Unlimited members"
+    ],
+    "removed": [
+      "Free For learning and experimenting",
+      "check Unlimited Sandboxes & Devboxes Devboxes are our Cloud Development Environment, which runs in virtual machines and requires VM credits.",
+      "$9",
+      "Usage check Start from 100 hours of monthly VM credits Credits measure VM runtime and apply to Devboxes and Repositories.",
+      "check Unlimited Sandboxes & Devboxes Devboxes are our Cloud Development Environment, which runs in virtual machines and requires VM credits.",
+      "for $0.18 per hour",
+      "Features check All free features",
+      "check VMs up to 16 vCPUs + 32 GiB RAM",
+      "$119",
+      "check Unlimited Sandboxes & Devboxes Devboxes are our Cloud Development Environment, which runs in virtual machines and requires VM credits.",
+      "check 20 members",
+      "for $0.18 per hour",
+      "check Unlimited members",
+      "Free",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 64,
+      "added": 52,
+      "materialRemoved": 22,
+      "materialAdded": 11
+    }
+  }
+]

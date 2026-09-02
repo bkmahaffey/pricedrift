@@ -1,0 +1,55 @@
+Summary
+Beginning March 25, 2025 and when creating a new Twilio SendGrid account for email sending through either www.twilio.com
+(then navigating to SendGrid) or directly with www.sendgrid.com
+users will be given a 60 day timed free trial plan. This trial period provides your team with time to evaluate and test the email offerings of the Twilio SendGrid product before determining if an Email API and Marketing Campaigns paid plan
+makes sense for your business.
+Trial Features
+Twilio SendGrid accounts are primarily separated into two main account plan types: "Email API" and "Marketing Campaigns". Accounts on a 60 day timed trial plan will grant temporary access to using both plan types--allowing time to test the functionality of each plan based on your team's needs. Both "Email API" and "Marketing Campaigns" have individual limitations (and can also be upgraded and downgraded independently) during the trial period as follows:
+Email API
+Send up to 100 email messages via web API or SMTP per day
+Try most of the features related to the "Essentials" Email API plan
+An example of using the "Email API" trial period to test the Twilio SendGrid platform includes configuring your domain authentication
+via "Settings > Sender Authentication", creating an API key with email send permissions and then sending from your authenticated domain via your API key using one of our code libraries
+These are fundamental steps for sending a message via the web API
+.
+After the 60 day trial period, email send via any web API or SMTP integration for the account will stop unless an appropriate "Email API" plan is chosen before then via "Settings > Account Details > Your Products".
+Marketing Campaigns
+Send up to 100 email messages via Marketing Campaigns per day
+Store up to 100 contacts (during the 60 day period) within Marketing Campaigns
+An example of using "Marketing Campaigns" features to send messages includes logging into your Twilio SendGrid account and then navigating to the "Marketing" section of the console user interface. Here, there are options to upload contacts (e.g. recipient email addresses) and creating a single send campaign. You may test sending any created single sends to recipients ( How to Send Emails with Marketing Campaigns
+) within the given limits above during the 60 day trial period.
+When the trial ends, the "Marketing" features in the console will be inaccessible and email functionality will stop. This includes access to both single sends and contacts, so please consider an appropriate "Marketing Campaigns" plan prior to the end of the trial period by navigating to "Settings > Account Details > Your Products".
+End of Trial
+After your account's trial period ends for "Email API" or "Marketing Campaigns", many features will be inaccessible and email send will be stopped unless either package is upgraded to a paid plan. Note that your team will still be able to login to your account with any valid credentials and navigate some of the Twilio SendGrid user interface console without restriction. There will be a banner displayed across the top of the user interface alerting that your trial period has ended.
+If your account's trial period (60 days) expires, the following will occur:
+End of "Email API" Trial
+Any active email send integration using your account's API keys will stop sending messages
+End of "Marketing Campaigns" Trial
+Any active email send for Marketing Campaigns will stop sending messages
+Access to the "Marketing" user interface console will no longer be possible
+It is encouraged for your team to test and explore the features of the Twilio SendGrid platform during the trial period. However, failure to upgrade either "Email API" or "Marketing Campaigns" (or both if applicable) will result in a loss of the above access and inability to send email.
+Our technical support team cannot directly restore access to "Marketing" if the "Marketing Campaigns" trial period ends nor can we restore the ability to send email for either "Email API" or "Marketing Campaigns". An account can be upgraded during or after a trial period to regain access and mail send functionality by navigating to "Settings > Account Details > Your Products".
+Frequently Asked Questions (FAQ)
+How can I ensure my email send continues after the trial period ends?
+Please note that a separate trial period for both "Email API" and "Marketing Campaigns" exists and is 60 days. During the period, it is possible to send up to 100 emails per day to test the platform. It will be necessary to upgrade to an appropriate plan for either plan type to continue sending email messages after this period. This can be done via "Settings > Account Details > Your Products". If an upgrade does not take place within the trial period for either plan, the plan will resolve to "en
+My "Marketing Campaigns" trial period ended. I am no longer able to access "Marketing" within the user interface at SendGrid.
+Your account will no longer be able to access the test contacts and single sends your team uploaded into "Marketing" section within the SendGrid user interface after the "Marketing Campaigns" trial period expires. Although the data is not deleted, the only way to access this data is to upgrade "Marketing Campaigns" to at least Basic or above plan via "Settings > Account Details > Your Products". Our technical support will be unable to recover the contacts, single sends or other resources uploade
+What happens if I downgrade or cancel a paid Email API or Marketing Campaigns plan on my account? Do those plans now go to a Trial plan?
+Yes. Upon downgrading or canceling a paid plan for either Email API or Marketing Campaigns, this plan will have until the end of the month to use its features and email send functionality. At the turn of the month, the plan will be on the "end of trial" plan status which will not allow for email send and block access to some features (i.e. if a paid Marketing Campaigns plan is downgraded or cancelled, access to the user interface "Marketing" element, any Marketing Campaigns endpoints for the API
+I signed up through a Twilio SendGrid partner or already had an existing Free account at SendGrid. Am I now on a trial plan?
+The information in this article primarily pertains to newly created Twilio SendGrid accounts. Existing free accounts or new accounts created through a partner platform (e.g. Microsoft Azure) may experience a difference in features and will be on their current plan unless otherwise notified.
+Important: Please note that if you cancel an existing Free plan or downgrade an existing paid plan to free for any Twilio SendGrid account created directly through www.sendgrid.com
+or www.twilio.com,
+the resulting "Email API" or "Marketing Campaigns" package will be set to "end of trial" status.
+I also use Twilio for other functions (e.g. SMS Messaging or Voice APIs). Does this affect those functions?
+No. These trial changes affect new accounts created for email sending with the Twilio SendGrid product for email specifically.
+I created a new trial account for Twilio SendGrid, but it is currently inaccessible or inactive.
+Based on the email address used to sign up for a trial account, please be mindful of any notices that our support or compliance team sends to you in relationship to a trial account's status. This may include needing to provide us with additional information or work with our team prior to your account being active with its trial features and access. Please refer to any direct messages sent to you about your trial account or work with our technical support team by filing a support request via supp
+For further assistance beyond what is provided in this article, please contact our support team through support.sendgrid.com.
+Have more questions? Submit a request
+Related articles
+Requesting account data deletion
+Cancel/Downgrade Your Twilio SendGrid Paid Subscription
+Contacting Twilio SendGrid Support
+Deleting Contacts in a Segment
+Changing a Twilio SendGrid plan

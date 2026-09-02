@@ -1,0 +1,1814 @@
+[
+  {
+    "id": "prisma-io-pricing-20230307091600",
+    "url": "https://www.prisma.io/pricing",
+    "ts": "20230307091600",
+    "date": "2023-03-07",
+    "source": "wayback",
+    "prevTs": "20230121154712",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 8,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Prisma Postgres: 8 prices changed (removed “30,000 CPU-seconds per month included. Overag…”; added “$0/ month”)",
+    "pairs": [],
+    "added": [
+      "$0/ month",
+      "$29/ month",
+      "30 million CPU milliseconds per month included. Overages at $0.0000008/mo per CPU ms",
+      "$0/ month",
+      "$29/ month",
+      "30 million CPU milliseconds per month included. Overages at $0.0000008/mo per CPU ms"
+    ],
+    "removed": [
+      "30,000 CPU-seconds per month included. Overages at $0.0008/mo per CPU-second",
+      "30,000 CPU-seconds per month included. Overages at $0.0008/mo per CPU-second"
+    ],
+    "totals": {
+      "removed": 11,
+      "added": 11,
+      "materialRemoved": 2,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "prisma-io-pricing-20230701195055",
+    "url": "https://www.prisma.io/pricing",
+    "ts": "20230701195055",
+    "date": "2023-07-01",
+    "source": "wayback",
+    "prevTs": "20230307091600",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Prisma Postgres: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 6,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "prisma-io-pricing-20231127210819",
+    "url": "https://www.prisma.io/pricing",
+    "ts": "20231127210819",
+    "date": "2023-11-27",
+    "source": "wayback",
+    "prevTs": "20230701195055",
+    "kind": "price",
+    "score": 88,
+    "counts": {
+      "price": 25,
+      "limit": 5,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Prisma Postgres: 25 prices, 5 limits, 2 plan names changed ($0 → $49; $29 → $299)",
+    "pairs": [
+      {
+        "before": "$0/ month",
+        "after": "$49* / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0",
+            "after": "$49"
+          }
+        ]
+      },
+      {
+        "before": "$29/ month",
+        "after": "$299* / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$29",
+            "after": "$299"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Get started for free. Pay as you go",
+      "60K incl. monthly queries",
+      "$18 /million for additional queries",
+      "$0.09 /GiB for additional egress",
+      "$49",
+      "10 projects",
+      "60K incl. monthly queries",
+      "$8 /million for additional queries",
+      "$0.09 /GiB for additional egress",
+      "$299",
+      "15 projects",
+      "60K incl. monthly queries",
+      "$6 /million for additional queries",
+      "$0.08 /GiB for additional egress",
+      "Free month",
+      "$18 / million",
+      "$8 / million",
+      "$6 / million",
+      "$0.09 / GiB",
+      "$0.08 / GiB",
+      "5 / hour",
+      "10 / hour",
+      "20 / hour",
+      "No, there are no payments required. Prisma ORM is free to use."
+    ],
+    "removed": [
+      "No credit card required",
+      "2 environments",
+      "$0/ month Start building",
+      "$29/ month Start building",
+      "Prisma’s Open Source ORM will remain free forever. Get started with the ORM - >",
+      "No credit card required",
+      "$10/mo per additional environment",
+      "$5/mo per additional seat",
+      "30 million CPU milliseconds per month included. Overages at $0.0000008/mo per CPU ms",
+      "Free",
+      "$0/ month",
+      "No credit card required",
+      "$29/ month",
+      "$10/mo per additional environment",
+      "$5/mo per additional seat",
+      "30 million CPU milliseconds per month included. Overages at $0.0000008/mo per CPU ms",
+      "For projects on the Free plan, the number of team members and environments is limited.",
+      "Projects on the Free plan have hard limits in terms of Data Proxy usage, meaning that no overages will be charged, but the Data Proxy will be paused past that point until the next billing cycle. You will receive multiple warnings before reaching these limits."
+    ],
+    "totals": {
+      "removed": 143,
+      "added": 105,
+      "materialRemoved": 21,
+      "materialAdded": 27
+    }
+  },
+  {
+    "id": "prisma-io-pricing-20240106180734",
+    "url": "https://www.prisma.io/pricing",
+    "ts": "20240106180734",
+    "date": "2024-01-06",
+    "source": "wayback",
+    "prevTs": "20231127210819",
+    "kind": "price",
+    "score": 10,
+    "counts": {
+      "price": 1,
+      "limit": 2,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Prisma Postgres: 1 price, 2 limits, 2 plan names changed (added “0 150M+”)",
+    "pairs": [],
+    "added": [
+      "Our open-source ORM is and will remain free.",
+      "Free",
+      "0 150M+",
+      "$ 0.00",
+      "Base plan fee Free",
+      "First 60K queries Free",
+      "Additional 0.00 M queries $ NaN",
+      "1 KiB egress per additional query Free"
+    ],
+    "removed": [
+      "Free month"
+    ],
+    "totals": {
+      "removed": 41,
+      "added": 55,
+      "materialRemoved": 1,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "prisma-io-pricing-20240305185701",
+    "url": "https://www.prisma.io/pricing",
+    "ts": "20240305185701",
+    "date": "2024-03-05",
+    "source": "wayback",
+    "prevTs": "20240106180734",
+    "kind": "limits",
+    "score": 9,
+    "counts": {
+      "price": 0,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Prisma Postgres: 5 limits changed (removed “5 projects”; added “2 project environments”)",
+    "pairs": [],
+    "added": [
+      "2 project environments",
+      "6 project environments",
+      "12 project environments",
+      "2 / project",
+      "6 / project",
+      "12 / project",
+      "No, there are no payments required. Our open-source ORM is and will remain free."
+    ],
+    "removed": [
+      "5 projects",
+      "10 projects",
+      "15 projects",
+      "No, there are no payments required. Prisma ORM is free to use."
+    ],
+    "totals": {
+      "removed": 16,
+      "added": 18,
+      "materialRemoved": 4,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "prisma-io-pricing-20240515234708",
+    "url": "https://www.prisma.io/pricing",
+    "ts": "20240515234708",
+    "date": "2024-05-15",
+    "source": "wayback",
+    "prevTs": "20240305185701",
+    "kind": "price",
+    "score": 22,
+    "counts": {
+      "price": 6,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Prisma Postgres: 6 prices, 2 limits changed (added “60K incl. monthly database events”)",
+    "pairs": [],
+    "added": [
+      "60K incl. monthly database events",
+      "$18 /million for additional events",
+      "60K incl. monthly database events",
+      "$8 /million for additional events",
+      "60K incl. monthly database events",
+      "$6 /million for additional events",
+      "$18 / million",
+      "$8 / million",
+      "$6 / million",
+      "1 MiB"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 14,
+      "added": 49,
+      "materialRemoved": 0,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "prisma-io-pricing-20240715215537",
+    "url": "https://www.prisma.io/pricing",
+    "ts": "20240715215537",
+    "date": "2024-07-15",
+    "source": "wayback",
+    "prevTs": "20240515234708",
+    "kind": "price",
+    "score": 40,
+    "counts": {
+      "price": 7,
+      "limit": 4,
+      "plan": 6
+    },
+    "material": true,
+    "headline": "Prisma Postgres: 7 prices, 4 limits, 6 plan names changed (removed “60K incl. monthly queries”; added “$0.05 /GiB for additional storage”)",
+    "pairs": [],
+    "added": [
+      "Free limits included",
+      "Free limits included",
+      "$0.05 /GiB for additional storage",
+      "Free limits included",
+      "Free limits included",
+      "$0.05 /GiB for additional storage",
+      "Free limits included",
+      "Free limits included",
+      "$0.05 /GiB for additional storage",
+      "$18.00 / million",
+      "$8.00 / million",
+      "$6.00 / million",
+      "1 GiB",
+      "$0.05 / GiB"
+    ],
+    "removed": [
+      "60K incl. monthly queries",
+      "60K incl. monthly database events",
+      "60K incl. monthly queries",
+      "60K incl. monthly database events",
+      "60K incl. monthly queries",
+      "60K incl. monthly database events"
+    ],
+    "totals": {
+      "removed": 36,
+      "added": 68,
+      "materialRemoved": 22,
+      "materialAdded": 30
+    }
+  },
+  {
+    "id": "prisma-io-pricing-20240915202425",
+    "url": "https://www.prisma.io/pricing",
+    "ts": "20240915202425",
+    "date": "2024-09-15",
+    "source": "wayback",
+    "prevTs": "20240715215537",
+    "kind": "price",
+    "score": 28,
+    "counts": {
+      "price": 3,
+      "limit": 7,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Prisma Postgres: 3 prices, 7 limits, 3 plan names changed (removed “0 150M+”; added “$5.00 for up to 100 monthly recommendations”)",
+    "pairs": [],
+    "added": [
+      "$5.00 for up to 100 monthly recommendations",
+      "60,000 queries included",
+      "Unlimited recommendations",
+      "60,000 queries included",
+      "Unlimited recommendations",
+      "Unlimited recommendations",
+      "5 MiB",
+      "10 MiB",
+      "20 MiB",
+      "10s",
+      "20s",
+      "60s",
+      "15s",
+      "30s",
+      "90s",
+      "5 included, then $5 for up to 100",
+      "Unlimited"
+    ],
+    "removed": [
+      "Free limits included",
+      "Free limits included",
+      "Free limits included",
+      "0 150M+",
+      "$ 0.00",
+      "Base plan fee Free",
+      "Additional 0.00 M queries $ NaN",
+      "1 KiB egress per additional query Free",
+      "No, there are no payments required. Our open-source ORM is and will remain free."
+    ],
+    "totals": {
+      "removed": 64,
+      "added": 69,
+      "materialRemoved": 10,
+      "materialAdded": 18
+    }
+  },
+  {
+    "id": "prisma-io-pricing-20241104024126",
+    "url": "https://www.prisma.io/pricing",
+    "ts": "20241104024126",
+    "date": "2024-11-04",
+    "source": "wayback",
+    "prevTs": "20240915202425",
+    "kind": "price",
+    "score": 64,
+    "counts": {
+      "price": 17,
+      "limit": 4,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Prisma Postgres: 17 prices, 4 limits, 3 plan names changed ($299 → $129)",
+    "pairs": [
+      {
+        "before": "$ 299 * / month",
+        "after": "$ 129 * / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$299",
+            "after": "$129"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "0 K",
+      "$18 /million queries, 60k included",
+      "$8 /million queries, 60k included",
+      "$129",
+      "$6 /million queries, 60k included",
+      "Optimize Unlimited recommendations",
+      "1 GB",
+      "$0.09 / GiB",
+      "$0.08 / GiB",
+      "$8 / 10,000",
+      "$6 / 10,000",
+      "10,000 / day",
+      "100,000 / day"
+    ],
+    "removed": [
+      "60,000 queries included",
+      "Free limits included",
+      "$18.00 /million for additional events",
+      "$0.05 /GiB for additional storage",
+      "$5.00 for up to 100 monthly recommendations",
+      "60,000 queries included",
+      "Free limits included",
+      "$8.00 /million for additional events",
+      "$0.05 /GiB for additional storage",
+      "Unlimited recommendations",
+      "$ 299",
+      "60,000 queries included",
+      "Free limits included",
+      "$6.00 /million for additional events",
+      "$0.05 /GiB for additional storage",
+      "Unlimited recommendations",
+      "Unlimited recommendations"
+    ],
+    "totals": {
+      "removed": 93,
+      "added": 112,
+      "materialRemoved": 34,
+      "materialAdded": 30
+    }
+  },
+  {
+    "id": "prisma-io-pricing-20250101204023",
+    "url": "https://www.prisma.io/pricing",
+    "ts": "20250101204023",
+    "date": "2025-01-01",
+    "source": "wayback",
+    "prevTs": "20241104024126",
+    "kind": "price",
+    "score": 34,
+    "counts": {
+      "price": 8,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Prisma Postgres: 8 prices, 5 limits changed (60k removed; 60k removed)",
+    "pairs": [
+      {
+        "before": "$18 /million queries, 60k included",
+        "after": "$18 / million queries",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "60k",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$8 /million queries, 60k included",
+        "after": "$8 / million queries",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "60k",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$6 /million queries, 60k included",
+        "after": "$6 / million queries",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "60k",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free during Early Access",
+      "Unlimited queries",
+      "60K queries included free",
+      "Free during Early Access",
+      "Unlimited queries",
+      "60K queries included free",
+      "Free during Early Access",
+      "Unlimited queries",
+      "60K queries included free",
+      "Prisma Postgres is free on all plans during Early Access!"
+    ],
+    "removed": [
+      "$0.09 /GiB for additional egress",
+      "$0.09 /GiB for additional egress",
+      "$0.08 /GiB for additional egress",
+      "1 GB",
+      "$18 / million",
+      "$8 / million",
+      "$6 / million",
+      "$0.09 / GiB",
+      "$0.08 / GiB"
+    ],
+    "totals": {
+      "removed": 39,
+      "added": 21,
+      "materialRemoved": 12,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "prisma-io-pricing-20250211091128",
+    "url": "https://www.prisma.io/pricing",
+    "ts": "20250211091128",
+    "date": "2025-02-11",
+    "source": "wayback",
+    "prevTs": "20250101204023",
+    "kind": "price",
+    "score": 111,
+    "counts": {
+      "price": 19,
+      "limit": 24,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Prisma Postgres: 19 prices, 24 limits, 3 plan names changed (removed “60K queries included free”; added “1 GB storage free”)",
+    "pairs": [],
+    "added": [
+      "Prisma ORM will always be free",
+      "Start for free, pay as you scale.",
+      "Start for free",
+      "1 GB storage free",
+      "then $2 / GB",
+      "First 100k operations * free",
+      "5 GB storage free",
+      "then $1.5 / GB",
+      "60 databases",
+      "Daily backups stored for 7 days",
+      "Unlimited AI performance recommendations",
+      "First 100k operations * free",
+      "10 GB storage free",
+      "then $1 / GB",
+      "180 databases",
+      "Daily backups stored for 30 days",
+      "Unlimited AI performance recommendations",
+      "$8 / million events",
+      "100k events / month free",
+      "$0.5 / GB event storage",
+      "100k events / month free",
+      "$0.5 / GB event storage",
+      "$8 / million events",
+      "100k events / month free",
+      "$0.5 / GB event storage",
+      "100k events / month free",
+      "$0.5 / GB event storage",
+      "5MB",
+      "10MB",
+      "20MB",
+      "10s",
+      "20s",
+      "60s",
+      "10 / hour",
+      "unlimited",
+      "Query response size 5MB",
+      "Query duration 10s",
+      "Interactive transaction duration 10s",
+      "Query response size 10MB",
+      "Query duration 20s"
+    ],
+    "removed": [
+      "Our open-source ORM is and will remain free.",
+      "Free during Early Access",
+      "Unlimited queries",
+      "60K queries included free",
+      "Free during Early Access",
+      "Unlimited queries",
+      "60K queries included free",
+      "Free during Early Access",
+      "Unlimited queries",
+      "60K queries included free",
+      "Optimize Unlimited recommendations",
+      "Prisma Postgres is free on all plans during Early Access!",
+      "Free",
+      "$ 49 * / month",
+      "$ 129 * / month",
+      "Free",
+      "$0.09 / GiB",
+      "$0.08 / GiB",
+      "$8 / 10,000",
+      "$6 / 10,000",
+      "5 MiB",
+      "10 MiB",
+      "20 MiB",
+      "15s",
+      "30s",
+      "90s",
+      "$18 / million",
+      "$6 / million",
+      "1 GiB",
+      "$0.05 / GiB",
+      "1 MiB",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 162,
+      "added": 225,
+      "materialRemoved": 51,
+      "materialAdded": 79
+    }
+  },
+  {
+    "id": "prisma-io-pricing-20250306102607",
+    "url": "https://www.prisma.io/pricing",
+    "ts": "20250306102607",
+    "date": "2025-03-06",
+    "source": "wayback",
+    "prevTs": "20250211091128",
+    "kind": "price",
+    "score": 34,
+    "counts": {
+      "price": 10,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Prisma Postgres: 10 prices, 2 limits changed (removed “$18 / million events”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$18 / million events",
+      "$8 / million events",
+      "$6 / million events",
+      "100k events / month free",
+      "$0.5 / GB event storage",
+      "$18 / million events",
+      "100k events / month free",
+      "$0.5 / GB event storage",
+      "$8 / million events",
+      "100k events / month free",
+      "$0.5 / GB event storage",
+      "$6 / million events",
+      "100k events / month free",
+      "$0.5 / GB event storage"
+    ],
+    "totals": {
+      "removed": 42,
+      "added": 3,
+      "materialRemoved": 14,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "prisma-io-pricing-20250418193908",
+    "url": "https://www.prisma.io/pricing",
+    "ts": "20250418193908",
+    "date": "2025-04-18",
+    "source": "wayback",
+    "prevTs": "20250306102607",
+    "kind": "price",
+    "score": 10,
+    "counts": {
+      "price": 2,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Prisma Postgres: 2 prices, 2 limits changed ($8 → $6; 10,000 → 100,000)",
+    "pairs": [
+      {
+        "before": "$8 / million cache tag invalidations",
+        "after": "$6 / million cache tag invalidations",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$8",
+            "after": "$6"
+          }
+        ]
+      },
+      {
+        "before": "Cache tag invalidations 10,000 / day",
+        "after": "Cache tag invalidations 100,000 / day",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10,000",
+            "after": "100,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$6 / million cache tag invalidations",
+      "100,000 / day"
+    ],
+    "removed": [
+      "0 K"
+    ],
+    "totals": {
+      "removed": 59,
+      "added": 7,
+      "materialRemoved": 3,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "prisma-io-pricing-20250520153620",
+    "url": "https://www.prisma.io/pricing",
+    "ts": "20250520153620",
+    "date": "2025-05-20",
+    "source": "wayback",
+    "prevTs": "20250418193908",
+    "kind": "limits",
+    "score": 18,
+    "counts": {
+      "price": 0,
+      "limit": 9,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Prisma Postgres: 9 limits changed (removed “10s”; added “15s”)",
+    "pairs": [],
+    "added": [
+      "15s",
+      "30s",
+      "90s",
+      "Operation duration for db queries 10s",
+      "Operation duration for interactive transactions 15s",
+      "Operation duration for db queries 20s",
+      "Operation duration for interactive transactions 30s",
+      "Operation duration for db queries 60s",
+      "Operation duration for interactive transactions 90s"
+    ],
+    "removed": [
+      "10s",
+      "20s",
+      "60s",
+      "Query duration 10s",
+      "Interactive transaction duration 10s",
+      "Query duration 20s",
+      "Interactive transaction duration 20s",
+      "Query duration 60s",
+      "Interactive transaction duration 60s"
+    ],
+    "totals": {
+      "removed": 22,
+      "added": 21,
+      "materialRemoved": 12,
+      "materialAdded": 12
+    }
+  },
+  {
+    "id": "prisma-io-pricing-20250603004608",
+    "url": "https://www.prisma.io/pricing",
+    "ts": "20250603004608",
+    "date": "2025-06-03",
+    "source": "wayback",
+    "prevTs": "20250520153620",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Prisma Postgres: 1 price changed (added “We offer $10k in credits to eligible startups…”)",
+    "pairs": [],
+    "added": [
+      "Start for Free, Scale as You Grow with Prisma Postgres",
+      "We offer $10k in credits to eligible startups. Learn more at prisma.io/startups"
+    ],
+    "removed": [
+      "Start for free, pay as you scale."
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 16,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "prisma-io-pricing-20250711030301",
+    "url": "https://www.prisma.io/pricing",
+    "ts": "20250711030301",
+    "date": "2025-07-11",
+    "source": "wayback",
+    "prevTs": "20250603004608",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Prisma Postgres: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 7,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "prisma-io-pricing-20250801131302",
+    "url": "https://www.prisma.io/pricing",
+    "ts": "20250801131302",
+    "date": "2025-08-01",
+    "source": "wayback",
+    "prevTs": "20250711030301",
+    "kind": "price",
+    "score": 69,
+    "counts": {
+      "price": 14,
+      "limit": 13,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Prisma Postgres: 14 prices, 13 limits, 1 plan name changed ($18 → 1; 60 → 100)",
+    "pairs": [
+      {
+        "before": "then $18 / million operations",
+        "after": "1 million operations * included, then $8 per million",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "$18",
+            "after": "1"
+          },
+          {
+            "before": null,
+            "after": "$8"
+          }
+        ]
+      },
+      {
+        "before": "60 databases",
+        "after": "100 databases",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "60",
+            "after": "100"
+          }
+        ]
+      },
+      {
+        "before": "then $8 / million operations",
+        "after": "10 million operations * included, then $2 per million",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "$8",
+            "after": "10"
+          },
+          {
+            "before": null,
+            "after": "$2"
+          }
+        ]
+      },
+      {
+        "before": "180 databases",
+        "after": "1000 databases",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "180",
+            "after": "1000"
+          }
+        ]
+      },
+      {
+        "before": "then $6 / million operations",
+        "after": "50 million operations * included, then $1 per million",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "$6",
+            "after": "50"
+          },
+          {
+            "before": null,
+            "after": "$1"
+          }
+        ]
+      },
+      {
+        "before": "For example, one database operation on the Pro plan ($8/million operations) would cost $0.000008.",
+        "after": "For example, one database operation on the Pro plan would cost $0.000002.",
+        "confidence": 0.83,
+        "deltas": [
+          {
+            "before": "$8",
+            "after": "$0.000002"
+          },
+          {
+            "before": "$0.000008",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "Operation response size 20MB",
+        "after": "Operation response size 5MB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "20MB",
+            "after": "5MB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0",
+      "500 MB storage",
+      "$10",
+      "50 GB storage included",
+      "100 GB storage included",
+      "Free",
+      "$2 per million,",
+      "$1 per million,",
+      "then $5 for 100 max"
+    ],
+    "removed": [
+      "Get started for free. Pay as you go",
+      "1 GB storage free",
+      "5 AI performance recommendations then $5 / 100",
+      "5 GB storage free",
+      "Unlimited AI performance recommendations",
+      "First 100k operations * free",
+      "Unlimited AI performance recommendations",
+      "$8 / million cache tag invalidations",
+      "$6 / million cache tag invalidations",
+      "$8 / million cache tag invalidations",
+      "$6 / million cache tag invalidations",
+      "100,000 / day",
+      "10 / hour",
+      "20 / hour",
+      "2 / project",
+      "6 / project",
+      "12 / project",
+      "Cache purge requests 5 / hour",
+      "Cache purge requests 10 / hour",
+      "Cache tag invalidations 100,000 / day",
+      "Cache purge requests 20 / hour",
+      "AI Recommendations unlimited",
+      "Environments 2 / project",
+      "Environments 6 / project",
+      "Environments 12 / project"
+    ],
+    "totals": {
+      "removed": 103,
+      "added": 85,
+      "materialRemoved": 45,
+      "materialAdded": 29
+    }
+  },
+  {
+    "id": "prisma-io-pricing-20250904085157",
+    "url": "https://www.prisma.io/pricing",
+    "ts": "20250904085157",
+    "date": "2025-09-04",
+    "source": "wayback",
+    "prevTs": "20250801131302",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Prisma Postgres: 3 prices changed (1 → 1,000,000; 10 → 10,000,000)",
+    "pairs": [
+      {
+        "before": "1 million operations * included, then $8 per million",
+        "after": "1,000,000 operations * included, then $0.08 per 10,000",
+        "confidence": 0.8,
+        "deltas": [
+          {
+            "before": "1",
+            "after": "1,000,000"
+          },
+          {
+            "before": "$8",
+            "after": "$0.08"
+          },
+          {
+            "before": null,
+            "after": "10,000"
+          }
+        ]
+      },
+      {
+        "before": "10 million operations * included, then $2 per million",
+        "after": "10,000,000 operations * included, then $0.02 per 10,000",
+        "confidence": 0.8,
+        "deltas": [
+          {
+            "before": "10",
+            "after": "10,000,000"
+          },
+          {
+            "before": "$2",
+            "after": "$0.02"
+          },
+          {
+            "before": null,
+            "after": "10,000"
+          }
+        ]
+      },
+      {
+        "before": "50 million operations * included, then $1 per million",
+        "after": "50,000,000 operations * included, then $0.01 per 10,000",
+        "confidence": 0.8,
+        "deltas": [
+          {
+            "before": "50",
+            "after": "50,000,000"
+          },
+          {
+            "before": "$1",
+            "after": "$0.01"
+          },
+          {
+            "before": null,
+            "after": "10,000"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 6,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "prisma-io-pricing-20251012173205",
+    "url": "https://www.prisma.io/pricing",
+    "ts": "20251012173205",
+    "date": "2025-10-12",
+    "source": "wayback",
+    "prevTs": "20250904085157",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 8,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Prisma Postgres: 8 prices changed ($0.08 → $0.008; $0.02 → $0.002)",
+    "pairs": [
+      {
+        "before": "1,000,000 operations * included, then $0.08 per 10,000",
+        "after": "1,000,000 operations * included, then $0.008 per 1,000",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.08",
+            "after": "$0.008"
+          },
+          {
+            "before": "10,000",
+            "after": "1,000"
+          }
+        ]
+      },
+      {
+        "before": "10,000,000 operations * included, then $0.02 per 10,000",
+        "after": "10,000,000 operations * included, then $0.002 per 1,000",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.02",
+            "after": "$0.002"
+          },
+          {
+            "before": "10,000",
+            "after": "1,000"
+          }
+        ]
+      },
+      {
+        "before": "50,000,000 operations * included, then $0.01 per 10,000",
+        "after": "50,000,000 operations * included, then $0.001 per 1,000",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.01",
+            "after": "$0.001"
+          },
+          {
+            "before": "10,000",
+            "after": "1,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "No credit card required",
+      "$0.002 per 1,000,",
+      "$0.001 per 1,000,"
+    ],
+    "removed": [
+      "$2 per million,",
+      "$1 per million,",
+      "Do I get charged for a million queries, even if I only use one above the free limit?",
+      "Our pricing is expressed per million, however if you just use one operation (past the free threshold), you will only pay for what you actually use.",
+      "For example, one database operation on the Pro plan would cost $0.000002."
+    ],
+    "totals": {
+      "removed": 20,
+      "added": 18,
+      "materialRemoved": 9,
+      "materialAdded": 7
+    },
+    "flap": true
+  },
+  {
+    "id": "prisma-io-pricing-20251115141910",
+    "url": "https://www.prisma.io/pricing",
+    "ts": "20251115141910",
+    "date": "2025-11-15",
+    "source": "wayback",
+    "prevTs": "20251012173205",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Prisma Postgres: 3 prices changed ($0.008 → $0.08; $0.002 → $0.02)",
+    "pairs": [
+      {
+        "before": "1,000,000 operations * included, then $0.008 per 1,000",
+        "after": "1,000,000 operations * included, then $0.08 per 10,000",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.008",
+            "after": "$0.08"
+          },
+          {
+            "before": "1,000",
+            "after": "10,000"
+          }
+        ]
+      },
+      {
+        "before": "10,000,000 operations * included, then $0.002 per 1,000",
+        "after": "10,000,000 operations * included, then $0.02 per 10,000",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.002",
+            "after": "$0.02"
+          },
+          {
+            "before": "1,000",
+            "after": "10,000"
+          }
+        ]
+      },
+      {
+        "before": "50,000,000 operations * included, then $0.001 per 1,000",
+        "after": "50,000,000 operations * included, then $0.01 per 10,000",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.001",
+            "after": "$0.01"
+          },
+          {
+            "before": "1,000",
+            "after": "10,000"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    },
+    "flap": true
+  },
+  {
+    "id": "prisma-io-pricing-20251213110552",
+    "url": "https://www.prisma.io/pricing",
+    "ts": "20251213110552",
+    "date": "2025-12-13",
+    "source": "wayback",
+    "prevTs": "20251115141910",
+    "kind": "price",
+    "score": 28,
+    "counts": {
+      "price": 3,
+      "limit": 10,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Prisma Postgres: 3 prices, 10 limits changed ($0.08 → $0.008; $0.02 → $0.002)",
+    "pairs": [
+      {
+        "before": "1,000,000 operations * included, then $0.08 per 10,000",
+        "after": "1,000,000 operations * included, then $0.008 per 1,000",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.08",
+            "after": "$0.008"
+          },
+          {
+            "before": "10,000",
+            "after": "1,000"
+          }
+        ]
+      },
+      {
+        "before": "10,000,000 operations * included, then $0.02 per 10,000",
+        "after": "10,000,000 operations * included, then $0.002 per 1,000",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.02",
+            "after": "$0.002"
+          },
+          {
+            "before": "10,000",
+            "after": "1,000"
+          }
+        ]
+      },
+      {
+        "before": "50,000,000 operations * included, then $0.01 per 10,000",
+        "after": "50,000,000 operations * included, then $0.001 per 1,000",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.01",
+            "after": "$0.001"
+          },
+          {
+            "before": "10,000",
+            "after": "1,000"
+          }
+        ]
+      },
+      {
+        "before": "Operation response size 5MB",
+        "after": "Operation response size unlimited",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "5MB",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "Operation response size 5MB",
+        "after": "Operation response size unlimited",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "5MB",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "Operation response size 10MB",
+        "after": "Operation response size unlimited",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "10MB",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "60 minutes",
+      "unlimited",
+      "unlimited",
+      "unlimited",
+      "Connection idle timeout 60 minutes",
+      "Connection idle timeout 60 minutes",
+      "Connection idle timeout 60 minutes"
+    ],
+    "removed": [
+      "5MB",
+      "10MB",
+      "20MB",
+      "10s",
+      "20s",
+      "60s",
+      "15s",
+      "30s",
+      "90s"
+    ],
+    "totals": {
+      "removed": 39,
+      "added": 30,
+      "materialRemoved": 21,
+      "materialAdded": 19
+    }
+  },
+  {
+    "id": "prisma-io-pricing-20260127062749",
+    "url": "https://www.prisma.io/pricing",
+    "ts": "20260127062749",
+    "date": "2026-01-27",
+    "source": "wayback",
+    "prevTs": "20251213110552",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Prisma Postgres: 3 prices changed ($0.008 → $0.08; $0.002 → $0.02)",
+    "pairs": [
+      {
+        "before": "1,000,000 operations * included, then $0.008 per 1,000",
+        "after": "1,000,000 operations * included, then $0.08 per 10,000",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.008",
+            "after": "$0.08"
+          },
+          {
+            "before": "1,000",
+            "after": "10,000"
+          }
+        ]
+      },
+      {
+        "before": "10,000,000 operations * included, then $0.002 per 1,000",
+        "after": "10,000,000 operations * included, then $0.02 per 10,000",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.002",
+            "after": "$0.02"
+          },
+          {
+            "before": "1,000",
+            "after": "10,000"
+          }
+        ]
+      },
+      {
+        "before": "50,000,000 operations * included, then $0.001 per 1,000",
+        "after": "50,000,000 operations * included, then $0.01 per 10,000",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.001",
+            "after": "$0.01"
+          },
+          {
+            "before": "1,000",
+            "after": "10,000"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "prisma-io-pricing-20260308130935",
+    "url": "https://www.prisma.io/pricing",
+    "ts": "20260308130935",
+    "date": "2026-03-08",
+    "source": "wayback",
+    "prevTs": "20260127062749",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Prisma Postgres: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Daily backups stored for 7 days"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "prisma-io-pricing-20260407071724",
+    "url": "https://www.prisma.io/pricing",
+    "ts": "20260407071724",
+    "date": "2026-04-07",
+    "source": "wayback",
+    "prevTs": "20260308130935",
+    "kind": "price",
+    "score": 56,
+    "counts": {
+      "price": 16,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Prisma Postgres: 16 prices, 4 limits changed ($0.08 → $0.0080; $0.02 → $0.0020)",
+    "pairs": [
+      {
+        "before": "1,000,000 operations * included, then $0.08 per 10,000",
+        "after": "1,000,000 operations * included, then $0.0080 per 1,000",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.08",
+            "after": "$0.0080"
+          },
+          {
+            "before": "10,000",
+            "after": "1,000"
+          }
+        ]
+      },
+      {
+        "before": "10,000,000 operations * included, then $0.02 per 10,000",
+        "after": "10,000,000 operations * included, then $0.0020 per 1,000",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.02",
+            "after": "$0.0020"
+          },
+          {
+            "before": "10,000",
+            "after": "1,000"
+          }
+        ]
+      },
+      {
+        "before": "then $1.5 per GB",
+        "after": "then $2.00 per GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.5",
+            "after": "$2.00"
+          }
+        ]
+      },
+      {
+        "before": "50,000,000 operations * included, then $0.01 per 10,000",
+        "after": "50,000,000 operations * included, then $0.0010 per 1,000",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.01",
+            "after": "$0.0010"
+          },
+          {
+            "before": "10,000",
+            "after": "1,000"
+          }
+        ]
+      },
+      {
+        "before": "max 10,000 per day",
+        "after": "$0.0020 per 1,000, max 10,000 per day",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10,000",
+            "after": "$0.0020"
+          },
+          {
+            "before": null,
+            "after": "1,000,"
+          },
+          {
+            "before": null,
+            "after": "10,000"
+          }
+        ]
+      },
+      {
+        "before": "max 100,000 per day",
+        "after": "$0.0010 per 1,000, max 100,000 per day",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100,000",
+            "after": "$0.0010"
+          },
+          {
+            "before": null,
+            "after": "1,000,"
+          },
+          {
+            "before": null,
+            "after": "100,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "40 GB",
+      "Unlimited included for free",
+      "1,000,000 ops included, then $0.008 per 1,000 • 10GB included, then $2/GB",
+      "$734",
+      "10,000,000 ops included, then $0.002 per 1,000 • 50GB included, then $1.5/GB",
+      "$197",
+      "50,000,000 ops included, then $0.001 per 1,000 • 100GB included, then $1/GB",
+      "$163",
+      "Free to get started, no credit card needed."
+    ],
+    "removed": [
+      "Start for Free, Scale as You Grow with Prisma Postgres",
+      "$0.002 per 1,000,",
+      "$0.001 per 1,000,",
+      "then $5 for 100 max",
+      "unlimited",
+      "Connection idle timeout 60 minutes",
+      "Operation response size unlimited",
+      "Operation duration for db queries unlimited",
+      "Operation duration for interactive transactions unlimited",
+      "Connection idle timeout 60 minutes",
+      "Operation response size unlimited",
+      "Operation duration for db queries unlimited",
+      "Operation duration for interactive transactions unlimited",
+      "Connection idle timeout 60 minutes",
+      "Operation response size unlimited",
+      "Operation duration for db queries unlimited",
+      "Operation duration for interactive transactions unlimited",
+      "max 10,000 per day",
+      "AI Recommendations unlimited",
+      "We include a free threshold of 100,000 database operations per month on the Free plan, meaning you can use Prisma for free, and only pay if you exceed the threshold. From our experience, 100,000 operations per month is more than enough to get started.",
+      "We record usage at the account level because it gives you, the developer, the most flexibility. You can spin up one database or 20 databases without any extra cost — pay only for the operations you make and storage you use across all of them.",
+      "We charge primarily by operation, which is counted each time you invoke the Prisma ORM client to create, read, update or delete a record. Additionally we also charge for storage. All with a very generous free threshold each month.",
+      "Because we only charge you for what you actually use, the best way to see a comparison is to run your application on Prisma, and that’s why we offer a free threshold every month.",
+      "However, as a simple comparison, the average database operation size from current Prisma users is 10kb (measured from over 15b queries). Some providers charge by bandwidth used, meaning 5GB of bandwidth might equate to approximately 500,000 database operations.",
+      "We offer $10k in credits to eligible startups. Learn more at prisma.io/startups ↗"
+    ],
+    "totals": {
+      "removed": 153,
+      "added": 64,
+      "materialRemoved": 38,
+      "materialAdded": 22
+    }
+  },
+  {
+    "id": "prisma-io-pricing-20260508154624",
+    "url": "https://www.prisma.io/pricing",
+    "ts": "20260508154624",
+    "date": "2026-05-08",
+    "source": "wayback",
+    "prevTs": "20260407071724",
+    "kind": "price",
+    "score": 31,
+    "counts": {
+      "price": 9,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Prisma Postgres: 9 prices, 2 limits changed ($2.00 → $1.50)",
+    "pairs": [
+      {
+        "before": "then $2.00 per GB",
+        "after": "then $1.50 per GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.00",
+            "after": "$1.50"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "60,000 operations * included",
+      "First 60,000 operations * free",
+      "$0.0180 per 1,000 operations",
+      "First 1 KiB per query egress free",
+      "then $0.09 per GiB",
+      "First 60,000 operations * free",
+      "$0.0080 per 1,000 operations",
+      "$0.0080 per 1,000 cache tag invalidations",
+      "First 1 KiB per query egress free",
+      "then $0.09 per GiB",
+      "First 60,000 operations * free",
+      "$0.0060 per 1,000 operations",
+      "$0.0060 per 1,000 cache tag invalidations",
+      "First 2 KiB per query egress free",
+      "then $0.08 per GiB"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 37,
+      "materialRemoved": 1,
+      "materialAdded": 16
+    }
+  },
+  {
+    "id": "prisma-io-pricing-20260618003631",
+    "url": "https://www.prisma.io/pricing",
+    "ts": "20260618003631",
+    "date": "2026-06-18",
+    "source": "wayback",
+    "prevTs": "20260508154624",
+    "kind": "limits",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Prisma Postgres: 3 limits changed (5 → 50)",
+    "pairs": [
+      {
+        "before": "5 databases",
+        "after": "50 databases",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "5",
+            "after": "50"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "1,000 databases included",
+      "1,000 databases included",
+      "Prisma Compute is free during Public Beta. See the expected pricing"
+    ],
+    "removed": [
+      "10 databases",
+      "100 databases"
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 12,
+      "materialRemoved": 5,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "prisma-io-pricing-20260731203543",
+    "url": "https://www.prisma.io/pricing",
+    "ts": "20260731203543",
+    "date": "2026-07-31",
+    "source": "wayback",
+    "prevTs": "20260618003631",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Prisma Postgres: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "prisma-io-pricing-20260827085630",
+    "url": "https://www.prisma.io/pricing",
+    "ts": "20260827085630",
+    "date": "2026-08-27",
+    "source": "wayback",
+    "prevTs": "20260731203543",
+    "kind": "price",
+    "score": 301,
+    "counts": {
+      "price": 69,
+      "limit": 18,
+      "plan": 29
+    },
+    "material": true,
+    "headline": "Prisma Postgres: 69 prices, 18 limits, 29 plan names changed (removed “100,000 operations * included”; added “1M requests / month”)",
+    "pairs": [],
+    "added": [
+      "Free forever. No credit card required.",
+      "1M requests / month",
+      "360 GB-hours memory / month",
+      "200k operations / month",
+      "5M requests / month, then $1 per million",
+      "$0.006 per GB-hour memory",
+      "$0.064 per active vCPU-hours",
+      "$0.025 per GB outbound bandwidth",
+      "1M operations / month, then $8 per million",
+      "10 GB storage, then $2.00 per GB",
+      "20M requests / month, then $1 per million",
+      "$0.006 per GB-hour memory",
+      "$0.064 per active vCPU-hours",
+      "$0.025 per GB outbound bandwidth",
+      "10M operations / month, then $2 per million",
+      "50 GB storage, then $1.50 per GB",
+      "100M requests / month, then $1 per million",
+      "$0.006 per GB-hour memory",
+      "$0.064 per active vCPU-hours",
+      "$0.025 per GB outbound bandwidth",
+      "50M operations / month, then $1 per million",
+      "The ceremony around shipping stays free: deploys, preview branches, idle time, and the number of people on your team never add to the bill. An idle app scales to zero and costs nothing. A request does the same work whether it comes from a person, a script, or an AI agent, so that work is all you're charged for.",
+      "Prisma ORM (always free)",
+      "Unlimited Prisma Postgres data transfer",
+      "Hobby 100K · 500 MB",
+      "Startup 1M · 8 GB",
+      "Scaleup 20M · 40 GB",
+      "1 query = 1 operation",
+      "500 MB",
+      "Data transfer — unlimited, included free",
+      "Free plan",
+      "$0 /month",
+      "100,000 ops • 0.5GB storage • free forever",
+      "$10 /month",
+      "$49 /month",
+      "$129 /month",
+      "At around 50K monthly active users, Prisma Pro can cost up to 5x less than a typical Neon + Vercel setup, with one bill, included data transfer, and spend limits on by default.",
+      "$ 0 – 0 /month",
+      "at ~50K MAU",
+      "$ 0 – 0 /month"
+    ],
+    "removed": [
+      "Prisma ORM will always be free",
+      "100,000 operations * included",
+      "No credit card required",
+      "60,000 operations * included",
+      "1,000,000 operations * included, then $0.0080 per 1,000",
+      "Daily backups stored for 7 days",
+      "First 60,000 operations * free",
+      "First 1 KiB per query egress free",
+      "10,000,000 operations * included, then $0.0020 per 1,000",
+      "Daily backups stored for 7 days",
+      "First 60,000 operations * free",
+      "First 1 KiB per query egress free",
+      "50,000,000 operations * included, then $0.0010 per 1,000",
+      "Daily backups stored for 30 days",
+      "First 60,000 operations * free",
+      "First 2 KiB per query egress free",
+      "Prisma Compute is free during Public Beta. See the expected pricing",
+      "40 GB",
+      "Unlimited included for free",
+      "$734",
+      "$197",
+      "$163",
+      "Can I use Prisma Postgres for free?",
+      "Free to get started, no credit card needed."
+    ],
+    "totals": {
+      "removed": 135,
+      "added": 534,
+      "materialRemoved": 47,
+      "materialAdded": 157
+    }
+  }
+]

@@ -1,0 +1,1165 @@
+[
+  {
+    "id": "posthog-com-pricing-20230830152118",
+    "url": "https://posthog.com/pricing",
+    "ts": "20230830152118",
+    "date": "2023-08-30",
+    "source": "wayback",
+    "prevTs": "20230315122539",
+    "kind": "price",
+    "score": 29,
+    "counts": {
+      "price": 4,
+      "limit": 4,
+      "plan": 5
+    },
+    "material": true,
+    "headline": "PostHog: 4 prices, 4 limits, 5 plan names changed (removed “Made for hobby projects with <100k events/month.”; added “$ 0.00031 / event Volume discounts”)",
+    "pairs": [],
+    "added": [
+      "Start with our generous free tiers and subcribe when you need more volume. Set billing limits so you never receive an unexpected bill.",
+      "Free",
+      "Generous free usage on every product. Best for early-stage startups and hobbyists.",
+      "Get started - free",
+      "Get started - free",
+      "Unlimited",
+      "Free",
+      "$ 0.00031 / event Volume discounts",
+      "15k recording s /mo",
+      "Unlimited",
+      "Free",
+      "Free up to first 15k recordings/mo, then",
+      "$ 0.005 / recording Volume discounts",
+      "after 50k /mo",
+      "Unlimited",
+      "Free",
+      "Free up to first 1 million requests/mo, then",
+      "$ 0.0001 / request Volume discounts",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "1 year",
+      "7 years",
+      "Unlimited",
+      "1 project",
+      "Unlimited",
+      "$2k/month spend or above",
+      "Free",
+      "Get started - free",
+      "Get started - free",
+      "The easiest way is to sign up for the Free plan. You'll get an accurate volume projection after just a few days.",
+      "We have a generous free tier on every paid plan so you can try out the features before paying any money (though you will need to enter your credit card info). If you have additional needs, such as enterprise features, please get in touch."
+    ],
+    "removed": [
+      "Made for hobby projects with <100k events/month.",
+      "The easiest way is to sign up for the Free plan. If you go over your usage limit but have not set up billing, it will lock you out but it will count the event volumes. This allows you to get a sense of what your volume is."
+    ],
+    "totals": {
+      "removed": 11,
+      "added": 173,
+      "materialRemoved": 3,
+      "materialAdded": 33
+    }
+  },
+  {
+    "id": "posthog-com-pricing-20231016235825",
+    "url": "https://posthog.com/pricing",
+    "ts": "20231016235825",
+    "date": "2023-10-16",
+    "source": "wayback",
+    "prevTs": "20230830152118",
+    "kind": "price",
+    "score": 7,
+    "counts": {
+      "price": 1,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "PostHog: 1 price, 2 limits changed (removed “Recordings are kept on Clickhouse-based insta…”; added “Feature flags 1,000,000 requests”)",
+    "pairs": [],
+    "added": [
+      "Feature flags 1,000,000 requests",
+      "1M 10M 100M 1B",
+      "$ 0",
+      "Recordings are kept on Clickhouse-based installations for 1 month. For paid customers on PostHog cloud, recordings are kept for 3 months."
+    ],
+    "removed": [
+      "Recordings are kept on Clickhouse-based installations for 3 weeks."
+    ],
+    "totals": {
+      "removed": 8,
+      "added": 9,
+      "materialRemoved": 1,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "posthog-com-pricing-20231205122130",
+    "url": "https://posthog.com/pricing",
+    "ts": "20231205122130",
+    "date": "2023-12-05",
+    "source": "wayback",
+    "prevTs": "20231016235825",
+    "kind": "price",
+    "score": 82,
+    "counts": {
+      "price": 17,
+      "limit": 9,
+      "plan": 7
+    },
+    "material": true,
+    "headline": "PostHog: 17 prices, 9 limits, 7 plan names changed (removed “after 50k /mo”; added “1,000,000 /mo”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "No credit card required",
+      "1,000,000 /mo",
+      "Unlimited",
+      "$0.0001300",
+      "$0.0000819",
+      "$0.0000455",
+      "$0.0000234",
+      "$0.0000052",
+      "Free",
+      "No credit card required",
+      "Unlimited",
+      "3 months",
+      "15-50k",
+      "50-150k",
+      "$0.0045",
+      "150-500k",
+      "$0.0040",
+      "500k +",
+      "$0.0035",
+      "Free",
+      "No credit card required",
+      "1,000,000 /mo",
+      "Unlimited",
+      "7 years",
+      "$0.000045",
+      "$0.000025",
+      "$0.000010",
+      "Get started - free",
+      "Free",
+      "No credit card required",
+      "250 /mo",
+      "Unlimited",
+      "Unlimited surveys",
+      "1 year",
+      "7 years",
+      "Free",
+      "$0.200",
+      "500-1k",
+      "$0.100"
+    ],
+    "removed": [
+      "Start with our generous free tiers and subcribe when you need more volume. Set billing limits so you never receive an unexpected bill.",
+      "Free",
+      "Generous free usage on every product. Best for early-stage startups and hobbyists.",
+      "after 50k /mo",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 76,
+      "added": 207,
+      "materialRemoved": 16,
+      "materialAdded": 62
+    }
+  },
+  {
+    "id": "posthog-com-pricing-20240404125837",
+    "url": "https://posthog.com/pricing",
+    "ts": "20240404125837",
+    "date": "2024-04-04",
+    "source": "wayback",
+    "prevTs": "20231205122130",
+    "kind": "price",
+    "score": 155,
+    "counts": {
+      "price": 33,
+      "limit": 11,
+      "plan": 17
+    },
+    "material": true,
+    "headline": "PostHog: 33 prices, 11 limits, 17 plan names changed (15k → 5k)",
+    "pairs": [
+      {
+        "before": "15k 50k 150k 500k",
+        "after": "5k 25k 120k 500k",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "15k",
+            "after": "5k"
+          },
+          {
+            "before": "50k",
+            "after": "25k"
+          },
+          {
+            "before": "150k",
+            "after": "120k"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Monthly free allowance",
+      "Monthly free allowance",
+      "$ 0.000248 / event",
+      "Monthly free allowance",
+      "$ 0.04 / recording",
+      "Monthly free allowance",
+      "Monthly free allowance",
+      "All plans include unlimited team members and no limits on tracked users.",
+      "Totally free",
+      "Generous free tier on all products",
+      "2 projects",
+      "Starts at $450 /mo",
+      "Generous free tier on all products",
+      "Unlimited projects",
+      "Unlimited everything",
+      "Totally free",
+      "Free forever",
+      "$450/mo",
+      "2 projects",
+      "Unlimited",
+      "$ 0.000248 / event",
+      "1M 10M 50M 250M",
+      "$ 0.04 / recording",
+      "First 5,000 recording s free every month",
+      "Subtotal: $ 0",
+      "$ 0.0001 / request",
+      "First 1,000,000 request s free every month",
+      "1,000,000 request s/mo",
+      "Subtotal: $ 0",
+      "$ 0.2000 / response",
+      "Subtotal: $ 0",
+      "20% off for customers who pay annually. Available for customers spending over $2k/mo. Get in touch through the app after signing up.",
+      "If your startup has rasied less than $5 million and is less than 2 years old, you may be interested in our startup program. Learn more.",
+      "Starts at: $0 Free > 1 left at this price!!",
+      "Act now and get $0 off your first order."
+    ],
+    "removed": [
+      "Use PostHog free forever (with generous usage limits).",
+      "Free",
+      "No credit card required",
+      "Unlimited",
+      "Unlimited",
+      "Free",
+      "$0.0003100",
+      "$0.0001300",
+      "$0.0000819",
+      "$0.0000455",
+      "$0.0000234",
+      "$0.0000052",
+      "Get started - free",
+      "Free",
+      "No credit card required",
+      "Unlimited",
+      "15,000 /mo",
+      "Unlimited",
+      "3 months",
+      "First 15k recordings",
+      "Free",
+      "15-50k",
+      "$0.0050",
+      "50-150k",
+      "$0.0045",
+      "150-500k",
+      "$0.0040",
+      "500k +",
+      "$0.0035",
+      "Get started - free",
+      "Free",
+      "No credit card required",
+      "Unlimited",
+      "Unlimited",
+      "1 year",
+      "Free",
+      "$0.000045",
+      "$0.000025",
+      "$0.000010",
+      "Get started - free"
+    ],
+    "totals": {
+      "removed": 302,
+      "added": 155,
+      "materialRemoved": 78,
+      "materialAdded": 53
+    }
+  },
+  {
+    "id": "posthog-com-pricing-20240823120044",
+    "url": "https://posthog.com/pricing",
+    "ts": "20240823120044",
+    "date": "2024-08-23",
+    "source": "wayback",
+    "prevTs": "20240404125837",
+    "kind": "price",
+    "score": 187,
+    "counts": {
+      "price": 43,
+      "limit": 13,
+      "plan": 16
+    },
+    "material": true,
+    "headline": "PostHog: 43 prices, 13 limits, 16 plan names changed ($0.000248 → $0.00005; $0.04 → $0.005)",
+    "pairs": [
+      {
+        "before": "$ 0.000248 / event",
+        "after": "$ 0.00005 / event",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.000248",
+            "after": "$0.00005"
+          }
+        ]
+      },
+      {
+        "before": "$ 0.04 / recording",
+        "after": "$ 0.005 / recording",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.04",
+            "after": "$0.005"
+          }
+        ]
+      },
+      {
+        "before": "2 projects",
+        "after": "6 projects",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2",
+            "after": "6"
+          }
+        ]
+      },
+      {
+        "before": "First 250 response s free every month",
+        "after": "First 1,000,000 events free – every month!",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "250",
+            "after": "1,000,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Our generous free tier means more than 90% of companies use PostHog for free. Only add a card if you need more than the free tier limits, advanced features, or want more projects. You still keep the same monthly free volume, even after upgrading.",
+      "Free",
+      "Totally free Free - no credit card required",
+      "Free tier on all plans",
+      "Free",
+      "No credit card required",
+      "Generous monthly free tier",
+      "1 project, 1-year data retention",
+      "Unlimited team members",
+      "If your usage goes beyond the free tier limits, we offer usage-based pricing. You can set a billing limit for each product so you never get an unexpected bill.",
+      "1 project 6 projects",
+      "Rates (after the monthly free tier)",
+      "Free",
+      "$ 0.0000500 / event",
+      "$ 0.0000343 / event",
+      "$ 0.0000295 / event",
+      "$ 0.0000218 / event",
+      "$ 0.0000150 / event",
+      "$ 0.0000090 / event",
+      "First 5k recordings",
+      "Free",
+      "5-15k",
+      "$ 0.0050 / recording",
+      "15-50k",
+      "$ 0.0035 / recording",
+      "50-150k",
+      "$ 0.0020 / recording",
+      "150-500k",
+      "$ 0.0017 / recording",
+      "$ 0.0015 / recording",
+      "Free",
+      "$ 0.000045 / request",
+      "$ 0.000025 / request",
+      "$ 0.000010 / request",
+      "Free",
+      "$ 0.000100 / request",
+      "$ 0.000045 / request",
+      "$ 0.000025 / request",
+      "$ 0.000010 / request",
+      "Free"
+    ],
+    "removed": [
+      "Monthly free allowance",
+      "Monthly free allowance",
+      "Monthly free allowance",
+      "Monthly free allowance",
+      "Monthly free allowance",
+      "All plans include unlimited team members and no limits on tracked users.",
+      "Generous free tier on all products",
+      "2 projects",
+      "7 year data retention",
+      "Generous free tier on all products",
+      "Unlimited projects",
+      "7 year data retention",
+      "Unlimited everything",
+      "1M 10M 50M 250M",
+      "$ 0.04 / recording",
+      "5k 25k 120k 500k",
+      "1M 10M 100M 1B",
+      "250 2k 15k 100k",
+      "20% off for customers who pay annually. Available for customers spending over $2k/mo. Get in touch through the app after signing up.",
+      "If your startup has rasied less than $5 million and is less than 2 years old, you may be interested in our startup program. Learn more."
+    ],
+    "totals": {
+      "removed": 127,
+      "added": 338,
+      "materialRemoved": 47,
+      "materialAdded": 113
+    }
+  },
+  {
+    "id": "posthog-com-pricing-20250110142300",
+    "url": "https://posthog.com/pricing",
+    "ts": "20250110142300",
+    "date": "2025-01-10",
+    "source": "wayback",
+    "prevTs": "20240823120044",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "PostHog: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "What do you like best about PostHog? it has all the features required for an SaaS webapp, best thing about the free plan usage given by posthog."
+    ],
+    "removed": [
+      "No credit card required"
+    ],
+    "totals": {
+      "removed": 53,
+      "added": 48,
+      "materialRemoved": 8,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "posthog-com-pricing-20250214172635",
+    "url": "https://posthog.com/pricing",
+    "ts": "20250214172635",
+    "date": "2025-02-14",
+    "source": "wayback",
+    "prevTs": "20250110142300",
+    "kind": "price",
+    "score": 4,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "PostHog: 1 price, 1 limit changed (added “Pricing starts at $ 0.01 / mobile recording”)",
+    "pairs": [],
+    "added": [
+      "Pricing starts at $ 0.01 / mobile recording",
+      "First 2,500 mobile recording s/mo free",
+      "What do you like best about PostHog? Posthog is like Google Analytics 10 years ago before it got insanely difficult to use"
+    ],
+    "removed": [
+      "What do you like best about PostHog? it has all the features required for an SaaS webapp, best thing about the free plan usage given by posthog."
+    ],
+    "totals": {
+      "removed": 15,
+      "added": 22,
+      "materialRemoved": 1,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "posthog-com-pricing-20250301234511",
+    "url": "https://posthog.com/pricing",
+    "ts": "20250301234511",
+    "date": "2025-03-01",
+    "source": "wayback",
+    "prevTs": "20250214172635",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "PostHog: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "What do you like best about PostHog? Posthog is like Google Analytics 10 years ago before it got insanely difficult to use"
+    ],
+    "totals": {
+      "removed": 17,
+      "added": 16,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "posthog-com-pricing-20250405124342",
+    "url": "https://posthog.com/pricing",
+    "ts": "20250405124342",
+    "date": "2025-04-05",
+    "source": "wayback",
+    "prevTs": "20250301234511",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "PostHog: 1 limit changed (added “2 environment”)",
+    "pairs": [],
+    "added": [
+      "2 environment",
+      "3 environment",
+      "Unlimited"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 15,
+      "added": 20,
+      "materialRemoved": 0,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "posthog-com-pricing-20250504134823",
+    "url": "https://posthog.com/pricing",
+    "ts": "20250504134823",
+    "date": "2025-05-04",
+    "source": "wayback",
+    "prevTs": "20250405124342",
+    "kind": "price",
+    "score": 22,
+    "counts": {
+      "price": 5,
+      "limit": 3,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "PostHog: 5 prices, 3 limits, 1 plan name changed (removed “2 environment”; added “Error tracking 100K exceptions”)",
+    "pairs": [],
+    "added": [
+      "Error tracking 100K exceptions",
+      "From $ 0.00037 / exception",
+      "First 100k exceptions",
+      "Free",
+      "100-325k",
+      "$ 0.000370 / exception",
+      "$ 0.000140 / exception",
+      "$ 0.000115 / exception",
+      "What do you like best about PostHog? simple to use, advanced analytics on free version",
+      "$0"
+    ],
+    "removed": [
+      "2 environment",
+      "3 environment",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 20,
+      "added": 30,
+      "materialRemoved": 3,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "posthog-com-pricing-20250609183636",
+    "url": "https://posthog.com/pricing",
+    "ts": "20250609183636",
+    "date": "2025-06-09",
+    "source": "wayback",
+    "prevTs": "20250504134823",
+    "kind": "price",
+    "score": 31,
+    "counts": {
+      "price": 7,
+      "limit": 1,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "PostHog: 7 prices, 1 limit, 4 plan names changed (removed “$2k+/month spend”; added “$ 250 /mo”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "Free",
+      "Unlimited",
+      "$ 250 /mo",
+      "$ 750 /mo",
+      "$ 0",
+      "$ 0"
+    ],
+    "removed": [
+      "Totally free",
+      "Usage-based pricing after free tier",
+      "Unlimited project",
+      "Totally free",
+      "Unlimited",
+      "Unlimited",
+      "$2k+/month spend",
+      "24 hours",
+      "12 hours",
+      "Priority support, unlimited projects, white labeling, HIPAA BAA, SSO enforcement, and features for collaboration with team members.",
+      "$ 450.00 /month",
+      "What do you like best about PostHog? simple to use, advanced analytics on free version",
+      "$450 /mo"
+    ],
+    "totals": {
+      "removed": 74,
+      "added": 53,
+      "materialRemoved": 17,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "posthog-com-pricing-20250714181549",
+    "url": "https://posthog.com/pricing",
+    "ts": "20250714181549",
+    "date": "2025-07-14",
+    "source": "wayback",
+    "prevTs": "20250609183636",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "PostHog: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 15,
+      "added": 15,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "posthog-com-pricing-20250811103540",
+    "url": "https://posthog.com/pricing",
+    "ts": "20250811103540",
+    "date": "2025-08-11",
+    "source": "wayback",
+    "prevTs": "20250714181549",
+    "kind": "price",
+    "score": 11,
+    "counts": {
+      "price": 2,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "PostHog: 2 prices, 3 limits changed ($0.20 → $0.10)",
+    "pairs": [
+      {
+        "before": "From $ 0.20 / response",
+        "after": "From $ 0.10 / response",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.20",
+            "after": "$0.10"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "First 1.5k responses",
+      "1.5-2k",
+      "2-10k",
+      "What do you like best about PostHog? Price-to-quality ratio. You get a lot for free, and even after the free plan, you don't have to pay much to get a lot."
+    ],
+    "removed": [
+      "$ 0.200 / response",
+      "500-1k",
+      "1-10k"
+    ],
+    "totals": {
+      "removed": 21,
+      "added": 22,
+      "materialRemoved": 4,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "posthog-com-pricing-20250905155131",
+    "url": "https://posthog.com/pricing",
+    "ts": "20250905155131",
+    "date": "2025-09-05",
+    "source": "wayback",
+    "prevTs": "20250811103540",
+    "kind": "price",
+    "score": 16,
+    "counts": {
+      "price": 4,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "PostHog: 4 prices, 1 limit, 1 plan name changed (added “LLM analytics 100K events”)",
+    "pairs": [],
+    "added": [
+      "LLM analytics 100K events",
+      "From $ 0.00006 / event",
+      "First 100k events",
+      "Free",
+      "$ 0.00006 / event",
+      "What do you dislike about PostHog? I dont understand the billing, I got an email: Our mathemagicians have looked into the future and think the first bill for Livey will be roughly $45.84. But in the portal it says: $0.00 Month-to-date $0.00 Projected",
+      "$0"
+    ],
+    "removed": [
+      "What do you like best about PostHog? Price-to-quality ratio. You get a lot for free, and even after the free plan, you don't have to pay much to get a lot."
+    ],
+    "totals": {
+      "removed": 20,
+      "added": 26,
+      "materialRemoved": 1,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "posthog-com-pricing-20251012102917",
+    "url": "https://posthog.com/pricing",
+    "ts": "20251012102917",
+    "date": "2025-10-12",
+    "source": "wayback",
+    "prevTs": "20250905155131",
+    "kind": "price",
+    "score": 80,
+    "counts": {
+      "price": 20,
+      "limit": 6,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "PostHog: 20 prices, 6 limits, 4 plan names changed (removed “From $ 0.005 / recording”; added “1 project, 1-year data retention”)",
+    "pairs": [],
+    "added": [
+      "Get started – free",
+      "Generous monthly free tier",
+      "1 project, 1-year data retention",
+      "Get started - free",
+      "Data pipelines 10K events + 1M rows",
+      "Free",
+      "2.5-15k",
+      "15-50k",
+      "$ 0.0070 / mobile recording",
+      "50-150k",
+      "$ 0.0040 / mobile recording",
+      "150-500k",
+      "$ 0.0034 / mobile recording",
+      "$ 0.0030 / mobile recording",
+      "First 10k trigger events",
+      "Free",
+      "10-50k",
+      "$ 0.000500 / trigger event",
+      "50-100k",
+      "$ 0.000300 / trigger event",
+      "$ 0.000150 / trigger event",
+      "$ 0.000050 / trigger event",
+      "Free",
+      "$ 0.00001500 / row",
+      "$ 0.00000500 / row",
+      "$ 0.00000250 / row",
+      "$ 0.00000125 / row",
+      "Get started - free",
+      "No credit card required",
+      "$0"
+    ],
+    "removed": [
+      "From $ 0.005 / recording",
+      "Free",
+      "$ 0.000045 / request",
+      "$ 0.000010 / request",
+      "Pricing starts at $ 0.000198 / event",
+      "First 1,000,000 event s/mo free",
+      "Pricing starts at $ 0.000071 / event",
+      "First 1,000,000 event s/mo free",
+      "Pricing starts at $ 0.000062 / event",
+      "First 1,000,000 event s/mo free",
+      "What do you dislike about PostHog? I dont understand the billing, I got an email: Our mathemagicians have looked into the future and think the first bill for Livey will be roughly $45.84. But in the portal it says: $0.00 Month-to-date $0.00 Projected"
+    ],
+    "totals": {
+      "removed": 118,
+      "added": 127,
+      "materialRemoved": 17,
+      "materialAdded": 36
+    }
+  },
+  {
+    "id": "posthog-com-pricing-20251105061208",
+    "url": "https://posthog.com/pricing",
+    "ts": "20251105061208",
+    "date": "2025-11-05",
+    "source": "wayback",
+    "prevTs": "20251012102917",
+    "kind": "price",
+    "score": 15,
+    "counts": {
+      "price": 5,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "PostHog: 5 prices changed (removed “From $ 0.000015 / row”; added “$ 0.000005 / row”)",
+    "pairs": [],
+    "added": [
+      "$ 0.000005 / row",
+      "$ 0.000002 / row",
+      "$ 0.000001 / row",
+      "Unlimited rows",
+      "$ 0 / row"
+    ],
+    "removed": [
+      "From $ 0.000015 / row"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 15,
+      "materialRemoved": 2,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "posthog-com-pricing-20251202191800",
+    "url": "https://posthog.com/pricing",
+    "ts": "20251202191800",
+    "date": "2025-12-02",
+    "source": "wayback",
+    "prevTs": "20251105061208",
+    "kind": "price",
+    "score": 15,
+    "counts": {
+      "price": 4,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "PostHog: 4 prices, 1 limit, 1 plan name changed (added “PostHog AI 2K credits (worth $20)”)",
+    "pairs": [],
+    "added": [
+      "PostHog AI 2K credits (worth $20)",
+      "From $ 0.01 / credit",
+      "First 2k credits",
+      "Free",
+      "$ 0.01 / credit",
+      "$0"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 8,
+      "materialRemoved": 0,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "posthog-com-pricing-20260109213849",
+    "url": "https://posthog.com/pricing",
+    "ts": "20260109213849",
+    "date": "2026-01-09",
+    "source": "wayback",
+    "prevTs": "20251202191800",
+    "kind": "price",
+    "score": 50,
+    "counts": {
+      "price": 13,
+      "limit": 4,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "PostHog: 13 prices, 4 limits, 2 plan names changed (added “Workflows 10K messages per channel”)",
+    "pairs": [],
+    "added": [
+      "Workflows 10K messages per channel",
+      "First 10k emails",
+      "Free",
+      "10-50k",
+      "$ 0.003000 / email",
+      "50-100k",
+      "$ 0.001800 / email",
+      "$ 0.001000 / email",
+      "$ 0.000500 / email",
+      "$ 0.000375 / email",
+      "$ 0.000250 / email",
+      "First 10k dispatches",
+      "Free",
+      "10-50k",
+      "$ 0.0007500 / dispatch",
+      "50-100k",
+      "$ 0.0004500 / dispatch",
+      "$ 0.0002250 / dispatch",
+      "$ 0.0001500 / dispatch",
+      "$ 0.0000750 / dispatch",
+      "$ 0.0000375 / dispatch",
+      "$0"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 35,
+      "materialRemoved": 0,
+      "materialAdded": 22
+    }
+  },
+  {
+    "id": "posthog-com-pricing-20260211150936",
+    "url": "https://posthog.com/pricing",
+    "ts": "20260211150936",
+    "date": "2026-02-11",
+    "source": "wayback",
+    "prevTs": "20260109213849",
+    "kind": "price",
+    "score": 16,
+    "counts": {
+      "price": 4,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "PostHog: 4 prices, 1 limit, 1 plan name changed (added “Logs 50 GB ingested”)",
+    "pairs": [],
+    "added": [
+      "Logs 50 GB ingested",
+      "From $ 0.25 / GB",
+      "First 50 GB",
+      "Free",
+      "$ 0.25 / GB",
+      "$ 0.15 / GB",
+      "Our engineers can set everything up for you and train your team. Includes free merch!",
+      "$0"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 15,
+      "materialRemoved": 0,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "posthog-com-pricing-20260310024358",
+    "url": "https://posthog.com/pricing",
+    "ts": "20260310024358",
+    "date": "2026-03-10",
+    "source": "wayback",
+    "prevTs": "20260211150936",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "PostHog: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 6,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "posthog-com-pricing-20260506142219",
+    "url": "https://posthog.com/pricing",
+    "ts": "20260506142219",
+    "date": "2026-05-06",
+    "source": "wayback",
+    "prevTs": "20260310024358",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "PostHog: 2 prices changed (removed “$ 0.000062 /event”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$ 0.000062 /event",
+      "$0"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 1,
+      "materialRemoved": 2,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "posthog-com-pricing-20260601122037",
+    "url": "https://posthog.com/pricing",
+    "ts": "20260601122037",
+    "date": "2026-06-01",
+    "source": "wayback",
+    "prevTs": "20260506142219",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "PostHog: 2 prices changed (removed “$ 2,000 /mo”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$ 2,000 /mo",
+      "$ 0"
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 8,
+      "materialRemoved": 3,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "posthog-com-pricing-20260703011828",
+    "url": "https://posthog.com/pricing",
+    "ts": "20260703011828",
+    "date": "2026-07-03",
+    "source": "wayback",
+    "prevTs": "20260601122037",
+    "kind": "price",
+    "score": 16,
+    "counts": {
+      "price": 4,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "PostHog: 4 prices, 1 limit, 1 plan name changed (2K → 500)",
+    "pairs": [
+      {
+        "before": "PostHog AI 2K credits (worth $20)",
+        "after": "PostHog AI 500 credits (worth $5)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2K",
+            "after": "500"
+          },
+          {
+            "before": "$20",
+            "after": "$5"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "First 500 credits",
+      "From $ 15.00 / PR",
+      "Free",
+      "$ 15 / PR",
+      "$0"
+    ],
+    "removed": [
+      "First 2k credits"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 10,
+      "materialRemoved": 2,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "posthog-com-pricing-20260801041003",
+    "url": "https://posthog.com/pricing",
+    "ts": "20260801041003",
+    "date": "2026-08-01",
+    "source": "wayback",
+    "prevTs": "20260703011828",
+    "kind": "price",
+    "score": 23,
+    "counts": {
+      "price": 3,
+      "limit": 5,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "PostHog: 3 prices, 5 limits, 2 plan names changed (50GB → 10GB; 50GB → 10GB)",
+    "pairs": [
+      {
+        "before": "Logs 50 GB ingested",
+        "after": "Logs 10 GB ingested",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50GB",
+            "after": "10GB"
+          }
+        ]
+      },
+      {
+        "before": "First 50 GB",
+        "after": "First 10 GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50GB",
+            "after": "10GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free",
+      "$ 0.05 / GB",
+      "$0",
+      "1M 10M 50M 250M",
+      "1M 10M 50M 250M",
+      "What happens if I hit or go over the free limit?",
+      "Do free tier limits reset every month?",
+      "Can I use PostHog completely free forever?"
+    ],
+    "removed": [
+      "Free",
+      "From $ 0.25 / GB",
+      "0 1M 10M 50M 250M",
+      "0 1M 10M 50M 250M",
+      "The easiest way is to sign up for the Free plan. You'll get an accurate volume projection after just a few days.",
+      "Data (except recordings, see below) is guaranteed to be retained for 7 years on any paid plan and 1 year on a free plan. After 1 year, data may be moved into cold storage so queries may run more slowly.",
+      "Recordings are kept on Clickhouse-based installations for 1 month. For paid customers on PostHog cloud, recordings are kept for 3 months.",
+      "We have a generous free tier on every paid plan so you can try out the features before paying any money (though you will need to enter your credit card info). If you have additional needs, such as enterprise features, please get in touch."
+    ],
+    "totals": {
+      "removed": 50,
+      "added": 103,
+      "materialRemoved": 15,
+      "materialAdded": 15
+    }
+  }
+]

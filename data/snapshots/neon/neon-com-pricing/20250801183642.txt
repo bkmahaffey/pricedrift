@@ -1,0 +1,133 @@
+Calling all startups: Apply to the Neon Startup program and get up to 100k in credits
+Neon Pricing
+Pricing plans that grow with you. From prototype to Enterprise.
+Neon pricing plans
+Free Plan
+$ 0 /month
+Start for free
+To kickstart your projects, no credit card required.
+10 projects
+0.5 GB storage
+190 compute hours
+Autoscaling up to 2 CU
+Read replicas
+Built-in high availability
+Launch
+From $ 19 /month
+Get started
+The resources, features, and support you need to launch.
+100 projects
+10 GB storage
+300 compute hours
+Autoscaling up to 4 CU
+Everything in Free, plus...
+Organization accounts
+Standard Support
+Scale
+Pay via Azure
+From $ 69 /month
+Get started
+More capacity and functionality for scaling production workloads.
+1000 projects
+50 GB storage
+750 compute hours
+Autoscaling up to 8 CU
+Everything in Launch, plus...
+IP Allow Rules
+Datadog integration
+Business
+From $ 700 /month
+Get started
+For larger workloads, with best compliance and security.
+5,000 projects
+500 GB storage
+1000 compute hours
+Autoscaling up to 16+ CU
+Everything in Scale, plus...
+SOC 2, HIPAA (upon request)
+0-downtime migrations
+Private Link
+Priority Support
+99.95% SLA
+PITR (30 days)
+And more...
+Custom Plans
+Connect with our team for HIPAA compliance, annual contracts, higher resource limits, and more.
+Talk to Sales
+Special deals for Startups
+Growing your own startup? We offer special pricing and up to $100K in credits for startups and venture backed companies. Let us worry about scaling your database, so you can focus on growing your business.
+Neon for Startups
+Compare plans
+Included
+Storage (monthly) GB-month = 1GB of storage for 1 month
+Compute (monthly) Compute hours = CU size x active hrs
+Projects
+Branches
+Schema-only branches More info in docs
+Databases
+Compute Features
+Free Plan
+$0/month Start for free
+0.5 GB-month
+190 compute hrs
+10
+10 per project
+Up to 3 per project
+500 per branch
+Launch
+From $19 /month Get started
+10 GB-month
+300 compute hrs
+100
+5,000 per project
+Up to 5 per project
+500 per branch
+Scale
+From $69 /month Get started
+50 GB-month
+750 compute hrs
+1,000
+5,000 per project
+Up to 10 per project
+500 per branch
+Business
+From $700 /month Get started
+500 GB-month
+1,000 compute hrs
+5,000
+5,000 per project
+Up to 25 per project
+500 per branch
+Show more
+Frequently Asked Questions
+What is a compute hour?
+Compute hour is the metric for compute usage in Neon. The quick math: [compute hours] = [compute size] x [hours your compute runs]. Each pricing plan includes a certain number of compute hours; how quickly you consume these hours depends on the size of your compute and how long it runs. Once you exceed the allocated amount of compute hours, you'll be billed for overages in a given month.
+How does billing work?
+In Neon, you are charged a monthly fee plus any additional compute and/or storage usage over what's included in your plan. For example, the Launch plan includes 300 compute-hours of compute usage; if you consume 320 compute-hours in a month, your will see extra 20 compute-hours in your monthly bill.
+When will I be billed?
+Neon bills for the past month's usage at the beginning of each calendar month. For more information, see Manage billing
+.
+How many compute hours will it take to run my workload?
+You can get a good idea by estimating how many hours your databases run, and at which compute size. For example: imagine you’re running a 2 CPU, 8 GB RAM database for 2 hours a day (or 62 hours per month). This equals [2 CU * 62 hours] = 124 compute hours per month.
+How can I control my costs?
+When enabling autoscaling
+you will set a maximum autoscaling limit (e.g. 2 CU) that will act as a de-facto cost limit.
+Do you offer discounts and credits for Startups?
+Yes! Startups that have received venture funding can apply for up to $100K in credits to help them get started with Neon. Learn more and apply here
+.
+How is storage charged in Neon?
+Neon implements a unique storage engine that enables database branching on copy-on-write, without duplicate storage. You can create instant database copies (database branches) without adding to the storage bill. Read more in our docs
+.
+Do I get a notification if I am approaching my usage limits?
+Yes, we display your usage consumption in the Neon admin console, and we will also email you when you’re getting close.
+Can I use Neon for database-per-user architectures?
+Yes, Neon is a great option for designs demanding one database per user. Our recommendation is to follow a project-per-user (or project-per-tenant) pattern, taking advantage of the thousands of projects included in our pricing plans. Read more
+.
+Is Neon compliant?
+Yes, Neon adheres to SOC 2, ISO 27001, ISO 27701 standards and complies with GDPR and CCPA regulations. HIPAA compliance is also available upcon contract—if you need HIPAA, contact us
+and we'll walk you through it
+Which level of uptime can I expect with Neon?
+Neon offers a 99.95% uptime SLA for Business and Enterprise customers, ensuring consistent availability and performance for mission-critical applications.
+Still have a question?
+Complete the form below to get in touch with our Sales team.
+Talk to Sales

@@ -1,0 +1,424 @@
+[
+  {
+    "id": "lovable-dev-pricing-20250116013033",
+    "url": "https://lovable.dev/pricing",
+    "ts": "20250116013033",
+    "date": "2025-01-16",
+    "source": "wayback",
+    "prevTs": "20241122200902",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Lovable: 2 prices, 1 limit, 1 plan name changed ($200 → $100)",
+    "pairs": [
+      {
+        "before": "$200 / month",
+        "after": "$ 100 / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$200",
+            "after": "$100"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Start for free. Upgrade to get the capacity that exactly matches your team's needs.",
+      "100 GB free hosting bandwidth included per month during beta.",
+      "What does the free plan include?"
+    ],
+    "removed": [
+      "Start for free. Get in touch",
+      "FREE",
+      "$0 (Free)",
+      "Unlimited public projects",
+      "Unlimited message limits"
+    ],
+    "totals": {
+      "removed": 27,
+      "added": 23,
+      "materialRemoved": 8,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "lovable-dev-pricing-20250401044919",
+    "url": "https://lovable.dev/pricing",
+    "ts": "20250401044919",
+    "date": "2025-04-01",
+    "source": "wayback",
+    "prevTs": "20250116013033",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Lovable: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "100 GB free hosting bandwidth included per month during beta."
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 5,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "lovable-dev-pricing-20250508202137",
+    "url": "https://lovable.dev/pricing",
+    "ts": "20250508202137",
+    "date": "2025-05-08",
+    "source": "wayback",
+    "prevTs": "20250401044919",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 6,
+      "limit": 2,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Lovable: 6 prices, 2 limits, 1 plan name changed (removed “$ 20 / month”; added “$ 0”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "$ 0",
+      "* Up to a maximum of 30 credits per month",
+      "$ 25",
+      "100 credits / month",
+      "3 editors per project",
+      "$ 30",
+      "Includes 20 seats"
+    ],
+    "removed": [
+      "$ 20 / month",
+      "Unlimited private projects",
+      "$ 50 / month",
+      "$ 100 / month"
+    ],
+    "totals": {
+      "removed": 31,
+      "added": 30,
+      "materialRemoved": 4,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "lovable-dev-pricing-20250704005822",
+    "url": "https://lovable.dev/pricing",
+    "ts": "20250704005822",
+    "date": "2025-07-04",
+    "source": "wayback",
+    "prevTs": "20250508202137",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 1,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Lovable: 1 price, 2 limits changed (removed “100 credits / month”; added “Up to 250 credits / month”)",
+    "pairs": [],
+    "added": [
+      "Up to 250 credits / month"
+    ],
+    "removed": [
+      "100 credits / month",
+      "3 editors per project",
+      "$ 30"
+    ],
+    "totals": {
+      "removed": 12,
+      "added": 11,
+      "materialRemoved": 4,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "lovable-dev-pricing-20250813070314",
+    "url": "https://lovable.dev/pricing",
+    "ts": "20250813070314",
+    "date": "2025-08-13",
+    "source": "wayback",
+    "prevTs": "20250704005822",
+    "kind": "price",
+    "score": 13,
+    "counts": {
+      "price": 1,
+      "limit": 3,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Lovable: 1 price, 3 limits, 2 plan names changed (removed “Up to 20 collaborators”; added “5 daily credits (up to 30/month)”)",
+    "pairs": [],
+    "added": [
+      "Free forever",
+      "Free for everyone",
+      "5 daily credits (up to 30/month)",
+      "Unlimited collaborators",
+      "5 daily credits (up to 150/month)",
+      "$ 50",
+      "5 daily credits (up to 150/month)"
+    ],
+    "removed": [
+      "Up to 20 collaborators",
+      "* Up to a maximum of 30 credits per month",
+      "Up to 250 credits / month"
+    ],
+    "totals": {
+      "removed": 18,
+      "added": 35,
+      "materialRemoved": 3,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "lovable-dev-pricing-20250905143121",
+    "url": "https://lovable.dev/pricing",
+    "ts": "20250905143121",
+    "date": "2025-09-05",
+    "source": "wayback",
+    "prevTs": "20250813070314",
+    "kind": "price",
+    "score": 13,
+    "counts": {
+      "price": 1,
+      "limit": 2,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Lovable: 1 price, 2 limits, 3 plan names changed (removed “$ 0”; added “100 credits / month”)",
+    "pairs": [],
+    "added": [
+      "100 credits / month",
+      "100 credits / month"
+    ],
+    "removed": [
+      "Free",
+      "$ 0",
+      "Free forever",
+      "Free for everyone",
+      "5 daily credits (up to 30/month)",
+      "Unlimited collaborators",
+      "5 daily credits (up to 150/month)"
+    ],
+    "totals": {
+      "removed": 12,
+      "added": 8,
+      "materialRemoved": 7,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "lovable-dev-pricing-20260501152615",
+    "url": "https://lovable.dev/pricing",
+    "ts": "20260501152615",
+    "date": "2026-05-01",
+    "source": "wayback",
+    "prevTs": "20250905143121",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Lovable: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "shared across unlimited users",
+      "All features in Free, plus:",
+      "Unlimited lovable.app domains",
+      "shared across unlimited users"
+    ],
+    "removed": [
+      "Everything in Free, plus:"
+    ],
+    "totals": {
+      "removed": 17,
+      "added": 44,
+      "materialRemoved": 1,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "lovable-dev-pricing-20260702173046",
+    "url": "https://lovable.dev/pricing",
+    "ts": "20260702173046",
+    "date": "2026-07-02",
+    "source": "wayback",
+    "prevTs": "20260501152615",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 2,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Lovable: 2 prices, 3 limits changed (removed “$ 25”; added “Plan Mode: 1 credit per message”)",
+    "pairs": [],
+    "added": [
+      "Plan Mode: 1 credit per message",
+      "What is included in free and paid plans?",
+      "Starting to build on Lovable is free.",
+      "The free plan includes a daily grant of 5 build credits (up to 30 a month), plus monthly grants of 20 Cloud credits. The free plan also grants 4 credits usable by AI features built into user apps, to try the feature before subscribing.",
+      "Paid subscribers get their plan's credits added to their balance monthly. This balance can be used flexibly to cover building, Cloud, and AI features in user apps. On top, subscriptions include daily grants of 5 build credits and a monthly grant of 20 Cloud credits."
+    ],
+    "removed": [
+      "$ 25",
+      "shared across unlimited users",
+      "100 credits / month",
+      "All features in Free, plus:",
+      "5 daily credits (up to 150/month)",
+      "Unlimited lovable.app domains",
+      "$ 50",
+      "shared across unlimited users",
+      "100 credits / month",
+      "What does the free plan include?"
+    ],
+    "totals": {
+      "removed": 70,
+      "added": 46,
+      "materialRemoved": 10,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "lovable-dev-pricing-20260803130305",
+    "url": "https://lovable.dev/pricing",
+    "ts": "20260803130305",
+    "date": "2026-08-03",
+    "source": "wayback",
+    "prevTs": "20260702173046",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Lovable: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "No. Workspaces support unlimited members on all plans, and plans are priced by the credits they include, not by seats. Inviting more people doesn't change your subscription cost; what changes is how quickly the group uses the workspace's shared credits."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 8,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "docs-lovable-dev-introduction-subscription-plans-20260811040003",
+    "url": "https://docs.lovable.dev/introduction/subscription-plans",
+    "ts": "20260811040003",
+    "date": "2026-08-11",
+    "source": "wayback",
+    "prevTs": "20260726211426",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Lovable: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "lovable-dev-pricing-20260901173948",
+    "url": "https://lovable.dev/pricing",
+    "ts": "20260901173948",
+    "date": "2026-09-01",
+    "source": "wayback",
+    "prevTs": "20260803130305",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Lovable: 1 limit changed (20 → 30)",
+    "pairs": [
+      {
+        "before": "Paid subscribers get their plan's credits added to their balance monthly. This balance can be used flexibly to cover building, Cloud, and AI features in user apps. On top, subscriptions include daily grants of 5 build credits and a monthly grant of 20 Cloud credits.",
+        "after": "Paid subscribers get their plan's credits added to their balance monthly. This balance can be used flexibly to cover building, Cloud, and AI features in user apps. On top, subscriptions include daily grants of 5 build credits (some regional plans cap these at 30 per month) and a monthly grant of 20 Cloud credits.",
+        "confidence": 0.79,
+        "deltas": [
+          {
+            "before": "20",
+            "after": "30"
+          },
+          {
+            "before": null,
+            "after": "20"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "docs-lovable-dev-introduction-subscription-plans-20260902202107",
+    "url": "https://docs.lovable.dev/introduction/subscription-plans",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260811040003",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Lovable: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 10,
+      "added": 36,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    },
+    "transition": true
+  }
+]

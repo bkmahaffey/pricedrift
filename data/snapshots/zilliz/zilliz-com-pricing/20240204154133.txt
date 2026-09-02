@@ -1,0 +1,124 @@
+Zilliz Cloud Pricing
+Scalable pricing designed for every team to fit any budget. Estimate Cost
+.
+Subscribe on AWS
+or GCP
+Marketplace.
+SERVERLESS
+Starter
+From $0/month
+Try Free
+The simplest way to experience a fully-managed vector database.
+Hardware
+No CU options
+Shared environment
+Up to 2 free collections
+Features
+No credit card required to start
+Available on GCP
+Single availability zone
+Single project
+Support
+Community support
+DEDICATED CLUSTER
+Standard
+From $65/month
+Try Free
+View Pricing
+For teams with less than 5 engineers and complex workloads.
+Hardware
+Cost-optimized CU, Capacity-optimized CU, and Performance-optimized CU options. See comparison
+Features
+No credit card required to start
+Available on AWS, GCP and Azure
+Persistent data storage, configurable snapshots, and flexible retention policies ($0.025/GB)
+Single availability zone
+Multiple projects
+RBAC and organization management
+Multiple payment options
+Prometheus metrics
+Security and Compliance
+Enterprise-grade encryption in transit and at rest
+SOC 2 Type 2 compliant
+Support
+Email support during business hours with response time SLAs
+(Urgent: 4 hours; High: 1 business day; Normal: 2 business days)
+Up to 2 technical contacts
+DEDICATED CLUSTER
+Enterprise
+From $99/month
+Get Started
+View Pricing
+For at-scale organizations with advanced security and support needs.
+Hardware
+Cost-optimized CU, Capacity-optimized CU, and Performance-optimized CU options. See comparison
+Features
+Everything in Standard plus
+Multiple availability zones
+Private link
+99.9% monthly uptime availability
+Data backups every 24 hours, retained for 7 days
+Security and Compliance
+Resource monitors and alert notifications
+Enterprise-grade encryption in transit and at rest
+SOC 2 Type 2 compliant
+Support
+24/7/365 Email and Discord support with response time SLAs
+(Urgent: 1 hour; High: 4 hours; Normal: 1 business day)
+Up to 4 technical contacts
+Bring Your Own Cloud(BYOC)
+Perfect for businesses prioritizing privacy and regulatory adherence.
+Contact Sales
+This plan includes all the features in the Enterprise Plan, providing self-managed vector database services deployed within your Virtual Private Cloud (VPC).
+Deploy on your infrastructure of choice, across multiple cloud platforms
+Highly compatible with Kubernetes
+Enterprise security features
+On-demand training
+Estimate Your Cost
+Use this calculator to understand how Zilliz Cloud charges.
+CU Type Performance-optimized CU Low latency and high throughput.
+Pricing Plan Standard
+Cloud Provider
+Amazon Web Services
+Google Cloud Platform
+Microsoft Azure
+Cloud Region us-east-1 (Virginia)
+Number of Entities
+Entities are data records sharing the same set of fields. An entity contains a vector field and one or more scalar fields.
+Million
+Vector Dimension
+Add Scalar field
+For more information about CU sizes, see docs
+.
+CU Size 0 CU
+Storage Size 0 GB
+CU Cost $0.00/mo.
+Storage Cost $0.00/mo.
+Total Cost ( Tax Not Included) $0.00 /mo.
+Our pricing calculator is built around vectors. The calculation result may differ if your dataset includes non-vector fields (such as int, string, json, etc.). If your application is capacity-sensitive, we suggest you conduct a proof of concept (PoC) test during the free trial period.
+Still have questions about Zilliz Cloud pricing? Contact sales directly for more information and discounts.
+Contact Sales
+Frequently asked questions
+What is a Compute Unit (CU)?
+A CU is a group of hardware resources for serving your indexes and search requests. You can simply consider a CU as a fully-managed physical node for deploying search service.
+What's the difference between Performance-optimized CU, Capacity-optimized CU, and Cost-optimized CU?
+The "Performance-optimized Compute Unit" suits low latency or high throughput similarity searches. This option works best for high-search performance scenarios.
+The "Capacity-optimized Compute Unit" serves data volumes that are five times larger than the performance-optimized CU option. This option works best for increased storage capacity scenarios.
+The "Cost-optimized Compute Unit" provides the same large capacity as the "Capacity-optimized" option, but at a lower cost. This option is ideal for budget-conscious projects that need ample storage without high-performance demands.
+How many CUs do I need for a given collection?
+A Performance-optimized CU can serve 5 million 128-dimensional vectors or 1 million 768-dimensional vectors.
+A Capacity-optimized CU can serve 25 million 128-dimensional vectors or 5 million 768-dimensional vectors.
+A Cost-optimized CU can serve 25 million 128-dimensional vectors or 5 million 768-dimensional vectors.
+Can I deploy a serverless cluster on AWS?
+No. Currently, Zilliz Cloud only supports deploying a serverless cluster on GCP. If you need to deploy a cluster on AWS, choose the Standard or Enterprise plan to deploy a dedicated cluster on AWS.
+How can I get further technical support?
+Please submit a request at https://support.zilliz.com/hc/en-us
+.
+Is the pricing the same in every region?
+In short, cloud service prices often vary between providers and regions. Several factors contribute to these differences, such as the costs of the underlying physical resources that cloud database services rely on.
+What is the pricing of Zilliz Cloud on AWS and GCP marketplace?
+Learn more about pricing on AWS
+or GCP
+marketplace.
+How can I request a new cloud region?
+To request a new cloud service provider region for Zilliz Cloud, please submit a Cloud Region Request.

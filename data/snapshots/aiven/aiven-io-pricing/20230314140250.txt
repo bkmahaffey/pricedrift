@@ -1,0 +1,158 @@
+1
+Service
+Aiven for Apache Kafka®
+Aiven for Apache Kafka® Connect
+Aiven for Apache Kafka® MirrorMaker 2
+Aiven for Apache Flink®
+Aiven for ClickHouse®
+Aiven for M3
+Aiven for M3 Aggregator
+Aiven for Apache Cassandra®
+Aiven for OpenSearch®
+Aiven for PostgreSQL®
+Aiven for MySQL
+Aiven for Redis®
+Aiven for InfluxDB®
+Aiven for Grafana®
+2
+Cloud
+Amazon Web Services
+DigitalOcean
+Google Cloud
+Microsoft Azure
+UpCloud
+3
+Region
+Asia, Taiwan (asia-east1)
+Asia, Hong Kong (asia-east2)
+Asia, Tokyo (asia-northeast1)
+Asia, Osaka (asia-northeast2)
+Asia, Seoul (asia-northeast3)
+Asia, Mumbai (asia-south1)
+Asia, Delhi (asia-south2)
+Asia, Singapore (asia-southeast1)
+Asia, Jakarta (asia-southeast2)
+Australia, Sydney (australia-southeast1)
+Australia, Melbourne (australia-southeast2)
+Europe, Warsaw (europe-central2)
+Europe, Finland (europe-north1)
+Europe, Spain (europe-southwest1)
+Europe, Belgium (europe-west1)
+Europe, London (europe-west2)
+Europe, Frankfurt (europe-west3)
+Europe, Netherlands (europe-west4)
+Europe, Zürich (europe-west6)
+Europe, Milan (europe-west8)
+Europe, Paris (europe-west9)
+Middle East, Tel Aviv (me-west1)
+Canada, Montréal (northamerica-northeast1)
+Canada, Toronto (northamerica-northeast2)
+South America, Sao Paulo (southamerica-east1)
+South America, Santiago (southamerica-west1)
+United States, Iowa (us-central1)
+United States, South Carolina (us-east1)
+United States, Northern Virginia (us-east4)
+United States, Columbus (us-east5)
+United States, Dallas (us-south1)
+United States, Oregon (us-west1)
+United States, Los Angeles (us-west2)
+United States, Salt Lake City (us-west3)
+United States, Las Vegas (us-west4)
+4
+Addon
+None
+Available Plans
+Plan Pricing
+Plan Comparison
+Plan
+Dedicated VMs
+CPU per VM
+RAM per VM
+Total storage
+Hourly price
+Est. monthly price
+Startup
+Startup-2
+3
+1
+2 GB
+90 GB
+$ 0.274
+$ 200
+Business
+3
+1-8
+4-32GB
+600-4500GB
+from $0.685
+from $500
+Premium
+6-30
+2-8
+8-32GB
+2250-45000GB
+from $2.603
+from $1900
+Custom
+For plan capacity beyond the listed plans, please contact sales
+Need help? Use our Kafka plan finder tool
+to get a recommended Kafka® plan based on your unique data needs and requirements.
+Notes:
+Data retention is only limited by storage.
+Annual commitments are eligible for a discount.
+Contact Sales
+for more information.
+Get started for free
+Book a demo
+Available marketplaces
+Flexibility, high availability, no maintenance labor costs
+Switch between clouds and region - no extra costs
+5 public cloud providers
+100+ regions
+Migrate across clouds and regions
+with one click at no extra costs
+Multicloud ready - we take care of the plumbing
+We commit to 99.99% uptime
+Automatic detection and handling of common service problems
+Both automatic and configurable backups.
+Customizable monitoring with prebuilt Grafana dashboards or ready-to-go integration with external services.
+Minimal downtime upgrades
+Fixed pricing - no surprises
+Scale up (or down) your services with one click
+No additional backup costs
+No additional API calls
+No additional network ingress or egress cost
+Calculate exactly how much you’ll save with Aiven
+Aiven’s fully managed infrastructure makes your business and your team more productive. Find out how you could start saving millions – today.
+Calculate now
+Open questions? We’ve got answers
+Can I run Aiven services within my own cloud account?
+Yes, we offer a Bring Your Own Account (BYOA)
+model for larger setups. Please contact sales
+for more information, or check out our BYOA documentation
+.
+What are the differences between plans?
+Aiven categorises plans into 4 different tiers. These are Hobbyist, Startup, Business and Premium. The differences between tiers are service specific so we encourage you to choose the service you are interested in from the plan finder on the pricing page and then click "Plan Comparison".
+Most technical features are available in all tiers. One key difference between the tiers can be the number of dedicated VMs. The more VMs there are, the more resistant the service is for any anomalies. Our Hobbyist/Startup tiers are typically recommended for test environments, Business for production environments and Premium for enterprise-level production environments.
+All Aiven for Apache Kafka and Aiven for Apache Cassandra plans offer high-availability (minimum 3 nodes), private networking (VPC) and single-tenant, dedicated clusters where each virtual machine is in a different availability zone. With our Apache Kafka service, Kafka Connect is included only in Business and Premium plans.
+See plan comparison
+to check what's included in different tiers of Kafka plans. Also, you can use our Kafka plan finder tool
+to get a recommended Kafka plan based on your unique data needs and requirements.
+Aiven for PostgreSQL offers high Availability for Business (2 nodes) and Premium (3 nodes) plans. Backup Retention Time varies per plan: 0 days for Hobbyist, 2 days for Startup, 14 days for Business, and 30 days for Premium plan. On premium level plans, you can optionally enable synchronous replication for higher reliability
+See plan comparison
+for more details on PostgreSQL plans.
+What’s included in Aiven customer support?
+We proactively monitor all services 24/7/365. Our personnel are automatically alerted on any service anomalies for immediate resolution. Additionally, your account includes email and chat support. Three additional support tiers are available for an added fee. Learn
+more about support response times and plans.
+Does Aiven offer any discounts?
+Discounts are available for organizations willing to make annual minimum-spend commitments. For more information, contact sales
+.
+Can I add more disk space to my plan?
+Yes, with Aiven’s Dynamic Disk Sizing
+you can freely adjust the disk space allocation for Aiven for PostgreSQL
+Aiven for MySQL
+Aiven for Apache Kafka
+Aiven for Cassandra
+Aiven for M3
+and Aiven for OpenSearch
+plans. Adjust the amount of disk space you use in the Aiven Console. You can go all the way up to three times the amount defined in your plan. The price of the additional storage also covers the additional backup storage needed to handle the increased disk size.

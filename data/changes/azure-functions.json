@@ -1,0 +1,228 @@
+[
+  {
+    "id": "azure-microsoft-com-en-us-pricing-details-functions-20231130184402",
+    "url": "https://azure.microsoft.com/en-us/pricing/details/functions/",
+    "ts": "20231130184402",
+    "date": "2023-11-30",
+    "source": "wayback",
+    "prevTs": "20230107051316",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Azure Functions: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 9,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-details-functions-20240311191442",
+    "url": "https://azure.microsoft.com/en-us/pricing/details/functions/",
+    "ts": "20240311191442",
+    "date": "2024-03-11",
+    "source": "wayback",
+    "prevTs": "20231130184402",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Azure Functions: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "Try Azure for free"
+    ],
+    "removed": [
+      "Free account"
+    ],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-details-functions-20240519100518",
+    "url": "https://azure.microsoft.com/en-us/pricing/details/functions/",
+    "ts": "20240519100518",
+    "date": "2024-05-19",
+    "source": "wayback",
+    "prevTs": "20240311191442",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Azure Functions: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-details-functions-20240607183427",
+    "url": "https://azure.microsoft.com/en-us/pricing/details/functions/",
+    "ts": "20240607183427",
+    "date": "2024-06-07",
+    "source": "wayback",
+    "prevTs": "20240519100518",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Azure Functions: 2 limits changed (added “Flex consumption plan pricing includes a mont…”)",
+    "pairs": [],
+    "added": [
+      "Flex consumption plan pricing includes a monthly free grant of 250,000 executions and 100,000 GB-s of resource consumption per month per subscription in pay-as-you-go on-demand pricing across all function apps in that subscription.",
+      "Free Grant (Per Month)",
+      "100,000 GB-s",
+      "250,000 executions",
+      "1 Free grants apply to the on-demand meters on paid, consumption subscriptions only."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 26,
+      "materialRemoved": 1,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-details-functions-20251115154445",
+    "url": "https://azure.microsoft.com/en-us/pricing/details/functions/",
+    "ts": "20251115154445",
+    "date": "2025-11-15",
+    "source": "wayback",
+    "prevTs": "20240607183427",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Azure Functions: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "50 GB of orchestration data storage"
+    ],
+    "removed": [
+      "Try Azure for free"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 21,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-details-functions-20251217013239",
+    "url": "https://azure.microsoft.com/en-us/pricing/details/functions/",
+    "ts": "20251217013239",
+    "date": "2025-12-17",
+    "source": "wayback",
+    "prevTs": "20251115154445",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Azure Functions: 1 limit changed (added “1 year savings plan”)",
+    "pairs": [],
+    "added": [
+      "1 year savings plan",
+      "3 year savings plan"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 24,
+      "materialRemoved": 1,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-details-functions-20260815235341",
+    "url": "https://azure.microsoft.com/en-us/pricing/details/functions/",
+    "ts": "20260815235341",
+    "date": "2026-08-15",
+    "source": "wayback",
+    "prevTs": "20251217013239",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Azure Functions: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-details-functions-20260902202107",
+    "url": "https://azure.microsoft.com/en-us/pricing/details/functions/",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260815235341",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Azure Functions: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

@@ -1,0 +1,219 @@
+Join us on 9/27 for "Decoding LLMs and Generative AI with Observability-Driven Development" Register Now
+Simple pricing that's easy
+to manage and scale
+Simple pricing that's easy
+to manage and scale
+Simple pricing that's easy
+to manage and scale
+start for free
+Use Free features forever or upgrade to Pro at any time
+book a demo
+Get a live demo from our experts and find the best fit
+Best for testing and small projects
+Free
+Top Features
+$0
+per month
+2 Triggers
+Distributed Tracing
+BubbleUp
+OpenTelemetry Support
+Activity + Team History
+Query Result Permalinks
+Honeycomb Metrics
+Query Assistant
+Event
+Volume: 20M per month
+Best for teams with production applications
+Pro
+Top Features
+starts at
+$130
+per month
+All Features From the Free Plan
+100 Triggers
+2 Service Level Objectives (SLOs)
+Single-Sign On (SSO)
+Honeycomb Support
+Monthly or Annual Subscription
+Event
+Volume: 100M, 450M, or 1.5B per month
+Best for company-wide + large-scale applications
+Enterprise
+Top Features
+Request a trial
+All Features From the Pro Plan
+300 Triggers
+100 SLOs
+Service Map
+Enterprise Support for Refinery
+Enterprise-Grade Support + Onboarding
+Query Data API
+AWS PrivateLink
+SLO Reporting API
+Event
+Volume: Scales to Size of Business
+detailed pricing chart
+Free
+Pro
+Enterprise
+Free
+Pro
+Enterprise
+Number of Users
+Unlimited
+Number of Services
+Unlimited
+Data Storage Limit
+Unlimited
+Data Retention
+60-day
+60-day (negotiable extensions)
+Event
+Volume Limit
+20 million events per month
+100 million, 450 million, or 1.5 billion events per month
+Scales to any size of business
+Pricing
+$0 per month
+Starts at $130 / month or $1,300 / year
+Contact us
+Subscription Period
+Monthly
+Monthly or Annually
+Annually
+Distributed Tracing
+Triggers
+2
+100
+300
+BubbleUp
+Activity + Team History
+Query Result Permalinks
+Slack Integration For Queries + Traces
+OpenTelemetry Support
+Agents, SDKs, Other Integrations
+Honeycomb Metrics
+Single-Sign On
+Service-Level Objectives (SLOs)
+2
+100
+Service Map
+Refinery Dynamic Sampling
+Enterprise support
+AWS PrivateLink
+Technical Support
+Community support (Pollinators Slack)
+Honeycomb Support Response Times
+N/A
+Next business day
+Two business hours
+Customer Success Team
+Onboarding Accelerator Packages
+Available
+Frequently asked questions
+Events
+What is an event?
+In Honeycomb, an event is a line of data that you send as a JSON object posted to our API. This data can capture anything in your system that’s worth tracking; typically, a trace span or structured log, including all context fields that your application is instrumented to generate.
+A single event includes fields with unlimited cardinality and can be very wide to include thousands of dimensions of context — with no additional charge. Honeycomb customers are encouraged to take advantage of this by sending wide events, like structured logs with many attributes, span events with a trace ID tied to all user context, or a metric with many attributes compressed to a single timestamp.
+These events get analyzed in seconds whenever your team runs a query in Honeycomb.
+Examples of a single event:
+A span with multiple attributes:
+// trace span
+{ Timestamp: 2018-08-20T22:29:59.978735688Z, availability_zone: us-east-1, build_id: 3150, customer_id: 1810, durationMs:448, endpoint: /api/v2/tickets, endpoint_shape: /api/v2/tickets, fraud_dur:112, hostname: app24, id: 6ee0d492cc3cbdc0, is_error:0, mysql_dur:312, name: /api/v2/tickets, platform: android, serviceName: api, status_code:200, traceId: 6ee0d492cc3cbdc0, user_id: 483437 }
+A narrow event with just a timestamp, host, and CPU metric:
+// narrow event
+{ timestamp: 2022-06-05T14:44, hostname: a, system.cpu.time: 192877 }
+A wide event that’s a structured log:
+// wide event
+{ Timestamp: 2022-07-01T19:23:50Z, cache_status: HIT, client_ip_hash: 5c022873f02aac526c40013c12cd87c05745d82cd5dcebc74a0f307670f0b9f2, content_type: binary/octet-stream, downloaded_gem_name: log-output-apm_metrics, downloaded_gem_version: 2.0.1, geo_city: ashburn, geo_country_code: US, host: rubygems.org, is_h2:false, is_ipv6:false, is_tls:true, log_resp_body_size:3.9880235619286597, log_time_elapsed:3.141763230275788, protocol: HTTP/1.1, req_body_size:0, req_header_size:174, request: GET, requ
+What is an event when it comes to trace data?
+Traces are comprised of multiple spans. Each span in a trace is counted as one event by Honeycomb. Each SpanEvent or Link (in OpenTelemetry
+and OpenCensus
+) count as one event. Below is an example of an event that is one span with multiple attributes:
+// trace span
+{ Timestamp: 2018-08-20T22:29:59.978735688Z, availability_zone: us-east-1, build_id: 3150, customer_id: 1810, durationMs:448, endpoint: /api/v2/tickets, endpoint_shape: /api/v2/tickets, fraud_dur:112, hostname: app24, id: 6ee0d492cc3cbdc0, is_error:0, mysql_dur:312, name: /api/v2/tickets, platform: android, serviceName: api, status_code:200, traceId: 6ee0d492cc3cbdc0, user_id: 483437 }
+How do I see how many events I’m currently sending to Honeycomb?
+From the Honeycomb web UI, find the Usage page under Team Settings. This page shows your team’s event volume for the last 60 days. In the table at the bottom of the page, you’ll also find the number of events received per dataset.
+When does the counter start on my monthly events limit?
+Team event limits are based on calendar months, regardless of the selected plan or when the team signed up. For example, if you started using Honeycomb with a billing day on the 10th of each month, all of your capacity management logic is still pinned to calendar month. The counter resets on the 1st of each month, even if your billing date is on the 10th. We use 30.4 days as the denominator for calculating daily ingest targets for events (eg. 100M EPM / 30.4 days = daily target of 3.29M events).
+What happens when I am over my monthly event limit?
+We send you a notification to let you know you have exceeded your monthly event limit. The goal of the notification is to give you time to either adjust your instrumentation down or upgrade to a bigger plan. If you have a second consecutive overage month, we send a notification that we’ll begin throttling your events to bring you down to your monthly event limit. You have 10 days from that notification to take remediation action before throttling begins.
+What happens if I unexpectedly have a spike in traffic?
+We’ve added Burst Protection
+as a new measure to help account for unexpected spikes in traffic. Burst Protection automatically activates when you exceed your daily event target by at least 2X. With Burst Protection, any events in excess of the daily event target will not be counted against your team’s EPM limit. As an example, let’s say your team has a daily event target of 10 million events. One day, you see a spike in traffic and you send 30 million events to Honeycomb. Burst Protection automatically activates and the exc
+You receive a notification when Burst Protection is triggered. The effect of burst protection will also be visible on the Usage tab of your Team Settings page. While excess events under Burst Protection are not counted against your team’s EPM limits, they are considered successful events and they still appear in your per-dataset breakdown.
+Are there limits on event size?
+Event size limits are generous. Events are limited to 100kb size with a maximum of 2000 columns. Events over this size are rejected by Honeycomb with an error code in the API response. See our Events API documentation
+for more information.For reference, all of the text displayed on this FAQ page (including the intro and table of contents) is approximately 9kb in size.
+Data Retention
+I backloaded some old data into Honeycomb to do analysis. How long will it be available?
+Our data retention logic is based on time of ingest, so it will be there for 60 days from the date you sent it to Honeycomb (regardless of what’s on the timestamp of the events).
+Is it possible to set my data retention period beyond 60 days for a dataset?
+If you have an Enterprise plan and need more than 60 days of retention, we can work with you to customize your plan. Please contact your Honeycomb sales rep directly for more details.
+Enterprise Plans
+Why do Enterprise plans have EPY instead of EPM and how is that different?
+Enterprise plans are annual subscriptions. Events Per Year (EPY) is a simple way to think about what is included for the duration of your plan. However, monthly targets for Enterprise plans are still calculated and set as EPM.
+How do Enterprise plans allow me to grow EPY to fit my needs?
+Enterprise plans start with a base allowance of 10 Billion Events Per Year. You can purchase additional capacity as needed with your annual subscription plan.
+What are event-based volume discounts?
+As your workload scales significantly, we offer volume discounts on additional EPY capacity to appropriately size an Enterprise plan that’s right for you.
+Do you offer increased security or an on-premises option for Enterprise plans?
+Our enterprise ready security features include SSO, AWS PrivateLink, a SOC 2 Type II report, encryption at rest and in transit, ability to sign a BAA, regular penetration testing by an independent security firm, a bug bounty program, and GDPR compliance. Read more here.
+What is Honeycomb’s approach to security and compliance certifications?
+Honeycomb is SOC 2 Type 2 certified and compliant.
+Do you sign Data Processing Agreements (DPAs)?
+For Enterprise plans or Pro plans on annual subscriptions, Honeycomb signs customer-provided DPAs. For Pro plans on monthly subscriptions, customers sign Honeycomb’s DPA.
+Do you sign Business Associate Agreements (BAAs)?
+Honeycomb can sign BAAs for customers. Honeycomb encrypts all data in transit and at rest, managed by AWS. We also offer AWS PrivateLink for clients that want to keep telemetry data within AWS and simplify configuration of outbound firewalls. Finally, we can offer guidance for preprocessing and normalizing data so that PHI/PII never leaves your infrastructure.
+Detailed Pricing
+What do each of the available plan options cost?
+The table below outlines the various plans available, their EPM capacity, price, and discounts for annual purchase.
+Plan
+Up to Events per Month (EPM)
+Cost per Month
+Cost per Year
+Free
+20M
+$0
+Pro
+100M
+$130
+$1,300
+Pro
+450M
+$585
+$5,850
+Pro
+1,500M
+$1,950
+$19,500
+Enterprise
+Variable
+n/a
+Book a demo
+Do the prices listed include sales tax?
+No, additional sales tax will be added to the monthly/annual bill in compliance with state guidelines and Honeycomb will remit them on your behalf to the appropriate entity. Please contact sales@honeycomb.io for more information.
+What happens if I don’t reach my monthly event limit? Can I “roll over” the unused events?
+Events are not cell phone minutes. Sorry, you can’t roll them over.
+Further Questions
+Have more questions that aren’t on this FAQ?
+Contact us
+What customers are saying
+It’s really awesome how this solves the “it’s hard to predict how many GB I’ll send”,
+“It’s hard to find out what’s sending too much”, “It’s hard to predict how much retention I’ll get”, problems in one fell swoop!
+Matt Button
+Engineering Team Lead, Geckoboard
+These new plans look great. It makes so much sense.
+Storage is cheap and network/compute is expensive. Counting events vs GB, you want users to stuff all the data into their events so they can get the most out of it.
+Julian Simioni
+Co-Founder, Geocode Earth
+The best thing about the simplified pricing is that it reduces the number of volume metrics we had to think about from two (GB ingest per month and GB storage) to one measure (events per month).
+Spencer Wilson
+Senior Software Engineer, Optimizely
+Thank you for the new pricing changes. This makes it easier to explain to people.
+Martin Thwaites
+Independent Software Consultant
+More questions? Get in touch with us!
+BOOK A DEMO
+SCHEDULE OFFICE HOURS

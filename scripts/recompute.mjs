@@ -16,6 +16,7 @@ for (const s of services) {
   const state = await readState(s.slug);
   const old = await readChanges(s.slug);
   const sourceByTs = Object.fromEntries(old.map(c => [`${c.url}|${c.ts}`, c.source]));
+  const transitionByTs = Object.fromEntries(old.filter(c => c.transition).map(c => [`${c.url}|${c.ts}`, true]));
   const next = [];
   for (const st of Object.values(state.urls || {})) {
     const url = st.url; if (!url) continue;
@@ -26,7 +27,7 @@ for (const s of services) {
       if (prev) {
         const change = computeChange(stableLines(prev), stableLines(lines));
         if (change) {
-          const entry = { id: `${path.basename(path.dirname(await Promise.resolve(path.join(DATA, 'snapshots', s.slug, 'x'))))}`, url, ts, date: tsToDate(ts), source: sourceByTs[`${url}|${ts}`] || 'wayback', prevTs, kind: change.kind, score: change.score, counts: change.counts, material: change.material, headline: headline(change, s.name), pairs: change.pairs, added: change.added, removed: change.removed, totals: change.totals };
+          const entry = { id: `${path.basename(path.dirname(await Promise.resolve(path.join(DATA, 'snapshots', s.slug, 'x'))))}`, url, ts, date: tsToDate(ts), source: sourceByTs[`${url}|${ts}`] || 'wayback', ...(transitionByTs[`${url}|${ts}`] ? { transition: true } : {}), prevTs, kind: change.kind, score: change.score, counts: change.counts, material: change.material, headline: headline(change, s.name), pairs: change.pairs, added: change.added, removed: change.removed, totals: change.totals };
           entry.id = old.find(c => c.url === url && c.ts === ts)?.id || `${new URL(url).host.replace(/^www\./, '')}${new URL(url).pathname}`.replace(/[^a-z0-9]+/gi, '-').replace(/^-|-$/g, '').toLowerCase().slice(0, 80) + `-${ts}`;
           if (entry.material && prevEntry && isInverse(prevEntry, entry)) { entry.flap = true; prevEntry.flap = true; }
           next.push(entry);

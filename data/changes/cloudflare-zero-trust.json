@@ -1,0 +1,152 @@
+[
+  {
+    "id": "cloudflare-com-plans-zero-trust-services-20240908135022",
+    "url": "https://www.cloudflare.com/plans/zero-trust-services/",
+    "ts": "20240908135022",
+    "date": "2024-09-08",
+    "source": "wayback",
+    "prevTs": "20240104063206",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Zero Trust: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 9,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "cloudflare-com-plans-zero-trust-services-20251203204801",
+    "url": "https://www.cloudflare.com/plans/zero-trust-services/",
+    "ts": "20251203204801",
+    "date": "2025-12-03",
+    "source": "wayback",
+    "prevTs": "20240908135022",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare Zero Trust: 1 price changed (removed “Starting at $10 per user (only available with…”)",
+    "pairs": [],
+    "added": [
+      "Start a proof of concept with our free plan today."
+    ],
+    "removed": [
+      "Starting at $10 per user (only available with paid plans)"
+    ],
+    "totals": {
+      "removed": 51,
+      "added": 32,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "cloudflare-com-plans-zero-trust-services-20260302023659",
+    "url": "https://www.cloudflare.com/plans/zero-trust-services/",
+    "ts": "20260302023659",
+    "date": "2026-03-02",
+    "source": "wayback",
+    "prevTs": "20251203204801",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Zero Trust: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "cloudflare-com-sase-products-access-20260501152310",
+    "url": "https://www.cloudflare.com/sase/products/access/",
+    "ts": "20260501152310",
+    "date": "2026-05-01",
+    "source": "wayback",
+    "prevTs": "20260217031520",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Zero Trust: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "cloudflare-com-plans-zero-trust-services-20260902202107",
+    "url": "https://www.cloudflare.com/plans/zero-trust-services/",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "browser",
+    "prevTs": "20260302023659",
+    "kind": "price",
+    "score": 20,
+    "counts": {
+      "price": 3,
+      "limit": 4,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Cloudflare Zero Trust: 3 prices, 4 limits, 2 plan names changed (added “Best for teams under 50 users or enterprise p…”)",
+    "pairs": [],
+    "added": [
+      "Free Plan",
+      "Free Plan",
+      "Best for teams under 50 users or enterprise proof-of-concept tests.",
+      "$0 forever",
+      "Best for teams over 50 users solving narrow SSE use cases and do not require enterprise support services.",
+      "$7/user/month",
+      "50 user limit",
+      "up to 24 hours",
+      "up to 30 days",
+      "Up to 6 months; Logpush to SIEM/cloud storage",
+      "Provides network traffic visibility and real-time alerts for unified insights into network activity. Available for free to everyone.",
+      "Up to 2 read-only API integrations",
+      "Unlimited out-of-band integrations (add-on)",
+      "Free and pay-as-you-go plan: Free for the first 10 GB, $1 per GB per month after"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 85,
+      "materialRemoved": 0,
+      "materialAdded": 14
+    },
+    "transition": true
+  }
+]

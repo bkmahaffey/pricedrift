@@ -1,0 +1,128 @@
+Pricing that scales with you
+From independent developers to Fortune 500 companies, Knock scales for any organization. Start powering your notifications today for free.
+Developer
+For testing and evaluation, or small-scale deployments. $ 0 / mo
+Up to 10k notifications / mo Upgrade for additional usage.
+Features: Unlimited channels
+Unlimited notification workflows
+Unlimited team members
+Batch and delay notifications
+Built-in multi-tenancy
+SSO via Google
+Get started for free
+Starter
+For smaller teams looking to get started with cross-channel notifications. $ 250 / mo
+Includes 50k notifications / mo $5 per 1,000 additional notifications.
+Everything in Developer, plus... Remove Knock branding
+Get started for free
+Enterprise
+For organizations with high volume, security, control, or support needs. Contact us
+Flexible pricing for your business Volume-based discounts and monthly notified user pricing available.
+Everything in Starter, plus... Per-customer branding and preferences
+Translation (i18n) support
+Send analytics data to Segment or your data warehouse
+Send observability data to Datadog
+Volume-based pricing
+Enterprise SLAs
+Shared Slack channel and priority support
+SAML 2.0 SSO
+HIPAA compliance / BAA
+Contact sales
+TRUSTED BY DEVELOPERS AT
+Compare features
+Developer $0/mo
+Starter $250/mo
+Enterprise Contact us
+Platform
+Notifications included A notification is a message sent to a single user on a single channel. All paid plans start with included volume and bill for additional usage.
+Notification channels
+Team members A team member is anyone with login access to your account.
+Recipients A recipient is a user who receives notifications sent by Knock.
+Power Knock with source events Trigger notifications with CDPs (such as Segment and Rudderstack) and reverse ETL platforms (such as Hightouch and Census).
+Up to 10,000 Upgrade for additional usage.
+Unlimited
+50,000 $5 per 1,000 additional notifications.
+Unlimited
+Contact us Volume-based discounts and monthly notified user pricing available.
+Unlimited
+Workflows
+Workflows A workflow encapsulates a single type of notification in your system, like a user invite.
+Workflow triggers
+Intelligent cross-channel routing
+Batching Batch and digest notifications to reduce the frequency with which recipients receive your notifications.
+Fetch from HTTP Fetch data via webhook and merge into your workflow state to power digesting.
+Conditional sending Send notifications conditionally using read status, device awareness, and more.
+Scheduled workflows Run and manage recurring notifications through the Knock dashboard or API.
+Preferences Manage user preferences for your channels, notifications, and categories.
+End-to-end testing
+Non-user recipients Send notifications to non-users resources in your product. For example, a project with its own activity feed or with an integration to a Slack channel.
+Manage via API & CLI
+Translations (i18n)
+Unlimited
+In-app
+Feeds per recipient Create as many in-app channels as you need. One for your notification feed, another for your inbox, a third for your in-app toasts.
+Pre-built components
+Bring your own components
+Remove Knock branding
+Feed retention The number of days a message stays in your users' feeds. No limit, but can be configured.
+Feed API
+Custom feed filtering Filter the Knock feed API using any of the metadata you pass to your workflows. Create tabs for priority messages, billing-related messages, and more.
+Unlimited
+Per-customer
+Per-customer branding Enable your customers to white-label your notifications with logo and brand colors.
+Per-customer preferences Enable your customer admins to set default and locked preferences for their users.
+Logs & Analytics
+Logs
+Log retention
+Engagement tracking Manage cross-channel open and link tracking from a single platform.
+Stream observability data Stream notification system health metrics to Datadog.
+Stream analytics to Segment Stream notification engagement data to Segment.
+Stream analytics to data warehouse Stream notification engagement data to your data warehouse.
+30-day retention
+90-day retention
+Security & Support
+Version control & history
+Isolated environments Create as many environments as you need to map to your development lifecycle.
+Granular access controls
+Audit logs
+Google SSO
+Custom SSO Integrate with Okta, Active Directory, or any other SAML or OpenID SSO provider.
+Template migration services
+Uptime SLA
+Enterprise support
+Dedicated infrastructure
+Unlimited
+99.9%
+Unlimited
+99.9%
+Unlimited
+Contact us
+Frequently asked questions
+What counts as a notification sent for usage billing purposes?
+A notification sent is a single notification delivered to a single user on a single channel.
+As an example, if you trigger a notification workflow that results in a user receiving an in-app message and an email, that counts as two notifications sent. If the same trigger resulted in zero notifications being sent (say because of a given user's notification preferences,) you wouldn't be charged.
+We only charge for notifications sent, not notification workflows triggered within Knock.
+What happens if I go over the free plan limit and don't have a billing method in place?
+We don't hard cap your notifications. Our priority is making sure the service continues to work as you'd expect. If you go over your limit, we'll get in touch with you about making sure you have a billing method in place next month. 👍
+Do you offer volume discounts?
+We do! But only on our enterprise plan. You can get in touch with us if you're interested.
+How will I be charged and billed for my use of Knock?
+There are no setup fees to begin using Knock. At the end of the month, your credit card will automatically be charged for that month’s usage.
+What is a channel?
+In Knock a channel represents a single destination you send notifications to from our platform.
+Here are a few examples of individual channels:
+A SendGrid account you use to send your transactional emails
+A Slack channel powering your customer-facing Slack bot
+A Knock in-app channel used for a notification feed
+A Knock in-app channel used for toast messages
+When does billing of my Knock usage begin and end?
+Your Knock billing cycle starts when you upgrade to a paid plan. The day of the month you upgrade will be your billing cycle anchor every month moving forward.
+Here's an example: you upgrade to a paid plan on the 15th of the month. You'll immediately be invoiced for the platform fee of that plan. Your next invoice will be due on the 15th of the next month. If your billing cycle anchor starts on a day that doesn't exist in a given month (e.g. the 31st of September,) we'll use the last day of the month instead.
+We bill usage overages in arrears, so any usage you incur in a month will show up on your next month's invoice.
+If I use Knock, do I still pay for downstream messaging services such as Postmark and Twilio?
+Yes. We do not currently manage billing for the downstream platform providers that deliver your notifications.
+Does Knock sign BAAs for HIPAA-compliant customers?
+Yes. Knock is HIPAA compliant. We will sign BAAs for Enterprise plan customers.
+Build and ship delightful notifications in minutes
+Batching, cross-channel delivery, and preference management - all on one platform. Send 10k notifications per month for free.
+Get started for free →

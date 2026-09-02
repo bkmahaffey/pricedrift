@@ -1,0 +1,567 @@
+[
+  {
+    "id": "upstash-com-pricing-20231113065800",
+    "url": "https://upstash.com/pricing",
+    "ts": "20231113065800",
+    "date": "2023-11-13",
+    "source": "wayback",
+    "prevTs": "20230922082427",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Upstash: 1 price changed (removed “Commands Per second: You are billed based on …”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Commands Per second: You are billed based on the number of Redis Commands processed by your database at a rate of $0.2 per 100K request. Operational commands like AUTH, INFO, PING, QUIT, COMMAND will not be charged."
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 5,
+      "materialRemoved": 3,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "upstash-com-pricing-20240211130403",
+    "url": "https://upstash.com/pricing",
+    "ts": "20240211130403",
+    "date": "2024-02-11",
+    "source": "wayback",
+    "prevTs": "20231113065800",
+    "kind": "price",
+    "score": 59,
+    "counts": {
+      "price": 13,
+      "limit": 5,
+      "plan": 5
+    },
+    "material": true,
+    "headline": "Upstash: 13 prices, 5 limits, 5 plan names changed (removed “64 MB”; added “$0.2 / 100K commands”)",
+    "pairs": [],
+    "added": [
+      "$0.2 / 100K commands",
+      "$280 / month",
+      "Free",
+      "$280",
+      "$680",
+      "Free",
+      "$0.2 per 100K",
+      "Free",
+      "Free",
+      "How can I upgrade to pay as you go from free tier?",
+      "Are there free trials?"
+    ],
+    "removed": [
+      "Unlimited",
+      "64 MB",
+      "1 GB",
+      "3 GB",
+      "10 GB",
+      "Free Tier",
+      "Your monthly bill will be driven by the below components, all charges are per database. You can create up to 10 databases in this tier for free and beyond this you will also be charged $0.5 per database up to 100 databases.",
+      "Monthly Bandwidth (Data Transfer Cost): The data transfer is free up to monthly bandwidth limit of 200GB. Beyond that, we charge $0.03 for each additional GB data transfer.",
+      "10MB",
+      "$50",
+      "50MB",
+      "$80",
+      "100MB",
+      "$120",
+      "256MB",
+      "$60",
+      "500MB",
+      "1GB",
+      "$180",
+      "Monthly fixed price: This is fixed based on the Pro tier enabled and not driven by usage volume. The costs are $280+$100 per read region for Pro 2K,and $680 + $200 per read region for Pro 10K. For Enterprise a custom price is set based on specific requirements."
+    ],
+    "totals": {
+      "removed": 58,
+      "added": 47,
+      "materialRemoved": 26,
+      "materialAdded": 17
+    }
+  },
+  {
+    "id": "upstash-com-pricing-20240607194545",
+    "url": "https://upstash.com/pricing",
+    "ts": "20240607194545",
+    "date": "2024-06-07",
+    "source": "wayback",
+    "prevTs": "20240211130403",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Upstash: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "upstash-com-pricing-20240823012619",
+    "url": "https://upstash.com/pricing",
+    "ts": "20240823012619",
+    "date": "2024-08-23",
+    "source": "wayback",
+    "prevTs": "20240607194545",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Upstash: 2 limits changed (removed “Last 7 days”)",
+    "pairs": [],
+    "added": [
+      "Unlimited commands and high performance for a fixed price."
+    ],
+    "removed": [
+      "Last 7 days",
+      "Last 30 days",
+      "Last 1 year"
+    ],
+    "totals": {
+      "removed": 26,
+      "added": 25,
+      "materialRemoved": 3,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "upstash-com-pricing-20241127231936",
+    "url": "https://upstash.com/pricing",
+    "ts": "20241127231936",
+    "date": "2024-11-27",
+    "source": "wayback",
+    "prevTs": "20240823012619",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Upstash: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "100K+ commands per second",
+      "Unlimited bandwidth and database count"
+    ],
+    "removed": [
+      "Unlimited",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 12,
+      "added": 30,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "upstash-com-pricing-20250120181800",
+    "url": "https://upstash.com/pricing",
+    "ts": "20250120181800",
+    "date": "2025-01-20",
+    "source": "wayback",
+    "prevTs": "20241127231936",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Upstash: 1 limit changed (removed “200 MB”; added “1 GB”)",
+    "pairs": [],
+    "added": [
+      "1 GB"
+    ],
+    "removed": [
+      "200 MB"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 3,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "upstash-com-pricing-20250311191359",
+    "url": "https://upstash.com/pricing",
+    "ts": "20250311191359",
+    "date": "2025-03-11",
+    "source": "wayback",
+    "prevTs": "20250120181800",
+    "kind": "price",
+    "score": 117,
+    "counts": {
+      "price": 11,
+      "limit": 31,
+      "plan": 11
+    },
+    "material": true,
+    "headline": "Upstash: 11 prices, 31 limits, 11 plan names changed ($280 → $10; $280 → $10)",
+    "pairs": [
+      {
+        "before": "$280 / month",
+        "after": "$10 / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$280",
+            "after": "$10"
+          }
+        ]
+      },
+      {
+        "before": "$280 / month",
+        "after": "$10 / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$280",
+            "after": "$10"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "256 MB",
+      "500 K",
+      "100 GB",
+      "Unlimited",
+      "Fixed 250MB",
+      "Fixed 5GB",
+      "Fixed 100GB",
+      "Fixed 500GB",
+      "$5 ✕ read regions",
+      "250 MB",
+      "50GB",
+      "Fixed 250MB",
+      "Fixed 1GB",
+      "Fixed 5GB",
+      "Fixed 10GB",
+      "Fixed 50GB",
+      "Fixed 100GB",
+      "Fixed 500GB",
+      "Fixed 250MB",
+      "Fixed 1GB",
+      "Fixed 5GB",
+      "Fixed 10GB",
+      "Fixed 50GB",
+      "Fixed 100GB",
+      "Fixed 500GB",
+      "Fixed 250MB",
+      "Fixed 1GB",
+      "Fixed 5GB",
+      "Fixed 10GB",
+      "Fixed 50GB",
+      "Fixed 100GB",
+      "Fixed 500GB",
+      "Fixed 250MB",
+      "Fixed 1GB",
+      "Fixed 5GB",
+      "Fixed 10GB",
+      "Fixed 50GB",
+      "Fixed 100GB",
+      "Fixed 500GB",
+      "Fixed 250MB"
+    ],
+    "removed": [
+      "Pro 2K",
+      "+$100 ✕ read region",
+      "Unlimited commands and high performance for a fixed price.",
+      "Pro 2K",
+      "Pro 10K",
+      "Pro 2K",
+      "Pro 10K",
+      "Pro 2K",
+      "Pro 2K",
+      "Pro 10K",
+      "Pro 10K",
+      "Pro 2K",
+      "Pro 10K",
+      "$680 / month",
+      "Unlimited",
+      "10 MB",
+      "500 MB",
+      "200 GB",
+      "5 TB",
+      "$280",
+      "+($100 ✕ read region)",
+      "$680",
+      "$0.03 per GB",
+      "How can I upgrade to pay as you go from free tier?",
+      "Are there free trials?"
+    ],
+    "totals": {
+      "removed": 87,
+      "added": 104,
+      "materialRemoved": 34,
+      "materialAdded": 62
+    }
+  },
+  {
+    "id": "upstash-com-pricing-20250401022749",
+    "url": "https://upstash.com/pricing",
+    "ts": "20250401022749",
+    "date": "2025-04-01",
+    "source": "wayback",
+    "prevTs": "20250311191359",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Upstash: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "upstash-com-pricing-20250503180112",
+    "url": "https://upstash.com/pricing",
+    "ts": "20250503180112",
+    "date": "2025-05-03",
+    "source": "wayback",
+    "prevTs": "20250401022749",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Upstash: 2 limits changed (removed “1 MB”; added “10 MB”)",
+    "pairs": [],
+    "added": [
+      "10 MB",
+      "500 MB"
+    ],
+    "removed": [
+      "1 MB",
+      "100 MB"
+    ],
+    "totals": {
+      "removed": 12,
+      "added": 15,
+      "materialRemoved": 5,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "upstash-com-pricing-20260406021755",
+    "url": "https://upstash.com/pricing",
+    "ts": "20260406021755",
+    "date": "2026-04-06",
+    "source": "wayback",
+    "prevTs": "20250503180112",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Upstash: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 8,
+      "added": 15,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "upstash-com-pricing-20260514163314",
+    "url": "https://upstash.com/pricing",
+    "ts": "20260514163314",
+    "date": "2026-05-14",
+    "source": "wayback",
+    "prevTs": "20260406021755",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Upstash: 2 limits changed (removed “500 K”; added “Are paid databases' first 256MB data and 500K…”)",
+    "pairs": [],
+    "added": [
+      "How can I upgrade to pay as you go from free tier?",
+      "What is included in free tier?",
+      "Are paid databases' first 256MB data and 500K commands free?",
+      "Are there free trials?",
+      "What happens if I delete my database after 2-3 days?"
+    ],
+    "removed": [
+      "500 K"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 26,
+      "materialRemoved": 3,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "upstash-com-pricing-20260603071546",
+    "url": "https://upstash.com/pricing",
+    "ts": "20260603071546",
+    "date": "2026-06-03",
+    "source": "wayback",
+    "prevTs": "20260514163314",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Upstash: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "upstash-com-pricing-20260705151239",
+    "url": "https://upstash.com/pricing",
+    "ts": "20260705151239",
+    "date": "2026-07-05",
+    "source": "wayback",
+    "prevTs": "20260603071546",
+    "kind": "price",
+    "score": 186,
+    "counts": {
+      "price": 39,
+      "limit": 34,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Upstash: 39 prices, 34 limits, 1 plan name changed (added “10 GB”)",
+    "pairs": [],
+    "added": [
+      "10 GB",
+      "Unlimited",
+      "Unlimited",
+      "Free tier includes 256MB data size and 500K commands per month.",
+      "Yes. But for Global databases, the write commands are replicated to all read regions in addition to the primary region. Replications are also counted as commands. For example, if you have one primary and one read region, 100K writes cost $0.4 ($0.2 x 2).",
+      "For each database, the first 1GB is free. Beyond that, storage is charged at $0.25 per GB of total storage.",
+      "Yes, we can provide free trials for testing and PoC purposes. Email us at support@upstash.com",
+      "You can create up to 10 databases for free. Beyond that, you are charged $0.5 per database up to 100 databases.",
+      "For more than 100 databases, contact support@upstash.com",
+      "For pay-as-you-go, monthly bandwidth is free up to 200GB. Beyond that, we charge $0.03 per additional GB.",
+      "Yes. You can purchase Prod Pack for any plan except the Free tier. You can enable it from your Upstash dashboard database details page.",
+      "On pay-as-you-go, a write is still billed as a single command no matter how many zones it is replicated to. The impact is on bandwidth, which is free up to 200GB per month and $0.03 per additional GB, so a write-heavy database may notice it there.",
+      "What happened to the Pro 2K and Pro 10K plans?",
+      "Pro 2K and Pro 10K were fixed-throughput dedicated plans, priced at $280/month and $680/month respectively. They are deprecated and have been replaced by pay-as-you-go, Fixed plans, and the Prod Pack add-on.",
+      "It also includes dedicated professional support, a dedicated technical account manager, unlimited databases, HIPAA compliance, VPC peering, SSO integration, and custom monthly or annual contract options.",
+      "Free",
+      "$0/month",
+      "256 MB",
+      "10 GB",
+      "$0.20 per 100K commands",
+      "100 GB",
+      "Unlimited",
+      "Fixed 250MB",
+      "$10/month",
+      "+$5/region",
+      "250 MB",
+      "50 GB",
+      "Fixed 1GB",
+      "$20/month",
+      "+$10/region",
+      "1 GB",
+      "100 GB",
+      "Fixed 5GB",
+      "$100/month",
+      "+$50/region",
+      "5 GB",
+      "500 GB",
+      "Fixed 10GB",
+      "$200/month",
+      "+$100/region"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 175,
+      "materialRemoved": 0,
+      "materialAdded": 114
+    }
+  },
+  {
+    "id": "upstash-com-pricing-20260902202107",
+    "url": "https://upstash.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260705151239",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Upstash: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Can I get a free Redis database without signing up?",
+      "and you get a free Redis database instantly, with no signup, credit card, or API key. The response is markdown with credentials and a quickstart, so AI agents can start using it right away.",
+      "The database is deleted after 3 days unless you claim it into your account from the console link in the response. Once claimed, it follows the pricing on this page."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 3
+    },
+    "transition": true
+  }
+]

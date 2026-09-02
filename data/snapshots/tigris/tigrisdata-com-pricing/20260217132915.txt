@@ -1,0 +1,116 @@
+Pricing
+Tigris is a globally distributed, multi-cloud object storage service with built-in support for the S3 API. No egress fee storage eliminates vendor lock in, freeing your data to move to any cloud.
+Storage Cost Comparison
+Storage Amount
+GB GB
+TB
+PB
+Egress Amount (% of storage)
+%
+Tigris
+$19.90
+AWS
+$63.00
+GCS
+$78.00
+FREE 5GB
+STORAGE COST
+EGRESS FEES
+Pricing details
+Tigris pricing is based on data stored and requests:
+Data Storage: the amount of data stored in your buckets and the storage tier used.
+Requests: the number of requests made to your buckets and objects. The request costs are based on the type of request and are calculated based on the quantity of requests.
+Component
+Data Storage
+Class A Requests:
+PUT, COPY, POST, LIST
+Class B Requests:
+GET, SELECT, and all others
+Data Retrieval
+Minimum Storage Retention
+Object Notifications
+Egress (Data Transfer to Internet)
+Standard Tier
+$0.02/GB/month
+$0.005/1000 requests
+$0.0005/1000 requests
+Free
+N/A
+$0.01/1000 events published
+Free
+Infrequent Access Tier
+$0.01/GB/month
+$0.005/1000 requests
+$0.0005/1000 requests
+$0.01/GB
+30 days
+$0.01/1000 events published
+Free
+Archive Tier **
+$0.004/GB/month
+$0.005/1000 requests
+$0.0005/1000 requests
+Free
+90 days
+$0.01/1000 events published
+Free
+Archive Instant Retrieval Tier
+$0.004/GB/month
+$0.005/1000 requests
+$0.0005/1000 requests
+$0.03/GB
+90 days
+$0.01/1000 events published
+Free
+** Data in Archive tier requires restoration before it can be accessed. Read more about Storage tiers
+.
+Free Tier
+We offer a free tier as follows:
+5GB of data storage (standard tier) per month
+10,000 PUT, COPY, POST, LIST requests per month
+100,000 GET, SELECT, and all other requests per month
+Zero egress fees
+While other cloud providers tax you for each GB of data transferred, we don't. At Tigris, we don't charge for regional data transfer, region-to-region data transfer, or data transfer out to the internet (egress). However, if your bandwidth requirements are extraordinary, please reach out to us at sales@tigrisdata.com
+to discuss your requirements.
+Multi-Region Bucket Pricing
+Tigris, by default, manages the data distribution for you, ensuring data is stored close to the users to ensure low latency and high availability. However, as mentioned in the Multi-Region Buckets
+section, you may explicitly choose to store multiple copies of your data in different regions. In such cases, in addition to the Data Storage charge, you will be charged for Data Replication.
+Data Replication is charged at $0.02/GB/month for each additional region. For example, if you store 1 GB of data in standard tier in two regions, you will be charged $0.02/GB/month for the first region and $0.02/GB/month for the second region, resulting in a total of $0.04/GB/month.
+Enterprise pricing
+For larger workloads we offer the ability to customize the pricing and service contract to best fit your needs. Please reach out to us to discuss your requirements.
+Build your custom plan
+FAQs
+What happens if I receive unexpected traffic?
+We are happy to discuss a refund if you experience unexpected traffic due to an attack that results in a surprisingly large bill. Please reach out to us at help@tigrisdata.com
+.
+Do you charge for unauthorized access?
+We do not charge for unauthorized requests to your buckets and objects. You will not be charged for the following error responses: 301 Moved Permanently, 307 Temporary Redirect, 400 Bad Request, 403 Forbidden, 405 Method Not Allowed, 409 Conflict, 411 Length Required, 412 Precondition Failed, 416 Requested Range Not Satisfiable, 304 Not Modified, 500 Internal Server Error, and 501 Not Implemented.
+What constitutes Class A and Class B requests?
+The following requests are classified as Class A and Class B requests:
+Class A Requests
+CreateBucket, CreateMultipartUpload, CopyObject, ListObjects, ListObjectsV2, ListMultipartUploads, ListBuckets, ListParts, PutBucketCors, PutBucketLifecycleConfiguration, PutObjectTagging, PutObjectAcl, PutObjectRetention, PutObjectLegalHold, PutObjectLockConfiguration, PutBucketAcl, PutBucketPolicy, PutBucketTagging, PutBucketAccelerateConfiguration, PutBucketOwnershipControls, PutObject
+Class B Requests
+GetBucketAccelerateConfiguration, GetBucketAcl, GetBucketCors, GetBucketLifecycleConfiguration, GetBucketLocation, GetBucketOwnershipControls, GetBucketPolicy, GetBucketPolicyStatus, GetBucketRequestPayment, GetBucketTagging, GetBucketVersioning, GetObject, GetObjectAcl, GetObjectTagging, HeadBucket, HeadObject
+Free Requests
+All DELETE and CANCEL requests are free
+How is data storage calculated over a period of a month?
+Tigris measures storage in binary gigabytes (GB), where 1 GB equals 2^30 bytes. This unit, also called a gibibyte (GiB), is defined by the International Electrotechnical Commission (IEC). In the same way, 1 TB is equivalent to 2^40 bytes, or 1024 GB.
+Storage costs are calculated using GB/month. A GB/month is determined by averaging the daily peak storage over a billing period (1 month). Example:
+Storing 1 GB (1,073,741,824 bytes) constantly for whole month will be charged as 1 GB/month
+Storing 10 GB for 12 days in June, and then 20 GB for the rest 18 days will be charged as 16 GB/month
+10 GB x 12/30 + 20 GB x 18/30 = 16 GB/month
+What is Minimum Storage Retention charge?
+A minimum storage retention charge applies to objects stored in the Infrequent Access, Archive, and Archive Instant Retrieval tiers. For example, objects in the Infrequent Access tier are subject to a minimum storage duration of 30 days. If objects are deleted, updated, or transitioned to another storage tier before 30 days, a 30-day storage charge will still apply. Objects stored for 30 days or longer will be charged only for the actual number of days stored.
+How am I charged when restoring data from archive tier?
+When you restore data from the Archive tier, the data is moved to the Standard tier for the duration you specify. You will be charged for the data storage in the Standard tier for the duration of the restoration. Once the restoration period is over, the data is moved back to the Archive tier, and you will be charged for the data storage in the Archive tier.
+How is Data Transfer (Egress) different from Data Retrieval?
+Data retrieval is only applicable to Infrequent Access and Archive Instant Retrieval tiers. Comparing to AWS S3, when you GET an object stored in Infrequent Access tier you pay Data Retrieval and Data Transfer (Egress) fees. With Tigris, you are only responsible for Data Retrieval fee and there is no charge for Data Transfer (Egress).
+In the Archive tier, AWS S3 charges for data retrievals as part of the archive restore process. In contrast, there is no retrieval charge in Tigris when you restore data from Archive tier and Data Transfer (Egress) is always free.
+What is an event and how are they charged?
+An event in Tigris refers to a notification sent to a webhook for changes to objects in a bucket. Each webhook request can contain multiple events that occurred within a short time frame.
+Tigris charges for each individual event, not per webhook request. This means that if a single webhook request contains multiple events, you will be charged for each of those events separately.
+For specific pricing details on events, please refer to our pricing table above.
+Eliminate vendor lock-in.
+Scale infinitely.
+Get started
+View documentation

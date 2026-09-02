@@ -1,0 +1,78 @@
+Skip to main content
+On this page
+Models & Pricing
+The prices listed below are in unites of per 1M tokens. A token, the smallest unit of text that the model recognizes, can be a word, a number, or even a punctuation mark. We will bill based on the total number of input and output tokens by the model.
+Pricing Details
+USD
+CNY
+MODEL (1)
+CONTEXT LENGTH
+MAX COT TOKENS (2)
+MAX OUTPUT TOKENS (3)
+1M TOKENS
+INPUT PRICE
+(CACHE HIT) (4)
+1M TOKENS
+INPUT PRICE
+(CACHE MISS)
+1M TOKENS
+OUTPUT PRICE
+deepseek-chat
+64K
+-
+8K
+$0.07 (5)
+$0.014
+$0.27 (5)
+$0.14
+$1.10 (5)
+$0.28
+deepseek-reasoner
+64K
+32K
+8K
+$0.14
+$0.55
+$2.19 (6)
+MODEL (1)
+CONTEXT LENGTH
+MAX COT TOKENS (2)
+MAX OUTPUT TOKENS (3)
+1M TOKENS
+INPUT PRICE
+(CACHE HIT) (4)
+1M TOKENS
+INPUT PRICE
+(CACHE MISS)
+1M TOKENS
+OUTPUT PRICE
+deepseek-chat
+64K
+-
+8K
+¥0.5 (5)
+¥0.1
+¥2 (5)
+¥1
+¥8 (5)
+¥2
+deepseek-reasoner
+64K
+32K
+8K
+¥1
+¥4
+¥16 (6)
+(1) The deepseek-chat model has been upgraded to DeepSeek-V3. deepseek-reasoner points to the new model DeepSeek-R1.
+(2) CoT (Chain of Thought) is the reasoning content deepseek-reasoner gives before output the final answer. For details, please refer to Reasoning Model
+。
+(3) If max_tokens is not specified, the default maximum output length is 4K. Please adjust max_tokens to support longer outputs.
+(4) Please check DeepSeek Context Caching
+for the details of Context Caching.
+(5) The form shows the the original price and the discounted price. From now until 2025-02-08 16:00 (UTC), all users can enjoy the discounted prices of DeepSeek API. After that, it will recover to full price. DeepSeek-R1 is not included in the discount.
+(6) The output token count of deepseek-reasoner includes all tokens from CoT and the final answer, and they are priced equally.
+Deduction Rules
+The expense = number of tokens × price. The corresponding fees will be directly deducted from your topped-up balance or granted balance, with a preference for using the granted balance first when both balances are available.
+Product prices may vary and DeepSeek reserves the right to adjust them. We recommend topping up based on your actual usage and regularly checking this page for the most recent pricing information.
+Pricing Details
+Deduction Rules

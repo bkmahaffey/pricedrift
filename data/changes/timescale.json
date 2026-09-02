@@ -1,0 +1,619 @@
+[
+  {
+    "id": "timescale-com-pricing-20231109003642",
+    "url": "https://www.timescale.com/pricing",
+    "ts": "20231109003642",
+    "date": "2023-11-09",
+    "source": "wayback",
+    "prevTs": "20230821062821",
+    "kind": "price",
+    "score": 8,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Tiger Cloud (formerly Timescale Cloud): 2 prices, 1 plan name changed (added “Compute starts at $30 / month”)",
+    "pairs": [],
+    "added": [
+      "Compute starts at $30 / month",
+      "Storage is $0.177* / GB month",
+      "Start for free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 25,
+      "materialRemoved": 0,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "timescale-com-pricing-20240329042040",
+    "url": "https://www.timescale.com/pricing",
+    "ts": "20240329042040",
+    "date": "2024-03-29",
+    "source": "wayback",
+    "prevTs": "20231109003642",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 4,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Tiger Cloud (formerly Timescale Cloud): 4 prices changed (removed “Storage is $0.177* / GB month”; added “Compute starts at US$30 / month Storage is US…”)",
+    "pairs": [],
+    "added": [
+      "Compute starts at US$30 / month Storage is US$0.177* / GB month",
+      "US$0.021 / GB mo for all Timescale regions"
+    ],
+    "removed": [
+      "Storage is $0.177* / GB month",
+      "$ 30"
+    ],
+    "totals": {
+      "removed": 30,
+      "added": 33,
+      "materialRemoved": 7,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "timescale-com-pricing-20240522140618",
+    "url": "https://www.timescale.com/pricing",
+    "ts": "20240522140618",
+    "date": "2024-05-22",
+    "source": "wayback",
+    "prevTs": "20240329042040",
+    "kind": "price",
+    "score": 20,
+    "counts": {
+      "price": 3,
+      "limit": 5,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Tiger Cloud (formerly Timescale Cloud): 3 prices, 5 limits, 1 plan name changed (removed “0.5 CPU 2 GB RAM”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "0.5 CPU 2 GB RAM",
+      "1 CPU 4 GB RAM",
+      "2 CPU 8 GB RAM",
+      "4 CPU 16 GB RAM",
+      "8 CPU 32 GB RAM",
+      "16 CPU 64 GB RAM",
+      "32 CPU 128 GB RAM",
+      "0 GB 0 GB",
+      "16 TB",
+      "US$ 0.041",
+      "US$ 30",
+      "US$ 30",
+      "Start for free"
+    ],
+    "totals": {
+      "removed": 35,
+      "added": 0,
+      "materialRemoved": 13,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "timescale-com-pricing-20240716181856",
+    "url": "https://www.timescale.com/pricing",
+    "ts": "20240716181856",
+    "date": "2024-07-16",
+    "source": "wayback",
+    "prevTs": "20240522140618",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Tiger Cloud (formerly Timescale Cloud): pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "timescale-com-pricing-20240918084551",
+    "url": "https://www.timescale.com/pricing",
+    "ts": "20240918084551",
+    "date": "2024-09-18",
+    "source": "wayback",
+    "prevTs": "20240716181856",
+    "kind": "price",
+    "score": 53,
+    "counts": {
+      "price": 9,
+      "limit": 11,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Tiger Cloud (formerly Timescale Cloud): 9 prices, 11 limits, 2 plan names changed (US$0.177 removed)",
+    "pairs": [
+      {
+        "before": "Compute starts at US$30 / month Storage is US$0.177* / GB month",
+        "after": "Compute starts at $30/month",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "US$0.177",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Try for free",
+      "30-day free trial",
+      "Best for cost-focused, smaller projects. No credit card required to start.",
+      "$30 / month",
+      "$0.177 / GB-month",
+      "4 database services",
+      "Up to 8 CPU and 32 GB memory per service",
+      "Up to 16 TB disk storage per service",
+      "$36 / month",
+      "$0.212 / GB-month",
+      "Unlimited database services",
+      "Up to 32 CPU and 128 GB memory",
+      "Point-in-time-recovery up to 14 days",
+      "* Signups start with a free trial to Performance, but you can upgrade to Scale whenever you're ready.",
+      "Storage priced at $0.177/GB-month",
+      "Compute starts at $36/month",
+      "Storage priced at $0.212/GB-month",
+      "Unlimited",
+      "Up to 8 CPU",
+      "Up to 32 CPU",
+      "Up to 32 GB",
+      "Up to 128 GB",
+      "Up to 16 TB",
+      "Unlimited",
+      "Unlimited",
+      "$0.021/GB-month",
+      "3 seats included",
+      "10 seats included",
+      "20 seats included",
+      "Unlimited",
+      "16K IOPS",
+      "16K IOPS",
+      "3 days",
+      "14 days",
+      "Unlimited multi-attach",
+      "Unlimited multi-attach",
+      "Up to 8 CPU",
+      "Up to 32 GB",
+      "Up to 16 TB",
+      "3 seats included"
+    ],
+    "removed": [
+      "Break free from fixed plans",
+      "Try now for free"
+    ],
+    "totals": {
+      "removed": 36,
+      "added": 259,
+      "materialRemoved": 6,
+      "materialAdded": 50
+    }
+  },
+  {
+    "id": "timescale-com-pricing-20250112120229",
+    "url": "https://www.timescale.com/pricing",
+    "ts": "20250112120229",
+    "date": "2025-01-12",
+    "source": "wayback",
+    "prevTs": "20240918084551",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Tiger Cloud (formerly Timescale Cloud): pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "timescale-com-pricing-20250209213027",
+    "url": "https://www.timescale.com/pricing",
+    "ts": "20250209213027",
+    "date": "2025-02-09",
+    "source": "wayback",
+    "prevTs": "20250112120229",
+    "kind": "plans",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Tiger Cloud (formerly Timescale Cloud): 3 plan names changed (removed “Yes! We offer new users a free, 30-day trial …”)",
+    "pairs": [],
+    "added": [
+      "Compute requirements are highly dependent on the workload. TimescaleDB is very efficient and generally needs less compute than other databases to deliver the same performance (see our). The best way to size your needs is to signup for a free trial and to test with a realistic workload."
+    ],
+    "removed": [
+      "Try for free",
+      "Start for free",
+      "Yes! We offer new users a free, 30-day trial period (no credit card required) of our Performance plan. During your trial, you can contact us",
+      "). The best way to size your needs is to signup for a free trial and to test with a realistic workload.",
+      "Start for free"
+    ],
+    "totals": {
+      "removed": 18,
+      "added": 4,
+      "materialRemoved": 6,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "timescale-com-pricing-20250306143750",
+    "url": "https://www.timescale.com/pricing",
+    "ts": "20250306143750",
+    "date": "2025-03-06",
+    "source": "wayback",
+    "prevTs": "20250209213027",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Tiger Cloud (formerly Timescale Cloud): pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Best for cost-focused, smaller projects. No credit card required to start. Pay as you go, hourly."
+    ],
+    "removed": [
+      "30-day free trial",
+      "Best for cost-focused, smaller projects. No credit card required to start."
+    ],
+    "totals": {
+      "removed": 11,
+      "added": 11,
+      "materialRemoved": 3,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "tigerdata-com-pricing-20250907123025",
+    "url": "https://www.tigerdata.com/pricing",
+    "ts": "20250907123025",
+    "date": "2025-09-07",
+    "source": "wayback",
+    "prevTs": "20250618050634",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Tiger Cloud (formerly Timescale Cloud): pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 7,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "tigerdata-com-pricing-20251002145240",
+    "url": "https://www.tigerdata.com/pricing",
+    "ts": "20251002145240",
+    "date": "2025-10-02",
+    "source": "wayback",
+    "prevTs": "20250907123025",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Tiger Cloud (formerly Timescale Cloud): 2 limits changed (added “Up to 64 CPU and 256 GB memory per service”)",
+    "pairs": [],
+    "added": [
+      "Up to 64 CPU and 256 GB memory per service",
+      "Up to 64 CPU",
+      "Up to 256 GB"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "tigerdata-com-pricing-20251110101731",
+    "url": "https://www.tigerdata.com/pricing",
+    "ts": "20251110101731",
+    "date": "2025-11-10",
+    "source": "wayback",
+    "prevTs": "20251002145240",
+    "kind": "limits",
+    "score": 8,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Tiger Cloud (formerly Timescale Cloud): 1 limit, 3 plan names changed (added “Up to 750 MB per service”)",
+    "pairs": [],
+    "added": [
+      "Beta Free plan",
+      "Up to 750 MB per service",
+      "Beta Free plan",
+      "Up to 750 MB per service",
+      "30-day free trial",
+      "30-day free trial",
+      "—free.",
+      "Yes! We offer new users a free, 30-day trial period (no credit card required) of our Performance plan. During your trial, you can contact us",
+      "Start for free"
+    ],
+    "removed": [
+      "Prefer to self-host? Use our open-source —free."
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 48,
+      "materialRemoved": 1,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "tigerdata-com-pricing-20260303075441",
+    "url": "https://www.tigerdata.com/pricing",
+    "ts": "20260303075441",
+    "date": "2026-03-03",
+    "source": "wayback",
+    "prevTs": "20251110101731",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Tiger Cloud (formerly Timescale Cloud): 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "Try free with AWS",
+      "Start a free trial",
+      "Start a free trial"
+    ],
+    "removed": [
+      "Start for free"
+    ],
+    "totals": {
+      "removed": 35,
+      "added": 36,
+      "materialRemoved": 6,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "tigerdata-com-pricing-20260403195341",
+    "url": "https://www.tigerdata.com/pricing",
+    "ts": "20260403195341",
+    "date": "2026-04-03",
+    "source": "wayback",
+    "prevTs": "20260303075441",
+    "kind": "limits",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Tiger Cloud (formerly Timescale Cloud): 1 limit, 2 plan names changed (removed “Up to 750 MB per service”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Beta Free plan",
+      "Up to 750 MB per service",
+      "Beta Free plan",
+      "Up to 750 MB per service"
+    ],
+    "totals": {
+      "removed": 26,
+      "added": 0,
+      "materialRemoved": 4,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "tigerdata-com-pricing-20260507222247",
+    "url": "https://www.tigerdata.com/pricing",
+    "ts": "20260507222247",
+    "date": "2026-05-07",
+    "source": "wayback",
+    "prevTs": "20260403195341",
+    "kind": "limits",
+    "score": 5,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Tiger Cloud (formerly Timescale Cloud): 3 limits changed (16K → 40K; 32K → 80K)",
+    "pairs": [
+      {
+        "before": "Up to 16K IOPS, 1,000 Mbps BW",
+        "after": "Up to 40K IOPS, 1,000 Mbps BW",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "16K",
+            "after": "40K"
+          }
+        ]
+      },
+      {
+        "before": "Up to 32K IOPS, 4,000 Mbps BW",
+        "after": "Up to 80K IOPS, 4,000 Mbps BW",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "32K",
+            "after": "80K"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Up to 64 TB disk storage per service"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 4,
+      "materialRemoved": 2,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "tigerdata-com-pricing-20260607073853",
+    "url": "https://www.tigerdata.com/pricing",
+    "ts": "20260607073853",
+    "date": "2026-06-07",
+    "source": "wayback",
+    "prevTs": "20260507222247",
+    "kind": "limits",
+    "score": 15,
+    "counts": {
+      "price": 0,
+      "limit": 8,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Tiger Cloud (formerly Timescale Cloud): 8 limits changed (removed “Up to 5K IOPS, 250 Mbps BW”; added “Up to 5K IOPS, 250 MB/s throughput”)",
+    "pairs": [],
+    "added": [
+      "Up to 5K IOPS, 250 MB/s throughput",
+      "Up to 40K IOPS, 1,500 MB/s throughput",
+      "Up to 80K IOPS, 2,000 MB/s throughput",
+      "125 - 250 MB/s",
+      "250 - 500 MB/s",
+      "Up to 40K IOPS and",
+      "1,500 MB/s throughput",
+      "Up to 80K IOPS and",
+      "2,000 MB/s throughput",
+      "125 - 250 MB/s"
+    ],
+    "removed": [
+      "Up to 5K IOPS, 250 Mbps BW",
+      "Up to 40K IOPS, 1,000 Mbps BW",
+      "Up to 80K IOPS, 4,000 Mbps BW",
+      "16K IOPS",
+      "32K IOPS"
+    ],
+    "totals": {
+      "removed": 19,
+      "added": 17,
+      "materialRemoved": 12,
+      "materialAdded": 17
+    }
+  },
+  {
+    "id": "tigerdata-com-pricing-20260711043351",
+    "url": "https://www.tigerdata.com/pricing",
+    "ts": "20260711043351",
+    "date": "2026-07-11",
+    "source": "wayback",
+    "prevTs": "20260607073853",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Tiger Cloud (formerly Timescale Cloud): 2 limits changed (removed “3 seats included”)",
+    "pairs": [],
+    "added": [
+      "Prefer to self-host? Use our open-source TimescaleDB —free.",
+      "Start a free trial",
+      "Start a free trial",
+      "Get started in seconds with our free trial"
+    ],
+    "removed": [
+      "—free.",
+      "3 seats included",
+      "10 seats included",
+      "20 seats included",
+      "Unlimited",
+      "3 seats included",
+      "Run a free trial"
+    ],
+    "totals": {
+      "removed": 30,
+      "added": 21,
+      "materialRemoved": 8,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "tigerdata-com-pricing-20260813213754",
+    "url": "https://www.tigerdata.com/pricing",
+    "ts": "20260813213754",
+    "date": "2026-08-13",
+    "source": "wayback",
+    "prevTs": "20260711043351",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Tiger Cloud (formerly Timescale Cloud): pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  }
+]

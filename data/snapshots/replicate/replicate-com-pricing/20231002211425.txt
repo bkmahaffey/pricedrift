@@ -1,0 +1,84 @@
+Pricing
+You can use Replicate for free, but after a bit you'll be asked to enter your credit card. You pay by the second for the predictions you run.
+The price per second varies based on the hardware the model is run on.
+Hardware
+Public model price
+Private model price
+GPU
+CPU
+GPU RAM
+RAM
+CPU
+$0.000100 / sec
+($0.0060 / min)
+$0.000200 / sec
+($0.0120 / min)
+-
+4x
+-
+8GB
+Nvidia T4 GPU
+$0.000225 / sec
+($0.0135 / min)
+$0.000550 / sec
+($0.0330 / min)
+1x
+4x
+16GB
+8GB
+Nvidia A40 GPU
+$0.000575 / sec
+($0.0345 / min)
+$0.001300 / sec
+($0.0780 / min)
+1x
+4x
+48GB
+16GB
+Nvidia A40 (Large) GPU
+$0.000725 / sec
+($0.0435 / min)
+$0.001600 / sec
+($0.0960 / min)
+1x
+10x
+48GB
+72GB
+Nvidia A100 (40GB) GPU
+$0.001150 / sec
+($0.0690 / min)
+$0.002300 / sec
+($0.1380 / min)
+1x
+10x
+40GB
+72GB
+Nvidia A100 (80GB) GPU
+$0.001400 / sec
+($0.0840 / min)
+$0.003200 / sec
+($0.1920 / min)
+1x
+10x
+80GB
+144GB
+8x Nvidia A40 (Large) GPU
+$0.005800 / sec
+($0.3480 / min)
+$0.005800 / sec
+($0.3480 / min)
+8x
+48x
+8x 48GB
+680GB
+🔔 Soon, we’re lowering the price of private models and charging for setup and idle time. Learn more.
+Hardware
+Different models run on different hardware. You’ll find the hardware specifications under the "Run time and cost" heading on each model’s page on Replicate. Check out kuprel/min-dalle
+for an example.
+Canceled predictions
+If you cancel your prediction before it starts, then there’s no charge. If you cancel it after it’s started, then we stop the prediction immediately, and only bill you for the time used so far.
+Billing
+When your prediction completes successfully, we calculate how long it ran for, and add it to your account. Once per month we charge you for the time that you’ve used. The minimum billable time for any prediction is 1 second. You can find your current usage on your account page.
+🚀 Ready to use Replicate for real?
+To get started, you'll need to sign up and set up billing. There's no charge to sign up and you only pay for what you use.
+Sign up and set up billing

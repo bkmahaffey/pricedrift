@@ -1,0 +1,1576 @@
+[
+  {
+    "id": "huggingface-co-pricing-20230301023839",
+    "url": "https://huggingface.co/pricing",
+    "ts": "20230301023839",
+    "date": "2023-03-01",
+    "source": "wayback",
+    "prevTs": "20230104122739",
+    "kind": "price",
+    "score": 19,
+    "counts": {
+      "price": 1,
+      "limit": 8,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hugging Face: 1 price, 8 limits changed (removed “16 GiB”; added “16 GB”)",
+    "pairs": [],
+    "added": [
+      "16 GB",
+      "32 GB",
+      "15 GB",
+      "30 GB",
+      "15 GB",
+      "46 GB",
+      "142 GB",
+      "$4.13",
+      "Up to 3,000 rows",
+      "Up to 10,000 rows"
+    ],
+    "removed": [
+      "16 GiB",
+      "32 GiB",
+      "15 GiB",
+      "30 GiB",
+      "15 GiB",
+      "46 GiB",
+      "142 GiB"
+    ],
+    "totals": {
+      "removed": 39,
+      "added": 13,
+      "materialRemoved": 10,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "huggingface-co-pricing-20230502115527",
+    "url": "https://huggingface.co/pricing",
+    "ts": "20230502115527",
+    "date": "2023-05-02",
+    "source": "wayback",
+    "prevTs": "20230301023839",
+    "kind": "price",
+    "score": 20,
+    "counts": {
+      "price": 4,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hugging Face: 4 prices, 4 limits changed (removed “Nvidia A100 40GB”; added “16GB”)",
+    "pairs": [],
+    "added": [
+      "16GB",
+      "16GB",
+      "24GB",
+      "24GB",
+      "40GB",
+      "$6.50",
+      "80GB",
+      "Pay as you go (Unlimited)",
+      "$0.002 per image",
+      "$0.002 per row",
+      "$3 per model"
+    ],
+    "removed": [
+      "Nvidia A100 40GB",
+      "Unlimited",
+      "Up to 10,000 rows",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 19,
+      "materialRemoved": 4,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "huggingface-co-pricing-20230703054541",
+    "url": "https://huggingface.co/pricing",
+    "ts": "20230703054541",
+    "date": "2023-07-03",
+    "source": "wayback",
+    "prevTs": "20230502115527",
+    "kind": "price",
+    "score": 19,
+    "counts": {
+      "price": 5,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hugging Face: 5 prices, 2 limits changed ($0 → $0.05)",
+    "pairs": [
+      {
+        "before": "$0 /hour",
+        "after": "$0.05 /hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0",
+            "after": "$0.05"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$20 per user per month",
+      "All Spaces get ephemeral storage for free but you can upgrade and add persistent storage at any time.",
+      "20 GB",
+      "$5",
+      "150 GB",
+      "$25",
+      "1 TB",
+      "$100",
+      "Up to 5,000 rows"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 25,
+      "added": 39,
+      "materialRemoved": 6,
+      "materialAdded": 15
+    }
+  },
+  {
+    "id": "huggingface-co-pricing-20230901232233",
+    "url": "https://huggingface.co/pricing",
+    "ts": "20230901232233",
+    "date": "2023-09-01",
+    "source": "wayback",
+    "prevTs": "20230703054541",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 5,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hugging Face: 5 prices, 2 limits changed (removed “80GB”; added “160GB”)",
+    "pairs": [],
+    "added": [
+      "160GB",
+      "$13.00",
+      "320GB",
+      "$26.00"
+    ],
+    "removed": [
+      "80GB",
+      "$0.002 per image",
+      "$0.002 per row",
+      "$3 per model"
+    ],
+    "totals": {
+      "removed": 8,
+      "added": 12,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "huggingface-co-pricing-20231101173152",
+    "url": "https://huggingface.co/pricing",
+    "ts": "20231101173152",
+    "date": "2023-11-01",
+    "source": "wayback",
+    "prevTs": "20230901232233",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 2,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hugging Face: 2 prices, 3 limits changed (added “24 vCPU”)",
+    "pairs": [],
+    "added": [
+      "24 vCPU",
+      "92 GB",
+      "48GB",
+      "$5.70",
+      "48 vCPU",
+      "184 GB",
+      "96GB",
+      "$10.80"
+    ],
+    "removed": [
+      "Higher tier for the Free Inference API"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 15,
+      "materialRemoved": 1,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "huggingface-co-pricing-20240101114812",
+    "url": "https://huggingface.co/pricing",
+    "ts": "20240101114812",
+    "date": "2024-01-01",
+    "source": "wayback",
+    "prevTs": "20231101173152",
+    "kind": "price",
+    "score": 22,
+    "counts": {
+      "price": 4,
+      "limit": 4,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Hugging Face: 4 prices, 4 limits, 1 plan name changed (removed “$0 /model”; added “16 vCPU”)",
+    "pairs": [],
+    "added": [
+      "16 vCPU",
+      "124 GB",
+      "96GB",
+      "$7.00",
+      "640GB",
+      "$52.00"
+    ],
+    "removed": [
+      "$0 /model",
+      "Starting at $0",
+      "Free",
+      "Pay as you go (unlimited)",
+      "Up to 500 images",
+      "Up to 1500 images",
+      "Up to 3,000 rows",
+      "Up to 5,000 rows"
+    ],
+    "totals": {
+      "removed": 35,
+      "added": 13,
+      "materialRemoved": 8,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "huggingface-co-pricing-20240302072104",
+    "url": "https://huggingface.co/pricing",
+    "ts": "20240302072104",
+    "date": "2024-03-02",
+    "source": "wayback",
+    "prevTs": "20240101114812",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 1,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hugging Face: 1 price, 2 limits changed (added “24 vCPU”)",
+    "pairs": [],
+    "added": [
+      "24 vCPU",
+      "250 GB",
+      "80 GB",
+      "$8.70"
+    ],
+    "removed": [
+      "Higher free tier for AutoTrain"
+    ],
+    "totals": {
+      "removed": 12,
+      "added": 23,
+      "materialRemoved": 8,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "huggingface-co-pricing-20240501002832",
+    "url": "https://huggingface.co/pricing",
+    "ts": "20240501002832",
+    "date": "2024-05-01",
+    "source": "wayback",
+    "prevTs": "20240302072104",
+    "kind": "price",
+    "score": 161,
+    "counts": {
+      "price": 50,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hugging Face: 50 prices, 6 limits changed ($0.05 → $0; $0.06 → $0.032)",
+    "pairs": [
+      {
+        "before": "$0.05 /hour",
+        "after": "$0 /hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.05",
+            "after": "$0"
+          }
+        ]
+      },
+      {
+        "before": "$0.06 /hour",
+        "after": "$0.032 /hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.06",
+            "after": "$0.032"
+          }
+        ]
+      },
+      {
+        "before": "Starting at $0.06/hour",
+        "after": "Starting at $0.032/hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.06",
+            "after": "$0.032"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0.40",
+      "$1.00",
+      "$1.50",
+      "$3.00",
+      "$5.00",
+      "$4.00",
+      "$10.00",
+      "$0.03",
+      "$0.13",
+      "$0.26",
+      "2GB",
+      "$0.07",
+      "4GB",
+      "$0.14",
+      "8GB",
+      "$0.28",
+      "16GB",
+      "$0.56",
+      "$0.50",
+      "$1.00",
+      "$5.00",
+      "$3.00",
+      "$4.00",
+      "$8.00",
+      "$16.00",
+      "$32.00",
+      "16GB",
+      "$0.50",
+      "24GB",
+      "$1.00",
+      "$5.00",
+      "80GB",
+      "$6.00",
+      "160GB",
+      "$12.00",
+      "320GB",
+      "$24.00",
+      "$48.00"
+    ],
+    "removed": [
+      "16 vCPU",
+      "124 GB",
+      "$0.90",
+      "$1.05",
+      "$3.15",
+      "$5.70",
+      "$10.80",
+      "$4.13",
+      "$8.70",
+      "$0.12",
+      "$0.24",
+      "$0.48",
+      "$0.60",
+      "$1.30",
+      "$7.00",
+      "$4.50",
+      "$6.50",
+      "$13.00",
+      "$26.00",
+      "$52.00"
+    ],
+    "totals": {
+      "removed": 38,
+      "added": 70,
+      "materialRemoved": 25,
+      "materialAdded": 43
+    }
+  },
+  {
+    "id": "huggingface-co-pricing-20240703044359",
+    "url": "https://huggingface.co/pricing",
+    "ts": "20240703044359",
+    "date": "2024-07-03",
+    "source": "wayback",
+    "prevTs": "20240501002832",
+    "kind": "price",
+    "score": 76,
+    "counts": {
+      "price": 19,
+      "limit": 9,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Hugging Face: 19 prices, 9 limits, 1 plan name changed ($0.032 → $0.033)",
+    "pairs": [
+      {
+        "before": "Starting at $0.032/hour",
+        "after": "Starting at $0.033/hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.032",
+            "after": "$0.033"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "FREE",
+      "8 vCPU",
+      "30 GB",
+      "24 GB",
+      "$0.80",
+      "48 vCPU",
+      "186 GB",
+      "96 GB",
+      "$3.80",
+      "$0.07",
+      "$0.27",
+      "14.5GB",
+      "$0.75",
+      "760GB",
+      "$12.00",
+      "16GB",
+      "$1.38",
+      "64GB",
+      "$5.50",
+      "128GB",
+      "$11.00",
+      "$0.80",
+      "96GB",
+      "$3.80",
+      "24GB",
+      "80GB",
+      "$12.50",
+      "160GB",
+      "$25.00",
+      "320GB",
+      "$50.00",
+      "640GB",
+      "$100.00"
+    ],
+    "removed": [
+      "$0.00",
+      "$0.06",
+      "$0.26"
+    ],
+    "totals": {
+      "removed": 64,
+      "added": 86,
+      "materialRemoved": 7,
+      "materialAdded": 37
+    }
+  },
+  {
+    "id": "huggingface-co-pricing-20240902001148",
+    "url": "https://huggingface.co/pricing",
+    "ts": "20240902001148",
+    "date": "2024-09-02",
+    "source": "wayback",
+    "prevTs": "20240703044359",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 4,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hugging Face: 4 prices, 6 limits changed (added “192 vCPU”)",
+    "pairs": [],
+    "added": [
+      "192 vCPU",
+      "2 TB",
+      "160 GB",
+      "$80.00",
+      "22 vCPU",
+      "44 GB",
+      "16 GB",
+      "$1.38",
+      "110 vCPU",
+      "186 GB",
+      "64 GB",
+      "$5.50",
+      "220 vCPU",
+      "380 GB",
+      "128 GB",
+      "$11.00"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 30,
+      "materialRemoved": 0,
+      "materialAdded": 16
+    }
+  },
+  {
+    "id": "huggingface-co-pricing-20241102120300",
+    "url": "https://huggingface.co/pricing",
+    "ts": "20241102120300",
+    "date": "2024-11-02",
+    "source": "wayback",
+    "prevTs": "20240902001148",
+    "kind": "price",
+    "score": 43,
+    "counts": {
+      "price": 9,
+      "limit": 8,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hugging Face: 9 prices, 8 limits changed (removed “24 vCPU”; added “8 vCPU”)",
+    "pairs": [],
+    "added": [
+      "8 vCPU",
+      "62 GB",
+      "48 GB",
+      "$1.80",
+      "48 vCPU",
+      "382 GB",
+      "192 GB",
+      "$8.30",
+      "1534 GB",
+      "384 GB",
+      "$23.50",
+      "48GB",
+      "$1.80",
+      "192GB",
+      "$8.30",
+      "384GB",
+      "$23.50",
+      "→ Get Pro ($9/month)"
+    ],
+    "removed": [
+      "24 vCPU",
+      "250 GB",
+      "80 GB",
+      "$10.00",
+      "2 TB",
+      "160 GB",
+      "$80.00"
+    ],
+    "totals": {
+      "removed": 32,
+      "added": 49,
+      "materialRemoved": 8,
+      "materialAdded": 19
+    }
+  },
+  {
+    "id": "huggingface-co-pricing-20250105104712",
+    "url": "https://huggingface.co/pricing",
+    "ts": "20250105104712",
+    "date": "2025-01-05",
+    "source": "wayback",
+    "prevTs": "20241102120300",
+    "kind": "price",
+    "score": 122,
+    "counts": {
+      "price": 40,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hugging Face: 40 prices, 1 limit changed (removed “40 GB”; added “80 GB”)",
+    "pairs": [],
+    "added": [
+      "Host unlimited public models, datasets",
+      "Create unlimited orgs with no member limits",
+      "80 GB",
+      "$1.20",
+      "$4.75",
+      "$9.50",
+      "$0.05",
+      "$0.10",
+      "$0.20",
+      "$0.40",
+      "$1.20",
+      "$4.75",
+      "$9.50",
+      "$0.70",
+      "$3.80",
+      "$3.60",
+      "$7.20",
+      "$14.40",
+      "$28.80",
+      "$10.00",
+      "$20.00",
+      "$40.00",
+      "$80.00"
+    ],
+    "removed": [
+      "Host unlimited models, datasets, and Spaces",
+      "Create unlimited orgs and private repos",
+      "40 GB",
+      "$1.38",
+      "$5.50",
+      "$11.00",
+      "$0.07",
+      "$0.14",
+      "$0.28",
+      "$0.56",
+      "$1.38",
+      "$5.50",
+      "$11.00",
+      "$1.00",
+      "$5.00",
+      "$6.00",
+      "$12.00",
+      "$24.00",
+      "$48.00",
+      "$12.50",
+      "$25.00",
+      "$50.00",
+      "$100.00"
+    ],
+    "totals": {
+      "removed": 33,
+      "added": 33,
+      "materialRemoved": 23,
+      "materialAdded": 23
+    }
+  },
+  {
+    "id": "huggingface-co-pricing-20250201043926",
+    "url": "https://huggingface.co/pricing",
+    "ts": "20250201043926",
+    "date": "2025-02-01",
+    "source": "wayback",
+    "prevTs": "20250105104712",
+    "kind": "price",
+    "score": 4,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hugging Face: 1 price, 1 limit changed (added “32GB”)",
+    "pairs": [],
+    "added": [
+      "32GB",
+      "$0.54"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "huggingface-co-pricing-20250303172759",
+    "url": "https://huggingface.co/pricing",
+    "ts": "20250303172759",
+    "date": "2025-03-03",
+    "source": "wayback",
+    "prevTs": "20250201043926",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hugging Face: 1 price changed (added “Get $2 included credits across all Inference …”)",
+    "pairs": [],
+    "added": [
+      "Get $2 included credits across all Inference Providers"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "huggingface-co-pricing-20250405233321",
+    "url": "https://huggingface.co/pricing",
+    "ts": "20250405233321",
+    "date": "2025-04-05",
+    "source": "wayback",
+    "prevTs": "20250303172759",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 3,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hugging Face: 3 prices, 5 limits changed (removed “22 vCPU”)",
+    "pairs": [],
+    "added": [
+      "Free credits across all Inference Providers"
+    ],
+    "removed": [
+      "22 vCPU",
+      "44 GB",
+      "16 GB",
+      "$1.20",
+      "110 vCPU",
+      "186 GB",
+      "64 GB",
+      "$4.75",
+      "220 vCPU",
+      "380 GB",
+      "128 GB",
+      "$9.50"
+    ],
+    "totals": {
+      "removed": 21,
+      "added": 1,
+      "materialRemoved": 12,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "huggingface-co-pricing-20250501215913",
+    "url": "https://huggingface.co/pricing",
+    "ts": "20250501215913",
+    "date": "2025-05-01",
+    "source": "wayback",
+    "prevTs": "20250405233321",
+    "kind": "price",
+    "score": 16,
+    "counts": {
+      "price": 4,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hugging Face: 4 prices, 2 limits changed (added “141GB”)",
+    "pairs": [],
+    "added": [
+      "141GB",
+      "$5.00",
+      "282GB",
+      "$10.00",
+      "564GB",
+      "$20.00",
+      "1128GB",
+      "$40.00"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 10,
+      "materialRemoved": 0,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "huggingface-co-docs-hub-storage-limits-20250515203238",
+    "url": "https://huggingface.co/docs/hub/storage-limits",
+    "ts": "20250515203238",
+    "date": "2025-05-15",
+    "source": "wayback",
+    "prevTs": "20250119234847",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Hugging Face: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "The effects from the squash operation on your storage quota are not immediate and will be reflected on your quota within 36 hours."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "huggingface-co-pricing-20250602201044",
+    "url": "https://huggingface.co/pricing",
+    "ts": "20250602201044",
+    "date": "2025-06-02",
+    "source": "wayback",
+    "prevTs": "20250501215913",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Hugging Face: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "huggingface-co-pricing-20250703021713",
+    "url": "https://huggingface.co/pricing",
+    "ts": "20250703021713",
+    "date": "2025-07-03",
+    "source": "wayback",
+    "prevTs": "20250602201044",
+    "kind": "price",
+    "score": 49,
+    "counts": {
+      "price": 14,
+      "limit": 1,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Hugging Face: 14 prices, 1 limit, 3 plan names changed ($20 → $50)",
+    "pairs": [
+      {
+        "before": "$20 per user per month",
+        "after": "$50 per user per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$20",
+            "after": "$50"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$20 per user per month",
+      "$2.50",
+      "70 GB",
+      "FREE",
+      "$2.50",
+      "$5.00",
+      "$10.00",
+      "$20.00"
+    ],
+    "removed": [
+      "Host unlimited public models, datasets",
+      "Create unlimited orgs with no member limits",
+      "Free",
+      "Free credits across all Inference Providers",
+      "Free CPUs",
+      "$0 /hour",
+      "$0.032 /hour",
+      "$4.00",
+      "$4.00",
+      "$8.00",
+      "$16.00",
+      "$32.00"
+    ],
+    "totals": {
+      "removed": 49,
+      "added": 42,
+      "materialRemoved": 14,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "huggingface-co-docs-hub-storage-limits-20250710020735",
+    "url": "https://huggingface.co/docs/hub/storage-limits",
+    "ts": "20250710020735",
+    "date": "2025-07-10",
+    "source": "wayback",
+    "prevTs": "20250515203238",
+    "kind": "price",
+    "score": 7,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hugging Face: 2 prices, 1 limit changed (removed “Above the included 1TB (or 1TB per seat) of p…”; added “Above the included 1TB (or 1TB per seat) of p…”)",
+    "pairs": [],
+    "added": [
+      "Above the included 1TB (or 1TB per seat) of private storage in PRO",
+      "private storage is invoiced at $25/TB/month, in 1TB increments. See our billing doc"
+    ],
+    "removed": [
+      "Above the included 1TB (or 1TB per seat) of private storage in PRO and Enterprise Hub, private storage is invoiced at $25/TB/month, in 1TB increments. See our billing doc"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 9,
+      "materialRemoved": 2,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "huggingface-co-pricing-20250801030801",
+    "url": "https://huggingface.co/pricing",
+    "ts": "20250801030801",
+    "date": "2025-08-01",
+    "source": "wayback",
+    "prevTs": "20250703021713",
+    "kind": "price",
+    "score": 7,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hugging Face: 2 prices, 1 limit changed (removed “Get $2 included credits across all Inference …”; added “32GB”)",
+    "pairs": [],
+    "added": [
+      "32GB",
+      "$0.01"
+    ],
+    "removed": [
+      "Get $2 included credits across all Inference Providers"
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 12,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "huggingface-co-docs-hub-storage-limits-20250921000411",
+    "url": "https://huggingface.co/docs/hub/storage-limits",
+    "ts": "20250921000411",
+    "date": "2025-09-21",
+    "source": "wayback",
+    "prevTs": "20250710020735",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Hugging Face: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "*We aim to continue providing the AI community with free storage space for public repositories. Beyond the first few gigabytes, please use this resource responsibly by uploading content that offers genuine value to other users. If you need substantial storage space, you will need to upgrade to PRO, Team or Enterprise"
+    ],
+    "removed": [
+      "We do have mitigations in place to prevent abuse of free public storage, and in general we ask users and organizations to make sure any uploaded large model or dataset is as useful to the community as possible (as represented by numbers of likes or downloads, for instance).",
+      "*We aim to continue providing the AI community with free storage space for public repositories, please don’t abuse and upload dozens of TBs of generated anime 😁. If possible, we still ask that you consider upgrading to PRO and/or Enterprise Hub whenever possible."
+    ],
+    "totals": {
+      "removed": 9,
+      "added": 12,
+      "materialRemoved": 6,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "huggingface-co-pricing-20251001134144",
+    "url": "https://huggingface.co/pricing",
+    "ts": "20251001134144",
+    "date": "2025-10-01",
+    "source": "wayback",
+    "prevTs": "20250801030801",
+    "kind": "price",
+    "score": 44,
+    "counts": {
+      "price": 10,
+      "limit": 7,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hugging Face: 10 prices, 7 limits changed (added “23 vCPU”)",
+    "pairs": [],
+    "added": [
+      "23 vCPU",
+      "240 GB",
+      "80 GB",
+      "$4.50",
+      "184 vCPU",
+      "1920 GB",
+      "640 GB",
+      "$36.00",
+      "80GB",
+      "$4.50",
+      "160GB",
+      "$9.00",
+      "320GB",
+      "$18.00",
+      "640GB",
+      "$36.00",
+      "256GB",
+      "$9.25",
+      "512GB",
+      "$18.50",
+      "1024GB",
+      "$37.00",
+      "2048GB",
+      "$74.00"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 33,
+      "materialRemoved": 0,
+      "materialAdded": 24
+    }
+  },
+  {
+    "id": "huggingface-co-docs-hub-storage-limits-20251016025916",
+    "url": "https://huggingface.co/docs/hub/storage-limits",
+    "ts": "20251016025916",
+    "date": "2025-10-16",
+    "source": "wayback",
+    "prevTs": "20250921000411",
+    "kind": "limits",
+    "score": 5,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hugging Face: 3 limits changed (added “usually up to 5TB for impactful work”)",
+    "pairs": [],
+    "added": [
+      "usually up to 5TB for impactful work",
+      "Up to 10TB included* ✅",
+      "12TB base + 1TB per seat ✅",
+      "500TB base + 1TB per seat 🏆",
+      "1TB per seat + pay-as-you-go"
+    ],
+    "removed": [
+      "Unlimited* ✅",
+      "Unlimited* ✅",
+      "*We aim to continue providing the AI community with free storage space for public repositories. Beyond the first few gigabytes, please use this resource responsibly by uploading content that offers genuine value to other users. If you need substantial storage space, you will need to upgrade to PRO, Team or Enterprise"
+    ],
+    "totals": {
+      "removed": 9,
+      "added": 16,
+      "materialRemoved": 4,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "huggingface-co-pricing-20251101163327",
+    "url": "https://huggingface.co/pricing",
+    "ts": "20251101163327",
+    "date": "2025-11-01",
+    "source": "wayback",
+    "prevTs": "20251001134144",
+    "kind": "limits",
+    "score": 8,
+    "counts": {
+      "price": 0,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hugging Face: 4 limits changed (removed “256GB”; added “179GB”)",
+    "pairs": [],
+    "added": [
+      "179GB",
+      "358GB",
+      "716GB",
+      "1432GB"
+    ],
+    "removed": [
+      "256GB",
+      "512GB",
+      "1024GB",
+      "2048GB"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "huggingface-co-docs-hub-storage-limits-20251112204132",
+    "url": "https://huggingface.co/docs/hub/storage-limits",
+    "ts": "20251112204132",
+    "date": "2025-11-12",
+    "source": "wayback",
+    "prevTs": "20251016025916",
+    "kind": "limits",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hugging Face: 3 limits changed (300GB → 1TB; 300GB → 1TB)",
+    "pairs": [
+      {
+        "before": "One key way Hugging Face supports the machine learning ecosystem is by hosting datasets on the Hub, including very large ones. However, if your dataset is bigger than 300GB, you will need to ask us to grant more storage.",
+        "after": "One key way Hugging Face supports the machine learning ecosystem is by hosting datasets on the Hub, including very large ones. However, if your dataset is bigger than 1TB, you will need to subscribe to Team/Enterprise or ask us to grant more storage.",
+        "confidence": 0.85,
+        "deltas": [
+          {
+            "before": "300GB",
+            "after": "1TB"
+          }
+        ]
+      },
+      {
+        "before": "Similarly to datasets, if you host models bigger than 300GB or if you plan on uploading a large number of smaller sized models (for instance, hundreds of automated quants) totalling more than 1TB, you will need to ask us to grant more storage.",
+        "after": "Similarly to datasets, if you host models bigger than 1TB or if you plan on uploading a large number of smaller sized models (for instance, hundreds of automated quants) totalling more than 1TB, you will need to subscribe to Team/Enterprise or ask us to grant more storage.",
+        "confidence": 0.87,
+        "deltas": [
+          {
+            "before": "300GB",
+            "after": "1TB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "<50GB"
+    ],
+    "removed": [
+      "<20GB"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 5,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "huggingface-co-docs-hub-storage-limits-20251209030812",
+    "url": "https://huggingface.co/docs/hub/storage-limits",
+    "ts": "20251209030812",
+    "date": "2025-12-09",
+    "source": "wayback",
+    "prevTs": "20251112204132",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hugging Face: 1 limit changed (50GB → 500GB)",
+    "pairs": [
+      {
+        "before": "Files are served to the users using CloudFront. From our experience, huge files are not cached by this service leading to a slower download speed. In all cases no single LFS file will be able to be >50GB. I.e. 50GB is the hard limit for single file size.",
+        "after": "Files are served to the users using CloudFront. From our experience, huge files are not cached by this service leading to a slower download speed. In all cases, no single file will exceed 500GB. I.e. 500GB is the hard limit for a single file size.",
+        "confidence": 0.91,
+        "deltas": [
+          {
+            "before": "50GB",
+            "after": "500GB"
+          },
+          {
+            "before": "50GB",
+            "after": "500GB"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 6,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "huggingface-co-pricing-20260101122004",
+    "url": "https://huggingface.co/pricing",
+    "ts": "20260101122004",
+    "date": "2026-01-01",
+    "source": "wayback",
+    "prevTs": "20251101163327",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 5,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hugging Face: 5 prices, 5 limits changed (removed “23 vCPU”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "23 vCPU",
+      "240 GB",
+      "80 GB",
+      "$4.50",
+      "184 vCPU",
+      "1920 GB",
+      "640 GB",
+      "$36.00",
+      "All Spaces get ephemeral storage for free but you can upgrade and add persistent storage at any time.",
+      "20 GB",
+      "$5",
+      "150 GB",
+      "$25",
+      "1 TB",
+      "$100"
+    ],
+    "totals": {
+      "removed": 26,
+      "added": 0,
+      "materialRemoved": 15,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "huggingface-co-pricing-20260201154625",
+    "url": "https://huggingface.co/pricing",
+    "ts": "20260201154625",
+    "date": "2026-02-01",
+    "source": "wayback",
+    "prevTs": "20260101122004",
+    "kind": "price",
+    "score": 53,
+    "counts": {
+      "price": 14,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hugging Face: 14 prices, 6 limits changed (added “$12 /TB/mo”)",
+    "pairs": [],
+    "added": [
+      "$12 /TB/mo",
+      "$18 /TB/mo",
+      "50TB+ 20% off",
+      "$10 /TB/mo",
+      "$16 /TB/mo",
+      "200TB+ 25% off",
+      "$9 /TB/mo",
+      "$14 /TB/mo",
+      "500TB+ 33% off",
+      "$8 /TB/mo",
+      "$12 /TB/mo",
+      "$23",
+      "$15",
+      "$8–12",
+      "Need more than 500TB? Contact sales",
+      "48 vCPU",
+      "568 GB",
+      "320 GB",
+      "$10.00",
+      "96 vCPU",
+      "1136 GB",
+      "640 GB",
+      "$20.00",
+      "124GB",
+      "$1.95"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 49,
+      "materialRemoved": 0,
+      "materialAdded": 25
+    }
+  },
+  {
+    "id": "huggingface-co-docs-hub-storage-limits-20260201191656",
+    "url": "https://huggingface.co/docs/hub/storage-limits",
+    "ts": "20260201191656",
+    "date": "2026-02-01",
+    "source": "wayback",
+    "prevTs": "20251209030812",
+    "kind": "limits",
+    "score": 5,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hugging Face: 3 limits changed (500TB → 200TB)",
+    "pairs": [
+      {
+        "before": "500TB base + 1TB per seat 🏆",
+        "after": "200TB base + 1TB per seat 🏆",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "500TB",
+            "after": "200TB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Up to 1,000TB for large contracts",
+      "<200GB"
+    ],
+    "removed": [
+      "<50GB"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 5,
+      "materialRemoved": 2,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "huggingface-co-docs-hub-storage-limits-20260304023602",
+    "url": "https://huggingface.co/docs/hub/storage-limits",
+    "ts": "20260304023602",
+    "date": "2026-03-04",
+    "source": "wayback",
+    "prevTs": "20260201191656",
+    "kind": "price",
+    "score": 21,
+    "counts": {
+      "price": 6,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hugging Face: 6 prices, 2 limits changed (removed “private storage is invoiced at $25/TB/month, …”; added “additional private storage is charged to your…”)",
+    "pairs": [],
+    "added": [
+      "additional private storage is charged to your payment method in Pay-as-you-go mode, at a base price of $18/TB/mo. Additional discounts are available for large-scale volumes through our account executives:",
+      "$18/TB/mo",
+      "50TB+",
+      "$16/TB/mo",
+      "200TB+",
+      "$14/TB/mo",
+      "500TB+",
+      "$12/TB/mo",
+      "create git refs that store their commits. After closing or merging a PR, you can delete its ref to free up storage space. This is especially useful when:"
+    ],
+    "removed": [
+      "private storage is invoiced at $25/TB/month, in 1TB increments. See our billing doc"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 20,
+      "materialRemoved": 1,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "huggingface-co-docs-hub-storage-limits-20260404184519",
+    "url": "https://huggingface.co/docs/hub/storage-limits",
+    "ts": "20260404184519",
+    "date": "2026-04-04",
+    "source": "wayback",
+    "prevTs": "20260304023602",
+    "kind": "price",
+    "score": 34,
+    "counts": {
+      "price": 10,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hugging Face: 10 prices, 2 limits changed (removed “Similarly to datasets, if you host models big…”; added “$12/month”)",
+    "pairs": [],
+    "added": [
+      "$12/month",
+      "$12/TB/month",
+      "$60/month",
+      "$12/TB/month",
+      "10 TB",
+      "$120/month",
+      "$12/TB/month",
+      "20 TB",
+      "$240/month",
+      "$12/TB/month",
+      "50 TB",
+      "$500/month",
+      "$10/TB/month"
+    ],
+    "removed": [
+      "Similarly to datasets, if you host models bigger than 1TB or if you plan on uploading a large number of smaller sized models (for instance, hundreds of automated quants) totalling more than 1TB, you will need to subscribe to Team/Enterprise or ask us to grant more storage."
+    ],
+    "totals": {
+      "removed": 27,
+      "added": 52,
+      "materialRemoved": 7,
+      "materialAdded": 19
+    }
+  },
+  {
+    "id": "huggingface-co-pricing-20260501104606",
+    "url": "https://huggingface.co/pricing",
+    "ts": "20260501104606",
+    "date": "2026-05-01",
+    "source": "wayback",
+    "prevTs": "20260201154625",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Hugging Face: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "free"
+    ],
+    "removed": [
+      "free"
+    ],
+    "totals": {
+      "removed": 21,
+      "added": 25,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "huggingface-co-pricing-20260601072030",
+    "url": "https://huggingface.co/pricing",
+    "ts": "20260601072030",
+    "date": "2026-06-01",
+    "source": "wayback",
+    "prevTs": "20260501104606",
+    "kind": "price",
+    "score": 74,
+    "counts": {
+      "price": 18,
+      "limit": 8,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Hugging Face: 18 prices, 8 limits, 2 plan names changed (removed “70 GB”; added “$2.75”)",
+    "pairs": [],
+    "added": [
+      "FREE",
+      "$2.75",
+      "192GB",
+      "$5.50",
+      "384GB",
+      "$11.00",
+      "768GB",
+      "$22.00"
+    ],
+    "removed": [
+      "free",
+      "70 GB",
+      "FREE",
+      "32GB",
+      "$0.01",
+      "24GB",
+      "$1.00",
+      "$5.00",
+      "16GB",
+      "$0.50",
+      "24GB",
+      "$0.70",
+      "$3.80",
+      "80GB",
+      "$3.60",
+      "160GB",
+      "$7.20",
+      "320GB",
+      "$14.40",
+      "640GB",
+      "$28.80",
+      "80GB",
+      "$10.00",
+      "160GB",
+      "$20.00",
+      "320GB",
+      "$40.00",
+      "640GB",
+      "$80.00"
+    ],
+    "totals": {
+      "removed": 170,
+      "added": 100,
+      "materialRemoved": 43,
+      "materialAdded": 22
+    }
+  },
+  {
+    "id": "huggingface-co-docs-hub-storage-limits-20260708032422",
+    "url": "https://huggingface.co/docs/hub/storage-limits",
+    "ts": "20260708032422",
+    "date": "2026-07-08",
+    "source": "wayback",
+    "prevTs": "20260404184519",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Hugging Face: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "method and hf upload command avoid this automatically by splitting large folders into multiple commits. If you commit manually, keep around 50-100 files per commit."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "huggingface-co-pricing-20260801051735",
+    "url": "https://huggingface.co/pricing",
+    "ts": "20260801051735",
+    "date": "2026-08-01",
+    "source": "wayback",
+    "prevTs": "20260601072030",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Hugging Face: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  }
+]

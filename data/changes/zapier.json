@@ -1,0 +1,863 @@
+[
+  {
+    "id": "zapier-com-pricing-20230301063140",
+    "url": "https://zapier.com/pricing",
+    "ts": "20230301063140",
+    "date": "2023-03-01",
+    "source": "wayback",
+    "prevTs": "20230102223851",
+    "kind": "limits",
+    "score": 16,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 7
+    },
+    "material": true,
+    "headline": "Zapier: 1 limit, 7 plan names changed (removed “15 min update time”)",
+    "pairs": [],
+    "added": [
+      "Everything in Free, plus:",
+      "Free",
+      "Unlimited",
+      "Unlimited",
+      "Users Add unlimited users to your account at no additional cost.",
+      "Unlimited",
+      "Free",
+      "Duplicate & reorder steps Free: Duplicate and drag steps around to reorder your Zap. Starter: Duplicate and drag steps around to reorder your Zap. Pro+: Duplicate steps and Paths and drag steps around to reorder your Zap.",
+      "Free",
+      "Free",
+      "Advanced admin permissions Add unlimited teams to your account for managing workspace-level permissions.",
+      "Free"
+    ],
+    "removed": [
+      "15 min update time",
+      "Unlimited Zaps",
+      "Unlimited Zaps",
+      "Unlimited premium apps",
+      "Unlimited Zaps",
+      "1 min update time",
+      "Unlimited premium apps",
+      "Unlimited users",
+      "Add unlimited users to your account at no additional cost."
+    ],
+    "totals": {
+      "removed": 178,
+      "added": 101,
+      "materialRemoved": 15,
+      "materialAdded": 18
+    }
+  },
+  {
+    "id": "zapier-com-pricing-20230505051351",
+    "url": "https://zapier.com/pricing",
+    "ts": "20230505051351",
+    "date": "2023-05-05",
+    "source": "wayback",
+    "prevTs": "20230301063140",
+    "kind": "limits",
+    "score": 25,
+    "counts": {
+      "price": 0,
+      "limit": 6,
+      "plan": 7
+    },
+    "material": true,
+    "headline": "Zapier: 6 limits, 7 plan names changed (added “15 min update time”)",
+    "pairs": [],
+    "added": [
+      "15 min update time",
+      "Save multiple versions of your Zaps and view previous versions in a history log. Starter: 1 week, Professional: 1 month, Team: 6 months, Company: 1 year.",
+      "Unlimited Zaps",
+      "Save multiple versions of your Zaps and view previous versions in a history log. Starter: 1 week, Professional: 1 month, Team: 6 months, Company: 1 year.",
+      "Recover previous versions of your Zap. Professional: 1 month, Team: 6 months, Company: 1 year.",
+      "Unlimited Zaps",
+      "Unlimited premium apps",
+      "Save multiple versions of your Zaps and view previous versions in a history log. Starter: 1 week, Professional: 1 month, Team: 6 months, Company: 1 year.",
+      "Recover previous versions of your Zap. Professional: 1 month, Team: 6 months, Company: 1 year.",
+      "Monitor your team's Zap activity across the entire account. Team: 6 months, Company: 1 year.",
+      "Unlimited Zaps",
+      "1 min update time",
+      "Unlimited premium apps",
+      "Save multiple versions of your Zaps and view previous versions in a history log. Starter: 1 week, Professional: 1 month, Team: 6 months, Company: 1 year.",
+      "Recover previous versions of your Zap. Professional: 1 month, Team: 6 months, Company: 1 year.",
+      "Unlimited users",
+      "Add unlimited users to your account at no additional cost.",
+      "Monitor your team's Zap activity across the entire account. Team: 6 months, Company: 1 year."
+    ],
+    "removed": [
+      "Everything in Free, plus:",
+      "Free",
+      "Unlimited",
+      "Unlimited",
+      "Users Add unlimited users to your account at no additional cost.",
+      "Unlimited",
+      "Free",
+      "Duplicate & reorder steps Free: Duplicate and drag steps around to reorder your Zap. Starter: Duplicate and drag steps around to reorder your Zap. Pro+: Duplicate steps and Paths and drag steps around to reorder your Zap.",
+      "Free",
+      "Free",
+      "Advanced admin permissions Add unlimited teams to your account for managing workspace-level permissions.",
+      "Free"
+    ],
+    "totals": {
+      "removed": 102,
+      "added": 206,
+      "materialRemoved": 18,
+      "materialAdded": 24
+    }
+  },
+  {
+    "id": "zapier-com-pricing-20230711090422",
+    "url": "https://zapier.com/pricing",
+    "ts": "20230711090422",
+    "date": "2023-07-11",
+    "source": "wayback",
+    "prevTs": "20230505051351",
+    "kind": "limits",
+    "score": 30,
+    "counts": {
+      "price": 0,
+      "limit": 8,
+      "plan": 7
+    },
+    "material": true,
+    "headline": "Zapier: 8 limits, 7 plan names changed (399 → 69; 50K → 2K)",
+    "pairs": [
+      {
+        "before": "399 USD",
+        "after": "69 USD",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "399",
+            "after": "69"
+          }
+        ]
+      },
+      {
+        "before": "50K tasks /mo",
+        "after": "2K tasks /mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50K",
+            "after": "2K"
+          }
+        ]
+      },
+      {
+        "before": "799 USD",
+        "after": "99 USD",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "799",
+            "after": "99"
+          }
+        ]
+      },
+      {
+        "before": "100K tasks /mo",
+        "after": "2K tasks /mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100K",
+            "after": "2K"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Everything in Free, plus:",
+      "Free",
+      "Unlimited",
+      "Unlimited",
+      "Users Add unlimited users to your account at no additional cost.",
+      "Unlimited",
+      "Free",
+      "Free",
+      "Free",
+      "Advanced admin permissions Add unlimited teams to your account for managing workspace-level permissions.",
+      "Free"
+    ],
+    "removed": [
+      "15 min update time",
+      "Unlimited Zaps",
+      "Save multiple versions of your Zaps and view previous versions in a history log. Starter: 1 week, Professional: 1 month, Team: 6 months, Company: 1 year.",
+      "Unlimited Zaps",
+      "Unlimited premium apps",
+      "Save multiple versions of your Zaps and view previous versions in a history log. Starter: 1 week, Professional: 1 month, Team: 6 months, Company: 1 year.",
+      "Recover previous versions of your Zap. Professional: 1 month, Team: 6 months, Company: 1 year.",
+      "Unlimited Zaps",
+      "1 min update time",
+      "Unlimited premium apps",
+      "Save multiple versions of your Zaps and view previous versions in a history log. Starter: 1 week, Professional: 1 month, Team: 6 months, Company: 1 year.",
+      "Recover previous versions of your Zap. Professional: 1 month, Team: 6 months, Company: 1 year.",
+      "Unlimited users",
+      "Add unlimited users to your account at no additional cost.",
+      "Monitor your team's Zap activity across the entire account. Team: 6 months, Company: 1 year."
+    ],
+    "totals": {
+      "removed": 204,
+      "added": 111,
+      "materialRemoved": 28,
+      "materialAdded": 24
+    }
+  },
+  {
+    "id": "zapier-com-pricing-20230902104607",
+    "url": "https://zapier.com/pricing",
+    "ts": "20230902104607",
+    "date": "2023-09-02",
+    "source": "wayback",
+    "prevTs": "20230711090422",
+    "kind": "price",
+    "score": 7,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Zapier: 1 price, 1 limit, 1 plan name changed (removed “99 USD”; added “Access real-time, human support 12 hours a da…”)",
+    "pairs": [],
+    "added": [
+      "Access real-time, human support 12 hours a day, 5 days a week."
+    ],
+    "removed": [
+      "99 USD",
+      "2K tasks /mo",
+      "Try free"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 4,
+      "materialRemoved": 4,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "zapier-com-pricing-20231104100846",
+    "url": "https://zapier.com/pricing",
+    "ts": "20231104100846",
+    "date": "2023-11-04",
+    "source": "wayback",
+    "prevTs": "20230902104607",
+    "kind": "price",
+    "score": 11,
+    "counts": {
+      "price": 3,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Zapier: 3 prices, 1 limit changed (6 → 1)",
+    "pairs": [
+      {
+        "before": "Version Rollback Recover previous versions of your Zap. Professional: 1 month, Team: 6 months, Company: 1 year.",
+        "after": "Version Rollback Recover previous versions of your Zap. Starter: 1 week, Professional: 1 month, Team: 6 months, Company: 1 year.",
+        "confidence": 0.87,
+        "deltas": [
+          {
+            "before": "6",
+            "after": "1"
+          },
+          {
+            "before": "1",
+            "after": "6"
+          },
+          {
+            "before": null,
+            "after": "1"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "0 USD",
+      "49 USD",
+      "69 USD"
+    ],
+    "totals": {
+      "removed": 12,
+      "added": 31,
+      "materialRemoved": 5,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "zapier-com-pricing-20240101193315",
+    "url": "https://zapier.com/pricing",
+    "ts": "20240101193315",
+    "date": "2024-01-01",
+    "source": "wayback",
+    "prevTs": "20231104100846",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Zapier: 3 prices changed (added “0 USD”)",
+    "pairs": [],
+    "added": [
+      "0 USD",
+      "49 USD",
+      "69 USD"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 10,
+      "added": 7,
+      "materialRemoved": 0,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "zapier-com-pricing-20240302045149",
+    "url": "https://zapier.com/pricing",
+    "ts": "20240302045149",
+    "date": "2024-03-02",
+    "source": "wayback",
+    "prevTs": "20240101193315",
+    "kind": "price",
+    "score": 39,
+    "counts": {
+      "price": 3,
+      "limit": 3,
+      "plan": 12
+    },
+    "material": true,
+    "headline": "Zapier: 3 prices, 3 limits, 12 plan names changed (removed “2K tasks /mo”; added “20 USD /mo”)",
+    "pairs": [],
+    "added": [
+      "Try it free",
+      "Unlimited Zaps",
+      "Try it free",
+      "Try it free",
+      "Try it free",
+      "Add unlimited teams to your account to better manage workspace-level permissions.",
+      "Our commitment to flexible, risk-free pricing",
+      "Store, edit, share, and automate your data—all in one place. Free to try.",
+      "20 USD /mo",
+      "Build custom forms, web pages, and apps to power your workflows—no code required. Free to try.",
+      "20 USD /mo",
+      "Create advanced, AI-powered chatbots and take action with built-in automation. Free to try.",
+      "20 USD /mo"
+    ],
+    "removed": [
+      "Try free",
+      "Try free",
+      "2K tasks /mo",
+      "Try free",
+      "2K tasks /mo",
+      "Try free",
+      "Add unlimited users to your account at no additional cost.",
+      "Access real-time, human support 12 hours a day, 5 days a week.",
+      "Add unlimited teams to your account for managing workspace-level permissions.",
+      "Unlimited",
+      "Free",
+      "Version Rollback Recover previous versions of your Zap. Starter: 1 week, Professional: 1 month, Team: 6 months, Company: 1 year.",
+      "Free",
+      "Free",
+      "Audit Log Monitor your team's Zap activity across the entire account. Team: 6 months, Company: 1 year.",
+      "Advanced admin permissions Add unlimited teams to your account for managing workspace-level permissions.",
+      "Free",
+      "Live chat Access real-time, human support 12 hours a day, 5 days a week."
+    ],
+    "totals": {
+      "removed": 151,
+      "added": 91,
+      "materialRemoved": 24,
+      "materialAdded": 19
+    }
+  },
+  {
+    "id": "zapier-com-pricing-20240502215537",
+    "url": "https://zapier.com/pricing",
+    "ts": "20240502215537",
+    "date": "2024-05-02",
+    "source": "wayback",
+    "prevTs": "20240302045149",
+    "kind": "price",
+    "score": 13,
+    "counts": {
+      "price": 1,
+      "limit": 2,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Zapier: 1 price, 2 limits, 3 plan names changed (removed “Save multiple versions and recover previous v…”)",
+    "pairs": [],
+    "added": [
+      "Best for basic use Free",
+      "Unlimited app integrations"
+    ],
+    "removed": [
+      "Free",
+      "Save multiple versions and recover previous versions of your Zaps. Starter: 1 week, Pro: 1 month, Team: 6 months, Company: 1 year.",
+      "49 USD /mo",
+      "Try it free",
+      "Add unlimited teams to your account to better manage workspace-level permissions.",
+      "Free",
+      "Unlimited",
+      "Users Add unlimited users to your account at no additional cost.",
+      "Unlimited",
+      "15 min",
+      "2 min",
+      "1 min"
+    ],
+    "totals": {
+      "removed": 80,
+      "added": 60,
+      "materialRemoved": 13,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "zapier-com-pricing-20241113025130",
+    "url": "https://zapier.com/pricing",
+    "ts": "20241113025130",
+    "date": "2024-11-13",
+    "source": "wayback",
+    "prevTs": "20240502215537",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Zapier: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Zapier offers integrations for more than 7,000 apps and helps you easily move data between them to automate repetitive tasks. Premium apps",
+      "Unlimited users are available on Team and Enterprise plans.",
+      "Yes! When you create a new Zapier account, you're instantly enrolled in a free 14-day trial",
+      "of the Zapier Professional plan. No credit card required.",
+      "if you want to enroll in a free trial of the Zapier Team and Enterprise plans to experience our most advanced collaboration features and admin controls."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 59,
+      "materialRemoved": 0,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "zapier-com-pricing-20250115072707",
+    "url": "https://zapier.com/pricing",
+    "ts": "20250115072707",
+    "date": "2025-01-15",
+    "source": "wayback",
+    "prevTs": "20241113025130",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Zapier: 3 prices changed (removed “20 USD /mo”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "20 USD /mo",
+      "20 USD /mo",
+      "20 USD /mo"
+    ],
+    "totals": {
+      "removed": 21,
+      "added": 21,
+      "materialRemoved": 5,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "zapier-com-pricing-20250302124820",
+    "url": "https://zapier.com/pricing",
+    "ts": "20250302124820",
+    "date": "2025-03-02",
+    "source": "wayback",
+    "prevTs": "20250115072707",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Zapier: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "25 users",
+      "Unlimited users",
+      "Unlimited users are available only on the Enterprise plan."
+    ],
+    "removed": [
+      "Unlimited users",
+      "Unlimited users are available on Team and Enterprise plans."
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 10,
+      "materialRemoved": 2,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "zapier-com-pricing-20250504035157",
+    "url": "https://zapier.com/pricing",
+    "ts": "20250504035157",
+    "date": "2025-05-04",
+    "source": "wayback",
+    "prevTs": "20250302124820",
+    "kind": "price",
+    "score": 35,
+    "counts": {
+      "price": 9,
+      "limit": 0,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Zapier: 9 prices, 4 plan names changed (removed “0 USD per month”; added “$ 0 /mo”)",
+    "pairs": [],
+    "added": [
+      "$ 0 /mo",
+      "$ 19. 99 /mo",
+      "$ 69 /mo",
+      "Create custom AI agents and have them do work across 7,000+ apps. Free to try.",
+      "$ 50 /mo",
+      "Try it free",
+      "$ 20 /mo",
+      "Try it free",
+      "$ 20 /mo",
+      "Try it free",
+      "$ 20 /mo",
+      "Try it free"
+    ],
+    "removed": [
+      "0 USD per month",
+      "69 USD per month"
+    ],
+    "totals": {
+      "removed": 30,
+      "added": 62,
+      "materialRemoved": 4,
+      "materialAdded": 14
+    }
+  },
+  {
+    "id": "zapier-com-pricing-20250703003220",
+    "url": "https://zapier.com/pricing",
+    "ts": "20250703003220",
+    "date": "2025-07-03",
+    "source": "wayback",
+    "prevTs": "20250504035157",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Zapier: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 27,
+      "added": 6,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "zapier-com-pricing-20251001054806",
+    "url": "https://zapier.com/pricing",
+    "ts": "20251001054806",
+    "date": "2025-10-01",
+    "source": "wayback",
+    "prevTs": "20250703003220",
+    "kind": "price",
+    "score": 63,
+    "counts": {
+      "price": 9,
+      "limit": 10,
+      "plan": 8
+    },
+    "material": true,
+    "headline": "Zapier: 9 prices, 10 limits, 8 plan names changed (7,000 → 8,000)",
+    "pairs": [
+      {
+        "before": "Zapier offers integrations for more than 7,000 apps and helps you easily move data between them to automate repetitive tasks. Premium apps",
+        "after": "Zapier offers integrations for more than 8,000 apps and helps you easily move data between them to automate repetitive tasks. Premium apps",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "7,000",
+            "after": "8,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "AI needs infrastructure to run your business. That’s why Zapier now includes Tables and Interfaces on Free, Pro, and Team plans, at no additional cost, along with Zapier MCP. With data, custom forms, workflows, and AI actions in one package, Zapier is your platform to orchestrate AI.",
+      "1.5K tasks /mo",
+      "2K tasks /mo",
+      "5K tasks /mo",
+      "10K tasks /mo",
+      "20K tasks /mo",
+      "50K tasks /mo",
+      "100K tasks /mo",
+      "200K tasks /mo",
+      "300K tasks /mo",
+      "400K tasks /mo",
+      "500K tasks /mo",
+      "750K tasks /mo",
+      "1M tasks /mo",
+      "1.5M tasks /mo",
+      "1.75M tasks /mo",
+      "2M tasks /mo",
+      "Free",
+      "Unlimited Zaps, Tables and Interfaces",
+      "Unlock the full power of the Zapier platform with unlimited access to Zaps, Tables, and Interfaces.",
+      "Connect your AI tools to 8,000 apps",
+      "Tables is now included as part of your Zapier plan. You can create an unlimited number of Tables. The number of records you can have across these Tables will vary depending on which plan tier you are on.",
+      "Interfaces is now included as part of your Zapier plan. You can create an unlimited number of Interfaces. The number of pages you can have across these Interfaces will vary depending on which plan tier you are on.",
+      "Create your own AI-powered teammates in minutes. Try it free, and scale as needed.",
+      "Free",
+      "$ 0 /mo",
+      "Free forever",
+      "Free plan features:",
+      "$ 33. 33 /mo",
+      "Everything in Free, plus:",
+      "You can run up to 400 activities per month on a Free plan, or up to 1,500 on a Pro plan. If you need more activities, let's talk",
+      "Anyone can try Zapier Agents for free today by going to agents.zapier.com and logging in with your Zapier account. You can also sign up for a free Zapier account if you don’t already have one.",
+      "Free",
+      "$ 0 /mo",
+      "Free forever",
+      "Free plan features:",
+      "$ 13. 33 /mo",
+      "Everything in Free, plus:",
+      "100K Table records",
+      "$ 66. 67 /mo"
+    ],
+    "removed": [
+      "Best for basic use Free",
+      "Unlimited Zaps",
+      "Create custom AI agents and have them do work across 7,000+ apps. Free to try.",
+      "$ 50 /mo",
+      "Create advanced, AI-powered chatbots and take action with built-in automation. Free to try.",
+      "$ 20 /mo",
+      "Build custom forms, web pages, and apps to power your workflows—no code required. Free to try.",
+      "$ 20 /mo",
+      "Store, edit, share, and automate your data—all in one place. Free to try.",
+      "$ 20 /mo"
+    ],
+    "totals": {
+      "removed": 72,
+      "added": 277,
+      "materialRemoved": 17,
+      "materialAdded": 52
+    }
+  },
+  {
+    "id": "zapier-com-pricing-20260401185301",
+    "url": "https://zapier.com/pricing",
+    "ts": "20260401185301",
+    "date": "2026-04-01",
+    "source": "wayback",
+    "prevTs": "20251001054806",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Zapier: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Build with an AI assistant. Use Copilot to create Zaps, generate code steps, map fields, and troubleshoot errors. *Free plans have daily message limits; paid plans include unlimited messages",
+      "You can begin by creating a table, importing a dataset used across teams or workflows, and connecting it to Zaps or AI Agents. Because Tables supports unlimited tables on every plan, teams can onboard gradually—centralizing datasets as their automation needs expand."
+    ],
+    "removed": [
+      "Everything in Free, plus:",
+      "Interfaces is now included as part of your Zapier plan. You can create an unlimited number of Interfaces. The number of pages you can have across these Interfaces will vary depending on which plan tier you are on.",
+      "Everything in Free, plus:",
+      "Everything in Free, plus:"
+    ],
+    "totals": {
+      "removed": 49,
+      "added": 57,
+      "materialRemoved": 9,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "zapier-com-pricing-20260601000455",
+    "url": "https://zapier.com/pricing",
+    "ts": "20260601000455",
+    "date": "2026-06-01",
+    "source": "wayback",
+    "prevTs": "20260401185301",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Zapier: 2 limits changed (8,000 → 9,000)",
+    "pairs": [
+      {
+        "before": "Zapier offers integrations for more than 8,000 apps and helps you easily move data between them to automate repetitive tasks. Premium apps",
+        "after": "Zapier offers integrations for more than 9,000 apps and helps you easily move data between them to automate repetitive tasks. Premium apps",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8,000",
+            "after": "9,000"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "Connect your AI tools to 8,000 apps"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 6,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "zapier-com-pricing-20260701130346",
+    "url": "https://zapier.com/pricing",
+    "ts": "20260701130346",
+    "date": "2026-07-01",
+    "source": "wayback",
+    "prevTs": "20260601000455",
+    "kind": "price",
+    "score": 103,
+    "counts": {
+      "price": 13,
+      "limit": 9,
+      "plan": 23
+    },
+    "material": true,
+    "headline": "Zapier: 13 prices, 9 limits, 23 plan names changed (removed “Starting from $ 19. 99 /mo”; added “$19.99 /month”)",
+    "pairs": [],
+    "added": [
+      "Try it free",
+      "Unlimited Zap workflows, Tables, and Forms",
+      "$19.99 /month",
+      "Free",
+      "Free",
+      "Unlimited",
+      "Free",
+      "Free",
+      "Free",
+      "Unlimited Zap workflows",
+      "15 min",
+      "2 min",
+      "1 min",
+      "Free",
+      "Unlimited",
+      "2 minutes included runtime per step",
+      "Free",
+      "Free",
+      "Unlimited premium apps",
+      "Free",
+      "Free tasks in Zapier",
+      "Unlimited",
+      "Free",
+      "Free tasks in Zapier",
+      "Unlimited",
+      "100 users",
+      "500 users",
+      "5 MB at 3 files max",
+      "10 MB at 100 files max",
+      "25 MB at 100 files max",
+      "25 MB+",
+      "Tables is now included as part of your Zapier plan. You can create an unlimited number of Tables. The number of records you can have across these Tables will vary depending on which plan tier you are on.",
+      "Zapier SDK is free while in beta. We'll notify you before the beta ends, and before any changes to pricing or task usage take effect.",
+      "Unlimited users are available on Team and Enterprise plans.",
+      "Agents Free",
+      "$400 billed annually",
+      "$33.33 /month",
+      "Anyone can try Zapier Agents for free today by going to agents.zapier.com",
+      "Chatbots Free",
+      "$160 billed annually"
+    ],
+    "removed": [
+      "AI needs infrastructure to run your business. That’s why Zapier now includes Tables and Forms on Free, Pro, and Team plans, at no additional cost, along with Zapier MCP. With data, custom forms, workflows, and AI actions in one package, Zapier is your platform to orchestrate AI.",
+      "Free plan features:",
+      "Unlimited Zaps, Tables and Forms",
+      "Build with an AI assistant. Use Copilot to create Zaps, generate code steps, map fields, and troubleshoot errors. *Free plans have daily message limits; paid plans include unlimited messages",
+      "Starting from $ 19. 99 /mo",
+      "You can begin by creating a table, importing a dataset used across teams or workflows, and connecting it to Zaps or AI Agents. Because Tables supports unlimited tables on every plan, teams can onboard gradually—centralizing datasets as their automation needs expand.",
+      "Unlimited users are available only on the Enterprise plan.",
+      "$ 0 /mo",
+      "Free forever",
+      "Free plan features:",
+      "$ 33. 33 /mo",
+      "You can run up to 400 activities per month on a Free plan, or up to 1,500 on a Pro plan. If you need more activities, let's talk",
+      "Anyone can try Zapier Agents for free today by going to agents.zapier.com and logging in with your Zapier account. You can also sign up for a free Zapier account if you don’t already have one.",
+      "$ 0 /mo",
+      "Free forever",
+      "Free plan features:",
+      "$ 13. 33 /mo",
+      "100K Table records",
+      "$ 66. 67 /mo",
+      "to get started with Chatbots for free.",
+      "Don't have a Zapier account yet? Sign up for free"
+    ],
+    "totals": {
+      "removed": 244,
+      "added": 424,
+      "materialRemoved": 26,
+      "materialAdded": 60
+    }
+  },
+  {
+    "id": "zapier-com-pricing-20260901162559",
+    "url": "https://zapier.com/pricing",
+    "ts": "20260901162559",
+    "date": "2026-09-01",
+    "source": "wayback",
+    "prevTs": "20260701130346",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Zapier: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  }
+]

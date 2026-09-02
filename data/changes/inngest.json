@@ -1,0 +1,419 @@
+[
+  {
+    "id": "inngest-com-pricing-20250615180428",
+    "url": "https://www.inngest.com/pricing",
+    "ts": "20250615180428",
+    "date": "2025-06-15",
+    "source": "wayback",
+    "prevTs": "20240726172616",
+    "kind": "price",
+    "score": 48,
+    "counts": {
+      "price": 8,
+      "limit": 5,
+      "plan": 7
+    },
+    "material": true,
+    "headline": "Inngest: 8 prices, 5 limits, 7 plan names changed (removed “— 25 concurrent functions — 3 days history”; added “50K runs free”)",
+    "pairs": [],
+    "added": [
+      "From early-stage startups to scaling enterprises, Inngest has you covered. Get started for free today.",
+      "Free",
+      "Get started with modern durable execution for free, with the future to grow",
+      "Start for free",
+      "50K runs free",
+      "Free plan includes:",
+      "Unlimited branch and staging envs",
+      "Free plan includes:",
+      "Start for free",
+      "Everything in Free plus:",
+      "Unlimited functions and apps",
+      "Everything in Free plus:",
+      "From 0-100B runs/mo",
+      "From 1k-100K+ concurrent steps",
+      "Estimated cost: $55/mo.",
+      "$ 5",
+      "$ 55",
+      "Deployed within 1 week"
+    ],
+    "removed": [
+      "Free tier",
+      "— 25 concurrent functions — 3 days history",
+      "+ $ 1 per additional 10K",
+      "Unlimited Events",
+      "Unlimited Seats",
+      "+ $ 5 per additional 200K",
+      "Unlimited Events",
+      "Unlimited Seats",
+      "Unlimited Events",
+      "Unlimited Seats",
+      "In this example, when a app/user.signup event is triggered the function sends a welcome email, waits 3 days, then sends another email - without any extra queues, state, or functions. This is billed as 3 steps.",
+      "Free tier",
+      "Starting at $350 / month Scale with us Start building",
+      "100K + $1 per additional 10K",
+      "5M + $5 per additional 200K",
+      "Unlimited",
+      "Unlimited",
+      "3 days",
+      "7 days",
+      "14 days",
+      "90 days",
+      "$ npx inngest-cli dev Get started for free"
+    ],
+    "totals": {
+      "removed": 162,
+      "added": 82,
+      "materialRemoved": 31,
+      "materialAdded": 27
+    }
+  },
+  {
+    "id": "inngest-com-pricing-20250902143625",
+    "url": "https://www.inngest.com/pricing",
+    "ts": "20250902143625",
+    "date": "2025-09-02",
+    "source": "wayback",
+    "prevTs": "20250615180428",
+    "kind": "price",
+    "score": 96,
+    "counts": {
+      "price": 21,
+      "limit": 12,
+      "plan": 5
+    },
+    "material": true,
+    "headline": "Inngest: 21 prices, 12 limits, 5 plan names changed (1k → 500; 14 → 7)",
+    "pairs": [
+      {
+        "before": "From 1k-100K+ concurrent steps",
+        "after": "500-50k concurrent steps",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "1k",
+            "after": "500"
+          },
+          {
+            "before": "100K",
+            "after": "50k"
+          }
+        ]
+      },
+      {
+        "before": "14 day trace retention",
+        "after": "7 day trace retention",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "14",
+            "after": "7"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Get started with modern durable execution for free, no credit card required",
+      "Get started for free",
+      "3 users",
+      "$75 /mo",
+      "Get started for free",
+      "Each run or step in your code. Your first 50k executions every month are free, with automatic volume discounts as you scale",
+      "Charged for each event received. Your first 1-5m events every day are free, with automatic volume discounts as you scale",
+      "1m-5m $0.000050",
+      "5m-15m $0.000025",
+      "15m-50m $0.000020",
+      "50m-100m $0.000015",
+      "100m+ Contact us",
+      "*Free plan charged at $.000083 per execution until 1m executions are reached. For Enterprise, contact us",
+      "( 50,000 runs × 5 steps per run) + 50,000 runs = 300,000 executions",
+      "$57 /month",
+      "Deployed within in 1 week",
+      "$0",
+      "$75 /mo",
+      "50k /mo included",
+      "1m /mo included then $50 per 1m",
+      "100 included then $25 per 25",
+      "15 then $10/user",
+      "20 then $10/worker",
+      "Unlimited",
+      "$200",
+      "5m/mo included then $0.5 per 1m",
+      "3 MiB",
+      "5 minutes",
+      "250k per day",
+      "1m per day",
+      "30 minutes",
+      "15 minutes",
+      "1 minute",
+      "24 hours",
+      "90 days",
+      "$300"
+    ],
+    "removed": [
+      "Free",
+      "Start for free",
+      "Free plan includes:",
+      "Free plan includes:",
+      "$50 /mo",
+      "Start for free",
+      "Everything in Free plus:",
+      "Unlimited functions and apps",
+      "Everything in Free plus:",
+      "$350 /mo",
+      "5M runs included",
+      "From 0-100B runs/mo",
+      "Estimated cost: $55/mo.",
+      "$ 50",
+      "$ 5",
+      "$ 55"
+    ],
+    "totals": {
+      "removed": 61,
+      "added": 170,
+      "materialRemoved": 23,
+      "materialAdded": 43
+    }
+  },
+  {
+    "id": "inngest-com-pricing-20251205053732",
+    "url": "https://www.inngest.com/pricing",
+    "ts": "20251205053732",
+    "date": "2025-12-05",
+    "source": "wayback",
+    "prevTs": "20250902143625",
+    "kind": "price",
+    "score": 8,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Inngest: 2 prices, 1 limit changed (50,000 → 30,000; $57 → $0)",
+    "pairs": [
+      {
+        "before": "( 50,000 runs × 5 steps per run) + 50,000 runs = 300,000 executions",
+        "after": "( 30,000 runs × 2 steps per run) + 30,000 runs = 90,000 executions",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50,000",
+            "after": "30,000"
+          },
+          {
+            "before": "5",
+            "after": "2"
+          },
+          {
+            "before": "50,000",
+            "after": "30,000"
+          },
+          {
+            "before": "300,000",
+            "after": "90,000"
+          }
+        ]
+      },
+      {
+        "before": "$57 /month",
+        "after": "$0 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$57",
+            "after": "$0"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "We raised a $21M Series A to help companies ship and iterate faster.",
+      "Get started with modern durable execution for free, no credit card required",
+      "Get started for free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 8,
+      "materialRemoved": 2,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "inngest-com-pricing-20260507011606",
+    "url": "https://www.inngest.com/pricing",
+    "ts": "20260507011606",
+    "date": "2026-05-07",
+    "source": "wayback",
+    "prevTs": "20251205053732",
+    "kind": "price",
+    "score": 8,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Inngest: 2 prices, 1 limit changed (removed “We raised a $21M Series A to help companies s…”; added “1M included up to 20M add-on”)",
+    "pairs": [],
+    "added": [
+      "1M included up to 20M add-on"
+    ],
+    "removed": [
+      "We raised a $21M Series A to help companies ship and iterate faster.",
+      "Get started with modern durable execution for free, with the future to grow",
+      "*Free plan charged at $.000083 per execution until 1m executions are reached. For Enterprise, contact us",
+      "$200"
+    ],
+    "totals": {
+      "removed": 9,
+      "added": 6,
+      "materialRemoved": 6,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "inngest-com-pricing-20260705013804",
+    "url": "https://www.inngest.com/pricing",
+    "ts": "20260705013804",
+    "date": "2026-07-05",
+    "source": "wayback",
+    "prevTs": "20260507011606",
+    "kind": "price",
+    "score": 54,
+    "counts": {
+      "price": 10,
+      "limit": 12,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Inngest: 10 prices, 12 limits changed (100k → 500k)",
+    "pairs": [
+      {
+        "before": "100k/mo included",
+        "after": "500k/mo included",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100k",
+            "after": "500k"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "No credit card required",
+      "500 MB span data ingested",
+      "10K scores",
+      "500k events ingested",
+      "100k queue depth",
+      "$99/mo",
+      "1M+ executions",
+      "5 GB span data ingested",
+      "5M+ events ingested",
+      "1M+ queue depth",
+      "No credit card required",
+      "500 MB span data",
+      "10K scores",
+      "500K events ingested",
+      "$99 /mo",
+      "100k included",
+      "1m included",
+      "500 MB included",
+      "5 GB included then $3/GB",
+      "10K included",
+      "50K included then $1.50 per 1K",
+      "An execution is a single durable function run plus each step inside it. If your function has 5 step.run() calls, one run uses 6 executions (the run itself + 5 steps).",
+      "Pro plans bill metered usage above the included executions at tiered rates — the more you use, the lower the per-execution price. Hobby plans pause execution once the free quota is exhausted; upgrade to keep running.",
+      "Start for free in under two minutes",
+      "No credit card required."
+    ],
+    "removed": [
+      "From early-stage startups to scaling enterprises, Inngest has you covered. Get started for free today.",
+      "Get started with modern durable execution for free, no credit card required.",
+      "3 users",
+      "Unlimited branch and staging envs",
+      "$75 /mo",
+      "1M included up to 20M add-on",
+      "500-50k concurrent steps",
+      "Charged for each event received. Your first 1-5m events every day are free, with automatic volume discounts as you scale",
+      "1m-5m $0.000050",
+      "5m-15m $0.000025",
+      "15m-50m $0.000020",
+      "50m-100m $0.000015",
+      "100m+ Contact us",
+      "Get started with modern durable execution for free, no credit card required.",
+      "Deployed within in 1 week",
+      "$75 /mo"
+    ],
+    "totals": {
+      "removed": 108,
+      "added": 112,
+      "materialRemoved": 27,
+      "materialAdded": 36
+    }
+  },
+  {
+    "id": "inngest-com-pricing-20260804172010",
+    "url": "https://www.inngest.com/pricing",
+    "ts": "20260804172010",
+    "date": "2026-08-04",
+    "source": "wayback",
+    "prevTs": "20260705013804",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 1,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Inngest: 1 price, 2 limits changed (removed “1M+ executions”; added “1M executions included Pay as you go up to 20M”)",
+    "pairs": [],
+    "added": [
+      "1M executions included Pay as you go up to 20M",
+      "1M executions included Pay as you go up to 20M"
+    ],
+    "removed": [
+      "1M+ executions",
+      "1m /mo included then $50 per 1m"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "inngest-com-pricing-20260902202107",
+    "url": "https://www.inngest.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260804172010",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Inngest: 2 prices changed (removed “20 then $10/worker”; added “20 then $10 per 10 workers”)",
+    "pairs": [],
+    "added": [
+      "20 then $10 per 10 workers"
+    ],
+    "removed": [
+      "20 then $10/worker"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 5,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    },
+    "transition": true
+  }
+]

@@ -1,0 +1,265 @@
+[
+  {
+    "id": "about-codecov-io-pricing-20230314132252",
+    "url": "https://about.codecov.io/pricing/",
+    "ts": "20230314132252",
+    "date": "2023-03-14",
+    "source": "wayback",
+    "prevTs": "20230131055101",
+    "kind": "limits",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Codecov: 3 limits changed (removed “Up to 5 Users”; added “1 User”)",
+    "pairs": [],
+    "added": [
+      "1 User",
+      "1 User",
+      "1 User"
+    ],
+    "removed": [
+      "Up to 5 Users",
+      "Up to 5 Users",
+      "Up to 5 Users"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 5,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "about-codecov-io-pricing-20230925223106",
+    "url": "https://about.codecov.io/pricing/",
+    "ts": "20230925223106",
+    "date": "2023-09-25",
+    "source": "wayback",
+    "prevTs": "20230314132252",
+    "kind": "limits",
+    "score": 11,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Codecov: 3 limits, 3 plan names changed (5 removed)",
+    "pairs": [
+      {
+        "before": "Yes, for the first 5 users in your organization, Codecov is totally free.",
+        "after": "Yes, for the first user in your organization, Codecov is totally free.",
+        "confidence": 0.82,
+        "deltas": [
+          {
+            "before": "5",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Try Before You Buy: Try Codecov Pro for free for 14 days",
+      "Try for Free",
+      "Try for Free",
+      "Try for Free",
+      "If you were a user on the Developer Plan before March 10, 2023 your plan will not change and you will still receive 5 seats for free.",
+      "The Pro Plan can now be purchased by teams of two (2) or more -- previously you had to purchase at least 6 seats on the Pro Plan."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 37,
+      "added": 125,
+      "materialRemoved": 2,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "about-codecov-io-pricing-20240106224830",
+    "url": "https://about.codecov.io/pricing/",
+    "ts": "20240106224830",
+    "date": "2024-01-06",
+    "source": "wayback",
+    "prevTs": "20230925223106",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Codecov: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Get Started For Free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 10,
+      "added": 3,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "about-codecov-io-pricing-20240313123432",
+    "url": "https://about.codecov.io/pricing/",
+    "ts": "20240313123432",
+    "date": "2024-03-13",
+    "source": "wayback",
+    "prevTs": "20240106224830",
+    "kind": "price",
+    "score": 28,
+    "counts": {
+      "price": 6,
+      "limit": 2,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Codecov: 6 prices, 2 limits, 3 plan names changed (removed “If you were a user on the Developer Plan befo…”; added “$5 per user/month”)",
+    "pairs": [],
+    "added": [
+      "Try Codecov for Free",
+      "Unlimited Unlimited",
+      "Unlimited",
+      "$5 per user/month",
+      "$4 per user/month",
+      "Unlimited",
+      "Unlimited Unlimited",
+      "Unlimited",
+      "$5 per user/month",
+      "$4 per user/month",
+      "Unlimited",
+      "$5 per user/month",
+      "$4 per user/month",
+      "Unlimited Unlimited",
+      "Developer - this plan is best for open-source projects and offers unlimited uploads or for single-user teams with small private repos and up to 250 coverage uploads per month.",
+      "Team - this plan is best for small-sized teams of up to 10 users and 2500 coverage uploads per month.",
+      "Yes, you can try all the features of the Pro plan free",
+      "for 14 days."
+    ],
+    "removed": [
+      "Unlimited",
+      "Unlimited",
+      "Free",
+      "Unlimited",
+      "Unlimited",
+      "Free",
+      "Free",
+      "Yes, for the first user in your organization, Codecov is totally free.",
+      "If you were a user on the Developer Plan before March 10, 2023 your plan will not change and you will still receive 5 seats for free.",
+      "The Pro Plan can now be purchased by teams of two (2) or more -- previously you had to purchase at least 6 seats on the Pro Plan."
+    ],
+    "totals": {
+      "removed": 114,
+      "added": 84,
+      "materialRemoved": 19,
+      "materialAdded": 27
+    }
+  },
+  {
+    "id": "about-codecov-io-pricing-20250830061213",
+    "url": "https://about.codecov.io/pricing/",
+    "ts": "20250830061213",
+    "date": "2025-08-30",
+    "source": "wayback",
+    "prevTs": "20240313123432",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Codecov: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Unlimited Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited Unlimited",
+      "Unlimited"
+    ],
+    "removed": [
+      "Try Codecov Pro for Free for 14 days"
+    ],
+    "totals": {
+      "removed": 47,
+      "added": 168,
+      "materialRemoved": 1,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "about-codecov-io-pricing-20251230032501",
+    "url": "https://about.codecov.io/pricing/",
+    "ts": "20251230032501",
+    "date": "2025-12-30",
+    "source": "wayback",
+    "prevTs": "20250830061213",
+    "kind": "price",
+    "score": 16,
+    "counts": {
+      "price": 5,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Codecov: 5 prices, 1 limit changed (removed “Includes 5 seats”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Includes 5 seats",
+      "$4 per user/month",
+      "$10 per user/month",
+      "$10 per user/month",
+      "$4 per user/month",
+      "$10 per user/month"
+    ],
+    "totals": {
+      "removed": 27,
+      "added": 0,
+      "materialRemoved": 6,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "about-codecov-io-pricing-20260819234557",
+    "url": "https://about.codecov.io/pricing/",
+    "ts": "20260819234557",
+    "date": "2026-08-19",
+    "source": "wayback",
+    "prevTs": "20251230032501",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Codecov: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Yes, you can try all the features of the Pro plan free"
+    ],
+    "totals": {
+      "removed": 36,
+      "added": 16,
+      "materialRemoved": 4,
+      "materialAdded": 3
+    }
+  }
+]

@@ -1,0 +1,481 @@
+[
+  {
+    "id": "meilisearch-com-pricing-20230402195619",
+    "url": "https://www.meilisearch.com/pricing",
+    "ts": "20230402195619",
+    "date": "2023-04-02",
+    "source": "wayback",
+    "prevTs": "20230207005718",
+    "kind": "price",
+    "score": 13,
+    "counts": {
+      "price": 3,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Meilisearch Cloud: 3 prices, 2 limits changed (1,000 removed)",
+    "pairs": [
+      {
+        "before": "Yes. We offer a free plan that allows you to index up to 100k documents and perform 10k search requests per month. If you exceed this usage you’ll be charged 25c for each additional block of 1,000 searches and 1,000 documents.",
+        "after": "Yes. We offer a free plan that allows you to index up to 100k documents and perform 10k search requests per month.",
+        "confidence": 0.63,
+        "deltas": [
+          {
+            "before": "1,000",
+            "after": null
+          },
+          {
+            "before": "1,000",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "If you exceed your plan limit, you will be charged for additional usage based on the number of search units consumed. A search unit costs $0.25 and includes 1,000 searches and 1,000 additional documents. If you don’t have a valid payment method added to your account, Meilisearch will stop responding to search requests.",
+      "A search unit is a metric used to measure your usage of Meilisearch. It represents the number of searches and documents. Each unit costs $0.25 and contains 1,000 searches and 1,000 documents. Meilisearch calculates the number of units used by taking the greater of either the searches or documents.",
+      "A user on a Build plan exceeds the plan limit by 5,000 searches and 50,000 documents in a month. This means:",
+      "5,000 searches / 1,000 = 5 search units. And 5,000 documents / 1,000 = 50 search units.",
+      "Meilisearch will take the greater of the two calculations to determine the number of units used. As a result, the user is charged $12.50 ($0.25 x 50 = $12.50) for additional usage."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 8,
+      "added": 29,
+      "materialRemoved": 4,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "meilisearch-com-pricing-20230710090854",
+    "url": "https://www.meilisearch.com/pricing",
+    "ts": "20230710090854",
+    "date": "2023-07-10",
+    "source": "wayback",
+    "prevTs": "20230402195619",
+    "kind": "price",
+    "score": 41,
+    "counts": {
+      "price": 10,
+      "limit": 5,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Meilisearch Cloud: 10 prices, 5 limits, 1 plan name changed (10K → 100K; $1200 → $300)",
+    "pairs": [
+      {
+        "before": "10K searches/month included",
+        "after": "100K searches included",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "10K",
+            "after": "100K"
+          }
+        ]
+      },
+      {
+        "before": "Pro Starting at $1200 /month",
+        "after": "Starting at $ 300 /month",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$1200",
+            "after": "$300"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Starting at $ 30 /month",
+      "1M documents included",
+      "Start a 14-day free trial",
+      "1M searches included",
+      "Starting at $ 1200 /month",
+      "100M documents included",
+      "Free /month",
+      "The pricing is based on the included number of searches and documents in the tier, then adding the usage price of $0.20 for every 1K searches and $0.05 for every 1K documents when you’ve reached your plan’s included allowance.",
+      "$30 /month",
+      "1M documents included",
+      "Start a 14-day free trial"
+    ],
+    "removed": [
+      "Then $0.25 for every 1k documents and 1k searches when you exceed the included allowance. For small projects and testing",
+      "Then $0.25 for every 1k documents and 1k searches when you exceed the included allowance. Recommended for production",
+      "Open Source Free (self-hosted)",
+      "Can I try Meilisearch cloud for free?",
+      "Yes. We offer a free plan that allows you to index up to 100k documents and perform 10k search requests per month.",
+      "If you exceed your plan limit, you will be charged for additional usage based on the number of search units consumed. A search unit costs $0.25 and includes 1,000 searches and 1,000 additional documents. If you don’t have a valid payment method added to your account, Meilisearch will stop responding to search requests.",
+      "A search unit is a metric used to measure your usage of Meilisearch. It represents the number of searches and documents. Each unit costs $0.25 and contains 1,000 searches and 1,000 documents. Meilisearch calculates the number of units used by taking the greater of either the searches or documents.",
+      "A user on a Build plan exceeds the plan limit by 5,000 searches and 50,000 documents in a month. This means:",
+      "5,000 searches / 1,000 = 5 search units. And 5,000 documents / 1,000 = 50 search units.",
+      "Meilisearch will take the greater of the two calculations to determine the number of units used. As a result, the user is charged $12.50 ($0.25 x 50 = $12.50) for additional usage."
+    ],
+    "totals": {
+      "removed": 62,
+      "added": 82,
+      "materialRemoved": 14,
+      "materialAdded": 15
+    }
+  },
+  {
+    "id": "meilisearch-com-pricing-20231118125406",
+    "url": "https://www.meilisearch.com/pricing",
+    "ts": "20231118125406",
+    "date": "2023-11-18",
+    "source": "wayback",
+    "prevTs": "20230710090854",
+    "kind": "limits",
+    "score": 9,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Meilisearch Cloud: 3 limits, 2 plan names changed (added “7 days search analytics retention”)",
+    "pairs": [],
+    "added": [
+      "7 days search analytics retention",
+      "30 days search analytics retention",
+      "90 days search analytics retention",
+      "90 days search analytics retention",
+      "Free",
+      "7 days search analytics retention"
+    ],
+    "removed": [
+      "Free /month"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 9,
+      "materialRemoved": 1,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "meilisearch-com-pricing-20240229154050",
+    "url": "https://www.meilisearch.com/pricing",
+    "ts": "20240229154050",
+    "date": "2024-02-29",
+    "source": "wayback",
+    "prevTs": "20231118125406",
+    "kind": "limits",
+    "score": 5,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Meilisearch Cloud: 3 limits changed (removed “7 days search analytics retention”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "7 days search analytics retention",
+      "30 days search analytics retention",
+      "90 days search analytics retention",
+      "90 days search analytics retention",
+      "7 days search analytics retention"
+    ],
+    "totals": {
+      "removed": 8,
+      "added": 19,
+      "materialRemoved": 5,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "meilisearch-com-pricing-20240405152200",
+    "url": "https://www.meilisearch.com/pricing",
+    "ts": "20240405152200",
+    "date": "2024-04-05",
+    "source": "wayback",
+    "prevTs": "20240229154050",
+    "kind": "price",
+    "score": 5,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Meilisearch Cloud: 1 price, 1 limit changed (removed “Starting at $ 1200 /month”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Starting at $ 1200 /month",
+      "10M searches included",
+      "100M documents included"
+    ],
+    "totals": {
+      "removed": 12,
+      "added": 2,
+      "materialRemoved": 3,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "meilisearch-com-pricing-20240607001412",
+    "url": "https://www.meilisearch.com/pricing",
+    "ts": "20240607001412",
+    "date": "2024-06-07",
+    "source": "wayback",
+    "prevTs": "20240405152200",
+    "kind": "price",
+    "score": 16,
+    "counts": {
+      "price": 2,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Meilisearch Cloud: 2 prices, 5 limits changed (100K → 50K; 10M → 1M)",
+    "pairs": [
+      {
+        "before": "100K searches included",
+        "after": "50K searches included",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100K",
+            "after": "50K"
+          }
+        ]
+      },
+      {
+        "before": "10M documents included",
+        "after": "1M documents included",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10M",
+            "after": "1M"
+          }
+        ]
+      },
+      {
+        "before": "100K searches included",
+        "after": "250K searches included",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100K",
+            "after": "250K"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "100K documents included"
+    ],
+    "removed": [
+      "1M documents included",
+      "1M searches included",
+      "The pricing is based on the included number of searches and documents in the tier, then adding the usage price of $0.20 for every 1K searches and $0.05 for every 1K documents when you’ve reached your plan’s included allowance.",
+      "$30 /month",
+      "1M documents included"
+    ],
+    "totals": {
+      "removed": 38,
+      "added": 20,
+      "materialRemoved": 10,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "meilisearch-com-pricing-20240810074049",
+    "url": "https://www.meilisearch.com/pricing",
+    "ts": "20240810074049",
+    "date": "2024-08-10",
+    "source": "wayback",
+    "prevTs": "20240607001412",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 4,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Meilisearch Cloud: 4 prices changed (added “For the Build plan: additional search request…”)",
+    "pairs": [],
+    "added": [
+      "For the Build plan: additional search requests: $0.40 per 1,000 searches over the included amount; additional documents: $0.30 per 1,000 documents over the included amount.",
+      "For the Pro plan: additional search requests: $0.30 per 1,000 searches over the included amount; additional documents: $0.20 per 1,000 documents over the included amount.",
+      "For the Build plan: additional search requests: $0.40 per 1,000 searches over the included amount; additional documents: $0.30 per 1,000 documents over the included amount.",
+      "For the Pro plan: additional search requests: $0.30 per 1,000 searches over the included amount; additional documents: $0.20 per 1,000 documents over the included amount."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 8,
+      "added": 19,
+      "materialRemoved": 0,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "meilisearch-com-pricing-20251203121933",
+    "url": "https://www.meilisearch.com/pricing",
+    "ts": "20251203121933",
+    "date": "2025-12-03",
+    "source": "wayback",
+    "prevTs": "20240810074049",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Meilisearch Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 10,
+      "added": 16,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "meilisearch-com-pricing-20260130101250",
+    "url": "https://www.meilisearch.com/pricing",
+    "ts": "20260130101250",
+    "date": "2026-01-30",
+    "source": "wayback",
+    "prevTs": "20251203121933",
+    "kind": "price",
+    "score": 19,
+    "counts": {
+      "price": 5,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Meilisearch Cloud: 5 prices, 2 limits changed (removed “50K searches included”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "50K searches included",
+      "100K documents included",
+      "Starting at $ 300 /month",
+      "250K searches included",
+      "1M documents included",
+      "Start your 14-day free trial",
+      "For the Build plan: additional search requests: $0.40 per 1,000 searches over the included amount; additional documents: $0.30 per 1,000 documents over the included amount.",
+      "For the Pro plan: additional search requests: $0.30 per 1,000 searches over the included amount; additional documents: $0.20 per 1,000 documents over the included amount.",
+      "For the Build plan: additional search requests: $0.40 per 1,000 searches over the included amount; additional documents: $0.30 per 1,000 documents over the included amount.",
+      "For the Pro plan: additional search requests: $0.30 per 1,000 searches over the included amount; additional documents: $0.20 per 1,000 documents over the included amount."
+    ],
+    "totals": {
+      "removed": 70,
+      "added": 70,
+      "materialRemoved": 11,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "meilisearch-com-pricing-20260401152105",
+    "url": "https://www.meilisearch.com/pricing",
+    "ts": "20260401152105",
+    "date": "2026-04-01",
+    "source": "wayback",
+    "prevTs": "20260130101250",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Meilisearch Cloud: 1 price changed (added “Starting at $ 23 /month”)",
+    "pairs": [],
+    "added": [
+      "Starting at $ 23 /month"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 12,
+      "added": 12,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "meilisearch-com-pricing-20260605225323",
+    "url": "https://www.meilisearch.com/pricing",
+    "ts": "20260605225323",
+    "date": "2026-06-05",
+    "source": "wayback",
+    "prevTs": "20260401152105",
+    "kind": "price",
+    "score": 23,
+    "counts": {
+      "price": 4,
+      "limit": 4,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Meilisearch Cloud: 4 prices, 4 limits, 2 plan names changed (added “$20 /month”)",
+    "pairs": [],
+    "added": [
+      "$20 /month",
+      "14-day free trial, no credit card required",
+      "Get started for free",
+      "10K 500K 10M+",
+      "1K 250K 10M+",
+      "Small ( 1 KB) Few filters, SaaS-like",
+      "Medium ( 3 KB) Short text, ~10 filters",
+      "Large ( 8 KB) Articles, long documents",
+      "AI ( 12 KB) Documents with embeddings",
+      "Base plan (100K docs, 50K searches) $ 30 /mo",
+      "XS instance (0.5 vCPU, 1 GB RAM)",
+      "Instance $ 18 /mo",
+      "Disk ( 32 GiB billed ( 2.9 GiB calculated)) $ 5 /mo",
+      "Self-hosting is free and gives you full infrastructure control, but you manage updates, backups, and scaling yourself. Cloud removes all of that. Fully managed, with automatic upgrades and email support included. Most teams start on Cloud and never need to self-host.",
+      "Is there a free trial?",
+      "Can I self-host Meilisearch for free?",
+      "Start free trial"
+    ],
+    "removed": [
+      "Free"
+    ],
+    "totals": {
+      "removed": 141,
+      "added": 82,
+      "materialRemoved": 4,
+      "materialAdded": 20
+    }
+  },
+  {
+    "id": "meilisearch-com-pricing-20260813210623",
+    "url": "https://www.meilisearch.com/pricing",
+    "ts": "20260813210623",
+    "date": "2026-08-13",
+    "source": "wayback",
+    "prevTs": "20260605225323",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Meilisearch Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  }
+]

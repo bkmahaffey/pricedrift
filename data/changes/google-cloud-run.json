@@ -1,0 +1,1487 @@
+[
+  {
+    "id": "cloud-google-com-run-pricing-20230313215817",
+    "url": "https://cloud.google.com/run/pricing",
+    "ts": "20230313215817",
+    "date": "2023-03-13",
+    "source": "wayback",
+    "prevTs": "20230111025018",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Google Cloud Run: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 7,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "cloud-google-com-run-pricing-20230525111543",
+    "url": "https://cloud.google.com/run/pricing",
+    "ts": "20230525111543",
+    "date": "2023-05-25",
+    "source": "wayback",
+    "prevTs": "20230313215817",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Google Cloud Run: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 14,
+      "added": 18,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "cloud-google-com-run-pricing-20230911032103",
+    "url": "https://cloud.google.com/run/pricing",
+    "ts": "20230911032103",
+    "date": "2023-09-11",
+    "source": "wayback",
+    "prevTs": "20230525111543",
+    "kind": "price",
+    "score": 43,
+    "counts": {
+      "price": 8,
+      "limit": 8,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Google Cloud Run: 8 prices, 8 limits, 2 plan names changed (180,000 → 240,000; 360,000GiB → 450,000GiB)",
+    "pairs": [
+      {
+        "before": "First 180,000 vCPU-seconds free per month",
+        "after": "Free: First 240,000 vCPU-seconds free per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "180,000",
+            "after": "240,000"
+          }
+        ]
+      },
+      {
+        "before": "First 360,000 GiB-seconds free per month",
+        "after": "Free: First 450,000 GiB-seconds free per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "360,000GiB",
+            "after": "450,000GiB"
+          }
+        ]
+      },
+      {
+        "before": "$0.40 / million requests beyond free tier",
+        "after": "$0.40 / million requests beyond free tier 3",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "3"
+          }
+        ]
+      },
+      {
+        "before": "$0.00003360 / vCPU-second beyond free tier",
+        "after": "$0.00001800 / vCPU-second beyond free tier",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.00003360",
+            "after": "$0.00001800"
+          }
+        ]
+      },
+      {
+        "before": "$0.00000350 / GiB-second beyond free tier",
+        "after": "$0.00000200 / GiB-second beyond free tier",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.00000350",
+            "after": "$0.00000200"
+          }
+        ]
+      },
+      {
+        "before": "$0.00001800 / vCPU-second beyond free tier",
+        "after": "$0.00003360 / vCPU-second beyond free tier",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.00001800",
+            "after": "$0.00003360"
+          }
+        ]
+      },
+      {
+        "before": "$0.00000200 / GiB-second beyond free tier",
+        "after": "$0.00000350 / GiB-second beyond free tier",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.00000200",
+            "after": "$0.00000350"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0",
+      "Free: First 180,000 vCPU-seconds free per month",
+      "Free: First 360,000 GiB-seconds free per month",
+      "Free: First 200,000 vCPU-seconds free per month",
+      "Free: First 375,000 GiB-seconds free per month",
+      "$0",
+      "Free: First 128,571 vCPU-seconds free per month",
+      "Free: First 257,142 GiB-seconds free per month",
+      "$0.40 / million requests beyond free tier 3",
+      "Free: 2 million requests free per month",
+      "3 Requests are only billed when they reach the container after successfully being authenticated"
+    ],
+    "removed": [
+      "Free",
+      "$0.40 / million requests beyond free tier",
+      "Free",
+      "First 240,000 vCPU-seconds free per month",
+      "First 450,000 GiB-seconds free per month"
+    ],
+    "totals": {
+      "removed": 35,
+      "added": 59,
+      "materialRemoved": 21,
+      "materialAdded": 27
+    }
+  },
+  {
+    "id": "cloud-google-com-run-pricing-20240706194354",
+    "url": "https://cloud.google.com/run/pricing",
+    "ts": "20240706194354",
+    "date": "2024-07-06",
+    "source": "wayback",
+    "prevTs": "20230911032103",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Google Cloud Run: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 20,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "cloud-google-com-run-pricing-20240809105600",
+    "url": "https://cloud.google.com/run/pricing",
+    "ts": "20240809105600",
+    "date": "2024-08-09",
+    "source": "wayback",
+    "prevTs": "20240706194354",
+    "kind": "price",
+    "score": 36,
+    "counts": {
+      "price": 12,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Google Cloud Run: 12 prices changed (removed “CUD 1: $0.00001494”; added “FlexCUD 0: $0.00001296 for 1y”)",
+    "pairs": [],
+    "added": [
+      "FlexCUD 0: $0.00001296 for 1y",
+      "FlexCUD 0: $0.00000972 for 3y",
+      "FlexCUD 0: $0.00000144 for 1y",
+      "FlexCUD 0: $0.00000108 for 3y",
+      "FlexCUD 0: $0.000015552 for 1y",
+      "FlexCUD 0: $0.000011664 for 3y",
+      "FlexCUD 0: $0.000001728 for 1y",
+      "FlexCUD 0: $0.000001296 for 3y"
+    ],
+    "removed": [
+      "CUD 1: $0.00001494",
+      "CUD 1: $0.00000166",
+      "CUD 1: $0.000017928",
+      "CUD 1: $0.000001992"
+    ],
+    "totals": {
+      "removed": 12,
+      "added": 17,
+      "materialRemoved": 4,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "cloud-google-com-run-pricing-20240906183052",
+    "url": "https://cloud.google.com/run/pricing",
+    "ts": "20240906183052",
+    "date": "2024-09-06",
+    "source": "wayback",
+    "prevTs": "20240809105600",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Google Cloud Run: 2 prices changed (added “$0.000233 / GPU-second”)",
+    "pairs": [],
+    "added": [
+      "$0.000233 / GPU-second",
+      "$0.0002796 / GPU-second",
+      "When deploying from source or creating a function, Cloud Run uses Cloud Build to convert your source code or function into an executable image. The images are created in Cloud Build and stored in Artifact Registry. Artifact Registry has its own free tier of storage",
+      "If you deploy your source code or function to Artifact Registry and exceed the Artifact Registry free tier usage, you will incur charges for deploying your functions",
+      "even when your use of Cloud Run falls within the free tier."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 25,
+      "materialRemoved": 0,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "cloud-google-com-run-pricing-20241110182937",
+    "url": "https://cloud.google.com/run/pricing",
+    "ts": "20241110182937",
+    "date": "2024-11-10",
+    "source": "wayback",
+    "prevTs": "20240906183052",
+    "kind": "price",
+    "score": 192,
+    "counts": {
+      "price": 57,
+      "limit": 11,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Google Cloud Run: 57 prices, 11 limits changed (added “Let's assume that you deployed a Cloud Run Se…”)",
+    "pairs": [],
+    "added": [
+      "Let's assume that you deployed a Cloud Run Service with CPU only allocated during request in us-central1. Your service receives 10 million requests per month with an average per-request latency of 1 second. This service is configured with 1 vCPU, 512 MiB and 80 maximum concurrent requests per instance.",
+      "The monthly pricing estimate for this workload is $3.20 ($6.36 excluding the vCPU/Memory free tier). You can either read below for the fine-grained calculations or view the summarized results via the Pricing calculator",
+      "Cloud Run requests are billed at $0.40 / million requests beyond the free tier. The first 2 million requests per month are free. The request charges for this workload are as follows:",
+      "(10 million requests) * ($0.40 / million requests) = $4.00 When including the free tier, the request charges are as follows:",
+      "$4.00 - ((2 million requests) * ($0.40 / million requests)) = $3.20 vCPU charges",
+      "Cloud Run vCPU is billed at $0.00002400 / vCPU-second beyond the free tier in us-central1. The first 180,000 vCPU-seconds per month are free. The total vCPU-seconds consumed per month is calculated as follows:",
+      "(1 vCPU per instance) * (10 million requests) * (1 second per-request latency) / (80 maximum concurrent requests) = 125,000 vCPU-seconds The vCPU charges for this workload are as follows:",
+      "(125,000 vCPU-seconds) * ($0.00002400 / vCPU-second) = $3.00 When including the free tier, the vCPU charges are as follows:",
+      "$3.00 - ((180,000 vCPU-seconds) * ($0.00002400 / vCPU-second)) = $0.00 Memory charges",
+      "Cloud Run Memory is billed at $0.00000250 / GiB-second beyond the free tier in us-central1. The first 360,000 GiB-seconds per month are free. The total GiB-seconds consumed per month is calculated as follows:",
+      "(0.5 GiB per instance) * (10 million requests) * (1 second per-request latency) / (80 maximum concurrent requests) = 62,500 GiB-seconds The Memory charges for this workload are as follows:",
+      "(62,500 GiB-seconds) * ($0.00000250 / GiB-second) = $0.15625 When including the free tier, the Memory charges are as follows:",
+      "$0.15625 - ((360,000 GiB-seconds) * ($0.00000250 / GiB-second)) = $0.00 Total charge",
+      "When excluding the vCPU & Memory free tiers, the total charge for this workload is as follows:",
+      "($3.20 Request charges) + ($3.00 vCPU charges) + ($0.15625 Memory charges) = $6.35625 When including the vCPU & Memory free tiers, the total charge for this workload is as follows:",
+      "($3.20 Request charges) + ($0.00 vCPU charges) + ($0.00 Memory charges) = $3.20",
+      "The monthly pricing estimate for this workload is $66.84 ($72.06 excluding the vCPU/Memory free tier). You can either read below for the fine-grained calculations or view the summarized results via the Pricing calculator",
+      "If this workload enabled CPU always allocated, the monthly pricing estimate jumps up to $119.84. You can view the summarized results with CPU always allocated via the Pricing calculator",
+      "Cloud Run requests are billed at $0.40 / million requests beyond the free tier. The first 2 million requests per month are free. The request charges for this workload are as follows:",
+      "(50 million requests) * ($0.40 / million requests) = $20.00 When including the free tier, the request charges are as follows:",
+      "$20.00 - ((2 million requests) * ($0.40 / million requests)) = $19.20 vCPU charges",
+      "Cloud Run vCPU is billed at $0.00002400 / vCPU-second beyond the free tier in us-central1. The first 180,000 vCPU-seconds per month are free. The total vCPU-seconds consumed per month is calculated as follows:",
+      "(1 vCPU per instance) * (50 million requests) * (1 second per-request latency) / (80 maximum concurrent requests) = 625,000 vCPU-seconds The vCPU charges for this workload are as follows:",
+      "(625,000 vCPU-seconds) * ($0.00002400 / vCPU-second) = $15.00 When including the free tier, the vCPU charges are as follows:",
+      "$15.00 - ((180,000 vCPU-seconds) * ($0.00002400 / vCPU-second)) = $10.68 Memory charges",
+      "Cloud Run Memory is billed at $0.00000250 / GiB-second beyond the free tier in us-central1. The first 360,000 GiB-seconds per month are free. The total GiB-seconds consumed per month is calculated as follows:",
+      "(2 GiB per instance) * (50 million requests) * (1 second per-request latency) / (80 maximum concurrent requests) = 1,250,000 GiB-seconds The Memory charges for this workload are as follows:",
+      "(1,250,000 GiB-seconds) * ($0.00000250 / GiB-second) = $3.125 When including the free tier, the Memory charges are as follows:",
+      "$3.125 - ((360,000 GiB-seconds) * ($0.00000250 / GiB-second)) = $2.225 Min Instance vCPU charges",
+      "(365 days) / (12 months) * (86,400 seconds) * (2 instances) * (1 vCPU per instance) - (625,000 vCPU-seconds active) = 4,631,000 vCPU-seconds The idle min instance vCPU charges for this workload are as follows:",
+      "(4,631,000 vCPU-seconds) * ($0.00000250 / vCPU-second) = $11.5775 Min Instance Memory charges",
+      "(365 days) / (12 months) * (86,400 seconds) * (2 instances) * (2 GiB per instance) - (1,250,000 vCPU-seconds active) = 9,262,000 GiB-seconds The idle min instance Memory charges for this workload are as follows:",
+      "(9,262,000 GiB-seconds) * ($0.00000250 / GiB-second) = $23.155 Total charge",
+      "When excluding the vCPU & Memory free tiers, the total charge for this workload is as follows:",
+      "($19.20 Request charges) + ($15.00 vCPU charges) + ($3.125 Memory charges) + ($11.5775 Min Instance vCPU charge) + ($23.155 Min Instance Memory charge) = $72.0575 When including the vCPU & Memory free tiers, the total charge for this workload is as follows:",
+      "($19.20 Request charges) + ($10.68 vCPU charges) + ($2.225 Memory charges) + ($11.5775 Min Instance vCPU charge) + ($23.155 Min Instance Memory charge) = $66.8375",
+      "Let's assume that you deployed a Cloud Run Service with CPU always allocated in europe-west3. Your service receives 1 billion requests per month with an average per-request latency of 525.6 milliseconds. This service is configured with 1 vCPU, 512 MiB and 100 maximum concurrent requests per instance.",
+      "The monthly pricing estimate for this workload is $119.84 ($64.71 with a 3-year FlexCUD",
+      "When CPU always allocated is enabled, requests are free.",
+      "If this workload enabled CPU allocated only during request processing, the monthly pricing estimate jumps up to $585.00. You can view the summarized results with CPU allocated only during request processing via the Pricing calculator"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 122,
+      "materialRemoved": 0,
+      "materialAdded": 84
+    }
+  },
+  {
+    "id": "cloud-google-com-run-pricing-20241209072825",
+    "url": "https://cloud.google.com/run/pricing",
+    "ts": "20241209072825",
+    "date": "2024-12-09",
+    "source": "wayback",
+    "prevTs": "20241110182937",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Google Cloud Run: 2 limits changed (500 → 2; 0.5 → 2)",
+    "pairs": [
+      {
+        "before": "Let's assume that you deployed a Cloud Run Service with CPU always allocated and Nvidia L4 GPU in us-central1. Your service receives 10 million requests per month with an average per-request latency of 500 milliseconds. This service is configured with 4 vCPU, 16 GiB and 10 maximum concurrent requests per instance.",
+        "after": "Let's assume that you deployed a Cloud Run Service with CPU always allocated and Nvidia L4 GPU in us-central1. Your service receives 10 million requests per month with an average per-request latency of 2 seconds. This service is configured with 4 vCPU, 16 GiB and 10 maximum concurrent requests per instance.",
+        "confidence": 0.94,
+        "deltas": [
+          {
+            "before": "500",
+            "after": "2"
+          }
+        ]
+      },
+      {
+        "before": "(10 million requests) * (0.5 second per-request latency) / ((365 days) / (12 months) * (86,400 seconds)) = 1.9 concurrent requests As each instance is able to handle 10 concurrent requests, this Cloud Run Service would need 1 instances to handle 1.9 concurrent requests.",
+        "after": "(10 million requests) * (2 second per-request latency) / ((365 days) / (12 months) * (86,400 seconds)) = 7.61 concurrent requests As each instance is able to handle 10 concurrent requests, this Cloud Run Service would need 1 instances to handle 7.61 concurrent requests.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "0.5",
+            "after": "2"
+          },
+          {
+            "before": "1.9",
+            "after": "7.61"
+          },
+          {
+            "before": "1.9",
+            "after": "7.61"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "cloud-google-com-run-pricing-20250305230929",
+    "url": "https://cloud.google.com/run/pricing",
+    "ts": "20250305230929",
+    "date": "2025-03-05",
+    "source": "wayback",
+    "prevTs": "20241209072825",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Google Cloud Run: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Let's assume that you deployed a Cloud Run service with request-based billing in us-central1 with 2 min instances. Your service receives 50 million requests per month with an average per-request latency of 1 second. This service is configured with 1 vCPU, 2 GiB and 80 maximum concurrent requests per instance.",
+      "When Instance-based billing is enabled, requests are free.",
+      "When Instance-based billing is enabled, Cloud Run requests are free.",
+      "When Instance-based billing is enabled, Cloud Run requests are free."
+    ],
+    "removed": [
+      "When CPU always allocated is enabled, requests are free.",
+      "When CPU always allocated is enabled, Cloud Run requests are free.",
+      "When CPU always allocated is enabled, Cloud Run requests are free."
+    ],
+    "totals": {
+      "removed": 28,
+      "added": 32,
+      "materialRemoved": 11,
+      "materialAdded": 12
+    }
+  },
+  {
+    "id": "cloud-google-com-run-pricing-20250404004341",
+    "url": "https://cloud.google.com/run/pricing",
+    "ts": "20250404004341",
+    "date": "2025-04-04",
+    "source": "wayback",
+    "prevTs": "20250305230929",
+    "kind": "price",
+    "score": 28,
+    "counts": {
+      "price": 9,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Google Cloud Run: 9 prices, 1 limit changed ($0.000233 → $0.0001867; $0.0002796 → $0.00022404)",
+    "pairs": [
+      {
+        "before": "$0.000233 / GPU-second",
+        "after": "$0.0001867 / GPU-second",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.000233",
+            "after": "$0.0001867"
+          }
+        ]
+      },
+      {
+        "before": "$0.0002796 / GPU-second",
+        "after": "$0.00022404 / GPU-second",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.0002796",
+            "after": "$0.00022404"
+          }
+        ]
+      },
+      {
+        "before": "The monthly pricing estimate for this workload is $885.64 ($809.11 with a 1-year FlexCUD",
+        "after": "The monthly pricing estimate for this workload is $763.9596 ($687.43224 with a 1-year FlexCUD",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$885.64",
+            "after": "$763.9596"
+          },
+          {
+            "before": "$809.11",
+            "after": "$687.43224"
+          }
+        ]
+      },
+      {
+        "before": "Cloud Run Nvidia L4 GPU is billed at $0.000233 / GPU-second in us-central1. The total GPU-seconds consumed per month is calculated as follows:",
+        "after": "Cloud Run Nvidia L4 GPU with no zonal redundancy is billed at $0.0001867 / GPU-second in us-central1. The total GPU-seconds consumed per month is calculated as follows:",
+        "confidence": 0.83,
+        "deltas": [
+          {
+            "before": "$0.000233",
+            "after": "$0.0001867"
+          }
+        ]
+      },
+      {
+        "before": "(2,628,000 GPU-seconds) * ($0.000233 / GPU-second) = $612.324 Total charge",
+        "after": "(2,628,000 GPU-seconds) * ($0.0001867 / GPU-second) = $490.6476 Total charge",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.000233",
+            "after": "$0.0001867"
+          },
+          {
+            "before": "$612.324",
+            "after": "$490.6476"
+          }
+        ]
+      },
+      {
+        "before": "($0.00 Request charges) + ($189.216 vCPU charges) + ($84.096 Memory charges) + ($612.324 GPU charges) = $885.636 The total charge for this workload (with a 1-year FlexCUD",
+        "after": "($0.00 Request charges) + ($189.216 vCPU charges) + ($84.096 Memory charges) + ($490.6476 GPU charges) = $763.9596 The total charge for this workload (with a 1-year FlexCUD",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$612.324",
+            "after": "$490.6476"
+          },
+          {
+            "before": "$885.636",
+            "after": "$763.9596"
+          }
+        ]
+      },
+      {
+        "before": "($0.00 Request charges) + ($136.23552 vCPU charges) + ($60.54912 Memory charges) + ($612.324 GPU charges) = $809.10864",
+        "after": "($0.00 Request charges) + ($136.23552 vCPU charges) + ($60.54912 Memory charges) + ($490.6476 GPU charges) = $687.43224",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$612.324",
+            "after": "$490.6476"
+          },
+          {
+            "before": "$809.10864",
+            "after": "$687.43224"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0.0002909 / GPU-second",
+      "$0.00034908 / GPU-second"
+    ],
+    "removed": [
+      "Let's assume that you deployed a Cloud Run service with instance-based billing and Nvidia L4 GPU in us-central1. Your service receives 10 million requests per month with an average per-request latency of 2 seconds. This service is configured with 4 vCPU, 16 GiB and 10 maximum concurrent requests per instance."
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 20,
+      "materialRemoved": 8,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "cloud-google-com-run-pricing-20250604080043",
+    "url": "https://cloud.google.com/run/pricing",
+    "ts": "20250604080043",
+    "date": "2025-06-04",
+    "source": "wayback",
+    "prevTs": "20250404004341",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Google Cloud Run: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "cloud-google-com-run-pricing-20250702065755",
+    "url": "https://cloud.google.com/run/pricing",
+    "ts": "20250702065755",
+    "date": "2025-07-02",
+    "source": "wayback",
+    "prevTs": "20250604080043",
+    "kind": "price",
+    "score": 249,
+    "counts": {
+      "price": 73,
+      "limit": 14,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Google Cloud Run: 73 prices, 14 limits, 1 plan name changed ($0.0001867 → $0.000233; $0.00022404 → $0.0002796)",
+    "pairs": [
+      {
+        "before": "$0.0001867 / GPU-second",
+        "after": "$0.000233 / GPU-second",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.0001867",
+            "after": "$0.000233"
+          }
+        ]
+      },
+      {
+        "before": "$0.00022404 / GPU-second",
+        "after": "$0.0002796 / GPU-second",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.00022404",
+            "after": "$0.0002796"
+          }
+        ]
+      },
+      {
+        "before": "The monthly pricing estimate for this workload is $763.9596 ($687.43224 with a 1-year FlexCUD",
+        "after": "The monthly pricing estimate for this workload is $885.64 ($809.11 with a 1-year FlexCUD",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$763.9596",
+            "after": "$885.64"
+          },
+          {
+            "before": "$687.43224",
+            "after": "$809.11"
+          }
+        ]
+      },
+      {
+        "before": "If idle min instance 2: $0.00000250",
+        "after": "If idle min instance 2: $0.00000350",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.00000250",
+            "after": "$0.00000350"
+          }
+        ]
+      },
+      {
+        "before": "$0.00000240 / GiB-second beyond free tier",
+        "after": "$0.000001235 / GiB-second beyond free tier",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.00000240",
+            "after": "$0.000001235"
+          }
+        ]
+      },
+      {
+        "before": "Free: First 375,000 GiB-seconds free per month",
+        "after": "Free: First 450,000 GiB-seconds free per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "375,000GiB",
+            "after": "450,000GiB"
+          }
+        ]
+      },
+      {
+        "before": "Free: First 128,571 vCPU-seconds free per month",
+        "after": "Free: First 240,000 vCPU-seconds free per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "128,571",
+            "after": "240,000"
+          }
+        ]
+      },
+      {
+        "before": "Free: First 257,142 GiB-seconds free per month",
+        "after": "Free: First 375,000 GiB-seconds free per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "257,142GiB",
+            "after": "375,000GiB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0.000011244 / vCPU-second beyond free tier",
+      "FlexCUD 0: $0.00000809568 for 1y",
+      "FlexCUD 0: $0.00000607176 for Зу",
+      "FlexCUD 0: $0.0000008892 for 1y",
+      "FlexCUD 0: $0.0000006669 for 3y",
+      "$0.00000240 / GiB-second beyond free tier",
+      "$0",
+      "Free: First 128,571 vCPU-seconds free per month",
+      "Free: First 257,142 GiB-seconds free per month",
+      "$0.0000134928 / vCPU-second beyond free tier",
+      "$0.000001482 / GiB-second beyond free tier",
+      "$0",
+      "Free: First 200,000 vCPU-seconds free per month",
+      "Free: First 375,000 GiB-seconds free per month",
+      "FlexCUD 0: $0.000009714816 for 1y",
+      "FlexCUD 0: $0.000007286112 for 3у",
+      "FlexCUD 0: $0.00000106704 for 1y",
+      "FlexCUD 0: $0.00000080028 for 3y",
+      "Let's assume that you deployed a Cloud Run service with instance-based billing and Nvidia L4 GPU in us-central1. Your service receives 10 million requests per month with an average per-request latency of 2 seconds. This service is configured with 4 vCPU, 16 GiB and 10 maximum concurrent requests per instance."
+    ],
+    "removed": [
+      "Start free",
+      "If idle min instance 2: $0.00000350",
+      "If idle min instance 2: $0.00000350",
+      "$0.0002909 / GPU-second",
+      "$0.00034908 / GPU-second",
+      "Cloud Run requests are billed at $0.40 / million requests beyond the free tier. The first 2 million requests per month are free. The request charges for this workload are as follows:",
+      "(10 million requests) * ($0.40 / million requests) = $4.00 When including the free tier, the request charges are as follows:",
+      "$4.00 - ((2 million requests) * ($0.40 / million requests)) = $3.20 vCPU charges",
+      "Cloud Run vCPU is billed at $0.00002400 / vCPU-second beyond the free tier in us-central1. The first 180,000 vCPU-seconds per month are free. The total vCPU-seconds consumed per month is calculated as follows:",
+      "(1 vCPU per instance) * (10 million requests) * (1 second per-request latency) / (80 maximum concurrent requests) = 125,000 vCPU-seconds The vCPU charges for this workload are as follows:",
+      "(125,000 vCPU-seconds) * ($0.00002400 / vCPU-second) = $3.00 When including the free tier, the vCPU charges are as follows:",
+      "$3.00 - ((180,000 vCPU-seconds) * ($0.00002400 / vCPU-second)) = $0.00 Memory charges",
+      "Cloud Run Memory is billed at $0.00000250 / GiB-second beyond the free tier in us-central1. The first 360,000 GiB-seconds per month are free. The total GiB-seconds consumed per month is calculated as follows:",
+      "(0.5 GiB per instance) * (10 million requests) * (1 second per-request latency) / (80 maximum concurrent requests) = 62,500 GiB-seconds The Memory charges for this workload are as follows:",
+      "(62,500 GiB-seconds) * ($0.00000250 / GiB-second) = $0.15625 When including the free tier, the Memory charges are as follows:",
+      "$0.15625 - ((360,000 GiB-seconds) * ($0.00000250 / GiB-second)) = $0.00 Total charge",
+      "When excluding the vCPU & Memory free tiers, the total charge for this workload is as follows:",
+      "($3.20 Request charges) + ($3.00 vCPU charges) + ($0.15625 Memory charges) = $6.35625 When including the vCPU & Memory free tiers, the total charge for this workload is as follows:",
+      "($3.20 Request charges) + ($0.00 vCPU charges) + ($0.00 Memory charges) = $3.20",
+      "Cloud Run requests are billed at $0.40 / million requests beyond the free tier. The first 2 million requests per month are free. The request charges for this workload are as follows:",
+      "(50 million requests) * ($0.40 / million requests) = $20.00 When including the free tier, the request charges are as follows:",
+      "$20.00 - ((2 million requests) * ($0.40 / million requests)) = $19.20 vCPU charges",
+      "Cloud Run vCPU is billed at $0.00002400 / vCPU-second beyond the free tier in us-central1. The first 180,000 vCPU-seconds per month are free. The total vCPU-seconds consumed per month is calculated as follows:",
+      "(1 vCPU per instance) * (50 million requests) * (1 second per-request latency) / (80 maximum concurrent requests) = 625,000 vCPU-seconds The vCPU charges for this workload are as follows:",
+      "(625,000 vCPU-seconds) * ($0.00002400 / vCPU-second) = $15.00 When including the free tier, the vCPU charges are as follows:",
+      "$15.00 - ((180,000 vCPU-seconds) * ($0.00002400 / vCPU-second)) = $10.68 Memory charges",
+      "Cloud Run Memory is billed at $0.00000250 / GiB-second beyond the free tier in us-central1. The first 360,000 GiB-seconds per month are free. The total GiB-seconds consumed per month is calculated as follows:",
+      "(2 GiB per instance) * (50 million requests) * (1 second per-request latency) / (80 maximum concurrent requests) = 1,250,000 GiB-seconds The Memory charges for this workload are as follows:",
+      "(1,250,000 GiB-seconds) * ($0.00000250 / GiB-second) = $3.125 When including the free tier, the Memory charges are as follows:",
+      "$3.125 - ((360,000 GiB-seconds) * ($0.00000250 / GiB-second)) = $2.225 Min Instance vCPU charges",
+      "(365 days) / (12 months) * (86,400 seconds) * (2 instances) * (1 vCPU per instance) - (625,000 vCPU-seconds active) = 4,631,000 vCPU-seconds The idle min instance vCPU charges for this workload are as follows:",
+      "(4,631,000 vCPU-seconds) * ($0.00000250 / vCPU-second) = $11.5775 Min Instance Memory charges",
+      "(365 days) / (12 months) * (86,400 seconds) * (2 instances) * (2 GiB per instance) - (1,250,000 vCPU-seconds active) = 9,262,000 GiB-seconds The idle min instance Memory charges for this workload are as follows:",
+      "(9,262,000 GiB-seconds) * ($0.00000250 / GiB-second) = $23.155 Total charge",
+      "When excluding the vCPU & Memory free tiers, the total charge for this workload is as follows:",
+      "($19.20 Request charges) + ($15.00 vCPU charges) + ($3.125 Memory charges) + ($11.5775 Min Instance vCPU charge) + ($23.155 Min Instance Memory charge) = $72.0575 When including the vCPU & Memory free tiers, the total charge for this workload is as follows:",
+      "($19.20 Request charges) + ($10.68 vCPU charges) + ($2.225 Memory charges) + ($11.5775 Min Instance vCPU charge) + ($23.155 Min Instance Memory charge) = $66.8375",
+      "When Instance-based billing is enabled, Cloud Run requests are free.",
+      "Even though requests are free for this Cloud Run service, the auto-scaling behavior is still driven by incoming requests. If we assume that there are 365 days per year and 86,400 seconds per day, we are able to calculate the number of concurrent requests as follows:",
+      "(1 billion requests) * (0.5256 second per-request latency) / ((365 days) / (12 months) * (86,400 seconds)) = 200 concurrent requests As each instance is able to handle 100 concurrent requests, this Cloud Run service would need 2 instances to handle 200 concurrent requests."
+    ],
+    "totals": {
+      "removed": 158,
+      "added": 48,
+      "materialRemoved": 98,
+      "materialAdded": 39
+    }
+  },
+  {
+    "id": "cloud-google-com-run-pricing-20250801075442",
+    "url": "https://cloud.google.com/run/pricing",
+    "ts": "20250801075442",
+    "date": "2025-08-01",
+    "source": "wayback",
+    "prevTs": "20250702065755",
+    "kind": "price",
+    "score": 277,
+    "counts": {
+      "price": 81,
+      "limit": 17,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Google Cloud Run: 81 prices, 17 limits changed (200,000 → 240,000; 375,000GiB → 450,000GiB)",
+    "pairs": [
+      {
+        "before": "Free: First 200,000 vCPU-seconds free per month",
+        "after": "CPU - First 240,000 vCPU-seconds free per month",
+        "confidence": 0.86,
+        "deltas": [
+          {
+            "before": "200,000",
+            "after": "240,000"
+          }
+        ]
+      },
+      {
+        "before": "Free: First 375,000 GiB-seconds free per month",
+        "after": "RAM - First 450,000 GiB-seconds free per month",
+        "confidence": 0.86,
+        "deltas": [
+          {
+            "before": "375,000GiB",
+            "after": "450,000GiB"
+          }
+        ]
+      },
+      {
+        "before": "Free: First 200,000 vCPU-seconds free per month",
+        "after": "CPU - First 384,204 vCPU-seconds free per month",
+        "confidence": 0.86,
+        "deltas": [
+          {
+            "before": "200,000",
+            "after": "384,204"
+          }
+        ]
+      },
+      {
+        "before": "Free: First 375,000 GiB-seconds free per month",
+        "after": "RAM - First 728,744 GiB-seconds free per month",
+        "confidence": 0.86,
+        "deltas": [
+          {
+            "before": "375,000GiB",
+            "after": "728,744GiB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free tier (based on us-central1 pricing):",
+      "Cloud Run CUD - 1 Year * (USD) info",
+      "Compute Flexible CUD - 1 Year * (USD) info",
+      "D97B-0795-975B",
+      "$0.00001494",
+      "$0.00001296",
+      "$0.00000972",
+      "$0.00000166",
+      "$0.00000144",
+      "$0.00000108",
+      "$0.0001867",
+      "$0.0002909",
+      "Free tier (based on us-central1 active pricing):",
+      "Cloud Run CUD - 1 Year * (USD) info",
+      "Cloud Run CUD - 3 Year * (USD) info",
+      "Compute Flexible CUD - 1 Year * (USD) info",
+      "D97B-0795-975B",
+      "Compute Flexible CUD - 3 Year * (USD) info",
+      "$0.00001992",
+      "$0.000002075",
+      "$0.0000025",
+      "$0.000002075",
+      "$0.0000025",
+      "$0.000002075",
+      "$0.40",
+      "$0.332",
+      "Free tier (based on us-central1 pricing):",
+      "Cloud Run CUD - 1 Year * (USD) info",
+      "Cloud Run CUD - 3 Year * (USD) info",
+      "Compute Flexible CUD - 1 Year * (USD) info",
+      "D97B-0795-975B",
+      "Compute Flexible CUD - 3 Year * (USD) info",
+      "$0.000018",
+      "$0.00001494",
+      "$0.00001296",
+      "$0.00000972",
+      "$0.000002",
+      "$0.00000166",
+      "$0.00000144",
+      "$0.00000108"
+    ],
+    "removed": [
+      "$0",
+      "FlexCUD 0: $0.00001296 for 1y",
+      "FlexCUD 0: $0.00000972 for 3y",
+      "FlexCUD 0: $0.00000144 for 1y",
+      "FlexCUD 0: $0.00000108 for 3y",
+      "$0.40 / million requests beyond free tier 3",
+      "CUD 1: $0.00001992",
+      "CUD 1: $0.000002075",
+      "CUD 1: $0.332",
+      "If idle min instance 2: $0.00000250",
+      "$0",
+      "Free: First 240,000 vCPU-seconds free per month",
+      "Free: First 450,000 GiB-seconds free per month",
+      "FlexCUD 0: $0.00000809568 for 1y",
+      "FlexCUD 0: $0.00000607176 for Зу",
+      "FlexCUD 0: $0.0000008892 for 1y",
+      "FlexCUD 0: $0.0000006669 for 3y",
+      "$0.00002160 / vCPU-second beyond free tier",
+      "$0.00000240 / GiB-second beyond free tier",
+      "$0",
+      "FlexCUD 0: $0.000015552 for 1y",
+      "FlexCUD 0: $0.000011664 for 3y",
+      "FlexCUD 0: $0.000001728 for 1y",
+      "FlexCUD 0: $0.000001296 for 3y",
+      "$0.00003360 / vCPU-second beyond free tier",
+      "$0.00000350 / GiB-second beyond free tier",
+      "$0.40 / million requests beyond free tier 3",
+      "Free: First 128,571 vCPU-seconds free per month",
+      "Free: First 257,142 GiB-seconds free per month",
+      "Free: 2 million requests free per month",
+      "CUD 1: $0.000027888",
+      "CUD 1: $0.000002905",
+      "CUD 1: $0.332",
+      "If idle min instance 2: $0.00000350",
+      "$0.0000134928 / vCPU-second beyond free tier",
+      "$0.000001482 / GiB-second beyond free tier",
+      "$0",
+      "FlexCUD 0: $0.000009714816 for 1y",
+      "FlexCUD 0: $0.000007286112 for 3у",
+      "FlexCUD 0: $0.00000106704 for 1y"
+    ],
+    "totals": {
+      "removed": 125,
+      "added": 365,
+      "materialRemoved": 73,
+      "materialAdded": 74
+    }
+  },
+  {
+    "id": "docs-cloud-google-com-free-docs-free-cloud-features-20251201204754",
+    "url": "https://docs.cloud.google.com/free/docs/free-cloud-features",
+    "ts": "20251201204754",
+    "date": "2025-12-01",
+    "source": "wayback",
+    "prevTs": "20251021050416",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Google Cloud Run: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Get free usage of 20+ popular products, including Compute Engine and AI APIs.",
+      "Get free usage of 20+ popular products, including Compute Engine and AI APIs."
+    ],
+    "removed": [
+      "Free monthly usage of popular products, including AI APIs and BigQuery",
+      "Free monthly usage of popular products, including AI APIs and BigQuery"
+    ],
+    "totals": {
+      "removed": 9,
+      "added": 12,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "docs-cloud-google-com-free-docs-free-cloud-features-20260101015900",
+    "url": "https://docs.cloud.google.com/free/docs/free-cloud-features",
+    "ts": "20260101015900",
+    "date": "2026-01-01",
+    "source": "wayback",
+    "prevTs": "20251201204754",
+    "kind": "price",
+    "score": 79,
+    "counts": {
+      "price": 16,
+      "limit": 12,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Google Cloud Run: 16 prices, 12 limits, 4 plan names changed (1TB → 1TiB; 1GB → 1GiB)",
+    "pairs": [
+      {
+        "before": "1 TB of querying per month",
+        "after": "1 TiB of querying per month.",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "1TB",
+            "after": "1TiB"
+          }
+        ]
+      },
+      {
+        "before": "1 GB storage per project",
+        "after": "1 GiB of storage per project.",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "1GB",
+            "after": "1GiB"
+          }
+        ]
+      },
+      {
+        "before": "10 GB of messages per month",
+        "after": "10 GiB of messages per month.",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "10GB",
+            "after": "10GiB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Signing up for the Google Cloud Free Trial",
+      "is the best way to explore and evaluate Google Cloud for free.",
+      "The Free Trial gets you a $300 Welcome credit to spend over 91 days on various Google Cloud products",
+      "and you won't be billed. During the Free Trial, you also get access to the Google Cloud Free Tier",
+      "which gives you free usage of select products up to specified monthly limits, and to product-specific free trials",
+      "When you are ready for full access to Google Cloud, including features not covered by the Free Trial program, upgrade to a Paid billing account",
+      "You keep any remaining credit and continue to have access to the Free Tier. You'll only be billed for usage that exceeds your remaining credit or for usage on products that aren't part of the Free Trial program.",
+      "You can use select Google Cloud products for free when you stay within their Free Tier monthly usage limits",
+      "and when you utilize product-specific free trials",
+      "Google Cloud Free Trial",
+      "The Google Cloud Free Trial is a 91-day program that lets new users try the most popular Google Cloud products without any financial commitment. You will not be billed for any Google Cloud usage during your Free Trial. Access to products may be limited to prevent abuse.",
+      "including on usage beyond the Free Tier limits",
+      "With a Paid billing account, you have full access to Google Cloud and you will be billed for usage not covered by the $300 credit or the Free Tier.",
+      "If you don't upgrade to a Paid billing account before 91 days pass or if you spend the $300 in free credit, then your Free Trial billing account will be closed and all of its associated projects and resources will be stopped.",
+      "You're eligible for the Free Trial when both of the following are true:",
+      "What to expect at Free Trial signup",
+      "During the sign up, you must provide a credit card or other payment method that is valid for the period of the Free Trial. Depending on your country, you might also need to verify your bank account",
+      "After you complete the signup and your identity and payment method are verified, your Free Trial period starts.",
+      "During the Free Trial",
+      "You use your Free Trial account to explore Google Cloud. This account provides the following:",
+      "$300 in Welcome credit to spend on products and services covered by the Free Trial program.",
+      "Full access to the Google Cloud Free Tier",
+      "Access or use the $300 credit for a generative AI partner model that is offered as a managed APIs, which is also known as model as a service",
+      "Some use cases are prohibited during the Free Trial. For example, you may not use Google Cloud products or services to mine cryptocurrency during your Free Trial. For a list of restrictions, see Free Trial Terms and Conditions",
+      "that you create. The email address that you provided during the Free Trial signup is the ID that has administrator-level access to this project.",
+      "A Free Trial billing account",
+      "named \"My Billing Account\". This account accrues the Google Cloud usage costs your project generates. The $300 credit pays for those usage costs and you aren't billed. The email address you provided during the Free Trial signup is the ID of the Billing Account Administrator",
+      "name, address, and tax ID (when required legally) of who is responsible for the profile. The email address you provided during the Free Trial signup is the ID of the profile's administrator and primary contact",
+      "Your Free Trial ends when (1) you manually upgrade to a Paid billing account or (2) your Free Trial billing account auto-closes.",
+      "Google Cloud access unlocked: You gain access to all Google Cloud products and services, including those products and services that were restricted during the Free Trial, such as GPUs, Google Cloud Marketplace, and third-party generative AI models.",
+      "$300 Welcome credit use continues: Your remaining credit is available for use on products and services covered by the Free Trial",
+      "but they must be consumed within the original 91 days period from your sign-up date.",
+      "Billing is enabled: Your payment method is charged for any usage that exceeds your remaining credit, the Free Tier limits",
+      "or usage on products that aren't part of the Free Trial.",
+      "Resource continuity: If you upgrade to a Paid billing account before your Free Trial billing account auto-closes, then the resources you created during the Free Trial continue to run without interruption.",
+      "Your Free Trial billing account auto-closes if you spend the $300 credit or 91 days pass from signup and you don't upgrade to a Paid billing account. In these cases, the following occur:",
+      "If you don't upgrade to a Paid billing account during the grace period, then your Free Trial resources are permanently deleted.",
+      "You might receive a message stating that your Free Trial billing account has been canceled or suspended.",
+      "Otherwise, your Free Trial resources are permanently deleted.",
+      "To use features that aren't included in the Free Trial"
+    ],
+    "removed": [
+      "Whether you're new to Google Cloud and are looking to learn the basics or you are an established customer exploring new product innovations, the Google Cloud Free Program has you covered. This document describes the components of the Google Cloud Free Program.",
+      "The Google Cloud Free Program comprises the following:",
+      "90-day, $300 Free Trial",
+      "New Google Cloud and Google Maps Platform users can take advantage of a 90-day trial period that includes $300 in free Cloud Billing credits to explore and evaluate Google Cloud and Google Maps Platform products and services. You can use these credits toward one or a combination of products.",
+      "Free Tier",
+      "All Google Cloud customers can use select Google Cloud products—like Compute Engine, Cloud Storage, and BigQuery—free of charge, within specified monthly usage limits. When you stay within the Free Tier limits",
+      "these resources are not charged against your Free Trial credits or to your Cloud Billing account's payment method after your trial ends.",
+      "Google Maps Platform free usage caps",
+      "Google Maps Platform offers key pricing incentives, including free usage caps and volume discounts. For more information, see the billing and pricing overview",
+      "90-day, $300 Free Trial offer",
+      "The Free Trial provides you with free Cloud Billing credits to pay for resources used while you learn about Google Cloud.",
+      "You're eligible for the Free Trial if you meet the following conditions:",
+      "If you're in India, you must have an INR-based Cloud Billing account before creating Firebase billing accounts to sign up for the Free Trial.",
+      "To complete your Free Trial signup, you must provide a credit card or other payment method",
+      "which is used to set up a Free Trial Cloud Billing account and to verify your identity. Be assured, when a Cloud Billing account has the status of a Free trial account",
+      "When you complete the Start free signup, the 90-day, $300 Free Trial period starts automatically. The Free Trial period",
+      "After you initiate the Free Trial, Google uses the information you provided at signup to create a limited Google Cloud account called a Free trial account. This account has the following features:",
+      "To control project access, the username provided during the free trial signup is granted the legacy basic Owner role",
+      "named \"My Billing Account\": The billing account accrues Google Cloud usage costs that are generated in the Google Cloud project, and the available Free Trial credits pay for those usage costs.",
+      "To control billing account access, the username provided during the free trial signup is granted the Billing Account Administrator",
+      "is Free trial account, subject to the program coverage limitations",
+      "and the Free Trial Terms and Conditions",
+      "provided during Free Trial signup is stored and managed in the Google payments profile.",
+      "To control access to the payments profile, the username provided during the free trial signup is designated the Admin and Primary Contact",
+      "Activating a full account converts your free trial Cloud Billing account to a paid account. You can activate a full, paid account at any time during the trial. After you activate your full, paid account, you can still use any remaining free trial credits (within the 90-day period).",
+      "Your Free Trial credits apply to all Google Cloud resources, including Google Maps Platform",
+      "You can't access or use Free Trial credits for generative AI partner models offered as managed APIs (also known as model as a service",
+      "In addition to resource constraints, the Free Trial Terms and Conditions",
+      "describe use cases that are prohibited during the Free Trial. For example, you may not use Google Cloud services to mine cryptocurrency during your Free Trial.",
+      "Your Free Trial ends",
+      "90 days have elapsed since you signed up.",
+      "Throughout your Free Trial period, your remaining credits and days",
+      "You are not billed during your Free Trial. When the Free Trial ends, all resources you created during the trial are stopped, and you won't be charged, unless you activate a full, paid Cloud Billing account.",
+      "Please note: The Free Trial period can't be paused or extended. The Free Trial ends after all available credits are consumed, or at the end of the Free Trial period, whichever event occurs first.",
+      "You must accept the Free Trial Terms and Conditions",
+      "Service level agreements don't apply during the Free Trial. The Free Trial is intended to help you explore and evaluate Google Cloud. We don't recommend running production applications on Google Cloud during the Free Trial.",
+      "Free Tier use",
+      "During your Free Trial period, when you use resources covered by the Free Tier",
+      "the Free Tier usage is not charged against your Free Trial credits.",
+      "When you sign up for the Free Trial, Google requires a credit card or other payment method. Google uses this payment information for the following purposes:"
+    ],
+    "totals": {
+      "removed": 357,
+      "added": 328,
+      "materialRemoved": 142,
+      "materialAdded": 144
+    }
+  },
+  {
+    "id": "cloud-google-com-run-pricing-20260112022246",
+    "url": "https://cloud.google.com/run/pricing",
+    "ts": "20260112022246",
+    "date": "2026-01-12",
+    "source": "wayback",
+    "prevTs": "20250801075442",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Google Cloud Run: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "docs-cloud-google-com-free-docs-free-cloud-features-20260201064619",
+    "url": "https://docs.cloud.google.com/free/docs/free-cloud-features",
+    "ts": "20260201064619",
+    "date": "2026-02-01",
+    "source": "wayback",
+    "prevTs": "20260101015900",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Google Cloud Run: 1 limit changed (added “vCPU - First 180,000 vCPU-seconds (50 hours) …”)",
+    "pairs": [],
+    "added": [
+      "vCPU - First 180,000 vCPU-seconds (50 hours) per month",
+      "RAM - First 360,000 GiB-seconds (100 hours) per month"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "cloud-google-com-run-pricing-20260210123938",
+    "url": "https://cloud.google.com/run/pricing",
+    "ts": "20260210123938",
+    "date": "2026-02-10",
+    "source": "wayback",
+    "prevTs": "20260112022246",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 6,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Google Cloud Run: 6 prices changed (added “$0.00036522”)",
+    "pairs": [],
+    "added": [
+      "$0.00036522",
+      "$0.00056913",
+      "$0.00036522",
+      "$0.0001867",
+      "$0.00036522",
+      "$0.00056913"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 22,
+      "materialRemoved": 1,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "docs-cloud-google-com-free-docs-free-cloud-features-20260302033042",
+    "url": "https://docs.cloud.google.com/free/docs/free-cloud-features",
+    "ts": "20260302033042",
+    "date": "2026-03-02",
+    "source": "wayback",
+    "prevTs": "20260201064619",
+    "kind": "limits",
+    "score": 10,
+    "counts": {
+      "price": 0,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Google Cloud Run: 5 limits changed (91 → 90; 91 → 90)",
+    "pairs": [
+      {
+        "before": "The Free Trial gets you a $300 Welcome credit to spend over 91 days on various Google Cloud products",
+        "after": "The Free Trial gets you a $300 Welcome credit to spend over 90 days on various Google Cloud products",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "91",
+            "after": "90"
+          }
+        ]
+      },
+      {
+        "before": "If you don't upgrade to a Paid billing account before 91 days pass or if you spend the $300 in free credit, then your Free Trial billing account will be closed and all of its associated projects and resources will be stopped.",
+        "after": "If you don't upgrade to a Paid billing account before 90 days pass or if you spend the $300 in free credit, then your Free Trial billing account will be closed and all of its associated projects and resources will be stopped.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "91",
+            "after": "90"
+          }
+        ]
+      },
+      {
+        "before": "but they must be consumed within the original 91 days period from your sign-up date.",
+        "after": "but they must be consumed within the original 90 days period from your sign-up date.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "91",
+            "after": "90"
+          }
+        ]
+      },
+      {
+        "before": "Your Free Trial billing account auto-closes if you spend the $300 credit or 91 days pass from signup and you don't upgrade to a Paid billing account. In these cases, the following occur:",
+        "after": "Your Free Trial billing account auto-closes if you spend the $300 credit or 90 days pass from signup and you don't upgrade to a Paid billing account. In these cases, the following occur:",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "91",
+            "after": "90"
+          }
+        ]
+      },
+      {
+        "before": "A Free Trial ended because the $300 Welcome credit was exhausted or 91 days elapsed.",
+        "after": "A Free Trial ended because the $300 Welcome credit was exhausted or 90 days elapsed.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "91",
+            "after": "90"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 8,
+      "materialRemoved": 6,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "docs-cloud-google-com-free-docs-free-cloud-features-20260401173053",
+    "url": "https://docs.cloud.google.com/free/docs/free-cloud-features",
+    "ts": "20260401173053",
+    "date": "2026-04-01",
+    "source": "wayback",
+    "prevTs": "20260302033042",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Google Cloud Run: 1 price changed (added “Full access to Google Cloud, with some restri…”)",
+    "pairs": [],
+    "added": [
+      "Full access to Google Cloud, with some restrictions: You can't do any of the following: Use the $300 credit toward Gemini Developer API (AI Studio) costs."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 6,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "docs-cloud-google-com-free-docs-free-cloud-features-20260505022335",
+    "url": "https://docs.cloud.google.com/free/docs/free-cloud-features",
+    "ts": "20260505022335",
+    "date": "2026-05-05",
+    "source": "wayback",
+    "prevTs": "20260401173053",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Google Cloud Run: 1 price changed ($300 added)",
+    "pairs": [
+      {
+        "before": "Full access to Google Cloud, with some restrictions: You can't do any of the following: Use the $300 credit toward Gemini Developer API (AI Studio) costs.",
+        "after": "Full access to Google Cloud, with some restrictions: The $300 credit can't be used for the following use cases: The $300 credit can't pay for Gemini API in AI Studio",
+        "confidence": 0.63,
+        "deltas": [
+          {
+            "before": null,
+            "after": "$300"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "The Free Trial account account provides the following:",
+      "costs. Consider using the Gemini API Free tier",
+      "While your billing account is a non-billable Free trial account"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 8,
+      "materialRemoved": 3,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "cloud-google-com-run-pricing-20260601000326",
+    "url": "https://cloud.google.com/run/pricing",
+    "ts": "20260601000326",
+    "date": "2026-06-01",
+    "source": "wayback",
+    "prevTs": "20260210123938",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 3,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Google Cloud Run: 3 prices, 2 limits changed (added “Compute Flexible CUD - 1 Year * (USD) info”)",
+    "pairs": [],
+    "added": [
+      "Compute Flexible CUD - 1 Year * (USD) info",
+      "D97B-0795-975B",
+      "Compute Flexible CUD - 3 Year * (USD) info",
+      "$0.000109589 / 1 gibibyte hour",
+      "$0.000078904 / 1 gibibyte hour",
+      "$0.000059178 / 1 gibibyte hour"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 29,
+      "materialRemoved": 0,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "docs-cloud-google-com-free-docs-free-cloud-features-20260702073025",
+    "url": "https://docs.cloud.google.com/free/docs/free-cloud-features",
+    "ts": "20260702073025",
+    "date": "2026-07-02",
+    "source": "wayback",
+    "prevTs": "20260505022335",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Google Cloud Run: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Close your Free Trial billing account",
+      "You can close your Free Trial billing account and end your Free Trial. For more information, see Close your Cloud Billing account",
+      "Upgrading to a Paid billing account ends your Free Trial",
+      "Free Tier benefits for Datastream apply exclusively to streams originating from AlloyDB for PostgreSQL or Spanner and destined for BigQuery:",
+      "100 GiB of change data capture (CDC) per month, per billing account.",
+      "Create a 30-day Cloud SQL free trial instance at no cost."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 18,
+      "materialRemoved": 5,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "cloud-google-com-run-pricing-20260802180112",
+    "url": "https://cloud.google.com/run/pricing",
+    "ts": "20260802180112",
+    "date": "2026-08-02",
+    "source": "wayback",
+    "prevTs": "20260601000326",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Google Cloud Run: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "cloud-google-com-run-pricing-20260902202107",
+    "url": "https://cloud.google.com/run/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260802180112",
+    "kind": "price",
+    "score": 21,
+    "counts": {
+      "price": 6,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Google Cloud Run: 6 prices, 2 limits changed (added “Compute Flexible CUD - 1 Year * (USD) info”)",
+    "pairs": [],
+    "added": [
+      "Compute Flexible CUD - 1 Year * (USD) info",
+      "D97B-0795-975B",
+      "Compute Flexible CUD - 3 Year * (USD) info",
+      "$0.00000027",
+      "$0.000000194",
+      "$0.000000146",
+      "$0.00000193",
+      "$0.00000139",
+      "$0.000001042"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 15,
+      "added": 94,
+      "materialRemoved": 2,
+      "materialAdded": 11
+    },
+    "transition": true
+  },
+  {
+    "id": "docs-cloud-google-com-free-docs-free-cloud-features-20260902202107",
+    "url": "https://docs.cloud.google.com/free/docs/free-cloud-features",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260702073025",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Google Cloud Run: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

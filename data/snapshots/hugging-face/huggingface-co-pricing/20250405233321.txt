@@ -1,0 +1,372 @@
+Pricing
+Leveling up AI collaboration and compute.
+Users and organizations already use the Hub as a collaboration platform,
+we’re making it easy to seamlessly and scalably launch ML compute directly from the Hub.
+HF Hub
+Collaborate on Machine Learning
+Host unlimited public models, datasets
+Create unlimited orgs with no member limits
+Access the latest ML tools and open source
+Community support
+Forever
+Free
+PRO Pro Account
+Unlock advanced HF features
+ZeroGPU and Dev Mode for Spaces
+Free credits across all Inference Providers
+Get early access to upcoming features
+Show your support with a Pro badge
+Subscribe for
+$9 /month
+Enterprise Hub
+Accelerate your AI roadmap
+SSO and SAML support
+Select data location with Storage Regions
+Precise actions reviews with Audit logs
+Granular access control with Resource groups
+Centralized token control and approval
+Dataset Viewer for private datasets
+Advanced compute options for Spaces
+5x more ZeroGPU quota for all org members
+Deploy Inference on your own Infra
+Managed billing with yearly commits
+Priority support
+Starting at
+$20 per user per month
+Spaces Hardware
+Upgrade your Space compute
+Free CPUs
+Build more advanced Spaces
+7 optimized hardware available
+From CPU to GPU to Accelerators
+Starting at
+$0 /hour
+Inference Endpoints
+Deploy models on fully managed infrastructure
+Deploy dedicated Endpoints in seconds
+Keep your costs low
+Fully-managed autoscaling
+Enterprise security
+Starting at
+$0.032 /hour
+Need support to accelerate AI in your organization? View our Expert Support
+.
+Hugging Face Hub
+free
+The HF Hub is the central place to explore, experiment, collaborate and build technology with Machine Learning.
+Join the open source Machine Learning movement!
+→ Sign Up
+Create with ML
+Packed with ML features, like model eval, dataset viewer and much more.
+Collaborate
+Git based and designed for collaboration at its core.
+Play and learn
+Learn by experimenting and sharing with our awesome community.
+Build your ML portfolio
+Share your work with the world and build your own ML profile.
+Spaces Hardware
+Starting at $0
+Spaces are one of the most popular ways to share ML applications and demos with the world.
+Upgrade your Spaces with our selection of custom on-demand hardware:
+→ Get started with Spaces
+Name
+CPU
+Memory
+Accelerator
+VRAM
+Hourly price
+CPU Basic
+2 vCPU
+16 GB
+-
+FREE
+CPU Upgrade
+8 vCPU
+32 GB
+-
+$0.03
+Nvidia T4 - small
+4 vCPU
+15 GB
+Nvidia T4
+16 GB
+$0.40
+Nvidia T4 - medium
+8 vCPU
+30 GB
+Nvidia T4
+16 GB
+$0.60
+1x Nvidia L4
+8 vCPU
+30 GB
+Nvidia L4
+24 GB
+$0.80
+4x Nvidia L4
+48 vCPU
+186 GB
+Nvidia L4
+96 GB
+$3.80
+1x Nvidia L40S
+8 vCPU
+62 GB
+Nvidia L4
+48 GB
+$1.80
+4x Nvidia L40S
+48 vCPU
+382 GB
+Nvidia L4
+192 GB
+$8.30
+8x Nvidia L40S
+192 vCPU
+1534 GB
+Nvidia L4
+384 GB
+$23.50
+Nvidia A10G - small
+4 vCPU
+15 GB
+Nvidia A10G
+24 GB
+$1.00
+Nvidia A10G - large
+12 vCPU
+46 GB
+Nvidia A10G
+24 GB
+$1.50
+2x Nvidia A10G - large
+24 vCPU
+92 GB
+Nvidia A10G
+48 GB
+$3.00
+4x Nvidia A10G - large
+48 vCPU
+184 GB
+Nvidia A10G
+96 GB
+$5.00
+Nvidia A100 - large
+12 vCPU
+142 GB
+Nvidia A100
+80 GB
+$4.00
+Custom
+on demand
+Spaces Persistent Storage
+All Spaces get ephemeral storage for free but you can upgrade and add persistent storage at any time.
+Name
+Storage
+Monthly price
+Small
+20 GB
+$5
+Medium
+150 GB
+$25
+Large
+1 TB
+$100
+Building something cool as a side project? We also offer community GPU grants.
+Inference Endpoints
+Starting at $0.033/hour
+Inference Endpoints (dedicated) offers a secure production solution to easily deploy any ML model on dedicated and autoscaling infrastructure, right from the HF Hub.
+→ Learn more
+CPU instances
+Provider
+Architecture
+vCPUs
+Memory
+Hourly rate
+aws
+Intel Sapphire Rapids
+1
+2GB
+$0.03
+2
+4GB
+$0.07
+4
+8GB
+$0.13
+8
+16GB
+$0.27
+16
+32GB
+$0.54
+azure
+Intel Xeon
+1
+2GB
+$0.06
+2
+4GB
+$0.12
+4
+8GB
+$0.24
+8
+16GB
+$0.48
+gcp
+Intel Sapphire Rapids
+1
+2GB
+$0.05
+2
+4GB
+$0.10
+4
+8GB
+$0.20
+8
+16GB
+$0.40
+Accelerator instances
+Provider
+Architecture
+Topology
+Accelerator Memory
+Hourly rate
+aws
+Inf2 Neuron
+x1
+14.5GB
+$0.75
+x12
+760GB
+$12.00
+gcp
+TPU v5e
+1x1
+16GB
+$1.20
+2x2
+64GB
+$4.75
+2x4
+128GB
+$9.50
+GPU instances
+Provider
+Architecture
+GPUs
+GPU Memory
+Hourly rate
+aws
+NVIDIA T4
+1
+14GB
+$0.50
+4
+56GB
+$3.00
+aws
+NVIDIA L4
+1
+24GB
+$0.80
+4
+96GB
+$3.80
+aws
+NVIDIA L40S
+1
+48GB
+$1.80
+4
+192GB
+$8.30
+8
+384GB
+$23.50
+aws
+NVIDIA A10G
+1
+24GB
+$1.00
+4
+96GB
+$5.00
+aws
+NVIDIA A100
+1
+80GB
+$4.00
+2
+160GB
+$8.00
+4
+320GB
+$16.00
+8
+640GB
+$32.00
+gcp
+NVIDIA T4
+1
+16GB
+$0.50
+gcp
+NVIDIA L4
+1
+24GB
+$0.70
+4
+96GB
+$3.80
+gcp
+NVIDIA A100
+1
+80GB
+$3.60
+2
+160GB
+$7.20
+4
+320GB
+$14.40
+8
+640GB
+$28.80
+gcp
+NVIDIA H100
+1
+80GB
+$10.00
+2
+160GB
+$20.00
+4
+320GB
+$40.00
+8
+640GB
+$80.00
+Pro Account
+PRO
+A monthly subscription to access powerful features.
+→ Get Pro ($9/month)
+ZeroGPU
+Get 5x usage quota and highest GPU queue priority
+Spaces Hosting
+Create ZeroGPU Spaces with A100 hardware
+Spaces Dev Mode
+Fast iterations via SSH/VS Code for Spaces
+Inference Providers
+Get $2 included credits across all Inference Providers
+Dataset Viewer
+Activate it on private datasets
+Blog Articles
+Publish articles to the Hugging Face blog
+Social Posts
+Share short updates with the community
+Features Preview: Get early access to upcoming features
+PRO Badge: Show your support on your profile

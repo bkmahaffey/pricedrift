@@ -1,0 +1,244 @@
+Flexible pricing for developers & companies
+What is your use case?
+B2C
+B2B
+How many monthly active users?
+500
+1,000
+2,500
+5,000
+7,500
+10,000
+20,000
+30,000+
+Free
+No credit card needed.
+Start building for free.
+Start building
+7,500 monthly active users with unlimited logins, plus...
+Any type of application
+Password Authentication with Email, Username or Phone Number
+Passkey Authentication
+Social Authentication (Google, Facebook, etc.)
+Branded forms (Login, Signup, etc.)
+Javascript for custom logic during login, signup, etc. (Actions)
+Basic Attack Protection
+Community Support
+Essentials
+$ 35 / month
+For projects with higher production demands
+Start building for free. Upgrade when you’re ready.
+Everything in Free, with 500 monthly active users, plus...
+Use Your Own Domain
+Higher End-User Authentication & API Limits
+Magic Link & SMS Authentication
+Role-based Access Control
+Stream Auth0 Audit Logs to Datadog, Splunk, AWS, Azure, etc.
+Increased Feature Limits
+Separate Production & Development Environments
+Standard Support
+Professional
+$ 240 / month
+Best for teams and projects that need added security.
+Start building for free. Upgrade when you’re ready.
+Everything in Essentials, with up to 1000 monthly active users, plus...
+Use your existing User Database for Logins
+Multi-Factor Authentication (with OTP)
+Enhanced Attack Protection
+Enterprise MFA
+Add-on
+Service Authorization
+Add-on
+Enterprise
+For enterprises that need to scale. Top-tier SLAs, advanced security, white-glove support and more.
+Contact us
+Everything in Professional plus...
+Custom User & SSO Tiers
+99.99% SLA
+Enterprise Rate Limits
+Enterprise Administration & Support
+Advanced Security Features
+Add-on
+Private Deployment
+Add-on
+Explore special pricing for startups
+and nonprofits
+Read Customer Stories
+Enterprise add-ons to fit your needs
+Enterprise MFA
+In addition to Pro MFA features, Enterprise MFA allows for one-time codes delivered via SMS/Email, WebAuthn and push notifications to the Auth0 Guardian app or your white-label app using our SDK.
+Read the docs
+Attack Protection
+Keep your users and services safe from password leaks, intruders, and scripted attacks from bots. Protect and notify your users when credentials are leaked or during an attempted account takeover.
+Read the docs
+Private Cloud
+A low-friction, dedicated Auth0 deployment model for enhanced performance, security, and compliance over our standard public cloud offering.
+Read the docs
+Adaptive MFA
+Protect against malicious attacks with minimal impact to your users. Adaptive MFA is designed to only be triggered when a login is suspected to be risky via different risk profiles.
+Read the docs
+Machine to Machine Tokens
+Easily facilitate secure communication between your API and both non interactive external clients as well as internal APIs with the flip of a switch and standard based protocols. M2M add-ons are also available on Professional self-service plans!
+Read the docs
+HIPAA BAA & PCI
+Auth0 can provide compliance for several standards including HIPAA via a Business Associate Agreement and PCI compliant environments.
+Read the docs
+Special plans for special organizations
+Startups
+Congrats on building something extraordinary. Let us make your customer login experience awesome so you can focus on everything else. Did we mention our startup program is free for a year?
+Auth0 for Startups
+Non-Profits
+Our mission is to support your mission. Reduce security and compliance risks, improve your donor and volunteer experience, and enhance your technology investments - all with a simple login box.
+Auth0 for Nonprofits
+Compare plans
+What is your use case?
+B2C
+B2B
+Free
+Start building →
+Essentials
+Get started with Free plan
+Professional
+Get started with Free plan
+Enterprise
+Contact us →
+Authentication
+External Active Users
+Up to 7,500
+Custom Tiers Available
+Machine to Machine Authentication
+1,000
+5,000
+M2M Add-on
+No
+Yes
+Social Connections
+2
+Unlimited
+Passkeys
+Custom Social Connections
+Auth0 Database Connection
+External Database
+Cross APP SSO
+Enterprise Connections
+Custom Tiers Available
+Okta Connections
+Unlimited
+Organizations
+Custom Tiers Available
+Home Realm Discovery
+Long Lived Sessions
+Branding
+Configurable Login Experience
+Custom Domains
+Email Workflow
+Customize Signup & Login
+Extensibility
+Actions
+3
+5
+10
+Unlimited
+Action Libraries
+Marketplace
+Security & Compliance
+Brute Force Protection
+Suspicious IP Throttling
+Enhanced Password Protection
+Basic Breached Password Detection
+Credential Guard
+Add-on
+Bot Detection
+Add-on
+Passwordless
+Number of MFA Factors Enrolled
+0
+1
+2 + Add-on
+Pro MFA Factors
+Enterprise MFA Factors
+Add-on
+Adaptive MFA
+Add-on
+Compliance Certifications
+HIPAA/BAA
+Add-on
+User Management
+User Import
+Custom Attributes
+Role Management
+Account Linking
+Platform
+Number of Production Tenants
+0
+1
+2
+Unlimited
+Number of Development/Staging Tenants
+1
+2
+4
+Unlimited
+Number of Admin/Contributors
+3
+7
+Unlimited
+Admin Access Controls
+Admin
+Admin and Viewer
+Admin, Viewer and Editor
+Auth0 Dashboard SSO
+Log Retention
+1 Day
+2 Days
+10 Days
+30 Days
+Log Streaming
+1 Log Stream
+2 Log Streams
+Private Deployment
+Add-on
+SLA
+99.99%
+Community Support
+Standard Support
+Premier Support
+Premier Success Options
+Frequently asked questions
+Can't find the question you’re looking for? Post on our community forum
+to receive help from our developer support team and the community.
+For enterprise question, you can contact an expert
+.
+Why should I trust Auth0 with my users?
+Security is our utmost priority. For starters, we follow security best practices for storing user credentials: they are never stored in plain text, and all passwords are hashed and salted using the bcrypt
+algorithm, a state-of-the-art algorithm designed to prevent brute-force attacks even in case of a breach. Furthermore, our implementation of TLS has received an “A+” score in Qualsys’ SSL Labs SSL Server test
+We also implement proactive security measures for your projects such as password breach detection, using a huge database of leaked passwords, and brute-force attack detection. Automated rate-limiting checks and denial of service mitigation procedures are also in place. You can learn more about security at Auth0 at our security page
+.
+What happens if I stop using Auth0? How do I know my user's data is safe?
+Your data is safe as long as it’s stored in our servers. If you choose to stop using Auth0, exporting your data is a simple matter. Head over to the Auth0 Dashboard and go to the extensions page. Select “User Import/Export” and proceed to enable the extension. If you need help using the extension, check our docs
+If you feel the export extension does not fill your needs, the Auth0 management API
+lets you fully inspect all the data from your account. With it, you can export all data to any format.
+If I surpass the 7,500 users Free Plan do I need to select a Paid Plan with a higher MAU Quota?
+Yes, if you pass the 7,500 users mark, you need to select an applicable paid Plan and select the right amount of users for your use case. Paid plans let you pick a custom number of users, from 1,000 up to 100,000 or more. Several plans are available to best suit the needs of different use cases in addition to providing access to a greater amount of features that increases what you can do with Auth0.
+What are the different deployment models?
+Auth0 can run as a third-party service on the Auth0 public cloud or in an isolated private deployment. In particular, Auth0 supports four different types of deployments
+:
+Public Cloud: multi-tenant (shared-instance)
+Private Cloud Basic: Dedicated option that builds on Public Cloud performance and management that addresses specific data residency needs
+Private Cloud Performance: Includes all Private Cloud Basic capabilities and increases requests per second (RPS) to 500, and includes options for upgrade control, load testing, and a GEO-HA add-on.
+Private Cloud Performance Plus: Includes all Private Cloud Performance capabilities and increases RPS to 1,500
+What's Auth0's uptime and status?
+Auth0 systems have over 99.99% monthly uptime figures for most regions. You can check the current and past status and uptime figures at the status
+and uptime
+pages.
+How long does my trial last?
+The trial period lasts 22 days. After that, the Starter Plan gets activated automatically. If you wish to continue using some of the features from our paid plans, please choose one from above.
+Do you have any special offer for Startups?
+Yes, Auth0 and our network of partners want to see you succeed! We provide a special plan for Startups that includes 100K monthly external active users, Enterprise Identity Providers, Pro MFA & Password Protection and SSO for Auth0 Dashboard free for a whole year. You can also apply for $5,000 in AWS credits. Check the requirements and apply here
+!
+How do I get Special Pricing and Services for Nonprofits and Charitable Organizations?
+We are committed to Secure Access For Everyone and making the world a SAFEr place. With our Social Impact Program
+we want to make sure your technology is running alongside your ambitions from day one. All paid plans are eligible for a Social Impact discount. Request the Nonprofit and Social Good Benefits and Pricing Sheet here
+which includes the Criteria and Validation Steps.
+Not sure which plan is right for you?
+Talk to an expert

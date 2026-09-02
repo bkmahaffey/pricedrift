@@ -1,0 +1,579 @@
+[
+  {
+    "id": "kit-com-pricing-20241209110721",
+    "url": "https://kit.com/pricing",
+    "ts": "20241209110721",
+    "date": "2024-12-09",
+    "source": "wayback",
+    "prevTs": "20241002011146",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Kit: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "kit-com-pricing-20250303111859",
+    "url": "https://kit.com/pricing",
+    "ts": "20250303111859",
+    "date": "2025-03-03",
+    "source": "wayback",
+    "prevTs": "20241209110721",
+    "kind": "price",
+    "score": 28,
+    "counts": {
+      "price": 8,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Kit: 8 prices, 2 limits changed ($108 → $290; 300 → 1,000)",
+    "pairs": [
+      {
+        "before": "$ 108 billed yearly (Save $ 30 per year)",
+        "after": "$ 290 billed yearly (Save $ 58 per year)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$108",
+            "after": "$290"
+          },
+          {
+            "before": "$30",
+            "after": "$58"
+          }
+        ]
+      },
+      {
+        "before": "Up to 300 subscribers",
+        "after": "Up to 1,000 subscribers",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "300",
+            "after": "1,000"
+          }
+        ]
+      },
+      {
+        "before": "$ 290 billed yearly (Save $ 58 per year)",
+        "after": "$ 590 billed yearly (Save $ 118 per year)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$290",
+            "after": "$590"
+          },
+          {
+            "before": "$58",
+            "after": "$118"
+          }
+        ]
+      },
+      {
+        "before": "Up to 300 subscribers",
+        "after": "Up to 1,000 subscribers",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "300",
+            "after": "1,000"
+          }
+        ]
+      },
+      {
+        "before": "$ 9 per month /mo $ 108 billed yearly",
+        "after": "$ 25 per month /mo $ 290 billed yearly",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$9",
+            "after": "$25"
+          },
+          {
+            "before": "$108",
+            "after": "$290"
+          }
+        ]
+      },
+      {
+        "before": "$ 25 per month /mo $ 290 billed yearly",
+        "after": "$ 50 per month /mo $ 590 billed yearly",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$25",
+            "after": "$50"
+          },
+          {
+            "before": "$290",
+            "after": "$590"
+          }
+        ]
+      },
+      {
+        "before": "$ 9 per month /mo $ 108 billed yearly",
+        "after": "$ 25 per month /mo $ 290 billed yearly",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$9",
+            "after": "$25"
+          },
+          {
+            "before": "$108",
+            "after": "$290"
+          }
+        ]
+      },
+      {
+        "before": "$ 25 per month /mo $ 290 billed yearly",
+        "after": "$ 50 per month /mo $ 590 billed yearly",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$25",
+            "after": "$50"
+          },
+          {
+            "before": "$290",
+            "after": "$590"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 50 /mo"
+    ],
+    "removed": [
+      "$ 9 /mo"
+    ],
+    "totals": {
+      "removed": 18,
+      "added": 19,
+      "materialRemoved": 10,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "kit-com-pricing-20250407110820",
+    "url": "https://kit.com/pricing",
+    "ts": "20250407110820",
+    "date": "2025-04-07",
+    "source": "wayback",
+    "prevTs": "20250303111859",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Kit: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "kit-com-pricing-20250908200747",
+    "url": "https://kit.com/pricing",
+    "ts": "20250908200747",
+    "date": "2025-09-08",
+    "source": "wayback",
+    "prevTs": "20250407110820",
+    "kind": "price",
+    "score": 33,
+    "counts": {
+      "price": 10,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Kit: 10 prices, 2 limits changed ($290 → $390; $590 → $790)",
+    "pairs": [
+      {
+        "before": "$ 290 billed yearly (Save $ 58 per year)",
+        "after": "$ 390 billed yearly (Save $ 78 per year)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$290",
+            "after": "$390"
+          },
+          {
+            "before": "$58",
+            "after": "$78"
+          }
+        ]
+      },
+      {
+        "before": "$ 590 billed yearly (Save $ 118 per year)",
+        "after": "$ 790 billed yearly (Save $ 158 per year)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$590",
+            "after": "$790"
+          },
+          {
+            "before": "$118",
+            "after": "$158"
+          }
+        ]
+      },
+      {
+        "before": "$ 25 per month /mo $ 290 billed yearly",
+        "after": "$ 33 per month /mo $ 390 billed yearly",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$25",
+            "after": "$33"
+          },
+          {
+            "before": "$290",
+            "after": "$390"
+          }
+        ]
+      },
+      {
+        "before": "$ 50 per month /mo $ 590 billed yearly",
+        "after": "$ 66 per month /mo $ 790 billed yearly",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$50",
+            "after": "$66"
+          },
+          {
+            "before": "$590",
+            "after": "$790"
+          }
+        ]
+      },
+      {
+        "before": "$ 25 per month /mo $ 290 billed yearly",
+        "after": "$ 33 per month /mo $ 390 billed yearly",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$25",
+            "after": "$33"
+          },
+          {
+            "before": "$290",
+            "after": "$390"
+          }
+        ]
+      },
+      {
+        "before": "$ 50 per month /mo $ 590 billed yearly",
+        "after": "$ 66 per month /mo $ 790 billed yearly",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$50",
+            "after": "$66"
+          },
+          {
+            "before": "$590",
+            "after": "$790"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "No credit card required Free migrations 30-day money back guarantee",
+      "$ 33 /mo",
+      "24/7 email & chat support",
+      "$ 66 /mo",
+      "14-day free trial No credit card required Free migrations 30-day money back guarantee",
+      "\" Adding Kit landing pages…helped us add 100k subscribers. \"",
+      "24/7 email & chat support"
+    ],
+    "removed": [
+      "$ 25 /mo",
+      "$ 50 /mo"
+    ],
+    "totals": {
+      "removed": 27,
+      "added": 34,
+      "materialRemoved": 9,
+      "materialAdded": 14
+    }
+  },
+  {
+    "id": "kit-com-pricing-20251113021836",
+    "url": "https://kit.com/pricing",
+    "ts": "20251113021836",
+    "date": "2025-11-13",
+    "source": "wayback",
+    "prevTs": "20250908200747",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Kit: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 7,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "kit-com-pricing-20260207132505",
+    "url": "https://kit.com/pricing",
+    "ts": "20260207132505",
+    "date": "2026-02-07",
+    "source": "wayback",
+    "prevTs": "20251113021836",
+    "kind": "price",
+    "score": 32,
+    "counts": {
+      "price": 3,
+      "limit": 7,
+      "plan": 5
+    },
+    "material": true,
+    "headline": "Kit: 3 prices, 7 limits, 5 plan names changed (removed “1 email Sequence”; added “Vegan cookbook author, YouTuber with 1M+ subs…”)",
+    "pairs": [],
+    "added": [
+      "Unlimited users",
+      "Vegan cookbook author, YouTuber with 1M+ subscribers",
+      "Entrepreneur, investor, and newsletter writer with 800K+ subscribers",
+      "Entrepreneur and digital marketing expert with 35M+ views on YouTube",
+      "Vegan cookbook author, YouTuber with 1M+ subscribers",
+      "Entrepreneur, investor, and newsletter writer with 800K+ subscribers",
+      "Entrepreneur and digital marketing expert with 35M+ views on YouTube",
+      "Vegan cookbook author, YouTuber with 1M+ subscribers",
+      "Entrepreneur, investor, and newsletter writer with 800K+ subscribers",
+      "Entrepreneur and digital marketing expert with 35M+ views on YouTube",
+      "Start free trial",
+      "Request free migration"
+    ],
+    "removed": [
+      "1 email Sequence",
+      "1 user",
+      "Unlimited opt-in forms",
+      "Free Recommendations (Required)",
+      "2 users",
+      "Free Recommendations",
+      "Unlimited Visual Automations",
+      "Unlimited email Sequences",
+      "Unlimited users",
+      "\" Adding Kit landing pages…helped us add 100k subscribers. \"",
+      "$0 per month /mo No cost. No catch.",
+      "Sign up free",
+      "$ 33 per month /mo $ 390 billed yearly",
+      "14-day free trial",
+      "$ 66 per month /mo $ 790 billed yearly",
+      "14-day free trial"
+    ],
+    "totals": {
+      "removed": 54,
+      "added": 218,
+      "materialRemoved": 22,
+      "materialAdded": 18
+    }
+  },
+  {
+    "id": "kit-com-pricing-20260407012539",
+    "url": "https://kit.com/pricing",
+    "ts": "20260407012539",
+    "date": "2026-04-07",
+    "source": "wayback",
+    "prevTs": "20260207132505",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Kit: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "24/7 email & chat support"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 6,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "kit-com-pricing-20260517171641",
+    "url": "https://kit.com/pricing",
+    "ts": "20260517171641",
+    "date": "2026-05-17",
+    "source": "wayback",
+    "prevTs": "20260407012539",
+    "kind": "limits",
+    "score": 11,
+    "counts": {
+      "price": 0,
+      "limit": 4,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Kit: 4 limits, 2 plan names changed (2 removed)",
+    "pairs": [
+      {
+        "before": "Pay yearly (2 months free) Yearly (2 months free)",
+        "after": "Pay yearly—2 months free",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free—limited automations",
+      "Try Kit for free",
+      "Pay yearly—2 months free",
+      "No credit card required. Cancel anytime.",
+      "Pay yearly—2 months free",
+      "For 1,000 email subscribers",
+      "No credit card required. Cancel anytime."
+    ],
+    "removed": [
+      "500K +",
+      "Up to 10,000 subscribers",
+      "Sign up free",
+      "14-day free trial No credit card required Free migrations"
+    ],
+    "totals": {
+      "removed": 27,
+      "added": 22,
+      "materialRemoved": 10,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "kit-com-pricing-20260711104112",
+    "url": "https://kit.com/pricing",
+    "ts": "20260711104112",
+    "date": "2026-07-11",
+    "source": "wayback",
+    "prevTs": "20260517171641",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Kit: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Start 14-day free trial",
+      "Start 14-day free trial"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 26,
+      "materialRemoved": 2,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "kit-com-pricing-20260803071040",
+    "url": "https://kit.com/pricing",
+    "ts": "20260803071040",
+    "date": "2026-08-03",
+    "source": "wayback",
+    "prevTs": "20260711104112",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Kit: 2 limits changed (removed “Pay yearly—2 months free”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Pay yearly—2 months free",
+      "Pay yearly—2 months free",
+      "Pay yearly—2 months free"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 3,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "kit-com-pricing-20260902202107",
+    "url": "https://kit.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260803071040",
+    "kind": "plans",
+    "score": 5,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Kit: 1 limit, 2 plan names changed (added “Free—up to 10,000 subscribers”)",
+    "pairs": [],
+    "added": [
+      "Free For creators just starting out",
+      "Free—up to 10,000 subscribers",
+      "Everything in Free, plus:",
+      "Free"
+    ],
+    "removed": [
+      "Free—limited automations"
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 6,
+      "materialRemoved": 1,
+      "materialAdded": 4
+    },
+    "transition": true
+  }
+]

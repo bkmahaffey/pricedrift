@@ -1,0 +1,267 @@
+Switch to
+ChatGPT (opens in a new window)
+Sora (opens in a new window)
+API Platform (opens in a new window)
+OpenAI API Pricing
+Contact sales
+Flagship models
+Our frontier models designed to spend more time thinking before producing a response, making them ideal for complex, multi-step problems.
+GPT-5
+The best model for coding and agentic tasks across industries
+Price
+Input:
+$1.250 / 1M tokens
+Cached input:
+$0.125 / 1M tokens
+Output:
+$10.000 / 1M tokens
+GPT-5 mini
+A faster, cheaper version of GPT-5 for well-defined tasks
+Price
+Input:
+$0.250 / 1M tokens
+Cached input:
+$0.025 / 1M tokens
+Output:
+$2.000 / 1M tokens
+GPT-5 nano
+The fastest, cheapest version of GPT-5—great for summarization and classification tasks
+Price
+Input:
+$0.050 / 1M tokens
+Cached input:
+$0.005 / 1M tokens
+Output:
+$0.400 / 1M tokens
+Pricing reflects standard processing rates. To optimize cost and performance for different use cases, we also offer:
+Batch API⁠ ⁠ (opens in a new window)
+Save 50% on inputs and outputs with the Batch API and run tasks asynchronously over 24 hours.
+Priority processing ⁠ ⁠
+offers reliable, high-speed performance with the flexibility to pay-as-you-go.
+Fine-tuning our models
+Customize our models to get even higher performance for your specific use cases.
+GPT-4.1
+Fine-tuning price
+Input:
+$3.00 / 1M tokens
+Cached input:
+$0.75 / 1M tokens
+Output:
+$12.00 / 1M tokens
+Training:
+$25.00 / 1M tokens
+GPT-4.1 mini
+Fine-tuning price
+Input:
+$0.80 / 1M tokens
+Cached input:
+$0.20 / 1M tokens
+Output:
+$3.20 / 1M tokens
+Training:
+$5.00 / 1M tokens
+GPT-4.1 nano
+Fine-tuning price
+Input:
+$0.20 / 1M tokens
+Cached input:
+$0.05 / 1M tokens
+Output:
+$0.80 / 1M tokens
+Training:
+$1.50 / 1M tokens
+o4-mini
+Reinforcement fine-tuning price
+Input:
+$4.00 / 1M tokens
+Cached input:
+$1.00 / 1M tokens
+Output:
+$16.00 / 1M tokens
+Training:
+$100.00 / training hour
+Explore detailed pricing (opens in a new window)
+Our APIs
+Realtime API
+Build low-latency, multimodal experiences including speech-to-speech.
+Text
+gpt-realtime
+$4.00 / 1M input tokens
+$0.40 / 1M cached input tokens
+$16.00 / 1M output tokens
+gpt-realtime
+$4.00 / 1M input tokens
+$0.40 / 1M cached input tokens
+$16.00 / 1M output tokens
+GPT-4o mini
+$0.60 / 1M input tokens
+$0.30 / 1M cached input tokens
+$2.40 / 1M output tokens
+GPT-4o mini
+$0.60 / 1M input tokens
+$0.30 / 1M cached input tokens
+$2.40 / 1M output tokens
+Audio
+gpt-realtime
+$32.00 / 1M input tokens
+$0.40 / 1M cached input tokens
+$64.00 / 1M output tokens
+gpt-realtime
+$32.00 / 1M input tokens
+$0.40 / 1M cached input tokens
+$64.00 / 1M output tokens
+GPT-4o mini
+$10.00 / 1M input tokens
+$0.30 / 1M cached input tokens
+$20.00 / 1M output tokens
+GPT-4o mini
+$10.00 / 1M input tokens
+$0.30 / 1M cached input tokens
+$20.00 / 1M output tokens
+Image
+gpt-realtime
+$5.00 / 1M input tokens
+$0.50 / 1M cached input tokens
+-
+gpt-realtime
+$5.00 / 1M input tokens
+$0.50 / 1M cached input tokens
+-
+Image Generation API
+Precise, high-fidelity image generation and editing with our latest multimodal model.
+Text
+GPT-image-1
+$5.00 / 1M input tokens
+$1.25 / 1M cached input tokens *
+-
+GPT-image-1
+$5.00 / 1M input tokens
+$1.25 / 1M cached input tokens *
+-
+Image
+GPT-image-1
+$10.00 / 1M input tokens
+$2.50 / 1M cached input tokens *
+$40.00 / 1M output tokens
+GPT-image-1
+$10.00 / 1M input tokens
+$2.50 / 1M cached input tokens *
+$40.00 / 1M output tokens
+Prompts are billed similarly to other GPT models. Image outputs cost approximately $0.01 (low), $0.04 (medium), and $0.17 (high) for square images. *available via the Responses API
+For detailed token usage by image quality and size, see the docs
+.
+Responses API
+Our newest API combining the simplicity of Chat Completions with the built-in tool use of Assistants.
+Price
+Responses API is not priced separately. Tokens are billed at the chosen language model’s input and output rates.
+Chat Completions API
+Build text-based conversational experiences.
+Price
+Chat Completions API is not priced separately. Tokens are billed at the chosen language model's input and output rates.
+Assistants API
+Build assistant-like experiences with our tools.
+Price
+Assistants API is not priced separately. Tokens are billed at the chosen language model's input and output rates.
+Built-in tools
+Extend model capabilities with built-in tools in the API Platform.
+Price
+Tool
+Cost
+Code Interpreter
+$0.03 / session
+File Search Storage
+$0.10 / GB of vector storage per day (first GB free)
+File Search Tool Call
+(Responses API only)
+$2.50 / 1k tool calls
+Web Search Tool Call
+The tokens used for built-in tools are billed at the chosen model's per-token rates.
+Web search content tokens: Search content tokens are tokens retrieved from the search index and fed to the model alongside your prompt to generate an answer. For gpt-4o and gpt-4.1 models with web search preview, search content tokens are free. For all other models and tools, they are billed at the model’s standard rate. For gpt-4o-mini and gpt-4.1-mini with web search, they are charged as a fixed block of 8,000 input tokens.
+Models
+Cost
+Web search preview (gpt-4o, gpt-4.1, gpt-4o-mini, gpt-4.1-mini)
+$25.00 / 1K calls
+Web search preview (gpt-5, o-series)
+$10.00 / 1K calls
+Web search (all models)
+$10.00 / 1K calls
+The billing dashboard will report gpt-4.1 and gpt-4.1-mini search line items as ‘web search tool calls | gpt-4o’ and ‘web search tool calls | gpt-4o-mini’
+GB refers to binary gigabytes of storage (also known as gibibyte), where 1GB is 2^30 bytes.
+Explore detailed pricing (opens in a new window)
+Explore our offerings for Enterprise customers: Priority processing ⁠
+Scale Tier ⁠ ⁠
+and Reserved Capacity ⁠ ⁠
+.
+FAQ
+Which model should I use?
+We recommend that developers use our large and mini GPT models for everyday tasks. Our large GPT models generally perform better on a wide range of tasks, while our mini GPT models are fast and inexpensive for simpler tasks.
+Our large and mini reasoning models are ideal for complex, multi-step tasks and STEM use cases that require deep thinking about tough problems. You can choose the mini reasoning model if you're looking for a faster, more inexpensive option.
+We recommend experimenting with all of these models in the Playground⁠ ⁠ (opens in a new window)
+to explore which models provide the best price performance trade-off for your usage.
+Do you offer an enterprise package or SLAs?
+We offer different tiers of access to our enterprise customers that include SLAs, lower latency, and more. Please contact our sales team ⁠
+to learn more.
+Will I be charged for API usage in the Playground?
+Yes, we treat Playground usage the same as regular API usage. You will be billed at the per-token input and output prices mentioned above.
+How will I know how many tokens I’ve used each month?
+A token is a mathematical representation of natural language. Log in to your account to view your usage tracking dashboard ⁠ (opens in a new window)
+This dashboard will show you how many tokens you’ve used during the current and past billing cycles.
+How can I manage my spending on the API platform?
+You can set a monthly budget in your billing settings⁠ ⁠ (opens in a new window)
+after which we’ll stop serving your requests. There may be a delay in enforcing the limit, and you are responsible for any overage incurred. You can also configure an email notification threshold to receive an email alert once you cross that threshold each month. We recommend checking your usage tracking dashboard ⁠ (opens in a new window)
+regularly to monitor your spend.
+For customers managing work with Projects, you can set and manage billing restrictions per project ⁠ (opens in a new window)
+⁠ in the Dashboard.
+Is access to the API included in ChatGPT Plus, Business, Enterprise or Edu?
+No, OpenAI APIs are billed separately from ChatGPT Plus, Business, Enterprise and Edu. ChatGPT subscription pricing can be found at openai.com/chatgpt/pricing/ ⁠
+.
+How is pricing calculated for images?
+Images are converted into tokens and charged per token. Text models price image tokens at standard text token rates, while GPT Image and gpt-realtime uses a separate image token rate. Models like gpt-4.1-mini, gpt-4.1-nano, and o4-mini convert images into tokens differently. Learn more in our docs ⁠ (opens in a new window)
+.
+Pricing calculator
+Set model
+gpt-5
+gpt-5-mini
+gpt-5-nano
+gpt-5-chat-latest
+gpt-4.1
+gpt-4.1-mini
+gpt-4.1-nano
+o3
+o3-deep-research
+o3-pro-2025-06-10
+o4-mini
+o4-mini-deep-research
+o1
+o1-pro
+gpt-4o
+gpt-4o-2024-05-13
+gpt-4o-mini
+computer-use-preview
+gpt-4.5-preview
+codex-mini-latest
+gpt-5-codex
+Set width
+px
+by Set height
+px
+= $0.000263
+Low resolution
+= $0.000263
+Price per 1M tokens (fixed)
+$1.25
+512 × 512 tiles
+1 × 1
+Total tiles
+1
+Base tokens
+70
+Tile tokens
+140 × 1 = 140
+Total tokens
+210
+Total price
+$0.000263
+Start creating with OpenAI’s powerful models.
+Get started (opens in a new window)
+Contact sales

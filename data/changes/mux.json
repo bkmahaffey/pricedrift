@@ -1,0 +1,321 @@
+[
+  {
+    "id": "mux-com-pricing-20230321185846",
+    "url": "https://www.mux.com/pricing",
+    "ts": "20230321185846",
+    "date": "2023-03-21",
+    "source": "wayback",
+    "prevTs": "20230123130859",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 8,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mux: 8 prices changed (removed “$ 0.04 / min”; added “$32.00 for 1K minutes”)",
+    "pairs": [],
+    "added": [
+      "$32.00 for 1K minutes",
+      "$2.40 for 1K minutes",
+      "$0.96 for 1K minutes",
+      "$4.00 for 1K participant minutes"
+    ],
+    "removed": [
+      "$ 0.04 / min",
+      "$ 0.003 / min",
+      "$ 0.0012 / min",
+      "$ 0.004 / participant min"
+    ],
+    "totals": {
+      "removed": 16,
+      "added": 26,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "mux-com-pricing-20260204140809",
+    "url": "https://www.mux.com/pricing",
+    "ts": "20260204140809",
+    "date": "2026-02-04",
+    "source": "wayback",
+    "prevTs": "20230321185846",
+    "kind": "price",
+    "score": 73,
+    "counts": {
+      "price": 19,
+      "limit": 7,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Mux: 19 prices, 7 limits, 1 plan name changed (removed “No credit card to start. $20 in free credits …”; added “100K free monthly delivery minutes”)",
+    "pairs": [],
+    "added": [
+      "Kick off your video project. No credit card required to get started.",
+      "100K free monthly delivery minutes",
+      "Up to 10 videos stored",
+      "Start for free Start for free",
+      "100K minutes delivered before credits",
+      "Launch: $20/mo for $100 in credit Popular",
+      "Scale: $500/mo for $1,000 in credit",
+      "Plans include 100K delivery minutes free every month. After the credits are used, usage-based billing applies.",
+      "More security and support options. Additional discounts over $3k/month.",
+      "More security and support options. Steeper discounts over $3k/month.",
+      "What can you get with $100 credit?",
+      "With $100, you could...",
+      "Store those 100 videos for the full month",
+      "Stream 182k minutes to your visitors",
+      "With $100, you could…",
+      "Store those 100 videos for the full month",
+      "Stream 182k minutes to your visitors",
+      "We’d love to work with you to get you transitioned to better video infrastructure. Let’s talk about your free migration options.",
+      "Free",
+      "$0.0024",
+      "Audio-only starting at $0.00024 per minute",
+      "100K minutes free",
+      "then $0.0008 per min @ 720p",
+      "Audio-only starting at $ 0.00008 per minute",
+      "$0.00",
+      "Create Free Account Create Free Account",
+      "Delivery cost is calculated across available resolutions to simulate typical delivery patterns. For example, 1080p video is split evenly between 720p and 1080p, while 4K is split across all four resolutions.",
+      "with up to 60% savings, and are automatically moved back after 30 days of inactivity. You don’t have to think about it — we make smart decisions for you that keep your costs low, especially at scale.",
+      "$200 / month",
+      "$0.020 / minute / simulcast target",
+      "No credit card required to start using Mux.",
+      "Start building for free Start building for free"
+    ],
+    "removed": [
+      "No credit card to start. $20 in free credits when you're ready.",
+      "$32.00 for 1K minutes",
+      "$2.40 for 1K minutes",
+      "$0.96 for 1K minutes",
+      "$4.00 for 1K participant minutes",
+      "500 videos * 4 minutes = 2,000 total min",
+      "500 videos * 4 minutes = 2,000 total min",
+      "24,000 views * 4 minutes * 50 % delivered = 48,000 min",
+      "Is there a Free plan? +"
+    ],
+    "totals": {
+      "removed": 199,
+      "added": 156,
+      "materialRemoved": 10,
+      "materialAdded": 33
+    }
+  },
+  {
+    "id": "mux-com-pricing-20260509012035",
+    "url": "https://www.mux.com/pricing",
+    "ts": "20260509012035",
+    "date": "2026-05-09",
+    "source": "wayback",
+    "prevTs": "20260204140809",
+    "kind": "price",
+    "score": 68,
+    "counts": {
+      "price": 17,
+      "limit": 4,
+      "plan": 5
+    },
+    "material": true,
+    "headline": "Mux: 17 prices, 4 limits, 5 plan names changed (removed “Audio-only starting at $0.00024 per minute”; added “100k free minutes / month then starting at $0…”)",
+    "pairs": [],
+    "added": [
+      "Starting at Free",
+      "100k free minutes / month then starting at $0.0008",
+      "Free",
+      "Free",
+      "6k free minutes / month then $0.0024",
+      "Free",
+      "$100/month + $0.003/play",
+      "starting at $0.00075",
+      "$100/month",
+      "2K, 1440p",
+      "4K, 2160p",
+      "2K, 1440p",
+      "4K, 2160p",
+      "Free",
+      "$0.0024",
+      "$0.003",
+      "$0.0048",
+      "$0.0096",
+      "$0.001",
+      "$0.0016",
+      "$0.0032",
+      "Mux intelligently analyzes video content and automatically applies the right bitrate for efficient streaming. Supports on-demand video only, up to 4K.",
+      "Smart bitrate selection with increased bitrates for higher visual quality. Supports live video up to 1080p, on-demand video up to 4K.",
+      "Input starting at $0.025/min for 720p",
+      "Smart bitrate selection targeting the highest possible visual quality. Supports live video up to 1080p, on-demand video up to 4K.",
+      "Input starting at $0.0384/min for 720p",
+      "AI-generated captions for on-demand videos are available for free in 22 different languages. You can translate captions into 50+ languages using Mux Robots."
+    ],
+    "removed": [
+      "Audio-only starting at $0.00024 per minute",
+      "Audio-only starting at $ 0.00008 per minute",
+      "$200 / month"
+    ],
+    "totals": {
+      "removed": 38,
+      "added": 100,
+      "materialRemoved": 8,
+      "materialAdded": 32
+    }
+  },
+  {
+    "id": "mux-com-pricing-20260609020351",
+    "url": "https://www.mux.com/pricing",
+    "ts": "20260609020351",
+    "date": "2026-06-09",
+    "source": "wayback",
+    "prevTs": "20260509012035",
+    "kind": "price",
+    "score": 25,
+    "counts": {
+      "price": 6,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mux: 6 prices, 4 limits changed (182k → 168k; 182k → 168k)",
+    "pairs": [
+      {
+        "before": "Stream 182k minutes to your visitors",
+        "after": "Stream 168k minutes to your visitors",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "182k",
+            "after": "168k"
+          }
+        ]
+      },
+      {
+        "before": "Stream 182k minutes to your visitors",
+        "after": "Stream 168k minutes to your visitors",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "182k",
+            "after": "168k"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Run AI-powered workflows on all 100 videos",
+      "Run AI-powered workflows on all 100 videos",
+      "$0.005 / min + $0.001 / job",
+      "$0.0003 / min + $0.005 / job",
+      "$0.0005 / min + $0.003 / job",
+      "$0.004 / min + $0.02 / job",
+      "$0.0005 / min + $0.002 / job + $0.002 / question",
+      "$0.001 / sample",
+      "Mux Robots has many variables you can set for your usage. For our calculations we're using the full input minutes and estimated asset count to simulate cost across your full library. We're using 3 questions, 10 sec sampling intervals, and 1 language, where needed."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 17,
+      "added": 29,
+      "materialRemoved": 5,
+      "materialAdded": 14
+    }
+  },
+  {
+    "id": "mux-com-pricing-20260711135446",
+    "url": "https://www.mux.com/pricing",
+    "ts": "20260711135446",
+    "date": "2026-07-11",
+    "source": "wayback",
+    "prevTs": "20260609020351",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mux: 2 prices changed (added “$0.005 / job + $0.0003 / min for profanity fi…”)",
+    "pairs": [],
+    "added": [
+      "$0.005 / job + $0.0003 / min for profanity filter",
+      "$0.001"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "mux-com-pricing-20260802182324",
+    "url": "https://www.mux.com/pricing",
+    "ts": "20260802182324",
+    "date": "2026-08-02",
+    "source": "wayback",
+    "prevTs": "20260711135446",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Mux: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "mux-com-pricing-20260902202107",
+    "url": "https://www.mux.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260802182324",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mux: 2 limits changed (100k added)",
+    "pairs": [
+      {
+        "before": "Plans include 100K delivery minutes. After the credits are used, usage-based billing applies.",
+        "after": "Plans include 100K delivery minutes and 100k Mux Robots units monthly. After the credits are used, usage-based billing applies.",
+        "confidence": 0.72,
+        "deltas": [
+          {
+            "before": null,
+            "after": "100k"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "100K free monthly Mux Robots units",
+      "100K free monthly Mux Robots units"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 3,
+      "materialRemoved": 1,
+      "materialAdded": 3
+    },
+    "transition": true
+  }
+]

@@ -1,0 +1,246 @@
+Pricing: Fine-tune your speed and cost drivers
+We make it easy to orchestrate any workflow on your own compute.
+Free
+$ 0
+Test-drive the CI platform used by the world’s favorite tech companies
+Get started now
+No credit card required
+Try all orchestration features with:
+Job minutes for getting started
+5,000 / month
+Test executions for getting started
+100,000 / month
+Integrate with any compute
+Unlimited concurrency
+Unlimited parallelism
+General email support
+30 day free trial Pro
+$ 20 USD, per user / month
+For teams and businesses that need high quality CI without compromise
+Get started now
+No credit card required
+Full features from Free plan, plus:
+Job minutes for production
+40,000 / month + 12,500 per user
+Test executions for production
+500,000 / month
+Teams management
+SSO
+Waterfall view
+Priority email support
+Enterprise
+Custom
+Build your perfect plan with everything you need to orchestrate workloads at scale
+Contact us
+Flexible billing & payment options available
+Everything in Pro plan, plus:
+Job minutes for scale
+Volume pricing available
+Test executions for scale
+Volume pricing available
+Advanced governance & control
+Custom SCIM, SAML, ADFS
+User & API activity audit logs
+Build exports
+SLA available
+Add-on Premium support
+available
+Additional usage $0.002 / minute
+Plan comparison
+Pricing for user
+Free
+$ 0
+Get started now
+Pro
+$ 20 USD, per user / month
+Get started now
+Enterprise
+Custom Build your perfect plan
+Contact us
+CI overview
+Concurrency
+Unlimited
+Self-hosted agents give you full control to parallelize your CI tasks at any scale.
+Job minutes
+5,000
+40,000 + 12,500 per user
+Additional usage $0.002 / minute
+Sized to your workloads Volume discounting available
+Number of minutes running commands on your agents across your entire organization.
+Test executions
+100,000
+500,000
+Sized to your test suite Volume discounting available
+Number of test executions sent to Test Analytics across your entire organization. Contact sales for more test execution inclusions.
+Waterfall view
+– ✓ ✓
+See a timeline of your build in a Gantt chart, broken down by job with metrics like duration and dispatch time.
+Pause queues
+– ✓ ✓
+Get more control over when queues dispatch jobs to agents—for example, pausing dispatch for an incident or infrastructure upgrade.
+Job retries report
+– ✓ ✓
+Analyze job retries to understand flakiness and instability across your pipelines.
+GitHub Enterprise support
+– ✓ ✓
+Connect to an on-premise GitHub Enterprise instance.
+Bitbucket Server support
+– ✓ ✓
+Connect to an on-premise Bitbucket Server instance.
+Historical build exports
+– – ✓
+Automatically export historical builds that are older than a year into your own S3 or GCS bucket in JSON format.
+Pipeline templates
+– – ✓
+Define standard pipeline step configurations to use across your organization.
+Team management
+User limit
+Unlimited
+Unique people triggering builds, using the API, or viewing the web interface.
+Teams permissions
+– ✓ ✓
+Manage permissions across multiple teams.
+Member permissions
+– – ✓
+Manage default member permissions, such as disabling pipeline creation.
+System banners
+– – ✓
+Communicate important messages and alerts to your entire organization, as you need.
+Security & audit
+Signed pipelines
+✓ ✓ ✓
+Prevent unauthorized pipeline modifications by signing step definitions and verifying signatures before running jobs.
+Single sign on
+– ✓ ✓
+Connect an SSO provider to simplify and protect access to your organization’s data.
+SCIM, custom SAML & ADFS
+– – ✓
+SCIM support for automatic user management, and advanced SSO providers.
+Private log storage
+– – ✓
+Store your job logs in a private S3 bucket.
+Audit logging
+– – ✓
+Track all activity within your organization.
+API access audit
+– – ✓
+Inspect your users’ API tokens, and see how those tokens are being used.
+User activity audit
+– – ✓
+See all recent activities of the users within your organization.
+API token expiry policies
+– – ✓
+Prevent potential security risks created by unused API tokens.
+Session IP address pinning
+– – ✓
+Prompt your users to re-authorize when their origin changes.
+Support & billing
+Priority email support
+– ✓ ✓
+Priority status for all email support requests.
+Invoice payment
+– – ✓
+Pay annually or via invoice.
+Consolidated billing
+– – ✓
+Consolidated billing & invoicing across multiple accounts.
+Plan comparison
+Pro
+Free
+Pro
+Enterprise
+$ 20 USD, per user / month
+CI overview
+Concurrency
+Unlimited
+Self-hosted agents give you full control to parallelize your CI tasks at any scale.
+Job minutes
+40,000 + 12,500 per user
+Additional usage $0.002 / minute
+Number of minutes running commands on your agents across your entire organization.
+Test executions
+500,000
+Number of test executions sent to Test Analytics across your entire organization. Contact sales for more test execution inclusions.
+Waterfall view
+✓
+See a timeline of your build in a Gantt chart, broken down by job with metrics like duration and dispatch time.
+Pause queues
+✓
+Get more control over when queues dispatch jobs to agents—for example, pausing dispatch for an incident or infrastructure upgrade.
+Job retries report
+✓
+Analyze job retries to understand flakiness and instability across your pipelines.
+GitHub Enterprise support
+✓
+Connect to an on-premise GitHub Enterprise instance.
+Bitbucket Server support
+✓
+Connect to an on-premise Bitbucket Server instance.
+Team management
+User limit
+Unlimited
+Unique people triggering builds, using the API, or viewing the web interface.
+Teams permissions
+✓
+Manage permissions across multiple teams.
+Security & audit
+Signed pipelines
+✓
+Prevent unauthorized pipeline modifications by signing step definitions and verifying signatures before running jobs.
+Single sign on
+✓
+Connect an SSO provider to simplify and protect access to your organization’s data.
+Support & billing
+Priority email support
+✓
+Priority status for all email support requests.
+Looking for something else?
+Enhance your workflow with Packages for seamless artifact handling or gain sharper insights with Test Analytics to fine-tune testing strategies.
+Packages
+Simple package management for all your artifacts.
+View Packages pricing →
+Test Analytics
+Data-driven insights to improve your test suites.
+Contact us for pricing →
+Hosted agents
+Buildkite offers a managed CI/CD solution with hosted agents. Pricing depends on the machines used, either Mac
+or Linux
+.
+Open source
+Buildkite is free for open source projects. Sign up for our Free plan, if you need additional usage or inclusions, contact us
+and we’ll be happy to help.
+Non-profits & charities
+We offer heavy discounts for non-profit and charity organizations using Buildkite. Contact us
+to see how we can help you.
+Enterprise Premium Support: Prioritize your support needs
+Our enterprise plan options are available for companies that require the highest level of features and support.
+Contact us →
+Premium Support inclusions
+24/7 on-call emergencies
+Quarterly roadmap review
+99.95% Uptime SLA
+Technical Account Manager
+And more...
+Frequently Asked Questions
+What is an agent?
+A build agent runs on your infrastructure, and runs one build job at a time. You can run as many agents as you want, in the same or separate queues, and Buildkite will coordinate the work between them. Agents can be securely and reliably deployed across different networks and environments.
+How are job minutes calculated?
+Job minutes are calculated per-second, starting from when an agent starts running a command step until the step completes. They are calculated the same way regardless of the CPU or memory on the agent running the job, so you can run powerful agents at no extra cost. Each paid user includes additional job minutes for the entire organization. You can see your total daily job minutes on your organization’s Usage page.
+Will I be charged for artifact storage?
+Buildkite Pipelines
+includes free storage for small, short-lived artifacts—up to 5GB per artifact, retained for six months. Buildkite Packages
+is a paid solution for longer-lived artifacts with more advanced features to support greater scaling, security, and distribution needs.
+What happens after I sign up?
+When you sign up, you start on a 30-day trial of the Business plan. After 30 days, you’ll be automatically switched to a Free account. You can also upgrade or switch plans at any time on your billing page.
+How are test executions tracked?
+Every time a test is run within your suite, its result is recorded as a test execution for further investigation and analysis. You can see your total count for test executions on your Usage page. Test executions are tracked in the same way regardless of the time they take to complete, or any annotations, so you can include as much detail as needed.
+How much do you charge for parallelism?
+There is no extra charge for running builds in parallel, or parallelism within a build (such as parallelizing tests across 100 jobs). For example, distributing a one hour test suite into 60 one-minute-long parallel jobs costs the same as running a single one hour job.
+Will I be charged for log retention?
+Job logs are retained for 30 days on the Developer plan, and can be retained indefinitely on Enterprise plans.
+Can existing customers switch to the new plans?
+If you’d like to discuss transitioning to the new pricing plans, or have any questions at all, please email support@buildkite.com
+or talk to your Enterprise Customer Success Manager.
+Have a question?
+Contact our friendly team and get a prompt answer!
+Contact us

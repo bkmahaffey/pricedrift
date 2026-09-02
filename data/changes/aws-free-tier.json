@@ -1,0 +1,308 @@
+[
+  {
+    "id": "aws-amazon-com-free-20230205101928",
+    "url": "https://aws.amazon.com/free/",
+    "ts": "20230205101928",
+    "date": "2023-02-05",
+    "source": "wayback",
+    "prevTs": "20230101075730",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "AWS Free Tier: 1 plan name changed",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "AWS Free Tier"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 0,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "aws-amazon-com-free-20231102123638",
+    "url": "https://aws.amazon.com/free/",
+    "ts": "20231102123638",
+    "date": "2023-11-02",
+    "source": "wayback",
+    "prevTs": "20230205101928",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "AWS Free Tier: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Startups may be eligible for AWS credits. AWS Activate provides eligible startups with a host of resources, including free AWS credits to spend on AWS services, and AWS Support. Sign up for Activate Today »"
+    ],
+    "removed": [
+      "AWS Activate provides eligible startups with a host of resources, including free AWS credits to spend on AWS services, and AWS Support."
+    ],
+    "totals": {
+      "removed": 14,
+      "added": 11,
+      "materialRemoved": 7,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "aws-amazon-com-free-20231202005937",
+    "url": "https://aws.amazon.com/free/",
+    "ts": "20231202005937",
+    "date": "2023-12-02",
+    "source": "wayback",
+    "prevTs": "20231102123638",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "AWS Free Tier: 1 limit changed (removed “Q: Where can I find information on using Amaz…”; added “These free tier offers do not automatically e…”)",
+    "pairs": [],
+    "added": [
+      "These free tier offers are short term trial offers that start from the time of first usage begins. Once the trial period expires you simply pay standard, pay-as-you-go service rates (see each service page for full pricing details).",
+      "These free tier offers do not automatically expire at the end of your 12 month AWS Free Tier term, but are available to both existing and new AWS customers indefinitely."
+    ],
+    "removed": [
+      "Short-term free trial offers start from the date you activate a particular service",
+      "These free tier offers do not expire and are available to all AWS customers",
+      "Read through our FAQs learn more about the AWS Free Tier, and how to monitor your account.",
+      "Q: What is the AWS Free Tier?",
+      "Q: When does the AWS Free Tier expire?",
+      "Q: What do I need to do to qualify for the AWS Free Tier?",
+      "Q: Are there any limitations to how I use the AWS free usage tier?",
+      "AWS’s free usage tier is not limited to specific use cases. This offering provides new AWS customers with free usage tiers for certain AWS services to help you get started. If you have a new idea that you’d like to launch or if you have an existing application you want to run in the cloud",
+      "this is a great way to get started for free. Some ideas include, but are not limited to, hosting low traffic websites or blogs, social media applications, development and test projects, proof of concepts, and more. See how other customers are using AWS today in our case study section",
+      "Q: If we sign-up for Consolidated Billing, can we get the AWS Free Tier for each account?",
+      "No, customers that use Consolidated Billing to consolidate payment across multiple accounts will only have access to one Free Tier per Organization.",
+      "Q: If I don’t use all of my free usage per month will it roll over to the next month?",
+      "Q: If I go over the Free Tier limit in a given month, how much will I have to pay?",
+      "If your usage exceeds the monthly free tier limits, you simply pay standard, pay-as-you-go AWS service rates. See the AWS Pricing",
+      "Q: How do I know how much I’ve used and if I’ve gone over the free usage tiers?",
+      "Q: I’m eligible for the free usage tier, but I received a charge. Why?",
+      "The AWS Free Tier is available to new AWS accounts. The free tier applies to certain participating AWS services up to a specific maximum amount of usage each month. Applicable services and usage limits are defined at aws.amazon.com/free",
+      "When an account goes over the free tier limit, the standard AWS service rates will be billed to your credit card.",
+      "Q: Can I use the AWS Free Tier in any region?",
+      "The AWS Free Tier applies to participating services across our global regions",
+      "Q: Where can I find information on using Amazon EC2 Microsoft Windows Server Micro Instances as part of AWS Free Tier?",
+      "Please see AWS Free Tier with Windows FAQ",
+      "Q: Where can I find information on using Amazon RDS Micro Instances as part of AWS Free Tier?",
+      "Please see AWS Free Tier with Amazon RDS",
+      "Q: Does an AWS customer have access to 750 instance hours each of the Linux and Windows t2.micro instances under the AWS Free Tier?",
+      "Yes. A customer with access to the AWS Free Tier can use up to 750 instance hours each of t2.micro instances running Linux and Windows. Usage of the Linux and Windows t2.micro instances are counted independently.",
+      "Q: Does the AWS Free Tier include Amazon S3 Reduced Redundancy Storage (RRS)?",
+      "No, the AWS Free Tier does not include Amazon S3 RRS storage. The AWS Free Tier includes 5 GB of Amazon S3 standard storage, which offers the highest Amazon S3 durability.",
+      "Q: What size EC2 instances are available for free? EC2 t2.micro instances are not available in the region I want to use. Is there another option available for free?",
+      "Q: Where can I find more information on using Amazon Redshift as part of AWS Free Tier?",
+      "Please see the Amazon Redshift Free Trial"
+    ],
+    "totals": {
+      "removed": 54,
+      "added": 12,
+      "materialRemoved": 32,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "aws-amazon-com-free-20240201151412",
+    "url": "https://aws.amazon.com/free/",
+    "ts": "20240201151412",
+    "date": "2024-02-01",
+    "source": "wayback",
+    "prevTs": "20231202005937",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "AWS Free Tier: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "aws-amazon-com-free-20240303125713",
+    "url": "https://aws.amazon.com/free/",
+    "ts": "20240303125713",
+    "date": "2024-03-03",
+    "source": "wayback",
+    "prevTs": "20240201151412",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "AWS Free Tier: 1 plan name changed",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Startups may be eligible for AWS credits. AWS Activate provides eligible startups with a host of resources, including free AWS credits to spend on AWS services, and AWS Support. Sign up for Activate Today »",
+      "AWS Free Tier",
+      "Gain free, hands-on experience with the AWS products and services",
+      "Learn more about AWS Free Tier",
+      "Create a Free Account",
+      "AWS Activate provides eligible startups with a host of resources, including free AWS credits to spend on AWS services, and AWS Support."
+    ],
+    "totals": {
+      "removed": 8,
+      "added": 4,
+      "materialRemoved": 6,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "aws-amazon-com-free-20240402091339",
+    "url": "https://aws.amazon.com/free/",
+    "ts": "20240402091339",
+    "date": "2024-04-02",
+    "source": "wayback",
+    "prevTs": "20240303125713",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "AWS Free Tier: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "AWS Free Tier",
+      "Gain free, hands-on experience with the AWS products and services",
+      "Learn more about AWS Free Tier",
+      "Create a Free Account"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "aws-amazon-com-free-20240503003959",
+    "url": "https://aws.amazon.com/free/",
+    "ts": "20240503003959",
+    "date": "2024-05-03",
+    "source": "wayback",
+    "prevTs": "20240402091339",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "AWS Free Tier: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "aws-amazon-com-free-20260902202107",
+    "url": "https://aws.amazon.com/free/",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20240503003959",
+    "kind": "price",
+    "score": 38,
+    "counts": {
+      "price": 5,
+      "limit": 3,
+      "plan": 9
+    },
+    "material": true,
+    "headline": "AWS Free Tier: 5 prices, 3 limits, 9 plan names changed (removed “More than 100 AWS products are available on A…”; added “Get started for free with up to $200 in credits”)",
+    "pairs": [],
+    "added": [
+      "Free Tier Categories",
+      "Get started for free with up to $200 in credits",
+      "Get up to $200 in credits for new customers",
+      "Choose the plan that fits your needs — free plan to get started, paid plan to scale.",
+      "Free plan",
+      "Receive up to $200 USD free credits",
+      "Free usage of select services",
+      "Free plan",
+      "Start building on AWS with up to $200 in credits. Get access to over 90 services for up to 6 months as you build and experiment with no charges and no surprise overages.",
+      "Access the full range of AWS services with pay-as-you-go pricing. New customers on the Paid plan are also eligible for up to $200 in credits.",
+      "Try selected Paid plan services through limited free trials. Your trial begins when you activate the service, and any eligible credits automatically apply to usage beyond the trial limits.",
+      "Always free",
+      "30+ AWS services are always free within monthly usage limits on both the Free and Paid plans. If you go beyond these limits or access paid features, credits are automatically applied to cover the costs.",
+      "Getting started Create your free AWS account",
+      "Gain instant access to the AWS Free Tier."
+    ],
+    "removed": [
+      "Gain free, hands-on experience with the AWS products and services",
+      "Learn more about AWS Free Tier",
+      "Create a Free Account",
+      "Gain free, hands-on experience with the AWS products and services",
+      "Learn more about AWS Free Tier",
+      "More than 100 AWS products are available on AWS Free Tier today. Three different types of free offers are available",
+      "Free Trials",
+      "These free tier offers are short term trial offers that start from the time of first usage begins. Once the trial period expires you simply pay standard, pay-as-you-go service rates (see each service page for full pricing details).",
+      "12 months free",
+      "Always free",
+      "These free tier offers do not automatically expire at the end of your 12 month AWS Free Tier term, but are available to both existing and new AWS customers indefinitely.",
+      "More than 100 AWS products are available on AWS Free Tier today. Three different types of free offers are available depending on the product used.",
+      "Always free",
+      "12 months free",
+      "Free trials",
+      "Free Tier details",
+      "Create a Free Account",
+      "Always Free: These free tier offers do not automatically expire at the end of your 12 month AWS Free Tier term, but are available to both existing and new AWS customers indefinitely.",
+      "Trials: These free tier offers are short term trial offers that start from the time of first usage begins. Once the trial period expires you simply pay standard, pay-as-you-go service rates (see each service page for full pricing details).",
+      "The Amazon AWS Free Tier applies to participating services across our global regions",
+      ". Your free usage under the AWS Free Tier is calculated each month across all regions and automatically applied to your bill – free usage does not accumulate. The AWS Free Tier is not available in the AWS GovCloud (US)",
+      "*The Lambda free tier is available in the AWS GovCloud (US) Region. See Lambda pricing",
+      "Learn more about AWS Free Tier Products",
+      "Browse through our collection of videos to learn more about the AWS Free Tier, and how to setup and monitor your account.",
+      "Sign up for a Free AWS account",
+      "Creating an AWS account is free and gives you immediate access to the AWS Free Tier",
+      "10 minute tutorials"
+    ],
+    "totals": {
+      "removed": 76,
+      "added": 92,
+      "materialRemoved": 28,
+      "materialAdded": 16
+    },
+    "transition": true
+  }
+]

@@ -1,0 +1,50 @@
+Skip to main content
+On this page
+Models & Pricing
+The prices listed below are in unites of per 1M tokens. A token, the smallest unit of text that the model recognizes, can be a word, a number, or even a punctuation mark. We will bill based on the total number of input and output tokens by the model.
+Pricing Details
+MODEL (1)
+deepseek-chat
+deepseek-reasoner
+CONTEXT LENGTH
+64K
+MAX COT TOKENS (2)
+-
+32K
+MAX OUTPUT TOKENS (3)
+8K
+STANDARD PRICE
+（UTC 00:30-16:30）
+1M TOKENS INPUT (CACHE HIT) (4)
+$0.07
+$0.14
+1M TOKENS INPUT (CACHE MISS)
+$0.27
+$0.55
+1M TOKENS OUTPUT (5)
+$1.10
+$2.19
+DISCOUNT PRICE (6)
+（UTC 16:30-00:30）
+1M TOKENS INPUT (CACHE HIT)
+$0.035（50% OFF）
+$0.035（75% OFF）
+1M TOKENS INPUT (CACHE MISS)
+$0.135（50% OFF）
+$0.135（75% OFF）
+1M TOKENS OUTPUT
+$0.550（50% OFF）
+$0.550（75% OFF）
+(1) The deepseek-chat model points to DeepSeek-V3. The deepseek-reasoner model points to DeepSeek-R1.
+(2) CoT (Chain of Thought) is the reasoning content deepseek-reasoner gives before output the final answer. For details, please refer to Reasoning Model
+。
+(3) If max_tokens is not specified, the default maximum output length is 4K. Please adjust max_tokens to support longer outputs.
+(4) Please check DeepSeek Context Caching
+for the details of Context Caching.
+(5) The output token count of deepseek-reasoner includes all tokens from CoT and the final answer, and they are priced equally.
+(6) DeepSeek API provides off-peak pricing discounts during 16:30-00:30 UTC each day. The completion timestamp of each request determines its pricing tier.
+Deduction Rules
+The expense = number of tokens × price. The corresponding fees will be directly deducted from your topped-up balance or granted balance, with a preference for using the granted balance first when both balances are available.
+Product prices may vary and DeepSeek reserves the right to adjust them. We recommend topping up based on your actual usage and regularly checking this page for the most recent pricing information.
+Pricing Details
+Deduction Rules

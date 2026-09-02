@@ -1,0 +1,433 @@
+[
+  {
+    "id": "sourcegraph-com-pricing-20240313153621",
+    "url": "https://sourcegraph.com/pricing",
+    "ts": "20240313153621",
+    "date": "2024-03-13",
+    "source": "wayback",
+    "prevTs": "20240107093106",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Sourcegraph: 2 prices, 1 limit, 1 plan name changed (removed “20 Messages and Commands per month”; added “Best for hobbyists or light usage $ 0”)",
+    "pairs": [],
+    "added": [
+      "Best for hobbyists or light usage $ 0",
+      "No credit card needed",
+      "Sign up for free",
+      "Best for large teams and enterprises $ 19 per user/month",
+      "Cody Pro is best for professional developers who want unlimited usage and context for larger codebases.",
+      "For Enterprise customers, Sourcegraph will not train on your company’s data. For Free and Pro tier users, Sourcegraph will not train on your data without your permission."
+    ],
+    "removed": [
+      "Best for hobbyists Free",
+      "Get Cody free",
+      "20 Messages and Commands per month",
+      "Unlimited Autocompletions",
+      "Unlimited Messages and Commands",
+      "Unlimited Autocompletions",
+      "Unlimited Messages and Commands",
+      "No, for teams on Cody Pro and Cody Enterprise. In the future, we do expect to have the capability to use code from individual devs on Cody Free or Cody Pro to improve our models. When this becomes available, you will be given an explicit choice of whether or not to participate."
+    ],
+    "totals": {
+      "removed": 65,
+      "added": 19,
+      "materialRemoved": 10,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "sourcegraph-com-pricing-20240917192237",
+    "url": "https://sourcegraph.com/pricing",
+    "ts": "20240917192237",
+    "date": "2024-09-17",
+    "source": "wayback",
+    "prevTs": "20240313153621",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Sourcegraph: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Cody Free and Cody Pro are both offered as standalone products."
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 8,
+      "materialRemoved": 3,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "sourcegraph-com-pricing-20250215045707",
+    "url": "https://sourcegraph.com/pricing",
+    "ts": "20250215045707",
+    "date": "2025-02-15",
+    "source": "wayback",
+    "prevTs": "20240917192237",
+    "kind": "price",
+    "score": 16,
+    "counts": {
+      "price": 3,
+      "limit": 3,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Sourcegraph: 3 prices, 3 limits, 1 plan name changed (removed “Cody can retrieve codebase context to persona…”; added “1 User”)",
+    "pairs": [],
+    "added": [
+      "1 User",
+      "• Unlimited autocomplete",
+      "• Unlimited autocomplete and increased chat message limits",
+      "- All models in Free",
+      "$ 59",
+      "$25 per user/month (25 dev minimum)",
+      "$49 per user/month (25 dev minimum)",
+      "Free",
+      "Unlimited",
+      "200/month",
+      "Unlimited",
+      "Free is best for individuals working on hobby projects.",
+      "Cody can retrieve codebase context to personalize responses in a number of ways. For Free and Pro users, context is retrieved from their local repositories.",
+      "Users can upgrade or downgrade between Free and Pro within their account settings at any time. For Pro users upgrading to Enterprise Starter is also possible, but doing so currently does not cancel your subscription and you must cancel it yourself.",
+      "For Free and Pro users, Sourcegraph will use your data to fine-tune the model you are accessing unless you disable this feature.",
+      "The Enterprise Starter plan is currently compatible with GitHub, with a limit of indexing up to 100 repositories for search and context.",
+      "The Enterprise Starter plan supports up to 50 developers, and alongside a limit of 100 repositories for search and context, also includes 5Gb of storage. Adding additional seats gives you 1GB of additional storage per seat, for a maximum total of 10GB."
+    ],
+    "removed": [
+      "No credit card needed",
+      "Sign up for free",
+      "Cody Free is best for individuals working on hobby projects or professional devs trying out AI coding assistants. Usage limits apply.",
+      "Cody Pro is best for professional developers who want unlimited usage and context for larger local codebases.",
+      "Cody can retrieve codebase context to personalize responses in a number of ways. One way is with embeddings, which are generated for local user repositories. Cody Free users can create embeddings for up to 200MB of code and Cody Pro users can create embeddings for up to 1GB of code.",
+      "Users can upgrade or downgrade between Cody Free and Cody Pro within their account settings at any time. To upgrade to Cody Enterprise, please contact our Sales team.",
+      "For Enterprise customers, Sourcegraph will not train on your company’s data. For Free and Pro tier users, Sourcegraph will not train on your data without your permission."
+    ],
+    "totals": {
+      "removed": 40,
+      "added": 248,
+      "materialRemoved": 11,
+      "materialAdded": 21
+    }
+  },
+  {
+    "id": "sourcegraph-com-pricing-20250304083722",
+    "url": "https://sourcegraph.com/pricing",
+    "ts": "20250304083722",
+    "date": "2025-03-04",
+    "source": "wayback",
+    "prevTs": "20250215045707",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Sourcegraph: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "• Unlimited autocompletes",
+      "• 200 chats and commands per month for free",
+      "• Unlimited autocompletes"
+    ],
+    "removed": [
+      "• Unlimited autocomplete",
+      "• Unlimited autocomplete and increased chat message limits"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 6,
+      "materialRemoved": 2,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "sourcegraph-com-pricing-20250411155659",
+    "url": "https://sourcegraph.com/pricing",
+    "ts": "20250411155659",
+    "date": "2025-04-11",
+    "source": "wayback",
+    "prevTs": "20250304083722",
+    "kind": "plans",
+    "score": 12,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 6
+    },
+    "material": true,
+    "headline": "Sourcegraph: 6 plan names changed",
+    "pairs": [],
+    "added": [
+      "Free",
+      "Free",
+      "Unlimited",
+      "Unlimited",
+      "Free",
+      "Unlimited",
+      "Free",
+      "Unlimited",
+      "Free",
+      "Free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 60,
+      "added": 92,
+      "materialRemoved": 4,
+      "materialAdded": 14
+    }
+  },
+  {
+    "id": "sourcegraph-com-pricing-20250604153229",
+    "url": "https://sourcegraph.com/pricing",
+    "ts": "20250604153229",
+    "date": "2025-06-04",
+    "source": "wayback",
+    "prevTs": "20250411155659",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Sourcegraph: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 11,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "sourcegraph-com-pricing-20250709024430",
+    "url": "https://sourcegraph.com/pricing",
+    "ts": "20250709024430",
+    "date": "2025-07-09",
+    "source": "wayback",
+    "prevTs": "20250604153229",
+    "kind": "price",
+    "score": 40,
+    "counts": {
+      "price": 8,
+      "limit": 1,
+      "plan": 7
+    },
+    "material": true,
+    "headline": "Sourcegraph: 8 prices, 1 limit, 7 plan names changed (removed “$ 0”; added “$ 49”)",
+    "pairs": [],
+    "added": [
+      "$ 49",
+      "$10 per user",
+      "** $1k minimum credit spend"
+    ],
+    "removed": [
+      "Free",
+      "$ 0",
+      "1 User",
+      "Unlimited autocompletes",
+      "200 chats and commands per month for free",
+      "Get Pro for $9 a month →",
+      "Unlimited autocompletes",
+      "- All models in Free",
+      "$ 59",
+      "$25 per user/month (25 dev minimum)",
+      "$49 per user/month (25 dev minimum)",
+      "Free",
+      "Unlimited",
+      "200/month",
+      "Unlimited",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "What's the difference between Free, Enterprise Starter, and Enterprise plans?",
+      "Free is best for individuals working on hobby projects.",
+      "How are autocompletions counted for the Cody Free plan?",
+      "Cody can retrieve codebase context to personalize responses in a number of ways. For Free and Pro users, context is retrieved from their local repositories.",
+      "Users can upgrade or downgrade between Free and Pro within their account settings at any time. For Pro users upgrading to Enterprise Starter is also possible, but doing so currently does not cancel your subscription and you must cancel it yourself.",
+      "For Free and Pro users, Sourcegraph may use your data to fine-tune the model you are accessing unless you disable this feature."
+    ],
+    "totals": {
+      "removed": 119,
+      "added": 56,
+      "materialRemoved": 26,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "sourcegraph-com-pricing-20250807065021",
+    "url": "https://sourcegraph.com/pricing",
+    "ts": "20250807065021",
+    "date": "2025-08-07",
+    "source": "wayback",
+    "prevTs": "20250709024430",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Sourcegraph: 2 prices, 1 limit, 1 plan name changed (removed “** $1k minimum credit spend”; added “** 1k minimum credit spend”)",
+    "pairs": [],
+    "added": [
+      "** 1k minimum credit spend",
+      "and click “Change Plan” in the top right corner. This requires a special one-time $1,000 USD purchase, which grants your team $1,000 USD of Amp Enterprise usage and upgrades your team to Enterprise. Learn more here"
+    ],
+    "removed": [
+      "** $1k minimum credit spend",
+      "Free",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 178,
+      "added": 63,
+      "materialRemoved": 8,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "sourcegraph-com-pricing-20251001035543",
+    "url": "https://sourcegraph.com/pricing",
+    "ts": "20251001035543",
+    "date": "2025-10-01",
+    "source": "wayback",
+    "prevTs": "20250807065021",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Sourcegraph: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "sourcegraph-com-pricing-20251109192422",
+    "url": "https://sourcegraph.com/pricing",
+    "ts": "20251109192422",
+    "date": "2025-11-09",
+    "source": "wayback",
+    "prevTs": "20251001035543",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Sourcegraph: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "Amp Free",
+      "Individual devs and some teams may prefer to use the new free mode in Amp, which is supported by ads. Learn more about it here"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 9,
+      "materialRemoved": 1,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "sourcegraph-com-pricing-20260522090426",
+    "url": "https://sourcegraph.com/pricing",
+    "ts": "20260522090426",
+    "date": "2026-05-22",
+    "source": "wayback",
+    "prevTs": "20251109192422",
+    "kind": "price",
+    "score": 20,
+    "counts": {
+      "price": 5,
+      "limit": 2,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Sourcegraph: 5 prices, 2 limits, 1 plan name changed (removed “$10 in free credits for most users”; added “$16K Includes credits for AI features; scales…”)",
+    "pairs": [],
+    "added": [
+      "$16K Includes credits for AI features; scales with team size",
+      "Is there a free trial?"
+    ],
+    "removed": [
+      "$10 in free credits for most users",
+      "* 1k minimum credit spend",
+      "Amp Free",
+      "Individual devs and some teams may prefer to use the new free mode in Amp, which is supported by ads. Learn more about it here",
+      "$ 19",
+      "$49",
+      "and click “Change Plan” in the top right corner. This requires a special one-time $1,000 USD purchase, which grants your team $1,000 USD of Amp Enterprise usage and upgrades your team to Enterprise. Learn more here",
+      "The Enterprise Starter plan is currently compatible with GitHub, with a limit of indexing up to 100 repositories for search and context.",
+      "The Enterprise Starter plan supports up to 50 developers, and alongside a limit of 100 repositories for search and context, also includes 5Gb of storage. Adding additional seats gives you 1GB of additional storage per seat, for a maximum total of 10GB."
+    ],
+    "totals": {
+      "removed": 117,
+      "added": 53,
+      "materialRemoved": 9,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "sourcegraph-com-pricing-20260902105456",
+    "url": "https://sourcegraph.com/pricing",
+    "ts": "20260902105456",
+    "date": "2026-09-02",
+    "source": "wayback",
+    "prevTs": "20260522090426",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Sourcegraph: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  }
+]

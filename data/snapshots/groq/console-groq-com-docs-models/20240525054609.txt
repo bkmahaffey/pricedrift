@@ -1,0 +1,59 @@
+0.0.2
+Documentation
+Get Started
+Quickstart
+Models
+Errors
+Changelog
+Examples and Demos
+Examples
+Showcase Applications
+Features
+Chat Completions
+OpenAI Compatibility
+Speech to Text
+Tool Use
+Integrations
+Groq Libraries
+Vercel AI SDK
+LangChain
+LlamaIndex
+Accounts
+API Keys
+Rate Limits
+Legal
+Policies & Notices
+Supported Models
+GroqCloud currently supports the following models:
+LLaMA3 8b
+Model ID: llama3-8b-8192
+Developer: Meta
+Context Window: 8,192 tokens
+Model Card
+LLaMA3 70b
+Model ID: llama3-70b-8192
+Developer: Meta
+Context Window: 8,192 tokens
+Model Card
+Mixtral 8x7b
+Model ID: mixtral-8x7b-32768
+Developer: Mistral
+Context Window: 32,768 tokens
+Model Card
+Gemma 7b
+Model ID: gemma-7b-it
+Developer: Google
+Context Window: 8,192 tokens
+Model Card
+Whisper - Private beta only
+Model ID: whisper-large-v3
+Developer: OpenAI
+File Size: 25 MB
+Model Card
+These are chat and audio type models and are directly accessible through the GroqCloud Models API endpoint using the model IDs mentioned above. You can use the https://api.groq.com/openai/v1/models endpoint to return a JSON list of all active models:
+curl
+JavaScript
+Python
+JSON
+Copy
+import requests import os api_key = os. environ. get ( "GROQ_API_KEY") url = "https://api.groq.com/openai/v1/models" headers = { "Authorization": f"Bearer { api_key } ", "Content-Type": "application/json" } response = requests. get ( url, headers = headers) print ( response. json ())

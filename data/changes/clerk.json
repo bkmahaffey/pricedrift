@@ -1,0 +1,607 @@
+[
+  {
+    "id": "clerk-com-pricing-20240207203208",
+    "url": "https://clerk.com/pricing",
+    "ts": "20240207203208",
+    "date": "2024-02-07",
+    "source": "wayback",
+    "prevTs": "20231203183943",
+    "kind": "price",
+    "score": 28,
+    "counts": {
+      "price": 3,
+      "limit": 2,
+      "plan": 8
+    },
+    "material": true,
+    "headline": "Clerk: 3 prices, 2 limits, 8 plan names changed (removed “US $ 25 per month”; added “10,000 monthly active users free. Surprisingl…”)",
+    "pairs": [],
+    "added": [
+      "10,000 monthly active users free. Surprisingly simple, exceptionally powerful. Every feature you need now and as you scale.",
+      "US $25 $125 $225 $325 per month",
+      "First Day Free",
+      "First Day Free First Day Free",
+      "First Day Free means no charges for users who sign-up but never return. Users are only counted as active when they come back after 24 hours.",
+      "Eligible up to 1 year after launch",
+      "Eligible up to $5 million in venture funding",
+      "Free plan",
+      "Free plan",
+      "Free plan",
+      "Free plan",
+      "Free plan",
+      "Free plan",
+      "Free plan"
+    ],
+    "removed": [
+      "Everything you need to get started in minutes. For free.",
+      "US $ 25 per month",
+      "Everything you need to get started in minutes. For free."
+    ],
+    "totals": {
+      "removed": 85,
+      "added": 193,
+      "materialRemoved": 14,
+      "materialAdded": 25
+    }
+  },
+  {
+    "id": "clerk-com-pricing-20240409224733",
+    "url": "https://clerk.com/pricing",
+    "ts": "20240409224733",
+    "date": "2024-04-09",
+    "source": "wayback",
+    "prevTs": "20240207203208",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Clerk: 1 limit changed (added “5 members”)",
+    "pairs": [],
+    "added": [
+      "5 members",
+      "5 members",
+      "Unlimited members"
+    ],
+    "removed": [
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 5,
+      "materialRemoved": 1,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "clerk-com-pricing-20240616095620",
+    "url": "https://clerk.com/pricing",
+    "ts": "20240616095620",
+    "date": "2024-06-16",
+    "source": "wayback",
+    "prevTs": "20240409224733",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Clerk: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "All features free to use in development mode"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "clerk-com-pricing-20240808155630",
+    "url": "https://clerk.com/pricing",
+    "ts": "20240808155630",
+    "date": "2024-08-08",
+    "source": "wayback",
+    "prevTs": "20240616095620",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Clerk: 1 limit changed (added “Fixed to 7 days”)",
+    "pairs": [],
+    "added": [
+      "Fixed to 7 days",
+      "Fixed to 7 days"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 8,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "clerk-com-pricing-20241008094056",
+    "url": "https://clerk.com/pricing",
+    "ts": "20241008094056",
+    "date": "2024-10-08",
+    "source": "wayback",
+    "prevTs": "20240808155630",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Clerk: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "First Day Free First Day Free",
+      "First Day Free means no charges for users who sign-up but never return. Users are only counted as active when they come back after 24 hours."
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 10,
+      "materialRemoved": 3,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "clerk-com-pricing-20241210224129",
+    "url": "https://clerk.com/pricing",
+    "ts": "20241210224129",
+    "date": "2024-12-10",
+    "source": "wayback",
+    "prevTs": "20241008094056",
+    "kind": "price",
+    "score": 41,
+    "counts": {
+      "price": 10,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Clerk: 10 prices, 6 limits changed (removed “Free for 100 monthly active organizations”; added “You’re never charged for users who sign up an…”)",
+    "pairs": [],
+    "added": [
+      "You’re never charged for users who sign up and never come back. Your first 10,000 active users and 100 active organizations are free.",
+      "Organizations without at least one MAU are free",
+      "Users who sign up but never return to your app are free.",
+      "10,000 included free + $0.02 per additional MAU",
+      "An organization is active when it has at least 2 members and at least one of those members is an active user.",
+      "3 + $10/mo per additional seat",
+      "By default, Clerk strictly adheres to NIST 800-63B for password requirements. This feature allows setting custom requirements.",
+      "Set a maximum session duration, from 5 minutes to 10 years.",
+      "10,000 included free + $0.02 per additional MAU",
+      "An organization is active when it has at least 2 members and at least one of those members is an active user.",
+      "100 + $1 per additional MAO",
+      "3 + $10/mo per additional seat",
+      "By default, Clerk strictly adheres to NIST 800-63B for password requirements. This feature allows setting custom requirements.",
+      "Unlimited",
+      "Set a maximum session duration, from 5 minutes to 10 years.",
+      "Our active Discord with over 10,000 members is supported by Clerk staff and community champions.",
+      "Integrate complete user management in minutes. Free for your first 10,000 monthly active users and 100 monthly active orgs. No credit card required.",
+      "What happens when I exceed the first 10,000 monthly active users or 100 monthly active organizations?",
+      "Once you exceed 10,000 monthly active users or 100, you will be required to upgrade to the Pro tier, where each user or organization beyond the free tier allowance will be added to your monthly bill.",
+      "Is there a free trial?",
+      "What is \"First Day Free\"?",
+      "\"First Day Free\" is our way of helping you avoid charges for users that try your app and do not return. Since we don't count users as active unless they sign in at least one more time after the first 24 hour period, the first day the user access your application is free of charge."
+    ],
+    "removed": [
+      "Free for 100 monthly active organizations",
+      "$10/mo/seat",
+      "$0.02/ea",
+      "$1/ea",
+      "$10/mo/seat",
+      "+$50 per connection"
+    ],
+    "totals": {
+      "removed": 71,
+      "added": 194,
+      "materialRemoved": 12,
+      "materialAdded": 28
+    }
+  },
+  {
+    "id": "clerk-com-pricing-20250802103920",
+    "url": "https://clerk.com/pricing",
+    "ts": "20250802103920",
+    "date": "2025-08-02",
+    "source": "wayback",
+    "prevTs": "20241210224129",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Clerk: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Start building for free"
+    ],
+    "removed": [
+      "Get started for free"
+    ],
+    "totals": {
+      "removed": 32,
+      "added": 30,
+      "materialRemoved": 7,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "clerk-com-pricing-20250901120047",
+    "url": "https://clerk.com/pricing",
+    "ts": "20250901120047",
+    "date": "2025-09-01",
+    "source": "wayback",
+    "prevTs": "20250802103920",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Clerk: 1 price changed (removed “10,000 included free + $0.02 per additional MAU”; added “10,000 included free”)",
+    "pairs": [],
+    "added": [
+      "10,000 included free",
+      "10,000 included free"
+    ],
+    "removed": [
+      "10,000 included free + $0.02 per additional MAU"
+    ],
+    "totals": {
+      "removed": 1,
+      "added": 2,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "clerk-com-pricing-20251102093017",
+    "url": "https://clerk.com/pricing",
+    "ts": "20251102093017",
+    "date": "2025-11-02",
+    "source": "wayback",
+    "prevTs": "20250901120047",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Clerk: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Organizations features in Free plan"
+    ],
+    "removed": [
+      "B2B SaaS features in Free plan"
+    ],
+    "totals": {
+      "removed": 8,
+      "added": 8,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "clerk-com-pricing-20260209091448",
+    "url": "https://clerk.com/pricing",
+    "ts": "20260209091448",
+    "date": "2026-02-09",
+    "source": "wayback",
+    "prevTs": "20251102093017",
+    "kind": "price",
+    "score": 188,
+    "counts": {
+      "price": 47,
+      "limit": 6,
+      "plan": 18
+    },
+    "material": true,
+    "headline": "Clerk: 47 prices, 6 limits, 18 plan names changed (10,000 → 50,000)",
+    "pairs": [
+      {
+        "before": "Once you exceed 10,000 monthly active users or 100, you will be required to upgrade to the Pro tier, where each user or organization beyond the free tier allowance will be added to your monthly bill.",
+        "after": "Once you exceed 50,000 monthly retained users you will be required to upgrade to the Pro plan. Once you exceed 100 monthly retained organizations, you will be required to upgrade to the B2B Authentication add-on. Each user or organization beyond the free tier allowance will be added to your monthly bill.",
+        "confidence": 0.71,
+        "deltas": [
+          {
+            "before": "10,000",
+            "after": "50,000"
+          },
+          {
+            "before": "100,",
+            "after": "100"
+          },
+          {
+            "before": null,
+            "after": "2B"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Clear pricing that scales. Every plan supports unlimited applications.",
+      "Free",
+      "Unlimited applications",
+      "$20",
+      "$0.02/mo each",
+      "$75/mo each",
+      "$250",
+      "$20/mo each",
+      "Included Free in all plans",
+      "Enhanced add-on $100 /mo or $85 /mo billed annually",
+      "$1/mo each",
+      "Included Free in all plans",
+      "Enhanced add-on $100 /mo or $85 /mo billed annually",
+      "Unlimited impersonations",
+      "Stripe 2.9% + Stripe transaction charge $0.30 + Clerk Billing 0.7%",
+      "$25/mo, $20/mo billed annually",
+      "$300/mo, $250/mo billed annually",
+      "Every plan gets unlimited applications.",
+      "Unlimited",
+      "50,001 - 100,000 $0.02/mo each",
+      "100,001 - 1,000,000 $0.018/mo each",
+      "1,000,001 - 10,000,000 $0.015/mo each",
+      "10,000,001+ $0.012/mo each",
+      "50,001 - 100,000 $0.02/mo each",
+      "100,001 - 1,000,000 $0.018/mo each",
+      "1,000,001 - 10,000,000 $0.015/mo each",
+      "10,000,001+ $0.012/mo each",
+      "10 included $20/mo each",
+      "Unlimited",
+      "Authenticate with a code sent directly to the user's phone via SMS. US and Canada, $0.01 per SMS + International: market rate",
+      "1 connection included per app",
+      "2 - 15 $75/mo each",
+      "16 - 100 $60/mo each",
+      "101 - 500 $30/mo each",
+      "500+ $15/mo each",
+      "1 connection included per app",
+      "2 - 15 $75/mo each",
+      "16 - 100 $60/mo each",
+      "101 - 500 $30/mo each",
+      "500+ $15/mo each"
+    ],
+    "removed": [
+      "You’re never charged for users who sign up and never come back. Your first 10,000 active users and 100 active organizations are free.",
+      "Free plan",
+      "10,000 monthly active users (MAUs) ⁠ More info",
+      "All features free to use in development mode",
+      "$0.02 per MAU (your first 10,000 are free) ⁠ More info",
+      "$100 /mo",
+      "$100 /mo",
+      "US $25 $125 $225 $325 per month",
+      "Organizations features in Free plan",
+      "$1 per MAO (your first 100 are free) ⁠ More info",
+      "Organizations without at least one MAU are free",
+      "Unlimited members per organization",
+      "$100 /mo",
+      "First Day Free",
+      "Users who sign up but never return to your app are free.",
+      "Free plan",
+      "Free plan",
+      "$0/mo",
+      "10,000 included free",
+      "3 + $10/mo per additional seat",
+      "Free plan",
+      "Free plan",
+      "Free plan",
+      "Free plan",
+      "Free plan",
+      "Free plan",
+      "Free plan",
+      "$0/mo",
+      "$25/mo",
+      "10,000 included free",
+      "10,000 included free + $0.02 per additional MAU",
+      "An organization is active when it has at least 2 members and at least one of those members is an active user.",
+      "100 + $1 per additional MAO",
+      "3 + $10/mo per additional seat",
+      "Free plan",
+      "Unlimited",
+      "By default, Clerk strictly adheres to NIST 800-63B for password requirements. This feature allows setting custom requirements.",
+      "Unlimited",
+      "Free plan",
+      "Free plan"
+    ],
+    "totals": {
+      "removed": 306,
+      "added": 216,
+      "materialRemoved": 58,
+      "materialAdded": 57
+    }
+  },
+  {
+    "id": "clerk-com-pricing-20260302142132",
+    "url": "https://clerk.com/pricing",
+    "ts": "20260302142132",
+    "date": "2026-03-02",
+    "source": "wayback",
+    "prevTs": "20260209091448",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Clerk: 2 limits changed (5 → 20)",
+    "pairs": [
+      {
+        "before": "5 members",
+        "after": "20 members",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "5",
+            "after": "20"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Up to 20 members per Organization",
+      "Unlimited members per Organization",
+      "Create unlimited custom roles and organize them into RoleSets for advanced access control hierarchies."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 8,
+      "added": 10,
+      "materialRemoved": 1,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "clerk-com-pricing-20260418191604",
+    "url": "https://clerk.com/pricing",
+    "ts": "20260418191604",
+    "date": "2026-04-18",
+    "source": "wayback",
+    "prevTs": "20260302142132",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 8,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Clerk: 8 prices changed (added “1,001+ $0.001 each”)",
+    "pairs": [],
+    "added": [
+      "1,001+ $0.001 each",
+      "100,001+ $0.00001 each",
+      "1,001+ $0.001 each",
+      "100,001+ $0.00001 each",
+      "2,501+ $0.001 each",
+      "100,001+ $0.00001 each",
+      "2,501+ $0.001 each",
+      "100,001+ $0.00001 each"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 48,
+      "materialRemoved": 2,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "clerk-com-pricing-20260521051800",
+    "url": "https://clerk.com/pricing",
+    "ts": "20260521051800",
+    "date": "2026-05-21",
+    "source": "wayback",
+    "prevTs": "20260418191604",
+    "kind": "limits",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Clerk: 3 limits changed (added “1 day retention”)",
+    "pairs": [],
+    "added": [
+      "1 day retention",
+      "7 day retention",
+      "30 day retention",
+      "1 day retention",
+      "7 day retention",
+      "30 day retention"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 15,
+      "materialRemoved": 1,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "clerk-com-pricing-20260809170908",
+    "url": "https://clerk.com/pricing",
+    "ts": "20260809170908",
+    "date": "2026-08-09",
+    "source": "wayback",
+    "prevTs": "20260521051800",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Clerk: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "A monthly retained organization is an organization with at least 2 members, where at least one of those members is a monthly retained user for that month. Like users, you are only billed for retained organizations."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 22,
+      "added": 21,
+      "materialRemoved": 7,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "clerk-com-pricing-20260902202107",
+    "url": "https://clerk.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260809170908",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Clerk: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "30 day retention"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 7,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    },
+    "transition": true
+  }
+]

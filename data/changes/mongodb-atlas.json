@@ -1,0 +1,1141 @@
+[
+  {
+    "id": "mongodb-com-pricing-20230304163649",
+    "url": "https://www.mongodb.com/pricing",
+    "ts": "20230304163649",
+    "date": "2023-03-04",
+    "source": "wayback",
+    "prevTs": "20230103042158",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "MongoDB Atlas: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "mongodb-com-pricing-20230503233521",
+    "url": "https://www.mongodb.com/pricing",
+    "ts": "20230503233521",
+    "date": "2023-05-03",
+    "source": "wayback",
+    "prevTs": "20230304163649",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "MongoDB Atlas: 3 prices changed (removed “$2.00/1M application requests”; added “$0.12/GB for egress”)",
+    "pairs": [],
+    "added": [
+      "$0.12/GB for egress",
+      "$0.12/GB for egress"
+    ],
+    "removed": [
+      "$2.00/1M application requests"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 4,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "mongodb-com-pricing-20230710150942",
+    "url": "https://www.mongodb.com/pricing",
+    "ts": "20230710150942",
+    "date": "2023-07-10",
+    "source": "wayback",
+    "prevTs": "20230503233521",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 6,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "MongoDB Atlas: 6 prices changed (added “(i)Regional: $0.01 per GB for all cloud provi…”)",
+    "pairs": [],
+    "added": [
+      "(i)Regional: $0.01 per GB for all cloud providers and regions. Cross-Region: range from $0.02 to $0.20 per GB.",
+      "Public Internet: range from $0.09 to $0.20 per GB.",
+      "(i)Regional: $0.01 per GB for all cloud providers and regions. Cross-Region: range from $0.02 to $0.20 per GB.",
+      "Public Internet: range from $0.09 to $0.20 per GB.",
+      "$5 per TB with a 10MB minimum per query",
+      "$5 per TB with a 10MB minimum per query"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 26,
+      "added": 89,
+      "materialRemoved": 1,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "mongodb-com-pricing-20230906105915",
+    "url": "https://www.mongodb.com/pricing",
+    "ts": "20230906105915",
+    "date": "2023-09-06",
+    "source": "wayback",
+    "prevTs": "20230710150942",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 8,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "MongoDB Atlas: 8 prices changed ($0.02 removed; $0.02 removed)",
+    "pairs": [
+      {
+        "before": "(i)Regional: $0.01 per GB for all cloud providers and regions. Cross-Region: range from $0.02 to $0.20 per GB.",
+        "after": "Regional: $0.01 per GB for all cloud providers and regions.",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$0.02",
+            "after": null
+          },
+          {
+            "before": "$0.20",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "(i)Regional: $0.01 per GB for all cloud providers and regions. Cross-Region: range from $0.02 to $0.20 per GB.",
+        "after": "Regional: $0.01 per GB for all cloud providers and regions.",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$0.02",
+            "after": null
+          },
+          {
+            "before": "$0.20",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0.01 - $0.20/GB*",
+      "Cross-Region: range from $0.02 to $0.20 per GB.",
+      "$0.01 - $0.20/GB*",
+      "Cross-Region: range from $0.02 to $0.20 per GB."
+    ],
+    "removed": [
+      "$0.015 - $0.10/GB*",
+      "$0.015 - $0.10/GB*"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 7,
+      "materialRemoved": 4,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "mongodb-com-pricing-20231102125820",
+    "url": "https://www.mongodb.com/pricing",
+    "ts": "20231102125820",
+    "date": "2023-11-02",
+    "source": "wayback",
+    "prevTs": "20230906105915",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "MongoDB Atlas: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 8,
+      "added": 7,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "mongodb-com-pricing-20240101195439",
+    "url": "https://www.mongodb.com/pricing",
+    "ts": "20240101195439",
+    "date": "2024-01-01",
+    "source": "wayback",
+    "prevTs": "20231102125820",
+    "kind": "price",
+    "score": 146,
+    "counts": {
+      "price": 29,
+      "limit": 30,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "MongoDB Atlas: 29 prices, 30 limits changed (added “100 GB”)",
+    "pairs": [],
+    "added": [
+      "100 GB",
+      "$0.13/hr",
+      "200 GB",
+      "$0.24/hr",
+      "380 GB",
+      "$0.46/hr",
+      "760 GB",
+      "$0.91/hr",
+      "1600 GB",
+      "$1.64/hr",
+      "3200 GB",
+      "$2.47/hr",
+      "6400 GB",
+      "$3.27/hr",
+      "100 GB",
+      "200 GB",
+      "380 GB",
+      "760 GB",
+      "1600 GB",
+      "3200 GB",
+      "6400 GB",
+      "$0.13/hr",
+      "$0.24/hr",
+      "$0.46/hr",
+      "$0.91/hr",
+      "$1.64/hr",
+      "$2.47/hr",
+      "$3.27/hr",
+      "100 GB",
+      "4 GB",
+      "2 vCPUs",
+      "$0.12/hr",
+      "200 GB",
+      "8 GB",
+      "4 vCPUs",
+      "$0.23/hr",
+      "380 GB",
+      "16 GB",
+      "8 vCPUs",
+      "$0.48/hr"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 217,
+      "materialRemoved": 0,
+      "materialAdded": 88
+    }
+  },
+  {
+    "id": "mongodb-com-pricing-20240303191737",
+    "url": "https://www.mongodb.com/pricing",
+    "ts": "20240303191737",
+    "date": "2024-03-03",
+    "source": "wayback",
+    "prevTs": "20240101195439",
+    "kind": "price",
+    "score": 48,
+    "counts": {
+      "price": 14,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "MongoDB Atlas: 14 prices, 3 limits changed (removed “$5 per TB Processed”; added “$0.19”)",
+    "pairs": [],
+    "added": [
+      "$0.19",
+      "2GB",
+      "$0.21",
+      "$0.39",
+      "8GB",
+      "$1.56",
+      "32GB",
+      "$0.21",
+      "$0.19",
+      "$0.39",
+      "$1.56",
+      "2GB",
+      "8GB",
+      "32GB",
+      "Associated data transfer (egress from stream processors) will be $0.09/GB across all tiers. For more information on Atlas Stream Processing pricing, please visit our documentation"
+    ],
+    "removed": [
+      "$5 per TB Processed",
+      "$5 per TB Processed",
+      "$5 per TB Processed",
+      "$5 per TB Processed",
+      "$5 per TB Processed"
+    ],
+    "totals": {
+      "removed": 201,
+      "added": 90,
+      "materialRemoved": 5,
+      "materialAdded": 15
+    }
+  },
+  {
+    "id": "mongodb-com-pricing-20240501093558",
+    "url": "https://www.mongodb.com/pricing",
+    "ts": "20240501093558",
+    "date": "2024-05-01",
+    "source": "wayback",
+    "prevTs": "20240303191737",
+    "kind": "price",
+    "score": 114,
+    "counts": {
+      "price": 19,
+      "limit": 29,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "MongoDB Atlas: 19 prices, 29 limits changed (added “118 GB”)",
+    "pairs": [],
+    "added": [
+      "118 GB",
+      "4 GB",
+      "2 vCPUs",
+      "$0.14/hr",
+      "375 GB",
+      "8 GB",
+      "4 vCPUs",
+      "$0.26/hr",
+      "750 GB",
+      "16 GB",
+      "8 vCPUs",
+      "$0.55/hr",
+      "1500 GB",
+      "32 GB",
+      "16 vCPUs",
+      "$1.13/hr",
+      "3000 GB",
+      "64 GB",
+      "32 vCPUs",
+      "$2.19/hr",
+      "3000 GB",
+      "96 GB",
+      "48 vCPUs",
+      "$2.79/hr",
+      "6000 GB",
+      "128 GB",
+      "64 vCPUs",
+      "$4.04/hr",
+      "120 GB",
+      "8 GB",
+      "2 vCPUs",
+      "$0.16/hr",
+      "375 GB",
+      "16 GB",
+      "2 vCPUs",
+      "$0.23/hr",
+      "375 GB",
+      "32 GB",
+      "4 vCPUs",
+      "$0.42/hr"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 118,
+      "materialRemoved": 0,
+      "materialAdded": 76
+    }
+  },
+  {
+    "id": "mongodb-com-pricing-20240702184210",
+    "url": "https://www.mongodb.com/pricing",
+    "ts": "20240702184210",
+    "date": "2024-07-02",
+    "source": "wayback",
+    "prevTs": "20240501093558",
+    "kind": "price",
+    "score": 108,
+    "counts": {
+      "price": 18,
+      "limit": 27,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "MongoDB Atlas: 18 prices, 27 limits changed (removed “$0.21”; added “75 GB”)",
+    "pairs": [],
+    "added": [
+      "75 GB",
+      "4 GB",
+      "2 vCPUs",
+      "$0.12/hr",
+      "150 GB",
+      "4 vCPUs",
+      "$0.24/hr",
+      "300 GB",
+      "16 GB",
+      "8 vCPUs",
+      "$0.51/hr",
+      "600 GB",
+      "16 vCPUs",
+      "$1.06/hr",
+      "1200 GB",
+      "64 GB",
+      "32 vCPUs",
+      "$1.91/hr",
+      "1800 GB",
+      "96 GB",
+      "48 vCPUs",
+      "$2.69/hr",
+      "2400 GB",
+      "128 GB",
+      "64 vCPUs",
+      "$3.52/hr",
+      "75 GB",
+      "16 GB",
+      "2 vCPUs",
+      "$0.22/hr",
+      "150 GB",
+      "4 vCPUs",
+      "$0.45/hr",
+      "300 GB",
+      "64 GB",
+      "8 vCPUs",
+      "$0.95/hr",
+      "600 GB",
+      "128 GB",
+      "16 vCPUs"
+    ],
+    "removed": [
+      "$0.21",
+      "$0.21"
+    ],
+    "totals": {
+      "removed": 72,
+      "added": 145,
+      "materialRemoved": 14,
+      "materialAdded": 82
+    }
+  },
+  {
+    "id": "mongodb-com-pricing-20240902033110",
+    "url": "https://www.mongodb.com/pricing",
+    "ts": "20240902033110",
+    "date": "2024-09-02",
+    "source": "wayback",
+    "prevTs": "20240702184210",
+    "kind": "price",
+    "score": 96,
+    "counts": {
+      "price": 32,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "MongoDB Atlas: 32 prices changed (removed “$0.12/hr”; added “$0.14/hr”)",
+    "pairs": [],
+    "added": [
+      "$0.14/hr",
+      "$0.29/hr",
+      "$0.60/hr",
+      "$1.25/hr",
+      "$2.25/hr",
+      "$3.18/hr",
+      "$4.16/hr",
+      "$0.23/hr",
+      "$0.46/hr",
+      "$0.96/hr",
+      "$1.84/hr",
+      "$3.43/hr",
+      "$4.84/hr",
+      "$6.46/hr",
+      "$9.69/hr",
+      "$11.54/hr"
+    ],
+    "removed": [
+      "$0.12/hr",
+      "$0.24/hr",
+      "$0.51/hr",
+      "$1.06/hr",
+      "$1.91/hr",
+      "$2.69/hr",
+      "$3.52/hr",
+      "$0.22/hr",
+      "$0.45/hr",
+      "$0.95/hr",
+      "$1.81/hr",
+      "$3.36/hr",
+      "$4.75/hr",
+      "$6.34/hr",
+      "$9.50/hr",
+      "$11.32/hr"
+    ],
+    "totals": {
+      "removed": 17,
+      "added": 17,
+      "materialRemoved": 16,
+      "materialAdded": 16
+    }
+  },
+  {
+    "id": "mongodb-com-pricing-20241103220136",
+    "url": "https://www.mongodb.com/pricing",
+    "ts": "20241103220136",
+    "date": "2024-11-03",
+    "source": "wayback",
+    "prevTs": "20240902033110",
+    "kind": "price",
+    "score": 194,
+    "counts": {
+      "price": 48,
+      "limit": 25,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "MongoDB Atlas: 48 prices, 25 limits changed (2 → 4; 2 → 8)",
+    "pairs": [
+      {
+        "before": "2 vCPUs",
+        "after": "4 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2",
+            "after": "4"
+          }
+        ]
+      },
+      {
+        "before": "2 vCPUs",
+        "after": "8 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2",
+            "after": "8"
+          }
+        ]
+      },
+      {
+        "before": "4 vCPUs",
+        "after": "16 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4",
+            "after": "16"
+          }
+        ]
+      },
+      {
+        "before": "8 vCPUs",
+        "after": "32 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8",
+            "after": "32"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "4 GB",
+      "$0.12/hr",
+      "$0.48/hr",
+      "$0.98/hr",
+      "$1.75/hr",
+      "$2.47/hr",
+      "64 vCPUs",
+      "$3.22/hr",
+      "118 GB",
+      "4 GB",
+      "2 vCPUs",
+      "$0.14/hr",
+      "$0.26/hr",
+      "$0.55/hr",
+      "$1.13/hr",
+      "$2.19/hr",
+      "96 GB",
+      "$2.79/hr",
+      "$4.04/hr",
+      "4 GB",
+      "$0.14/hr",
+      "8 GB",
+      "$0.29/hr",
+      "$0.60/hr",
+      "$1.25/hr",
+      "$2.25/hr",
+      "96 GB",
+      "$3.18/hr",
+      "$4.16/hr"
+    ],
+    "removed": [
+      "50 GB",
+      "1 vCPUs",
+      "$0.11/hr",
+      "$0.21/hr",
+      "$0.42/hr",
+      "$0.87/hr",
+      "$1.66/hr",
+      "256 GB",
+      "$3.08/hr",
+      "384 GB",
+      "32 vCPUs",
+      "$4.34/hr",
+      "512 GB",
+      "$5.79/hr",
+      "120 GB",
+      "$0.16/hr",
+      "375 GB",
+      "$0.42/hr",
+      "$0.85/hr",
+      "750 GB",
+      "12 vCPUs",
+      "$1.22/hr",
+      "16 vCPUs",
+      "$1.77/hr",
+      "256 GB",
+      "32 vCPUs",
+      "$3.40/hr",
+      "384 GB",
+      "$4.51/hr",
+      "512 GB",
+      "$6.32/hr",
+      "6000 GB",
+      "640 GB",
+      "80 vCPUs",
+      "$7.26/hr",
+      "6000 GB",
+      "768 GB",
+      "96 vCPUs",
+      "$8.13/hr",
+      "6000 GB"
+    ],
+    "totals": {
+      "removed": 115,
+      "added": 71,
+      "materialRemoved": 82,
+      "materialAdded": 50
+    }
+  },
+  {
+    "id": "mongodb-com-pricing-20250115130829",
+    "url": "https://www.mongodb.com/pricing",
+    "ts": "20250115130829",
+    "date": "2025-01-15",
+    "source": "wayback",
+    "prevTs": "20241103220136",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 4,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "MongoDB Atlas: 4 prices, 6 limits changed (removed “3000 GB”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "3000 GB",
+      "96 GB",
+      "48 vCPUs",
+      "$2.79/hr",
+      "6000 GB",
+      "128 GB",
+      "64 vCPUs",
+      "$4.04/hr",
+      "3000 GB",
+      "96 GB",
+      "48 vCPUs",
+      "$2.79/hr",
+      "6000 GB",
+      "128 GB",
+      "64 vCPUs",
+      "$4.04/hr"
+    ],
+    "totals": {
+      "removed": 24,
+      "added": 15,
+      "materialRemoved": 16,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "mongodb-com-pricing-20250301182909",
+    "url": "https://www.mongodb.com/pricing",
+    "ts": "20250301182909",
+    "date": "2025-03-01",
+    "source": "wayback",
+    "prevTs": "20250115130829",
+    "kind": "price",
+    "score": 149,
+    "counts": {
+      "price": 41,
+      "limit": 6,
+      "plan": 7
+    },
+    "material": true,
+    "headline": "MongoDB Atlas: 41 prices, 6 limits, 7 plan names changed (removed “from $0.10/million reads”; added “2vCPUs to 96vCPUs”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "Try Free",
+      "Free forever",
+      "2vCPUs to 96vCPUs",
+      "$0.011/hour",
+      "Flexible pricing with $30 limit",
+      "Free Cluster",
+      "512 MB",
+      "Free forever",
+      "5 GB",
+      "Pay as you go! Clusters are billed hourly with monthly invoices. Flex clusters are priced based on usage and can cost between $8 and $30 for a month’s usage.",
+      "$0.0110",
+      "$8.00",
+      "$0.0205",
+      "$15.00",
+      "$7.00",
+      "$0.0288",
+      "$21.00",
+      "$6.00",
+      "$0.0356",
+      "$26.00",
+      "$5.00",
+      "$0.0411",
+      "$30.00",
+      "$4.00",
+      "*Assuming continuous usage at a specific tier for 30 days. For more information and pricing examples, see documentation"
+    ],
+    "removed": [
+      "from $0.10/million reads",
+      "Up to 1TB of storage Resources scale seamlessly to meet your workload Pay only for the operations you run Always-on security and backups View pricing",
+      "from $57/month",
+      "Try for Free",
+      "(i) Free forever for free clusters",
+      "512MB to 5GB of storage Shared RAM Upgrade to dedicated clusters for full functionality No credit card required to start View pricing",
+      "*Number of documents read in 4KB chunks and indexes read in 256 byte chunks",
+      "$0.10 / million for the first 50 million per day*",
+      "Next 500 million: $0.05/ million",
+      "Reads thereafter: $0.01/ million",
+      "Number of documents and indexes written in 1KB chunks",
+      "$1.00/million",
+      "$0.25/GB-month",
+      "*2 free daily snapshots included per serverless instance",
+      "$2.50/hour*",
+      "35 day backup retention for daily snapshots",
+      "$0.20/GB-month",
+      "$0.01 - $0.20/GB*",
+      "Regional: $0.01 per GB for all cloud providers and regions.",
+      "Cross-Region: range from $0.02 to $0.20 per GB.",
+      "Public Internet: range from $0.09 to $0.20 per GB.",
+      "*Number of documents read in 4KB chunks and indexes read in 256 byte chunks",
+      "Number of documents and indexes written in 1KB chunks",
+      "*2 free daily snapshots included per serverless instance",
+      "35 day backup retention for daily snapshots",
+      "$0.10 / million for the first 50 million per day*",
+      "Next 500 million: $0.05/ million",
+      "Reads thereafter: $0.01/ million",
+      "$1.00/million",
+      "$0.25/GB-month",
+      "$2.50/hour*",
+      "$0.20/GB-month",
+      "$0.01 - $0.20/GB*",
+      "Regional: $0.01 per GB for all cloud providers and regions.",
+      "Cross-Region: range from $0.02 to $0.20 per GB.",
+      "Public Internet: range from $0.09 to $0.20 per GB.",
+      "Free forever"
+    ],
+    "totals": {
+      "removed": 108,
+      "added": 66,
+      "materialRemoved": 44,
+      "materialAdded": 33
+    }
+  },
+  {
+    "id": "mongodb-com-pricing-20250401104048",
+    "url": "https://www.mongodb.com/pricing",
+    "ts": "20250401104048",
+    "date": "2025-04-01",
+    "source": "wayback",
+    "prevTs": "20250301182909",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "MongoDB Atlas: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 12,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "mongodb-com-pricing-20250706103638",
+    "url": "https://www.mongodb.com/pricing",
+    "ts": "20250706103638",
+    "date": "2025-07-06",
+    "source": "wayback",
+    "prevTs": "20250401104048",
+    "kind": "price",
+    "score": 16,
+    "counts": {
+      "price": 2,
+      "limit": 3,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "MongoDB Atlas: 2 prices, 3 limits, 2 plan names changed (removed “With Charts, you can quickly spot trends, dis…”; added “1 auto-refresh every 4 hours*”)",
+    "pairs": [],
+    "added": [
+      "1 auto-refresh every 4 hours*",
+      "Unlimited",
+      "Unlimited",
+      "1 auto-refresh every 4 hours*",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "removed": [
+      "With Charts, you can quickly spot trends, discover important insights, and understand your data at a deeper level. Charts is available to all users free for up to approximately 500,000 chart renders per month.",
+      "First 1GB",
+      "Free",
+      "Beyond 1GB",
+      "$1.00",
+      "First 1GB",
+      "Beyond 1GB",
+      "Free",
+      "$1.00",
+      "Atlas usage is additional and not included in the above pricing. Atlas Charts is available with all Atlas cluster sizes including Atlas Free Tier (M0) clusters."
+    ],
+    "totals": {
+      "removed": 16,
+      "added": 42,
+      "materialRemoved": 10,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "mongodb-com-pricing-20250803044359",
+    "url": "https://www.mongodb.com/pricing",
+    "ts": "20250803044359",
+    "date": "2025-08-03",
+    "source": "wayback",
+    "prevTs": "20250706103638",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "MongoDB Atlas: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Is there a free tier available for MongoDB Atlas? What does it include?",
+      "Yes, MongoDB Atlas offers a free-forever tier, the M0. Atlas’s free tier includes 512 MB of storage, 32MB of sort memory, and up to 100 operations per second. The free tier is a great starting point to learn about MongoDB and explore its capabilities in a fully managed cloud environment.",
+      "Get started with a free tier →",
+      "Atlas Free tier features and limitations →",
+      "Guide: How to deploy a free tier cluster →",
+      "Free Tier (M0): Best for learning and exploring, with limited resources",
+      "Data transfer (networking): Charges mainly apply to data moving out of your Atlas cluster (egress) or between different regions/cloud providers. Inbound data transfers are typically free. Free and Flex tiers are not charged for outgoing data.",
+      "Backup services: Costs are based on the region and the monthly storage consumed by snapshots and oplogs for continuous backups. Note that backup services are not available for the Free tier."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 68,
+      "materialRemoved": 0,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "mongodb-com-pricing-20251012115156",
+    "url": "https://www.mongodb.com/pricing",
+    "ts": "20251012115156",
+    "date": "2025-10-12",
+    "source": "wayback",
+    "prevTs": "20250803044359",
+    "kind": "price",
+    "score": 298,
+    "counts": {
+      "price": 73,
+      "limit": 39,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "MongoDB Atlas: 73 prices, 39 limits, 1 plan name changed (removed “$7.00”; added “Starts at $56.94/month”)",
+    "pairs": [],
+    "added": [
+      "Starts at $56.94/month",
+      "MongoDB Atlas offers discounts through free credits for startups, educators, and students.",
+      "Free MongoDB Atlas credits to power your growth",
+      "$500 in Atlas credits",
+      "Free MongoDB certifications, valued at $150",
+      "$50 in Atlas Credits",
+      "Free MongoDB certifications, valued at $150",
+      "Are at least 13 years old",
+      "$5 per TB Processed",
+      "106 GB",
+      "213 GB",
+      "$0.24/hr",
+      "426 GB",
+      "855 GB",
+      "$0.99/hr",
+      "1710 GB",
+      "$1.77/hr",
+      "2564 GB",
+      "$2.50/hr",
+      "3420 GB",
+      "$3.26/hr",
+      "128 GB",
+      "337 GB",
+      "$0.27/hr",
+      "362 GB",
+      "$0.57/hr",
+      "674 GB",
+      "$1.15/hr",
+      "1348 GB",
+      "$2.22/hr",
+      "80 GB",
+      "$0.15/hr",
+      "161 GB",
+      "$0.30/hr",
+      "322 GB",
+      "$0.62/hr",
+      "644 GB",
+      "$1.27/hr",
+      "1288 GB",
+      "$2.29/hr"
+    ],
+    "removed": [
+      "Try Free",
+      "$7.00",
+      "$6.00",
+      "$4.00",
+      "100 GB",
+      "200 GB",
+      "$0.23/hr",
+      "380 GB",
+      "760 GB",
+      "$0.98/hr",
+      "1600 GB",
+      "$1.75/hr",
+      "2400 GB",
+      "$2.47/hr",
+      "3200 GB",
+      "$3.22/hr",
+      "118 GB",
+      "375 GB",
+      "$0.26/hr",
+      "750 GB",
+      "$0.55/hr",
+      "1500 GB",
+      "$1.13/hr",
+      "3000 GB",
+      "$2.19/hr",
+      "75 GB",
+      "$0.14/hr",
+      "150 GB",
+      "$0.29/hr",
+      "300 GB",
+      "$0.60/hr",
+      "600 GB",
+      "$1.25/hr",
+      "1200 GB",
+      "$2.25/hr",
+      "1800 GB",
+      "$3.18/hr",
+      "2400 GB",
+      "$4.16/hr",
+      "100 GB"
+    ],
+    "totals": {
+      "removed": 85,
+      "added": 103,
+      "materialRemoved": 76,
+      "materialAdded": 81
+    }
+  },
+  {
+    "id": "mongodb-com-pricing-20251201020429",
+    "url": "https://www.mongodb.com/pricing",
+    "ts": "20251201020429",
+    "date": "2025-12-01",
+    "source": "wayback",
+    "prevTs": "20251012115156",
+    "kind": "limits",
+    "score": 25,
+    "counts": {
+      "price": 0,
+      "limit": 13,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "MongoDB Atlas: 13 limits changed (removed “10 GB”; added “10–128 GB”)",
+    "pairs": [],
+    "added": [
+      "10–128 GB",
+      "20–256 GB",
+      "40–512 GB",
+      "80 GB–1 TB",
+      "160 GB–4 TB",
+      "320 GB–4 TB",
+      "750 GB–4 TB",
+      "1–4 TB",
+      "1.5–4 TB",
+      "2–4 TB",
+      "3–4 TB",
+      "4 TB",
+      "Additional hardware configurations available for specialized workloads including Low-CPU and Local NVMe SSD. Scale beyond 4 TB: Sharded clusters offer additional compute and storage through horizontal scaling."
+    ],
+    "removed": [
+      "10 GB",
+      "20 GB",
+      "40 GB",
+      "80 GB",
+      "160 GB",
+      "320 GB",
+      "750 GB",
+      "1000 GB",
+      "1500 GB",
+      "2000 GB",
+      "3000 GB",
+      "4000 GB"
+    ],
+    "totals": {
+      "removed": 14,
+      "added": 15,
+      "materialRemoved": 12,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "mongodb-com-pricing-20260101050850",
+    "url": "https://www.mongodb.com/pricing",
+    "ts": "20260101050850",
+    "date": "2026-01-01",
+    "source": "wayback",
+    "prevTs": "20251201020429",
+    "kind": "price",
+    "score": 47,
+    "counts": {
+      "price": 12,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "MongoDB Atlas: 12 prices, 6 limits changed (removed “$0.19/hr”; added “512 MB”)",
+    "pairs": [],
+    "added": [
+      "512 MB",
+      "$0.06 to $0.08",
+      "1 GB",
+      "$0.11 to $0.17",
+      "$0.19 to $0.30",
+      "$0.39 to $0.62",
+      "$1.56 to $2.49"
+    ],
+    "removed": [
+      "$0.19/hr",
+      "1 vCPUs",
+      "$0.39/hr",
+      "2 vCPUs",
+      "$1.56/hr",
+      "8 vCPUs",
+      "$0.19/hr",
+      "$0.39/hr",
+      "$1.56/hr",
+      "1 vCPUs",
+      "2 vCPUs",
+      "8 vCPUs",
+      "2 GB",
+      "8 GB",
+      "32 GB",
+      "Associated data transfer (egress from stream processors) will be $0.09/GB across all tiers. For more information on Atlas Stream Processing pricing, please visit our documentation"
+    ],
+    "totals": {
+      "removed": 51,
+      "added": 29,
+      "materialRemoved": 16,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "mongodb-com-pricing-20260801185632",
+    "url": "https://www.mongodb.com/pricing",
+    "ts": "20260801185632",
+    "date": "2026-08-01",
+    "source": "wayback",
+    "prevTs": "20260101050850",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "MongoDB Atlas: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 24,
+      "added": 30,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "mongodb-com-pricing-20260902202107",
+    "url": "https://www.mongodb.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260801185632",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "MongoDB Atlas: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

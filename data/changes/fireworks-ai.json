@@ -1,0 +1,1295 @@
+[
+  {
+    "id": "fireworks-ai-pricing-20240302085156",
+    "url": "https://fireworks.ai/pricing",
+    "ts": "20240302085156",
+    "date": "2024-03-02",
+    "source": "wayback",
+    "prevTs": "20240124154835",
+    "kind": "price",
+    "score": 32,
+    "counts": {
+      "price": 9,
+      "limit": 2,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Fireworks AI: 9 prices, 2 limits, 1 plan name changed (removed “$1 free credits”; added “$0.90”)",
+    "pairs": [],
+    "added": [
+      "Unlimited rate limits",
+      "Unlimited deployed models",
+      "$0.90",
+      "$0.50"
+    ],
+    "removed": [
+      "Developer Free",
+      "$1 free credits",
+      "$1 free credits",
+      "10 requests/min",
+      "Unlimited",
+      "Unlimited",
+      "$/1M input tokens",
+      "$/1M output tokens",
+      "$0.80",
+      "$0.70",
+      "$2.80",
+      "$0.40",
+      "$1.60",
+      "The Fireworks fine-tuning service is currently in an experimental alpha stage so usage is 100% free."
+    ],
+    "totals": {
+      "removed": 60,
+      "added": 57,
+      "materialRemoved": 16,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "fireworks-ai-pricing-20240510123641",
+    "url": "https://fireworks.ai/pricing",
+    "ts": "20240510123641",
+    "date": "2024-05-10",
+    "source": "wayback",
+    "prevTs": "20240302085156",
+    "kind": "price",
+    "score": 57,
+    "counts": {
+      "price": 15,
+      "limit": 5,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Fireworks AI: 15 prices, 5 limits, 1 plan name changed (100 → 600)",
+    "pairs": [
+      {
+        "before": "100 requests/min rate limit",
+        "after": "600 requests/min rate limit",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100",
+            "after": "600"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free initial credits",
+      "0B - 16B",
+      "MoE 0B - 56B (Mixtral 8x7B)",
+      "MoE 56.1B - 176B (DBRX, Mixtral 8x22B)",
+      "$1.20",
+      "$/1M input tokens",
+      "up to 150M",
+      "$0.008",
+      "150M - 350M",
+      "$0.016",
+      "$ / 1M tokens in training",
+      "$0.50",
+      "Models 16.1B - 80B",
+      "$3.00",
+      "$2.00",
+      "$50 / month",
+      "$500 / month",
+      "Total historical spend of $100+",
+      "$5,000 / month",
+      "Total historical spend of $1,000+",
+      "$50,000 / month",
+      "Total historical spend of $10,000+",
+      "If you do not have a payment method on file, your account will be suspended after your credits are depleted. Failure to pay a past invoice may also result in account suspension. Your usage limit will be set to $0/month in both cases.",
+      "Dedicated deployments are billed by GPU-second. We charge $3.89 per hour for one NVIDIA A100 80 GB GPU. Pricing scales linearly when using multiple A100 GPUs. NVIDIA H100 80 GB GPUs are available to Enterprise accounts - contact us for details."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 56,
+      "materialRemoved": 2,
+      "materialAdded": 26
+    }
+  },
+  {
+    "id": "fireworks-ai-pricing-20240717063209",
+    "url": "https://fireworks.ai/pricing",
+    "ts": "20240717063209",
+    "date": "2024-07-17",
+    "source": "wayback",
+    "prevTs": "20240510123641",
+    "kind": "price",
+    "score": 42,
+    "counts": {
+      "price": 12,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fireworks AI: 12 prices, 3 limits changed (removed “$0.0002”; added “Fireworks AI raises $52M Series B to lead ind…”)",
+    "pairs": [],
+    "added": [
+      "Fireworks AI raises $52M Series B to lead industry shift to compound AI systems. Learn more",
+      "Deploy up to 4 GPUs on-demand",
+      "Deploy up to 16 GPUs on-demand",
+      "$3.00",
+      "$0.00013 ($0.0039 per 30 step image)",
+      "$0.0002 ($0.0060 per 30 step image)",
+      "For the Whisper speech recognition model, we charge per second of audio input at a $0.004/minute rate.",
+      "MoE 0B - 56B (e.g. Mixtral 8x7B)",
+      "MoE 56.1B - 176B (e.g. DBRX, Mixtral 8x22B)",
+      "$6.00",
+      "A100 80 GB GPU",
+      "$3.89",
+      "H100 80 GB GPU",
+      "$7.79"
+    ],
+    "removed": [
+      "$0.0002",
+      "$0.0003",
+      "If you do not have a payment method on file, your account will be suspended after your credits are depleted. Failure to pay a past invoice may also result in account suspension. Your usage limit will be set to $0/month in both cases.",
+      "Dedicated deployments are billed by GPU-second. We charge $3.89 per hour for one NVIDIA A100 80 GB GPU. Pricing scales linearly when using multiple A100 GPUs. NVIDIA H100 80 GB GPUs are available to Enterprise accounts - contact us for details."
+    ],
+    "totals": {
+      "removed": 48,
+      "added": 47,
+      "materialRemoved": 8,
+      "materialAdded": 18
+    }
+  },
+  {
+    "id": "fireworks-ai-pricing-20240905145026",
+    "url": "https://fireworks.ai/pricing",
+    "ts": "20240905145026",
+    "date": "2024-09-05",
+    "source": "wayback",
+    "prevTs": "20240717063209",
+    "kind": "price",
+    "score": 15,
+    "counts": {
+      "price": 3,
+      "limit": 2,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Fireworks AI: 3 prices, 2 limits, 1 plan name changed (removed “Fireworks AI raises $52M Series B to lead ind…”; added “Introducing Llama 3.1 in partnership with Met…”)",
+    "pairs": [],
+    "added": [
+      "Introducing Llama 3.1 in partnership with Meta. Try Llama 3.1 405B",
+      "$1 free credits",
+      "Meta Llama 3.1 405B",
+      "$3.00"
+    ],
+    "removed": [
+      "Fireworks AI raises $52M Series B to lead industry shift to compound AI systems. Learn more",
+      "600 requests/min rate limit",
+      "Free initial credits",
+      "Deploy up to 4 GPUs on-demand"
+    ],
+    "totals": {
+      "removed": 18,
+      "added": 12,
+      "materialRemoved": 5,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "fireworks-ai-pricing-20241124060821",
+    "url": "https://fireworks.ai/pricing",
+    "ts": "20241124060821",
+    "date": "2024-11-24",
+    "source": "wayback",
+    "prevTs": "20240905145026",
+    "kind": "price",
+    "score": 39,
+    "counts": {
+      "price": 11,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fireworks AI: 11 prices, 3 limits changed (removed “Introducing Llama 3.1 in partnership with Met…”; added “0B - 4B”)",
+    "pairs": [],
+    "added": [
+      "0B - 4B",
+      "$0.10",
+      "4B - 16B",
+      "16.1B+",
+      "$0.0005 ($0.014 per 28 step image)",
+      "$0.00035 ($0.0014 per 4 step image)",
+      "$0.0015",
+      "$0.0009",
+      "$2.90",
+      "$5.80",
+      "$4.99"
+    ],
+    "removed": [
+      "Introducing Llama 3.1 in partnership with Meta. Try Llama 3.1 405B",
+      "0B - 16B",
+      "16.1B - 80B",
+      "For the Whisper speech recognition model, we charge per second of audio input at a $0.004/minute rate.",
+      "$3.89",
+      "$7.79"
+    ],
+    "totals": {
+      "removed": 15,
+      "added": 38,
+      "materialRemoved": 7,
+      "materialAdded": 12
+    }
+  },
+  {
+    "id": "fireworks-ai-pricing-20250105123859",
+    "url": "https://fireworks.ai/pricing",
+    "ts": "20250105123859",
+    "date": "2025-01-05",
+    "source": "wayback",
+    "prevTs": "20241124060821",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fireworks AI: 1 price changed (added “$0.90”)",
+    "pairs": [],
+    "added": [
+      "$0.90"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 12,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "fireworks-ai-pricing-20250205030147",
+    "url": "https://fireworks.ai/pricing",
+    "ts": "20250205030147",
+    "date": "2025-02-05",
+    "source": "wayback",
+    "prevTs": "20250105123859",
+    "kind": "price",
+    "score": 11,
+    "counts": {
+      "price": 3,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fireworks AI: 3 prices, 1 limit changed (added “Serverless inference up to 6,000 RPM, 2.5 bil…”)",
+    "pairs": [],
+    "added": [
+      "Serverless inference up to 6,000 RPM, 2.5 billion tokens/day",
+      "$8.00",
+      "$0.0032",
+      "H200 141 GB GPU",
+      "$9.99"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 8,
+      "materialRemoved": 0,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "fireworks-ai-pricing-20250304004954",
+    "url": "https://fireworks.ai/pricing",
+    "ts": "20250304004954",
+    "date": "2025-03-04",
+    "source": "wayback",
+    "prevTs": "20250205030147",
+    "kind": "price",
+    "score": 23,
+    "counts": {
+      "price": 7,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fireworks AI: 7 prices, 1 limit changed ($100 → $50; $1,000 → $500)",
+    "pairs": [
+      {
+        "before": "Total historical spend of $100+",
+        "after": "Total historical spend of $50+",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$100",
+            "after": "$50"
+          }
+        ]
+      },
+      {
+        "before": "Total historical spend of $1,000+",
+        "after": "Total historical spend of $500+",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1,000",
+            "after": "$500"
+          }
+        ]
+      },
+      {
+        "before": "Total historical spend of $10,000+",
+        "after": "Total historical spend of $5,000+",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$10,000",
+            "after": "$5,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Deploy up to 8 GPUs on-demand, 2,000 GPU hours/month",
+      "$0.75 input, $3.00 output starting Feb 10 ($0.90 input, $0.90 output till Feb 9)",
+      "$3.00 input, $8.00 output"
+    ],
+    "removed": [
+      "Deploy up to 16 GPUs on-demand (no rate limits)",
+      "$0.90",
+      "$8.00"
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 12,
+      "materialRemoved": 7,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "fireworks-ai-pricing-20250405030516",
+    "url": "https://fireworks.ai/pricing",
+    "ts": "20250405030516",
+    "date": "2025-04-05",
+    "source": "wayback",
+    "prevTs": "20250304004954",
+    "kind": "price",
+    "score": 10,
+    "counts": {
+      "price": 3,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fireworks AI: 3 prices, 1 limit changed (removed “$0.75 input, $3.00 output starting Feb 10 ($0…”; added “$/1M tokens *”)",
+    "pairs": [],
+    "added": [
+      "$/1M tokens *",
+      "$0.90",
+      "$0.55 input, $2.19 output"
+    ],
+    "removed": [
+      "$0.75 input, $3.00 output starting Feb 10 ($0.90 input, $0.90 output till Feb 9)"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 11,
+      "materialRemoved": 2,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "fireworks-ai-pricing-20250508012118",
+    "url": "https://fireworks.ai/pricing",
+    "ts": "20250508012118",
+    "date": "2025-05-08",
+    "source": "wayback",
+    "prevTs": "20250405030516",
+    "kind": "price",
+    "score": 14,
+    "counts": {
+      "price": 4,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fireworks AI: 4 prices, 1 limit changed (added “$0.22 input, $0.88 output”)",
+    "pairs": [],
+    "added": [
+      "$0.22 input, $0.88 output",
+      "$0.15 input, $0.60 output",
+      "Qwen3 235B",
+      "$0.22 input, $0.88 output",
+      "Qwen3 30B",
+      "$0.15 input, $0.60 output"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 17,
+      "added": 23,
+      "materialRemoved": 11,
+      "materialAdded": 17
+    }
+  },
+  {
+    "id": "fireworks-ai-pricing-20250618074718",
+    "url": "https://fireworks.ai/pricing",
+    "ts": "20250618074718",
+    "date": "2025-06-18",
+    "source": "wayback",
+    "prevTs": "20250508012118",
+    "kind": "price",
+    "score": 55,
+    "counts": {
+      "price": 15,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fireworks AI: 15 prices, 5 limits changed (removed “Serverless inference up to 6,000 RPM, 2.5 bil…”; added “Less than 4B parameters”)",
+    "pairs": [],
+    "added": [
+      "Less than 4B parameters",
+      "More than 16B parameters",
+      "$3.00 input, $8.00 output",
+      "$10.00",
+      "$6.99",
+      "B200 180 GB GPU",
+      "$11.99"
+    ],
+    "removed": [
+      "Serverless inference up to 6,000 RPM, 2.5 billion tokens/day",
+      "Deploy up to 8 GPUs on-demand, 2,000 GPU hours/month",
+      "Unlimited rate limits",
+      "Unlimited deployed models",
+      "$3.00",
+      "0B - 4B",
+      "16.1B+",
+      "$ / 1M tokens in training",
+      "MoE 0B - 56B (e.g. Mixtral 8x7B)",
+      "$2.00",
+      "MoE 56.1B - 176B (e.g. DBRX, Mixtral 8x22B)",
+      "$6.00",
+      "$9.99",
+      "$50 / month",
+      "$500 / month",
+      "Total historical spend of $50+",
+      "$5,000 / month",
+      "Total historical spend of $500+",
+      "$50,000 / month",
+      "Total historical spend of $5,000+"
+    ],
+    "totals": {
+      "removed": 100,
+      "added": 69,
+      "materialRemoved": 35,
+      "materialAdded": 22
+    }
+  },
+  {
+    "id": "fireworks-ai-pricing-20250714222651",
+    "url": "https://fireworks.ai/pricing",
+    "ts": "20250714222651",
+    "date": "2025-07-14",
+    "source": "wayback",
+    "prevTs": "20250618074718",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fireworks AI: 2 prices changed (added “$0.04 per image”)",
+    "pairs": [],
+    "added": [
+      "$0.04 per image",
+      "$0.08 per image"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 13,
+      "materialRemoved": 4,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "fireworks-ai-pricing-20250809142415",
+    "url": "https://fireworks.ai/pricing",
+    "ts": "20250809142415",
+    "date": "2025-08-09",
+    "source": "wayback",
+    "prevTs": "20250714222651",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 4,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fireworks AI: 4 prices, 3 limits changed (removed “Qwen3 235B”; added “OpenAI gpt-oss-120b & 20b, open weight models…”)",
+    "pairs": [],
+    "added": [
+      "OpenAI gpt-oss-120b & 20b, open weight models designed for reasoning, agentic tasks, and versatile developer use cases is now available! Try Now",
+      "Qwen3 235B Family and GLM-4.5 Air",
+      "$0.60 input, $2.50 output",
+      "Qwen3 Coder 480B",
+      "$0.45 input, $1.80 output",
+      "OpenAI gpt OSS 120b",
+      "$0.15 input, $0.60 output",
+      "OpenAI gpt OSS 20b",
+      "$0.05 input, $0.20 output"
+    ],
+    "removed": [
+      "Qwen3 235B"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 17,
+      "materialRemoved": 2,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "fireworks-ai-pricing-20250903222514",
+    "url": "https://fireworks.ai/pricing",
+    "ts": "20250903222514",
+    "date": "2025-09-03",
+    "source": "wayback",
+    "prevTs": "20250809142415",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 2,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fireworks AI: 2 prices, 2 limits changed ($0.05 → $0.07)",
+    "pairs": [
+      {
+        "before": "$0.05 input, $0.20 output",
+        "after": "$0.07 input, $0.30 output",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.05",
+            "after": "$0.07"
+          },
+          {
+            "before": "$0.20",
+            "after": "$0.30"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Models 80B - 300B (e.g. Qwen3-235B, gpt-oss-120B)",
+      "$6.00",
+      "Models >300B (e.g. DeepSeek V3, Kimi K2)"
+    ],
+    "removed": [
+      "OpenAI gpt-oss-120b & 20b, open weight models designed for reasoning, agentic tasks, and versatile developer use cases is now available! Try Now"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 9,
+      "materialRemoved": 2,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "fireworks-ai-pricing-20251001200713",
+    "url": "https://fireworks.ai/pricing",
+    "ts": "20251001200713",
+    "date": "2025-10-01",
+    "source": "wayback",
+    "prevTs": "20250903222514",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fireworks AI: 1 price changed (added “$0.0035”)",
+    "pairs": [],
+    "added": [
+      "$0.0035"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "fireworks-ai-pricing-20251104065625",
+    "url": "https://fireworks.ai/pricing",
+    "ts": "20251104065625",
+    "date": "2025-11-04",
+    "source": "wayback",
+    "prevTs": "20251001200713",
+    "kind": "price",
+    "score": 30,
+    "counts": {
+      "price": 10,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fireworks AI: 10 prices changed ($3.00 → $1.35)",
+    "pairs": [
+      {
+        "before": "$3.00 input, $8.00 output",
+        "after": "$1.35 input, $5.4 output",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.00",
+            "after": "$1.35"
+          },
+          {
+            "before": "$8.00",
+            "after": "$5.4"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Fireworks AI raises $250M Series C to power the future of enterprise AI. Read more",
+      "$4.00",
+      "$6.00",
+      "$9.00"
+    ],
+    "removed": [
+      "$3.00 input, $8.00 output",
+      "$5.80",
+      "$6.99",
+      "$11.99",
+      "$4.99"
+    ],
+    "totals": {
+      "removed": 13,
+      "added": 10,
+      "materialRemoved": 8,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "fireworks-ai-pricing-20251201073739",
+    "url": "https://fireworks.ai/pricing",
+    "ts": "20251201073739",
+    "date": "2025-12-01",
+    "source": "wayback",
+    "prevTs": "20251104065625",
+    "kind": "price",
+    "score": 13,
+    "counts": {
+      "price": 4,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fireworks AI: 4 prices, 1 limit changed (removed “Fireworks AI raises $250M Series C to power t…”; added “$0.56 input, $1.68 output”)",
+    "pairs": [],
+    "added": [
+      "$0.56 input, $1.68 output",
+      "Qwen3 8B",
+      "$0.1"
+    ],
+    "removed": [
+      "Fireworks AI raises $250M Series C to power the future of enterprise AI. Read more",
+      "$0.90"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 8,
+      "materialRemoved": 4,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "fireworks-ai-pricing-20260101190121",
+    "url": "https://fireworks.ai/pricing",
+    "ts": "20260101190121",
+    "date": "2026-01-01",
+    "source": "wayback",
+    "prevTs": "20251201073739",
+    "kind": "price",
+    "score": 103,
+    "counts": {
+      "price": 32,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fireworks AI: 32 prices, 4 limits changed (removed “$0.10”; added “$0.10, $0.05 cached”)",
+    "pairs": [],
+    "added": [
+      "$0.10, $0.05 cached",
+      "$0.20, $0.10 cached",
+      "$0.90, $0.45 cached",
+      "$0.50, $0.25 cached",
+      "$1.20, $0.60 cached",
+      "$0.56 input, $0.28 cached, $1.68 output",
+      "$1.35 input, $0.68 cached, $5.4 output",
+      "$0.55 input, $0.28 cached, $2.19 output",
+      "Qwen3 235B Family",
+      "Qwen3 VL 30B A3B",
+      "$0.60 input, $0.30 cached, $2.50 output",
+      "$0.45 input, $0.23 cached, $1.80 output",
+      "$0.15 input, $0.07 cached, $0.60 output",
+      "$0.07 input, $0.04 cached, $0.30 output",
+      "$0.30 input, $0.15 cached, $1.20 output",
+      "$1.00",
+      "$6.00",
+      "$12.00",
+      "$20.00",
+      "SFT and DPO prices are shown in $ per 1M training tokens. Training tokens can be estimated with number of tokens in training dataset * number of epochs. Estimation should be multiplied by the average number conversation turns /2 for tuning with intermediate thinking traces.",
+      "Fine-tuning with images (VLM supervised fine-tuning) is also billed per 1M tokens. See this FAQ"
+    ],
+    "removed": [
+      "$0.10",
+      "$0.20",
+      "$0.90",
+      "$0.50",
+      "$1.20",
+      "$0.56 input, $1.68 output",
+      "$1.35 input, $5.4 output",
+      "$0.55 input, $2.19 output",
+      "Meta Llama 3.1 405B",
+      "$3.00",
+      "Qwen3 235B Family, GLM-4.5 Air",
+      "$0.22 input, $0.88 output",
+      "Qwen3 30B, Qwen Coder Flash",
+      "$0.15 input, $0.60 output",
+      "$0.60 input, $2.50 output",
+      "$0.45 input, $1.80 output",
+      "$0.15 input, $0.60 output",
+      "$0.07 input, $0.30 output"
+    ],
+    "totals": {
+      "removed": 32,
+      "added": 35,
+      "materialRemoved": 20,
+      "materialAdded": 23
+    }
+  },
+  {
+    "id": "fireworks-ai-pricing-20260201223701",
+    "url": "https://fireworks.ai/pricing",
+    "ts": "20260201223701",
+    "date": "2026-02-01",
+    "source": "wayback",
+    "prevTs": "20260101190121",
+    "kind": "price",
+    "score": 66,
+    "counts": {
+      "price": 22,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fireworks AI: 22 prices changed ($0.28 → $1.68; $0.68 → $5.4)",
+    "pairs": [
+      {
+        "before": "$0.56 input, $0.28 cached, $1.68 output",
+        "after": "$0.56 input, $1.68 output",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$0.28",
+            "after": "$1.68"
+          },
+          {
+            "before": "$1.68",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$1.35 input, $0.68 cached, $5.4 output",
+        "after": "$1.35 input, $5.4 output",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$0.68",
+            "after": "$5.4"
+          },
+          {
+            "before": "$5.4",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$0.55 input, $0.28 cached, $2.19 output",
+        "after": "$0.55 input, $2.19 output",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$0.28",
+            "after": "$2.19"
+          },
+          {
+            "before": "$2.19",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$0.60 input, $0.30 cached, $2.50 output",
+        "after": "$0.60 input, $0.10 cached input, $3.00 output",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.30",
+            "after": "$0.10"
+          },
+          {
+            "before": "$2.50",
+            "after": "$3.00"
+          }
+        ]
+      },
+      {
+        "before": "$0.45 input, $0.23 cached, $1.80 output",
+        "after": "$0.45 input, $1.80 output",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$0.23",
+            "after": "$1.80"
+          },
+          {
+            "before": "$1.80",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$0.15 input, $0.07 cached, $0.60 output",
+        "after": "$0.15 input, $0.60 output",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$0.07",
+            "after": "$0.60"
+          },
+          {
+            "before": "$0.60",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$0.07 input, $0.04 cached, $0.30 output",
+        "after": "$0.07 input, $0.30 output",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$0.04",
+            "after": "$0.30"
+          },
+          {
+            "before": "$0.30",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$0.30 input, $0.15 cached, $1.20 output",
+        "after": "$0.30 input, $1.20 output",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$0.15",
+            "after": "$1.20"
+          },
+          {
+            "before": "$1.20",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0.10",
+      "$0.20",
+      "$0.90",
+      "$0.50",
+      "$1.20",
+      "$0.60 input, $2.20 output",
+      "$0.60 input, $2.50 output"
+    ],
+    "removed": [
+      "$0.10, $0.05 cached",
+      "$0.20, $0.10 cached",
+      "$0.90, $0.45 cached",
+      "$0.50, $0.25 cached",
+      "$1.20, $0.60 cached",
+      "$0.0032",
+      "$0.0035"
+    ],
+    "totals": {
+      "removed": 27,
+      "added": 27,
+      "materialRemoved": 17,
+      "materialAdded": 17
+    }
+  },
+  {
+    "id": "fireworks-ai-pricing-20260302121222",
+    "url": "https://fireworks.ai/pricing",
+    "ts": "20260302121222",
+    "date": "2026-03-02",
+    "source": "wayback",
+    "prevTs": "20260201223701",
+    "kind": "price",
+    "score": 23,
+    "counts": {
+      "price": 7,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fireworks AI: 7 prices, 1 limit changed (removed “$1.35 input, $5.4 output”; added “$1.00 input, $0.20 cached input, $3.20 output”)",
+    "pairs": [],
+    "added": [
+      "$1.00 input, $0.20 cached input, $3.20 output",
+      "$0.30 input, $0.03 cached input, $1.20 output"
+    ],
+    "removed": [
+      "$1.35 input, $5.4 output",
+      "$0.55 input, $2.19 output",
+      "Qwen3 235B Family",
+      "$0.22 input, $0.88 output",
+      "Qwen3 Coder 480B",
+      "$0.45 input, $1.80 output",
+      "$0.30 input, $1.20 output"
+    ],
+    "totals": {
+      "removed": 12,
+      "added": 7,
+      "materialRemoved": 7,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "fireworks-ai-pricing-20260401045659",
+    "url": "https://fireworks.ai/pricing",
+    "ts": "20260401045659",
+    "date": "2026-04-01",
+    "source": "wayback",
+    "prevTs": "20260302121222",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fireworks AI: 3 prices changed (removed “$4.00”; added “$0.99 input, $0.16 cached input, $4.94 output”)",
+    "pairs": [],
+    "added": [
+      "$0.99 input, $0.16 cached input, $4.94 output",
+      "$6.00"
+    ],
+    "removed": [
+      "$4.00"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 4,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "fireworks-ai-pricing-20260506132907",
+    "url": "https://fireworks.ai/pricing",
+    "ts": "20260506132907",
+    "date": "2026-05-06",
+    "source": "wayback",
+    "prevTs": "20260401045659",
+    "kind": "price",
+    "score": 83,
+    "counts": {
+      "price": 27,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fireworks AI: 27 prices, 1 limit changed (removed “$0.60 input, $2.50 output”; added “$1.74 input, $0.145 cached input, $3.48 output”)",
+    "pairs": [],
+    "added": [
+      "$1.74 input, $0.145 cached input, $3.48 output",
+      "$0.95 input, $0.16 cached input, $4.00 output",
+      "$1.50 input, $0.22 cached input, $6.00 output",
+      "$2.00 input, $0.30 cached input, $8.00 output",
+      "$1.40 input, $0.26 cached input, $4.40 output",
+      "$0.30 input, $0.06 cached input, $1.20 output",
+      "$2.00",
+      "$12.00",
+      "$24.00",
+      "$40.00",
+      "$7.00",
+      "$7.00",
+      "$10.00",
+      "B300 288 GB GPU",
+      "$12.00"
+    ],
+    "removed": [
+      "$0.60 input, $2.50 output",
+      "$0.0015",
+      "$0.0009",
+      "$0.00013 per step ($0.0039 per 30 step image)",
+      "$0.0002 per step ($0.006 per 30 step image)",
+      "$0.0005 per step ($0.014 per 28 step image)",
+      "$0.00035 per step ($0.0014 per 4 step image)",
+      "$0.04 per image",
+      "$0.08 per image",
+      "A100 80 GB GPU",
+      "$2.90",
+      "$6.00",
+      "$6.00",
+      "$9.00"
+    ],
+    "totals": {
+      "removed": 45,
+      "added": 28,
+      "materialRemoved": 14,
+      "materialAdded": 15
+    }
+  },
+  {
+    "id": "fireworks-ai-pricing-20260601002657",
+    "url": "https://fireworks.ai/pricing",
+    "ts": "20260601002657",
+    "date": "2026-06-01",
+    "source": "wayback",
+    "prevTs": "20260506132907",
+    "kind": "price",
+    "score": 69,
+    "counts": {
+      "price": 20,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fireworks AI: 20 prices, 5 limits changed (removed “$ / 1M tokens”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$ / 1M tokens",
+      "Less than 4B parameters",
+      "$0.10",
+      "4B - 16B parameters",
+      "$0.20",
+      "More than 16B parameters",
+      "$0.90",
+      "MoE 0B - 56B parameters (e.g. Mixtral 8x7B)",
+      "$0.50",
+      "MoE 56.1B - 176B parameters (e.g. DBRX, Mixtral 8x22B)",
+      "$1.20",
+      "$1.74 input, $0.145 cached input, $3.48 output",
+      "$0.56 input, $1.68 output",
+      "$0.95 input, $0.16 cached input, $4.00 output",
+      "$1.50 input, $0.22 cached input, $6.00 output",
+      "$2.00 input, $0.30 cached input, $8.00 output",
+      "$0.60 input, $2.20 output",
+      "$1.00 input, $0.20 cached input, $3.20 output",
+      "$1.40 input, $0.26 cached input, $4.40 output",
+      "Qwen3 VL 30B A3B",
+      "$0.15 input, $0.60 output",
+      "$0.60 input, $0.10 cached input, $3.00 output",
+      "$0.99 input, $0.16 cached input, $4.94 output",
+      "OpenAI gpt-oss-120b",
+      "$0.15 input, $0.60 output",
+      "OpenAI gpt-oss-20b",
+      "$0.07 input, $0.30 output",
+      "$0.30 input, $0.03 cached input, $1.20 output",
+      "$0.30 input, $0.06 cached input, $1.20 output"
+    ],
+    "totals": {
+      "removed": 46,
+      "added": 9,
+      "materialRemoved": 29,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "fireworks-ai-pricing-20260702152938",
+    "url": "https://fireworks.ai/pricing",
+    "ts": "20260702152938",
+    "date": "2026-07-02",
+    "source": "wayback",
+    "prevTs": "20260601002657",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Fireworks AI: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "fireworks-ai-pricing-20260802131608",
+    "url": "https://fireworks.ai/pricing",
+    "ts": "20260802131608",
+    "date": "2026-08-02",
+    "source": "wayback",
+    "prevTs": "20260702152938",
+    "kind": "price",
+    "score": 42,
+    "counts": {
+      "price": 12,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fireworks AI: 12 prices, 3 limits changed (added “Prefill / 1M”)",
+    "pairs": [],
+    "added": [
+      "Prefill / 1M",
+      "Cached Prefill / 1M",
+      "Sample / 1M",
+      "Train / 1M",
+      "Qwen 3.5 9B",
+      "$0.66",
+      "$0.132",
+      "$1.995",
+      "$1.463",
+      "Qwen 3.6 27B",
+      "$1.86",
+      "$0.372",
+      "$5.595",
+      "$4.103",
+      "$10.87",
+      "$2.17",
+      "$27.11",
+      "$32.55"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 18,
+      "added": 34,
+      "materialRemoved": 2,
+      "materialAdded": 20
+    }
+  },
+  {
+    "id": "fireworks-ai-pricing-20260902202107",
+    "url": "https://fireworks.ai/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260802131608",
+    "kind": "price",
+    "score": 59,
+    "counts": {
+      "price": 18,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fireworks AI: 18 prices, 3 limits changed (3.5 → 3.8)",
+    "pairs": [
+      {
+        "before": "Qwen 3.5 9B",
+        "after": "Qwen 3.8 27B",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3.5",
+            "after": "3.8"
+          },
+          {
+            "before": "9B",
+            "after": "27B"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$1.74",
+      "$0.35",
+      "$4.33",
+      "$5.20",
+      "Muse Glimmer 30B",
+      "$1.96",
+      "$0.39",
+      "$4.88",
+      "$5.86",
+      "$8.00",
+      "$8.00",
+      "$13.00",
+      "$15.00",
+      "GB300 288 GB GPU",
+      "$18.00",
+      "$20.00"
+    ],
+    "removed": [
+      "$0.66",
+      "$0.132",
+      "$1.995",
+      "$1.463",
+      "Qwen 3.6 27B"
+    ],
+    "totals": {
+      "removed": 11,
+      "added": 23,
+      "materialRemoved": 6,
+      "materialAdded": 17
+    },
+    "transition": true
+  },
+  {
+    "id": "docs-fireworks-ai-serverless-rate-limits-20260902202107",
+    "url": "https://docs.fireworks.ai/serverless/rate-limits",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260507222857",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fireworks AI: 2 limits changed (added “< 400B”)",
+    "pairs": [],
+    "added": [
+      "< 400B",
+      "400B – < 1.6T",
+      "Fast, Priority, and US-only variants of a model share the same tier and ceilings as the base model. Models without a known parameter count use Large ceilings. Based on your usage, your adaptive limits will grow and shrink within these ceilings. If your traffic ramps up too quickly, you will get 429s.",
+      "Ceiling tiers are based on the model’s total parameter count: Small (< 400B), Medium (400B – < 1.6T), or Large (≥ 1.6T). See Model size tiers"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 71,
+      "added": 19,
+      "materialRemoved": 0,
+      "materialAdded": 4
+    },
+    "transition": true
+  }
+]

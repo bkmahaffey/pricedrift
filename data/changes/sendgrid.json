@@ -1,0 +1,383 @@
+[
+  {
+    "id": "sendgrid-com-en-us-pricing-20240304195642",
+    "url": "https://sendgrid.com/en-us/pricing",
+    "ts": "20240304195642",
+    "date": "2024-03-04",
+    "source": "wayback",
+    "prevTs": "20231122184205",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 3,
+      "limit": 4,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "SendGrid: 3 prices, 4 limits, 4 plan names changed (added “$0/mo”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "Free",
+      "$0/mo",
+      "starting at $15/mo",
+      "starting at $60/mo",
+      "3 credits",
+      "10 credits",
+      "60 credits",
+      "P1: 1 hr (24/7)",
+      "1 Teammate",
+      "1,000 Teammates",
+      "How does the free trial work?",
+      "a, you can send 100 emails per day. If you need to send more than that, complete your account setup",
+      "Sign Up for My Free Account",
+      "Start For Free"
+    ],
+    "removed": [
+      "Free"
+    ],
+    "totals": {
+      "removed": 61,
+      "added": 167,
+      "materialRemoved": 19,
+      "materialAdded": 33
+    }
+  },
+  {
+    "id": "sendgrid-com-en-us-pricing-20240606170156",
+    "url": "https://sendgrid.com/en-us/pricing",
+    "ts": "20240606170156",
+    "date": "2024-06-06",
+    "source": "wayback",
+    "prevTs": "20240304195642",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "SendGrid: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 4,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "sendgrid-com-en-us-pricing-20240802100959",
+    "url": "https://sendgrid.com/en-us/pricing",
+    "ts": "20240802100959",
+    "date": "2024-08-02",
+    "source": "wayback",
+    "prevTs": "20240606170156",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "SendGrid: 1 limit changed (2,000 → 100)",
+    "pairs": [
+      {
+        "before": "Try it out! Store up to 2,000 contacts and send up to 6,000 emails/mo.",
+        "after": "Try it out! Store up to 100 contacts and send up to 6,000 emails/mo.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2,000",
+            "after": "100"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "sendgrid-com-en-us-pricing-20240904000758",
+    "url": "https://sendgrid.com/en-us/pricing",
+    "ts": "20240904000758",
+    "date": "2024-09-04",
+    "source": "wayback",
+    "prevTs": "20240802100959",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "SendGrid: 1 limit changed (removed “P1: 1 hr (24/7)”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "P1: 1 hr (24/7)",
+      "P1: 1 hr (24/7)"
+    ],
+    "totals": {
+      "removed": 15,
+      "added": 2,
+      "materialRemoved": 2,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "twilio-com-en-us-products-email-api-pricing-20251003223211",
+    "url": "https://www.twilio.com/en-us/products/email-api/pricing",
+    "ts": "20251003223211",
+    "date": "2025-10-03",
+    "source": "wayback",
+    "prevTs": "20250704213725",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "SendGrid: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Search and filter your email activity up to 30 days in the past with the purchase of additional email activity history."
+    ],
+    "totals": {
+      "removed": 47,
+      "added": 5,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "twilio-com-en-us-products-email-api-pricing-20251112131855",
+    "url": "https://www.twilio.com/en-us/products/email-api/pricing",
+    "ts": "20251112131855",
+    "date": "2025-11-12",
+    "source": "wayback",
+    "prevTs": "20251003223211",
+    "kind": "price",
+    "score": 15,
+    "counts": {
+      "price": 5,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "SendGrid: 5 prices changed (added “30 Email Testing credits per month, available…”)",
+    "pairs": [],
+    "added": [
+      "30 Email Testing credits per month, available for $18.00 USD",
+      "60 Email Testing credits per month, available for $30.00 USD",
+      "100 Email Testing credits per month, available for $40.000 USD",
+      "500 Email Testing credits per month, available for $200.00 USD",
+      "2,000 Email Testing credits per month, available for $800.00 USD"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 7,
+      "materialRemoved": 0,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "twilio-com-en-us-products-email-api-pricing-20251207214255",
+    "url": "https://www.twilio.com/en-us/products/email-api/pricing",
+    "ts": "20251207214255",
+    "date": "2025-12-07",
+    "source": "wayback",
+    "prevTs": "20251112131855",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "SendGrid: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "twilio-com-en-us-products-email-api-pricing-20260118164526",
+    "url": "https://www.twilio.com/en-us/products/email-api/pricing",
+    "ts": "20260118164526",
+    "date": "2026-01-18",
+    "source": "wayback",
+    "prevTs": "20251207214255",
+    "kind": "price",
+    "score": 48,
+    "counts": {
+      "price": 8,
+      "limit": 4,
+      "plan": 8
+    },
+    "material": true,
+    "headline": "SendGrid: 8 prices, 4 limits, 8 plan names changed (added “Essentials 50K”)",
+    "pairs": [],
+    "added": [
+      "Essentials 50K",
+      "$0.0013",
+      "Essentials 100K",
+      "$0.0009",
+      "Pro 100K",
+      "$0.0011",
+      "Pro 300K",
+      "$0.0009",
+      "Pro 700K",
+      "$0.0008",
+      "Pro 1.5M",
+      "$0.0006",
+      "Pro 2.5M",
+      "$0.0005",
+      "Pro 2.5M Legacy",
+      "$0.0005"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 26,
+      "materialRemoved": 0,
+      "materialAdded": 16
+    }
+  },
+  {
+    "id": "twilio-com-en-us-products-email-api-pricing-20260508081340",
+    "url": "https://www.twilio.com/en-us/products/email-api/pricing",
+    "ts": "20260508081340",
+    "date": "2026-05-08",
+    "source": "wayback",
+    "prevTs": "20260118164526",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "SendGrid: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 13,
+      "added": 13,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "support-sendgrid-com-hc-en-us-articles-35270136965403-twilio-sendgrid-trial-acco-20260516021402",
+    "url": "https://support.sendgrid.com/hc/en-us/articles/35270136965403-Twilio-SendGrid-Trial-Account-Plan",
+    "ts": "20260516021402",
+    "date": "2026-05-16",
+    "source": "wayback",
+    "prevTs": "20250408220653",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "SendGrid: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Access to the \"Marketing\" user interface console will no longer be possible. Important Note: Customers on the free Marketing plan will have access to our Design Library; however, the other subtabs within the Marketing tab will remain inaccessible.",
+      "If I'm on a free Marketing Campaigns plan, will I need to upgrade after the trial period to continue using the Design Library?",
+      "Customers on the free Marketing plan will have access to our Design Library; however, the other subtabs within the Marketing tab will remain inaccessible:"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 10,
+      "materialRemoved": 0,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "twilio-com-en-us-products-email-api-pricing-20260820084803",
+    "url": "https://www.twilio.com/en-us/products/email-api/pricing",
+    "ts": "20260820084803",
+    "date": "2026-08-20",
+    "source": "wayback",
+    "prevTs": "20260508081340",
+    "kind": "price",
+    "score": 10,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "SendGrid: 1 price, 1 limit, 3 plan names changed (added “Free trial lets you send 100 emails/day for 6…”)",
+    "pairs": [],
+    "added": [
+      "Free trial lets you send 100 emails/day for 60 days",
+      "Essentials plan starts at $19.95 per month",
+      "Start for free",
+      "Start for free",
+      "Start for free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 51,
+      "materialRemoved": 0,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "support-sendgrid-com-hc-en-us-articles-35270136965403-twilio-sendgrid-trial-acco-20260902202107",
+    "url": "https://support.sendgrid.com/hc/en-us/articles/35270136965403-Twilio-SendGrid-Trial-Account-Plan",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260516021402",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "SendGrid: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

@@ -29,8 +29,8 @@ async function main() {
       const last = hostLast.get(host) || 0; const wait = 1500 - (Date.now() - last);
       if (wait > 0) await sleep(wait);
       hostLast.set(host, Date.now());
-      const minLines = s.min_lines || 40;
-      const r = await fetchPage(url, { minLines, minMaterial: s.min_material ?? 3 });
+      const minLines = s.min_lines || 15;
+      const r = await fetchPage(url, { minLines, minMaterial: s.min_material ?? 1 });
       summary.checked++;
       const state = await readState(s.slug);
       const key = urlKey(url);

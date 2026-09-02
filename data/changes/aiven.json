@@ -1,0 +1,1097 @@
+[
+  {
+    "id": "aiven-io-pricing-20230314140250",
+    "url": "https://aiven.io/pricing",
+    "ts": "20230314140250",
+    "date": "2023-03-14",
+    "source": "wayback",
+    "prevTs": "20230124092912",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Aiven: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "Get started for free"
+    ],
+    "removed": [
+      "Start free trial",
+      "No credit card required. All features included."
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 2,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "aiven-io-pricing-20240222104600",
+    "url": "https://aiven.io/pricing",
+    "ts": "20240222104600",
+    "date": "2024-02-22",
+    "source": "wayback",
+    "prevTs": "20230314140250",
+    "kind": "price",
+    "score": 57,
+    "counts": {
+      "price": 15,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Aiven: 15 prices, 6 limits changed (removed “$ 0.274”; added “starting from $290 / month”)",
+    "pairs": [],
+    "added": [
+      "starting from $290 / month",
+      "$0.40 / hour",
+      "2 CPU per VM",
+      "Get started for free",
+      "starting from $725 / month",
+      "$0.99 / hour",
+      "2-8 CPU per VM",
+      "Get started for free",
+      "starting from $2,800 / month",
+      "$3.84 / hour",
+      "2-8 CPU per VM",
+      "Get started for free",
+      "$290 / month",
+      "$725 / month",
+      "$2,800 / month",
+      "2 GB",
+      "4-32 GB",
+      "8-32 GB",
+      "90 GB",
+      "600-4500 GB",
+      "2250-45000 GB",
+      "Aiven categorises plans into 5 different tiers. These are Free, Hobbyist, Startup, Business and Premium. The differences between tiers are service specific so we encourage you to choose the service you are interested in from the plan finder on the pricing page and then click \"Plan Comparison\".",
+      "Aiven offers free plans for PostgreSQL®, MySQL and Redis®*, available across nine AWS regions globally, and have the following specifications:",
+      "1 CPU",
+      "1GB RAM",
+      "For PostgreSQL and MySQL: 5GB storage",
+      "For more details on the free plans, check out our documentation",
+      "What is the difference between the Aiven free plans and the Aiven free trial?",
+      "For more details on the free plans, check out our documentation.",
+      "Get started for free"
+    ],
+    "removed": [
+      "$ 0.274",
+      "$ 200",
+      "from $0.685",
+      "from $500",
+      "from $2.603",
+      "from $1900"
+    ],
+    "totals": {
+      "removed": 102,
+      "added": 160,
+      "materialRemoved": 12,
+      "materialAdded": 36
+    }
+  },
+  {
+    "id": "aiven-io-pricing-20240509073847",
+    "url": "https://aiven.io/pricing",
+    "ts": "20240509073847",
+    "date": "2024-05-09",
+    "source": "wayback",
+    "prevTs": "20240222104600",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Aiven: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "aiven-io-pricing-20240917024228",
+    "url": "https://aiven.io/pricing",
+    "ts": "20240917024228",
+    "date": "2024-09-17",
+    "source": "wayback",
+    "prevTs": "20240509073847",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Aiven: 2 limits changed (added “1 CPU per virtual machine”)",
+    "pairs": [],
+    "added": [
+      "Aiven offers free plans for Aiven for PostgreSQL®, Aiven for MySQL and Aiven for Caching (compatible with legacy Redis® OSS), available in a limited number of regions for DigitalOcean hosting",
+      "Does Aiven offer a free plan?",
+      "Aiven offers free plans for Aiven for PostgreSQL®, Aiven for MySQL and Aiven for Caching (compatible with legacy Redis® OSS), available in a limited number of regions for DigitalOcean hosting",
+      "1 CPU per virtual machine",
+      "1 GB RAM",
+      "For PostgreSQL and MySQL: 5GB storage",
+      "Free plans do not have any time limitations. However, Aiven reserves the right to shut down services if we believe they violate the acceptable use policy"
+    ],
+    "removed": [
+      "Aiven offers free plans for PostgreSQL®, MySQL and Redis®*, available across nine AWS regions globally, and have the following specifications:"
+    ],
+    "totals": {
+      "removed": 11,
+      "added": 18,
+      "materialRemoved": 3,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "aiven-io-pricing-20250113105104",
+    "url": "https://aiven.io/pricing",
+    "ts": "20250113105104",
+    "date": "2025-01-13",
+    "source": "wayback",
+    "prevTs": "20240917024228",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Aiven: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Aiven offers free plans for Aiven for PostgreSQL®, Aiven for MySQL and Aiven for Valkey™, available in a limited number of regions for Amazon Web Services hosting",
+      "Aiven offers free plans for Aiven for PostgreSQL®, Aiven for MySQL and Aiven for Valkey™, available in a limited number of regions for Amazon Web Services hosting"
+    ],
+    "removed": [
+      "Aiven offers free plans for Aiven for PostgreSQL®, Aiven for MySQL and Aiven for Caching (compatible with legacy Redis® OSS), available in a limited number of regions for DigitalOcean hosting",
+      "Aiven offers free plans for Aiven for PostgreSQL®, Aiven for MySQL and Aiven for Caching (compatible with legacy Redis® OSS), available in a limited number of regions for DigitalOcean hosting"
+    ],
+    "totals": {
+      "removed": 28,
+      "added": 15,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "aiven-io-pricing-20250206163446",
+    "url": "https://aiven.io/pricing",
+    "ts": "20250206163446",
+    "date": "2025-02-06",
+    "source": "wayback",
+    "prevTs": "20250113105104",
+    "kind": "limits",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Aiven: 3 limits changed (removed “Aiven categorises plans into 5 different tier…”)",
+    "pairs": [],
+    "added": [
+      "Get started for free"
+    ],
+    "removed": [
+      "Aiven categorises plans into 5 different tiers depending on the services. These are Free, Hobbyist, Startup, Business and Premium. The differences between tiers are service specific so we encourage you to choose the service you are interested in from the plan finder on the pricing page and then click \"Plan Comparison\".",
+      "Aiven offers free plans for Aiven for PostgreSQL®, Aiven for MySQL and Aiven for Valkey™, available in a limited number of regions for Amazon Web Services hosting",
+      "1 CPU per virtual machine",
+      "1 GB RAM",
+      "For PostgreSQL and MySQL: 5GB storage",
+      "For more details on the free plans, check out our documentation",
+      "Aiven offers free plans for Aiven for PostgreSQL®, Aiven for MySQL and Aiven for Valkey™, available in a limited number of regions for Amazon Web Services hosting",
+      "1 CPU per virtual machine",
+      "1 GB RAM",
+      "For PostgreSQL and MySQL: 5GB storage",
+      "Free plans do not have any time limitations. However, Aiven reserves the right to shut down services if we believe they violate the acceptable use policy",
+      "For more details on the free plans, check out our documentation."
+    ],
+    "totals": {
+      "removed": 40,
+      "added": 2,
+      "materialRemoved": 12,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "aiven-io-pricing-20250403225320",
+    "url": "https://aiven.io/pricing",
+    "ts": "20250403225320",
+    "date": "2025-04-03",
+    "source": "wayback",
+    "prevTs": "20250206163446",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Aiven: 2 limits changed (removed “2 GB RAM per VM”; added “2-4 GB RAM per VM”)",
+    "pairs": [],
+    "added": [
+      "2-4 GB RAM per VM",
+      "2-4 GB"
+    ],
+    "removed": [
+      "2 GB RAM per VM",
+      "2 GB"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "aiven-io-pricing-20250719181636",
+    "url": "https://aiven.io/pricing",
+    "ts": "20250719181636",
+    "date": "2025-07-19",
+    "source": "wayback",
+    "prevTs": "20250403225320",
+    "kind": "limits",
+    "score": 8,
+    "counts": {
+      "price": 0,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Aiven: 4 limits changed (4500GB → 18432GB; 45000GB → 184320GB)",
+    "pairs": [
+      {
+        "before": "600-4500 GB total cluster storage",
+        "after": "600-18432 GB total cluster storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4500GB",
+            "after": "18432GB"
+          }
+        ]
+      },
+      {
+        "before": "2250-45000 GB total cluster storage",
+        "after": "2250-184320 GB total cluster storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "45000GB",
+            "after": "184320GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "600-18432 GB",
+      "2250-184320 GB"
+    ],
+    "removed": [
+      "600-4500 GB",
+      "2250-45000 GB"
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 13,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "aiven-io-pricing-20250915211210",
+    "url": "https://aiven.io/pricing",
+    "ts": "20250915211210",
+    "date": "2025-09-15",
+    "source": "wayback",
+    "prevTs": "20250719181636",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Aiven: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "aiven-io-pricing-20251201135224",
+    "url": "https://aiven.io/pricing",
+    "ts": "20251201135224",
+    "date": "2025-12-01",
+    "source": "wayback",
+    "prevTs": "20250915211210",
+    "kind": "price",
+    "score": 41,
+    "counts": {
+      "price": 9,
+      "limit": 2,
+      "plan": 5
+    },
+    "material": true,
+    "headline": "Aiven: 9 prices, 2 limits, 5 plan names changed ($290 → $200; $0.40 → $0.27)",
+    "pairs": [
+      {
+        "before": "starting from $290 / month",
+        "after": "starting from $200 / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$290",
+            "after": "$200"
+          }
+        ]
+      },
+      {
+        "before": "$0.40 / hour",
+        "after": "$0.27 / hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.40",
+            "after": "$0.27"
+          }
+        ]
+      },
+      {
+        "before": "2 CPU per VM",
+        "after": "1 CPU per VM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2",
+            "after": "1"
+          }
+        ]
+      },
+      {
+        "before": "starting from $725 / month",
+        "after": "starting from $500 / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$725",
+            "after": "$500"
+          }
+        ]
+      },
+      {
+        "before": "$0.99 / hour",
+        "after": "$0.69 / hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.99",
+            "after": "$0.69"
+          }
+        ]
+      },
+      {
+        "before": "2-8 CPU per VM",
+        "after": "1-8 CPU per VM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2",
+            "after": "1"
+          }
+        ]
+      },
+      {
+        "before": "starting from $2,800 / month",
+        "after": "starting from $1,900 / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2,800",
+            "after": "$1,900"
+          }
+        ]
+      },
+      {
+        "before": "$3.84 / hour",
+        "after": "$2.60 / hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.84",
+            "after": "$2.60"
+          }
+        ]
+      },
+      {
+        "before": "$290 / month",
+        "after": "$200 / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$290",
+            "after": "$200"
+          }
+        ]
+      },
+      {
+        "before": "$725 / month",
+        "after": "$500 / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$725",
+            "after": "$500"
+          }
+        ]
+      },
+      {
+        "before": "$2,800 / month",
+        "after": "$1,900 / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2,800",
+            "after": "$1,900"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Start for free",
+      "Start for free",
+      "Start for free",
+      "Start for free",
+      "Start for free"
+    ],
+    "removed": [
+      "Get started for free",
+      "Get started for free",
+      "Get started for free",
+      "Get started for free",
+      "Get started for free"
+    ],
+    "totals": {
+      "removed": 56,
+      "added": 60,
+      "materialRemoved": 16,
+      "materialAdded": 16
+    }
+  },
+  {
+    "id": "aiven-io-pricing-20260117042906",
+    "url": "https://aiven.io/pricing",
+    "ts": "20260117042906",
+    "date": "2026-01-17",
+    "source": "wayback",
+    "prevTs": "20251201135224",
+    "kind": "price",
+    "score": 22,
+    "counts": {
+      "price": 2,
+      "limit": 5,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Aiven: 2 prices, 5 limits, 3 plan names changed (1 → 2; 1 → 2)",
+    "pairs": [
+      {
+        "before": "1 CPU per VM",
+        "after": "2 CPU per VM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1",
+            "after": "2"
+          }
+        ]
+      },
+      {
+        "before": "1-8 CPU per VM",
+        "after": "2-16 CPU per VM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1",
+            "after": "2"
+          },
+          {
+            "before": "8",
+            "after": "16"
+          }
+        ]
+      },
+      {
+        "before": "2-8 CPU per VM",
+        "after": "4-16 CPU per VM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2",
+            "after": "4"
+          },
+          {
+            "before": "8",
+            "after": "16"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free",
+      "$0 / month",
+      "Data IN: up to 250 kb/s",
+      "Data OUT: up to 250 kb/s",
+      "Retention: up to 3 days",
+      "Start for free",
+      "Data retention is only limited by storage, with the exception of Free plan. For information about annual discount or plan capacity beyond the listed plans, please contact us",
+      "Free",
+      "$0 / month",
+      "3 days"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 55,
+      "added": 41,
+      "materialRemoved": 3,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "aiven-io-pricing-20260228003847",
+    "url": "https://aiven.io/pricing",
+    "ts": "20260228003847",
+    "date": "2026-02-28",
+    "source": "wayback",
+    "prevTs": "20260117042906",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Aiven: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "aiven-io-pricing-20260307062550",
+    "url": "https://aiven.io/pricing",
+    "ts": "20260307062550",
+    "date": "2026-03-07",
+    "source": "wayback",
+    "prevTs": "20260228003847",
+    "kind": "limits",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Aiven: 3 limits changed (added “1 CPU per virtual machine”)",
+    "pairs": [],
+    "added": [
+      "Aiven offers free plans for Aiven for PostgreSQL®, Aiven for MySQL and Aiven for Valkey™, and have the following specifications:",
+      "1 CPU per virtual machine",
+      "1 GB RAM",
+      "For PostgreSQL and MySQL: 1 GB storage",
+      "For more details on the free plans, check out our documentation",
+      "Aiven offers free plans for Aiven for PostgreSQL®, Aiven for MySQL and Aiven for Valkey™, and have the following specifications:",
+      "1 CPU per virtual machine",
+      "1 GB RAM",
+      "For PostgreSQL and MySQL: 1 GB disk storage",
+      "Integrations between different Aiven services including free, paid, and trial services",
+      "If you need more memory or access to features in the full platform, try a free trial",
+      "Free plans do not have any time limitations. However, Aiven reserves the right to shut down services if we believe they violate the acceptable use policy",
+      "For more details on the free plans, check out our documentation."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 36,
+      "materialRemoved": 0,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "aiven-io-pricing-20260426032110",
+    "url": "https://aiven.io/pricing",
+    "ts": "20260426032110",
+    "date": "2026-04-26",
+    "source": "wayback",
+    "prevTs": "20260307062550",
+    "kind": "price",
+    "score": 21,
+    "counts": {
+      "price": 2,
+      "limit": 2,
+      "plan": 6
+    },
+    "material": true,
+    "headline": "Aiven: 2 prices, 2 limits, 6 plan names changed (removed “Data IN: up to 250 kb/s”; added “Starting from $0.00012 per GB/hour”)",
+    "pairs": [],
+    "added": [
+      "Starting from $0.00012 per GB/hour",
+      "Starting from $0.00012 per GB/hour"
+    ],
+    "removed": [
+      "Get started for free",
+      "Data IN: up to 250 kb/s",
+      "Data OUT: up to 250 kb/s",
+      "Start for free",
+      "Start for free",
+      "Start for free",
+      "Start for free",
+      "3 days",
+      "Start for free",
+      "Start for free"
+    ],
+    "totals": {
+      "removed": 42,
+      "added": 37,
+      "materialRemoved": 17,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "aiven-io-pricing-20260507004353",
+    "url": "https://aiven.io/pricing",
+    "ts": "20260507004353",
+    "date": "2026-05-07",
+    "source": "wayback",
+    "prevTs": "20260426032110",
+    "kind": "price",
+    "score": 19,
+    "counts": {
+      "price": 3,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Aiven: 3 prices, 5 limits changed (600 → 600GB; 2250 → 2.25TB)",
+    "pairs": [
+      {
+        "before": "600-18432 GB total cluster storage",
+        "after": "600 GB-18.43 TB total cluster storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "600",
+            "after": "600GB"
+          },
+          {
+            "before": "18432GB",
+            "after": "18.43TB"
+          }
+        ]
+      },
+      {
+        "before": "2250-184320 GB total cluster storage",
+        "after": "2.25 TB-184.32 TB total cluster storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2250",
+            "after": "2.25TB"
+          },
+          {
+            "before": "184320GB",
+            "after": "184.32TB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Up to 1 MB/s throughput",
+      "Retention up to 3 days",
+      "$35 / month",
+      "$0.05 / hour",
+      "$35 / month",
+      "600 GB-18.43 TB",
+      "2.25 TB-184.32 TB"
+    ],
+    "removed": [
+      "600-18432 GB",
+      "2250-184320 GB"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 20,
+      "materialRemoved": 4,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "aiven-io-pricing-20260607052441",
+    "url": "https://aiven.io/pricing",
+    "ts": "20260607052441",
+    "date": "2026-06-07",
+    "source": "wayback",
+    "prevTs": "20260507004353",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Aiven: 1 price changed (removed “$0.05 / hour”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$0.05 / hour"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 0,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "aiven-io-pricing-20260712005059",
+    "url": "https://aiven.io/pricing",
+    "ts": "20260712005059",
+    "date": "2026-07-12",
+    "source": "wayback",
+    "prevTs": "20260607052441",
+    "kind": "price",
+    "score": 91,
+    "counts": {
+      "price": 17,
+      "limit": 19,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Aiven: 17 prices, 19 limits, 1 plan name changed ($35 → $5; $200 → $75)",
+    "pairs": [
+      {
+        "before": "$35 / month",
+        "after": "$5 / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$35",
+            "after": "$5"
+          }
+        ]
+      },
+      {
+        "before": "$200 / month",
+        "after": "$75 / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$200",
+            "after": "$75"
+          }
+        ]
+      },
+      {
+        "before": "$0.27 / hour",
+        "after": "$0.10 / hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.27",
+            "after": "$0.10"
+          }
+        ]
+      },
+      {
+        "before": "$500 / month",
+        "after": "$180 / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$500",
+            "after": "$180"
+          }
+        ]
+      },
+      {
+        "before": "$0.69 / hour",
+        "after": "$0.25 / hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.69",
+            "after": "$0.25"
+          }
+        ]
+      },
+      {
+        "before": "$1,900 / month",
+        "after": "$270 / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1,900",
+            "after": "$270"
+          }
+        ]
+      },
+      {
+        "before": "$2.60 / hour",
+        "after": "$0.37 / hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.60",
+            "after": "$0.37"
+          }
+        ]
+      },
+      {
+        "before": "$35 / month",
+        "after": "$5 / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$35",
+            "after": "$5"
+          }
+        ]
+      },
+      {
+        "before": "$200 / month",
+        "after": "$75 / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$200",
+            "after": "$75"
+          }
+        ]
+      },
+      {
+        "before": "$500 / month",
+        "after": "$180 / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$500",
+            "after": "$180"
+          }
+        ]
+      },
+      {
+        "before": "$1,900 / month",
+        "after": "$270 / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1,900",
+            "after": "$270"
+          }
+        ]
+      },
+      {
+        "before": "600 GB-18.43 TB",
+        "after": "80 GB-11 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "600GB",
+            "after": "80GB"
+          },
+          {
+            "before": "18.43TB",
+            "after": "11TB"
+          }
+        ]
+      },
+      {
+        "before": "2 CPU per VM",
+        "after": "1 CPU per VM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2",
+            "after": "1"
+          }
+        ]
+      },
+      {
+        "before": "2-4 GB RAM per VM",
+        "after": "4-192 GB RAM per VM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2",
+            "after": "4"
+          },
+          {
+            "before": "4GB",
+            "after": "192GB"
+          }
+        ]
+      },
+      {
+        "before": "2-16 CPU per VM",
+        "after": "2-32 CPU per VM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "16",
+            "after": "32"
+          }
+        ]
+      },
+      {
+        "before": "4-32 GB RAM per VM",
+        "after": "4-192 GB RAM per VM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "32GB",
+            "after": "192GB"
+          }
+        ]
+      },
+      {
+        "before": "4-16 CPU per VM",
+        "after": "2-32 CPU per VM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4",
+            "after": "2"
+          },
+          {
+            "before": "16",
+            "after": "32"
+          }
+        ]
+      },
+      {
+        "before": "8-32 GB RAM per VM",
+        "after": "4-192 GB RAM per VM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8",
+            "after": "4"
+          },
+          {
+            "before": "32GB",
+            "after": "192GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "8 GB total storage",
+      "$12 / month",
+      "$0.02 / hour",
+      "8 GB total storage",
+      "80 GB-11 TB total storage",
+      "80 GB-11 TB total storage",
+      "2-32 CPU per VM",
+      "80 GB-11 TB total storage",
+      "$12 / month",
+      "1 GB",
+      "4-192 GB",
+      "1 GB",
+      "8 GB",
+      "2 days",
+      "14 days",
+      "30 days",
+      "Free",
+      "If you need more memory or access to more advanced features, try a free 30-day trial",
+      "Running open source databases and streaming services yourself looks free until you price in everything it actually requires.",
+      "The software license is free. The operational burden is not.",
+      "Studies consistently put the fully-loaded engineering cost of self-managing a production database or streaming cluster at $150,000–$300,000+ per year per service, when you factor in salary, on-call, and incident time."
+    ],
+    "removed": [
+      "Retention up to 3 days",
+      "Up to 1 MB/s throughput",
+      "Retention up to 3 days",
+      "90 GB total cluster storage",
+      "600 GB-18.43 TB total cluster storage",
+      "Starting from $0.00012 per GB/hour",
+      "2.25 TB-184.32 TB total cluster storage",
+      "Starting from $0.00012 per GB/hour",
+      "2-4 GB",
+      "4-32 GB",
+      "8-32 GB",
+      "90 GB",
+      "2.25 TB-184.32 TB",
+      "Aiven offers free plans for Aiven for PostgreSQL®, Aiven for MySQL and Aiven for Valkey™, and have the following specifications:",
+      "For more details on the free plans, check out our documentation",
+      "Aiven offers free plans for Aiven for PostgreSQL®, Aiven for MySQL and Aiven for Valkey™, and have the following specifications:",
+      "Integrations between different Aiven services including free, paid, and trial services",
+      "If you need more memory or access to features in the full platform, try a free trial",
+      "What is the difference between the Aiven free plans and the Aiven free trial?",
+      "For more details on the free plans, check out our documentation."
+    ],
+    "totals": {
+      "removed": 125,
+      "added": 196,
+      "materialRemoved": 44,
+      "materialAdded": 45
+    }
+  },
+  {
+    "id": "aiven-io-pricing-20260902202107",
+    "url": "https://aiven.io/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260712005059",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Aiven: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

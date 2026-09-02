@@ -1,0 +1,144 @@
+Skip to content
+Build & deploy software with one plan
+Limited time offer! Save $100 on a yearly Replit membership
+Bill yearly
+Starter Free
+Best for those just getting started or learning their way around code and development environments.
+Sign up
+Basic workspace
+Limited access to Replit AI
+Community support
+Replit Core $120 /year
+$220/year
+Best for ambitious individuals. Replit Core gives you direct and early access to premium offerings and experiences.
+Join Replit Core
+Unlimited basic responses for AI chat
+Access to advanced AI model
+More powerful workspace
+Unlimited private projects
+Member support
+Teams Custom pricing
+For members who want to bring the power of Replit to their entire team.
+Contact us
+Everything in the membership
+Centralized billing and customized pricing
+Whiteglove onboarding and dedicated support
+Collaboration tools (integration with Git)
+Access control and security
+Replit Core members get first-class perks and benefits Enhanced AI access Get access to our advanced AI models and unlimited access to the basic models.
+Expanded dev resources Members get boosted memory, compute, storage, and transfer limits.
+Autoscale deployments Easily deploy your apps with Autoscale using compute units, included in the plan.
+Member support Receive direct, private 1:1 support and assistance from our dedicated team of experts.
+Early feature access Replit Core members get early access to new features and cutting-edge tools before public release.
+Builder community Connect, collaborate, and learn from your fellow builders and Replit Core members.
+Compare plan features
+Compare plans Features
+Free Sign up
+Replit Core Join Replit Core
+Replit AI
+AI Chat
+Basic Model
+Advanced Model
+Code Completion
+Code Generation
+Basic Model
+Advanced Model
+AI Debugger
+Basic Model
+Advanced Model
+Development
+vCPUs
+0.5
+4
+Memory (GiB)
+0.5
+8
+Outbound data transfer (GiB)
+10
+100
+SSH
+Private Repls
+Storage
+Account Storage (GiB)
+10
+50
+Replit database
+PostgreSQL storage (GiB)
+3
+PostgreSQL compute (hours)
+100
+Object storage (GiB-months)
+Coming soon
+Deployment
+Outbound data transfer (GiB)
+10
+100
+Autoscale compute units
+6 million
+Autoscale requests
+2.5 million
+Static deployments
+Member support
+Member-only events
+Early access to new features
+Member community
+Replit Core Switch Plan
+Join Replit Core
+Replit AI
+AI Chat
+Advanced Model
+Code Completion
+Code Generation
+Advanced Model
+AI Debugger
+Advanced Model
+Development
+vCPUs
+4
+Memory (GiB)
+8
+Outbound data transfer (GiB)
+100
+SSH
+Private Repls
+Storage
+Account Storage (GiB)
+50
+Replit database
+PostgreSQL storage (GiB)
+3
+PostgreSQL compute (hours)
+100
+Object storage (GiB-months)
+Coming soon
+Deployment
+Outbound data transfer (GiB)
+100
+Autoscale compute units
+6 million
+Autoscale requests
+2.5 million
+Static deployments
+Member support
+Member-only events
+Early access to new features
+Member community
+Deployments pricing
+Pricing differs between our three Deployments offerings: Autoscale, Reserved VM, and Static
+Autoscale
+Starting at $0.000024 / second
+Autoscale is billed based on your resource usage. Your app's servers automatically scale from zero to any level of demand, and the work the servers do is measured in compute units.
+A compute unit measures both the amount of time and the machine power used (CPU + RAM) to complete a task. You pick your app’s machine power, so if you choose a more powerful machine, it will use more compute units per second while it is running. Each compute unit costs $ 0.00000125. More on compute units
+3 million compute units per month are included in Hacker, and 6 million compute units per month are included in Pro. You will be notified if you come close to using all your compute units in a month.
+In addition to compute units, Autoscale deployments are billed for requests. 1.25 Million requests per month are included in Hacker, and 2.5 Million requests per month are included in Replit Pro. If you use all the compute units or requests from your plan, any additional usage will be billed at the end of the month or once you accumulate $10 of usage. Compute unit overages are charged at $ 0.00000125 per compute unit. Any request overages are charged at $ 0.4 per million requests. You can always
+page.
+Estimate your cost
+Reserved VM
+Starting at $7 / month
+With Reserved VM, you pay a flat amount every month for a VM that stays on with 99.9% uptime — no need to think about usage.
+Your monthly cost depends on the power of the machine you select
+Configure your VM
+Static
+Free
+No server compute means free usage — you are only responsible for outbound data transfer. Hacker includes 50 GiB of outbound data transfer per month for Deployments, and Pro includes 100 GiB per month.
+You may deploy up to 100 static sites if you have Hacker or Replit Pro.

@@ -1,0 +1,562 @@
+[
+  {
+    "id": "hygraph-com-pricing-20230601032939",
+    "url": "https://hygraph.com/pricing",
+    "ts": "20230601032939",
+    "date": "2023-06-01",
+    "source": "wayback",
+    "prevTs": "20230325012330",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hygraph: 1 limit changed (25 → 20)",
+    "pairs": [
+      {
+        "before": "Bring your team to build projects, with up to 25 users and 5 roles",
+        "after": "Bring your team to build projects, with up to 20 users and 4 roles",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "25",
+            "after": "20"
+          },
+          {
+            "before": "5",
+            "after": "4"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "hygraph-com-pricing-20230803041525",
+    "url": "https://hygraph.com/pricing",
+    "ts": "20230803041525",
+    "date": "2023-08-03",
+    "source": "wayback",
+    "prevTs": "20230601032939",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Hygraph: 1 limit, 1 plan name changed (removed “365 days+”)",
+    "pairs": [],
+    "added": [
+      "Sign up for free",
+      "Feel free to"
+    ],
+    "removed": [
+      "365 days+",
+      "365 days +",
+      "Feel free to reach out to our Sales Team"
+    ],
+    "totals": {
+      "removed": 27,
+      "added": 41,
+      "materialRemoved": 7,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "hygraph-com-pricing-20231208164115",
+    "url": "https://hygraph.com/pricing",
+    "ts": "20231208164115",
+    "date": "2023-12-08",
+    "source": "wayback",
+    "prevTs": "20230803041525",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Hygraph: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "hygraph-com-pricing-20240313105003",
+    "url": "https://hygraph.com/pricing",
+    "ts": "20240313105003",
+    "date": "2024-03-13",
+    "source": "wayback",
+    "prevTs": "20231208164115",
+    "kind": "price",
+    "score": 11,
+    "counts": {
+      "price": 3,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hygraph: 3 prices, 1 limit changed ($299 → $199; 30 → 14)",
+    "pairs": [
+      {
+        "before": "$299 per project per month (billed yearly)",
+        "after": "$199 per project per month (billed yearly)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$299",
+            "after": "$199"
+          }
+        ]
+      },
+      {
+        "before": "30 days",
+        "after": "14 days",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "30",
+            "after": "14"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 199"
+    ],
+    "removed": [
+      "$ 299"
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 7,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "hygraph-com-pricing-20240911134455",
+    "url": "https://hygraph.com/pricing",
+    "ts": "20240911134455",
+    "date": "2024-09-11",
+    "source": "wayback",
+    "prevTs": "20240313105003",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Hygraph: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "hygraph-com-pricing-20250109025155",
+    "url": "https://hygraph.com/pricing",
+    "ts": "20250109025155",
+    "date": "2025-01-09",
+    "source": "wayback",
+    "prevTs": "20240911134455",
+    "kind": "price",
+    "score": 79,
+    "counts": {
+      "price": 15,
+      "limit": 11,
+      "plan": 6
+    },
+    "material": true,
+    "headline": "Hygraph: 15 prices, 11 limits, 6 plan names changed (removed “Work together with up to 3 users and 2 locale…”; added “$ 0”)",
+    "pairs": [],
+    "added": [
+      "Start free, stay free forever",
+      "$ 0",
+      "3 seats",
+      "50MB per asset upload size (maximum)",
+      "10 seats",
+      "200MB per asset upload size (maximum)",
+      "Try for 30 days",
+      "$0",
+      "Try for 30 days",
+      "10,000 $25 per 5000, as add-on",
+      "1,000,000 $0.10 per 10,000, as add-on",
+      "500 GB $0.10 per 1GB, as add-on",
+      "25,000 GB +",
+      "10 $20 per seat, as add-on",
+      "Unlimited",
+      "50 MB per asset",
+      "200 MB per asset Expand up to 1000MB",
+      "3 $150 per locale, as add-on",
+      "1 $200 per remote source, as add-on",
+      "2 $100 per stage, as add-on",
+      "up to 365 days",
+      "2 $100 per environment, as add-on",
+      "10 $100 per webhook, as add-on",
+      "5 $50 per token, as add-on",
+      "Free Shared",
+      "Hobby is always free and has generous feature limits to build personal projects or validate ideas. All you need is to sign up with your email address or via social profiles (GitHub, Facebook, or Google).",
+      "If you are on the Growth plan and reach your API Operations and Asset Traffic limits, additional usage will be charged automatically from your credit card at the end of your billing cycle. Overages (every 10,000 API Operations and 1 GB of Asset Traffic) cost USD 10 cents each (USD 10 for every 1 million).",
+      "Hobby: 5req/sec",
+      "Growth: 25req/sec"
+    ],
+    "removed": [
+      "Free forever",
+      "Work together with up to 3 users and 2 locales per project",
+      "Up to 1 million monthly API calls and 100GB monthly asset traffic (hard limit)",
+      "$ 799",
+      "Bring your team to build projects, with up to 20 users and 4 roles",
+      "$799 per project per month (billed yearly)",
+      "500 GB (+ overages)",
+      "1 TB+",
+      "Under 60 minutes",
+      "Invite all your team members to collaborate with you on your projects. Our free plans start at 5 users per project, with enterprise plans having custom seat limits.",
+      "Not at all! Sign up for the Developer plan, our free forever plan that comes with generous feature limits to build out personal projects or MVPs. All you need is to sign up with your email address or via social profiles (GitHub, Facebook, or Google).",
+      "Feel free to",
+      "Community: 5req/sec",
+      "Professional: 25req/sec",
+      "Scale: 35req/sec",
+      "After your 14-day free trial expires, you would need to decide between upgrading to one of our paid plans, or downgrading your project to the free Community plan (provided your project has not crossed the limits permitted on the free plan).",
+      "Get started for free, or request a demo to discuss larger projects"
+    ],
+    "totals": {
+      "removed": 201,
+      "added": 187,
+      "materialRemoved": 22,
+      "materialAdded": 34
+    }
+  },
+  {
+    "id": "hygraph-com-pricing-20250418151159",
+    "url": "https://hygraph.com/pricing",
+    "ts": "20250418151159",
+    "date": "2025-04-18",
+    "source": "wayback",
+    "prevTs": "20250109025155",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Hygraph: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Unlimited asset storage"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "hygraph-com-pricing-20250519084826",
+    "url": "https://hygraph.com/pricing",
+    "ts": "20250519084826",
+    "date": "2025-05-19",
+    "source": "wayback",
+    "prevTs": "20250418151159",
+    "kind": "price",
+    "score": 5,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hygraph: 1 price, 1 limit changed ($0.10 → $0.20; 10 → 20)",
+    "pairs": [
+      {
+        "before": "500 GB $0.10 per 1GB, as add-on",
+        "after": "500 GB $0.20 per 1GB, as add-on",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.10",
+            "after": "$0.20"
+          }
+        ]
+      },
+      {
+        "before": "If you are on the Growth plan and reach your API Operations and Asset Traffic limits, additional usage will be charged automatically from your credit card at the end of your billing cycle. Overages (every 10,000 API Operations and 1 GB of Asset Traffic) cost USD 10 cents each (USD 10 for every 1 million).",
+        "after": "If you are on the Growth plan and reach your API Operations and Asset Traffic limits, additional usage will be charged automatically from your credit card at the end of your billing cycle. Overages (every 10,000 API Operations and 1 GB of Asset Traffic) cost USD 20 cents each (USD 20 for every 1 million).",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10",
+            "after": "20"
+          },
+          {
+            "before": "10",
+            "after": "20"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 11,
+      "added": 15,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "hygraph-com-pricing-20250805204957",
+    "url": "https://hygraph.com/pricing",
+    "ts": "20250805204957",
+    "date": "2025-08-05",
+    "source": "wayback",
+    "prevTs": "20250519084826",
+    "kind": "price",
+    "score": 33,
+    "counts": {
+      "price": 10,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hygraph: 10 prices, 2 limits changed (removed “10,000 $25 per 5000, as add-on”; added “500 GB”)",
+    "pairs": [],
+    "added": [
+      "500 GB",
+      "200 MB per asset"
+    ],
+    "removed": [
+      "10,000 $25 per 5000, as add-on",
+      "1,000,000 $0.10 per 10,000, as add-on",
+      "500 GB $0.20 per 1GB, as add-on",
+      "10 $20 per seat, as add-on",
+      "200 MB per asset Expand up to 1000MB",
+      "3 $150 per locale, as add-on",
+      "1 $200 per remote source, as add-on",
+      "2 $100 per stage, as add-on",
+      "2 $100 per environment, as add-on",
+      "10 $100 per webhook, as add-on",
+      "5 $50 per token, as add-on"
+    ],
+    "totals": {
+      "removed": 31,
+      "added": 11,
+      "materialRemoved": 11,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "hygraph-com-pricing-20260307153336",
+    "url": "https://hygraph.com/pricing",
+    "ts": "20260307153336",
+    "date": "2026-03-07",
+    "source": "wayback",
+    "prevTs": "20250805204957",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Hygraph: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 15,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "hygraph-com-pricing-20260417032303",
+    "url": "https://hygraph.com/pricing",
+    "ts": "20260417032303",
+    "date": "2026-04-17",
+    "source": "wayback",
+    "prevTs": "20260307153336",
+    "kind": "price",
+    "score": 38,
+    "counts": {
+      "price": 5,
+      "limit": 9,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Hygraph: 5 prices, 9 limits, 3 plan names changed (added “Try for 30 days”)",
+    "pairs": [],
+    "added": [
+      "Try for 30 days",
+      "$0",
+      "free forever",
+      "Sign up for free",
+      "$199",
+      "100 GB",
+      "500 GB",
+      "25,000 GB +",
+      "Unlimited",
+      "50 MB per asset",
+      "200 MB per asset",
+      "14 days",
+      "Up to 365 days",
+      "90 days",
+      "Free Shared",
+      "Hobby is always free and has generous feature limits to build personal projects or validate ideas. All you need is to sign up with your email address or via social profiles (GitHub, Facebook, or Google).",
+      "If you are on the Growth plan and reach your API Operations and Asset Traffic limits, additional usage will be charged automatically from your credit card at the end of your billing cycle. Overages (every 10,000 API Operations and 1 GB of Asset Traffic) cost USD 20 cents each (USD 20 for every 1 million).",
+      "Hobby: 5req/sec",
+      "Growth: 25req/sec",
+      "Enterprise: Up to 500req/sec",
+      "Service Level Agreements are available in our Enterprise Plans but feel free to reach out to our Hygraph Sales Team",
+      "Do you offer a free trial of all features?",
+      "What happens when my free trial expires?",
+      "Start free, stay free forever",
+      "Try for 30 days",
+      "$ 199",
+      "10 seats",
+      "200MB per asset upload size (maximum)",
+      "$ 0",
+      "Sign up for free",
+      "3 seats",
+      "Unlimited asset storage",
+      "50MB per asset upload size (maximum)"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 16,
+      "added": 259,
+      "materialRemoved": 3,
+      "materialAdded": 36
+    }
+  },
+  {
+    "id": "hygraph-com-pricing-20260517214654",
+    "url": "https://hygraph.com/pricing",
+    "ts": "20260517214654",
+    "date": "2026-05-17",
+    "source": "wayback",
+    "prevTs": "20260417032303",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Hygraph: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "hygraph-com-pricing-20260829023222",
+    "url": "https://hygraph.com/pricing",
+    "ts": "20260829023222",
+    "date": "2026-08-29",
+    "source": "wayback",
+    "prevTs": "20260517214654",
+    "kind": "limits",
+    "score": 16,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 6
+    },
+    "material": true,
+    "headline": "Hygraph: 2 limits, 6 plan names changed (removed “Try for 30 days”)",
+    "pairs": [],
+    "added": [
+      "Start for free",
+      "Start for free",
+      "Start for free",
+      "Start for free",
+      "Start for free",
+      "Start for free"
+    ],
+    "removed": [
+      "Try for 30 days",
+      "Sign up for free",
+      "Sign up for free",
+      "Try for 30 days",
+      "Try for 30 days",
+      "Sign up for free",
+      "Sign up for free",
+      "Try for 30 days"
+    ],
+    "totals": {
+      "removed": 22,
+      "added": 22,
+      "materialRemoved": 8,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "hygraph-com-pricing-20260902202107",
+    "url": "https://hygraph.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260829023222",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hygraph: 1 limit changed (added “Up to 5TB”)",
+    "pairs": [],
+    "added": [
+      "Up to 5TB",
+      "Up to 5TB"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    },
+    "transition": true
+  }
+]

@@ -1,0 +1,743 @@
+[
+  {
+    "id": "imagekit-io-plans-20230712133950",
+    "url": "https://imagekit.io/plans",
+    "ts": "20230712133950",
+    "date": "2023-07-12",
+    "source": "wayback",
+    "prevTs": "20230105164835",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "ImageKit: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "Forever free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 7,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "imagekit-io-plans-20231112174722",
+    "url": "https://imagekit.io/plans",
+    "ts": "20231112174722",
+    "date": "2023-11-12",
+    "source": "wayback",
+    "prevTs": "20230712133950",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "ImageKit: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 19,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "imagekit-io-plans-20240809142422",
+    "url": "https://imagekit.io/plans",
+    "ts": "20240809142422",
+    "date": "2024-08-09",
+    "source": "wayback",
+    "prevTs": "20231112174722",
+    "kind": "price",
+    "score": 211,
+    "counts": {
+      "price": 37,
+      "limit": 37,
+      "plan": 13
+    },
+    "material": true,
+    "headline": "ImageKit: 37 prices, 37 limits, 13 plan names changed (1000 → 500; 20GB → 225GB)",
+    "pairs": [
+      {
+        "before": "1000 video processing units Video processing units used depends on output video duration and resolution:",
+        "after": "500 video processing units Video processing units used depends on output video duration and resolution:",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1000",
+            "after": "500"
+          }
+        ]
+      },
+      {
+        "before": "20 GB included",
+        "after": "225 GB included",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "20GB",
+            "after": "225GB"
+          }
+        ]
+      },
+      {
+        "before": "20 GB included (hard limit)",
+        "after": "25 GB (hard limit)",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "20GB",
+            "after": "25GB"
+          }
+        ]
+      },
+      {
+        "before": "20 GB included",
+        "after": "225 GB included",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "20GB",
+            "after": "225GB"
+          }
+        ]
+      },
+      {
+        "before": "20 GB included (hard limit)",
+        "after": "25 GB (hard limit)",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "20GB",
+            "after": "25GB"
+          }
+        ]
+      },
+      {
+        "before": "Assume you consumed 50 GB bandwidth, 150 GB media library storage, 25000 video processing units and 3000 extension units",
+        "after": "Assume you consumed 450 GB bandwidth, 250 GB media library storage, 25000 video processing units and 5000 extension units",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50GB",
+            "after": "450GB"
+          },
+          {
+            "before": "150GB",
+            "after": "250GB"
+          },
+          {
+            "before": "3000",
+            "after": "5000"
+          }
+        ]
+      },
+      {
+        "before": "Base price of the Premium plan = $ 49",
+        "after": "Base price of the Premium plan = $ 89",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$49",
+            "after": "$89"
+          }
+        ]
+      },
+      {
+        "before": "Bandwidth included in Premium plan = 40 GB",
+        "after": "Bandwidth included in Premium plan = 225 GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "40GB",
+            "after": "225GB"
+          }
+        ]
+      },
+      {
+        "before": "Additional bandwidth = 50 GB - 40 GB = 10 GB",
+        "after": "Additional bandwidth = 450 GB - 225 GB = 225 GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50GB",
+            "after": "450GB"
+          },
+          {
+            "before": "40GB",
+            "after": "225GB"
+          },
+          {
+            "before": "10GB",
+            "after": "225GB"
+          }
+        ]
+      },
+      {
+        "before": "Additional bandwidth units = 10 GB / 20 GB = 1 units (rounded up)",
+        "after": "Additional bandwidth units = 225 GB / 20 GB = 12 units (rounded up)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10GB",
+            "after": "225GB"
+          },
+          {
+            "before": "1",
+            "after": "12"
+          }
+        ]
+      },
+      {
+        "before": "Additional bandwidth cost = 1 units x $ 9 = $ 9",
+        "after": "Additional bandwidth cost = 12 units x $ 9 = $ 108",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$9",
+            "after": "$108"
+          }
+        ]
+      },
+      {
+        "before": "Media library storage included in Premium plan = 20 GB",
+        "after": "Media library storage included in Premium plan = 225 GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "20GB",
+            "after": "225GB"
+          }
+        ]
+      },
+      {
+        "before": "Additional storage = 150 GB - 20 GB = 130 GB",
+        "after": "Additional storage = 250 GB - 225 GB = 25 GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "150GB",
+            "after": "250GB"
+          },
+          {
+            "before": "20GB",
+            "after": "225GB"
+          },
+          {
+            "before": "130GB",
+            "after": "25GB"
+          }
+        ]
+      },
+      {
+        "before": "Additional storage units = 130 GB / 1 GB = 130 units (rounded up)",
+        "after": "Additional storage units = 25 GB / 100 GB = 1 units (rounded up)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "130GB",
+            "after": "25GB"
+          },
+          {
+            "before": "1GB",
+            "after": "100GB"
+          },
+          {
+            "before": "130",
+            "after": "1"
+          }
+        ]
+      },
+      {
+        "before": "Additional storage cost = 130 units x $ 0.10 = $ 13",
+        "after": "Additional storage cost = 1 units x $ 9.00 = $ 9",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "130",
+            "after": "1"
+          },
+          {
+            "before": "$0.10",
+            "after": "$9.00"
+          },
+          {
+            "before": "$13",
+            "after": "$9"
+          }
+        ]
+      },
+      {
+        "before": "Additional cost = 2 units x $ 10 = $ 20",
+        "after": "Additional cost = 2 units x $ 9 = $ 18",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$10",
+            "after": "$9"
+          },
+          {
+            "before": "$20",
+            "after": "$18"
+          }
+        ]
+      },
+      {
+        "before": "Additional cost = 1 units x $ 10 = $ 10",
+        "after": "Additional cost = 1 units x $ 9 = $ 9",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$10",
+            "after": "$9"
+          },
+          {
+            "before": "$10",
+            "after": "$9"
+          }
+        ]
+      },
+      {
+        "before": "There is no minimum billing on the Forever Free plan. There is a minimum billing of $ 49 if you are on the Premium Plan. This minimum billing includes 40 GB bandwidth, 20 GB media storage, 5000 video processing units, 2500 extension units",
+        "after": "There is no minimum billing on the Forever Free plan. There is a minimum billing of $ 89 if you are on the Premium Plan. This minimum billing includes 225 GB bandwidth, 225 GB media storage, 5000 video processing units, 4000 extension units",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$49",
+            "after": "$89"
+          },
+          {
+            "before": "40GB",
+            "after": "225GB"
+          },
+          {
+            "before": "20GB",
+            "after": "225GB"
+          },
+          {
+            "before": "2500",
+            "after": "4000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "25 GB media delivery bandwidth",
+      "5 GB DAM storage",
+      "3 users",
+      "Free Includes:",
+      "$ 89 / monthly",
+      "225 GB media delivery bandwidth",
+      "225 GB DAM storage",
+      "Everything in Free plan, and",
+      "Free Includes:",
+      "5 GB (hard limit)",
+      "225 GB included",
+      "$ 9 per 100 GB after that",
+      "Unlimited*",
+      "$ 9 per 10000 units after that",
+      "$ 9 per 5000 units after that",
+      "5 included, $ 9 per user per month after that",
+      "1 included, $ 9 per domain per month after that",
+      "1000 included, $ 9 per 1500 requests after that",
+      "20MB",
+      "40MB",
+      "100MB",
+      "2GB",
+      "20MB",
+      "40MB",
+      "20MB",
+      "40MB",
+      "100MB",
+      "2GB",
+      "24 hours",
+      "Free",
+      "$89/m",
+      "5 GB (hard limit)",
+      "225 GB included",
+      "$ 9 per 100 GB after that",
+      "Unlimited*",
+      "$ 9 per 10000 units after that",
+      "$ 9 per 5000 units after that",
+      "5 included, $ 9 per user per month after that",
+      "1 included, $ 9 per domain per month after that",
+      "1000 included, $ 9 per 1500 requests after that"
+    ],
+    "removed": [
+      "20 GB bandwidth",
+      "20 GB media storage",
+      "Quickly launch your MVP using cutting-edge media transformation & management APIs for free. No credit card required.",
+      "Unlimited requests",
+      "Unlimited image transformations",
+      "$ 49",
+      "40 GB bandwidth",
+      "20 GB media storage",
+      "Everything in the Free Plan plus",
+      "One-time 30 minute consultation with a media optimization expert",
+      "$ 500+",
+      "One-time $50 per domain",
+      "ImageKit's transformation and optimization features with your CDN. 1TB bandwidth from ImageKit included.",
+      "$ 49 /month",
+      "$ 500+ /month",
+      "20 GB included (hard limit)",
+      "40 GB included",
+      "Unlimited*",
+      "Unlimited",
+      "$ 0.10 per 1 GB overage",
+      "$ 10 per 12000 units overage",
+      "$ 10 per 5000 units overage",
+      "72 hours",
+      "12 hours",
+      "TRY FOR FREE",
+      "Forever free",
+      "20 GB included (hard limit)",
+      "40 GB included",
+      "Unlimited*",
+      "Unlimited",
+      "$ 0.10 per 1 GB overage",
+      "Forever free",
+      "$ 10 per 12000 units overage",
+      "$ 10 per 5000 units overage",
+      "Forever free",
+      "72 hours",
+      "12 hours",
+      "Forever free",
+      "Forever free",
+      "Forever free"
+    ],
+    "totals": {
+      "removed": 234,
+      "added": 288,
+      "materialRemoved": 76,
+      "materialAdded": 78
+    }
+  },
+  {
+    "id": "imagekit-io-plans-20241006183549",
+    "url": "https://imagekit.io/plans",
+    "ts": "20241006183549",
+    "date": "2024-10-06",
+    "source": "wayback",
+    "prevTs": "20240809142422",
+    "kind": "price",
+    "score": 32,
+    "counts": {
+      "price": 6,
+      "limit": 2,
+      "plan": 5
+    },
+    "material": true,
+    "headline": "ImageKit: 6 prices, 2 limits, 5 plan names changed (removed “$ 9 per 5000 units after that”; added “$ 0 / monthly”)",
+    "pairs": [],
+    "added": [
+      "Forever free",
+      "$ 0 / monthly",
+      "5 GB DAM storage",
+      "3 users",
+      "Free Includes:",
+      "$ 89 / monthly",
+      "225 GB DAM storage",
+      "5 users",
+      "Everything in Free plan, and",
+      "Unlimited AI-powered searches every month",
+      "$ 9 per 5000 units after that. Maximum 8000 extension units per month (adjustable limit).",
+      "Forever free",
+      "$ 9 per 5000 units after that. Maximum 8000 extension units per month (adjustable limit)."
+    ],
+    "removed": [
+      "Free Includes:",
+      "$ 9 per 5000 units after that",
+      "Free",
+      "$ 9 per 5000 units after that"
+    ],
+    "totals": {
+      "removed": 23,
+      "added": 47,
+      "materialRemoved": 4,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "imagekit-io-plans-20250624154155",
+    "url": "https://imagekit.io/plans",
+    "ts": "20250624154155",
+    "date": "2025-06-24",
+    "source": "wayback",
+    "prevTs": "20241006183549",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "ImageKit: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 13,
+      "added": 19,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "imagekit-io-plans-20250803232310",
+    "url": "https://imagekit.io/plans",
+    "ts": "20250803232310",
+    "date": "2025-08-03",
+    "source": "wayback",
+    "prevTs": "20250624154155",
+    "kind": "price",
+    "score": 218,
+    "counts": {
+      "price": 44,
+      "limit": 37,
+      "plan": 6
+    },
+    "material": true,
+    "headline": "ImageKit: 44 prices, 37 limits, 6 plan names changed (20GB → 1GB; 12 → 225)",
+    "pairs": [
+      {
+        "before": "Additional bandwidth units = 225 GB / 20 GB = 12 units (rounded up)",
+        "after": "Additional bandwidth units = 225 GB / 1 GB = 225 units (rounded up)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "20GB",
+            "after": "1GB"
+          },
+          {
+            "before": "12",
+            "after": "225"
+          }
+        ]
+      },
+      {
+        "before": "Additional bandwidth cost = 12 units x $ 9 = $ 108",
+        "after": "Additional bandwidth cost = 225 units x $ 0.45 = $ 101.25",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "12",
+            "after": "225"
+          },
+          {
+            "before": "$9",
+            "after": "$0.45"
+          },
+          {
+            "before": "$108",
+            "after": "$101.25"
+          }
+        ]
+      },
+      {
+        "before": "Additional storage units = 25 GB / 100 GB = 1 units (rounded up)",
+        "after": "Additional storage units = 25 GB / 1 GB = 25 units (rounded up)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100GB",
+            "after": "1GB"
+          },
+          {
+            "before": "1",
+            "after": "25"
+          }
+        ]
+      },
+      {
+        "before": "Additional storage cost = 1 units x $ 9.00 = $ 9",
+        "after": "Additional storage cost = 25 units x $ 0.09 = $ 2.25",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$9.00",
+            "after": "$0.09"
+          },
+          {
+            "before": "$9",
+            "after": "$2.25"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "20 GB bandwidth Monthly limit",
+      "This should be sufficient for delivering approximately 1 million images per month, or around 20,000 page views per month. Media delivery stops when you hit this limit. The limit resets at the beginning of every calendar month.",
+      "3 GB DAM storage Fixed limit",
+      "This base inclusion should be sufficient for storing 10,000 files on average. New file uploads stop when you hit this limit.",
+      "Required only for AI-powered features. This can help with 65 background removals or tagging 650 images, and so on. AI extensions stop working if you hit this limit. The limit resets at the beginning of every calendar month.",
+      "2 users Fixed limit",
+      "$9",
+      "40 GB bandwidth $0.5/GB after that",
+      "10 GB DAM storage $0.1/GB after that",
+      "This base inclusion should be sufficient for storing approximately 30000 files. Excess storage beyond the base inclusion is charged at $0.1 per GB. There is no limit to the volume of assets you can store on this plan.",
+      "500 video units Monthly limit",
+      "Required only for AI-powered features. This can help with 65 background removals or tagging 650 images, and so on. AI extensions stop working if you hit this limit. The limit resets at the beginning of every calendar month.",
+      "Everything in Forever free, plus:",
+      "225 GB bandwidth $0.45/GB after that",
+      "225 GB DAM storage $0.09/GB after that",
+      "This base inclusion should be sufficient for storing 800K files on average. Excess storage beyond the base inclusion is charged at $0.09 per GB. There is no limit to the amount of content you can store on this plan.",
+      "5000 video units $9/10000 VPU after that",
+      "Required for only new video processing. This can process 5000 seconds of SD video or 2500 seconds of HD video every month. Excess consumption of VPUs in a month is charged at $9 per 10K units. The counter for base inclusions resets every calendar month.",
+      "4000 extension units $9/5000 ext unit after that",
+      "Required only for AI-powered features. This base inclusion covers 400 background removals or tagging 4000 images, etc. Excess consumption in a month is charged at $9 per 5000 extension units. The counter for base inclusions resets every calendar month.",
+      "Needed if you want to change content without changing the URL. 99% users don’t come close to this limit. Additional cache-purge requests are charged at $9 per 1500 requests.",
+      "$9 /mo",
+      "20 GB bandwidth Monthly limit",
+      "40 GB bandwidth $0.5/GB after that",
+      "225 GB bandwidth $0.45/GB after that",
+      "3 GB DAM storage Fixed limit",
+      "10 GB DAM storage $0.1/GB after that",
+      "225 GB DAM storage $0.09/GB after that",
+      "2 users Fixed limit",
+      "5 users $9/user after that",
+      "500 video units Monthly limit",
+      "5000 video units $9/10000 VPU after that",
+      "4000 extension units $9/5000 ext unit after that",
+      "Unlimited",
+      "25 MB",
+      "50 MB",
+      "300 MB",
+      "25 MB",
+      "50 MB",
+      "25 MB"
+    ],
+    "removed": [
+      "5 GB DAM storage",
+      "1 second of 4K video output = 4 units",
+      "1 second of 8K video output = 8 units",
+      "1 second of 16K video output = 16 units",
+      "Free Includes:",
+      "225 GB media delivery bandwidth",
+      "225 GB DAM storage",
+      "5000 video processing units Video processing units used depends on output video duration and resolution:",
+      "1 second of 4K video output = 4 units",
+      "1 second of 8K video output = 8 units",
+      "1 second of 16K video output = 16 units",
+      "5 users",
+      "Everything in Free plan, and",
+      "5 GB DAM storage",
+      "Free Includes:",
+      "225 GB DAM storage",
+      "5 users",
+      "Everything in Free plan, and",
+      "Forever free",
+      "225 GB included",
+      "$ 9 per 20 GB after that",
+      "5 GB (hard limit)",
+      "225 GB included",
+      "$ 9 per 100 GB after that",
+      "Unlimited*",
+      "1 second of 4K video output = 4 units",
+      "1 second of 8K video output = 8 units",
+      "1 second of 16K video output = 16 units",
+      "$ 9 per 10000 units after that",
+      "$ 9 per 5000 units after that. Maximum 8000 extension units per month (adjustable limit).",
+      "20MB",
+      "20MB",
+      "20MB",
+      "24 hours",
+      "Forever free",
+      "25 GB (hard limit)",
+      "225 GB included",
+      "$ 9 per 20 GB after that",
+      "5 GB (hard limit)",
+      "225 GB included"
+    ],
+    "totals": {
+      "removed": 315,
+      "added": 315,
+      "materialRemoved": 95,
+      "materialAdded": 110
+    }
+  },
+  {
+    "id": "imagekit-io-plans-20260713100449",
+    "url": "https://imagekit.io/plans",
+    "ts": "20260713100449",
+    "date": "2026-07-13",
+    "source": "wayback",
+    "prevTs": "20250803232310",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "ImageKit: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Unlimited AI-powered operations every month",
+      "Unlimited Creative Automation exports every month",
+      "Unlimited Creative Automation exports every month",
+      "Unlimited AI tasks for tagging and metadata",
+      "Unlimited Creative Automation exports every month"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 25,
+      "materialRemoved": 3,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "imagekit-io-plans-20260806062515",
+    "url": "https://imagekit.io/plans",
+    "ts": "20260806062515",
+    "date": "2026-08-06",
+    "source": "wayback",
+    "prevTs": "20260713100449",
+    "kind": "price",
+    "score": 5,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "ImageKit: 1 price, 1 limit changed (8000 added)",
+    "pairs": [
+      {
+        "before": "4000 extension units $9/5000 ext unit after that",
+        "after": "4000 extension units $9/5000 ext unit after that. Default cap: 8000 units - adjustable.",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": null,
+            "after": "8000"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "Required only for AI-powered features and Creative Automation. This base inclusion covers 400 background removals or tagging 4000 images, etc. Excess consumption in a month is charged at $9 per 5000 extension units. The counter for base inclusions resets every calendar month."
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 5,
+      "materialRemoved": 4,
+      "materialAdded": 3
+    }
+  }
+]

@@ -1,0 +1,234 @@
+Semaphore
+Product
+Features
+Continuous Integration & Pipelines
+Deployments & Automation
+Metrics & Observability
+Security & Compliance
+Developer Toolkit
+Test reports
+Monorepos
+Self-hosted agents
+Menu Item
+Deployment options
+Open source
+Cloud
+Hybrid
+Enterprise
+Explore
+Customers
+Premium Support
+Security
+Solutions
+Explore
+Cut down costs 50%
+Replace Jenkins
+Monorepos
+Flaky Tests
+Promotions
+Deployment Environments
+Menu Item
+Use Cases
+iOS
+Docker & Kubernetes
+Android
+Compare
+vs Jenkins
+vs GitHub Actions
+vs Travis CI
+vs Bitbucket
+Pricing
+Resources
+Menu Item
+Explore
+Cloud Docs
+Community Edition Docs
+Blog
+Podcast
+Resources
+CI/CD Learning tool
+Newsletter
+Community
+Youtube ↗
+Release Roundups ↗
+Discord ↗
+GitHub ↗
+Get started
+Login
+Search for:
+Ship 2x faster with CI/CD you can budget for.
+Cut down your costs in half
+Proven pipeline acceleration and transparent cost controls for every team size.
+Open Source
+Free
+Perfect for small teams running Semaphore on their own infrastructure.
+Install open source
+Self-hosted via Helm
+✅ What’s included:
+Community support
+No SaaS dependencies
+Fully runs in your environment
+YAML pipelines, versioned in Git
+Encrypted secrets at rest, injected at runtime
+Deterministic cache keys to avoid cold builds
+Startup
+$0
+/user/month
+Perfect for teams that want managed cloud CI/CD without infrastructure overhead.
+Start free trial
+Fully managed cloud
+✅ What’s included:
+1-hour email support
+Fast feedback, no infra overhead
+Ephemeral VMs, no capacity planning
+Built-in secrets manager & permissions
+Artifacts/caches flow across jobs & pipelines
+Full control via REST API & CLI
+Hybrid
+$9
+/user/month
+Perfect for teams that want to keep compute in-house while using our SaaS control plane.
+Start free trial
+Cloud or self-hosted
+✅ What’s included:
+1-hour email support
+5 free seats included
+Use your own compute or special hardware
+Self-hosted agents, SaaS control plane
+Unified YAML, secrets, and caching across environments
+Data separation supports compliance & residency
+Burst to cloud when local capacity is full
+Enterprise
+Custom
+Perfect for organizations that need CI/CD at scale with enterprise-grade features and support.
+Talk to sales
+Cloud or self-hosted
+✅ What’s included:
+Priority support
+Premium onboarding
+Org-wide RBAC, project isolation, mandatory reviews
+SSO/SAML/SCIM, audit logs, export APIs
+Unlimited self-hosted agents, flexible concurrency
+Dedicated support, SLAs, and incident response
+Governance and compliance at scale
+Open source
+Startup
+Hybrid
+Enterprise
+Plan Overview
+Total Cost
+Service
+Cloud is CI-as-Service. Self-hosted runs on-premise or your own cloud
+Users
+Maximum number of users allowed in the organization.
+Concurrency
+Maximum amount of concurrent jobs at a time.
+Cloud Machines
+Maximum amount of build minutes running on Semaphore Machines (Cloud service only).
+Features
+Multi-stage Build Pipelines
+Optimize for fast feedback by combining parallel jobs with sequential pipeline stages.
+Artifacts
+Save files to reuse them across your pipelines or as permanent records for future reference.
+Project Metrics
+Track performance, build frequency, and reliability of each pipeline over time.
+Test Dashboard
+View all your tests across all your builds on a unified dashboard.
+Custom Reports
+Build custom reports at runtime using Markdown.
+Flaky Tests Dashboard
+Identify and analyze inconsistent tests and understand their impact on workflows.
+Deployment Targets
+Streamline your deployment process with secure access management and deployment tracking.
+Parameterized Deployments
+Define custom forms to parameterize CD pipelines.
+Access Control & Governance
+Project Roles
+Customize permissions for each project or inherit them from the repository.
+Granular Deployment Permissions
+Give deployment permissions to a restricted set of accounts.
+SCIM/SAML Support
+Integrate with your favorite access management service.
+User Groups
+Create custom groups for easier access management.
+Audit Logs
+Record any activity and streamline logs to an external location.
+Pre-flight Checks
+Set up additional jobs that are required to run prior to any workflow.
+Support & Billing
+Priority Email Support
+Priority status for all support requests.
+SLAs and Premium Support
+Dedicated account manager, shared Slack channel, and 24/5 & 24/7 SLAs available as add-on.
+Annual Plan Discount
+Discounted pricing for annual plans.
+Payment Options
+Payment through credit card or via invoice.
+Open source
+$0
+Self-hosted
+Unlimited
+n/a
+❌
+✅
+❌
+✅
+❌
+❌ ⓘ Community support. Discord server and GitHub issues.
+❌
+Startup
+$0/mo
+Cloud
+Unlimited
+✅
+30/100 GB
+✅
+❌
+Available
+Card only
+Hybrid
+$9 user/mo
+Cloud+Self-hosted
+Unlimited
+✅
+30/100 GB ⓘ Additional usage is charged $0.35 for network, and $0.07 for storage per GB/month.
+✅
+❌
+Available
+Card only
+Enterprise
+Custom
+Cloud or Self-hosted
+Unlimited
+✅
+200/1,000 GB ⓘ Additional usage is charged $0.35 for network, and $0.07 for storage per GB/month.
+✅
+Available
+Included
+Invoice
+Premium customer support from CI/CD experts with 10+ years of experience
+✔️ Lightning-fast replies to support queries ⚡
+✔️ Solution engineering, video support, and more🦾
+✔️ CI/CD engineering training for your team 👨🔧
+✔️ Support SLAs 🤝
+See premium support plans
+Need to convince your boss?
+Want proof that Semaphore is the CI/CD solution your team needs? Download our quick PDF guide that shows how Semaphore helps teams:
+✔️ Build faster 🚀
+✔️ Stay flexible 🔁
+✔️ Save money 💰
+Download PDF
+FAQs
+How does per-second pricing work? You are charged based on the time it takes your code to execute, prorated to the second. The price depends on the machine types you use in each stage of your CI/CD pipelines. Consistent month-to-month usage results in a consistent invoice.
+What is the difference between Startup and Scaleup? The Scaleup plan comes with a batch of advanced security and compliance features that are not included in the Startup plan. It provides an additional level of tech. and account support as well as additional discounts and benefits.
+What is the difference between Cloud and Hybrid? Cloud plans have no per-seat cost but they don’t include access to self-hosted agents. Hybrid plans on the other hand provide you access to self-hosted agents but also include seat cost. Other than that, both plans have access to identical in-app features.
+What is the difference between Hybrid (self-hosted) and On-Premise? On the Hybrid plan, you will be using our Cloud app in combination with your agents, so the jobs run in your environment, but the app is still hosted on our end. With the On-Premise option, everything is fully hosted on your end, Semaphore app included.
+Do you offer annual plans? Yes, we do, please reach out to your Customer Success team representative or contact us
+for further specifics. All annual plans come with a discount.
+Can I use Semaphore 2.0 for my open-source project? Linux and macOS open-source projects get free parallel CI on Semaphore.
+Start building https://semaphore.io/signup
+How does Semaphore keep my code safe? We take the security of your company’s source code very seriously. Our Security page
+outlines how we ensure your code is safe.
+What forms of payment do you accept? We accept all major credit cards. For additional payment options, like wire transfers, please contact our customer success team.
+Star us on GitHub Star
+...

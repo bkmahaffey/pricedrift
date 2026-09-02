@@ -1,0 +1,2938 @@
+[
+  {
+    "id": "hetzner-com-cloud-20230401163542",
+    "url": "https://www.hetzner.com/cloud/",
+    "ts": "20230401163542",
+    "date": "2023-04-01",
+    "source": "wayback",
+    "prevTs": "20230309224401",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Hetzner Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "hetzner-com-cloud-20230501040859",
+    "url": "https://www.hetzner.com/cloud/",
+    "ts": "20230501040859",
+    "date": "2023-05-01",
+    "source": "wayback",
+    "prevTs": "20230401163542",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 4,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hetzner Cloud: 4 prices, 6 limits changed (added “RAM 4 GB”)",
+    "pairs": [],
+    "added": [
+      "RAM 4 GB",
+      "Disk space 40 GB",
+      "Traffic 20 TB",
+      "Price € 0.0072 € 0.0062 / hr € 4.52 € 3.92 / mo",
+      "RAM 8 GB",
+      "Disk space 80 GB",
+      "Traffic 20 TB",
+      "Price € 0.0124 € 0.0114 / hr € 7.73 € 7.13 / mo",
+      "RAM 16 GB",
+      "Disk space 160 GB",
+      "Traffic 20 TB",
+      "Price € 0.0238 € 0.0228 / hr € 14.87 € 14.27 / mo",
+      "RAM 32 GB",
+      "Disk space 320 GB",
+      "Traffic 20 TB",
+      "Price € 0.0466 € 0.0456 / hr € 29.15 € 28.55 / mo"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 11,
+      "added": 44,
+      "materialRemoved": 1,
+      "materialAdded": 17
+    }
+  },
+  {
+    "id": "hetzner-com-cloud-20230602090923",
+    "url": "https://www.hetzner.com/cloud/",
+    "ts": "20230602090923",
+    "date": "2023-06-02",
+    "source": "wayback",
+    "prevTs": "20230501040859",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Hetzner Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "hetzner-com-cloud-20230703015101",
+    "url": "https://www.hetzner.com/cloud/",
+    "ts": "20230703015101",
+    "date": "2023-07-03",
+    "source": "wayback",
+    "prevTs": "20230602090923",
+    "kind": "price",
+    "score": 96,
+    "counts": {
+      "price": 32,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hetzner Cloud: 32 prices changed (€4.51 → €4.66; €4.51 → €4.66)",
+    "pairs": [
+      {
+        "before": "STARTING AT € 4.51",
+        "after": "STARTING AT € 4.66",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€4.51",
+            "after": "€4.66"
+          }
+        ]
+      },
+      {
+        "before": "INCREDIBLE PERFORMANCE STARTING AT € 4.51",
+        "after": "INCREDIBLE PERFORMANCE STARTING AT € 4.66",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€4.51",
+            "after": "€4.66"
+          }
+        ]
+      },
+      {
+        "before": "save € 0.60",
+        "after": "save € 0.62",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.60",
+            "after": "€0.62"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0071 € 0.0062 / hr € 4.51 € 3.92 / mo",
+        "after": "Price € 0.0074 € 0.0064 / hr € 4.66 € 4.05 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0071",
+            "after": "€0.0074"
+          },
+          {
+            "before": "€0.0062",
+            "after": "€0.0064"
+          },
+          {
+            "before": "€4.51",
+            "after": "€4.66"
+          },
+          {
+            "before": "€3.92",
+            "after": "€4.05"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0084 € 0.0075 / hr € 5.18 € 4.59 / mo",
+        "after": "Price € 0.0083 € 0.0073 / hr € 5.35 € 4.74 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0084",
+            "after": "€0.0083"
+          },
+          {
+            "before": "€0.0075",
+            "after": "€0.0073"
+          },
+          {
+            "before": "€5.18",
+            "after": "€5.35"
+          },
+          {
+            "before": "€4.59",
+            "after": "€4.74"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0104 € 0.0094 / hr € 6.37 € 5.78 / mo",
+        "after": "Price € 0.0107 € 0.0097 / hr € 6.58 € 5.97 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0104",
+            "after": "€0.0107"
+          },
+          {
+            "before": "€0.0094",
+            "after": "€0.0097"
+          },
+          {
+            "before": "€6.37",
+            "after": "€6.58"
+          },
+          {
+            "before": "€5.78",
+            "after": "€5.97"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0143 € 0.0133 / hr € 8.98 € 8.39 / mo",
+        "after": "Price € 0.0145 € 0.0135 / hr € 9.28 € 8.67 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0143",
+            "after": "€0.0145"
+          },
+          {
+            "before": "€0.0133",
+            "after": "€0.0135"
+          },
+          {
+            "before": "€8.98",
+            "after": "€9.28"
+          },
+          {
+            "before": "€8.39",
+            "after": "€8.67"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0182 € 0.0173 / hr € 11.54 € 10.95 / mo",
+        "after": "Price € 0.0188 € 0.0178 / hr € 11.93 € 11.31 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0182",
+            "after": "€0.0188"
+          },
+          {
+            "before": "€0.0173",
+            "after": "€0.0178"
+          },
+          {
+            "before": "€11.54",
+            "after": "€11.93"
+          },
+          {
+            "before": "€10.95",
+            "after": "€11.31"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0261 € 0.0251 / hr € 16.18 € 15.59 / mo",
+        "after": "Price € 0.0269 € 0.0259 / hr € 16.72 € 16.11 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0261",
+            "after": "€0.0269"
+          },
+          {
+            "before": "€0.0251",
+            "after": "€0.0259"
+          },
+          {
+            "before": "€16.18",
+            "after": "€16.72"
+          },
+          {
+            "before": "€15.59",
+            "after": "€16.11"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0340 € 0.0331 / hr € 20.71 € 20.12 / mo",
+        "after": "Price € 0.0352 € 0.0342 / hr € 21.41 € 20.79 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0340",
+            "after": "€0.0352"
+          },
+          {
+            "before": "€0.0331",
+            "after": "€0.0342"
+          },
+          {
+            "before": "€20.71",
+            "after": "€21.41"
+          },
+          {
+            "before": "€20.12",
+            "after": "€20.79"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0496 € 0.0487 / hr € 29.99 € 29.40 / mo",
+        "after": "Price € 0.0517 € 0.0507 / hr € 31.00 € 30.38 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0496",
+            "after": "€0.0517"
+          },
+          {
+            "before": "€0.0487",
+            "after": "€0.0507"
+          },
+          {
+            "before": "€29.99",
+            "after": "€31.00"
+          },
+          {
+            "before": "€29.40",
+            "after": "€30.38"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0653 € 0.0644 / hr € 39.15 € 38.56 / mo",
+        "after": "Price € 0.0675 € 0.0665 / hr € 40.47 € 39.85 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0653",
+            "after": "€0.0675"
+          },
+          {
+            "before": "€0.0644",
+            "after": "€0.0665"
+          },
+          {
+            "before": "€39.15",
+            "after": "€40.47"
+          },
+          {
+            "before": "€38.56",
+            "after": "€39.85"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.1047 € 0.1038 / hr € 65.33 € 64.74 / mo",
+        "after": "Price € 0.1085 € 0.1075 / hr € 67.53 € 66.91 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.1047",
+            "after": "€0.1085"
+          },
+          {
+            "before": "€0.1038",
+            "after": "€0.1075"
+          },
+          {
+            "before": "€65.33",
+            "after": "€67.53"
+          },
+          {
+            "before": "€64.74",
+            "after": "€66.91"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0072 € 0.0062 / hr € 4.52 € 3.92 / mo",
+        "after": "Price € 0.0072 € 0.0063 / hr € 4.66 € 4.05 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0062",
+            "after": "€0.0063"
+          },
+          {
+            "before": "€4.52",
+            "after": "€4.66"
+          },
+          {
+            "before": "€3.92",
+            "after": "€4.05"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0124 € 0.0114 / hr € 7.73 € 7.13 / mo",
+        "after": "Price € 0.0124 € 0.0114 / hr € 7.98 € 7.36 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€7.73",
+            "after": "€7.98"
+          },
+          {
+            "before": "€7.13",
+            "after": "€7.36"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0238 € 0.0228 / hr € 14.87 € 14.27 / mo",
+        "after": "Price € 0.0248 € 0.0238 / hr € 15.36 € 14.74 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0238",
+            "after": "€0.0248"
+          },
+          {
+            "before": "€0.0228",
+            "after": "€0.0238"
+          },
+          {
+            "before": "€14.87",
+            "after": "€15.36"
+          },
+          {
+            "before": "€14.27",
+            "after": "€14.74"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0466 € 0.0456 / hr € 29.15 € 28.55 / mo",
+        "after": "Price € 0.0486 € 0.0476 / hr € 30.12 € 29.50 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0466",
+            "after": "€0.0486"
+          },
+          {
+            "before": "€0.0456",
+            "after": "€0.0476"
+          },
+          {
+            "before": "€29.15",
+            "after": "€30.12"
+          },
+          {
+            "before": "€28.55",
+            "after": "€29.50"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0393 € 0.0383 / hr € 26.00 € 25.41 / mo",
+        "after": "Price € 0.0406 € 0.0396 / hr € 26.87 € 26.26 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0393",
+            "after": "€0.0406"
+          },
+          {
+            "before": "€0.0383",
+            "after": "€0.0396"
+          },
+          {
+            "before": "€26.00",
+            "after": "€26.87"
+          },
+          {
+            "before": "€25.41",
+            "after": "€26.26"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0393 € 0.0383 / hr € 26.00 € 25.41 / mo",
+        "after": "Price € 0.0403 € 0.0393 / hr € 26.87 € 26.26 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0393",
+            "after": "€0.0403"
+          },
+          {
+            "before": "€0.0383",
+            "after": "€0.0393"
+          },
+          {
+            "before": "€26.00",
+            "after": "€26.87"
+          },
+          {
+            "before": "€25.41",
+            "after": "€26.26"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0785 € 0.0776 / hr € 45.70 € 45.11 / mo",
+        "after": "Price € 0.0812 € 0.0802 / hr € 47.24 € 46.62 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0785",
+            "after": "€0.0812"
+          },
+          {
+            "before": "€0.0776",
+            "after": "€0.0802"
+          },
+          {
+            "before": "€45.70",
+            "after": "€47.24"
+          },
+          {
+            "before": "€45.11",
+            "after": "€46.62"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0785 € 0.0776 / hr € 45.70 € 45.11 / mo",
+        "after": "Price € 0.0817 € 0.0807 / hr € 47.24 € 46.62 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0785",
+            "after": "€0.0817"
+          },
+          {
+            "before": "€0.0776",
+            "after": "€0.0807"
+          },
+          {
+            "before": "€45.70",
+            "after": "€47.24"
+          },
+          {
+            "before": "€45.11",
+            "after": "€46.62"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.1571 € 0.1561 / hr € 91.51 € 90.92 / mo",
+        "after": "Price € 0.1624 € 0.1614 / hr € 94.59 € 93.97 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.1571",
+            "after": "€0.1624"
+          },
+          {
+            "before": "€0.1561",
+            "after": "€0.1614"
+          },
+          {
+            "before": "€91.51",
+            "after": "€94.59"
+          },
+          {
+            "before": "€90.92",
+            "after": "€93.97"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.1571 € 0.1561 / hr € 91.51 € 90.92 / mo",
+        "after": "Price € 0.1623 € 0.1613 / hr € 94.59 € 93.97 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.1571",
+            "after": "€0.1623"
+          },
+          {
+            "before": "€0.1561",
+            "after": "€0.1613"
+          },
+          {
+            "before": "€91.51",
+            "after": "€94.59"
+          },
+          {
+            "before": "€90.92",
+            "after": "€93.97"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.3145 € 0.3136 / hr € 183.14 € 182.55 / mo",
+        "after": "Price € 0.3251 € 0.3241 / hr € 189.30 € 188.68 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.3145",
+            "after": "€0.3251"
+          },
+          {
+            "before": "€0.3136",
+            "after": "€0.3241"
+          },
+          {
+            "before": "€183.14",
+            "after": "€189.30"
+          },
+          {
+            "before": "€182.55",
+            "after": "€188.68"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.3145 € 0.3136 / hr € 183.14 € 182.55 / mo",
+        "after": "Price € 0.3256 € 0.3246 / hr € 189.30 € 188.68 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.3145",
+            "after": "€0.3256"
+          },
+          {
+            "before": "€0.3136",
+            "after": "€0.3246"
+          },
+          {
+            "before": "€183.14",
+            "after": "€189.30"
+          },
+          {
+            "before": "€182.55",
+            "after": "€188.68"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.6287 € 0.6277 / hr € 353.31 € 352.72 / mo",
+        "after": "Price € 0.6498 € 0.6488 / hr € 365.19 € 364.57 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.6287",
+            "after": "€0.6498"
+          },
+          {
+            "before": "€0.6277",
+            "after": "€0.6488"
+          },
+          {
+            "before": "€353.31",
+            "after": "€365.19"
+          },
+          {
+            "before": "€352.72",
+            "after": "€364.57"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.6287 € 0.6277 / hr € 353.31 € 352.72 / mo",
+        "after": "Price € 0.6501 € 0.6492 / hr € 365.19 € 364.57 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.6287",
+            "after": "€0.6501"
+          },
+          {
+            "before": "€0.6277",
+            "after": "€0.6492"
+          },
+          {
+            "before": "€353.31",
+            "after": "€365.19"
+          },
+          {
+            "before": "€352.72",
+            "after": "€364.57"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.9422 € 0.9413 / hr € 523.48 € 522.89 / mo",
+        "after": "Price € 0.9737 € 0.9727 / hr € 541.08 € 540.46 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.9422",
+            "after": "€0.9737"
+          },
+          {
+            "before": "€0.9413",
+            "after": "€0.9727"
+          },
+          {
+            "before": "€523.48",
+            "after": "€541.08"
+          },
+          {
+            "before": "€522.89",
+            "after": "€540.46"
+          }
+        ]
+      },
+      {
+        "before": "Expand your cloud instance with high-availability SSD block storage for € 0.0524 / GB per month.",
+        "after": "Expand your cloud instance with high-availability SSD block storage for € 0.0542 / GB per month.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0524",
+            "after": "€0.0542"
+          }
+        ]
+      },
+      {
+        "before": "€ 0.052 / GB per month",
+        "after": "€ 0.054 / GB per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.052",
+            "after": "€0.054"
+          }
+        ]
+      },
+      {
+        "before": "€ 0.0131/GB per month",
+        "after": "€ 0.0135/GB per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0131",
+            "after": "€0.0135"
+          }
+        ]
+      },
+      {
+        "before": "With 20 TB of included traffic, you’ll have lots of bandwidth for your projects, regardless of which Hetzner Cloud package you choose. But if you need, you may add more for an extra € 1.19 a month per TB.",
+        "after": "With 20 TB of included traffic, you’ll have lots of bandwidth for your projects, regardless of which Hetzner Cloud package you choose. But if you need, you may add more for an extra € 1.23 a month per TB.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€1.19",
+            "after": "€1.23"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 42,
+      "added": 43,
+      "materialRemoved": 32,
+      "materialAdded": 32
+    }
+  },
+  {
+    "id": "hetzner-com-cloud-20230802151821",
+    "url": "https://www.hetzner.com/cloud/",
+    "ts": "20230802151821",
+    "date": "2023-08-02",
+    "source": "wayback",
+    "prevTs": "20230703015101",
+    "kind": "price",
+    "score": 111,
+    "counts": {
+      "price": 32,
+      "limit": 8,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hetzner Cloud: 32 prices, 8 limits changed (€4.66 → €4.51; €4.66 → €4.51)",
+    "pairs": [
+      {
+        "before": "STARTING AT € 4.66",
+        "after": "STARTING AT € 4.51",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€4.66",
+            "after": "€4.51"
+          }
+        ]
+      },
+      {
+        "before": "INCREDIBLE PERFORMANCE STARTING AT € 4.66",
+        "after": "INCREDIBLE PERFORMANCE STARTING AT € 4.51",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€4.66",
+            "after": "€4.51"
+          }
+        ]
+      },
+      {
+        "before": "save € 0.62",
+        "after": "save € 0.60",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.62",
+            "after": "€0.60"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0074 € 0.0064 / hr € 4.66 € 4.05 / mo",
+        "after": "Price € 0.0071 € 0.0062 / hr € 4.51 € 3.92 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0074",
+            "after": "€0.0071"
+          },
+          {
+            "before": "€0.0064",
+            "after": "€0.0062"
+          },
+          {
+            "before": "€4.66",
+            "after": "€4.51"
+          },
+          {
+            "before": "€4.05",
+            "after": "€3.92"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0083 € 0.0073 / hr € 5.35 € 4.74 / mo",
+        "after": "Price € 0.0080 € 0.0070 / hr € 5.18 € 4.59 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0083",
+            "after": "€0.0080"
+          },
+          {
+            "before": "€0.0073",
+            "after": "€0.0070"
+          },
+          {
+            "before": "€5.35",
+            "after": "€5.18"
+          },
+          {
+            "before": "€4.74",
+            "after": "€4.59"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0107 € 0.0097 / hr € 6.58 € 5.97 / mo",
+        "after": "Price € 0.0104 € 0.0094 / hr € 6.37 € 5.78 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0107",
+            "after": "€0.0104"
+          },
+          {
+            "before": "€0.0097",
+            "after": "€0.0094"
+          },
+          {
+            "before": "€6.58",
+            "after": "€6.37"
+          },
+          {
+            "before": "€5.97",
+            "after": "€5.78"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0145 € 0.0135 / hr € 9.28 € 8.67 / mo",
+        "after": "Price € 0.0140 € 0.0130 / hr € 8.98 € 8.39 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0145",
+            "after": "€0.0140"
+          },
+          {
+            "before": "€0.0135",
+            "after": "€0.0130"
+          },
+          {
+            "before": "€9.28",
+            "after": "€8.98"
+          },
+          {
+            "before": "€8.67",
+            "after": "€8.39"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0188 € 0.0178 / hr € 11.93 € 11.31 / mo",
+        "after": "Price € 0.0182 € 0.0173 / hr € 11.54 € 10.95 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0188",
+            "after": "€0.0182"
+          },
+          {
+            "before": "€0.0178",
+            "after": "€0.0173"
+          },
+          {
+            "before": "€11.93",
+            "after": "€11.54"
+          },
+          {
+            "before": "€11.31",
+            "after": "€10.95"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0269 € 0.0259 / hr € 16.72 € 16.11 / mo",
+        "after": "Price € 0.0260 € 0.0250 / hr € 16.18 € 15.59 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0269",
+            "after": "€0.0260"
+          },
+          {
+            "before": "€0.0259",
+            "after": "€0.0250"
+          },
+          {
+            "before": "€16.72",
+            "after": "€16.18"
+          },
+          {
+            "before": "€16.11",
+            "after": "€15.59"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0352 € 0.0342 / hr € 21.41 € 20.79 / mo",
+        "after": "Price € 0.0340 € 0.0331 / hr € 20.71 € 20.12 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0352",
+            "after": "€0.0340"
+          },
+          {
+            "before": "€0.0342",
+            "after": "€0.0331"
+          },
+          {
+            "before": "€21.41",
+            "after": "€20.71"
+          },
+          {
+            "before": "€20.79",
+            "after": "€20.12"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0517 € 0.0507 / hr € 31.00 € 30.38 / mo",
+        "after": "Price € 0.0500 € 0.0490 / hr € 29.99 € 29.40 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0517",
+            "after": "€0.0500"
+          },
+          {
+            "before": "€0.0507",
+            "after": "€0.0490"
+          },
+          {
+            "before": "€31.00",
+            "after": "€29.99"
+          },
+          {
+            "before": "€30.38",
+            "after": "€29.40"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0675 € 0.0665 / hr € 40.47 € 39.85 / mo",
+        "after": "Price € 0.0653 € 0.0644 / hr € 39.15 € 38.56 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0675",
+            "after": "€0.0653"
+          },
+          {
+            "before": "€0.0665",
+            "after": "€0.0644"
+          },
+          {
+            "before": "€40.47",
+            "after": "€39.15"
+          },
+          {
+            "before": "€39.85",
+            "after": "€38.56"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.1085 € 0.1075 / hr € 67.53 € 66.91 / mo",
+        "after": "Price € 0.1050 € 0.1040 / hr € 65.33 € 64.74 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.1085",
+            "after": "€0.1050"
+          },
+          {
+            "before": "€0.1075",
+            "after": "€0.1040"
+          },
+          {
+            "before": "€67.53",
+            "after": "€65.33"
+          },
+          {
+            "before": "€66.91",
+            "after": "€64.74"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0072 € 0.0063 / hr € 4.66 € 4.05 / mo",
+        "after": "Price € 0.0070 € 0.0060 / hr € 4.51 € 3.92 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0072",
+            "after": "€0.0070"
+          },
+          {
+            "before": "€0.0063",
+            "after": "€0.0060"
+          },
+          {
+            "before": "€4.66",
+            "after": "€4.51"
+          },
+          {
+            "before": "€4.05",
+            "after": "€3.92"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0124 € 0.0114 / hr € 7.98 € 7.36 / mo",
+        "after": "Price € 0.0120 € 0.0110 / hr € 7.72 € 7.13 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0124",
+            "after": "€0.0120"
+          },
+          {
+            "before": "€0.0114",
+            "after": "€0.0110"
+          },
+          {
+            "before": "€7.98",
+            "after": "€7.72"
+          },
+          {
+            "before": "€7.36",
+            "after": "€7.13"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0248 € 0.0238 / hr € 15.36 € 14.74 / mo",
+        "after": "Price € 0.0240 € 0.0230 / hr € 14.86 € 14.27 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0248",
+            "after": "€0.0240"
+          },
+          {
+            "before": "€0.0238",
+            "after": "€0.0230"
+          },
+          {
+            "before": "€15.36",
+            "after": "€14.86"
+          },
+          {
+            "before": "€14.74",
+            "after": "€14.27"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0486 € 0.0476 / hr € 30.12 € 29.50 / mo",
+        "after": "Price € 0.0470 € 0.0460 / hr € 29.14 € 28.55 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0486",
+            "after": "€0.0470"
+          },
+          {
+            "before": "€0.0476",
+            "after": "€0.0460"
+          },
+          {
+            "before": "€30.12",
+            "after": "€29.14"
+          },
+          {
+            "before": "€29.50",
+            "after": "€28.55"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0403 € 0.0393 / hr € 26.87 € 26.26 / mo",
+        "after": "Price € 0.0390 € 0.0380 / hr € 26.00 € 25.41 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0403",
+            "after": "€0.0390"
+          },
+          {
+            "before": "€0.0393",
+            "after": "€0.0380"
+          },
+          {
+            "before": "€26.87",
+            "after": "€26.00"
+          },
+          {
+            "before": "€26.26",
+            "after": "€25.41"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0817 € 0.0807 / hr € 47.24 € 46.62 / mo",
+        "after": "Price € 0.0790 € 0.0780 / hr € 45.70 € 45.11 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0817",
+            "after": "€0.0790"
+          },
+          {
+            "before": "€0.0807",
+            "after": "€0.0780"
+          },
+          {
+            "before": "€47.24",
+            "after": "€45.70"
+          },
+          {
+            "before": "€46.62",
+            "after": "€45.11"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.1623 € 0.1613 / hr € 94.59 € 93.97 / mo",
+        "after": "Price € 0.1570 € 0.1560 / hr € 91.51 € 90.92 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.1623",
+            "after": "€0.1570"
+          },
+          {
+            "before": "€0.1613",
+            "after": "€0.1560"
+          },
+          {
+            "before": "€94.59",
+            "after": "€91.51"
+          },
+          {
+            "before": "€93.97",
+            "after": "€90.92"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.3256 € 0.3246 / hr € 189.30 € 188.68 / mo",
+        "after": "Price € 0.3150 € 0.3140 / hr € 183.14 € 182.55 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.3256",
+            "after": "€0.3150"
+          },
+          {
+            "before": "€0.3246",
+            "after": "€0.3140"
+          },
+          {
+            "before": "€189.30",
+            "after": "€183.14"
+          },
+          {
+            "before": "€188.68",
+            "after": "€182.55"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.6501 € 0.6492 / hr € 365.19 € 364.57 / mo",
+        "after": "Price € 0.6290 € 0.6280 / hr € 353.31 € 352.72 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.6501",
+            "after": "€0.6290"
+          },
+          {
+            "before": "€0.6492",
+            "after": "€0.6280"
+          },
+          {
+            "before": "€365.19",
+            "after": "€353.31"
+          },
+          {
+            "before": "€364.57",
+            "after": "€352.72"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.9737 € 0.9727 / hr € 541.08 € 540.46 / mo",
+        "after": "Price € 0.9420 € 0.9410 / hr € 523.48 € 522.89 / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.9737",
+            "after": "€0.9420"
+          },
+          {
+            "before": "€0.9727",
+            "after": "€0.9410"
+          },
+          {
+            "before": "€541.08",
+            "after": "€523.48"
+          },
+          {
+            "before": "€540.46",
+            "after": "€522.89"
+          }
+        ]
+      },
+      {
+        "before": "Expand your cloud instance with high-availability SSD block storage for € 0.0542 / GB per month.",
+        "after": "Expand your cloud instance with high-availability SSD block storage for € 0.0524 / GB per month.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0542",
+            "after": "€0.0524"
+          }
+        ]
+      },
+      {
+        "before": "€ 0.054 / GB per month",
+        "after": "€ 0.052 / GB per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.054",
+            "after": "€0.052"
+          }
+        ]
+      },
+      {
+        "before": "€ 0.0135/GB per month",
+        "after": "€ 0.0131/GB per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0135",
+            "after": "€0.0131"
+          }
+        ]
+      },
+      {
+        "before": "With 20 TB of included traffic, you’ll have lots of bandwidth for your projects, regardless of which Hetzner Cloud package you choose. But if you need, you may add more for an extra € 1.23 a month per TB.",
+        "after": "With 20 TB of included traffic, you’ll have lots of bandwidth for your projects, regardless of which Hetzner Cloud package you choose. But if you need, you may add more for an extra € 1.19 a month per TB.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€1.23",
+            "after": "€1.19"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "RAM 8 GB",
+      "Disk space 80 GB",
+      "Traffic 20 TB",
+      "Price € 0.0406 € 0.0396 / hr € 26.87 € 26.26 / mo",
+      "RAM 16 GB",
+      "Disk space 160 GB",
+      "Traffic 20 TB",
+      "Price € 0.0812 € 0.0802 / hr € 47.24 € 46.62 / mo",
+      "RAM 32 GB",
+      "Disk space 240 GB",
+      "Traffic 20 TB",
+      "Price € 0.1624 € 0.1614 / hr € 94.59 € 93.97 / mo",
+      "RAM 64 GB",
+      "Disk space 360 GB",
+      "Traffic 20 TB",
+      "Price € 0.3251 € 0.3241 / hr € 189.30 € 188.68 / mo",
+      "RAM 128 GB",
+      "Disk space 600 GB",
+      "Traffic 20 TB",
+      "Price € 0.6498 € 0.6488 / hr € 365.19 € 364.57 / mo"
+    ],
+    "totals": {
+      "removed": 68,
+      "added": 28,
+      "materialRemoved": 47,
+      "materialAdded": 27
+    }
+  },
+  {
+    "id": "hetzner-com-cloud-20230903090850",
+    "url": "https://www.hetzner.com/cloud/",
+    "ts": "20230903090850",
+    "date": "2023-09-03",
+    "source": "wayback",
+    "prevTs": "20230802151821",
+    "kind": "price",
+    "score": 77,
+    "counts": {
+      "price": 23,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hetzner Cloud: 23 prices, 4 limits changed (20TB → 30TB; 20TB → 40TB)",
+    "pairs": [
+      {
+        "before": "Traffic 20 TB",
+        "after": "Traffic 30 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "20TB",
+            "after": "30TB"
+          }
+        ]
+      },
+      {
+        "before": "Traffic 20 TB",
+        "after": "Traffic 40 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "20TB",
+            "after": "40TB"
+          }
+        ]
+      },
+      {
+        "before": "Traffic 20 TB",
+        "after": "Traffic 50 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "20TB",
+            "after": "50TB"
+          }
+        ]
+      },
+      {
+        "before": "Traffic 20 TB",
+        "after": "Traffic 60 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "20TB",
+            "after": "60TB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "€ 14.86",
+      "Price € 0.0084 € 0.0075 / hr € 5.18 € 4.59 / mtl.",
+      "Price € 0.0143 € 0.0133 / hr € 8.98 € 8.39 / mtl.",
+      "Price € 0.0261 € 0.0251 / hr € 16.18 € 15.59 / mtl.",
+      "Price € 0.0496 € 0.0487 / hr € 29.99 € 29.40 / mtl.",
+      "Price € 0.1047 € 0.1038 / hr € 65.33 € 64.74 / mtl.",
+      "Price € 0.0238 € 0.0228 / hr € 14.86 € 14.27 / mtl.",
+      "Price € 0.0466 € 0.0456 / hr € 29.14 € 28.55 / mtl.",
+      "Price € 0.0925 € 0.0915 / hr € 57.70 € 57.11 / mtl.",
+      "Price € 0.1840 € 0.1830 / hr € 114.82 € 114.23 / mtl.",
+      "Price € 0.3671 € 0.3661 / hr € 229.06 € 228.47 / mtl.",
+      "Price € 0.5501 € 0.5491 / hr € 343.30 € 342.71 / mtl."
+    ],
+    "removed": [
+      "Price € 0.0080 € 0.0070 / hr € 5.18 € 4.59 / mo",
+      "Price € 0.0140 € 0.0130 / hr € 8.98 € 8.39 / mo",
+      "Price € 0.0260 € 0.0250 / hr € 16.18 € 15.59 / mo",
+      "Price € 0.0500 € 0.0490 / hr € 29.99 € 29.40 / mo",
+      "Price € 0.1050 € 0.1040 / hr € 65.33 € 64.74 / mo",
+      "Price € 0.0390 € 0.0380 / hr € 26.00 € 25.41 / mo",
+      "Price € 0.0790 € 0.0780 / hr € 45.70 € 45.11 / mo",
+      "Price € 0.1570 € 0.1560 / hr € 91.51 € 90.92 / mo",
+      "Price € 0.3150 € 0.3140 / hr € 183.14 € 182.55 / mo",
+      "Price € 0.6290 € 0.6280 / hr € 353.31 € 352.72 / mo",
+      "Price € 0.9420 € 0.9410 / hr € 523.48 € 522.89 / mo"
+    ],
+    "totals": {
+      "removed": 78,
+      "added": 89,
+      "materialRemoved": 29,
+      "materialAdded": 30
+    }
+  },
+  {
+    "id": "hetzner-com-cloud-20240201201711",
+    "url": "https://www.hetzner.com/cloud/",
+    "ts": "20240201201711",
+    "date": "2024-02-01",
+    "source": "wayback",
+    "prevTs": "20230903090850",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Hetzner Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 7,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "hetzner-com-cloud-20240305045322",
+    "url": "https://www.hetzner.com/cloud/",
+    "ts": "20240305045322",
+    "date": "2024-03-05",
+    "source": "wayback",
+    "prevTs": "20240201201711",
+    "kind": "price",
+    "score": 96,
+    "counts": {
+      "price": 32,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hetzner Cloud: 32 prices changed (€0.60 → €0.50; €0.0071 → €0.0060)",
+    "pairs": [
+      {
+        "before": "save € 0.60",
+        "after": "save € 0.50",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.60",
+            "after": "€0.50"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0071 € 0.0062 / hr € 4.51 € 3.92 / mtl.",
+        "after": "Price € 0.0060 € 0.0052 / hr € 3.79 € 3.29 / mtl.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0071",
+            "after": "€0.0060"
+          },
+          {
+            "before": "€0.0062",
+            "after": "€0.0052"
+          },
+          {
+            "before": "€4.51",
+            "after": "€3.79"
+          },
+          {
+            "before": "€3.92",
+            "after": "€3.29"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0084 € 0.0075 / hr € 5.18 € 4.59 / mtl.",
+        "after": "Price € 0.0071 € 0.0063 / hr € 4.35 € 3.85 / mtl.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0084",
+            "after": "€0.0071"
+          },
+          {
+            "before": "€0.0075",
+            "after": "€0.0063"
+          },
+          {
+            "before": "€5.18",
+            "after": "€4.35"
+          },
+          {
+            "before": "€4.59",
+            "after": "€3.85"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0104 € 0.0094 / hr € 6.37 € 5.78 / mtl.",
+        "after": "Price € 0.0087 € 0.0079 / hr € 5.35 € 4.85 / mtl.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0104",
+            "after": "€0.0087"
+          },
+          {
+            "before": "€0.0094",
+            "after": "€0.0079"
+          },
+          {
+            "before": "€6.37",
+            "after": "€5.35"
+          },
+          {
+            "before": "€5.78",
+            "after": "€4.85"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0143 € 0.0133 / hr € 8.98 € 8.39 / mtl.",
+        "after": "Price € 0.0120 € 0.0112 / hr € 7.55 € 7.05 / mtl.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0143",
+            "after": "€0.0120"
+          },
+          {
+            "before": "€0.0133",
+            "after": "€0.0112"
+          },
+          {
+            "before": "€8.98",
+            "after": "€7.55"
+          },
+          {
+            "before": "€8.39",
+            "after": "€7.05"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0182 € 0.0173 / hr € 11.54 € 10.95 / mtl.",
+        "after": "Price € 0.0153 € 0.0145 / hr € 9.70 € 9.20 / mtl.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0182",
+            "after": "€0.0153"
+          },
+          {
+            "before": "€0.0173",
+            "after": "€0.0145"
+          },
+          {
+            "before": "€11.54",
+            "after": "€9.70"
+          },
+          {
+            "before": "€10.95",
+            "after": "€9.20"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0261 € 0.0251 / hr € 16.18 € 15.59 / mtl.",
+        "after": "Price € 0.0219 € 0.0211 / hr € 13.60 € 13.10 / mtl.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0261",
+            "after": "€0.0219"
+          },
+          {
+            "before": "€0.0251",
+            "after": "€0.0211"
+          },
+          {
+            "before": "€16.18",
+            "after": "€13.60"
+          },
+          {
+            "before": "€15.59",
+            "after": "€13.10"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0340 € 0.0331 / hr € 20.71 € 20.12 / mtl.",
+        "after": "Price € 0.0286 € 0.0278 / hr € 17.40 € 16.90 / mtl.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0340",
+            "after": "€0.0286"
+          },
+          {
+            "before": "€0.0331",
+            "after": "€0.0278"
+          },
+          {
+            "before": "€20.71",
+            "after": "€17.40"
+          },
+          {
+            "before": "€20.12",
+            "after": "€16.90"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0496 € 0.0487 / hr € 29.99 € 29.40 / mtl.",
+        "after": "Price € 0.0417 € 0.0409 / hr € 25.20 € 24.70 / mtl.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0496",
+            "after": "€0.0417"
+          },
+          {
+            "before": "€0.0487",
+            "after": "€0.0409"
+          },
+          {
+            "before": "€29.99",
+            "after": "€25.20"
+          },
+          {
+            "before": "€29.40",
+            "after": "€24.70"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0653 € 0.0644 / hr € 39.15 € 38.56 / mtl.",
+        "after": "Price € 0.0549 € 0.0541 / hr € 32.90 € 32.40 / mtl.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0653",
+            "after": "€0.0549"
+          },
+          {
+            "before": "€0.0644",
+            "after": "€0.0541"
+          },
+          {
+            "before": "€39.15",
+            "after": "€32.90"
+          },
+          {
+            "before": "€38.56",
+            "after": "€32.40"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.1047 € 0.1038 / hr € 65.33 € 64.74 / mtl.",
+        "after": "Price € 0.0880 € 0.0872 / hr € 54.90 € 54.40 / mtl.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.1047",
+            "after": "€0.0880"
+          },
+          {
+            "before": "€0.1038",
+            "after": "€0.0872"
+          },
+          {
+            "before": "€65.33",
+            "after": "€54.90"
+          },
+          {
+            "before": "€64.74",
+            "after": "€54.40"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0070 € 0.0060 / hr € 4.51 € 3.92 / mtl.",
+        "after": "Price € 0.0059 € 0.0051 / hr € 3.79 € 3.29 / mtl.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0070",
+            "after": "€0.0059"
+          },
+          {
+            "before": "€0.0060",
+            "after": "€0.0051"
+          },
+          {
+            "before": "€4.51",
+            "after": "€3.79"
+          },
+          {
+            "before": "€3.92",
+            "after": "€3.29"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0120 € 0.0110 / hr € 7.72 € 7.13 / mtl.",
+        "after": "Price € 0.0101 € 0.0093 / hr € 6.49 € 5.99 / mtl.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0120",
+            "after": "€0.0101"
+          },
+          {
+            "before": "€0.0110",
+            "after": "€0.0093"
+          },
+          {
+            "before": "€7.72",
+            "after": "€6.49"
+          },
+          {
+            "before": "€7.13",
+            "after": "€5.99"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0240 € 0.0230 / hr € 14.86 € 14.27 / mtl.",
+        "after": "Price € 0.0202 € 0.0194 / hr € 12.49 € 11.99 / mtl.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0240",
+            "after": "€0.0202"
+          },
+          {
+            "before": "€0.0230",
+            "after": "€0.0194"
+          },
+          {
+            "before": "€14.86",
+            "after": "€12.49"
+          },
+          {
+            "before": "€14.27",
+            "after": "€11.99"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0470 € 0.0460 / hr € 29.14 € 28.55 / mtl.",
+        "after": "Price € 0.0395 € 0.0387 / hr € 24.49 € 23.99 / mtl.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0470",
+            "after": "€0.0395"
+          },
+          {
+            "before": "€0.0460",
+            "after": "€0.0387"
+          },
+          {
+            "before": "€29.14",
+            "after": "€24.49"
+          },
+          {
+            "before": "€28.55",
+            "after": "€23.99"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0238 € 0.0228 / hr € 14.86 € 14.27 / mtl.",
+        "after": "Price € 0.0200 € 0.0192 / hr € 12.49 € 11.99 / mtl.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0238",
+            "after": "€0.0200"
+          },
+          {
+            "before": "€0.0228",
+            "after": "€0.0192"
+          },
+          {
+            "before": "€14.86",
+            "after": "€12.49"
+          },
+          {
+            "before": "€14.27",
+            "after": "€11.99"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0466 € 0.0456 / hr € 29.14 € 28.55 / mtl.",
+        "after": "Price € 0.0392 € 0.0384 / hr € 24.49 € 23.99 / mtl.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0466",
+            "after": "€0.0392"
+          },
+          {
+            "before": "€0.0456",
+            "after": "€0.0384"
+          },
+          {
+            "before": "€29.14",
+            "after": "€24.49"
+          },
+          {
+            "before": "€28.55",
+            "after": "€23.99"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.0925 € 0.0915 / hr € 57.70 € 57.11 / mtl.",
+        "after": "Price € 0.0777 € 0.0769 / hr € 48.49 € 47.99 / mtl.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0925",
+            "after": "€0.0777"
+          },
+          {
+            "before": "€0.0915",
+            "after": "€0.0769"
+          },
+          {
+            "before": "€57.70",
+            "after": "€48.49"
+          },
+          {
+            "before": "€57.11",
+            "after": "€47.99"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.1840 € 0.1830 / hr € 114.82 € 114.23 / mtl.",
+        "after": "Price € 0.1546 € 0.1538 / hr € 96.49 € 95.99 / mtl.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.1840",
+            "after": "€0.1546"
+          },
+          {
+            "before": "€0.1830",
+            "after": "€0.1538"
+          },
+          {
+            "before": "€114.82",
+            "after": "€96.49"
+          },
+          {
+            "before": "€114.23",
+            "after": "€95.99"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.3671 € 0.3661 / hr € 229.06 € 228.47 / mtl.",
+        "after": "Price € 0.3085 € 0.3077 / hr € 192.49 € 191.99 / mtl.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.3671",
+            "after": "€0.3085"
+          },
+          {
+            "before": "€0.3661",
+            "after": "€0.3077"
+          },
+          {
+            "before": "€229.06",
+            "after": "€192.49"
+          },
+          {
+            "before": "€228.47",
+            "after": "€191.99"
+          }
+        ]
+      },
+      {
+        "before": "Price € 0.5501 € 0.5491 / hr € 343.30 € 342.71 / mtl.",
+        "after": "Price € 0.4623 € 0.4615 / hr € 288.49 € 287.99 / mtl.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.5501",
+            "after": "€0.4623"
+          },
+          {
+            "before": "€0.5491",
+            "after": "€0.4615"
+          },
+          {
+            "before": "€343.30",
+            "after": "€288.49"
+          },
+          {
+            "before": "€342.71",
+            "after": "€287.99"
+          }
+        ]
+      },
+      {
+        "before": "€ 0.052 / GB per month",
+        "after": "€ 0.044 / GB per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.052",
+            "after": "€0.044"
+          }
+        ]
+      },
+      {
+        "before": "€ 0.0131/GB per month",
+        "after": "€ 0.0110/GB per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0131",
+            "after": "€0.0110"
+          }
+        ]
+      },
+      {
+        "before": "With at least 20 TB of included traffic, you’ll have lots of bandwidth for your projects, regardless of which Hetzner Cloud package you choose. But if you need, you may add more for an extra € 1.19 a month per TB.",
+        "after": "With at least 20 TB of included traffic, you’ll have lots of bandwidth for your projects, regardless of which Hetzner Cloud package you choose. But if you need, you may add more for an extra € 1.00 a month per TB.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€1.19",
+            "after": "€1.00"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "€ 3.79",
+      "€ 3.79",
+      "€ 12.49",
+      "Expand your cloud instance with high-availability SSD block storage for € 0.0440 / GB per month."
+    ],
+    "removed": [
+      "€ 4.51",
+      "€ 4.51",
+      "€ 14.86",
+      "€ 0.0524 / GB per month."
+    ],
+    "totals": {
+      "removed": 29,
+      "added": 28,
+      "materialRemoved": 28,
+      "materialAdded": 28
+    }
+  },
+  {
+    "id": "hetzner-com-cloud-20240502004843",
+    "url": "https://www.hetzner.com/cloud/",
+    "ts": "20240502004843",
+    "date": "2024-05-02",
+    "source": "wayback",
+    "prevTs": "20240305045322",
+    "kind": "price",
+    "score": 153,
+    "counts": {
+      "price": 51,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hetzner Cloud: 51 prices changed (€0.50 → €0.60; €0.0440 → €0.0524)",
+    "pairs": [
+      {
+        "before": "save € 0.50",
+        "after": "save € 0.60",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.50",
+            "after": "€0.60"
+          }
+        ]
+      },
+      {
+        "before": "Expand your cloud instance with high-availability SSD block storage for € 0.0440 / GB per month.",
+        "after": "Expand your cloud instance with high-availability SSD block storage for € 0.0524 / GB per month.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0440",
+            "after": "€0.0524"
+          }
+        ]
+      },
+      {
+        "before": "€ 0.044 / GB per month",
+        "after": "€ 0.052 / GB per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.044",
+            "after": "€0.052"
+          }
+        ]
+      },
+      {
+        "before": "€ 0.0110/GB per month",
+        "after": "€ 0.0131/GB per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0110",
+            "after": "€0.0131"
+          }
+        ]
+      },
+      {
+        "before": "With at least 20 TB of included traffic, you’ll have lots of bandwidth for your projects, regardless of which Hetzner Cloud package you choose. But if you need, you may add more for an extra € 1.00 a month per TB.",
+        "after": "With at least 20 TB of included traffic, you’ll have lots of bandwidth for your projects, regardless of which Hetzner Cloud package you choose. But if you need, you may add more for an extra € 1.19 a month per TB.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€1.00",
+            "after": "€1.19"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "€ 4.51",
+      "€ 4.51",
+      "€ 14.86",
+      "Price € 0.0071 € 0.0061 / hr € 4.51 € 3.92 / mo.",
+      "Price € 0.0084 € 0.0074 / hr € 5.18 € 4.59 / mo.",
+      "Price € 0.0104 € 0.0094 / hr € 6.37 € 5.78 / mo.",
+      "Price € 0.0143 € 0.0133 / hr € 8.98 € 8.39 / mo.",
+      "Price € 0.0182 € 0.0172 / hr € 11.54 € 10.95 / mo.",
+      "Price € 0.0261 € 0.0251 / hr € 16.18 € 15.59 / mo.",
+      "Price € 0.0340 € 0.0330 / hr € 20.71 € 20.12 / mo.",
+      "Price € 0.0496 € 0.0486 / hr € 29.99 € 29.40 / mo.",
+      "Price € 0.0653 € 0.0643 / hr € 39.15 € 38.56 / mo.",
+      "Price € 0.1047 € 0.1037 / hr € 65.33 € 64.74 / mo.",
+      "Price € 0.0070 € 0.0060 / hr € 4.51 € 3.92 / mo.",
+      "Price € 0.0120 € 0.0110 / hr € 7.72 € 7.13 / mo.",
+      "Price € 0.0240 € 0.0230 / hr € 14.86 € 14.27 / mo.",
+      "Price € 0.0470 € 0.0460 / hr € 29.14 € 28.55 / mo.",
+      "Price € 0.0238 € 0.0228 / hr € 14.86 € 14.27 / mo.",
+      "Price € 0.0466 € 0.0456 / hr € 29.14 € 28.55 / mo.",
+      "Price € 0.0925 € 0.0915 / hr € 57.70 € 57.11 / mo.",
+      "Price € 0.1840 € 0.1830 / hr € 114.82 € 114.23 / mo.",
+      "Price € 0.3671 € 0.3661 / hr € 229.06 € 228.47 / mo.",
+      "Price € 0.5501 € 0.5491 / hr € 343.30 € 342.71 / mo."
+    ],
+    "removed": [
+      "€ 3.79",
+      "€ 3.79",
+      "€ 12.49",
+      "Price € 0.0060 € 0.0052 / hr € 3.79 € 3.29 / mtl.",
+      "Price € 0.0071 € 0.0063 / hr € 4.35 € 3.85 / mtl.",
+      "Price € 0.0087 € 0.0079 / hr € 5.35 € 4.85 / mtl.",
+      "Price € 0.0120 € 0.0112 / hr € 7.55 € 7.05 / mtl.",
+      "Price € 0.0153 € 0.0145 / hr € 9.70 € 9.20 / mtl.",
+      "Price € 0.0219 € 0.0211 / hr € 13.60 € 13.10 / mtl.",
+      "Price € 0.0286 € 0.0278 / hr € 17.40 € 16.90 / mtl.",
+      "Price € 0.0417 € 0.0409 / hr € 25.20 € 24.70 / mtl.",
+      "Price € 0.0549 € 0.0541 / hr € 32.90 € 32.40 / mtl.",
+      "Price € 0.0880 € 0.0872 / hr € 54.90 € 54.40 / mtl.",
+      "Price € 0.0059 € 0.0051 / hr € 3.79 € 3.29 / mtl.",
+      "Price € 0.0101 € 0.0093 / hr € 6.49 € 5.99 / mtl.",
+      "Price € 0.0202 € 0.0194 / hr € 12.49 € 11.99 / mtl.",
+      "Price € 0.0395 € 0.0387 / hr € 24.49 € 23.99 / mtl.",
+      "Price € 0.0200 € 0.0192 / hr € 12.49 € 11.99 / mtl.",
+      "Price € 0.0392 € 0.0384 / hr € 24.49 € 23.99 / mtl.",
+      "Price € 0.0777 € 0.0769 / hr € 48.49 € 47.99 / mtl.",
+      "Price € 0.1546 € 0.1538 / hr € 96.49 € 95.99 / mtl.",
+      "Price € 0.3085 € 0.3077 / hr € 192.49 € 191.99 / mtl.",
+      "Price € 0.4623 € 0.4615 / hr € 288.49 € 287.99 / mtl."
+    ],
+    "totals": {
+      "removed": 34,
+      "added": 36,
+      "materialRemoved": 28,
+      "materialAdded": 28
+    }
+  },
+  {
+    "id": "hetzner-com-cloud-20240605144300",
+    "url": "https://www.hetzner.com/cloud/",
+    "ts": "20240605144300",
+    "date": "2024-06-05",
+    "source": "wayback",
+    "prevTs": "20240502004843",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Hetzner Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 7,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "hetzner-com-cloud-20240701085211",
+    "url": "https://www.hetzner.com/cloud/",
+    "ts": "20240701085211",
+    "date": "2024-07-01",
+    "source": "wayback",
+    "prevTs": "20240605144300",
+    "kind": "price",
+    "score": 29,
+    "counts": {
+      "price": 8,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hetzner Cloud: 8 prices, 3 limits changed (removed “Disk space 20 GB”; added “from € 5.18”)",
+    "pairs": [],
+    "added": [
+      "from € 5.18",
+      "€ 0.0134 € 0.0124 € 8.09 € 7.50 max.",
+      "€ 0.0325 € 0.0315 € 19.52 € 18.92 max.",
+      "€ 0.0643 € 0.0633 € 38.56 € 37.96 max.",
+      "320 GB"
+    ],
+    "removed": [
+      "Disk space 20 GB",
+      "RAM 2 GB",
+      "Price € 0.0104 € 0.0094 / hr € 6.37 € 5.78 / mo.",
+      "Price € 0.0182 € 0.0172 / hr € 11.54 € 10.95 / mo.",
+      "Price € 0.0340 € 0.0330 / hr € 20.71 € 20.12 / mo.",
+      "Price € 0.0653 € 0.0643 / hr € 39.15 € 38.56 / mo.",
+      "Traffic 20 TB",
+      "Disk space 240 GB"
+    ],
+    "totals": {
+      "removed": 144,
+      "added": 262,
+      "materialRemoved": 83,
+      "materialAdded": 80
+    }
+  },
+  {
+    "id": "hetzner-com-cloud-20240803011916",
+    "url": "https://www.hetzner.com/cloud/",
+    "ts": "20240803011916",
+    "date": "2024-08-03",
+    "source": "wayback",
+    "prevTs": "20240701085211",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Hetzner Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "hetzner-com-cloud-20240901192228",
+    "url": "https://www.hetzner.com/cloud/",
+    "ts": "20240901192228",
+    "date": "2024-09-01",
+    "source": "wayback",
+    "prevTs": "20240803011916",
+    "kind": "price",
+    "score": 148,
+    "counts": {
+      "price": 42,
+      "limit": 11,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hetzner Cloud: 42 prices, 11 limits changed (removed “€ 0.0071 € 0.0061 € 4.51 € 3.92 max.”; added “You’ll get at least 20 TB of inclusive traffi…”)",
+    "pairs": [],
+    "added": [
+      "You’ll get at least 20 TB of inclusive traffic for cloud servers at EU and US locations and 1 TB in Singapore. For each additional TB, we charge € 1.00 in the EU and US, and € 7.40 in Singapore. (Prices excl. VAT)",
+      "You’ll get at least 20 TB of inclusive traffic for cloud servers at EU and US locations and 1 TB in Singapore. For each additional TB, we charge € 1.00 in the EU and US, and € 7.40 in Singapore. (Prices excl. VAT)",
+      "€ 0.0071 € 0.0061 € 0.0071 € 0.0061 € 4.51 € 3.92 € 4.51 € 3.92 max.",
+      "€ 0.0134 € 0.0124 € 0.0134 € 0.0124 € 8.09 € 7.50 € 8.09 € 7.50 max.",
+      "€ 0.0325 € 0.0315 € 0.0325 € 0.0315 € 19.52 € 18.92 € 19.52 € 18.92 max.",
+      "€ 0.0643 € 0.0633 € 0.0643 € 0.0633 € 38.56 € 37.96 € 38.56 € 37.96 max.",
+      "1TB 20 TB",
+      "€ 0.0084 € 0.0074 € 0.0084 € 0.0074 € 0.0084 € 0.0074 € 0.0151 € 0.0141 € 5.18 € 4.59 € 5.18 € 4.59 € 5.18 € 4.59 € 9.40 € 8.81 max.",
+      "2TB 20 TB",
+      "€ 0.0143 € 0.0133 € 0.0143 € 0.0133 € 0.0143 € 0.0133 € 0.0278 € 0.0268 € 8.98 € 8.39 € 8.98 € 8.39 € 8.98 € 8.39 € 17.37 € 16.78 max.",
+      "3TB 20 TB",
+      "€ 0.0261 € 0.0251 € 0.0261 € 0.0251 € 0.0261 € 0.0251 € 0.0482 € 0.0472 € 16.18 € 15.59 € 16.18 € 15.59 € 16.18 € 15.59 € 30.11 € 29.51 max.",
+      "4TB 20 TB",
+      "€ 0.0496 € 0.0486 € 0.0496 € 0.0486 € 0.0496 € 0.0486 € 0.0822 € 0.0812 € 29.99 € 29.40 € 29.99 € 29.40 € 29.99 € 29.40 € 51.29 € 50.69 max.",
+      "5 TB 20 TB",
+      "€ 0.1047 € 0.1037 € 0.1047 € 0.1037 € 0.1047 € 0.1037 € 0.1476 € 0.1466 € 65.33 € 64.74 € 65.33 € 64.74 € 65.33 € 64.74 € 92.11 € 91.51 max.",
+      "€ 0.0070 € 0.0060 € 0.0070 € 0.0060 € 4.51 € 3.92 € 4.51 € 3.92 max.",
+      "€ 0.0120 € 0.0110 € 0.0120 € 0.0110 € 7.72 € 7.13 € 7.72 € 7.13 max.",
+      "€ 0.0240 € 0.0230 € 0.0240 € 0.0230 € 14.86 € 14.27 € 14.86 € 14.27 max.",
+      "€ 0.0470 € 0.0460 € 0.0470 € 0.0460 € 29.14 € 28.55 € 29.14 € 28.55 max.",
+      "1TB 20 TB",
+      "€ 0.0238 € 0.0228 € 0.0238 € 0.0228 € 0.0238 € 0.0228 € 0.0411 € 0.0401 € 14.86 € 14.27 € 14.86 € 14.27 € 14.86 € 14.27 € 25.59 € 24.99 max.",
+      "2TB 20 TB",
+      "€ 0.0466 € 0.0456 € 0.0466 € 0.0456 € 0.0466 € 0.0456 € 0.0760 € 0.0750 € 29.14 € 28.55 € 29.14 € 28.55 € 29.14 € 28.55 € 47.48 € 46.89 max.",
+      "3TB 30 TB",
+      "€ 0.0925 € 0.0915 € 0.0925 € 0.0915 € 0.0925 € 0.0915 € 0.1428 € 0.1418 € 57.70 € 57.11 € 57.70 € 57.11 € 57.70 € 57.11 € 89.13 € 88.54 max.",
+      "4TB 40 TB",
+      "€ 0.1840 € 0.1830 € 0.1840 € 0.1830 € 0.1840 € 0.1830 € 0.2623 € 0.2613 € 114.82 € 114.23 € 114.82 € 114.23 € 114.82 € 114.23 € 163.63 € 163.03 max.",
+      "6TB 50 TB",
+      "€ 0.3671 € 0.3661 € 0.3671 € 0.3661 € 0.3671 € 0.3661 € 0.5617 € 0.5607 € 229.06 € 228.47 € 229.06 € 228.47 € 229.06 € 228.47 € 350.46 € 349.86 max.",
+      "8TB 60 TB",
+      "€ 0.5501 € 0.5491 € 0.5501 € 0.5491 € 0.5501 € 0.5491 € 0.9201 € 0.9191 € 343.30 € 342.71 € 343.30 € 342.71 € 343.30 € 342.71 € 574.18 € 573.58 max.",
+      "You’ll get at least 20 TB of inclusive traffic for cloud servers at EU and US locations and 1 TB in Singapore. For each additional TB, we charge € 1.19 in the EU and US, and € 8.81 in Singapore."
+    ],
+    "removed": [
+      "€ 0.0071 € 0.0061 € 4.51 € 3.92 max.",
+      "€ 0.0134 € 0.0124 € 8.09 € 7.50 max.",
+      "€ 0.0325 € 0.0315 € 19.52 € 18.92 max.",
+      "€ 0.0643 € 0.0633 € 38.56 € 37.96 max.",
+      "20 TB",
+      "€ 0.0084 € 0.0074 € 5.18 € 4.59 max.",
+      "20 TB",
+      "€ 0.0143 € 0.0133 € 8.98 € 8.39 max.",
+      "20 TB",
+      "€ 0.0261 € 0.0251 € 16.18 € 15.59 max.",
+      "20 TB",
+      "€ 0.0496 € 0.0486 € 29.99 € 29.40 max.",
+      "20 TB",
+      "€ 0.1047 € 0.1037 € 65.33 € 64.74 max.",
+      "€ 0.0070 € 0.0060 € 4.51 € 3.92 max.",
+      "€ 0.0120 € 0.0110 € 7.72 € 7.13 max.",
+      "€ 0.0240 € 0.0230 € 14.86 € 14.27 max.",
+      "€ 0.0470 € 0.0460 € 29.14 € 28.55 max.",
+      "20 TB",
+      "€ 0.0238 € 0.0228 € 14.86 € 14.27 max.",
+      "20 TB",
+      "€ 0.0466 € 0.0456 € 29.14 € 28.55 max.",
+      "30 TB",
+      "€ 0.0925 € 0.0915 € 57.70 € 57.11 max.",
+      "40 TB",
+      "€ 0.1840 € 0.1830 € 114.82 € 114.23 max.",
+      "50 TB",
+      "€ 0.3671 € 0.3661 € 229.06 € 228.47 max.",
+      "60 TB",
+      "€ 0.5501 € 0.5491 € 343.30 € 342.71 max.",
+      "With at least 20 TB of included traffic, you’ll have lots of bandwidth for your projects, regardless of which Hetzner Cloud package you choose. But if you need, you may add more for an extra € 1.19 a month per TB."
+    ],
+    "totals": {
+      "removed": 76,
+      "added": 78,
+      "materialRemoved": 31,
+      "materialAdded": 33
+    }
+  },
+  {
+    "id": "hetzner-com-cloud-20241202173251",
+    "url": "https://www.hetzner.com/cloud/",
+    "ts": "20241202173251",
+    "date": "2024-12-02",
+    "source": "wayback",
+    "prevTs": "20240901192228",
+    "kind": "price",
+    "score": 118,
+    "counts": {
+      "price": 31,
+      "limit": 13,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hetzner Cloud: 31 prices, 13 limits changed (€7.40 → $1.20; €7.40 → $1.20)",
+    "pairs": [
+      {
+        "before": "You’ll get at least 20 TB of inclusive traffic for cloud servers at EU and US locations and 1 TB in Singapore. For each additional TB, we charge € 1.00 in the EU and US, and € 7.40 in Singapore. (Prices excl. VAT)",
+        "after": "You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations. For each additional TB, we charge €1.00 $1.20 in the EU and US, and €7.40 $8.49 in Singapore.",
+        "confidence": 0.83,
+        "deltas": [
+          {
+            "before": "€7.40",
+            "after": "$1.20"
+          },
+          {
+            "before": null,
+            "after": "€7.40"
+          },
+          {
+            "before": null,
+            "after": "$8.49"
+          }
+        ]
+      },
+      {
+        "before": "You’ll get at least 20 TB of inclusive traffic for cloud servers at EU and US locations and 1 TB in Singapore. For each additional TB, we charge € 1.00 in the EU and US, and € 7.40 in Singapore. (Prices excl. VAT)",
+        "after": "You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations. For each additional TB, we charge €1.00 $1.20 in the EU and US, and €7.40 $8.49 in Singapore.",
+        "confidence": 0.83,
+        "deltas": [
+          {
+            "before": "€7.40",
+            "after": "$1.20"
+          },
+          {
+            "before": null,
+            "after": "€7.40"
+          },
+          {
+            "before": null,
+            "after": "$8.49"
+          }
+        ]
+      },
+      {
+        "before": "Expand your cloud instance with high-availability SSD block storage for € 0.0524 / GB per month.",
+        "after": "Expand your cloud instance with high-availability SSD block storage for €0.044 $0.0484 / GB per month.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€0.0524",
+            "after": "€0.044"
+          },
+          {
+            "before": null,
+            "after": "$0.0484"
+          }
+        ]
+      },
+      {
+        "before": "You’ll get at least 20 TB of inclusive traffic for cloud servers at EU and US locations and 1 TB in Singapore. For each additional TB, we charge € 1.19 in the EU and US, and € 8.81 in Singapore.",
+        "after": "You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations. For each additional TB, we charge 1 $1.20 in the EU and US, and 7.4 $8.49 in Singapore.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€1.19",
+            "after": "1"
+          },
+          {
+            "before": "€8.81",
+            "after": "$1.20"
+          },
+          {
+            "before": null,
+            "after": "7.4"
+          },
+          {
+            "before": null,
+            "after": "$8.49"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "1 TB 1 TB 20 TB",
+      "2 TB 2 TB 20 TB",
+      "3 TB 3 TB 20 TB",
+      "4 TB 4 TB 20 TB",
+      "5 TB 5 TB 20 TB",
+      "1 TB 1 TB 20 TB",
+      "2 TB 2 TB 20 TB",
+      "3 TB 3 TB 30 TB",
+      "4 TB 4 TB 40 TB",
+      "6 TB 6 TB 50 TB",
+      "8 TB 8 TB 60 TB",
+      "0.0440 0.0500 / month Billing on an hourly basis",
+      "0.0440 0.0500 / GB per Month",
+      "0.0110 0.0130 / GB per Month"
+    ],
+    "removed": [
+      "from € 4.51",
+      "from € 5.18",
+      "from € 4.51",
+      "from € 14.86",
+      "save € 0.60",
+      "€ 0.0071 € 0.0061 € 0.0071 € 0.0061 € 4.51 € 3.92 € 4.51 € 3.92 max.",
+      "€ 0.0134 € 0.0124 € 0.0134 € 0.0124 € 8.09 € 7.50 € 8.09 € 7.50 max.",
+      "€ 0.0325 € 0.0315 € 0.0325 € 0.0315 € 19.52 € 18.92 € 19.52 € 18.92 max.",
+      "€ 0.0643 € 0.0633 € 0.0643 € 0.0633 € 38.56 € 37.96 € 38.56 € 37.96 max.",
+      "1TB 20 TB",
+      "€ 0.0084 € 0.0074 € 0.0084 € 0.0074 € 0.0084 € 0.0074 € 0.0151 € 0.0141 € 5.18 € 4.59 € 5.18 € 4.59 € 5.18 € 4.59 € 9.40 € 8.81 max.",
+      "2TB 20 TB",
+      "€ 0.0143 € 0.0133 € 0.0143 € 0.0133 € 0.0143 € 0.0133 € 0.0278 € 0.0268 € 8.98 € 8.39 € 8.98 € 8.39 € 8.98 € 8.39 € 17.37 € 16.78 max.",
+      "3TB 20 TB",
+      "€ 0.0261 € 0.0251 € 0.0261 € 0.0251 € 0.0261 € 0.0251 € 0.0482 € 0.0472 € 16.18 € 15.59 € 16.18 € 15.59 € 16.18 € 15.59 € 30.11 € 29.51 max.",
+      "4TB 20 TB",
+      "€ 0.0496 € 0.0486 € 0.0496 € 0.0486 € 0.0496 € 0.0486 € 0.0822 € 0.0812 € 29.99 € 29.40 € 29.99 € 29.40 € 29.99 € 29.40 € 51.29 € 50.69 max.",
+      "5 TB 20 TB",
+      "€ 0.1047 € 0.1037 € 0.1047 € 0.1037 € 0.1047 € 0.1037 € 0.1476 € 0.1466 € 65.33 € 64.74 € 65.33 € 64.74 € 65.33 € 64.74 € 92.11 € 91.51 max.",
+      "€ 0.0070 € 0.0060 € 0.0070 € 0.0060 € 4.51 € 3.92 € 4.51 € 3.92 max.",
+      "€ 0.0120 € 0.0110 € 0.0120 € 0.0110 € 7.72 € 7.13 € 7.72 € 7.13 max.",
+      "€ 0.0240 € 0.0230 € 0.0240 € 0.0230 € 14.86 € 14.27 € 14.86 € 14.27 max.",
+      "€ 0.0470 € 0.0460 € 0.0470 € 0.0460 € 29.14 € 28.55 € 29.14 € 28.55 max.",
+      "1TB 20 TB",
+      "€ 0.0238 € 0.0228 € 0.0238 € 0.0228 € 0.0238 € 0.0228 € 0.0411 € 0.0401 € 14.86 € 14.27 € 14.86 € 14.27 € 14.86 € 14.27 € 25.59 € 24.99 max.",
+      "2TB 20 TB",
+      "€ 0.0466 € 0.0456 € 0.0466 € 0.0456 € 0.0466 € 0.0456 € 0.0760 € 0.0750 € 29.14 € 28.55 € 29.14 € 28.55 € 29.14 € 28.55 € 47.48 € 46.89 max.",
+      "3TB 30 TB",
+      "€ 0.0925 € 0.0915 € 0.0925 € 0.0915 € 0.0925 € 0.0915 € 0.1428 € 0.1418 € 57.70 € 57.11 € 57.70 € 57.11 € 57.70 € 57.11 € 89.13 € 88.54 max.",
+      "4TB 40 TB",
+      "€ 0.1840 € 0.1830 € 0.1840 € 0.1830 € 0.1840 € 0.1830 € 0.2623 € 0.2613 € 114.82 € 114.23 € 114.82 € 114.23 € 114.82 € 114.23 € 163.63 € 163.03 max.",
+      "6TB 50 TB",
+      "€ 0.3671 € 0.3661 € 0.3671 € 0.3661 € 0.3671 € 0.3661 € 0.5617 € 0.5607 € 229.06 € 228.47 € 229.06 € 228.47 € 229.06 € 228.47 € 350.46 € 349.86 max.",
+      "8TB 60 TB",
+      "€ 0.5501 € 0.5491 € 0.5501 € 0.5491 € 0.5501 € 0.5491 € 0.9201 € 0.9191 € 343.30 € 342.71 € 343.30 € 342.71 € 343.30 € 342.71 € 574.18 € 573.58 max.",
+      "€ 0.052 / GB per month",
+      "€ 0.0131/GB per month",
+      "for developers so that you may automate your cloud infrastructure administration. It is easy to get started using our thorough documentation and programming examples. If you use the API to develop Open Source projects, you may be eligible for a credit on your account of up to € 50. For more information, click here"
+    ],
+    "totals": {
+      "removed": 60,
+      "added": 57,
+      "materialRemoved": 50,
+      "materialAdded": 26
+    }
+  },
+  {
+    "id": "hetzner-com-cloud-20250601150523",
+    "url": "https://www.hetzner.com/cloud/",
+    "ts": "20250601150523",
+    "date": "2025-06-01",
+    "source": "wayback",
+    "prevTs": "20241202173251",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Hetzner Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "0.0440 0.0500 / month Billing on an hourly basis"
+    ],
+    "totals": {
+      "removed": 21,
+      "added": 26,
+      "materialRemoved": 4,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "hetzner-com-cloud-20250701144103",
+    "url": "https://www.hetzner.com/cloud/",
+    "ts": "20250701144103",
+    "date": "2025-07-01",
+    "source": "wayback",
+    "prevTs": "20250601150523",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hetzner Cloud: 1 price changed (1 → €1.00)",
+    "pairs": [
+      {
+        "before": "You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations. For each additional TB, we charge 1 $1.20 in the EU and US, and 7.4 $8.49 in Singapore.",
+        "after": "You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations. For each additional TB, we charge € 1.00 $1.20 in the EU and US, and € 7.40 $8.49 in Singapore.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1",
+            "after": "€1.00"
+          },
+          {
+            "before": "7.4",
+            "after": "€7.40"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "hetzner-com-cloud-20250801071246",
+    "url": "https://www.hetzner.com/cloud/",
+    "ts": "20250801071246",
+    "date": "2025-08-01",
+    "source": "wayback",
+    "prevTs": "20250701144103",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Hetzner Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "hetzner-com-cloud-20251102001443",
+    "url": "https://www.hetzner.com/cloud/",
+    "ts": "20251102001443",
+    "date": "2025-11-02",
+    "source": "wayback",
+    "prevTs": "20250801071246",
+    "kind": "price",
+    "score": 56,
+    "counts": {
+      "price": 4,
+      "limit": 22,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hetzner Cloud: 4 prices, 22 limits changed (€1.00 → 0.5TB; €1.00 → 0.5TB)",
+    "pairs": [
+      {
+        "before": "You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations. For each additional TB, we charge € 1.00 $ 1.20 in the EU and US, and € 7.40 $ 8.49 in Singapore.",
+        "after": "You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations, 1TB in US locations and 0.5 TB in Singapore. For each additional TB, we charge € 1.00 $1.20 in the EU and US, and € 7.40 $8.49 in Singapore.",
+        "confidence": 0.94,
+        "deltas": [
+          {
+            "before": "€1.00",
+            "after": "0.5TB"
+          },
+          {
+            "before": "$1.20",
+            "after": "€1.00"
+          },
+          {
+            "before": "€7.40",
+            "after": "$1.20"
+          },
+          {
+            "before": "$8.49",
+            "after": "€7.40"
+          },
+          {
+            "before": null,
+            "after": "$8.49"
+          }
+        ]
+      },
+      {
+        "before": "You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations. For each additional TB, we charge € 1.00 $ 1.20 in the EU and US, and € 7.40 $ 8.49 in Singapore.",
+        "after": "You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations, 1TB in US locations and 0.5 TB in Singapore. For each additional TB, we charge € 1.00 $1.20 in the EU and US, and € 7.40 $8.49 in Singapore.",
+        "confidence": 0.94,
+        "deltas": [
+          {
+            "before": "€1.00",
+            "after": "0.5TB"
+          },
+          {
+            "before": "$1.20",
+            "after": "€1.00"
+          },
+          {
+            "before": "€7.40",
+            "after": "$1.20"
+          },
+          {
+            "before": "$8.49",
+            "after": "€7.40"
+          },
+          {
+            "before": null,
+            "after": "$8.49"
+          }
+        ]
+      },
+      {
+        "before": "You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations. For each additional TB, we charge € 1.00 $1.20 in the EU and US, and € 7.40 $8.49 in Singapore.",
+        "after": "You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations, 1TB in US locations and 0.5 TB in Singapore. For each additional TB, we charge € 1.00 $1.20 in the EU and US, and € 7.40 $8.49 in Singapore.",
+        "confidence": 0.94,
+        "deltas": [
+          {
+            "before": "€1.00",
+            "after": "0.5TB"
+          },
+          {
+            "before": "$1.20",
+            "after": "€1.00"
+          },
+          {
+            "before": "€7.40",
+            "after": "$1.20"
+          },
+          {
+            "before": "$8.49",
+            "after": "€7.40"
+          },
+          {
+            "before": null,
+            "after": "$8.49"
+          }
+        ]
+      },
+      {
+        "before": "1 TB 1 TB 20 TB",
+        "after": "0 TB 0 TB 20 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1TB",
+            "after": "0TB"
+          },
+          {
+            "before": "1TB",
+            "after": "0TB"
+          }
+        ]
+      },
+      {
+        "before": "2 TB 2 TB 20 TB",
+        "after": "0 TB 0 TB 20 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2TB",
+            "after": "0TB"
+          },
+          {
+            "before": "2TB",
+            "after": "0TB"
+          }
+        ]
+      },
+      {
+        "before": "3 TB 3 TB 20 TB",
+        "after": "0 TB 0 TB 20 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3TB",
+            "after": "0TB"
+          },
+          {
+            "before": "3TB",
+            "after": "0TB"
+          }
+        ]
+      },
+      {
+        "before": "4 TB 4 TB 20 TB",
+        "after": "0 TB 0 TB 20 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4TB",
+            "after": "0TB"
+          },
+          {
+            "before": "4TB",
+            "after": "0TB"
+          }
+        ]
+      },
+      {
+        "before": "5 TB 5 TB 20 TB",
+        "after": "0 TB 0 TB 20 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "5TB",
+            "after": "0TB"
+          },
+          {
+            "before": "5TB",
+            "after": "0TB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "40 GB",
+      "80 GB",
+      "160 GB",
+      "0 TB 0 TB 20 TB",
+      "0 TB 0 TB 20 TB",
+      "320 GB",
+      "0 TB 0 TB 20 TB",
+      "0 1 TB 0",
+      "0 2 TB 0",
+      "0 3 TB 0",
+      "0 4 TB 0",
+      "0 5 TB 0",
+      "2 GB",
+      "0.5 TB 0 TB 0 TB",
+      "4 GB",
+      "1 TB 0 TB 20 TB",
+      "8 GB",
+      "2 TB 0 TB 20 TB",
+      "16 GB",
+      "3 TB 0 TB 20 TB",
+      "24 GB",
+      "480 GB",
+      "4 TB 0 TB 20 TB",
+      "32 GB",
+      "640 GB",
+      "5 TB 0 TB 20 TB",
+      "for developers so that you may automate your cloud infrastructure administration. It is easy to get started using our thorough documentation and programming examples. If you use the API to develop Open Source projects, you may be eligible for a credit on your account of up to € 50.00. For more information, click here"
+    ],
+    "removed": [
+      "TB 20 TB",
+      "TB 20 TB",
+      "TB 20 TB",
+      "TB 20 TB",
+      "TB 20 TB",
+      "TB 20 TB",
+      "TB 20 TB",
+      "TB 20 TB"
+    ],
+    "totals": {
+      "removed": 100,
+      "added": 169,
+      "materialRemoved": 21,
+      "materialAdded": 40
+    }
+  },
+  {
+    "id": "hetzner-com-cloud-20260101194051",
+    "url": "https://www.hetzner.com/cloud/",
+    "ts": "20260101194051",
+    "date": "2026-01-01",
+    "source": "wayback",
+    "prevTs": "20251102001443",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Hetzner Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "hetzner-com-cloud-20260203101319",
+    "url": "https://www.hetzner.com/cloud/",
+    "ts": "20260203101319",
+    "date": "2026-02-03",
+    "source": "wayback",
+    "prevTs": "20260101194051",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hetzner Cloud: 1 limit changed (removed “Volumes offer highly available and reliable S…”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Volumes offer highly available and reliable SSD storage for your cloud servers. You can expand each Volume to up to 10 TB at any time and you can connect them to your Hetzner cloud servers.",
+      "0.0440 0.0500 / GB per Month"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 3,
+      "materialRemoved": 2,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "hetzner-com-cloud-20260301051043",
+    "url": "https://www.hetzner.com/cloud/",
+    "ts": "20260301051043",
+    "date": "2026-03-01",
+    "source": "wayback",
+    "prevTs": "20260203101319",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Hetzner Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 35,
+      "added": 44,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "docs-hetzner-com-general-infrastructure-and-availability-price-adjustment-20260408224854",
+    "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/",
+    "ts": "20260408224854",
+    "date": "2026-04-08",
+    "source": "wayback",
+    "prevTs": "20260223101431",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Hetzner Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 15,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "docs-hetzner-com-general-infrastructure-and-availability-price-adjustment-20260902202804",
+    "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/",
+    "ts": "20260902202804",
+    "date": "2026-09-02",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260408224854",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hetzner Cloud: 2 limits changed (removed “GEX131 (256 GB RAM)”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "GEX131 (256 GB RAM)",
+      "GEX131 (512 GB RAM)",
+      "GEX131 (768 GB RAM)"
+    ],
+    "totals": {
+      "removed": 269,
+      "added": 214,
+      "materialRemoved": 3,
+      "materialAdded": 0
+    }
+  }
+]

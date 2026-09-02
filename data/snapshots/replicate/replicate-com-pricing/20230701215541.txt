@@ -1,0 +1,34 @@
+Pricing
+You can use Replicate for free, but after a bit you'll be asked to enter your credit card. You pay by the second for the predictions you run. The price per second varies based on the hardware the model is run on.
+CPU
+$0.0002 per second
+(or, $0.012 per minute)
+4x CPU
+8GB RAM
+Nvidia T4 GPU
+$0.00055 per second
+(or, $0.033 per minute)
+4x CPU
+16GB GPU RAM
+8GB RAM
+Nvidia A100 (40GB) GPU
+$0.0023 per second
+(or, $0.138 per minute)
+10x CPU
+40GB GPU RAM
+72GB RAM
+Nvidia A100 (80GB) GPU
+$0.0032 per second
+(or, $0.192 per minute)
+10x CPU
+80GB GPU RAM
+144GB RAM
+Hardware
+Different models run on different hardware. You’ll find the hardware specifications under the "Run time and cost" heading on each model’s page on Replicate. Check out kuprel/min-dalle
+for an example.
+Canceled predictions
+If you cancel your prediction before it starts, then there’s no charge. If you cancel it after it’s started, then we stop the prediction immediately, and only bill you for the time used so far.
+Billing
+When your prediction completes successfully, we calculate how long it ran for, and add it to your account. Once per month we charge you for the time that you’ve used. The minimum billable time for any prediction is 1 second. You can find your current usage on your account page.
+🚀 Ready to use the API? To get started, you'll need to sign up and enter your credit card. There's no charge to sign up, and your predictions will be billed by the second.
+Sign up and enter credit card

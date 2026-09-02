@@ -1,0 +1,1228 @@
+[
+  {
+    "id": "warp-dev-pricing-20230514010352",
+    "url": "https://www.warp.dev/pricing",
+    "ts": "20230514010352",
+    "date": "2023-05-14",
+    "source": "wayback",
+    "prevTs": "20230115041954",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Warp: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "warp-dev-pricing-20230706143712",
+    "url": "https://www.warp.dev/pricing",
+    "ts": "20230706143712",
+    "date": "2023-07-06",
+    "source": "wayback",
+    "prevTs": "20230514010352",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Warp: 1 price changed (added “Free for up to 5 team members”)",
+    "pairs": [],
+    "added": [
+      "Free for up to 5 team members",
+      "$12 / member per month",
+      "Everything in Free, plus"
+    ],
+    "removed": [
+      "Use the terminal for free."
+    ],
+    "totals": {
+      "removed": 21,
+      "added": 34,
+      "materialRemoved": 1,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "warp-dev-pricing-20240407223005",
+    "url": "https://www.warp.dev/pricing",
+    "ts": "20240407223005",
+    "date": "2024-04-07",
+    "source": "wayback",
+    "prevTs": "20230706143712",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Warp: 2 limits changed (added “Warp AI with up to 20 requests per user per day”)",
+    "pairs": [],
+    "added": [
+      "Warp AI with up to 20 requests per user per day",
+      "Warp AI with up to 100 requests per user per day",
+      "Instead of OpenAI's default policy of retaining data for 30 days for trust and security reasons, OpenAI will not retain any data for any period of time for users on Warp Enterprise. Your data is never used for training OpenAI's models, even on the Free and Team plans."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 25,
+      "added": 71,
+      "materialRemoved": 0,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "warp-dev-pricing-20240607003425",
+    "url": "https://www.warp.dev/pricing",
+    "ts": "20240607003425",
+    "date": "2024-06-07",
+    "source": "wayback",
+    "prevTs": "20240407223005",
+    "kind": "price",
+    "score": 20,
+    "counts": {
+      "price": 5,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Warp: 5 prices, 3 limits changed (20 → 40; 100 → 750)",
+    "pairs": [
+      {
+        "before": "Warp AI with up to 20 requests per user per day",
+        "after": "Warp AI with up to 40 requests per user per month",
+        "confidence": 0.71,
+        "deltas": [
+          {
+            "before": "20",
+            "after": "40"
+          }
+        ]
+      },
+      {
+        "before": "Warp AI with up to 100 requests per user per day",
+        "after": "Warp AI with up to 750 requests per user per month",
+        "confidence": 0.71,
+        "deltas": [
+          {
+            "before": "100",
+            "after": "750"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0",
+      "Free support through public forums",
+      "$22",
+      "$25 billed monthly",
+      "Yes. If you subscribe to a Warp Team plan for the year, you benefit from the discounted rate of $22 per team member per month instead of $25 per team member per month.",
+      "At this time, Warp does not offer any discounts for students, non-profits, or open-source teams. We recommend checking out Warp’s Free plan which includes all of the core terminal features.",
+      "Allotted AI requests refill every 30 days from your signup date. When you upgrade to a Team plan, you will be given a higher request limit immediately. You can follow along with your refill period by referencing the counter on your Warp AI panel."
+    ],
+    "removed": [
+      "Free for up to 5 team members",
+      "$12 / member per month"
+    ],
+    "totals": {
+      "removed": 38,
+      "added": 49,
+      "materialRemoved": 4,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "warp-dev-pricing-20240801015808",
+    "url": "https://www.warp.dev/pricing",
+    "ts": "20240801015808",
+    "date": "2024-08-01",
+    "source": "wayback",
+    "prevTs": "20240607003425",
+    "kind": "price",
+    "score": 25,
+    "counts": {
+      "price": 7,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Warp: 7 prices, 1 limit, 1 plan name changed ($25 → $18)",
+    "pairs": [
+      {
+        "before": "$25 billed monthly",
+        "after": "$18 billed monthly",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$25",
+            "after": "$18"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$15",
+      "$25 billed monthly",
+      "Unlimited shared Notebooks and Workflows in Warp Drive",
+      "Free",
+      "$15",
+      "$18 billed monthly",
+      "$22",
+      "$25 billed monthly",
+      "Up to 40 requests per member per month",
+      "Up to 500 requests per member per month",
+      "Unlimited shared workflows per member",
+      "Unlimited shared notebooks per member"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 14,
+      "added": 84,
+      "materialRemoved": 5,
+      "materialAdded": 17
+    }
+  },
+  {
+    "id": "warp-dev-pricing-20241008052324",
+    "url": "https://www.warp.dev/pricing",
+    "ts": "20241008052324",
+    "date": "2024-10-08",
+    "source": "wayback",
+    "prevTs": "20240801015808",
+    "kind": "limits",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Warp: 3 limits changed (40 → 100; 500 → 1,000)",
+    "pairs": [
+      {
+        "before": "Up to 40 requests per member per month",
+        "after": "Up to 100 requests per user per month",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "40",
+            "after": "100"
+          }
+        ]
+      },
+      {
+        "before": "Up to 500 requests per member per month",
+        "after": "Up to 1,000 requests per user per month",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "500",
+            "after": "1,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Unlimited AI requests for every team member",
+      "Unlimited requests for every team member"
+    ],
+    "removed": [
+      "Warp AI with up to 40 requests per user per month",
+      "Up to 750 requests per member per month"
+    ],
+    "totals": {
+      "removed": 22,
+      "added": 22,
+      "materialRemoved": 7,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "warp-dev-pricing-20241206162638",
+    "url": "https://www.warp.dev/pricing",
+    "ts": "20241206162638",
+    "date": "2024-12-06",
+    "source": "wayback",
+    "prevTs": "20241008052324",
+    "kind": "price",
+    "score": 4,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Warp: 1 price, 1 limit changed (removed “Instead of OpenAI's default policy of retaini…”; added “$0”)",
+    "pairs": [],
+    "added": [
+      "$0",
+      "Warp's Team plan includes unlimited AI requests each month. While the Team plan is best suited for collaboration, you may also use this plan as an individual developer."
+    ],
+    "removed": [
+      "Instead of OpenAI's default policy of retaining data for 30 days for trust and security reasons, OpenAI will not retain any data for any period of time for users on Warp Enterprise. Your data is never used for training OpenAI's models, even on the Free and Team plans."
+    ],
+    "totals": {
+      "removed": 68,
+      "added": 52,
+      "materialRemoved": 3,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "warp-dev-pricing-20250107053224",
+    "url": "https://www.warp.dev/pricing",
+    "ts": "20250107053224",
+    "date": "2025-01-07",
+    "source": "wayback",
+    "prevTs": "20241206162638",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Warp: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "LLM model choice (free preview)",
+      "Unlimited accepted Next Command suggestions",
+      "Unlimited real-time session sharing",
+      "Unlimited accepted suggestions",
+      "Unlimited accepted suggestions for every team member"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 23,
+      "materialRemoved": 2,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "warp-dev-pricing-20250206230436",
+    "url": "https://www.warp.dev/pricing",
+    "ts": "20250206230436",
+    "date": "2025-02-06",
+    "source": "wayback",
+    "prevTs": "20250107053224",
+    "kind": "limits",
+    "score": 5,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Warp: 3 limits changed (added “High token limit 35M Tokens”)",
+    "pairs": [],
+    "added": [
+      "Coding capabilities in Agent Mode (free preview)",
+      "High token limit 35M Tokens",
+      "Highest token limit 70M Tokens",
+      "4M Tokens",
+      "35M Tokens",
+      "70M Tokens"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 10,
+      "added": 16,
+      "materialRemoved": 1,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "warp-dev-pricing-20250308092414",
+    "url": "https://www.warp.dev/pricing",
+    "ts": "20250308092414",
+    "date": "2025-03-08",
+    "source": "wayback",
+    "prevTs": "20250206230436",
+    "kind": "price",
+    "score": 37,
+    "counts": {
+      "price": 10,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Warp: 10 prices, 4 limits changed ($25 → $50; 70M → 100M)",
+    "pairs": [
+      {
+        "before": "$25 billed monthly",
+        "after": "$50 billed monthly",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$25",
+            "after": "$50"
+          }
+        ]
+      },
+      {
+        "before": "Highest token limit 70M Tokens",
+        "after": "Highest token limit 100M Tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "70M",
+            "after": "100M"
+          }
+        ]
+      },
+      {
+        "before": "$25 billed monthly",
+        "after": "$50 billed monthly",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$25",
+            "after": "$50"
+          }
+        ]
+      },
+      {
+        "before": "Up to 100 requests per month",
+        "after": "Up to 150 requests per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100",
+            "after": "150"
+          }
+        ]
+      },
+      {
+        "before": "70M Tokens",
+        "after": "100M Tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "70M",
+            "after": "100M"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Up to 150 AI requests per month Get extra AI Requests — 200 free with Warp on Windows (thru 3/26)",
+      "$40",
+      "Unlimited AI requests",
+      "Discounts for teams of 3+ $30 / user / month billed annually; $35 / user / month billed monthly",
+      "$40",
+      "Yes. If you subscribe to Warp Turbo for a full year, you’ll receive a discounted rate of $40 per user per month, compared to $50 per user per month when billed monthly.",
+      "Teams of three or more get an even bigger discount, with pricing at $30 per user per month when billed annually or $35 per user per month when billed monthly.",
+      "If you need more than 1,000 AI requests per month, the Warp Turbo plan is the best option for you. It includes unlimited AI requests and the highest token limit (100M tokens), ensuring you have the power and flexibility you need.",
+      "While Turbo is great for individual developers, it also comes with powerful collaboration features, such as unlimited shared Notebooks and Workflows in Warp Drive and real-time session sharing."
+    ],
+    "removed": [
+      "$22",
+      "Unlimited AI requests for every team member",
+      "$22",
+      "Yes. If you subscribe to a Warp Team plan for the year, you benefit from the discounted rate of $22 per team member per month instead of $25 per team member per month.",
+      "Warp's Team plan includes unlimited AI requests each month. While the Team plan is best suited for collaboration, you may also use this plan as an individual developer."
+    ],
+    "totals": {
+      "removed": 24,
+      "added": 30,
+      "materialRemoved": 10,
+      "materialAdded": 14
+    }
+  },
+  {
+    "id": "warp-dev-pricing-20250403200044",
+    "url": "https://www.warp.dev/pricing",
+    "ts": "20250403200044",
+    "date": "2025-04-03",
+    "source": "wayback",
+    "prevTs": "20250308092414",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Warp: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "4M Tokens",
+      "Unlimited Next Command suggestions",
+      "Unlimited shared sessions"
+    ],
+    "removed": [
+      "Up to 150 AI requests per month Get extra AI Requests — 200 free with Warp on Windows (thru 3/26)",
+      "Unlimited accepted Next Command suggestions"
+    ],
+    "totals": {
+      "removed": 9,
+      "added": 26,
+      "materialRemoved": 6,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "warp-dev-pricing-20250503085806",
+    "url": "https://www.warp.dev/pricing",
+    "ts": "20250503085806",
+    "date": "2025-05-03",
+    "source": "wayback",
+    "prevTs": "20250403200044",
+    "kind": "limits",
+    "score": 8,
+    "counts": {
+      "price": 0,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Warp: 4 limits changed (removed “4M Tokens”; added “Up to 3,000 requests per month + Unlimited Li…”)",
+    "pairs": [],
+    "added": [
+      "Unlimited access to Lite models Once you hit your monthly requests limit, Warp will switch to Lite — a lightweight fallback model — so you can keep using AI without interruption.",
+      "Up to 3,000 requests per month + Unlimited Lite requests",
+      "If you need more than 1,000 AI requests per month, the Warp Turbo plan is the best option for you. Turbo includes 3,000 AI requests per month plus unlimited access to Lite models, giving you plenty of power and flexibility for heavy AI usage."
+    ],
+    "removed": [
+      "4M Tokens",
+      "35M Tokens",
+      "Unlimited AI requests",
+      "100M Tokens",
+      "Unlimited requests for every team member",
+      "4M Tokens",
+      "35M Tokens",
+      "100M Tokens",
+      "If you need more than 1,000 AI requests per month, the Warp Turbo plan is the best option for you. It includes unlimited AI requests and the highest token limit (100M tokens), ensuring you have the power and flexibility you need."
+    ],
+    "totals": {
+      "removed": 12,
+      "added": 9,
+      "materialRemoved": 10,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "warp-dev-pricing-20250601101804",
+    "url": "https://www.warp.dev/pricing",
+    "ts": "20250601101804",
+    "date": "2025-06-01",
+    "source": "wayback",
+    "prevTs": "20250503085806",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Warp: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "warp-dev-pricing-20250709141350",
+    "url": "https://www.warp.dev/pricing",
+    "ts": "20250709141350",
+    "date": "2025-07-09",
+    "source": "wayback",
+    "prevTs": "20250601101804",
+    "kind": "limits",
+    "score": 12,
+    "counts": {
+      "price": 0,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Warp: 6 limits changed (1000 → 2,500; 3,000 → 10,000)",
+    "pairs": [
+      {
+        "before": "Up to 1000 requests per month",
+        "after": "Up to 2,500 requests per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1000",
+            "after": "2,500"
+          }
+        ]
+      },
+      {
+        "before": "Up to 3,000 requests per month + Unlimited Lite requests",
+        "after": "Up to 10,000 requests per month + Unlimited Lite requests",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3,000",
+            "after": "10,000"
+          }
+        ]
+      },
+      {
+        "before": "If you need more than 1,000 AI requests per month, the Warp Turbo plan is the best option for you. Turbo includes 3,000 AI requests per month plus unlimited access to Lite models, giving you plenty of power and flexibility for heavy AI usage.",
+        "after": "If you need more than 2,500 AI requests per month, the Warp Turbo plan is the best option. Turbo includes 10,000 AI requests per month plus unlimited access to Lite models, giving you plenty of power and flexibility for heavy AI usage.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1,000",
+            "after": "2,500"
+          },
+          {
+            "before": "3,000",
+            "after": "10,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "3 indexed codebases, up to 5,000 files / codebase",
+      "40 indexed codebases, up to 10,000 files / codebase",
+      "40 indexed codebases, up to 20,000 files / codebase",
+      "Unlimited Lite AI requests Keep using AI without interruption via a powerful fallback model.",
+      "Up to 3 indexed codebases, 5,000 files per codebase",
+      "Up to 40 indexed codebases, 10,000 files per codebase",
+      "Up to 40 indexed codebases, 20,000 files per codebase"
+    ],
+    "removed": [
+      "LLM model choice (free preview)",
+      "Coding capabilities in Agent Mode (free preview)",
+      "Free support through public forums",
+      "Unlimited Lite AI requests Once you hit your monthly requests limit, Warp will switch to Lite — a lightweight fallback model — so you can keep using AI without interruption.",
+      "Unlimited accepted suggestions",
+      "Unlimited accepted suggestions for every team member"
+    ],
+    "totals": {
+      "removed": 49,
+      "added": 66,
+      "materialRemoved": 12,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "warp-dev-pricing-20250801024246",
+    "url": "https://www.warp.dev/pricing",
+    "ts": "20250801024246",
+    "date": "2025-08-01",
+    "source": "wayback",
+    "prevTs": "20250709141350",
+    "kind": "price",
+    "score": 41,
+    "counts": {
+      "price": 10,
+      "limit": 4,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Warp: 10 prices, 4 limits, 2 plan names changed (3 → 40)",
+    "pairs": [
+      {
+        "before": "3 indexed codebases, up to 5,000 files / codebase",
+        "after": "40 indexed codebases, up to 20,000 files / codebase",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3",
+            "after": "40"
+          },
+          {
+            "before": "5,000",
+            "after": "20,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Unlimited shared Warp Drive objects",
+      "Unlimited Lite AI requests Keep using AI without interruption via a powerful fallback model.",
+      "For teams scaling AI-powered development (up to 50 seats)",
+      "$55",
+      "$60 billed monthly",
+      "Unlimited Lite AI requests Keep using AI without interruption via a powerful fallback model.",
+      "$200",
+      "$225 billed monthly",
+      "40 indexed codebases, up to 100,000 files / codebase",
+      "Free",
+      "3 indexed codebases, up to 5,000 files / codebase",
+      "$55",
+      "$60 billed monthly",
+      "$200",
+      "$225 billed monthly",
+      "50,000 requests / month + Unlimited Lite requests",
+      "40 indexed codebases, 100,000 files / codebase"
+    ],
+    "removed": [
+      "Free",
+      "Unlimited shared Notebooks and Workflows in Warp Drive",
+      "Unlimited real-time Session Sharing",
+      "Yes. If you subscribe to Warp Turbo for a full year, you’ll receive a discounted rate of $40 per user per month, compared to $50 per user per month when billed monthly.",
+      "Teams of three or more get an even bigger discount, with pricing at $30 per user per month when billed annually or $35 per user per month when billed monthly."
+    ],
+    "totals": {
+      "removed": 44,
+      "added": 99,
+      "materialRemoved": 18,
+      "materialAdded": 30
+    }
+  },
+  {
+    "id": "warp-dev-pricing-20250905013420",
+    "url": "https://www.warp.dev/pricing",
+    "ts": "20250905013420",
+    "date": "2025-09-05",
+    "source": "wayback",
+    "prevTs": "20250801024246",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Warp: 1 price changed (removed “Discounts for teams of 3+ $30 / user / month …”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Unlimited Lite AI requests Keep using AI without interruption via a powerful fallback model.",
+      "Discounts for teams of 3+ $30 / user / month billed annually; $35 / user / month billed monthly",
+      "Unlimited Lite AI requests Keep using AI without interruption via a powerful fallback model.",
+      "Unlimited Lite AI requests Keep using AI without interruption via a powerful fallback model.",
+      "If you need more than 2,500 AI requests per month, the Warp Turbo plan includes 10,000 AI requests per month plus unlimited access to Lite models, offering strong performance and flexibility for heavier AI usage."
+    ],
+    "totals": {
+      "removed": 40,
+      "added": 62,
+      "materialRemoved": 10,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "warp-dev-pricing-20251005071223",
+    "url": "https://www.warp.dev/pricing",
+    "ts": "20251005071223",
+    "date": "2025-10-05",
+    "source": "wayback",
+    "prevTs": "20250905013420",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Warp: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "warp-dev-pricing-20251113080020",
+    "url": "https://www.warp.dev/pricing",
+    "ts": "20251113080020",
+    "date": "2025-11-13",
+    "source": "wayback",
+    "prevTs": "20251005071223",
+    "kind": "price",
+    "score": 130,
+    "counts": {
+      "price": 29,
+      "limit": 14,
+      "plan": 8
+    },
+    "material": true,
+    "headline": "Warp: 29 prices, 14 limits, 8 plan names changed (removed “$15”; added “$ 0”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "Includes free AI credits",
+      "Free",
+      "Includes free AI credits",
+      "Free",
+      "$ 0",
+      "Includes free AI credits",
+      "Free",
+      "$ 0",
+      "Includes free AI credits",
+      "$ 2 0",
+      "Unlimited Warp Drive objects and collaboration",
+      "$ 2 0",
+      "Everything in Free, plus:",
+      "Unlimited Warp Drive objects and collaboration",
+      "$ 2 0",
+      "Everything in Free, plus:",
+      "Unlimited Warp Drive objects and collaboration",
+      "$ 5 0",
+      "$ 5 0",
+      "For teams scaling AI-powered development (up to 50 seats)",
+      "$ 5 0",
+      "For teams scaling AI-powered development (up to 50 seats)",
+      "Free",
+      "$0/mo",
+      "Starting at $20/mo",
+      "150/mo for 2 mo,",
+      "75/mo after",
+      "1,500/mo",
+      "Unlimited",
+      "Unlimited",
+      "$0/mo",
+      "Starting at $20/mo",
+      "150/mo for 2 mo,",
+      "75/mo after",
+      "1,500/mo",
+      "Unlimited",
+      "Unlimited",
+      "Free",
+      "150/mo for 2 mo,"
+    ],
+    "removed": [
+      "$15",
+      "$18 billed monthly",
+      "40 indexed codebases, up to 10,000 files / codebase",
+      "Unlimited shared Warp Drive objects",
+      "$40",
+      "40 indexed codebases, up to 20,000 files / codebase",
+      "$55",
+      "$60 billed monthly",
+      "40 indexed codebases, up to 20,000 files / codebase",
+      "$200",
+      "$225 billed monthly",
+      "40 indexed codebases, up to 100,000 files / codebase",
+      "3 indexed codebases, up to 5,000 files / codebase",
+      "Unlimited Next Command suggestions",
+      "Free",
+      "$15",
+      "$18 billed monthly",
+      "$40",
+      "$55",
+      "$60 billed monthly",
+      "$200",
+      "$225 billed monthly",
+      "150 requests / month",
+      "2,500 requests / month",
+      "10,000 requests / month",
+      "50,000 requests / month",
+      "3 indexed codebases, 5,000 files / codebase",
+      "40 indexed codebases, 10,000 files / codebase",
+      "40 indexed codebases, 20,000 files / codebase",
+      "40 indexed codebases, 100,000 files / codebase",
+      "Unlimited shared Workflows",
+      "Unlimited shared Notebooks",
+      "Unlimited shared sessions",
+      "Allotted AI requests refill every 30 days from your signup date. You can follow along with your refill period by referencing the counter under Settings > Billing and usage.",
+      "At this time, Warp does not offer any discounts for students, non-profits, or open-source teams. We recommend checking out Warp’s Free plan which includes all of the core terminal features and enough AI usage to help you get started.",
+      "While Turbo and Lightspeed are great for individuals, they also include powerful collaboration features for teams like unlimited shared Notebooks and Workflows via Warp Drive, plus real-time session sharing to help teams move faster together."
+    ],
+    "totals": {
+      "removed": 262,
+      "added": 739,
+      "materialRemoved": 41,
+      "materialAdded": 55
+    }
+  },
+  {
+    "id": "warp-dev-pricing-20251202070621",
+    "url": "https://www.warp.dev/pricing",
+    "ts": "20251202070621",
+    "date": "2025-12-02",
+    "source": "wayback",
+    "prevTs": "20251113080020",
+    "kind": "limits",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Warp: 3 limits changed (added “2 vCPUs / 4 GB RAM”)",
+    "pairs": [],
+    "added": [
+      "2 vCPUs / 4 GB RAM",
+      "4 vCPUs / 8 GB RAM",
+      "2 vCPUs / 4 GB RAM",
+      "4 vCPUs / 8 GB RAM",
+      "2 vCPUs / 4 GB RAM",
+      "4 vCPUs / 8 GB RAM",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "removed": [
+      "Unlimited",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 40,
+      "added": 81,
+      "materialRemoved": 6,
+      "materialAdded": 12
+    }
+  },
+  {
+    "id": "warp-dev-pricing-20260105183759",
+    "url": "https://www.warp.dev/pricing",
+    "ts": "20260105183759",
+    "date": "2026-01-05",
+    "source": "wayback",
+    "prevTs": "20251202070621",
+    "kind": "price",
+    "score": 63,
+    "counts": {
+      "price": 19,
+      "limit": 0,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Warp: 19 prices, 3 plan names changed ($20 → $18; $50 → $45)",
+    "pairs": [
+      {
+        "before": "Starting at $20/mo",
+        "after": "Starting at $18/mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$20",
+            "after": "$18"
+          }
+        ]
+      },
+      {
+        "before": "$50/user/mo",
+        "after": "$45/user/mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$50",
+            "after": "$45"
+          }
+        ]
+      },
+      {
+        "before": "Starting at $20/mo",
+        "after": "Starting at $18/mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$20",
+            "after": "$18"
+          }
+        ]
+      },
+      {
+        "before": "$50/user/mo",
+        "after": "$45/user/mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$50",
+            "after": "$45"
+          }
+        ]
+      },
+      {
+        "before": "Starting at $20/mo",
+        "after": "Starting at $18/mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$20",
+            "after": "$18"
+          }
+        ]
+      },
+      {
+        "before": "$50/user/mo",
+        "after": "$45/user/mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$50",
+            "after": "$45"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 1 8",
+      "$ 4 5",
+      "$ 1 8",
+      "$ 4 5",
+      "Free",
+      "$ 1 8",
+      "$ 4 5"
+    ],
+    "removed": [
+      "Free",
+      "Free",
+      "$ 0",
+      "Includes free AI credits",
+      "$ 2 0",
+      "$ 2 0",
+      "$ 2 0",
+      "$ 5 0",
+      "$ 5 0",
+      "$ 5 0"
+    ],
+    "totals": {
+      "removed": 107,
+      "added": 110,
+      "materialRemoved": 22,
+      "materialAdded": 19
+    }
+  },
+  {
+    "id": "warp-dev-pricing-20260208054104",
+    "url": "https://www.warp.dev/pricing",
+    "ts": "20260208054104",
+    "date": "2026-02-08",
+    "source": "wayback",
+    "prevTs": "20260105183759",
+    "kind": "price",
+    "score": 49,
+    "counts": {
+      "price": 8,
+      "limit": 12,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Warp: 8 prices, 12 limits, 1 plan name changed (removed “150/mo for 2 mo,”; added “$ 1 8 0”)",
+    "pairs": [],
+    "added": [
+      "Unlimited cloud conversation storage",
+      "$ 1 8 0",
+      "1,500 credits per month",
+      "Unlimited cloud conversation storage",
+      "$ 1 8 0",
+      "1,500 credits per month",
+      "Unlimited cloud conversation storage",
+      "$ 1 8 0",
+      "Starts at $180/mo",
+      "300/mo for 2 mo, 75/mo after",
+      "18,000/mo",
+      "1,500/mo",
+      "Unlimited",
+      "300/mo for 2 mo, 75/mo after",
+      "Starts at $180/mo",
+      "300/mo for 2 mo, 75/mo after",
+      "18,000/mo",
+      "1,500/mo",
+      "Unlimited"
+    ],
+    "removed": [
+      "150/mo for 2 mo,",
+      "75/mo after",
+      "2 vCPUs / 4 GB RAM",
+      "4 vCPUs / 8 GB RAM",
+      "$0/mo",
+      "150/mo for 2 mo,",
+      "75/mo after",
+      "2 vCPUs / 4 GB RAM",
+      "4 vCPUs / 8 GB RAM",
+      "Unlimited",
+      "Unlimited",
+      "Starting at $18/mo",
+      "$45/user/mo",
+      "150/mo for 2 mo,",
+      "75/mo after",
+      "2 vCPUs / 4 GB RAM",
+      "4 vCPUs / 8 GB RAM",
+      "Free",
+      "150/mo for 2 mo,",
+      "75/mo after"
+    ],
+    "totals": {
+      "removed": 142,
+      "added": 126,
+      "materialRemoved": 25,
+      "materialAdded": 24
+    }
+  },
+  {
+    "id": "warp-dev-pricing-20260302204708",
+    "url": "https://www.warp.dev/pricing",
+    "ts": "20260302204708",
+    "date": "2026-03-02",
+    "source": "wayback",
+    "prevTs": "20260208054104",
+    "kind": "limits",
+    "score": 8,
+    "counts": {
+      "price": 0,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Warp: 4 limits changed (added “2 vCPU, 4 GiB RAM”)",
+    "pairs": [],
+    "added": [
+      "2 vCPU, 4 GiB RAM",
+      "4 vCPUs, 8 GiB RAM",
+      "8 vCPUs, 16 GiB RAM",
+      "2 vCPU,",
+      "4 GiB RAM",
+      "2 vCPU, 4 GiB RAM",
+      "4 vCPUs, 8 GiB RAM",
+      "8 vCPUs, 16 GiB RAM"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 14,
+      "added": 30,
+      "materialRemoved": 0,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "warp-dev-pricing-20260411022932",
+    "url": "https://www.warp.dev/pricing",
+    "ts": "20260411022932",
+    "date": "2026-04-11",
+    "source": "wayback",
+    "prevTs": "20260302204708",
+    "kind": "limits",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Warp: 3 limits changed (300 → 150; 300 → 150)",
+    "pairs": [
+      {
+        "before": "300/mo for 2 mo, 75/mo after",
+        "after": "150/mo for 2 mo, 75/mo after",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "300",
+            "after": "150"
+          }
+        ]
+      },
+      {
+        "before": "300/mo for 2 mo, 75/mo after",
+        "after": "150/mo for 2 mo, 75/mo after",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "300",
+            "after": "150"
+          }
+        ]
+      },
+      {
+        "before": "300/mo for 2 mo, 75/mo after",
+        "after": "150/mo for 2 mo, 75/mo after",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "300",
+            "after": "150"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 195,
+      "added": 23,
+      "materialRemoved": 6,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "warp-dev-pricing-20260501075653",
+    "url": "https://www.warp.dev/pricing",
+    "ts": "20260501075653",
+    "date": "2026-05-01",
+    "source": "wayback",
+    "prevTs": "20260411022932",
+    "kind": "limits",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Warp: 3 limits changed (75 → 60; 75 → 60)",
+    "pairs": [
+      {
+        "before": "150/mo for 2 mo, 75/mo after",
+        "after": "150/mo for 2 mo, 60/mo after",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "75",
+            "after": "60"
+          }
+        ]
+      },
+      {
+        "before": "150/mo for 2 mo, 75/mo after",
+        "after": "150/mo for 2 mo, 60/mo after",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "75",
+            "after": "60"
+          }
+        ]
+      },
+      {
+        "before": "150/mo for 2 mo, 75/mo after",
+        "after": "150/mo for 2 mo, 60/mo after",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "75",
+            "after": "60"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
+  }
+]

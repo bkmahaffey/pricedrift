@@ -1,0 +1,643 @@
+[
+  {
+    "id": "circleci-com-pricing-20230307225319",
+    "url": "https://circleci.com/pricing/",
+    "ts": "20230307225319",
+    "date": "2023-03-07",
+    "source": "wayback",
+    "prevTs": "20230110185430",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "CircleCI: 1 limit changed (55,000 → 30,000)",
+    "pairs": [
+      {
+        "before": "55,000 credits",
+        "after": "30,000 credits",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "55,000",
+            "after": "30,000"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 4,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "circleci-com-pricing-20230519103620",
+    "url": "https://circleci.com/pricing/",
+    "ts": "20230519103620",
+    "date": "2023-05-19",
+    "source": "wayback",
+    "prevTs": "20230307225319",
+    "kind": "limits",
+    "score": 5,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "CircleCI: 2 limits, 1 plan name changed (added “As soon as you sign up (no credit card requir…”)",
+    "pairs": [],
+    "added": [
+      "Why choose Free?",
+      "The best free plan, anywhere.",
+      "As soon as you sign up (no credit card required), you get access to CircleCI’s premium features – it’s that simple. Use up to 6,000 build minutes",
+      ") and add as many teammates as you like. Or, bring your own compute for unlimited build minutes.",
+      "This isn’t a trial. Enjoy this plan for free, forever.",
+      "macOS bare metal Access to a macOS dedicated host. Minimum lease time of 24 hours.",
+      "IP ranges Usage for IP ranges is billed at 450 credits/GB per job."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 19,
+      "added": 27,
+      "materialRemoved": 1,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "circleci-com-pricing-20230726132620",
+    "url": "https://circleci.com/pricing/",
+    "ts": "20230726132620",
+    "date": "2023-07-26",
+    "source": "wayback",
+    "prevTs": "20230519103620",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "CircleCI: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Build open source with CircleCI for free",
+      "Open source projects have high quality demands but limited resources. Enjoy 400,000 build credits/month for OSS, on us."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 13,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "circleci-com-pricing-20230912234058",
+    "url": "https://circleci.com/pricing/",
+    "ts": "20230912234058",
+    "date": "2023-09-12",
+    "source": "wayback",
+    "prevTs": "20230726132620",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 1,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "CircleCI: 1 price, 3 limits changed (removed “macOS bare metal Access to a macOS dedicated …”; added “• When you use up all your credits, then cred…”)",
+    "pairs": [],
+    "added": [
+      "• When you use up all your credits, then credits automatically refill to a level of 25% of your monthly amount, with a minimum refill amount of 25,000 credits.",
+      "If your monthly credit purchase is 200,000 credits, you will automatically be refilled 50,000 credits when you run out of credits.",
+      "• Bulk purchases can be made starting at 1 million credits for $600. Discounts start when you purchase 5 million credits for $3,000.",
+      "Please note that all paid credits are valid up to 12 months from the time of purchase, regardless of the purchase option."
+    ],
+    "removed": [
+      "macOS bare metal Access to a macOS dedicated host. Minimum lease time of 24 hours.",
+      "• If your monthly package size is 25,000 credits, you will automatically be refilled 25,000 credits when you reach 500 remaining credits.",
+      "• If your monthly package size is 200,000 credits, you will automatically be refilled 50,000 credits when you reach 4,000."
+    ],
+    "totals": {
+      "removed": 16,
+      "added": 41,
+      "materialRemoved": 8,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "circleci-com-pricing-20231126215002",
+    "url": "https://circleci.com/pricing/",
+    "ts": "20231126215002",
+    "date": "2023-11-26",
+    "source": "wayback",
+    "prevTs": "20230912234058",
+    "kind": "plans",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "CircleCI: 1 limit, 1 plan name changed (removed “As soon as you sign up (no credit card requir…”; added “Medium Gen2 Unavailable after Jun. 28, 2024. …”)",
+    "pairs": [],
+    "added": [
+      "Medium Gen2 Unavailable after Jun. 28, 2024. Customers on the free plan will get access to M1 Medium in May 2024."
+    ],
+    "removed": [
+      "Why choose Free?",
+      "The best free plan, anywhere.",
+      "As soon as you sign up (no credit card required), you get access to CircleCI’s premium features – it’s that simple. Use up to 6,000 build minutes",
+      ") and add as many teammates as you like. Or, bring your own compute for unlimited build minutes.",
+      "This isn’t a trial. Enjoy this plan for free, forever."
+    ],
+    "totals": {
+      "removed": 41,
+      "added": 23,
+      "materialRemoved": 8,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "circleci-com-pricing-20240104052447",
+    "url": "https://circleci.com/pricing/",
+    "ts": "20240104052447",
+    "date": "2024-01-04",
+    "source": "wayback",
+    "prevTs": "20231126215002",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "CircleCI: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 9,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "circleci-com-pricing-20240325001337",
+    "url": "https://circleci.com/pricing/",
+    "ts": "20240325001337",
+    "date": "2024-03-25",
+    "source": "wayback",
+    "prevTs": "20240104052447",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "CircleCI: 2 limits changed (added “3 free components per month”)",
+    "pairs": [],
+    "added": [
+      "3 free components per month",
+      "3 free components per month; 40k credits per addt’l component",
+      "5 free components per month; 40k credits per addt’l component",
+      "250 credits per release",
+      "Self-hosted runners can incur network egress cost (at a rate of 420 credits per GB) if usage exceeds the network allowance included in your plan. CircleCI does not charge per build minute on self-hosted runners."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 14,
+      "materialRemoved": 0,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "circleci-com-pricing-20240601035026",
+    "url": "https://circleci.com/pricing/",
+    "ts": "20240601035026",
+    "date": "2024-06-01",
+    "source": "wayback",
+    "prevTs": "20240325001337",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "CircleCI: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 17,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "circleci-com-pricing-20240811184649",
+    "url": "https://circleci.com/pricing/",
+    "ts": "20240811184649",
+    "date": "2024-08-11",
+    "source": "wayback",
+    "prevTs": "20240601035026",
+    "kind": "price",
+    "score": 21,
+    "counts": {
+      "price": 4,
+      "limit": 3,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "CircleCI: 4 prices, 3 limits, 2 plan names changed ($0 removed)",
+    "pairs": [
+      {
+        "before": "No credit card required. $0 per month",
+        "after": "No credit card required.",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "$0",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "All our premium features. For free.",
+      "$0 /month",
+      "5 active users Add additional users for $15/month.",
+      "30,000 credits 30,000 free credits/month + $15 for every additional 25,000 credits.",
+      "5 active users 25,000 credits per month for each additional user."
+    ],
+    "removed": [
+      "Get the most, for free.",
+      "Start for Free",
+      "Fast: Run up to 30 jobs at a time and run your tests in parallel using test splitting",
+      "Power: All of the environments in Free, plus access to larger resource classes for better performance",
+      "Speed: Run up to 80 jobs concurrently",
+      "Scale: Unlimited build minutes and 30 user seats included; add more as you grow",
+      "Start for Free",
+      "Use 30,000 free credits per month to build on CircleCI",
+      "Medium Gen2 Unavailable after Jun. 28, 2024. Customers on the free plan will get access to M1 Medium in May 2024.",
+      "Build open source with CircleCI for free",
+      "Open source projects have high quality demands but limited resources. Enjoy 400,000 build credits/month for OSS, on us.",
+      "Self-hosted runner concurrency is the amount of runner tasks that can be run at the same time. This includes machine and container runner. For example, CircleCI customers on the Free plan have 5 concurrent tasks that can be used for machine and container runner."
+    ],
+    "totals": {
+      "removed": 215,
+      "added": 130,
+      "materialRemoved": 35,
+      "materialAdded": 28
+    }
+  },
+  {
+    "id": "circleci-com-pricing-20241004204333",
+    "url": "https://circleci.com/pricing/",
+    "ts": "20241004204333",
+    "date": "2024-10-04",
+    "source": "wayback",
+    "prevTs": "20240811184649",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "CircleCI: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 8,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "circleci-com-pricing-20241228210544",
+    "url": "https://circleci.com/pricing/",
+    "ts": "20241228210544",
+    "date": "2024-12-28",
+    "source": "wayback",
+    "prevTs": "20241004204333",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "CircleCI: 2 limits changed (removed “3 free components per month”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "3 free components per month",
+      "3 free components per month; 40k credits per addt’l component",
+      "5 free components per month; 40k credits per addt’l component",
+      "250 credits per release"
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 4,
+      "materialRemoved": 4,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "circleci-com-pricing-20250508091610",
+    "url": "https://circleci.com/pricing/",
+    "ts": "20250508091610",
+    "date": "2025-05-08",
+    "source": "wayback",
+    "prevTs": "20241228210544",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "CircleCI: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 225,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "circleci-com-pricing-20250724163247",
+    "url": "https://circleci.com/pricing/",
+    "ts": "20250724163247",
+    "date": "2025-07-24",
+    "source": "wayback",
+    "prevTs": "20250508091610",
+    "kind": "price",
+    "score": 29,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 13
+    },
+    "material": true,
+    "headline": "CircleCI: 1 price, 13 plan names changed (removed “$2000 /month Billed annually.”)",
+    "pairs": [],
+    "added": [
+      "Enterprise-level power. Built for unlimited scale.",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Unlimited",
+      "Free",
+      "Free"
+    ],
+    "removed": [
+      "$2000 /month Billed annually.",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 37,
+      "added": 109,
+      "materialRemoved": 3,
+      "materialAdded": 16
+    }
+  },
+  {
+    "id": "circleci-com-pricing-20260106143729",
+    "url": "https://circleci.com/pricing/",
+    "ts": "20260106143729",
+    "date": "2026-01-06",
+    "source": "wayback",
+    "prevTs": "20250724163247",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "CircleCI: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 22,
+      "added": 38,
+      "materialRemoved": 7,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "circleci-com-pricing-20260214132845",
+    "url": "https://circleci.com/pricing/",
+    "ts": "20260214132845",
+    "date": "2026-02-14",
+    "source": "wayback",
+    "prevTs": "20260106143729",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "CircleCI: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "Free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 18,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "circleci-com-pricing-20260312014846",
+    "url": "https://circleci.com/pricing/",
+    "ts": "20260312014846",
+    "date": "2026-03-12",
+    "source": "wayback",
+    "prevTs": "20260214132845",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "CircleCI: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "included free",
+      "Free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 24,
+      "added": 15,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "circleci-com-pricing-20260404084535",
+    "url": "https://circleci.com/pricing/",
+    "ts": "20260404084535",
+    "date": "2026-04-04",
+    "source": "wayback",
+    "prevTs": "20260312014846",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "CircleCI: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "circleci-com-pricing-20260515164459",
+    "url": "https://circleci.com/pricing/",
+    "ts": "20260515164459",
+    "date": "2026-05-15",
+    "source": "wayback",
+    "prevTs": "20260404084535",
+    "kind": "price",
+    "score": 5,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "CircleCI: 1 price, 1 plan name changed (added “Up to $20,000 in free compute credits for qua…”)",
+    "pairs": [],
+    "added": [
+      "Up to $20,000 in free compute credits for qualifying startups.",
+      "Free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 30,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "circleci-com-pricing-20260807083614",
+    "url": "https://circleci.com/pricing/",
+    "ts": "20260807083614",
+    "date": "2026-08-07",
+    "source": "wayback",
+    "prevTs": "20260515164459",
+    "kind": "plans",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "CircleCI: 3 plan names changed",
+    "pairs": [],
+    "added": [
+      "Free"
+    ],
+    "removed": [
+      "Free",
+      "Free"
+    ],
+    "totals": {
+      "removed": 8,
+      "added": 19,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "circleci-com-pricing-20260902202107",
+    "url": "https://circleci.com/pricing/",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260807083614",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "CircleCI: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 15,
+      "added": 9,
+      "materialRemoved": 0,
+      "materialAdded": 5
+    },
+    "transition": true
+  }
+]

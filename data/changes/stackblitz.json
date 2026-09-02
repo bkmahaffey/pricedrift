@@ -1,0 +1,92 @@
+[
+  {
+    "id": "stackblitz-com-pricing-20240723164527",
+    "url": "https://stackblitz.com/pricing",
+    "ts": "20240723164527",
+    "date": "2024-07-23",
+    "source": "wayback",
+    "prevTs": "20240606203138",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "StackBlitz: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "stackblitz-com-pricing-20240823004725",
+    "url": "https://stackblitz.com/pricing",
+    "ts": "20240823004725",
+    "date": "2024-08-23",
+    "source": "wayback",
+    "prevTs": "20240723164527",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "StackBlitz: 1 limit changed (added “Teams For teams of up to 10 users looking to …”)",
+    "pairs": [],
+    "added": [
+      "Teams For teams of up to 10 users looking to collaborate more easily on web development.",
+      "Enterprise & Self-hosted For teams of more than 10 users looking for increased security & customization."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "stackblitz-com-pricing-20260902202107",
+    "url": "https://stackblitz.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "browser",
+    "prevTs": "20240823004725",
+    "kind": "price",
+    "score": 10,
+    "counts": {
+      "price": 3,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "StackBlitz: 3 prices, 1 limit changed (removed “billed annually or $35 billed monthly Start f…”; added “18 / month”)",
+    "pairs": [],
+    "added": [
+      "18 / month",
+      "billed annually or $25 billed monthly Get started",
+      "Unlimited file uploads",
+      "billed annually or $60 billed monthly Get started"
+    ],
+    "removed": [
+      "for unlimited private projects, repositories, uploads, and access to external APIs & localhost dev servers!",
+      "billed annually or $35 billed monthly Start free trial"
+    ],
+    "totals": {
+      "removed": 13,
+      "added": 22,
+      "materialRemoved": 3,
+      "materialAdded": 5
+    },
+    "transition": true
+  }
+]

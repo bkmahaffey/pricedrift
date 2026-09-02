@@ -3,6 +3,8 @@ name: Sourcegraph
 category: cicd
 website: https://sourcegraph.com
 tagline: Code search and AI code-understanding platform for large codebases
+min_lines: 5
+min_material: 0
 track_urls:
   - https://sourcegraph.com/pricing
 free_tier:

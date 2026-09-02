@@ -1,0 +1,193 @@
+Simple, predictable pricing
+Always know what you'll pay with monthly caps and flat pricing.
+Get started
+<- Back to overview
+App Platform
+Build, deploy, and scale apps quickly using a simple, fully managed solution. We'll handle the infrastructure, app runtimes, and dependencies, so you can focus on your code.
+Talk to an expert
+to learn more about DigitalOcean's App Platform.
+Free Tier
+Starting at
+$0 /month
+3 apps with static sites
+1GiB data transfer allowance per app with static sites
+Deployment from GitHub and Gitlab
+Automatic HTTPS
+Bring your custom domain
+Global CDN
+DDoS mitigation
+Unlimited team members
+Get started
+Paid Tier
+Starting at
+$5 /month
+Includes all Free Tier features plus:
+Deployment from Container Registries
+Shared and Dedicated CPU
+Horizontal and Vertical Scaling
+CPU-based Autoscaling
+Automatic OS patching
+Hourly application metrics
+Log forwarding
+High Availability
+Dedicated Egress IP
+Development and Production Databases
+Up to 10 revisions for rollbacks
+Get started
+App Platform Container Pricing
+App Platform's modular pricing means you have the flexibility to select resources to suit your use case. Select container instances from fixed, shared or dedicated resources to suit your requirements.
+CPU Options Shared
+Dedicated
+CPU Type
+vCPU
+Memory
+Transfer
+Autoscaling
+$/mo
+Free tier
+1 GiB
+No
+$ 0
+Shared (Fixed) Selecting a fixed CPU will limit you to one container instance only
+1 vCPU
+512 MiB
+50 GiB
+No
+$ 5.00
+Shared (Fixed) Selecting a fixed CPU will limit you to one container instance only
+1 vCPU
+1 GiB
+100 GiB
+No
+$ 10.00
+Shared
+1 vCPU
+1 GiB
+150 GiB
+No
+$ 12.00
+Shared
+1 vCPU
+2 GiB
+200 GiB
+No
+$ 25.00
+Shared
+2 vCPUs
+4 GiB
+250 GiB
+No
+$ 50.00
+App Platform Additional Pricing
+Product
+Quantity
+$/mo
+Dedicated Egress IPs
+1
+$25.00/mo per app
+Additional outbound transfer
+1 GiB
+$0.02
+Development Database
+1 (512 MiB)
+$7.00
+See your price in real time
+Go to pricing calculator
+App Platform specific questions
+What is the recommendation for using shared vs. dedicated instances?
+Shared container instances are typically recommended for applications such as low traffic websites, blogs, discussion forums, and CMS.
+Dedicated container instances are generally recommended for applications with higher performance requirements or more consistent resource needs, such as ecommerce, SaaS, gaming, and AI/ML workloads.
+For optimal performance, we highly recommend testing your application with both shared and dedicated instances. In some cases, smaller dedicated instances may provide better performance than shared instances.
+This guidance is similar to droplet recommendations for shared vs. dedicated. Learn more here.
+Can you provide an example of how App Platform pricing works?
+At a high level, an app is either free (only using static site components) or paid (using container instances).
+Free Tier: Only using static site components 3 apps with static sites are free
+1 GiB allowance per app
+Additional apps are billed at $ 3.00 per app
+Paid: Apps with jobs, web services, workers or static sites. Container pricing with bandwidth allowance by container allowance.
+Static sites in a paid app are $0 and have no bandwidth allowance.
+Additional charges include the following: Bandwidth usage beyond the allocated allowance is billed at $ 0.02 per GiB.
+Paid features: Additional paid features include development databases ($ 7.00) and dedicated IPs ($ 25.00).
+To illustrate with an example, let's consider a paid app with the following components on a paid app: 2 static sites components
+1 worker with 2 instances using the $10 container plan
+1 service with 1 instance using the $20 container plan
+The monthly cost for this app would be: Static sites: $0 (no charge)
+Worker: 2 instances x $10 = $20
+Service: 1 instance x $20 = $20
+Total monthly cost: $40 + any additional bandwidth overages
+Note that this example is for illustrative purposes only, and actual costs may vary based on your specific usage and configuration.
+How much outbound bandwidth allowance do I get with App Platform?
+The amount of outbound data transfer included with your App Platform app depends on the number and size of the container instances your app is using.
+Each container instance comes with a specific amount of data transfer allowance based on its size. For example, a dedicated container instance with 1 vCPU/ 0.5 GiB of RAM includes 100 GiB of outbound data transfer per month. If your app is using 5 instances of the 1 vCPU/ 0.5 GiB dedicated container size, your total data transfer allowance would be:
+100 GiB × 5 instances = 500 GiB (or 0.488 TiB) per month, assuming all 5 instances were running continuously throughout the month.
+It's important to note that the data transfer allowance is prorated on a per-second basis, just like with Droplets. This means that if you scale your app's instances up or down during the month, your data transfer allowance will be adjusted accordingly.
+What happens if I exceed the usage limits for bandwidth allowance?
+Each container instance in the DigitalOcean App Platform comes with a generous amount of egress data transfer allowance. To calculate the total outbound data transfer available to your app, we sum up the data transfer allowance for all container instances within that app. If you have multiple apps, we calculate the total data transfer allowance by summing up the data transfer quotas for all your apps. This becomes your overall data transfer limit.
+Any data transfer exceeding this limit is considered overage and will be billed at a rate of $ 0.02 per GiB.
+It's important to note that data transfer for the App Platform is calculated separately from data transfer for Droplets. These two should not be combined or confused when assessing your data transfer usage and limits.
+What is included in the App Platform Free Tier?
+App Platform Free Tier allows you to:
+Build and deploy up to 3 apps with static sites for free
+Each free app includes 1 GiB of outbound data transfer per month
+Additional apps with static sites only are charged at $ 3.00 per month
+Outbound data transfer exceeding the allowance will be charged at $ 0.02 per GiB
+The Free Tier is ideal for trying out App Platform, hosting personal websites, portfolios, or small projects.
+What happened to the Basic and Professional Tiers?
+We have simplified the App Platform pricing structure based on customer feedback. The Basic and Professional Tiers have been removed to provide users with more flexibility and control over their app's resources.
+Instead of tiers, you now have the freedom to choose your app's resources and container instance types according to your specific needs. This means you can select the appropriate instance size and number of instances for each component of your app, without being restricted by predefined tier limits.
+Additionally, egress data transfer allowance is now attached directly to the container instances, rather than being determined by the tier. Each container instance comes with its own egress allowance, which is calculated based on the instance size.
+This new pricing model allows you to have more granular control over your app's performance and costs. You can scale your resources up or down as needed, and you only pay for what you use.
+We believe this simplified approach will provide a more intuitive and user-friendly experience for deploying and managing apps on the App Platform.
+What is a development database?
+A development database has 512 MiB RAM. It has more limited capabilities than a Managed Database. It can only be used from the app it belongs to, it is not backed up by default, it does not support multi-database creation - and if the app is destroyed, the development database is destroyed with it. Currently, the development database only supports PostgreSQL.
+What is offered as part of IP whitelisting with dedicated IP?
+Dedicated egress IP assigns a pair of static IP addresses to your app. Note that it is billed at $ 25.00 /app. It is because app platform provisions 2 droplets under the hood, assigns IP addresses and manages the whole life-cycle for you, while providing a highly available egress connection from your app.
+Is autoscaling available on all container instances? If not, why?
+No. Autoscaling is only available on dedicated instances. Shared instances work great, but given the very nature of sharing a vCPU between applications, the utilization may be sometimes influenced by factors like noisy neighbors. Therefore autoscaling is available on dedicated instances only.
+Frequently asked questions
+What forms of payment do you accept?
+We accept Visa, Mastercard, American Express, Discover, PayPal, Google Pay, and Apple Pay. Apple pay requires a Safari browser. For additional payment options, including wire transfer, purchase orders, and ACH, please contact us
+. Note that when you add a card, we may send a temporary pre-authorization request to the issuing bank. This pre-authorization charge is immediately released by DigitalOcean but may take a few days to clear from your card depending on the bank.
+When will my card be charged?
+DigitalOcean billing cycles are monthly. Typically, on the first day of each month we invoice and automatically charge your account's primary payment method for the previous month's usage. In some cases, we might charge if your usage exceeds a threshold
+. You can also login and self pay the balance at any time.
+Am I charged when I enter my credit card?
+No. Your card is only charged at the end of the billing cycle or upon exceeding a usage threshold. Pre-authorization charge: When you add a card, we may send a preauthorization request to the issuing bank. This is to verify that the card being added has been issued by the bank and that they will authorize any charges in future. These temporary pre-authorizations are typically $1 but can vary in range and are immediately canceled by us. Depending on your bank, it might take a few days for the cha
+Will taxes be included in my monthly invoice?
+We're required by law to apply taxes in some countries. Click here
+to learn whether we collect taxes in your country, what the tax rate is, etc.
+How do I destroy my resources?
+Check out the docs to learn how to destroy Droplets
+, Kubernetes clusters
+, Managed Databases clusters ( PostgreSQL
+, MySQL
+, Caching
+), Spaces
+, Volumes
+, Firewalls
+, and Load Balancers
+.
+Can I be notified if my bill exceeds a threshold?
+Yes, you can set up billing alerts
+and we will email you if the monthly spending exceeds an amount you specify.
+I got a $200 credit when I opened an account. When will my card be charged?
+Your card will be charged only after you have utilized the free credits. For example, if you received a $200 credit for 60 days, then that $200 credit is automatically applied to your account. If you spend $25 in that timeframe, then your card will not be charged. If you spend $300, then the $200 credit would be fully utilized and your card will be charged only $100. Since the credit is valid for 60 days, you won't be able to use any remaining credit after 60 days.
+What's the price for the Marketplace 1-Click Apps?
+We charge you for the underlying compute on which the 1-Click Apps runs.
+How do I remove my card from the account?
+To remove a saved payment method, visit the products billing page
+and click the … menu of the payment method, then click Delete. In the Confirm Delete Card window that opens, click Delete to remove the card. You cannot remove the default payment method on the account.
+Can I prepay for my resources?
+If you are interested in prepayment for resources, contact our experts
+.
+Can I have a refund?
+We do not offer refunds. If there are extenuating circumstances, contact support.
+Still have questions?
+Have a complex setup or additional questions around pricing? Contact our sales team to get more information on DigitalOcean pricing.
+Contact sales
+Get started for free
+Sign up and get $200 in credit for your first 60 days with DigitalOcean.*
+Get started
+*This promotional offer applies to new accounts only.
+© 2025 DigitalOcean, LLC. Sitemap
+.

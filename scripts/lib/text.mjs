@@ -34,8 +34,16 @@ export function htmlToLines(html) {
   return lines.filter((l, i) => l !== lines[i - 1]);
 }
 
+// Pricing pages sometimes show example credentials (connection strings, API keys). Never store them.
+const SECRET_RES = [
+  /pscale_pw_[A-Za-z0-9_-]+/g, /\bsk-[A-Za-z0-9_-]{16,}/g, /\bgh[pousr]_[A-Za-z0-9]{20,}/g, /\bxox[abpr]-[A-Za-z0-9-]{10,}/g,
+  /\bAKIA[0-9A-Z]{16}\b/g, /\bAIza[0-9A-Za-z_-]{30,}/g, /-----BEGIN [A-Z ]*PRIVATE KEY-----[\s\S]*?-----END [A-Z ]*PRIVATE KEY-----/g,
+  /\b(?:password|pwd|secret|token|api[_-]?key)\s*[=:]\s*[^\s,;'"]{8,}/gi, /:\/\/[^\s/:@]+:[^\s@]{6,}@/g,
+];
+export function redactSecrets(s) { return SECRET_RES.reduce((acc, re) => acc.replace(re, '[redacted]'), s); }
+
 export function normalizeLine(s) {
-  return s
+  return redactSecrets(s)
     .replace(/[    ]/g, ' ')
     .replace(/[​‌‍﻿]/g, '')
     .replace(/\s+/g, ' ')
@@ -46,7 +54,7 @@ export function normalizeLine(s) {
 }
 
 // Currency amounts: $20, $0.15, €4.99, £10, 20 USD, US$5
-export const CURRENCY_RE = /(?:(?:US|CA|AU|NZ|SG|HK)?\$|€|£|¥|₹|CHF|USD|EUR|GBP)\s?\d[\d,]*(?:\.\d+)?|\d[\d,]*(?:\.\d+)?\s?(?:USD|EUR|GBP|CHF)\b/i;
+export const CURRENCY_RE = /(?:(?:US|CA|AU|NZ|SG|HK)?\$|€|£|¥|₹|CHF|USD|EUR|GBP)\s?\d[\d,]*(?:\.\d+)?|\d[\d,]*(?:\.\d+)?\s?(?:USD|EUR|GBP|CHF|€|£|\$)(?![\w])/i;
 // Quantities with units that pricing pages use for limits.
 export const UNIT_RE = /\b\d[\d,]*(?:\.\d+)?\s?(?:k|m|b|gb|tb|mb|kb|pb|gib|tib|mib|ms|s|sec|min|mins|minutes?|hours?|hrs?|days?|weeks?|months?|years?|vcpus?|cpus?|cores?|ram|gpus?|cu|cu-hours?|compute hours?|requests?|reqs?|req|invocations?|executions?|runs?|builds?|deploys?|deployments?|sites?|projects?|apps?|databases?|dbs?|branches?|repos?|repositories?|seats?|users?|members?|editors?|collaborators?|teammates?|maus?|dau|monthly active users?|events?|sessions?|pageviews?|page views|visitors?|emails?|messages?|sms|contacts?|subscribers?|records?|rows?|documents?|objects?|files?|images?|videos?|tokens?|characters?|chars|words?|credits?|queries?|operations?|ops|reads?|writes?|transactions?|connections?|domains?|environments?|workers?|functions?|cron jobs?|jobs?|webhooks?|logs?|traces?|spans?|metrics?|alerts?|monitors?|checks?|uptime|bandwidth|egress|storage|transfer|rpm|rpd|tpm|tpd|qps|rps|per second|per minute|per day|per month|\/\s?(?:mo|month|yr|year|day|hour|hr|min|sec|user|seat|site|project|gb|tb|k|m|1k|1m|million|1,000|1000|1,000,000))\b/i;
 export const FREE_RE = /\b(?:free|free trial|unlimited|no credit card|always free)\b/i;

@@ -1,0 +1,870 @@
+[
+  {
+    "id": "cloud-google-com-free-20230503211533",
+    "url": "https://cloud.google.com/free",
+    "ts": "20230503211533",
+    "date": "2023-05-03",
+    "source": "wayback",
+    "prevTs": "20230106175500",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Google Cloud Free Tier: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "cloud-google-com-free-20230911005647",
+    "url": "https://cloud.google.com/free",
+    "ts": "20230911005647",
+    "date": "2023-09-11",
+    "source": "wayback",
+    "prevTs": "20230503211533",
+    "kind": "price",
+    "score": 21,
+    "counts": {
+      "price": 3,
+      "limit": 1,
+      "plan": 5
+    },
+    "material": true,
+    "headline": "Google Cloud Free Tier: 3 prices, 1 limit, 5 plan names changed (removed “Try a fully managed relational database at no…”; added “New customers get $300 in free credits”)",
+    "pairs": [],
+    "added": [
+      "Start deploying pre-built solutions free",
+      "New customers get $300 in free credits",
+      "Cloud Spanner Free Trial",
+      "free trial instance with 10 GB of storage at no cost. Plus, new customers get $300 in free credits",
+      "Unlimited scale",
+      "Looker Free Trial",
+      "Cloud Spanner Free Trial",
+      "free trial instance with 10 GB of storage at no cost. Plus, new customers get $300 in free credits",
+      "Unlimited scale",
+      "Looker Free Trial"
+    ],
+    "removed": [
+      "Additional free credits for businesses",
+      "will get additional free credits to use while exploring and evaluating Google Cloud.",
+      "Try a fully managed relational database at no cost for up to 90 days",
+      "Create a 90-day Spanner free trial instance with 10 GB of storage at no cost.",
+      "Try Spanner free",
+      "Discover how Spanner provides unlimited scale and up to 99.999% availability."
+    ],
+    "totals": {
+      "removed": 8,
+      "added": 36,
+      "materialRemoved": 6,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "cloud-google-com-free-20240104071225",
+    "url": "https://cloud.google.com/free",
+    "ts": "20240104071225",
+    "date": "2024-01-04",
+    "source": "wayback",
+    "prevTs": "20230911005647",
+    "kind": "price",
+    "score": 7,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Google Cloud Free Tier: 1 price, 1 limit, 1 plan name changed (removed “Google Maps Platform $200 monthly credit”; added “with the full set of product capabilities for…”)",
+    "pairs": [],
+    "added": [
+      "All customers get free hands-on experience",
+      "GKE Enterprise Free Trial",
+      "with the full set of product capabilities for 90 days for no fee.",
+      "GKE Enterprise Free Trial",
+      "with the full set of product capabilities for 90 days for no fee."
+    ],
+    "removed": [
+      "Start free",
+      "All customers get free hands-on experience with popular products, including Compute Engine and Cloud Storage, up to monthly limits",
+      "Google Maps Platform $200 monthly credit"
+    ],
+    "totals": {
+      "removed": 36,
+      "added": 16,
+      "materialRemoved": 3,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "cloud-google-com-free-20240501150938",
+    "url": "https://cloud.google.com/free",
+    "ts": "20240501150938",
+    "date": "2024-05-01",
+    "source": "wayback",
+    "prevTs": "20240104071225",
+    "kind": "price",
+    "score": 5,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Google Cloud Free Tier: 1 price, 1 limit changed (removed “The first 5,000 text records and 1,000 docume…”; added “—not charged against your $300 free credit.”)",
+    "pairs": [],
+    "added": [
+      "Three ways to get started for free",
+      "Get free usage of AI APIs",
+      "—not charged against your $300 free credit.",
+      "Includes 5 GB of persistent disk storage"
+    ],
+    "removed": [
+      "Run workloads for free",
+      "All customers get free hands-on experience",
+      "The first 5,000 text records and 1,000 document pages"
+    ],
+    "totals": {
+      "removed": 30,
+      "added": 24,
+      "materialRemoved": 9,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "cloud-google-com-free-20240909170537",
+    "url": "https://cloud.google.com/free",
+    "ts": "20240909170537",
+    "date": "2024-09-09",
+    "source": "wayback",
+    "prevTs": "20240501150938",
+    "kind": "price",
+    "score": 10,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Google Cloud Free Tier: 2 prices, 2 plan names changed (added “free trial with an 8 vCPU basic primary insta…”)",
+    "pairs": [],
+    "added": [
+      "Get free hands-on experience with Google Cloud",
+      "Always on database with virtually unlimited scale",
+      "AlloyDB for PostgreSQL Free Trial",
+      "free trial with an 8 vCPU basic primary instance and up to 1 TB of storage capacity. Plus, new Google Cloud customers get $300 in free credits",
+      "Always on database with virtually unlimited scale",
+      "AlloyDB for PostgreSQL Free Trial",
+      "free trial with an 8 vCPU basic primary instance and up to 1 TB of storage capacity. Plus, new Google Cloud customers get $300 in free credits"
+    ],
+    "removed": [
+      "Unlimited scale",
+      "Unlimited scale"
+    ],
+    "totals": {
+      "removed": 9,
+      "added": 23,
+      "materialRemoved": 4,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "cloud-google-com-free-20250201032019",
+    "url": "https://cloud.google.com/free",
+    "ts": "20250201032019",
+    "date": "2025-02-01",
+    "source": "wayback",
+    "prevTs": "20240909170537",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Google Cloud Free Tier: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Implement, test, and explain code for free with AI"
+    ],
+    "removed": [
+      "Get free hands-on experience with Google Cloud"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 7,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "cloud-google-com-free-20250401073234",
+    "url": "https://cloud.google.com/free",
+    "ts": "20250401073234",
+    "date": "2025-04-01",
+    "source": "wayback",
+    "prevTs": "20250201032019",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Google Cloud Free Tier: 1 price changed (removed “Google Maps Platform $200 monthly credit”)",
+    "pairs": [],
+    "added": [
+      "Free to sign up. Free to use. Free monthly usage."
+    ],
+    "removed": [
+      "Implement, test, and explain code for free with AI",
+      "Google Maps Platform $200 monthly credit"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 4,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "cloud-google-com-free-20250506203227",
+    "url": "https://cloud.google.com/free",
+    "ts": "20250506203227",
+    "date": "2025-05-06",
+    "source": "wayback",
+    "prevTs": "20250401073234",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Google Cloud Free Tier: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "cloud-google-com-free-20250702052450",
+    "url": "https://cloud.google.com/free",
+    "ts": "20250702052450",
+    "date": "2025-07-02",
+    "source": "wayback",
+    "prevTs": "20250506203227",
+    "kind": "price",
+    "score": 5,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Google Cloud Free Tier: 1 price, 1 plan name changed (added “Unlock up to $200,000 USD (up to $350,000 USD…”)",
+    "pairs": [],
+    "added": [
+      "Unlock up to $200,000 USD (up to $350,000 USD for AI startups) in Google Cloud credits and supercharge your innovation with cutting-edge cloud infrastructure and AI tools. Get access to expert guidance, relevant resources, and powerful technologies like Vertex AI to accelerate your development journey.",
+      "Get free credits"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "cloud-google-com-free-20251201000418",
+    "url": "https://cloud.google.com/free",
+    "ts": "20251201000418",
+    "date": "2025-12-01",
+    "source": "wayback",
+    "prevTs": "20250702052450",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Google Cloud Free Tier: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 6,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "docs-cloud-google-com-free-docs-free-cloud-features-20251201204754",
+    "url": "https://docs.cloud.google.com/free/docs/free-cloud-features",
+    "ts": "20251201204754",
+    "date": "2025-12-01",
+    "source": "wayback",
+    "prevTs": "20251021050416",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Google Cloud Free Tier: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Get free usage of 20+ popular products, including Compute Engine and AI APIs.",
+      "Get free usage of 20+ popular products, including Compute Engine and AI APIs."
+    ],
+    "removed": [
+      "Free monthly usage of popular products, including AI APIs and BigQuery",
+      "Free monthly usage of popular products, including AI APIs and BigQuery"
+    ],
+    "totals": {
+      "removed": 9,
+      "added": 12,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "docs-cloud-google-com-free-docs-free-cloud-features-20260101015900",
+    "url": "https://docs.cloud.google.com/free/docs/free-cloud-features",
+    "ts": "20260101015900",
+    "date": "2026-01-01",
+    "source": "wayback",
+    "prevTs": "20251201204754",
+    "kind": "price",
+    "score": 79,
+    "counts": {
+      "price": 16,
+      "limit": 12,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Google Cloud Free Tier: 16 prices, 12 limits, 4 plan names changed (1TB → 1TiB; 1GB → 1GiB)",
+    "pairs": [
+      {
+        "before": "1 TB of querying per month",
+        "after": "1 TiB of querying per month.",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "1TB",
+            "after": "1TiB"
+          }
+        ]
+      },
+      {
+        "before": "1 GB storage per project",
+        "after": "1 GiB of storage per project.",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "1GB",
+            "after": "1GiB"
+          }
+        ]
+      },
+      {
+        "before": "10 GB of messages per month",
+        "after": "10 GiB of messages per month.",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "10GB",
+            "after": "10GiB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Signing up for the Google Cloud Free Trial",
+      "is the best way to explore and evaluate Google Cloud for free.",
+      "The Free Trial gets you a $300 Welcome credit to spend over 91 days on various Google Cloud products",
+      "and you won't be billed. During the Free Trial, you also get access to the Google Cloud Free Tier",
+      "which gives you free usage of select products up to specified monthly limits, and to product-specific free trials",
+      "When you are ready for full access to Google Cloud, including features not covered by the Free Trial program, upgrade to a Paid billing account",
+      "You keep any remaining credit and continue to have access to the Free Tier. You'll only be billed for usage that exceeds your remaining credit or for usage on products that aren't part of the Free Trial program.",
+      "You can use select Google Cloud products for free when you stay within their Free Tier monthly usage limits",
+      "and when you utilize product-specific free trials",
+      "Google Cloud Free Trial",
+      "The Google Cloud Free Trial is a 91-day program that lets new users try the most popular Google Cloud products without any financial commitment. You will not be billed for any Google Cloud usage during your Free Trial. Access to products may be limited to prevent abuse.",
+      "including on usage beyond the Free Tier limits",
+      "With a Paid billing account, you have full access to Google Cloud and you will be billed for usage not covered by the $300 credit or the Free Tier.",
+      "If you don't upgrade to a Paid billing account before 91 days pass or if you spend the $300 in free credit, then your Free Trial billing account will be closed and all of its associated projects and resources will be stopped.",
+      "You're eligible for the Free Trial when both of the following are true:",
+      "What to expect at Free Trial signup",
+      "During the sign up, you must provide a credit card or other payment method that is valid for the period of the Free Trial. Depending on your country, you might also need to verify your bank account",
+      "After you complete the signup and your identity and payment method are verified, your Free Trial period starts.",
+      "During the Free Trial",
+      "You use your Free Trial account to explore Google Cloud. This account provides the following:",
+      "$300 in Welcome credit to spend on products and services covered by the Free Trial program.",
+      "Full access to the Google Cloud Free Tier",
+      "Access or use the $300 credit for a generative AI partner model that is offered as a managed APIs, which is also known as model as a service",
+      "Some use cases are prohibited during the Free Trial. For example, you may not use Google Cloud products or services to mine cryptocurrency during your Free Trial. For a list of restrictions, see Free Trial Terms and Conditions",
+      "that you create. The email address that you provided during the Free Trial signup is the ID that has administrator-level access to this project.",
+      "A Free Trial billing account",
+      "named \"My Billing Account\". This account accrues the Google Cloud usage costs your project generates. The $300 credit pays for those usage costs and you aren't billed. The email address you provided during the Free Trial signup is the ID of the Billing Account Administrator",
+      "name, address, and tax ID (when required legally) of who is responsible for the profile. The email address you provided during the Free Trial signup is the ID of the profile's administrator and primary contact",
+      "Your Free Trial ends when (1) you manually upgrade to a Paid billing account or (2) your Free Trial billing account auto-closes.",
+      "Google Cloud access unlocked: You gain access to all Google Cloud products and services, including those products and services that were restricted during the Free Trial, such as GPUs, Google Cloud Marketplace, and third-party generative AI models.",
+      "$300 Welcome credit use continues: Your remaining credit is available for use on products and services covered by the Free Trial",
+      "but they must be consumed within the original 91 days period from your sign-up date.",
+      "Billing is enabled: Your payment method is charged for any usage that exceeds your remaining credit, the Free Tier limits",
+      "or usage on products that aren't part of the Free Trial.",
+      "Resource continuity: If you upgrade to a Paid billing account before your Free Trial billing account auto-closes, then the resources you created during the Free Trial continue to run without interruption.",
+      "Your Free Trial billing account auto-closes if you spend the $300 credit or 91 days pass from signup and you don't upgrade to a Paid billing account. In these cases, the following occur:",
+      "If you don't upgrade to a Paid billing account during the grace period, then your Free Trial resources are permanently deleted.",
+      "You might receive a message stating that your Free Trial billing account has been canceled or suspended.",
+      "Otherwise, your Free Trial resources are permanently deleted.",
+      "To use features that aren't included in the Free Trial"
+    ],
+    "removed": [
+      "Whether you're new to Google Cloud and are looking to learn the basics or you are an established customer exploring new product innovations, the Google Cloud Free Program has you covered. This document describes the components of the Google Cloud Free Program.",
+      "The Google Cloud Free Program comprises the following:",
+      "90-day, $300 Free Trial",
+      "New Google Cloud and Google Maps Platform users can take advantage of a 90-day trial period that includes $300 in free Cloud Billing credits to explore and evaluate Google Cloud and Google Maps Platform products and services. You can use these credits toward one or a combination of products.",
+      "Free Tier",
+      "All Google Cloud customers can use select Google Cloud products—like Compute Engine, Cloud Storage, and BigQuery—free of charge, within specified monthly usage limits. When you stay within the Free Tier limits",
+      "these resources are not charged against your Free Trial credits or to your Cloud Billing account's payment method after your trial ends.",
+      "Google Maps Platform free usage caps",
+      "Google Maps Platform offers key pricing incentives, including free usage caps and volume discounts. For more information, see the billing and pricing overview",
+      "90-day, $300 Free Trial offer",
+      "The Free Trial provides you with free Cloud Billing credits to pay for resources used while you learn about Google Cloud.",
+      "You're eligible for the Free Trial if you meet the following conditions:",
+      "If you're in India, you must have an INR-based Cloud Billing account before creating Firebase billing accounts to sign up for the Free Trial.",
+      "To complete your Free Trial signup, you must provide a credit card or other payment method",
+      "which is used to set up a Free Trial Cloud Billing account and to verify your identity. Be assured, when a Cloud Billing account has the status of a Free trial account",
+      "When you complete the Start free signup, the 90-day, $300 Free Trial period starts automatically. The Free Trial period",
+      "After you initiate the Free Trial, Google uses the information you provided at signup to create a limited Google Cloud account called a Free trial account. This account has the following features:",
+      "To control project access, the username provided during the free trial signup is granted the legacy basic Owner role",
+      "named \"My Billing Account\": The billing account accrues Google Cloud usage costs that are generated in the Google Cloud project, and the available Free Trial credits pay for those usage costs.",
+      "To control billing account access, the username provided during the free trial signup is granted the Billing Account Administrator",
+      "is Free trial account, subject to the program coverage limitations",
+      "and the Free Trial Terms and Conditions",
+      "provided during Free Trial signup is stored and managed in the Google payments profile.",
+      "To control access to the payments profile, the username provided during the free trial signup is designated the Admin and Primary Contact",
+      "Activating a full account converts your free trial Cloud Billing account to a paid account. You can activate a full, paid account at any time during the trial. After you activate your full, paid account, you can still use any remaining free trial credits (within the 90-day period).",
+      "Your Free Trial credits apply to all Google Cloud resources, including Google Maps Platform",
+      "You can't access or use Free Trial credits for generative AI partner models offered as managed APIs (also known as model as a service",
+      "In addition to resource constraints, the Free Trial Terms and Conditions",
+      "describe use cases that are prohibited during the Free Trial. For example, you may not use Google Cloud services to mine cryptocurrency during your Free Trial.",
+      "Your Free Trial ends",
+      "90 days have elapsed since you signed up.",
+      "Throughout your Free Trial period, your remaining credits and days",
+      "You are not billed during your Free Trial. When the Free Trial ends, all resources you created during the trial are stopped, and you won't be charged, unless you activate a full, paid Cloud Billing account.",
+      "Please note: The Free Trial period can't be paused or extended. The Free Trial ends after all available credits are consumed, or at the end of the Free Trial period, whichever event occurs first.",
+      "You must accept the Free Trial Terms and Conditions",
+      "Service level agreements don't apply during the Free Trial. The Free Trial is intended to help you explore and evaluate Google Cloud. We don't recommend running production applications on Google Cloud during the Free Trial.",
+      "Free Tier use",
+      "During your Free Trial period, when you use resources covered by the Free Tier",
+      "the Free Tier usage is not charged against your Free Trial credits.",
+      "When you sign up for the Free Trial, Google requires a credit card or other payment method. Google uses this payment information for the following purposes:"
+    ],
+    "totals": {
+      "removed": 357,
+      "added": 328,
+      "materialRemoved": 142,
+      "materialAdded": 144
+    }
+  },
+  {
+    "id": "cloud-google-com-free-20260201005823",
+    "url": "https://cloud.google.com/free",
+    "ts": "20260201005823",
+    "date": "2026-02-01",
+    "source": "wayback",
+    "prevTs": "20251201000418",
+    "kind": "price",
+    "score": 8,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Google Cloud Free Tier: 2 prices, 1 limit changed (added “at no cost for 30 days. Great for individuals…”)",
+    "pairs": [],
+    "added": [
+      "Gemini Enterprise – Business edition Free Trial",
+      "at no cost for 30 days. Great for individuals, small businesses, and teams up to 300—no IT setup needed.",
+      "Cloud SQL Free Trial Instance",
+      "free trial with an 8 vCPU Enterprise Plus instance, 64 GB of memory, and 100 GB of storage. Plus, new Google Cloud customers get $300 in free credits",
+      "Gemini Enterprise – Business edition Free Trial",
+      "at no cost for 30 days. Great for individuals, small businesses, and teams up to 300—no IT setup needed.",
+      "Cloud SQL Free Trial Instance",
+      "free trial with an 8 vCPU Enterprise Plus instance, 64 GB of memory, and 100 GB of storage. Plus, new Google Cloud customers get $300 in free credits"
+    ],
+    "removed": [
+      "Free trials of select apps and services"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 29,
+      "materialRemoved": 1,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "docs-cloud-google-com-free-docs-free-cloud-features-20260201064619",
+    "url": "https://docs.cloud.google.com/free/docs/free-cloud-features",
+    "ts": "20260201064619",
+    "date": "2026-02-01",
+    "source": "wayback",
+    "prevTs": "20260101015900",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Google Cloud Free Tier: 1 limit changed (added “vCPU - First 180,000 vCPU-seconds (50 hours) …”)",
+    "pairs": [],
+    "added": [
+      "vCPU - First 180,000 vCPU-seconds (50 hours) per month",
+      "RAM - First 360,000 GiB-seconds (100 hours) per month"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "docs-cloud-google-com-free-docs-free-cloud-features-20260302033042",
+    "url": "https://docs.cloud.google.com/free/docs/free-cloud-features",
+    "ts": "20260302033042",
+    "date": "2026-03-02",
+    "source": "wayback",
+    "prevTs": "20260201064619",
+    "kind": "limits",
+    "score": 10,
+    "counts": {
+      "price": 0,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Google Cloud Free Tier: 5 limits changed (91 → 90; 91 → 90)",
+    "pairs": [
+      {
+        "before": "The Free Trial gets you a $300 Welcome credit to spend over 91 days on various Google Cloud products",
+        "after": "The Free Trial gets you a $300 Welcome credit to spend over 90 days on various Google Cloud products",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "91",
+            "after": "90"
+          }
+        ]
+      },
+      {
+        "before": "If you don't upgrade to a Paid billing account before 91 days pass or if you spend the $300 in free credit, then your Free Trial billing account will be closed and all of its associated projects and resources will be stopped.",
+        "after": "If you don't upgrade to a Paid billing account before 90 days pass or if you spend the $300 in free credit, then your Free Trial billing account will be closed and all of its associated projects and resources will be stopped.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "91",
+            "after": "90"
+          }
+        ]
+      },
+      {
+        "before": "but they must be consumed within the original 91 days period from your sign-up date.",
+        "after": "but they must be consumed within the original 90 days period from your sign-up date.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "91",
+            "after": "90"
+          }
+        ]
+      },
+      {
+        "before": "Your Free Trial billing account auto-closes if you spend the $300 credit or 91 days pass from signup and you don't upgrade to a Paid billing account. In these cases, the following occur:",
+        "after": "Your Free Trial billing account auto-closes if you spend the $300 credit or 90 days pass from signup and you don't upgrade to a Paid billing account. In these cases, the following occur:",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "91",
+            "after": "90"
+          }
+        ]
+      },
+      {
+        "before": "A Free Trial ended because the $300 Welcome credit was exhausted or 91 days elapsed.",
+        "after": "A Free Trial ended because the $300 Welcome credit was exhausted or 90 days elapsed.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "91",
+            "after": "90"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 8,
+      "materialRemoved": 6,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "docs-cloud-google-com-free-docs-free-cloud-features-20260401173053",
+    "url": "https://docs.cloud.google.com/free/docs/free-cloud-features",
+    "ts": "20260401173053",
+    "date": "2026-04-01",
+    "source": "wayback",
+    "prevTs": "20260302033042",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Google Cloud Free Tier: 1 price changed (added “Full access to Google Cloud, with some restri…”)",
+    "pairs": [],
+    "added": [
+      "Full access to Google Cloud, with some restrictions: You can't do any of the following: Use the $300 credit toward Gemini Developer API (AI Studio) costs."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 6,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "cloud-google-com-free-20260501090627",
+    "url": "https://cloud.google.com/free",
+    "ts": "20260501090627",
+    "date": "2026-05-01",
+    "source": "wayback",
+    "prevTs": "20260201005823",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Google Cloud Free Tier: 1 price changed (removed “Unlock up to $200,000 USD (up to $350,000 USD…”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Unlock up to $200,000 USD (up to $350,000 USD for AI startups) in Google Cloud credits and supercharge your innovation with cutting-edge cloud infrastructure and AI tools. Get access to expert guidance, relevant resources, and powerful technologies like Vertex AI to accelerate your development journey."
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 5,
+      "materialRemoved": 3,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "docs-cloud-google-com-free-docs-free-cloud-features-20260505022335",
+    "url": "https://docs.cloud.google.com/free/docs/free-cloud-features",
+    "ts": "20260505022335",
+    "date": "2026-05-05",
+    "source": "wayback",
+    "prevTs": "20260401173053",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Google Cloud Free Tier: 1 price changed ($300 added)",
+    "pairs": [
+      {
+        "before": "Full access to Google Cloud, with some restrictions: You can't do any of the following: Use the $300 credit toward Gemini Developer API (AI Studio) costs.",
+        "after": "Full access to Google Cloud, with some restrictions: The $300 credit can't be used for the following use cases: The $300 credit can't pay for Gemini API in AI Studio",
+        "confidence": 0.63,
+        "deltas": [
+          {
+            "before": null,
+            "after": "$300"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "The Free Trial account account provides the following:",
+      "costs. Consider using the Gemini API Free tier",
+      "While your billing account is a non-billable Free trial account"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 8,
+      "materialRemoved": 3,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "cloud-google-com-free-20260701055050",
+    "url": "https://cloud.google.com/free",
+    "ts": "20260701055050",
+    "date": "2026-07-01",
+    "source": "wayback",
+    "prevTs": "20260501090627",
+    "kind": "price",
+    "score": 10,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Google Cloud Free Tier: 2 prices, 2 plan names changed (added “free trial with a 1 node SSD cluster and up t…”)",
+    "pairs": [],
+    "added": [
+      "Bigtable Free Trial",
+      "free trial with a 1 node SSD cluster and up to 500GB of storage capacity. Plus, new Google Cloud customers get $300 in free credits",
+      "Bigtable Free Trial",
+      "free trial with a 1 node SSD cluster and up to 500GB of storage capacity. Plus, new Google Cloud customers get $300 in free credits"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 14,
+      "materialRemoved": 0,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "docs-cloud-google-com-free-docs-free-cloud-features-20260702073025",
+    "url": "https://docs.cloud.google.com/free/docs/free-cloud-features",
+    "ts": "20260702073025",
+    "date": "2026-07-02",
+    "source": "wayback",
+    "prevTs": "20260505022335",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Google Cloud Free Tier: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Close your Free Trial billing account",
+      "You can close your Free Trial billing account and end your Free Trial. For more information, see Close your Cloud Billing account",
+      "Upgrading to a Paid billing account ends your Free Trial",
+      "Free Tier benefits for Datastream apply exclusively to streams originating from AlloyDB for PostgreSQL or Spanner and destined for BigQuery:",
+      "100 GiB of change data capture (CDC) per month, per billing account.",
+      "Create a 30-day Cloud SQL free trial instance at no cost."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 18,
+      "materialRemoved": 5,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "cloud-google-com-free-20260902202107",
+    "url": "https://cloud.google.com/free",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260701055050",
+    "kind": "limits",
+    "score": 5,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Google Cloud Free Tier: 3 limits changed (added “Up to 100 GiB of CDC data from eligible first…”)",
+    "pairs": [],
+    "added": [
+      "Build apps, analyze data, and deploy agents with AI for free.",
+      "Start building with AI for free",
+      "Up to 100 GiB of CDC data from eligible first-party sources per month.",
+      "First 180,000 vCPU-seconds (50 hours) per month",
+      "First 360,000 GiB-seconds (100 hours) per month",
+      "Up to 400 integration executions and 20 GiB of data processed per month",
+      "0.5 GB of storage per month"
+    ],
+    "removed": [
+      "Start deploying pre-built solutions free"
+    ],
+    "totals": {
+      "removed": 16,
+      "added": 29,
+      "materialRemoved": 4,
+      "materialAdded": 10
+    },
+    "transition": true
+  },
+  {
+    "id": "docs-cloud-google-com-free-docs-free-cloud-features-20260902202107",
+    "url": "https://docs.cloud.google.com/free/docs/free-cloud-features",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260702073025",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Google Cloud Free Tier: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

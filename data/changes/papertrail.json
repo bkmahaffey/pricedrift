@@ -1,0 +1,112 @@
+[
+  {
+    "id": "papertrail-com-plans-20250413085357",
+    "url": "https://www.papertrail.com/plans/",
+    "ts": "20250413085357",
+    "date": "2025-04-13",
+    "source": "wayback",
+    "prevTs": "20230201213528",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Papertrail: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "papertrail-com-plans-20250516134904",
+    "url": "https://www.papertrail.com/plans/",
+    "ts": "20250516134904",
+    "date": "2025-05-16",
+    "source": "wayback",
+    "prevTs": "20250413085357",
+    "kind": "price",
+    "score": 45,
+    "counts": {
+      "price": 8,
+      "limit": 11,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Papertrail: 8 prices, 11 limits changed (removed “$7”; added “$5.00”)",
+    "pairs": [],
+    "added": [
+      "$5.00"
+    ],
+    "removed": [
+      "$7",
+      "1 GB /month",
+      "search 1 week",
+      "archive 1 year",
+      "$18",
+      "2 GB /month",
+      "search 1 week",
+      "archive 1 year",
+      "$35",
+      "4 GB /month",
+      "search 2 weeks",
+      "archive 1 year",
+      "$75",
+      "8 GB /month",
+      "search 2 weeks",
+      "archive 1 year",
+      "$150",
+      "16 GB /month",
+      "search 2 weeks",
+      "archive 1 year",
+      "$230",
+      "25 GB /month",
+      "search 2 weeks",
+      "archive 1 year",
+      "$0",
+      "search 48 hours",
+      "archive 7 days",
+      "No credit card required. Never expires.",
+      "16 GB first month bonus, then 50 MB/month"
+    ],
+    "totals": {
+      "removed": 51,
+      "added": 20,
+      "materialRemoved": 31,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "papertrail-com-plans-20250918021832",
+    "url": "https://www.papertrail.com/plans/",
+    "ts": "20250918021832",
+    "date": "2025-09-18",
+    "source": "wayback",
+    "prevTs": "20250516134904",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Papertrail: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  }
+]

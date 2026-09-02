@@ -1,0 +1,290 @@
+Skip to main content
+Amazon Q Developer
+Overview
+Features
+Pricing
+Documentation
+Resources
+More
+Amazon Q
+›
+Amazon Q Developer
+›
+Pricing
+Amazon Q Developer pricing
+Pricing overview
+Amazon Q Developer reimagines the experience across the entire software development lifecycle (SDLC), making it faster and easier to build, secure, manage, and optimize applications on or off of AWS. Amazon Q Developer offers two pricing tiers.
+Amazon Q Developer Free Tier
+Free
+Code faster with code suggestions in the IDE and CLI
+Free for public CLI completions
+Review code licenses with reference tracking
+Use where you work: your IDE, CLI, the AWS Management Console, Slack, and more
+Limited monthly access of advanced features
+Chat, debug code, add tests, and more in your integrated developer environment (IDE) (limit 50 interactions per month)
+Accelerate tasks with the Amazon Q Developer agents for software development (limit 10 per month)
+Upgrade apps in a fraction of the time with the Amazon Q Developer Agent for code transformation (limit 1,000 lines of submitted code per month)
+Get answers about your AWS account resources (limit 25 queries per month)
+Diagnose common errors in the console (included)
+And more
+Get started
+Amazon Q Developer Pro Tier
+$19/mo.
+per user
+Everything included in the free tier, plus:
+Manage users and policies with enterprise access controls
+Customize Amazon Q to your code base to get even better suggestions
+High limits of advanced features
+Chat, debug code, add tests, and more in your integrated developer environment (IDE) (included)
+Accelerate tasks with the Amazon Q Developer agents for software development
+Upgrade apps in a fraction of the time with the Amazon Q Developer Agent for code transformation (limit 4,000 lines of submitted code per month)
+Get answers about your AWS account resources (included)
+Simplify query authoring with generative SQL (limit 1000 queries per month)
+And more
+Subscribe
+With Amazon Q Developer Pro, you also get:
+Enterprise administration
+Provide users or groups access to Amazon Q Developer using single sign-on (SSO) with AWS IAM Identity Center integration. Manage group-wide policies, such as blocking suggestions with referenced code.
+Analytics dashboard
+More easily understand and manage usage and adoption within your organization at a glance.
+IP indemnity
+Amazon Q Developer Pro offers indemnity for its output. For more details, please see AWS Service Terms.
+Amazon Q Developer code customizations
+Customize Amazon Q Developer to generate more relevant inline code recommendations by making it aware of your internal libraries, APIs, best practices, and architectural patterns, significantly accelerating development.
+Pricing table
+Features
+Pricing Tier
+Free
+Pro
+Free
+$19/month per user
+IDE
+Code completions
+Included
+Chat (Q&A)
+50 chat interactions per month
+Included
+Chat (agentic coding)
+50 chat interactions per month
+1,000 chat interactions per month (starting 8/1)
+Amazon Q Developer agents for software development (includes security vulnerability and code quality scanning)*
+10 invocations per month
+Included
+Amazon Q Developer transformation capability for Java upgrades **
+1,000 lines of code per month
+4,000 lines of code per month per user pooled at account level. Extra lines of code available at $.003 per line of code submitted. **
+Amazon Q Developer transformation capability for.NET porting **
+1,000 lines of code per month
+Included
+Customize Amazon Q Developer inline code recommendations and chat responses
+Not available
+Included
+AWS Management Console (and AWS Documentation and AWS marketing pages)***
+The console
+General Q&A****
+Included
+EC2 Instance Selection****
+Included
+Generative SQL****
+1,000 queries per account per month
+Included
+Diagnose common errors in the console****
+Included
+Analyze network reachability****
+20 requests per day
+Included
+Data integration****
+Included
+Chat with AWS account and resource context****
+25 per month per account
+Included
+Command line
+Public CLI completions
+Included
+Chat
+50 chats per month
+Included
+Amazon CodeCatalyst
+Amazon Q Developer agents for software development****
+5 per month
+Included
+Pull request summaries****
+5 per month
+Included
+Machine Learning
+Amazon Q Developer in Amazon SageMaker Studio
+Included
+Amazon Q Developer in Amazon SageMaker Canvas
+Included
+Amazon Q Developer in Amazon SageMaker Unified Studio
+Included
+Administration
+Analytics dashboard****
+No
+Yes
+User management****
+No
+Yes
+Policy management****
+No
+Yes
+Security and privacy
+Reference tracking
+Yes
+Suppress public code suggestions
+Yes
+Authentication
+AWS Builder ID or IAM user
+AWS Builder ID or IAM Identity Center
+Data collection
+Opt-out available
+Automatically opted out
+IP indemnity
+No
+Included
+To maintain the performance of the service and to ensure appropriate usage of Amazon Q Developer agents for software development, the usage for an account might be updated depending on Regional factors, payment history, fraudulent usage, or approval of a quota increase request. To learn more, see service limits
+.
+Amazon Q Developer is available in SageMaker Studio
+SageMaker Canvas
+SageMaker Unified Studio
+Amazon Redshift
+and AWS Glue
+to Amazon Q Developer Free Tier and Amazon Q Developer Pro Tier users. Pricing may vary per service depending on individual pricing models. Please review the specific service pricing page for more details.
+*Usage for Amazon Q Developer agents for software development is tracked across all usage types, and the limits are shared at the user level across the IDE and CodeCatalyst.
+**The Amazon Q Developer capabilities for Java upgrades are available to Amazon Q Developer Free Tier and Amazon Q Developer Pro Tier users. Pricing charges and usage are calculated against limits based on the number of lines of code (LOC) that you submit to Amazon Q. Only those submissions where you receive suggested upgrade code back are counted while those where you stop the job before completion or when a failure is encountered during the upgrade are not included. Noncode lines in repositori
+**The Amazon Q Developer capabilities for.NET porting are available to Amazon Q Developer Free Tier and Amazon Q Developer Pro Tier users. For the Free Tier, in one concurrent session upto 1000 of LOC cumulative usage is available per user/BuilderID. For the Pro Tier, the usage of.NET porting capabilities in based on organization-level service quotas that may be managed centrally by an administrator. For information on service quotas, please visit the page
+.
+You can get started with the Amazon Q Developer transformation capability at no cost as part of the Amazon Q Developer Free Tier. Amazon Q Developer Free Tier users can upgrade 1,000 LOC per month, per user. If your code exceeds this limit, consider submitting a smaller buildable unit, like a module, or subscribe to the Amazon Q Developer Pro Tier for higher allocation limits and pay-per-use upgrades.
+Amazon Q Developer Pro subscriptions are allocated 4,000 LOC per month for upgrades using Amazon Q Developer transformation capabilities for Java upgrades. These allocations are aggregated at the AWS payer-account level every month. Thus, if you have 100 active Amazon Q subscriptions across all your linked AWS accounts, you can submit 400,000 LOC per month for upgrades before incurring additional charges. Usage that exceeds this allocation is charged $0.003 per LOC submitted.
+***Subscriptions are not available in the AWS Console Mobile Application, AWS Chatbot, or AWS marketing pages. Chat interactions through these are exclusively governed by Amazon Q Developer Free Tier limits.
+Amazon Q Developer offers a perpetual Free Tier with monthly limits available to users
+logged in as an AWS Identity and Access Management (IAM) user or AWS Builder ID
+user.
+Free Tier limits in the IDE are available only to Builder ID users.
+Free Tier limits apply at the account level when logged in as an IAM user, or at the user level for AWS Builder ID users.
+Only users with access to the AWS console can use the Amazon Q Developer Free Tier limits in the AWSconsole.
+Chat interactions through the AWS Console Mobile Application, AWS Chatbot, and AWS marketing and documentation pages are currently exclusively governed by Free Tier limits.
+Members with subscriptions linked to an organization with IAM Identity Center benefit
+from Pro Tier limits at the user level. Note that Amazon Q Developer Agent for code transformation limits are pooled at the payer account level for paid subscriptions.
+**** Amazon Q Developer Free Tier users can upgrade to a personal Pro Tier subscription using their Builder ID and an AWS account. If upgrading with Builder ID and not the IAM Identity Center, you will not have access to this feature using Pro Tier. If you wish to utilize this feature please sign up for Pro Tier using IAM Identity Center.
+In which Identity Center regions are Amazon Q Developer subscriptions supported?
+See Supported Identity Center Regions for Amazon Q Developer
+for more information on the Identity Center regions in which Amazon Q Developer subscriptions are supported.
+Pricing examples
+Example 1:
+You are an AWS administrator for your organization and subscribed to the Amazon Q Developer Pro Tier. You have added 50 users to Amazon Q Developer Pro subscriptions for the entire month of October. You will be charged for the entire month for 50 users. You will receive the bill on November 1.
+Month
+October (31 days in month)
+Users
+50
+Price
+$19/user per month
+Cost calculations
+$19 x (31/31) days x 50 users
+Total cost
+$950
+Example 2:
+You are an AWS administrator for your organization and subscribed to the Amazon Q Developer Pro Tier. On April 16, you newly subscribe 50 users. You will be charged a prorated amount for the 50 users for the remainder of the month. You will receive the bill on May 1.
+Month
+April (30 days in month)
+Users
+50
+Price
+$19/user per month
+Cost calculations
+$19 x (15/30) days x 50 users
+Total cost
+$475
+Example 3:
+You are an AWS administrator for your organization and subscribed to the Amazon Q Developer Pro Tier. You start June with 50 users and add 10 users on June 11. You will be charged for 50 users for the entire month and for 10 users for 20 days (from June 11 to June 30). You will receive the bill on July 1.
+Month
+June (30 days in month)
+Users
+60
+Price
+$19/user per month
+Cost calculations
+[$19 x (30/30) days x 50 users] +
+[$19 x (20/30) days x 10 users]
+Total cost
+$1,076.67
+Example 4:
+You are an AWS Administrator for your organization and subscribed to the Amazon Q Developer Pro Tier. You start January with 70 users and remove 10 users on January 11. The removed users will have access to Amazon Q Developer Pro through the end of the billing period, and you will be billed for them for the full billing period. At the end of the billing period, the removed users will no longer have access to Amazon Q Developer Pro. You will receive the bill on February 1.
+Month
+January (31 days in month)
+Users
+70
+Price
+$19/user per month
+Cost calculations
+$19 x (31/31) days x 70 users
+Total cost
+$1,330
+Amazon Q Developer transformation capabilities for Java upgrades
+Example 5:
+Consider an organization with 10 Amazon Q Developer Pro subscriptions, and each user has been subscribed for the entire month. Each Amazon Q Developer Pro subscription offers access to Amazon Q Developer Agent for code transformation capabilities for Java upgrades and includes 4,000 LOC for upgrade per month.
+In January, one of the developers upgrades five Java applications, each with 2,500 LOC.
+Code submitted for upgrades = 2,500 x 5 = 12,500 LOC
+Upgrades included with the subscriptions = 10 x 4,000 = 40,000 LOC
+Since the usage does not exceed the allocation, the organization will not be charged for Amazon Q Developer transformation capabilities for Java upgrades.
+Example 6:
+Now consider an organization with 20 Amazon Q Developer Pro subscriptions, and each user has been subscribed for the entire month.
+This organization starts an upgrade campaign to upgrade 50 applications in a month.
+The total code size of all applications submitted for upgrades is 250K lines of code.
+Upgrades included with the subscriptions = 4,000 x 20 = 80,000 LOC
+Charges for upgrades exceeding the allocation = (250,000 - 80,000) x $0.003 = $510
+Page topics
+Amazon Q Developer Pricing FAQs 9
+Amazon Q Developer Pricing FAQs
+Open all
+Q: What is the difference between the paid tier and free tier of Amazon Q Developer?
+The free tier of Amazon Q Developer allows developers to explore its capabilities before opting for the paid tier, while the Amazon Q Developer Pro tier at $19 per user per month offers expanded features such as higher limits, enterprise tools, and enhanced security features. Refer to the table on this page ( https://aws.amazon.com/q/developer/pricing/
+) for a detailed comparison of what each tier includes.
+Q: How much is the Amazon Q Developer Pro monthly subscription fee?
+The Amazon Q Developer Pro monthly subscription is $19 a month per user and provides access to the AI-powered developer tools and capabilities of Amazon Q Developer. This includes features like code completions, security analysis, code transformations, task planning, and AI-assisted conversations with Q in the IDE, AWS console chat, and in AWS websites and apps. The subscription is activated when a user performs an action with Amazon Q Developer.
+Q: What does it mean by activating the Amazon Q Developer Pro subscription?
+Activating the Amazon Q Developer Pro subscription refers to the specific actions or events that trigger the start of the $19 monthly subscription fee for a user. Signing in to Amazon Q chat in the console or other AWS pages, signing in to to Amazon Q chat in an IDE, or downloading the toolkit, will not incur the subscription fee. The activation occurs when you perform activities with Amazon Q Developer such as:
+Security vulnerability and code quality scanning: Initiating scans to identify vulnerabilities or evaluate code quality.
+Amazon Q Developer agents for software development: Requesting the AI agents to generate a plan for solving a software development task.
+Amazon Q Developer agents for transformation: Requesting the AI agents to generate a plan for transforming code.
+Amazon Q chat in IDE, AWS Console, AWS websites, and AWS apps: Sending a question to Amazon Q chat through various interfaces or generating code completions within Amazon Q in IDE.
+Diagnose with Q: Requesting Amazon Q to diagnose an error in the AWS Management Console.
+Amazon Q for CodeCatalyst: Asking for pull request summaries or requesting the AI agents to generate a plan for solving a software development task within Amazon Q for CodeCatalyst.
+Public CLI completions: Asking for code completions or recommendations from Amazon Q within the public CLI interface.
+Performing any of these activities within Amazon Q Developer will trigger the activation of your Amazon Q Developer Pro subscription, which will then renew monthly until canceled.
+Q: Is the whole AWS IAM Identity Center group charged when one user activates their Amazon Q DeveloperPro subscription?
+No, the $19 monthly subscription fee for Amazon Q Developer Pro is charged on a per-user basis. If one member of a AWS IAM Identity Center group activates the subscription, only that individual user will be billed the $19 monthly fee until canceled. Other members of the AWS IAM Identity Center group will not be charged for the subscription unless they also perform one of the subscription-activating actions themselves.
+Q: How is the Amazon Q Developer Pro $19 monthly subscription billed?
+The Amazon Q Developer Pro $19 monthly subscription fee is charged per user, per month. The subscription fee is pro-rated for the first month the user is subscribed based on the number of days remaining when thesubscription is activated. The subscription will then be billed the $19 fee per month until canceled (after the first month, pro-rated if applicable)
+On the AWS estimated bill, each user's daily subscription usage for Amazon Q Developer Pro is measured as a fraction of the month summed across all users. Since the monthly fee is $19 per user, and there are approximately 30 days in a month, one user would appear as 0.0333 of a user on a given day (1/30 of a month). Their daily bill would be $19 * 0.0333 = $0.63 (totaling $19 per month).
+For an example with 10 users on a daily bill:
+Daily Users: 10
+Daily User Fraction: 10 * 0.0333 = 0.333
+Daily Cost: 0.333 * $19 per user-month = $6.33
+So for 10 users, the estimated daily bill would show:
+Daily Users: 0.333
+Daily Cost: $6.33
+To calculate the monthly cost:
+Monthly Users: 0.333 * 30 days = 10 (essentially 10 users for the full month)
+Monthly Cost: $6.333 * 30 days = $190 (or 10 users x $19 fee per month)
+Q: What happens if I cancel my Amazon Q Developer Pro subscription mid-month?
+If you choose to cancel a user's Amazon Q Developer Pro subscription before the end of the month, you will be charged the full month's subscription fee. Users will lose access to the Q Developer Pro features upon cancellation. This is to protect against unauthorized access to your resources after cancellation. We recommend reviewing your users' access requirements and associated subscription needs carefully before initiating any changes to your Q Developer Pro subscription. It's best to wait unt
+Q: How do I unsubscribe from the Amazon Q Developer subscription?
+Unsubscribing from the Amazon Q Developer subscription can be done through the Amazon Q console. The process varies based on your permissions and whether you are a member account administrator or organization account administrator. To unsubscribe, navigate to the Subscriptions page in the Amazon Q Developer console, select the user(s) you want to unsubscribe, and choose the "Unsubscribe" action. Confirm in the pop-up window. For more detailed steps and information on managing AWS accounts and un
+Remember, unsubscribing a user will cancel their access to the Amazon Q Developer features and capabilities immediately upon cancellation. If you choose to cancel a user's Amazon Q Developer Pro subscription before the end of the month, you will be charged the full month's subscription fee.
+Q: How do overage charges for Amazon Q Developer agents work with my subscription?
+Amazon Q Developer transformation agents analyze your codebase and provide recommendations to upgrade to newer language versions, frameworks, or patterns. Usage is calculated based on the number of lines of code (LOC) you submit to Amazon Q. Only submissions where you receive suggested upgrade code are counted. Submissions that fail or are stopped before completion, as well as non-code lines like comments and empty lines, are not included in usage.
+Amazon Q Developer Pro subscriptions are allocated 4,000 LOC per month per user for Amazon Q Developer agents for transformation. These allocations are aggregated at the AWS payer-account level every month. Usage exceeding the Q Developer Pro Tier allocation is charged at $0.003 per LOC submitted for transformation.
+Your bill will show the total LOC usage for transformation and any applicable discounts based on your Q Developer Pro Tier subscriptions. Each Pro Tier subscription provides a 4,000 LOC monthly allocation, pooled at the payer-account level. The calculation and discount are clearly shown on your bill. The billing system meters the LOC usage for transformation, while the discount is calculated based on the number of Q Developer Pro subscriptions you have. Your bill will show the metered usage, the
+For example, if you have 10 Amazon Q Developer Pro subscriptions, you get 40,000 LOC (10 x 4,000) included per month. If your total usage is 50,000 LOC, you'll be charged for 10,000 LOC at $0.003/LOC, which is $30. Your bill will clearly show the 50,000 LOC usage, the Bundled discount of $120 based on your 10 subscriptions (10 users * 4K lines of code * $.003 =$120), and the $30 overage charge.
+Q: How can I manage my usage to avoid overage charges for Amazon Q Developer agents for transformation?
+Currently, the Amazon Q Developer agent for transformation reverts to pay-as-you-go pricing after hitting your 4K pooled lines of code. To proactively manage your usage and avoid unexpected charges, you can take several steps. First, regularly monitor your usage in the Cost and Usage Report in the AWS console. This will allow you to track your lines of code consumption and stay within your 4K pooled lines limit. Additionally, you can set usage alerts through AWS Budgets to receive notifications 
+To further optimize your usage, review your transformation workflows and identify ways to reduce the number of lines of code processed, such as by refining your input data or transformation logic. This can help you stay within the included 4K pooled lines and avoid pay-as-you-go charges.
+By closely monitoring your usage, setting alerts, optimizing your processes, you can effectively manage your Amazon Q Developer agents for transformation usage and prevent overage charges.
+Get started with Amazon Q Developer
+Getting started
+Check out ways to start using Amazon Q Developer
+Learn more
+Blog
+Understanding the personas of Amazon Q
+Learn more

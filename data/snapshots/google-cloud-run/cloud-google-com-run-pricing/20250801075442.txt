@@ -1,0 +1,510 @@
+Cloud Run pricing
+Cloud Run charges you only for the resources you use, rounded up to the nearest 100 millisecond. Your total Cloud Run bill will be the sum of the resource usage in the pricing table after the free tier is applied.
+When setting concurrency
+higher than one request at a time, multiple requests can share the allocated CPU and memory of an instance.
+Outbound internet data transfer uses the Premium Network Service Tier
+and is charged at Google Cloud networking pricing
+with a free tier of 1GiB free data transfer within North America per month.
+Data transfer to Virtual Private Cloud networks is billed as Data transfer from a VM and charged at Virtual Private Cloud data transfer rates
+. Serverless VPC Access connectors also charge for the compute required to run them. See Serverless VPC Access pricing
+.
+There is no charge for data transfer to Google Cloud resources in the same region (for example for traffic from one Cloud Run service to another Cloud Run service). There is no charge for data transfer to Media CDN
+, Cloud CDN
+and Cloud Load Balancing
+.
+Pricing considerations
+When evaluating the pricing of Cloud Run, consider the following:
+On-demand and pay per use: Cloud Run provides on-demand capacity and automatically scales instances. Cloud Run does not require pre-provisioning infrastructure to accommodate for anticipated peak usage. Container instances billed by Cloud Run are used container instances.
+Total cost of ownership: While Cloud Run charges for compute costs, Cloud Run provides more value. For example, Cloud Run offers zonal redundancy
+, requires low operations because Site Reliability Engineers
+do a lot in the background, makes you and your team more productive via its simplicity.
+Committed use discounts: The cost of any continuous use of Cloud Run can be lowered by purchasing Committed use discounts
+. For example, if your Cloud Run service always has one or more active instances, you can lower its cost by committing to at least this amount. Compute flexible committed use discounts apply across GKE, Compute Engine and Cloud Run.
+Read more about cost optimization
+.
+Pricing calculator
+You can use the Google Cloud pricing calculator
+to estimate the cost of using Cloud Run.
+Pricing tables
+The following pricing tables use the GiB-second unit. A GiB-second means for example running a 1 gibibyte instance for 1 second, or running a 256 mebibyte instance for 4 seconds. The same principle applies for the vCPU-second unit. CUD refers to committed use discounts
+.
+The free tier usage is aggregated across projects
+by billing account
+and resets every month; you are billed only for usage past the free tier. The free tier is applied as a spending based discount using Tier 1 pricing.
+Cloud Run pricing depends on the selected region
+. Pricing for Cloud Run services also depends on the billing
+configuration.
+If you pay in a currency other than USD, the prices listed in your currency on Cloud Platform SKUs
+apply.
+Services (Instance-based billing)
+Services with instance-based billing
+Free tier (based on us-central1 pricing):
+CPU - First 240,000 vCPU-seconds free per month
+RAM - First 450,000 GiB-seconds free per month
+Iowa (us-central1)
+Johannesburg (africa-south1)
+Taiwan (asia-east1)
+Hong Kong (asia-east2)
+Tokyo (asia-northeast1)
+Osaka (asia-northeast2)
+Seoul (asia-northeast3)
+Mumbai (asia-south1)
+Delhi (asia-south2)
+Singapore (asia-southeast1)
+Jakarta (asia-southeast2)
+Bangkok (asia-southeast3)
+Sydney (australia-southeast1)
+Melbourne (australia-southeast2)
+Warsaw (europe-central2)
+Finland (europe-north1)
+Stockholm (europe-north2)
+Madrid (europe-southwest1)
+Belgium (europe-west1)
+Berlin (europe-west10)
+Turin (europe-west12)
+London (europe-west2)
+Frankfurt (europe-west3)
+Netherlands (europe-west4)
+Zurich (europe-west6)
+Milan (europe-west8)
+Paris (europe-west9)
+Doha (me-central1)
+Dammam (me-central2)
+Tel Aviv (me-west1)
+Montreal (northamerica-northeast1)
+Toronto (northamerica-northeast2)
+Mexico (northamerica-south1)
+Sao Paulo (southamerica-east1)
+Santiago (southamerica-west1)
+Iowa (us-central1)
+South Carolina (us-east1)
+Northern Virginia (us-east4)
+Columbus (us-east5)
+Alabama (us-east7)
+Dallas (us-south1)
+Oregon (us-west1)
+Los Angeles (us-west2)
+Salt Lake City (us-west3)
+Las Vegas (us-west4)
+Phoenix (us-west8)
+Show discount options
+Resource
+Default * (USD) info
+Consumption model ID:
+7754-699E-0EBF
+Cloud Run CUD - 1 Year * (USD) info
+Consumption model ID:
+73A1-AD60-B867
+Cloud Run CUD - 3 Year * (USD) info
+Consumption model ID:
+A4B6-DEDF-1A65
+Compute Flexible CUD - 1 Year * (USD) info
+Consumption model ID:
+D97B-0795-975B
+Compute Flexible CUD - 3 Year * (USD) info
+Consumption model ID:
+70D7-D1AB-12A4
+CPU (per vCPU-second)
+$0.000018
+$0.00001494
+$0.00001296
+$0.00000972
+Memory (per GiB-second)
+$0.000002
+$0.00000166
+$0.00000144
+$0.00000108
+GPU Type NVIDIA-L4 No zonal redundancy (per Second)
+$0.0001867
+-
+GPU Type NVIDIA-L4 Zonal redundancy (per Second)
+$0.0002909
+-
+* Each consumption model has a unique ID. You may need to opt-in to be eligible for consumption model discounts. Click here
+to learn more.
+Cloud Run CUDs apply only to Cloud Run resources. For more flexibility, please use Compute Flexible CUDs.
+Flexible CUD refers to Compute Flexible Committed Use Discounts
+.
+Services (Requests-based billing)
+Services with request-based
+billing during billed instance
+time
+Free tier (based on us-central1 active pricing):
+CPU - First 180,000 vCPU-seconds free per month
+RAM - First 360,000 GiB-seconds free per month
+Requests - 2 million requests free per month
+Iowa (us-central1)
+Johannesburg (africa-south1)
+Taiwan (asia-east1)
+Hong Kong (asia-east2)
+Tokyo (asia-northeast1)
+Osaka (asia-northeast2)
+Seoul (asia-northeast3)
+Mumbai (asia-south1)
+Delhi (asia-south2)
+Singapore (asia-southeast1)
+Jakarta (asia-southeast2)
+Sydney (australia-southeast1)
+Melbourne (australia-southeast2)
+Warsaw (europe-central2)
+Finland (europe-north1)
+Stockholm (europe-north2)
+Madrid (europe-southwest1)
+Belgium (europe-west1)
+Berlin (europe-west10)
+Turin (europe-west12)
+London (europe-west2)
+Frankfurt (europe-west3)
+Netherlands (europe-west4)
+Zurich (europe-west6)
+Milan (europe-west8)
+Paris (europe-west9)
+Doha (me-central1)
+Dammam (me-central2)
+Tel Aviv (me-west1)
+Montreal (northamerica-northeast1)
+Toronto (northamerica-northeast2)
+Mexico (northamerica-south1)
+Sao Paulo (southamerica-east1)
+Santiago (southamerica-west1)
+Iowa (us-central1)
+South Carolina (us-east1)
+Northern Virginia (us-east4)
+Columbus (us-east5)
+Dallas (us-south1)
+Oregon (us-west1)
+Los Angeles (us-west2)
+Salt Lake City (us-west3)
+Las Vegas (us-west4)
+Phoenix (us-west8)
+Show discount options
+Resource
+Type
+Default * (USD) info
+Consumption model ID:
+7754-699E-0EBF
+Cloud Run CUD - 1 Year * (USD) info
+Consumption model ID:
+73A1-AD60-B867
+Cloud Run CUD - 3 Year * (USD) info
+Consumption model ID:
+A4B6-DEDF-1A65
+Compute Flexible CUD - 1 Year * (USD) info
+Consumption model ID:
+D97B-0795-975B
+Compute Flexible CUD - 3 Year * (USD) info
+Consumption model ID:
+70D7-D1AB-12A4
+CPU (per vCPU-second)
+Active time
+$0.000024
+$0.00001992
+Idle time (Min instance 1)
+$0.0000025
+$0.000002075
+Memory (per GiB-second)
+Active time
+$0.0000025
+$0.000002075
+Idle time (Min instance 1)
+$0.0000025
+$0.000002075
+Requests (per 1,000,000)
+N/A
+$0.40
+$0.332
+* Each consumption model has a unique ID. You may need to opt-in to be eligible for consumption model discounts. Click here
+to learn more.
+1 idle min instance refers to idle billable time
+for instances kept warm using minimum instances
+. Idle instances that are not minimum instances are not charged.
+Requests are only billed when they reach the container after successfully being authenticated
+, requests denied by IAM policy are not billed.
+Cloud Run CUDs apply only to Cloud Run resources. For more flexibility, please use Compute Flexible CUDs.
+CUD refers to committed use discounts
+.
+Jobs
+Free tier (based on us-central1 pricing):
+CPU - First 240,000 vCPU-seconds free per month
+RAM - First 450,000 GiB-seconds free per month
+Iowa (us-central1)
+Johannesburg (africa-south1)
+Taiwan (asia-east1)
+Hong Kong (asia-east2)
+Tokyo (asia-northeast1)
+Osaka (asia-northeast2)
+Seoul (asia-northeast3)
+Mumbai (asia-south1)
+Delhi (asia-south2)
+Singapore (asia-southeast1)
+Jakarta (asia-southeast2)
+Bangkok (asia-southeast3)
+Sydney (australia-southeast1)
+Melbourne (australia-southeast2)
+Warsaw (europe-central2)
+Finland (europe-north1)
+Stockholm (europe-north2)
+Madrid (europe-southwest1)
+Belgium (europe-west1)
+Berlin (europe-west10)
+Turin (europe-west12)
+London (europe-west2)
+Frankfurt (europe-west3)
+Netherlands (europe-west4)
+Zurich (europe-west6)
+Milan (europe-west8)
+Paris (europe-west9)
+Doha (me-central1)
+Dammam (me-central2)
+Tel Aviv (me-west1)
+Montreal (northamerica-northeast1)
+Toronto (northamerica-northeast2)
+Mexico (northamerica-south1)
+Sao Paulo (southamerica-east1)
+Santiago (southamerica-west1)
+Iowa (us-central1)
+South Carolina (us-east1)
+Northern Virginia (us-east4)
+Columbus (us-east5)
+Alabama (us-east7)
+Dallas (us-south1)
+Oregon (us-west1)
+Los Angeles (us-west2)
+Salt Lake City (us-west3)
+Las Vegas (us-west4)
+Phoenix (us-west8)
+Show discount options
+Resource
+Default * (USD) info
+Consumption model ID:
+7754-699E-0EBF
+Cloud Run CUD - 1 Year * (USD) info
+Consumption model ID:
+73A1-AD60-B867
+Cloud Run CUD - 3 Year * (USD) info
+Consumption model ID:
+A4B6-DEDF-1A65
+Compute Flexible CUD - 1 Year * (USD) info
+Consumption model ID:
+D97B-0795-975B
+Compute Flexible CUD - 3 Year * (USD) info
+Consumption model ID:
+70D7-D1AB-12A4
+CPU (per vCPU-second)
+$0.000018
+$0.00001494
+$0.00001296
+$0.00000972
+Memory (per GiB-second)
+$0.000002
+$0.00000166
+$0.00000144
+$0.00000108
+GPU Type NVIDIA-L4 No zonal redundancy (per Second)
+$0.0001867
+-
+GPU Type NVIDIA-L4 Zonal redundancy (Per Second)
+$0.0002909
+-
+* Each consumption model has a unique ID. You may need to opt-in to be eligible for consumption model discounts. Click here
+to learn more.
+Cloud Run CUDs apply only to Cloud Run resources. For more flexibility, please use Compute Flexible CUDs.
+Flexible CUD refers to Compute Flexible Committed Use Discounts
+.
+Worker pools
+Free tier (based on us-central1 pricing):
+CPU - First 384,204 vCPU-seconds free per month
+RAM - First 728,744 GiB-seconds free per month
+Iowa (us-central1)
+Johannesburg (africa-south1)
+Taiwan (asia-east1)
+Hong Kong (asia-east2)
+Tokyo (asia-northeast1)
+Osaka (asia-northeast2)
+Seoul (asia-northeast3)
+Mumbai (asia-south1)
+Delhi (asia-south2)
+Singapore (asia-southeast1)
+Jakarta (asia-southeast2)
+Bangkok (asia-southeast3)
+Sydney (australia-southeast1)
+Melbourne (australia-southeast2)
+Warsaw (europe-central2)
+Finland (europe-north1)
+Stockholm (europe-north2)
+Madrid (europe-southwest1)
+Belgium (europe-west1)
+Berlin (europe-west10)
+Turin (europe-west12)
+London (europe-west2)
+Frankfurt (europe-west3)
+Netherlands (europe-west4)
+Zurich (europe-west6)
+Milan (europe-west8)
+Paris (europe-west9)
+Doha (me-central1)
+Dammam (me-central2)
+Tel Aviv (me-west1)
+Montreal (northamerica-northeast1)
+Toronto (northamerica-northeast2)
+Mexico (northamerica-south1)
+Sao Paulo (southamerica-east1)
+Santiago (southamerica-west1)
+Iowa (us-central1)
+South Carolina (us-east1)
+Northern Virginia (us-east4)
+Columbus (us-east5)
+Dallas (us-south1)
+Oregon (us-west1)
+Los Angeles (us-west2)
+Salt Lake City (us-west3)
+Las Vegas (us-west4)
+Phoenix (us-west8)
+Show discount options
+Resource
+Default * (USD) info
+Consumption model ID:
+7754-699E-0EBF
+Compute Flexible CUD - 1 Year * (USD) info
+Consumption model ID:
+D97B-0795-975B
+Compute Flexible CUD - 3 Year * (USD) info
+Consumption model ID:
+70D7-D1AB-12A4
+CPU (per vCPU-second)
+$0.000011244
+$0.000008096
+$0.000006072
+Memory (per GiB-second)
+$0.000001235
+$0.000000889
+$0.000000667
+* Each consumption model has a unique ID. You may need to opt-in to be eligible for consumption model discounts. Click here
+to learn more.
+If you pay in a currency other than USD, the prices listed in your currency on Cloud Platform SKUs
+apply.
+Flexible CUD refers to Compute Flexible Committed Use Discounts
+.
+Regional price tiers
+Subject to Tier 1 pricing
+asia-east1 (Taiwan)
+asia-northeast1 (Tokyo)
+asia-northeast2 (Osaka)
+asia-south1 (Mumbai, India)
+europe-north1 (Finland) Low CO 2
+europe-north2 (Stockholm) Low CO 2
+europe-southwest1 (Madrid) Low CO 2
+europe-west1 (Belgium) Low CO 2
+europe-west4 (Netherlands) Low CO 2
+europe-west8 (Milan)
+europe-west9 (Paris) Low CO 2
+me-west1 (Tel Aviv)
+northamerica-south1 (Mexico)
+us-central1 (Iowa) Low CO 2
+us-east1 (South Carolina)
+us-east4 (Northern Virginia)
+us-east5 (Columbus)
+us-south1 (Dallas) Low CO 2
+us-west1 (Oregon) Low CO 2
+us-west8 (Phoenix)
+Subject to Tier 2 pricing
+africa-south1 (Johannesburg)
+asia-east2 (Hong Kong)
+asia-northeast3 (Seoul, South Korea)
+asia-southeast1 (Singapore)
+asia-southeast2 (Jakarta)
+asia-south2 (Delhi, India)
+australia-southeast1 (Sydney)
+australia-southeast2 (Melbourne)
+europe-central2 (Warsaw, Poland)
+europe-west10 (Berlin) Low CO 2
+europe-west12 (Turin)
+europe-west2 (London, UK) Low CO 2
+europe-west3 (Frankfurt, Germany) Low CO 2
+europe-west6 (Zurich, Switzerland) Low CO 2
+me-central1 (Doha)
+me-central2 (Dammam)
+northamerica-northeast1 (Montreal) Low CO 2
+northamerica-northeast2 (Toronto) Low CO 2
+southamerica-east1 (Sao Paulo, Brazil) Low CO 2
+southamerica-west1 (Santiago, Chile) Low CO 2
+us-west2 (Los Angeles)
+us-west3 (Salt Lake City)
+us-west4 (Las Vegas)
+Billable instance time
+The billable time aggregated from all Cloud Run instances is exposed as a Cloud Monitoring metric. See container/billable_instance_time metric
+for more details.
+Billable instance time is rounded up to the nearest 100 milliseconds and depends on the billing
+configuration of your Cloud Run service:
+Billable instance time for services with Request-based billing
+By default, Cloud Run only charges for the CPU and memory allocated to an instance when:
+The instance is starting
+.
+The instance is gracefully shutting down
+(handling the SIGTERM signal).
+At least one request is being processed by the instance. Billable instance time begins with the start of the first request and ends at the end of the last request, as shown in the following diagram:
+If you set a minimum number of instances
+, you are also billed at a different "idle" rate when these instances are not processing requests. See the table above
+.
+Billable instance time for services with Instance-based billing
+When you opt-into having Instance-based billing
+, you are billed for the entire lifetime any Cloud Run container instances: from the time the container is started to when it is terminated, with a minimum of 1 minute.
+Billable instance time for Cloud Run jobs
+Cloud Run jobs are billed at the Instance-based billing
+rate, for the entire lifetime of any instance started, with a minimum of 1 minute.
+Pricing Examples
+Example 1: Public API/Website – External Application Data Access
+Let's assume that you deployed a Cloud Run service with request-based billing in europe-west1 (Belgium) to serve websites, web apps, APIs, or mobile backends. Your service receives 10 million requests per month with an average per-request latency of 400 milliseconds. This service is configured with 1 vCPU, 512 MiB of memory and 20 maximum concurrent requests per instance. The traffic pattern follows a 24-hour cycle, with request volume fluctuating over 12 hours in a bell curve distribution.
+Your estimated monthly cost for this workload is $13.69. Without the vCPU/Memory free tier, the cost would be $18.91.
+To understand these calculations in detail and to adjust settings and usage estimates, use the Pricing Calculator
+.
+Example 2: Single Concurrency - CPU-intensive/non-thread-safe app, one request per instance
+Let's assume that you deployed a Cloud Run service in europe-west1 (Belgium) using request-based billing for a CPU-intensive, non-thread-safe application that processes one request at a time. Your service receives 10 million requests per month with an average per-request latency of 400 milliseconds. This service is configured with 1 vCPU and 512 MiB of memory.
+Your estimated monthly cost for this workload is $81.72. Without the vCPU/Memory free tier, the cost would be $86.49.
+To understand these calculations in detail and to adjust settings and usage estimates, use the Pricing Calculator
+.
+Example 3: AI Inference Endpoint - Local model serving with Ollama
+Let's assume that you deployed a Cloud Run service in europe-west1 (Belgium) to serve real-time, GPU-accelerated LLM or image generation. This service is configured with 4 vCPU, 16 GiB of memory and NVIDIA-L4 (No zonal redundancy). This service reaches a daily peak of 2 instances and the traffic pattern follows a 24-hour cycle, with request volume fluctuating over 12 hours in a bell curve distribution.
+Your estimated monthly cost for this workload is $822.40. Without the vCPU/Memory free tier, the cost would be $827.62.
+To understand these calculations in detail and to adjust settings and usage estimates, use the Pricing Calculator
+.
+Example 4: Serverless Function - Lightweight FaaS for image resizing on upload
+Let's assume that you deployed a Cloud Run service with request-based billing in europe-west1 (Belgium) to serve event-triggered code execution (e.g., file upload, HTTP request). Your service receives 10 million requests per month with an average per-request latency of 200 milliseconds. This service is configured with 0.167 vCPU, 256 MiB of memory and 1 maximum concurrent requests per instance.
+Your estimated monthly cost for this workload is $7.25. Without the vCPU/Memory free tier, the cost would be $12.47.
+To understand these calculations in detail and to adjust settings and usage estimates, use the Pricing Calculator
+.
+Example 5: Batch Job Processing - Large-scale, scheduled data transformations
+Let's assume that you deployed a Cloud Run job in europe-west1 (Belgium) to process large-scale, scheduled data transformations (e.g., reports). Your job is launched once per hour (730 per month) with each execution lasting 1 minute. This job is configured with 1 vCPU, 512 MiB of memory and 1 task per execution.
+Your estimated monthly cost for this workload is $0.00. Without the vCPU/Memory free tier, the cost would be $0.45.
+To understand these calculations in detail and to adjust settings and usage estimates, use the Pricing Calculator
+.
+Example 6: Background Worker - Asynchronous offloading of intensive operations
+Let's assume that you deployed a Cloud Run worker pool in europe-west1 (Belgium) to offload long-running or heavy tasks (e.g., bulk emails, video processing) to keep the main application responsive. Your worker pool is configured to run a single instance for an entire month. This worker pool is configured with 1 vCPU and 512 MiB of memory.
+Your estimated monthly cost for this workload is $11.61. Without the vCPU/Memory free tier, the cost would be $16.83.
+To understand these calculations in detail and to adjust settings and usage estimates, use the Pricing Calculator
+.
+Source deployments and functions
+Cloud Run deployments from source
+and functions
+operate as Cloud Run services and are billed accordingly based on the conditions above.
+When deploying from source or creating a function, Cloud Run uses Cloud Build to convert your source code or function into an executable image. The images are created in Cloud Build and stored in Artifact Registry. Artifact Registry has its own free tier of storage
+. If you deploy your source code or function to Artifact Registry and exceed the Artifact Registry free tier usage, you will incur charges for deploying your functions, even when your use of Cloud Run falls within the free tier.
+Pricing for Cloud Build and Artifact Registry is not included in Cloud Run pricing. To review pricing for these services, see the Cloud Build Pricing
+and Artifact Registry Pricing
+pages.
+Cloud Run uses Eventarc for event delivery. Pricing for Eventarc is not included in the Cloud Run pricing above. Review pricing on the Eventarc Pricing
+page.
+Pricing for Cloud Run functions (1st gen) functions is not included in Cloud Run pricing. Review the pricing in Cloud Run functions (1st gen) pricing
+.
+What's next
+Read the Cloud Run documentation
+.
+Get started with Cloud Run
+.
+Try the Pricing calculator
+.
+Learn about Cloud Run solutions and use cases
+.
+Request a custom quote
+With Google Cloud's pay-as-you-go pricing, you only pay for the services you use. Connect with our sales team to get a custom quote for your organization.
+Contact sales

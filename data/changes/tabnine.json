@@ -1,0 +1,415 @@
+[
+  {
+    "id": "tabnine-com-pricing-20230802193957",
+    "url": "https://www.tabnine.com/pricing",
+    "ts": "20230802193957",
+    "date": "2023-08-02",
+    "source": "wayback",
+    "prevTs": "20230121080930",
+    "kind": "limits",
+    "score": 14,
+    "counts": {
+      "price": 0,
+      "limit": 5,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Tabnine: 5 limits, 2 plan names changed (3M → 3.5M)",
+    "pairs": [
+      {
+        "before": "Over 3M installations in VS Code",
+        "after": "Over 3.5M installations in VS Code",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3M",
+            "after": "3.5M"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "up to 100 Users",
+      "1M monthly active developers",
+      "marketplace with a staggering 4.3M rating.",
+      "4 hours on critical issues.",
+      "Free",
+      "Free",
+      "4 hours on critical issues.",
+      "4 hours on critical issues.",
+      "4 hours on critical issues."
+    ],
+    "removed": [
+      "14-day free trial",
+      "Start with 1 User"
+    ],
+    "totals": {
+      "removed": 126,
+      "added": 157,
+      "materialRemoved": 3,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "tabnine-com-pricing-20231006162117",
+    "url": "https://www.tabnine.com/pricing",
+    "ts": "20231006162117",
+    "date": "2023-10-06",
+    "source": "wayback",
+    "prevTs": "20230802193957",
+    "kind": "limits",
+    "score": 13,
+    "counts": {
+      "price": 0,
+      "limit": 5,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Tabnine: 5 limits, 2 plan names changed (3.5M → 6.1M; 4.3M → 4.2M)",
+    "pairs": [
+      {
+        "before": "Over 3.5M installations in VS Code",
+        "after": "Over 6.1M installations in VS Code",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3.5M",
+            "after": "6.1M"
+          }
+        ]
+      },
+      {
+        "before": "marketplace with a staggering 4.3M rating.",
+        "after": "marketplace with a staggering 4.2M rating.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4.3M",
+            "after": "4.2M"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Short code completions (2 to 3 words)",
+      "Short code completions (2 to 3 words) for simple projects.",
+      "Short code completions (2 to 3 words) for simple projects.",
+      "Short code completions (2 to 3 words) for simple projects.",
+      "Short code completions (2 to 3 words) for simple projects."
+    ],
+    "removed": [
+      "Free",
+      "Free"
+    ],
+    "totals": {
+      "removed": 80,
+      "added": 127,
+      "materialRemoved": 7,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "tabnine-com-pricing-20231204122700",
+    "url": "https://www.tabnine.com/pricing",
+    "ts": "20231204122700",
+    "date": "2023-12-04",
+    "source": "wayback",
+    "prevTs": "20231006162117",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Tabnine: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "tabnine-com-pricing-20240223233022",
+    "url": "https://www.tabnine.com/pricing",
+    "ts": "20240223233022",
+    "date": "2024-02-23",
+    "source": "wayback",
+    "prevTs": "20231204122700",
+    "kind": "limits",
+    "score": 18,
+    "counts": {
+      "price": 0,
+      "limit": 8,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Tabnine: 8 limits, 1 plan name changed (removed “1 user”; added “Free for 90 days”)",
+    "pairs": [],
+    "added": [
+      "Free for 90 days",
+      "Free for everyone",
+      "Free for 90 days"
+    ],
+    "removed": [
+      "1 user",
+      "Short code completions (2 to 3 words)",
+      "Up to 100 users",
+      "Start a free trial",
+      "Unlimited users",
+      "1M+ monthly active developers",
+      "Over 6.1M installations in VS Code",
+      "marketplace with a staggering 4.2M rating.",
+      "Short code completions (2 to 3 words) for simple projects.",
+      "4 hours on critical issues.",
+      "Short code completions (2 to 3 words) for simple projects.",
+      "4 hours on critical issues.",
+      "Start a free trial",
+      "Short code completions (2 to 3 words) for simple projects.",
+      "4 hours on critical issues.",
+      "Short code completions (2 to 3 words) for simple projects.",
+      "4 hours on critical issues."
+    ],
+    "totals": {
+      "removed": 270,
+      "added": 270,
+      "materialRemoved": 17,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "tabnine-com-pricing-20241101031022",
+    "url": "https://www.tabnine.com/pricing",
+    "ts": "20241101031022",
+    "date": "2024-11-01",
+    "source": "wayback",
+    "prevTs": "20240223233022",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Tabnine: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Our full-featured AI code assistant, completely free to use",
+      "Get started for free"
+    ],
+    "removed": [
+      "Free for 90 days"
+    ],
+    "totals": {
+      "removed": 261,
+      "added": 101,
+      "materialRemoved": 3,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "tabnine-com-pricing-20250104073816",
+    "url": "https://www.tabnine.com/pricing",
+    "ts": "20250104073816",
+    "date": "2025-01-04",
+    "source": "wayback",
+    "prevTs": "20241101031022",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Tabnine: 1 limit changed (90 → 30)",
+    "pairs": [
+      {
+        "before": "{ Free for 90 days }",
+        "after": "{ Free for 30 days }",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "90",
+            "after": "30"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "and are logged in. Registering for Tabnine involves creating an account and providing your email address. No credit card is required to register for Tabnine or to use the Basic plan."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 47,
+      "added": 57,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "tabnine-com-pricing-20250625134041",
+    "url": "https://www.tabnine.com/pricing",
+    "ts": "20250625134041",
+    "date": "2025-06-25",
+    "source": "wayback",
+    "prevTs": "20250104073816",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Tabnine: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Advanced Context Engine (Unlimited codebase connections for Bitbucket, GitHub, and Gitlab)",
+      "Experience the capabilities of Tabnine Dev with a 14 day free preview experience",
+      "{ Free for qualified users }"
+    ],
+    "removed": [
+      "Our full-featured AI code assistant, completely free to use",
+      "{ Free for everyone }"
+    ],
+    "totals": {
+      "removed": 15,
+      "added": 22,
+      "materialRemoved": 2,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "tabnine-com-pricing-20250823163820",
+    "url": "https://www.tabnine.com/pricing",
+    "ts": "20250823163820",
+    "date": "2025-08-23",
+    "source": "wayback",
+    "prevTs": "20250625134041",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Tabnine: 1 limit changed (30 → 14)",
+    "pairs": [
+      {
+        "before": "{ Free for 30 days }",
+        "after": "{ Free for 14 days }",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "30",
+            "after": "14"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 22,
+      "added": 14,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "tabnine-com-pricing-20250927094056",
+    "url": "https://www.tabnine.com/pricing",
+    "ts": "20250927094056",
+    "date": "2025-09-27",
+    "source": "wayback",
+    "prevTs": "20250823163820",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Tabnine: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 16,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "tabnine-com-pricing-20251109222902",
+    "url": "https://www.tabnine.com/pricing",
+    "ts": "20251109222902",
+    "date": "2025-11-09",
+    "source": "wayback",
+    "prevTs": "20250927094056",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Tabnine: 1 limit changed (removed “{ Free for 14 days }”; added “* Unlimited usage when using your own LLM on-…”)",
+    "pairs": [],
+    "added": [
+      "* Unlimited usage when using your own LLM on-prem or your LLM end point on cloud. Add payment for reserved token consumption quota when using Tabnine provided LLM access, based on actual LLM provider prices + 5% handling fee"
+    ],
+    "removed": [
+      "{ Free for 14 days }",
+      "Experience the capabilities of Tabnine Dev with a 14 day free preview experience",
+      "{ Free for qualified users }",
+      "and are logged in. Registering for Tabnine involves creating an account and providing your email address. No credit card is required to register for Tabnine or to use the Basic plan.",
+      "Get started for free"
+    ],
+    "totals": {
+      "removed": 131,
+      "added": 54,
+      "materialRemoved": 6,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "tabnine-com-pricing-20260804130638",
+    "url": "https://www.tabnine.com/pricing",
+    "ts": "20260804130638",
+    "date": "2026-08-04",
+    "source": "wayback",
+    "prevTs": "20251109222902",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Tabnine: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "* Unlimited usage when using your own LLM on-prem or your LLM end point on cloud. Add payment for reserved token consumption quota when using Tabnine provided LLM access, based on actual LLM provider prices + 5% handling fee"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 12,
+      "added": 57,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  }
+]

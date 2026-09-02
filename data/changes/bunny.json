@@ -1,0 +1,436 @@
+[
+  {
+    "id": "bunny-net-pricing-20230304191200",
+    "url": "https://bunny.net/pricing/",
+    "ts": "20230304191200",
+    "date": "2023-03-04",
+    "source": "wayback",
+    "prevTs": "20230124194151",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Bunny.net: 1 limit changed (removed “27 ms”; added “26 ms”)",
+    "pairs": [],
+    "added": [
+      "26 ms"
+    ],
+    "removed": [
+      "27 ms"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 5,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "bunny-net-pricing-20230718081433",
+    "url": "https://bunny.net/pricing/",
+    "ts": "20230718081433",
+    "date": "2023-07-18",
+    "source": "wayback",
+    "prevTs": "20230304191200",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Bunny.net: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "bunny-net-pricing-20230911103813",
+    "url": "https://bunny.net/pricing/",
+    "ts": "20230911103813",
+    "date": "2023-09-11",
+    "source": "wayback",
+    "prevTs": "20230718081433",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Bunny.net: 1 limit changed (removed “26 ms”; added “24 ms”)",
+    "pairs": [],
+    "added": [
+      "24 ms"
+    ],
+    "removed": [
+      "26 ms"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 4,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "bunny-net-pricing-20231106065540",
+    "url": "https://bunny.net/pricing/",
+    "ts": "20231106065540",
+    "date": "2023-11-06",
+    "source": "wayback",
+    "prevTs": "20230911103813",
+    "kind": "price",
+    "score": 5,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Bunny.net: 1 price, 1 plan name changed (added “$0.1/minute*”)",
+    "pairs": [],
+    "added": [
+      "$0.1/minute*"
+    ],
+    "removed": [
+      "FREE"
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 10,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "bunny-net-pricing-20240904223127",
+    "url": "https://bunny.net/pricing/",
+    "ts": "20240904223127",
+    "date": "2024-09-04",
+    "source": "wayback",
+    "prevTs": "20231106065540",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Bunny.net: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Add unlimited websites for as"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 6,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "bunny-net-pricing-20241105125531",
+    "url": "https://bunny.net/pricing/",
+    "ts": "20241105125531",
+    "date": "2024-11-05",
+    "source": "wayback",
+    "prevTs": "20240904223127",
+    "kind": "price",
+    "score": 91,
+    "counts": {
+      "price": 22,
+      "limit": 4,
+      "plan": 9
+    },
+    "material": true,
+    "headline": "Bunny.net: 22 prices, 4 limits, 9 plan names changed ($0.004 added)",
+    "pairs": [
+      {
+        "before": "From 500TB-1PB",
+        "after": "From 500TB-1PB $0.004 /GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "$0.004"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "First 500TB $0.005 /GB",
+      "From 1PB-2PB $0.002 /GB"
+    ],
+    "removed": [
+      "Serving more than 100TB per month?",
+      "First 500TB",
+      "$0.005 /GB",
+      "From 1PB-2PB",
+      "$0.002 /GB",
+      "$0.004 /GB",
+      "Serving more than 1PB per month?",
+      "Video player, transcoding, and security features are free of charge.",
+      "FREE",
+      "from $0.01/GB",
+      "$0.1/minute*",
+      "from $0.005/GB",
+      "Free player included",
+      "Serving more than 40TB per month?",
+      "$0.01/GB per storage region for up to two regions. $0.005/GB per additional region. Up to 9 regions.",
+      "$0.01/GB",
+      "$0.025/GB",
+      "$0.02/GB",
+      "+$0.005/GB",
+      "$1 Monthly Minimum",
+      "Free Traffic to Bunny CDN",
+      "Free API egress",
+      "Storing more than 50TB per month?",
+      "$0.02/GB per each storage region. Up to 15 regions.",
+      "$0.02/GB",
+      "+$0.02/GB",
+      "$1 Monthly Minimum",
+      "Free Traffic to Bunny CDN",
+      "Free API egress",
+      "Storing more than 50TB per month?",
+      "Unlimited Requests",
+      "FREE",
+      "Unlimited Optimizations",
+      "FREE",
+      "Unlimited Transformations",
+      "FREE",
+      "$9.5/website",
+      "Simple Pay As You Go pricing with a generous free plan.",
+      "FREE",
+      "$0.1/million"
+    ],
+    "totals": {
+      "removed": 112,
+      "added": 15,
+      "materialRemoved": 48,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "bunny-net-pricing-20250102093343",
+    "url": "https://bunny.net/pricing/",
+    "ts": "20250102093343",
+    "date": "2025-01-02",
+    "source": "wayback",
+    "prevTs": "20241105125531",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Bunny.net: 1 limit changed (removed “24 ms”; added “25 ms”)",
+    "pairs": [],
+    "added": [
+      "25 ms"
+    ],
+    "removed": [
+      "24 ms"
+    ],
+    "totals": {
+      "removed": 14,
+      "added": 14,
+      "materialRemoved": 9,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "bunny-net-pricing-20250212224707",
+    "url": "https://bunny.net/pricing/",
+    "ts": "20250212224707",
+    "date": "2025-02-12",
+    "source": "wayback",
+    "prevTs": "20250102093343",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Bunny.net: 2 limits changed (removed “29ms”; added “29 ms”)",
+    "pairs": [],
+    "added": [
+      "29 ms",
+      "No credit card required. Complete setup in 2 minutes."
+    ],
+    "removed": [
+      "29ms",
+      "No credit card required – Get started in seconds.No credit card required – Get started in seconds."
+    ],
+    "totals": {
+      "removed": 16,
+      "added": 16,
+      "materialRemoved": 5,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "bunny-net-pricing-20250303062040",
+    "url": "https://bunny.net/pricing/",
+    "ts": "20250303062040",
+    "date": "2025-03-03",
+    "source": "wayback",
+    "prevTs": "20250212224707",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Bunny.net: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 8,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "bunny-net-pricing-20250405104249",
+    "url": "https://bunny.net/pricing/",
+    "ts": "20250405104249",
+    "date": "2025-04-05",
+    "source": "wayback",
+    "prevTs": "20250303062040",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 4,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Bunny.net: 4 prices, 3 limits changed (removed “$170”; added “$220”)",
+    "pairs": [],
+    "added": [
+      "$220",
+      "$125",
+      "42.71 ms",
+      "38.32 ms",
+      "29.61 ms"
+    ],
+    "removed": [
+      "$170",
+      "$200",
+      "31 ms",
+      "36 ms",
+      "39 ms"
+    ],
+    "totals": {
+      "removed": 13,
+      "added": 17,
+      "materialRemoved": 7,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "bunny-net-pricing-20251010094223",
+    "url": "https://bunny.net/pricing/",
+    "ts": "20251010094223",
+    "date": "2025-10-10",
+    "source": "wayback",
+    "prevTs": "20250405104249",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Bunny.net: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "bunny-net-pricing-20251102083842",
+    "url": "https://bunny.net/pricing/",
+    "ts": "20251102083842",
+    "date": "2025-11-02",
+    "source": "wayback",
+    "prevTs": "20251010094223",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Bunny.net: 1 limit changed (removed “25 ms”; added “24 ms”)",
+    "pairs": [],
+    "added": [
+      "24 ms"
+    ],
+    "removed": [
+      "25 ms"
+    ],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "bunny-net-pricing-20260310063022",
+    "url": "https://bunny.net/pricing/",
+    "ts": "20260310063022",
+    "date": "2026-03-10",
+    "source": "wayback",
+    "prevTs": "20251102083842",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Bunny.net: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 7,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "id": "configcat-com-pricing-20230804165151",
+    "url": "https://configcat.com/pricing/",
+    "ts": "20230804165151",
+    "date": "2023-08-04",
+    "source": "wayback",
+    "prevTs": "20230327131225",
+    "kind": "limits",
+    "score": 5,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "ConfigCat: 3 limits changed (added “20 GB / mo”)",
+    "pairs": [],
+    "added": [
+      "20 GB / mo",
+      "100 GB / mo",
+      "1 TB / mo",
+      "4 TB / mo",
+      "24 TB / mo"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 13,
+      "materialRemoved": 0,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "configcat-com-pricing-20250214142331",
+    "url": "https://configcat.com/pricing/",
+    "ts": "20250214142331",
+    "date": "2025-02-14",
+    "source": "wayback",
+    "prevTs": "20230804165151",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "ConfigCat: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Custom free plans are available for Students"
+    ],
+    "totals": {
+      "removed": 21,
+      "added": 33,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "configcat-com-pricing-20250401140035",
+    "url": "https://configcat.com/pricing/",
+    "ts": "20250401140035",
+    "date": "2025-04-01",
+    "source": "wayback",
+    "prevTs": "20250214142331",
+    "kind": "price",
+    "score": 84,
+    "counts": {
+      "price": 28,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "ConfigCat: 28 prices changed (removed “€ 99 / mo”; added “€ 110 / mo”)",
+    "pairs": [],
+    "added": [
+      "€ 110 / mo",
+      "€ 325 / mo",
+      "€ 900 / mo",
+      "€ 100 / mo",
+      "€ 300 / mo",
+      "€ 850 / mo",
+      "€ 4,000 / mo",
+      "$ 120 / mo",
+      "$ 360 / mo",
+      "$ 1,000 / mo",
+      "$ 110 / mo",
+      "$ 325 / mo",
+      "$ 900 / mo",
+      "$ 4,500 / mo",
+      "unlimited Feature Flags",
+      "unlimited Environments"
+    ],
+    "removed": [
+      "€ 99 / mo",
+      "€ 299 / mo",
+      "€ 849 / mo",
+      "€ 79 / mo",
+      "€ 249 / mo",
+      "€ 699 / mo",
+      "€ 3,799 / mo",
+      "$ 119 / mo",
+      "$ 359 / mo",
+      "$ 999 / mo",
+      "$ 99 / mo",
+      "$ 299 / mo",
+      "$ 849 / mo",
+      "$ 4,499 / mo"
+    ],
+    "totals": {
+      "removed": 16,
+      "added": 19,
+      "materialRemoved": 14,
+      "materialAdded": 16
+    }
+  },
+  {
+    "id": "configcat-com-pricing-20250727114057",
+    "url": "https://configcat.com/pricing/",
+    "ts": "20250727114057",
+    "date": "2025-07-27",
+    "source": "wayback",
+    "prevTs": "20250401140035",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "ConfigCat: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "configcat-com-pricing-20260131074759",
+    "url": "https://configcat.com/pricing/",
+    "ts": "20260131074759",
+    "date": "2026-01-31",
+    "source": "wayback",
+    "prevTs": "20250727114057",
+    "kind": "price",
+    "score": 49,
+    "counts": {
+      "price": 15,
+      "limit": 0,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "ConfigCat: 15 prices, 2 plan names changed (removed “€ 0 / mo”; added “$ 0 0”)",
+    "pairs": [],
+    "added": [
+      "Forever Free",
+      "$ 0 0"
+    ],
+    "removed": [
+      "Free",
+      "€ 0 / mo",
+      "€ 110 / mo",
+      "€ 325 / mo",
+      "€ 900 / mo",
+      "€ 0 / mo",
+      "€ 100 / mo",
+      "€ 300 / mo",
+      "€ 850 / mo",
+      "€ 4,000 / mo",
+      "$ 0 / mo",
+      "$ 120 / mo",
+      "$ 360 / mo",
+      "$ 1,000 / mo",
+      "$ 0 / mo"
+    ],
+    "totals": {
+      "removed": 20,
+      "added": 8,
+      "materialRemoved": 16,
+      "materialAdded": 3
+    }
+  }
+]

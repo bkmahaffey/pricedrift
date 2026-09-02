@@ -1,0 +1,976 @@
+News Learn why MongoDB was named a leader in the 2024 Gartner® Magic Quadrant™ Read the report >
+MongoDB Pricing
+The data platform built by - and for - developers
+Atlas
+Developer Data Platform
+Enterprise Advanced
+Self-Managed Database & Services
+MongoDB Atlas
+The multi-cloud developer data platform available on AWS, Azure, and Google Cloud
+Free
+$0/hour
+Try Free
+Free forever
+For learning and exploring MongoDB in a cloud environment.
+512MB of storage Shared RAM Shared vCPU
+Dedicated
+$0.08/hour
+Get Started
+Pay as you go
+For production applications with sophisticated workload requirements.
+10GB to 4TB of storage
+2GB to 768GB RAM
+2vCPUs to 96vCPUs
+View dedicated pricing
+Flex
+$0.011/hour
+Get Started
+Flexible pricing with $30 limit
+For application development and testing, with on-demand burst capacity for unpredictable traffic.
+5GB of storage Shared RAM Shared vCPU View flex pricing
+View all plan features
+Questions about pricing?
+Talk to us for more information about features, sizing, support plans, and consulting.
+Contact Us
+Customize your deployment with tools & services
+Atlas Search
+Build relevance-based search 4x faster and for 77% lower cost than alternative search solutions.
+See pricing →
+Atlas Vector Search
+Build intelligent applications powered by semantic search and generative AI over any type of data.
+See pricing →
+Atlas Stream Processing
+Process high-volume, high-velocity streams of complex event data.
+See pricing →
+Atlas Data Federation
+Easily query, combine, or move data across Atlas and cloud object storage.
+See pricing →
+Atlas Charts
+Easily create, share, and embed visualizations from MongoDB Atlas.
+See pricing →
+Atlas SQL Interface
+MongoDB Atlas SQL Interface, Connectors, and Drivers make it easy to natively query, analyze, and visualize Atlas data with SQL-based tools.
+See pricing →
+Online Archive
+Automate the cost optimization process — without sacrificing data accessibility.
+See pricing →
+App Services
+Fully-managed backend services including managed APIs, database triggers, serverless functions, and device-to-cloud synchronization.
+See pricing →
+Support
+Get access to expert technical advice for optimizing performance, managing risk, and lowering costs.
+See pricing →
+MongoDB Enterprise Advanced
+The best way to run MongoDB on-premises or in your private cloud
+Featured Highlights
+MongoDB Enterprise Server
+Ops Manager
+the management platform for MongoDB
+Kubernetes Operator
+Enterprise security features
+Business intelligence integration and visualization
+Commercial license
+Self-serve training content
+Rich onboarding and regular check-ins
+Consultative support with fast initial response goals
+MongoDB Enterprise Server
+Ops Manager
+the management platform for MongoDB
+Kubernetes Operator
+Enterprise security features
+Business intelligence integration and visualization
+Commercial license
+Self-serve training content
+Rich onboarding and regular check-ins
+Consultative support with fast initial response goals
+Learn More
+Contact Sales
+Questions about pricing?
+Talk to us for more information about features, sizing, support plans, and consulting.
+Contact Us
+Customize your deployment with tools & services
+BI Connector
+Extract insights (and value) by making MongoDB a data source for your business intelligence and analytics platforms.
+Learn More →
+Support
+Get access to expert technical advice for optimizing performance, managing risk, and lowering costs.
+Learn More →
+Free Cluster
+Pay-as-you-go! Clusters are billed hourly with monthly invoices.
+Amazon Web Services
+Microsoft Azure
+Google Cloud
+Cluster Tier
+Storage
+RAM
+vCPUs
+Base Price
+M0
+512 MB
+Shared
+Free forever
+M2
+2 GB
+Shared
+$9/mo
+M5
+5 GB
+Shared
+$25/mo
+Dedicated Cluster
+Pay-as-you-go! Clusters are billed hourly with monthly invoices.
+Amazon Web Services
+Microsoft Azure
+Google Cloud
+Cluster Tier
+Storage
+RAM
+vCPU
+Base Price
+M10
+10 GB
+2 GB
+2 vCPUs
+$0.08/hr
+M20
+20 GB
+4 GB
+2 vCPUs
+$0.20/hr
+M30
+40 GB
+8 GB
+2 vCPUs
+$0.54/hr
+M40
+80 GB
+16 GB
+4 vCPUs
+$1.04/hr
+M50
+160 GB
+32 GB
+8 vCPUs
+$2.00/hr
+M60
+320 GB
+64 GB
+16 vCPUs
+$3.95/hr
+M80
+750 GB
+128 GB
+32 vCPUs
+$7.30/hr
+M140
+1000 GB
+192 GB
+48 vCPUs
+$10.99/hr
+M200
+1500 GB
+256 GB
+64 vCPUs
+$14.59/hr
+M300
+2000 GB
+384 GB
+96 vCPUs
+$21.85/hr
+M400
+3000 GB
+488 GB
+64 vCPUs
+$22.40/hr
+M700
+4000 GB
+768 GB
+96 vCPUs
+$33.26/hr
+Additional hardware configurations available for specialized workloads including Low-CPU and Local NVMe SSD. Sharded clusters offer additional compute and storage through horizontal scaling.
+The pricing provided is based on the default storage listed. Actual pricing can vary based on deployment requirements, configurations, and location. See Atlas Cluster Configuration Costs
+.
+Flex Cluster
+Pay as you go! Clusters are billed hourly with monthly invoices. Flex clusters are priced based on usage and can cost between $8 and $30 for a month’s usage.
+Amazon Web Services
+Microsoft Azure
+Google Cloud
+Tier (ops/second)
+Total Hourly Cost
+Total Monthly Cost*
+Marginal Monthly Cost
+0 - 100 (Base)
+$0.0110
+$8.00
+100 - 200
+$0.0205
+$15.00
+$7.00
+200 - 300
+$0.0288
+$21.00
+$6.00
+300 - 400
+$0.0356
+$26.00
+$5.00
+400 - 500
+$0.0411
+$30.00
+$4.00
+*Assuming continuous usage at a specific tier for 30 days. For more information and pricing examples, see documentation
+.
+Atlas SQL Interface
+Atlas SQL Interface leverages Atlas Data Federation as its query engine, making it easy and fast to analyze your application and cloud data together using a single API. Pricing is based on data processed, transferred, and returned.
+Data Processed
+Data Transferred and returned
+$5 per TB with a 10MB minimum per query
+Data transfer costs are based on the rates set by your cloud service provider
+Data Processed
+Data Transferred and returned
+$5 per TB with a 10MB minimum per query
+Data transfer costs are based on the rates set by your cloud service provider
+Atlas Data Lake
+Atlas Data Lake is a fully managed storage solution optimized for analytical queries at the cost of cloud object storage. The pricing for storing and accessing data varies based on the AWS region. The prices are as follows:
+Data Lake Regions
+AWS Regions
+Price per GB per Month
+Per 1,000 Partition Accesses
+Virginia, USA
+us-east-1
+0.048
+0.0010
+Oregon, USA
+us-west-2
+0.048
+0.0010
+Sao Paulo, Brazil
+sa-east-1
+0.0845
+0.0015
+Ireland
+eu-west-1
+0.048
+0.0010
+London, England
+eu-west-2
+0.0501
+0.0011
+Frankfurt, Germany
+eu-central-1
+0.0511
+0.0011
+Mumbai, India
+ap-south-1
+0.0522
+0.0010
+Singapore
+ap-southeast-1
+0.0522
+0.0010
+Sydney, Australia
+ap-southeast-2
+0.0522
+0.0011
+Data Lake Regions
+Virginia, USA
+Oregon, USA
+Sao Paulo, Brazil
+Ireland
+London, England
+Frankfurt, Germany
+Mumbai, India
+Singapore
+Sydney, Australia
+AWS Regions
+us-east-1
+us-west-2
+sa-east-1
+eu-west-1
+eu-west-2
+eu-central-1
+ap-south-1
+ap-southeast-1
+ap-southeast-2
+Price per GB per Month
+0.048
+0.0845
+0.048
+0.0501
+0.0511
+0.0522
+Per 1,000 Partition Accesses
+0.0010
+0.0015
+0.0010
+0.0011
+0.0010
+0.0011
+FAQ
+Is there a free tier available for MongoDB Atlas? What does it include?
+Yes, MongoDB Atlas offers a free-forever tier, the M0. Atlas’s free tier includes 512 MB of storage, 32MB of sort memory, and up to 100 operations per second. The free tier is a great starting point to learn about MongoDB and explore its capabilities in a fully managed cloud environment.
+Get started with a free tier →
+Atlas Free tier features and limitations →
+Guide: How to deploy a free tier cluster →
+How do I choose the right cluster tier for my application?
+Choosing the right MongoDB Atlas cluster tier for your application involves considering the application's workload, data size, and performance needs. Key considerations include:
+Free Tier (M0): Best for learning and exploring, with limited resources
+.
+Flex: Ideal for development and testing, offering the lowest cost option with certain feature limitations
+.
+Dedicated (M10 & M20): Suitable for pre-production and small, non-critical workloads. These tiers utilize shared vCPUs and support replica set deployments offering fully featured access to Atlas.
+Dedicated (M30+): Recommended for performance-critical and high-traffic workloads, supporting both replica sets and sharded clusters with fully featured access to Atlas with dedicated vCPUs.
+Clusters can always be scaled up from any tier as requirements expand. If unsure, MongoDB recommends starting with a lower tier and monitoring performance
+before adjusting. For all Dedicated tiers, use auto-scaling to adjust cluster tier and storage as workloads evolve.
+How to select your cluster tier →
+Atlas cluster sizing and tier selection →
+What factors influence my MongoDB Atlas costs?
+MongoDB Atlas costs are based on a pay-as-you-go model, influenced by several key factors:
+Cluster tier and type: The selected tier is the foundational cost driver. Higher tiers provide more dedicated resources and capabilities.
+Cloud provider and region: Costs vary slightly across AWS, Google Cloud, and Azure, and between different geographic regions.
+Data storage: Includes the size of your data and indexes.
+Data transfer (networking): Charges mainly apply to data moving out of your Atlas cluster (egress) or between different regions/cloud providers. Inbound data transfers are typically free. Free and Flex tiers are not charged for outgoing data.
+Backup services: Costs are based on the region and the monthly storage consumed by snapshots and oplogs for continuous backups. Note that backup services are not available for the Free tier.
+Add-on tools and services: Additional add-on tools and services contribute to the overall cost. Examples include but are not limited to: Atlas Stream Processing
+Dedicated Atlas Search nodes
+Support subscriptions
+Premium Atlas Charts features
+Additional factors that can influence cost over time include:
+Fluctuations in usage
+Configuration adjustments
+Auto-scaling behavior
+New features
+Cloud provider price changes
+Atlas cluster configuration costs →
+Understand Your MongoDB Invoice →
+How do I manage and reduce MongoDB Atlas costs?
+Right-size clusters: Pause development or testing clusters when not in use. Alternatively, terminate them if no longer required. For Dedicated clusters, use auto-scaling
+to adjust cluster storage and/or tier based on real-time CPU and memory utilization.
+Optimize data management: Design efficient schemas
+and use strategic indexing
+to improve query performance while minimizing resource consumption. Regularly review clusters, databases, and collections to eliminate duplication, outdated data, and unused sample datasets. For Dedicated clusters, use Atlas Online Archive
+to tier infrequently accessed data, which will reduce primary storage costs.
+Minimize data transfer: Reduce data transfer costs
+by heeding the following best practices:
+Avoid queries that re-read client data or re-write existing cluster data.
+Use query projections to only retrieve necessary fields.
+Deploy applications in the same cloud region as the Atlas cluster.
+Enable network compression in client drivers to reduce data volume.
+Monitor & alerts: Regularly review spending patterns using the Billing Cost Explorer
+tool in Atlas. Additionally, set up billing alerts
+to be notified of unexpected cost spikes or when usage approaches predefined thresholds.
+Billing breakdown and optimization →
+How do I view a breakdown of costs and charges?
+The MongoDB Atlas UI's billing page includes a breakdown of costs. It provides:
+Invoices: Detailed historical breakdowns of charges including Cluster usage
+Storage
+Data transfer
+Backups
+Current balance: Outstanding balance and payment history
+Cost by project: A high-level overview of cost distribution across Atlas projects
+Cost visualizations: The following tools enable visualization and grouping of spend categories: Year-to-date usage chart
+Invoice charts
+Billing Cost Explorer
+Manage billing in Atlas →
+Ready to get started?
+Launch a new cluster or migrate to MongoDB Atlas with zero downtime.
+Get Started
+Amazon Web Services
+Microsoft Azure
+Google Cloud
+Americas
+Asia Pacific
+Europe & Middle East
+Region
+Data Storage
+Time Series Data Storage
+Archival Access
+Data Process
+US East (N. Virginia)
+0.001578
+0.0032
+0.0010000
+$5 per TB Processed
+US West (Oregon)
+0.001578
+0.0032
+0.0010000
+"
+Canada (Central)
+0.001715
+0.00348
+0.0011000
+"
+South America (Sao Paulo)
+0.002779
+0.005634
+0.0014000
+"
+Legacy Regions
+Americas
+Asia Pacific
+Europe & Middle East
+Region
+Data Storage
+Time Series Data Storage
+Archival Access
+Data Process
+US East (Ohio)
+0.001578
+0.0032
+0.0010000
+"
+US West (N. California)
+0.001784
+0.00362
+0.0011000
+"
+Customers with existing deployments in legacy regions can continue to access their data, but new archives cannot be created in these regions.
+Americas
+Europe
+Region
+Data Storage
+Time Series Data Storage
+Archival Access
+Data Process
+US East (N. Virginia)
+0.001578
+0.0032
+0.0009
+5$ per TB Scanned
+Americas
+Europe
+Region
+Data Storage
+Time Series Data Storage
+Archival Access
+Data Process
+US Central (Iowa)
+0.001348
+0.002695
+0.0008
+5$ per TB Scanned
+Atlas Charts
+Atlas Charts helps you quickly spot trends, uncover meaningful insights, and understand your data on a deeper level. Charts is included on all Atlas clusters, with premium features available on Dedicated and Flex clusters.
+Feature
+M0 Clusters
+Dedicated Clusters
+Dashboard & chart refreshes
+1 auto-refresh every 4 hours*
+Unlimited
+Email reports
+Users can only run weekly reports**
+Unlimited
+Natural language charts
+iFrame embedding
+Dashboard and chart refresh limit applies
+No refresh limits
+Password-protected public dashboard
+Manual refresh
+—
+Feature
+M0 Clusters
+Dashboard & chart refreshes
+1 auto-refresh every 4 hours*
+Email reports
+Users can only run weekly reports**
+Natural language charts
+iFrame embedding
+Dashboard and chart refresh limit applies
+Password-protected public dashboard
+Manual refresh
+—
+Dedicated Clusters
+Dashboard & chart refreshes
+Unlimited
+Email reports
+Unlimited
+Natural language charts
+iFrame embedding
+No refresh limits
+Password-protected public dashboard
+Manual refresh
+For more information on Charts pricing, please visit our documentation
+Atlas usage is additional and not included in the above pricing.
+*Limit does not apply to chart builder, dashboard filters, natural language charts, or the embedding SDK.
+**Reports are limited to one per week.
+Atlas Data Federation
+Atlas Data Federation is a serverless, scalable query engine that makes it simple and fast to analyze your application and cloud data together using a single API. Pricing is based on data processed, transferred, and returned.
+Data Processed
+Data transferred and returned
+$5 per TB with a 10MB minimum per query
+Data transfer costs are based on the rates set by your cloud service provider
+Data Processed
+$5 per TB with a 10MB minimum per query
+Data transferred and returned
+Data transfer costs are based on the rates set by your cloud service provider
+App Services
+All App Services in an Atlas project share a monthly free tier: 1 million requests or 500 hours of compute, or 10,000 hours of sync runtime (whichever occurs first), plus 10 GB of data transfer. Usage below these thresholds in a given month is not billed. Once the sum of all application usage in a project exceeds the free-tier threshold, Atlas begins billing for additional usage.
+Compute
+Sync
+Request
+Transfer
+$10/500 hours of request runtime Excluding Sync
+$0.08/1M minutes of Sync runtime
+$2.00/1M application requests
+$0.12/GB for egress
+$0.000000005/ms
+$0.00000008/min
+$0.000002/request
+$0.12/GB for egress
+Compute
+Sync
+$10/500 hours of request runtime Excluding Sync
+$0.08/1M minutes of Sync runtime
+$0.000000005/ms
+$0.00000008/min
+Request
+$10/500 hours of request runtime Excluding Sync
+$2.00/1M application requests
+$0.000000005/ms
+$0.000002/request
+Transfer
+$10/500 hours of request runtime Excluding Sync
+$0.12/GB for egress
+$0.000000005/ms
+$0.12/GB for egress
+Applicable services include Triggers, Functions, GraphQL API, and Device Sync.
+Atlas Search
+Build engaging, modern applications with the power of full-text and semantic search. High CPU is the recommended configuration for Atlas Search.
+Cluster Tier
+Storage
+vCPUs
+RAM
+Base Price
+S20
+100 GB
+2
+4
+$0.13/hr
+S30
+200 GB
+4
+8
+$0.24/hr
+S40
+380 GB
+8
+16
+$0.46/hr
+S50
+760 GB
+16
+32
+$0.91/hr
+S60
+1600 GB
+32
+64
+$1.64/hr
+S70
+3200 GB
+48
+96
+$2.47/hr
+S80
+6400 GB
+64
+128
+$3.27/hr
+S140
+Not offered
+S200
+Not offered
+S300
+Not offered
+S400
+Not offered
+Cluster Tier
+Storage
+S20
+100 GB
+S30
+200 GB
+S40
+380 GB
+S50
+760 GB
+S60
+1600 GB
+S70
+3200 GB
+S80
+6400 GB
+S140
+Not offered
+S200
+Not offered
+S300
+Not offered
+S400
+Not offered
+vCPUs
+S20
+2
+S30
+4
+S40
+8
+S50
+16
+S60
+32
+S70
+48
+S80
+64
+S140
+Not offered
+S200
+Not offered
+S300
+Not offered
+S400
+Not offered
+RAM
+S20
+4
+S30
+8
+S40
+16
+S50
+32
+S60
+64
+S70
+96
+S80
+128
+S140
+Not offered
+S200
+Not offered
+S300
+Not offered
+S400
+Not offered
+Base Price
+S20
+$0.13/hr
+S30
+$0.24/hr
+S40
+$0.46/hr
+S50
+$0.91/hr
+S60
+$1.64/hr
+S70
+$2.47/hr
+S80
+$3.27/hr
+S140
+Not offered
+S200
+Not offered
+S300
+Not offered
+S400
+Not offered
+Atlas Search offers both High CPU and Low CPU pricing, please [view our full pricing] for more.
+Amazon Web Services
+Google Cloud
+Microsoft Azure
+High CPU Nodes
+Low CPU Nodes
+Storage-Optimized Nodes
+Cluster Tier
+Storage (GB)
+RAM (GB)
+vCPUs
+Base Price
+S20
+100 GB
+4 GB
+2 vCPUs
+$0.12/hr
+S30
+200 GB
+8 GB
+4 vCPUs
+$0.23/hr
+S40
+380 GB
+16 GB
+8 vCPUs
+$0.48/hr
+S50
+760 GB
+32 GB
+16 vCPUs
+$0.98/hr
+S60
+1600 GB
+64 GB
+32 vCPUs
+$1.75/hr
+S70
+2400 GB
+96 GB
+48 vCPUs
+$2.47/hr
+S80
+3200 GB
+128 GB
+64 vCPUs
+$3.22/hr
+High CPU Nodes
+Low CPU Nodes
+Cluster Tier
+Storage (GB)
+RAM (GB)
+vCPUs
+Base Price
+S20
+118 GB
+4 GB
+2 vCPUs
+$0.14/hr
+S30
+375 GB
+8 GB
+4 vCPUs
+$0.26/hr
+S40
+750 GB
+16 GB
+8 vCPUs
+$0.55/hr
+S50
+1500 GB
+32 GB
+16 vCPUs
+$1.13/hr
+S60
+3000 GB
+64 GB
+32 vCPUs
+$2.19/hr
+High CPU Nodes
+Low CPU Nodes
+Cluster Tier
+Storage (GB)
+RAM (GB)
+vCPUs
+Base Price
+S20
+75 GB
+4 GB
+2 vCPUs
+$0.14/hr
+S30
+150 GB
+8 GB
+4 vCPUs
+$0.29/hr
+S40
+300 GB
+16 GB
+8 vCPUs
+$0.60/hr
+S50
+600 GB
+32 GB
+16 vCPUs
+$1.25/hr
+S60
+1200 GB
+64 GB
+32 vCPUs
+$2.25/hr
+S70
+1800 GB
+96 GB
+48 vCPUs
+$3.18/hr
+S80
+2400 GB
+128 GB
+64 vCPUs
+$4.16/hr
+Amazon Web Services
+Google Cloud
+Microsoft Azure
+High CPU Nodes
+Low CPU Nodes
+Storage-Optimized Nodes
+Cluster Tier
+Storage (GB)
+RAM
+vCPUs
+Base Price
+S20
+100 GB
+4 GB
+2 vCPUs
+$0.12/hr
+S30
+200 GB
+8 GB
+4 vCPUs
+$0.23/hr
+S40
+380 GB
+16 GB
+8 vCPUs
+$0.48/hr
+S50
+760 GB
+32 GB
+16 vCPUs
+$0.98/hr
+S60
+1600 GB
+64 GB
+32 vCPUs
+$1.75/hr
+S70
+2400 GB
+96 GB
+48 vCPUs
+$2.47/hr
+S80
+3200 GB
+128 GB
+64 vCPUs
+$3.22/hr
+High CPU Nodes
+Low CPU Nodes
+Cluster Tier
+Storage (GB)
+RAM (GB)
+vCPUs
+Base Price
+S20
+118 GB
+4 GB
+2 vCPUs
+$0.14/hr
+S30
+375 GB
+8 GB
+4 vCPUs
+$0.26/hr
+S40
+750 GB
+16 GB
+8 vCPUs
+$0.55/hr
+S50
+1500 GB
+32 GB
+16 vCPUs
+$1.13/hr
+S60
+3000 GB
+64 GB
+32 vCPUs
+$2.19/hr
+High CPU Nodes
+Low CPU Nodes
+Cluster Tier
+Storage (GB)
+RAM (GB)
+vCPUs
+Base Price
+S20
+75 GB
+4 GB
+2 vCPUs
+$0.14/hr
+S30
+150 GB
+8 GB
+4 vCPUs
+$0.29/hr
+S40
+300 GB
+16 GB
+8 vCPUs
+$0.60/hr
+S50
+600 GB
+32 GB
+16 vCPUs
+$1.25/hr
+S60
+1200 GB
+64 GB
+32 vCPUs
+$2.25/hr
+S70
+1800 GB
+96 GB
+48 vCPUs
+$3.18/hr
+S80
+2400 GB
+128 GB
+64 vCPUs
+$4.16/hr
+Atlas Stream Processing
+Transform building event-driven applications that react and respond continuously and unify how you work with data-in-motion and data-at-rest.
+Cluster Tier
+Cost
+vCPU
+Memory
+SP10
+For development environments and low-traffic or simple processors.
+$0.19/hr
+1 vCPUs
+2 GB
+SP30
+For production-ready high-traffic applications.
+$0.39/hr
+2 vCPUs
+8 GB
+SP50*
+For high-traffic applications and large window aggregations
+$1.56/hr
+8 vCPUs
+32 GB
+Cluster Tier
+Cost
+SP10
+For development environments and low-traffic or simple processors.
+$0.19/hr
+SP30
+For production-ready high-traffic applications.
+$0.39/hr
+SP50*
+For high-traffic applications and large window aggregations
+$1.56/hr
+vCPU
+SP10
+For development environments and low-traffic or simple processors.
+1 vCPUs
+SP30
+For production-ready high-traffic applications.
+2 vCPUs
+SP50*
+For high-traffic applications and large window aggregations
+8 vCPUs
+Memory
+SP10
+For development environments and low-traffic or simple processors.
+2 GB
+SP30
+For production-ready high-traffic applications.
+8 GB
+SP50*
+For high-traffic applications and large window aggregations
+32 GB
+Associated data transfer (egress from stream processors) will be $0.09/GB across all tiers. For more information on Atlas Stream Processing pricing, please visit our documentation
+.
+*Coming later this year

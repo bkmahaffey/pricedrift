@@ -1,0 +1,236 @@
+Getting Started
+Overview
+Introduction
+The Hitchhiker's Guide to Grok
+Models and Pricing
+What's New?
+Key Information
+Manage Billing
+Consumption and Rate Limits
+Regional Endpoints
+Collections
+new
+Using Management API
+Usage Explorer
+Migrating to New Models
+Debugging Errors
+Guides
+Stateful Responses
+Chat
+Chat with Reasoning
+Tools
+new
+Files
+new
+Live Search
+Using Collections
+new
+Image Understanding
+Image Generations
+Stream Response
+Deferred Chat Completions
+Asynchronous Requests
+Function Calling
+Structured Outputs
+Fingerprint
+Migration from Other Providers
+Prompt Engineering for Grok Code
+Grok Business / Enterprise
+Grok.com User Guide
+License & User Management
+Organization Management
+Resources
+Community Integrations
+FAQ - General
+FAQ - xAI API
+FAQ - Grok Website / Apps
+Loading...
+Key Information
+Models and Pricing
+An overview of our models' capabilities and their associated pricing.
+Grok 4.1 Fast
+We’re excited to bring you Grok 4.1 Fast, a frontier multimodal model optimized specifically for high-performance agentic tool calling.
+Modalities
+Context window
+2,000,000
+Features
+Function calling
+Structured outputs
+Reasoning
+Lightning fast
+Low cost
+View base model
+View non-reasoning model
+Model Pricing
+Model
+Modalities
+Capabilities
+Context
+Rate limits
+Pricing
+Language models
+Per million tokens
+grok-4-1-fast-reasoning
+2,000,000
+4M tpm
+480 rpm
+$0.20 $0.50
+grok-4-1-fast-non-reasoning
+2,000,000
+4M tpm
+480 rpm
+$0.20 $0.50
+grok-code-fast-1
+256,000
+2M tpm
+480 rpm
+$0.20 $1.50
+grok-4-fast-reasoning
+2,000,000
+4M tpm
+480 rpm
+$0.20 $0.50
+grok-4-fast-non-reasoning
+2,000,000
+4M tpm
+480 rpm
+$0.20 $0.50
+grok-4-0709
+256,000
+2M tpm
+480 rpm
+$3.00 $15.00
+grok-3-mini
+131,072
+480 rpm
+$0.30 $0.50
+grok-3
+131,072
+600 rpm
+$3.00 $15.00
+grok-2-vision-1212 us-east-1
+32,768
+600 rpm
+$2.00 $10.00
+grok-2-vision-1212 eu-west-1
+32,768
+50 rps
+$2.00 $10.00
+Image generation models
+Per image output
+grok-2-image-1212
+300 rpm
+$0.07
+Grok 4 Information for Grok 3 Users
+When moving from grok-3 / grok-3-mini to grok-4, please note the following differences:
+• Grok 4 is a reasoning model. There is no non-reasoning mode when using Grok 4.
+• presencePenalty, frequencyPenalty and stop parameters are not supported by reasoning models. Adding them in the request would result in an error.
+• Grok 4 does not have a reasoning_effort parameter. If a reasoning_effort is provided, the request will return an error.
+Tools Pricing
+Requests which make use of xAI provided server-side tools
+are priced based on two components: token usage and server-side tool invocations. Since the agent autonomously decides how many tools to call, costs scale with query complexity.
+Token Costs
+All standard token types are billed at the rate
+for the model used in the request:
+Input tokens: Your query and conversation history
+Reasoning tokens: Agent's internal thinking and planning
+Completion tokens: The final response
+Image tokens: Visual content analysis (when applicable)
+Cached prompt tokens: Prompt tokens that were served from cache rather than recomputed
+Tool Invocation Costs
+For a limited time, all server-side tool invocations are free until December 3, 2025.
+Tool
+Cost per 1,000 calls
+Description
+Web Search
+$5
+Internet search and page browsing
+X Search
+$5
+X posts, users, and threads
+Code Execution
+$5
+Python code execution environment
+Document Search
+$5
+Search through uploaded files and documents
+View Image
+Token-based only
+Image analysis within search results
+View X Video
+Token-based only
+Video analysis within X posts
+Collections Search
+$2.50
+Knowledge base search using xAI Collections
+Remote MCP Tools
+Token-based only
+Custom MCP tools
+For the view image and view x video tools, you will not be charged for the tool invocation itself but will be charged for the image tokens used to process the image or video.
+For Remote MCP tools, you will not be charged for the tool invocation but will be charged for any tokens used.
+For more information on using Tools, please visit our guide on Tools
+.
+Live Search Pricing
+The advanced agentic search capabilities powering grok.com are generally available in the new agentic tool calling API
+and the Live Search API but will be deprecated by December 15, 2025.
+Live Search costs $25 per 1,000 sources requested, each source used (Web, X, News, RSS) in a request counts toward the usage. That means a search using 4 sources costs $0.10 while a search using 1 source is $0.025. A source (e.g. Web) may return multiple citations, but you will be charged for only one source.
+The number of sources used can be found in the response object, which contains a field called response.usage.num_sources_used.
+For more information on using Live Search, visit our guide on Live Search
+or look for search_parameters parameter on API Reference - Chat Completions
+.
+Documents Search Pricing
+For users using our Collections API and Documents Search, the following pricing applies:
+Item
+Price
+Documents Search
+$2.50/1k requests
+File Storage
+free
+Collections Storage
+free
+Usage Guidelines Violation Fee
+A rare occurrence for most users, when your request is deemed to be in violation of our usage guideline by our system, we will charge a $0.05 per request usage guidelines violation fee.
+Additional Information Regarding Models
+No access to realtime events without Live Search enabled Grok has no knowledge of current events or data beyond what was present in its training data.
+To incorporate realtime data with your request, please use Live Search
+function, or pass any realtime data as context in your system prompt.
+Chat models No role order limitation: You can mix system, user, or assistant roles in any sequence for your conversation context.
+Image input models Maximum image size: 20MiB
+Maximum number of images: No limit
+Supported image file types: jpg/jpeg or png.
+Any image/text input order is accepted (e.g. text prompt can precede image prompt)
+The knowledge cut-off date of Grok 3 and Grok 4 is November, 2024.
+Model Aliases
+Some models have aliases to help users automatically migrate to the next version of the same model. In general:
+<modelname> is aliased to the latest stable version.
+<modelname>-latest is aliased to the latest version. This is suitable for users who want to access the latest features.
+<modelname>-<date> refers directly to a specific model release. This will not be updated and is for workflows that demand consistency.
+For most users, the aliased <modelname> or <modelname>-latest are recommended, as you would receive the latest features automatically.
+Billing and Availability
+Your model access might vary depending on various factors such as geographical location, account limitations, etc.
+For how the bills are charged, visit Manage Billing
+for more information.
+For the most up-to-date information on your team's model availability, visit Models Page
+on xAI Console.
+Model Input and Output
+Each model can have one or multiple input and output capabilities. The input capabilities refer to which type(s) of prompt can the model accept in the request message body. The output capabilities refer to which type(s) of completion will the model generate in the response message body.
+This is a prompt example for models with text input capability:
+JSON
+[ { "role": "system", "content": "You are Grok, a chatbot inspired by the Hitchhikers Guide to the Galaxy." }, { "role": "user", "content": "What is the meaning of life, the universe, and everything?" } ]
+This is a prompt example for models with text and image input capabilities:
+JSON
+[ { "role": "user", "content": [ { "type": "image_url", "image_url": { "url": "data:image/jpeg;base64,<base64_image_string>", "detail": "high" } }, { "type": "text", "text": "Describe what's in this image." } ] } ]
+This is a prompt example for models with text input and image output capabilities:
+JSON
+// The entire request body { "model": "grok-4", "prompt": "A cat in a tree", "n": 4 }
+Context Window
+The context window determines the maximum amount of tokens accepted by the model in the prompt.
+For more information on how token is counted, visit Consumption and Rate Limits
+.
+If you are sending the entire conversation history in the prompt for use cases like chat assistant, the sum of all the prompts in your conversation history must be no greater than the context window.
+Cached prompt tokens
+Trying to run the same prompt multiple times? You can now use cached prompt tokens to incur less cost on repeated prompts. By reusing stored prompt data, you save on processing expenses for identical requests. Enable caching in your settings and start saving today!
+The caching is automatically enabled for all requests without user input. You can view the cached prompt token consumption in the "usage" object
+.
+For details on the pricing, please refer to the pricing table above, or on xAI Console
+.

@@ -1,0 +1,59 @@
+Home
+Pricing
+Serverless
+Serverless Pricing
+Unlock advanced technologies without the complexity of server management
+Serverless Functions
+Serverless Function is billed based on:
+Monthly requests: each request is billed €0.00000015 (or €0.15 per Million Requests), and we offer 1M free requests per account per month.
+Resources consumption are calculated by multiplying the execution duration (in ms) of your function by the memory tiers chosen (in GB). Resources consumption is billed €1.2 per 100k GB-s and we provide 400 000 GB-s Free Tiers per account and per month.
+Memory
+Price/100ms
+128 MB
+€0.000000150
+256 MB
+€0.000000300
+512 MB
+€0.000000600
+1024 MB
+€0.000001200
+2048 MB
+€0.000002400
+3072 MB
+€0.000003600
+4096 MB
+€0.000004800
+Legal notice
+In order to mitigate cold start latency, you can also provision functions, we will charge an additional €0.36 per 100k GB-s fees to keep your functions warm.
+Prices before tax.
+Check the product page
+Create the account
+Serverless Containers
+Easily run containers on the cloud with a single command
+Type of consumption
+Price
+Memory consumption
+€0.000001 / GB-s (€0.10 per 100k GB-s) after a 400 000 GB
+Free Tiers per account and per month
+vCPU consumption
+€0.00001 / vCPU-s (€1.0 per 100k vCPU-s) after a 200 000 vCPU
+Free Tiers per account and per month
+Legal notice
+You can provision containers to mitigate cold start latency or ensure longer activities, you will be billed on the resources consumed.
+Prices before tax.
+Go the product page
+Create the account
+Serverless Jobs
+Serverless Jobs is billed on the resources consumed by your running container over the month.
+Type of consumption
+Price
+Memory consumption
+€0.000001 / GB-s (€0.10 per 100k GB-s) after a 400 000 GB
+Free Tiers per account and per month
+vCPU consumption
+€0.00001 / vCPU-s (€1.0 per 100k vCPU-s) after a 200 000 vCPU
+Free Tiers per account and per month
+Legal notice
+Prices before taxes
+Go to product page
+Create the account

@@ -1,0 +1,759 @@
+[
+  {
+    "id": "xata-io-pricing-20230327140441",
+    "url": "https://xata.io/pricing",
+    "ts": "20230327140441",
+    "date": "2023-03-27",
+    "source": "wayback",
+    "prevTs": "20230116094608",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Xata: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 7,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "xata-io-pricing-20230604110330",
+    "url": "https://xata.io/pricing",
+    "ts": "20230604110330",
+    "date": "2023-06-04",
+    "source": "wayback",
+    "prevTs": "20230327140441",
+    "kind": "price",
+    "score": 43,
+    "counts": {
+      "price": 8,
+      "limit": 7,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Xata: 8 prices, 7 limits, 3 plan names changed (removed “$8 /unit /month”; added “SaaS application - 1k users”)",
+    "pairs": [],
+    "added": [
+      "Start free with all features",
+      "Generous free tier. Scale to billions of records.",
+      "Xata charges in pre-paid capacity units. Never get surprised by a bill. First three units for free.",
+      "SaaS application - 1k users",
+      "SaaS application - 10k users",
+      "SaaS application - 100k users",
+      "E-commerce - 30k users",
+      "Chat app - 5k users",
+      "750 k total records",
+      "15 branches",
+      "75 Requests per second",
+      "Unlimited team members",
+      "In most cases, you can think of a unit as 250,000 records. There are extra limits applied (rate limit, concurrency limit, data size limit) but with normal usage patterns you shouldn't hit them.",
+      "Nope, even if it’s not accessed, we don’t put your DB to sleep, even on the free plan. We want projects of all kinds to be able to depend on Xata even if they are not paying."
+    ],
+    "removed": [
+      "Xata has a free tier plan that is perfect for small applications and MVPs. It includes High Availability, it is production ready, and it's not suspended on inactivity! When your project grows, you can add more capacity by simply moving a slider.",
+      "Free",
+      "Free-forever and production-ready plan.",
+      "$8 /unit /month",
+      "✓ 5 GB / unit",
+      "Free $0 /month",
+      "Free-forever and production-ready plan.",
+      "✓ Data size: 15 GB",
+      "Pro $8 /unit /month",
+      "✓ Data size: 5 GB / unit",
+      "First 3 units are free. Above 100 units, the price per unit goes down. Scale up to 10,000 units!",
+      "$ 0",
+      "✓ Data size: 5 GB",
+      "Unit costs (per month): ✓ 0-3: $0 (free tier)",
+      "✓ 4-100: $8",
+      "✓ 101-500: $7",
+      "✓ 501-10,000: $5",
+      "Get started in production with our generous free tier, and scale as you grow. We’ll be right there with you.",
+      "Start building for free"
+    ],
+    "totals": {
+      "removed": 107,
+      "added": 81,
+      "materialRemoved": 21,
+      "materialAdded": 16
+    }
+  },
+  {
+    "id": "xata-io-pricing-20230912181032",
+    "url": "https://xata.io/pricing",
+    "ts": "20230912181032",
+    "date": "2023-09-12",
+    "source": "wayback",
+    "prevTs": "20230604110330",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Xata: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "xata-io-pricing-20231127095040",
+    "url": "https://xata.io/pricing",
+    "ts": "20231127095040",
+    "date": "2023-11-27",
+    "source": "wayback",
+    "prevTs": "20230912181032",
+    "kind": "price",
+    "score": 89,
+    "counts": {
+      "price": 18,
+      "limit": 11,
+      "plan": 7
+    },
+    "material": true,
+    "headline": "Xata: 18 prices, 11 limits, 7 plan names changed (removed “SaaS application - 100k users”; added “10 database branches”)",
+    "pairs": [],
+    "added": [
+      "Start free, pay as you grow",
+      "Free",
+      "Free",
+      "Start free",
+      "10 database branches",
+      "15 GB search engine storage",
+      "2 GB file attachments",
+      "Starts at $20 per month",
+      "Unlimited resources and a usage based plan built for small to medium sized teams delivering applications at scale.",
+      "All free features, plus:",
+      "Includes $20 of usage monthly",
+      "Unlimited database branches",
+      "Free",
+      "Start free",
+      "Unlimited",
+      "15 GB",
+      "15 GB + $2 per additional GB",
+      "15 GB",
+      "15 GB + $2.5 per additional GB",
+      "2 GB",
+      "2 GB + $0.1 per additional GB",
+      "10k transformations + $1 per additional 10k transformations",
+      "250 questions + $5 per additional 100 questions",
+      "15 GB",
+      "Subtotal: $0.00 per month",
+      "$2.00 per GB",
+      "15 GB",
+      "Subtotal: $0.00 per month",
+      "$2.50 per GB",
+      "2 GB",
+      "Subtotal: $0.00 per month",
+      "$0.10 per GB",
+      "10 k",
+      "Subtotal: $0.00 per month",
+      "$1.00 per 10k",
+      "Subtotal: $0.00 per month",
+      "$5.00 per 100",
+      "$0.00",
+      "Start free",
+      "Free plan features 10 database branches"
+    ],
+    "removed": [
+      "Start free with all features",
+      "Generous free tier. Scale to billions of records.",
+      "Xata charges in pre-paid capacity units. Never get surprised by a bill. First three units for free.",
+      "SaaS application - 100k users",
+      "E-commerce - 30k users",
+      "Chat app - 5k users",
+      "750 k total records",
+      "15 branches",
+      "75 Requests per second",
+      "Unlimited team members",
+      "In most cases, you can think of a unit as 250,000 records. There are extra limits applied (rate limit, concurrency limit, data size limit) but with normal usage patterns you shouldn't hit them.",
+      "Nope, even if it’s not accessed, we don’t put your DB to sleep, even on the free plan. We want projects of all kinds to be able to depend on Xata even if they are not paying."
+    ],
+    "totals": {
+      "removed": 65,
+      "added": 118,
+      "materialRemoved": 16,
+      "materialAdded": 47
+    }
+  },
+  {
+    "id": "xata-io-pricing-20240302233144",
+    "url": "https://xata.io/pricing",
+    "ts": "20240302233144",
+    "date": "2024-03-02",
+    "source": "wayback",
+    "prevTs": "20231127095040",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Xata: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "xata-io-pricing-20240522175556",
+    "url": "https://xata.io/pricing",
+    "ts": "20240522175556",
+    "date": "2024-05-22",
+    "source": "wayback",
+    "prevTs": "20240302233144",
+    "kind": "price",
+    "score": 21,
+    "counts": {
+      "price": 6,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Xata: 6 prices, 1 limit, 1 plan name changed (removed “1000 database branches”; added “50 + $1 per additional branch”)",
+    "pairs": [],
+    "added": [
+      "Start free,",
+      "50 + $1 per additional branch",
+      "50 + $1 per additional branch",
+      "Unlimited",
+      "$0.10 per GB / mo",
+      "Starting at $0.07 per GB / RAM / hr",
+      "$0.20 per million requests",
+      "$0.09 per GB",
+      "Free plan features Shared environments"
+    ],
+    "removed": [
+      "Start free, pay as you grow",
+      "1000 database branches"
+    ],
+    "totals": {
+      "removed": 12,
+      "added": 38,
+      "materialRemoved": 3,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "xata-io-pricing-20240717082309",
+    "url": "https://xata.io/pricing",
+    "ts": "20240717082309",
+    "date": "2024-07-17",
+    "source": "wayback",
+    "prevTs": "20240522175556",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Xata: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 7,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "xata-io-pricing-20241110172420",
+    "url": "https://xata.io/pricing",
+    "ts": "20241110172420",
+    "date": "2024-11-10",
+    "source": "wayback",
+    "prevTs": "20240717082309",
+    "kind": "price",
+    "score": 54,
+    "counts": {
+      "price": 13,
+      "limit": 6,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Xata: 13 prices, 6 limits, 2 plan names changed (removed “15 GB”; added “250 questions + $5 per question”)",
+    "pairs": [],
+    "added": [
+      "Unlimited team members",
+      "250 questions + $5 per question"
+    ],
+    "removed": [
+      "15 GB",
+      "2 GB",
+      "10k transformations",
+      "250 questions + $5 per additional 100 questions",
+      "15 GB",
+      "Subtotal: $0.00 per month",
+      "$2.00 per GB",
+      "15 GB",
+      "Subtotal: $0.00 per month",
+      "$2.50 per GB",
+      "2 GB",
+      "Subtotal: $0.00 per month",
+      "$0.10 per GB",
+      "10 k",
+      "Subtotal: $0.00 per month",
+      "$1.00 per 10k",
+      "Subtotal: $0.00 per month",
+      "$5.00 per 100",
+      "$0.00",
+      "Start free",
+      "Free plan features Shared environments",
+      "10 database branches",
+      "15 GB data storage",
+      "15 GB search engine storage",
+      "2 GB file attachments"
+    ],
+    "totals": {
+      "removed": 43,
+      "added": 9,
+      "materialRemoved": 29,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "xata-io-pricing-20250611072123",
+    "url": "https://xata.io/pricing",
+    "ts": "20250611072123",
+    "date": "2025-06-11",
+    "source": "wayback",
+    "prevTs": "20241110172420",
+    "kind": "price",
+    "score": 119,
+    "counts": {
+      "price": 33,
+      "limit": 3,
+      "plan": 7
+    },
+    "material": true,
+    "headline": "Xata: 33 prices, 3 limits, 7 plan names changed (removed “$0”; added “Starting at $0.012 / hour Pricing depends on …”)",
+    "pairs": [],
+    "added": [
+      "Starting at $0.012 / hour Pricing depends on the size of your Postgres deployment.",
+      "Unlimited projects / databases / branches",
+      "$0.59 / node / hour Licensed by the number of Kubernetes nodes + infra costs to your cloud provider",
+      "Monthly cost is approximate and based on 730 hours of usage. Contact us",
+      "$0.012",
+      "$ 9",
+      "$0.024",
+      "$ 18",
+      "$0.048",
+      "$ 35",
+      "$0.096",
+      "$ 70",
+      "$0.192",
+      "$ 140",
+      "$0.384",
+      "$ 280",
+      "$0.768",
+      "$ 561",
+      "$1.536",
+      "$ 1121",
+      "Postgres storage is charged at $0.30 / GB / month. Only the actually used storage is charged, so you do not have to worry about allocating disk space. Xata uses an advanced distributed storage system for separating the storage from compute.",
+      "Do you have a free tier?",
+      "What about a free trial?",
+      "Are all anonymization features and zero-downtime schema changes free?"
+    ],
+    "removed": [
+      "Start free,",
+      "Free",
+      "Free",
+      "$0",
+      "Start free",
+      "10 database branches",
+      "15 GB data storage",
+      "Starts at $ 20 per month",
+      "Unlimited resources and a usage based plan built for small to medium sized teams delivering applications at scale.",
+      "All free features, plus:",
+      "Unlimited team members",
+      "Includes $20 of usage monthly",
+      "15 GB search engine storage",
+      "2 GB file attachments",
+      "Unlimited database branches",
+      "Free",
+      "Start free",
+      "50 + $1 per additional branch",
+      "Unlimited",
+      "15 GB",
+      "15 GB + $2 per additional GB",
+      "50 + $1 per additional branch",
+      "Unlimited",
+      "$0.10 per GB / mo",
+      "Starting at $0.07 per GB / RAM / hr",
+      "$0.20 per million requests",
+      "$0.09 per GB",
+      "15 GB + $2.5 per additional GB",
+      "2 GB + $0.1 per additional GB",
+      "10k transformations + $1 per additional 10k transformations",
+      "250 questions + $5 per question"
+    ],
+    "totals": {
+      "removed": 136,
+      "added": 68,
+      "materialRemoved": 31,
+      "materialAdded": 24
+    }
+  },
+  {
+    "id": "xata-io-pricing-20250805122756",
+    "url": "https://xata.io/pricing",
+    "ts": "20250805122756",
+    "date": "2025-08-05",
+    "source": "wayback",
+    "prevTs": "20250611072123",
+    "kind": "price",
+    "score": 65,
+    "counts": {
+      "price": 21,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Xata: 21 prices, 1 limit changed (removed “Starting at $0.012 / hour Pricing depends on …”; added “30-day free trial”)",
+    "pairs": [],
+    "added": [
+      "30-day free trial",
+      "No credit card required to start your trial",
+      "Start your 30-day free trial",
+      "micro 2 vCPU 1 GB RAM $ 0.012 /hr",
+      "Monthly compute estimate: $ 8.76",
+      "Storage: 1 GB",
+      "Monthly storage estimate: $ 0.30",
+      "$ 9.06"
+    ],
+    "removed": [
+      "Starting at $0.012 / hour Pricing depends on the size of your Postgres deployment.",
+      "Monthly cost is approximate and based on 730 hours of usage. Contact us",
+      "$0.012",
+      "$ 9",
+      "$0.024",
+      "$ 18",
+      "$0.048",
+      "$ 35",
+      "$0.096",
+      "$ 70",
+      "$0.192",
+      "$ 140",
+      "$0.384",
+      "$ 280",
+      "$0.768",
+      "$ 561",
+      "$1.536",
+      "$ 1121"
+    ],
+    "totals": {
+      "removed": 44,
+      "added": 23,
+      "materialRemoved": 20,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "xata-io-pricing-20250905123904",
+    "url": "https://xata.io/pricing",
+    "ts": "20250905123904",
+    "date": "2025-09-05",
+    "source": "wayback",
+    "prevTs": "20250805122756",
+    "kind": "price",
+    "score": 7,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Xata: 2 prices, 1 limit changed (removed “$ 0.59 / node / hour Licensed by the number o…”; added “Resources: ≤2 vCPU, 1 GB RAM”)",
+    "pairs": [],
+    "added": [
+      "Resources: ≤2 vCPU, 1 GB RAM",
+      "Hourly rate: $ 0.012 /hr"
+    ],
+    "removed": [
+      "$ 0.59 / node / hour Licensed by the number of Kubernetes nodes + infra costs to your cloud provider"
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 8,
+      "materialRemoved": 2,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "xata-io-pricing-20251116185011",
+    "url": "https://xata.io/pricing",
+    "ts": "20251116185011",
+    "date": "2025-11-16",
+    "source": "wayback",
+    "prevTs": "20250905123904",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Xata: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "xata-io-pricing-20260115195031",
+    "url": "https://xata.io/pricing",
+    "ts": "20260115195031",
+    "date": "2026-01-15",
+    "source": "wayback",
+    "prevTs": "20251116185011",
+    "kind": "price",
+    "score": 85,
+    "counts": {
+      "price": 23,
+      "limit": 8,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Xata: 23 prices, 8 limits changed (removed “14-day free trial”; added “Experience Xata with $ 100 credit for 14 -day…”)",
+    "pairs": [],
+    "added": [
+      "Experience Xata with $ 100 credit for 14 -day trial",
+      "$ 999 / month",
+      "≤2 vCPU",
+      "$ 0.012 /hr",
+      "$ 9 /month",
+      "≤2 vCPU",
+      "2 GB RAM",
+      "$ 0.024 /hr",
+      "$ 18 /month",
+      "≤2 vCPU",
+      "4 GB RAM",
+      "$ 0.048 /hr",
+      "$ 35 /month",
+      "2 vCPU",
+      "8 GB RAM",
+      "$ 0.096 /hr",
+      "$ 70 /month",
+      "4 vCPU",
+      "16 GB RAM",
+      "$ 0.192 /hr",
+      "$ 140 /month",
+      "8 vCPU",
+      "32 GB RAM",
+      "$ 0.384 /hr",
+      "$ 280 /month",
+      "16 vCPU",
+      "64 GB RAM",
+      "$ 0.768 /hr",
+      "$ 561 /month",
+      "32 vCPU",
+      "128 GB RAM",
+      "$ 1.536 /hr",
+      "$ 1121 /month",
+      "$0.17 / GB / month"
+    ],
+    "removed": [
+      "Unlimited projects / databases / branches",
+      "14-day free trial",
+      "No credit card required to start your trial",
+      "micro ≤2 vCPU 1 GB RAM $ 0.012 /hr",
+      "Resources: ≤2 vCPU, 1 GB RAM",
+      "Monthly compute estimate: $ 8.76",
+      "Monthly storage estimate: $ 0.30",
+      "$ 9.06"
+    ],
+    "totals": {
+      "removed": 27,
+      "added": 93,
+      "materialRemoved": 11,
+      "materialAdded": 37
+    }
+  },
+  {
+    "id": "xata-io-pricing-20260218224907",
+    "url": "https://xata.io/pricing",
+    "ts": "20260218224907",
+    "date": "2026-02-18",
+    "source": "wayback",
+    "prevTs": "20260115195031",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Xata: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "xata-io-pricing-20260616004009",
+    "url": "https://xata.io/pricing",
+    "ts": "20260616004009",
+    "date": "2026-06-16",
+    "source": "wayback",
+    "prevTs": "20260218224907",
+    "kind": "price",
+    "score": 58,
+    "counts": {
+      "price": 15,
+      "limit": 6,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Xata: 15 prices, 6 limits, 1 plan name changed (removed “Experience Xata with $ 100 credit for 14 -day…”; added “~10s”)",
+    "pairs": [],
+    "added": [
+      "Free forever",
+      "~10s",
+      "+ $ 0.28 /GB/mo storage",
+      "~1s",
+      "~1s",
+      "$ 0.28 / GB / month All regions. Pay only for what you use, no overprovisioning. Powered by Xatastor.",
+      "small ≤2 vCPU 2 GB RAM $ 0.024 /hr",
+      "1 100K",
+      "Average hours per branch per month 8 hrs",
+      "Average branch lifespan 3 days",
+      "How long branches typically exist before cleanup. Storage is prorated — a branch that lives 3 days costs 1/10th of a full month.",
+      "Production database size 1 TB",
+      "5 GB 5 TB",
+      "Monthly rate: $ 0.28 /GB",
+      "CoW branches only store changed data. 0.32 % of 1 TB = 3 GB per branch. Estimate auto-adjusts with database size.",
+      "Total $ 325.68 /month",
+      "Production Clone $ 297.52 /mo",
+      "$ 0.024 /hr × 730 hrs = $ 17.52",
+      "1 TB × $ 0.28 /GB = $ 280.00",
+      "Development Branches $ 28.16 /mo",
+      "$ 0.024 /hr × 8 hrs (avg) × 100 branches = $ 19.20",
+      "0.32 % of 1 TB × 100 branches × 3 d/ 30 d = $ 8.96",
+      "Prorated — branches avg 3 days before cleanup",
+      "Is there a free tier?"
+    ],
+    "removed": [
+      "Experience Xata with $ 100 credit for 14 -day trial",
+      "Start your 14 -day free trial",
+      "$ 999 / month",
+      "$0.17 / GB / month",
+      "$ 0.3 / GB / month",
+      "Do you have a free tier?",
+      "What about a free trial?",
+      "Are all anonymization features and zero-downtime schema changes free?"
+    ],
+    "totals": {
+      "removed": 62,
+      "added": 142,
+      "materialRemoved": 9,
+      "materialAdded": 25
+    }
+  },
+  {
+    "id": "xata-io-pricing-20260902202107",
+    "url": "https://xata.io/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260616004009",
+    "kind": "price",
+    "score": 28,
+    "counts": {
+      "price": 6,
+      "limit": 3,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Xata: 6 prices, 3 limits, 2 plan names changed ($325.68 → $313.54; $28.16 → $16.02)",
+    "pairs": [
+      {
+        "before": "Total $ 325.68 /month",
+        "after": "Total $ 313.54 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$325.68",
+            "after": "$313.54"
+          }
+        ]
+      },
+      {
+        "before": "Development Branches $ 28.16 /mo",
+        "after": "Development Branches $ 16.02 /mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$28.16",
+            "after": "$16.02"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free",
+      "Start your 14 -day free trial",
+      "No credit card required",
+      "Number of branches 5K",
+      "$ 0.024 /hr × 10 minutes × 75% active × 5,000 branches = $ 15.00",
+      "0.32 % of 1 TB × 5,000 branches × $ 0.28 /GB/month × 10 / 43,800 minutes = $ 1.02",
+      "Prorated. Branches average 10 minutes before cleanup",
+      "Start your 14 -day free trial",
+      "No credit card required"
+    ],
+    "removed": [
+      "Free forever",
+      "Average hours per branch per month 8 hrs",
+      "Average branch lifespan 3 days",
+      "How long branches typically exist before cleanup. Storage is prorated — a branch that lives 3 days costs 1/10th of a full month.",
+      "$ 0.024 /hr × 8 hrs (avg) × 100 branches = $ 19.20",
+      "0.32 % of 1 TB × 100 branches × 3 d/ 30 d = $ 8.96",
+      "Prorated — branches avg 3 days before cleanup"
+    ],
+    "totals": {
+      "removed": 19,
+      "added": 38,
+      "materialRemoved": 13,
+      "materialAdded": 15
+    },
+    "transition": true
+  }
+]

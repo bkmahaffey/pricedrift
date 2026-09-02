@@ -1,0 +1,171 @@
+Free
+Get started with $50 in free credits
+For developers looking to prototype with Speech AI
+Access to Speech-to-Text and Audio Intelligence models
+Speech recognition
+Speaker diarization
+Custom spelling and vocabulary
+Profanity filtering, auto punctuation and casing
+Compliance with EU Data Residency standards
+Developer docs and community support
+Start building for free
+Pay as you go
+MOST POPULAR
+Start as low as $0.12/hr for Speech-to-Text
+For teams ready to integrate Speech AI into their products
+Includes all features of the Free plan
+Unlimited access to Speech-to-Text, Audio Intelligence, and LeMUR
+Streaming Speech-to-Text
+Concurrency starting at 200 files and 100 streams
+Cancel anytime
+Get started
+Custom
+Personalize your plan
+For teams building products at scale
+Includes all features of PAYG plan
+Volume discounts up to 50%
+Solution architect support
+Higher rate limits
+Self-hosted deployments (On-prem, VPC)
+Contact us
+Compare pricing and features
+Free
+Pay as you go
+Custom
+Compare pricing and features
+Free
+Start for free
+Pay as you go
+Build your plan
+Custom
+Talk to us
+Speech-to-text Build on top of the most accurate Speech-to-Text model on the market with >93% accuracy
+Tiers
+Best
+Free
+$0.37 / hour
+Lower rates based on volume
+Nano
+Free
+$0.12 / hour
+Lower rates based on volume
+Features
+Speaker Diarization
+Automatic Language Detection
+Profanity Filtering
+Custom Vocabulary
+Multichannel
+Filler Word Filtering
+Custom Spelling
+Word Timestamps
+Auto Punctuation and Casing
+ITN/Formatting
+Confidence Scores
+Word Search
+Export SRT/VTT Captions
+Export Paragraphs/Sentences
+Streaming Speech-to-text Transcribe live audio and video files synchronously at low latency and high quality
+Tiers
+Best
+$0.47 / hour
+Lower rates based on volume
+Features
+Auto Punctuation and Casing
+Custom Vocabulary
+End of Utterance Detection
+ITN/Formatting
+Speech Understanding Extract maximum value from your voice data with our Audio Intelligence, models and LLMs
+LeMUR Apply LLMs to voice data and explore a variety of LLM capabilities
+Claude 3.5 Sonnet
+latest
+$0.003 / 1K tokens (Input)
+$0.015 / 1K tokens (Output)
+$0.003 / 1K tokens (Input)
+$0.015 / 1K tokens (Output)
+Claude 3 Opus
+latest
+$0.015 / 1K tokens (Input)
+$0.075 / 1K tokens (Output)
+$0.015 / 1K tokens (Input)
+$0.075 / 1K tokens (Output)
+Claude 3 Haiku
+latest
+$0.00025 / 1K tokens (Input)
+$0.00125 / 1K tokens (Output)
+$0.00025 / 1K tokens (Input)
+$0.00125 / 1K tokens (Output)
+Claude 3 Sonnet
+latest
+$0.003 / 1K tokens (Input)
+$0.015 / 1K tokens (Output)
+$0.003 / 1K tokens (Input)
+$0.015 / 1K tokens (Output)
+Audio Intelligence Analyze and extract insights from voice data
+Entity Detection
+Free
+$0.08 / hour
+Lower rates based on volume
+Topic Detection
+Free
+$0.15 / hour
+Lower rates based on volume
+Key Phrases
+Free
+$0.01 / hour
+Lower rates based on volume
+PII Audio Redaction
+Free
+$0.05 / hour
+Lower rates based on volume
+PII Redaction
+Free
+$0.08 / hour
+Lower rates based on volume
+Sentiment Analysis
+Free
+$0.02 / hour
+Lower rates based on volume
+Content Moderation
+Free
+$0.15 / hour
+Lower rates based on volume
+Auto Chapters
+Free
+$0.08 / hour
+Lower rates based on volume
+Summarization
+Free
+$0.03 / hour
+Lower rates based on volume
+Rate Limits
+Hours of audio
+Up to 416 hours
+Unlimited
+Concurrency
+5 files
+Starting at 200 files
+Talk to us
+Security and Privacy
+GDPR
+PCI-DSS
+SOC 2 Type 1/Type 2
+EU Data Residency
+Frequently asked questions
+What are the differences between Speech-to-Text tiers?
+Can I sign up for free?
+Do you offer volume discounts?
+How fast does it take for audio and video files to process?
+How does billing work?
+How is multichannel billed?
+How can I talk to someone?
+What languages do you support?
+What is a token?
+Try our API for free
+Contact sales
+1
+2
+3
+4
+5
+6
+import assemblyai as aai transcriber = aai.Transcriber() transcript = transcriber.transcribe(URL, config) print(transcript)

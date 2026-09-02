@@ -1,0 +1,67 @@
+Scalable, affordable pricing
+Access our models directly through our API and pay for what you use, or deploy on Amazon SageMaker.
+Contact Sales
+Free
+Try the playground
+Get free, rate-limited usage for learning and prototyping. Usage is free until you go into production
+Get help on discord community
+Access to all endpoints
+Ticket support
+Try the playground
+Production
+Power your business with hosted language models.
+Features
+Train custom models
+Elevated ticket support
+Access to all endpoints
+Increased rate limit
+Contact Sales
+Price per token
+0.0000004
+usd
+Model
+Default
+Custom
+Price / Unit
+$0.4 / 1M tokens
+$0.8 / 1M tokens
+Embeddings perform best when the text to be embedded is less than 512 tokens. You can create up to 96 embeddings per API call.
+embed
+generate
+classify
+summarize
+rerank
+Price Calculator
+50,000,000
+token s
+~ $20.00
+USD
+Enterprise
+If you require dedicated model instances, dedicated support channels, or custom deployment options, get in touch with our sales team
+Contact sales
+Our Customers
+"Cohere excels at delivering high quality, low-latency language AI models and really supporting them. Having Cohere's team as an extension of ours lets us go 10x faster."
+Matt Shumer — CEO
+Hyperwrite
+Frequently Asked Questions
+1. How do I get a Trial API Key?
+When an account is created, we automatically create an Trial API key for you. This API key will be available on the dashboard for you to copy, as well as in the dashboard section called “API Keys.”
+2. How do I get a Production API key?
+To get a Production key, you'll need to have Owner privileges (or ask your organization Owner to complete the following steps). Navigate to the Billing and Usage page in your Cohere dashboard. Click on the Get Your Production key button and fill out the Go to Production workflow.
+3. What is the difference between a Trial API key and Production API key?
+A Trial API key has a rate limit of 5000 generation units per month for the Generate and Summarize endpoints. The embed and classify endpoint are rate limited at 100 calls / minute. A Production API key has a rate limit of 10,000 calls per minute. API calls made from a Trial API key are free. API calls made from a Production API key will be charged on a pay-as-you-go basis. Trial keys are not permitted to be used for production or commercial purposes.
+4. Are there any account limitations upon signup?
+Every account begins as a personal account and only has access to Trial API keys. As a personal account, you will not be able to add other members until you become part of an organization.
+5. What is the difference between an organization and a personal account?
+At Cohere, an organization is a group of personal accounts that share a singular billing portal. Organizations are not automatically given Production API key access, and a member of the organization must still fill out our application form for production access. Personal accounts cannot share billing information with other accounts.
+6. Which model should I pick?
+Your model selection reflects your relative prioritization of model performance and speed. Larger models offer better performance and are capable of more complex tasks, while smaller models have faster response times.
+7. When do I get billed?
+API calls made from a Trial API key will be free. API calls made from a Production key will be billed on a pay-as-you-go basis. Your bill will be issued at the end of every calendar month.
+8. The endpoint I’m using is billed by token. What is a token?
+Language models understand “tokens” rather than characters or bytes. The number of tokens per word depends on the complexity of the text. Simple text may approach 1 token per word on average, while complex texts may use less common words that require 3-4 tokens per word on average. For more details on tokens, refer to this page
+.
+Want to try it first?
+Create an account and build with Cohere
+Try the Playground
+Read our docs

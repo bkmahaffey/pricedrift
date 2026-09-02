@@ -1,0 +1,259 @@
+Rollbar pricing
+This page is a machine-readable summary of Rollbar’s pricing, published for AI agents and automated buyers. Rollbar has 4 plans: Free, Essentials, Advanced, and Enterprise. Essentials and Advanced are usage-based: the price scales in steps with monthly error occurrences, from 10,000 to 50,000,000 per month. Every price step is listed in the tables below.
+All plans include unlimited projects, unlimited users, unlimited service links, unlimited custom fields and tags, a REST API and Terraform provider, and SDKs for server, client, and mobile platforms. Rollbar never charges per seat.
+Prefer the interactive calculator? See rollbar.com/pricing.
+Plans
+Free: $0/month forever. Includes 5,000 occurrences/month, 1,000 session replays/month, 30-day data retention, and unlimited users. No credit card required.
+Essentials: from $9/month at 10,000 occurrences/month up to $6,499/month at 50,000,000 occurrences/month. 90-day data retention, fine-grained rate limiting, and 4,000 AI credits/month included. Rollbar Analyze (RQL + Metrics API) is a paid add-on on this plan.
+Advanced: from $13/month at 10,000 occurrences/month up to $12,049/month at 50,000,000 occurrences/month. 180-day data retention, adaptive alerts, SCIM, 8,000 AI credits/month included, and Rollbar Analyze (RQL + Metrics API) included natively.
+Enterprise: custom pricing for teams over 80,000,000 events/month. Custom retention, custom BAA for HIPAA, audit controls, a dedicated customer success manager, and custom SLAs. Contact sales via rollbar.com/contact-us.
+Error monitoring pricing
+Price scales in steps with monthly error occurrences. Annual prices are the effective per-month price with annual billing (2 months free).
+Occurrences / month
+Essentials monthly
+Essentials annual
+Advanced monthly
+Advanced annual
+10,000 occurrences/mo
+$9/mo
+$7.50/mo
+$13/mo
+$10.83/mo
+25,000 occurrences/mo
+$19/mo
+$15.83/mo
+$39/mo
+$32.50/mo
+50,000 occurrences/mo
+$29/mo
+$24.17/mo
+$79/mo
+$65.83/mo
+100,000 occurrences/mo
+$49/mo
+$40.83/mo
+$129/mo
+$107.50/mo
+200,000 occurrences/mo
+$59/mo
+$49.17/mo
+$179/mo
+$149.17/mo
+300,000 occurrences/mo
+$79/mo
+$65.83/mo
+$229/mo
+$190.83/mo
+400,000 occurrences/mo
+$99/mo
+$82.50/mo
+$279/mo
+$232.50/mo
+500,000 occurrences/mo
+$119/mo
+$99.17/mo
+$339/mo
+$282.50/mo
+1,000,000 occurrences/mo
+$199/mo
+$165.83/mo
+$509/mo
+$424.17/mo
+1,500,000 occurrences/mo
+$299/mo
+$249.17/mo
+$679/mo
+$565.83/mo
+2,000,000 occurrences/mo
+$359/mo
+$299.17/mo
+$849/mo
+$707.50/mo
+3,000,000 occurrences/mo
+$499/mo
+$415.83/mo
+$1,149/mo
+$957.50/mo
+4,000,000 occurrences/mo
+$659/mo
+$549.17/mo
+$1,449/mo
+$1,207.50/mo
+5,000,000 occurrences/mo
+$799/mo
+$665.83/mo
+$1,749/mo
+$1,457.50/mo
+10,000,000 occurrences/mo
+$1,599/mo
+$1,332.50/mo
+$3,449/mo
+$2,874.17/mo
+15,000,000 occurrences/mo
+$2,299/mo
+$1,915.83/mo
+$4,749/mo
+$3,957.50/mo
+20,000,000 occurrences/mo
+$2,999/mo
+$2,499.17/mo
+$5,949/mo
+$4,957.50/mo
+25,000,000 occurrences/mo
+$3,599/mo
+$2,999.17/mo
+$6,949/mo
+$5,790.83/mo
+30,000,000 occurrences/mo
+$4,299/mo
+$3,582.50/mo
+$8,049/mo
+$6,707.50/mo
+35,000,000 occurrences/mo
+$4,899/mo
+$4,082.50/mo
+$9,049/mo
+$7,540.83/mo
+40,000,000 occurrences/mo
+$5,499/mo
+$4,582.50/mo
+$10,049/mo
+$8,374.17/mo
+45,000,000 occurrences/mo
+$5,999/mo
+$4,999.17/mo
+$11,049/mo
+$9,207.50/mo
+50,000,000 occurrences/mo
+$6,499/mo
+$5,415.83/mo
+$12,049/mo
+$10,040.83/mo
+Session Replay pricing
+Session Replay is an add-on priced by monthly replays; the price depends on your base plan. The Free plan includes 1,000 replays/month.
+Replays / month
+Essentials
+Advanced
+2,000 replays/mo
+$6.40/mo
+$8.96/mo
+3,000 replays/mo
+$9/mo
+$12.60/mo
+5,000 replays/mo
+$14/mo
+$19.60/mo
+10,000 replays/mo
+$26/mo
+$36.40/mo
+15,000 replays/mo
+$39/mo
+$54.60/mo
+25,000 replays/mo
+$65/mo
+$91/mo
+50,000 replays/mo
+$125/mo
+$175/mo
+75,000 replays/mo
+$187.50/mo
+$262.50/mo
+100,000 replays/mo
+$240/mo
+$336/mo
+200,000 replays/mo
+$480/mo
+$672/mo
+300,000 replays/mo
+$660/mo
+$924/mo
+400,000 replays/mo
+$840/mo
+$1,176/mo
+500,000 replays/mo
+$1,000/mo
+$1,400/mo
+1,000,000 replays/mo
+$1,900/mo
+$2,660/mo
+1,500,000 replays/mo
+$2,700/mo
+$3,780/mo
+2,000,000 replays/mo
+$3,400/mo
+$4,760/mo
+3,000,000 replays/mo
+$4,800/mo
+$6,720/mo
+4,000,000 replays/mo
+$6,000/mo
+$8,400/mo
+5,000,000 replays/mo
+$7,250/mo
+$10,150/mo
+6,000,000 replays/mo
+$8,400/mo
+$11,760/mo
+7,000,000 replays/mo
+$9,520/mo
+$13,328/mo
+8,000,000 replays/mo
+$10,720/mo
+$15,008/mo
+9,000,000 replays/mo
+$11,880/mo
+$16,632/mo
+10,000,000 replays/mo
+$13,000/mo
+$18,200/mo
+AI credits pricing
+AI credits cost the same on any plan. Essentials includes 4,000 credits/month at no charge and Advanced includes 8,000; the Free plan includes none.
+Credits / month
+Price (any plan)
+15,000 credits/mo
+$5/mo
+25,000 credits/mo
+$8/mo
+50,000 credits/mo
+$15/mo
+100,000 credits/mo
+$28/mo
+200,000 credits/mo
+$54/mo
+300,000 credits/mo
+$81/mo
+400,000 credits/mo
+$105/mo
+500,000 credits/mo
+$131/mo
+750,000 credits/mo
+$193/mo
+1,000,000 credits/mo
+$254/mo
+1,500,000 credits/mo
+$375/mo
+3,000,000 credits/mo
+$741/mo
+5,000,000 credits/mo
+$1,219/mo
+10,000,000 credits/mo
+$2,408/mo
+Overage
+Rollbar does not offer unlimited or flat-rate overage. When a plan’s occurrence limit is reached, one of three behaviors applies, configurable per account:
+Stop processing new events until the next billing cycle. This is the default: cost stays predictable, but new events are dropped.
+On-demand events billed at the plan’s same flat per-event rate. There is no premium overage rate.
+A dollar-capped overage budget that you set in advance.
+Billing
+Monthly and annual billing are both available. Annual billing is discounted: effectively 2 months free compared with paying monthly. Prices are in USD.
+FAQ
+Does Rollbar charge per seat?
+No. All plans include unlimited users.
+How many plans does Rollbar have?
+Four: Free, Essentials, Advanced, and Enterprise (custom pricing, for teams over 80,000,000 events/month).
+What happens if I go over my occurrence limit?
+See Overage above. Rollbar never bills an unbounded amount; you choose stop-processing, same-rate on-demand events, or a capped overage budget.
+Is there a free plan?
+Yes: 5,000 occurrences/month and 1,000 session replays/month, unlimited users, no credit card required, free forever.
+Where can I see the exact price for my volume?
+Every price step is listed in the tables on this page. rollbar.com/pricing has an interactive calculator. For Enterprise volumes (80M+ events/month), contact sales.
+Generated from Rollbar’s billing plan catalog on July 8, 2026. All prices in USD.

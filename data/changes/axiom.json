@@ -1,0 +1,750 @@
+[
+  {
+    "id": "axiom-co-pricing-20230327105035",
+    "url": "https://axiom.co/pricing",
+    "ts": "20230327105035",
+    "date": "2023-03-27",
+    "source": "wayback",
+    "prevTs": "20230130143933",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Axiom: 1 price changed (removed “Starts at $2499”)",
+    "pairs": [],
+    "added": [
+      "Get started for free"
+    ],
+    "removed": [
+      "Starts at $2499"
+    ],
+    "totals": {
+      "removed": 15,
+      "added": 29,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "axiom-co-pricing-20230529155931",
+    "url": "https://axiom.co/pricing",
+    "ts": "20230529155931",
+    "date": "2023-05-29",
+    "source": "wayback",
+    "prevTs": "20230327105035",
+    "kind": "price",
+    "score": 15,
+    "counts": {
+      "price": 1,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Axiom: 1 price, 6 limits changed (removed “Unlimited queries & 150 GB-hours of query exe…”; added “querying data into Axiom in less than 10 minu…”)",
+    "pairs": [],
+    "added": [
+      "Unlimited users, services, hosts, containers.",
+      "querying data into Axiom in less than 10 minutes."
+    ],
+    "removed": [
+      "Unlimited users, services, hosts, containers. Axiom unlocks observability on a new scale.",
+      "Unlimited queries & 150 GB-hours of query execution",
+      "Up to 100 monitors",
+      "60 day audit log",
+      "Starts at $699",
+      "Try 14-day free trial",
+      "Try free 14 day trial",
+      "5 TB $",
+      "150 GB-hours $",
+      "10 TB",
+      "5000 GB-hours",
+      "365 Days",
+      "60 days",
+      "500 GB",
+      "Get started for free"
+    ],
+    "totals": {
+      "removed": 41,
+      "added": 15,
+      "materialRemoved": 19,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "axiom-co-pricing-20230924010352",
+    "url": "https://axiom.co/pricing",
+    "ts": "20230924010352",
+    "date": "2023-09-24",
+    "source": "wayback",
+    "prevTs": "20230529155931",
+    "kind": "price",
+    "score": 28,
+    "counts": {
+      "price": 3,
+      "limit": 10,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Axiom: 3 prices, 10 limits changed (30 → 50; 90 → 95)",
+    "pairs": [
+      {
+        "before": "Up to 30 monitors",
+        "after": "Up to 50 monitors",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "30",
+            "after": "50"
+          }
+        ]
+      },
+      {
+        "before": "90 days",
+        "after": "95 days",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "90",
+            "after": "95"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Get started for free",
+      "$25",
+      "1 TB",
+      "50 TB",
+      "Includes 1TB/mo, then $0.15/GB",
+      "Usage driven up to 50TB/mo",
+      "Get started for free ->",
+      "50 TB/mo",
+      "Get started for free ->"
+    ],
+    "removed": [
+      "Unlimited users, services, hosts, containers.",
+      "5 TB",
+      "Starts at $99",
+      "Try 14-day free trial",
+      "Try free 14 day trial ->",
+      "5 TB i",
+      "100 GB",
+      "100 GB-hours i",
+      "7 TB",
+      "100 GB",
+      "Unlimited Queries",
+      "100 GB",
+      "10 GB-hours",
+      "100 GB",
+      "10 GB-hours",
+      "Unlimited Queries",
+      "How does the free trial work?"
+    ],
+    "totals": {
+      "removed": 79,
+      "added": 61,
+      "materialRemoved": 30,
+      "materialAdded": 22
+    }
+  },
+  {
+    "id": "axiom-co-pricing-20231126152226",
+    "url": "https://axiom.co/pricing",
+    "ts": "20231126152226",
+    "date": "2023-11-26",
+    "source": "wayback",
+    "prevTs": "20230924010352",
+    "kind": "price",
+    "score": 23,
+    "counts": {
+      "price": 5,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Axiom: 5 prices, 4 limits changed (added “95 days retention”)",
+    "pairs": [],
+    "added": [
+      "Get started for free",
+      "95 days retention",
+      "Unlimited sources",
+      "Unlimited users",
+      "50 monitors",
+      "$25",
+      "$2,600",
+      "$498",
+      "$2,000",
+      "$660",
+      "1 year",
+      "30 days",
+      "30 days",
+      "30 days",
+      "30 days",
+      "1 TB / mo"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 8,
+      "added": 38,
+      "materialRemoved": 0,
+      "materialAdded": 16
+    }
+  },
+  {
+    "id": "axiom-co-pricing-20240105121329",
+    "url": "https://axiom.co/pricing",
+    "ts": "20240105121329",
+    "date": "2024-01-05",
+    "source": "wayback",
+    "prevTs": "20231126152226",
+    "kind": "price",
+    "score": 17,
+    "counts": {
+      "price": 5,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Axiom: 5 prices, 1 limit changed (removed “$25”; added “95 days”)",
+    "pairs": [],
+    "added": [
+      "95 days"
+    ],
+    "removed": [
+      "$25",
+      "$2,600",
+      "$498",
+      "$2,000",
+      "$660",
+      "1 year"
+    ],
+    "totals": {
+      "removed": 12,
+      "added": 6,
+      "materialRemoved": 8,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "axiom-co-pricing-20250116223335",
+    "url": "https://axiom.co/pricing",
+    "ts": "20250116223335",
+    "date": "2025-01-16",
+    "source": "wayback",
+    "prevTs": "20240105121329",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Axiom: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Sign up for free",
+      "Sign up for free",
+      "Sign up for free →",
+      "Sign up for free →"
+    ],
+    "removed": [
+      "Get started for free",
+      "Get started for free",
+      "Get started for free →",
+      "Get started for free →",
+      "Get started for free"
+    ],
+    "totals": {
+      "removed": 61,
+      "added": 17,
+      "materialRemoved": 5,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "axiom-co-pricing-20250614165252",
+    "url": "https://axiom.co/pricing",
+    "ts": "20250614165252",
+    "date": "2025-06-14",
+    "source": "wayback",
+    "prevTs": "20250116223335",
+    "kind": "price",
+    "score": 180,
+    "counts": {
+      "price": 41,
+      "limit": 24,
+      "plan": 5
+    },
+    "material": true,
+    "headline": "Axiom: 41 prices, 24 limits, 5 plan names changed (500GB → 1,000GB; 500GB → 1,000GB)",
+    "pairs": [
+      {
+        "before": "500 GB/mo",
+        "after": "1,000 GB/mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "500GB",
+            "after": "1,000GB"
+          }
+        ]
+      },
+      {
+        "before": "500 GB/mo",
+        "after": "1,000 GB/mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "500GB",
+            "after": "1,000GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Always Free allowances",
+      "Starts at $25 per month",
+      "500TB",
+      "1PB",
+      "$25",
+      "1,000 GB FREE ┘",
+      "200 GB-hrs",
+      "$0",
+      "50 GB",
+      "100 GB FREE ┘",
+      "$0",
+      "$ 0",
+      "RBAC: $50/mo",
+      "SSO: $100/mo",
+      "DirSync: $100/mo",
+      "AuditLog: $50/mo",
+      "Use free forever",
+      "No credit card needed, free forever",
+      "Up to 500GB monthly data ingest",
+      "Get started for free",
+      "Always Free storage",
+      "25 GB",
+      "100 GB",
+      "Always Free data loading",
+      "Always Free query compute",
+      "100 GB-hrs/mo",
+      "$0.030/GB",
+      "0.096 - 0.12 credits/GB *",
+      "0.12 - 0.2 credits/GB-hour *",
+      "Add-on ($100/mo)",
+      "Add-on ($100/mo)",
+      "Add-on ($50/mo)",
+      "Add-on ($50/mo)",
+      "Always Free storage",
+      "100 GB",
+      "Always Free data loading",
+      "Always Free query compute",
+      "100 GB-hrs/mo",
+      "$0.030/GB",
+      "0.096 - 0.12 credits/GB *"
+    ],
+    "removed": [
+      "95 days retention",
+      "Unlimited sources",
+      "Unlimited users",
+      "50 monitors",
+      "95 days",
+      "30 days",
+      "30 days",
+      "30 days",
+      "0.5 TB",
+      "Send data from unlimited sources",
+      "3 monitors (Alert via email and Discord)",
+      "Sign up for free",
+      "1 TB",
+      "1 TB",
+      "Includes 1TB/mo, then $0.15/GB",
+      "Usage driven up to 50TB/mo",
+      "Unlimited team members",
+      "Up to 50 monitors",
+      "50 TB/mo",
+      "30 days",
+      "95 days",
+      "Sign up for free →",
+      "10 GB-hours/mo",
+      "30 days",
+      "All plans include bandwidth, API access, and unlimited data sources - subject to our",
+      "Does Axiom Cloud have a free tier?"
+    ],
+    "totals": {
+      "removed": 178,
+      "added": 348,
+      "materialRemoved": 36,
+      "materialAdded": 89
+    }
+  },
+  {
+    "id": "axiom-co-pricing-20251017213224",
+    "url": "https://axiom.co/pricing",
+    "ts": "20251017213224",
+    "date": "2025-10-17",
+    "source": "wayback",
+    "prevTs": "20250614165252",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Axiom: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "BYOC: 50,000 users, 2,500 datasets, 4,096 fields per dataset, 20,000 monitors"
+    ],
+    "totals": {
+      "removed": 58,
+      "added": 24,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "axiom-co-pricing-20260213074333",
+    "url": "https://axiom.co/pricing",
+    "ts": "20260213074333",
+    "date": "2026-02-13",
+    "source": "wayback",
+    "prevTs": "20251017213224",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Axiom: 1 price changed (added “+ $25 platform fee”)",
+    "pairs": [],
+    "added": [
+      "+ $25 platform fee"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "axiom-co-pricing-20260326002942",
+    "url": "https://axiom.co/pricing",
+    "ts": "20260326002942",
+    "date": "2026-03-26",
+    "source": "wayback",
+    "prevTs": "20260213074333",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Axiom: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 13,
+      "added": 13,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "axiom-co-pricing-20260521080421",
+    "url": "https://axiom.co/pricing",
+    "ts": "20260521080421",
+    "date": "2026-05-21",
+    "source": "wayback",
+    "prevTs": "20260326002942",
+    "kind": "limits",
+    "score": 8,
+    "counts": {
+      "price": 0,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Axiom: 4 limits changed (0.096 → 0.06; 0.12 → 0.08)",
+    "pairs": [
+      {
+        "before": "0.096 - 0.12 credits/GB *",
+        "after": "0.06 - 0.12 credits/GB *",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "0.096",
+            "after": "0.06"
+          }
+        ]
+      },
+      {
+        "before": "0.12 - 0.2 credits/GB-hour *",
+        "after": "0.08 - 0.2 credits/GB-hour *",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "0.12",
+            "after": "0.08"
+          }
+        ]
+      },
+      {
+        "before": "0.096 - 0.12 credits/GB *",
+        "after": "0.06 - 0.12 credits/GB *",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "0.096",
+            "after": "0.06"
+          }
+        ]
+      },
+      {
+        "before": "0.12 - 0.2 credits/GB-hour *",
+        "after": "0.08 - 0.2 credits/GB-hour *",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "0.12",
+            "after": "0.08"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "axiom-co-pricing-20260719194030",
+    "url": "https://axiom.co/pricing",
+    "ts": "20260719194030",
+    "date": "2026-07-19",
+    "source": "wayback",
+    "prevTs": "20260521080421",
+    "kind": "price",
+    "score": 150,
+    "counts": {
+      "price": 33,
+      "limit": 20,
+      "plan": 6
+    },
+    "material": true,
+    "headline": "Axiom: 33 prices, 20 limits, 6 plan names changed (removed “50TB”; added “→ Always Free allowance (1 TB / 100 GB-hrs / …”)",
+    "pairs": [],
+    "added": [
+      "Usage-based pricing with automatic volume discounts as you scale. Always Free allowances on every plan. Enterprise features unlock in-console, not on a sales call.",
+      "Start free → →",
+      "→ Always Free allowance (1 TB / 100 GB-hrs / 100 GB) included",
+      "Permanent. No credit card required.",
+      "→ 25 GB storage",
+      "Start Free → →",
+      "Ingest / month 2 TB /mo",
+      "100 GB 1 TB 100 TB 500 TB 5 PB",
+      "Query (GB-hrs/mo) Low 20 GB-hrs/mo",
+      "Base 800 GB-hrs/mo",
+      "High 4,000 GB-hrs/mo",
+      "Data loading 1 TB included · 1 TB @ $0.12/GB avg",
+      "$120",
+      "Query compute 100 GB-hrs included · 700 @ $0.183 avg",
+      "$128",
+      "Storage 24 TB retained · within free allowance",
+      "Est. monthly total $273 /mo",
+      "Personal Start Free",
+      "ALWAYS FREE ALLOWANCE",
+      "10 GB-hours / mo",
+      "Opus 4.8 (1M context) with xHigh effort • Claude Max",
+      "> Estimate my monthly cost for 1 PB/month ingest with 12-month retention.",
+      "How does the Always Free allowance work? What's the catch?",
+      "No catch. Start on Personal with no credit card (500 GB load / 10 GB-hours / 25 GB storage) or get more headroom on Axiom Cloud (1 TB load / 100 GB-hours / 100 GB storage, included in the $25/mo platform fee). You only pay when you exceed the free limits.",
+      "What happens when usage exceeds the Always Free allowance?",
+      "Personal is for individual developers and small projects (no credit card, smaller free allowance, 30-day retention). Axiom Cloud is for teams ($25/mo platform fee, larger free allowance, configurable retention, self-serve enterprise add-ons). Same architecture across both.",
+      "Start free. Scale without renegotiating.",
+      "Always Free allowance on every plan. No credit card to start. No sales call required.",
+      "Start free → →"
+    ],
+    "removed": [
+      "Sign up for free",
+      "Always Free allowances",
+      "50TB",
+      "500TB",
+      "1PB",
+      "1,000 GB",
+      "1,000 GB FREE ┘",
+      "200 GB-hrs",
+      "50 GB",
+      "100 GB FREE ┘",
+      "$0",
+      "$ 0",
+      "+ $25 platform fee",
+      "Use free forever",
+      "No credit card needed, free forever",
+      "Get started for free",
+      "Sign up for free →",
+      "Always Free storage",
+      "Always Free data loading",
+      "500 GB/mo",
+      "1,000 GB/mo",
+      "Always Free query compute",
+      "100 GB-hrs/mo",
+      "$0.030/GB",
+      "0.06 - 0.12 credits/GB *",
+      "0.08 - 0.2 credits/GB-hour *",
+      "Always Free storage",
+      "100 GB",
+      "Always Free data loading",
+      "1,000 GB/mo",
+      "Always Free query compute",
+      "100 GB-hrs/mo",
+      "$0.030/GB",
+      "0.06 - 0.12 credits/GB *",
+      "0.08 - 0.2 credits/GB-hour *",
+      "Add-on ($100/mo)",
+      "Add-on ($50/mo)",
+      "1 credit = $1 by default, lower with commitments",
+      "$0",
+      "Based on your data loading, we recommend 200 GB-hrs"
+    ],
+    "totals": {
+      "removed": 340,
+      "added": 219,
+      "materialRemoved": 91,
+      "materialAdded": 51
+    }
+  },
+  {
+    "id": "axiom-co-pricing-20260821124453",
+    "url": "https://axiom.co/pricing",
+    "ts": "20260821124453",
+    "date": "2026-08-21",
+    "source": "wayback",
+    "prevTs": "20260719194030",
+    "kind": "price",
+    "score": 26,
+    "counts": {
+      "price": 5,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Axiom: 5 prices, 6 limits changed (2TB → 1TB; 20GB → 10GB)",
+    "pairs": [
+      {
+        "before": "Ingest / month 2 TB /mo",
+        "after": "Ingest / month 1 TB /mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2TB",
+            "after": "1TB"
+          }
+        ]
+      },
+      {
+        "before": "Query (GB-hrs/mo) Low 20 GB-hrs/mo",
+        "after": "Query (GB-hrs/mo) Low 10 GB-hrs/mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "20GB",
+            "after": "10GB"
+          }
+        ]
+      },
+      {
+        "before": "Base 800 GB-hrs/mo",
+        "after": "Base 400 GB-hrs/mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "800GB",
+            "after": "400GB"
+          }
+        ]
+      },
+      {
+        "before": "High 4,000 GB-hrs/mo",
+        "after": "High 2,000 GB-hrs/mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4,000GB",
+            "after": "2,000GB"
+          }
+        ]
+      },
+      {
+        "before": "Data loading 1 TB included · 1 TB @ $0.12/GB avg",
+        "after": "Data loading 1 TB included",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "1TB",
+            "after": null
+          },
+          {
+            "before": "$0.12",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "Est. monthly total $273 /mo",
+        "after": "Est. monthly total $25 /mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$273",
+            "after": "$25"
+          }
+        ]
+      },
+      {
+        "before": "Storage 24 TB retained · within free allowance",
+        "after": "Storage 12 TB retained · within free allowance",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "24TB",
+            "after": "12TB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Query compute 100 GB-hrs included"
+    ],
+    "removed": [
+      "$120",
+      "Query compute 100 GB-hrs included · 700 @ $0.183 avg",
+      "$128"
+    ],
+    "totals": {
+      "removed": 25,
+      "added": 14,
+      "materialRemoved": 10,
+      "materialAdded": 8
+    }
+  }
+]

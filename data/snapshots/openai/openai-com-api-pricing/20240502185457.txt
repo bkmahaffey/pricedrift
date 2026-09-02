@@ -1,0 +1,318 @@
+Skip to main content
+Pricing
+Show prices per 1K tokens
+Pricing
+Simple and flexible. Only pay for what you use.
+Contact sales
+Language models
+Multiple models, each with different capabilities and price points. Prices can be viewed in units of either per 1M or 1K tokens. You can think of tokens as pieces of words, where 1,000 tokens is about 750 words. This paragraph is 35 tokens.
+Language models are also available in the Batch API that returns completions within 24 hours for a 50% discount.
+Learn about the Batch API
+(opens in a new window)
+GPT-4 Turbo
+With 128k context, fresher knowledge and the broadest set of capabilities, GPT-4 Turbo is more powerful than GPT-4 and offered at a lower price.
+Learn about GPT-4 Turbo
+(opens in a new window)
+Model
+Input
+Output
+gpt-4-turbo-2024-04-09
+$10.00 /
+1 M tokens
+$30.00 /
+1 M tokens
+Vision pricing calculator
+Set width px
+by Set height px
+= $0.00255
+Low resolution
+= $0.00255
+Price per 1K tokens (fixed)
+$0.01
+512 × 512 tiles
+1 × 1
+Total tiles
+1
+Base tokens
+85
+Tile tokens
+170 × 1 = 170
+Total tokens
+255
+Total price
+$0.00255
+GPT-4
+With broad general knowledge and domain expertise, GPT-4 can follow complex instructions in natural language and solve difficult problems with accuracy.
+Learn about GPT-4
+Model
+Input
+Output
+gpt-4
+$30.00 /
+1 M tokens
+$60.00 /
+1 M tokens
+gpt-4-32k
+$60.00 /
+1 M tokens
+$120.00 /
+1 M tokens
+GPT-3.5 Turbo
+GPT-3.5 Turbo models are capable and cost-effective.
+gpt-3.5-turbo-0125 is the flagship model of this family, supports a 16K context window and is optimized for dialog.
+gpt-3.5-turbo-instruct is an Instruct model and only supports a 4K context window.
+Learn about GPT-3.5 Turbo
+(opens in a new window)
+Model
+Input
+Output
+gpt-3.5-turbo-0125
+$0.50 /
+1 M tokens
+$1.50 /
+1 M tokens
+gpt-3.5-turbo-instruct
+$1.50 /
+1 M tokens
+$2.00 /
+1 M tokens
+Assistants API
+The Assistants API and its tools make it easy for developers to build AI assistants in their applications. The tokens used for the Assistant API are billed at the chosen language model's per-token input / output rates. Additionally, we charge the following fees for tool usage:
+Learn about Assistants API
+(opens in a new window)
+Tool
+Input
+Code interpreter
+$0.03 / session
+File Search
+$0.10 / GB of vector-storage per day (1 GB free)
+GB refers to binary gigabytes (also known as gibibyte), where 1 GB is 2^30 bytes.
+Fine-tuning models
+Create your own custom models by fine-tuning our base models with your training data. Once you fine-tune a model, you’ll be billed only for the tokens you use in requests to that model.
+Learn about fine-tuning
+(opens in a new window)
+Model
+Training
+Input Usage
+Output usage
+gpt-3.5-turbo
+$8.00 /
+1 M tokens
+$3.00 /
+1 M tokens
+$6.00 /
+1 M tokens
+davinci-002
+$6.00 /
+1 M tokens
+$12.00 /
+1 M tokens
+$12.00 /
+1 M tokens
+babbage-002
+$0.40 /
+1 M tokens
+$1.60 /
+1 M tokens
+$1.60 /
+1 M tokens
+Embedding models
+Build advanced search, clustering, topic modeling, and classification functionality with our embeddings offering.
+Learn about embeddings
+(opens in a new window)
+Model
+Usage
+text-embedding-3-small
+$0.02 /
+1 M tokens
+text-embedding-3-large
+$0.13 /
+1 M tokens
+ada v2
+$0.10 /
+1 M tokens
+Base models
+GPT base models are not optimized for instruction-following and are less capable, but they can be effective when fine-tuned for narrow tasks.
+Learn about GPT base models
+(opens in a new window)
+Model
+Usage
+davinci-002
+$2.00 /
+1 M tokens
+babbage-002
+$0.40 /
+1 M tokens
+Other models
+Image models
+Build DALL·E directly into your apps to generate and edit novel images and art. DALL·E 3 is the highest quality model and DALL·E 2 is optimized for lower cost.
+Learn about image generation
+(opens in a new window)
+Model
+Quality
+Resolution
+Price
+DALL·E 3
+Standard
+1024×1024
+$0.040 / image
+Standard
+1024×1792, 1792×1024
+$0.080 / image
+DALL·E 3
+HD
+1024×1024
+$0.080 / image
+HD
+1024×1792, 1792×1024
+$0.120 / image
+DALL·E 2
+1024×1024
+$0.020 / image
+512×512
+$0.018 / image
+256×256
+$0.016 / image
+Audio models
+Whisper (opens in a new window)
+can transcribe speech into text and translate many languages into English.
+Text-to-speech (TTS) (opens in a new window)
+can convert text into spoken audio.
+Model
+Usage
+Whisper
+$0.006 /
+minute (rounded to the nearest second)
+TTS
+$15.00 /
+1 M characters
+TTS HD
+$30.00 /
+1 M characters
+Older models
+We continue to improve our models and periodically retire older, less used models.
+View pricing info for other older models
+(opens in a new window)
+Model
+Input
+Output
+gpt-4-0125-preview
+$10.00 /
+1 M tokens
+$30.00 /
+1 M tokens
+gpt-4-1106-preview
+$10.00 /
+1 M tokens
+$30.00 /
+1 M tokens
+gpt-4-vision-preview
+$10.00 /
+1 M tokens
+$30.00 /
+1 M tokens
+gpt-3.5-turbo-1106
+$1.00 /
+1 M tokens
+$2.00 /
+1 M tokens
+gpt-3.5-turbo-0613
+$1.50 /
+1 M tokens
+$2.00 /
+1 M tokens
+gpt-3.5-turbo-16k-0613
+$3.00 /
+1 M tokens
+$4.00 /
+1 M tokens
+gpt-3.5-turbo-0301
+$1.50 /
+1 M tokens
+$2.00 /
+1 M tokens
+Simple and flexible
+Pay as you go
+To keep things simple and flexible, pay only for the resources you use.
+Choose your model
+Use the right model for the job. We offer a spectrum of capabilities and price points.
+FAQ
+What’s a token?
+You can think of tokens as pieces of words used for natural language processing. For English text, 1 token is approximately 4 characters or 0.75 words. As a point of reference, the collected works of Shakespeare are about 900,000 words or 1.2M tokens.
+To learn more about how tokens work and estimate your usage…
+Experiment with our interactive Tokenizer tool (opens in a new window)
+.
+Log in to your account and enter text into the Playground. The counter in the footer will display how many tokens are in your text.
+Which model should I use?
+We generally recommend that developers use either gpt-4 or gpt-3.5-turbo, depending on how complex the tasks you are using the models for are. gpt-4 generally performs better on a wide range of evaluations, while gpt-3.5-turbo returns outputs with lower latency and costs much less per token. We recommend experimenting with these models in Playground (opens in a new window)
+to investigate which models provide the best price performance trade-off for your usage. A common design pattern is to use several distinct query types which are each dispatched to the model appropriate to handle them.
+How will I know how many tokens I’ve used each month?
+Log in to your account to view your usage tracking dashboard (opens in a new window)
+This page will show you how many tokens you’ve used during the current and past billing cycles.
+How can I manage my spending?
+You can set a monthly budget in your billing settings (opens in a new window)
+after which we’ll stop serving your requests. There may be a delay in enforcing the limit, and you are responsible for any overage incurred. You can also configure an email notification threshold to receive an email alert once you cross that threshold each month. We recommend checking your usage tracking dashboard (opens in a new window)
+regularly to monitor your spend.
+Is the ChatGPT API included in the ChatGPT Plus subscription?
+No, OpenAI APIs and ChatGPT Plus subscriptions are billed separately. The API has its own pricing, which can be found at https://openai.com/pricing
+The ChatGPT Plus subscription covers usage on chat.openai.com only and costs $20/month.
+Does Playground usage count against my quota?
+Yes, we treat Playground usage the same as regular API usage.
+How is pricing calculated for Completions?
+Chat completion (opens in a new window)
+requests are billed based on the number of input tokens sent plus the number of tokens in the output(s) returned by the API.
+Your request may use up to num_tokens(input) + [max_tokens * max(n, best_of)] tokens, which will be billed at the per-engine rates outlined at the top of this page.
+In the simplest case, if your prompt contains 200 tokens and you request a single 900 token completion from the gpt-3.5-turbo-1106 API, your request will use 1100 tokens and will cost [(200 * 0.001) + (900 * 0.002)] / 1000 = $0.002.
+You can limit costs by reducing prompt length or maximum response length, limiting usage of best_of/n, adding appropriate stop sequences, or using engines with lower per-token costs.
+How is pricing calculated for Fine-tuning?
+There are two components to fine-tuning pricing: training and usage.
+When training a fine-tuned model, the total tokens used will be billed according to our training rates
+Note that the number of training tokens depends on the number of tokens in your training dataset and your chosen number of training epochs (opens in a new window)
+The default number of epochs is 4.
+(Tokens in your training file * Number of training epochs) = Total training tokens
+Once you fine-tune a model, you’ll be billed only for the tokens you use. Requests sent to fine-tuned models are billed at our usage rates
+.
+Is there an SLA on the various models?
+We will be publishing an SLA soon. In the meantime you can visit our Status page (opens in a new window)
+to monitor service availability and view historical uptime. If your company or application has specific requirements, please contact our sales team
+.
+Is the API available on Microsoft Azure?
+Yes. Azure customers can access the OpenAI API on Azure with the compliance, regional support, and enterprise-grade security that Azure offers. Learn more (opens in a new window)
+or contact sales@openai.com
+.
+Build with OpenAI
+Story
+Be My Eyes uses GPT-4 to transform visual accessibility.
+Story
+Be My Eyes uses GPT-4 to transform visual accessibility.
+Story
+How Iceland is using GPT-4 to preserve its language.
+Story
+How Iceland is using GPT-4 to preserve its language.
+Story
+Khan Academy explores the potential for GPT-4 in a limited pilot program.
+Story
+Khan Academy explores the potential for GPT-4 in a limited pilot program.
+Story
+Stripe leverages GPT-4 to streamline user experience and combat fraud.
+Story
+Stripe leverages GPT-4 to streamline user experience and combat fraud.
+Story
+GPT-4 deepens the conversation on Duolingo.
+Story
+GPT-4 deepens the conversation on Duolingo.
+Story
+Oscar
+Story
+Oscar
+Story
+Zelma
+Story
+Zelma
+Story
+Morgan Stanley wealth management deploys GPT-4 to organize its vast knowledge base.
+Story
+Morgan Stanley wealth management deploys GPT-4 to organize its vast knowledge base.
+Start creating with OpenAI’s powerful models.
+Get started
+Contact sales

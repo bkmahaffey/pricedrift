@@ -1,0 +1,118 @@
+Deploy for Free
+You can deploy instances of some Render services free of charge:
+Web services (web apps in Node.js, Python, Rails, etc.)
+PostgreSQL databases
+Redis instances
+Free instances have important limitations, and you should not use them for production applications. However, they’re perfect for testing out a new technology, working on a hobby project, or previewing Render’s developer experience!
+You can also deploy static sites
+on Render for free.
+Web services and static sites count against your monthly included allotments of outbound bandwidth and pipeline minutes. View your usage in the Render Dashboard
+.
+Create a Free instance
+Sign up for Render
+if you haven’t yet.
+In the Render Dashboard
+click New:
+Select Static Site, Web Service, PostgreSQL, or Redis. Free options aren’t available for other service types.
+During the service creation flow, you choose an instance type to run your service on (unless it’s a static site). Choose Free:
+That’s it! When you finish creating and deploying your service, it runs on a Free instance.
+Need help deploying your favorite framework? See our quickstarts
+.
+For details on limitations of Free instance types, see the sections below.
+Free web services
+Learn more about web services on Render.
+Free web services support many (but not all) features available to web services on paid instance types. Supported features include:
+Custom domains
+Managed TLS certificates
+Pull request previews
+Log streams
+Rollbacks
+(only to the two most recent previous deploys)
+The limitations below are specific to web services on the Free instance type. To avoid these limitations, you can create a web service on any paid instance type.
+Spinning down on idle
+Render spins down a Free web service that goes 15 minutes without receiving inbound traffic. Render spins the service back up whenever it next receives a request to process.
+Spinning up a service takes up to a minute, which causes a noticeable delay for incoming requests until the service is back up and running. For example, a browser page load will hang temporarily.
+Monthly usage limits
+Free instance hours
+Render grants 750 Free instance hours to each workspace per calendar month:
+A Free web service consumes these hours as long as it’s running ( spun-down services
+don’t consume Free instance hours).
+If you consume all of your Free instance hours during a given month, Render suspends all of your Free web services until the start of the next month.
+At the start of each month, your Free instance hours reset to 750 (remaining hours don’t roll over).
+Bandwidth and build pipeline
+Free web services count against your monthly included allotments of outbound bandwidth
+and build pipeline minutes
+.
+If you consume all of your outbound bandwidth during a given month, Render bills you for a supplementary allotment. If you haven’t added a payment method, Render instead suspends all of your Free services for the remainder of the month.
+If you consume all of your build pipeline minutes during a given month, Render bills you for a supplementary allotment (unless you’ve reached your spend limit
+If you haven’t added a payment method or you reach your spend limit, Render instead disables all new builds for your services for the remainder of the month.
+In this case, your services remain active using their existing deploys.
+Tracking usage
+View your usage details from the Monthly Free Usage section of your Billing page
+in the Render Dashboard:
+Render notifies you via email when you’re approaching a usage limit, and then again if you exceed that limit.
+Service-initiated traffic threshold
+Render may suspend a Free web service that initiates an uncommonly high volume of traffic over the public internet. Service-initiated traffic is not included in your workspace’s outbound bandwidth
+allotment, which applies only to your service’s responses to incoming requests.
+Examples of service-initiated traffic include:
+Accessing an external database
+Invoking external APIs
+Transferring data to or from external object storage
+If your service is suspended this way, you can restore it by moving it to any paid instance type.
+Other limitations
+Render might restart a Free web service at any time.
+Free web services don’t support the following features of paid instance types: Scaling
+beyond a single instance
+Persistent disks
+Running one-off jobs
+Shell access from the Render Dashboard
+Free web services can’t receive private network
+traffic. They can send private network requests to your data stores and paid services in the same region.
+Free web services can’t listen on reserved ports 18012, 18013, or 19099.
+Free PostgreSQL
+Learn more about PostgreSQL on Render.
+The limitations below are specific to PostgreSQL databases on the Free instance type. To avoid these limitations, you can upgrade your database to any paid instance type.
+Single-instance limit
+Only one Free PostgreSQL database can be active for any given workspace.
+1 GB limit
+Free PostgreSQL databases have a fixed storage capacity of 1 GB.
+30-day limit
+Free PostgreSQL databases expire 30 days after creation. An expired Free database is inaccessible unless you upgrade it to a paid instance type.
+After a Free database expires, you have a grace period of 14 days to upgrade it to a paid instance type. After the grace period, Render deletes the database (along with all of its data).
+Render notifies you via email when you’re approaching a Free database expiration, and then again when you’re approaching the end of the grace period.
+Other limitations
+Render might perform maintenance on a Free PostgreSQL database at any time. Your database is temporarily unavailable during maintenance.
+Render might restart a Free PostgreSQL database at any time.
+Free PostgreSQL databases don’t support any form of backups
+.
+Free Redis
+Learn more about Redis on Render.
+The limitations below are specific to Redis instances on the Free instance type. To avoid these limits, you can create a Redis instance on any paid instance type.
+Single-instance limit
+Only one Free Redis instance can be active for any given workspace.
+Ephemeral storage
+Free Redis instances are not backed by a persistent disk. Whenever an instance restarts, all of its data is lost.
+Other limitations
+Render might restart a Free Redis instance at any time (thereby deleting its data).
+If you upgrade a Free Redis instance to a paid instance type, all of its data is lost.
+Static sites
+Learn more about static sites on Render.
+Static sites are free to deploy on Render. As with web services, they count against your monthly included allotments of outbound bandwidth and pipeline minutes. View your usage in the Render Dashboard
+.
+Deploy for Free
+Create a Free instance
+Free web services
+Spinning down on idle
+Monthly usage limits
+Service-initiated traffic threshold
+Other limitations
+Free PostgreSQL
+Single-instance limit
+1 GB limit
+30-day limit
+Other limitations
+Free Redis
+Single-instance limit
+Ephemeral storage
+Other limitations
+Static sites

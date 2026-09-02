@@ -1,0 +1,403 @@
+[
+  {
+    "id": "stytch-com-pricing-20230528163633",
+    "url": "https://stytch.com/pricing",
+    "ts": "20230528163633",
+    "date": "2023-05-28",
+    "source": "wayback",
+    "prevTs": "20230111131856",
+    "kind": "price",
+    "score": 46,
+    "counts": {
+      "price": 14,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Stytch: 14 prices, 1 limit, 1 plan name changed ($0.10 → $0.05)",
+    "pairs": [
+      {
+        "before": "If you exceed $100 in free Stytch credits, we'll start billing you at our Developer plan pricing which is $0.10 per active user per month with no fixed term. If you want to upgrade, just reach out to our Sales Team (sales@stytch.com) and we can work with you on pricing that makes sense for your project.",
+        "after": "If you exceed $100 in free Stytch credits, we'll start billing you at our Developer plan pricing which is $0.05 per active user per month with no fixed term. If you want to upgrade, just reach out to our Sales Team (sales@stytch.com) and we can work with you on pricing that makes sense for your project.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.10",
+            "after": "$0.05"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free",
+      "$0/mo",
+      "5000 MAUs free",
+      "$0.05/MAU",
+      "$0",
+      "$249/mo",
+      "5000 MAUs free",
+      "$0.05/MAU",
+      "$249",
+      "$0",
+      "$249",
+      "5000 free $0.05",
+      "5,000 free",
+      "Unlimited",
+      "Unlimited",
+      "What happens if I surpass the free user tier?"
+    ],
+    "removed": [
+      "+ $0.10 per active user per month",
+      "$100 in free Stytch credits to get started",
+      "Refer a friend and receive an additional $100 in Stytch credits",
+      "Unlimited log ins per user",
+      "Unlimited projects",
+      "What happens if I exceed the $100 in free Stytch credits?"
+    ],
+    "totals": {
+      "removed": 28,
+      "added": 140,
+      "materialRemoved": 7,
+      "materialAdded": 17
+    }
+  },
+  {
+    "id": "stytch-com-pricing-20231013154539",
+    "url": "https://stytch.com/pricing",
+    "ts": "20231013154539",
+    "date": "2023-10-13",
+    "source": "wayback",
+    "prevTs": "20230528163633",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Stytch: 2 prices changed (removed “If you exceed $100 in free Stytch credits, we…”; added “Yes! We offer special deals for YCombinator p…”)",
+    "pairs": [],
+    "added": [
+      "Free in US/CA - international at market rate",
+      "Free in US/CA - international at market rate",
+      "Yes! We offer special deals for YCombinator participants and AI startups that have raised less than $10M. Please visit our Stytch for startups",
+      "page to learn more. We also offer a generous free plan for all startups regardless of industry or accelerator affiliation."
+    ],
+    "removed": [
+      "If you exceed $100 in free Stytch credits, we'll start billing you at our Developer plan pricing which is $0.05 per active user per month with no fixed term. If you want to upgrade, just reach out to our Sales Team (sales@stytch.com) and we can work with you on pricing that makes sense for your project."
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 20,
+      "materialRemoved": 1,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "stytch-com-pricing-20240227004305",
+    "url": "https://stytch.com/pricing",
+    "ts": "20240227004305",
+    "date": "2024-02-27",
+    "source": "wayback",
+    "prevTs": "20231013154539",
+    "kind": "price",
+    "score": 43,
+    "counts": {
+      "price": 12,
+      "limit": 3,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Stytch: 12 prices, 3 limits, 1 plan name changed (5000 → 25)",
+    "pairs": [
+      {
+        "before": "5000 free $0.05",
+        "after": "25 free $0.50",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "5000",
+            "after": "25"
+          },
+          {
+            "before": "$0.05",
+            "after": "$0.50"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Includes 25 organizations for free",
+      "Includes 1,000 MAUs for free",
+      "Start for free with:",
+      "Includes 25 organizations for free",
+      "Includes 1,000 MAUs for free",
+      "$799/mo",
+      "Includes 100 organizations for free",
+      "$799",
+      "Unlimited Enterprise SSO connections",
+      "$799",
+      "100 free $1.00",
+      "1000 free $0.05",
+      "5000 free $0.10",
+      "A monthly active user (MAU), also referred to as a 'member' in many B2B contexts, is defined as a user that engages with your app in a given month. A monthly active organization (MAO) is an organization with at least 2 members, where at least one of them has engaged with your app in a given month."
+    ],
+    "removed": [
+      "Free",
+      "$0.05/MAU",
+      "5000 MAUs free",
+      "$0.05/MAU",
+      "5,000 free",
+      "Free in US/CA - international at market rate",
+      "Free in US/CA - international at market rate",
+      "0 10m",
+      "$50",
+      "$0 $5000",
+      "$3,000,000",
+      "What happens if I surpass the free user tier?"
+    ],
+    "totals": {
+      "removed": 100,
+      "added": 107,
+      "materialRemoved": 14,
+      "materialAdded": 16
+    }
+  },
+  {
+    "id": "stytch-com-pricing-20240503220622",
+    "url": "https://stytch.com/pricing",
+    "ts": "20240503220622",
+    "date": "2024-05-03",
+    "source": "wayback",
+    "prevTs": "20240227004305",
+    "kind": "price",
+    "score": 50,
+    "counts": {
+      "price": 16,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Stytch: 16 prices, 1 limit changed (removed “Includes 25 organizations for free”; added “7,500 Members”)",
+    "pairs": [],
+    "added": [
+      "7,500 Members",
+      "$0.50/Organization",
+      "$0.05/Member",
+      "$0.005/M2M token",
+      "$0.50",
+      "$0.50",
+      "$0.50",
+      "$0.05",
+      "$0.05",
+      "$0.05",
+      "$0.005",
+      "$0.005",
+      "$0.005",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "removed": [
+      "Includes 25 organizations for free",
+      "Start for free with:",
+      "Includes 25 organizations for free",
+      "Includes 100 organizations for free",
+      "Includes 5,000 MAUs for free",
+      "25 free $0.50",
+      "100 free $1.00",
+      "1000 free $0.05",
+      "5000 free $0.10",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 102,
+      "added": 103,
+      "materialRemoved": 19,
+      "materialAdded": 24
+    }
+  },
+  {
+    "id": "stytch-com-pricing-20240810052535",
+    "url": "https://stytch.com/pricing",
+    "ts": "20240810052535",
+    "date": "2024-08-10",
+    "source": "wayback",
+    "prevTs": "20240503220622",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Stytch: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "stytch-com-pricing-20241112225255",
+    "url": "https://stytch.com/pricing",
+    "ts": "20241112225255",
+    "date": "2024-11-12",
+    "source": "wayback",
+    "prevTs": "20240810052535",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Stytch: 1 price changed (removed “Yes! We offer special deals for YCombinator p…”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Yes! We offer special deals for YCombinator participants and AI startups that have raised less than $10M. Please visit our Stytch for startups"
+    ],
+    "totals": {
+      "removed": 26,
+      "added": 48,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "stytch-com-pricing-20250209205104",
+    "url": "https://stytch.com/pricing",
+    "ts": "20250209205104",
+    "date": "2025-02-09",
+    "source": "wayback",
+    "prevTs": "20241112225255",
+    "kind": "price",
+    "score": 81,
+    "counts": {
+      "price": 22,
+      "limit": 4,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Stytch: 22 prices, 4 limits, 4 plan names changed (removed “Pro - $249/Month”; added “10,000 monthly active users”)",
+    "pairs": [],
+    "added": [
+      "Free yourself from feature gates and usage limits",
+      "What's always free",
+      "10,000 monthly active users",
+      "Unlimited organizations",
+      "Start building for free",
+      "Just $99 added on to your monthly total",
+      "Start building for free",
+      "What's always free",
+      "10,000 monthly active users",
+      "Unlimited organizations",
+      "Just $99 added on to your monthly total",
+      "Unlimited",
+      "$99",
+      "$125/connection",
+      "What happens if I surpass the usage included for free?",
+      "Our pricing does not include any hard caps or pricing cliffs. If you surpass the 10,000 MAUs, 5 SSO or SCIM connections, 1000 M2M tokens, or 10,000 fingerprints included in our free tier, you'll pay for only what you use at the rates outlined above.",
+      "Yes! We offer a generous deal for startups - Stytch is free until your Series A or three years of incorporation, whichever comes first. Please reach out to our startups@stytch.com"
+    ],
+    "removed": [
+      "Pro - $249/Month",
+      "Scale - $799/Month",
+      "1,000 Members",
+      "$249 / Month",
+      "1,000 Members",
+      "$799 / Month",
+      "7,500 Members",
+      "$0.50/Organization",
+      "$0.05/Member",
+      "$0.005/M2M token",
+      "Unlimited SSO Connections",
+      "$249",
+      "$799",
+      "$0.50",
+      "$0.50",
+      "$0.50",
+      "$0.05",
+      "$0.05",
+      "$0.05",
+      "$0.005",
+      "$0.005",
+      "$0.005",
+      "Unlimited",
+      "page to learn more. We also offer a generous free plan for all startups regardless of industry or accelerator affiliation.",
+      "A monthly active user (MAU), also referred to as a 'member' in many B2B contexts, is defined as a user that engages with your app in a given month. A monthly active organization (MAO) is an organization with at least 2 members, where at least one of them has engaged with your app in a given month."
+    ],
+    "totals": {
+      "removed": 141,
+      "added": 109,
+      "materialRemoved": 27,
+      "materialAdded": 19
+    }
+  },
+  {
+    "id": "stytch-com-pricing-20250319033945",
+    "url": "https://stytch.com/pricing",
+    "ts": "20250319033945",
+    "date": "2025-03-19",
+    "source": "wayback",
+    "prevTs": "20250209205104",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Stytch: 2 prices changed (added “$0 / Month”)",
+    "pairs": [],
+    "added": [
+      "$0 / Month",
+      "$0 / Month",
+      "Start building for free"
+    ],
+    "removed": [
+      "Free yourself from feature gates and usage limits",
+      "Yes! We offer a generous deal for startups - Stytch is free until your Series A or three years of incorporation, whichever comes first. Please reach out to our startups@stytch.com"
+    ],
+    "totals": {
+      "removed": 72,
+      "added": 105,
+      "materialRemoved": 12,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "stytch-com-pricing-20260810110821",
+    "url": "https://stytch.com/pricing",
+    "ts": "20260810110821",
+    "date": "2026-08-10",
+    "source": "wayback",
+    "prevTs": "20250319033945",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Stytch: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 41,
+      "added": 7,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  }
+]

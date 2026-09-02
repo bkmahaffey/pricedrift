@@ -1,0 +1,784 @@
+[
+  {
+    "id": "aws-amazon-com-s3-pricing-20230301043539",
+    "url": "https://aws.amazon.com/s3/pricing/",
+    "ts": "20230301043539",
+    "date": "2023-03-01",
+    "source": "wayback",
+    "prevTs": "20230101075833",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Amazon S3: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "aws-amazon-com-s3-pricing-20230501160831",
+    "url": "https://aws.amazon.com/s3/pricing/",
+    "ts": "20230501160831",
+    "date": "2023-05-01",
+    "source": "wayback",
+    "prevTs": "20230301043539",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 6,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Amazon S3: 6 prices changed (added “The S3 Multi-Region Access Point data routing…”)",
+    "pairs": [],
+    "added": [
+      "The S3 Multi-Region Access Point data routing cost is $0.0033 per GB. In this example, 10 GB of data was routed by your S3 Multi-Region Access Point.",
+      "Total S3 Multi-Region Access Point data routing cost = $0.0033 * 10 GB = $0.033",
+      "S3 Multi-Region Access Point data routing cost = $0.033",
+      "The data transfer charge from US East (N. Virginia) to US East (Ohio) is $0.01 per GB. In this example, 10 GB of data went through your S3 Multi-Region Access Point and was routed over the private AWS network from your application in US East (N. Virginia) to an S3 bucket in US East (Ohio).",
+      "Total S3 data transfer cost = $0.01 * 10 GB = $0.10",
+      "S3 data transfer cost = $0.10"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 19,
+      "materialRemoved": 0,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "aws-amazon-com-s3-pricing-20230704042003",
+    "url": "https://aws.amazon.com/s3/pricing/",
+    "ts": "20230704042003",
+    "date": "2023-07-04",
+    "source": "wayback",
+    "prevTs": "20230501160831",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Amazon S3: 2 limits changed (removed “Amazon S3 storage usage is calculated in bina…”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Amazon S3 storage usage is calculated in binary gigabytes (GB), where 1 GB is 2 30 bytes. This unit of measurement is also known as a gibibyte (GiB), defined by the International Electrotechnical Commission (IEC). Similarly, 1 TB is 2 40 bytes, i.e. 1024 GBs.",
+      "Amazon S3 storage usage is calculated in binary gigabytes (GB), where 1 GB is 2 30 bytes. This unit of measurement is also known as a gibibyte (GiB), defined by the International Electrotechnical Commission (IEC). Similarly, 1 TB is 2 40 bytes, i.e. 1024 GBs.",
+      "Amazon S3 storage usage is calculated in binary gigabytes (GB), where 1 GB is 2 30 bytes. This unit of measurement is also known as a gibibyte (GiB), defined by the International Electrotechnical Commission (IEC). Similarly, 1 TB is 2 40 bytes, i.e. 1024 GBs."
+    ],
+    "totals": {
+      "removed": 26,
+      "added": 19,
+      "materialRemoved": 4,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "aws-amazon-com-s3-pricing-20240702004601",
+    "url": "https://aws.amazon.com/s3/pricing/",
+    "ts": "20240702004601",
+    "date": "2024-07-02",
+    "source": "wayback",
+    "prevTs": "20230704042003",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Amazon S3: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 8,
+      "added": 16,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "aws-amazon-com-s3-pricing-20240902031206",
+    "url": "https://aws.amazon.com/s3/pricing/",
+    "ts": "20240902031206",
+    "date": "2024-09-02",
+    "source": "wayback",
+    "prevTs": "20240702004601",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Amazon S3: 1 plan name changed (removed “Instantly get access to the AWS Free Tier and…”)",
+    "pairs": [],
+    "added": [
+      "Free Tier"
+    ],
+    "removed": [
+      "Instantly get access to the AWS Free Tier and start experimenting with Amazon S3."
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 11,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "aws-amazon-com-s3-pricing-20250102113621",
+    "url": "https://aws.amazon.com/s3/pricing/",
+    "ts": "20250102113621",
+    "date": "2025-01-02",
+    "source": "wayback",
+    "prevTs": "20240902031206",
+    "kind": "price",
+    "score": 70,
+    "counts": {
+      "price": 20,
+      "limit": 4,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Amazon S3: 20 prices, 4 limits, 1 plan name changed (added “S3 Tables storage price is $0.0265 per GB for…”)",
+    "pairs": [],
+    "added": [
+      "S3 Tables storage price is $0.0265 per GB for the first 50 TB per month",
+      "Since you are storing 1 TB of data in your table, your charge would be:",
+      "S3 Tables storage charge: 1 TB (1,024 GB) * $0.0265/GB = $27.14",
+      "Amazon S3 Tables PUT request charge ($/1,000 requests)",
+      "S3 Tables PUT request price is $0.005 per 1,000 requests",
+      "S3 Tables PUT request charge: 1,003 PUT requests/day * 30 days = 30,090 PUT requests/month * $0.005/1,000 requests = $0.15",
+      "Amazon S3 Tables GET request charge ($/1,000 requests)",
+      "S3 Tables GET request price is $0.0004 per 1,000 requests",
+      "S3 Tables GET request charge: 500,000 GET requests/month * $0.0004/1,000 requests = $0.20",
+      "Amazon S3 Tables object monitoring charge ($/1,000 objects)",
+      "S3 Tables object monitoring price is $0.025 per 1,000 objects",
+      "Since you have a 1 TB table with an average object size of 100 MB, your charge would be:",
+      "S3 Tables object monitoring charge: 1 TB (1,048,576 MB)/ 100 MB = 10,486 objects * $0.025/1,000 objects = $0.26",
+      "Amazon S3 Tables compaction charge ($/1,000 objects and $/GB processed)",
+      "S3 Tables compaction price is $0.004 per 1,000 objects processed and $0.05 per GB processed",
+      "Since S3 Tables will process 30,000 new 5 MB data files added to your table, your charge would be:",
+      "S3 Tables compaction charge: 30,000 data files * $0.004/1,000 objects = $0.12 and 30,000 data files * 5 MB = 150,000 MB (146.48 GB) * $0.05 per GB processed = $7.32",
+      "S3 Tables storage charge = $27.14",
+      "S3 Tables PUT request charge = $0.15",
+      "S3 Tables GET request charge = $0.20",
+      "S3 Tables object monitoring charge = $0.26",
+      "S3 Tables compaction - objects processed charge = $0.12",
+      "S3 Tables compaction - data processed charge = $7.32",
+      "S3 Tables total = $35.19",
+      "Free",
+      "You upload 1,000,000 new images in an S3 general purpose bucket that has S3 Metadata configuration enabled, each with an average size of 5 MB. You want to determine the price for generating metadata against these 1,000,000 updates. This example uses the US West (PDX) Region.",
+      "S3 Metadata price is $0.45 per million objects",
+      "S3 Metadata Enhanced Metadata charge: 1,000,000 * $0.45/1,000,000 = $0.45",
+      "S3 Metadata charges: $0.45"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 70,
+      "materialRemoved": 0,
+      "materialAdded": 29
+    }
+  },
+  {
+    "id": "aws-amazon-com-s3-pricing-20250710025229",
+    "url": "https://aws.amazon.com/s3/pricing/",
+    "ts": "20250710025229",
+    "date": "2025-07-10",
+    "source": "wayback",
+    "prevTs": "20250102113621",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Amazon S3: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "*** S3 Express One Zone is the only storage class that supports the RenameObject API, which is priced the same as PUT, COPY, POST, LIST requests (per 1,000 requests) in S3 Express One Zone. There are no data upload or data retrieval changes with the RenameObject API."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 10,
+      "added": 10,
+      "materialRemoved": 3,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "aws-amazon-com-s3-pricing-20250803004348",
+    "url": "https://aws.amazon.com/s3/pricing/",
+    "ts": "20250803004348",
+    "date": "2025-08-03",
+    "source": "wayback",
+    "prevTs": "20250710025229",
+    "kind": "price",
+    "score": 102,
+    "counts": {
+      "price": 31,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Amazon S3: 31 prices, 5 limits changed ($0.005 removed; $0.004 → $0.002)",
+    "pairs": [
+      {
+        "before": "S3 Tables PUT request charge: 1,003 PUT requests/day * 30 days = 30,090 PUT requests/month * $0.005/1,000 requests = $0.15",
+        "after": "S3 Tables PUT request charge: 1,003 PUT requests/day * 30 days = 30,090 PUT requests/month *",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.005",
+            "after": null
+          },
+          {
+            "before": "1,000",
+            "after": null
+          },
+          {
+            "before": "$0.15",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "S3 Tables compaction price is $0.004 per 1,000 objects processed and $0.05 per GB processed",
+        "after": "S3 Tables compaction price is $0.002 per 1,000 objects processed and $0.005 per GB processed for default binpack compaction",
+        "confidence": 0.7,
+        "deltas": [
+          {
+            "before": "$0.004",
+            "after": "$0.002"
+          },
+          {
+            "before": "$0.05",
+            "after": "$0.005"
+          }
+        ]
+      },
+      {
+        "before": "S3 Tables compaction charge: 30,000 data files * $0.004/1,000 objects = $0.12 and 30,000 data files * 5 MB = 150,000 MB (146.48 GB) * $0.05 per GB processed = $7.32",
+        "after": "S3 Tables compaction charge: 30,000 data files * $0.002/1,000 objects = $0.06 and 30,000 data files * 5",
+        "confidence": 0.78,
+        "deltas": [
+          {
+            "before": "$0.004",
+            "after": "$0.002"
+          },
+          {
+            "before": "$0.12",
+            "after": "$0.06"
+          },
+          {
+            "before": "5MB",
+            "after": "5"
+          },
+          {
+            "before": "150,000MB",
+            "after": null
+          },
+          {
+            "before": "146.48GB",
+            "after": null
+          },
+          {
+            "before": "$0.05",
+            "after": null
+          },
+          {
+            "before": "$7.32",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "S3 Tables compaction - objects processed charge = $0.12",
+        "after": "S3 Tables compaction - objects processed charge = $0.06",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.12",
+            "after": "$0.06"
+          }
+        ]
+      },
+      {
+        "before": "S3 Tables compaction - data processed charge = $7.32",
+        "after": "S3 Tables compaction - data processed charge = $0.73",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$7.32",
+            "after": "$0.73"
+          }
+        ]
+      },
+      {
+        "before": "S3 Tables total = $35.19",
+        "after": "S3 Tables total = $28.54",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$35.19",
+            "after": "$28.54"
+          }
+        ]
+      },
+      {
+        "before": "S3 Metadata charge: 1,000,000 * $0.45/1,000,000 = $0.45",
+        "after": "S3 Metadata charge: 1,000,000 * $0.30/1,000,000 = $0.30",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.45",
+            "after": "$0.30"
+          },
+          {
+            "before": "$0.45",
+            "after": "$0.30"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0.005/1,000 requests = $0.15",
+      "MB = 150,000 MB (146.48 GB) * $0.005 per GB processed = $0.73.",
+      "1) Vector data: Each vector has a size determined by number of dimensions. Each dimension equals 4 bytes of storage per vector, so for example, a 1024-dimensional vector requires 4 KB of logical vector data.",
+      "((4 bytes * 1024 dimensions) vector data/vector + 1 KB filterable metadata/vector + 1 KB non-filterable metadata/vector + 0.17 KB key/vector) = 6.17 KB logical storage per average vector",
+      "6.17 KB/average vector * 250,000 vectors * 40 vector indexes = 59 GB logical storage",
+      "Total monthly storage cost = 59 GB * $0.06/GB per month = $3.54",
+      "Total monthly PUT cost = 1 full upload/6 months * 59 GB total storage * $0.20/GB = $1.97",
+      "((4 bytes * 1024 dimensions) vector data/vector + 1 KB filterable metadata/vector + 0.17 KB key/vector) = 5.17 KB/average vector processed",
+      "Tier 1 query processing cost = 100 thousand vectors * 5.17 KB/average vector * $0.004/TB * 1 million queries = $1.93",
+      "Tier 2 query processing cost = 150 thousand vectors * 5.17 KB/average vector * $0.002/TB * 1 million queries = $1.44",
+      "Query API cost = 1 million queries * $2.5/million queries = $2.50",
+      "Total query cost for 1M queries across all vector indexes = $5.87 per month",
+      "Total cost = $11.38 per month",
+      "((4 bytes * 1024 dimensions) vector data/vector + 1 KB filterable metadata/vector + 1 KB non-filterable metadata/vector + 0.17 KB key/vector) = 6.17 KB logical storage per average vector",
+      "6.17 KB/average vector * 10 million vectors* 40 indexes = 2,354 GB logical storage",
+      "Total monthly storage cost = 2,354 GB * $0.06/GB per month = $141.22",
+      "Total monthly PUT cost = 1 full upload/6 months * 2,354 GB total storage * $0.20/GB = $78.46",
+      "((4 bytes * 1024 dimensions) vector data/vector + 1 KB filterable metadata/vector + 0.17 KB key/vector) = 5.17 KB/average vector processed",
+      "Tier 1 query processing cost = 100 thousand vectors * 5.17 KB/average vector * $0.004/TB * 10 million queries = $19.26",
+      "Tier 2 query processing cost = 9.9 million vectors * 5.17 KB/average vector * $0.002/TB * 10 million queries = $953.36",
+      "Query API cost = 10 million queries * $2.5/million queries = $25.00",
+      "Total query cost = $997.62 per month",
+      "Total cost = $1,217.29 per month",
+      "S3 Metadata price for journal tables is $0.30 per million updates",
+      "S3 Metadata price for one-time backfill of existing objects is $0.30 per million updates",
+      "Since you have existing 200,000,000 objects, your charges would be:",
+      "S3 Metadata charge: 200,000,000 * $0.30/1,000,000 = $60.00",
+      "S3 Metadata live inventory price is $0.10 per million objects per month for buckets with objects greater than 1 billion. For buckets with fewer than 1 billion objects, there is no monthly cost for keeping your live inventory table up to date.",
+      "S3 Metadata charges for the first month: $0.30 + $60.00 + $0.00 = $60.30",
+      "S3 Metadata monthly charges, for the second month onwards: $0.30 + $0.00 + $0.00 = $0.30",
+      "Get started with Amazon S3 with AWS Free Tier"
+    ],
+    "removed": [
+      "Get started for free",
+      "You upload 1,000,000 new images in an S3 general purpose bucket that has S3 Metadata configuration enabled, each with an average size of 5 MB. You want to determine the price for generating metadata against these 1,000,000 updates. This example uses the US West (Oregon) Region.",
+      "S3 Metadata price is $0.45 per million object updates",
+      "S3 Metadata charges: $0.45",
+      "Sign up for a free account"
+    ],
+    "totals": {
+      "removed": 33,
+      "added": 124,
+      "materialRemoved": 14,
+      "materialAdded": 40
+    }
+  },
+  {
+    "id": "aws-amazon-com-s3-pricing-20250903053635",
+    "url": "https://aws.amazon.com/s3/pricing/",
+    "ts": "20250903053635",
+    "date": "2025-09-03",
+    "source": "wayback",
+    "prevTs": "20250803004348",
+    "kind": "price",
+    "score": 36,
+    "counts": {
+      "price": 10,
+      "limit": 2,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Amazon S3: 10 prices, 2 limits, 1 plan name changed (added “You have 1,000,000 high-resolution images sto…”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "You have 1,000,000 high-resolution images stored in the S3 Standard storage class, each with an average size of 2 MB. You want to verify the integrity of these images before processing them. This example uses the US East (N. Virginia) Region.",
+      "Job charge: S3 Batch Operations jobs cost $0.25 per job",
+      "Object charge: S3 Batch Operations charges $1 per million objects processed",
+      "Since you are processing 1,000,000 objects, your charges would be:",
+      "S3 Batch Operations Job charge: 1 job * $0.25 = $0.25",
+      "S3 Batch Operations Object charge: 1,000,000 objects * ($1 per million objects / 1,000,000) = $1.00",
+      "Total S3 Batch Operations charges: $1.25",
+      "Compute checksum operation cost: $0.004 per GB of data processed",
+      "For 1,000,000 objects at 2 MB each, the total data processed is:",
+      "Total data processed: 1,000,000 objects * 2 MB = 2,000,000 MB = 2,000 GB",
+      "Compute checksum operation charge: 2,000 GB * $0.004 per GB = $8.00",
+      "Amazon S3 Batch Operations charges: $1.25",
+      "Compute checksum operation charges: $8.00",
+      "Total = $9.25",
+      "and AWS Free Tier documentation"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 28,
+      "materialRemoved": 0,
+      "materialAdded": 16
+    }
+  },
+  {
+    "id": "aws-amazon-com-s3-pricing-20251102042501",
+    "url": "https://aws.amazon.com/s3/pricing/",
+    "ts": "20251102042501",
+    "date": "2025-11-02",
+    "source": "wayback",
+    "prevTs": "20250903053635",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Amazon S3: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "As part of the AWS Free Tier",
+      "you can get started with Amazon S3 for free. Upon sign-up, new AWS customers receive 5GB of Amazon S3 storage in the S3 Standard storage class; 20,000 GET Requests; 2,000 PUT, COPY, POST, or LIST Requests; and 100 GB of Data Transfer Out each month.",
+      "Your usage for the free tier is calculated each month across all AWS Regions except the AWS GovCloud Region and automatically applied to your bill; unused monthly usage will not roll over. Restrictions apply; see offer terms"
+    ],
+    "totals": {
+      "removed": 8,
+      "added": 5,
+      "materialRemoved": 3,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "aws-amazon-com-s3-pricing-20260101000032",
+    "url": "https://aws.amazon.com/s3/pricing/",
+    "ts": "20260101000032",
+    "date": "2026-01-01",
+    "source": "wayback",
+    "prevTs": "20251102042501",
+    "kind": "price",
+    "score": 33,
+    "counts": {
+      "price": 10,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Amazon S3: 10 prices, 2 limits changed (added “You have an Apache Iceberg table in US-West (…”)",
+    "pairs": [],
+    "added": [
+      "You have an Apache Iceberg table in US-West (Oregon) that you replicate to US-East (N. Virginia). Your hourly ETL job updates the table 24 times per day, creating an average of 21 new data files per update with an average object size of 10 MB.",
+      "Amazon S3 Tables replication PUT request charge ($/1,000 requests)",
+      "S3 Tables PUT request price is $0.005 per 1,000 requests Since you are replicating approximately 500 data files per day to the destination table, your charge would be:",
+      "S3 Tables replication PUT request charge: 21 PUT requests/hour * 24 hours = 504 PUT requests/day * 30 days = 15,120 PUT requests/month * $0.005/1,000 requests = $0.08",
+      "S3 Tables table update price is $0.010 per 1,000 table updates",
+      "S3 Tables replication table update charge: 24 table updates/day * 30 days = 720 table updates/month * $0.010/1,000 table updates = $0.0072",
+      "Inter-region Data Transfer OUT from US-West (Oregon) to US-East (N. Virginia) is $0.02 per GB",
+      "Since you are transferring approximately 504 data files * 10 MB = 5,040 MB (4.92 GB) per day, your charge would be:",
+      "Inter-region Data Transfer OUT charge: 4.92 GB/day * 30 days = 147.66 GB * $0.02/GB = $2.95",
+      "S3 Tables replication PUT request charge = $0.08",
+      "S3 Tables replication table update charge = $0.0072",
+      "Inter-region Data Transfer OUT charge = $2.95",
+      "S3 Tables replication total = $3.04"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 25,
+      "materialRemoved": 3,
+      "materialAdded": 16
+    }
+  },
+  {
+    "id": "aws-amazon-com-s3-pricing-20260401004449",
+    "url": "https://aws.amazon.com/s3/pricing/",
+    "ts": "20260401004449",
+    "date": "2026-04-01",
+    "source": "wayback",
+    "prevTs": "20260101000032",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Amazon S3: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "aws-amazon-com-s3-pricing-20260501013334",
+    "url": "https://aws.amazon.com/s3/pricing/",
+    "ts": "20260501013334",
+    "date": "2026-05-01",
+    "source": "wayback",
+    "prevTs": "20260401004449",
+    "kind": "price",
+    "score": 21,
+    "counts": {
+      "price": 7,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Amazon S3: 7 prices changed (added “S3 Files High-performance storage = 0.60 GB s…”)",
+    "pairs": [],
+    "added": [
+      "S3 Files High-performance storage = 0.60 GB small data + 0.25 GB writes = 0.85 GB x $0.30 = $0.255",
+      "S3 Files storage writes = 1 GB x $0.06 = $0.06",
+      "S3 Files storage writes sync = 0.25 GB x $0.03 = $0.0075",
+      "S3 Files small file reads from file system = 10 GB x 6% = 0.60 GB x $0.03 = $0.018",
+      "S3 Files small file reads sync = 10 GB x 6% = 0.60GB x $0.06 = $0.036",
+      "S3 Files reads directly from S3 bucket = 10 GB x (1 - 6%) x $0.0 FREE",
+      "S3 Files Monthly total = $0.3765"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 33,
+      "added": 25,
+      "materialRemoved": 0,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "aws-amazon-com-s3-pricing-20260601192553",
+    "url": "https://aws.amazon.com/s3/pricing/",
+    "ts": "20260601192553",
+    "date": "2026-06-01",
+    "source": "wayback",
+    "prevTs": "20260501013334",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Amazon S3: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "aws-amazon-com-s3-pricing-20260701163016",
+    "url": "https://aws.amazon.com/s3/pricing/",
+    "ts": "20260701163016",
+    "date": "2026-07-01",
+    "source": "wayback",
+    "prevTs": "20260601192553",
+    "kind": "price",
+    "score": 81,
+    "counts": {
+      "price": 22,
+      "limit": 8,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Amazon S3: 22 prices, 8 limits changed (4KB → 4; 10 → 12.5)",
+    "pairs": [
+      {
+        "before": "1) Vector data: Each vector has a size determined by number of dimensions. Each dimension equals 4 bytes of storage per vector, so for example, a 1024-dimensional vector requires 4 KB of logical vector data.",
+        "after": "1) Vector data: Each vector has a size determined by number of dimensions. Each dimension in a vector equals 4 bytes of storage, so for example, a 1024-dimensional vector requires 4 bytes * 1024 = 4 KB of logical vector data.",
+        "confidence": 0.94,
+        "deltas": [
+          {
+            "before": "4KB",
+            "after": "4"
+          },
+          {
+            "before": null,
+            "after": "1024"
+          },
+          {
+            "before": null,
+            "after": "4KB"
+          }
+        ]
+      },
+      {
+        "before": "6.17 KB/average vector * 10 million vectors* 40 indexes = 2,354 GB logical storage",
+        "after": "6.17 KB/average vector * 12.5 million vectors * 40 indexes = 2,942 GB logical storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10",
+            "after": "12.5"
+          },
+          {
+            "before": "2,354GB",
+            "after": "2,942GB"
+          }
+        ]
+      },
+      {
+        "before": "Total monthly storage cost = 2,354 GB * $0.06/GB per month = $141.22",
+        "after": "Total monthly storage cost = 2,942 GB * $0.06/GB per month = $176.52",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2,354GB",
+            "after": "2,942GB"
+          },
+          {
+            "before": "$141.22",
+            "after": "$176.52"
+          }
+        ]
+      },
+      {
+        "before": "Total monthly PUT cost = 1 full upload/6 months * 2,354 GB total storage * $0.20/GB = $78.46",
+        "after": "Total monthly PUT cost = 1 full upload/6 months * 2,942 GB total storage * $0.20/GB = $98.07",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2,354GB",
+            "after": "2,942GB"
+          },
+          {
+            "before": "$78.46",
+            "after": "$98.07"
+          }
+        ]
+      },
+      {
+        "before": "Total query cost = $997.62 per month",
+        "after": "Total query cost = $1,045.88 per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$997.62",
+            "after": "$1,045.88"
+          }
+        ]
+      },
+      {
+        "before": "Total cost = $1,217.29 per month",
+        "after": "Total cost = $1,320.47 per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1,217.29",
+            "after": "$1,320.47"
+          }
+        ]
+      },
+      {
+        "before": "S3 Metadata charges for the first month: $0.30 + $60.00 + $0.00 = $60.30",
+        "after": "S3 Metadata charges for the first month: $0.30 + $60.00 + $0.00 + $0.10 = $60.40",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$60.30",
+            "after": "$0.10"
+          },
+          {
+            "before": null,
+            "after": "$60.40"
+          }
+        ]
+      },
+      {
+        "before": "S3 Metadata monthly charges, for the second month onwards: $0.30 + $0.00 + $0.00 = $0.30",
+        "after": "S3 Metadata monthly charges, for the second month onwards: $0.30 + $0.00 + $0.00 + $0.10 = $0.40",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.30",
+            "after": "$0.10"
+          },
+          {
+            "before": null,
+            "after": "$0.40"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "* PUT is subject to a minimum charge of 128KB per PUT. To lower PUT costs, you can batch multiple vectors per PUT request.",
+      "*** Each result is billed for at least 256 bytes to account for the per-result processing cost of looking up and returning each result. The first 512KB of data returned per query is free.",
+      "(0.17 KB key/result + 1 KB filterable metadata/result + 1 KB non-filterable metadata/result) = 2.17 KB/result returned",
+      "100 results * 2.17 KB/result = 217 KB per query, below the 500 KB free tier = $0.00",
+      "Tier 3 query processing cost = 2.5 million vectors * 5.17 KB/average vector * $0.0004/TB * 10 million queries = $48.26",
+      "(0.17 KB key/result + 1 KB filterable metadata/result + 1 KB non-filterable metadata/result) = 2.17 KB/result returned",
+      "100 results * 2.17 KB/result = 217 KB per query, below the 500 KB free tier = $0.00",
+      "((4 bytes * 1024 dimensions) vector data/vector + 0.1 KB key/vector) = 4.1 KB logical storage per average vector",
+      "4.1 KB/average vector * 50 million vectors = 196 GB logical storage",
+      "Total monthly storage cost = 196 GB * $0.06/GB per month = $11.76",
+      "Total monthly PUT cost = 1 full upload/6 months * 196 GB total storage * $0.20/GB = $6.53",
+      "((4 bytes * 1024 dimensions) vector data/vector + 0.1 KB key/vector) = 4.1 KB/average vector processed",
+      "Tier 1 query processing cost = 100 thousand vectors * 4.1 KB/average vector * $0.004/TB * 1 million queries = $1.53",
+      "Tier 2 query processing cost = 9.9 million vectors * 4.1 KB/average vector * $0.002/TB * 1 million queries = $75.72",
+      "Tier 3 query processing cost = 40 million vectors * 4.1 KB/average vector * $0.0004/TB * 1 million queries = $61.04",
+      "Total per query: 10,000 results x 256 bytes = 2,560,000 bytes = 2,500 KB",
+      "Since the first 500 KB is free, the billable usage is 2,500 KB - 500 KB = 2,000 KB = 0.001953 GB",
+      "0.001953 GB x $0.01 per GB = $0.00001953 per query",
+      "Monthly cost: 1million queries * $0.00001953 = $19.53",
+      "Query API cost = 1 million queries * $2.5/million queries = $2.50",
+      "Total query cost = $160.32 per month",
+      "Total cost = $178.61 per month",
+      "Annotations allow you to attach up to 1MB of structured metadata directly to S3 objects. Annotations follow lifecycle operations including copying, replication, and deletion.",
+      "S3 Metadata price for metadata processed for the annotation table is $0.002 per GB",
+      "Since you are writing 1,000,000 annotations at 50KB each, your charges would be:",
+      "1,000,000 x 50KB = 47.7GB x $0.002/GB = $0.10"
+    ],
+    "removed": [
+      "S3 Lifecycle Transition request pricing below represents requests to that storage class. For example, transitioning data from S3 Standard to S3 Standard-Infrequent Access will be charged $0.01 per 1,000 requests."
+    ],
+    "totals": {
+      "removed": 31,
+      "added": 77,
+      "materialRemoved": 9,
+      "materialAdded": 34
+    }
+  }
+]

@@ -1,0 +1,208 @@
+[
+  {
+    "id": "strapi-io-pricing-cloud-20230520131806",
+    "url": "https://strapi.io/pricing-cloud",
+    "ts": "20230520131806",
+    "date": "2023-05-20",
+    "source": "wayback",
+    "prevTs": "20230306150021",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 2,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Strapi Cloud: 2 prices, 3 limits changed (7 → 14)",
+    "pairs": [
+      {
+        "before": "Audit logs (7 days)",
+        "after": "Audit logs (14 days)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "7",
+            "after": "14"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free Trial possible (14 days)",
+      "Free Trial (14 days)",
+      "You'll be able to select the Free Trial during the project creation",
+      "Free Trial possible (14 days)",
+      "Free Trial (14 days)",
+      "You'll be able to select the Free Trial during the project creation"
+    ],
+    "removed": [
+      "$99/month/project",
+      "$499/month/project"
+    ],
+    "totals": {
+      "removed": 13,
+      "added": 18,
+      "materialRemoved": 4,
+      "materialAdded": 8
+    },
+    "flap": true
+  },
+  {
+    "id": "strapi-io-pricing-cloud-20230718043251",
+    "url": "https://strapi.io/pricing-cloud",
+    "ts": "20230718043251",
+    "date": "2023-07-18",
+    "source": "wayback",
+    "prevTs": "20230520131806",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Strapi Cloud: 1 limit changed (14 → 7)",
+    "pairs": [
+      {
+        "before": "Audit logs (14 days)",
+        "after": "Audit logs (7 days)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "14",
+            "after": "7"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 12,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    },
+    "flap": true
+  },
+  {
+    "id": "strapi-io-pricing-cloud-20230908030033",
+    "url": "https://strapi.io/pricing-cloud",
+    "ts": "20230908030033",
+    "date": "2023-09-08",
+    "source": "wayback",
+    "prevTs": "20230718043251",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Strapi Cloud: 2 limits changed (removed “FROM STARTUPS TO FORTUNE 500S, INNOVATING TEA…”; added “Static sites deployed on Strapi Cloud include…”)",
+    "pairs": [],
+    "added": [
+      "We look at all the content entries (all your categories, articles, etc). We exclude the relations, logs, settings, users, etc. If you clean entries as you go, then it should free up some space.",
+      "Static sites deployed on Strapi Cloud include, by default, a Cache-Control header set to cache for 24 hours on CDN edge servers and 10 seconds in web browsers",
+      "We look at all the content entries (all your categories, articles, etc). We exclude the relations, logs, settings, users, etc. If you clean entries as you go, then it should free up some space.",
+      "The Audit Logs section provides a searchable and filterable display of all activities performed by users of the Strapi application during the last 7 days.",
+      "Free Trial (14 days)",
+      "We look at all the content entries (all your categories, articles, etc). We exclude the relations, logs, settings, users, etc. If you clean entries as you go, then it should free up some space."
+    ],
+    "removed": [
+      "FROM STARTUPS TO FORTUNE 500S, INNOVATING TEAMS TRUST STRAPI"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 38,
+      "materialRemoved": 2,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "strapi-io-pricing-cloud-20260829020809",
+    "url": "https://strapi.io/pricing-cloud",
+    "ts": "20260829020809",
+    "date": "2026-08-29",
+    "source": "wayback",
+    "prevTs": "20230908030033",
+    "kind": "price",
+    "score": 62,
+    "counts": {
+      "price": 10,
+      "limit": 16,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Strapi Cloud: 10 prices, 16 limits changed (removed “$ 99”; added “$35”)",
+    "pairs": [],
+    "added": [
+      "$35",
+      "100k API requests",
+      "50 GB asset storage",
+      "50 GB asset bandwidth",
+      "Unlimited database entries",
+      "$90",
+      "1M API requests",
+      "250 GB asset storage",
+      "500 GB asset bandwidth",
+      "Unlimited database entries",
+      "$450",
+      "10M API requests",
+      "1,000 GB asset storage",
+      "1,000 GB asset bandwidth",
+      "Unlimited database entries",
+      "∞ Unlimited*",
+      "Unlimited Unlimited",
+      "1 month 1 month",
+      "7 days 7 days",
+      "30 days 30 days",
+      "60 days 60 days",
+      "7 days 7 days",
+      "14 days 14 days",
+      "30 days 30 days",
+      "+$60 per environment / month, or $600 billed yearly +$60 per environment / month, or $600 billed yearly",
+      "+$300 per environment / month, or $3,000 billed yearly +$300 per environment / month, or $3,000 billed yearly",
+      "API requests - per project Additional API requests: +$1,50 per 25k",
+      "100,000 / month 100,000 / month",
+      "1,000,000 / month 1,000,000 / month",
+      "10,000,000 / month 10,000,000 / month",
+      "Asset storage (in GB) - per environment Additional asset storage: +$0,60 per GB",
+      "Asset bandwidth (in GB) - per project Additional bandwidth: +$30 per 100 GB",
+      "50 / month 50 / month",
+      "500 / month 500 / month",
+      "1,000 / month 1,000 / month",
+      "Free updates for upcoming features"
+    ],
+    "removed": [
+      "$ 99",
+      "Free Trial (14 days)",
+      "10 seats",
+      "We look at all the content entries (all your categories, articles, etc). We exclude the relations, logs, settings, users, etc. If you clean entries as you go, then it should free up some space.",
+      "Static sites deployed on Strapi Cloud include, by default, a Cache-Control header set to cache for 24 hours on CDN edge servers and 10 seconds in web browsers",
+      "Free Trial (14 days)",
+      "You'll be able to select the Free Trial during the project creation process.",
+      "$ 499",
+      "Free Trial (14 days)",
+      "20 seats included",
+      "We look at all the content entries (all your categories, articles, etc). We exclude the relations, logs, settings, users, etc. If you clean entries as you go, then it should free up some space.",
+      "Audit logs (7 days)",
+      "The Audit Logs section provides a searchable and filterable display of all activities performed by users of the Strapi application during the last 7 days.",
+      "Free Trial (14 days)",
+      "You'll be able to select the Free Trial during the project creation",
+      "Free Trial (14 days)",
+      "We look at all the content entries (all your categories, articles, etc). We exclude the relations, logs, settings, users, etc. If you clean entries as you go, then it should free up some space.",
+      "Do you plan to have a free tier?",
+      "Yes it is very likely that we will have a free tier that will be introduced in the 2nd half of 2023."
+    ],
+    "totals": {
+      "removed": 159,
+      "added": 123,
+      "materialRemoved": 19,
+      "materialAdded": 36
+    }
+  }
+]

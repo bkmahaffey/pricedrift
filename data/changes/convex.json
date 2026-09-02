@@ -1,0 +1,808 @@
+[
+  {
+    "id": "convex-dev-pricing-20240726172450",
+    "url": "https://www.convex.dev/pricing",
+    "ts": "20240726172450",
+    "date": "2024-07-26",
+    "source": "wayback",
+    "prevTs": "20240515053823",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Convex: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 8,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "convex-dev-pricing-20240919201842",
+    "url": "https://www.convex.dev/pricing",
+    "ts": "20240919201842",
+    "date": "2024-09-19",
+    "source": "wayback",
+    "prevTs": "20240726172450",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Convex: 1 limit changed (added “Idea to Market in Under 60 Days”)",
+    "pairs": [],
+    "added": [
+      "Idea to Market in Under 60 Days",
+      "Idea to Product in 3 Weeks"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 20,
+      "added": 17,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "convex-dev-pricing-20241110172357",
+    "url": "https://www.convex.dev/pricing",
+    "ts": "20241110172357",
+    "date": "2024-11-10",
+    "source": "wayback",
+    "prevTs": "20240919201842",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Convex: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "convex-dev-pricing-20250126084626",
+    "url": "https://www.convex.dev/pricing",
+    "ts": "20250126084626",
+    "date": "2025-01-26",
+    "source": "wayback",
+    "prevTs": "20241110172357",
+    "kind": "price",
+    "score": 68,
+    "counts": {
+      "price": 16,
+      "limit": 10,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Convex: 16 prices, 10 limits changed (removed “0.25 GB”; added “1,000,000/month”)",
+    "pairs": [],
+    "added": [
+      "1,000,000/month",
+      "25,000,000/month Then $2 per 1,000,000",
+      "250 GB-hours/month Then $0.30 per GB-hour",
+      "50 GB total Then $0.20 per GB each month",
+      "50 GB/month Then $0.20 per GB",
+      "100 GB total Then $0.03 per GB each month",
+      "50 GB/month Then $0.30 per GB",
+      "1 GB total Then $0.50 per GB each month",
+      "10 GB/month Then $0.10 per GB",
+      "1,000,000/month",
+      "25,000,000/month Then $2 per 1,000,000",
+      "250 GB-hours/month Then $0.30 per GB-hour",
+      "50 GB total Then $0.20 per GB each month",
+      "50 GB/month Then $0.20 per GB",
+      "100 GB total Then $0.03 per GB each month",
+      "50 GB/month Then $0.30 per GB",
+      "0.5 GB total",
+      "1 GB total Then $0.50 per GB each month",
+      "0.5 GB/month",
+      "10 GB/month Then $0.10 per GB"
+    ],
+    "removed": [
+      "0.25 GB",
+      "250 GB-hours",
+      "50 GB",
+      "50 GB",
+      "100 GB",
+      "50 GB",
+      "10 GB",
+      "250 GB-hours",
+      "50 GB",
+      "50 GB",
+      "100 GB",
+      "1 GB",
+      "50 GB",
+      "0.25 GB",
+      "1 GB",
+      "10 GB"
+    ],
+    "totals": {
+      "removed": 46,
+      "added": 68,
+      "materialRemoved": 28,
+      "materialAdded": 32
+    }
+  },
+  {
+    "id": "convex-dev-pricing-20250215065805",
+    "url": "https://www.convex.dev/pricing",
+    "ts": "20250215065805",
+    "date": "2025-02-15",
+    "source": "wayback",
+    "prevTs": "20250126084626",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Convex: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "convex-dev-pricing-20250306120441",
+    "url": "https://www.convex.dev/pricing",
+    "ts": "20250306120441",
+    "date": "2025-03-06",
+    "source": "wayback",
+    "prevTs": "20250215065805",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Convex: 1 price changed (added “$ 0.00”)",
+    "pairs": [],
+    "added": [
+      "$ 0.00"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 27,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "convex-dev-pricing-20250401032503",
+    "url": "https://www.convex.dev/pricing",
+    "ts": "20250401032503",
+    "date": "2025-04-01",
+    "source": "wayback",
+    "prevTs": "20250306120441",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Convex: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 27,
+      "added": 24,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "convex-dev-pricing-20250510121843",
+    "url": "https://www.convex.dev/pricing",
+    "ts": "20250510121843",
+    "date": "2025-05-10",
+    "source": "wayback",
+    "prevTs": "20250401032503",
+    "kind": "price",
+    "score": 10,
+    "counts": {
+      "price": 2,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Convex: 2 prices, 2 limits changed (removed “Idea to Product in 3 Weeks”; added “85,000/month”)",
+    "pairs": [],
+    "added": [
+      "85,000/month",
+      "500,000/month Then $10 per 1,000,000",
+      "85,000/month",
+      "500,000/month Then $10 per 1,000,000"
+    ],
+    "removed": [
+      "Idea to Product in 3 Weeks",
+      "Idea to Market in Under 60 Days"
+    ],
+    "totals": {
+      "removed": 14,
+      "added": 13,
+      "materialRemoved": 4,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "convex-dev-pricing-20250618063557",
+    "url": "https://www.convex.dev/pricing",
+    "ts": "20250618063557",
+    "date": "2025-06-18",
+    "source": "wayback",
+    "prevTs": "20250510121843",
+    "kind": "price",
+    "score": 86,
+    "counts": {
+      "price": 20,
+      "limit": 9,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Convex: 20 prices, 9 limits, 4 plan names changed (removed “85,000/month”; added “or $0/month and pay as you go”)",
+    "pairs": [],
+    "added": [
+      "Free & Starter",
+      "Start for free",
+      "or $0/month and pay as you go",
+      "85,000/month Starter only: then $11 per 1,000,000",
+      "1,000,000/month Starter only: then $2.2 per 1,000,000",
+      "20 GB-hours/month Starter only: then $0.33 per GB-hour",
+      "0.5 GB total Starter only: then $0.22 per GB each month",
+      "1 GB/month Starter only: then $0.22 per GB",
+      "1 GB total Starter only: then $0.03 per GB each month",
+      "1 GB/month Starter only: then $0.33 per GB",
+      "0.5 GB total Starter only: then $0.55 per GB each month",
+      "0.5 GB/month Starter only: then $0.11 per GB",
+      "Free & Starter",
+      "Start for free",
+      "or $0/month and pay as you go",
+      "85,000/month Starter only: then $11 per 1,000,000",
+      "1,000,000/month Starter only: then $2.2 per 1,000,000",
+      "20 GB-hours/month Starter only: then $0.33 per GB-hour",
+      "0.5 GB total Starter only: then $0.22 per GB each month",
+      "1 GB/month Starter only: then $0.22 per GB",
+      "1 GB total Starter only: then $0.03 per GB each month",
+      "1 GB/month Starter only: then $0.33 per GB",
+      "0.5 GB total Starter only: then $0.55 per GB each month",
+      "0.5 GB/month Starter only: then $0.11 per GB",
+      "Assuming switching from Free to Pro when you hit the limits."
+    ],
+    "removed": [
+      "85,000/month",
+      "1,000,000/month",
+      "20 GB-hours/month",
+      "0.5 GB total",
+      "1 GB/month",
+      "1 GB total",
+      "1 GB/month",
+      "0.5 GB total",
+      "0.5 GB/month",
+      "85,000/month",
+      "1,000,000/month",
+      "20 GB-hours/month",
+      "0.5 GB total",
+      "1 GB/month",
+      "1 GB total",
+      "1 GB/month",
+      "0.5 GB total",
+      "0.5 GB/month"
+    ],
+    "totals": {
+      "removed": 77,
+      "added": 80,
+      "materialRemoved": 36,
+      "materialAdded": 43
+    }
+  },
+  {
+    "id": "convex-dev-pricing-20260317091105",
+    "url": "https://www.convex.dev/pricing",
+    "ts": "20260317091105",
+    "date": "2026-03-17",
+    "source": "wayback",
+    "prevTs": "20250618063557",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Convex: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 13,
+      "added": 20,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "convex-dev-pricing-20260415130641",
+    "url": "https://www.convex.dev/pricing",
+    "ts": "20260415130641",
+    "date": "2026-04-15",
+    "source": "wayback",
+    "prevTs": "20260317091105",
+    "kind": "price",
+    "score": 129,
+    "counts": {
+      "price": 39,
+      "limit": 1,
+      "plan": 5
+    },
+    "material": true,
+    "headline": "Convex: 39 prices, 1 limit, 5 plan names changed (25,000,000 → 1M; 250GB → 20GB)",
+    "pairs": [
+      {
+        "before": "25,000,000/month Then $2 per 1,000,000",
+        "after": "1M/month $2.20 per 1M",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "25,000,000",
+            "after": "1M"
+          },
+          {
+            "before": "$2",
+            "after": "$2.20"
+          }
+        ]
+      },
+      {
+        "before": "250 GB-hours/month Then $0.30 per GB-hour",
+        "after": "20 GB-hours/month $0.33 per GB-hour",
+        "confidence": 0.8,
+        "deltas": [
+          {
+            "before": "250GB",
+            "after": "20GB"
+          },
+          {
+            "before": "$0.30",
+            "after": "$0.33"
+          }
+        ]
+      },
+      {
+        "before": "50 GB/month Then $0.30 per GB",
+        "after": "1 GB/month $0.22 per GB",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "50GB",
+            "after": "1GB"
+          },
+          {
+            "before": "$0.30",
+            "after": "$0.22"
+          }
+        ]
+      },
+      {
+        "before": "10 GB/month Then $0.10 per GB",
+        "after": "50 GB/month $0.20 per GB",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "10GB",
+            "after": "50GB"
+          },
+          {
+            "before": "$0.10",
+            "after": "$0.20"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Everything in Free & Starter, plus…",
+      "$2,500 monthly minimum",
+      "Free & Starter",
+      "Unlimited",
+      "Not included or applicable Free",
+      "1 GB total $0.033 per GB/mo",
+      "3,000 query-GBs/month $0.11 per 1000 query-GBs",
+      "50,000 query-GBs/month $0.10 per 1000 query-GBs",
+      "1 GB/month $0.132 per GB",
+      "50 GB/month $0.12 per GB",
+      "Free plan has built-in resources. Starter plan is pay-as-you-go beyond free tier limits. Professional includes higher built-in resources and lower per-unit rates."
+    ],
+    "removed": [
+      "Startups can apply for up to 1 year free of Convex Professional, including no seat fees and 30% off usage-based fees up to $30k. Start and scale your company with Convex.",
+      "Free & Starter",
+      "Free",
+      "85,000/month Starter only: then $11 per 1,000,000",
+      "1,000,000/month Starter only: then $2.2 per 1,000,000",
+      "20 GB-hours/month Starter only: then $0.33 per GB-hour",
+      "1 GB/month Starter only: then $0.22 per GB",
+      "1 GB total Starter only: then $0.03 per GB each month",
+      "1 GB/month Starter only: then $0.33 per GB",
+      "0.5 GB/month Starter only: then $0.11 per GB",
+      "500,000/month Then $10 per 1,000,000",
+      "50 GB/month Then $0.20 per GB",
+      "50 GB/month Then $0.30 per GB",
+      "10 GB/month Then $0.10 per GB",
+      "24 hour",
+      "Start for free",
+      "Free",
+      "or $0/month and pay as you go",
+      "$25 per developer/month",
+      "85,000/month Starter only: then $11 per 1,000,000",
+      "500,000/month Then $10 per 1,000,000",
+      "1,000,000/month Starter only: then $2.2 per 1,000,000",
+      "20 GB-hours/month Starter only: then $0.33 per GB-hour",
+      "0.5 GB total Starter only: then $0.22 per GB each month",
+      "50 GB total Then $0.20 per GB each month",
+      "1 GB/month Starter only: then $0.22 per GB",
+      "50 GB/month Then $0.20 per GB",
+      "1 GB total Starter only: then $0.03 per GB each month",
+      "100 GB total Then $0.03 per GB each month",
+      "1 GB/month Starter only: then $0.33 per GB",
+      "0.5 GB total Starter only: then $0.55 per GB each month",
+      "1 GB total Then $0.50 per GB each month",
+      "0.5 GB/month Starter only: then $0.11 per GB",
+      "24 hour",
+      "Assuming switching from Free to Pro when you hit the limits.",
+      "$ 0.00"
+    ],
+    "totals": {
+      "removed": 239,
+      "added": 171,
+      "materialRemoved": 50,
+      "materialAdded": 25
+    }
+  },
+  {
+    "id": "convex-dev-pricing-20260605223828",
+    "url": "https://www.convex.dev/pricing",
+    "ts": "20260605223828",
+    "date": "2026-06-05",
+    "source": "wayback",
+    "prevTs": "20260415130641",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Convex: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 51,
+      "added": 21,
+      "materialRemoved": 16,
+      "materialAdded": 16
+    }
+  },
+  {
+    "id": "convex-dev-pricing-20260902202107",
+    "url": "https://www.convex.dev/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260605223828",
+    "kind": "price",
+    "score": 50,
+    "counts": {
+      "price": 16,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Convex: 16 prices, 1 plan name changed (1M added; 25M added)",
+    "pairs": [
+      {
+        "before": "1M included $2.20 per additional 1M",
+        "after": "1M included ($2.20 per additional 1M) 1M included $2.20 per additional 1M",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "1M"
+          },
+          {
+            "before": null,
+            "after": "$2.20"
+          },
+          {
+            "before": null,
+            "after": "1M"
+          }
+        ]
+      },
+      {
+        "before": "25M included $2 per additional 1M",
+        "after": "25M included ($2 per additional 1M) 25M included $2 per additional 1M",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "25M"
+          },
+          {
+            "before": null,
+            "after": "$2"
+          },
+          {
+            "before": null,
+            "after": "1M"
+          }
+        ]
+      },
+      {
+        "before": "20 GB-hours included $0.33 per additional GB-hour",
+        "after": "20 GB-hours included ($0.33 per additional GB-hour) 20 GB-hours included $0.33 per additional GB-hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "20GB"
+          },
+          {
+            "before": null,
+            "after": "$0.33"
+          }
+        ]
+      },
+      {
+        "before": "250 GB-hours included $0.30 per additional GB-hour",
+        "after": "250 GB-hours included ($0.30 per additional GB-hour) 250 GB-hours included $0.30 per additional GB-hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "250GB"
+          },
+          {
+            "before": null,
+            "after": "$0.30"
+          }
+        ]
+      },
+      {
+        "before": "0.5 GB included $0.22 per additional GB",
+        "after": "0.5 GB included ($0.22 per additional GB) 0.5 GB included $0.22 per additional GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "0.5GB"
+          },
+          {
+            "before": null,
+            "after": "$0.22"
+          }
+        ]
+      },
+      {
+        "before": "50 GB included $0.20 per additional GB",
+        "after": "50 GB included ($0.20 per additional GB) 50 GB included $0.20 per additional GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "50GB"
+          },
+          {
+            "before": null,
+            "after": "$0.20"
+          }
+        ]
+      },
+      {
+        "before": "1 GB included $0.033 per additional GB",
+        "after": "1 GB included ($0.033 per additional GB) 1 GB included $0.033 per additional GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "1GB"
+          },
+          {
+            "before": null,
+            "after": "$0.033"
+          }
+        ]
+      },
+      {
+        "before": "100 GB included $0.03 per additional GB",
+        "after": "100 GB included ($0.03 per additional GB) 100 GB included $0.03 per additional GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "100GB"
+          },
+          {
+            "before": null,
+            "after": "$0.03"
+          }
+        ]
+      },
+      {
+        "before": "0.5 GB included $0.55 per additional GB",
+        "after": "0.5 GB included ($0.55 per additional GB) 0.5 GB included $0.55 per additional GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "0.5GB"
+          },
+          {
+            "before": null,
+            "after": "$0.55"
+          }
+        ]
+      },
+      {
+        "before": "1 GB included $0.50 per additional GB",
+        "after": "1 GB included ($0.50 per additional GB) 1 GB included $0.50 per additional GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "1GB"
+          },
+          {
+            "before": null,
+            "after": "$0.50"
+          }
+        ]
+      },
+      {
+        "before": "1 GB included $0.22 per additional GB",
+        "after": "1 GB included ($0.22 per additional GB) 1 GB included $0.22 per additional GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "1GB"
+          },
+          {
+            "before": null,
+            "after": "$0.22"
+          }
+        ]
+      },
+      {
+        "before": "50 GB included $0.20 per additional GB",
+        "after": "50 GB included ($0.20 per additional GB) 50 GB included $0.20 per additional GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "50GB"
+          },
+          {
+            "before": null,
+            "after": "$0.20"
+          }
+        ]
+      },
+      {
+        "before": "3,000 query-GBs included $0.11 per additional 1000 query-GBs",
+        "after": "3,000 query-GBs included ($0.11 per additional 1000 query-GBs) 3,000 query-GBs included $0.11 per additional 1000 query-GBs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "3,000"
+          },
+          {
+            "before": null,
+            "after": "$0.11"
+          },
+          {
+            "before": null,
+            "after": "1000"
+          }
+        ]
+      },
+      {
+        "before": "50,000 query-GBs included $0.10 per additional 1000 query-GBs",
+        "after": "50,000 query-GBs included ($0.10 per additional 1000 query-GBs) 50,000 query-GBs included $0.10 per additional 1000 query-GBs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "50,000"
+          },
+          {
+            "before": null,
+            "after": "$0.10"
+          },
+          {
+            "before": null,
+            "after": "1000"
+          }
+        ]
+      },
+      {
+        "before": "1 GB included $0.132 per additional GB",
+        "after": "1 GB included ($0.132 per additional GB) 1 GB included $0.132 per additional GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "1GB"
+          },
+          {
+            "before": null,
+            "after": "$0.132"
+          }
+        ]
+      },
+      {
+        "before": "50 GB included $0.12 per additional GB",
+        "after": "50 GB included ($0.12 per additional GB) 50 GB included $0.12 per additional GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "50GB"
+          },
+          {
+            "before": null,
+            "after": "$0.12"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free No Free"
+    ],
+    "removed": [
+      "Not included or applicable Free"
+    ],
+    "totals": {
+      "removed": 150,
+      "added": 117,
+      "materialRemoved": 18,
+      "materialAdded": 18
+    },
+    "transition": true
+  }
+]

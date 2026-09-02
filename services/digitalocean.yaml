@@ -3,6 +3,8 @@ name: DigitalOcean
 category: compute
 website: https://www.digitalocean.com
 tagline: Cloud VMs (Droplets), managed databases and Kubernetes
+min_lines: 5
+min_material: 0
 track_urls:
   - https://www.digitalocean.com/pricing/droplets
   - https://docs.digitalocean.com/platform/billing/signup-credit/

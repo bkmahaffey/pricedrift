@@ -1,0 +1,168 @@
+[
+  {
+    "id": "healthchecks-io-pricing-20241122232705",
+    "url": "https://healthchecks.io/pricing/",
+    "ts": "20241122232705",
+    "date": "2024-11-22",
+    "source": "wayback",
+    "prevTs": "20230129053550",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Healthchecks.io: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "It depends on how frequently your cron job runs and for what period you want to keep a log of received pings. For example, if you monitor a cron job that runs once a week, then the 100 log entries will cover two years. On the other hand, if the cron job runs every 5 minutes, the 100 log entries will only cover 8 hours."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 8,
+      "added": 13,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "healthchecks-io-pricing-20250528123433",
+    "url": "https://healthchecks.io/pricing/",
+    "ts": "20250528123433",
+    "date": "2025-05-28",
+    "source": "wayback",
+    "prevTs": "20241122232705",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Healthchecks.io: 1 limit changed (10 → 1000)",
+    "pairs": [
+      {
+        "before": "10'000 log entries per job",
+        "after": "1000 log entries per job",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10",
+            "after": "1000"
+          },
+          {
+            "before": "000",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "healthchecks-io-pricing-20250724160806",
+    "url": "https://healthchecks.io/pricing/",
+    "ts": "20250724160806",
+    "date": "2025-07-24",
+    "source": "wayback",
+    "prevTs": "20250528123433",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Healthchecks.io: 1 limit changed (1000 → 100)",
+    "pairs": [
+      {
+        "before": "1000 log entries per job",
+        "after": "100 log entries per job",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1000",
+            "after": "100"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "healthchecks-io-pricing-20260323153924",
+    "url": "https://healthchecks.io/pricing/",
+    "ts": "20260323153924",
+    "date": "2026-03-23",
+    "source": "wayback",
+    "prevTs": "20250724160806",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Healthchecks.io: 1 plan name changed (removed “What's \"3 / 10 / Unlimited Team Members\"?”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Unlimited team members",
+      "What's \"3 / 10 / Unlimited Team Members\"?"
+    ],
+    "totals": {
+      "removed": 8,
+      "added": 1,
+      "materialRemoved": 2,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "healthchecks-io-pricing-20260614033237",
+    "url": "https://healthchecks.io/pricing/",
+    "ts": "20260614033237",
+    "date": "2026-06-14",
+    "source": "wayback",
+    "prevTs": "20260323153924",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Healthchecks.io: 1 limit changed (removed “5 SMS & WhatsApp credits”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "5 SMS & WhatsApp credits",
+      "5 SMS & WhatsApp credits"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 0,
+      "materialRemoved": 2,
+      "materialAdded": 0
+    }
+  }
+]

@@ -1,0 +1,64 @@
+Home
+Pricing
+Serverless
+Serverless Pricing
+Unlock advanced technologies without the complexity of server management
+Close
+Back to pricing page
+Filters All Serverless Products
+Serverless Functions
+Serverless Containers
+Serverless Jobs
+Serverless compute Documentation
+Products list Open
+Serverless Functions
+Serverless Functions is billed on the resources consumed by your running functions over the month and requests, for more details: FAQ Billing Functions
+.
+Select Region
+Paris
+Serverless Function (sorted by column price ascending) Type of consumption
+Price
+Resource consumption
+€0.000005 / GB-s (€0.50 per 100k GB-s) after 400 000 GB-s Free Tier per account and per month
+Request consumption
+€0.000015 / 100 requests (€0.15 per 1M requests) after 1 000 000 requests Free Tier per account and per month
+Provisioned resources
+€0.000017 / GB-s (€1.70 per 100k GB-s)
+Legal notice
+Understanding the difference between execution and provisioning:
+Resource consumption (Active execution): You are only billed for the exact duration your function is running to process a request. When it stops executing, billing stops.
+Provisioned resources (Warm standby): To mitigate cold start latency, you can choose to keep function instances permanently awake (by setting a minimum scale value). These instances are billed continuously for as long as they are kept warm, whether they are actively processing requests or idle.
+Prices before tax.
+Go to product page
+Create account
+Serverless Containers
+Serverless Containers is billed on the resources consumed by your running container over the month, for more details: FAQ Billing Containers
+.
+Select Region
+Paris
+Serverless Containers (sorted by column price ascending) Type of consumption
+Price
+Memory consumption
+€0.000002 / GB-s (€0.20 per 100k GB-s) after a 400 000 GB-s Free Tier per account and per month
+vCPU consumption
+€0.00001 / vCPU-s (€1.00 per 100k vCPU-s) after a 200 000 vCPU-s Free Tier per account and per month
+Legal notice
+You can provision containers to mitigate cold start latency or ensure longer activities, you will be billed on the resources consumed.
+Prices before tax.
+Go to product page
+Create account
+Serverless Jobs
+Serverless Jobs is billed on the resources consumed by your running container over the month, for more details FAQ Billing Jobs
+.
+Select Region
+Paris
+Serverless Jobs (sorted by column price ascending) Type of consumption
+Price
+Memory consumption
+€0.000002 / GB-s (€0.20 per 100k GB-s) after a 400 000 GB-s Free Tier per account and per month
+vCPU consumption
+€0.00001 / vCPU-s (€1.00 per 100k vCPU-s) after a 200 000 vCPU-s Free Tier per account and per month
+Legal notice
+Prices before taxes
+Go to product page
+Create account

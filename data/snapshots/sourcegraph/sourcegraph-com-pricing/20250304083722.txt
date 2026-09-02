@@ -1,0 +1,262 @@
+Pricing
+Free
+AI editor extension for hobbyists or light usage
+$ 0
+per month
+1 User
+Get Started
+AI Features
+• Unlimited autocompletes
+• 200 chats and commands per month for free
+• Multiple LLM choices for chat
+- Claude 3.5 Sonnet
+- Claude 3.5 Haiku
+- Gemini 2.0 Flash
+- GPT-4o-mini
+Deployment
+• Multi-tenant Cloud
+Compatibility
+• VS Code, JetBrains IDEs, Visual Studio, and Eclipse
+• All popular coding languages
+• Many human languages
+• Local codebase context
+Support
+• Community support only
+Need increased chat limits and more LLM options?
+Get Pro for $9 a month →
+Enterprise Starter
+AI & search experience for growing organizations hosted on our cloud
+$ 19
+per user/month
+Up to 50 devs
+Get Started
+AI Features
+• Unlimited autocompletes
+• Increased limits for chats and commands
+• More powerful LLMs for chat
+- All models in Free
+- Gemini 2.0 Pro
+- GPT-4o
+• Integrated search results
+Code Search Features
+• Code Search
+• Symbol Search
+Deployment
+• Multi-tenant cloud
+• Private workspace
+• Privately indexed code
+Compatibility
+• VS Code, JetBrains IDEs, Visual Studio, and Eclipse
+• All popular coding languages
+• Many human languages
+• Remote codebase context (GitHub)
+Support
+• 9x5 Support
+Enterprise
+AI & search with enterprise-level security, scalability, and flexibility
+Contact us*
+$ 59
+per user/month
+25+ devs
+Contact sales
+Cloud
+Self-Hosted
+Everything in Enterprise Starter, plus:
+AI Features
+• Bring your own LLM key
+Code Search Features
+• Batch Changes
+• Code Insights
+• Code Navigation
+Deployment
+• Single-tenant Cloud
+• Self-Hosted
+Compatibility
+• Enterprise admin and security features
+• Remote codebase context (all code hosts)
+• Guardrails
+• Context Filters
+Support
+• 24 x 5 Support
+• Options:
+- Technical Advisory (TA) Support
+- Premium Support Offerings
+Support
+• Enterprise Support
+• Options:
+- Dedicated TA Support
+- Premium Support Offerings
+*Requires mandatory annual maintenance and services fee
+AI Assistant only
+All AI features (excludes intent detection and Code Search features)
+$25 per user/month (25 dev minimum)
+Contact Sales
+Code Search only
+All Code Search features. Excludes intent detection and AI features.
+$49 per user/month (25 dev minimum)
+Contact Sales
+Features
+Free
+Enterprise Starter
+Enterprise
+AI
+Autocomplete
+Unlimited
+Chat messages and prompts
+200/month
+Increased limits
+Unlimited
+Code context and personalization
+Local codebase
+Remote codebase
+Remote, enterprise-scale codebases
+Integrated search results
+-
+This is some text inside of a div block.
+Prompt Library
+This is some text inside of a div block.
+Bring your own LLM key
+-
+Self-Hosted only
+Auto-edit
+-
+Experimental
+Experimenal
+Agentic chat experience
+-
+Experimental
+Code Search
+-
+This is some text inside of a div block.
+Code Navigation
+-
+This is some text inside of a div block.
+Code Insights
+-
+This is some text inside of a div block.
+Code Monitoring
+-
+This is some text inside of a div block.
+Batch Changes
+-
+This is some text inside of a div block.
+Deployment
+Cloud deployment
+Multi-tenant
+Single-tenant
+Self-hosted option
+-
+This is some text inside of a div block.
+Private workspace
+-
+This is some text inside of a div block.
+Admin & Security
+SSO/SAML
+Basic (GH/GL/Google)
+This is some text inside of a div block.
+Role-based access control
+-
+This is some text inside of a div block.
+Analytics
+-
+Basic
+In-product
+Audit logs
+-
+This is some text inside of a div block.
+Guardrails
+-
+Beta
+Indexed code
+-
+Private
+Context Filters
+-
+This is some text inside of a div block.
+Compatibility
+Code hosts
+Local codebase
+GitHub
+All major code hosts
+IDEs
+VS Code, JetBrains IDEs, Visual Studio (Experimental), Eclipse (Experimental)
+Human languages
+Many human languages, dependent on the LLM used
+Coding languages
+All popular coding languages
+Support
+Support level
+Community support
+Enterprise support
+Dedicated TA support
+-
+Add-on
+Premium Support
+-
+Add-on
+Frequently asked questions
+Got a question you don’t see here? Contact us.
+What's the difference between Free, Enterprise Starter, and Enterprise plans?
+Free is best for individuals working on hobby projects.
+Enterprise Starter is for growing organizations who want Sourcegraph’s AI & search experience hosted on our cloud.
+Enterprise is for organizations who want AI and search across the SDLC with enterprise-level security, scalability, and flexible deployment..
+How are autocompletions counted for the Cody Free plan?
+Cody autocompletions are counted based on the number of suggestions that are served to the user in their IDE as ghost text. This includes all suggestions whether or not they are accepted by the user.
+How does Sourcegraph's context and personalization work?
+Cody can retrieve codebase context to personalize responses in a number of ways. For Free and Pro users, context is retrieved from their local repositories.
+The Enterprise Starter and Enterprise plans use Sourcegraph's search backend to retrieve context. This method pulls context from a team's full codebase at any scale.
+What forms of support are available for paid plans?
+Email and web portal support is available to both Enterprise Starter and Enterprise customers, and you can read more about our SLAs
+Premium support with enhanced SLAs is also available as an add-on for Enterprise customers.
+Can I upgrade or downgrade my plan?
+Users can upgrade or downgrade between Free and Pro within their account settings at any time. For Pro users upgrading to Enterprise Starter is also possible, but doing so currently does not cancel your subscription and you must cancel it yourself.
+To upgrade to Enterprise, please contact our Sales team.
+What's the difference between "flexible LLM options" and "bring your own LLM key"?
+Flexible LLM options: Users can select from multiple options to use for chat.
+Bring your own LLM key: Enterprise customers can optionally provide their own LLM API key for supported LLMs (including for LLM services such as Azure OpenAI and Amazon Bedrock). In this scenario, customers pay for their own LLM consumption and we provide a pricing discount with your plan.
+Does Sourcegraph use my code to improve the models used by other people?
+For Enterprise and Enterprise Starter customers, Sourcegraph will not train on your company's data unless your instance admin enables fine-tuning, which would customize an existing model exclusively for your use.
+For Free and Pro users, Sourcegraph will use your data to fine-tune the model you are accessing unless you disable this feature.
+Can Sourcegraph be run fully self-hosted?
+Sourcegraph requires cloud-based services to power its AI features. For customers looking for a fully self-hosted or air-gapped solution, please Contact us
+.
+Is an annual contract required for any of the plans?
+Pro and Enterprise Starter plans are billed on a monthly basis and can be paid with a credit card.
+How are active users counted and billed?
+Note: this only applies to Enterprise contracts. Pro and Enterprise Starter users pay for a seat every month, regardless of usage.
+A billable user is one who is signed in to their Enterprise account and actively interacts with the product (e.g. they see suggested autocompletions, they run commands or chat with Cody, they start new discussions, clear chat history, or copy text from chats, they change settings, and more). Simply having Cody installed is not enough to be considered a billable user.
+See a more comprehensive list of user actions that are included in our docs.
+Is my data secure when connected to Code Search?
+Sourcegraph has security and reliability controls built for the most demanding enterprises. To learn more, see our Security page.
+What if I want AI or Code Search Enterprise only?
+You can purchase Enterprise plans for AI or Code Search only. Contact us
+to learn more.
+Which code hosts is the Enterprise Starter plan compatible with?
+The Enterprise Starter plan is currently compatible with GitHub, with a limit of indexing up to 100 repositories for search and context.
+What are the limits of the Enterprise Starter plan?
+The Enterprise Starter plan supports up to 50 developers, and alongside a limit of 100 repositories for search and context, also includes 5Gb of storage. Adding additional seats gives you 1GB of additional storage per seat, for a maximum total of 10GB.
+Accelerating how software is built
+Features
+AI Editor Assistant
+Code Search
+Agents
+Batch Changes
+Resources
+Documentation
+Resource Library
+Blog
+Changelog
+Case Studies
+Community
+Support Forum
+Company
+About
+Careers
+Contact
+Handbook
+Brand Guide
+Pricing
+© 2025 Sourcegraph, Inc.
+System status
+Terms of service
+Privacy policy

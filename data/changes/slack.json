@@ -1,0 +1,624 @@
+[
+  {
+    "id": "slack-com-pricing-20230704145158",
+    "url": "https://slack.com/pricing",
+    "ts": "20230704145158",
+    "date": "2023-07-04",
+    "source": "wayback",
+    "prevTs": "20230301135512",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 5,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Slack: 5 prices, 2 limits changed ($7.25 → €6.75; $8.75 → €8.25)",
+    "pairs": [
+      {
+        "before": "$7.25 USD / mo* *Per active user, per month, when paying once a year",
+        "after": "€6.75 / mo* *Per active user, per month, when paying once a year",
+        "confidence": 0.89,
+        "deltas": [
+          {
+            "before": "$7.25",
+            "after": "€6.75"
+          }
+        ]
+      },
+      {
+        "before": "$8.75 USD per active user when paying month to month",
+        "after": "€8.25 per active user when paying month to month",
+        "confidence": 0.86,
+        "deltas": [
+          {
+            "before": "$8.75",
+            "after": "€8.25"
+          }
+        ]
+      },
+      {
+        "before": "$12.50 USD / mo* *Per active user, per month, when paying once a year",
+        "after": "€11.75 / mo* *Per active user, per month, when paying once a year",
+        "confidence": 0.89,
+        "deltas": [
+          {
+            "before": "$12.50",
+            "after": "€11.75"
+          }
+        ]
+      },
+      {
+        "before": "$15 USD per active user when paying month to month",
+        "after": "€14.10 per active user when paying month to month",
+        "confidence": 0.86,
+        "deltas": [
+          {
+            "before": "$15",
+            "after": "€14.10"
+          }
+        ]
+      },
+      {
+        "before": "You can use your credit card to pay for any plan. If you sign up for an Annual subscription and plan to spend at least $5,000 USD, we can invoice you annually. Visit the help center",
+        "after": "You can use your credit card to pay for any plan. If you sign up for an Annual subscription and plan to spend at least €4,650, we can invoice you annually. Visit the help center",
+        "confidence": 0.96,
+        "deltas": [
+          {
+            "before": "$5,000",
+            "after": "€4,650,"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Canvases in channels and DMs with 7 days of version history",
+      "Unlimited canvases with 30 days of version history and advanced user roles",
+      "Unlimited canvases with 90 days of version history",
+      "Unlimited canvases and version history plus advanced security and controls"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 16,
+      "added": 15,
+      "materialRemoved": 6,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "slack-com-pricing-20240501141824",
+    "url": "https://slack.com/pricing",
+    "ts": "20240501141824",
+    "date": "2024-05-01",
+    "source": "wayback",
+    "prevTs": "20230704145158",
+    "kind": "price",
+    "score": 25,
+    "counts": {
+      "price": 5,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Slack: 5 prices, 5 limits changed (€6.75 → $7.25; €8.25 → $8.75)",
+    "pairs": [
+      {
+        "before": "€6.75 / mo* *Per active user, per month, when paying once a year",
+        "after": "$7.25 USD per active user when paying per year",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "€6.75",
+            "after": "$7.25"
+          }
+        ]
+      },
+      {
+        "before": "€8.25 per active user when paying month to month",
+        "after": "$8.75 $4.38 USD / mo* *Per active user, per month, when paying monthly",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "€8.25",
+            "after": "$8.75"
+          },
+          {
+            "before": null,
+            "after": "$4.38"
+          }
+        ]
+      },
+      {
+        "before": "€11.75 / mo* *Per active user, per month, when paying once a year",
+        "after": "$12.50 USD per active user when paying per year",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "€11.75",
+            "after": "$12.50"
+          }
+        ]
+      },
+      {
+        "before": "€14.10 per active user when paying month to month",
+        "after": "$15 USD / mo* *Per active user, per month, when paying monthly",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "€14.10",
+            "after": "$15"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "10 app integrations or published workflows",
+      "Published workflows are created in Workflow Builder and made available to use in your workspace. App integrations are installed apps you can access from within Slack (like Google Drive or Office 365). Slack's free plan allows up to 10 published workflows or app integrations.",
+      "1:1 messages with people outside your organization",
+      "Curate content including text, files, images, videos and more using Slack canvas. The free plan has access to canvases shared in channels and in direct messages only.",
+      "Save 50% for 3 months",
+      "Unlimited message history",
+      "Unlimited app integrations and workflows",
+      "Unlimited message history",
+      "Unlimited app integrations and workflows",
+      "Unlimited message history",
+      "Unlimited app integrations and workflows",
+      "Unlimited workspaces",
+      "Like a virtual office, a workspace is where work happens in Slack. All your channels, direct messages and tools live in your workspace. Enterprise-level plans allow you to customize Slack to your business with unlimited workspaces.",
+      "Integrations with other apps Choose from over 2,600 apps in the Slack App Directory to support whatever work you do — from Salesforce, Jira, Google Drive, ChatGPT, and more.",
+      "Unlimited",
+      "1000 runs/month",
+      "2000 runs/month",
+      "5000 runs/month",
+      "Unlimited",
+      "Manage channel posting permissions Adjust who’s allowed to post to channels or use mentions that notify all channel members. This helps keep large channels, like those used for announcements, distraction-free.",
+      "If you’re using Slack on the free plan, upgrade your workspace"
+    ],
+    "removed": [
+      "Canvases in channels and DMs with 7 days of version history",
+      "All the benefits of Free, and:",
+      "Timely info and actions in one place with unlimited integrations",
+      "Unlimited canvases with 30 days of version history and advanced user roles",
+      "Large scale collaboration and alignment with support for up to 500,000 users",
+      "Unlimited canvases and version history plus advanced security and controls",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "You can use your credit card to pay for any plan. If you sign up for an Annual subscription and plan to spend at least €4,650, we can invoice you annually. Visit the help center",
+      "Team Owners can change the team’s subscription level. There are two options when downgrading from a paid plan to the Free plan:",
+      "You can downgrade to the Free plan immediately. If there is more than one day until your renewal date, we will prorate the remaining balance on your account and hold it for your team as a credit. You can use that credit towards a reactivation of your paid subscription in the future.",
+      "We can automatically downgrade you to the Free plan at your next renewal date. Your subscription will remain active at its current level through the end of the billing period that you’ve already paid for.",
+      "eCommerce platform deploys super bot to enable glitch-free purchases",
+      "eCommerce platform deploys super bot to enable glitch-free purchases"
+    ],
+    "totals": {
+      "removed": 87,
+      "added": 202,
+      "materialRemoved": 22,
+      "materialAdded": 28
+    }
+  },
+  {
+    "id": "slack-com-pricing-20240905165448",
+    "url": "https://slack.com/pricing",
+    "ts": "20240905165448",
+    "date": "2024-09-05",
+    "source": "wayback",
+    "prevTs": "20240501141824",
+    "kind": "limits",
+    "score": 7,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Slack: 2 limits, 2 plan names changed (removed “Every message sent in Slack is saved for 90 d…”; added “Every message sent in Slack is saved for 90 d…”)",
+    "pairs": [],
+    "added": [
+      "Every message sent in Slack is saved for 90 days and fully searchable. Upgrade to a paid plan to access the previous 12 months of messages, files, and additional data retention settings.",
+      "Unlimited workflows",
+      "Unlimited workflows",
+      "Unlimited workflows",
+      "Unlimited workflows",
+      "To be eligible for this limited-time offer, you must be purchasing Pro online within the first 7 days of creating your team. For more information on Slack’s plans and features, see here Opens in new window",
+      "Free Get Started"
+    ],
+    "removed": [
+      "Every message sent in Slack is saved for 90 days and fully searchable. Upgrade to a paid plan to get unlimited access to all your messages and files.",
+      "Curate content including text, files, images, videos and more using Slack canvas. The free plan has access to canvases shared in channels and in direct messages only.",
+      "Free",
+      "If you’re using Slack on the free plan, upgrade your workspace"
+    ],
+    "totals": {
+      "removed": 57,
+      "added": 60,
+      "materialRemoved": 12,
+      "materialAdded": 15
+    }
+  },
+  {
+    "id": "slack-com-pricing-20250306065906",
+    "url": "https://slack.com/pricing",
+    "ts": "20250306065906",
+    "date": "2025-03-06",
+    "source": "wayback",
+    "prevTs": "20240905165448",
+    "kind": "price",
+    "score": 16,
+    "counts": {
+      "price": 4,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Slack: 4 prices, 2 limits changed ($7.25 added; $12.50 added)",
+    "pairs": [
+      {
+        "before": "$8.75 $4.38 USD / mo Per active user, per month, when paying monthly",
+        "after": "$8.75 $4.38 USD / mo $7.25 USD per user / month, when paying annually",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": null,
+            "after": "$7.25"
+          }
+        ]
+      },
+      {
+        "before": "$15 USD / mo Per active user, per month, when paying monthly",
+        "after": "$15 USD / mo $12.50 USD per user / month, when paying annually",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": null,
+            "after": "$12.50"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "App integrations are installed apps you can access from within Slack (like Google Drive or Office 365). Slack's free plan allows up to 10 app integrations.",
+      "$7.25 USD per active user when paying per year",
+      "$12.50 USD per active user when paying per year",
+      "Unlimited",
+      "1000 runs/month",
+      "2000 runs/month",
+      "5000 runs/month"
+    ],
+    "totals": {
+      "removed": 30,
+      "added": 28,
+      "materialRemoved": 11,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "slack-com-pricing-20250804191342",
+    "url": "https://slack.com/pricing",
+    "ts": "20250804191342",
+    "date": "2025-08-04",
+    "source": "wayback",
+    "prevTs": "20250306065906",
+    "kind": "price",
+    "score": 30,
+    "counts": {
+      "price": 6,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Slack: 6 prices, 6 limits changed ($0 removed; 12 → 90)",
+    "pairs": [
+      {
+        "before": "$0 USD /mo free forever",
+        "after": "free forever",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$0",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "Every message sent in Slack is saved for 90 days and fully searchable. Upgrade to a paid plan to access the previous 12 months of messages, files, and additional data retention settings.",
+        "after": "90 days of message history Every message sent in Slack is saved for 90 days and fully searchable. Upgrade to a paid plan to access the previous 12 months of messages, files, and additional data retention settings.",
+        "confidence": 0.96,
+        "deltas": [
+          {
+            "before": "12",
+            "after": "90"
+          },
+          {
+            "before": null,
+            "after": "12"
+          }
+        ]
+      },
+      {
+        "before": "$8.75 $4.38 USD / mo $7.25 USD per user / month, when paying annually",
+        "after": "per user / month, when paying monthly $7.25 USD per user / month, when paying annually",
+        "confidence": 0.88,
+        "deltas": [
+          {
+            "before": "$8.75",
+            "after": "$7.25"
+          },
+          {
+            "before": "$4.38",
+            "after": null
+          },
+          {
+            "before": "$7.25",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$15 USD / mo $12.50 USD per user / month, when paying annually",
+        "after": "per user / month, when paying monthly $15 USD per user / month, when paying annually",
+        "confidence": 0.88,
+        "deltas": [
+          {
+            "before": "$12.50",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0 USD",
+      "Up to 10 apps Choose from over 2,600 apps in the Slack Marketplace to support whatever work you do — from Salesforce, Jira, Google Drive, ChatGPT, and more.",
+      "$8.75 $4.38 USD",
+      "Unlimited message history Every message, file, and conversation shared in Slack is saved and fully searchable, so you can find what you need and get up to speed faster.",
+      "Unlimited app integrations Choose from over 2,600 apps in the Slack Marketplace to support whatever work you do — from Salesforce, Jira, Google Drive, ChatGPT, and more.",
+      "50% off for 3 months*",
+      "$18 $9 USD",
+      "Unlimited message history Every message, file, and conversation shared in Slack is saved and fully searchable, so you can find what you need and get up to speed faster.",
+      "Unlimited app integrations Choose from over 2,600 apps in the Slack Marketplace to support whatever work you do — from Salesforce, Jira, Google Drive, ChatGPT, and more.",
+      "Unlimited message history Every message, file, and conversation shared in Slack is saved and fully searchable, so you can find what you need and get up to speed faster.",
+      "Unlimited app integrations Choose from over 2,600 apps in the Slack Marketplace to support whatever work you do — from Salesforce, Jira, Google Drive, ChatGPT, and more.",
+      "This 50% discount will only apply for the first 3 months from the date of your eligible upgraded plan (the “Discount Period”). After the Discount Period, Slack’s standard pricing will apply to the remainder of your plan and to any plan renewals.",
+      "Data retention policies On the free version of Slack, data older than one year will be deleted from your workspace on a rolling basis. On paid plans, data is kept for the lifetime of your workspace by default (but can be adjusted).",
+      "Up to 1 year"
+    ],
+    "removed": [
+      "90 days of message history",
+      "10 app integrations",
+      "1:1 messages with people outside your organization",
+      "Unlimited workflows",
+      "Unlimited message history",
+      "Unlimited app integrations",
+      "Unlimited workflows",
+      "Unlimited message history",
+      "Unlimited app integrations",
+      "Unlimited workflows",
+      "Unlimited message history",
+      "Unlimited app integrations",
+      "Unlimited workspaces",
+      "Like a virtual office, a workspace is where work happens in Slack. All your channels, direct messages and tools live in your workspace. Enterprise-level plans allow you to customize Slack to your business with unlimited workspaces.",
+      "Unlimited workflows",
+      "Unlimited number of channels"
+    ],
+    "totals": {
+      "removed": 166,
+      "added": 134,
+      "materialRemoved": 22,
+      "materialAdded": 20
+    }
+  },
+  {
+    "id": "slack-com-pricing-20251008040249",
+    "url": "https://slack.com/pricing",
+    "ts": "20251008040249",
+    "date": "2025-10-08",
+    "source": "wayback",
+    "prevTs": "20250804191342",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Slack: 2 limits changed (added “Data retention policies Free Slack deletes da…”)",
+    "pairs": [],
+    "added": [
+      "Data retention policies Free Slack deletes data after 1 year. Paid plans keep it for life by default, with adjustable settings.",
+      "Manage channel posting permissions Control who can post or @mention everyone in channels. This keeps large announcement channels distraction-free.",
+      "Free Pro Business+ Enterprise",
+      "Integrations with other apps Choose from over 2,600 apps in the Slack App Directory — from Salesforce, Jira, Google Drive, ChatGPT, and more.",
+      "Data retention policies Free Slack deletes data after 1 year. Paid plans keep it for life by default, with adjustable settings.",
+      "Up to 1 year",
+      "1 1 1 Unlimited",
+      "Manage channel posting permissions Control who can post or @mention everyone in channels. This keeps large announcement channels distraction-free."
+    ],
+    "removed": [
+      "Data retention policies On the free version of Slack, data older than one year will be deleted from your workspace on a rolling basis. On paid plans, data is kept for the lifetime of your workspace by default (but can be adjusted).",
+      "Manage channel posting permissions Adjust who’s allowed to post to channels or use mentions that notify all channel members. This helps keep large channels, like those used for announcements, distraction-free."
+    ],
+    "totals": {
+      "removed": 76,
+      "added": 155,
+      "materialRemoved": 11,
+      "materialAdded": 17
+    }
+  },
+  {
+    "id": "slack-com-pricing-20260114054034",
+    "url": "https://slack.com/pricing",
+    "ts": "20260114054034",
+    "date": "2026-01-14",
+    "source": "wayback",
+    "prevTs": "20251008040249",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Slack: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 73,
+      "added": 132,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "slack-com-pricing-20260204100934",
+    "url": "https://slack.com/pricing",
+    "ts": "20260204100934",
+    "date": "2026-02-04",
+    "source": "wayback",
+    "prevTs": "20260114054034",
+    "kind": "price",
+    "score": 11,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Slack: 3 prices, 1 plan name changed ($7.25 → €6.75)",
+    "pairs": [
+      {
+        "before": "per user / month, when paying monthly $7.25 USD per user / month, when paying annually",
+        "after": "per user / month, when paying monthly €6.75 per user / month, when paying annually",
+        "confidence": 0.88,
+        "deltas": [
+          {
+            "before": "$7.25",
+            "after": "€6.75"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "€8.25 €4.13",
+      "Free"
+    ],
+    "removed": [
+      "$8.75 $4.38 USD",
+      "Free Pro Business+ Enterprise"
+    ],
+    "totals": {
+      "removed": 14,
+      "added": 14,
+      "materialRemoved": 6,
+      "materialAdded": 6
+    },
+    "flap": true
+  },
+  {
+    "id": "slack-com-pricing-20260508123827",
+    "url": "https://slack.com/pricing",
+    "ts": "20260508123827",
+    "date": "2026-05-08",
+    "source": "wayback",
+    "prevTs": "20260204100934",
+    "kind": "price",
+    "score": 11,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Slack: 3 prices, 1 plan name changed (€6.75 → $7.25)",
+    "pairs": [
+      {
+        "before": "per user / month, when paying monthly €6.75 per user / month, when paying annually",
+        "after": "per user / month, when paying monthly $7.25 USD per user / month, when paying annually",
+        "confidence": 0.88,
+        "deltas": [
+          {
+            "before": "€6.75",
+            "after": "$7.25"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$8.75 $4.38 USD",
+      "Free Pro Business+ Enterprise+"
+    ],
+    "removed": [
+      "€8.25 €4.13",
+      "Free"
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 36,
+      "materialRemoved": 6,
+      "materialAdded": 6
+    },
+    "flap": true
+  },
+  {
+    "id": "slack-com-pricing-20260801000647",
+    "url": "https://slack.com/pricing",
+    "ts": "20260801000647",
+    "date": "2026-08-01",
+    "source": "wayback",
+    "prevTs": "20260508123827",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Slack: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "slack-com-pricing-20260902202107",
+    "url": "https://slack.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260801000647",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Slack: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Not very — we only need recent messages, 90 days is fine",
+      "Slack Free is a great place to start",
+      "Unlimited message history, easy collaboration with people outside your org, and everything a growing team needs to do its best work."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 56,
+      "materialRemoved": 0,
+      "materialAdded": 3
+    },
+    "transition": true
+  }
+]

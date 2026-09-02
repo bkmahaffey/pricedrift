@@ -1,0 +1,352 @@
+[
+  {
+    "id": "semaphore-io-pricing-20250725091450",
+    "url": "https://semaphore.io/pricing",
+    "ts": "20250725091450",
+    "date": "2025-07-25",
+    "source": "wayback",
+    "prevTs": "20250228103832",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Semaphore: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 16,
+      "added": 33,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "semaphore-io-pricing-20250822095656",
+    "url": "https://semaphore.io/pricing",
+    "ts": "20250822095656",
+    "date": "2025-08-22",
+    "source": "wayback",
+    "prevTs": "20250725091450",
+    "kind": "price",
+    "score": 35,
+    "counts": {
+      "price": 5,
+      "limit": 3,
+      "plan": 7
+    },
+    "material": true,
+    "headline": "Semaphore: 5 prices, 3 limits, 7 plan names changed (removed “✔️ Free 7,000 cloud minutes/month”; added “30/100 GB”)",
+    "pairs": [],
+    "added": [
+      "Start free trial",
+      "Start free trial",
+      "✅ Unlimited self-hosted agents, flexible concurrency",
+      "Unlimited",
+      "30/100 GB"
+    ],
+    "removed": [
+      "✔️ Free 7,000 cloud minutes/month",
+      "No credit card required",
+      "For private, hobby, and open-source project, the most generous free plan on the market.",
+      "✔️ No seat costs and unlimited users",
+      "✔️ Unlimited concurrency",
+      "Start building for free",
+      "No credit card required",
+      "Free",
+      "Maximum of 5 users and 7,000 cloud minutes are available on free plan.",
+      "Free",
+      "7,000 minutes ⓘ Only 2 vCPU machines are available on the free plan.",
+      "30/100 GB ⓘ Additional usage is charged $0.35 for network, and $0.07 for storage per GB/month.",
+      "200/1,000 GB ⓘ Additional usage is charged $0.35 for network, and $0.07 for storage per GB/month.",
+      "Free",
+      "✔️ Maximum 5 users",
+      "✔️ Free 7,000 cloud minutes/month",
+      "No credit card required",
+      "For private, hobby, and open-source project, the most generous free plan on the market.",
+      "✔️ Free self-hosted minutes",
+      "✔️ Unlimited concurrency & agents",
+      "Start building for free",
+      "No credit card required",
+      "$20",
+      "Free",
+      "Maximum of 5 users and 7,000 cloud minutes are available on free plan.",
+      "Free",
+      "$0",
+      "7,000 minutes ⓘ Only 2 vCPU machines are available on the free plan.",
+      "Unlimited",
+      "$20"
+    ],
+    "totals": {
+      "removed": 186,
+      "added": 116,
+      "materialRemoved": 35,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "semaphore-io-pricing-20250913054651",
+    "url": "https://semaphore.io/pricing",
+    "ts": "20250913054651",
+    "date": "2025-09-13",
+    "source": "wayback",
+    "prevTs": "20250822095656",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Semaphore: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 34,
+      "added": 37,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "semaphore-io-pricing-20251017192928",
+    "url": "https://semaphore.io/pricing",
+    "ts": "20251017192928",
+    "date": "2025-10-17",
+    "source": "wayback",
+    "prevTs": "20250913054651",
+    "kind": "price",
+    "score": 15,
+    "counts": {
+      "price": 5,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Semaphore: 5 prices changed (removed “$0”; added “$0.0075/min”)",
+    "pairs": [],
+    "added": [
+      "$0.0075/min",
+      "✔️ Unlimited users & concurrency",
+      "includes unlimited self-hosted runners",
+      "on-demand runners start at $0.0075/min",
+      "starting at $0.0075/min",
+      "starting at $0.0075/min"
+    ],
+    "removed": [
+      "$0",
+      "5 free seats included"
+    ],
+    "totals": {
+      "removed": 51,
+      "added": 40,
+      "materialRemoved": 3,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "semaphore-io-pricing-20260216181439",
+    "url": "https://semaphore.io/pricing",
+    "ts": "20260216181439",
+    "date": "2026-02-16",
+    "source": "wayback",
+    "prevTs": "20251017192928",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Semaphore: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 8,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "semaphore-io-pricing-20260512034117",
+    "url": "https://semaphore.io/pricing",
+    "ts": "20260512034117",
+    "date": "2026-05-12",
+    "source": "wayback",
+    "prevTs": "20260216181439",
+    "kind": "price",
+    "score": 106,
+    "counts": {
+      "price": 30,
+      "limit": 7,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Semaphore: 30 prices, 7 limits, 1 plan name changed (removed “$9”; added “$0.003”)",
+    "pairs": [],
+    "added": [
+      "$0.003",
+      "/min 2vCPU",
+      "$0.006",
+      "/min 4vCPU",
+      "$0.012",
+      "/min 8vCPU",
+      "/min 2vCPU",
+      "$0.015",
+      "/min 4vCPU",
+      "$0.09",
+      "/min 4vCPU",
+      "$0.0025",
+      "💳 Free Credits",
+      "Get $15 free credits per month",
+      "Free up to 20 GB/month egress and 100 GB/month storage.",
+      "Additional usage: $0.35/GB egress and $0.07/GB storage.",
+      "Each project includes 9.6 GB of cache storage to speed up builds and dependency installs.",
+      "$400/month for 10 Gbps bandwidth and 400 GB storage.",
+      "$400/month with 10 Gbps bandwidth and 400 GB storage.",
+      "🤝 Free Support",
+      "$50",
+      "$250",
+      "$500",
+      "✔️ SLA: P1 4h, P2 1 day, P3 3 days, P4 1 week",
+      "$750",
+      "✔️ SLA: P1 1h, P2 2h, P3 1 day, P4 3 days",
+      "$125",
+      "$300",
+      "$1,000",
+      "$2,000",
+      "3 hours",
+      "$900",
+      "5 hours",
+      "$1250",
+      "10 hours",
+      "$2000"
+    ],
+    "removed": [
+      "Free",
+      "✔️ Unlimited users & concurrency",
+      "$9",
+      "includes unlimited self-hosted runners",
+      "on-demand runners start at $0.0075/min",
+      "✔️ Unlimited self-hosted agents",
+      "$0",
+      "Unlimited",
+      "$0/mo",
+      "Unlimited",
+      "starting at $0.0075/min",
+      "30/100 GB",
+      "$9 user/mo",
+      "Unlimited",
+      "starting at $0.0075/min",
+      "30/100 GB ⓘ Additional usage is charged $0.35 for network, and $0.07 for storage per GB/month.",
+      "Unlimited",
+      "200/1,000 GB ⓘ Additional usage is charged $0.35 for network, and $0.07 for storage per GB/month.",
+      "Can I use Semaphore 2.0 for my open-source project? Linux and macOS open-source projects get free parallel CI on Semaphore."
+    ],
+    "totals": {
+      "removed": 164,
+      "added": 143,
+      "materialRemoved": 22,
+      "materialAdded": 39
+    }
+  },
+  {
+    "id": "semaphore-io-pricing-20260711213406",
+    "url": "https://semaphore.io/pricing",
+    "ts": "20260711213406",
+    "date": "2026-07-11",
+    "source": "wayback",
+    "prevTs": "20260512034117",
+    "kind": "price",
+    "score": 20,
+    "counts": {
+      "price": 5,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Semaphore: 5 prices, 3 limits changed (added “5m 01s Fastest”)",
+    "pairs": [],
+    "added": [
+      "5m 01s Fastest",
+      "7m 15s",
+      "9m 44s",
+      "11m 15s",
+      "13m 18s",
+      "$0.04 Cheapest",
+      "$0.06",
+      "$0.08",
+      "$0.09",
+      "$0.11"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 12,
+      "added": 34,
+      "materialRemoved": 2,
+      "materialAdded": 12
+    }
+  },
+  {
+    "id": "semaphore-io-pricing-20260901171824",
+    "url": "https://semaphore.io/pricing",
+    "ts": "20260901171824",
+    "date": "2026-09-01",
+    "source": "wayback",
+    "prevTs": "20260711213406",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Semaphore: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "semaphore-io-pricing-20260902202107",
+    "url": "https://semaphore.io/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260901171824",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Semaphore: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

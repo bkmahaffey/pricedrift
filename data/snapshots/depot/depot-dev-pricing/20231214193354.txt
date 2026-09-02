@@ -1,0 +1,205 @@
+We use cookies
+to understand how people use Depot.
+Reject cookies
+Accept cookies
+Depot
+Sign In
+Sign Up
+Menu
+Drop Week
+Pricing
+Integrations
+Blog
+Docs
+Help
+About
+Sign In
+Sign Up
+Simple pricing for any team
+Start for free, collaborate with your team, scale to any size.
+Starter
+$ 20 per month
+Perfect for solo devs, side-projects, and experiments.
+Including:
+1000 build minutes included
+then $0.02/min after
+50 GB cache included
+then $0.10/GB/mo after
+Unlimited builds
+1 user
+1 project
+7-day data retention
+Usage caps
+Community support
+Start a 7-day trial
+No credit card required
+Team
+$ 100 per month
+For teams building production applications.
+All previous features, plus:
+1000 build minutes included
+then $0.02/min after
+50 GB cache included
+then $0.10/GB/mo after
+Up to 5 users
+Up to 5 projects
+Ephemeral registry
+User RBAC
+30-day data retention
+Email support
+Start a 7-day trial
+No credit card required
+Business
+$ 350 per month
+Support and performance for businesses looking to scale.
+All previous features, plus:
+5000 build minutes included
+then $0.02/min after
+250 GB cache included
+then $0.10/GB/mo after
+Up to 50 users
+Up to 50 projects
+Google Workspace SSO
+90-day data retention
+Slack Connect support
+Bring your own cloud
+Start a 7-day trial
+No credit card required
+Enterprise
+Custom
+Custom infrastructure and compliance for large organizations.
+All previous features, plus:
+Custom build minutes
+Unlimited users
+Unlimited projects
+Isolated infrastructure
+SSO with SAML, SCIM
+Advanced compliance controls
+Audit logging
+Custom data retention
+AWS Marketplace billing
+Contact us
+Flexible payment options available
+Depot contributes 1% of your subscription to remove CO 2 from the atmosphere through Stripe Climate
+.
+Choose your compute
+Accelerate your builds with our cloud or yours.
+Use Depot Cloud
+Fully-managed remote build compute and cache. Only pay for what you use, available with all plans.
+Compute
+Each build runs with 16 vCPUs, 32GB memory
+Storage
+NVMe SSD storage cluster for layer cache and registry storage
+Supported Regions
+us-east-1
+eu-central-1
+Or connect your own AWS account
+Retain full control over your build data and customize your build infrastructure, included with the business and enterprise plans.
+Customize machine types
+Retain control of your data
+Access private services
+VPC peering
+Autoscaling
+Deploy with Terraform
+Plan comparison
+Features
+Starter
+$ 20
+per month
+Start a 7-day trial
+Team
+$ 100
+per month
+Start a 7-day trial
+Business
+$ 350
+per month
+Start a 7-day trial
+Enterprise
+Contact
+Contact us
+Builds
+Unlimited
+Users
+1 user
+5 users
+50 users
+Unlimited
+Projects
+1 project
+5 projects
+50 projects
+Unlimited
+Data Retention
+7 days
+30 days
+90 days
+Custom
+Multi-platform builds
+Build Insights
+API Access
+Integrations
+Usage caps
+Ephemeral Registry
+×
+Compute
+Depot Cloud
+Multiple regions
+Bring your own compute
+×
+Dedicated infrastructure
+×
+Available
+Security and audit
+OIDC
+RBAC
+×
+SSO (Google Workspace)
+×
+SSO (SAML)
+×
+SCIM
+×
+Audit Logging
+×
+Support and Billing
+Support
+Community
+Email
+Slack Connect
+AWS Marketplace
+×
+Invoice billing
+×
+Common questions
+Have any questions that aren't covered? Contact us
+.
+Which plan is right for me?
+The Starter plan is perfect for solo developers, side-projects, and experiments. It includes 1 user, 1 project, and 7-day data retention.
+The Team plan is great for teams building production applications. It includes up to 5 users, 5 projects, and 30-day data retention.
+The Business plan is for dev teams looking to scale, and includes additional security controls such as Google Workspace SSO. It includes up to 50 users, 50 projects, and 90-day data retention.
+The Enterprise plan is for businesses looking for custom infrastructure and compliance controls. It includes unlimited users and projects, and custom data retention.
+What is Depot Cloud?
+Depot Cloud is fully-managed remote build infrastructure, including both compute and cache. With Depot Cloud, we handle the infrastructure and orchestration, with no need to manage your own build infrastructure. Depot Cloud runs on AWS, and is available in the us-east-1 and eu-central-1 regions.
+Can I self-host Depot? What is bring-your-own-compute?
+You can connect an AWS account to your Depot account and Depot will use that account for build compute and cache storage. This ensures that your build data is entirely under your control and allows you to access any private services in your account during the build. Additionally you can customize the types of machines used for your builds.
+Bring your own compute is available on the Business and Enterprise plans, at no additional charge.
+Am I charged for build minutes and cache storage?
+You are charged monthly for the build time and cache storage used by your builds. Build time is billed on a per-minute basis, tracked per second. We only bill for whole minutes used at the end of the month. Cache storage is billed as the average cache used at the end of the month, sampled per hour.
+When will I be billed?
+Your plan is billed monthly, starting on the day you sign up. If you sign up on the 15th of the month, you will be billed on the 15th of each month. Any additional usage-based charges will be billed at the end of the month.
+What is a project?
+A Depot project is a way of organizing build history, isolating cache, and managing permissions. Builds that use a single project share cache and compute resources. Builds that use separate projects are entirely isolated from each other.
+You can use a single project for as many builds as you want, including with multiple repositories, or you can choose to separate multiple repositories into different projects to isolate cache and permissions.
+Are there discounts for non-profits or open-source?
+Yes! Please contact us
+with more information about your project and for more details.
+Can I cap my usage so my bill doesn't run over?
+Yes, you can set a limit to the number of build minutes used per month. If you reach this limit, Depot will stop running builds until the next month. You can change this limit at any time.
+What payment methods are accepted?
+For the Starter, Team, and Business plans, we support monthly payments via credit card using Stripe. For the Enterprise plan, we additionally support invoice billing, ACH, and AWS Marketplace.
+Can I pay through the AWS Marketplace?
+Yes! We support AWS Marketplace billing on the Enterprise plan. Contact us
+for more details.
+Build Docker containers 20x faster
+Get started for free →

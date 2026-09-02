@@ -1,0 +1,363 @@
+Pricing
+Flexible pricing for every team.
+Every account gets a 14-day trial
+Monthly
+Yearly (Save up to 16%)
+Developer
+Feature flagging for your passion project.
+Free
+Start for free; pay only when you exceed Developer tier limits
+Get started free
+Includes:
+1 project
+3 environments
+5 service connections per month Service connections are the number of microservices, replicas, and environments connected to LaunchDarkly for 1 month
+1k contexts per month Each client side user or device creates a context
+10k experimentation keys per month Keys are used to measure targeting for experiments. They allow you to target specific groups of contexts or segments to experiments.
+Foundation
+Feature management and experimentation for growing teams.
+$ 12 / mo
+for 1 monthly service connection Service connections are the number of microservices, replicas, and environments connected to LaunchDarkly for 1 month
+or 1K monthly contexts Each client side user or device creates a context
+Get started free
+Everything in Developer plus:
+Unlimited projects
+Unlimited environments
+Unlimited seats
+Single sign on
+Scale experimentation with additional keys Keys are used to measure targeting for experiments. They allow you to target specific groups of contexts or segments to experiments.
+Enterprise
+Advanced feature management and experimentation at scale.
+Custom
+Contact sales for information on platform subscriptions.
+Contact us
+Everything in Foundation plus:
+Advanced user targeting
+Release automation
+Release monitoring
+Workflows, scheduling, & approvals
+SAML / SCIM
+Custom roles & teams
+Compare all features
+Platform subscription
+Get the best value with platform subscriptions
+All the LaunchDarkly features you need, in one predictable price. Reach out to learn more.
+Contact sales
+Compare all features
+Developer
+Get started free
+Foundation
+Get started free
+Enterprise
+Contact us
+Platform
+—
+Service Connections Service connections are the number of microservices, replicas, and environments connected to LaunchDarkly for 1 month.
+Up to 5
+$12/month for 1 monthly service connections
+Custom
+Contexts Contexts are the client-side users, devices, organizations, or other defined entity that encounter feature flags in your product in 1 month.
+Up to 1k
+$12/month for 1k monthly contexts
+Custom
+Experimentation Keys Keys are used to measure targeting for experiments. They allow you to target specific groups of contexts or segments to experiments.
+Up 10k
+$33/month for 10k keys
+Custom
+Data Export Events
+—
+Custom
+Projects Projects let you manage multiple business objectives from one LaunchDarkly account. Each project has a unique set of environments and feature flags.
+1
+Unlimited
+Environments Environments are organizational units contained within projects that allow users to manage feature flags throughout your development lifecycle.
+3
+Unlimited
+Seats
+Unlimited
+Metrics
+Unlimited
+Feature management
++
+Targeting
+Contexts types Create targeting rules that use any context kind such as: user, device, or environment.
+Unlimited
+Targeting users by attribute Create targeting rules based on any context attribute.
+Segments Segments allow you to target groups of contexts individually or by attribute, so that you can quickly turn features on or off for certain groups.
+—
+Segment overview
+—
+Percentage rollouts
+Advanced targeting
+Custom contexts Custom contexts allows you to define any number of new "context kinds" for targeting.
+Bulk user management (edit and export)
+—
+Flag prerequisites Build dependencies into your feature flags and control granular features from a global level.
+—
+Synced segments Sync audience data from external sources with an unlimited number of targets for targetted feature delivery.
+—
+Big segments Big segments are segments that are either synced from external tools or list-based segments with more than 15,000 entries.
+—
+Flag types
+Boolean
+Multivariate flags Multivariate flags allows you to define two or more custom variations of flag states.
+Flag templates
+Killswitch flags
+Release flags
+Experiment flags
+Migration flags
+Custom flags
+AI Model Flag template to help you iterate on AI models and model configurations.
+AI Prompt Flag template to help you iterate on prompt configurations.
+Flag and release management
+Multi-environment flag dashboard
+Archive flags
+Flag statuses
+Flag history
+Flag reviews
+Compare flags
+Clone flags
+Code references Code References simplifies removal of tech debt by finding references to feature flags in your code
+—
+Copy flag settings Compare and copy a flag's settings between two environments
+—
+Experimentation
++
+Detailed features
+Full-stack experimentation
+A/B/n testing (multiple treatments)
+Funnel optimization experiments Funnel optimization experiments allow you to track the performance of each of the steps in your funnel over time
+Mutually exclusive experiments Configure multiple experiments while preventing contexts from being included in more than one of them at a time
+Experiment results reports & visualizations
+Results filtering by audience attributes
+Flexible metric design: click, pageview, numeric, conversion
+Metrics import: API, integrations, SDK-level
+Release observability
++
+Regression detection and auto rollback
+—
+Metric impact overview Metrics Impact Overview displays a list of complete experiment iterations that use a metric, and track it's movement over your experiments.
+—
+Metric event activity log Metrics Impact Overview displays a list of complete experiment iterations that use a metric, and track it's movement over your experiments.
+—
+Sentry errors and OpenTelemetry metric import
+—
+Release automation and collaboration
++
+Organization workflow collaboration
+Multi-environment release dashboard Customize your flag list view by combining filters with multiple environments (e.g. Dev, Test, Production).
+—
+Flag scheduling Plan and automate progressive rollouts and other flag updates in advance.
+—
+Required approvals Require approvals for flag changes from another team member or decision maker.
+—
+Reusable workflow templates Save your workflows and reuse them with any other flags to expediate your rollouts.
+—
+Required comments and confirmation Require members to leave comments when they change flags or segments.
+—
+Release assistant
+# of release pipelines
+—
+Unlimited
+Targeting rules by environment Configure targeting rules for each environment, with customizable time durations before being prompted to progress to the next phase.
+—
+Add Release Guardian to critical phases Incorporate Release Guardian in your release pipelines to monitor critical flag changes.
+—
+Available Upon Request
+Mobile lifecycle assistant Mobile Lifecycle Assistant enables you to deliver personalized experiences and mitigate bugs without waiting for app store review cycles.
+Mobile SDKs with automatic mobile attributes
+App lifecycle management
+First-class mobile targeting
+Mobile flag cleanup
+Migration assistant Migration Assistant allows you to safely manage migrations with controlled cohort progression and consistency checks.
+Migration cohorts Target specific cohorts for a particular migration that can independently move through stages of a migration.
+Metrics & consistency checks Detect migration issues faster by monitoring error, latency, and consistency metrics in aggregate, or broken out by cohort.
+Guardrails LaunchDarkly will warn you when actions are taken that could jeopardize your migration project.
+Security & compliance
++
+2FA
+SSO
+—
+SCIM Create, update, and deactivate members in LaunchDarkly using your IdP of choice.
+—
+Audit log for flag & segment changes
+Team sync with SCIM (available for Okta only)
+—
+API access Define access levels to flags, projects, environments, metrics, or teams to enforce your policies.
+Custom roles & teams Define access levels to flags, projects, environments, metrics, or teams to enforce your policies.
+—
+Bulk editing members
+—
+Account history Review your account history across all projects and environments.
+30-day
+Unlimited
+Service tokens Create long term integrations with the LaunchDarkly API, that are not tied to a single seat (personal token).
+—
+Teams Teams are groups of your organization's members. You can assign permissions to teams using custom roles.
+—
+Relay proxy enterprise Streamline setup and management of Relay Proxy with auto-configuration and offline mode.
+—
+HIPAA and FedRamp
+HIPAA
+—
+Contact us
+FedRamp
+—
+Contact us
+Integrations & API
++
+Slack, Microsoft Teams, & Trello
+Integrations Integrate with leading DevOps platforms, observability tools, and customer data platforms.
+—
+Most
+All
+API controls Programmatic management of users, flags, targeting rules, and segments, and everything else you can do within the LaunchDarkly UI.
+—
+Support and SLAs
++
+Support available
+Support upgrade (SLA and response times) Paid support plans for mission critical support and guaranteed service uptime.
+—
+Available
+Customer success
+Customer success managers
+—
+Professional services
+—
+Available
+Recommended
+Advisory sessions
+—
+Available
+LaunchDarkly academy
+Guided onboarding program
+Included
+Included (Dedicated)
+LaunchDarkly certifications
+FAQ
+Pricing
+How do you calculate a month?
++
+Months are calculated based on when you start your plan. If you start a plan on September 18th, you'll be charged on the 18th of every month. If you start on the 31st, you'll be charged on the last day of every month. If you upgrade your plan, you'll be charged a prorated amount for the partial month, and your next month's bill will include the upgrade as part of your monthly charge.
+How do you calculate Client-Side Monthly Active Contexts?
++
+Client-Side Contexts are calculated by counting the number of unique contexts evaluating flags from client-side SDKs over a given month Typically, customers will send user contexts and we count unique end users that evaluate a flag, so even if a single user evaluates flags from multiple device types or over multiple sessions, we only count that user as 1 client-side context over the calendar month. For anonymous traffic, we can track them by session or device contexts so if they visit multiple t
+How many Client-Side Contexts do I need?
++
+To estimate the number of client-side contexts you’ll need, first determine what context you primarily aim to target (e.g. users, devices, accounts). Your goal is to use the context(s) that provide you with the control points necessary to support the power of LaunchDarkly’s targeting. If primarily targeting users, for example, you can count the number of unique monthly active users that would use your application(s) where the LaunchDarkly client-side SDKs are installed. In addition to your prima
+Do you offer annual pricing plans?
++
+Yes. All Enterprise plans are based on annual contracts. For the Foundation plan, you can select a yearly option when you sign up or at any time from the billing page in our app. There is an automatic discount on all plans set up with annual billing.
+Usage metrics
+What are service connections?
++
+Service connections are used to measure back-end feature management. Service connections are the number of microservices, replicas, and environments connected to LaunchDarkly for 1 month. Only server-side SDKs count toward measuring service connections. Read the docs to learn more.
+What are contexts?
++
+Each client-side user or device creates one context. Read the docs to learn more.
+What are experimentation keys?
++
+Experimentation keys are the number of users or contexts bucketed in an experiment on a monthly basis. Experimentation keys allow you to target specific groups of contexts or segments to experiments, refining your testing audience. Read the docs to learn more.
+How do I get visibility into my usage?
++
+We provide visibility on all of your usage metrics. You can learn more about usage metrics in our documentation
+.
+Foundation & Developer
+When do I start getting charged on the Developer tier of the Foundation plan?
++
+You only get charged when you exceed the Developer tier limits for environments (3), service connections (5), contexts (1k), or experimentation keys (10k).
+When do I get charged?
++
+We offer monthly and annual billing options for credit card purchases. Monthly billing will be charged in arrears at the end of each month. Annual billing will be paid up front, and any monthly overages will be billed at the end of each month.
+Account management
+What happens if I go over my licensed events or MAUs?
++
+Usage metrics are visible in the account settings section of the application. If your team exceeds one of the licensed limits there will be a notification in the application and an email sent to all team Administrators. Professional plans are able to add more events or MAUs as needed up to the specified limits. Enterprise plans will receive the same notifications and our customer success team will work with them to correctly size their licensed limits.
+Will I have visibility of my usage?
++
+Yes. We provide visibility on all of your usage metrics. You can learn more about usage metrics
+in our documentation.
+What are custom roles?
++
+LaunchDarkly's basic role-based permission system provides global access control levels for team members based on a set of built-in roles (reader, writer, or admin/owner). Customers on enterprise plans also have access to LaunchDarkly's custom roles system. Custom roles allow you to create flexible policies that provide fine-grained access control to everything in LaunchDarkly—from feature flags and metrics to environments and teams. With custom roles, it's possible to enforce access policies th
+Data
+Can I trial experimentation?
++
+Yes. Experimentation can be added as an unlimited 30-day trial by contacting sales
+.
+Can I use both the experimentation add-on and the data export add-on?
++
+Yes, you pay per event that is sent for experimentation and/or to the data export add-on.
+Other
+Do you offer discounts for non-profit, academic, or open-source projects?
++
+Yes. Please contact us
+to see if your organization is eligible.
+Case study
+Paramount improves developer productivity 100X.
+/ / The ability to ship and merge code to environments safely without wincing every time we hit the ‘deploy’ button has been huge for us.
+Dan Skaggs
+Technical Director, Content Engineering, Paramount
+Read case study
+Case study
+CCP Games creates self-serve experimentation.
+/ / LaunchDarkly has enabled self-serve experimentation. You don’t have to be a data scientist to run valid, actionable experiments. This is unbelievably powerful.
+Nick Herring
+Technical Director of Infrastructure, CCP Games
+Read case study
+Case study
+Christian Dior shortens time to market from 15 minutes to instant updates
+/ / LaunchDarkly allowed us to progressively deliver key features with confidence, creating a safety net for developers.
+Fabien Gasser
+Retail Lead System Architect, Christian Dior Couture
+Read case study
+Case study
+Bayer’s digital farming arm improves reliability for critical apps.
+/ / I can change a flag status in LaunchDarkly and see it reflected in our mobile apps instantly. I’ll pay for that any day.
+Artie Lee
+Director of Engineering, Climate LLC, Bayer
+Read case study
+Case study
+HP standardizes and scales releases with LaunchDarkly.
+/ / The team can switch back to a feature behavior without doing code changes.
+Brent Foley
+Software Engineer - Platform Infrastructure Team, HP
+Read case study
+Take a tour.
+Get a demo
+Free trial
+Inboxes love LaunchDarkly.
+Make sure you get all the content, tips, and news you can use.
+Work email
+Yes, send me emails.
+twitter
+YouTube
+LinkedIn
+Discord
+Instagram
+© 2024 Catamorphic Co.
+Support
+Support home
+Request Support
+Professional Services
+Documentation
+Status
+Do not Sell or Share my Personal Information
+Why Us
+ROI of Feature Management
+Economic Impact of LaunchDarkly
+How LaunchDarkly works
+Trust & Security
+LaunchDarkly vs. Competitors
+LaunchDarkly on AWS
+Company
+About Us
+Careers
+Media & Analysts
+Partner Program
+Terms & Policies
+Contact Us
+LaunchDarkly.org
+Community
+Inboxes love LaunchDarkly.
+Make sure you get all the content, tips, and news you can use.

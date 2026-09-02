@@ -1,0 +1,642 @@
+[
+  {
+    "id": "railway-com-pricing-20250307115138",
+    "url": "https://railway.com/pricing",
+    "ts": "20250307115138",
+    "date": "2025-03-07",
+    "source": "wayback",
+    "prevTs": "20241206080328",
+    "kind": "price",
+    "score": 22,
+    "counts": {
+      "price": 7,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Railway: 7 prices, 1 limit changed (removed “Up to 2 TB RAM / 112 vCPU per service”; added “Includes $20 of usage monthly New!”)",
+    "pairs": [],
+    "added": [
+      "Includes $20 of usage monthly New!",
+      "Unlimited team seats included New!",
+      "$ 500+ /mo",
+      "Support SLOs at $500 spend New!",
+      "90-day log history at $500 spend",
+      "Dedicated VMs at $10,000 spend New!",
+      "$0.000000047683716 / KB"
+    ],
+    "removed": [
+      "Up to 2 TB RAM / 112 vCPU per service",
+      "Unlimited team seats included",
+      "$0.000000095367432 / KB"
+    ],
+    "totals": {
+      "removed": 26,
+      "added": 29,
+      "materialRemoved": 5,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "railway-com-pricing-20250409204834",
+    "url": "https://railway.com/pricing",
+    "ts": "20250409204834",
+    "date": "2025-04-09",
+    "source": "wayback",
+    "prevTs": "20250307115138",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Railway: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "railway-com-pricing-20250718071710",
+    "url": "https://railway.com/pricing",
+    "ts": "20250718071710",
+    "date": "2025-07-18",
+    "source": "wayback",
+    "prevTs": "20250409204834",
+    "kind": "price",
+    "score": 75,
+    "counts": {
+      "price": 20,
+      "limit": 8,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Railway: 20 prices, 8 limits changed (removed “Support SLOs at $500 spend New!”; added “$ 10 per GB / mo”)",
+    "pairs": [],
+    "added": [
+      "$ 10 per GB / mo",
+      "$ 0.15 per GB / mo",
+      "$ 0.05 per GB used / mo",
+      "“ Moved a project from DigitalOcean costing approx $80 per month to Railway. Estimate cost for the month... $3. ”",
+      "“ For us this was $400 > $100/month after moving most services to Railway Metal. ”",
+      "“ We went from $2000 on AWS to <$200 on Railway. ”",
+      "“ Moved a project from DigitalOcean costing approx $80 per month to Railway. Estimate cost for the month... $3. ”",
+      "“ For us this was $400 > $100/month after moving most services to Railway Metal. ”",
+      "Not ready to commit? Start with a 30-day Free Trial",
+      "$200",
+      "$2,000",
+      "8 GB",
+      "32 GB",
+      "64 GB",
+      "8 vCPU",
+      "Up to 32 vCPU",
+      "Beyond 32 vCPU",
+      "10 GB",
+      "100 GB",
+      "5 GB",
+      "250 GB",
+      "2 TB",
+      "100 GB",
+      "7 days",
+      "30 days",
+      "90 days",
+      "Unlimited",
+      "Unlimited",
+      "<$250 per month",
+      "$500 - $999 per month",
+      "$1,000 - $4,999 per month",
+      "$5,000 - $9,999 per month",
+      "$10,000+ per month"
+    ],
+    "removed": [
+      "Support SLOs at $500 spend New!",
+      "90-day log history at $500 spend",
+      "Not ready to commit? Try the Free Trial",
+      "$0.000231 / GB / minute",
+      "$0.000463 / vCPU / minute",
+      "$0.000000047683716 / KB",
+      "No need to pre-plan your builds costs — builds are free"
+    ],
+    "totals": {
+      "removed": 94,
+      "added": 138,
+      "materialRemoved": 16,
+      "materialAdded": 42
+    }
+  },
+  {
+    "id": "railway-com-pricing-20250903210249",
+    "url": "https://railway.com/pricing",
+    "ts": "20250903210249",
+    "date": "2025-09-03",
+    "source": "wayback",
+    "prevTs": "20250718071710",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Railway: 2 prices changed (removed “$500”; added “After that, you'll get $1 in credits each mon…”)",
+    "pairs": [],
+    "added": [
+      "After that, you'll get $1 in credits each month as part of the Free"
+    ],
+    "removed": [
+      "$500"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 4,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "railway-com-pricing-20251007101208",
+    "url": "https://railway.com/pricing",
+    "ts": "20251007101208",
+    "date": "2025-10-07",
+    "source": "wayback",
+    "prevTs": "20250903210249",
+    "kind": "price",
+    "score": 46,
+    "counts": {
+      "price": 9,
+      "limit": 7,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Railway: 9 prices, 7 limits, 3 plan names changed (removed “$ 10 per GB / mo”; added “Start with a 30-day free trial with $5 credit…”)",
+    "pairs": [],
+    "added": [
+      "Start with a 30-day free trial with $5 credits, then $1 per month",
+      "Up to 0.5 GB RAM, 1 vCPU per service",
+      "0.5 GB of volume storage",
+      "No credit card required",
+      "$ 0.00000386 per GB / sec",
+      "$ 0.00000772 per vCPU / sec",
+      "$ 0.00000006 per GB / sec",
+      "Free",
+      "Unlimited",
+      "Unlimited",
+      "Up to 2 vCPU during trial, then up to 1 vCPU",
+      "Up to 1 GB during trial, then up to 0.5 GB",
+      "1 GB",
+      "0.5 GB",
+      "Unlimited",
+      "Free Trial only",
+      "Unlimited",
+      "4 GB",
+      "Unlimited",
+      "2 during the free trial, then 1",
+      "Unlimited",
+      "20 mins during trial, then 10 mins",
+      "40 mins",
+      "90 mins",
+      "3,000 read/write operations per second",
+      "Free Railway domains",
+      "Unlimited",
+      "Unlimited",
+      "Trial only, unavailable on the free plan",
+      "Trial only, unavailable on the free plan",
+      "7 days during trial, then 3"
+    ],
+    "removed": [
+      "$ 10 per GB / mo",
+      "$ 20 per vCPU / mo",
+      "$ 0.15 per GB / mo",
+      "Not ready to commit? Start with a 30-day Free Trial",
+      "and get $5 in credits to explore.",
+      "After that, you'll get $1 in credits each month as part of the Free",
+      "10 GB",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 81,
+      "added": 160,
+      "materialRemoved": 26,
+      "materialAdded": 48
+    }
+  },
+  {
+    "id": "railway-com-pricing-20251104045256",
+    "url": "https://railway.com/pricing",
+    "ts": "20251104045256",
+    "date": "2025-11-04",
+    "source": "wayback",
+    "prevTs": "20251007101208",
+    "kind": "price",
+    "score": 30,
+    "counts": {
+      "price": 10,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Railway: 10 prices changed (removed ““ Moved a project from DigitalOcean costing a…”; added ““ I've moved $4.5k per month from AWS and $1k…”)",
+    "pairs": [],
+    "added": [
+      "Unlimited",
+      "“ I've moved $4.5k per month from AWS and $1k per month from Heroku in the past month and my railway bill is like $300 per month. ”",
+      "“ We went from a $1600 Heroku bill to a $300 Railway bill. ”",
+      "“ We spent ~$100K / year running on AWS - we have since cut that by 90% moving to Railway and get a significantly improved developer experience. ”",
+      "“ I've moved $4.5k per month from AWS and $1k per month from Heroku in the past month and my railway bill is like $300 per month. ”",
+      "“ We went from a $1600 Heroku bill to a $300 Railway bill. ”"
+    ],
+    "removed": [
+      "“ Moved a project from DigitalOcean costing approx $80 per month to Railway. Estimate cost for the month... $3. ”",
+      "“ For us this was $400 > $100/month after moving most services to Railway Metal. ”",
+      "“ We went from $2000 on AWS to <$200 on Railway. ”",
+      "“ Moved a project from DigitalOcean costing approx $80 per month to Railway. Estimate cost for the month... $3. ”",
+      "“ For us this was $400 > $100/month after moving most services to Railway Metal. ”"
+    ],
+    "totals": {
+      "removed": 24,
+      "added": 35,
+      "materialRemoved": 5,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "railway-com-pricing-20251201143000",
+    "url": "https://railway.com/pricing",
+    "ts": "20251201143000",
+    "date": "2025-12-01",
+    "source": "wayback",
+    "prevTs": "20251104045256",
+    "kind": "price",
+    "score": 11,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Railway: 1 price, 1 limit, 3 plan names changed (added “$ 0.015 per GB-month”)",
+    "pairs": [],
+    "added": [
+      "$ 0.015 per GB-month",
+      "free egress",
+      "Unlimited",
+      "Free",
+      "Free",
+      "Free",
+      "50 GB during trial, then 10 GB",
+      "1 TB",
+      "Unlimited"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 22,
+      "materialRemoved": 0,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "railway-com-pricing-20260101233941",
+    "url": "https://railway.com/pricing",
+    "ts": "20260101233941",
+    "date": "2026-01-01",
+    "source": "wayback",
+    "prevTs": "20251201143000",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Railway: 2 limits changed (added “48 hours”)",
+    "pairs": [],
+    "added": [
+      "48 hours",
+      "30 days",
+      "18 months"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "railway-com-pricing-20260201032348",
+    "url": "https://railway.com/pricing",
+    "ts": "20260201032348",
+    "date": "2026-02-01",
+    "source": "wayback",
+    "prevTs": "20260101233941",
+    "kind": "limits",
+    "score": 26,
+    "counts": {
+      "price": 0,
+      "limit": 13,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Railway: 13 limits changed (0.5GB → 1; 8GB → 48)",
+    "pairs": [
+      {
+        "before": "Up to 0.5 GB RAM, 1 vCPU per service",
+        "after": "Up to 1 vCPU / 0.5 GB RAM per service",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "0.5GB",
+            "after": "1"
+          },
+          {
+            "before": "1",
+            "after": "0.5GB"
+          }
+        ]
+      },
+      {
+        "before": "Up to 8 GB RAM / 8 vCPU per service",
+        "after": "Up to 48 vCPU / 48 GB RAM per service",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8GB",
+            "after": "48"
+          },
+          {
+            "before": "8",
+            "after": "48GB"
+          }
+        ]
+      },
+      {
+        "before": "Up to 32 GB RAM / 32 vCPU per service",
+        "after": "Up to 1,000 vCPU / 1 TB RAM per service",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "32GB",
+            "after": "1,000"
+          },
+          {
+            "before": "32",
+            "after": "1TB"
+          }
+        ]
+      },
+      {
+        "before": "Up to 8 vCPU",
+        "after": "Up to 48 vCPU",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8",
+            "after": "48"
+          }
+        ]
+      },
+      {
+        "before": "Up to 32 vCPU",
+        "after": "Up to 1,000 vCPU",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "32",
+            "after": "1,000"
+          }
+        ]
+      },
+      {
+        "before": "Up to 8 GB",
+        "after": "Up to 48 GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8GB",
+            "after": "48GB"
+          }
+        ]
+      },
+      {
+        "before": "Up to 32 GB",
+        "after": "Up to 5 GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "32GB",
+            "after": "5GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Up to 6 replicas, at 8 vCPU / 8 GB RAM per replica",
+      "Up to 50 replicas, at 32 vCPU / 32 GB RAM per replica",
+      "Up to 1 TB storage",
+      "Up to 2,400 vCPU",
+      "Up to 1 TB",
+      "Up to 2.4 TB",
+      "Up to 1 TB",
+      "Up to 5 TB"
+    ],
+    "removed": [
+      "Beyond 32 vCPU",
+      "64 GB",
+      "250 GB",
+      "2 TB"
+    ],
+    "totals": {
+      "removed": 18,
+      "added": 26,
+      "materialRemoved": 12,
+      "materialAdded": 16
+    }
+  },
+  {
+    "id": "railway-com-pricing-20260301155920",
+    "url": "https://railway.com/pricing",
+    "ts": "20260301155920",
+    "date": "2026-03-01",
+    "source": "wayback",
+    "prevTs": "20260201032348",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Railway: 2 prices changed (removed “$200”; added “$5,000”)",
+    "pairs": [],
+    "added": [
+      "$5,000"
+    ],
+    "removed": [
+      "$200"
+    ],
+    "totals": {
+      "removed": 14,
+      "added": 17,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "railway-com-pricing-20260401173509",
+    "url": "https://railway.com/pricing",
+    "ts": "20260401173509",
+    "date": "2026-04-01",
+    "source": "wayback",
+    "prevTs": "20260301155920",
+    "kind": "price",
+    "score": 10,
+    "counts": {
+      "price": 1,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Railway: 1 price, 4 limits changed (6 → 5; 50 → 42)",
+    "pairs": [
+      {
+        "before": "Up to 6 replicas, at 8 vCPU / 8 GB RAM per replica",
+        "after": "Up to 5 replicas, at 8 vCPU / 8 GB RAM per replica",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "6",
+            "after": "5"
+          }
+        ]
+      },
+      {
+        "before": "Up to 50 replicas, at 32 vCPU / 32 GB RAM per replica",
+        "after": "Up to 42 replicas, at 24 vCPU / 24 GB RAM per replica",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50",
+            "after": "42"
+          },
+          {
+            "before": "32",
+            "after": "24"
+          },
+          {
+            "before": "32GB",
+            "after": "24GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Up to 2,400 vCPU / 2,4 TB RAM per service",
+      "Up to 50 replicas, at 48 vCPU / 48 GB RAM per service",
+      "Everything above, plus prioritized support with SLOs, a dedicated Slack Connect channel, cloud regions, and services with 48vCPU/48GB RAM per replica."
+    ],
+    "removed": [
+      "“ We spent ~$100K / year running on AWS - we have since cut that by 90% moving to Railway and get a significantly improved developer experience. ”"
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 13,
+      "materialRemoved": 3,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "railway-com-pricing-20260501144544",
+    "url": "https://railway.com/pricing",
+    "ts": "20260501144544",
+    "date": "2026-05-01",
+    "source": "wayback",
+    "prevTs": "20260401173509",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Railway: 2 prices changed (added “$5 / month”)",
+    "pairs": [],
+    "added": [
+      "$5 / month",
+      "$20 / month"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 11,
+      "materialRemoved": 2,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "railway-com-pricing-20260803191716",
+    "url": "https://railway.com/pricing",
+    "ts": "20260803191716",
+    "date": "2026-08-03",
+    "source": "wayback",
+    "prevTs": "20260501144544",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Railway: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "railway-com-pricing-20260902202107",
+    "url": "https://railway.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260803191716",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Railway: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 23,
+      "added": 23,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    },
+    "transition": true
+  }
+]

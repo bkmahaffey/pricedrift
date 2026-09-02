@@ -33,24 +33,21 @@
     "source": "wayback",
     "prevTs": "20230201052823",
     "kind": "price",
-    "score": 8,
+    "score": 9,
     "counts": {
       "price": 3,
       "limit": 0,
       "plan": 0
     },
     "material": true,
-    "headline": "Render: 3 prices changed (removed “$ 0 / month”; added “$495/month”)",
+    "headline": "Render: 3 prices changed (added “$495/month”)",
     "pairs": [],
     "added": [
       "$495/month",
-      "$ 0 USD / month",
       "Why was I charged $1 after adding a credit card?",
       "A $1 USD transaction will be performed as a credit security check to ensure the card details are correct and authorized. The charge will be refunded after the transaction is complete."
     ],
-    "removed": [
-      "$ 0 / month"
-    ],
+    "removed": [],
     "totals": {
       "removed": 11,
       "added": 17,
@@ -91,8 +88,8 @@
     "date": "2023-07-14",
     "source": "wayback",
     "prevTs": "20230603204407",
-    "kind": "limits",
-    "score": 5,
+    "kind": "price",
+    "score": 6,
     "counts": {
       "price": 1,
       "limit": 2,
@@ -116,38 +113,12 @@
     }
   },
   {
-    "id": "render-com-pricing-20230911094614",
-    "url": "https://render.com/pricing",
-    "ts": "20230911094614",
-    "date": "2023-09-11",
-    "source": "wayback",
-    "prevTs": "20230714191522",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Render: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 1,
-      "added": 2,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    }
-  },
-  {
     "id": "render-com-pricing-20231004030230",
     "url": "https://render.com/pricing",
     "ts": "20231004030230",
     "date": "2023-10-04",
     "source": "wayback",
-    "prevTs": "20230911094614",
+    "prevTs": "20230714191522",
     "kind": "copy",
     "score": 0,
     "counts": {
@@ -166,7 +137,7 @@
     ],
     "totals": {
       "removed": 4,
-      "added": 8,
+      "added": 9,
       "materialRemoved": 2,
       "materialAdded": 2
     }
@@ -178,24 +149,22 @@
     "date": "2023-11-01",
     "source": "wayback",
     "prevTs": "20231004030230",
-    "kind": "limits",
-    "score": 8,
+    "kind": "price",
+    "score": 7,
     "counts": {
       "price": 1,
-      "limit": 1,
+      "limit": 0,
       "plan": 2
     },
     "material": true,
-    "headline": "Render: 1 price, 1 limit, 2 plan names changed (removed “✨ Announcing Render's $50M Series B”; added “500/month”)",
+    "headline": "Render: 1 price, 2 plan names changed (removed “✨ Announcing Render's $50M Series B”)",
     "pairs": [],
     "added": [
-      "Free Pipeline Minutes",
-      "500/month"
+      "Free Pipeline Minutes"
     ],
     "removed": [
       "✨ Announcing Render's $50M Series B",
-      "Free Build Minutes",
-      "500/month"
+      "Free Build Minutes"
     ],
     "totals": {
       "removed": 14,
@@ -211,36 +180,24 @@
     "date": "2023-12-03",
     "source": "wayback",
     "prevTs": "20231101084311",
-    "kind": "limits",
-    "score": 21,
+    "kind": "price",
+    "score": 10,
     "counts": {
       "price": 1,
-      "limit": 8,
+      "limit": 2,
       "plan": 2
     },
     "material": true,
-    "headline": "Render: 1 price, 8 limits, 2 plan names changed (removed “100 GB”; added “100 GB/month”)",
+    "headline": "Render: 1 price, 2 limits, 2 plan names changed (removed “$495/month”; added “7 days”)",
     "pairs": [],
     "added": [
       "Free Outbound Bandwidth",
-      "100 GB/month",
-      "500 GB/month",
-      "1 TB/month",
-      "5 builds retained",
-      "15 builds retained",
-      "30 builds retained",
       "7 days",
       "14 days",
       "30 days"
     ],
     "removed": [
       "Free Bandwidth",
-      "100 GB",
-      "500 GB",
-      "1 TB",
-      "5 builds retained",
-      "15 builds retained",
-      "30 builds retained",
       "$495/month"
     ],
     "totals": {
@@ -258,25 +215,16 @@
     "source": "wayback",
     "prevTs": "20231203024833",
     "kind": "price",
-    "score": 84,
+    "score": 60,
     "counts": {
-      "price": 18,
-      "limit": 12,
+      "price": 12,
+      "limit": 9,
       "plan": 3
     },
     "material": true,
-    "headline": "Render: 18 prices, 12 limits, 3 plan names changed (removed “$0 USD per user/month”; added “$ 0 USD”)",
+    "headline": "Render: 12 prices, 9 limits, 3 plan names changed (removed “$7/month”; added “500/month”)",
     "pairs": [],
     "added": [
-      "$ 0 USD",
-      "$ 19 USD",
-      "$ 29 USD",
-      "100 GB",
-      "500 GB",
-      "1 TB",
-      "$ 0 USD",
-      "$ 19 USD",
-      "$ 29 USD",
       "Free Instances",
       "Free Pipeline Minutes",
       "500/month",
@@ -284,27 +232,9 @@
       "100 GB",
       "Custom Domains with free TLS",
       "5 builds retained",
-      "7 days",
-      "$ 0 USD",
-      "$ 0 USD",
-      "$0/month",
-      "$ 0 USD",
-      "$ 0 USD",
-      "$ 1 USD"
+      "7 days"
     ],
     "removed": [
-      "$0 USD per user/month",
-      "$19 USD per user/month",
-      "$29 USD per user/month",
-      "$0 USD per user/month",
-      "$19 USD per user/month",
-      "$29 USD per user/month",
-      "100 GB/month",
-      "500 GB/month",
-      "1 TB/month",
-      "$ 0 USD / month",
-      "From $ 0 USD / month to start",
-      "$0/month with limits",
       "$7/month",
       "512 MB",
       "$25/month",
@@ -330,9 +260,7 @@
       "16 GB",
       "$450/month",
       "32 GB",
-      "Up to 512 GB",
-      "From $ 0 USD / month to start",
-      "From $ 0 USD / month to start"
+      "Up to 512 GB"
     ],
     "totals": {
       "removed": 109,
@@ -342,10 +270,10 @@
     }
   },
   {
-    "id": "render-com-pricing-20240209225215",
+    "id": "render-com-pricing-20240506201057",
     "url": "https://render.com/pricing",
-    "ts": "20240209225215",
-    "date": "2024-02-09",
+    "ts": "20240506201057",
+    "date": "2024-05-06",
     "source": "wayback",
     "prevTs": "20240106061632",
     "kind": "copy",
@@ -361,60 +289,8 @@
     "added": [],
     "removed": [],
     "totals": {
-      "removed": 7,
-      "added": 7,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    }
-  },
-  {
-    "id": "render-com-pricing-20240304174608",
-    "url": "https://render.com/pricing",
-    "ts": "20240304174608",
-    "date": "2024-03-04",
-    "source": "wayback",
-    "prevTs": "20240209225215",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Render: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 0,
-      "added": 2,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    }
-  },
-  {
-    "id": "render-com-pricing-20240506201057",
-    "url": "https://render.com/pricing",
-    "ts": "20240506201057",
-    "date": "2024-05-06",
-    "source": "wayback",
-    "prevTs": "20240304174608",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Render: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 9,
-      "added": 10,
+      "removed": 16,
+      "added": 19,
       "materialRemoved": 0,
       "materialAdded": 0
     }
@@ -427,14 +303,14 @@
     "source": "wayback",
     "prevTs": "20240506201057",
     "kind": "price",
-    "score": 3,
+    "score": 6,
     "counts": {
-      "price": 1,
+      "price": 2,
       "limit": 0,
       "plan": 0
     },
     "material": true,
-    "headline": "Render: 1 price changed (removed “$0 for first 90 days”; added “$0 (30-day limit)”)",
+    "headline": "Render: 2 prices changed (removed “$0 for first 90 days”; added “$0 (30-day limit)”)",
     "pairs": [],
     "added": [
       "$0 (30-day limit)"
@@ -483,14 +359,14 @@
     "source": "wayback",
     "prevTs": "20240706104518",
     "kind": "price",
-    "score": 6,
+    "score": 12,
     "counts": {
-      "price": 2,
+      "price": 4,
       "limit": 0,
       "plan": 0
     },
     "material": true,
-    "headline": "Render: 2 prices changed (added “$0.00016/minute”)",
+    "headline": "Render: 4 prices changed (added “$0.00016/minute”)",
     "pairs": [],
     "added": [
       "$0.00016/minute",
@@ -507,10 +383,10 @@
     }
   },
   {
-    "id": "render-com-pricing-20240901163709",
+    "id": "render-com-pricing-20241008160507",
     "url": "https://render.com/pricing",
-    "ts": "20240901163709",
-    "date": "2024-09-01",
+    "ts": "20241008160507",
+    "date": "2024-10-08",
     "source": "wayback",
     "prevTs": "20240801062844",
     "kind": "copy",
@@ -526,34 +402,8 @@
     "added": [],
     "removed": [],
     "totals": {
-      "removed": 0,
-      "added": 5,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    }
-  },
-  {
-    "id": "render-com-pricing-20241008160507",
-    "url": "https://render.com/pricing",
-    "ts": "20241008160507",
-    "date": "2024-10-08",
-    "source": "wayback",
-    "prevTs": "20240901163709",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Render: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
       "removed": 16,
-      "added": 16,
+      "added": 21,
       "materialRemoved": 0,
       "materialAdded": 0
     }
@@ -566,15 +416,26 @@
     "source": "wayback",
     "prevTs": "20241008160507",
     "kind": "price",
-    "score": 145,
+    "score": 161,
     "counts": {
-      "price": 14,
-      "limit": 39,
-      "plan": 13
+      "price": 23,
+      "limit": 36,
+      "plan": 10
     },
     "material": true,
-    "headline": "Render: 14 prices, 39 limits, 13 plan names changed ($7 → $6; $20 → $75)",
+    "headline": "Render: 23 prices, 36 limits, 10 plan names changed (97 → 100; $7 → $6)",
     "pairs": [
+      {
+        "before": "97 connections",
+        "after": "100 connections",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "97",
+            "after": "100"
+          }
+        ]
+      },
       {
         "before": "$7/month",
         "after": "$6/month",
@@ -583,6 +444,17 @@
           {
             "before": "$7",
             "after": "$6"
+          }
+        ]
+      },
+      {
+        "before": "97 connections",
+        "after": "100 connections",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "97",
+            "after": "100"
           }
         ]
       },
@@ -598,6 +470,17 @@
         ]
       },
       {
+        "before": "97 connections",
+        "after": "100 connections",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "97",
+            "after": "100"
+          }
+        ]
+      },
+      {
         "before": "$95/month",
         "after": "$55/month",
         "confidence": 1,
@@ -605,6 +488,17 @@
           {
             "before": "$95",
             "after": "$55"
+          }
+        ]
+      },
+      {
+        "before": "97 connections",
+        "after": "100 connections",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "97",
+            "after": "100"
           }
         ]
       },
@@ -647,20 +541,14 @@
       "7 days",
       "3 days",
       "Expandable storage ($0.30/GB) (paid only)",
-      "100 connections",
       "Basic-256mb",
       "100 connections",
-      "Basic-1gb",
       "$19/month",
-      "100 connections",
       "Basic-4gb",
       "4 GB",
-      "100 connections",
       "Pro-4gb",
-      "100 connections",
       "Pro-8gb",
       "200 connections",
-      "Pro-16gb",
       "$200/month",
       "16 GB",
       "400 connections",
@@ -682,19 +570,18 @@
       "500 connections",
       "Pro-256gb",
       "$3,000/month",
-      "Pro-384gb"
+      "Pro-384gb",
+      "$4,600/month",
+      "384 GB",
+      "$6,200/month",
+      "512 GB",
+      "500 connections",
+      "Accelerated-16gb"
     ],
     "removed": [
-      "1 GB SSD storage included",
       "1 GB",
-      "97 connections",
-      "97 connections",
       "1 GB",
-      "16 GB",
-      "97 connections",
       "96 GB",
-      "97 connections",
-      "Up to 512 GB",
       "Up to 5 TB"
     ],
     "totals": {
@@ -705,183 +592,12 @@
     }
   },
   {
-    "id": "render-com-pricing-20241202182343",
-    "url": "https://render.com/pricing",
-    "ts": "20241202182343",
-    "date": "2024-12-02",
+    "id": "render-com-docs-free-20250207001117",
+    "url": "https://render.com/docs/free",
+    "ts": "20250207001117",
+    "date": "2025-02-07",
     "source": "wayback",
-    "prevTs": "20241105192343",
-    "kind": "copy",
-    "score": 1,
-    "counts": {
-      "price": 0,
-      "limit": 1,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Render: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [
-      "3 days"
-    ],
-    "totals": {
-      "removed": 4,
-      "added": 1,
-      "materialRemoved": 2,
-      "materialAdded": 1
-    }
-  },
-  {
-    "id": "render-com-pricing-20250102093513",
-    "url": "https://render.com/pricing",
-    "ts": "20250102093513",
-    "date": "2025-01-02",
-    "source": "wayback",
-    "prevTs": "20241202182343",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Render: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 2,
-      "added": 8,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    }
-  },
-  {
-    "id": "render-com-pricing-20250201050258",
-    "url": "https://render.com/pricing",
-    "ts": "20250201050258",
-    "date": "2025-02-01",
-    "source": "wayback",
-    "prevTs": "20250102093513",
-    "kind": "copy",
-    "score": 2,
-    "counts": {
-      "price": 1,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Render: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [
-      "$80M in Series C funding and 2 million developers."
-    ],
-    "removed": [],
-    "totals": {
-      "removed": 1,
-      "added": 1,
-      "materialRemoved": 0,
-      "materialAdded": 1
-    }
-  },
-  {
-    "id": "render-com-pricing-20250301064653",
-    "url": "https://render.com/pricing",
-    "ts": "20250301064653",
-    "date": "2025-03-01",
-    "source": "wayback",
-    "prevTs": "20250201050258",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Render: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 20,
-      "added": 18,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    }
-  },
-  {
-    "id": "render-com-pricing-20250401210000",
-    "url": "https://render.com/pricing",
-    "ts": "20250401210000",
-    "date": "2025-04-01",
-    "source": "wayback",
-    "prevTs": "20250301064653",
-    "kind": "limits",
-    "score": 39,
-    "counts": {
-      "price": 1,
-      "limit": 12,
-      "plan": 7
-    },
-    "material": true,
-    "headline": "Render: 1 price, 12 limits, 7 plan names changed (removed “$80M in Series C funding and 2 million develo…”; added “500 GB of bandwidth included”)",
-    "pairs": [],
-    "added": [
-      "500 GB of bandwidth included",
-      "Unlimited projects & environments",
-      "1 TB of bandwidth included",
-      "Unlimited team members",
-      "1 project and environment",
-      "Unlimited",
-      "100 GB / month",
-      "500 GB / month",
-      "1 TB / month",
-      "500 / month",
-      "500 / user / month",
-      "1 webhook",
-      "100 webhooks",
-      "1 project and environment",
-      "100 GB / month",
-      "5 builds retained",
-      "7 days"
-    ],
-    "removed": [
-      "$80M in Series C funding and 2 million developers.",
-      "Free Instances",
-      "Free Pipeline Minutes",
-      "500/month",
-      "Free Bandwidth",
-      "100 GB",
-      "500 GB",
-      "1 TB",
-      "7 days",
-      "Custom Domains with free TLS",
-      "Free Instances",
-      "Free Pipeline Minutes",
-      "Free Bandwidth",
-      "100 GB",
-      "7 days",
-      "Custom Domains with free TLS",
-      "5 builds retained",
-      "7 days"
-    ],
-    "totals": {
-      "removed": 184,
-      "added": 222,
-      "materialRemoved": 19,
-      "materialAdded": 18
-    }
-  },
-  {
-    "id": "render-com-pricing-20250504193124",
-    "url": "https://render.com/pricing",
-    "ts": "20250504193124",
-    "date": "2025-05-04",
-    "source": "wayback",
-    "prevTs": "20250401210000",
+    "prevTs": "20250114181357",
     "kind": "copy",
     "score": 0,
     "counts": {
@@ -897,17 +613,175 @@
     "totals": {
       "removed": 2,
       "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "render-com-pricing-20250301064653",
+    "url": "https://render.com/pricing",
+    "ts": "20250301064653",
+    "date": "2025-03-01",
+    "source": "wayback",
+    "prevTs": "20241105192343",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 1,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Render: 1 price, 2 limits changed (3 → 7)",
+    "pairs": [
+      {
+        "before": "3 days",
+        "after": "7 days",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3",
+            "after": "7"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$80M in Series C funding and 2 million developers."
+    ],
+    "removed": [
+      "3 days"
+    ],
+    "totals": {
+      "removed": 20,
+      "added": 21,
       "materialRemoved": 2,
       "materialAdded": 2
     }
   },
   {
-    "id": "render-com-pricing-20250606024921",
-    "url": "https://render.com/pricing",
-    "ts": "20250606024921",
-    "date": "2025-06-06",
+    "id": "render-com-docs-free-20250304043535",
+    "url": "https://render.com/docs/free",
+    "ts": "20250304043535",
+    "date": "2025-03-04",
     "source": "wayback",
-    "prevTs": "20250504193124",
+    "prevTs": "20250207001117",
+    "kind": "plans",
+    "score": 16,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 8
+    },
+    "material": true,
+    "headline": "Render: 8 plan names changed",
+    "pairs": [],
+    "added": [
+      "Preview the Render platform with free web services and datastores.",
+      "Free Postgres",
+      "Free Key Value",
+      "Render might perform maintenance on a Free Render Key Value instance at any time. Your instance is temporarily unavailable during maintenance.",
+      "Free Postgres",
+      "Free Key Value"
+    ],
+    "removed": [
+      "Free PostgreSQL",
+      "Free Redis",
+      "Free PostgreSQL",
+      "Free Redis"
+    ],
+    "totals": {
+      "removed": 20,
+      "added": 22,
+      "materialRemoved": 16,
+      "materialAdded": 18
+    }
+  },
+  {
+    "id": "render-com-pricing-20250401210000",
+    "url": "https://render.com/pricing",
+    "ts": "20250401210000",
+    "date": "2025-04-01",
+    "source": "wayback",
+    "prevTs": "20250301064653",
+    "kind": "price",
+    "score": 26,
+    "counts": {
+      "price": 1,
+      "limit": 5,
+      "plan": 7
+    },
+    "material": true,
+    "headline": "Render: 1 price, 5 limits, 7 plan names changed (removed “$80M in Series C funding and 2 million develo…”; added “1 project and environment”)",
+    "pairs": [],
+    "added": [
+      "Unlimited projects & environments",
+      "Unlimited team members",
+      "1 project and environment",
+      "Unlimited",
+      "500 GB / month",
+      "1 TB / month",
+      "500 / user / month",
+      "1 webhook",
+      "100 webhooks",
+      "1 project and environment"
+    ],
+    "removed": [
+      "$80M in Series C funding and 2 million developers.",
+      "Free Instances",
+      "Free Pipeline Minutes",
+      "Free Bandwidth",
+      "Custom Domains with free TLS",
+      "Free Instances",
+      "Free Pipeline Minutes",
+      "Free Bandwidth",
+      "7 days",
+      "Custom Domains with free TLS",
+      "7 days"
+    ],
+    "totals": {
+      "removed": 184,
+      "added": 222,
+      "materialRemoved": 19,
+      "materialAdded": 18
+    }
+  },
+  {
+    "id": "render-com-docs-free-20250502153239",
+    "url": "https://render.com/docs/free",
+    "ts": "20250502153239",
+    "date": "2025-05-02",
+    "source": "wayback",
+    "prevTs": "20250304043535",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Render: 1 plan name changed",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Deploy for Free",
+      "Preview the Render platform with free web services and datastores."
+    ],
+    "totals": {
+      "removed": 20,
+      "added": 18,
+      "materialRemoved": 16,
+      "materialAdded": 14
+    }
+  },
+  {
+    "id": "render-com-pricing-20251004062444",
+    "url": "https://render.com/pricing",
+    "ts": "20251004062444",
+    "date": "2025-10-04",
+    "source": "wayback",
+    "prevTs": "20250401210000",
     "kind": "copy",
     "score": 0,
     "counts": {
@@ -921,36 +795,577 @@
     "added": [],
     "removed": [],
     "totals": {
-      "removed": 12,
-      "added": 11,
-      "materialRemoved": 0,
-      "materialAdded": 0
+      "removed": 22,
+      "added": 26,
+      "materialRemoved": 2,
+      "materialAdded": 2
     }
   },
   {
-    "id": "render-com-pricing-20250705185702",
+    "id": "render-com-pricing-20251102134148",
     "url": "https://render.com/pricing",
-    "ts": "20250705185702",
-    "date": "2025-07-05",
+    "ts": "20251102134148",
+    "date": "2025-11-02",
     "source": "wayback",
-    "prevTs": "20250606024921",
-    "kind": "copy",
-    "score": 0,
+    "prevTs": "20251004062444",
+    "kind": "price",
+    "score": 10,
     "counts": {
-      "price": 0,
+      "price": 2,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Render: 2 prices, 2 limits changed (added “$550/month”)",
+    "pairs": [],
+    "added": [
+      "$550/month",
+      "20 GB",
+      "20,000 connections",
+      "$1100/month",
+      "40 GB",
+      "40,000 connections"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 9,
+      "materialRemoved": 0,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "render-com-pricing-20251210122953",
+    "url": "https://render.com/pricing",
+    "ts": "20251210122953",
+    "date": "2025-12-10",
+    "source": "wayback",
+    "prevTs": "20251102134148",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
       "limit": 0,
       "plan": 0
     },
-    "material": false,
-    "headline": "Render: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
+    "material": true,
+    "headline": "Render: 1 price changed ($7 → $9)",
+    "pairs": [
+      {
+        "before": "$7/month",
+        "after": "$9/month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$7",
+            "after": "$9"
+          }
+        ]
+      }
+    ],
     "added": [],
     "removed": [],
     "totals": {
       "removed": 1,
       "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    },
+    "flap": true
+  },
+  {
+    "id": "render-com-pricing-20260104151902",
+    "url": "https://render.com/pricing",
+    "ts": "20260104151902",
+    "date": "2026-01-04",
+    "source": "wayback",
+    "prevTs": "20251210122953",
+    "kind": "price",
+    "score": 7,
+    "counts": {
+      "price": 1,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Render: 1 price, 2 limits changed ($9 → $7)",
+    "pairs": [
+      {
+        "before": "$9/month",
+        "after": "$7/month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$9",
+            "after": "$7"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "1 project with 2 environments",
+      "1 project with 2 environments"
+    ],
+    "removed": [
+      "1 project and environment",
+      "1 project and environment"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 5,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    },
+    "flap": true
+  },
+  {
+    "id": "render-com-pricing-20260301181919",
+    "url": "https://render.com/pricing",
+    "ts": "20260301181919",
+    "date": "2026-03-01",
+    "source": "wayback",
+    "prevTs": "20260104151902",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Render: 1 price changed (added “Render raises $100M at a $1.5B valuation”)",
+    "pairs": [],
+    "added": [
+      "Render raises $100M at a $1.5B valuation"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "render-com-pricing-20260401173506",
+    "url": "https://render.com/pricing",
+    "ts": "20260401173506",
+    "date": "2026-04-01",
+    "source": "wayback",
+    "prevTs": "20260301181919",
+    "kind": "price",
+    "score": 37,
+    "counts": {
+      "price": 10,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Render: 10 prices, 4 limits changed (removed “Render raises $100M at a $1.5B valuation”; added “Migrate from Heroku and get up to $10k in cre…”)",
+    "pairs": [],
+    "added": [
+      "Migrate from Heroku and get up to $10k in credits",
+      "$ 1 USD",
+      "Run 1000s of parallel, async tasks",
+      "$0.05",
+      "512MB",
+      "$0.20",
+      "2GB",
+      "$0.40",
+      "4GB",
+      "$1.00",
+      "8GB",
+      "$2.00",
+      "16GB",
+      "$7.00",
+      "32GB",
+      "Unlimited",
+      "Unlimited",
+      "$10/month per 50 task runs"
+    ],
+    "removed": [
+      "Render raises $100M at a $1.5B valuation",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 219,
+      "added": 287,
+      "materialRemoved": 22,
+      "materialAdded": 37
+    }
+  },
+  {
+    "id": "render-com-pricing-20260501170611",
+    "url": "https://render.com/pricing",
+    "ts": "20260501170611",
+    "date": "2026-05-01",
+    "source": "wayback",
+    "prevTs": "20260401173506",
+    "kind": "price",
+    "score": 116,
+    "counts": {
+      "price": 31,
+      "limit": 9,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Render: 31 prices, 9 limits, 3 plan names changed (500GB → 5GB)",
+    "pairs": [
+      {
+        "before": "500 GB of bandwidth included",
+        "after": "5 GB of bandwidth included",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "500GB",
+            "after": "5GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Are you a VC-funded startup? Get up to $100K in credits with Render for Startups ↗",
+      "$ 25 /mo",
+      "$ 499 /mo",
+      "Deploy for free",
+      "25 GB bandwidth included",
+      "Deploy for free",
+      "$ 25 /mo",
+      "$ 499 /mo",
+      "$0.25 per GB per month",
+      "$0.30 per GB",
+      "3 days",
+      "7 days",
+      "then $10/mo per 50",
+      "5 GB per month",
+      "then $0.15 per GB",
+      "25 GB per month",
+      "then $0.15 per GB",
+      "then $0.15 per GB",
+      "then $0.25/domain/month",
+      "then $0.25/domain/month",
+      "then $0.25/domain/month",
+      "$30 per link per month",
+      "$30 per link per month",
+      "$0.03 per GB",
+      "then $5 per 1K mins",
+      "1K mins per month",
+      "then $5 per 1K mins",
+      "5K mins per workspace per mo.",
+      "then $5 per 1K mins",
+      "$25 per 1000 mins",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "$0.25 per GB per month",
+      "$0.30 per GB",
+      "3 days",
+      "5 GB per month",
+      "then $0.15 per GB",
+      "then $0.25/domain/month",
+      "then $5 per 1K mins"
+    ],
+    "removed": [
+      "Migrate from Heroku and get up to $10k in credits",
+      "$ 19 USD",
+      "$ 29 USD",
+      "Unlimited projects & environments",
+      "Unlimited team members",
+      "$ 19 USD",
+      "$ 29 USD",
+      "100 GB / month",
+      "500 GB / month",
+      "Unlimited",
+      "1 webhook",
+      "100 webhooks",
+      "100 GB / month",
+      "500 / month",
+      "How do free instance types work?",
+      "With Render’s Free instances"
+    ],
+    "totals": {
+      "removed": 247,
+      "added": 346,
+      "materialRemoved": 26,
+      "materialAdded": 52
+    }
+  },
+  {
+    "id": "render-com-pricing-20260601232803",
+    "url": "https://render.com/pricing",
+    "ts": "20260601232803",
+    "date": "2026-06-01",
+    "source": "wayback",
+    "prevTs": "20260501170611",
+    "kind": "price",
+    "score": 5,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Render: 1 price, 1 limit changed (removed “1 project, 2 environments”; added “$100 per dedicated IP set”)",
+    "pairs": [],
+    "added": [
+      "$100 per dedicated IP set",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "removed": [
+      "1 project, 2 environments",
+      "1 project, 2 environments"
+    ],
+    "totals": {
+      "removed": 14,
+      "added": 25,
+      "materialRemoved": 4,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "render-com-pricing-20260702082030",
+    "url": "https://render.com/pricing",
+    "ts": "20260702082030",
+    "date": "2026-07-02",
+    "source": "wayback",
+    "prevTs": "20260601232803",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Render: 3 prices changed (added “Switching clouds? Get up to $10K in credits +…”)",
+    "pairs": [],
+    "added": [
+      "Switching clouds? Get up to $10K in credits + hands-on help.",
+      "Looking to migrate? We can help and you can get up to $10K in credits. Sign up now ↗",
+      "$100 per month"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 18,
+      "materialRemoved": 5,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "render-com-pricing-20260801133525",
+    "url": "https://render.com/pricing",
+    "ts": "20260801133525",
+    "date": "2026-08-01",
+    "source": "wayback",
+    "prevTs": "20260702082030",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Render: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "Unlimited team members"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 13,
+      "added": 12,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "render-com-pricing-20260901133503",
+    "url": "https://render.com/pricing",
+    "ts": "20260901133503",
+    "date": "2026-09-01",
+    "source": "wayback",
+    "prevTs": "20260801133525",
+    "kind": "price",
+    "score": 183,
+    "counts": {
+      "price": 29,
+      "limit": 45,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Render: 29 prices, 45 limits, 3 plan names changed ($75 → $40)",
+    "pairs": [
+      {
+        "before": "$75/month",
+        "after": "$40/month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$75",
+            "after": "$40"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Unlimited seats & services",
+      "Deploy for free, scale compute as you need.",
+      "Scale up to 12 CPU and 96 GB of RAM",
+      "Free ( limitations apply",
+      "free",
+      "Less than 1 CPU",
+      "0.5c-512mb",
+      "1 CPU",
+      "2 CPU",
+      "2 CPU",
+      "$135/month",
+      "2 CPU",
+      "$200/month",
+      "4 CPU",
+      "4 CPU",
+      "4 CPU",
+      "8 CPU",
+      "$300/month",
+      "8 CPU",
+      "8 CPU",
+      "$1,000/month",
+      "12 CPU",
+      "$450/month",
+      "24 GB RAM",
+      "12 CPU",
+      "$800/month",
+      "48 GB RAM",
+      "12 CPU",
+      "96 GB RAM",
+      "Scale up to 128 CPU and 1024 GB of RAM",
+      "Free ( limitations apply",
+      "free",
+      "Less than 1 CPU",
+      "0.1c-256mb",
+      "Less than 1 CPU",
+      "1 CPU",
+      "1 CPU",
+      "2 CPU",
+      "$75/month",
+      "100 connections"
+    ],
+    "removed": [
+      "Unlimited team members",
+      "$ 0 USD",
+      "Free",
+      "$ 0 USD",
+      "Free",
+      "$0 (30-day limit)",
+      "192 GB",
+      "512 GB",
+      "Accelerated-128gb",
+      "128 GB",
+      "Accelerated-256gb",
+      "256 GB",
+      "Accelerated-384gb",
+      "384 GB",
+      "Accelerated-512gb",
+      "512 GB",
+      "768 GB",
+      "1024 GB",
+      "$ 0 USD",
+      "$0/month",
+      "Up to 512 GB",
+      "Up to 512 GB",
+      "$ 1 USD",
+      "Run 1000s of parallel, async tasks",
+      "4GB",
+      "$1.00",
+      "$2.00",
+      "$7.00"
+    ],
+    "totals": {
+      "removed": 228,
+      "added": 274,
+      "materialRemoved": 107,
+      "materialAdded": 181
+    }
+  },
+  {
+    "id": "render-com-docs-free-20260901133538",
+    "url": "https://render.com/docs/free",
+    "ts": "20260901133538",
+    "date": "2026-09-01",
+    "source": "wayback",
+    "prevTs": "20250502153239",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Render: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "You can deploy certain Render service types free of charge:",
+      "You can also deploy static sites on Render for free.",
+      "Other service types don't support Free instances.",
+      "To remove the Free instance limitations described below, you can upgrade your service to any paid compute plan. See Changing a service's compute plan",
+      "Upgrading your workspace plan does not remove limitations on Free instances.",
+      "Most limitations below are specific to web services on the Free compute plan.",
+      "A Free web service spins back up whenever it next receives an HTTP request or new WebSocket connection. This process takes about one minute. Render displays a loading page to connecting browsers while a service is spinning up.",
+      "Like all Render services, Free web services have an ephemeral filesystem",
+      "but Free web services cannot.",
+      "Paid and Free services can persist relational data in a Render Postgres",
+      "While a Free web service is spun down",
+      "While a Free web service is active, requests to /robots.txt are routed to it as normal.",
+      "Free web services can't receive private network traffic. They can send private network requests to your data stores and paid services in the same region.",
+      "Free web services can't send outbound network traffic on ports 25, 465, or 587, commonly used for SMTP.",
+      "Free Render Postgres databases don't support managed connection pooling",
+      "Unlike paid instances, Free Key Value instances do not continually persist their state to disk. This means that whenever an instance restarts, all of its data is lost."
+    ],
+    "removed": [
+      "You can deploy instances of some Render services free of charge:",
+      "on Render for free.",
+      "Select Static Site, Web Service, Postgres, or Key Value. Free options aren't available for other service types.",
+      "The limitations below are specific to web services on the Free instance type. To avoid these limitations, you can create a web service on any paid instance type.",
+      "View your usage details from the Monthly Free Usage section of your Billing page",
+      "Free web services can't receive private network",
+      "Free Key Value instances are not backed by a persistent disk. Whenever an instance restarts, all of its data is lost."
+    ],
+    "totals": {
+      "removed": 39,
+      "added": 64,
+      "materialRemoved": 22,
+      "materialAdded": 31
+    }
+  },
+  {
+    "id": "render-com-pricing-20260902202107",
+    "url": "https://render.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260901133503",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Render: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 6,
       "materialRemoved": 0,
       "materialAdded": 0
-    }
+    },
+    "transition": true
   }
 ]

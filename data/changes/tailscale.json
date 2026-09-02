@@ -1,0 +1,761 @@
+[
+  {
+    "id": "tailscale-com-pricing-20230307225559",
+    "url": "https://tailscale.com/pricing",
+    "ts": "20230307225559",
+    "date": "2023-03-07",
+    "source": "wayback",
+    "prevTs": "20230120132615",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Tailscale: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 12,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "tailscale-com-pricing-20230501200457",
+    "url": "https://tailscale.com/pricing",
+    "ts": "20230501200457",
+    "date": "2023-05-01",
+    "source": "wayback",
+    "prevTs": "20230307225559",
+    "kind": "price",
+    "score": 72,
+    "counts": {
+      "price": 13,
+      "limit": 5,
+      "plan": 12
+    },
+    "material": true,
+    "headline": "Tailscale: 13 prices, 5 limits, 12 plan names changed (removed “1 user”; added “$0”)",
+    "pairs": [],
+    "added": [
+      "For individuals or small teams who want all that Tailscale has to offer, for free.",
+      "$0",
+      "$6",
+      "Users: Unlimited",
+      "Users: Unlimited",
+      "Devices: 100 + 10/user",
+      "$18",
+      "Devices: 100 + 20/user",
+      "Free",
+      "100 + 10/user",
+      "100 + 20/user",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Does Tailscale have a free trial?",
+      "Tailscale has a Free plan that includes nearly everything Tailscale has to offer for up to 100 devices, and up to 3 provisioned users.",
+      "Our Free plan offers a maximum of 100 devices, but with our Starter and Premium plans the total devices allowed increases as the number of provisioned users on your network increases. Please note that device limits are pooled.",
+      "Use Tailscale for free"
+    ],
+    "removed": [
+      "1 user",
+      "Unlimited ACL tags",
+      "$5",
+      "Try for free",
+      "Unlimited ACL tags",
+      "$15",
+      "Try for free",
+      "Unlimited users in ACL policy",
+      "Unlimited unique users in ACLs",
+      "Unlimited ACL tags",
+      "Unlimited devices",
+      "Unlimited subnet routers",
+      "Unlimited named ACL users",
+      "Unlimited devices",
+      "Unlimited subnet routers",
+      "Unlimited unique users in ACLs",
+      "Unlimited ACL tags",
+      "$5 per user per month",
+      "$15 per user per month",
+      "Unlimited",
+      "5 × users, then $5 per 10",
+      "10 × users, then $5 per 10",
+      "Unlimited",
+      "5, then $25 each",
+      "10, then $25 each",
+      "Unlimited",
+      "5, then $12 each",
+      "Unlimited",
+      "Unlimited",
+      "Just got it running on my Mac too, so now it's a three-device network. Completely free, took minutes.",
+      "is that they enable people to make their own personal internet, for free in most cases. It's this weird paradigm shift, since you have to actively work to make applications insecure rather than the other way around.",
+      "or want to explore additional ACL rules, feel free. If you exceed the limits of your plan for a short while, we’ll get in touch about upgrading to something more suited to your needs.",
+      "Feel free to contact support",
+      "Devices limits are pooled: if you have a 50 device limit, one user can have 45 and five other users can have one device each. If you need to add more devices and do not need to add more users, you can add additional blocks of 10 devices for $5 per month.",
+      "or everyone are free. You can also target specific users by using their email address. Each unique email address in your ACL occupies a slot in your plan.",
+      "For most teams, the included user counts should cover your needs. For more complex needs, you can buy additional unique users in your ACL, or use the Business plan, which provides an unlimited number of named users.",
+      "Try Tailscale out for free on your own devices.",
+      "Ok. I just spent 30 minutes getting @tailscale",
+      "on their IRC test website. It is awesome. 10 min to get my phone, home desktop, desktop at work, a couple local servers and a cloud box all connected to the same network.",
+      "That took a hot 30 minutes and I have to find something else to do. 🤷"
+    ],
+    "totals": {
+      "removed": 322,
+      "added": 330,
+      "materialRemoved": 45,
+      "materialAdded": 28
+    }
+  },
+  {
+    "id": "tailscale-com-pricing-20230709230908",
+    "url": "https://tailscale.com/pricing",
+    "ts": "20230709230908",
+    "date": "2023-07-09",
+    "source": "wayback",
+    "prevTs": "20230501200457",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Tailscale: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 10,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "tailscale-com-pricing-20230901173052",
+    "url": "https://tailscale.com/pricing",
+    "ts": "20230901173052",
+    "date": "2023-09-01",
+    "source": "wayback",
+    "prevTs": "20230709230908",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Tailscale: 2 limits changed (added “Users: Unlimited (first 3 users free)”)",
+    "pairs": [],
+    "added": [
+      "Users: Unlimited (first 3 users free)",
+      "Users: Unlimited (first 3 users free)",
+      "Tailscale will charge you at the end of each month for all active users on your account during that time period. Tailscale will automatically apply a credit for 3 monthly active users to the Starter and Premium plan. For example, if you have 10 active users in a month then you will only be billed for 7 of them."
+    ],
+    "removed": [
+      "Users: Unlimited",
+      "Users: Unlimited"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 8,
+      "materialRemoved": 2,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "tailscale-com-pricing-20231101192116",
+    "url": "https://tailscale.com/pricing",
+    "ts": "20231101192116",
+    "date": "2023-11-01",
+    "source": "wayback",
+    "prevTs": "20230901173052",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Tailscale: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 9,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "tailscale-com-pricing-20240105115847",
+    "url": "https://tailscale.com/pricing",
+    "ts": "20240105115847",
+    "date": "2024-01-05",
+    "source": "wayback",
+    "prevTs": "20231101192116",
+    "kind": "price",
+    "score": 41,
+    "counts": {
+      "price": 4,
+      "limit": 3,
+      "plan": 12
+    },
+    "material": true,
+    "headline": "Tailscale: 4 prices, 3 limits, 12 plan names changed (removed “Devices: 100 + 10/user”; added “Up to 3 users w/Custom Domain”)",
+    "pairs": [],
+    "added": [
+      "Get started free",
+      "Up to 3 users w/Custom Domain",
+      "Get started free",
+      "Unlimited Users",
+      "Get started free",
+      "Unlimited Users",
+      "Unlimited Users",
+      "$5",
+      "$0",
+      "$6",
+      "$18",
+      "Users A user is any distinct email address in your account. You get 3 users for free in Starter and Premium.",
+      "SSO with standard IdP (e.g., Google, Microsoft, GitHub, Keycloak, custom) Log in to Tailscale and manage users with any free native and/or custom OIDC identity provider.",
+      "Custom authentication periods Enforce that users re-authenticate with your identity provider at an interval you choose. By default, this is every 6 months"
+    ],
+    "removed": [
+      "Users: Unlimited",
+      "Devices: 100 + 10/user",
+      "Users: Unlimited",
+      "Devices: 100 + 20/user",
+      "Users: Unlimited",
+      "Users: Unlimited",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Get started for free"
+    ],
+    "totals": {
+      "removed": 318,
+      "added": 154,
+      "materialRemoved": 19,
+      "materialAdded": 17
+    }
+  },
+  {
+    "id": "tailscale-com-pricing-20240301143803",
+    "url": "https://tailscale.com/pricing",
+    "ts": "20240301143803",
+    "date": "2024-03-01",
+    "source": "wayback",
+    "prevTs": "20240105115847",
+    "kind": "price",
+    "score": 16,
+    "counts": {
+      "price": 3,
+      "limit": 2,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Tailscale: 3 prices, 2 limits, 2 plan names changed (removed “First 3 users free”; added “$0.50”)",
+    "pairs": [],
+    "added": [
+      "Ready to try Tailscale for free?",
+      "For individuals who want to securely connect personal devices, for free.",
+      "$0.50",
+      "$0.50 each",
+      "Yes! Customers who want to use Tailscale for commercial use will get a 14-day trial* of the product with no user limit. Customers who use Tailscale for personal use cases (e.g., homelabs, home VPN etc.) will continue to have access to the free tier plan.",
+      "For example, if you sign up for the Starter plan and have 2 users, you are entitled to 120 devices. If you have 200 devices you want to add to your tailnet, you can purchase 80 more devices for your plan at $0.50 each, without needing to add more users."
+    ],
+    "removed": [
+      "Free",
+      "For individuals or small teams who want all that Tailscale has to offer, for free.",
+      "First 3 users free",
+      "Free",
+      "Users A user is any distinct email address in your account. You get 3 users for free in Starter and Premium.",
+      "Tailscale has a Free plan that includes nearly everything Tailscale has to offer for up to 100 devices, and up to 3 provisioned users.",
+      "Tailscale will charge you at the end of each month for all active users on your account during that time period. Tailscale will automatically apply a credit for 3 monthly active users to the Starter and Premium plan. For example, if you have 10 active users in a month then you will only be billed for 7 of them."
+    ],
+    "totals": {
+      "removed": 39,
+      "added": 87,
+      "materialRemoved": 12,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "tailscale-com-pricing-20240903140736",
+    "url": "https://tailscale.com/pricing",
+    "ts": "20240903140736",
+    "date": "2024-09-03",
+    "source": "wayback",
+    "prevTs": "20240301143803",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Tailscale: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Ready to try Tailscale for free?",
+      "SSO with standard IdP (e.g., Google, Microsoft, GitHub, Keycloak, custom) Log in to Tailscale and manage users with any free native and/or custom OIDC identity provider."
+    ],
+    "totals": {
+      "removed": 43,
+      "added": 28,
+      "materialRemoved": 2,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "tailscale-com-pricing-20241108182109",
+    "url": "https://tailscale.com/pricing",
+    "ts": "20241108182109",
+    "date": "2024-11-08",
+    "source": "wayback",
+    "prevTs": "20240903140736",
+    "kind": "price",
+    "score": 15,
+    "counts": {
+      "price": 4,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Tailscale: 4 prices, 1 limit, 1 plan name changed (removed “$0”; added “Limited to 6 users”)",
+    "pairs": [],
+    "added": [
+      "Use Tailscale for free, indefinitely",
+      "Get started free",
+      "Limited to 6 users",
+      "$5"
+    ],
+    "removed": [
+      "$0",
+      "$6",
+      "$18"
+    ],
+    "totals": {
+      "removed": 78,
+      "added": 83,
+      "materialRemoved": 14,
+      "materialAdded": 15
+    }
+  },
+  {
+    "id": "tailscale-com-pricing-20250102030026",
+    "url": "https://tailscale.com/pricing",
+    "ts": "20250102030026",
+    "date": "2025-01-02",
+    "source": "wayback",
+    "prevTs": "20241108182109",
+    "kind": "price",
+    "score": 15,
+    "counts": {
+      "price": 5,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Tailscale: 5 prices changed (added “Add-on devices for $0.50 each per month”)",
+    "pairs": [],
+    "added": [
+      "Add-on devices for $0.50 each per month",
+      "Add-on devices for $0.50 each per month",
+      "Add-on devices for $0.50 each per month",
+      "Add-on devices for $0.50 each per month",
+      "Add-on devices for $0.50 each per month"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 9,
+      "materialRemoved": 0,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "tailscale-com-pricing-20250301004124",
+    "url": "https://tailscale.com/pricing",
+    "ts": "20250301004124",
+    "date": "2025-03-01",
+    "source": "wayback",
+    "prevTs": "20250102030026",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Tailscale: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Get started - it's free!"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 12,
+      "materialRemoved": 4,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "tailscale-com-pricing-20250404094041",
+    "url": "https://tailscale.com/pricing",
+    "ts": "20250404094041",
+    "date": "2025-04-04",
+    "source": "wayback",
+    "prevTs": "20250301004124",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Tailscale: 2 prices changed (removed “Add-on devices for $0.50 each per month”)",
+    "pairs": [],
+    "added": [
+      "No credit card required",
+      "No credit card required",
+      "No credit card required",
+      "No credit card required"
+    ],
+    "removed": [
+      "Unlimited users",
+      "Unlimited users",
+      "Add-on devices for $0.50 each per month",
+      "Unlimited users",
+      "Add-on devices for $0.50 each per month"
+    ],
+    "totals": {
+      "removed": 23,
+      "added": 27,
+      "materialRemoved": 5,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "tailscale-com-pricing-20260105202300",
+    "url": "https://tailscale.com/pricing",
+    "ts": "20260105202300",
+    "date": "2026-01-05",
+    "source": "wayback",
+    "prevTs": "20250404094041",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Tailscale: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "First two weeks free",
+      "First two weeks free",
+      "First two weeks free",
+      "Free Trial on AWS"
+    ],
+    "removed": [
+      "No credit card required",
+      "Get started for free",
+      "No credit card required",
+      "Get started for free",
+      "No credit card required",
+      "Get started for free",
+      "No credit card required"
+    ],
+    "totals": {
+      "removed": 33,
+      "added": 34,
+      "materialRemoved": 7,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "tailscale-com-pricing-20260205210046",
+    "url": "https://tailscale.com/pricing",
+    "ts": "20260205210046",
+    "date": "2026-02-05",
+    "source": "wayback",
+    "prevTs": "20260105202300",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Tailscale: 1 price changed (added “Early-bird registration is officially open fo…”)",
+    "pairs": [],
+    "added": [
+      "Early-bird registration is officially open for TailscaleUp 2026! Register before 3/31 to save $200 →"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "tailscale-com-pricing-20260305153928",
+    "url": "https://tailscale.com/pricing",
+    "ts": "20260305153928",
+    "date": "2026-03-05",
+    "source": "wayback",
+    "prevTs": "20260205210046",
+    "kind": "price",
+    "score": 21,
+    "counts": {
+      "price": 7,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Tailscale: 7 prices changed (removed “Early-bird registration is officially open fo…”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Early-bird registration is officially open for TailscaleUp 2026! Register before 3/31 to save $200 →",
+      "Add-on devices for $0.50 each per month",
+      "First two weeks free",
+      "Add-on devices for $0.50 each per month",
+      "Add-on devices for $0.50 each per month",
+      "$0.50 each",
+      "$0.50",
+      "For example, if you sign up for the Starter plan and have 2 users, you are entitled to 120 devices. If you have 200 devices you want to add to your tailnet, you can purchase 80 more devices for your plan at $0.50 each, without needing to add more users."
+    ],
+    "totals": {
+      "removed": 15,
+      "added": 1,
+      "materialRemoved": 8,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "tailscale-com-pricing-20260403191738",
+    "url": "https://tailscale.com/pricing",
+    "ts": "20260403191738",
+    "date": "2026-04-03",
+    "source": "wayback",
+    "prevTs": "20260305153928",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Tailscale: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Get started - it's free!"
+    ],
+    "totals": {
+      "removed": 43,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "tailscale-com-pricing-20260502065917",
+    "url": "https://tailscale.com/pricing",
+    "ts": "20260502065917",
+    "date": "2026-05-02",
+    "source": "wayback",
+    "prevTs": "20260403191738",
+    "kind": "price",
+    "score": 34,
+    "counts": {
+      "price": 7,
+      "limit": 6,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Tailscale: 7 prices, 6 limits, 1 plan name changed ($6 → $8)",
+    "pairs": [
+      {
+        "before": "$6 Per active user, per month",
+        "after": "$8 Per user, per month",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "$6",
+            "after": "$8"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "For individuals who want to securely connect devices, servers, or software. Access nearly all of Tailscale's offerings and products for free, indefinitely.",
+      "Unlimited user devices",
+      "1,000 mins per month for ephemeral resources",
+      "Unlimited users",
+      "1,000 mins per month for ephemeral resources",
+      "10,000 mins per month for ephemeral resources",
+      "$5 Per month for every 5 devices",
+      "$0 for up to 6 users",
+      "$8 per user, per month",
+      "$18 per user, per month",
+      "Up to 50 tagged resources free, contact sales for more",
+      "1,000 mins per month",
+      "10,000 mins per month",
+      "Free trial",
+      "Yes! Business customers can enjoy a 14-day free trial of the product with no user limit. After the 14-day trial, you’ll just need to choose a plan to keep using Tailscale. If you need an extension, our sales team is happy to help, and we’ll talk through your options.",
+      "Personal users have access to the free tier plan, which will be free forever.",
+      "If you create a tailnet with a public domain, such as Gmail, Apple, or a personal GitHub account, it’s treated as personal use. These tailnets are automatically enrolled in the free Personal plan.",
+      "If you create a tailnet with a custom domain, it’s considered business use, and you’ll be automatically enrolled in a free trial. This setup is ideal for securely connecting critical infrastructure like production clusters, Kubernetes clusters, on-premise databases, and more.",
+      "Just as the name suggests, it’s all about seats. Not user devices, those are unlimited on every plan. With Tailscale, you pay for a certain number of seats on your tailnet. When a user joins your tailnet, they “occupy” a seat. A user can also “vacate” that seat to free it up.",
+      "A user device is simply anything that is not tagged as a resource! User devices are free and unlimited.",
+      "Keep in mind that you cannot decrease below the number of seats that are occupied. For example, if you have 20 seats and they’re all occupied, you would need to remove some users before decreasing the number of seats. If you have 20 seats and 3 seats are vacant, you can simply decrease to 17 seats.",
+      "Has the maximum number of users changed for the free Personal plan?",
+      "The new Personal plan now allows 6 users, an increase from the former plan’s 3 users. This is also equivalent to the former Personal Plus plan, which had a maximum of 6 users as well.",
+      "Much like with the legacy Personal and Personal Plus plans, Personal Pro accounts stand to gain a lot from a migration to the new Personal plan, which now grants more free benefits.",
+      "To grant these accounts those free and added benefits, we will migrate former Personal Pro plans to the new Personal plan. For anyone interested in what the new Standard plan offers, we’ll also provide a discount to help make that transition easier.",
+      "I’m on a paid plan, but have been getting up to three free users through a previous plan. What happens to me?",
+      "If you have six or fewer users, we encourage you to check out our free personal plan. We’ve added more to this plan and expect that this may meet your needs for free."
+    ],
+    "removed": [
+      "For individuals who want to securely connect personal devices, for free.",
+      "Get started for free",
+      "Limited to 3 users",
+      "Use Tailscale for free, indefinitely",
+      "$5 Per month",
+      "First two weeks free",
+      "First two weeks free",
+      "Users A user is any distinct email address in your account. Personal includes 3 free users. Starter and Premium offer unlimited users; you pay for the number of active users at the end of your billing cycle.",
+      "100 + 10/user",
+      "100 + 20/user",
+      "Custom authentication periods Enforce that users re-authenticate with your identity provider at an interval you choose. By default, this is every 6 months",
+      "Free Trial on AWS",
+      "$5",
+      "Yes! Customers who want to use Tailscale for commercial use will get a 14-day trial* of the product with no user limit. Customers who use Tailscale for personal use cases (e.g., homelabs, home VPN etc.) will continue to have access to the free tier plan.",
+      "Our Free plan offers the ability to add a maximum of 100 devices. However for our Starter, Premium, and Enterprise plans the total number of allowed devices increases as the number of provisioned users on the network increases. Device limits are pooled across the account.",
+      "Try Tailscale for free"
+    ],
+    "totals": {
+      "removed": 196,
+      "added": 277,
+      "materialRemoved": 20,
+      "materialAdded": 31
+    }
+  },
+  {
+    "id": "tailscale-com-pricing-20260606140014",
+    "url": "https://tailscale.com/pricing",
+    "ts": "20260606140014",
+    "date": "2026-06-06",
+    "source": "wayback",
+    "prevTs": "20260502065917",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Tailscale: 2 prices changed (added “$1 Per month for every tagged resource”)",
+    "pairs": [],
+    "added": [
+      "$1 Per month for every tagged resource",
+      "50 tagged resources included; add more for $1/month each.",
+      "though feel free to contact us"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 13,
+      "materialRemoved": 1,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "tailscale-com-pricing-20260901203328",
+    "url": "https://tailscale.com/pricing",
+    "ts": "20260901203328",
+    "date": "2026-09-01",
+    "source": "wayback",
+    "prevTs": "20260606140014",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Tailscale: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "tailscale-com-pricing-20260902202107",
+    "url": "https://tailscale.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260901203328",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Tailscale: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

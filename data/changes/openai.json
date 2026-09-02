@@ -1,0 +1,2552 @@
+[
+  {
+    "id": "openai-com-api-pricing-20240502185457",
+    "url": "https://openai.com/api/pricing/",
+    "ts": "20240502185457",
+    "date": "2024-05-02",
+    "source": "wayback",
+    "prevTs": "20230103151203",
+    "kind": "price",
+    "score": 265,
+    "counts": {
+      "price": 71,
+      "limit": 26,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OpenAI API: 71 prices, 26 limits changed (10 → 200)",
+    "pairs": [
+      {
+        "before": "In the simplest case, if your prompt contains 10 tokens and you request a single 90 token completion from the davinci engine, your request will use 100 tokens and will cost $0.002.",
+        "after": "In the simplest case, if your prompt contains 200 tokens and you request a single 900 token completion from the gpt-3.5-turbo-1106 API, your request will use 1100 tokens and will cost [(200 * 0.001) + (900 * 0.002)] / 1000 = $0.002.",
+        "confidence": 0.77,
+        "deltas": [
+          {
+            "before": "10",
+            "after": "200"
+          },
+          {
+            "before": "90",
+            "after": "900"
+          },
+          {
+            "before": "100",
+            "after": "3.5"
+          },
+          {
+            "before": "$0.002",
+            "after": "1106"
+          },
+          {
+            "before": null,
+            "after": "1100"
+          },
+          {
+            "before": null,
+            "after": "200"
+          },
+          {
+            "before": null,
+            "after": "0.001"
+          },
+          {
+            "before": null,
+            "after": "900"
+          },
+          {
+            "before": null,
+            "after": "0.002"
+          },
+          {
+            "before": null,
+            "after": "1000"
+          },
+          {
+            "before": null,
+            "after": "$0.002"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Show prices per 1K tokens",
+      "Multiple models, each with different capabilities and price points. Prices can be viewed in units of either per 1M or 1K tokens. You can think of tokens as pieces of words, where 1,000 tokens is about 750 words. This paragraph is 35 tokens.",
+      "Language models are also available in the Batch API that returns completions within 24 hours for a 50% discount.",
+      "With 128k context, fresher knowledge and the broadest set of capabilities, GPT-4 Turbo is more powerful than GPT-4 and offered at a lower price.",
+      "$10.00 /",
+      "1 M tokens",
+      "$30.00 /",
+      "1 M tokens",
+      "= $0.00255",
+      "= $0.00255",
+      "Price per 1K tokens (fixed)",
+      "$0.01",
+      "$0.00255",
+      "$30.00 /",
+      "1 M tokens",
+      "$60.00 /",
+      "1 M tokens",
+      "gpt-4-32k",
+      "$60.00 /",
+      "1 M tokens",
+      "$120.00 /",
+      "1 M tokens",
+      "gpt-3.5-turbo-0125 is the flagship model of this family, supports a 16K context window and is optimized for dialog.",
+      "gpt-3.5-turbo-instruct is an Instruct model and only supports a 4K context window.",
+      "$0.50 /",
+      "1 M tokens",
+      "$1.50 /",
+      "1 M tokens",
+      "$1.50 /",
+      "1 M tokens",
+      "$2.00 /",
+      "1 M tokens",
+      "$0.03 / session",
+      "$0.10 / GB of vector-storage per day (1 GB free)",
+      "GB refers to binary gigabytes (also known as gibibyte), where 1 GB is 2^30 bytes.",
+      "$8.00 /",
+      "1 M tokens",
+      "$3.00 /",
+      "1 M tokens",
+      "$6.00 /"
+    ],
+    "removed": [
+      "$0.0004 / 1K tokens",
+      "$0.0005 / 1K tokens",
+      "$0.0020 / 1K tokens",
+      "$0.0200 / 1K tokens",
+      "Prices are per 1,000 tokens. You can think of tokens as pieces of words, where 1,000 tokens is about 750 words. This paragraph is 35 tokens.",
+      "flag Start for free",
+      "Start experimenting with $18 in free credit that can be used during your first 3 months.",
+      "$0.0004 / 1K tokens",
+      "$0.0016 / 1K tokens",
+      "$0.0006 / 1K tokens",
+      "$0.0024 / 1K tokens",
+      "$0.0030 / 1K tokens",
+      "$0.0120 / 1K tokens",
+      "$0.0300 / 1K tokens",
+      "$0.1200 / 1K tokens",
+      "$0.0004 / 1K tokens",
+      "$0.0040 / 1K tokens",
+      "$0.0050 / 1K tokens",
+      "$0.0200 / 1K tokens",
+      "$0.2000 / 1K tokens",
+      "As an example, if you had 5 documents (plus one added by the API) with token lengths of 12, 34, 22, 33, 78 (179 total) and your query was 8 tokens, the total tokens consumed would be: 179 + (6 * 14) + (6 * 8) = 311"
+    ],
+    "totals": {
+      "removed": 132,
+      "added": 279,
+      "materialRemoved": 22,
+      "materialAdded": 103
+    }
+  },
+  {
+    "id": "openai-com-api-pricing-20240701174108",
+    "url": "https://openai.com/api/pricing/",
+    "ts": "20240701174108",
+    "date": "2024-07-01",
+    "source": "wayback",
+    "prevTs": "20240502185457",
+    "kind": "price",
+    "score": 135,
+    "counts": {
+      "price": 32,
+      "limit": 20,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OpenAI API: 32 prices, 20 limits changed (35 removed; 1K → 1M)",
+    "pairs": [
+      {
+        "before": "Multiple models, each with different capabilities and price points. Prices can be viewed in units of either per 1M or 1K tokens. You can think of tokens as pieces of words, where 1,000 tokens is about 750 words. This paragraph is 35 tokens.",
+        "after": "Multiple models, each with different capabilities and price points. Prices can be viewed in units of either per 1M or 1K tokens. You can think of tokens as pieces of words, where 1,000 tokens is about 750 words.",
+        "confidence": 0.92,
+        "deltas": [
+          {
+            "before": "35",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "Price per 1K tokens (fixed)",
+        "after": "Price per 1M tokens (fixed)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1K",
+            "after": "1M"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "GPT-4o is our most advanced multimodal model that’s faster and cheaper than GPT-4 Turbo with stronger vision capabilities. The model has 128K context and an October 2023 knowledge cutoff.",
+      "$5.00 /",
+      "$2.50 /",
+      "$15.00 /",
+      "$7.50 /",
+      "$5.00 /",
+      "$2.50 /",
+      "$15.00 /",
+      "$7.50 /",
+      "= $0.001275",
+      "= $0.001275",
+      "$5.00",
+      "$0.001275",
+      "*Batch API pricing requires requests to be submitted as a batch. Responses will be returned within 24 hours for a 50% discount. Learn more about Batch API ↗ (opens in a new window)",
+      "The GPT-3.5 Turbo model is our fast, inexpensive model for simple tasks. It has a 16K context window and is optimized for dialog. The Instruct model supports a 4K context window.",
+      "$0.25 /",
+      "$0.75 /",
+      "$0.75 /",
+      "$1.00 /",
+      "*Batch API pricing requires requests to be submitted as a batch. Responses will be returned within 24 hours for a 50% discount. Learn more about Batch API ↗ (opens in a new window)",
+      "$0.07 /",
+      "$0.05 /",
+      "*Batch API pricing requires requests to be submitted as a batch. Responses will be returned within 24 hours for a 50% discount. Learn more about Batch API ↗ (opens in a new window)",
+      "$1.50 /",
+      "1 M output tokens",
+      "$3.00 /",
+      "1 M output tokens",
+      "1 M training tokens",
+      "1 M input tokens",
+      "1 M input tokens",
+      "1 M output tokens",
+      "$6.00 /",
+      "1 M output tokens",
+      "$6.00 /",
+      "1 M training tokens",
+      "1 M input tokens",
+      "$0.80 /",
+      "1 M input tokens",
+      "1 M output tokens",
+      "$0.80 /"
+    ],
+    "removed": [
+      "With 128k context, fresher knowledge and the broadest set of capabilities, GPT-4 Turbo is more powerful than GPT-4 and offered at a lower price.",
+      "= $0.00255",
+      "= $0.00255",
+      "$0.00255",
+      "gpt-3.5-turbo-0125 is the flagship model of this family, supports a 16K context window and is optimized for dialog.",
+      "gpt-3.5-turbo-instruct is an Instruct model and only supports a 4K context window.",
+      "The ChatGPT Plus subscription covers usage on chat.openai.com only and costs $20/month."
+    ],
+    "totals": {
+      "removed": 150,
+      "added": 156,
+      "materialRemoved": 52,
+      "materialAdded": 105
+    }
+  },
+  {
+    "id": "openai-com-api-pricing-20240902045237",
+    "url": "https://openai.com/api/pricing/",
+    "ts": "20240902045237",
+    "date": "2024-09-02",
+    "source": "wayback",
+    "prevTs": "20240701174108",
+    "kind": "price",
+    "score": 526,
+    "counts": {
+      "price": 153,
+      "limit": 34,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OpenAI API: 153 prices, 34 limits changed (200 → 1500)",
+    "pairs": [
+      {
+        "before": "In the simplest case, if your prompt contains 200 tokens and you request a single 900 token completion from the gpt-3.5-turbo-1106 API, your request will use 1100 tokens and will cost [(200 * 0.001) + (900 * 0.002)] / 1000 = $0.002.",
+        "after": "In the simplest case, if your prompt contains 1500 tokens and you request a single 500 token completion from the gpt-4o-2024-05-13 API, your request will use 2000 tokens and will cost [(1500 * 5.00) + (500 * 15.00)] / 1000000 = $0.015.",
+        "confidence": 0.95,
+        "deltas": [
+          {
+            "before": "200",
+            "after": "1500"
+          },
+          {
+            "before": "900",
+            "after": "500"
+          },
+          {
+            "before": "3.5",
+            "after": "2024"
+          },
+          {
+            "before": "1106",
+            "after": "05"
+          },
+          {
+            "before": "1100",
+            "after": "13"
+          },
+          {
+            "before": "200",
+            "after": "2000"
+          },
+          {
+            "before": "0.001",
+            "after": "1500"
+          },
+          {
+            "before": "900",
+            "after": "5.00"
+          },
+          {
+            "before": "0.002",
+            "after": "500"
+          },
+          {
+            "before": "1000",
+            "after": "15.00"
+          },
+          {
+            "before": "$0.002",
+            "after": "1000000"
+          },
+          {
+            "before": null,
+            "after": "$0.015"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$5.00 / 1M input tokens",
+      "$2.50 / 1M input tokens",
+      "$15.00 / 1M output tokens",
+      "$7.50 / 1M output tokens",
+      "$2.50 / 1M input tokens",
+      "$1.25 / 1M input tokens",
+      "$10.00 / 1M output tokens",
+      "$5.00 / 1M output tokens",
+      "$5.00 / 1M input tokens",
+      "$2.50 / 1M input tokens",
+      "$15.00 / 1M output tokens",
+      "$7.50 / 1M output tokens",
+      "= $0.000638",
+      "= $0.000638",
+      "$0.000638",
+      "GPT-4o mini is our most cost-efficient small model that’s smarter and cheaper than GPT-3.5 Turbo, and has vision capabilities. The model has 128K context and an October 2023 knowledge cutoff.",
+      "$0.150 / 1M input tokens",
+      "$0.075 / 1M input tokens",
+      "$0.600 / 1M output tokens",
+      "$0.300 / 1M output tokens",
+      "$0.150 / 1M input tokens",
+      "$0.075 / 1M input tokens",
+      "$0.600 / 1M output tokens",
+      "$0.300 / 1M output tokens",
+      "$0.15",
+      "$0.020 / 1M tokens",
+      "$0.010 / 1M tokens",
+      "$0.130 / 1M tokens",
+      "$0.065 / 1M tokens",
+      "$0.100 / 1M tokens",
+      "$0.050 / 1M tokens",
+      "$3.750 / 1M input tokens",
+      "$1.875 / 1M input tokens",
+      "$15.000 / 1M output tokens",
+      "$7.500 / 1M output tokens",
+      "$25.000 / 1M training tokens",
+      "$0.300 / 1M input tokens",
+      "$0.150 / 1M input tokens",
+      "$1.200 / 1M output tokens",
+      "$0.600 / 1M output tokens"
+    ],
+    "removed": [
+      "$5.00 /",
+      "1 M input tokens",
+      "$15.00 /",
+      "1 M output tokens",
+      "$7.50 /",
+      "1 M output tokens",
+      "$5.00 /",
+      "1 M input tokens",
+      "$2.50 /",
+      "1 M input tokens",
+      "$15.00 /",
+      "1 M output tokens",
+      "$7.50 /",
+      "1 M output tokens",
+      "$5.00",
+      "The GPT-3.5 Turbo model is our fast, inexpensive model for simple tasks. It has a 16K context window and is optimized for dialog. The Instruct model supports a 4K context window.",
+      "$0.50 /",
+      "1 M input tokens",
+      "$0.25 /",
+      "1 M input tokens",
+      "$1.50 /",
+      "1 M output tokens",
+      "$0.75 /",
+      "1 M output tokens",
+      "$1.50 /",
+      "1 M input tokens",
+      "$0.75 /",
+      "1 M input tokens",
+      "$2.00 /",
+      "1 M output tokens",
+      "$1.00 /",
+      "1 M output tokens",
+      "$0.02 /",
+      "1 M tokens",
+      "$0.01 /",
+      "1 M tokens",
+      "$0.13 /",
+      "1 M tokens",
+      "$0.07 /",
+      "1 M tokens"
+    ],
+    "totals": {
+      "removed": 149,
+      "added": 138,
+      "materialRemoved": 138,
+      "materialAdded": 95
+    }
+  },
+  {
+    "id": "openai-com-api-pricing-20241112050536",
+    "url": "https://openai.com/api/pricing/",
+    "ts": "20241112050536",
+    "date": "2024-11-12",
+    "source": "wayback",
+    "prevTs": "20240902045237",
+    "kind": "price",
+    "score": 138,
+    "counts": {
+      "price": 45,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OpenAI API: 45 prices, 2 limits changed ($15.00 → $10.00; $7.50 → $5.00)",
+    "pairs": [
+      {
+        "before": "$15.00 / 1M output tokens",
+        "after": "$10.00 / 1M output tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$15.00",
+            "after": "$10.00"
+          }
+        ]
+      },
+      {
+        "before": "$7.50 / 1M output tokens",
+        "after": "$5.00 / 1M output tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$7.50",
+            "after": "$5.00"
+          }
+        ]
+      },
+      {
+        "before": "$5.00 / 1M input tokens",
+        "after": "$1.25 / 1M input tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$5.00",
+            "after": "$1.25"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$1.25 / 1M cached** input tokens",
+      "$1.25 / 1M cached** input tokens",
+      "$2.50 / 1M input tokens",
+      "$10.00 / 1M output tokens",
+      "$100.00 / 1M input tokens",
+      "$200.00 / 1M output tokens",
+      "$2.50 / 1M input tokens",
+      "$10.00 / 1M output tokens",
+      "$100.00 / 1M input tokens",
+      "$200.00 / 1M output tokens",
+      "$0.075 / 1M cached** input tokens",
+      "$0.075 / 1M cached** input tokens",
+      "o1-preview is our new reasoning model for complex tasks. The model has 128K context and an October 2023 knowledge cutoff.",
+      "$15.00 / 1M input tokens",
+      "$7.50 / 1M cached* input tokens",
+      "$60.00 / 1M output** tokens",
+      "$15.00 / 1M input tokens",
+      "$7.50 / 1M cached* input tokens",
+      "$60.00 / 1M output** tokens",
+      "o1-mini is a fast, cost-efficient reasoning model tailored to coding, math, and science use cases. The model has 128K context and an October 2023 knowledge cutoff.",
+      "$3.00 / 1M input tokens",
+      "$1.50 / 1M cached* input tokens",
+      "$12.00 / 1M output* tokens",
+      "$3.00 / 1M input tokens",
+      "$1.50 / 1M cached* input tokens",
+      "$12.00 / 1M output* tokens",
+      "$1.875 / 1M cached*** input tokens",
+      "$0.150 / 1M cached*** input tokens",
+      "= $0.006375",
+      "= $0.006375",
+      "Price per 1M tokens (fixed)",
+      "$25.00",
+      "$0.006375",
+      "$5.00 / 1M input tokens",
+      "$2.50 / 1M cached** input tokens",
+      "$20.00 / 1M output tokens",
+      "$100.00 / 1M input tokens",
+      "$20.00 / 1M cached** input tokens",
+      "$200.00 / 1M output tokens",
+      "$5.00 / 1M input tokens"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 25,
+      "added": 130,
+      "materialRemoved": 7,
+      "materialAdded": 52
+    }
+  },
+  {
+    "id": "openai-com-api-pricing-20250109100914",
+    "url": "https://openai.com/api/pricing/",
+    "ts": "20250109100914",
+    "date": "2025-01-09",
+    "source": "wayback",
+    "prevTs": "20241112050536",
+    "kind": "price",
+    "score": 140,
+    "counts": {
+      "price": 45,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OpenAI API: 45 prices, 3 limits changed (removed “GPT-4o mini is our most cost-efficient small …”; added “$2.50 / 1M input tokens”)",
+    "pairs": [],
+    "added": [
+      "$2.50 / 1M input tokens",
+      "$1.25 / 1M input tokens",
+      "$1.25 / 1M cached** input tokens",
+      "$10.00 / 1M output tokens",
+      "$5.00 / 1M output tokens",
+      "$2.50 / 1M input tokens",
+      "$10.00 / 1M output tokens",
+      "$40.00 / 1M input tokens",
+      "$80.00 / 1M output tokens",
+      "$0.150 / 1M input tokens",
+      "$0.600 / 1M output tokens",
+      "$10.000 / 1M input tokens",
+      "$20.000 / 1M output tokens",
+      "$0.150 / 1M input tokens",
+      "$0.600 / 1M output tokens",
+      "$10.000 / 1M input tokens",
+      "$20.000 / 1M output tokens",
+      "o1 is our most powerful reasoning model that supports tools, Structured Outputs, and vision. The model has 200K context and an October 2023 knowledge cutoff.",
+      "$15.00 / 1M input tokens",
+      "$7.50 / 1M cached* input tokens",
+      "$60.00 / 1M output** tokens",
+      "$15.00 / 1M input tokens",
+      "$7.50 / 1M cached* input tokens",
+      "$60.00 / 1M output** tokens",
+      "= $0.00337",
+      "= $0.00337",
+      "Price per 1M tokens (fixed)",
+      "$15.00",
+      "$0.00337",
+      "$5.00 / 1M input tokens",
+      "$2.50 / 1M cached* input tokens",
+      "$20.00 / 1M output tokens",
+      "$40.00 / 1M input tokens",
+      "$2.50 / 1M cached* input tokens",
+      "$80.00 / 1M output tokens",
+      "$0.60 / 1M input tokens",
+      "$0.30 / 1M cached* input tokens",
+      "$2.40 / 1M output tokens",
+      "$10.00 / 1M input tokens",
+      "$0.30 / 1M cached* input tokens"
+    ],
+    "removed": [
+      "GPT-4o mini is our most cost-efficient small model that’s smarter and cheaper than GPT-3.5 Turbo, and has vision capabilities. The model has 128K context and an October 2023 knowledge cutoff.",
+      "o1-preview is our new reasoning model for complex tasks. The model has 128K context and an October 2023 knowledge cutoff.",
+      "o1-mini is a fast, cost-efficient reasoning model tailored to coding, math, and science use cases. The model has 128K context and an October 2023 knowledge cutoff."
+    ],
+    "totals": {
+      "removed": 22,
+      "added": 98,
+      "materialRemoved": 9,
+      "materialAdded": 53
+    }
+  },
+  {
+    "id": "openai-com-api-pricing-20250201145921",
+    "url": "https://openai.com/api/pricing/",
+    "ts": "20250201145921",
+    "date": "2025-02-01",
+    "source": "wayback",
+    "prevTs": "20250109100914",
+    "kind": "price",
+    "score": 83,
+    "counts": {
+      "price": 27,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OpenAI API: 27 prices, 1 limit changed ($100.00 → $40.00; $200.00 → $80.00)",
+    "pairs": [
+      {
+        "before": "$100.00 / 1M input tokens",
+        "after": "$40.00 / 1M input tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$100.00",
+            "after": "$40.00"
+          }
+        ]
+      },
+      {
+        "before": "$200.00 / 1M output tokens",
+        "after": "$80.00 / 1M output tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$200.00",
+            "after": "$80.00"
+          }
+        ]
+      },
+      {
+        "before": "$60.00 / 1M output** tokens",
+        "after": "$30.00 / 1M output** tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$60.00",
+            "after": "$30.00"
+          }
+        ]
+      },
+      {
+        "before": "$3.00 / 1M input tokens",
+        "after": "$1.10 / 1M input tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.00",
+            "after": "$1.10"
+          }
+        ]
+      },
+      {
+        "before": "$1.50 / 1M cached* input tokens",
+        "after": "$0.55 / 1M cached* input tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.50",
+            "after": "$0.55"
+          }
+        ]
+      },
+      {
+        "before": "$12.00 / 1M output** tokens",
+        "after": "$4.40 / 1M output** tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$12.00",
+            "after": "$4.40"
+          }
+        ]
+      },
+      {
+        "before": "$3.00 / 1M input tokens",
+        "after": "$0.55 / 1M input tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.00",
+            "after": "$0.55"
+          }
+        ]
+      },
+      {
+        "before": "$1.50 / 1M cached* input tokens",
+        "after": "$0.55 / 1M cached* input tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.50",
+            "after": "$0.55"
+          }
+        ]
+      },
+      {
+        "before": "$12.00 / 1M output** tokens",
+        "after": "$2.20 / 1M output** tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$12.00",
+            "after": "$2.20"
+          }
+        ]
+      },
+      {
+        "before": "$100.00 / 1M input tokens",
+        "after": "$40.00 / 1M input tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$100.00",
+            "after": "$40.00"
+          }
+        ]
+      },
+      {
+        "before": "$20.00 / 1M cached* input tokens",
+        "after": "$2.50 / 1M cached* input tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$20.00",
+            "after": "$2.50"
+          }
+        ]
+      },
+      {
+        "before": "$200.00 / 1M output tokens",
+        "after": "$80.00 / 1M output tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$200.00",
+            "after": "$80.00"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$7.50 / 1M input tokens",
+      "$30.00 / 1M output** tokens",
+      "$7.50 / 1M input tokens",
+      "$30.00 / 1M output** tokens",
+      "$7.50 / 1M input tokens",
+      "$30.00 / 1M output** tokens",
+      "$7.50 / 1M input tokens",
+      "$60.00 / 1M tokens",
+      "***Batch API pricing requires requests to be submitted as a batch. Responses will be returned within 24 hours for a 50% discount. Learn more about Batch API ↗⁠ ⁠ (opens in a new window)",
+      "$1.10 / 1M input tokens",
+      "$0.55 / 1M input tokens",
+      "$4.40 / 1M output** tokens",
+      "$2.20 / 1M output** tokens",
+      "***Batch API pricing requires requests to be submitted as a batch. Responses will be returned within 24 hours for a 50% discount. Learn more about Batch API ↗⁠ ⁠ (opens in a new window)",
+      "$1.10 / 1M tokens",
+      "$4.40 / 1M tokens",
+      "$0.55 / 1M cached* tokens"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 45,
+      "added": 140,
+      "materialRemoved": 15,
+      "materialAdded": 32
+    }
+  },
+  {
+    "id": "openai-com-api-pricing-20250503232709",
+    "url": "https://openai.com/api/pricing/",
+    "ts": "20250503232709",
+    "date": "2025-05-03",
+    "source": "wayback",
+    "prevTs": "20250201145921",
+    "kind": "price",
+    "score": 567,
+    "counts": {
+      "price": 183,
+      "limit": 9,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OpenAI API: 183 prices, 9 limits changed ($0.050 → $0.025; $5.00 → $40.00)",
+    "pairs": [
+      {
+        "before": "$0.050 / 1M tokens",
+        "after": "$0.025 / 1M tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.050",
+            "after": "$0.025"
+          }
+        ]
+      },
+      {
+        "before": "$5.00 / 1M input tokens",
+        "after": "$40.00 / 1M input tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$5.00",
+            "after": "$40.00"
+          }
+        ]
+      },
+      {
+        "before": "$0.60 / 1M input tokens",
+        "after": "$5.00 / 1M input tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.60",
+            "after": "$5.00"
+          }
+        ]
+      },
+      {
+        "before": "$0.30 / 1M cached* input tokens",
+        "after": "$5.00 / 1M input tokens",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$0.30",
+            "after": "$5.00"
+          }
+        ]
+      },
+      {
+        "before": "$20.00 / 1M output tokens",
+        "after": "$40.00 / 1M output tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$20.00",
+            "after": "$40.00"
+          }
+        ]
+      },
+      {
+        "before": "$0.30 / 1M cached* input tokens",
+        "after": "$10.00 / 1M input tokens",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$0.30",
+            "after": "$10.00"
+          }
+        ]
+      },
+      {
+        "before": "$2.50 / 1M input tokens",
+        "after": "$0.60 / 1M input tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.50",
+            "after": "$0.60"
+          }
+        ]
+      },
+      {
+        "before": "$1.25 / 1M input tokens",
+        "after": "$0.60 / 1M input tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.25",
+            "after": "$0.60"
+          }
+        ]
+      },
+      {
+        "before": "$1.25 / 1M cached** input tokens",
+        "after": "$0.30 / 1M cached input tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.25",
+            "after": "$0.30"
+          }
+        ]
+      },
+      {
+        "before": "$10.00 / 1M output tokens",
+        "after": "$2.40 / 1M output tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$10.00",
+            "after": "$2.40"
+          }
+        ]
+      },
+      {
+        "before": "$5.00 / 1M output tokens",
+        "after": "$2.40 / 1M output tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$5.00",
+            "after": "$2.40"
+          }
+        ]
+      },
+      {
+        "before": "$2.50 / 1M input tokens",
+        "after": "$10.00 / 1M input tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.50",
+            "after": "$10.00"
+          }
+        ]
+      },
+      {
+        "before": "$1.25 / 1M cached** input tokens",
+        "after": "$0.30 / 1M cached input tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.25",
+            "after": "$0.30"
+          }
+        ]
+      },
+      {
+        "before": "$10.00 / 1M output tokens",
+        "after": "$80.00 / 1M output tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$10.00",
+            "after": "$80.00"
+          }
+        ]
+      },
+      {
+        "before": "$5.00 / 1M output tokens",
+        "after": "$40.00 / 1M output tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$5.00",
+            "after": "$40.00"
+          }
+        ]
+      },
+      {
+        "before": "$1.25 / 1M cached** input tokens",
+        "after": "$0.30 / 1M cached input tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.25",
+            "after": "$0.30"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0.10 / 1M tokens",
+      "$0.275 / 1M tokens",
+      "and run tasks asynchronously over 24 hours.",
+      "$0.75 / 1M tokens",
+      "$0.20 / 1M tokens",
+      "$3.20 / 1M tokens",
+      "$25.000 / 1M tokens",
+      "Prompts are billed similarly to other GPT models. Image outputs cost approximately $0.01 (low), $0.04 (medium), and $0.17 (high) for square images. For detailed token usage by image quality and size, see the docs",
+      "$0.10 / GB of vector storage per day (first GB free)",
+      "$2.50 / 1k tool calls",
+      "$30.00 / 1K calls",
+      "$35.00 / 1K calls",
+      "$50.00 / 1K calls",
+      "$25.00 / 1K calls",
+      "$27.50 / 1K calls",
+      "$30.00 / 1K calls",
+      "= $0.00051",
+      "= $0.00051",
+      "$2.00",
+      "$0.00051"
+    ],
+    "removed": [
+      "Show prices per 1K tokens",
+      "Multiple models, each with different capabilities and price points. Prices can be viewed in units of either per 1M or 1K tokens. You can think of tokens as pieces of words, where 1,000 tokens is about 750 words.",
+      "that returns completions within 24 hours for a 50% discount.",
+      "GPT-4o is our most advanced multimodal model that’s faster and cheaper than GPT-4 Turbo with stronger vision capabilities. The model has 128K context and an October 2023 knowledge cutoff.",
+      "$1.25 / 1M input tokens",
+      "$1.25 / 1M input tokens",
+      "$2.50 / 1M input tokens",
+      "$10.00 / 1M output tokens",
+      "$80.00 / 1M output tokens",
+      "$2.50 / 1M input tokens",
+      "$10.00 / 1M output tokens",
+      "$40.00 / 1M input tokens",
+      "$80.00 / 1M output tokens",
+      "$2.50 / 1M input tokens",
+      "$10.00 / 1M output tokens",
+      "$100.00 / 1M input tokens",
+      "$200.00 / 1M output tokens",
+      "$5.00 / 1M input tokens",
+      "$2.50 / 1M input tokens",
+      "$7.50 / 1M output tokens",
+      "= $0.000638",
+      "= $0.000638",
+      "$2.50",
+      "$0.000638",
+      "*Batch API pricing requires requests to be submitted as a batch. Responses will be returned within 24 hours for a 50% discount. Learn more about Batch API ↗ ⁠ (opens in a new window)",
+      "$0.075 / 1M input tokens",
+      "$0.075 / 1M cached** input tokens",
+      "$0.600 / 1M output tokens",
+      "$0.150 / 1M input tokens",
+      "$0.075 / 1M input tokens",
+      "$0.075 / 1M cached** input tokens",
+      "$0.600 / 1M output tokens",
+      "$0.300 / 1M output tokens",
+      "$0.150 / 1M input tokens",
+      "$0.600 / 1M output tokens",
+      "$10.000 / 1M input tokens",
+      "$20.000 / 1M output tokens",
+      "$0.150 / 1M input tokens",
+      "$0.600 / 1M output tokens",
+      "$10.000 / 1M input tokens"
+    ],
+    "totals": {
+      "removed": 549,
+      "added": 225,
+      "materialRemoved": 212,
+      "materialAdded": 67
+    }
+  },
+  {
+    "id": "openai-com-api-pricing-20250602152701",
+    "url": "https://openai.com/api/pricing/",
+    "ts": "20250602152701",
+    "date": "2025-06-02",
+    "source": "wayback",
+    "prevTs": "20250503232709",
+    "kind": "price",
+    "score": 39,
+    "counts": {
+      "price": 13,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OpenAI API: 13 prices changed ($3.750 → $0.20; $1.875 → $0.05)",
+    "pairs": [
+      {
+        "before": "$3.750 / 1M tokens",
+        "after": "$0.20 / 1M tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.750",
+            "after": "$0.20"
+          }
+        ]
+      },
+      {
+        "before": "$1.875 / 1M tokens",
+        "after": "$0.05 / 1M tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.875",
+            "after": "$0.05"
+          }
+        ]
+      },
+      {
+        "before": "$15.000 / 1M tokens",
+        "after": "$0.80 / 1M tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$15.000",
+            "after": "$0.80"
+          }
+        ]
+      },
+      {
+        "before": "$25.000 / 1M tokens",
+        "after": "$1.50 / 1M tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$25.000",
+            "after": "$1.50"
+          }
+        ]
+      },
+      {
+        "before": "$0.30 / 1M tokens",
+        "after": "$4.00 / 1M tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.30",
+            "after": "$4.00"
+          }
+        ]
+      },
+      {
+        "before": "$0.15 / 1M tokens",
+        "after": "$1.00 / 1M tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.15",
+            "after": "$1.00"
+          }
+        ]
+      },
+      {
+        "before": "$1.20 / 1M tokens",
+        "after": "$16.00 / 1M tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.20",
+            "after": "$16.00"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$100.00 / training hour",
+      "$1.25 / 1M cached input tokens *",
+      "$1.25 / 1M cached input tokens *",
+      "$2.50 / 1M cached input tokens *",
+      "$2.50 / 1M cached input tokens *"
+    ],
+    "removed": [
+      "$3.00 / 1M tokens"
+    ],
+    "totals": {
+      "removed": 14,
+      "added": 21,
+      "materialRemoved": 9,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "openai-com-api-pricing-20250702152237",
+    "url": "https://openai.com/api/pricing/",
+    "ts": "20250702152237",
+    "date": "2025-07-02",
+    "source": "wayback",
+    "prevTs": "20250602152701",
+    "kind": "price",
+    "score": 27,
+    "counts": {
+      "price": 9,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OpenAI API: 9 prices changed ($10.00 → $2.00; $2.50 → $0.50)",
+    "pairs": [
+      {
+        "before": "$10.00 / 1M tokens",
+        "after": "$2.00 / 1M tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$10.00",
+            "after": "$2.00"
+          }
+        ]
+      },
+      {
+        "before": "$2.50 / 1M tokens",
+        "after": "$0.50 / 1M tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.50",
+            "after": "$0.50"
+          }
+        ]
+      },
+      {
+        "before": "$40.00 / 1M tokens",
+        "after": "$8.00 / 1M tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$40.00",
+            "after": "$8.00"
+          }
+        ]
+      },
+      {
+        "before": "$27.50 / 1K calls",
+        "after": "$10.00 / 1K calls",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$27.50",
+            "after": "$10.00"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Web search content tokens: Search content tokens are tokens retrieved from the search index and fed to the model alongside your prompt to generate an answer. For gpt-4o and gpt-4.1 models, these tokens are included in the $25/1K calls cost. For o3 and o4-mini models, search content tokens are charged at model rate.",
+      "Search content tokens free"
+    ],
+    "removed": [
+      "$30.00 / 1K calls",
+      "$35.00 / 1K calls",
+      "$50.00 / 1K calls",
+      "$30.00 / 1K calls"
+    ],
+    "totals": {
+      "removed": 20,
+      "added": 21,
+      "materialRemoved": 8,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "openai-com-api-pricing-20250902002545",
+    "url": "https://openai.com/api/pricing/",
+    "ts": "20250902002545",
+    "date": "2025-09-02",
+    "source": "wayback",
+    "prevTs": "20250702152237",
+    "kind": "price",
+    "score": 122,
+    "counts": {
+      "price": 40,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OpenAI API: 40 prices, 1 limit changed ($2.00 → $1.250; $0.50 → $0.125)",
+    "pairs": [
+      {
+        "before": "$2.00 / 1M tokens",
+        "after": "$1.250 / 1M tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.00",
+            "after": "$1.250"
+          }
+        ]
+      },
+      {
+        "before": "$0.50 / 1M tokens",
+        "after": "$0.125 / 1M tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.50",
+            "after": "$0.125"
+          }
+        ]
+      },
+      {
+        "before": "$8.00 / 1M tokens",
+        "after": "$10.000 / 1M tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$8.00",
+            "after": "$10.000"
+          }
+        ]
+      },
+      {
+        "before": "$0.40 / 1M tokens",
+        "after": "$0.250 / 1M tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.40",
+            "after": "$0.250"
+          }
+        ]
+      },
+      {
+        "before": "$0.400 / 1M tokens",
+        "after": "$2.000 / 1M tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.400",
+            "after": "$2.000"
+          }
+        ]
+      },
+      {
+        "before": "$2.00 / 1M tokens",
+        "after": "$0.050 / 1M tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.00",
+            "after": "$0.050"
+          }
+        ]
+      },
+      {
+        "before": "$0.50 / 1M tokens",
+        "after": "$0.005 / 1M tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.50",
+            "after": "$0.005"
+          }
+        ]
+      },
+      {
+        "before": "$8.00 / 1M tokens",
+        "after": "$0.400 / 1M tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$8.00",
+            "after": "$0.400"
+          }
+        ]
+      },
+      {
+        "before": "$5.00 / 1M input tokens",
+        "after": "$4.00 / 1M input tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$5.00",
+            "after": "$4.00"
+          }
+        ]
+      },
+      {
+        "before": "$2.50 / 1M cached input tokens",
+        "after": "$0.40 / 1M cached input tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.50",
+            "after": "$0.40"
+          }
+        ]
+      },
+      {
+        "before": "$20.00 / 1M output tokens",
+        "after": "$16.00 / 1M output tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$20.00",
+            "after": "$16.00"
+          }
+        ]
+      },
+      {
+        "before": "$5.00 / 1M input tokens",
+        "after": "$4.00 / 1M input tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$5.00",
+            "after": "$4.00"
+          }
+        ]
+      },
+      {
+        "before": "$2.50 / 1M cached input tokens",
+        "after": "$0.40 / 1M cached input tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.50",
+            "after": "$0.40"
+          }
+        ]
+      },
+      {
+        "before": "$20.00 / 1M output tokens",
+        "after": "$16.00 / 1M output tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$20.00",
+            "after": "$16.00"
+          }
+        ]
+      },
+      {
+        "before": "$40.00 / 1M input tokens",
+        "after": "$32.00 / 1M input tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$40.00",
+            "after": "$32.00"
+          }
+        ]
+      },
+      {
+        "before": "$2.50 / 1M cached input tokens",
+        "after": "$0.40 / 1M cached input tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.50",
+            "after": "$0.40"
+          }
+        ]
+      },
+      {
+        "before": "$80.00 / 1M output tokens",
+        "after": "$64.00 / 1M output tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$80.00",
+            "after": "$64.00"
+          }
+        ]
+      },
+      {
+        "before": "$40.00 / 1M input tokens",
+        "after": "$32.00 / 1M input tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$40.00",
+            "after": "$32.00"
+          }
+        ]
+      },
+      {
+        "before": "$2.50 / 1M cached input tokens",
+        "after": "$0.40 / 1M cached input tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.50",
+            "after": "$0.40"
+          }
+        ]
+      },
+      {
+        "before": "$80.00 / 1M output tokens",
+        "after": "$64.00 / 1M output tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$80.00",
+            "after": "$64.00"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Save 50% on inputs and outputs with the Batch API and run tasks asynchronously over 24 hours.",
+      "$5.00 / 1M input tokens",
+      "$0.50 / 1M cached input tokens",
+      "$5.00 / 1M input tokens",
+      "$0.50 / 1M cached input tokens",
+      "$10.00 / 1K calls",
+      "= $0.000263",
+      "= $0.000263",
+      "$1.25",
+      "$0.000263"
+    ],
+    "removed": [
+      "$0.10 / 1M tokens",
+      "$1.60 / 1M tokens",
+      "$0.100 / 1M tokens",
+      "$1.100 / 1M tokens",
+      "$0.275 / 1M tokens",
+      "$4.400 / 1M tokens",
+      "and run tasks asynchronously over 24 hours.",
+      "Web search content tokens: Search content tokens are tokens retrieved from the search index and fed to the model alongside your prompt to generate an answer. For gpt-4o and gpt-4.1 models, these tokens are included in the $25/1K calls cost. For o3 and o4-mini models, search content tokens are charged at model rate.",
+      "Search content tokens free",
+      "= $0.00051",
+      "= $0.00051",
+      "$2.00",
+      "$0.00051"
+    ],
+    "totals": {
+      "removed": 69,
+      "added": 63,
+      "materialRemoved": 33,
+      "materialAdded": 30
+    }
+  },
+  {
+    "id": "openai-com-api-pricing-20251004182904",
+    "url": "https://openai.com/api/pricing/",
+    "ts": "20251004182904",
+    "date": "2025-10-04",
+    "source": "wayback",
+    "prevTs": "20250902002545",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "OpenAI API: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 8,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "openai-com-api-pricing-20251111115926",
+    "url": "https://openai.com/api/pricing/",
+    "ts": "20251111115926",
+    "date": "2025-11-11",
+    "source": "wayback",
+    "prevTs": "20251004182904",
+    "kind": "price",
+    "score": 75,
+    "counts": {
+      "price": 24,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "OpenAI API: 24 prices, 1 limit, 1 plan name changed ($0.30 → $0.06; $0.30 → $0.06)",
+    "pairs": [
+      {
+        "before": "$0.30 / 1M cached input tokens",
+        "after": "$0.06 / 1M cached input tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.30",
+            "after": "$0.06"
+          }
+        ]
+      },
+      {
+        "before": "$0.30 / 1M cached input tokens",
+        "after": "$0.06 / 1M cached input tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.30",
+            "after": "$0.06"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$15.00 / 1M tokens",
+      "$120.00 / 1M tokens",
+      "$0.80 / 1M input tokens",
+      "$0.08 / 1M cached input tokens",
+      "$0.80 / 1M input tokens",
+      "$0.08 / 1M cached input tokens",
+      "$0.10",
+      "$0.30",
+      "$0.50",
+      "$2.00 / 1M input tokens",
+      "$0.20 / 1M cached input tokens *",
+      "$2.00 / 1M input tokens",
+      "$0.20 / 1M cached input tokens *",
+      "$2.50 / 1M input tokens",
+      "$0.25 / 1M cached input tokens *",
+      "$8.00 / 1M output tokens",
+      "$2.50 / 1M input tokens",
+      "$0.25 / 1M cached input tokens *",
+      "$8.00 / 1M output tokens",
+      "$10.00 / 1K calls + search content tokens billed at model rates 1",
+      "Free tier (per account, per month)",
+      "1 GB",
+      "Price beyond free tier",
+      "$0.10 / GB-day",
+      "What’s always free"
+    ],
+    "removed": [
+      "$10.00 / 1K calls"
+    ],
+    "totals": {
+      "removed": 16,
+      "added": 79,
+      "materialRemoved": 5,
+      "materialAdded": 29
+    }
+  },
+  {
+    "id": "openai-com-api-pricing-20251203034208",
+    "url": "https://openai.com/api/pricing/",
+    "ts": "20251203034208",
+    "date": "2025-12-03",
+    "source": "wayback",
+    "prevTs": "20251111115926",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "OpenAI API: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "openai-com-api-pricing-20260102012016",
+    "url": "https://openai.com/api/pricing/",
+    "ts": "20260102012016",
+    "date": "2026-01-02",
+    "source": "wayback",
+    "prevTs": "20251203034208",
+    "kind": "price",
+    "score": 66,
+    "counts": {
+      "price": 22,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OpenAI API: 22 prices changed ($1.250 → $1.750; $0.125 → $0.175)",
+    "pairs": [
+      {
+        "before": "$1.250 / 1M tokens",
+        "after": "$1.750 / 1M tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.250",
+            "after": "$1.750"
+          }
+        ]
+      },
+      {
+        "before": "$0.125 / 1M tokens",
+        "after": "$0.175 / 1M tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.125",
+            "after": "$0.175"
+          }
+        ]
+      },
+      {
+        "before": "$10.000 / 1M tokens",
+        "after": "$14.000 / 1M tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$10.000",
+            "after": "$14.000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$21.00 / 1M tokens",
+      "$168.00 / 1M tokens",
+      "$5.00 / 1M input tokens",
+      "$1.25 / 1M cached input tokens *",
+      "$10.00 / 1M output tokens *",
+      "$5.00 / 1M input tokens",
+      "$1.25 / 1M cached input tokens *",
+      "$10.00 / 1M output tokens *",
+      "$8.00 / 1M input tokens",
+      "$2.00 / 1M cached input tokens *",
+      "$32.00 / 1M output tokens",
+      "$8.00 / 1M input tokens",
+      "$2.00 / 1M cached input tokens *",
+      "$32.00 / 1M output tokens"
+    ],
+    "removed": [
+      "$0.050 / 1M tokens",
+      "$0.005 / 1M tokens",
+      "$0.400 / 1M tokens",
+      "$15.00 / 1M tokens",
+      "$120.00 / 1M tokens"
+    ],
+    "totals": {
+      "removed": 22,
+      "added": 31,
+      "materialRemoved": 8,
+      "materialAdded": 17
+    }
+  },
+  {
+    "id": "openai-com-api-pricing-20260205022429",
+    "url": "https://openai.com/api/pricing/",
+    "ts": "20260205022429",
+    "date": "2026-02-05",
+    "source": "wayback",
+    "prevTs": "20260102012016",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "OpenAI API: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "openai-com-api-pricing-20260301135109",
+    "url": "https://openai.com/api/pricing/",
+    "ts": "20260301135109",
+    "date": "2026-03-01",
+    "source": "wayback",
+    "prevTs": "20260205022429",
+    "kind": "price",
+    "score": 40,
+    "counts": {
+      "price": 13,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OpenAI API: 13 prices, 1 limit changed (removed “$0.03 / session”; added “1 GB (default): $0.03 / container”)",
+    "pairs": [],
+    "added": [
+      "1 GB (default): $0.03 / container",
+      "1 GB (default): $0.03 / per 20 minute session",
+      "4 GB: $0.12 / container",
+      "4 GB: $0.12 / per 20 minute session",
+      "16 GB: $0.48 / container",
+      "16 GB: $0.48 / per 20 minute session",
+      "64 GB: $1.92 / container",
+      "64 GB: $1.92 / per 20 minute session"
+    ],
+    "removed": [
+      "$0.03 / session",
+      "= $0.000263",
+      "= $0.000263",
+      "Price per 1M tokens (fixed)",
+      "$1.25",
+      "$0.000263"
+    ],
+    "totals": {
+      "removed": 72,
+      "added": 11,
+      "materialRemoved": 6,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "developers-openai-com-api-docs-pricing-20260304030314",
+    "url": "https://developers.openai.com/api/docs/pricing",
+    "ts": "20260304030314",
+    "date": "2026-03-04",
+    "source": "wayback",
+    "prevTs": "20260210041738",
+    "kind": "price",
+    "score": 141,
+    "counts": {
+      "price": 47,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OpenAI API: 47 prices changed (added “$2.50”)",
+    "pairs": [],
+    "added": [
+      "$2.50",
+      "$0.63",
+      "$5.00",
+      "$2.50",
+      "$0.63",
+      "$5.00",
+      "$2.50",
+      "$0.63",
+      "$1.00",
+      "$0.10",
+      "$1.75",
+      "$0.175",
+      "$14.00",
+      "$1.75",
+      "$0.175",
+      "$14.00",
+      "$4.00",
+      "$0.40",
+      "$16.00",
+      "$2.50",
+      "$10.00",
+      "$3.50",
+      "$0.35",
+      "$28.00",
+      "$4.00",
+      "$1.00",
+      "$16.00",
+      "$4.00",
+      "$1.00",
+      "$16.00",
+      "$5.00",
+      "$1.25",
+      "$20.00",
+      "$1.25",
+      "$0.13",
+      "$4.00",
+      "$5.00",
+      "$0.50",
+      "$32.00",
+      "$0.40"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 15,
+      "added": 178,
+      "materialRemoved": 1,
+      "materialAdded": 48
+    }
+  },
+  {
+    "id": "developers-openai-com-api-docs-guides-rate-limits-20260401024801",
+    "url": "https://developers.openai.com/api/docs/guides/rate-limits",
+    "ts": "20260401024801",
+    "date": "2026-04-01",
+    "source": "wayback",
+    "prevTs": "20260210054527",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "OpenAI API: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Vector store ingestion is also rate limited per vector store ID. /vector_stores/{vector_store_id}/files and /vector_stores/{vector_store_id}/file_batches share a limit of 300 requests per minute for each vector store. For larger ingests, prefer /vector_stores/{vector_store_id}/file_batches."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 23,
+      "added": 142,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "developers-openai-com-api-docs-pricing-20260401100127",
+    "url": "https://developers.openai.com/api/docs/pricing",
+    "ts": "20260401100127",
+    "date": "2026-04-01",
+    "source": "wayback",
+    "prevTs": "20260304030314",
+    "kind": "price",
+    "score": 1291,
+    "counts": {
+      "price": 428,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OpenAI API: 428 prices, 4 limits changed (removed “$0.875”; added “$22.50”)",
+    "pairs": [],
+    "added": [
+      "$22.50",
+      "$4.50",
+      "$180.00",
+      "$270.00",
+      "$11.25",
+      "$0.0375",
+      "$2.25",
+      "$90.00",
+      "$135.00",
+      "$0.13",
+      "$11.25",
+      "$0.375",
+      "$0.0375",
+      "$2.25",
+      "$0.01",
+      "$90.00",
+      "$135.00",
+      "$9.00",
+      "+ Search content tokens are free.",
+      "1 GB $0.03, 4 GB $0.12, 16 GB $0.48, 64 GB $1.92 per 20-minute session per container",
+      "$0.10 / GB-day after 1 GB free per account per month"
+    ],
+    "removed": [
+      "$0.875",
+      "$0.0875",
+      "$7.00",
+      "$0.0625",
+      "$0.0625",
+      "$0.125",
+      "$0.0125",
+      "$0.025",
+      "$0.0025",
+      "$10.50",
+      "$84.00",
+      "$0.20",
+      "$0.05",
+      "$0.20",
+      "$5.00",
+      "$7.50",
+      "$75.00",
+      "$300.00",
+      "$10.00",
+      "$40.00",
+      "$1.00",
+      "$5.00",
+      "$0.55",
+      "$2.20",
+      "$1.00",
+      "$4.00",
+      "$0.55",
+      "$2.20",
+      "$0.55",
+      "$2.20",
+      "$5.00",
+      "$0.63",
+      "$5.00",
+      "$0.63",
+      "$1.00",
+      "$0.875",
+      "$0.0875",
+      "$7.00",
+      "$0.625",
+      "$0.0625"
+    ],
+    "totals": {
+      "removed": 897,
+      "added": 406,
+      "materialRemoved": 497,
+      "materialAdded": 100
+    }
+  },
+  {
+    "id": "developers-openai-com-api-docs-pricing-20260503061320",
+    "url": "https://developers.openai.com/api/docs/pricing",
+    "ts": "20260503061320",
+    "date": "2026-05-03",
+    "source": "wayback",
+    "prevTs": "20260401100127",
+    "kind": "price",
+    "score": 117,
+    "counts": {
+      "price": 39,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OpenAI API: 39 prices changed (added “$5.00”)",
+    "pairs": [],
+    "added": [
+      "$5.00",
+      "$0.50",
+      "$30.00",
+      "$10.00",
+      "$1.00",
+      "$45.00",
+      "$30.00",
+      "$180.00",
+      "$60.00",
+      "$270.00",
+      "$2.50",
+      "$0.25",
+      "$15.00",
+      "$5.00",
+      "$0.50",
+      "$22.50",
+      "$15.00",
+      "$90.00",
+      "$2.50",
+      "$0.25",
+      "$15.00",
+      "$5.00",
+      "$0.50",
+      "$22.50",
+      "$15.00",
+      "$90.00",
+      "$12.50",
+      "$1.25",
+      "$75.00",
+      "$8.00",
+      "$2.00",
+      "$30.00",
+      "$5.00",
+      "$1.25",
+      "$4.00",
+      "$1.00",
+      "$15.00",
+      "$2.50",
+      "$0.625"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 28,
+      "added": 103,
+      "materialRemoved": 0,
+      "materialAdded": 39
+    }
+  },
+  {
+    "id": "developers-openai-com-api-docs-guides-rate-limits-20260518212558",
+    "url": "https://developers.openai.com/api/docs/guides/rate-limits",
+    "ts": "20260518212558",
+    "date": "2026-05-18",
+    "source": "wayback",
+    "prevTs": "20260401024801",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 8,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OpenAI API: 8 prices changed (removed “$50 paid and 7+ days since first successful p…”; added “$50 paid”)",
+    "pairs": [],
+    "added": [
+      "$50 paid",
+      "$100 paid",
+      "$250 paid",
+      "$1,000 paid"
+    ],
+    "removed": [
+      "$50 paid and 7+ days since first successful payment",
+      "$100 paid and 7+ days since first successful payment",
+      "$250 paid and 14+ days since first successful payment",
+      "$1,000 paid and 30+ days since first successful payment"
+    ],
+    "totals": {
+      "removed": 36,
+      "added": 79,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "openai-com-api-pricing-20260601063732",
+    "url": "https://openai.com/api/pricing/",
+    "ts": "20260601063732",
+    "date": "2026-06-01",
+    "source": "wayback",
+    "prevTs": "20260301135109",
+    "kind": "price",
+    "score": 312,
+    "counts": {
+      "price": 102,
+      "limit": 2,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "OpenAI API: 102 prices, 2 limits, 1 plan name changed ($1.750 → $5.00; $0.175 → $0.50)",
+    "pairs": [
+      {
+        "before": "$1.750 / 1M tokens",
+        "after": "$5.00 / 1M tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.750",
+            "after": "$5.00"
+          }
+        ]
+      },
+      {
+        "before": "$0.175 / 1M tokens",
+        "after": "$0.50 / 1M tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.175",
+            "after": "$0.50"
+          }
+        ]
+      },
+      {
+        "before": "$14.000 / 1M tokens",
+        "after": "$30.00 / 1M tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$14.000",
+            "after": "$30.00"
+          }
+        ]
+      },
+      {
+        "before": "$21.00 / 1M tokens",
+        "after": "$2.50 / 1M tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$21.00",
+            "after": "$2.50"
+          }
+        ]
+      },
+      {
+        "before": "$168.00 / 1M tokens",
+        "after": "$15.00 / 1M tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$168.00",
+            "after": "$15.00"
+          }
+        ]
+      },
+      {
+        "before": "$0.20 / 1M tokens",
+        "after": "$0.075 / 1M tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.20",
+            "after": "$0.075"
+          }
+        ]
+      },
+      {
+        "before": "$3.20 / 1M tokens",
+        "after": "$4.50 / 1M tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.20",
+            "after": "$4.50"
+          }
+        ]
+      },
+      {
+        "before": "$25.00 / 1K calls + search content tokens are free",
+        "after": "Search content tokens are free.",
+        "confidence": 0.83,
+        "deltas": [
+          {
+            "before": "$25.00",
+            "after": null
+          },
+          {
+            "before": "1K",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Pricing above reflects standard processing rates for context lengths under 270K.",
+      "$24.00 / 1M tokens for outputs",
+      "$0.034 per minute / $0.00057 per second",
+      "$0.017 per minute / $0.00028 per second",
+      "$30.00 / 1M tokens for outputs",
+      "1 GB for $0.03 / 64GB for $1.92 per container",
+      "1 GB for $0.03 / 64GB for $1.92 per 20-minute session per container",
+      "= $0.000263",
+      "= $0.000263",
+      "Price per 1M tokens (fixed)",
+      "$1.25",
+      "$0.000263"
+    ],
+    "removed": [
+      "$0.025 / 1M tokens",
+      "$3.00 / 1M tokens",
+      "$12.00 / 1M tokens",
+      "$25.00 / 1M tokens",
+      "$0.80 / 1M tokens",
+      "$0.20 / 1M tokens",
+      "$0.05 / 1M tokens",
+      "$0.80 / 1M tokens",
+      "$1.50 / 1M tokens",
+      "$1.00 / 1M tokens",
+      "$16.00 / 1M tokens",
+      "$100.00 / training hour",
+      "$4.00 / 1M input tokens",
+      "$16.00 / 1M output tokens",
+      "$4.00 / 1M input tokens",
+      "$16.00 / 1M output tokens",
+      "$0.60 / 1M input tokens",
+      "$0.06 / 1M cached input tokens",
+      "$2.40 / 1M output tokens",
+      "$0.60 / 1M input tokens",
+      "$0.06 / 1M cached input tokens",
+      "$2.40 / 1M output tokens",
+      "$0.40 / 1M cached input tokens",
+      "$32.00 / 1M input tokens",
+      "$0.40 / 1M cached input tokens",
+      "$64.00 / 1M output tokens",
+      "$10.00 / 1M input tokens",
+      "$0.30 / 1M cached input tokens",
+      "$20.00 / 1M output tokens",
+      "$10.00 / 1M input tokens",
+      "$0.30 / 1M cached input tokens",
+      "$20.00 / 1M output tokens",
+      "$5.00 / 1M input tokens",
+      "$0.50 / 1M cached input tokens",
+      "$0.80 / 1M input tokens",
+      "$0.08 / 1M cached input tokens",
+      "$0.80 / 1M input tokens",
+      "$0.08 / 1M cached input tokens",
+      "$0.10",
+      "$0.30"
+    ],
+    "totals": {
+      "removed": 247,
+      "added": 149,
+      "materialRemoved": 111,
+      "materialAdded": 34
+    }
+  },
+  {
+    "id": "developers-openai-com-api-docs-pricing-20260605161335",
+    "url": "https://developers.openai.com/api/docs/pricing",
+    "ts": "20260605161335",
+    "date": "2026-06-05",
+    "source": "wayback",
+    "prevTs": "20260503061320",
+    "kind": "price",
+    "score": 54,
+    "counts": {
+      "price": 18,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OpenAI API: 18 prices changed (removed “$16.00”; added “$24.00”)",
+    "pairs": [],
+    "added": [
+      "$24.00",
+      "$0.034 / minute",
+      "$0.017 / minute",
+      "$5.00",
+      "$0.50",
+      "$30.00"
+    ],
+    "removed": [
+      "$16.00",
+      "$10.00",
+      "$0.30",
+      "$20.00",
+      "$0.60",
+      "$0.06",
+      "$2.40",
+      "$0.80",
+      "$0.08",
+      "$1.75",
+      "$0.175",
+      "$14.00"
+    ],
+    "totals": {
+      "removed": 55,
+      "added": 110,
+      "materialRemoved": 13,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "developers-openai-com-api-docs-pricing-20260702165927",
+    "url": "https://developers.openai.com/api/docs/pricing",
+    "ts": "20260702165927",
+    "date": "2026-07-02",
+    "source": "wayback",
+    "prevTs": "20260605161335",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OpenAI API: 1 price changed (added “$10.00 / 1k calls”)",
+    "pairs": [],
+    "added": [
+      "$10.00 / 1k calls"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 30,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "developers-openai-com-api-docs-pricing-20260801091023",
+    "url": "https://developers.openai.com/api/docs/pricing",
+    "ts": "20260801091023",
+    "date": "2026-08-01",
+    "source": "wayback",
+    "prevTs": "20260702165927",
+    "kind": "price",
+    "score": 273,
+    "counts": {
+      "price": 91,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OpenAI API: 91 prices changed (removed “$1.50”; added “$0.50”)",
+    "pairs": [],
+    "added": [
+      "$0.50",
+      "$6.25",
+      "$10.00",
+      "$12.50",
+      "$45.00",
+      "$2.00",
+      "$0.20",
+      "$2.50",
+      "$12.00",
+      "$0.40",
+      "$5.00",
+      "$18.00",
+      "$0.20",
+      "$0.02",
+      "$0.25",
+      "$1.20",
+      "$0.40",
+      "$0.04",
+      "$0.50",
+      "$1.80",
+      "$2.50",
+      "$0.25",
+      "$3.125",
+      "$15.00",
+      "$5.00",
+      "$0.50",
+      "$6.25",
+      "$22.50",
+      "$1.00",
+      "$0.10",
+      "$1.25",
+      "$2.00",
+      "$0.20",
+      "$2.50",
+      "$0.10",
+      "$0.01",
+      "$0.125",
+      "$0.60",
+      "$0.20",
+      "$0.02"
+    ],
+    "removed": [
+      "$1.50"
+    ],
+    "totals": {
+      "removed": 291,
+      "added": 542,
+      "materialRemoved": 9,
+      "materialAdded": 98
+    }
+  },
+  {
+    "id": "developers-openai-com-api-docs-guides-rate-limits-20260820143940",
+    "url": "https://developers.openai.com/api/docs/guides/rate-limits",
+    "ts": "20260820143940",
+    "date": "2026-08-20",
+    "source": "wayback",
+    "prevTs": "20260518212558",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "OpenAI API: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "3s"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 241,
+      "added": 446,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "developers-openai-com-api-docs-pricing-20260901103152",
+    "url": "https://developers.openai.com/api/docs/pricing",
+    "ts": "20260901103152",
+    "date": "2026-09-01",
+    "source": "wayback",
+    "prevTs": "20260801091023",
+    "kind": "price",
+    "score": 400,
+    "counts": {
+      "price": 133,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OpenAI API: 133 prices, 1 limit changed ($0.0045 → $0.034)",
+    "pairs": [
+      {
+        "before": "$0.0045 / minute",
+        "after": "$0.034 / minute",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.0045",
+            "after": "$0.034"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0.40",
+      "$20.00",
+      "$0.80",
+      "$0.40",
+      "$4.00",
+      "$0.40",
+      "$0.80",
+      "$40.00",
+      "$1.60",
+      "$20.00",
+      "$8.00",
+      "$0.80",
+      "$10.00",
+      "$36.00",
+      "$0.80",
+      "$0.08",
+      "$3.60",
+      "Prices per 1M tokens.",
+      "$4.00",
+      "$0.40",
+      "$20.00",
+      "$8.00",
+      "$0.80",
+      "$10.00",
+      "$15.625",
+      "$0.0045 / minute"
+    ],
+    "removed": [
+      "$0.50",
+      "$6.25",
+      "$12.50",
+      "$45.00",
+      "$0.50",
+      "$1.00",
+      "$45.00",
+      "$30.00",
+      "$180.00",
+      "$60.00",
+      "$270.00",
+      "$2.50",
+      "$0.25",
+      "$5.00",
+      "$0.50",
+      "$22.50",
+      "$0.75",
+      "$0.075",
+      "$4.50",
+      "$0.02",
+      "$1.25",
+      "$30.00",
+      "$180.00",
+      "$60.00",
+      "$270.00",
+      "$0.25",
+      "$3.125",
+      "$0.50",
+      "$6.25",
+      "$22.50",
+      "$2.50",
+      "$0.25",
+      "$15.00",
+      "$5.00",
+      "$0.50",
+      "$22.50",
+      "$15.00",
+      "$90.00",
+      "$1.25",
+      "$0.13"
+    ],
+    "totals": {
+      "removed": 250,
+      "added": 144,
+      "materialRemoved": 126,
+      "materialAdded": 45
+    }
+  },
+  {
+    "id": "developers-openai-com-api-docs-pricing-20260902202107",
+    "url": "https://developers.openai.com/api/docs/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260901103152",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "OpenAI API: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
+  },
+  {
+    "id": "developers-openai-com-api-docs-guides-rate-limits-20260902202107",
+    "url": "https://developers.openai.com/api/docs/guides/rate-limits",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260820143940",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "OpenAI API: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "As a rule of thumb, once your traffic reaches 1 million input tokens per minute (TPM), increase it by no more than 50% every 15 minutes. The exact point at which the ramp-rate limit applies can vary by model and traffic conditions."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 13,
+      "added": 50,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    },
+    "transition": true
+  }
+]

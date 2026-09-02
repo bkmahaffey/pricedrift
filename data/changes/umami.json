@@ -1,0 +1,179 @@
+[
+  {
+    "id": "umami-is-pricing-20230720231048",
+    "url": "https://umami.is/pricing",
+    "ts": "20230720231048",
+    "date": "2023-07-20",
+    "source": "wayback",
+    "prevTs": "20230504200554",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Umami Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "umami-is-pricing-20230906214928",
+    "url": "https://umami.is/pricing",
+    "ts": "20230906214928",
+    "date": "2023-09-06",
+    "source": "wayback",
+    "prevTs": "20230720231048",
+    "kind": "price",
+    "score": 33,
+    "counts": {
+      "price": 7,
+      "limit": 4,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Umami Cloud: 7 prices, 4 limits, 2 plan names changed (50M added; 2 → 1)",
+    "pairs": [
+      {
+        "before": "100K monthly events included",
+        "after": "100K — 50M monthly events",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": null,
+            "after": "50M"
+          }
+        ]
+      },
+      {
+        "before": "2 year data retention",
+        "after": "1 year data retention",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2",
+            "after": "1"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0 / month",
+      "100K events / month",
+      "$9 / month",
+      "100K to 100M"
+    ],
+    "removed": [
+      "Free",
+      "6 month data retention",
+      "$5 per additional 100K events",
+      "Unlimited team members",
+      "Try 14-day free trial",
+      "$49 / month",
+      "1M monthly events included",
+      "$20 per additional 500K events",
+      "$5 per additional 100K events",
+      "$20 per additional 500K events"
+    ],
+    "totals": {
+      "removed": 27,
+      "added": 25,
+      "materialRemoved": 13,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "umami-is-pricing-20260902202107",
+    "url": "https://umami.is/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "browser",
+    "prevTs": "20230906214928",
+    "kind": "price",
+    "score": 53,
+    "counts": {
+      "price": 12,
+      "limit": 8,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Umami Cloud: 12 prices, 8 limits, 1 plan name changed (7 → 2; 1 → 5)",
+    "pairs": [
+      {
+        "before": "7 year data retention",
+        "after": "2 year data retention",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "7",
+            "after": "2"
+          }
+        ]
+      },
+      {
+        "before": "1 year data retention",
+        "after": "5 year data retention",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1",
+            "after": "5"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "6 month data retention",
+      "$20 / month",
+      "Try 14-day free trial",
+      "$0.00003 per additional event",
+      "$200 / month",
+      "$0.00002 per additional event",
+      "$0.00003 per event",
+      "$0.00002 per event",
+      "6 months",
+      "2 years",
+      "5 years",
+      "$0.005 per replay",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "$0.00003 per event",
+      "$0.00002 per event",
+      "6 months",
+      "2 years",
+      "5 years",
+      "$0.005 per replay",
+      "Unlimited",
+      "Umami Cloud's free trial will last for 14 days from the purchase date. The trial gives you full access to all features in that plan. At the end of the trial, you will be billed the regular amount. You can cancel your trial at any time within the trial period for no cost.",
+      "Umami is open-source and can be self-hosted for free. Umami Cloud is our managed hosting service that handles infrastructure, updates, and maintenance for you. Cloud also includes additional features like email reports and the streaming API that are not available in the self-hosted version.",
+      "Get started for free"
+    ],
+    "removed": [
+      "Up to 10K monthly events",
+      "From $9 / month",
+      "100K — 50M monthly events",
+      "Unlimited websites",
+      "Unlimited team members",
+      "$9 / month",
+      "100K to 100M",
+      "Does Umami Cloud have a free tier?"
+    ],
+    "totals": {
+      "removed": 32,
+      "added": 377,
+      "materialRemoved": 11,
+      "materialAdded": 29
+    },
+    "transition": true
+  }
+]

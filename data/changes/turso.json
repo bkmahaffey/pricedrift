@@ -1,0 +1,710 @@
+[
+  {
+    "id": "turso-tech-pricing-20230928165452",
+    "url": "https://turso.tech/pricing",
+    "ts": "20230928165452",
+    "date": "2023-09-28",
+    "source": "wayback",
+    "prevTs": "20230601093646",
+    "kind": "price",
+    "score": 22,
+    "counts": {
+      "price": 3,
+      "limit": 5,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Turso: 3 prices, 5 limits, 2 plan names changed (3 → 500; 6 → 10,000)",
+    "pairs": [
+      {
+        "before": "Up to 3 databases",
+        "after": "Up to 500 databases",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3",
+            "after": "500"
+          }
+        ]
+      },
+      {
+        "before": "Up to 6 databases",
+        "after": "Up to 10,000 databases",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "6",
+            "after": "10,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Starter Free to Start",
+      "9 GB of total storage +$.75 per GB added",
+      "1 billion row reads per month +$1 per billion rows added",
+      "25 million row writes per month +$1 per million rows added",
+      "Unlimited Embedded Replicas",
+      "24 GB of total storage +$.50 per GB added",
+      "Unlimited Embedded Replicas",
+      "Unlimited databases",
+      "Unlimited locations"
+    ],
+    "removed": [
+      "Starter Free Forever",
+      "8 GB of total storage*",
+      "20 GB of total storage*",
+      "Enterprise Partner $2,999/month",
+      "Unlimited projects",
+      "Unlimited regions",
+      "*'total storage' refers to the aggregate size of all databases in all locations. For example: In the Free Forever tier if you have one database, that database can be up to 8 GB, but if you have 3 databases, the maximum would be 2.34 GB per database."
+    ],
+    "totals": {
+      "removed": 30,
+      "added": 44,
+      "materialRemoved": 11,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "turso-tech-pricing-20231119064258",
+    "url": "https://turso.tech/pricing",
+    "ts": "20231119064258",
+    "date": "2023-11-19",
+    "source": "wayback",
+    "prevTs": "20230928165452",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 1,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Turso: 1 price, 2 limits changed ($0 added)",
+    "pairs": [
+      {
+        "before": "Starter Free to Start",
+        "after": "Starter Free to Start $0/month",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": null,
+            "after": "$0"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "🎉 Turso now offers 500 databases for FREE & 10,000 for Scaler. Sign Up Now",
+      "Point in time restore (1 day)",
+      "Point in time restore (30 days)"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 13,
+      "materialRemoved": 1,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "turso-tech-pricing-20240113103643",
+    "url": "https://turso.tech/pricing",
+    "ts": "20240113103643",
+    "date": "2024-01-13",
+    "source": "wayback",
+    "prevTs": "20231119064258",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Turso: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "🎉 Turso now offers 500 databases for FREE & 10,000 for Scaler. Sign Up Now"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "turso-tech-pricing-20240316004244",
+    "url": "https://turso.tech/pricing",
+    "ts": "20240316004244",
+    "date": "2024-03-16",
+    "source": "wayback",
+    "prevTs": "20240113103643",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Turso: 1 limit changed (added “1 database group”)",
+    "pairs": [],
+    "added": [
+      "1 database group",
+      "6 database groups",
+      "Unlimited database groups",
+      "Unlimited Embedded Replicas"
+    ],
+    "removed": [
+      "Sign Up For Free"
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 8,
+      "materialRemoved": 1,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "turso-tech-pricing-20240510195703",
+    "url": "https://turso.tech/pricing",
+    "ts": "20240510195703",
+    "date": "2024-05-10",
+    "source": "wayback",
+    "prevTs": "20240316004244",
+    "kind": "price",
+    "score": 68,
+    "counts": {
+      "price": 15,
+      "limit": 11,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Turso: 15 prices, 11 limits, 1 plan name changed (removed “9 GB of total storage +$.75 per GB added”; added “9GB of total storage”)",
+    "pairs": [],
+    "added": [
+      "Start free today, no credit card required.",
+      "Free",
+      "9GB of total storage",
+      "Sign up for free",
+      "$ 8.25",
+      "Everything you get for free, and:",
+      "Backups (10 days)",
+      "Audit Logs (3 days)",
+      "$ 24.92",
+      "24GB Total Storage",
+      "$ 416.58",
+      "$ 8.25 /month",
+      "$ 24.92 /month",
+      "$ 416.58 /month",
+      "9 GB",
+      "9 GB",
+      "24 GB",
+      "50 GB",
+      "Unlimited",
+      "Unlimited",
+      "+$8 per location",
+      "+$5 per location",
+      "Unlimited",
+      "+$1 per billion added",
+      "+$1 per billion added",
+      "Unlimited",
+      "+$1 per million added",
+      "+$1 per million added",
+      "Unlimited",
+      "Unlimited",
+      "3GB",
+      "3GB",
+      "12GB",
+      "50GB",
+      "10 days",
+      "90 days",
+      "3 Day Retention",
+      "14 Day Retention",
+      "30 Day Retention"
+    ],
+    "removed": [
+      "9 GB of total storage +$.75 per GB added",
+      "1 billion row reads per month +$1 per billion rows added",
+      "25 million row writes per month +$1 per million rows added",
+      "Point in time restore (1 day)",
+      "Scaler Starts at $29/month",
+      "24 GB of total storage +$.50 per GB added",
+      "6 database groups",
+      "Unlimited Embedded Replicas",
+      "Unlimited storage",
+      "Unlimited databases",
+      "Unlimited locations",
+      "Unlimited rows read per month",
+      "Unlimited rows written per month",
+      "Unlimited database groups",
+      "Unlimited Embedded Replicas"
+    ],
+    "totals": {
+      "removed": 41,
+      "added": 254,
+      "materialRemoved": 20,
+      "materialAdded": 44
+    }
+  },
+  {
+    "id": "turso-tech-pricing-20240917224708",
+    "url": "https://turso.tech/pricing",
+    "ts": "20240917224708",
+    "date": "2024-09-17",
+    "source": "wayback",
+    "prevTs": "20240510195703",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Turso: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Sign Up For Free",
+      "Unlimited",
+      "Unlimited",
+      "Why is there an asterisk (*) after “Unlimited*” groups in Scaler and Pro plans?"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 10,
+      "materialRemoved": 0,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "turso-tech-pricing-20241202173228",
+    "url": "https://turso.tech/pricing",
+    "ts": "20241202173228",
+    "date": "2024-12-02",
+    "source": "wayback",
+    "prevTs": "20240917224708",
+    "kind": "price",
+    "score": 53,
+    "counts": {
+      "price": 3,
+      "limit": 3,
+      "plan": 19
+    },
+    "material": true,
+    "headline": "Turso: 3 prices, 3 limits, 19 plan names changed (removed “500 Databases”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "We provide white glove support including your own emergency email, unlimited usage, dedicated infrastructure, and everything that comes with the Pro Plan."
+    ],
+    "removed": [
+      "Sign Up For Free",
+      "500 Databases",
+      "9GB of total storage",
+      "Unlimited Embedded Replicas",
+      "Sign up for free",
+      "$ 8.25",
+      "Everything you get for free, and:",
+      "Backups (10 days)",
+      "Audit Logs (3 days)",
+      "$ 24.92",
+      "10,000 Databases",
+      "24GB Total Storage",
+      "$ 416.58",
+      "Truly unlimited usage",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 139,
+      "added": 66,
+      "materialRemoved": 20,
+      "materialAdded": 21
+    }
+  },
+  {
+    "id": "turso-tech-pricing-20250212111613",
+    "url": "https://turso.tech/pricing",
+    "ts": "20250212111613",
+    "date": "2025-02-12",
+    "source": "wayback",
+    "prevTs": "20241202173228",
+    "kind": "price",
+    "score": 8,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Turso: 2 prices, 1 plan name changed (removed “+$8 per location”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Free",
+      "+$8 per location",
+      "+$5 per location",
+      "Why is there an asterisk (*) after “Unlimited*” groups in Scaler and Pro plans?"
+    ],
+    "totals": {
+      "removed": 11,
+      "added": 0,
+      "materialRemoved": 4,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "turso-tech-pricing-20250319112718",
+    "url": "https://turso.tech/pricing",
+    "ts": "20250319112718",
+    "date": "2025-03-19",
+    "source": "wayback",
+    "prevTs": "20250212111613",
+    "kind": "price",
+    "score": 51,
+    "counts": {
+      "price": 13,
+      "limit": 2,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Turso: 13 prices, 2 limits, 4 plan names changed ($8.25 → $4.99)",
+    "pairs": [
+      {
+        "before": "$ 8.25 /month",
+        "after": "$ 4.99 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$8.25",
+            "after": "$4.99"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Unlimited",
+      "5GB",
+      "+ $0.75 / GB",
+      "+ $0.50 / GB",
+      "+ $0.45 / GB",
+      "+ $0.80 / Billion",
+      "+ $0.75 / Billion",
+      "+ $0.80 / Million",
+      "+ $0.75 / Million",
+      "+ $0.35 / GB",
+      "24GB",
+      "+ $0.25 / GB",
+      "+ $0.15 / GB"
+    ],
+    "removed": [
+      "Unlimited",
+      "+$1 per million added",
+      "+$1 per million added",
+      "Unlimited",
+      "Unlimited",
+      "Free",
+      "3GB",
+      "12GB",
+      "Free",
+      "Free",
+      "Free"
+    ],
+    "totals": {
+      "removed": 92,
+      "added": 57,
+      "materialRemoved": 18,
+      "materialAdded": 20
+    }
+  },
+  {
+    "id": "turso-tech-pricing-20250401032946",
+    "url": "https://turso.tech/pricing",
+    "ts": "20250401032946",
+    "date": "2025-04-01",
+    "source": "wayback",
+    "prevTs": "20250319112718",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Turso: 2 limits changed (removed “9GB”; added “10GB”)",
+    "pairs": [],
+    "added": [
+      "10GB",
+      "100GB"
+    ],
+    "removed": [
+      "9GB",
+      "50GB"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "turso-tech-pricing-20250717221917",
+    "url": "https://turso.tech/pricing",
+    "ts": "20250717221917",
+    "date": "2025-07-17",
+    "source": "wayback",
+    "prevTs": "20250401032946",
+    "kind": "price",
+    "score": 13,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Turso: 3 prices, 2 plan names changed (added “+ $0.20 / Active DB”)",
+    "pairs": [],
+    "added": [
+      "Unlimited",
+      "Unlimited",
+      "Free",
+      "+ $0.20 / Active DB",
+      "+ $0.05 / Active DB",
+      "+ $0.025 / Active DB"
+    ],
+    "removed": [
+      "Free"
+    ],
+    "totals": {
+      "removed": 14,
+      "added": 11,
+      "materialRemoved": 1,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "turso-tech-pricing-20251013063525",
+    "url": "https://turso.tech/pricing",
+    "ts": "20251013063525",
+    "date": "2025-10-13",
+    "source": "wayback",
+    "prevTs": "20250717221917",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Turso: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "turso-tech-pricing-20260306211959",
+    "url": "https://turso.tech/pricing",
+    "ts": "20260306211959",
+    "date": "2026-03-06",
+    "source": "wayback",
+    "prevTs": "20251013063525",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Turso: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "Free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 6,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "turso-tech-pricing-20260408083347",
+    "url": "https://turso.tech/pricing",
+    "ts": "20260408083347",
+    "date": "2026-04-08",
+    "source": "wayback",
+    "prevTs": "20260306211959",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Turso: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "turso-tech-pricing-20260509203608",
+    "url": "https://turso.tech/pricing",
+    "ts": "20260509203608",
+    "date": "2026-05-09",
+    "source": "wayback",
+    "prevTs": "20260408083347",
+    "kind": "price",
+    "score": 11,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Turso: 3 prices, 1 plan name changed (removed “+ $0.20 / Active DB”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Free",
+      "+ $0.20 / Active DB",
+      "+ $0.05 / Active DB",
+      "+ $0.025 / Active DB"
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 1,
+      "materialRemoved": 4,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "turso-tech-pricing-20260603005549",
+    "url": "https://turso.tech/pricing",
+    "ts": "20260603005549",
+    "date": "2026-06-03",
+    "source": "wayback",
+    "prevTs": "20260509203608",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Turso: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Dedicated Cloud and BYOC deployments, custom SLAs, premium 24×7 support, unlimited usage, and everything in the Pro Plan."
+    ],
+    "removed": [
+      "We provide white glove support including your own emergency email, unlimited usage, dedicated infrastructure, and everything that comes with the Pro Plan."
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 14,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "turso-tech-pricing-20260720005922",
+    "url": "https://turso.tech/pricing",
+    "ts": "20260720005922",
+    "date": "2026-07-20",
+    "source": "wayback",
+    "prevTs": "20260603005549",
+    "kind": "plans",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Turso: 2 plan names changed",
+    "pairs": [],
+    "added": [
+      "Free",
+      "Free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 19,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "turso-tech-pricing-20260811155047",
+    "url": "https://turso.tech/pricing",
+    "ts": "20260811155047",
+    "date": "2026-08-11",
+    "source": "wayback",
+    "prevTs": "20260720005922",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Turso: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  }
+]

@@ -1,0 +1,280 @@
+[
+  {
+    "id": "matomo-org-pricing-20230903104751",
+    "url": "https://matomo.org/pricing/",
+    "ts": "20230903104751",
+    "date": "2023-09-03",
+    "source": "wayback",
+    "prevTs": "20230103140212",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Matomo Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 14,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "matomo-org-pricing-20231106172950",
+    "url": "https://matomo.org/pricing/",
+    "ts": "20231106172950",
+    "date": "2023-11-06",
+    "source": "wayback",
+    "prevTs": "20230903104751",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Matomo Cloud: 1 price changed (added “From 139EUR /year”)",
+    "pairs": [],
+    "added": [
+      "From 139EUR /year"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "matomo-org-pricing-20251010061741",
+    "url": "https://matomo.org/pricing/",
+    "ts": "20251010061741",
+    "date": "2025-10-10",
+    "source": "wayback",
+    "prevTs": "20231106172950",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Matomo Cloud: 1 limit changed (added “29 Per month (excl. tax) 29 Per year (excl. tax)”)",
+    "pairs": [],
+    "added": [
+      "Cloud Utilize Matomo's cloud-hosted SaaS for seamless, hassle-free analytics. Benefit from automatic updates, robust security, and no need for server maintenance, allowing you to focus on your data insights.",
+      "29 Per month (excl. tax) 29 Per year (excl. tax)",
+      "Annually Get 2 months free with annual billing and save 17% compared to monthly billing.",
+      "Track unlimited hits to your On-Premise Matomo ( server requirements"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 94,
+      "added": 144,
+      "materialRemoved": 21,
+      "materialAdded": 25
+    }
+  },
+  {
+    "id": "matomo-org-pricing-20251111211809",
+    "url": "https://matomo.org/pricing/",
+    "ts": "20251111211809",
+    "date": "2025-11-11",
+    "source": "wayback",
+    "prevTs": "20251010061741",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Matomo Cloud: 1 price changed (added “From 22EUR /year”)",
+    "pairs": [],
+    "added": [
+      "From 22EUR /year"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "matomo-org-pricing-20260409212524",
+    "url": "https://matomo.org/pricing/",
+    "ts": "20260409212524",
+    "date": "2026-04-09",
+    "source": "wayback",
+    "prevTs": "20251111211809",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Matomo Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "matomo-org-pricing-20260504080928",
+    "url": "https://matomo.org/pricing/",
+    "ts": "20260504080928",
+    "date": "2026-05-04",
+    "source": "wayback",
+    "prevTs": "20260409212524",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Matomo Cloud: 2 limits changed (removed “No credit card required. Get 2 months off wit…”; added “0 K”)",
+    "pairs": [],
+    "added": [
+      "0 K",
+      "0 M",
+      "Start Your Free Trial",
+      "No credit card required."
+    ],
+    "removed": [
+      "TRY IT FOR FREE",
+      "No credit card required. Get 2 months off with a yearly plan."
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 16,
+      "materialRemoved": 3,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "matomo-org-pricing-20260609120817",
+    "url": "https://matomo.org/pricing/",
+    "ts": "20260609120817",
+    "date": "2026-06-09",
+    "source": "wayback",
+    "prevTs": "20260504080928",
+    "kind": "price",
+    "score": 84,
+    "counts": {
+      "price": 23,
+      "limit": 4,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Matomo Cloud: 23 prices, 4 limits, 4 plan names changed (removed “Annually Get 2 months free with annual billin…”; added “Whether you need hassle-free cloud hosting or…”)",
+    "pairs": [],
+    "added": [
+      "Whether you need hassle-free cloud hosting or complete control with on-premise deployment, all hosting options give you 100% data ownership and full privacy compliance.",
+      "Free",
+      "Unlimited users and hits",
+      "Download Free",
+      "Up to 4 users and up to 5M hits/month",
+      "Try Team for free",
+      "Up to 20 users and up to 30M hits/month",
+      "Up to 50 users and up to 100M hits/month",
+      "Free",
+      "From €230/mo",
+      "From €1209/mo",
+      "From €2834/mo",
+      "Unlimited",
+      "Unlimited",
+      "Up to 5M",
+      "Up to 30M",
+      "Up to 100M",
+      "To purchase a Matomo Cloud plan you first need to create an account by signing up for a free Cloud trial"
+    ],
+    "removed": [
+      "Cloud Utilize Matomo's cloud-hosted SaaS for seamless, hassle-free analytics. Benefit from automatic updates, robust security, and no need for server maintenance, allowing you to focus on your data insights.",
+      "Annually Get 2 months free with annual billing and save 17% compared to monthly billing.",
+      "0 EUR",
+      "Track unlimited hits to your On-Premise Matomo ( server requirements",
+      "Free community support",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "From 33EUR /year",
+      "From 39EUR /year",
+      "From 154EUR /year",
+      "From 193EUR /year",
+      "From 94EUR /year",
+      "From 169EUR /year",
+      "From 219EUR /year",
+      "From 219EUR /year",
+      "From 219EUR /year",
+      "From 169EUR /year",
+      "From 176EUR /year",
+      "From 219EUR /year",
+      "From 169EUR /year",
+      "From 83EUR /year",
+      "From 154EUR /year",
+      "From 83EUR /year",
+      "From 94EUR /year",
+      "From 22EUR /year",
+      "From 549EUR /year"
+    ],
+    "totals": {
+      "removed": 89,
+      "added": 265,
+      "materialRemoved": 28,
+      "materialAdded": 18
+    }
+  },
+  {
+    "id": "matomo-org-pricing-20260820131355",
+    "url": "https://matomo.org/pricing/",
+    "ts": "20260820131355",
+    "date": "2026-08-20",
+    "source": "wayback",
+    "prevTs": "20260609120817",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Matomo Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Is there a free trial for Matomo Cloud?",
+      "Yes, a free trial is available with access to all core features. You don’t need a credit card for the free trial."
+    ],
+    "removed": [
+      "To purchase a Matomo Cloud plan you first need to create an account by signing up for a free Cloud trial"
+    ],
+    "totals": {
+      "removed": 21,
+      "added": 33,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  }
+]

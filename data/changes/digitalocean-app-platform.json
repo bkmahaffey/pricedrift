@@ -1,0 +1,361 @@
+[
+  {
+    "id": "digitalocean-com-pricing-app-platform-20230901124617",
+    "url": "https://www.digitalocean.com/pricing/app-platform",
+    "ts": "20230901124617",
+    "date": "2023-09-01",
+    "source": "wayback",
+    "prevTs": "20230104185027",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "DigitalOcean App Platform: 2 prices changed (added “Enter your email to get $200 in credit for yo…”)",
+    "pairs": [],
+    "added": [
+      "Get started for free",
+      "Enter your email to get $200 in credit for your first 60 days with DigitalOcean.",
+      "Get started for free",
+      "Enter your email to get $200 in credit for your first 60 days with DigitalOcean."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 130,
+      "added": 12,
+      "materialRemoved": 0,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "digitalocean-com-pricing-app-platform-20231104160509",
+    "url": "https://www.digitalocean.com/pricing/app-platform",
+    "ts": "20231104160509",
+    "date": "2023-11-04",
+    "source": "wayback",
+    "prevTs": "20230901124617",
+    "kind": "price",
+    "score": 8,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "DigitalOcean App Platform: 2 prices, 1 limit changed (removed “1 (512 MB)”; added “1 (512 MiB)”)",
+    "pairs": [],
+    "added": [
+      "1 (512 MiB)"
+    ],
+    "removed": [
+      "1 (512 MB)",
+      "Get started for free",
+      "Enter your email to get $200 in credit for your first 60 days with DigitalOcean.",
+      "Get started for free",
+      "Enter your email to get $200 in credit for your first 60 days with DigitalOcean."
+    ],
+    "totals": {
+      "removed": 11,
+      "added": 3,
+      "materialRemoved": 5,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "digitalocean-com-pricing-app-platform-20231202183252",
+    "url": "https://www.digitalocean.com/pricing/app-platform",
+    "ts": "20231202183252",
+    "date": "2023-12-02",
+    "source": "wayback",
+    "prevTs": "20231104160509",
+    "kind": "limits",
+    "score": 10,
+    "counts": {
+      "price": 0,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "DigitalOcean App Platform: 5 limits changed (added “1 CPU”)",
+    "pairs": [],
+    "added": [
+      "1 CPU",
+      "1 CPU",
+      "1 CPU",
+      "2 CPUs",
+      "1 CPU",
+      "1 CPU",
+      "2 CPUs",
+      "1 CPU (dedicated)",
+      "2 CPUs (dedicated)",
+      "4 CPUs (dedicated)"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 61,
+      "added": 58,
+      "materialRemoved": 17,
+      "materialAdded": 27
+    }
+  },
+  {
+    "id": "digitalocean-com-pricing-app-platform-20240606234524",
+    "url": "https://www.digitalocean.com/pricing/app-platform",
+    "ts": "20240606234524",
+    "date": "2024-06-06",
+    "source": "wayback",
+    "prevTs": "20231202183252",
+    "kind": "price",
+    "score": 124,
+    "counts": {
+      "price": 31,
+      "limit": 15,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "DigitalOcean App Platform: 31 prices, 15 limits, 1 plan name changed (removed “$20.00”; added “3 apps with static sites”)",
+    "pairs": [],
+    "added": [
+      "Free Tier",
+      "3 apps with static sites",
+      "1GiB data transfer allowance per app with static sites",
+      "Includes all free features",
+      "50 GiB",
+      "100 GiB",
+      "1 GiB",
+      "150 GiB",
+      "200 GiB",
+      "250 GiB",
+      "512 MiB",
+      "100 GiB",
+      "$29.00",
+      "200 GiB",
+      "$34.00",
+      "1 vCPU",
+      "300 GiB",
+      "$39.00",
+      "1 vCPU",
+      "400 GiB",
+      "$49.00",
+      "500 GiB",
+      "$78.00",
+      "600 GiB",
+      "$98.00",
+      "8 GiB",
+      "700 GiB",
+      "$156.00",
+      "4 vCPUs",
+      "800 GiB",
+      "$196.00",
+      "8 vCPUs",
+      "32 GiB",
+      "900 GiB",
+      "$392.00",
+      "$25.00/mo per app",
+      "$0.02",
+      "At a high level, an app is either free (only using static site components) or paid (using container instances).",
+      "Free Tier: Only using static site components 3 apps with static sites are free",
+      "1 GiB allowance per app"
+    ],
+    "removed": [
+      "$20.00",
+      "$12.00",
+      "$75.00",
+      "$150.00",
+      "$300.00",
+      "$0.10",
+      "You can build and deploy 3 static sites for free on the Starter tier. Every additional static site will be charged $ 3.00 /mo. We may charge you for overages if you exceed the limits on outbound transfer. Resources – Overage charge outbound transfer – $ 0.10 /GiB",
+      "Are there any free resources in the Basic and Professional tiers?"
+    ],
+    "totals": {
+      "removed": 67,
+      "added": 153,
+      "materialRemoved": 24,
+      "materialAdded": 75
+    }
+  },
+  {
+    "id": "digitalocean-com-pricing-app-platform-20250906202709",
+    "url": "https://www.digitalocean.com/pricing/app-platform",
+    "ts": "20250906202709",
+    "date": "2025-09-06",
+    "source": "wayback",
+    "prevTs": "20240606234524",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "DigitalOcean App Platform: 2 prices changed (removed “I spun up a $4 Droplet, but my monthly bill i…”; added “Sign up and get $200 in credit for your first…”)",
+    "pairs": [],
+    "added": [
+      "Get started for free",
+      "Sign up and get $200 in credit for your first 60 days with DigitalOcean.*"
+    ],
+    "removed": [
+      "I spun up a $4 Droplet, but my monthly bill is more than $4. Why is that?"
+    ],
+    "totals": {
+      "removed": 13,
+      "added": 8,
+      "materialRemoved": 3,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "digitalocean-com-pricing-app-platform-20251212194809",
+    "url": "https://www.digitalocean.com/pricing/app-platform",
+    "ts": "20251212194809",
+    "date": "2025-12-12",
+    "source": "wayback",
+    "prevTs": "20250906202709",
+    "kind": "price",
+    "score": 58,
+    "counts": {
+      "price": 10,
+      "limit": 13,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "DigitalOcean App Platform: 10 prices, 13 limits, 1 plan name changed (removed “1 vCPU”; added “$ 0”)",
+    "pairs": [],
+    "added": [
+      "Free tier",
+      "$ 0"
+    ],
+    "removed": [
+      "1 vCPU",
+      "512 MiB",
+      "100 GiB",
+      "$29.00",
+      "1 vCPU",
+      "200 GiB",
+      "$34.00",
+      "1 vCPU",
+      "2 GiB",
+      "300 GiB",
+      "$39.00",
+      "1 vCPU",
+      "4 GiB",
+      "400 GiB",
+      "$49.00",
+      "2 vCPUs",
+      "4 GiB",
+      "500 GiB",
+      "$78.00",
+      "2 vCPUs",
+      "8 GiB",
+      "600 GiB",
+      "$98.00",
+      "4 vCPUs",
+      "8 GiB",
+      "700 GiB",
+      "$156.00",
+      "4 vCPUs",
+      "16 GiB",
+      "800 GiB",
+      "$196.00",
+      "8 vCPUs",
+      "32 GiB",
+      "900 GiB",
+      "$392.00"
+    ],
+    "totals": {
+      "removed": 73,
+      "added": 15,
+      "materialRemoved": 41,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "digitalocean-com-pricing-app-platform-20260503015517",
+    "url": "https://www.digitalocean.com/pricing/app-platform",
+    "ts": "20260503015517",
+    "date": "2026-05-03",
+    "source": "wayback",
+    "prevTs": "20251212194809",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "DigitalOcean App Platform: 3 prices changed (removed “I got a $200 credit when I opened an account.…”; added “How does the $5 free credit work?”)",
+    "pairs": [],
+    "added": [
+      "How does the $5 free credit work?"
+    ],
+    "removed": [
+      "I got a $200 credit when I opened an account. When will my card be charged?",
+      "Get started for free",
+      "Sign up and get $200 in credit for your first 60 days with DigitalOcean.*"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 5,
+      "materialRemoved": 3,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "digitalocean-com-pricing-app-platform-20260706142407",
+    "url": "https://www.digitalocean.com/pricing/app-platform",
+    "ts": "20260706142407",
+    "date": "2026-07-06",
+    "source": "wayback",
+    "prevTs": "20260503015517",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "DigitalOcean App Platform: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "digitalocean-com-pricing-app-platform-20260902202107",
+    "url": "https://www.digitalocean.com/pricing/app-platform",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260706142407",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "DigitalOcean App Platform: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 9,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

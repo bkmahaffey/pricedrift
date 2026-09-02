@@ -1,0 +1,407 @@
+[
+  {
+    "id": "simpleanalytics-com-pricing-20230619184622",
+    "url": "https://www.simpleanalytics.com/pricing",
+    "ts": "20230619184622",
+    "date": "2023-06-19",
+    "source": "wayback",
+    "prevTs": "20230217232120",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Simple Analytics: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "simpleanalytics-com-pricing-20240115000753",
+    "url": "https://www.simpleanalytics.com/pricing",
+    "ts": "20240115000753",
+    "date": "2024-01-15",
+    "source": "wayback",
+    "prevTs": "20230619184622",
+    "kind": "price",
+    "score": 4,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Simple Analytics: 1 price, 1 limit changed (removed “starting at €99 + /month depending on usage”; added “AI for 1 month”)",
+    "pairs": [],
+    "added": [
+      "AI for 1 month",
+      "AI unlimited"
+    ],
+    "removed": [
+      "starting at €99 + /month depending on usage"
+    ],
+    "totals": {
+      "removed": 8,
+      "added": 12,
+      "materialRemoved": 4,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "simpleanalytics-com-pricing-20240806022150",
+    "url": "https://www.simpleanalytics.com/pricing",
+    "ts": "20240806022150",
+    "date": "2024-08-06",
+    "source": "wayback",
+    "prevTs": "20240115000753",
+    "kind": "price",
+    "score": 20,
+    "counts": {
+      "price": 4,
+      "limit": 2,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Simple Analytics: 4 prices, 2 limits, 2 plan names changed (removed “$9 /month $108 yearly”; added “Pay per pageview and event. Average usage of …”)",
+    "pairs": [],
+    "added": [
+      "Pay per pageview and event. Average usage of the last 3 months.",
+      "10k pageviews / events",
+      "Free",
+      "Free",
+      "$10 /month",
+      "$40 /month",
+      "Up to 5 users",
+      "What are free websites?",
+      "No. After your trial expires, your plan downgrades automatically to the free plan. If you're exceeding usage limits of the free plan, we disable your dashboards until you are within the limits of the free plan, or when you select a plan."
+    ],
+    "removed": [
+      "$9 /month $108 yearly",
+      "$49 /month $588 yearly",
+      "10 users",
+      "AI unlimited",
+      "No. After your trial expires, your plan downgrades automatically to the basic free version. Upgrade whenever you want to the plan that fits your needs."
+    ],
+    "totals": {
+      "removed": 40,
+      "added": 45,
+      "materialRemoved": 7,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "simpleanalytics-com-pricing-20241109142127",
+    "url": "https://www.simpleanalytics.com/pricing",
+    "ts": "20241109142127",
+    "date": "2024-11-09",
+    "source": "wayback",
+    "prevTs": "20240806022150",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 1,
+      "limit": 5,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Simple Analytics: 1 price, 5 limits, 3 plan names changed ($10 → $15; 5 → 2)",
+    "pairs": [
+      {
+        "before": "$10 /month",
+        "after": "$15 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$10",
+            "after": "$15"
+          }
+        ]
+      },
+      {
+        "before": "Up to 5 users",
+        "after": "Up to 2 users",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "5",
+            "after": "2"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "20k pageviews (or events)",
+      "2 months off",
+      "Start for free",
+      "Up to 5 sites",
+      "Start for free",
+      "Up to 10 sites",
+      "Start for free",
+      "Up to 20 sites"
+    ],
+    "removed": [
+      "Pay per pageview and event. Average usage of the last 3 months.",
+      "10k pageviews / events",
+      "What are free websites?"
+    ],
+    "totals": {
+      "removed": 18,
+      "added": 46,
+      "materialRemoved": 6,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "simpleanalytics-com-pricing-20250109015942",
+    "url": "https://www.simpleanalytics.com/pricing",
+    "ts": "20250109015942",
+    "date": "2025-01-09",
+    "source": "wayback",
+    "prevTs": "20241109142127",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Simple Analytics: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "simpleanalytics-com-pricing-20250210080206",
+    "url": "https://www.simpleanalytics.com/pricing",
+    "ts": "20250210080206",
+    "date": "2025-02-10",
+    "source": "wayback",
+    "prevTs": "20250109015942",
+    "kind": "price",
+    "score": 10,
+    "counts": {
+      "price": 2,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Simple Analytics: 2 prices, 2 limits changed (removed “Up to 2 users”; added “3 years retention days”)",
+    "pairs": [],
+    "added": [
+      "3 years retention days",
+      "Up to 2 users +$20/user",
+      "5 years retention days",
+      "From $750 /month",
+      "How does the free plan work?",
+      "How does the free trial work?",
+      "What does 30 day history mean?",
+      "What does unlimited pageviews mean?"
+    ],
+    "removed": [
+      "Up to 2 users",
+      "No. After your trial expires, your plan downgrades automatically to the free plan. If you're exceeding usage limits of the free plan, we disable your dashboards until you are within the limits of the free plan, or when you select a plan."
+    ],
+    "totals": {
+      "removed": 20,
+      "added": 46,
+      "materialRemoved": 4,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "simpleanalytics-com-pricing-20251112080703",
+    "url": "https://www.simpleanalytics.com/pricing",
+    "ts": "20251112080703",
+    "date": "2025-11-12",
+    "source": "wayback",
+    "prevTs": "20250514215101",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Simple Analytics: 1 price changed (removed “From $750 /month”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "From $750 /month"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "simpleanalytics-com-pricing-20260214173856",
+    "url": "https://www.simpleanalytics.com/pricing",
+    "ts": "20260214173856",
+    "date": "2026-02-14",
+    "source": "wayback",
+    "prevTs": "20251112080703",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Simple Analytics: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "simpleanalytics-com-pricing-20260313134347",
+    "url": "https://www.simpleanalytics.com/pricing",
+    "ts": "20260313134347",
+    "date": "2026-03-13",
+    "source": "wayback",
+    "prevTs": "20260214173856",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Simple Analytics: 2 limits changed (removed “Up to 5 sites”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Up to 5 sites",
+      "Up to 10 sites",
+      "Up to 20 sites"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 4,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "simpleanalytics-com-pricing-20260614193849",
+    "url": "https://www.simpleanalytics.com/pricing",
+    "ts": "20260614193849",
+    "date": "2026-06-14",
+    "source": "wayback",
+    "prevTs": "20260313134347",
+    "kind": "price",
+    "score": 27,
+    "counts": {
+      "price": 5,
+      "limit": 3,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Simple Analytics: 5 prices, 3 limits, 3 plan names changed (removed “20k pageviews (or events)”; added “$20 /month”)",
+    "pairs": [],
+    "added": [
+      "$20 /month",
+      "100k 100k pageviews 2.5M",
+      "Includes 1 user +$20/mo per extra user",
+      "Free for hobby sites",
+      "1 user 5 websites"
+    ],
+    "removed": [
+      "20k pageviews (or events)",
+      "Free",
+      "Free",
+      "$15 /month",
+      "1 user",
+      "3 years retention days",
+      "$40 /month",
+      "Start for free",
+      "2 users +$20/user",
+      "5 years retention days"
+    ],
+    "totals": {
+      "removed": 71,
+      "added": 42,
+      "materialRemoved": 14,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "simpleanalytics-com-pricing-20260829025540",
+    "url": "https://www.simpleanalytics.com/pricing",
+    "ts": "20260829025540",
+    "date": "2026-08-29",
+    "source": "wayback",
+    "prevTs": "20260614193849",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Simple Analytics: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "simpleanalytics-com-pricing-20260902202107",
+    "url": "https://www.simpleanalytics.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260829025540",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Simple Analytics: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    },
+    "transition": true
+  }
+]

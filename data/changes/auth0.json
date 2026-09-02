@@ -1,0 +1,430 @@
+[
+  {
+    "id": "auth0-com-pricing-20230503080646",
+    "url": "https://auth0.com/pricing",
+    "ts": "20230503080646",
+    "date": "2023-05-03",
+    "source": "wayback",
+    "prevTs": "20230111102745",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Auth0: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 6,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "auth0-com-pricing-20231127045019",
+    "url": "https://auth0.com/pricing",
+    "ts": "20231127045019",
+    "date": "2023-11-27",
+    "source": "wayback",
+    "prevTs": "20230503080646",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Auth0: 2 limits changed (7,000 → 7,500; 7,000 → 7,500)",
+    "pairs": [
+      {
+        "before": "Get Auth0 for free with up to 7,000 active users and unlimited logins. No credit card required.",
+        "after": "Get Auth0 for free with up to 7,500 active users and unlimited logins. No credit card required.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "7,000",
+            "after": "7,500"
+          }
+        ]
+      },
+      {
+        "before": "If I surpass the 7,000 users Free Plan do I need to select a Paid Plan with a higher MAU Quota?",
+        "after": "If I surpass the 7,500 users Free Plan do I need to select a Paid Plan with a higher MAU Quota?",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "7,000",
+            "after": "7,500"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 16,
+      "added": 15,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "auth0-com-pricing-20240104193425",
+    "url": "https://auth0.com/pricing",
+    "ts": "20240104193425",
+    "date": "2024-01-04",
+    "source": "wayback",
+    "prevTs": "20231127045019",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Auth0: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "auth0-com-pricing-20240506231056",
+    "url": "https://auth0.com/pricing",
+    "ts": "20240506231056",
+    "date": "2024-05-06",
+    "source": "wayback",
+    "prevTs": "20240104193425",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 3,
+      "limit": 5,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Auth0: 3 prices, 5 limits, 3 plan names changed (removed “Get Auth0 for free with up to 7,500 active us…”; added “7,500 monthly active users with unlimited log…”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "No credit card needed.",
+      "7,500 monthly active users with unlimited logins, plus...",
+      "$ 35 / month",
+      "Start building for free. Upgrade when you’re ready.",
+      "Everything in Free, with 500 monthly active users, plus...",
+      "Start building for free. Upgrade when you’re ready.",
+      "Everything in Essentials, with up to 1000 monthly active users, plus...",
+      "Congrats on building something extraordinary. Let us make your customer login experience awesome so you can focus on everything else. Did we mention our startup program is free for a year?",
+      "Free",
+      "Get started with Free plan",
+      "Get started with Free plan",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "1 Day",
+      "2 Days",
+      "10 Days",
+      "30 Days",
+      "1 Log Stream",
+      "2 Log Streams"
+    ],
+    "removed": [
+      "Free plan",
+      "Get Auth0 for free with up to 7,500 active users and unlimited logins. No credit card required.",
+      "$23/mo",
+      "Unlimited Social Connections",
+      "No credit card required",
+      "Start building for free",
+      "No credit card required",
+      "Start building for free",
+      "No credit card required",
+      "What is identity management and when should you build vs buy? Download this free comprehensive 22-page eBook.",
+      "$20/mo"
+    ],
+    "totals": {
+      "removed": 59,
+      "added": 176,
+      "materialRemoved": 13,
+      "materialAdded": 26
+    }
+  },
+  {
+    "id": "auth0-com-pricing-20240910085848",
+    "url": "https://auth0.com/pricing",
+    "ts": "20240910085848",
+    "date": "2024-09-10",
+    "source": "wayback",
+    "prevTs": "20240506231056",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Auth0: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 21,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "auth0-com-pricing-20241106152022",
+    "url": "https://auth0.com/pricing",
+    "ts": "20241106152022",
+    "date": "2024-11-06",
+    "source": "wayback",
+    "prevTs": "20240910085848",
+    "kind": "limits",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Auth0: 3 limits changed (2 → 5; 7,500 → 25,000)",
+    "pairs": [
+      {
+        "before": "2 Days",
+        "after": "5 Days",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2",
+            "after": "5"
+          }
+        ]
+      },
+      {
+        "before": "If I surpass the 7,500 users Free Plan do I need to select a Paid Plan with a higher MAU Quota?",
+        "after": "If I surpass the 25,000 users Free Plan do I need to select a Paid Plan with a higher MAU Quota?",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "7,500",
+            "after": "25,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Start building for free",
+      "Start building for free",
+      "Up to 25,000 monthly active users will have:",
+      "Everything in Free, plus..."
+    ],
+    "removed": [
+      "7,500 monthly active users with unlimited logins, plus...",
+      "Start building for free. Upgrade when you’re ready.",
+      "Start building for free. Upgrade when you’re ready.",
+      "Get started with Free plan",
+      "Get started with Free plan",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 34,
+      "added": 47,
+      "materialRemoved": 15,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "auth0-com-pricing-20250303042735",
+    "url": "https://auth0.com/pricing",
+    "ts": "20250303042735",
+    "date": "2025-03-03",
+    "source": "wayback",
+    "prevTs": "20241106152022",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Auth0: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Start building for free."
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 11,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "auth0-com-pricing-20260107072947",
+    "url": "https://auth0.com/pricing",
+    "ts": "20260107072947",
+    "date": "2026-01-07",
+    "source": "wayback",
+    "prevTs": "20250303042735",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Auth0: 1 limit changed (1,000 → 500)",
+    "pairs": [
+      {
+        "before": "Up to 1,000 monthly active users will have:",
+        "after": "Up to 500 monthly active users will have:",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1,000",
+            "after": "500"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Unlimited Social Connections"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 20,
+      "added": 31,
+      "materialRemoved": 2,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "auth0-com-pricing-20260203095057",
+    "url": "https://auth0.com/pricing",
+    "ts": "20260203095057",
+    "date": "2026-02-03",
+    "source": "wayback",
+    "prevTs": "20260107072947",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Auth0: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "auth0-com-pricing-20260306093818",
+    "url": "https://auth0.com/pricing",
+    "ts": "20260306093818",
+    "date": "2026-03-06",
+    "source": "wayback",
+    "prevTs": "20260203095057",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Auth0: 1 price changed (added “$ 0 / month”)",
+    "pairs": [],
+    "added": [
+      "$ 0 / month"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 35,
+      "added": 35,
+      "materialRemoved": 5,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "auth0-com-pricing-20260701142957",
+    "url": "https://auth0.com/pricing",
+    "ts": "20260701142957",
+    "date": "2026-07-01",
+    "source": "wayback",
+    "prevTs": "20260306093818",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Auth0: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 27,
+      "added": 88,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "auth0-com-pricing-20260902202107",
+    "url": "https://auth0.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260701142957",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Auth0: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

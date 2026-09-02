@@ -1,0 +1,426 @@
+GPU Pricing
+GPU Cloud Pricing
+Simple pricing plans for teams of all sizes, designed to scale with you.
+Pods
+Thousands of GPUs across 30+ regions. Simple pricing plans for teams of all sizes,
+designed to scale with you.
+Get started ->
+GPU
+Community Cloud
+Secure Cloud
+Per second
+Per hour
+>80GB VRAM
+H200
+141
+GB VRAM
+276
+GB RAM
+24
+vCPUs
+$
+0
+/s
+B200
+180
+GB VRAM
+283
+GB RAM
+28
+vCPUs
+$
+0
+/s
+RTX Pro 6000
+96
+GB VRAM
+188
+GB RAM
+16
+vCPUs
+$
+0
+/s
+H100 NVL
+94
+GB VRAM
+94
+GB RAM
+16
+vCPUs
+$
+0
+/s
+80GB VRAM
+H100 PCIe
+80
+GB VRAM
+188
+GB RAM
+16
+vCPUs
+$
+0
+/s
+H100 SXM
+80
+GB VRAM
+125
+GB RAM
+20
+vCPUs
+$
+0
+/s
+A100 PCIe
+80
+GB VRAM
+117
+GB RAM
+8
+vCPUs
+$
+0
+/s
+A100 SXM
+80
+GB VRAM
+125
+GB RAM
+16
+vCPUs
+$
+0
+/s
+48GB VRAM
+L40S
+48
+GB VRAM
+94
+GB RAM
+16
+vCPUs
+$
+0
+/s
+RTX 6000 Ada
+48
+GB VRAM
+167
+GB RAM
+10
+vCPUs
+$
+0
+/s
+A40
+48
+GB VRAM
+50
+GB RAM
+9
+vCPUs
+$
+0
+/s
+L40
+48
+GB VRAM
+94
+GB RAM
+8
+vCPUs
+$
+0
+/s
+RTX A6000
+48
+GB VRAM
+50
+GB RAM
+9
+vCPUs
+$
+0
+/s
+32GB VRAM
+RTX 5090
+32
+GB VRAM
+35
+GB RAM
+9
+vCPUs
+$
+0
+/s
+24GB VRAM
+L4
+24
+GB VRAM
+50
+GB RAM
+12
+vCPUs
+$
+0
+/s
+RTX 3090
+24
+GB VRAM
+125
+GB RAM
+16
+vCPUs
+$
+0
+/s
+RTX 4090
+24
+GB VRAM
+41
+GB RAM
+6
+vCPUs
+$
+0
+/s
+RTX A5000
+24
+GB VRAM
+25
+GB RAM
+9
+vCPUs
+$
+0
+/s
+See all GPUs
+Serverless
+Cost effective for every inference
+workload. Save 25% over other Serverless
+cloud providers on flex workers alone.
+Get started ->
+GPU
+Per second
+Per hour
+Workers
+Workers that scale up during traffic spikes and return to idle after completing jobs. Cost-efficient and ideal for bursty workloads.
+8.64
+/s
+180GB
+B200
+Maximum throughput for big models.
+5.58
+/s
+141GB
+H200
+Extreme throughput for big models.
+4.00
+/s
+96GB
+RTX 6000 Pro
+PRO
+High throughput for large model inference workloads.
+4.18
+/s
+80GB
+H100
+PRO
+Extreme throughput for big models.
+2.72
+/s
+80GB
+A100
+High throughput GPU, yet still very cost-effective.
+1.90
+/s
+48GB
+L40, L40S, 6000 Ada
+PRO
+Extreme inference throughput on LLMs like Llama 3 7B.
+1.22
+/s
+48GB
+A6000, A40
+A cost-effective option for running big models.
+1.58
+/s
+32GB
+5090
+PRO
+Extreme throughput for small-to-medium models.
+1.10
+/s
+24GB
+4090
+PRO
+Extreme throughput for small-to-medium models.
+0.69
+/s
+24GB
+L4, A5000, 3090
+Great for small-to-medium sized inference workloads.
+0.58
+/s
+16GB
+A4000, A4500, RTX 4000, RTX 2000
+The most cost-effective for small models.
+Instant Clusters
+Launch multi-GPU clusters in minutes with no commitments—scale up to 64 GPUs, attach shared storage, and pay only for what you use.
+Get started ->
+GPU
+Per second
+Per hour
+H200 SXM
+Contact sales
+$
+4.31
+/hr
+A100 SXM
+Contact sales
+$
+1.79
+/hr
+H100 SXM
+Contact sales
+$
+/hr
+L40S
+Contact sales
+$
+/hr
+B200
+Contact sales
+$
+/hr
+Reserved Clusters
+Dedicated GPU clusters with guaranteed availability, custom configurations, SLA-backed uptime, and discounted rates for enterprises scaling to 10,000+ GPUs.
+Talk to an engineer
+GPU
+1mo
+3mo
+6mo
+12mo
+12mo+
+H200 SXM
+Contact sales
+A100 SXM
+Contact sales
+H100 SXM
+Contact sales
+L40S
+Contact sales
+B200
+Contact sales
+Storage
+Flexible and persisitent storage options starting at $0.05/GB/mo with standard and high-performance tiers.
+Get started ->
+Storage Type
+Container Disk
+$0.10/GB/mo
+Volume Disk
+Running - $0.10/GB/mo
+Idle - $0.20/GB/mo
+Network Storage (Standard)
+Under 1TB - $0.07/GB/mo
+Over 1TB - $0.05/GB/mo
+Network Storage (High-Performance)
+$0.14/GB/mo
+Public Endpoints
+Instant access to pre-deployed AI models via API—no infrastructure setup required.
+Get started ->
+Model Name
+Audio
+Pruna / Whisper V3 Large
+$0.05 per 1000 characters
+resembleai / Chatterbox Turbo
+$0.00 per 1000 characters.
+minimax / Minimax Speech 02 HD
+$0.05 per 1000 characters
+minimax / Minimax Speech 02 HD
+$0.05 per 1000 characters
+Image
+bytedance / Seedream 4.0 Edit
+$0.0270 per request
+bytedance / Seedream 4.0 T2I
+$0.0270 per request
+google / Nano Banana Edit
+$0.0380 per request
+google / Nano Banana Pro Edit
+$0.14 per request
+pruna / Pruna Image T2I
+$0.0050 per request
+pruna / Pruna Image Edit
+$0.01 per request
+alibaba / WAN 2.6 T2I
+$0.03 per request
+qwen / Qwen Image Edit 2511
+$0.02 per request
+qwen / Qwen Image Edit 2511 LoRA
+$0.025 per request
+Tongyi-MAI / Z Image Turbo
+$0.0050 per request.
+Language
+deep-cogito / Deep Cogito v2 Llama 70B
+$0.00001 per 1m tokens
+qwen / Qwen3 32B AWQ
+$10.00 per 1m tokens
+minimax / Minimax Speech 02 HD
+$0.05 per 1000 characters
+minimax / Minimax Speech 02 HD
+$0.05 per 1000 characters
+ibm / IBM Granite 4.0 H Small
+$1.00 per 1m tokens
+Video
+Bytedance / Seedance 1.0 pro
+5s: $0.12(480p) per request
+Alibaba / Wan 2.2 I2V 720p
+5s: $0.30 per request
+Alibaba / Wan 2.2 T2V 720p
+5s: $0.30 per request
+Alibaba / Wan 2.1 I2V 720p
+$0.30 per request
+Alibaba / Wan 2.1 T2V 720p
+$0.30 per request
+kwaivgi / Kling v2.6 Standard Motion Control
+1-3s $0.21 per request
+Alibaba / WAN 2.6 T2V
+5s: $0.50 per request
+bytedance / Seedance V1.5 Pro I2V
+$0.024 per second
+kwaivgi / Kling Video O1 R2V
+$0.112 per second
+Alibaba / Wan 2.6 I2V
+5s: $0.50 per request
+Storage Pricing
+Flexible, cost-effective storage for every workload.
+No fees for ingress/egress. Persistent and temporary storage available.
+Pod Pricing
+Storage Type
+Running Pods
+Idle Pods
+Volume
+$0.10/GB/mo
+$0.20/GB/mo
+Container Disk
+$0.10/GB/mo
+NA
+Persistent Network Storage
+Storage Type
+Under 1TB
+Over 1TB
+Network Volume
+$0.07/GB/mo
+$0.05/GB/mo
+Gain additional savings with reservations.
+Save more with long-term commitments. Speak with our team to reserve discounted active and flex workers.
+Get started
+Build what’s next.
+The most cost-effective platform for building, training, and scaling machine learning models—ready when you are.
+Get started
+Request a demo
+You’ve unlocked a
+referral bonus!
+Sign up today and you’ll get a random credit bonus between $5 and $500 when you spend your first $10 on Runpod.
+Claim Your Bonus

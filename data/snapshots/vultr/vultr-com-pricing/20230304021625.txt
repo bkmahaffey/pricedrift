@@ -1,0 +1,5611 @@
+NEWS Vultr Cloud GPUs Powered by NVIDIA A16: The Perfect Infrastructure for Virtual Desktops, Transcoding, and More
+Solutions
+Resources
+Docs
+Support
+Log in
+Sign up
+Contact Sales
+Categories
+Categories:
+Cloud Compute
+Easy-to-use, affordable VMs for many common workloads.
+Optimized Cloud Compute
+No noisy neighbors on these powerful VMs with built-in NVMe SSD.
+Cloud GPU
+VMs with affordable, virtualized NVIDIA GPUs.
+Bare Metal
+Single-tenant dedicated servers.
+Direct Connect
+Privately connect Vultr services.
+Kubernetes Engine
+Managed Kubernetes clusters.
+Databases
+Databases that 'just work' right out of the box.
+Block Storage
+Network-attached NVMe SSD storage.
+Object Storage
+S3-compatible asset storage.
+Load Balancers
+Network load balancing service.
+Add-on Services
+Additional product offerings
+Cloud Compute
+These virtual machines run atop shared vCPUs, and are suitable for many business and personal applications: low traffic websites, blogs, CMS, dev/test environments, small databases, and much more.
+Choose High Performance or High Frequency plans for the newer generations of AMD or Intel CPUs, along with NVMe SSD.
+Regular Performance
+Powered by previous generation Intel CPUs and regular SSD.
+vCPUs
+Memory
+Bandwidth
+Storage
+Monthly Price
+Hourly Price
+1 vCPU
+0.5 GB Memory
+0.50 TB Bandwidth
+10 GB Storage
+$2.50 /mo
+$0.004 /hr IPv6 Only
+1 vCPU
+0.5 GB Memory
+0.50 TB Bandwidth
+10 GB Storage
+$3.50 /mo
+$0.005 /hr
+1 vCPU
+1 GB Memory
+1.00 TB Bandwidth
+25 GB Storage
+$5 /mo
+$0.007 /hr
+1 vCPU
+2 GB Memory
+2.00 TB Bandwidth
+55 GB Storage
+$10 /mo
+$0.015 /hr
+2 vCPU
+4 GB Memory
+3.00 TB Bandwidth
+80 GB Storage
+$20 /mo
+$0.030 /hr
+4 vCPU
+8 GB Memory
+4.00 TB Bandwidth
+160 GB Storage
+$40 /mo
+$0.060 /hr
+6 vCPU
+16 GB Memory
+5.00 TB Bandwidth
+320 GB Storage
+$80 /mo
+$0.119 /hr
+8 vCPU
+32 GB Memory
+6.00 TB Bandwidth
+640 GB Storage
+$160 /mo
+$0.238 /hr
+16 vCPU
+64 GB Memory
+10.00 TB Bandwidth
+1280 GB Storage
+$320 /mo
+$0.476 /hr
+24 vCPU
+96 GB Memory
+15.00 TB Bandwidth
+1600 GB Storage
+$640 /mo
+$0.952 /hr
+Pricing
+vCPUs
+Memory
+Bandwidth
+Storage
+Monthly Price
+Hourly Price
+1 vCPU
+0.5 GB Memory
+0.50 TB Bandwidth
+10 GB Storage
+$2.50 /mo
+$0.004 /hr IPv6 Only
+1 vCPU
+0.5 GB Memory
+0.50 TB Bandwidth
+10 GB Storage
+$3.50 /mo
+$0.005 /hr
+1 vCPU
+1 GB Memory
+1.00 TB Bandwidth
+25 GB Storage
+$5 /mo
+$0.007 /hr
+1 vCPU
+2 GB Memory
+2.00 TB Bandwidth
+55 GB Storage
+$10 /mo
+$0.015 /hr
+2 vCPU
+4 GB Memory
+3.00 TB Bandwidth
+80 GB Storage
+$20 /mo
+$0.030 /hr
+4 vCPU
+8 GB Memory
+4.00 TB Bandwidth
+160 GB Storage
+$40 /mo
+$0.060 /hr
+6 vCPU
+16 GB Memory
+5.00 TB Bandwidth
+320 GB Storage
+$80 /mo
+$0.119 /hr
+8 vCPU
+32 GB Memory
+6.00 TB Bandwidth
+640 GB Storage
+$160 /mo
+$0.238 /hr
+16 vCPU
+64 GB Memory
+10.00 TB Bandwidth
+1280 GB Storage
+$320 /mo
+$0.476 /hr
+24 vCPU
+96 GB Memory
+15.00 TB Bandwidth
+1600 GB Storage
+$640 /mo
+$0.952 /hr
+High Performance
+Powered by new generations of AMD EPYC or Intel Xeon CPUs and NVMe SSD.
+AMD Pricing
+vCPUs
+Memory
+Bandwidth
+Storage
+Monthly Price
+Hourly Price
+1 vCPU
+1 GB Memory
+2.00 TB Bandwidth
+25 GB Storage
+$6.00 /mo
+$0.009 /hr
+1 vCPU
+2 GB Memory
+3.00 TB Bandwidth
+50 GB Storage
+$12.00 /mo
+$0.018 /hr
+2 vCPU
+2 GB Memory
+4.00 TB Bandwidth
+60 GB Storage
+$18.00 /mo
+$0.027 /hr
+2 vCPU
+4 GB Memory
+5.00 TB Bandwidth
+100 GB Storage
+$24.00 /mo
+$0.036 /hr
+4 vCPU
+8 GB Memory
+6.00 TB Bandwidth
+180 GB Storage
+$48.00 /mo
+$0.071 /hr
+4 vCPU
+12 GB Memory
+7.00 TB Bandwidth
+260 GB Storage
+$72.00 /mo
+$0.107 /hr
+8 vCPU
+16 GB Memory
+8.00 TB Bandwidth
+350 GB Storage
+$96.00 /mo
+$0.143 /hr
+12 vCPU
+24 GB Memory
+12.00 TB Bandwidth
+500 GB Storage
+$144.00 /mo
+$0.214 /hr
+Intel Pricing
+vCPUs
+Memory
+Bandwidth
+Storage
+Monthly Price
+Hourly Price
+1 vCPU
+1 GB Memory
+2.00 TB Bandwidth
+25 GB Storage
+$6.00 /mo
+$0.009 /hr
+1 vCPU
+2 GB Memory
+3.00 TB Bandwidth
+50 GB Storage
+$12.00 /mo
+$0.018 /hr
+2 vCPU
+2 GB Memory
+4.00 TB Bandwidth
+60 GB Storage
+$18.00 /mo
+$0.027 /hr
+2 vCPU
+4 GB Memory
+5.00 TB Bandwidth
+100 GB Storage
+$24.00 /mo
+$0.036 /hr
+4 vCPU
+8 GB Memory
+6.00 TB Bandwidth
+180 GB Storage
+$48.00 /mo
+$0.071 /hr
+4 vCPU
+12 GB Memory
+7.00 TB Bandwidth
+260 GB Storage
+$72.00 /mo
+$0.107 /hr
+8 vCPU
+16 GB Memory
+8.00 TB Bandwidth
+350 GB Storage
+$96.00 /mo
+$0.143 /hr
+12 vCPU
+24 GB Memory
+12.00 TB Bandwidth
+500 GB Storage
+$144.00 /mo
+$0.214 /hr
+AMD Pricing
+vCPUs
+Memory
+Bandwidth
+Storage
+Monthly Price
+Hourly Price
+1 vCPU
+1 GB Memory
+2.00 TB Bandwidth
+25 GB Storage
+$6.00 /mo
+$0.009 /hr
+1 vCPU
+2 GB Memory
+3.00 TB Bandwidth
+50 GB Storage
+$12.00 /mo
+$0.018 /hr
+2 vCPU
+2 GB Memory
+4.00 TB Bandwidth
+60 GB Storage
+$18.00 /mo
+$0.027 /hr
+2 vCPU
+4 GB Memory
+5.00 TB Bandwidth
+100 GB Storage
+$24.00 /mo
+$0.036 /hr
+4 vCPU
+8 GB Memory
+6.00 TB Bandwidth
+180 GB Storage
+$48.00 /mo
+$0.071 /hr
+4 vCPU
+12 GB Memory
+7.00 TB Bandwidth
+260 GB Storage
+$72.00 /mo
+$0.107 /hr
+8 vCPU
+16 GB Memory
+8.00 TB Bandwidth
+350 GB Storage
+$96.00 /mo
+$0.143 /hr
+12 vCPU
+24 GB Memory
+12.00 TB Bandwidth
+500 GB Storage
+$144.00 /mo
+$0.214 /hr
+Intel Pricing
+vCPUs
+Memory
+Bandwidth
+Storage
+Monthly Price
+Hourly Price
+1 vCPU
+1 GB Memory
+2.00 TB Bandwidth
+25 GB Storage
+$6.00 /mo
+$0.009 /hr
+1 vCPU
+2 GB Memory
+3.00 TB Bandwidth
+50 GB Storage
+$12.00 /mo
+$0.018 /hr
+2 vCPU
+2 GB Memory
+4.00 TB Bandwidth
+60 GB Storage
+$18.00 /mo
+$0.027 /hr
+2 vCPU
+4 GB Memory
+5.00 TB Bandwidth
+100 GB Storage
+$24.00 /mo
+$0.036 /hr
+4 vCPU
+8 GB Memory
+6.00 TB Bandwidth
+180 GB Storage
+$48.00 /mo
+$0.071 /hr
+4 vCPU
+12 GB Memory
+7.00 TB Bandwidth
+260 GB Storage
+$72.00 /mo
+$0.107 /hr
+8 vCPU
+16 GB Memory
+8.00 TB Bandwidth
+350 GB Storage
+$96.00 /mo
+$0.143 /hr
+12 vCPU
+24 GB Memory
+12.00 TB Bandwidth
+500 GB Storage
+$144.00 /mo
+$0.214 /hr
+High Frequency
+Powered by 3GHz+ Intel Xeon CPUs and NVMe SSD.
+vCPUs
+Memory
+Bandwidth
+Storage
+Monthly Price
+Hourly Price
+1 vCPU
+1 GB Memory
+1.00 TB Bandwidth
+32 GB Storage
+$6 /mo
+$0.009 /hr
+1 vCPU
+2 GB Memory
+2.00 TB Bandwidth
+64 GB Storage
+$12 /mo
+$0.018 /hr
+2 vCPU
+2 GB Memory
+3.00 TB Bandwidth
+80 GB Storage
+$18 /mo
+$0.027 /hr
+2 vCPU
+4 GB Memory
+3.00 TB Bandwidth
+128 GB Storage
+$24 /mo
+$0.036 /hr
+3 vCPU
+8 GB Memory
+4.00 TB Bandwidth
+256 GB Storage
+$48 /mo
+$0.071 /hr
+4 vCPU
+16 GB Memory
+5.00 TB Bandwidth
+384 GB Storage
+$96 /mo
+$0.143 /hr
+6 vCPU
+24 GB Memory
+6.00 TB Bandwidth
+448 GB Storage
+$144 /mo
+$0.214 /hr
+8 vCPU
+32 GB Memory
+7.00 TB Bandwidth
+512 GB Storage
+$192 /mo
+$0.286 /hr
+12 vCPU
+48 GB Memory
+8.00 TB Bandwidth
+768 GB Storage
+$256 /mo
+$0.381 /hr
+Pricing
+vCPUs
+Memory
+Bandwidth
+Storage
+Monthly Price
+Hourly Price
+1 vCPU
+1 GB Memory
+1.00 TB Bandwidth
+32 GB Storage
+$6 /mo
+$0.009 /hr
+1 vCPU
+2 GB Memory
+2.00 TB Bandwidth
+64 GB Storage
+$12 /mo
+$0.018 /hr
+2 vCPU
+2 GB Memory
+3.00 TB Bandwidth
+80 GB Storage
+$18 /mo
+$0.027 /hr
+2 vCPU
+4 GB Memory
+3.00 TB Bandwidth
+128 GB Storage
+$24 /mo
+$0.036 /hr
+3 vCPU
+8 GB Memory
+4.00 TB Bandwidth
+256 GB Storage
+$48 /mo
+$0.071 /hr
+4 vCPU
+16 GB Memory
+5.00 TB Bandwidth
+384 GB Storage
+$96 /mo
+$0.143 /hr
+6 vCPU
+24 GB Memory
+6.00 TB Bandwidth
+448 GB Storage
+$144 /mo
+$0.214 /hr
+8 vCPU
+32 GB Memory
+7.00 TB Bandwidth
+512 GB Storage
+$192 /mo
+$0.286 /hr
+12 vCPU
+48 GB Memory
+8.00 TB Bandwidth
+768 GB Storage
+$256 /mo
+$0.381 /hr
+Optimized Cloud Compute
+These virtual machines run atop fully dedicated, new generation AMD EPYC vCPUs. Dedicated vCPUs ensure that these machines deliver the fast, consistent performance that many business applications require.
+General Purpose
+Often a good starting point, these VMs provide a typical balance of CPU, RAM, and NVMe SSD resources.
+Use cases: web and application servers, E-Commerce, game servers, video and audio streaming, API serving, relational databases
+vCPUs
+Memory
+Bandwidth
+Storage
+Monthly Price
+Hourly Price
+1 vCPU
+4 GB Memory
+4.00 TB Bandwidth
+30 GB Storage
+$30.00 /mo
+$0.045 /hr
+2 vCPU
+8 GB Memory
+5.00 TB Bandwidth
+50 GB Storage
+$60.00 /mo
+$0.089 /hr
+4 vCPU
+16 GB Memory
+6.00 TB Bandwidth
+80 GB Storage
+$120.00 /mo
+$0.179 /hr
+8 vCPU
+32 GB Memory
+7.00 TB Bandwidth
+160 GB Storage
+$240.00 /mo
+$0.357 /hr
+16 vCPU
+64 GB Memory
+8.00 TB Bandwidth
+320 GB Storage
+$480.00 /mo
+$0.714 /hr
+24 vCPU
+96 GB Memory
+9.00 TB Bandwidth
+480 GB Storage
+$720.00 /mo
+$1.071 /hr
+32 vCPU
+128 GB Memory
+9.00 TB Bandwidth
+640 GB Storage
+$960.00 /mo
+$1.429 /hr
+40 vCPU
+160 GB Memory
+10.00 TB Bandwidth
+768 GB Storage
+$1,200.00 /mo
+$1.786 /hr
+64 vCPU
+192 GB Memory
+11.00 TB Bandwidth
+960 GB Storage
+$1,920.00 /mo
+$2.857 /hr
+96 vCPU
+255 GB Memory
+12.00 TB Bandwidth
+1280 GB Storage
+$3,840.00 /mo
+$5.714 /hr
+Pricing
+vCPUs
+Memory
+Bandwidth
+Storage
+Monthly Price
+Hourly Price
+1 vCPU
+4 GB Memory
+4.00 TB Bandwidth
+30 GB Storage
+$30.00 /mo
+$0.045 /hr
+2 vCPU
+8 GB Memory
+5.00 TB Bandwidth
+50 GB Storage
+$60.00 /mo
+$0.089 /hr
+4 vCPU
+16 GB Memory
+6.00 TB Bandwidth
+80 GB Storage
+$120.00 /mo
+$0.179 /hr
+8 vCPU
+32 GB Memory
+7.00 TB Bandwidth
+160 GB Storage
+$240.00 /mo
+$0.357 /hr
+16 vCPU
+64 GB Memory
+8.00 TB Bandwidth
+320 GB Storage
+$480.00 /mo
+$0.714 /hr
+24 vCPU
+96 GB Memory
+9.00 TB Bandwidth
+480 GB Storage
+$720.00 /mo
+$1.071 /hr
+32 vCPU
+128 GB Memory
+9.00 TB Bandwidth
+640 GB Storage
+$960.00 /mo
+$1.429 /hr
+40 vCPU
+160 GB Memory
+10.00 TB Bandwidth
+768 GB Storage
+$1,200.00 /mo
+$1.786 /hr
+64 vCPU
+192 GB Memory
+11.00 TB Bandwidth
+960 GB Storage
+$1,920.00 /mo
+$2.857 /hr
+96 vCPU
+255 GB Memory
+12.00 TB Bandwidth
+1280 GB Storage
+$3,840.00 /mo
+$5.714 /hr
+CPU Optimized
+For compute bound applications, these VMs provide proportionally more CPU than they do RAM and NVMe SSD.
+Use cases: video encoding, batch processing, CI/CD, high performance computing (HPC), ad serving, analytics processing
+vCPUs
+Memory
+Bandwidth
+Storage
+Monthly Price
+Hourly Price
+1 vCPU
+2 GB Memory
+4.00 TB Bandwidth
+25 GB Storage
+$28.00 /mo
+$0.042 /hr
+2 vCPU
+4 GB Memory
+5.00 TB Bandwidth
+50 GB Storage
+$40.00 /mo
+$0.060 /hr
+2 vCPU
+4 GB Memory
+5.00 TB Bandwidth
+75 GB Storage
+$45.00 /mo
+$0.067 /hr
+4 vCPU
+8 GB Memory
+6.00 TB Bandwidth
+75 GB Storage
+$80.00 /mo
+$0.119 /hr
+4 vCPU
+8 GB Memory
+6.00 TB Bandwidth
+150 GB Storage
+$90.00 /mo
+$0.134 /hr
+8 vCPU
+16 GB Memory
+7.00 TB Bandwidth
+150 GB Storage
+$160.00 /mo
+$0.238 /hr
+8 vCPU
+16 GB Memory
+7.00 TB Bandwidth
+300 GB Storage
+$180.00 /mo
+$0.268 /hr
+16 vCPU
+32 GB Memory
+8.00 TB Bandwidth
+300 GB Storage
+$320.00 /mo
+$0.476 /hr
+16 vCPU
+32 GB Memory
+8.00 TB Bandwidth
+500 GB Storage
+$360.00 /mo
+$0.536 /hr
+32 vCPU
+64 GB Memory
+9.00 TB Bandwidth
+500 GB Storage
+$640.00 /mo
+$0.952 /hr
+32 vCPU
+64 GB Memory
+10.00 TB Bandwidth
+1000 GB Storage
+$720.00 /mo
+$1.071 /hr
+Pricing
+vCPUs
+Memory
+Bandwidth
+Storage
+Monthly Price
+Hourly Price
+1 vCPU
+2 GB Memory
+4.00 TB Bandwidth
+25 GB Storage
+$28.00 /mo
+$0.042 /hr
+2 vCPU
+4 GB Memory
+5.00 TB Bandwidth
+50 GB Storage
+$40.00 /mo
+$0.060 /hr
+2 vCPU
+4 GB Memory
+5.00 TB Bandwidth
+75 GB Storage
+$45.00 /mo
+$0.067 /hr
+4 vCPU
+8 GB Memory
+6.00 TB Bandwidth
+75 GB Storage
+$80.00 /mo
+$0.119 /hr
+4 vCPU
+8 GB Memory
+6.00 TB Bandwidth
+150 GB Storage
+$90.00 /mo
+$0.134 /hr
+8 vCPU
+16 GB Memory
+7.00 TB Bandwidth
+150 GB Storage
+$160.00 /mo
+$0.238 /hr
+8 vCPU
+16 GB Memory
+7.00 TB Bandwidth
+300 GB Storage
+$180.00 /mo
+$0.268 /hr
+16 vCPU
+32 GB Memory
+8.00 TB Bandwidth
+300 GB Storage
+$320.00 /mo
+$0.476 /hr
+16 vCPU
+32 GB Memory
+8.00 TB Bandwidth
+500 GB Storage
+$360.00 /mo
+$0.536 /hr
+32 vCPU
+64 GB Memory
+9.00 TB Bandwidth
+500 GB Storage
+$640.00 /mo
+$0.952 /hr
+32 vCPU
+64 GB Memory
+10.00 TB Bandwidth
+1000 GB Storage
+$720.00 /mo
+$1.071 /hr
+Memory Optimized
+For memory bound applications, these VMs provide proportionally more RAM than they do CPU and NVMe SSD.
+Use cases: open source databases e.g. MySQL, in-memory databases and caches (e.g. Memcached), real-time analytics
+vCPUs
+Memory
+Bandwidth
+Storage
+Monthly Price
+Hourly Price
+1 vCPU
+8 GB Memory
+5.00 TB Bandwidth
+50 GB Storage
+$40.00 /mo
+$0.060 /hr
+2 vCPU
+16 GB Memory
+6.00 TB Bandwidth
+100 GB Storage
+$80.00 /mo
+$0.119 /hr
+2 vCPU
+16 GB Memory
+6.00 TB Bandwidth
+200 GB Storage
+$100.00 /mo
+$0.149 /hr
+2 vCPU
+16 GB Memory
+6.00 TB Bandwidth
+400 GB Storage
+$125.00 /mo
+$0.186 /hr
+4 vCPU
+32 GB Memory
+8.00 TB Bandwidth
+200 GB Storage
+$160.00 /mo
+$0.238 /hr
+4 vCPU
+32 GB Memory
+8.00 TB Bandwidth
+400 GB Storage
+$195.00 /mo
+$0.290 /hr
+4 vCPU
+32 GB Memory
+8.00 TB Bandwidth
+800 GB Storage
+$250.00 /mo
+$0.372 /hr
+8 vCPU
+64 GB Memory
+9.00 TB Bandwidth
+400 GB Storage
+$320.00 /mo
+$0.476 /hr
+8 vCPU
+64 GB Memory
+9.00 TB Bandwidth
+800 GB Storage
+$390.00 /mo
+$0.580 /hr
+8 vCPU
+64 GB Memory
+9.00 TB Bandwidth
+1600 GB Storage
+$500.00 /mo
+$0.744 /hr
+16 vCPU
+128 GB Memory
+10.00 TB Bandwidth
+800 GB Storage
+$640.00 /mo
+$0.952 /hr
+16 vCPU
+128 GB Memory
+10.00 TB Bandwidth
+1600 GB Storage
+$785.00 /mo
+$1.168 /hr
+16 vCPU
+128 GB Memory
+10.00 TB Bandwidth
+3200 GB Storage
+$1,000.00 /mo
+$1.488 /hr
+24 vCPU
+192 GB Memory
+11.00 TB Bandwidth
+1200 GB Storage
+$960.00 /mo
+$1.429 /hr
+24 vCPU
+192 GB Memory
+11.00 TB Bandwidth
+2400 GB Storage
+$1,175.00 /mo
+$1.749 /hr
+24 vCPU
+192 GB Memory
+11.00 TB Bandwidth
+4800 GB Storage
+$1,500.00 /mo
+$2.232 /hr
+32 vCPU
+256 GB Memory
+12.00 TB Bandwidth
+1600 GB Storage
+$1,280.00 /mo
+$1.905 /hr
+32 vCPU
+256 GB Memory
+12.00 TB Bandwidth
+3200 GB Storage
+$1,565.00 /mo
+$2.329 /hr
+Pricing
+vCPUs
+Memory
+Bandwidth
+Storage
+Monthly Price
+Hourly Price
+1 vCPU
+8 GB Memory
+5.00 TB Bandwidth
+50 GB Storage
+$40.00 /mo
+$0.060 /hr
+2 vCPU
+16 GB Memory
+6.00 TB Bandwidth
+100 GB Storage
+$80.00 /mo
+$0.119 /hr
+2 vCPU
+16 GB Memory
+6.00 TB Bandwidth
+200 GB Storage
+$100.00 /mo
+$0.149 /hr
+2 vCPU
+16 GB Memory
+6.00 TB Bandwidth
+400 GB Storage
+$125.00 /mo
+$0.186 /hr
+4 vCPU
+32 GB Memory
+8.00 TB Bandwidth
+200 GB Storage
+$160.00 /mo
+$0.238 /hr
+4 vCPU
+32 GB Memory
+8.00 TB Bandwidth
+400 GB Storage
+$195.00 /mo
+$0.290 /hr
+4 vCPU
+32 GB Memory
+8.00 TB Bandwidth
+800 GB Storage
+$250.00 /mo
+$0.372 /hr
+8 vCPU
+64 GB Memory
+9.00 TB Bandwidth
+400 GB Storage
+$320.00 /mo
+$0.476 /hr
+8 vCPU
+64 GB Memory
+9.00 TB Bandwidth
+800 GB Storage
+$390.00 /mo
+$0.580 /hr
+8 vCPU
+64 GB Memory
+9.00 TB Bandwidth
+1600 GB Storage
+$500.00 /mo
+$0.744 /hr
+16 vCPU
+128 GB Memory
+10.00 TB Bandwidth
+800 GB Storage
+$640.00 /mo
+$0.952 /hr
+16 vCPU
+128 GB Memory
+10.00 TB Bandwidth
+1600 GB Storage
+$785.00 /mo
+$1.168 /hr
+16 vCPU
+128 GB Memory
+10.00 TB Bandwidth
+3200 GB Storage
+$1,000.00 /mo
+$1.488 /hr
+24 vCPU
+192 GB Memory
+11.00 TB Bandwidth
+1200 GB Storage
+$960.00 /mo
+$1.429 /hr
+24 vCPU
+192 GB Memory
+11.00 TB Bandwidth
+2400 GB Storage
+$1,175.00 /mo
+$1.749 /hr
+24 vCPU
+192 GB Memory
+11.00 TB Bandwidth
+4800 GB Storage
+$1,500.00 /mo
+$2.232 /hr
+32 vCPU
+256 GB Memory
+12.00 TB Bandwidth
+1600 GB Storage
+$1,280.00 /mo
+$1.905 /hr
+32 vCPU
+256 GB Memory
+12.00 TB Bandwidth
+3200 GB Storage
+$1,565.00 /mo
+$2.329 /hr
+Storage Optimized
+These VMs provide especially generous amounts of NVMe SSD storage to accompany a typical balance of CPU and RAM.
+Use cases: large nonrelational databases e.g. Cassandra and MongoDB, high frequency online transaction processing (OLTP)
+vCPUs
+Memory
+Bandwidth
+Storage
+Monthly Price
+Hourly Price
+1 vCPU
+8 GB Memory
+4.00 TB Bandwidth
+150 GB Storage
+$75.00 /mo
+$0.112 /hr
+2 vCPU
+16 GB Memory
+6.00 TB Bandwidth
+320 GB Storage
+$125.00 /mo
+$0.186 /hr
+2 vCPU
+16 GB Memory
+6.00 TB Bandwidth
+480 GB Storage
+$155.00 /mo
+$0.231 /hr
+4 vCPU
+32 GB Memory
+7.00 TB Bandwidth
+640 GB Storage
+$250.00 /mo
+$0.372 /hr
+4 vCPU
+32 GB Memory
+7.00 TB Bandwidth
+960 GB Storage
+$310.00 /mo
+$0.461 /hr
+8 vCPU
+64 GB Memory
+8.00 TB Bandwidth
+1280 GB Storage
+$500.00 /mo
+$0.744 /hr
+8 vCPU
+64 GB Memory
+8.00 TB Bandwidth
+1920 GB Storage
+$620.00 /mo
+$0.923 /hr
+16 vCPU
+128 GB Memory
+9.00 TB Bandwidth
+2560 GB Storage
+$1,000.00 /mo
+$1.488 /hr
+16 vCPU
+128 GB Memory
+9.00 TB Bandwidth
+3840 GB Storage
+$1,240.00 /mo
+$1.845 /hr
+24 vCPU
+192 GB Memory
+10.00 TB Bandwidth
+3840 GB Storage
+$1,500.00 /mo
+$2.232 /hr
+24 vCPU
+192 GB Memory
+10.00 TB Bandwidth
+5760 GB Storage
+$1,850.00 /mo
+$2.753 /hr
+32 vCPU
+256 GB Memory
+12.00 TB Bandwidth
+5760 GB Storage
+$2,000.00 /mo
+$2.976 /hr
+Pricing
+vCPUs
+Memory
+Bandwidth
+Storage
+Monthly Price
+Hourly Price
+1 vCPU
+8 GB Memory
+4.00 TB Bandwidth
+150 GB Storage
+$75.00 /mo
+$0.112 /hr
+2 vCPU
+16 GB Memory
+6.00 TB Bandwidth
+320 GB Storage
+$125.00 /mo
+$0.186 /hr
+2 vCPU
+16 GB Memory
+6.00 TB Bandwidth
+480 GB Storage
+$155.00 /mo
+$0.231 /hr
+4 vCPU
+32 GB Memory
+7.00 TB Bandwidth
+640 GB Storage
+$250.00 /mo
+$0.372 /hr
+4 vCPU
+32 GB Memory
+7.00 TB Bandwidth
+960 GB Storage
+$310.00 /mo
+$0.461 /hr
+8 vCPU
+64 GB Memory
+8.00 TB Bandwidth
+1280 GB Storage
+$500.00 /mo
+$0.744 /hr
+8 vCPU
+64 GB Memory
+8.00 TB Bandwidth
+1920 GB Storage
+$620.00 /mo
+$0.923 /hr
+16 vCPU
+128 GB Memory
+9.00 TB Bandwidth
+2560 GB Storage
+$1,000.00 /mo
+$1.488 /hr
+16 vCPU
+128 GB Memory
+9.00 TB Bandwidth
+3840 GB Storage
+$1,240.00 /mo
+$1.845 /hr
+24 vCPU
+192 GB Memory
+10.00 TB Bandwidth
+3840 GB Storage
+$1,500.00 /mo
+$2.232 /hr
+24 vCPU
+192 GB Memory
+10.00 TB Bandwidth
+5760 GB Storage
+$1,850.00 /mo
+$2.753 /hr
+32 vCPU
+256 GB Memory
+12.00 TB Bandwidth
+5760 GB Storage
+$2,000.00 /mo
+$2.976 /hr
+Cloud GPU
+The Vultr Talon platform makes accelerated computing affordable and easy to use. In just minutes, provision VMs with fractional NVIDIA GPUs.
+NVIDIA A100
+Delivering unprecedented acceleration and powering the world's highest-performing AI, data analytics, and HPC workloads.
+GPU
+GPU RAM
+vCPUs
+RAM
+Storage
+Bandwidth
+Monthly Price
+Hourly Price
+1/20
+4 GB GPU RAM
+1 vCPU
+6 GB RAM
+70 GB Storage
+1 TB
+$90 /mo
+$0.134 /hr
+1/10
+8 GB GPU RAM
+1 vCPU
+12 GB RAM
+140 GB Storage
+1 TB
+$180 /mo
+$0.268 /hr
+1/7
+10 GB GPU RAM
+2 vCPUs
+15 GB RAM
+170 GB Storage
+2 TB
+$250 /mo
+$0.372 /hr
+1/3
+20 GB GPU RAM
+3 vCPUs
+30 GB RAM
+350 GB Storage
+3 TB
+$450 /mo
+$0.670 /hr
+1/2
+40 GB GPU RAM
+6 vCPUs
+60 GB RAM
+700 GB Storage
+6 TB
+$875 /mo
+$1.302 /hr
+1
+80 GB GPU RAM
+12 vCPUs
+120 GB RAM
+1400 GB Storage
+10 TB
+$1,750 /mo
+$2.604 /hr
+2
+160 GB GPU RAM
+24 vCPUs
+240 GB RAM
+2800 GB Storage
+10 TB
+$3,500 /mo
+$5.208 /hr
+4
+320 GB GPU RAM
+48 vCPUs
+480 GB RAM
+5600 GB Storage
+15 TB
+$7,000 /mo
+$10.417 /hr
+8
+640 GB GPU RAM
+96 vCPUs
+960 GB RAM
+10200 GB Storage
+25 TB
+$14,000 /mo
+$20.833 /hr
+Pricing
+GPU
+GPU RAM
+vCPUs
+RAM
+Storage
+Bandwidth
+Monthly Price
+Hourly Price
+1/20
+4 GB GPU RAM
+1 vCPU
+6 GB RAM
+70 GB Storage
+1 TB
+$90 /mo
+$0.134 /hr
+1/10
+8 GB GPU RAM
+1 vCPU
+12 GB RAM
+140 GB Storage
+1 TB
+$180 /mo
+$0.268 /hr
+1/7
+10 GB GPU RAM
+2 vCPUs
+15 GB RAM
+170 GB Storage
+2 TB
+$250 /mo
+$0.372 /hr
+1/3
+20 GB GPU RAM
+3 vCPUs
+30 GB RAM
+350 GB Storage
+3 TB
+$450 /mo
+$0.670 /hr
+1/2
+40 GB GPU RAM
+6 vCPUs
+60 GB RAM
+700 GB Storage
+6 TB
+$875 /mo
+$1.302 /hr
+1
+80 GB GPU RAM
+12 vCPUs
+120 GB RAM
+1400 GB Storage
+10 TB
+$1,750 /mo
+$2.604 /hr
+2
+160 GB GPU RAM
+24 vCPUs
+240 GB RAM
+2800 GB Storage
+10 TB
+$3,500 /mo
+$5.208 /hr
+4
+320 GB GPU RAM
+48 vCPUs
+480 GB RAM
+5600 GB Storage
+15 TB
+$7,000 /mo
+$10.417 /hr
+8
+640 GB GPU RAM
+96 vCPUs
+960 GB RAM
+10200 GB Storage
+25 TB
+$14,000 /mo
+$20.833 /hr
+NVIDIA A40
+Combining professional graphics with powerful compute and AI, to meet today's design, creative, and scientific challenges.
+GPU
+GPU RAM
+vCPUs
+RAM
+Storage
+Bandwidth
+Monthly Price
+Hourly Price
+1/6
+8 GB GPU RAM
+4 vCPUs
+20 GB RAM
+360 GB Storage
+5 TB
+$210 /mo
+$0.313 /hr
+1/2
+24 GB GPU RAM
+12 vCPUs
+60 GB RAM
+1110 GB Storage
+10 TB
+$625 /mo
+$0.930 /hr
+1
+48 GB GPU RAM
+24 vCPUs
+120 GB RAM
+1440 GB Storage
+15 TB
+$1,250 /mo
+$1.860 /hr
+4
+192 GB GPU RAM
+96 vCPUs
+480 GB RAM
+8900 GB Storage
+60 TB
+$5,000 /mo
+$7.440 /hr
+Pricing
+GPU
+GPU RAM
+vCPUs
+RAM
+Storage
+Bandwidth
+Monthly Price
+Hourly Price
+1/6
+8 GB GPU RAM
+4 vCPUs
+20 GB RAM
+360 GB Storage
+5 TB
+$210 /mo
+$0.313 /hr
+1/2
+24 GB GPU RAM
+12 vCPUs
+60 GB RAM
+1110 GB Storage
+10 TB
+$625 /mo
+$0.930 /hr
+1
+48 GB GPU RAM
+24 vCPUs
+120 GB RAM
+1440 GB Storage
+15 TB
+$1,250 /mo
+$1.860 /hr
+4
+192 GB GPU RAM
+96 vCPUs
+480 GB RAM
+8900 GB Storage
+60 TB
+$5,000 /mo
+$7.440 /hr
+NVIDIA A16
+Enabling virtual desktops and workstations with the power and performance to tackle any project from anywhere.
+GPU
+GPU RAM
+vCPUs
+RAM
+Storage
+Bandwidth
+Monthly Price
+Hourly Price
+1/16
+1 GB GPU RAM
+1 vCPU
+4 GB RAM
+50 GB Storage
+1 TB
+$22 /mo
+$0.032 /hr
+1/8
+2 GB GPU RAM
+1 vCPU
+8 GB RAM
+50 GB Storage
+1 TB
+$43 /mo
+$0.064 /hr
+1/4
+4 GB GPU RAM
+2 vCPUs
+16 GB RAM
+80 GB Storage
+2 TB
+$86 /mo
+$0.128 /hr
+1/2
+8 GB GPU RAM
+3 vCPUs
+32 GB RAM
+170 GB Storage
+3 TB
+$172 /mo
+$0.256 /hr
+1
+16 GB GPU RAM
+6 vCPUs
+64 GB RAM
+350 GB Storage
+6 TB
+$344 /mo
+$0.512 /hr
+2
+32 GB GPU RAM
+12 vCPUs
+128 GB RAM
+700 GB Storage
+10 TB
+$688 /mo
+$1.024 /hr
+4
+64 GB GPU RAM
+24 vCPUs
+256 GB RAM
+1200 GB Storage
+12 TB
+$1,375 /mo
+$2.046 /hr
+8
+128 GB GPU RAM
+48 vCPUs
+496 GB RAM
+1500 GB Storage
+15 TB
+$2,750 /mo
+$4.092 /hr
+16
+256 GB GPU RAM
+96 vCPUs
+960 GB RAM
+1700 GB Storage
+25 TB
+$5,500 /mo
+$8.185 /hr
+Pricing
+GPU
+GPU RAM
+vCPUs
+RAM
+Storage
+Bandwidth
+Monthly Price
+Hourly Price
+1/16
+1 GB GPU RAM
+1 vCPU
+4 GB RAM
+50 GB Storage
+1 TB
+$22 /mo
+$0.032 /hr
+1/8
+2 GB GPU RAM
+1 vCPU
+8 GB RAM
+50 GB Storage
+1 TB
+$43 /mo
+$0.064 /hr
+1/4
+4 GB GPU RAM
+2 vCPUs
+16 GB RAM
+80 GB Storage
+2 TB
+$86 /mo
+$0.128 /hr
+1/2
+8 GB GPU RAM
+3 vCPUs
+32 GB RAM
+170 GB Storage
+3 TB
+$172 /mo
+$0.256 /hr
+1
+16 GB GPU RAM
+6 vCPUs
+64 GB RAM
+350 GB Storage
+6 TB
+$344 /mo
+$0.512 /hr
+2
+32 GB GPU RAM
+12 vCPUs
+128 GB RAM
+700 GB Storage
+10 TB
+$688 /mo
+$1.024 /hr
+4
+64 GB GPU RAM
+24 vCPUs
+256 GB RAM
+1200 GB Storage
+12 TB
+$1,375 /mo
+$2.046 /hr
+8
+128 GB GPU RAM
+48 vCPUs
+496 GB RAM
+1500 GB Storage
+15 TB
+$2,750 /mo
+$4.092 /hr
+16
+256 GB GPU RAM
+96 vCPUs
+960 GB RAM
+1700 GB Storage
+25 TB
+$5,500 /mo
+$8.185 /hr
+Bare Metal
+These machines provide direct access to the full power of the underlying physical hardware without a virtualization layer. On our platform, you'll be in the driver's seat of a real, physical server, with the convenience and simplicity of Vultr automation. Bare metal servers are also single-tenant only which means that only you will have full access to the resources of your server.
+NVIDIA GPU + Intel CPU Compute
+Visual Computing, Rendering, Virtual Workstations
+4 x NVIDIA A40 48GB
+$5,000 /month $7.440/hour
+2 x 480 GB SSD
+6 x 1.6 TB NVMe
+2 x Intel Gold 6248R
+48 cores / 96 threads @ 2.8GHz
+512 GB Memory
+15 TB Bandwidth
+25 Gbps Network
+Virtual Desktop
+4 x NVIDIA A16 64GB
+$5,500 /month $8.185/hour
+2 x 480 GB SSD
+4 x 1.9 TB NVMe
+2 x Intel Gold 6248R
+48 cores / 96 threads @ 2.8GHz
+512 GB Memory
+15 TB Bandwidth
+25 Gbps Network
+AI, Data Analytics, and HPC
+4 x NVIDIA A100 80GB
+$7,000 /month $10.417/hour
+2 x 480 GB SSD
+6 x 1.6 TB NVMe
+2 x Intel Gold 6248R
+48 cores / 96 threads @ 2.8GHz
+512 GB Memory
+15 TB Bandwidth
+25 Gbps Network
+AI, Data Analytics, and HPC
+8 x NVIDIA A100 80GB
+$14,000 /month $20.833/hour
+2 x 480 GB SSD
+4 x 3.84 TB NVMe
+2 x Intel Gold 6342
+48 cores / 96 threads @ 2.8GHz
+1024 GB Memory
+25 TB Bandwidth
+25 Gbps Network
+CPU Compute
+Intel E3-1270
+$120 /month $0.179/hour
+2 x 240 GB SSD
+4 cores / 8 threads @ 3.8GHz
+32 GB Memory
+5 TB Bandwidth
+10 Gbps Network
+Intel E-2286G
+$185 /month $0.275/hour
+2 x 960 GB SSD
+6 cores / 12 threads @ 4GHz
+32 GB Memory
+10 TB Bandwidth
+10 Gbps Network
+Intel E-2288G
+$350 /month $0.521/hour
+2 x 1.92 TB NVMe
+8 cores / 16 threads @ 3.7GHz
+128 GB Memory
+10 TB Bandwidth
+10 Gbps Network
+Intel E-2388G
+$350 /month $0.521/hour
+2 x 1.92 TB NVMe
+8 cores / 16 threads @ 3.2GHz
+128 GB Memory
+10 TB Bandwidth
+10 Gbps Network
+AMD EPYC 7443P
+$725 /month $1.079/hour
+2 x 480 GB SSD
+2 x 1.92 TB NVMe
+24 cores / 48 threads @ 2.85GHz
+256 GB Memory
+10 TB Bandwidth
+25 Gbps Network
+AMD EPYC 7543P
+$1,575 /month $2.344/hour
+2 x 480 GB SSD
+4 x 6.4 TB NVMe
+24 cores / 48 threads @ 3.2GHz
+512 GB Memory
+15 TB Bandwidth
+25 Gbps Network
+AMD EPYC 7543P
+$1,575 /month $2.344/hour
+2 x 480 GB SSD
+4 x 6.4 TB NVMe
+32 cores / 64 threads @ 2.8GHz
+512 GB Memory
+15 TB Bandwidth
+25 Gbps Network
+2 x AMD EPYC 7713
+$5,500 /month $8.185/hour
+2 x 480 GB SSD
+10 x 6.4 TB NVMe
+128 cores / 256 threads @ 2GHz
+2048 GB Memory
+25 TB Bandwidth
+25 Gbps Network
+Pricing
+NVIDIA GPU + Intel CPU Compute
+Visual Computing, Rendering, Virtual Workstations
+4 x NVIDIA A40 48GB
+$5,000 /month $7.440/hour
+2 x 480 GB SSD
+6 x 1.6 TB NVMe
+2 x Intel Gold 6248R
+48 cores / 96 threads @ 2.8GHz
+512 GB Memory
+15 TB Bandwidth
+25 Gbps Network
+Virtual Desktop
+4 x NVIDIA A16 64GB
+$5,500 /month $8.185/hour
+2 x 480 GB SSD
+4 x 1.9 TB NVMe
+2 x Intel Gold 6248R
+48 cores / 96 threads @ 2.8GHz
+512 GB Memory
+15 TB Bandwidth
+25 Gbps Network
+AI, Data Analytics, and HPC
+4 x NVIDIA A100 80GB
+$7,000 /month $10.417/hour
+2 x 480 GB SSD
+6 x 1.6 TB NVMe
+2 x Intel Gold 6248R
+48 cores / 96 threads @ 2.8GHz
+512 GB Memory
+15 TB Bandwidth
+25 Gbps Network
+AI, Data Analytics, and HPC
+8 x NVIDIA A100 80GB
+$14,000 /month $20.833/hour
+2 x 480 GB SSD
+4 x 3.84 TB NVMe
+2 x Intel Gold 6342
+48 cores / 96 threads @ 2.8GHz
+1024 GB Memory
+25 TB Bandwidth
+25 Gbps Network
+CPU Compute
+Intel E3-1270
+$120 /month $0.179/hour
+2 x 240 GB SSD
+4 cores / 8 threads @ 3.8GHz
+32 GB Memory
+5 TB Bandwidth
+10 Gbps Network
+Intel E-2286G
+$185 /month $0.275/hour
+2 x 960 GB SSD
+6 cores / 12 threads @ 4GHz
+32 GB Memory
+10 TB Bandwidth
+10 Gbps Network
+Intel E-2288G
+$350 /month $0.521/hour
+2 x 1.92 TB NVMe
+8 cores / 16 threads @ 3.7GHz
+128 GB Memory
+10 TB Bandwidth
+10 Gbps Network
+Intel E-2388G
+$350 /month $0.521/hour
+2 x 1.92 TB NVMe
+8 cores / 16 threads @ 3.2GHz
+128 GB Memory
+10 TB Bandwidth
+10 Gbps Network
+AMD EPYC 7443P
+$725 /month $1.079/hour
+2 x 480 GB SSD
+2 x 1.92 TB NVMe
+24 cores / 48 threads @ 2.85GHz
+256 GB Memory
+10 TB Bandwidth
+25 Gbps Network
+AMD EPYC 7543P
+$1,575 /month $2.344/hour
+2 x 480 GB SSD
+4 x 6.4 TB NVMe
+24 cores / 48 threads @ 3.2GHz
+512 GB Memory
+15 TB Bandwidth
+25 Gbps Network
+AMD EPYC 7543P
+$1,575 /month $2.344/hour
+2 x 480 GB SSD
+4 x 6.4 TB NVMe
+32 cores / 64 threads @ 2.8GHz
+512 GB Memory
+15 TB Bandwidth
+25 Gbps Network
+2 x AMD EPYC 7713
+$5,500 /month $8.185/hour
+2 x 480 GB SSD
+10 x 6.4 TB NVMe
+128 cores / 256 threads @ 2GHz
+2048 GB Memory
+25 TB Bandwidth
+25 Gbps Network
+Direct Connect
+Privately connect Vultr to other cloud service providers, colocation facilities, or on-premises data centers.
+Speed
+Hosted Price
+Dedicated Price
+50 Mbps
+$5 /mo $0.007/hr
+N/A
+100 Mbps
+$10 /mo $0.014/hr
+N/A
+200 Mbps
+$20 /mo $0.028/hr
+N/A
+300 Mbps
+$30 /mo $0.042/hr
+N/A
+400 Mbps
+$40 /mo $0.056/hr
+N/A
+500 Mbps
+$50 /mo $0.069/hr
+N/A
+1 Gbps
+$100 /mo $0.139/hr
+N/A
+5 Gbps
+$250 /mo $0.347/hr
+N/A
+10 Gbps
+$500 /mo $0.694/hr
+25 Gbps
+N/A
+$750 /mo $1.042/hr
+100 Gbps
+N/A
+$1,000 /mo $1.389/hr
+Pricing
+Speed
+Hosted Price
+Dedicated Price
+50 Mbps
+$5 /mo $0.007/hr
+N/A
+100 Mbps
+$10 /mo $0.014/hr
+N/A
+200 Mbps
+$20 /mo $0.028/hr
+N/A
+300 Mbps
+$30 /mo $0.042/hr
+N/A
+400 Mbps
+$40 /mo $0.056/hr
+N/A
+500 Mbps
+$50 /mo $0.069/hr
+N/A
+1 Gbps
+$100 /mo $0.139/hr
+N/A
+5 Gbps
+$250 /mo $0.347/hr
+N/A
+10 Gbps
+$500 /mo $0.694/hr
+25 Gbps
+N/A
+$750 /mo $1.042/hr
+100 Gbps
+N/A
+$1,000 /mo $1.389/hr
+Kubernetes Engine
+Vultr Kubernetes Engine provides the control plane free of charge. In comparison, the Big Tech clouds typically charge at least $70 per month for the control plane in their managed Kubernetes services.
+When using Vultr Kubernetes Engine, you only pay for underlying worker nodes, as well as associated resources, e.g. Block Storage and Load Balancers.
+Databases
+Databases that 'just work' right out of the box. Quickly deploy a new database cluster while letting us manage the configuration, updates, and end-to-end security, so you can stay focused on your app.
+MySQL
+MySQL - the world's most popular open source relational database. MySQL stores and retrieves data of all sizes for your business' applications.
+Optimized Cloud Compute
+General Purpose
+Memory
+vCPUs
+Storage
+Replica Nodes
+Monthly Price
+Hourly Price
+4 GB
+1 vCPU
+30 GB
+0 Rep. Nodes
+$90 /mo
+$0.134 /hr
+4 GB
+1 vCPU
+30 GB
+1 Rep. Node
+$150 /mo
+$0.223 /hr
+4 GB
+1 vCPU
+30 GB
+2 Rep. Nodes
+$210 /mo
+$0.313 /hr
+8 GB
+2 vCPUs
+50 GB
+0 Rep. Nodes
+$180 /mo
+$0.268 /hr
+8 GB
+2 vCPUs
+50 GB
+1 Rep. Node
+$300 /mo
+$0.446 /hr
+8 GB
+2 vCPUs
+50 GB
+2 Rep. Nodes
+$420 /mo
+$0.625 /hr
+16 GB
+4 vCPUs
+80 GB
+0 Rep. Nodes
+$360 /mo
+$0.536 /hr
+16 GB
+4 vCPUs
+80 GB
+1 Rep. Node
+$600 /mo
+$0.893 /hr
+16 GB
+4 vCPUs
+80 GB
+2 Rep. Nodes
+$840 /mo
+$1.250 /hr
+32 GB
+8 vCPUs
+160 GB
+0 Rep. Nodes
+$720 /mo
+$1.071 /hr
+32 GB
+8 vCPUs
+160 GB
+1 Rep. Node
+$1,200 /mo
+$1.786 /hr
+32 GB
+8 vCPUs
+160 GB
+2 Rep. Nodes
+$1,680 /mo
+$2.500 /hr
+64 GB
+16 vCPUs
+320 GB
+0 Rep. Nodes
+$1,440 /mo
+$2.143 /hr
+64 GB
+16 vCPUs
+320 GB
+1 Rep. Node
+$2,400 /mo
+$3.571 /hr
+64 GB
+16 vCPUs
+320 GB
+2 Rep. Nodes
+$3,360 /mo
+$5.000 /hr
+96 GB
+24 vCPUs
+480 GB
+0 Rep. Nodes
+$2,160 /mo
+$3.214 /hr
+96 GB
+24 vCPUs
+480 GB
+1 Rep. Node
+$3,600 /mo
+$5.357 /hr
+96 GB
+24 vCPUs
+480 GB
+2 Rep. Nodes
+$5,040 /mo
+$7.500 /hr
+128 GB
+32 vCPUs
+640 GB
+0 Rep. Nodes
+$2,880 /mo
+$4.286 /hr
+128 GB
+32 vCPUs
+640 GB
+1 Rep. Node
+$4,800 /mo
+$7.143 /hr
+128 GB
+32 vCPUs
+640 GB
+2 Rep. Nodes
+$6,720 /mo
+$10.000 /hr
+160 GB
+40 vCPUs
+768 GB
+0 Rep. Nodes
+$3,600 /mo
+$5.357 /hr
+160 GB
+40 vCPUs
+768 GB
+1 Rep. Node
+$6,000 /mo
+$8.929 /hr
+160 GB
+40 vCPUs
+768 GB
+2 Rep. Nodes
+$8,400 /mo
+$12.500 /hr
+192 GB
+64 vCPUs
+960 GB
+0 Rep. Nodes
+$5,760 /mo
+$8.571 /hr
+192 GB
+64 vCPUs
+960 GB
+1 Rep. Node
+$9,600 /mo
+$14.286 /hr
+192 GB
+64 vCPUs
+960 GB
+2 Rep. Nodes
+$13,440 /mo
+$20.000 /hr
+256 GB
+96 vCPUs
+1280 GB
+0 Rep. Nodes
+$11,520 /mo
+$17.143 /hr
+256 GB
+96 vCPUs
+1280 GB
+1 Rep. Node
+$19,200 /mo
+$28.571 /hr
+256 GB
+96 vCPUs
+1280 GB
+2 Rep. Nodes
+$26,880 /mo
+$40.000 /hr
+Pricing
+Memory
+vCPUs
+Storage
+Replica Nodes
+Monthly Price
+Hourly Price
+4 GB
+1 vCPU
+30 GB
+0 Rep. Nodes
+$90 /mo
+$0.134 /hr
+4 GB
+1 vCPU
+30 GB
+1 Rep. Node
+$150 /mo
+$0.223 /hr
+4 GB
+1 vCPU
+30 GB
+2 Rep. Nodes
+$210 /mo
+$0.313 /hr
+8 GB
+2 vCPUs
+50 GB
+0 Rep. Nodes
+$180 /mo
+$0.268 /hr
+8 GB
+2 vCPUs
+50 GB
+1 Rep. Node
+$300 /mo
+$0.446 /hr
+8 GB
+2 vCPUs
+50 GB
+2 Rep. Nodes
+$420 /mo
+$0.625 /hr
+16 GB
+4 vCPUs
+80 GB
+0 Rep. Nodes
+$360 /mo
+$0.536 /hr
+16 GB
+4 vCPUs
+80 GB
+1 Rep. Node
+$600 /mo
+$0.893 /hr
+16 GB
+4 vCPUs
+80 GB
+2 Rep. Nodes
+$840 /mo
+$1.250 /hr
+32 GB
+8 vCPUs
+160 GB
+0 Rep. Nodes
+$720 /mo
+$1.071 /hr
+32 GB
+8 vCPUs
+160 GB
+1 Rep. Node
+$1,200 /mo
+$1.786 /hr
+32 GB
+8 vCPUs
+160 GB
+2 Rep. Nodes
+$1,680 /mo
+$2.500 /hr
+64 GB
+16 vCPUs
+320 GB
+0 Rep. Nodes
+$1,440 /mo
+$2.143 /hr
+64 GB
+16 vCPUs
+320 GB
+1 Rep. Node
+$2,400 /mo
+$3.571 /hr
+64 GB
+16 vCPUs
+320 GB
+2 Rep. Nodes
+$3,360 /mo
+$5.000 /hr
+96 GB
+24 vCPUs
+480 GB
+0 Rep. Nodes
+$2,160 /mo
+$3.214 /hr
+96 GB
+24 vCPUs
+480 GB
+1 Rep. Node
+$3,600 /mo
+$5.357 /hr
+96 GB
+24 vCPUs
+480 GB
+2 Rep. Nodes
+$5,040 /mo
+$7.500 /hr
+128 GB
+32 vCPUs
+640 GB
+0 Rep. Nodes
+$2,880 /mo
+$4.286 /hr
+128 GB
+32 vCPUs
+640 GB
+1 Rep. Node
+$4,800 /mo
+$7.143 /hr
+128 GB
+32 vCPUs
+640 GB
+2 Rep. Nodes
+$6,720 /mo
+$10.000 /hr
+160 GB
+40 vCPUs
+768 GB
+0 Rep. Nodes
+$3,600 /mo
+$5.357 /hr
+160 GB
+40 vCPUs
+768 GB
+1 Rep. Node
+$6,000 /mo
+$8.929 /hr
+160 GB
+40 vCPUs
+768 GB
+2 Rep. Nodes
+$8,400 /mo
+$12.500 /hr
+192 GB
+64 vCPUs
+960 GB
+0 Rep. Nodes
+$5,760 /mo
+$8.571 /hr
+192 GB
+64 vCPUs
+960 GB
+1 Rep. Node
+$9,600 /mo
+$14.286 /hr
+192 GB
+64 vCPUs
+960 GB
+2 Rep. Nodes
+$13,440 /mo
+$20.000 /hr
+256 GB
+96 vCPUs
+1280 GB
+0 Rep. Nodes
+$11,520 /mo
+$17.143 /hr
+256 GB
+96 vCPUs
+1280 GB
+1 Rep. Node
+$19,200 /mo
+$28.571 /hr
+256 GB
+96 vCPUs
+1280 GB
+2 Rep. Nodes
+$26,880 /mo
+$40.000 /hr
+Storage Optimized
+Memory
+vCPUs
+Storage
+Replica Nodes
+Monthly Price
+Hourly Price
+8 GB
+1 vCPU
+150 GB
+0 Rep. Nodes
+$225 /mo
+$0.335 /hr
+8 GB
+1 vCPU
+150 GB
+1 Rep. Node
+$375 /mo
+$0.558 /hr
+8 GB
+1 vCPU
+150 GB
+2 Rep. Nodes
+$525 /mo
+$0.781 /hr
+16 GB
+2 vCPUs
+320 GB
+0 Rep. Nodes
+$375 /mo
+$0.558 /hr
+16 GB
+2 vCPUs
+320 GB
+1 Rep. Node
+$625 /mo
+$0.930 /hr
+16 GB
+2 vCPUs
+320 GB
+2 Rep. Nodes
+$875 /mo
+$1.302 /hr
+16 GB
+2 vCPUs
+480 GB
+0 Rep. Nodes
+$465 /mo
+$0.692 /hr
+16 GB
+2 vCPUs
+480 GB
+1 Rep. Node
+$775 /mo
+$1.153 /hr
+16 GB
+2 vCPUs
+480 GB
+2 Rep. Nodes
+$1,085 /mo
+$1.615 /hr
+32 GB
+4 vCPUs
+640 GB
+0 Rep. Nodes
+$750 /mo
+$1.116 /hr
+32 GB
+4 vCPUs
+640 GB
+1 Rep. Node
+$1,250 /mo
+$1.860 /hr
+32 GB
+4 vCPUs
+640 GB
+2 Rep. Nodes
+$1,750 /mo
+$2.604 /hr
+32 GB
+4 vCPUs
+960 GB
+0 Rep. Nodes
+$930 /mo
+$1.384 /hr
+32 GB
+4 vCPUs
+960 GB
+1 Rep. Node
+$1,550 /mo
+$2.307 /hr
+32 GB
+4 vCPUs
+960 GB
+2 Rep. Nodes
+$2,170 /mo
+$3.229 /hr
+64 GB
+8 vCPUs
+1280 GB
+0 Rep. Nodes
+$1,500 /mo
+$2.232 /hr
+64 GB
+8 vCPUs
+1280 GB
+1 Rep. Node
+$2,500 /mo
+$3.720 /hr
+64 GB
+8 vCPUs
+1280 GB
+2 Rep. Nodes
+$3,500 /mo
+$5.208 /hr
+64 GB
+8 vCPUs
+1920 GB
+0 Rep. Nodes
+$1,860 /mo
+$2.768 /hr
+64 GB
+8 vCPUs
+1920 GB
+1 Rep. Node
+$3,100 /mo
+$4.613 /hr
+64 GB
+8 vCPUs
+1920 GB
+2 Rep. Nodes
+$4,340 /mo
+$6.458 /hr
+128 GB
+16 vCPUs
+2560 GB
+0 Rep. Nodes
+$3,000 /mo
+$4.464 /hr
+128 GB
+16 vCPUs
+2560 GB
+1 Rep. Node
+$5,000 /mo
+$7.440 /hr
+128 GB
+16 vCPUs
+2560 GB
+2 Rep. Nodes
+$7,000 /mo
+$10.417 /hr
+128 GB
+16 vCPUs
+3840 GB
+0 Rep. Nodes
+$3,720 /mo
+$5.536 /hr
+128 GB
+16 vCPUs
+3840 GB
+1 Rep. Node
+$6,200 /mo
+$9.226 /hr
+128 GB
+16 vCPUs
+3840 GB
+2 Rep. Nodes
+$8,680 /mo
+$12.917 /hr
+192 GB
+24 vCPUs
+3840 GB
+0 Rep. Nodes
+$4,500 /mo
+$6.696 /hr
+192 GB
+24 vCPUs
+3840 GB
+1 Rep. Node
+$7,500 /mo
+$11.161 /hr
+192 GB
+24 vCPUs
+3840 GB
+2 Rep. Nodes
+$10,500 /mo
+$15.625 /hr
+192 GB
+24 vCPUs
+5760 GB
+0 Rep. Nodes
+$5,550 /mo
+$8.259 /hr
+192 GB
+24 vCPUs
+5760 GB
+1 Rep. Node
+$9,250 /mo
+$13.765 /hr
+192 GB
+24 vCPUs
+5760 GB
+2 Rep. Nodes
+$12,950 /mo
+$19.271 /hr
+256 GB
+32 vCPUs
+5760 GB
+0 Rep. Nodes
+$6,000 /mo
+$8.929 /hr
+256 GB
+32 vCPUs
+5760 GB
+1 Rep. Node
+$10,000 /mo
+$14.881 /hr
+256 GB
+32 vCPUs
+5760 GB
+2 Rep. Nodes
+$14,000 /mo
+$20.833 /hr
+256 GB
+32 vCPUs
+7080 GB
+0 Rep. Nodes
+$7,440 /mo
+$11.071 /hr
+256 GB
+32 vCPUs
+7080 GB
+1 Rep. Node
+$12,400 /mo
+$18.452 /hr
+256 GB
+32 vCPUs
+7080 GB
+2 Rep. Nodes
+$17,360 /mo
+$25.833 /hr
+Pricing
+Memory
+vCPUs
+Storage
+Replica Nodes
+Monthly Price
+Hourly Price
+8 GB
+1 vCPU
+150 GB
+0 Rep. Nodes
+$225 /mo
+$0.335 /hr
+8 GB
+1 vCPU
+150 GB
+1 Rep. Node
+$375 /mo
+$0.558 /hr
+8 GB
+1 vCPU
+150 GB
+2 Rep. Nodes
+$525 /mo
+$0.781 /hr
+16 GB
+2 vCPUs
+320 GB
+0 Rep. Nodes
+$375 /mo
+$0.558 /hr
+16 GB
+2 vCPUs
+320 GB
+1 Rep. Node
+$625 /mo
+$0.930 /hr
+16 GB
+2 vCPUs
+320 GB
+2 Rep. Nodes
+$875 /mo
+$1.302 /hr
+16 GB
+2 vCPUs
+480 GB
+0 Rep. Nodes
+$465 /mo
+$0.692 /hr
+16 GB
+2 vCPUs
+480 GB
+1 Rep. Node
+$775 /mo
+$1.153 /hr
+16 GB
+2 vCPUs
+480 GB
+2 Rep. Nodes
+$1,085 /mo
+$1.615 /hr
+32 GB
+4 vCPUs
+640 GB
+0 Rep. Nodes
+$750 /mo
+$1.116 /hr
+32 GB
+4 vCPUs
+640 GB
+1 Rep. Node
+$1,250 /mo
+$1.860 /hr
+32 GB
+4 vCPUs
+640 GB
+2 Rep. Nodes
+$1,750 /mo
+$2.604 /hr
+32 GB
+4 vCPUs
+960 GB
+0 Rep. Nodes
+$930 /mo
+$1.384 /hr
+32 GB
+4 vCPUs
+960 GB
+1 Rep. Node
+$1,550 /mo
+$2.307 /hr
+32 GB
+4 vCPUs
+960 GB
+2 Rep. Nodes
+$2,170 /mo
+$3.229 /hr
+64 GB
+8 vCPUs
+1280 GB
+0 Rep. Nodes
+$1,500 /mo
+$2.232 /hr
+64 GB
+8 vCPUs
+1280 GB
+1 Rep. Node
+$2,500 /mo
+$3.720 /hr
+64 GB
+8 vCPUs
+1280 GB
+2 Rep. Nodes
+$3,500 /mo
+$5.208 /hr
+64 GB
+8 vCPUs
+1920 GB
+0 Rep. Nodes
+$1,860 /mo
+$2.768 /hr
+64 GB
+8 vCPUs
+1920 GB
+1 Rep. Node
+$3,100 /mo
+$4.613 /hr
+64 GB
+8 vCPUs
+1920 GB
+2 Rep. Nodes
+$4,340 /mo
+$6.458 /hr
+128 GB
+16 vCPUs
+2560 GB
+0 Rep. Nodes
+$3,000 /mo
+$4.464 /hr
+128 GB
+16 vCPUs
+2560 GB
+1 Rep. Node
+$5,000 /mo
+$7.440 /hr
+128 GB
+16 vCPUs
+2560 GB
+2 Rep. Nodes
+$7,000 /mo
+$10.417 /hr
+128 GB
+16 vCPUs
+3840 GB
+0 Rep. Nodes
+$3,720 /mo
+$5.536 /hr
+128 GB
+16 vCPUs
+3840 GB
+1 Rep. Node
+$6,200 /mo
+$9.226 /hr
+128 GB
+16 vCPUs
+3840 GB
+2 Rep. Nodes
+$8,680 /mo
+$12.917 /hr
+192 GB
+24 vCPUs
+3840 GB
+0 Rep. Nodes
+$4,500 /mo
+$6.696 /hr
+192 GB
+24 vCPUs
+3840 GB
+1 Rep. Node
+$7,500 /mo
+$11.161 /hr
+192 GB
+24 vCPUs
+3840 GB
+2 Rep. Nodes
+$10,500 /mo
+$15.625 /hr
+192 GB
+24 vCPUs
+5760 GB
+0 Rep. Nodes
+$5,550 /mo
+$8.259 /hr
+192 GB
+24 vCPUs
+5760 GB
+1 Rep. Node
+$9,250 /mo
+$13.765 /hr
+192 GB
+24 vCPUs
+5760 GB
+2 Rep. Nodes
+$12,950 /mo
+$19.271 /hr
+256 GB
+32 vCPUs
+5760 GB
+0 Rep. Nodes
+$6,000 /mo
+$8.929 /hr
+256 GB
+32 vCPUs
+5760 GB
+1 Rep. Node
+$10,000 /mo
+$14.881 /hr
+256 GB
+32 vCPUs
+5760 GB
+2 Rep. Nodes
+$14,000 /mo
+$20.833 /hr
+256 GB
+32 vCPUs
+7080 GB
+0 Rep. Nodes
+$7,440 /mo
+$11.071 /hr
+256 GB
+32 vCPUs
+7080 GB
+1 Rep. Node
+$12,400 /mo
+$18.452 /hr
+256 GB
+32 vCPUs
+7080 GB
+2 Rep. Nodes
+$17,360 /mo
+$25.833 /hr
+Cloud Compute
+High Performance (AMD or Intel)
+Memory
+vCPUs
+Storage
+Replica Nodes
+Monthly Price
+Hourly Price
+1 GB
+1 vCPU
+32 GB
+0 Rep. Nodes
+$18 /mo
+$0.027 /hr
+2 GB
+1 vCPU
+64 GB
+0 Rep. Nodes
+$36 /mo
+$0.054 /hr
+2 GB
+1 vCPU
+64 GB
+1 Rep. Node
+$60 /mo
+$0.089 /hr
+2 GB
+1 vCPU
+64 GB
+2 Rep. Nodes
+$84 /mo
+$0.125 /hr
+2 GB
+2 vCPUs
+80 GB
+0 Rep. Nodes
+$54 /mo
+$0.080 /hr
+2 GB
+2 vCPUs
+80 GB
+1 Rep. Node
+$90 /mo
+$0.134 /hr
+2 GB
+2 vCPUs
+80 GB
+2 Rep. Nodes
+$126 /mo
+$0.188 /hr
+4 GB
+2 vCPUs
+128 GB
+0 Rep. Nodes
+$72 /mo
+$0.107 /hr
+4 GB
+2 vCPUs
+128 GB
+1 Rep. Node
+$120 /mo
+$0.179 /hr
+4 GB
+2 vCPUs
+128 GB
+2 Rep. Nodes
+$168 /mo
+$0.250 /hr
+8 GB
+3 vCPUs
+256 GB
+0 Rep. Nodes
+$144 /mo
+$0.214 /hr
+8 GB
+3 vCPUs
+256 GB
+1 Rep. Node
+$240 /mo
+$0.357 /hr
+8 GB
+3 vCPUs
+256 GB
+2 Rep. Nodes
+$336 /mo
+$0.500 /hr
+16 GB
+4 vCPUs
+384 GB
+0 Rep. Nodes
+$288 /mo
+$0.429 /hr
+16 GB
+4 vCPUs
+384 GB
+1 Rep. Node
+$480 /mo
+$0.714 /hr
+16 GB
+4 vCPUs
+384 GB
+2 Rep. Nodes
+$672 /mo
+$1.000 /hr
+24 GB
+6 vCPUs
+448 GB
+0 Rep. Nodes
+$432 /mo
+$0.643 /hr
+24 GB
+6 vCPUs
+448 GB
+1 Rep. Node
+$720 /mo
+$1.071 /hr
+24 GB
+6 vCPUs
+448 GB
+2 Rep. Nodes
+$1,008 /mo
+$1.500 /hr
+32 GB
+8 vCPUs
+512 GB
+0 Rep. Nodes
+$576 /mo
+$0.857 /hr
+32 GB
+8 vCPUs
+512 GB
+1 Rep. Node
+$960 /mo
+$1.429 /hr
+32 GB
+8 vCPUs
+512 GB
+2 Rep. Nodes
+$1,344 /mo
+$2.000 /hr
+48 GB
+12 vCPUs
+768 GB
+0 Rep. Nodes
+$768 /mo
+$1.143 /hr
+48 GB
+12 vCPUs
+768 GB
+1 Rep. Node
+$1,280 /mo
+$1.905 /hr
+48 GB
+12 vCPUs
+768 GB
+2 Rep. Nodes
+$1,792 /mo
+$2.667 /hr
+Pricing
+Memory
+vCPUs
+Storage
+Replica Nodes
+Monthly Price
+Hourly Price
+1 GB
+1 vCPU
+32 GB
+0 Rep. Nodes
+$18 /mo
+$0.027 /hr
+2 GB
+1 vCPU
+64 GB
+0 Rep. Nodes
+$36 /mo
+$0.054 /hr
+2 GB
+1 vCPU
+64 GB
+1 Rep. Node
+$60 /mo
+$0.089 /hr
+2 GB
+1 vCPU
+64 GB
+2 Rep. Nodes
+$84 /mo
+$0.125 /hr
+2 GB
+2 vCPUs
+80 GB
+0 Rep. Nodes
+$54 /mo
+$0.080 /hr
+2 GB
+2 vCPUs
+80 GB
+1 Rep. Node
+$90 /mo
+$0.134 /hr
+2 GB
+2 vCPUs
+80 GB
+2 Rep. Nodes
+$126 /mo
+$0.188 /hr
+4 GB
+2 vCPUs
+128 GB
+0 Rep. Nodes
+$72 /mo
+$0.107 /hr
+4 GB
+2 vCPUs
+128 GB
+1 Rep. Node
+$120 /mo
+$0.179 /hr
+4 GB
+2 vCPUs
+128 GB
+2 Rep. Nodes
+$168 /mo
+$0.250 /hr
+8 GB
+3 vCPUs
+256 GB
+0 Rep. Nodes
+$144 /mo
+$0.214 /hr
+8 GB
+3 vCPUs
+256 GB
+1 Rep. Node
+$240 /mo
+$0.357 /hr
+8 GB
+3 vCPUs
+256 GB
+2 Rep. Nodes
+$336 /mo
+$0.500 /hr
+16 GB
+4 vCPUs
+384 GB
+0 Rep. Nodes
+$288 /mo
+$0.429 /hr
+16 GB
+4 vCPUs
+384 GB
+1 Rep. Node
+$480 /mo
+$0.714 /hr
+16 GB
+4 vCPUs
+384 GB
+2 Rep. Nodes
+$672 /mo
+$1.000 /hr
+24 GB
+6 vCPUs
+448 GB
+0 Rep. Nodes
+$432 /mo
+$0.643 /hr
+24 GB
+6 vCPUs
+448 GB
+1 Rep. Node
+$720 /mo
+$1.071 /hr
+24 GB
+6 vCPUs
+448 GB
+2 Rep. Nodes
+$1,008 /mo
+$1.500 /hr
+32 GB
+8 vCPUs
+512 GB
+0 Rep. Nodes
+$576 /mo
+$0.857 /hr
+32 GB
+8 vCPUs
+512 GB
+1 Rep. Node
+$960 /mo
+$1.429 /hr
+32 GB
+8 vCPUs
+512 GB
+2 Rep. Nodes
+$1,344 /mo
+$2.000 /hr
+48 GB
+12 vCPUs
+768 GB
+0 Rep. Nodes
+$768 /mo
+$1.143 /hr
+48 GB
+12 vCPUs
+768 GB
+1 Rep. Node
+$1,280 /mo
+$1.905 /hr
+48 GB
+12 vCPUs
+768 GB
+2 Rep. Nodes
+$1,792 /mo
+$2.667 /hr
+Regular Performance
+Memory
+vCPUs
+Storage
+Replica Nodes
+Monthly Price
+Hourly Price
+1 GB
+1 vCPU
+25 GB
+0 Rep. Nodes
+$15 /mo
+$0.022 /hr
+2 GB
+1 vCPU
+55 GB
+0 Rep. Nodes
+$30 /mo
+$0.045 /hr
+2 GB
+1 vCPU
+55 GB
+1 Rep. Node
+$50 /mo
+$0.074 /hr
+2 GB
+1 vCPU
+55 GB
+2 Rep. Nodes
+$70 /mo
+$0.104 /hr
+4 GB
+2 vCPUs
+80 GB
+0 Rep. Nodes
+$60 /mo
+$0.089 /hr
+4 GB
+2 vCPUs
+80 GB
+1 Rep. Node
+$100 /mo
+$0.149 /hr
+4 GB
+2 vCPUs
+80 GB
+2 Rep. Nodes
+$140 /mo
+$0.208 /hr
+8 GB
+4 vCPUs
+160 GB
+0 Rep. Nodes
+$120 /mo
+$0.179 /hr
+8 GB
+4 vCPUs
+160 GB
+1 Rep. Node
+$200 /mo
+$0.298 /hr
+8 GB
+4 vCPUs
+160 GB
+2 Rep. Nodes
+$280 /mo
+$0.417 /hr
+16 GB
+6 vCPUs
+320 GB
+0 Rep. Nodes
+$240 /mo
+$0.357 /hr
+16 GB
+6 vCPUs
+320 GB
+1 Rep. Node
+$400 /mo
+$0.595 /hr
+16 GB
+6 vCPUs
+320 GB
+2 Rep. Nodes
+$560 /mo
+$0.833 /hr
+32 GB
+8 vCPUs
+640 GB
+0 Rep. Nodes
+$480 /mo
+$0.714 /hr
+32 GB
+8 vCPUs
+640 GB
+1 Rep. Node
+$800 /mo
+$1.190 /hr
+32 GB
+8 vCPUs
+640 GB
+2 Rep. Nodes
+$1,120 /mo
+$1.667 /hr
+64 GB
+16 vCPUs
+1280 GB
+0 Rep. Nodes
+$960 /mo
+$1.429 /hr
+64 GB
+16 vCPUs
+1280 GB
+1 Rep. Node
+$1,600 /mo
+$2.381 /hr
+64 GB
+16 vCPUs
+1280 GB
+2 Rep. Nodes
+$2,240 /mo
+$3.333 /hr
+96 GB
+24 vCPUs
+1600 GB
+0 Rep. Nodes
+$1,920 /mo
+$2.857 /hr
+96 GB
+24 vCPUs
+1600 GB
+1 Rep. Node
+$3,200 /mo
+$4.762 /hr
+96 GB
+24 vCPUs
+1600 GB
+2 Rep. Nodes
+$4,480 /mo
+$6.667 /hr
+Pricing
+Memory
+vCPUs
+Storage
+Replica Nodes
+Monthly Price
+Hourly Price
+1 GB
+1 vCPU
+25 GB
+0 Rep. Nodes
+$15 /mo
+$0.022 /hr
+2 GB
+1 vCPU
+55 GB
+0 Rep. Nodes
+$30 /mo
+$0.045 /hr
+2 GB
+1 vCPU
+55 GB
+1 Rep. Node
+$50 /mo
+$0.074 /hr
+2 GB
+1 vCPU
+55 GB
+2 Rep. Nodes
+$70 /mo
+$0.104 /hr
+4 GB
+2 vCPUs
+80 GB
+0 Rep. Nodes
+$60 /mo
+$0.089 /hr
+4 GB
+2 vCPUs
+80 GB
+1 Rep. Node
+$100 /mo
+$0.149 /hr
+4 GB
+2 vCPUs
+80 GB
+2 Rep. Nodes
+$140 /mo
+$0.208 /hr
+8 GB
+4 vCPUs
+160 GB
+0 Rep. Nodes
+$120 /mo
+$0.179 /hr
+8 GB
+4 vCPUs
+160 GB
+1 Rep. Node
+$200 /mo
+$0.298 /hr
+8 GB
+4 vCPUs
+160 GB
+2 Rep. Nodes
+$280 /mo
+$0.417 /hr
+16 GB
+6 vCPUs
+320 GB
+0 Rep. Nodes
+$240 /mo
+$0.357 /hr
+16 GB
+6 vCPUs
+320 GB
+1 Rep. Node
+$400 /mo
+$0.595 /hr
+16 GB
+6 vCPUs
+320 GB
+2 Rep. Nodes
+$560 /mo
+$0.833 /hr
+32 GB
+8 vCPUs
+640 GB
+0 Rep. Nodes
+$480 /mo
+$0.714 /hr
+32 GB
+8 vCPUs
+640 GB
+1 Rep. Node
+$800 /mo
+$1.190 /hr
+32 GB
+8 vCPUs
+640 GB
+2 Rep. Nodes
+$1,120 /mo
+$1.667 /hr
+64 GB
+16 vCPUs
+1280 GB
+0 Rep. Nodes
+$960 /mo
+$1.429 /hr
+64 GB
+16 vCPUs
+1280 GB
+1 Rep. Node
+$1,600 /mo
+$2.381 /hr
+64 GB
+16 vCPUs
+1280 GB
+2 Rep. Nodes
+$2,240 /mo
+$3.333 /hr
+96 GB
+24 vCPUs
+1600 GB
+0 Rep. Nodes
+$1,920 /mo
+$2.857 /hr
+96 GB
+24 vCPUs
+1600 GB
+1 Rep. Node
+$3,200 /mo
+$4.762 /hr
+96 GB
+24 vCPUs
+1600 GB
+2 Rep. Nodes
+$4,480 /mo
+$6.667 /hr
+PostgreSQL
+PostgreSQL - This open source object-relational database system has more than 30 years of active development and a reputation for reliability, feature robustness, and performance.
+Optimized Cloud Compute
+General Purpose
+Memory
+vCPUs
+Storage
+Replica Nodes
+Monthly Price
+Hourly Price
+4 GB
+1 vCPU
+30 GB
+0 Rep. Nodes
+$90 /mo
+$0.134 /hr
+4 GB
+1 vCPU
+30 GB
+1 Rep. Node
+$150 /mo
+$0.223 /hr
+4 GB
+1 vCPU
+30 GB
+2 Rep. Nodes
+$210 /mo
+$0.313 /hr
+8 GB
+2 vCPUs
+50 GB
+0 Rep. Nodes
+$180 /mo
+$0.268 /hr
+8 GB
+2 vCPUs
+50 GB
+1 Rep. Node
+$300 /mo
+$0.446 /hr
+8 GB
+2 vCPUs
+50 GB
+2 Rep. Nodes
+$420 /mo
+$0.625 /hr
+16 GB
+4 vCPUs
+80 GB
+0 Rep. Nodes
+$360 /mo
+$0.536 /hr
+16 GB
+4 vCPUs
+80 GB
+1 Rep. Node
+$600 /mo
+$0.893 /hr
+16 GB
+4 vCPUs
+80 GB
+2 Rep. Nodes
+$840 /mo
+$1.250 /hr
+32 GB
+8 vCPUs
+160 GB
+0 Rep. Nodes
+$720 /mo
+$1.071 /hr
+32 GB
+8 vCPUs
+160 GB
+1 Rep. Node
+$1,200 /mo
+$1.786 /hr
+32 GB
+8 vCPUs
+160 GB
+2 Rep. Nodes
+$1,680 /mo
+$2.500 /hr
+64 GB
+16 vCPUs
+320 GB
+0 Rep. Nodes
+$1,440 /mo
+$2.143 /hr
+64 GB
+16 vCPUs
+320 GB
+1 Rep. Node
+$2,400 /mo
+$3.571 /hr
+64 GB
+16 vCPUs
+320 GB
+2 Rep. Nodes
+$3,360 /mo
+$5.000 /hr
+96 GB
+24 vCPUs
+480 GB
+0 Rep. Nodes
+$2,160 /mo
+$3.214 /hr
+96 GB
+24 vCPUs
+480 GB
+1 Rep. Node
+$3,600 /mo
+$5.357 /hr
+96 GB
+24 vCPUs
+480 GB
+2 Rep. Nodes
+$5,040 /mo
+$7.500 /hr
+128 GB
+32 vCPUs
+640 GB
+0 Rep. Nodes
+$2,880 /mo
+$4.286 /hr
+128 GB
+32 vCPUs
+640 GB
+1 Rep. Node
+$4,800 /mo
+$7.143 /hr
+128 GB
+32 vCPUs
+640 GB
+2 Rep. Nodes
+$6,720 /mo
+$10.000 /hr
+160 GB
+40 vCPUs
+768 GB
+0 Rep. Nodes
+$3,600 /mo
+$5.357 /hr
+160 GB
+40 vCPUs
+768 GB
+1 Rep. Node
+$6,000 /mo
+$8.929 /hr
+160 GB
+40 vCPUs
+768 GB
+2 Rep. Nodes
+$8,400 /mo
+$12.500 /hr
+192 GB
+64 vCPUs
+960 GB
+0 Rep. Nodes
+$5,760 /mo
+$8.571 /hr
+192 GB
+64 vCPUs
+960 GB
+1 Rep. Node
+$9,600 /mo
+$14.286 /hr
+192 GB
+64 vCPUs
+960 GB
+2 Rep. Nodes
+$13,440 /mo
+$20.000 /hr
+256 GB
+96 vCPUs
+1280 GB
+0 Rep. Nodes
+$11,520 /mo
+$17.143 /hr
+256 GB
+96 vCPUs
+1280 GB
+1 Rep. Node
+$19,200 /mo
+$28.571 /hr
+256 GB
+96 vCPUs
+1280 GB
+2 Rep. Nodes
+$26,880 /mo
+$40.000 /hr
+Pricing
+Memory
+vCPUs
+Storage
+Replica Nodes
+Monthly Price
+Hourly Price
+4 GB
+1 vCPU
+30 GB
+0 Rep. Nodes
+$90 /mo
+$0.134 /hr
+4 GB
+1 vCPU
+30 GB
+1 Rep. Node
+$150 /mo
+$0.223 /hr
+4 GB
+1 vCPU
+30 GB
+2 Rep. Nodes
+$210 /mo
+$0.313 /hr
+8 GB
+2 vCPUs
+50 GB
+0 Rep. Nodes
+$180 /mo
+$0.268 /hr
+8 GB
+2 vCPUs
+50 GB
+1 Rep. Node
+$300 /mo
+$0.446 /hr
+8 GB
+2 vCPUs
+50 GB
+2 Rep. Nodes
+$420 /mo
+$0.625 /hr
+16 GB
+4 vCPUs
+80 GB
+0 Rep. Nodes
+$360 /mo
+$0.536 /hr
+16 GB
+4 vCPUs
+80 GB
+1 Rep. Node
+$600 /mo
+$0.893 /hr
+16 GB
+4 vCPUs
+80 GB
+2 Rep. Nodes
+$840 /mo
+$1.250 /hr
+32 GB
+8 vCPUs
+160 GB
+0 Rep. Nodes
+$720 /mo
+$1.071 /hr
+32 GB
+8 vCPUs
+160 GB
+1 Rep. Node
+$1,200 /mo
+$1.786 /hr
+32 GB
+8 vCPUs
+160 GB
+2 Rep. Nodes
+$1,680 /mo
+$2.500 /hr
+64 GB
+16 vCPUs
+320 GB
+0 Rep. Nodes
+$1,440 /mo
+$2.143 /hr
+64 GB
+16 vCPUs
+320 GB
+1 Rep. Node
+$2,400 /mo
+$3.571 /hr
+64 GB
+16 vCPUs
+320 GB
+2 Rep. Nodes
+$3,360 /mo
+$5.000 /hr
+96 GB
+24 vCPUs
+480 GB
+0 Rep. Nodes
+$2,160 /mo
+$3.214 /hr
+96 GB
+24 vCPUs
+480 GB
+1 Rep. Node
+$3,600 /mo
+$5.357 /hr
+96 GB
+24 vCPUs
+480 GB
+2 Rep. Nodes
+$5,040 /mo
+$7.500 /hr
+128 GB
+32 vCPUs
+640 GB
+0 Rep. Nodes
+$2,880 /mo
+$4.286 /hr
+128 GB
+32 vCPUs
+640 GB
+1 Rep. Node
+$4,800 /mo
+$7.143 /hr
+128 GB
+32 vCPUs
+640 GB
+2 Rep. Nodes
+$6,720 /mo
+$10.000 /hr
+160 GB
+40 vCPUs
+768 GB
+0 Rep. Nodes
+$3,600 /mo
+$5.357 /hr
+160 GB
+40 vCPUs
+768 GB
+1 Rep. Node
+$6,000 /mo
+$8.929 /hr
+160 GB
+40 vCPUs
+768 GB
+2 Rep. Nodes
+$8,400 /mo
+$12.500 /hr
+192 GB
+64 vCPUs
+960 GB
+0 Rep. Nodes
+$5,760 /mo
+$8.571 /hr
+192 GB
+64 vCPUs
+960 GB
+1 Rep. Node
+$9,600 /mo
+$14.286 /hr
+192 GB
+64 vCPUs
+960 GB
+2 Rep. Nodes
+$13,440 /mo
+$20.000 /hr
+256 GB
+96 vCPUs
+1280 GB
+0 Rep. Nodes
+$11,520 /mo
+$17.143 /hr
+256 GB
+96 vCPUs
+1280 GB
+1 Rep. Node
+$19,200 /mo
+$28.571 /hr
+256 GB
+96 vCPUs
+1280 GB
+2 Rep. Nodes
+$26,880 /mo
+$40.000 /hr
+Storage Optimized
+Memory
+vCPUs
+Storage
+Replica Nodes
+Monthly Price
+Hourly Price
+8 GB
+1 vCPU
+150 GB
+0 Rep. Nodes
+$225 /mo
+$0.335 /hr
+8 GB
+1 vCPU
+150 GB
+1 Rep. Node
+$375 /mo
+$0.558 /hr
+8 GB
+1 vCPU
+150 GB
+2 Rep. Nodes
+$525 /mo
+$0.781 /hr
+16 GB
+2 vCPUs
+320 GB
+0 Rep. Nodes
+$375 /mo
+$0.558 /hr
+16 GB
+2 vCPUs
+320 GB
+1 Rep. Node
+$625 /mo
+$0.930 /hr
+16 GB
+2 vCPUs
+320 GB
+2 Rep. Nodes
+$875 /mo
+$1.302 /hr
+16 GB
+2 vCPUs
+480 GB
+0 Rep. Nodes
+$465 /mo
+$0.692 /hr
+16 GB
+2 vCPUs
+480 GB
+1 Rep. Node
+$775 /mo
+$1.153 /hr
+16 GB
+2 vCPUs
+480 GB
+2 Rep. Nodes
+$1,085 /mo
+$1.615 /hr
+32 GB
+4 vCPUs
+640 GB
+0 Rep. Nodes
+$750 /mo
+$1.116 /hr
+32 GB
+4 vCPUs
+640 GB
+1 Rep. Node
+$1,250 /mo
+$1.860 /hr
+32 GB
+4 vCPUs
+640 GB
+2 Rep. Nodes
+$1,750 /mo
+$2.604 /hr
+32 GB
+4 vCPUs
+960 GB
+0 Rep. Nodes
+$930 /mo
+$1.384 /hr
+32 GB
+4 vCPUs
+960 GB
+1 Rep. Node
+$1,550 /mo
+$2.307 /hr
+32 GB
+4 vCPUs
+960 GB
+2 Rep. Nodes
+$2,170 /mo
+$3.229 /hr
+64 GB
+8 vCPUs
+1280 GB
+0 Rep. Nodes
+$1,500 /mo
+$2.232 /hr
+64 GB
+8 vCPUs
+1280 GB
+1 Rep. Node
+$2,500 /mo
+$3.720 /hr
+64 GB
+8 vCPUs
+1280 GB
+2 Rep. Nodes
+$3,500 /mo
+$5.208 /hr
+64 GB
+8 vCPUs
+1920 GB
+0 Rep. Nodes
+$1,860 /mo
+$2.768 /hr
+64 GB
+8 vCPUs
+1920 GB
+1 Rep. Node
+$3,100 /mo
+$4.613 /hr
+64 GB
+8 vCPUs
+1920 GB
+2 Rep. Nodes
+$4,340 /mo
+$6.458 /hr
+128 GB
+16 vCPUs
+2560 GB
+0 Rep. Nodes
+$3,000 /mo
+$4.464 /hr
+128 GB
+16 vCPUs
+2560 GB
+1 Rep. Node
+$5,000 /mo
+$7.440 /hr
+128 GB
+16 vCPUs
+2560 GB
+2 Rep. Nodes
+$7,000 /mo
+$10.417 /hr
+128 GB
+16 vCPUs
+3840 GB
+0 Rep. Nodes
+$3,720 /mo
+$5.536 /hr
+128 GB
+16 vCPUs
+3840 GB
+1 Rep. Node
+$6,200 /mo
+$9.226 /hr
+128 GB
+16 vCPUs
+3840 GB
+2 Rep. Nodes
+$8,680 /mo
+$12.917 /hr
+192 GB
+24 vCPUs
+3840 GB
+0 Rep. Nodes
+$4,500 /mo
+$6.696 /hr
+192 GB
+24 vCPUs
+3840 GB
+1 Rep. Node
+$7,500 /mo
+$11.161 /hr
+192 GB
+24 vCPUs
+3840 GB
+2 Rep. Nodes
+$10,500 /mo
+$15.625 /hr
+192 GB
+24 vCPUs
+5760 GB
+0 Rep. Nodes
+$5,550 /mo
+$8.259 /hr
+192 GB
+24 vCPUs
+5760 GB
+1 Rep. Node
+$9,250 /mo
+$13.765 /hr
+192 GB
+24 vCPUs
+5760 GB
+2 Rep. Nodes
+$12,950 /mo
+$19.271 /hr
+256 GB
+32 vCPUs
+5760 GB
+0 Rep. Nodes
+$6,000 /mo
+$8.929 /hr
+256 GB
+32 vCPUs
+5760 GB
+1 Rep. Node
+$10,000 /mo
+$14.881 /hr
+256 GB
+32 vCPUs
+5760 GB
+2 Rep. Nodes
+$14,000 /mo
+$20.833 /hr
+256 GB
+32 vCPUs
+7080 GB
+0 Rep. Nodes
+$7,440 /mo
+$11.071 /hr
+256 GB
+32 vCPUs
+7080 GB
+1 Rep. Node
+$12,400 /mo
+$18.452 /hr
+256 GB
+32 vCPUs
+7080 GB
+2 Rep. Nodes
+$17,360 /mo
+$25.833 /hr
+Pricing
+Memory
+vCPUs
+Storage
+Replica Nodes
+Monthly Price
+Hourly Price
+8 GB
+1 vCPU
+150 GB
+0 Rep. Nodes
+$225 /mo
+$0.335 /hr
+8 GB
+1 vCPU
+150 GB
+1 Rep. Node
+$375 /mo
+$0.558 /hr
+8 GB
+1 vCPU
+150 GB
+2 Rep. Nodes
+$525 /mo
+$0.781 /hr
+16 GB
+2 vCPUs
+320 GB
+0 Rep. Nodes
+$375 /mo
+$0.558 /hr
+16 GB
+2 vCPUs
+320 GB
+1 Rep. Node
+$625 /mo
+$0.930 /hr
+16 GB
+2 vCPUs
+320 GB
+2 Rep. Nodes
+$875 /mo
+$1.302 /hr
+16 GB
+2 vCPUs
+480 GB
+0 Rep. Nodes
+$465 /mo
+$0.692 /hr
+16 GB
+2 vCPUs
+480 GB
+1 Rep. Node
+$775 /mo
+$1.153 /hr
+16 GB
+2 vCPUs
+480 GB
+2 Rep. Nodes
+$1,085 /mo
+$1.615 /hr
+32 GB
+4 vCPUs
+640 GB
+0 Rep. Nodes
+$750 /mo
+$1.116 /hr
+32 GB
+4 vCPUs
+640 GB
+1 Rep. Node
+$1,250 /mo
+$1.860 /hr
+32 GB
+4 vCPUs
+640 GB
+2 Rep. Nodes
+$1,750 /mo
+$2.604 /hr
+32 GB
+4 vCPUs
+960 GB
+0 Rep. Nodes
+$930 /mo
+$1.384 /hr
+32 GB
+4 vCPUs
+960 GB
+1 Rep. Node
+$1,550 /mo
+$2.307 /hr
+32 GB
+4 vCPUs
+960 GB
+2 Rep. Nodes
+$2,170 /mo
+$3.229 /hr
+64 GB
+8 vCPUs
+1280 GB
+0 Rep. Nodes
+$1,500 /mo
+$2.232 /hr
+64 GB
+8 vCPUs
+1280 GB
+1 Rep. Node
+$2,500 /mo
+$3.720 /hr
+64 GB
+8 vCPUs
+1280 GB
+2 Rep. Nodes
+$3,500 /mo
+$5.208 /hr
+64 GB
+8 vCPUs
+1920 GB
+0 Rep. Nodes
+$1,860 /mo
+$2.768 /hr
+64 GB
+8 vCPUs
+1920 GB
+1 Rep. Node
+$3,100 /mo
+$4.613 /hr
+64 GB
+8 vCPUs
+1920 GB
+2 Rep. Nodes
+$4,340 /mo
+$6.458 /hr
+128 GB
+16 vCPUs
+2560 GB
+0 Rep. Nodes
+$3,000 /mo
+$4.464 /hr
+128 GB
+16 vCPUs
+2560 GB
+1 Rep. Node
+$5,000 /mo
+$7.440 /hr
+128 GB
+16 vCPUs
+2560 GB
+2 Rep. Nodes
+$7,000 /mo
+$10.417 /hr
+128 GB
+16 vCPUs
+3840 GB
+0 Rep. Nodes
+$3,720 /mo
+$5.536 /hr
+128 GB
+16 vCPUs
+3840 GB
+1 Rep. Node
+$6,200 /mo
+$9.226 /hr
+128 GB
+16 vCPUs
+3840 GB
+2 Rep. Nodes
+$8,680 /mo
+$12.917 /hr
+192 GB
+24 vCPUs
+3840 GB
+0 Rep. Nodes
+$4,500 /mo
+$6.696 /hr
+192 GB
+24 vCPUs
+3840 GB
+1 Rep. Node
+$7,500 /mo
+$11.161 /hr
+192 GB
+24 vCPUs
+3840 GB
+2 Rep. Nodes
+$10,500 /mo
+$15.625 /hr
+192 GB
+24 vCPUs
+5760 GB
+0 Rep. Nodes
+$5,550 /mo
+$8.259 /hr
+192 GB
+24 vCPUs
+5760 GB
+1 Rep. Node
+$9,250 /mo
+$13.765 /hr
+192 GB
+24 vCPUs
+5760 GB
+2 Rep. Nodes
+$12,950 /mo
+$19.271 /hr
+256 GB
+32 vCPUs
+5760 GB
+0 Rep. Nodes
+$6,000 /mo
+$8.929 /hr
+256 GB
+32 vCPUs
+5760 GB
+1 Rep. Node
+$10,000 /mo
+$14.881 /hr
+256 GB
+32 vCPUs
+5760 GB
+2 Rep. Nodes
+$14,000 /mo
+$20.833 /hr
+256 GB
+32 vCPUs
+7080 GB
+0 Rep. Nodes
+$7,440 /mo
+$11.071 /hr
+256 GB
+32 vCPUs
+7080 GB
+1 Rep. Node
+$12,400 /mo
+$18.452 /hr
+256 GB
+32 vCPUs
+7080 GB
+2 Rep. Nodes
+$17,360 /mo
+$25.833 /hr
+Cloud Compute
+High Performance (AMD or Intel)
+Memory
+vCPUs
+Storage
+Replica Nodes
+Monthly Price
+Hourly Price
+1 GB
+1 vCPU
+32 GB
+0 Rep. Nodes
+$18 /mo
+$0.027 /hr
+2 GB
+1 vCPU
+64 GB
+0 Rep. Nodes
+$36 /mo
+$0.054 /hr
+2 GB
+1 vCPU
+64 GB
+1 Rep. Node
+$60 /mo
+$0.089 /hr
+2 GB
+1 vCPU
+64 GB
+2 Rep. Nodes
+$84 /mo
+$0.125 /hr
+2 GB
+2 vCPUs
+80 GB
+0 Rep. Nodes
+$54 /mo
+$0.080 /hr
+2 GB
+2 vCPUs
+80 GB
+1 Rep. Node
+$90 /mo
+$0.134 /hr
+2 GB
+2 vCPUs
+80 GB
+2 Rep. Nodes
+$126 /mo
+$0.188 /hr
+4 GB
+2 vCPUs
+128 GB
+0 Rep. Nodes
+$72 /mo
+$0.107 /hr
+4 GB
+2 vCPUs
+128 GB
+1 Rep. Node
+$120 /mo
+$0.179 /hr
+4 GB
+2 vCPUs
+128 GB
+2 Rep. Nodes
+$168 /mo
+$0.250 /hr
+8 GB
+3 vCPUs
+256 GB
+0 Rep. Nodes
+$144 /mo
+$0.214 /hr
+8 GB
+3 vCPUs
+256 GB
+1 Rep. Node
+$240 /mo
+$0.357 /hr
+8 GB
+3 vCPUs
+256 GB
+2 Rep. Nodes
+$336 /mo
+$0.500 /hr
+16 GB
+4 vCPUs
+384 GB
+0 Rep. Nodes
+$288 /mo
+$0.429 /hr
+16 GB
+4 vCPUs
+384 GB
+1 Rep. Node
+$480 /mo
+$0.714 /hr
+16 GB
+4 vCPUs
+384 GB
+2 Rep. Nodes
+$672 /mo
+$1.000 /hr
+24 GB
+6 vCPUs
+448 GB
+0 Rep. Nodes
+$432 /mo
+$0.643 /hr
+24 GB
+6 vCPUs
+448 GB
+1 Rep. Node
+$720 /mo
+$1.071 /hr
+24 GB
+6 vCPUs
+448 GB
+2 Rep. Nodes
+$1,008 /mo
+$1.500 /hr
+32 GB
+8 vCPUs
+512 GB
+0 Rep. Nodes
+$576 /mo
+$0.857 /hr
+32 GB
+8 vCPUs
+512 GB
+1 Rep. Node
+$960 /mo
+$1.429 /hr
+32 GB
+8 vCPUs
+512 GB
+2 Rep. Nodes
+$1,344 /mo
+$2.000 /hr
+48 GB
+12 vCPUs
+768 GB
+0 Rep. Nodes
+$768 /mo
+$1.143 /hr
+48 GB
+12 vCPUs
+768 GB
+1 Rep. Node
+$1,280 /mo
+$1.905 /hr
+48 GB
+12 vCPUs
+768 GB
+2 Rep. Nodes
+$1,792 /mo
+$2.667 /hr
+Pricing
+Memory
+vCPUs
+Storage
+Replica Nodes
+Monthly Price
+Hourly Price
+1 GB
+1 vCPU
+32 GB
+0 Rep. Nodes
+$18 /mo
+$0.027 /hr
+2 GB
+1 vCPU
+64 GB
+0 Rep. Nodes
+$36 /mo
+$0.054 /hr
+2 GB
+1 vCPU
+64 GB
+1 Rep. Node
+$60 /mo
+$0.089 /hr
+2 GB
+1 vCPU
+64 GB
+2 Rep. Nodes
+$84 /mo
+$0.125 /hr
+2 GB
+2 vCPUs
+80 GB
+0 Rep. Nodes
+$54 /mo
+$0.080 /hr
+2 GB
+2 vCPUs
+80 GB
+1 Rep. Node
+$90 /mo
+$0.134 /hr
+2 GB
+2 vCPUs
+80 GB
+2 Rep. Nodes
+$126 /mo
+$0.188 /hr
+4 GB
+2 vCPUs
+128 GB
+0 Rep. Nodes
+$72 /mo
+$0.107 /hr
+4 GB
+2 vCPUs
+128 GB
+1 Rep. Node
+$120 /mo
+$0.179 /hr
+4 GB
+2 vCPUs
+128 GB
+2 Rep. Nodes
+$168 /mo
+$0.250 /hr
+8 GB
+3 vCPUs
+256 GB
+0 Rep. Nodes
+$144 /mo
+$0.214 /hr
+8 GB
+3 vCPUs
+256 GB
+1 Rep. Node
+$240 /mo
+$0.357 /hr
+8 GB
+3 vCPUs
+256 GB
+2 Rep. Nodes
+$336 /mo
+$0.500 /hr
+16 GB
+4 vCPUs
+384 GB
+0 Rep. Nodes
+$288 /mo
+$0.429 /hr
+16 GB
+4 vCPUs
+384 GB
+1 Rep. Node
+$480 /mo
+$0.714 /hr
+16 GB
+4 vCPUs
+384 GB
+2 Rep. Nodes
+$672 /mo
+$1.000 /hr
+24 GB
+6 vCPUs
+448 GB
+0 Rep. Nodes
+$432 /mo
+$0.643 /hr
+24 GB
+6 vCPUs
+448 GB
+1 Rep. Node
+$720 /mo
+$1.071 /hr
+24 GB
+6 vCPUs
+448 GB
+2 Rep. Nodes
+$1,008 /mo
+$1.500 /hr
+32 GB
+8 vCPUs
+512 GB
+0 Rep. Nodes
+$576 /mo
+$0.857 /hr
+32 GB
+8 vCPUs
+512 GB
+1 Rep. Node
+$960 /mo
+$1.429 /hr
+32 GB
+8 vCPUs
+512 GB
+2 Rep. Nodes
+$1,344 /mo
+$2.000 /hr
+48 GB
+12 vCPUs
+768 GB
+0 Rep. Nodes
+$768 /mo
+$1.143 /hr
+48 GB
+12 vCPUs
+768 GB
+1 Rep. Node
+$1,280 /mo
+$1.905 /hr
+48 GB
+12 vCPUs
+768 GB
+2 Rep. Nodes
+$1,792 /mo
+$2.667 /hr
+Regular Performance
+Memory
+vCPUs
+Storage
+Replica Nodes
+Monthly Price
+Hourly Price
+1 GB
+1 vCPU
+25 GB
+0 Rep. Nodes
+$15 /mo
+$0.022 /hr
+2 GB
+1 vCPU
+55 GB
+0 Rep. Nodes
+$30 /mo
+$0.045 /hr
+2 GB
+1 vCPU
+55 GB
+1 Rep. Node
+$50 /mo
+$0.074 /hr
+2 GB
+1 vCPU
+55 GB
+2 Rep. Nodes
+$70 /mo
+$0.104 /hr
+4 GB
+2 vCPUs
+80 GB
+0 Rep. Nodes
+$60 /mo
+$0.089 /hr
+4 GB
+2 vCPUs
+80 GB
+1 Rep. Node
+$100 /mo
+$0.149 /hr
+4 GB
+2 vCPUs
+80 GB
+2 Rep. Nodes
+$140 /mo
+$0.208 /hr
+8 GB
+4 vCPUs
+160 GB
+0 Rep. Nodes
+$120 /mo
+$0.179 /hr
+8 GB
+4 vCPUs
+160 GB
+1 Rep. Node
+$200 /mo
+$0.298 /hr
+8 GB
+4 vCPUs
+160 GB
+2 Rep. Nodes
+$280 /mo
+$0.417 /hr
+16 GB
+6 vCPUs
+320 GB
+0 Rep. Nodes
+$240 /mo
+$0.357 /hr
+16 GB
+6 vCPUs
+320 GB
+1 Rep. Node
+$400 /mo
+$0.595 /hr
+16 GB
+6 vCPUs
+320 GB
+2 Rep. Nodes
+$560 /mo
+$0.833 /hr
+32 GB
+8 vCPUs
+640 GB
+0 Rep. Nodes
+$480 /mo
+$0.714 /hr
+32 GB
+8 vCPUs
+640 GB
+1 Rep. Node
+$800 /mo
+$1.190 /hr
+32 GB
+8 vCPUs
+640 GB
+2 Rep. Nodes
+$1,120 /mo
+$1.667 /hr
+64 GB
+16 vCPUs
+1280 GB
+0 Rep. Nodes
+$960 /mo
+$1.429 /hr
+64 GB
+16 vCPUs
+1280 GB
+1 Rep. Node
+$1,600 /mo
+$2.381 /hr
+64 GB
+16 vCPUs
+1280 GB
+2 Rep. Nodes
+$2,240 /mo
+$3.333 /hr
+96 GB
+24 vCPUs
+1600 GB
+0 Rep. Nodes
+$1,920 /mo
+$2.857 /hr
+96 GB
+24 vCPUs
+1600 GB
+1 Rep. Node
+$3,200 /mo
+$4.762 /hr
+96 GB
+24 vCPUs
+1600 GB
+2 Rep. Nodes
+$4,480 /mo
+$6.667 /hr
+Pricing
+Memory
+vCPUs
+Storage
+Replica Nodes
+Monthly Price
+Hourly Price
+1 GB
+1 vCPU
+25 GB
+0 Rep. Nodes
+$15 /mo
+$0.022 /hr
+2 GB
+1 vCPU
+55 GB
+0 Rep. Nodes
+$30 /mo
+$0.045 /hr
+2 GB
+1 vCPU
+55 GB
+1 Rep. Node
+$50 /mo
+$0.074 /hr
+2 GB
+1 vCPU
+55 GB
+2 Rep. Nodes
+$70 /mo
+$0.104 /hr
+4 GB
+2 vCPUs
+80 GB
+0 Rep. Nodes
+$60 /mo
+$0.089 /hr
+4 GB
+2 vCPUs
+80 GB
+1 Rep. Node
+$100 /mo
+$0.149 /hr
+4 GB
+2 vCPUs
+80 GB
+2 Rep. Nodes
+$140 /mo
+$0.208 /hr
+8 GB
+4 vCPUs
+160 GB
+0 Rep. Nodes
+$120 /mo
+$0.179 /hr
+8 GB
+4 vCPUs
+160 GB
+1 Rep. Node
+$200 /mo
+$0.298 /hr
+8 GB
+4 vCPUs
+160 GB
+2 Rep. Nodes
+$280 /mo
+$0.417 /hr
+16 GB
+6 vCPUs
+320 GB
+0 Rep. Nodes
+$240 /mo
+$0.357 /hr
+16 GB
+6 vCPUs
+320 GB
+1 Rep. Node
+$400 /mo
+$0.595 /hr
+16 GB
+6 vCPUs
+320 GB
+2 Rep. Nodes
+$560 /mo
+$0.833 /hr
+32 GB
+8 vCPUs
+640 GB
+0 Rep. Nodes
+$480 /mo
+$0.714 /hr
+32 GB
+8 vCPUs
+640 GB
+1 Rep. Node
+$800 /mo
+$1.190 /hr
+32 GB
+8 vCPUs
+640 GB
+2 Rep. Nodes
+$1,120 /mo
+$1.667 /hr
+64 GB
+16 vCPUs
+1280 GB
+0 Rep. Nodes
+$960 /mo
+$1.429 /hr
+64 GB
+16 vCPUs
+1280 GB
+1 Rep. Node
+$1,600 /mo
+$2.381 /hr
+64 GB
+16 vCPUs
+1280 GB
+2 Rep. Nodes
+$2,240 /mo
+$3.333 /hr
+96 GB
+24 vCPUs
+1600 GB
+0 Rep. Nodes
+$1,920 /mo
+$2.857 /hr
+96 GB
+24 vCPUs
+1600 GB
+1 Rep. Node
+$3,200 /mo
+$4.762 /hr
+96 GB
+24 vCPUs
+1600 GB
+2 Rep. Nodes
+$4,480 /mo
+$6.667 /hr
+Redis
+Redis is a fully managed in-memory NoSQL data store that is purpose-built for large amounts of constantly changing data. Redis can be used as a database, cache, streaming engine, and message broker.
+Optimized Cloud Compute
+Memory Optimized
+Memory
+vCPUs
+Replica Nodes
+Monthly Price
+Hourly Price
+16 GB
+2 vCPUs
+0 Rep. Nodes
+$160 /mo
+$0.238 /hr
+16 GB
+2 vCPUs
+1 Rep. Node
+$320 /mo
+$0.476 /hr
+16 GB
+2 vCPUs
+2 Rep. Nodes
+$480 /mo
+$0.714 /hr
+32 GB
+4 vCPUs
+0 Rep. Nodes
+$325 /mo
+$0.484 /hr
+32 GB
+4 vCPUs
+1 Rep. Node
+$650 /mo
+$0.967 /hr
+32 GB
+4 vCPUs
+2 Rep. Nodes
+$975 /mo
+$1.451 /hr
+64 GB
+8 vCPUs
+0 Rep. Nodes
+$650 /mo
+$0.967 /hr
+64 GB
+8 vCPUs
+1 Rep. Node
+$1,300 /mo
+$1.935 /hr
+64 GB
+8 vCPUs
+2 Rep. Nodes
+$1,950 /mo
+$2.902 /hr
+128 GB
+16 vCPUs
+0 Rep. Nodes
+$1,300 /mo
+$1.935 /hr
+128 GB
+16 vCPUs
+1 Rep. Node
+$2,600 /mo
+$3.869 /hr
+128 GB
+16 vCPUs
+2 Rep. Nodes
+$3,900 /mo
+$5.804 /hr
+192 GB
+24 vCPUs
+0 Rep. Nodes
+$1,950 /mo
+$2.902 /hr
+192 GB
+24 vCPUs
+1 Rep. Node
+$3,900 /mo
+$5.804 /hr
+192 GB
+24 vCPUs
+2 Rep. Nodes
+$5,850 /mo
+$8.705 /hr
+256 GB
+32 vCPUs
+0 Rep. Nodes
+$2,600 /mo
+$3.869 /hr
+256 GB
+32 vCPUs
+1 Rep. Node
+$5,200 /mo
+$7.738 /hr
+256 GB
+32 vCPUs
+2 Rep. Nodes
+$7,800 /mo
+$11.607 /hr
+Pricing
+Memory
+vCPUs
+Storage
+Replica Nodes
+Monthly Price
+Hourly Price
+4 GB
+1 vCPU
+30 GB
+0 Rep. Nodes
+$90 /mo
+$0.134 /hr
+4 GB
+1 vCPU
+30 GB
+1 Rep. Node
+$150 /mo
+$0.223 /hr
+4 GB
+1 vCPU
+30 GB
+2 Rep. Nodes
+$210 /mo
+$0.313 /hr
+8 GB
+2 vCPUs
+50 GB
+0 Rep. Nodes
+$180 /mo
+$0.268 /hr
+8 GB
+2 vCPUs
+50 GB
+1 Rep. Node
+$300 /mo
+$0.446 /hr
+8 GB
+2 vCPUs
+50 GB
+2 Rep. Nodes
+$420 /mo
+$0.625 /hr
+16 GB
+4 vCPUs
+80 GB
+0 Rep. Nodes
+$360 /mo
+$0.536 /hr
+16 GB
+4 vCPUs
+80 GB
+1 Rep. Node
+$600 /mo
+$0.893 /hr
+16 GB
+4 vCPUs
+80 GB
+2 Rep. Nodes
+$840 /mo
+$1.250 /hr
+32 GB
+8 vCPUs
+160 GB
+0 Rep. Nodes
+$720 /mo
+$1.071 /hr
+32 GB
+8 vCPUs
+160 GB
+1 Rep. Node
+$1,200 /mo
+$1.786 /hr
+32 GB
+8 vCPUs
+160 GB
+2 Rep. Nodes
+$1,680 /mo
+$2.500 /hr
+64 GB
+16 vCPUs
+320 GB
+0 Rep. Nodes
+$1,440 /mo
+$2.143 /hr
+64 GB
+16 vCPUs
+320 GB
+1 Rep. Node
+$2,400 /mo
+$3.571 /hr
+64 GB
+16 vCPUs
+320 GB
+2 Rep. Nodes
+$3,360 /mo
+$5.000 /hr
+96 GB
+24 vCPUs
+480 GB
+0 Rep. Nodes
+$2,160 /mo
+$3.214 /hr
+96 GB
+24 vCPUs
+480 GB
+1 Rep. Node
+$3,600 /mo
+$5.357 /hr
+96 GB
+24 vCPUs
+480 GB
+2 Rep. Nodes
+$5,040 /mo
+$7.500 /hr
+128 GB
+32 vCPUs
+640 GB
+0 Rep. Nodes
+$2,880 /mo
+$4.286 /hr
+128 GB
+32 vCPUs
+640 GB
+1 Rep. Node
+$4,800 /mo
+$7.143 /hr
+128 GB
+32 vCPUs
+640 GB
+2 Rep. Nodes
+$6,720 /mo
+$10.000 /hr
+160 GB
+40 vCPUs
+768 GB
+0 Rep. Nodes
+$3,600 /mo
+$5.357 /hr
+160 GB
+40 vCPUs
+768 GB
+1 Rep. Node
+$6,000 /mo
+$8.929 /hr
+160 GB
+40 vCPUs
+768 GB
+2 Rep. Nodes
+$8,400 /mo
+$12.500 /hr
+192 GB
+64 vCPUs
+960 GB
+0 Rep. Nodes
+$5,760 /mo
+$8.571 /hr
+192 GB
+64 vCPUs
+960 GB
+1 Rep. Node
+$9,600 /mo
+$14.286 /hr
+192 GB
+64 vCPUs
+960 GB
+2 Rep. Nodes
+$13,440 /mo
+$20.000 /hr
+256 GB
+96 vCPUs
+1280 GB
+0 Rep. Nodes
+$11,520 /mo
+$17.143 /hr
+256 GB
+96 vCPUs
+1280 GB
+1 Rep. Node
+$19,200 /mo
+$28.571 /hr
+256 GB
+96 vCPUs
+1280 GB
+2 Rep. Nodes
+$26,880 /mo
+$40.000 /hr
+Cloud Compute
+High Performance (AMD or Intel)
+Memory
+vCPUs
+Replica Nodes
+Monthly Price
+Hourly Price
+1 GB
+1 vCPU
+0 Rep. Nodes
+$18 /mo
+$0.027 /hr
+2 GB
+1 vCPU
+0 Rep. Nodes
+$36 /mo
+$0.054 /hr
+2 GB
+1 vCPU
+1 Rep. Node
+$80 /mo
+$0.119 /hr
+2 GB
+1 vCPU
+2 Rep. Nodes
+$105 /mo
+$0.156 /hr
+2 GB
+2 vCPUs
+0 Rep. Nodes
+$54 /mo
+$0.080 /hr
+2 GB
+2 vCPUs
+1 Rep. Node
+$110 /mo
+$0.164 /hr
+2 GB
+2 vCPUs
+2 Rep. Nodes
+$158 /mo
+$0.235 /hr
+4 GB
+2 vCPUs
+0 Rep. Nodes
+$72 /mo
+$0.107 /hr
+4 GB
+2 vCPUs
+1 Rep. Node
+$140 /mo
+$0.208 /hr
+4 GB
+2 vCPUs
+2 Rep. Nodes
+$210 /mo
+$0.313 /hr
+8 GB
+3 vCPUs
+0 Rep. Nodes
+$144 /mo
+$0.214 /hr
+8 GB
+3 vCPUs
+1 Rep. Node
+$260 /mo
+$0.387 /hr
+8 GB
+3 vCPUs
+2 Rep. Nodes
+$420 /mo
+$0.625 /hr
+16 GB
+4 vCPUs
+0 Rep. Nodes
+$288 /mo
+$0.429 /hr
+16 GB
+4 vCPUs
+1 Rep. Node
+$500 /mo
+$0.744 /hr
+16 GB
+4 vCPUs
+2 Rep. Nodes
+$840 /mo
+$1.250 /hr
+24 GB
+6 vCPUs
+0 Rep. Nodes
+$432 /mo
+$0.643 /hr
+24 GB
+6 vCPUs
+1 Rep. Node
+$740 /mo
+$1.101 /hr
+24 GB
+6 vCPUs
+2 Rep. Nodes
+$1,260 /mo
+$1.875 /hr
+32 GB
+8 vCPUs
+0 Rep. Nodes
+$576 /mo
+$0.857 /hr
+32 GB
+8 vCPUs
+1 Rep. Node
+$980 /mo
+$1.458 /hr
+32 GB
+8 vCPUs
+2 Rep. Nodes
+$1,680 /mo
+$2.500 /hr
+48 GB
+12 vCPUs
+0 Rep. Nodes
+$768 /mo
+$1.143 /hr
+48 GB
+12 vCPUs
+1 Rep. Node
+$1,300 /mo
+$1.935 /hr
+48 GB
+12 vCPUs
+2 Rep. Nodes
+$2,240 /mo
+$3.333 /hr
+Pricing
+Memory
+vCPUs
+Replica Nodes
+Monthly Price
+Hourly Price
+1 GB
+1 vCPU
+0 Rep. Nodes
+$18 /mo
+$0.027 /hr
+2 GB
+1 vCPU
+0 Rep. Nodes
+$36 /mo
+$0.054 /hr
+2 GB
+1 vCPU
+1 Rep. Node
+$80 /mo
+$0.119 /hr
+2 GB
+1 vCPU
+2 Rep. Nodes
+$105 /mo
+$0.156 /hr
+2 GB
+2 vCPUs
+0 Rep. Nodes
+$54 /mo
+$0.080 /hr
+2 GB
+2 vCPUs
+1 Rep. Node
+$110 /mo
+$0.164 /hr
+2 GB
+2 vCPUs
+2 Rep. Nodes
+$158 /mo
+$0.235 /hr
+4 GB
+2 vCPUs
+0 Rep. Nodes
+$72 /mo
+$0.107 /hr
+4 GB
+2 vCPUs
+1 Rep. Node
+$140 /mo
+$0.208 /hr
+4 GB
+2 vCPUs
+2 Rep. Nodes
+$210 /mo
+$0.313 /hr
+8 GB
+3 vCPUs
+0 Rep. Nodes
+$144 /mo
+$0.214 /hr
+8 GB
+3 vCPUs
+1 Rep. Node
+$260 /mo
+$0.387 /hr
+8 GB
+3 vCPUs
+2 Rep. Nodes
+$420 /mo
+$0.625 /hr
+16 GB
+4 vCPUs
+0 Rep. Nodes
+$288 /mo
+$0.429 /hr
+16 GB
+4 vCPUs
+1 Rep. Node
+$500 /mo
+$0.744 /hr
+16 GB
+4 vCPUs
+2 Rep. Nodes
+$840 /mo
+$1.250 /hr
+24 GB
+6 vCPUs
+0 Rep. Nodes
+$432 /mo
+$0.643 /hr
+24 GB
+6 vCPUs
+1 Rep. Node
+$740 /mo
+$1.101 /hr
+24 GB
+6 vCPUs
+2 Rep. Nodes
+$1,260 /mo
+$1.875 /hr
+32 GB
+8 vCPUs
+0 Rep. Nodes
+$576 /mo
+$0.857 /hr
+32 GB
+8 vCPUs
+1 Rep. Node
+$980 /mo
+$1.458 /hr
+32 GB
+8 vCPUs
+2 Rep. Nodes
+$1,680 /mo
+$2.500 /hr
+48 GB
+12 vCPUs
+0 Rep. Nodes
+$768 /mo
+$1.143 /hr
+48 GB
+12 vCPUs
+1 Rep. Node
+$1,300 /mo
+$1.935 /hr
+48 GB
+12 vCPUs
+2 Rep. Nodes
+$2,240 /mo
+$3.333 /hr
+Regular Performance
+Memory
+vCPUs
+Replica Nodes
+Monthly Price
+Hourly Price
+1 GB
+1 vCPU
+0 Rep. Nodes
+$15 /mo
+$0.022 /hr
+2 GB
+1 vCPU
+0 Rep. Nodes
+$30 /mo
+$0.045 /hr
+2 GB
+1 vCPU
+1 Rep. Node
+$60 /mo
+$0.089 /hr
+2 GB
+1 vCPU
+2 Rep. Nodes
+$90 /mo
+$0.134 /hr
+4 GB
+2 vCPUs
+0 Rep. Nodes
+$60 /mo
+$0.089 /hr
+4 GB
+2 vCPUs
+1 Rep. Node
+$120 /mo
+$0.179 /hr
+4 GB
+2 vCPUs
+2 Rep. Nodes
+$180 /mo
+$0.268 /hr
+8 GB
+4 vCPUs
+0 Rep. Nodes
+$120 /mo
+$0.179 /hr
+8 GB
+4 vCPUs
+1 Rep. Node
+$240 /mo
+$0.357 /hr
+8 GB
+4 vCPUs
+2 Rep. Nodes
+$360 /mo
+$0.536 /hr
+16 GB
+6 vCPUs
+0 Rep. Nodes
+$240 /mo
+$0.357 /hr
+16 GB
+6 vCPUs
+1 Rep. Node
+$480 /mo
+$0.714 /hr
+16 GB
+6 vCPUs
+2 Rep. Nodes
+$720 /mo
+$1.071 /hr
+32 GB
+8 vCPUs
+0 Rep. Nodes
+$480 /mo
+$0.714 /hr
+32 GB
+8 vCPUs
+1 Rep. Node
+$960 /mo
+$1.429 /hr
+32 GB
+8 vCPUs
+2 Rep. Nodes
+$1,440 /mo
+$2.143 /hr
+64 GB
+16 vCPUs
+0 Rep. Nodes
+$960 /mo
+$1.429 /hr
+64 GB
+16 vCPUs
+1 Rep. Node
+$1,920 /mo
+$2.857 /hr
+64 GB
+16 vCPUs
+2 Rep. Nodes
+$2,880 /mo
+$4.286 /hr
+96 GB
+24 vCPUs
+0 Rep. Nodes
+$1,920 /mo
+$2.857 /hr
+96 GB
+24 vCPUs
+1 Rep. Node
+$3,200 /mo
+$4.762 /hr
+96 GB
+24 vCPUs
+2 Rep. Nodes
+$4,480 /mo
+$6.667 /hr
+Pricing
+Memory
+vCPUs
+Replica Nodes
+Monthly Price
+Hourly Price
+1 GB
+1 vCPU
+0 Rep. Nodes
+$15 /mo
+$0.022 /hr
+2 GB
+1 vCPU
+0 Rep. Nodes
+$30 /mo
+$0.045 /hr
+2 GB
+1 vCPU
+1 Rep. Node
+$60 /mo
+$0.089 /hr
+2 GB
+1 vCPU
+2 Rep. Nodes
+$90 /mo
+$0.134 /hr
+4 GB
+2 vCPUs
+0 Rep. Nodes
+$60 /mo
+$0.089 /hr
+4 GB
+2 vCPUs
+1 Rep. Node
+$120 /mo
+$0.179 /hr
+4 GB
+2 vCPUs
+2 Rep. Nodes
+$180 /mo
+$0.268 /hr
+8 GB
+4 vCPUs
+0 Rep. Nodes
+$120 /mo
+$0.179 /hr
+8 GB
+4 vCPUs
+1 Rep. Node
+$240 /mo
+$0.357 /hr
+8 GB
+4 vCPUs
+2 Rep. Nodes
+$360 /mo
+$0.536 /hr
+16 GB
+6 vCPUs
+0 Rep. Nodes
+$240 /mo
+$0.357 /hr
+16 GB
+6 vCPUs
+1 Rep. Node
+$480 /mo
+$0.714 /hr
+16 GB
+6 vCPUs
+2 Rep. Nodes
+$720 /mo
+$1.071 /hr
+32 GB
+8 vCPUs
+0 Rep. Nodes
+$480 /mo
+$0.714 /hr
+32 GB
+8 vCPUs
+1 Rep. Node
+$960 /mo
+$1.429 /hr
+32 GB
+8 vCPUs
+2 Rep. Nodes
+$1,440 /mo
+$2.143 /hr
+64 GB
+16 vCPUs
+0 Rep. Nodes
+$960 /mo
+$1.429 /hr
+64 GB
+16 vCPUs
+1 Rep. Node
+$1,920 /mo
+$2.857 /hr
+64 GB
+16 vCPUs
+2 Rep. Nodes
+$2,880 /mo
+$4.286 /hr
+96 GB
+24 vCPUs
+0 Rep. Nodes
+$1,920 /mo
+$2.857 /hr
+96 GB
+24 vCPUs
+1 Rep. Node
+$3,200 /mo
+$4.762 /hr
+96 GB
+24 vCPUs
+2 Rep. Nodes
+$4,480 /mo
+$6.667 /hr
+Block Storage
+Price:
+$ 1.00 /month
+Storage:
+10 GB
+Object Storage
+Flexible pricing
+Storage
+TB Selected
+Bandwidth
+TB Selected
+Object storage
+$ /month
+TB of Storage
+TB of Bandwidth
+$5 per additional TB stored
+$10 per additional TB transferred
+Load Balancers
+$10.00 /mo $0.015/hr
+Add-on Services
+Billing for additional add-on services
+Documentation
+API
+FAQ
+How much does it cost to enable automatic backups?
+An instance with automatic backups enabled will have a 20% higher base monthly/hourly fee.
+Does Vultr charge for stored snapshots?
+Stored snapshots will cost $0.05/GB per month - pricing subject to change.
+How much does DDoS Protection cost?
+DDoS Protection adds 10Gbps of mitigation capacity per instance and costs an additional $10/mo.
+How much does Vultr charge for VPC Peering?
+Both the requester and accepter of the VPC peer connection are charged $10/mo. If the requester and accepter are the same Vultr account, the cost is $20/mo.
+What is the bandwidth overage rate?
+We charge $0.01 per GB for bandwidth used in excess of your quota.
+View all FAQs
+How much does it cost to enable automatic backups?
+An instance with automatic backups enabled will have a 20% higher base monthly/hourly fee.

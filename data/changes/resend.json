@@ -34,15 +34,15 @@
     "date": "2023-07-18",
     "source": "wayback",
     "prevTs": "20230605202412",
-    "kind": "price",
-    "score": 6,
+    "kind": "limits",
+    "score": 3,
     "counts": {
-      "price": 1,
+      "price": 0,
       "limit": 2,
       "plan": 0
     },
     "material": true,
-    "headline": "Resend: 1 price, 2 limits changed (100 → 3,000)",
+    "headline": "Resend: 2 limits changed (100 → 3,000)",
     "pairs": [
       {
         "before": "$0 / mo Up to 100 emails / mo Email Support",
@@ -62,13 +62,10 @@
     ],
     "added": [
       "1 Domain",
-      "$20 / mo 50,000 emails / mo No daily sending limit Slack Support",
       "Unlimited Domains",
       "Unlimited Domains"
     ],
-    "removed": [
-      "$20 / mo 50,000 emails / mo Slack Support"
-    ],
+    "removed": [],
     "totals": {
       "removed": 11,
       "added": 65,
@@ -77,10 +74,10 @@
     }
   },
   {
-    "id": "resend-com-pricing-20240207134433",
+    "id": "resend-com-pricing-20240716225552",
     "url": "https://resend.com/pricing",
-    "ts": "20240207134433",
-    "date": "2024-02-07",
+    "ts": "20240716225552",
+    "date": "2024-07-16",
     "source": "wayback",
     "prevTs": "20230718165621",
     "kind": "copy",
@@ -96,34 +93,8 @@
     "added": [],
     "removed": [],
     "totals": {
-      "removed": 0,
-      "added": 2,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    }
-  },
-  {
-    "id": "resend-com-pricing-20240716225552",
-    "url": "https://resend.com/pricing",
-    "ts": "20240716225552",
-    "date": "2024-07-16",
-    "source": "wayback",
-    "prevTs": "20240207134433",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Resend: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
       "removed": 1,
-      "added": 2,
+      "added": 4,
       "materialRemoved": 0,
       "materialAdded": 0
     }
@@ -147,12 +118,10 @@
     "pairs": [],
     "added": [
       "$0 / mo Up to 3,000 emails / mo",
-      "100 emails / day",
-      "$20 / mo 50,000 emails / mo"
+      "100 emails / day"
     ],
     "removed": [
-      "$0 / mo Up to 3,000 emails / mo 100 emails / day Email Support",
-      "$20 / mo 50,000 emails / mo No daily sending limit Slack Support"
+      "$0 / mo Up to 3,000 emails / mo 100 emails / day Email Support"
     ],
     "totals": {
       "removed": 4,
@@ -169,14 +138,14 @@
     "source": "wayback",
     "prevTs": "20240918133240",
     "kind": "price",
-    "score": 35,
+    "score": 29,
     "counts": {
-      "price": 2,
-      "limit": 9,
+      "price": 1,
+      "limit": 7,
       "plan": 6
     },
     "material": true,
-    "headline": "Resend: 2 prices, 9 limits, 6 plan names changed (removed “$0 / mo Up to 3,000 emails / mo”; added “3K 3,000”)",
+    "headline": "Resend: 1 price, 7 limits, 6 plan names changed (added “3K 3,000”)",
     "pairs": [],
     "added": [
       "3K 3,000",
@@ -189,9 +158,6 @@
       "2.5M 2,500,000",
       "3.0M+ 3,000,000+",
       "Free Recommended",
-      "$0 / mo 3,000 emails / mo",
-      "1 Domain",
-      "100 emails a day",
       "10 Domains",
       "$90 / mo 100,000 emails / mo",
       "1,000 Domains",
@@ -205,9 +171,6 @@
     ],
     "removed": [
       "Free",
-      "$0 / mo Up to 3,000 emails / mo",
-      "100 emails / day",
-      "1 Domain",
       "Unlimited Domains",
       "Unlimited Domains"
     ],
@@ -225,24 +188,18 @@
     "date": "2024-12-03",
     "source": "wayback",
     "prevTs": "20241110212750",
-    "kind": "limits",
-    "score": 4,
+    "kind": "copy",
+    "score": 0,
     "counts": {
       "price": 0,
-      "limit": 2,
+      "limit": 0,
       "plan": 0
     },
-    "material": true,
-    "headline": "Resend: 2 limits changed (removed “1.0M 1,000,000”; added “1M 1,000,000”)",
+    "material": false,
+    "headline": "Resend: pricing page text changed (no price or limit change detected)",
     "pairs": [],
-    "added": [
-      "1M 1,000,000",
-      "3M+ 3,000,000+"
-    ],
-    "removed": [
-      "1.0M 1,000,000",
-      "3.0M+ 3,000,000+"
-    ],
+    "added": [],
+    "removed": [],
     "totals": {
       "removed": 3,
       "added": 3,
@@ -258,14 +215,14 @@
     "source": "wayback",
     "prevTs": "20241203155312",
     "kind": "price",
-    "score": 20,
+    "score": 24,
     "counts": {
-      "price": 2,
+      "price": 3,
       "limit": 7,
       "plan": 1
     },
     "material": true,
-    "headline": "Resend: 2 prices, 7 limits, 1 plan name changed (removed “3K 3,000”)",
+    "headline": "Resend: 3 prices, 7 limits, 1 plan name changed (removed “3K 3,000”)",
     "pairs": [],
     "added": [],
     "removed": [
@@ -295,10 +252,10 @@
     }
   },
   {
-    "id": "resend-com-pricing-20250302185935",
+    "id": "resend-com-pricing-20250512170723",
     "url": "https://resend.com/pricing",
-    "ts": "20250302185935",
-    "date": "2025-03-02",
+    "ts": "20250512170723",
+    "date": "2025-05-12",
     "source": "wayback",
     "prevTs": "20250112184320",
     "kind": "copy",
@@ -314,60 +271,8 @@
     "added": [],
     "removed": [],
     "totals": {
-      "removed": 1,
-      "added": 1,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    }
-  },
-  {
-    "id": "resend-com-pricing-20250401155356",
-    "url": "https://resend.com/pricing",
-    "ts": "20250401155356",
-    "date": "2025-04-01",
-    "source": "wayback",
-    "prevTs": "20250302185935",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Resend: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 3,
-      "added": 2,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    }
-  },
-  {
-    "id": "resend-com-pricing-20250512170723",
-    "url": "https://resend.com/pricing",
-    "ts": "20250512170723",
-    "date": "2025-05-12",
-    "source": "wayback",
-    "prevTs": "20250401155356",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Resend: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 2,
-      "added": 2,
+      "removed": 4,
+      "added": 3,
       "materialRemoved": 0,
       "materialAdded": 0
     }
@@ -380,14 +285,14 @@
     "source": "wayback",
     "prevTs": "20250512170723",
     "kind": "price",
-    "score": 20,
+    "score": 24,
     "counts": {
-      "price": 2,
+      "price": 3,
       "limit": 7,
       "plan": 1
     },
     "material": true,
-    "headline": "Resend: 2 prices, 7 limits, 1 plan name changed (added “3K 3,000”)",
+    "headline": "Resend: 3 prices, 7 limits, 1 plan name changed (added “3K 3,000”)",
     "pairs": [],
     "added": [
       "3K 3,000",
@@ -423,47 +328,21 @@
     "date": "2025-09-01",
     "source": "wayback",
     "prevTs": "20250711200536",
-    "kind": "limits",
-    "score": 30,
+    "kind": "plans",
+    "score": 4,
     "counts": {
       "price": 0,
-      "limit": 13,
+      "limit": 0,
       "plan": 2
     },
     "material": true,
-    "headline": "Resend: 13 limits, 2 plan names changed (removed “3K 3,000”; added “3K 3,000”)",
+    "headline": "Resend: 2 plan names changed",
     "pairs": [],
     "added": [
-      "3K 3,000",
-      "50K 50,000",
-      "100K 100,000",
-      "200K 200,000",
-      "500K 500,000",
-      "1M 1,000,000",
-      "1.5M 1,500,000",
-      "2.5M 2,500,000",
-      "3M+ 3,000,000+",
-      "Free Recommended",
-      "1 Domain",
-      "100 emails a day",
-      "10 Domains",
-      "1,000 Domains"
+      "Free Recommended"
     ],
     "removed": [
-      "3K 3,000",
-      "50K 50,000",
-      "100K 100,000",
-      "200K 200,000",
-      "500K 500,000",
-      "1M 1,000,000",
-      "1.5M 1,500,000",
-      "2.5M 2,500,000",
-      "3M+ 3,000,000+",
-      "Free Recommended",
-      "1 Domain",
-      "100 emails a day",
-      "10 Domains",
-      "1,000 Domains"
+      "Free Recommended"
     ],
     "totals": {
       "removed": 44,
@@ -506,14 +385,14 @@
     "source": "wayback",
     "prevTs": "20251109223129",
     "kind": "price",
-    "score": 3,
+    "score": 6,
     "counts": {
-      "price": 1,
+      "price": 2,
       "limit": 0,
       "plan": 0
     },
     "material": true,
-    "headline": "Resend: 1 price changed (added “Extra emails: $0.90 / 1,000”)",
+    "headline": "Resend: 2 prices changed (added “Extra emails: $0.90 / 1,000”)",
     "pairs": [],
     "added": [
       "Extra emails: $0.90 / 1,000",
@@ -528,10 +407,10 @@
     }
   },
   {
-    "id": "resend-com-pricing-20260120180259",
+    "id": "resend-com-pricing-20260305174411",
     "url": "https://resend.com/pricing",
-    "ts": "20260120180259",
-    "date": "2026-01-20",
+    "ts": "20260305174411",
+    "date": "2026-03-05",
     "source": "wayback",
     "prevTs": "20251209110917",
     "kind": "copy",
@@ -547,34 +426,8 @@
     "added": [],
     "removed": [],
     "totals": {
-      "removed": 40,
-      "added": 39,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    }
-  },
-  {
-    "id": "resend-com-pricing-20260305174411",
-    "url": "https://resend.com/pricing",
-    "ts": "20260305174411",
-    "date": "2026-03-05",
-    "source": "wayback",
-    "prevTs": "20260120180259",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Resend: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 40,
-      "added": 41,
+      "removed": 2,
+      "added": 2,
       "materialRemoved": 0,
       "materialAdded": 0
     }
@@ -587,15 +440,27 @@
     "source": "wayback",
     "prevTs": "20260305174411",
     "kind": "limits",
-    "score": 3,
+    "score": 5,
     "counts": {
       "price": 0,
-      "limit": 2,
+      "limit": 3,
       "plan": 0
     },
     "material": true,
-    "headline": "Resend: 2 limits changed (removed “1 day”; added “Continue sending and receiving transactional …”)",
-    "pairs": [],
+    "headline": "Resend: 3 limits changed (3 → 30)",
+    "pairs": [
+      {
+        "before": "3 days",
+        "after": "30 days",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3",
+            "after": "30"
+          }
+        ]
+      }
+    ],
     "added": [
       "Continue sending and receiving transactional emails beyond your quota. Resend automatically charges your plan's overage rate for each additional bucket of 1,000 emails. Available to customers with paid Transactional subscriptions. Enable Pay-as-you-go"
     ],
@@ -617,8 +482,8 @@
     "date": "2026-05-02",
     "source": "wayback",
     "prevTs": "20260402062213",
-    "kind": "plans",
-    "score": 4,
+    "kind": "price",
+    "score": 5,
     "counts": {
       "price": 1,
       "limit": 0,
@@ -642,10 +507,10 @@
     }
   },
   {
-    "id": "resend-com-pricing-20260701142958",
+    "id": "resend-com-pricing-20260801112746",
     "url": "https://resend.com/pricing",
-    "ts": "20260701142958",
-    "date": "2026-07-01",
+    "ts": "20260801112746",
+    "date": "2026-08-01",
     "source": "wayback",
     "prevTs": "20260502104049",
     "kind": "copy",
@@ -663,36 +528,50 @@
     ],
     "removed": [],
     "totals": {
-      "removed": 2,
+      "removed": 1,
       "added": 1,
       "materialRemoved": 0,
       "materialAdded": 1
     }
   },
   {
-    "id": "resend-com-pricing-20260801112746",
+    "id": "resend-com-pricing-20260902202107",
     "url": "https://resend.com/pricing",
-    "ts": "20260801112746",
-    "date": "2026-08-01",
-    "source": "wayback",
-    "prevTs": "20260701142958",
-    "kind": "copy",
-    "score": 0,
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260801112746",
+    "kind": "price",
+    "score": 16,
     "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
+      "price": 2,
+      "limit": 4,
+      "plan": 1
     },
-    "material": false,
-    "headline": "Resend: pricing page text changed (no price or limit change detected)",
+    "material": true,
+    "headline": "Resend: 2 prices, 4 limits, 1 plan name changed (removed “Available to customers exceeding 3,000 emails…”; added “Domains - $20 / mo”)",
     "pairs": [],
-    "added": [],
-    "removed": [],
+    "added": [
+      "Domains - $20 / mo",
+      "Single Sign-On - $150 / mo",
+      "\" Switching over to Resend from SendGrid marked a significant improvement in our email management. We started with a small test - waitlist emails for our iOS and Windows apps. Within 30 minutes, we were done. \"",
+      "\" Switching over to Resend from SendGrid marked a significant improvement in our email management. We started with a small test - waitlist emails for our iOS and Windows apps. Within 30 minutes, we were done. \"",
+      "\" Switching over to Resend from SendGrid marked a significant improvement in our email management. We started with a small test - waitlist emails for our iOS and Windows apps. Within 30 minutes, we were done. \"",
+      "3 domains",
+      "All Free features",
+      "5 webhook endpoints",
+      "10 webhook endpoints"
+    ],
+    "removed": [
+      "Available to customers exceeding 3,000 emails sent per day on the Scale plan. We take great care to maintain good-standing shared IP's, but for some high-volume senders, you can't leave anything up to chance. We will warmup, monitor, and autoscale it based on your utilization so you can focus on one thing, sending.",
+      "1 domain"
+    ],
     "totals": {
-      "removed": 0,
-      "added": 1,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    }
+      "removed": 93,
+      "added": 84,
+      "materialRemoved": 3,
+      "materialAdded": 10
+    },
+    "transition": true
   }
 ]

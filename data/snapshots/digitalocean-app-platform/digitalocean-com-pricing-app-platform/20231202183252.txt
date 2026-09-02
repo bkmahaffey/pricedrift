@@ -1,0 +1,169 @@
+Simple, predictable pricing
+Always know what you'll pay with monthly caps and flat pricing.
+Get Started
+<- Back to overview
+App Platform
+Build, deploy, and scale apps quickly using a simple, fully managed solution. We'll handle the infrastructure, app runtimes, and dependencies, so you can focus on your code.
+Talk to an expert
+to learn more about DigitalOcean's App Platform.
+Starter
+$0 /month Great for testing
+Build static sites
+Add functions to static sites
+Build apps with just functions
+Deployment from GitHub
+Automatic HTTPS
+Bring your custom domain
+Global CDN
+DDoS mitigation
+Unlimited team members
+Basic
+$5 /month Great for everything
+Includes all Starter plan features
+Hourly application metrics
+Shared CPU
+Auto OS patching
+Vertical Scaling
+Professional
+$12 /month Great for pros
+Includes all Starter and Basic plan features
+Shared & dedicated CPU
+Horizontal scaling
+High availability
+Basic tier pricing
+The App Platform Basic tier gives you hourly application metrics, shared CPU, auto OS patching, and vertical scaling so you can quickly deploy code.
+CPUs
+Memory
+$/mo
+1 CPU
+512 MiB
+$5.00
+Get Started
+1 CPU
+1 GiB
+$10.00
+Get Started
+1 CPU
+2 GiB
+$20.00
+Get Started
+2 CPUs
+4 GiB
+$40.00
+Get Started
+Professional tier pricing
+The App Platform Professional tier is an excellent choice for professionals and includes shared and dedicated CPU, horizontal and vertical scaling, and high availability.
+CPUs
+Memory
+$/mo
+1 CPU
+1 GiB
+$12.00
+Get Started
+1 CPU
+2 GiB
+$25.00
+Get Started
+2 CPUs
+4 GiB
+$50.00
+Get Started
+1 CPU (dedicated)
+4 GiB
+$75.00
+Get Started
+2 CPUs (dedicated)
+8 GiB
+$150.00
+Get Started
+4 CPUs (dedicated)
+16 GiB
+$300.00
+Get Started
+Additional product pricing
+If you need additional resources than what are included in the Starter, Basic, and Professional tiers, then the following prices will apply.
+Product
+Quantity
+$/mo
+Additional outbound transfer
+1 GiB
+$0.10
+Development Database
+1 (512 MiB)
+$7.00
+Functions
+Varies
+Learn More
+Managed Databases
+Varies
+Learn More
+Spaces Object Storage
+Varies
+Learn More
+App Platform specific questions
+Can you provide an example of how App Platform pricing works?
+An app is typically made up of one or more components e.g. static assets, dynamic components like web service, workers, etc. When you run an app, we deploy an instance (container) of each of the components. For example: If an app is a static site, it will be deployed for free on the Starter tier. You can build and deploy 3 static sites for free on the Starter tier. Every additional static site will be charged $ 3.00 /mo. If your app is dynamic and has components like web service, background work
+How much outbound transfer do I get with App Platform?
+You get outbound transfer bandwidth for every app you deploy using App Platform. Starter: 1 GiB / Static site. Basic: 40 GiB per app. Professional: 100 GiB per app. Your outbound transfer is pooled at the account level. For example, if you deploy 3 static sites, 2 apps on Basic tier, and 1 app on Professional tier, then the total outbound transfer for your account will be 183 GiB per month (i.e. 3 GiB from the 3 static sites, 80 GiB from the 2 apps on Basic tier, and 100 GiB from the 1 app on Pr
+What happens if I exceed the usage limits?
+You can build and deploy 3 static sites for free on the Starter tier. Every additional static site will be charged $ 3.00 /mo. We may charge you for overages if you exceed the limits on outbound transfer. Resources – Overage charge outbound transfer – $ 0.10 /GiB
+How much does the Starter tier cost?
+The Starter tier is ideal to try App Platform and deploy static sites. You can build and deploy 3 static sites for free and for every additional static site, you would be charged $ 3.00 /month. You also get 1 GiB of outbound transfer per month for every static site. If you exceed this usage limit, we may charge you for overages.
+Are there any compute resources in the Starter tier?
+Yes, your Starter tier app can use DigitalOcean Functions. If you require long-lived containers you would need to upgrade to the Basic or Professional tiers.
+Are there any free resources in the Basic and Professional tiers?
+Yes. If your dynamic app has static site and functions components (e.g. www.my_dynamic_app.com/site1, www.my_dynamic_app.com/site2, www.my_dynamic_app.com/functions-api) then all of them will be deployed at no additional charge on the Basic and Professional tiers. This is in addition to the 3 free static sites that you get as part of the Starter tier. Learn more
+What is a development database?
+A development database has 512 MiB RAM. It has more limited capabilities than a Managed Database. It can only be used from the app it belongs to, it is not backed up by default, it does not support multi-database creation - and if the app is destroyed, the development database is destroyed with it. Currently, the development database only supports PostgreSQL.
+Frequently asked questions
+What forms of payment do you accept?
+We accept Visa, Mastercard, American Express, Discover, PayPal, Google Pay, and Apple Pay. Apple pay requires a Safari browser. For additional payment options, including wire transfer, purchase orders, and ACH, please contact us
+. Note that when you add a card, we may send a temporary pre-authorization request to the issuing bank. This pre-authorization charge is immediately released by DigitalOcean but may take a few days to clear from your card depending on the bank.
+When will my card be charged?
+DigitalOcean billing cycles are monthly. Typically, on the first day of each month we invoice and automatically charge your account's primary payment method for the previous month's usage. In some cases, we might charge if your usage exceeds a threshold
+. You can also login and self pay the balance at any time.
+Am I charged when I enter my credit card?
+No. Your card is only charged at the end of the billing cycle or upon exceeding a usage threshold. Pre-authorization charge: When you add a card, we may send a preauthorization request to the issuing bank. This is to verify that the card being added has been issued by the bank and that they will authorize any charges in future. These temporary pre-authorizations are typically $1 but can vary in range and are immediately canceled by us. Depending on your bank, it might take a few days for the cha
+Will taxes be included in my monthly invoice?
+We're required by law to apply taxes in some countries. Click here
+to learn whether we collect taxes in your country, what the tax rate is, etc.
+Why am I billed for powered off Droplets?
+When you power off your Droplet, you are still billed for it. This is because your disk space, CPU, RAM, and IP address are all reserved, even while powered off. Therefore, charges are made until you destroy the instance.
+How do I destroy my resources?
+Check out the docs to learn how to destroy Droplets
+, Kubernetes clusters
+, Managed Databases clusters ( PostgreSQL
+, MySQL
+, Redis
+), Spaces
+, Volumes
+, Firewalls
+, and Load Balancers
+.
+Can I be notified if my bill exceeds a threshold?
+Yes, you can set up billing alerts
+and we will email you if the monthly spending exceeds an amount you specify.
+What if I use my Droplet for less than a month, would I still be charged for the whole month?
+You will never be billed more than the monthly cost of your Droplet. All Droplets are billed hourly up to a monthly cap of 672 hours (the number of hours in 4 weeks). If you use your server for fewer than 672 hours during the month, you will be billed for each hour that you used it. If you use your server for more than 672 hours that month, you will be billed at the monthly cost. For example, if you spin up a $10/mo Droplet and use it for 336 hours, then you would be charged $5 (going by the hou
+I spun up a $4 Droplet, but my monthly bill is more than $4. Why is that?
+Our pricing is based on a single Droplet. You may have created additional resources and this could be the reason for the higher bill. You can check your bill in the control panel to get details on the various resources you are using. If you need help, please contact support.
+I got a $200 credit when I opened an account. When will my card be charged?
+Your card will be charged only after you have utilized the free credits. For example, if you received a $200 credit for 60 days, then that $200 credit is automatically applied to your account. If you spend $25 in that timeframe, then your card will not be charged. If you spend $300, then the $200 credit would be fully utilized and your card will be charged only $100. Since the credit is valid for 60 days, you won't be able to use any remaining credit after 60 days.
+What's the price for the Marketplace 1-Click Apps?
+We charge you for the underlying compute on which the 1-Click Apps runs.
+How do I remove my card from the account?
+To remove a saved payment method, visit the products billing page
+and click the … menu of the payment method, then click Delete. In the Confirm Delete Card window that opens, click Delete to remove the card. You cannot remove the default payment method on the account.
+Can I prepay for my resources?
+If you are interested in prepayment for resources, contact our experts
+.
+Can I have a refund?
+We do not offer refunds. If there are extenuating circumstances, contact support.
+Still have questions?
+Have a complex setup or additional questions around pricing? Contact our sales team to get more information on DigitalOcean pricing.
+Contact sales
+Start building today
+Sign up now and you'll be up and running on DigitalOcean in just minutes.
+Sign up to get started
+© 2023 DigitalOcean, LLC. Sitemap
+.

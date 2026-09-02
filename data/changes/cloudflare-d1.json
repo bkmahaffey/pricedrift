@@ -1,0 +1,493 @@
+[
+  {
+    "id": "developers-cloudflare-com-d1-platform-pricing-20230916212401",
+    "url": "https://developers.cloudflare.com/d1/platform/pricing/",
+    "ts": "20230916212401",
+    "date": "2023-09-16",
+    "source": "wayback",
+    "prevTs": "20230530164421",
+    "kind": "limits",
+    "score": 11,
+    "counts": {
+      "price": 0,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare D1: 6 limits changed (100MB → 500MB)",
+    "pairs": [
+      {
+        "before": "maximum database size to 100 MB and allows a total of 10 databases across all Workers plans",
+        "after": "maximum database size to 500 MB and allows a total of 10 databases across all Workers plans",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100MB",
+            "after": "500MB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Rows read measure how many rows a query reads (scans), regardless of the size of each row. For example, if you have a table with 5000 rows and run a SELECT * FROM table as a full table scan, this would count as 5,000 rows read. A query that filters on an unindexed column",
+      "Rows written measure how many rows were written to D1 database. A query that INSERT 10 rows into a users table would count as 10 rows written.",
+      "Row size or the number of columns in a row does not impact how rows are counted. A row that is 1 KB and a row that is 100 KB both count as one row.",
+      "Every query returns a meta object that contains a total count of the rows read ( rows_read) and rows written ( rows_written) by that query. For example, a query that performs a full table scan (for instance, SELECT * FROM users) from a table with 5000 rows would return a rows_read value of 5000:"
+    ],
+    "removed": [
+      "Read units (per 4KB scanned)",
+      "Write units (per 1KB written)",
+      "Read units measure how much data a query reads (scans), in units of 4 KB. For example, if you have a table with 5000 rows, with each row ~200 bytes, and run a SELECT * FROM table, your query would scan (5000 rows * 0.2KB / 4KB read unit) 1000 KB in total, or 250 read units.",
+      "Write units measure how much data was written to a D1 database, in 1KB units. An INSERT of a single row of 1900 bytes — a userID, name, email address and comments field, for example — would count as two (2) write units (2KB).",
+      "Both read and write units are rounded up to the nearest whole unit. A query that reads 1,000 rows of approximately 90 bytes ( 1000*.009 / 4), would consume 23 read units."
+    ],
+    "totals": {
+      "removed": 18,
+      "added": 45,
+      "materialRemoved": 8,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-d1-platform-pricing-20231130213058",
+    "url": "https://developers.cloudflare.com/d1/platform/pricing/",
+    "ts": "20231130213058",
+    "date": "2023-11-30",
+    "source": "wayback",
+    "prevTs": "20230916212401",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare D1: 2 limits changed (removed “maximum database size to 500 MB and allows a …”; added “D1 is currently free to use during the public…”)",
+    "pairs": [],
+    "added": [
+      "D1 is currently free to use during the public beta. Billing is expected to be enabled on December 1st, 2023 for developers using D1 on the Workers paid plan.",
+      "5 GB (total)"
+    ],
+    "removed": [
+      "maximum database size to 500 MB and allows a total of 10 databases across all Workers plans",
+      "1GB (total)"
+    ],
+    "totals": {
+      "removed": 25,
+      "added": 24,
+      "materialRemoved": 9,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-d1-platform-pricing-20240122051419",
+    "url": "https://developers.cloudflare.com/d1/platform/pricing/",
+    "ts": "20240122051419",
+    "date": "2024-01-22",
+    "source": "wayback",
+    "prevTs": "20231130213058",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare D1: 1 limit changed (2023 → 2024)",
+    "pairs": [
+      {
+        "before": "D1 is currently free to use during the public beta. Billing is expected to be enabled on December 1st, 2023 for developers using D1 on the Workers paid plan.",
+        "after": "D1 is currently free to use during the public beta. Billing is expected to be enabled in February 2024 for developers using D1 on the Workers paid plan.",
+        "confidence": 0.84,
+        "deltas": [
+          {
+            "before": "2023",
+            "after": "2024"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 25,
+      "added": 33,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-d1-platform-pricing-20241105200750",
+    "url": "https://developers.cloudflare.com/d1/platform/pricing/",
+    "ts": "20241105200750",
+    "date": "2024-11-05",
+    "source": "wayback",
+    "prevTs": "20240122051419",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare D1: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "D1 is currently free to use during the public beta. Billing is expected to be enabled in February 2024 for developers using D1 on the Workers paid plan.",
+      "Developers using the Workers Free plan and D1’s Free plan will not be charged.",
+      "These free limits are not currently enforced during the public beta."
+    ],
+    "totals": {
+      "removed": 82,
+      "added": 27,
+      "materialRemoved": 4,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-d1-platform-pricing-20250114154537",
+    "url": "https://developers.cloudflare.com/d1/platform/pricing/",
+    "ts": "20250114154537",
+    "date": "2025-01-14",
+    "source": "wayback",
+    "prevTs": "20241105200750",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare D1: 1 limit changed (100KB → 12KB)",
+    "pairs": [
+      {
+        "before": "Yes, although minimal. An empty table consumes at least a few kilobytes, based on the number of columns (table width) in the table. An empty database consumes approximately 100 KB of storage.",
+        "after": "Yes, although minimal. An empty table consumes at least a few kilobytes, based on the number of columns (table width) in the table. An empty database consumes approximately 12 KB of storage.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100KB",
+            "after": "12KB"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 28,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-d1-platform-limits-20250408165923",
+    "url": "https://developers.cloudflare.com/d1/platform/limits/",
+    "ts": "20250408165923",
+    "date": "2025-04-08",
+    "source": "wayback",
+    "prevTs": "20250127105702",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare D1: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 28,
+      "added": 32,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-d1-platform-limits-20250523220350",
+    "url": "https://developers.cloudflare.com/d1/platform/limits/",
+    "ts": "20250523220350",
+    "date": "2025-05-23",
+    "source": "wayback",
+    "prevTs": "20250408165923",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare D1: 1 limit changed (added “50 (Free) / 1000 (Paid)”)",
+    "pairs": [],
+    "added": [
+      "50 (Free) / 1000 (Paid)",
+      "2: A single Worker script can have up to 1 MB of script metadata. A binding is defined as a binding to a resource, such as a D1 database, KV namespace, environmental variable",
+      "A single Worker script can have up to 1 MB of script metadata. A binding is defined as a binding to a resource, such as a D1 database, KV namespace, environmental variable"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 9,
+      "materialRemoved": 0,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-d1-platform-limits-20250623175246",
+    "url": "https://developers.cloudflare.com/d1/platform/limits/",
+    "ts": "20250623175246",
+    "date": "2025-06-23",
+    "source": "wayback",
+    "prevTs": "20250523220350",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare D1: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-d1-platform-limits-20250717221545",
+    "url": "https://developers.cloudflare.com/d1/platform/limits/",
+    "ts": "20250717221545",
+    "date": "2025-07-17",
+    "source": "wayback",
+    "prevTs": "20250623175246",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare D1: 1 limit changed (removed “250 GB (Workers Paid) 1”; added “1 TB (Workers Paid) 1”)",
+    "pairs": [],
+    "added": [
+      "1 TB (Workers Paid) 1"
+    ],
+    "removed": [
+      "250 GB (Workers Paid) 1"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 2,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-d1-platform-limits-20250815000750",
+    "url": "https://developers.cloudflare.com/d1/platform/limits/",
+    "ts": "20250815000750",
+    "date": "2025-08-15",
+    "source": "wayback",
+    "prevTs": "20250717221545",
+    "kind": "limits",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare D1: 3 limits changed (1 → 2; 2 → 3)",
+    "pairs": [
+      {
+        "before": "1 TB (Workers Paid) 1",
+        "after": "1 TB (Workers Paid) 2",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1",
+            "after": "2"
+          }
+        ]
+      },
+      {
+        "before": "2: A single Worker script can have up to 1 MB of script metadata. A binding is defined as a binding to a resource, such as a D1 database, KV namespace, environmental variable",
+        "after": "3: A single Worker script can have up to 1 MB of script metadata. A binding is defined as a binding to a resource, such as a D1 database, KV namespace, environmental variable",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2",
+            "after": "3"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "5 GB 5"
+    ],
+    "removed": [
+      "5 GB 4"
+    ],
+    "totals": {
+      "removed": 11,
+      "added": 12,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-d1-platform-limits-20251016013407",
+    "url": "https://developers.cloudflare.com/d1/platform/limits/",
+    "ts": "20251016013407",
+    "date": "2025-10-16",
+    "source": "wayback",
+    "prevTs": "20250815000750",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare D1: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-d1-platform-limits-20251204213513",
+    "url": "https://developers.cloudflare.com/d1/platform/limits/",
+    "ts": "20251204213513",
+    "date": "2025-12-04",
+    "source": "wayback",
+    "prevTs": "20251016013407",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare D1: 2 limits changed (removed “Each D1 database can store up to 10 GB of dat…”; added “Each D1 database can store up to 10 GB of data.”)",
+    "pairs": [],
+    "added": [
+      "Each D1 database can store up to 10 GB of data.",
+      "If your average query takes 1 ms, you can run approximately 1,000 queries per second.",
+      "If your average query takes 100 ms, you can run 10 queries per second."
+    ],
+    "removed": [
+      "Each D1 database can store up to 10 GB of data, and you can create up to thousands of separate D1 databases. This allows you to split a single monolithic database into multiple, smaller databases, thereby isolating application data by user, customer, or tenant."
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 21,
+      "materialRemoved": 2,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-d1-platform-limits-20260508064048",
+    "url": "https://developers.cloudflare.com/d1/platform/limits/",
+    "ts": "20260508064048",
+    "date": "2026-05-08",
+    "source": "wayback",
+    "prevTs": "20251204213513",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare D1: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "3: A single Worker script can have up to 1 MB of script metadata. A binding is defined as a binding to a resource, such as a D1 database, KV namespace, environmental variable"
+    ],
+    "totals": {
+      "removed": 44,
+      "added": 5,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-d1-platform-pricing-20260824115553",
+    "url": "https://developers.cloudflare.com/d1/platform/pricing/",
+    "ts": "20260824115553",
+    "date": "2026-08-24",
+    "source": "wayback",
+    "prevTs": "20250114154537",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare D1: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 37,
+      "added": 12,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-d1-platform-limits-20260902202107",
+    "url": "https://developers.cloudflare.com/d1/platform/limits/",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260508064048",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare D1: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 8,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

@@ -1,0 +1,1387 @@
+[
+  {
+    "id": "azure-microsoft-com-en-us-pricing-free-services-20230731041011",
+    "url": "https://azure.microsoft.com/en-us/pricing/free-services",
+    "ts": "20230731041011",
+    "date": "2023-07-31",
+    "source": "wayback",
+    "prevTs": "20230504182848",
+    "kind": "limits",
+    "score": 87,
+    "counts": {
+      "price": 0,
+      "limit": 25,
+      "plan": 19
+    },
+    "material": true,
+    "headline": "Azure Free Services: 25 limits, 19 plan names changed (400 → 1,000; 50,000 → 30,000)",
+    "pairs": [
+      {
+        "before": "400 request units per-second provisioned throughput with 25 GB storage",
+        "after": "1,000 request units per-second provisioned throughput with 25 GB storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "400",
+            "after": "1,000"
+          }
+        ]
+      },
+      {
+        "before": "50,000 transactions S0 tier",
+        "after": "30,000 transactions S0 tier",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50,000",
+            "after": "30,000"
+          }
+        ]
+      },
+      {
+        "before": "30,000 transactions S0 tier",
+        "after": "50,000 transactions S0 tier",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "30,000",
+            "after": "50,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Take advantage of free products",
+      "These products are free up to the specified monthly amounts. Some are always free to all Azure customers, and some are free for 12 months to new customers only. 1",
+      "See all free services",
+      "12 Months",
+      "12 Months",
+      "12 Months",
+      "Take advantage of free products",
+      "These products are free up to the specified monthly amounts. Some are always free to all Azure customers, and some are free for 12 months to new customers only. 1",
+      "After your credit, keep getting free services",
+      "Free monthly amount",
+      "Free period",
+      "Unlimited",
+      "12 months",
+      "10 web, mobile, or API apps with 1 GB storage 1 hour per day",
+      "12 months",
+      "400 request units per-second provisioned throughput with 25 GB storage",
+      "12 months",
+      "1,000 request units per-second provisioned throughput with 25 GB storage",
+      "12 months",
+      "12 months",
+      "12 months",
+      "Free publishing",
+      "12 months",
+      "12 months",
+      "12 months",
+      "12 months",
+      "12 months",
+      "Free",
+      "12 months",
+      "Unlimited users",
+      "Free",
+      "100,000 operations per month",
+      "12 months",
+      "12 months",
+      "12 months",
+      "12 months",
+      "750 hours, 15 GB of data processing, and up to five rules with Standard Load Balancer",
+      "12 months",
+      "Free",
+      "12 months"
+    ],
+    "removed": [
+      "Free services",
+      "750 hours, 15 GB of data processing, and up to 5 rules with Standard Azure Load Balancer",
+      "Azure services that are free always",
+      "Unlimited",
+      "Free publishing",
+      "Free",
+      "5 million characters Standard, 500,000 characters Neural, and 5 million characters Custom, 1 Custom endpoint hosting model",
+      "Free",
+      "Free",
+      "Unlimited users",
+      "Free",
+      "Free",
+      "Free",
+      "Free"
+    ],
+    "totals": {
+      "removed": 320,
+      "added": 420,
+      "materialRemoved": 63,
+      "materialAdded": 106
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-free-services-20230909183422",
+    "url": "https://azure.microsoft.com/en-us/pricing/free-services",
+    "ts": "20230909183422",
+    "date": "2023-09-09",
+    "source": "wayback",
+    "prevTs": "20230731041011",
+    "kind": "limits",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Azure Free Services: 3 limits changed (1 removed; 1 removed)",
+    "pairs": [
+      {
+        "before": "These products are free up to the specified monthly amounts. Some are always free to all Azure customers, and some are free for 12 months to new customers only. 1",
+        "after": "These products are free up to the specified monthly amounts. Some are always free to all Azure customers, and some are free for 12 months to new customers only.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "These products are free up to the specified monthly amounts. Some are always free to all Azure customers, and some are free for 12 months to new customers only. 1",
+        "after": "These products are free up to the specified monthly amounts. Some are always free to all Azure customers, and some are free for 12 months to new customers only.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "5 GB locally redundant storage (LRS) hot block with 20,000 read and 10,000 write operations"
+    ],
+    "removed": [
+      "1,000 request units per-second provisioned throughput with 25 GB storage"
+    ],
+    "totals": {
+      "removed": 57,
+      "added": 57,
+      "materialRemoved": 13,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-free-services-20231105122940",
+    "url": "https://azure.microsoft.com/en-us/pricing/free-services",
+    "ts": "20231105122940",
+    "date": "2023-11-05",
+    "source": "wayback",
+    "prevTs": "20230909183422",
+    "kind": "limits",
+    "score": 14,
+    "counts": {
+      "price": 0,
+      "limit": 7,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Azure Free Services: 7 limits changed (removed “750 hours B1s burstable virtual machines”; added “750 hours each of B1s, B2pts v2 (Arm-based), …”)",
+    "pairs": [],
+    "added": [
+      "750 hours each of B1s, B2pts v2 (Arm-based), and B2ats v2 (AMD-based) burstable VMs",
+      "750 hours each of B1s, B2pts v2 (Arm-based), and B2ats v2 (AMD-based) burstable VMs",
+      "100,000 vCore seconds of SQL database serverless usage per month with 32 GB of storage",
+      "100,000 vCore seconds of SQL database serverless usage per month with 32 GB of storage",
+      "750 hours each of B1s, B2pts v2 (Arm-based), and B2ats v2 (AMD-based) burstable VMs",
+      "750 hours each of B1s, B2pts v2 (Arm-based), and B2ats v2 (AMD-based) burstable VMs"
+    ],
+    "removed": [
+      "750 hours B1s burstable virtual machines",
+      "750 hours B1s burstable virtual machines",
+      "12 Months",
+      "250 GB S0 instance with 10 database transaction units",
+      "250 GB S0 instance with 10 database transaction units",
+      "12 months",
+      "750 hours B1s burstable virtual machines",
+      "750 hours B1s burstable virtual machines"
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 11,
+      "materialRemoved": 8,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-free-services-20240118205050",
+    "url": "https://azure.microsoft.com/en-us/pricing/free-services",
+    "ts": "20240118205050",
+    "date": "2024-01-18",
+    "source": "wayback",
+    "prevTs": "20231105122940",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Azure Free Services: 1 limit changed (added “750 vCore hours per month with 32 GB of storage”)",
+    "pairs": [],
+    "added": [
+      "750 vCore hours per month with 32 GB of storage",
+      "12 months"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 6,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-free-services-20240308050040",
+    "url": "https://azure.microsoft.com/en-us/pricing/free-services",
+    "ts": "20240308050040",
+    "date": "2024-03-08",
+    "source": "wayback",
+    "prevTs": "20240118205050",
+    "kind": "plans",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Azure Free Services: 2 plan names changed",
+    "pairs": [],
+    "added": [
+      "Try Azure for free",
+      "AKS cluster management is free; you’ll incur a charge for resources consumed by nodes"
+    ],
+    "removed": [
+      "Free account",
+      "Free"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-free-services-20240514023838",
+    "url": "https://azure.microsoft.com/en-us/pricing/free-services",
+    "ts": "20240514023838",
+    "date": "2024-05-14",
+    "source": "wayback",
+    "prevTs": "20240308050040",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Azure Free Services: 2 limits changed (removed “12 months”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "12 months",
+      "5 hours each of Standard Passthrough, Live Transcription, and Standard Streaming endpoint",
+      "12 months"
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 0,
+      "materialRemoved": 3,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-free-services-20240720050322",
+    "url": "https://azure.microsoft.com/en-us/pricing/free-services",
+    "ts": "20240720050322",
+    "date": "2024-07-20",
+    "source": "wayback",
+    "prevTs": "20240514023838",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Azure Free Services: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Try Azure for free"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 0,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-free-services-20240908203329",
+    "url": "https://azure.microsoft.com/en-us/pricing/free-services",
+    "ts": "20240908203329",
+    "date": "2024-09-08",
+    "source": "wayback",
+    "prevTs": "20240720050322",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Azure Free Services: 1 plan name changed",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Start free"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-free-services-20241108144951",
+    "url": "https://azure.microsoft.com/en-us/pricing/free-services",
+    "ts": "20241108144951",
+    "date": "2024-11-08",
+    "source": "wayback",
+    "prevTs": "20240908203329",
+    "kind": "limits",
+    "score": 16,
+    "counts": {
+      "price": 0,
+      "limit": 5,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Azure Free Services: 5 limits, 3 plan names changed (55 → 65)",
+    "pairs": [
+      {
+        "before": "Create your Azure free account and get popular services free for 12 months and 55+ other services free always. Plus, get $200 credit to use in your first 30 days.",
+        "after": "Create your Azure free account and get popular services free for 12 months and 65+ other services free always. Plus, get $200 credit to use in your first 30 days.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "55",
+            "after": "65"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "20,000 transactions of free tier",
+      "5,000 text records or 5,000 images of free tier",
+      "2 million characters free tier",
+      "Always Free",
+      "Free for Azure resources (charged for Arc-enabled servers) – see pricing page for details.",
+      "Always Free"
+    ],
+    "removed": [
+      "20,000 transactions S0 tier",
+      "12 months",
+      "10,000 transactions S0 tier to moderate or review",
+      "12 months",
+      "12 months",
+      "Free",
+      "5 million characters Standard, 500,000 characters Neural, and hosting model"
+    ],
+    "totals": {
+      "removed": 106,
+      "added": 111,
+      "materialRemoved": 18,
+      "materialAdded": 17
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-purchase-options-azure-account-20250202021747",
+    "url": "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account",
+    "ts": "20250202021747",
+    "date": "2025-02-02",
+    "source": "wayback",
+    "prevTs": "20250105181609",
+    "kind": "limits",
+    "score": 10,
+    "counts": {
+      "price": 0,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Azure Free Services: 5 limits changed (1,000 added; 0 added)",
+    "pairs": [
+      {
+        "before": "400 request units per-second provisioned throughput with 25 GB storage",
+        "after": "400 request units per-second provisioned throughput with 25 GB storage / 1,000 request units per-second provisioned throughput with 25 GB storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "1,000"
+          },
+          {
+            "before": null,
+            "after": "25GB"
+          }
+        ]
+      },
+      {
+        "before": "30,000 transactions of Free instance",
+        "after": "30,000 transactions S0 tier / 30,000 transactions of Free instance",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": null,
+            "after": "0"
+          },
+          {
+            "before": null,
+            "after": "30,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "This service will offer a free tier for deployments with storage pool capacity under 5 TiB.",
+      "Azure Deployment Environments is a free service today. However, you will be charged for other Azure resources like compute, storage, and networking that are created in environments deployed through the service.",
+      "15 GB outbound / 100 GB outbound"
+    ],
+    "removed": [
+      "1,000 request units per-second provisioned throughput with 25 GB storage",
+      "15 GB outbound",
+      "100 GB outbound",
+      "30,000 transactions S0 tier"
+    ],
+    "totals": {
+      "removed": 19,
+      "added": 19,
+      "materialRemoved": 10,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-purchase-options-azure-account-20250309134902",
+    "url": "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account",
+    "ts": "20250309134902",
+    "date": "2025-03-09",
+    "source": "wayback",
+    "prevTs": "20250202021747",
+    "kind": "limits",
+    "score": 5,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Azure Free Services: 3 limits changed (removed “100,000 vCore seconds of SQL database serverl…”; added “Get up to 10 databases with 100,000 vCore sec…”)",
+    "pairs": [],
+    "added": [
+      "Try Azure for free",
+      "Get up to 10 databases with 100,000 vCore seconds of serverless tier and 32 GB of storage each.",
+      "A dedicated MongoDB cluster with 32 GB storage",
+      "Get up to 10 databases with 100,000 vCore seconds of serverless tier and 32 GB of storage each"
+    ],
+    "removed": [
+      "100,000 vCore seconds of SQL database serverless usage per month with 32 GB of storage",
+      "100,000 vCore seconds of SQL database serverless usage per month with 32 GB of storage"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 9,
+      "materialRemoved": 3,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-free-services-20250407174355",
+    "url": "https://azure.microsoft.com/en-us/pricing/free-services",
+    "ts": "20250407174355",
+    "date": "2025-04-07",
+    "source": "wayback",
+    "prevTs": "20241108144951",
+    "kind": "limits",
+    "score": 13,
+    "counts": {
+      "price": 0,
+      "limit": 7,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Azure Free Services: 7 limits changed (1,000 added; 0 added)",
+    "pairs": [
+      {
+        "before": "400 request units per-second provisioned throughput with 25 GB storage",
+        "after": "400 request units per-second provisioned throughput with 25 GB storage / 1,000 request units per-second provisioned throughput with 25 GB storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "1,000"
+          },
+          {
+            "before": null,
+            "after": "25GB"
+          }
+        ]
+      },
+      {
+        "before": "30,000 transactions of Free instance",
+        "after": "30,000 transactions S0 tier / 30,000 transactions of Free instance",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": null,
+            "after": "0"
+          },
+          {
+            "before": null,
+            "after": "30,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "This service will offer a free tier for deployments with storage pool capacity under 5 TiB.",
+      "A dedicated MongoDB cluster with 32 GB storage",
+      "Azure Deployment Environments is a free service today. However, you will be charged for other Azure resources like compute, storage, and networking that are created in environments deployed through the service.",
+      "15 GB outbound / 100 GB outbound",
+      "Get up to 10 databases with 100,000 vCore seconds of serverless tier and 32 GB of storage each"
+    ],
+    "removed": [
+      "1,000 request units per-second provisioned throughput with 25 GB storage",
+      "15 GB outbound",
+      "100 GB outbound",
+      "30,000 transactions S0 tier",
+      "100,000 vCore seconds of SQL database serverless usage per month with 32 GB of storage"
+    ],
+    "totals": {
+      "removed": 19,
+      "added": 25,
+      "materialRemoved": 10,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-free-services-20250620065622",
+    "url": "https://azure.microsoft.com/en-us/pricing/free-services",
+    "ts": "20250620065622",
+    "date": "2025-06-20",
+    "source": "wayback",
+    "prevTs": "20250407174355",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Azure Free Services: 1 limit changed (removed “100,000 vCore seconds of SQL database serverl…”; added “Get up to 10 databases with 100,000 vCore sec…”)",
+    "pairs": [],
+    "added": [
+      "Get up to 10 databases with 100,000 vCore seconds of serverless tier and 32 GB of storage each"
+    ],
+    "removed": [
+      "100,000 vCore seconds of SQL database serverless usage per month with 32 GB of storage"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 9,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-purchase-options-azure-account-20250710154336",
+    "url": "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account",
+    "ts": "20250710154336",
+    "date": "2025-07-10",
+    "source": "wayback",
+    "prevTs": "20250309134902",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Azure Free Services: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 24,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-free-services-20250712125425",
+    "url": "https://azure.microsoft.com/en-us/pricing/free-services",
+    "ts": "20250712125425",
+    "date": "2025-07-12",
+    "source": "wayback",
+    "prevTs": "20250620065622",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Azure Free Services: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-purchase-options-azure-account-20250801182755",
+    "url": "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account",
+    "ts": "20250801182755",
+    "date": "2025-08-01",
+    "source": "wayback",
+    "prevTs": "20250710154336",
+    "kind": "limits",
+    "score": 107,
+    "counts": {
+      "price": 0,
+      "limit": 31,
+      "plan": 23
+    },
+    "material": true,
+    "headline": "Azure Free Services: 31 limits, 23 plan names changed (removed “Get up to 10 databases with 100,000 vCore sec…”; added “100,000 vCore seconds of SQL database serverl…”)",
+    "pairs": [],
+    "added": [
+      "Unlimited users",
+      "100,000 vCore seconds of SQL database serverless usage per month with 32 GB of storage",
+      "Free",
+      "5 users with unlimited private Git repos",
+      "100,000 vCore seconds of SQL database serverless usage per month with 32 GB of storage",
+      "Free control plane functionality for outside resources and search/indexing for Arc-enabled resources",
+      "Free",
+      "1 Standard tier registry with 100 GB storage and 10 webhooks",
+      "Up to 10 web or API apps with 1 GB storage and 1 hour per day",
+      "AKS cluster management is free; you’ll incur a charge for resources consumed by nodes",
+      "180,000 vCPU seconds, 360,000 GiB seconds, and 2 million requests",
+      "100,000 vCore seconds of SQL database serverless usage per month with 32 GB of storage",
+      "1,000 request units per-second provisioned throughput with 25 GB storage",
+      "750 hours of Flexible Server—Burstable B1MS Instance, 32 GB storage, and 32 GB backup storage",
+      "Free",
+      "1,000 request units per-second provisioned throughput with 25 GB storage",
+      "See Azure Monitor pricing details for free amounts per feature",
+      "Free",
+      "Free",
+      "Unlimited",
+      "Free",
+      "Free"
+    ],
+    "removed": [
+      "Get up to 10 databases with 100,000 vCore seconds of serverless tier and 32 GB of storage each.",
+      "5 GB locally redundant storage (LRS) hot block with 20,000 read and 10,000 write operations",
+      "Take advantage of free products",
+      "Free monthly amount",
+      "Free period",
+      "Unlimited",
+      "20,000 transactions of free tier",
+      "A dedicated MongoDB cluster with 32 GB storage",
+      "50,000 transactions S0 tier",
+      "12 months",
+      "50 MB storage for 10,000 hosted documents and 3 indexes per service",
+      "10,000 transactions each of speaker verification, speaker identification, and voice profile storage",
+      "5,000 transactions for each S1, S2, and S3 tier",
+      "12 months",
+      "1,000 requests per day with 10 MB storage",
+      "10 GB LRS storage, 10 GB LRS or GRS write and retrieval, and 100 reads",
+      "12 months",
+      "Free Azure control plane functionality for resources outside Azure, search and indexing for Azure Arc-enabled resources",
+      "Free",
+      "Always Free",
+      "This service will offer a free tier for deployments with storage pool capacity under 5 TiB.",
+      "400 request units per-second provisioned throughput with 25 GB storage / 1,000 request units per-second provisioned throughput with 25 GB storage",
+      "12 months / Always",
+      "12 months",
+      "12 months",
+      "Azure Deployment Environments is a free service today. However, you will be charged for other Azure resources like compute, storage, and networking that are created in environments deployed through the service.",
+      "100 GB of LRS transaction optimized, hot, and cool files. 2 million read, list, and other file operations",
+      "12 months",
+      "Free",
+      "Free publishing",
+      "Free",
+      "Free access to configuration and change tracking features",
+      "Free (ingress and egress charges may apply)",
+      "20 concurrent connections per unit and 20,000 messages",
+      "750 vCore hours per month with 32 GB of storage",
+      "12 months",
+      "Free for Azure resources (charged for Arc-enabled servers) – see pricing page for details.",
+      "Always Free",
+      "15 GB outbound / 100 GB outbound",
+      "12 months / Always"
+    ],
+    "totals": {
+      "removed": 377,
+      "added": 225,
+      "materialRemoved": 105,
+      "materialAdded": 50
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-free-services-20250805091135",
+    "url": "https://azure.microsoft.com/en-us/pricing/free-services",
+    "ts": "20250805091135",
+    "date": "2025-08-05",
+    "source": "wayback",
+    "prevTs": "20250712125425",
+    "kind": "price",
+    "score": 131,
+    "counts": {
+      "price": 1,
+      "limit": 33,
+      "plan": 31
+    },
+    "material": true,
+    "headline": "Azure Free Services: 1 price, 33 limits, 31 plan names changed (1,000 removed)",
+    "pairs": [
+      {
+        "before": "400 request units per-second provisioned throughput with 25 GB storage / 1,000 request units per-second provisioned throughput with 25 GB storage",
+        "after": "400 request units per-second provisioned throughput with 25 GB storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1,000",
+            "after": null
+          },
+          {
+            "before": "25GB",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free service types",
+      "Take advantage of two types of free services",
+      "List of free services",
+      "Find your free services",
+      "Discover free Azure services to start creating, deploying, and managing apps that will take your business to the next level.",
+      "Always free",
+      "Azure free services",
+      "30,000 transactions of Free instance",
+      "30,000 transactions S0 tier",
+      "Free",
+      "Unlimited users",
+      "VM Image Builder is a free service. You may incur a charge if your build transfers data or uses paid Azure services.",
+      "Free",
+      "Free Standard Compute",
+      "Free",
+      "1 GB structured and blob storage, 50,000 API requests,.5 GB transformation operations, 100,000 events",
+      "Free, open-source edge runtime",
+      "8,000 messages per day and.5 KB message meter size of Free edition",
+      "Unlimited",
+      "Free publishing",
+      "Free",
+      "See Azure Monitor pricing details for free amounts per feature",
+      "Free",
+      "Free",
+      "1 million push notifications with free namespace",
+      "15 GB outbound",
+      "100 GB outbound",
+      "750 hours VpnGw1 Gateway Type",
+      "Free",
+      "Free policy assessment and recommendations",
+      "Azure free services",
+      "Free monthly amount",
+      "Free period",
+      "20,000 transactions of free tier",
+      "10,000 premium channel messages and unlimited standard channel messages",
+      "5,000 text records or 5,000 images of free tier",
+      "50 MB storage for 10,000 hosted documents and 3 indexes per service",
+      "10,000 transactions each of speaker verification, speaker identification, and voice profile storage",
+      "2 million characters free tier",
+      "30,000 transactions of Free instance"
+    ],
+    "removed": [
+      "See which services offer free monthly amounts.",
+      "There are two groups of free services",
+      "Certain types of these services are free up to a monthly amount.",
+      "Take advantage of free products",
+      "See all free services",
+      "Take advantage of free products",
+      "After your credit, keep getting free services",
+      "Unlimited",
+      "Always Free",
+      "Free publishing",
+      "Always Free",
+      "15 GB outbound / 100 GB outbound",
+      "30,000 transactions S0 tier / 30,000 transactions of Free instance",
+      "Free",
+      "Free",
+      "Try free Azure services today",
+      "Create your Azure free account and get popular services free for 12 months and 65+ other services free always. Plus, get $200 credit to use in your first 30 days.",
+      "Start free",
+      "Get started with pay-as-you-go pricing and only pay for what you use beyond monthly free amounts of services. No up-front commitment. Cancel anytime.",
+      "See what Azure costs beyond free services"
+    ],
+    "totals": {
+      "removed": 282,
+      "added": 600,
+      "materialRemoved": 71,
+      "materialAdded": 162
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-free-services-20250901064700",
+    "url": "https://azure.microsoft.com/en-us/pricing/free-services",
+    "ts": "20250901064700",
+    "date": "2025-09-01",
+    "source": "wayback",
+    "prevTs": "20250805091135",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Azure Free Services: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-purchase-options-azure-account-20251001041144",
+    "url": "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account",
+    "ts": "20251001041144",
+    "date": "2025-10-01",
+    "source": "wayback",
+    "prevTs": "20250801182755",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Azure Free Services: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-free-services-20251011072247",
+    "url": "https://azure.microsoft.com/en-us/pricing/free-services",
+    "ts": "20251011072247",
+    "date": "2025-10-11",
+    "source": "wayback",
+    "prevTs": "20250901064700",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Azure Free Services: 1 limit changed (removed “750 vCore hours per month with 32 GB of storage”; added “750 vCore hours of 4-vCore or 8-vCore General…”)",
+    "pairs": [],
+    "added": [
+      "750 vCore hours of 4-vCore or 8-vCore General Purpose instance – includes 64GB data storage and 64GB backup storage"
+    ],
+    "removed": [
+      "750 vCore hours per month with 32 GB of storage"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 2,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-free-services-20251110191134",
+    "url": "https://azure.microsoft.com/en-us/pricing/free-services",
+    "ts": "20251110191134",
+    "date": "2025-11-10",
+    "source": "wayback",
+    "prevTs": "20251011072247",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Azure Free Services: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-purchase-options-azure-account-20251110210950",
+    "url": "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account",
+    "ts": "20251110210950",
+    "date": "2025-11-10",
+    "source": "wayback",
+    "prevTs": "20251001041144",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Azure Free Services: 1 limit changed (added “12 months”)",
+    "pairs": [],
+    "added": [
+      "12 months",
+      "720 vCore hours of 4-vCore or 8-vCore General Purpose instance – includes 64GB data storage and 64GB backup storage"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 7,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-free-services-20251203231541",
+    "url": "https://azure.microsoft.com/en-us/pricing/free-services",
+    "ts": "20251203231541",
+    "date": "2025-12-03",
+    "source": "wayback",
+    "prevTs": "20251110191134",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Azure Free Services: 1 limit changed (750 → 720)",
+    "pairs": [
+      {
+        "before": "750 vCore hours of 4-vCore or 8-vCore General Purpose instance – includes 64GB data storage and 64GB backup storage",
+        "after": "720 vCore hours of 4-vCore or 8-vCore General Purpose instance – includes 64GB data storage and 64GB backup storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "750",
+            "after": "720"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 20,
+      "added": 20,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-free-services-20260114014603",
+    "url": "https://azure.microsoft.com/en-us/pricing/free-services",
+    "ts": "20260114014603",
+    "date": "2026-01-14",
+    "source": "wayback",
+    "prevTs": "20251203231541",
+    "kind": "limits",
+    "score": 10,
+    "counts": {
+      "price": 0,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Azure Free Services: 5 limits changed (removed “20,000 transactions of free tier”)",
+    "pairs": [],
+    "added": [
+      "AKS cluster management is free; you’ll incur a charge for resources consumed by nodes",
+      "AKS cluster management is free; you’ll incur a charge for resources consumed by nodes"
+    ],
+    "removed": [
+      "20,000 transactions of free tier",
+      "5,000 text records or 5,000 images of free tier",
+      "50,000 transactions S0 tier",
+      "12 months",
+      "20,000 transactions of free tier",
+      "5,000 text records or 5,000 images of free tier",
+      "12 months",
+      "50,000 transactions S0 tier",
+      "12 months",
+      "12 months"
+    ],
+    "totals": {
+      "removed": 89,
+      "added": 62,
+      "materialRemoved": 16,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-free-services-20260209003851",
+    "url": "https://azure.microsoft.com/en-us/pricing/free-services",
+    "ts": "20260209003851",
+    "date": "2026-02-09",
+    "source": "wayback",
+    "prevTs": "20260114014603",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Azure Free Services: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-free-services-20260313140405",
+    "url": "https://azure.microsoft.com/en-us/pricing/free-services",
+    "ts": "20260313140405",
+    "date": "2026-03-13",
+    "source": "wayback",
+    "prevTs": "20260209003851",
+    "kind": "limits",
+    "score": 103,
+    "counts": {
+      "price": 0,
+      "limit": 32,
+      "plan": 20
+    },
+    "material": true,
+    "headline": "Azure Free Services: 32 limits, 20 plan names changed (removed “12 months free”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Always free",
+      "12 months free",
+      "10,000 transactions each of speaker verification, speaker identification, and voice profile storage",
+      "Azure free services",
+      "Free monthly amount",
+      "Free period",
+      "50 MB storage for 10,000 hosted documents and 3 indexes per service",
+      "10,000 premium channel messages and unlimited standard channel messages",
+      "3,000 messages (up to 10 messages per second)",
+      "10,000 transactions each of speaker verification, speaker identification, and voice profile storage",
+      "2 million characters free tier",
+      "30,000 transactions of Free instance",
+      "Free",
+      "Free (egress charges may apply)",
+      "AKS cluster management is free; you’ll incur a charge for resources consumed by nodes",
+      "Unlimited users",
+      "Up to 10 web or API apps with 1 GB storage and 1 hour per day",
+      "AKS cluster management is free; you’ll incur a charge for resources consumed by nodes",
+      "VM Image Builder is a free service. You may incur a charge if your build transfers data or uses paid Azure services.",
+      "Free",
+      "100 GB bandwidth per subscription, 2 custom domains and.5 GB storage per app",
+      "This service will offer a free tier for deployments with storage pool capacity under 5 TiB.",
+      "180,000 vCPU seconds, 360,000 GiB seconds, and 2 million requests",
+      "Free",
+      "1,000 request units per-second provisioned throughput with 25 GB storage",
+      "A dedicated MongoDB cluster with 32 GB storage",
+      "Free Standard Compute",
+      "Get up to 10 databases with 100,000 vCore seconds of serverless tier and 32 GB of storage each",
+      "1,000 requests per day with 10 MB storage",
+      "Azure Deployment Environments is a free service today. However, you will be charged for other Azure resources like compute, storage, and networking that are created in environments deployed through the service.",
+      "5 users with unlimited private Git repos",
+      "Free",
+      "Free",
+      "Free Azure control plane functionality for resources outside Azure, search and indexing for Azure Arc-enabled resources",
+      "1 million monthly calls free with Consumption tier",
+      "100,000 operations per month",
+      "1 GB structured and blob storage, 50,000 API requests,.5 GB transformation operations, 100,000 events",
+      "1,000 to 5,000 transactions for specific mapping and location insights features",
+      "Free, open-source edge runtime",
+      "8,000 messages per day and.5 KB message meter size of Free edition"
+    ],
+    "totals": {
+      "removed": 406,
+      "added": 17,
+      "materialRemoved": 108,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-free-services-20260410121754",
+    "url": "https://azure.microsoft.com/en-us/pricing/free-services",
+    "ts": "20260410121754",
+    "date": "2026-04-10",
+    "source": "wayback",
+    "prevTs": "20260313140405",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Azure Free Services: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "Free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-free-services-20260504063522",
+    "url": "https://azure.microsoft.com/en-us/pricing/free-services",
+    "ts": "20260504063522",
+    "date": "2026-05-04",
+    "source": "wayback",
+    "prevTs": "20260410121754",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Azure Free Services: 1 limit changed (30 removed)",
+    "pairs": [
+      {
+        "before": "Pay as you go or try Azure free for up to 30 days. There’s no upfront commitment—cancel anytime.",
+        "after": "Try Azure free or pay as you go. There’s no upfront commitment—cancel anytime.",
+        "confidence": 0.83,
+        "deltas": [
+          {
+            "before": "30",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-free-services-20260701145500",
+    "url": "https://azure.microsoft.com/en-us/pricing/free-services",
+    "ts": "20260701145500",
+    "date": "2026-07-01",
+    "source": "wayback",
+    "prevTs": "20260504063522",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Azure Free Services: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-purchase-options-azure-account-20260804041745",
+    "url": "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account",
+    "ts": "20260804041745",
+    "date": "2026-08-04",
+    "source": "wayback",
+    "prevTs": "20251110210950",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Azure Free Services: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "See full free account offer terms"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 42,
+      "added": 29,
+      "materialRemoved": 12,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-free-services-20260902202107",
+    "url": "https://azure.microsoft.com/en-us/pricing/free-services",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260701145500",
+    "kind": "limits",
+    "score": 98,
+    "counts": {
+      "price": 0,
+      "limit": 30,
+      "plan": 19
+    },
+    "material": true,
+    "headline": "Azure Free Services: 30 limits, 19 plan names changed (removed “50 MB storage for 10,000 hosted documents and…”)",
+    "pairs": [],
+    "added": [
+      "Free Azure services",
+      "Free Azure services"
+    ],
+    "removed": [
+      "Azure free services",
+      "Free monthly amount",
+      "Free period",
+      "50 MB storage for 10,000 hosted documents and 3 indexes per service",
+      "12 months",
+      "10,000 premium channel messages and unlimited standard channel messages",
+      "12 months",
+      "3,000 messages (up to 10 messages per second)",
+      "2 million characters of any combination of standard translation and custom translation training free per month",
+      "5,000 transactions for each S1, S2, and S3 tier",
+      "12 months",
+      "30,000 transactions of Free instance",
+      "30,000 transactions S0 tier",
+      "12 months",
+      "Free",
+      "Free (egress charges may apply)",
+      "AKS cluster management is free; you’ll incur a charge for resources consumed by nodes",
+      "Unlimited users",
+      "Up to 10 web or API apps with 1 GB storage and 1 hour per day",
+      "AKS cluster management is free; you’ll incur a charge for resources consumed by nodes",
+      "VM Image Builder is a free service. You may incur a charge if your build transfers data or uses paid Azure services",
+      "Free",
+      "100 GB bandwidth per subscription, 2 custom domains and.5 GB storage per app",
+      "750 hours each of B2pts v2 (Arm-based), and B2ats v2 (AMD-based) burstable VMs",
+      "12 months",
+      "750 hours each of B2pts v2 (Arm-based), and B2ats v2 (AMD-based) burstable VMs",
+      "12 months",
+      "This service will offer a free tier for deployments with storage pool capacity under 5 TiB",
+      "180,000 vCPU seconds, 360,000 GiB seconds, and 2 million requests",
+      "1 Standard tier registry with 100 GB storage and 10 webhooks",
+      "12 months",
+      "Free",
+      "400 request units per-second provisioned throughput with 25 GB storage",
+      "12 months",
+      "1,000 request units per-second provisioned throughput with 25 GB storage",
+      "A dedicated MongoDB cluster with 32 GB storage",
+      "750 hours of Flexible Server—Burstable B1MS Instance, 32 GB storage, and 32 GB backup storage",
+      "12 months",
+      "750 hours of Flexible Server—Burstable B1MS Instance, 32 GB storage, and 32 GB backup storage",
+      "12 months"
+    ],
+    "totals": {
+      "removed": 374,
+      "added": 166,
+      "materialRemoved": 95,
+      "materialAdded": 2
+    },
+    "transition": true
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-purchase-options-azure-account-20260902202107",
+    "url": "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260804041745",
+    "kind": "plans",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Azure Free Services: 2 plan names changed",
+    "pairs": [],
+    "added": [
+      "Free Azure services",
+      "Free Azure services"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 166,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    },
+    "transition": true
+  }
+]

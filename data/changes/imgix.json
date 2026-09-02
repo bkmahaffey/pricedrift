@@ -1,0 +1,636 @@
+[
+  {
+    "id": "imgix-com-pricing-20230928133707",
+    "url": "https://www.imgix.com/pricing",
+    "ts": "20230928133707",
+    "date": "2023-09-28",
+    "source": "wayback",
+    "prevTs": "20230112091544",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "imgix: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 8,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "imgix-com-pricing-20240406124214",
+    "url": "https://www.imgix.com/pricing",
+    "ts": "20240406124214",
+    "date": "2024-04-06",
+    "source": "wayback",
+    "prevTs": "20230928133707",
+    "kind": "limits",
+    "score": 9,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "imgix: 3 limits, 2 plan names changed (removed “Excessive bandwidth usage above 100 MB per mo…”; added “100 GB Bandwidth”)",
+    "pairs": [],
+    "added": [
+      "100 GB Bandwidth",
+      "500 GB Bandwidth",
+      "2.5 TB Bandwidth",
+      "Free, Basic, Growth",
+      "We only measure bandwidth served from our CDN POP nodes to the client. If a 5 MB image is resized and served at 100 KB from our servers, then we will only count 100 KB. Each plan has an associated bandwidth limit.",
+      "Free plans that have exceeded the usage limit will be immediately limited from serving new images. Previously cached derivatives and derivatives of previously cached Origin Images will continue to be served but we cannot guarantee how long Origin Images or their derivatives will stay in cache.",
+      "All other plans that have exceeded usage will be at risk of being limited after continued usage. Consider upgrading your plan to guarantee new Origin Images are served.Free plans that have exceeded usage limits will have their renders limited."
+    ],
+    "removed": [
+      "Self-Service Plans Varied Prices Free, Basic, Growth",
+      "Bandwidth is included in all imgix plans, including our Free plan.",
+      "Excessive bandwidth usage above 100 MB per month per Origin Image included in each plan will be monitored by our team. Customers who need more than this can upgrade or reach out to our sales team about a custom Enterprise Plan.",
+      "Free plans:"
+    ],
+    "totals": {
+      "removed": 41,
+      "added": 118,
+      "materialRemoved": 5,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "imgix-com-pricing-20241012010655",
+    "url": "https://www.imgix.com/pricing",
+    "ts": "20241012010655",
+    "date": "2024-10-12",
+    "source": "wayback",
+    "prevTs": "20240406124214",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "imgix: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 11,
+      "added": 9,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "imgix-com-pricing-20250118082340",
+    "url": "https://www.imgix.com/pricing",
+    "ts": "20250118082340",
+    "date": "2025-01-18",
+    "source": "wayback",
+    "prevTs": "20241012010655",
+    "kind": "price",
+    "score": 46,
+    "counts": {
+      "price": 8,
+      "limit": 2,
+      "plan": 9
+    },
+    "material": true,
+    "headline": "imgix: 8 prices, 2 limits, 9 plan names changed (removed “100 GB Bandwidth”; added “$15 per 1000 images”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "$15 per 1000 images",
+      "$12 per 1000 images",
+      "$600+",
+      "$9 per 1000 images",
+      "$700+",
+      "$15 per 1000 images",
+      "Enjoy transparent pricing with unlimited transformations—no surprise bills or confusing calculations, just straightforward, predictable costs."
+    ],
+    "removed": [
+      "Free transformations, unlimited possibilities.",
+      "Free Plan",
+      "Always free",
+      "100 GB Bandwidth",
+      "GET STARTED FREE",
+      "Or $750 annually",
+      "500 GB Bandwidth",
+      "GET STARTED FREE",
+      "Or $3,000 annually",
+      "2.5 TB Bandwidth",
+      "GET STARTED FREE",
+      "Free, Basic, Growth",
+      "Getting started is always free, so what are you waiting for?",
+      "Free, Basic, Growth",
+      "Unlimited image transformations",
+      "We only measure bandwidth served from our CDN POP nodes to the client. If a 5 MB image is resized and served at 100 KB from our servers, then we will only count 100 KB. Each plan has an associated bandwidth limit.",
+      "Free plans that have exceeded the usage limit will be immediately limited from serving new images. Previously cached derivatives and derivatives of previously cached Origin Images will continue to be served but we cannot guarantee how long Origin Images or their derivatives will stay in cache.",
+      "All other plans that have exceeded usage will be at risk of being limited after continued usage. Consider upgrading your plan to guarantee new Origin Images are served.Free plans that have exceeded usage limits will have their renders limited.",
+      "Try imgix free"
+    ],
+    "totals": {
+      "removed": 218,
+      "added": 84,
+      "materialRemoved": 23,
+      "materialAdded": 12
+    }
+  },
+  {
+    "id": "imgix-com-pricing-20250412190829",
+    "url": "https://www.imgix.com/pricing",
+    "ts": "20250412190829",
+    "date": "2025-04-12",
+    "source": "wayback",
+    "prevTs": "20250118082340",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "imgix: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "imgix-com-pricing-20250708081053",
+    "url": "https://www.imgix.com/pricing",
+    "ts": "20250708081053",
+    "date": "2025-07-08",
+    "source": "wayback",
+    "prevTs": "20250412190829",
+    "kind": "price",
+    "score": 36,
+    "counts": {
+      "price": 6,
+      "limit": 8,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "imgix: 6 prices, 8 limits, 1 plan name changed (added “You’ve got 30 days and 100 credits to transfo…”)",
+    "pairs": [],
+    "added": [
+      "Try Imgix for Free",
+      "You’ve got 30 days and 100 credits to transform, optimize, and deliver your visuals like a pro. No credit card. No pressure. Just pure pixel power.",
+      "Start My Free Trial",
+      "Start for Free",
+      "100 GB",
+      "100 GB",
+      "You need more than 1,533 credits. Your recommended credit bundle is the Growth Bundle.",
+      "$25/mo",
+      "65 credits",
+      "$0.40 per credit",
+      "Up to 32.5GB of media",
+      "Up to 65GB delivery bandwidth",
+      "$75/mo",
+      "250 credits",
+      "$0.30 per credit",
+      "Up to 125GB of media",
+      "Up to 250GB delivery bandwidth",
+      "$300/mo",
+      "1,875 credits",
+      "$0.16 per credit",
+      "Up to 937GB of media",
+      "Up to 1,875GB delivery bandwidth",
+      "2 credits/GB",
+      "1 credit/GB",
+      "\"Imgix saves at least 100 kB per image by helping us serve the right size and format for each device.\""
+    ],
+    "removed": [
+      "Unlimited Transformations",
+      "Enjoy transparent pricing with unlimited transformations—no surprise bills or confusing calculations, just straightforward, predictable costs."
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 146,
+      "materialRemoved": 2,
+      "materialAdded": 25
+    }
+  },
+  {
+    "id": "imgix-com-pricing-20251109073102",
+    "url": "https://www.imgix.com/pricing",
+    "ts": "20251109073102",
+    "date": "2025-11-09",
+    "source": "wayback",
+    "prevTs": "20250708081053",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "imgix: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 6,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "imgix-com-pricing-20251209210050",
+    "url": "https://www.imgix.com/pricing",
+    "ts": "20251209210050",
+    "date": "2025-12-09",
+    "source": "wayback",
+    "prevTs": "20251109073102",
+    "kind": "price",
+    "score": 10,
+    "counts": {
+      "price": 2,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "imgix: 2 prices, 2 limits changed (65 → 100; $0.40 → $0.25)",
+    "pairs": [
+      {
+        "before": "65 credits",
+        "after": "100 credits",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "65",
+            "after": "100"
+          }
+        ]
+      },
+      {
+        "before": "$0.40 per credit",
+        "after": "$0.25 per credit",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.40",
+            "after": "$0.25"
+          }
+        ]
+      },
+      {
+        "before": "250 credits",
+        "after": "375 credits",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "250",
+            "after": "375"
+          }
+        ]
+      },
+      {
+        "before": "$0.30 per credit",
+        "after": "$0.20 per credit",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.30",
+            "after": "$0.20"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 7,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "imgix-com-pricing-20260113101620",
+    "url": "https://www.imgix.com/pricing",
+    "ts": "20260113101620",
+    "date": "2026-01-13",
+    "source": "wayback",
+    "prevTs": "20251209210050",
+    "kind": "price",
+    "score": 30,
+    "counts": {
+      "price": 6,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "imgix: 6 prices, 6 limits changed (added “One platform. Full access. Free 30-day trial.”)",
+    "pairs": [],
+    "added": [
+      "One platform. Full access. Free 30-day trial.",
+      "$25/mo",
+      "100 credits",
+      "$0.25 per credit",
+      "Up to 32.5GB of media",
+      "Up to 65GB delivery bandwidth",
+      "$75/mo",
+      "375 credits",
+      "$0.20 per credit",
+      "Up to 125GB of media",
+      "Up to 250GB delivery bandwidth",
+      "$300/mo",
+      "1,875 credits",
+      "$0.16 per credit",
+      "Up to 937GB of media",
+      "Up to 1,875GB delivery bandwidth",
+      "100 GB",
+      "100 GB",
+      "You need more than 1,533 credits. Your recommended credit bundle is the Growth Bundle."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 91,
+      "materialRemoved": 1,
+      "materialAdded": 20
+    }
+  },
+  {
+    "id": "imgix-com-pricing-20260204101653",
+    "url": "https://www.imgix.com/pricing",
+    "ts": "20260204101653",
+    "date": "2026-02-04",
+    "source": "wayback",
+    "prevTs": "20260113101620",
+    "kind": "price",
+    "score": 52,
+    "counts": {
+      "price": 10,
+      "limit": 11,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "imgix: 10 prices, 11 limits changed (32.5GB → 50GB; 65GB → 100GB)",
+    "pairs": [
+      {
+        "before": "Up to 32.5GB of media",
+        "after": "Up to 50GB of media",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "32.5GB",
+            "after": "50GB"
+          }
+        ]
+      },
+      {
+        "before": "Up to 65GB delivery bandwidth",
+        "after": "Up to 100GB delivery bandwidth",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "65GB",
+            "after": "100GB"
+          }
+        ]
+      },
+      {
+        "before": "Up to 125GB of media",
+        "after": "Up to 187.5GB of media",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "125GB",
+            "after": "187.5GB"
+          }
+        ]
+      },
+      {
+        "before": "Up to 250GB delivery bandwidth",
+        "after": "Up to 375GB delivery bandwidth",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "250GB",
+            "after": "375GB"
+          }
+        ]
+      },
+      {
+        "before": "Up to 937GB of media",
+        "after": "Up to 937.5GB of media",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "937GB",
+            "after": "937.5GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$150/mo",
+      "830 credits • $0.18 per credit",
+      "$500/mo",
+      "3,570 credits • $0.14 per credit"
+    ],
+    "removed": [
+      "$25/mo",
+      "100 credits",
+      "$0.25 per credit",
+      "Up to 32.5GB of media",
+      "Up to 65GB delivery bandwidth",
+      "$75/mo",
+      "375 credits",
+      "$0.20 per credit",
+      "Up to 125GB of media",
+      "Up to 250GB delivery bandwidth",
+      "$300/mo",
+      "1,875 credits",
+      "$0.16 per credit",
+      "Up to 937GB of media",
+      "Up to 1,875GB delivery bandwidth",
+      "100 GB",
+      "100 GB",
+      "You need more than 1,533 credits. Your recommended credit bundle is the Growth Bundle."
+    ],
+    "totals": {
+      "removed": 86,
+      "added": 15,
+      "materialRemoved": 23,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "imgix-com-pricing-20260311141219",
+    "url": "https://www.imgix.com/pricing",
+    "ts": "20260311141219",
+    "date": "2026-03-11",
+    "source": "wayback",
+    "prevTs": "20260204101653",
+    "kind": "price",
+    "score": 36,
+    "counts": {
+      "price": 9,
+      "limit": 4,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "imgix: 9 prices, 4 limits, 1 plan name changed (added “30 days to use 100 free credits. No credit ca…”)",
+    "pairs": [],
+    "added": [
+      "Start free",
+      "30 days to use 100 free credits. No credit card required.",
+      "$255/yr",
+      "$765/yr",
+      "$150/mo",
+      "$1,530/yr",
+      "830 credits",
+      "$0.18 per credit",
+      "Up to 415GB of media",
+      "Up to 830GB delivery bandwidth",
+      "$3060/yr",
+      "$500/mo",
+      "$5,100/yr",
+      "3,570 credits",
+      "$0.14 per credit",
+      "Up to 1,785GB of media",
+      "Up to 3,570GB delivery bandwidth"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 14,
+      "added": 49,
+      "materialRemoved": 2,
+      "materialAdded": 19
+    }
+  },
+  {
+    "id": "imgix-com-pricing-20260415004436",
+    "url": "https://www.imgix.com/pricing",
+    "ts": "20260415004436",
+    "date": "2026-04-15",
+    "source": "wayback",
+    "prevTs": "20260311141219",
+    "kind": "price",
+    "score": 81,
+    "counts": {
+      "price": 24,
+      "limit": 4,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "imgix: 24 prices, 4 limits, 1 plan name changed (removed “$0”; added “Save 17% - 2 months free!”)",
+    "pairs": [],
+    "added": [
+      "Save 17% - 2 months free!",
+      "Get 2 months free with Annual!",
+      "$250/yr",
+      "100 credits/mo",
+      "$0.21 per credit",
+      "$750/yr",
+      "375 credits/mo",
+      "$0.17 per credit",
+      "$1,500/yr",
+      "830 credits/mo",
+      "$0.15 per credit",
+      "$3000/yr",
+      "1,875 credits/mo",
+      "$0.13 per credit",
+      "$5,000/yr",
+      "3,570 credits/mo",
+      "$0.12 per credit"
+    ],
+    "removed": [
+      "Free",
+      "$0",
+      "$75",
+      "$15 per 1000 images",
+      "$300",
+      "$12 per 1000 images",
+      "Unlimited image transformations",
+      "$600+",
+      "$9 per 1000 images",
+      "$700+",
+      "$15 per 1000 images",
+      "$255/yr",
+      "$765/yr",
+      "$1,530/yr",
+      "$3060/yr",
+      "$5,100/yr"
+    ],
+    "totals": {
+      "removed": 65,
+      "added": 23,
+      "materialRemoved": 16,
+      "materialAdded": 17
+    }
+  },
+  {
+    "id": "imgix-com-pricing-20260814144942",
+    "url": "https://www.imgix.com/pricing",
+    "ts": "20260814144942",
+    "date": "2026-08-14",
+    "source": "wayback",
+    "prevTs": "20260415004436",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "imgix: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "imgix-com-pricing-20260902202107",
+    "url": "https://www.imgix.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260814144942",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "imgix: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

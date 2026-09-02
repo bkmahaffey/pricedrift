@@ -1,0 +1,757 @@
+[
+  {
+    "id": "developers-cloudflare-com-workers-ai-platform-pricing-20240504011230",
+    "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
+    "ts": "20240504011230",
+    "date": "2024-05-04",
+    "source": "wayback",
+    "prevTs": "20240301221344",
+    "kind": "price",
+    "score": 17,
+    "counts": {
+      "price": 4,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare Workers AI: 4 prices, 3 limits changed (added “On April 2, 2024, we updated pricing for our …”)",
+    "pairs": [],
+    "added": [
+      "On April 2, 2024, we updated pricing for our mistral-7b-instruct models to be 17x cheaper and llama-2-7b-chat-int8 to be 7x cheaper. The pricing table below reflects the new pricing, but you can take a look at the archived pricing",
+      "$0.16",
+      "$0.24",
+      "$0.11",
+      "$0.19",
+      "Price per 1M",
+      "Price per 1M",
+      "llama-2-7b-chat-int8",
+      "mistral-7b-instruct"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 10,
+      "added": 35,
+      "materialRemoved": 4,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-ai-platform-pricing-20240916171941",
+    "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
+    "ts": "20240916171941",
+    "date": "2024-09-16",
+    "source": "wayback",
+    "prevTs": "20240504011230",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Workers AI: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 47,
+      "added": 10,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-ai-platform-pricing-20241203061457",
+    "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
+    "ts": "20241203061457",
+    "date": "2024-12-03",
+    "source": "wayback",
+    "prevTs": "20240916171941",
+    "kind": "price",
+    "score": 145,
+    "counts": {
+      "price": 36,
+      "limit": 15,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Cloudflare Workers AI: 36 prices, 15 limits, 4 plan names changed (removed “and is priced at $0.011 / 1,000 Regular Twitc…”; added “<= 3B”)",
+    "pairs": [],
+    "added": [
+      "<= 3B",
+      "$0.10 per Million Tokens",
+      "3.1B - 8B",
+      "$0.15 per Million Tokens",
+      "8.1B - 20B",
+      "$0.20 per Million Tokens",
+      "20.1B - 40B",
+      "$0.50 per Million Tokens",
+      "40.1B+",
+      "$0.75 per Million Tokens",
+      "<= 150M parameters",
+      "$0.008 per Million Tokens",
+      "151M+ parameters",
+      "$0.015 per Million Tokens",
+      "$0.00025 per 5 steps",
+      "$0.0005 per 5 steps",
+      "$0.001 per 5 steps",
+      "$0.002 per 5 steps",
+      "$0.0039 per minute of audio input",
+      "Free Allocation",
+      "Our free allocation allows anyone to use Workers AI up to a certain limit per day. To use more than the free allocation, upgrade to the Workers Paid plan, where you will be charged on any usage above the free tier based on the pricing structure above.",
+      "Free tier size",
+      "10,000 tokens a day across any model size",
+      "10 minutes of audio a day"
+    ],
+    "removed": [
+      "and is priced at $0.011 / 1,000 Regular Twitch Neurons (also known as Neurons).",
+      "You can still enjoy unlimited usage on the beta models in the catalog until they graduate out of beta.",
+      "On Workers Paid, you will be charged at $0.011 / 1,000 Neurons for any usage above the free allocation of 10,000 Neurons per day for the non-beta models.",
+      "Free",
+      "Workers Free",
+      "$0.011 / 1,000 Neurons",
+      "Beginning April 1, 2024, Cloudflare will begin charging $0.011/1,000 Neurons for all usage exceeding 10,000 Neurons per day for the following models:",
+      "llama-2-7b-chat-int8",
+      "llama-2-7b-chat-fp16",
+      "mistral-7b-instruct-v0.1",
+      "m2m100-1.2b",
+      "$0.0022",
+      "$0.0000025",
+      "Price per 1M",
+      "$0.33",
+      "Price per 1M",
+      "$0.003",
+      "$0.014",
+      "$0.022",
+      "On April 2, 2024, we updated pricing for our mistral-7b-instruct models to be 17x cheaper and llama-2-7b-chat-int8 to be 7x cheaper. The pricing table below reflects the new pricing, but you can take a look at the archived pricing",
+      "Price per 1M",
+      "Price per 1M",
+      "llama-2-7b-chat-fp16",
+      "$0.56",
+      "$6.66",
+      "llama-2-7b-chat-int8",
+      "$0.16",
+      "$0.24",
+      "mistral-7b-instruct",
+      "$0.11",
+      "$0.19",
+      "Price per 1M",
+      "Price per 1M",
+      "m2m100-1.2b",
+      "$0.13",
+      "$0.70",
+      "All users receive free allocation of 10k Neurons a day (totaling to 300k Neurons a month).",
+      "If a user uses 50k Neurons per day, every day of the month, the Workers AI usage charge will be $13.20.",
+      "(50k Neurons - 10k included daily Neurons) * 30 days * $0.011 / 1k Neurons = $13.20",
+      "Price per 1M"
+    ],
+    "totals": {
+      "removed": 106,
+      "added": 82,
+      "materialRemoved": 48,
+      "materialAdded": 25
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-ai-platform-pricing-20250124105100",
+    "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
+    "ts": "20250124105100",
+    "date": "2025-01-24",
+    "source": "wayback",
+    "prevTs": "20241203061457",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Workers AI: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-ai-platform-pricing-20250224164824",
+    "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
+    "ts": "20250224164824",
+    "date": "2025-02-24",
+    "source": "wayback",
+    "prevTs": "20250124105100",
+    "kind": "price",
+    "score": 192,
+    "counts": {
+      "price": 53,
+      "limit": 13,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Cloudflare Workers AI: 53 prices, 13 limits, 4 plan names changed (removed “<= 3B”; added “and is priced at $0.011 per 1,000 Neurons.”)",
+    "pairs": [],
+    "added": [
+      "and is priced at $0.011 per 1,000 Neurons.",
+      "Our free allocation allows anyone to use a total of 10,000 Neurons per day at no charge. To use more than 10,000 Neurons per day, you need to sign up for the Workers Paid plan",
+      "On Workers Paid, you will be charged at $0.011 / 1,000 Neurons for any usage above the free allocation of 10,000 Neurons per day.",
+      "Free",
+      "Workers Free",
+      "$0.011 / 1,000 Neurons",
+      "@cf/meta/llama-3.2-1b-instruct",
+      "$0.027 per M input tokens",
+      "$0.201 per M output tokens",
+      "@cf/meta/llama-3.2-3b-instruct",
+      "$0.051 per M input tokens",
+      "$0.335 per M output tokens",
+      "@cf/meta/llama-3.1-8b-instruct-fp8-fast",
+      "$0.045 per M input tokens",
+      "$0.384 per M output tokens",
+      "@cf/meta/llama-3.2-11b-vision-instruct",
+      "$0.049 per M input tokens",
+      "$0.676 per M output tokens",
+      "@cf/meta/llama-3.1-70b-instruct-fp8-fast",
+      "$0.293 per M input tokens",
+      "$2.253 per M output tokens",
+      "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "$0.293 per M input tokens",
+      "$2.253 per M output tokens",
+      "@cf/deepseek-ai/deepseek-r1-distill-qwen-32b",
+      "$0.497 per M input tokens",
+      "$4.881 per M output tokens",
+      "@cf/mistral/mistral-7b-instruct-v0.1",
+      "$0.110 per M input tokens",
+      "$0.190 per M output tokens",
+      "@cf/meta/llama-3.1-8b-instruct",
+      "$0.282 per M input tokens",
+      "$0.827 per M output tokens",
+      "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "$0.152 per M input tokens",
+      "$0.287 per M output tokens",
+      "@cf/meta/llama-3.1-8b-instruct-awq",
+      "$0.123 per M input tokens",
+      "$0.266 per M output tokens",
+      "@cf/meta/llama-3-8b-instruct"
+    ],
+    "removed": [
+      "<= 3B",
+      "$0.10 per Million Tokens",
+      "3.1B - 8B",
+      "$0.15 per Million Tokens",
+      "8.1B - 20B",
+      "$0.20 per Million Tokens",
+      "20.1B - 40B",
+      "$0.50 per Million Tokens",
+      "40.1B+",
+      "$0.75 per Million Tokens",
+      "<= 150M parameters",
+      "$0.008 per Million Tokens",
+      "151M+ parameters",
+      "$0.015 per Million Tokens",
+      "$0.00025 per 5 steps",
+      "$0.0005 per 5 steps",
+      "$0.001 per 5 steps",
+      "$0.002 per 5 steps",
+      "$0.0039 per minute of audio input",
+      "Free Allocation",
+      "Our free allocation allows anyone to use Workers AI up to a certain limit per day. To use more than the free allocation, upgrade to the Workers Paid plan, where you will be charged on any usage above the free tier based on the pricing structure above.",
+      "Free tier size",
+      "10,000 tokens a day across any model size",
+      "10,000 tokens a day across any model size",
+      "10 minutes of audio a day"
+    ],
+    "totals": {
+      "removed": 80,
+      "added": 120,
+      "materialRemoved": 25,
+      "materialAdded": 59
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-ai-platform-pricing-20250328095409",
+    "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
+    "ts": "20250328095409",
+    "date": "2025-03-28",
+    "source": "wayback",
+    "prevTs": "20250224164824",
+    "kind": "price",
+    "score": 22,
+    "counts": {
+      "price": 7,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare Workers AI: 7 prices, 1 limit changed ($0.026 → $0.484)",
+    "pairs": [
+      {
+        "before": "$0.026 per M input tokens",
+        "after": "$0.484 per M input tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.026",
+            "after": "$0.484"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "@cf/meta/llama-guard-3-8b",
+      "$0.030 per M output tokens",
+      "$0.012 per M input tokens",
+      "$0.026 per M input tokens",
+      "$0.003 per M input tokens",
+      "$0.0005 per audio minute",
+      "$3.416 per M input tokens"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 13,
+      "added": 63,
+      "materialRemoved": 3,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-ai-platform-pricing-20250502013920",
+    "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
+    "ts": "20250502013920",
+    "date": "2025-05-02",
+    "source": "wayback",
+    "prevTs": "20250328095409",
+    "kind": "price",
+    "score": 38,
+    "counts": {
+      "price": 11,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare Workers AI: 11 prices, 3 limits changed ($3.416 → $0.351)",
+    "pairs": [
+      {
+        "before": "$3.416 per M input tokens",
+        "after": "$0.351 per M input tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.416",
+            "after": "$0.351"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "$0.555 per M output tokens",
+      "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "$0.270 per M input tokens",
+      "$0.850 per M output tokens",
+      "@cf/google/gemma-3-12b-it",
+      "$0.345 per M input tokens",
+      "$0.556 per M output tokens",
+      "@cf/qwen/qwq-32b",
+      "$0.660 per M input tokens",
+      "$1.000 per M output tokens",
+      "@cf/qwen/qwen2.5-coder-32b-instruct",
+      "$0.660 per M input tokens",
+      "$1.000 per M output tokens",
+      "$0.0002 per audio minute"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 28,
+      "materialRemoved": 1,
+      "materialAdded": 16
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-ai-platform-pricing-20250725172822",
+    "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
+    "ts": "20250725172822",
+    "date": "2025-07-25",
+    "source": "wayback",
+    "prevTs": "20250502013920",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Workers AI: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-ai-platform-pricing-20251007161711",
+    "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
+    "ts": "20251007161711",
+    "date": "2025-10-07",
+    "source": "wayback",
+    "prevTs": "20250725172822",
+    "kind": "price",
+    "score": 57,
+    "counts": {
+      "price": 17,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare Workers AI: 17 prices, 3 limits changed (added “@cf/openai/gpt-oss-120b”)",
+    "pairs": [],
+    "added": [
+      "@cf/openai/gpt-oss-120b",
+      "$0.350 per M input tokens",
+      "$0.750 per M output tokens",
+      "@cf/openai/gpt-oss-20b",
+      "$0.200 per M input tokens",
+      "$0.300 per M output tokens",
+      "@cf/aisingapore/gemma-sea-lion-v4-27b-it",
+      "$0.351 per M input tokens",
+      "$0.555 per M output tokens",
+      "@cf/pfnet/plamo-embedding-1b",
+      "$0.019 per M input tokens",
+      "$0.006996 per 512x512 tile",
+      "$0.000132 per step",
+      "$0.005830 per 512x512 tile",
+      "$0.000110 per step",
+      "$0.015 per 1k characters input",
+      "1,363.64 neurons per 1k characters input",
+      "$0.0052 per audio minute input",
+      "$0.0092 per audio minute input",
+      "$0.00033795 per audio minute input",
+      "@cf/ai4bharat/indictrans2-en-indic-1B",
+      "$0.342 per M input tokens",
+      "$0.342 per M output tokens"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 12,
+      "added": 65,
+      "materialRemoved": 3,
+      "materialAdded": 26
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-ai-platform-pricing-20251107224336",
+    "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
+    "ts": "20251107224336",
+    "date": "2025-11-07",
+    "source": "wayback",
+    "prevTs": "20251007161711",
+    "kind": "price",
+    "score": 14,
+    "counts": {
+      "price": 4,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare Workers AI: 4 prices, 1 limit changed (added “$0.017 per M input tokens”)",
+    "pairs": [],
+    "added": [
+      "$0.017 per M input tokens",
+      "$0.112 per M output tokens",
+      "$0.030 per 1k characters input",
+      "2727.27 neurons per 1k characters input",
+      "$0.030 per 1k characters input",
+      "2727.27 neurons per 1k characters input"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 11,
+      "materialRemoved": 0,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-ai-platform-pricing-20251205184556",
+    "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
+    "ts": "20251205184556",
+    "date": "2025-12-05",
+    "source": "wayback",
+    "prevTs": "20251107224336",
+    "kind": "price",
+    "score": 20,
+    "counts": {
+      "price": 6,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare Workers AI: 6 prices, 1 limit changed (added “@cf/qwen/qwen3-30b-a3b-fp8”)",
+    "pairs": [],
+    "added": [
+      "@cf/qwen/qwen3-30b-a3b-fp8",
+      "$0.051 per M input tokens",
+      "$0.335 per M output tokens",
+      "@cf/qwen/qwen3-embedding-0.6b",
+      "$0.012 per M input tokens",
+      "$0.00021 per input 512x512 tile, per step",
+      "$0.00041 per output 512x512 tile, per step",
+      "$0.0077 per audio minute"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 16,
+      "materialRemoved": 0,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-ai-platform-pricing-20260201163707",
+    "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
+    "ts": "20260201163707",
+    "date": "2026-02-01",
+    "source": "wayback",
+    "prevTs": "20251205184556",
+    "kind": "price",
+    "score": 17,
+    "counts": {
+      "price": 5,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare Workers AI: 5 prices, 1 limit changed (added “@cf/black-forest-labs/flux-2-klein-4b”)",
+    "pairs": [],
+    "added": [
+      "@cf/black-forest-labs/flux-2-klein-4b",
+      "$0.000059 per input 512x512 tile",
+      "$0.000287 per output 512x512 tile",
+      "@cf/black-forest-labs/flux-2-klein-9b",
+      "$0.015 per first MP (1024x1024)",
+      "$0.002 per subsequent MP",
+      "$0.002 per input image MP"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 12,
+      "materialRemoved": 0,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-ai-platform-pricing-20260305131511",
+    "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
+    "ts": "20260305131511",
+    "date": "2026-03-05",
+    "source": "wayback",
+    "prevTs": "20260201163707",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare Workers AI: 2 prices changed (added “$0.060 per M input tokens”)",
+    "pairs": [],
+    "added": [
+      "$0.060 per M input tokens",
+      "$0.400 per M output tokens"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 31,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-ai-platform-pricing-20260401171119",
+    "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
+    "ts": "20260401171119",
+    "date": "2026-04-01",
+    "source": "wayback",
+    "prevTs": "20260305131511",
+    "kind": "price",
+    "score": 16,
+    "counts": {
+      "price": 5,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare Workers AI: 5 prices, 1 limit changed (added “@cf/nvidia/nemotron-3-120b-a12b”)",
+    "pairs": [],
+    "added": [
+      "@cf/nvidia/nemotron-3-120b-a12b",
+      "$0.500 per M input tokens",
+      "$1.500 per M output tokens",
+      "$0.600 per M input tokens",
+      "$0.100 per M cached input tokens",
+      "$3.000 per M output tokens"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 16,
+      "materialRemoved": 0,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-ai-platform-pricing-20260504172158",
+    "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
+    "ts": "20260504172158",
+    "date": "2026-05-04",
+    "source": "wayback",
+    "prevTs": "20260401171119",
+    "kind": "price",
+    "score": 16,
+    "counts": {
+      "price": 5,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare Workers AI: 5 prices, 1 limit changed (added “$0.950 per M input tokens”)",
+    "pairs": [],
+    "added": [
+      "$0.950 per M input tokens",
+      "$0.160 per M cached input tokens",
+      "$4.000 per M output tokens",
+      "@cf/google/gemma-4-26b-a4b-it",
+      "$0.100 per M input tokens",
+      "$0.300 per M output tokens"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 15,
+      "materialRemoved": 0,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-ai-platform-pricing-20260702095056",
+    "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
+    "ts": "20260702095056",
+    "date": "2026-07-02",
+    "source": "wayback",
+    "prevTs": "20260504172158",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 6,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare Workers AI: 6 prices changed (added “$1.400 per M input tokens”)",
+    "pairs": [],
+    "added": [
+      "$1.400 per M input tokens",
+      "$0.260 per M cached input tokens",
+      "$4.400 per M output tokens",
+      "$0.950 per M input tokens",
+      "$0.190 per M cached input tokens",
+      "$4.000 per M output tokens"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 14,
+      "materialRemoved": 0,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-ai-platform-pricing-20260805125700",
+    "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
+    "ts": "20260805125700",
+    "date": "2026-08-05",
+    "source": "wayback",
+    "prevTs": "20260702095056",
+    "kind": "price",
+    "score": 7,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare Workers AI: 2 prices, 1 limit changed (added “@cf/moondream/moondream3.1-9B-A2B”)",
+    "pairs": [],
+    "added": [
+      "Some models are not available on the Workers Free plan and require the Workers Paid plan",
+      "@cf/moondream/moondream3.1-9B-A2B",
+      "$0.300 per M input tokens",
+      "$1.000 per M output tokens"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 15,
+      "materialRemoved": 0,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-ai-platform-pricing-20260902202107",
+    "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260805125700",
+    "kind": "price",
+    "score": 43,
+    "counts": {
+      "price": 14,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare Workers AI: 14 prices, 1 limit changed (added “$0.440 per M input tokens”)",
+    "pairs": [],
+    "added": [
+      "$0.440 per M input tokens",
+      "$0.014 per M cached input tokens",
+      "$1.320 per M output tokens",
+      "$1.320 per M input tokens",
+      "$0.044 per M cached input tokens",
+      "$3.960 per M output tokens",
+      "@cf/qwen/qwen3.8-27b",
+      "$0.450 per M input tokens",
+      "$3.200 per M output tokens",
+      "$1.400 per M input tokens",
+      "$0.260 per M cached input tokens",
+      "$4.400 per M output tokens",
+      "$0.150 per M input tokens",
+      "$0.030 per M cached input tokens",
+      "$0.500 per M output tokens"
+    ],
+    "removed": [
+      "Some models are not available on the Workers Free plan and require the Workers Paid plan"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 41,
+      "materialRemoved": 1,
+      "materialAdded": 15
+    },
+    "transition": true
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "payloadcms-com-cloud-pricing-20240322094533",
+    "url": "https://payloadcms.com/cloud-pricing",
+    "ts": "20240322094533",
+    "date": "2024-03-22",
+    "source": "wayback",
+    "prevTs": "20231201203018",
+    "kind": "price",
+    "score": 8,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Payload: 2 prices, 1 plan name changed (removed “* $0.50 per GB of database storage, ** $0.20 …”; added “* $0.50 per GB of database storage ** $0.20 p…”)",
+    "pairs": [],
+    "added": [
+      "Self-hosted Free",
+      "Payload is open-source and MIT licensed. Deploy it wherever, for free, forever.",
+      "* $0.50 per GB of database storage ** $0.20 per GB of bandwidth /mo *** $0.02 per GB of file storage overages **** Atlas Serverless $0.40 per million RPU /mo"
+    ],
+    "removed": [
+      "* $0.50 per GB of database storage, ** $0.20 per GB of bandwidth /mo, and *** $0.02 per GB of file storage overages are charged for Standard and Pro plans."
+    ],
+    "totals": {
+      "removed": 15,
+      "added": 34,
+      "materialRemoved": 1,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "payloadcms-com-cloud-pricing-20250113085535",
+    "url": "https://payloadcms.com/cloud-pricing",
+    "ts": "20250113085535",
+    "date": "2025-01-13",
+    "source": "wayback",
+    "prevTs": "20240322094533",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Payload: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 7,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "payloadcms-com-cloud-pricing-20250328102154",
+    "url": "https://payloadcms.com/cloud-pricing",
+    "ts": "20250328102154",
+    "date": "2025-03-28",
+    "source": "wayback",
+    "prevTs": "20250113085535",
+    "kind": "price",
+    "score": 15,
+    "counts": {
+      "price": 5,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Payload: 5 prices changed (removed “* $0.50 per GB of database storage ** $0.20 p…”; added “* $0.50 per GB of database storage”)",
+    "pairs": [],
+    "added": [
+      "* $0.50 per GB of database storage",
+      "** $0.20 per GB of bandwidth /mo",
+      "*** $0.02 per GB of file storage overages",
+      "**** Atlas Serverless $0.40 per million RPU /mo"
+    ],
+    "removed": [
+      "* $0.50 per GB of database storage ** $0.20 per GB of bandwidth /mo *** $0.02 per GB of file storage overages **** Atlas Serverless $0.40 per million RPU /mo"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 4,
+      "materialRemoved": 1,
+      "materialAdded": 4
+    }
+  }
+]

@@ -1,0 +1,553 @@
+[
+  {
+    "id": "honeycomb-io-pricing-20230421192835",
+    "url": "https://www.honeycomb.io/pricing",
+    "ts": "20230421192835",
+    "date": "2023-04-21",
+    "source": "wayback",
+    "prevTs": "20230107180439",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Honeycomb: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "honeycomb-io-pricing-20230929074537",
+    "url": "https://www.honeycomb.io/pricing",
+    "ts": "20230929074537",
+    "date": "2023-09-29",
+    "source": "wayback",
+    "prevTs": "20230421192835",
+    "kind": "price",
+    "score": 29,
+    "counts": {
+      "price": 6,
+      "limit": 5,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Honeycomb: 6 prices, 5 limits, 1 plan name changed (removed “Get answers and 14 days for free from our exp…”; added “Volume: 20M per month”)",
+    "pairs": [],
+    "added": [
+      "start for free",
+      "Volume: 20M per month",
+      "Volume: 100M, 450M, or 1.5B per month",
+      "From the Honeycomb web UI, find the Usage page under Team Settings. This page shows your team’s event volume for the last 60 days. In the table at the bottom of the page, you’ll also find the number of events received per dataset.",
+      "Event size limits are generous. Events are limited to 100kb size with a maximum of 2000 columns. Events over this size are rejected by Honeycomb with an error code in the API response. See our Events API documentation",
+      "for more information.For reference, all of the text displayed on this FAQ page (including the intro and table of contents) is approximately 9kb in size.",
+      "Our data retention logic is based on time of ingest, so it will be there for 60 days from the date you sent it to Honeycomb (regardless of what’s on the timestamp of the events).",
+      "Is it possible to set my data retention period beyond 60 days for a dataset?",
+      "If you have an Enterprise plan and need more than 60 days of retention, we can work with you to customize your plan. Please contact your Honeycomb sales rep directly for more details.",
+      "Free",
+      "$0",
+      "$130",
+      "$585",
+      "$5,850",
+      "$1,950",
+      "$19,500"
+    ],
+    "removed": [
+      "start free plan",
+      "Get answers and 14 days for free from our experts",
+      "start free plan",
+      "Use Free features forever or upgrade to Pro at any time",
+      "start free plan",
+      "Use Free features forever or upgrade to Pro at any time"
+    ],
+    "totals": {
+      "removed": 43,
+      "added": 115,
+      "materialRemoved": 11,
+      "materialAdded": 21
+    }
+  },
+  {
+    "id": "honeycomb-io-pricing-20250122083310",
+    "url": "https://www.honeycomb.io/pricing",
+    "ts": "20250122083310",
+    "date": "2025-01-22",
+    "source": "wayback",
+    "prevTs": "20230929074537",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Honeycomb: 1 limit changed (removed “If you have an Enterprise plan and need more …”; added “Each event can be up to 100KB, with up to 200…”)",
+    "pairs": [],
+    "added": [
+      "Each event can be up to 100KB, with up to 2000 attributes, and these attributes can have any number of values."
+    ],
+    "removed": [
+      "If you have an Enterprise plan and need more than 60 days of retention, we can work with you to customize your plan. Please contact your Honeycomb sales rep directly for more details."
+    ],
+    "totals": {
+      "removed": 23,
+      "added": 42,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "honeycomb-io-pricing-20250309231101",
+    "url": "https://www.honeycomb.io/pricing",
+    "ts": "20250309231101",
+    "date": "2025-03-09",
+    "source": "wayback",
+    "prevTs": "20250122083310",
+    "kind": "price",
+    "score": 7,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Honeycomb: 1 price, 2 plan names changed (removed “$0”)",
+    "pairs": [],
+    "added": [
+      "Free forever",
+      "Start for free"
+    ],
+    "removed": [
+      "$0"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 5,
+      "materialRemoved": 2,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "honeycomb-io-pricing-20250405073028",
+    "url": "https://www.honeycomb.io/pricing",
+    "ts": "20250405073028",
+    "date": "2025-04-05",
+    "source": "wayback",
+    "prevTs": "20250309231101",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Honeycomb: 1 limit changed (100KB → 1MB)",
+    "pairs": [
+      {
+        "before": "Each event can be up to 100KB, with up to 2000 attributes, and these attributes can have any number of values.",
+        "after": "Each event can be up to 1MB, with up to 2000 attributes, and these attributes can have any number of values. See our documentation here",
+        "confidence": 0.65,
+        "deltas": [
+          {
+            "before": "100KB",
+            "after": "1MB"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "honeycomb-io-pricing-20250621193603",
+    "url": "https://www.honeycomb.io/pricing",
+    "ts": "20250621193603",
+    "date": "2025-06-21",
+    "source": "wayback",
+    "prevTs": "20250405073028",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Honeycomb: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "honeycomb-io-pricing-20250731062742",
+    "url": "https://www.honeycomb.io/pricing",
+    "ts": "20250731062742",
+    "date": "2025-07-31",
+    "source": "wayback",
+    "prevTs": "20250621193603",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Honeycomb: 1 limit changed (100kb → 1MB)",
+    "pairs": [
+      {
+        "before": "Event size limits are generous. Events are limited to 100kb size with a maximum of 2000 columns. Events over this size are rejected by Honeycomb with an error code in the API response. See our Events API documentation",
+        "after": "Event size limits are generous. Events are limited to 1MB in size with a maximum of 2000 columns. Events over this size are rejected by Honeycomb with an error code in the API response. See our Events API documentation",
+        "confidence": 0.92,
+        "deltas": [
+          {
+            "before": "100kb",
+            "after": "1MB"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "honeycomb-io-pricing-20251115035339",
+    "url": "https://www.honeycomb.io/pricing",
+    "ts": "20251115035339",
+    "date": "2025-11-15",
+    "source": "wayback",
+    "prevTs": "20250731062742",
+    "kind": "price",
+    "score": 60,
+    "counts": {
+      "price": 11,
+      "limit": 6,
+      "plan": 8
+    },
+    "material": true,
+    "headline": "Honeycomb: 11 prices, 6 limits, 8 plan names changed (20M → 1.5B)",
+    "pairs": [
+      {
+        "before": "Volume: 20M per month",
+        "after": "Event Volume: Up to 1.5B per month",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "20M",
+            "after": "1.5B"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Unlimited exploration. Unrivaled value.",
+      "Best for testing and individual projects Free",
+      "Event Volume: Up to 20M per month",
+      "Our introductory plan, free forever.",
+      "Starting at $0.10 / GB",
+      "Send high-signal, context-rich telemetry with unlimited custom fields.",
+      "Free: Up to 20M events per month",
+      "Pro: Starting at $130 / 100M events (up to 1.5B)",
+      "Unlimited seats",
+      "Unlimited querying",
+      "Unlimited scale",
+      "FREE",
+      "Start for free",
+      "Start for free"
+    ],
+    "removed": [
+      "Use Free features forever or upgrade to Pro at any time",
+      "Free",
+      "Free forever",
+      "Volume: 100M, 450M, or 1.5B per month",
+      "Free",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "$0 per month",
+      "Starts at $130 / month or $1,300 / year",
+      "Each event can be up to 1MB, with up to 2000 attributes, and these attributes can have any number of values. See our documentation here",
+      "From the Honeycomb web UI, find the Usage page under Team Settings. This page shows your team’s event volume for the last 60 days. In the table at the bottom of the page, you’ll also find the number of events received per dataset.",
+      "Event size limits are generous. Events are limited to 1MB in size with a maximum of 2000 columns. Events over this size are rejected by Honeycomb with an error code in the API response. See our Events API documentation",
+      "for more information.For reference, all of the text displayed on this FAQ page (including the intro and table of contents) is approximately 9kb in size.",
+      "Our data retention logic is based on time of ingest, so it will be there for 60 days from the date you sent it to Honeycomb (regardless of what’s on the timestamp of the events).",
+      "Is it possible to set my data retention period beyond 60 days for a dataset?",
+      "Free",
+      "$0",
+      "$130",
+      "$1,300",
+      "$585",
+      "$5,850",
+      "$1,950",
+      "$19,500"
+    ],
+    "totals": {
+      "removed": 183,
+      "added": 96,
+      "materialRemoved": 28,
+      "materialAdded": 18
+    }
+  },
+  {
+    "id": "honeycomb-io-pricing-20260405221424",
+    "url": "https://www.honeycomb.io/pricing",
+    "ts": "20260405221424",
+    "date": "2026-04-05",
+    "source": "wayback",
+    "prevTs": "20251115035339",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Honeycomb: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 7,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "honeycomb-io-pricing-20260513194033",
+    "url": "https://www.honeycomb.io/pricing",
+    "ts": "20260513194033",
+    "date": "2026-05-13",
+    "source": "wayback",
+    "prevTs": "20260405221424",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 2,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Honeycomb: 2 prices, 3 limits changed (removed “Free: Up to 20M events per month”; added “Free: Up to 20M events and 100M time series d…”)",
+    "pairs": [],
+    "added": [
+      "Free: Up to 20M events and 100M time series data points",
+      "Pro: Starting at $130 / 100M events (up to 1.5B) and 500M time series data points (up to 7.5B)",
+      "Up to 100M data points/month",
+      "Up to 7.5B data points/month",
+      "Up to 100M data points/month",
+      "Up to 7.5B data points/month"
+    ],
+    "removed": [
+      "Free: Up to 20M events per month",
+      "Pro: Starting at $130 / 100M events (up to 1.5B)"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 8,
+      "materialRemoved": 2,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "honeycomb-io-pricing-20260608042604",
+    "url": "https://www.honeycomb.io/pricing",
+    "ts": "20260608042604",
+    "date": "2026-06-08",
+    "source": "wayback",
+    "prevTs": "20260513194033",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Honeycomb: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 11,
+      "added": 8,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "honeycomb-io-pricing-20260721064310",
+    "url": "https://www.honeycomb.io/pricing",
+    "ts": "20260721064310",
+    "date": "2026-07-21",
+    "source": "wayback",
+    "prevTs": "20260608042604",
+    "kind": "price",
+    "score": 14,
+    "counts": {
+      "price": 2,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Honeycomb: 2 prices, 4 limits changed ($130 → $150; $130 → $150)",
+    "pairs": [
+      {
+        "before": "Starting at $130 per month",
+        "after": "Starting at $150 per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$130",
+            "after": "$150"
+          }
+        ]
+      },
+      {
+        "before": "Pro: Starting at $130 / 100M events (up to 1.5B) and 500M time series data points (up to 7.5B)",
+        "after": "Pro: Starting at $150 / 50M events (up to 750M) and 250M time series data points (up to 3.75B)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$130",
+            "after": "$150"
+          },
+          {
+            "before": "100M",
+            "after": "50M"
+          },
+          {
+            "before": "1.5B",
+            "after": "750M"
+          },
+          {
+            "before": "500M",
+            "after": "250M"
+          },
+          {
+            "before": "7.5B",
+            "after": "3.75B"
+          }
+        ]
+      },
+      {
+        "before": "Up to 7.5B data points/month",
+        "after": "Up to 3.75B data points/month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "7.5B",
+            "after": "3.75B"
+          }
+        ]
+      },
+      {
+        "before": "Up to 7.5B data points/month",
+        "after": "Up to 3.75B data points/month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "7.5B",
+            "after": "3.75B"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Event Volume: Up to 20M per month Metrics Data Points: Up to 100M per month",
+      "Event Volume: Up to 750M per month Metrics Data Points: Up to 3.75B per month"
+    ],
+    "removed": [
+      "Event Volume: Up to 20M per month",
+      "Event Volume: Up to 1.5B per month"
+    ],
+    "totals": {
+      "removed": 14,
+      "added": 12,
+      "materialRemoved": 6,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "honeycomb-io-pricing-20260812023308",
+    "url": "https://www.honeycomb.io/pricing",
+    "ts": "20260812023308",
+    "date": "2026-08-12",
+    "source": "wayback",
+    "prevTs": "20260721064310",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Honeycomb: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "honeycomb-io-pricing-20260902202107",
+    "url": "https://www.honeycomb.io/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260812023308",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Honeycomb: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

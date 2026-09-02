@@ -3,6 +3,8 @@ name: Vast.ai
 category: gpu
 website: https://vast.ai
 tagline: Marketplace for renting GPUs billed per second
+min_lines: 5
+min_material: 0
 track_urls:
   - https://vast.ai/pricing
   - https://docs.vast.ai/guides/reference/faq/billing

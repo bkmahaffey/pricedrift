@@ -1,0 +1,390 @@
+Skip to Content
+Koyeb is joining Mistral AI to Build The Future of AI Infrastructure. Read More →
+CTRL K
+Introduction
+Quick Start
+Astro
+Beego
+Bun
+Deno
+Django
+Express
+FastAPI
+Fastify
+Flask
+Go
+Gradio
+Hapi
+Hono
+Java
+NestJS
+Next.js
+Nuxt
+PHP
+Qwik
+Remix
+Ruby on Rails
+Rust
+Spring Boot
+Streamlit
+Build & Deploy
+Build from Git
+Node.js
+Python
+Go
+Ruby
+PHP
+Java
+Scala
+Pre-Built Docker Images
+Deploy with GitHub
+Deploy a Project Directory
+CLI
+Installation
+Reference
+Private Container Registry Secrets
+Environment Variables
+Config Files
+Monorepo
+Deploy to Koyeb Button
+Exposing your Service
+Troubleshooting Tips
+Run & Scale
+Health Checks
+High Availability
+Autoscaling
+Scale-to-Zero
+Manual Scaling
+Domains
+TCP Proxy
+Metrics
+Log Exporter
+Databases
+Sandboxes
+Sandbox Quickstart
+Sandbox Lifecycle
+File Operations
+Run Commands
+Expose Ports
+Default Sandbox Image
+Reference
+Accounts
+Organizations
+Apps
+Services
+Deployments
+Instances
+Secrets
+Regions
+Scaling
+Service Mesh & Discovery
+Edge Network
+Local SSD Storage
+Volumes
+Snapshots
+API Documentation
+Integrations
+Coding Agents
+Databases
+Aiven
+CockroachDB
+Crunchy Bridge
+MongoDB Atlas
+Neon
+PlanetScale
+Upstash
+Infrastructure as Code
+Terraform
+Pulumi
+GitHub
+Hardware
+GPU Benchmarks
+NVIDIA A100
+NVIDIA H100
+NVIDIA H200
+NVIDIA B200
+NVIDIA RTX Pro 6000
+NVIDIA L40S
+Tenstorrent n300s
+FAQs
+General
+Pricing
+Comparisons
+Heroku vs Koyeb
+Render vs Koyeb
+Kubernetes vs Koyeb
+Cloudflare Workers vs Koyeb
+Legal
+Master Service Agreement
+Service Level Agreement
+Data Processing Agreement
+Light
+Introduction
+Quick Start
+Astro
+Beego
+Bun
+Deno
+Django
+Express
+FastAPI
+Fastify
+Flask
+Go
+Gradio
+Hapi
+Hono
+Java
+NestJS
+Next.js
+Nuxt
+PHP
+Qwik
+Remix
+Ruby on Rails
+Rust
+Spring Boot
+Streamlit
+Build & Deploy
+Build from Git
+Node.js
+Python
+Go
+Ruby
+PHP
+Java
+Scala
+Pre-Built Docker Images
+Deploy with GitHub
+Deploy a Project Directory
+CLI
+Installation
+Reference
+Private Container Registry Secrets
+Environment Variables
+Config Files
+Monorepo
+Deploy to Koyeb Button
+Exposing your Service
+Troubleshooting Tips
+Run & Scale
+Health Checks
+High Availability
+Autoscaling
+Scale-to-Zero
+Manual Scaling
+Domains
+TCP Proxy
+Metrics
+Log Exporter
+Databases
+Sandboxes
+Sandbox Quickstart
+Sandbox Lifecycle
+File Operations
+Run Commands
+Expose Ports
+Default Sandbox Image
+Reference
+Accounts
+Organizations
+Apps
+Services
+Deployments
+Instances
+Secrets
+Regions
+Scaling
+Service Mesh & Discovery
+Edge Network
+Local SSD Storage
+Volumes
+Snapshots
+API Documentation
+Integrations
+Coding Agents
+Databases
+Aiven
+CockroachDB
+Crunchy Bridge
+MongoDB Atlas
+Neon
+PlanetScale
+Upstash
+Infrastructure as Code
+Terraform
+Pulumi
+GitHub
+Hardware
+GPU Benchmarks
+NVIDIA A100
+NVIDIA H100
+NVIDIA H200
+NVIDIA B200
+NVIDIA RTX Pro 6000
+NVIDIA L40S
+Tenstorrent n300s
+FAQs
+General
+Pricing
+Comparisons
+Heroku vs Koyeb
+Render vs Koyeb
+Kubernetes vs Koyeb
+Cloudflare Workers vs Koyeb
+Legal
+Master Service Agreement
+Service Level Agreement
+Data Processing Agreement
+Light
+FAQs
+Pricing
+Copy page
+Pricing Frequently Asked Questions
+This is our Pricing FAQ. Here, you’ll find answers to common questions about payments, usage, and our pricing model. Our pricing model is based on a pay-per-usage model for computing resources and paid plans.
+If you have a question that is not covered here, don’t hesitate to ask us on the community platform
+.
+How does pay-per-use pricing work?
+We charge compute usage cost per second with the following formula:
+Number of Instances x Instance Time (in seconds) x Instance size price
+Our Instances documentation
+includes detailed pricing tables for the cost of different Instances. Taxes
+are excluded from the pricing page, but will be included in your monthly invoice.
+How does charging for outbound bandwidth work?
+Outbound bandwidth is not charged yet. We provide 100GB of outbound bandwidth per month for free, usage after this allowance will cost $0.04 per GB. We will notify you ahead of time once we begin charging outbound bandwidth.
+How does charging for custom domains work?
+We let you use 100 custom domains for free in the Pro plan and up to 500 custom domains in the Scale plan. Additional custom domains are not charged yet, but will be $0.20/month. We will notify you ahead of time once we begin charging for additional custom domains.
+Pay-per-use example
+In this example case, the user is not subscribed to a paid plan. The user runs different Services using 1 free Instance (not included on invoice), 2 nano Instances, 5 micro Instances, and 3 small Instances for the entire month.
+Here is an example invoice to demonstrate the price breakdown of a month.
+Resource
+Price per resource
+Quantity
+Total cost
+Nano Instance
+$0.000001
+5 356 800 (2x 31 days in seconds)
+$5.36
+Micro Instance
+$0.000002
+13 392 000 (5x 31 days in seconds)
+$26.78
+Small Instance
+$0.000004
+8 035 200 (3 x 31 days in seconds)
+$32.14
+Total
+$64.28
+Are there paid plans for priority support and larger instances?
+Yes, there are paid plans available for those who want priority support and access to larger instances.
+Larger instances are available through all plans.
+The Pro plan costs $29, with $10 of compute usage included per month and includes support during business hours.
+The Scale plan costs $299, with $100 of compute usage included per month and offers additional support through direct Slack cross connection.
+Contact us if you need a 24x7 support! We offer it through our Business plan.
+Why does Koyeb require a credit card?
+We require a credit card to prevent fraud and abuse.
+We verify the card you enter by placing a $29 pre-authorization hold and immediately canceling it. Depending on your card issuer, the hold will disappear immediately, or after between 7 and 21 days. We have no control over the release speed here as it depends on your card and bank.
+Am I charged when I enter my credit card?
+Yes. Right after we place the $29 pre-authorization hold
+to verify your card, we also charge you the pro-rated amount for the plan you select. For instance, when signing up, the selected plan is Pro, so you will be charged the pro-rated amount for Pro based on the remaining days of the current month.
+If you don’t need Pro features, you can downgrade to the Starter plan at any time from the Usage and billing
+section.
+You start accruing additional charges once your resource usage surpasses the included allowances.
+How long does the account validation process take?
+When you enter a credit card, the account validation process begins in order to validate your payment method and prevent fraud and abuse.
+This process usually only takes a few minutes and but occasionally can take up to 3 business days.
+Why is my account validation taking a while to complete?
+The account validation process is required to validate your payment method and prevent fraud and abuse. During this process the information you enter is evaluated and verified.
+In order to prevent unnecessary delays in validation, please make sure that your payment method and all associated billing information is up-to-date and accurate. We may need to ask you for additional information to continue the validation process.
+How can I track my usage?
+A quick way to track your usage is with the dedicated widget at the top of the page in the control panel. This displays your current plan and outstanding balance. You can hover over it to see your total usage.
+Another way to track your usage is to view your usage summary under Usage and billing
+.
+Tracking your usage is important so you can stay within your resource limits and avoid unexpected charges.
+Is there a free tier?
+Each organization has access to:
+One free web Service in the Frankfurt or Washington, D.C. regions with 512MB of RAM, 0.1 vCPU, and 2GB of SSD.
+One free PostgreSQL database
+limited to 5 hours of active time and 1GB of storage.
+How can I ensure that my current usage falls within the free credits?
+You will never be charged when using the free web Service.
+You can check the current usage of other Instances in the Usage and billing section
+of your account.
+Can I set a budget or limit on spending? Can I be notified if I exceed my spending?
+We are working on a spending limits feature and hope to offer it soon. In the meantime, you can estimate your monthly costs based on our Instance documentation
+You can track this feature’s progress on our public roadmap
+.
+At what point does paid usage begin to count?
+Paid usage begins when an Instance has been created and the Deployment has a Starting status. In the case of git deployments, Instances are created after the build is complete.
+Will I be charged if my Services are paused?
+No, you will only be charged for unpaused Services.
+Do my Services automatically scale to zero when they’re not in use?
+Scale-to-Zero allows you to reduce your costs by automatically scaling down your resources when they are not in use. You can also manually pause your Services to reduce resource consumption. You can track this feature’s progress on our public roadmap
+.
+Where can I find my monthly invoice?
+On the first of the month, we send you a copy of your invoice by email, via our payment provider, Stripe
+To ensure you receive your invoices on time, make sure the email address associated with your Koyeb account is up-to-date.
+You can also access your invoice history by going to the Usage and billing
+section. Under Billing details, click Manage billing to view your invoice history. Stripe manages the portal where you can find your invoice history.
+When in the month will my card be charged?
+Plan subscriptions start at the first of the month and end at the end of the month. On the first of the month, you will receive an invoice for your previous month’s charges. You will be automatically charged for those charges on the first of the month.
+If you decide to upgrade your plan, you will be immediately upgraded to that plan and charged on the spot. This initial charge will be prorated based on how far into the month it is when you upgrade.
+How will I be charged?
+If you need to pay for a previous month’s usage, you will receive an invoice on the first of the month that follows. The card you have on file will be automatically charged for the amount due on the first of the month.
+How can I change which card is on file?
+To change your payment method, log in to your Koyeb account and navigate to the Usage and billing
+section. Under Billing details, click Manage Billing to modify your payment method.
+How can I delete my card?
+You can delete a credit card by visiting the Usage and billing
+section of your account as long as you have an alternative credit card on file. Payment methods are processed and stored by our payment processor, Stripe
+You must always have at least one valid form of payment associated with your account. To delete all of your payment methods, you need to deactivate your account.
+Why is my payment overdue? What happens if my payment fails?
+Your payment is considered overdue if we fail to charge your payment method for your outstanding balance.
+We will contact you via email to notify you of payment failure. It is important to keep the email address associated with your Koyeb account up-to-date to ensure you receive invoices on time.
+Here are the important milestones to know to prevent service interruption due to payment failure:
+7 days: your payment is considered late and creation of new resources on your account can be suspended.
+14 days: all of your Instances are paused.
+21 days: the account suspension process begins and and your resources will be permanently deleted.
+If the card on file is no longer valid, you will need to update your payment method. To change your payment method, log in to your Koyeb account and navigate to the Usage & billing
+section. Under Billing details, click Manage billing to modify your payment method.
+How can I upgrade to a paid plan?
+You can upgrade your plan from the control panel at any time by visiting your organization’s Settings and clicking the Usage and billing
+section.
+You will be charged on a prorated basis if you switch plans after the first of the month.
+Please note: After you switch your plan, you will need to wait 5 minutes before you can switch your plan again.
+How can I cancel my plan?
+If you are on a Pro or Scale plan and would no longer like to be on it, you can switch to the Starter plan in the Usage and billing
+The Starter plan is pay-as-you-go and you are only charged for the resources you use beyond the free Instance included with all plans.
+If you are using more resources than allowed on the Starter plan, you will first need to delete those resources.
+How am I charged if I change my plan before the end of the month?
+If you switch your plan during the month, you will be charged a prorated rate for the time of the month you had a paid plan. For example, if you stop using the Pro plan in the middle of the month, you will be given a credit for the unused portion of the Pro plan time.
+If I cancel my plan, can I be refunded?
+If you cancel your plan before the end of the month, you will be credited the remaining balance.
+Which cards and payment methods does Koyeb accept?
+We accept all major credit and debit cards: Visa, Mastercard, American Express, Diners, Discover, and China Union Pay. Your payment information is securely stored and processed by our payment processor, Stripe
+.
+Will taxes be included in my monthly invoice?
+Yes, taxes are computed and automatically included on your invoice based on the address associated with your payment method.
+If you’re in an EU country, VAT will be charged according to the regulations:
+If you’re buying as an individual: you’ll be charged for your local VAT.
+If you are purchasing for a business: you can enter your company name and VAT number when adding a payment method to be exempt from VAT. If you don’t provide a VAT number with your payment method or if you’re in France, you’ll be charged the amount associated with your local VAT.
+The pricing page
+and Instance documentation
+do not include taxes.
+Which currency will I be charged in?
+USD.
+What happened to the $5.50 monthly credit?
+The $5.50 credit, provided during public preview in 2022 and 2023, has been discontinued.
+As outlined in our sustaining free compute in a hostile environment
+blog post, we are committed to providing a forever free tier and keeping Services affordable:
+The $5.50 credit has been replaced by the free Instance type
+which provides 512MB RAM and 0.1 vCPU.
+Eco Instances
+allow you to deploy for as little as $1.61 a month in select regions.
+The $5.50 in free credit will be removed from all accounts starting on February 1, 2024. To avoid being charged, migrate your usage to the free Instance before that time.
+Have another question?
+Let us know on our community platform
+.
+Last updated on May 27, 2026
+General
+Heroku vs Koyeb

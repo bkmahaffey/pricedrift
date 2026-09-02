@@ -1,0 +1,493 @@
+[
+  {
+    "id": "val-town-pricing-20230828123047",
+    "url": "https://www.val.town/pricing",
+    "ts": "20230828123047",
+    "date": "2023-08-28",
+    "source": "wayback",
+    "prevTs": "20230601021840",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Val Town: 1 limit changed (removed “10 ms”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "10 ms",
+      "100 ms"
+    ],
+    "totals": {
+      "removed": 35,
+      "added": 14,
+      "materialRemoved": 3,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "val-town-pricing-20240713110404",
+    "url": "https://www.val.town/pricing",
+    "ts": "20240713110404",
+    "date": "2024-07-13",
+    "source": "wayback",
+    "prevTs": "20230828123047",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Val Town: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "val-town-pricing-20241229111419",
+    "url": "https://www.val.town/pricing",
+    "ts": "20241229111419",
+    "date": "2024-12-29",
+    "source": "wayback",
+    "prevTs": "20240713110404",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 1,
+      "limit": 4,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Val Town: 1 price, 4 limits, 1 plan name changed (removed “10 mb”; added “$ 0 /mo.”)",
+    "pairs": [],
+    "added": [
+      "$ 0 /mo.",
+      "Unlimited public vals",
+      "Townie AI: limited free trial with cheaper models",
+      "Everything in Free plus more",
+      "500 runs / minute",
+      "10 days log retention",
+      "Unlimited private or unlisted vals",
+      "Unlimited public vals",
+      "Unlimited wall clock time / run",
+      "Unlimited runs / minute",
+      "Sub 1 minute interval cron vals",
+      "Unlimited private or unlisted vals",
+      "Unlimited public vals",
+      "Unlimited custom domains"
+    ],
+    "removed": [
+      "10 mb",
+      "Unlimited",
+      "Free",
+      "5 min",
+      "100 ms",
+      "1 gb",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 38,
+      "added": 31,
+      "materialRemoved": 15,
+      "materialAdded": 21
+    }
+  },
+  {
+    "id": "val-town-pricing-20250107030632",
+    "url": "https://www.val.town/pricing",
+    "ts": "20250107030632",
+    "date": "2025-01-07",
+    "source": "wayback",
+    "prevTs": "20241229111419",
+    "kind": "price",
+    "score": 7,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Val Town: 2 prices, 1 limit changed (removed “$ 10 /mo.”; added “$ 100 /year”)",
+    "pairs": [],
+    "added": [
+      "$ 100 /year",
+      "Get 2 months free with annual billing"
+    ],
+    "removed": [
+      "$ 10 /mo."
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 6,
+      "materialRemoved": 2,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "val-town-pricing-20250219185816",
+    "url": "https://www.val.town/pricing",
+    "ts": "20250219185816",
+    "date": "2025-02-19",
+    "source": "wayback",
+    "prevTs": "20250107030632",
+    "kind": "limits",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Val Town: 3 limits changed (5 → 10)",
+    "pairs": [
+      {
+        "before": "5 min wall clock time / run",
+        "after": "10 min wall clock time / run",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "5",
+            "after": "10"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "100,000 runs / day",
+      "1,000,000 runs / day",
+      "Unlimited Townie AI",
+      "Unlimited runs / day"
+    ],
+    "removed": [
+      "10 runs / minute",
+      "Townie AI: limited free trial with cheaper models",
+      "Everything in Free plus more",
+      "500 runs / minute",
+      "Unlimited runs / minute"
+    ],
+    "totals": {
+      "removed": 15,
+      "added": 16,
+      "materialRemoved": 11,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "val-town-pricing-20250719054356",
+    "url": "https://www.val.town/pricing",
+    "ts": "20250719054356",
+    "date": "2025-07-19",
+    "source": "wayback",
+    "prevTs": "20250219185816",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Val Town: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Sign up for free",
+      "Unlimited Townie AI"
+    ],
+    "totals": {
+      "removed": 9,
+      "added": 9,
+      "materialRemoved": 2,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "val-town-pricing-20250805113414",
+    "url": "https://www.val.town/pricing",
+    "ts": "20250805113414",
+    "date": "2025-08-05",
+    "source": "wayback",
+    "prevTs": "20250719054356",
+    "kind": "price",
+    "score": 10,
+    "counts": {
+      "price": 3,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Val Town: 3 prices, 1 limit changed (removed “Sub 1 minute interval cron vals”; added “$ 10 /mo”)",
+    "pairs": [],
+    "added": [
+      "Start for free, scale as you grow",
+      "$ 10 /mo",
+      "Save $ 20 (2 months free)",
+      "Save $ 200 (2 months free)"
+    ],
+    "removed": [
+      "Free always. Pro when you need it.",
+      "Sub 1 minute interval cron vals",
+      "Unlimited wall clock time / run",
+      "Unlimited private or unlisted vals",
+      "Unlimited public vals",
+      "Unlimited runs / day"
+    ],
+    "totals": {
+      "removed": 17,
+      "added": 25,
+      "materialRemoved": 11,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "val-town-pricing-20250906171357",
+    "url": "https://www.val.town/pricing",
+    "ts": "20250906171357",
+    "date": "2025-09-06",
+    "source": "wayback",
+    "prevTs": "20250805113414",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Val Town: 3 prices changed ($200 → $400)",
+    "pairs": [
+      {
+        "before": "Save $ 200 (2 months free)",
+        "after": "Save $ 400 (2 months free)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$200",
+            "after": "$400"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 200 /mo"
+    ],
+    "removed": [
+      "$ 100 /mo"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "val-town-pricing-20251006081724",
+    "url": "https://www.val.town/pricing",
+    "ts": "20251006081724",
+    "date": "2025-10-06",
+    "source": "wayback",
+    "prevTs": "20250906171357",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 4,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Val Town: 4 prices changed (removed “$ 10 /mo”; added “$ 8.33 /mo”)",
+    "pairs": [],
+    "added": [
+      "$ 8.33 /mo",
+      "$ 166.67 /mo"
+    ],
+    "removed": [
+      "$ 10 /mo",
+      "$ 200 /mo"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 36,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "val-town-pricing-20251205030338",
+    "url": "https://www.val.town/pricing",
+    "ts": "20251205030338",
+    "date": "2025-12-05",
+    "source": "wayback",
+    "prevTs": "20251006081724",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Val Town: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "val-town-pricing-20260130195916",
+    "url": "https://www.val.town/pricing",
+    "ts": "20260130195916",
+    "date": "2026-01-30",
+    "source": "wayback",
+    "prevTs": "20251205030338",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Val Town: 2 prices changed (added “$5 Townie (AI) credit / mo”)",
+    "pairs": [],
+    "added": [
+      "$5 Townie (AI) credit / mo",
+      "$100 Townie (AI) credit / mo"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 6,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "val-town-pricing-20260408194216",
+    "url": "https://www.val.town/pricing",
+    "ts": "20260408194216",
+    "date": "2026-04-08",
+    "source": "wayback",
+    "prevTs": "20260130195916",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Val Town: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "val-town-pricing-20260624125035",
+    "url": "https://www.val.town/pricing",
+    "ts": "20260624125035",
+    "date": "2026-06-24",
+    "source": "wayback",
+    "prevTs": "20260408194216",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 6,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Val Town: 6 prices changed ($20 → $50; $5 → $10)",
+    "pairs": [
+      {
+        "before": "Save $ 20 (2 months free)",
+        "after": "Save $ 50 (2 months free)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$20",
+            "after": "$50"
+          }
+        ]
+      },
+      {
+        "before": "$5 Townie (AI) credit / mo",
+        "after": "$ 10 Townie (AI) credit / mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$5",
+            "after": "$10"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 21 /mo",
+      "$ 167 /mo"
+    ],
+    "removed": [
+      "Start for free, scale as you grow",
+      "$ 8.33 /mo",
+      "Unlimited private vals",
+      "Unlimited public vals",
+      "$ 166.67 /mo"
+    ],
+    "totals": {
+      "removed": 15,
+      "added": 15,
+      "materialRemoved": 9,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "val-town-pricing-20260828130551",
+    "url": "https://www.val.town/pricing",
+    "ts": "20260828130551",
+    "date": "2026-08-28",
+    "source": "wayback",
+    "prevTs": "20260624125035",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Val Town: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 36,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  }
+]

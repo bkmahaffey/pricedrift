@@ -1,9 +1,9 @@
 [
   {
-    "id": "vercel-com-pricing-20230209225924",
+    "id": "vercel-com-pricing-20230305230842",
     "url": "https://vercel.com/pricing",
-    "ts": "20230209225924",
-    "date": "2023-02-09",
+    "ts": "20230305230842",
+    "date": "2023-03-05",
     "source": "wayback",
     "prevTs": "20230102185032",
     "kind": "copy",
@@ -16,32 +16,6 @@
     "material": false,
     "headline": "Vercel: pricing page text changed (no price or limit change detected)",
     "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 3,
-      "added": 11,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    }
-  },
-  {
-    "id": "vercel-com-pricing-20230305230842",
-    "url": "https://vercel.com/pricing",
-    "ts": "20230305230842",
-    "date": "2023-03-05",
-    "source": "wayback",
-    "prevTs": "20230209225924",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Vercel: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
     "added": [
       "Unlimited"
     ],
@@ -49,8 +23,8 @@
       "Unlimited"
     ],
     "totals": {
-      "removed": 8,
-      "added": 8,
+      "removed": 11,
+      "added": 19,
       "materialRemoved": 1,
       "materialAdded": 1
     }
@@ -62,23 +36,21 @@
     "date": "2023-04-01",
     "source": "wayback",
     "prevTs": "20230305230842",
-    "kind": "limits",
-    "score": 7,
+    "kind": "price",
+    "score": 6,
     "counts": {
       "price": 1,
-      "limit": 3,
+      "limit": 2,
       "plan": 0
     },
     "material": true,
-    "headline": "Vercel: 1 price, 3 limits changed (removed “1 Seat”; added “1 hour of Logs”)",
+    "headline": "Vercel: 1 price, 2 limits changed (removed “1 GB”; added “3 hours of Logs”)",
     "pairs": [],
     "added": [
-      "1 hour of Logs",
       "3 hours of Logs",
       "$10 base fee per month"
     ],
     "removed": [
-      "1 Seat",
       "1 GB",
       "Deploy to the same infrastructure as top brands—for free",
       "Power your personal work with up to 100 GB of free bandwidth",
@@ -98,8 +70,8 @@
     "date": "2023-05-10",
     "source": "wayback",
     "prevTs": "20230401020951",
-    "kind": "limits",
-    "score": 15,
+    "kind": "price",
+    "score": 16,
     "counts": {
       "price": 1,
       "limit": 7,
@@ -139,22 +111,20 @@
     "date": "2023-06-04",
     "source": "wayback",
     "prevTs": "20230510051750",
-    "kind": "limits",
-    "score": 2,
+    "kind": "copy",
+    "score": 0,
     "counts": {
       "price": 0,
-      "limit": 1,
+      "limit": 0,
       "plan": 0
     },
-    "material": true,
-    "headline": "Vercel: 1 limit changed (removed “3 hours of Logs”; added “3 days of Logs”)",
+    "material": false,
+    "headline": "Vercel: pricing page text changed (no price or limit change detected)",
     "pairs": [],
     "added": [
-      "3 days of Logs",
       "Unlimited"
     ],
     "removed": [
-      "3 hours of Logs",
       "Unlimited"
     ],
     "totals": {
@@ -198,20 +168,19 @@
     "source": "wayback",
     "prevTs": "20230701160508",
     "kind": "price",
-    "score": 16,
+    "score": 20,
     "counts": {
-      "price": 4,
+      "price": 5,
       "limit": 3,
       "plan": 0
     },
     "material": true,
-    "headline": "Vercel: 4 prices, 3 limits changed (removed “Up to 1TB of bandwidth”; added “20 days”)",
+    "headline": "Vercel: 5 prices, 3 limits changed (removed “Up to 1TB of bandwidth”; added “20 days”)",
     "pairs": [],
     "added": [
       "Unlimited Environments",
       "20 days",
       "$150 / month",
-      "$50 / month per additional build",
       "$10 / month",
       "$10 / month per project",
       "$100 / month",
@@ -220,7 +189,6 @@
     "removed": [
       "Up to 1TB of bandwidth",
       "Unlimited function requests & 1000 GB-hours of execution",
-      "Get higher limits and more features to better understand your audience and their behavior. Add to any Pro plan for $50 / month.",
       "500k included events per month",
       "2 year reporting window"
     ],
@@ -239,14 +207,14 @@
     "source": "wayback",
     "prevTs": "20230803114354",
     "kind": "price",
-    "score": 3,
+    "score": 6,
     "counts": {
-      "price": 1,
+      "price": 2,
       "limit": 0,
       "plan": 0
     },
     "material": true,
-    "headline": "Vercel: 1 price changed (added “$10 per project per month”)",
+    "headline": "Vercel: 2 prices changed (added “$10 per project per month”)",
     "pairs": [],
     "added": [
       "$10 per project per month",
@@ -261,10 +229,10 @@
     }
   },
   {
-    "id": "vercel-com-pricing-20231002022226",
+    "id": "vercel-com-pricing-20231203061226",
     "url": "https://vercel.com/pricing",
-    "ts": "20231002022226",
-    "date": "2023-10-02",
+    "ts": "20231203061226",
+    "date": "2023-12-03",
     "source": "wayback",
     "prevTs": "20230904102310",
     "kind": "copy",
@@ -278,23 +246,26 @@
     "headline": "Vercel: pricing page text changed (no price or limit change detected)",
     "pairs": [],
     "added": [
-      "1 day of Logs"
+      "1 day of Logs",
+      "Unlimited"
     ],
-    "removed": [],
+    "removed": [
+      "Unlimited"
+    ],
     "totals": {
-      "removed": 3,
-      "added": 4,
-      "materialRemoved": 0,
-      "materialAdded": 1
+      "removed": 8,
+      "added": 10,
+      "materialRemoved": 3,
+      "materialAdded": 4
     }
   },
   {
-    "id": "vercel-com-pricing-20231101050741",
+    "id": "vercel-com-pricing-20240102222518",
     "url": "https://vercel.com/pricing",
-    "ts": "20231101050741",
-    "date": "2023-11-01",
+    "ts": "20240102222518",
+    "date": "2024-01-02",
     "source": "wayback",
-    "prevTs": "20231002022226",
+    "prevTs": "20231203061226",
     "kind": "copy",
     "score": 0,
     "counts": {
@@ -307,68 +278,6 @@
     "pairs": [],
     "added": [],
     "removed": [],
-    "totals": {
-      "removed": 1,
-      "added": 2,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    }
-  },
-  {
-    "id": "vercel-com-pricing-20231203061226",
-    "url": "https://vercel.com/pricing",
-    "ts": "20231203061226",
-    "date": "2023-12-03",
-    "source": "wayback",
-    "prevTs": "20231101050741",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Vercel: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [
-      "Unlimited"
-    ],
-    "removed": [
-      "Unlimited"
-    ],
-    "totals": {
-      "removed": 7,
-      "added": 7,
-      "materialRemoved": 4,
-      "materialAdded": 4
-    }
-  },
-  {
-    "id": "vercel-com-pricing-20240102222518",
-    "url": "https://vercel.com/pricing",
-    "ts": "20240102222518",
-    "date": "2024-01-02",
-    "source": "wayback",
-    "prevTs": "20231203061226",
-    "kind": "limits",
-    "score": 4,
-    "counts": {
-      "price": 0,
-      "limit": 2,
-      "plan": 0
-    },
-    "material": true,
-    "headline": "Vercel: 2 limits changed (removed “2,500 events”; added “2,500 events”)",
-    "pairs": [],
-    "added": [
-      "2,500 events",
-      "25,000 events"
-    ],
-    "removed": [
-      "2,500 events",
-      "25,000 events"
-    ],
     "totals": {
       "removed": 12,
       "added": 16,
@@ -417,26 +326,20 @@
     "source": "wayback",
     "prevTs": "20240404214146",
     "kind": "price",
-    "score": 42,
+    "score": 33,
     "counts": {
-      "price": 3,
-      "limit": 17,
+      "price": 5,
+      "limit": 9,
       "plan": 0
     },
     "material": true,
-    "headline": "Vercel: 3 prices, 17 limits changed (removed “500,000 execution units”; added “100 GB /month”)",
+    "headline": "Vercel: 5 prices, 9 limits changed (removed “128 MB / account”; added “10M /month”)",
     "pairs": [],
     "added": [
-      "100 GB /month",
-      "1 TB /month",
-      "10 GB /month",
-      "100 GB /month included",
-      "1M /month",
       "10M /month",
       "100,000 invocations /month",
       "1M invocations /month",
       "100 GB-hour /month",
-      "1,000 GB-hour /month",
       "1M reads /month",
       "10M reads /month",
       "1000 images /month",
@@ -445,9 +348,7 @@
       "200,000 writes /month",
       "2M writes /month",
       "1M /month",
-      "500,000 execution units /month included",
       "1M execution units /month",
-      "10 GB",
       "10 GB then $0.50 per GB",
       "100,000 reads /month included",
       "1M reads /month included then starting at $3.00 per million",
@@ -456,18 +357,10 @@
     ],
     "removed": [
       "Unlimited Environments",
-      "500,000 execution units",
-      "100 GB-hours",
-      "1,000 GB-hours",
-      "100 GB",
-      "1 TB",
       "128 MB / account",
       "128 MB / project",
       "1 GB / project",
-      "10 GB",
-      "10 GB",
       "50,000 reads / month",
-      "1,000,000 reads / month",
       "Yes! On top of your included 1,000 GB of Bandwidth on Pro, you can pay as you go for additional Bandwidth at $40 per 100 GB, uncapped. If you have a free Hobby account, you are limited to 100 GB of Bandwidth and cannot purchase additional usage."
     ],
     "totals": {
@@ -484,15 +377,15 @@
     "date": "2024-06-03",
     "source": "wayback",
     "prevTs": "20240506153420",
-    "kind": "copy",
-    "score": 2,
+    "kind": "price",
+    "score": 3,
     "counts": {
       "price": 1,
       "limit": 0,
       "plan": 0
     },
-    "material": false,
-    "headline": "Vercel: pricing page text changed (no price or limit change detected)",
+    "material": true,
+    "headline": "Vercel: 1 price changed (added “$10 per 5 GB”)",
     "pairs": [],
     "added": [
       "$10 per 5 GB"
@@ -513,14 +406,14 @@
     "source": "wayback",
     "prevTs": "20240603131122",
     "kind": "price",
-    "score": 97,
+    "score": 87,
     "counts": {
-      "price": 18,
-      "limit": 22,
+      "price": 26,
+      "limit": 5,
       "plan": 0
     },
     "material": true,
-    "headline": "Vercel: 18 prices, 22 limits changed (100 → 200,000)",
+    "headline": "Vercel: 26 prices, 5 limits changed (100 → 200,000)",
     "pairs": [
       {
         "before": "100 writes /month included",
@@ -535,34 +428,16 @@
       }
     ],
     "added": [
-      "Collaborate with a team for $20 /month, per member.",
-      "20 days saved on daily builds.",
       "Start a free trial",
-      "100 GB /month included",
-      "1 TB /month included",
       "then starting at $0.15 per GB",
-      "10 GB /month included",
       "then starting at $0.06 per GB",
-      "1M /month included",
-      "10M /month included",
       "then starting at $2 per million",
-      "1M /month included",
       "then starting at $0.65 per million",
-      "1000 images /month included",
-      "5000 images /month included",
       "then starting at $5.00 per thousand",
-      "100,000 invocations /month included",
-      "1M invocations /month included",
       "then starting at $0.60 per million",
-      "100 GB-hour /month included",
-      "1,000 GB-hour /month included",
       "then $0.18 per GB-hour",
-      "1M execution units /month included",
       "then starting at $2.00 per million",
-      "1M reads /month included",
-      "10M reads /month included",
       "then starting at $0.40 per million",
-      "2M writes /month included",
       "starting at $4 per million",
       "1M reads /month included",
       "then starting at $3.00 per million",
@@ -570,45 +445,22 @@
       "1000 writes /month included",
       "then starting at $5.00 per 500 writes",
       "1 seat included",
-      "then $20 per seat",
-      "$50 per additional concurrency slot",
       "then $0.50 per GB",
       "then $9.00 per million events",
-      "$10 /project"
+      "then $0.65 per 10,000 events",
+      "then $14 per 100,000 events"
     ],
     "removed": [
       "$0",
-      "$20",
-      "20 days",
       "$150 / month",
-      "$50 / month per additional build",
-      "$10 / month",
       "$10 / month per project",
       "$100 / month",
-      "$50 / month",
-      "100 GB /month",
-      "1 TB /month",
-      "10 GB /month",
-      "1M /month",
-      "10M /month",
-      "100,000 invocations /month",
-      "1M invocations /month",
-      "100 GB-hour /month",
-      "1,000 GB-hour /month",
-      "1M reads /month",
-      "10M reads /month",
       "6,000 minutes",
       "24,000 minutes",
-      "1000 images /month",
-      "5000 images /month",
       "200,000 writes /month",
-      "2M writes /month",
       "1 included $50 per additional concurrency slot",
-      "1M /month",
-      "1M execution units /month",
       "$10 per 5 GB",
       "10 GB then $0.50 per GB",
-      "$20/mo per member",
       "Unlimited",
       "$10 per project per month",
       "1M reads /month included then starting at $3.00 per million",
@@ -655,28 +507,18 @@
     "date": "2024-09-02",
     "source": "wayback",
     "prevTs": "20240801115515",
-    "kind": "limits",
-    "score": 8,
+    "kind": "copy",
+    "score": 0,
     "counts": {
       "price": 0,
-      "limit": 4,
+      "limit": 0,
       "plan": 0
     },
-    "material": true,
-    "headline": "Vercel: 4 limits changed (removed “30,000 requests”; added “30,000 requests”)",
+    "material": false,
+    "headline": "Vercel: pricing page text changed (no price or limit change detected)",
     "pairs": [],
-    "added": [
-      "30,000 requests",
-      "150,000 requests",
-      "60 compute hours",
-      "100 compute hours"
-    ],
-    "removed": [
-      "30,000 requests",
-      "150,000 requests",
-      "60 compute hours",
-      "100 compute hours"
-    ],
+    "added": [],
+    "removed": [],
     "totals": {
       "removed": 17,
       "added": 23,
@@ -692,14 +534,14 @@
     "source": "wayback",
     "prevTs": "20240902160122",
     "kind": "price",
-    "score": 3,
+    "score": 6,
     "counts": {
-      "price": 1,
+      "price": 2,
       "limit": 0,
       "plan": 0
     },
     "material": true,
-    "headline": "Vercel: 1 price changed (added “Starting at $0.50 per million allowed requests”)",
+    "headline": "Vercel: 2 prices changed (added “Starting at $0.50 per million allowed requests”)",
     "pairs": [],
     "added": [
       "Starting at $0.50 per million allowed requests",
@@ -716,10 +558,10 @@
     }
   },
   {
-    "id": "vercel-com-pricing-20241110085559",
+    "id": "vercel-com-pricing-20241204032320",
     "url": "https://vercel.com/pricing",
-    "ts": "20241110085559",
-    "date": "2024-11-10",
+    "ts": "20241204032320",
+    "date": "2024-12-04",
     "source": "wayback",
     "prevTs": "20241002174724",
     "kind": "copy",
@@ -736,33 +578,7 @@
     "removed": [],
     "totals": {
       "removed": 0,
-      "added": 5,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    }
-  },
-  {
-    "id": "vercel-com-pricing-20241204032320",
-    "url": "https://vercel.com/pricing",
-    "ts": "20241204032320",
-    "date": "2024-12-04",
-    "source": "wayback",
-    "prevTs": "20241110085559",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Vercel: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 3,
-      "added": 0,
+      "added": 2,
       "materialRemoved": 0,
       "materialAdded": 0
     }
@@ -775,14 +591,14 @@
     "source": "wayback",
     "prevTs": "20241204032320",
     "kind": "price",
-    "score": 10,
+    "score": 17,
     "counts": {
-      "price": 3,
+      "price": 5,
       "limit": 1,
       "plan": 0
     },
     "material": true,
-    "headline": "Vercel: 3 prices, 1 limit changed (removed “10 GB”; added “$10/month (1M events included)”)",
+    "headline": "Vercel: 5 prices, 1 limit changed (removed “10 GB”; added “$10/month (1M events included)”)",
     "pairs": [],
     "added": [
       "$10/month (1M events included)",
@@ -810,20 +626,18 @@
     "source": "wayback",
     "prevTs": "20250108100011",
     "kind": "price",
-    "score": 16,
+    "score": 14,
     "counts": {
       "price": 2,
-      "limit": 5,
+      "limit": 4,
       "plan": 0
     },
     "material": true,
-    "headline": "Vercel: 2 prices, 5 limits changed (removed “Collaborate with a team for $20 /month, per m…”; added “Everything you need to build and scale your w…”)",
+    "headline": "Vercel: 2 prices, 4 limits changed (removed “$50 per additional concurrency slot”; added “10,000 events”)",
     "pairs": [],
     "added": [
       "The perfect starting place for your web app or personal project. Free forever.",
-      "Everything you need to build and scale your web app, from $20/month.",
       "10,000 events",
-      "1 seat included",
       "1 build machine",
       "2 CPUs included",
       "1 build machine",
@@ -831,8 +645,6 @@
       "Unlimited previewers"
     ],
     "removed": [
-      "Collaborate with a team for $20 /month, per member.",
-      "1 seat included",
       "$50 per additional concurrency slot",
       "Unlimited previewers",
       "30,000 requests",
@@ -855,14 +667,14 @@
     "source": "wayback",
     "prevTs": "20250201131831",
     "kind": "price",
-    "score": 12,
+    "score": 15,
     "counts": {
-      "price": 2,
+      "price": 3,
       "limit": 3,
       "plan": 0
     },
     "material": true,
-    "headline": "Vercel: 2 prices, 3 limits changed ($5.00 → $0.05)",
+    "headline": "Vercel: 3 prices, 3 limits changed ($5.00 → $0.05)",
     "pairs": [
       {
         "before": "then starting at $5.00 per thousand",
@@ -906,15 +718,15 @@
     "date": "2025-04-01",
     "source": "wayback",
     "prevTs": "20250301175920",
-    "kind": "copy",
-    "score": 2,
+    "kind": "price",
+    "score": 3,
     "counts": {
       "price": 1,
       "limit": 0,
       "plan": 0
     },
-    "material": false,
-    "headline": "Vercel: pricing page text changed (no price or limit change detected)",
+    "material": true,
+    "headline": "Vercel: 1 price changed (added “$0.50 per 1 GB”)",
     "pairs": [],
     "added": [
       "$0.50 per 1 GB"
@@ -935,14 +747,14 @@
     "source": "wayback",
     "prevTs": "20250401074819",
     "kind": "price",
-    "score": 67,
+    "score": 71,
     "counts": {
-      "price": 11,
-      "limit": 18,
+      "price": 16,
+      "limit": 12,
       "plan": 0
     },
     "material": true,
-    "headline": "Vercel: 11 prices, 18 limits changed ($0.06 → $0.65; $2 → $0.40)",
+    "headline": "Vercel: 16 prices, 12 limits changed ($0.06 → $0.65; $2 → $0.40)",
     "pairs": [
       {
         "before": "then starting at $0.06 per GB",
@@ -1046,47 +858,33 @@
       }
     ],
     "added": [
-      "1M /month included",
-      "10M /month included",
       "then starting at $2 per 1M",
-      "1M /month included",
       "Starting at $0.50 per 1M allowed requests",
       "200,000 /month included",
       "3,000 / month included",
       "10,000 / month included",
-      "100,000 /month included",
       "1M /month included",
       "then starting at $3.00 per 1M",
-      "$5.00 per 500 writes",
       "then starting at $0.06 per GB",
-      "1 environment",
       "12 environments",
       "1 build machine (2 CPUs)",
       "1 build machine (4 CPUs)",
       "then $50 per additional machine",
       "Starting at $0.014 per minute",
       "Unlimited Deployments",
-      "1 seat included",
       "Unlimited",
       "Additional 12 months (24 total)",
       "You can define a spend amount (e.g. $40) and receive email, web, and SMS notifications as you reach that amount. When reaching 100%, you can optionally automatically pause all projects with a hard limit."
     ],
     "removed": [
       "20 days saved on daily builds.",
-      "1M reads /month included",
-      "10M reads /month included",
       "then starting at $0.40 per million",
       "2M writes /month included",
       "starting at $4 per million",
-      "100,000 reads /month included",
-      "1M reads /month included",
       "then starting at $3.00 per million",
       "1000 writes /month included",
-      "then starting at $5.00 per 500 writes",
       "Starting at $0.50 per million allowed requests",
       "Starting at $0.50 per million allowed requests",
-      "1 seat included",
-      "1 build machine",
       "2 CPUs included",
       "1 build machine",
       "4 CPUs included; $50 per additional machine",
@@ -1107,14 +905,14 @@
     "source": "wayback",
     "prevTs": "20250506105442",
     "kind": "price",
-    "score": 31,
+    "score": 35,
     "counts": {
-      "price": 6,
+      "price": 7,
       "limit": 6,
       "plan": 1
     },
     "material": true,
-    "headline": "Vercel: 6 prices, 6 limits, 1 plan name changed (2,500 → 50,000; 25,000 → 100,000)",
+    "headline": "Vercel: 7 prices, 6 limits, 1 plan name changed (2,500 → 50,000; 25,000 → 100,000)",
     "pairs": [
       {
         "before": "2,500 events",
@@ -1163,7 +961,6 @@
     ],
     "added": [
       "Free forever.",
-      "$20/month + additional usage.",
       "1 GB / month",
       "5 GB / month",
       "then $0.023/GB",
@@ -1179,8 +976,7 @@
       "3 days of traces"
     ],
     "removed": [
-      "The perfect starting place for your web app or personal project. Free forever.",
-      "Everything you need to build and scale your web app. $20/month + add'l usage."
+      "The perfect starting place for your web app or personal project. Free forever."
     ],
     "totals": {
       "removed": 22,
@@ -1197,14 +993,14 @@
     "source": "wayback",
     "prevTs": "20250602023916",
     "kind": "price",
-    "score": 36,
+    "score": 43,
     "counts": {
-      "price": 5,
-      "limit": 11,
+      "price": 8,
+      "limit": 10,
       "plan": 0
     },
     "material": true,
-    "headline": "Vercel: 5 prices, 11 limits changed (3,000 → 5,000; 180,000 → 300,000)",
+    "headline": "Vercel: 8 prices, 10 limits changed (3,000 → 5,000; 180,000 → 300,000)",
     "pairs": [
       {
         "before": "3,000 / month included",
@@ -1263,7 +1059,6 @@
       }
     ],
     "added": [
-      "1M allowed requests included / month",
       "$1 per 1,000 Deep Analysis checks",
       "4 hours / month included",
       "16 hours / month included",
@@ -1279,7 +1074,6 @@
       "1 project included"
     ],
     "removed": [
-      "1M /month included",
       "100,000 /month included",
       "100 GB-hour /month included",
       "1,000 GB-hour /month included",
@@ -1331,14 +1125,14 @@
     "source": "wayback",
     "prevTs": "20250901131424",
     "kind": "price",
-    "score": 71,
+    "score": 64,
     "counts": {
-      "price": 14,
-      "limit": 15,
+      "price": 15,
+      "limit": 10,
       "plan": 0
     },
     "material": true,
-    "headline": "Vercel: 14 prices, 15 limits changed ($40 → $200)",
+    "headline": "Vercel: 15 prices, 10 limits changed ($40 → $200; 100GB → 1GB)",
     "pairs": [
       {
         "before": "You can define a spend amount (e.g. $40) and receive email, web, and SMS notifications as you reach that amount. When reaching 100%, you can optionally automatically pause all projects with a hard limit.",
@@ -1350,36 +1144,35 @@
             "after": "$200"
           }
         ]
+      },
+      {
+        "before": "100 GB /month included",
+        "after": "1 GB / month included",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100GB",
+            "after": "1GB"
+          }
+        ]
       }
     ],
     "added": [
-      "$20 of included usage credit",
       "Team collaboration & free viewer seats",
       "10M / month included (up to $32 in value)",
       "1TB / month included (up to $350 in value)",
-      "1 GB / month included",
-      "$0.023 per GB",
-      "10,000 / month included",
-      "$0.40 per 1M",
       "2,000 / month included",
-      "$5.00 per 1M",
-      "10 GB / month included",
-      "Starting at $0.05 per GB",
-      "Starting at $3.00 per 1M reads",
       "5,000 / month included",
-      "20 GB / month included",
       "$20 / month",
       "Unlimited",
       "then $250 for unlimited",
       "then $250 for unlimited",
       "$10 / month",
       "$1.20 per 1M events",
-      "10,000 events / month included",
-      "50,000 events / month included",
       "$300 per month",
       "$150 per month",
       "$350 per month",
-      ". Pro plans have a $20 included credit to use across resources. Finally, check out our Fair Use Policy",
+      "Pro plans have a $20 included credit to use across resources. Finally, check out our Fair Use Policy",
       "Yes! On top of your included credit on Pro, you can pay as you go, uncapped. If you have a free Hobby account, you are limited to the usage caps and cannot purchase additional usage. Read more details in our documentation"
     ],
     "removed": [
@@ -1389,29 +1182,17 @@
       "2M /month included",
       "1 GB / month",
       "5 GB / month",
-      "then $0.023/GB",
-      "then $0.40/1M",
-      "then $5.00/1M",
-      "10 GB included",
       "100 GB included",
-      "then starting at $0.05/GB",
-      "10,000 / month included",
       "600,000 / month included",
       "200,000 / month included",
       "1M /month included",
-      "then starting at $3.00 per 1M",
       "1000 writes /month included",
       "16 hours / month included",
       "1440 GB-hrs included / month",
-      "20 GB included / month",
-      "100 GB /month included",
       "then $50 per additional machine",
       "1 seat included",
-      "then $20 per seat",
       "$10/month (1M events included)",
       "then $1.2 per 1 million events",
-      "10,000 events",
-      "50,000 events",
       "100,000 events"
     ],
     "totals": {
@@ -1429,14 +1210,14 @@
     "source": "wayback",
     "prevTs": "20251001001622",
     "kind": "price",
-    "score": 32,
+    "score": 29,
     "counts": {
-      "price": 9,
+      "price": 8,
       "limit": 3,
       "plan": 0
     },
     "material": true,
-    "headline": "Vercel: 9 prices, 3 limits changed (removed “1 build machine (2 CPUs)”; added “2 projects included”)",
+    "headline": "Vercel: 8 prices, 3 limits changed (removed “1 build machine (2 CPUs)”; added “2 projects included”)",
     "pairs": [],
     "added": [
       "2 projects included",
@@ -1448,22 +1229,12 @@
       "$0.50 per GB",
       "$0.30 per action",
       "Starting at $0.126 per minute",
-      "$10 / project / month",
-      "$10 / month",
-      "$300 / month",
-      "$150 / month",
       "$100 / project / month",
-      "Starting at $0.15 per GB",
-      "$350 / month"
+      "Starting at $0.15 per GB"
     ],
     "removed": [
       "1 build machine (2 CPUs)",
-      "1 build machine (4 CPUs)",
-      "$10 / project",
-      "$10 / team",
-      "$300 per month",
-      "$150 per month",
-      "$350 per month"
+      "1 build machine (4 CPUs)"
     ],
     "totals": {
       "removed": 17,
@@ -1479,8 +1250,8 @@
     "date": "2025-12-03",
     "source": "wayback",
     "prevTs": "20251106115653",
-    "kind": "limits",
-    "score": 4,
+    "kind": "price",
+    "score": 5,
     "counts": {
       "price": 1,
       "limit": 1,
@@ -1518,20 +1289,8 @@
       "plan": 0
     },
     "material": true,
-    "headline": "Vercel: 2 prices changed ($2.5 → $2.50)",
-    "pairs": [
-      {
-        "before": "$2.5 per 100K",
-        "after": "$2.50 per 100K",
-        "confidence": 1,
-        "deltas": [
-          {
-            "before": "$2.5",
-            "after": "$2.50"
-          }
-        ]
-      }
-    ],
+    "headline": "Vercel: 2 prices changed (removed “$0.50 per GB”; added “$0.00069 per GB-hour”)",
+    "pairs": [],
     "added": [
       "$0.00069 per GB-hour"
     ],
@@ -1553,7 +1312,7 @@
     "source": "wayback",
     "prevTs": "20260101230202",
     "kind": "price",
-    "score": 6,
+    "score": 7,
     "counts": {
       "price": 2,
       "limit": 1,
@@ -1594,14 +1353,14 @@
     "source": "wayback",
     "prevTs": "20260209121517",
     "kind": "price",
-    "score": 9,
+    "score": 10,
     "counts": {
       "price": 3,
       "limit": 1,
       "plan": 0
     },
     "material": true,
-    "headline": "Vercel: 3 prices, 1 limit changed ($32 → ∅; $350 → ∅)",
+    "headline": "Vercel: 3 prices, 1 limit changed ($32 removed; $350 removed)",
     "pairs": [
       {
         "before": "10M / month included (up to $32 in value)",
@@ -1646,14 +1405,14 @@
     "source": "wayback",
     "prevTs": "20260305224159",
     "kind": "price",
-    "score": 4,
+    "score": 7,
     "counts": {
-      "price": 1,
+      "price": 2,
       "limit": 1,
       "plan": 0
     },
     "material": true,
-    "headline": "Vercel: 1 price, 1 limit changed (added “1M / month included”)",
+    "headline": "Vercel: 2 prices, 1 limit changed (added “1M / month included”)",
     "pairs": [],
     "added": [
       "1M / month included",
@@ -1676,25 +1435,23 @@
     "source": "wayback",
     "prevTs": "20260401035155",
     "kind": "price",
-    "score": 12,
+    "score": 19,
     "counts": {
-      "price": 3,
-      "limit": 2,
+      "price": 6,
+      "limit": 1,
       "plan": 0
     },
     "material": true,
-    "headline": "Vercel: 3 prices, 2 limits changed (removed “$2.50 per 100K”; added “50,000 events / month included”)",
+    "headline": "Vercel: 6 prices, 1 limit changed (removed “$2.50 per 100K”; added “50,000 events / month included”)",
     "pairs": [],
     "added": [
       "50,000 events / month included",
       "$20 per 1M",
       "$0.50 per GB-month",
-      "1 GB",
       "$0.50 per GB"
     ],
     "removed": [
       "$2.50 per 100K",
-      "1 GB / month included",
       "$0.00069 per GB-hour",
       "$10 / month"
     ],
@@ -1713,14 +1470,14 @@
     "source": "wayback",
     "prevTs": "20260502142443",
     "kind": "price",
-    "score": 68,
+    "score": 121,
     "counts": {
-      "price": 22,
-      "limit": 2,
+      "price": 40,
+      "limit": 1,
       "plan": 0
     },
     "material": true,
-    "headline": "Vercel: 22 prices, 2 limits changed ($0.50 → $0.0000005; $1 → $0.001)",
+    "headline": "Vercel: 40 prices, 1 limit changed ($0.50 → $0.0000005; $1 → $0.001)",
     "pairs": [
       {
         "before": "Starting at $0.50 per 1M allowed requests",
@@ -1778,7 +1535,6 @@
       "$0.01 per write",
       "$0.000002 per routed request",
       "Starting at $0.0000006 per invocation",
-      "420 GB-hrs / month included",
       "Starting at $0.0000006 per creation",
       "$0.00002 per event",
       "Starting at $0.0000006 per operation",
@@ -1800,7 +1556,6 @@
       "$5.00 per 500 writes",
       "$2 per 1M routed requests",
       "Starting at $0.60 per 1M",
-      "420 GB-Hours / month included",
       "Starting at $0.60 per 1M",
       "$20 per 1M",
       "Starting at $0.60 per 1M",
@@ -1823,14 +1578,14 @@
     "source": "wayback",
     "prevTs": "20260604140943",
     "kind": "price",
-    "score": 119,
+    "score": 132,
     "counts": {
-      "price": 30,
-      "limit": 14,
+      "price": 42,
+      "limit": 2,
       "plan": 1
     },
     "material": true,
-    "headline": "Vercel: 30 prices, 14 limits, 1 plan name changed ($0.0000005 → $0.50; $0.001 → $1)",
+    "headline": "Vercel: 42 prices, 2 limits, 1 plan name changed ($0.0000005 → $0.50; $0.001 → $1)",
     "pairs": [
       {
         "before": "Starting at $0.0000005 per allowed request",
@@ -1953,17 +1708,6 @@
         ]
       },
       {
-        "before": "50,000 events / month included",
-        "after": "50K events / month included",
-        "confidence": 1,
-        "deltas": [
-          {
-            "before": "50,000",
-            "after": "50K"
-          }
-        ]
-      },
-      {
         "before": "Starting at $0.0000006 per operation",
         "after": "Starting at $0.60 per 1M",
         "confidence": 0.67,
@@ -1977,51 +1721,20 @@
             "after": "1M"
           }
         ]
-      },
-      {
-        "before": "10,000 events / month included",
-        "after": "10K events / month included",
-        "confidence": 1,
-        "deltas": [
-          {
-            "before": "10,000",
-            "after": "10K"
-          }
-        ]
-      },
-      {
-        "before": "50,000 events / month included",
-        "after": "50K events / month included",
-        "confidence": 1,
-        "deltas": [
-          {
-            "before": "50,000",
-            "after": "50K"
-          }
-        ]
       }
     ],
     "added": [
       "$0 /mo.",
-      "$20 /mo.",
       "10M per month included",
       "then starting at $2 per 1M",
-      "200k / month included",
-      "10K / month included",
       "$0.40 per 1M",
-      "2K / month included",
       "$5 per 1M",
-      "5K / month included",
       "Starting at $0.05 per 1K",
-      "300K / month included",
-      "100K / month included",
-      "100K / month included",
       "Starting at $3 per 1M reads",
       "$1 per 100 writes",
       "$2 per 1M routed requests",
       "1M requests / month included",
       "Starting at $0.50 per 1M",
-      "5K / month included",
       "10 GB / month included",
       "$0.10 per GB-month",
       "$20 per 1M",
@@ -2029,48 +1742,31 @@
       "5K requests / month included",
       "$3 per 10K requests",
       "$100 per month",
-      "$20 per month",
-      "10K requests / month included",
       "$0.03 per 1K requests",
       "$1.20 per 1M events",
-      "$0.65 per 10K events",
       "$3 per 100K events",
-      "$10 per month",
       "$100 / project / month",
       "Sign up for free",
       "Start a free Pro trial",
       "Get started for free"
     ],
     "removed": [
-      "Start free. Upgrade to Pro for $20/month. Pay only for active compute and set your own spend limits.",
       "Free forever.",
-      "$20/mo + additional usage",
       "Start a free trial",
       "10M / month included; then starting at $0.000002 per request",
-      "200,000 / month included",
-      "10,000 / month included",
       "Starting at $0.0000004 per operation",
-      "2,000 / month included",
       "Starting at $0.000005 per operation",
-      "5,000 / month included",
       "$0.00005 per transformation",
-      "300,000 / month included",
-      "100,000 / month included",
-      "100,000 / month included",
       "Starting at $0.000003 per read",
       "$0.01 per write",
       "$0.000002 per routed request",
-      "5,000 / month included",
       "$0.00002 per event",
       "$0.30 per action",
       "$20 / month",
-      "10K requests / month",
       "$0.00003 per request",
       "$0.0000012 per event",
-      "$0.65 per 10,000 events",
       "$0.00003 per event",
-      "$10 / month",
-      ". Pro plans have a $20 included credit to use across resources. Finally, check out our Fair Use Policy",
+      "Pro plans have a $20 included credit to use across resources. Finally, check out our Fair Use Policy",
       "Yes! On top of your included credit on Pro, you can pay as you go, uncapped. If you have a free Hobby account, you are limited to the usage caps and cannot purchase additional usage. Read more details in our documentation",
       "All new teams have a default on-demand usage budget of $200 (which can be customized) and receive email, web, and SMS notifications as you reach that amount. When reaching 100%, you can optionally configure Vercel to automatically pause all projects with a hard limit."
     ],
@@ -2089,27 +1785,21 @@
     "source": "wayback",
     "prevTs": "20260703120339",
     "kind": "price",
-    "score": 14,
+    "score": 9,
     "counts": {
-      "price": 5,
+      "price": 3,
       "limit": 0,
       "plan": 0
     },
     "material": true,
-    "headline": "Vercel: 5 prices changed (removed “$100 per month”; added “$100 / month”)",
+    "headline": "Vercel: 3 prices changed (removed “$100 / project / month”; added “Pro plans have a $20 included credit to use a…”)",
     "pairs": [],
     "added": [
-      "$100 / month",
-      "$20 / month",
-      "$10 / month",
-      ". Pro plans have a $20 included credit to use across resources. Finally, check out our Fair Use Policy",
+      "Pro plans have a $20 included credit to use across resources. Finally, check out our Fair Use Policy",
       "Yes! On top of your included credit on Pro, you can pay as you go, uncapped. If you have a free Hobby account, you are limited to the usage caps and cannot purchase additional usage. Read more details in our documentation",
       "All new teams have a default on-demand usage budget of $200 (which can be customized) and receive email, web, and SMS notifications as you reach that amount. When reaching 100%, you can optionally configure Vercel to automatically pause all projects with a hard limit."
     ],
     "removed": [
-      "$100 per month",
-      "$20 per month",
-      "$10 per month",
       "$100 / project / month"
     ],
     "totals": {
@@ -2127,14 +1817,14 @@
     "source": "wayback",
     "prevTs": "20260804124654",
     "kind": "price",
-    "score": 9,
+    "score": 13,
     "counts": {
-      "price": 2,
+      "price": 3,
       "limit": 1,
       "plan": 1
     },
     "material": true,
-    "headline": "Vercel: 2 prices, 1 limit, 1 plan name changed (5K → 500)",
+    "headline": "Vercel: 3 prices, 1 limit, 1 plan name changed (5K → 500)",
     "pairs": [
       {
         "before": "5K requests / month included",
@@ -2163,5 +1853,32 @@
       "materialRemoved": 2,
       "materialAdded": 5
     }
+  },
+  {
+    "id": "vercel-com-pricing-20260902202107",
+    "url": "https://vercel.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260902121017",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Vercel: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 6,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    },
+    "transition": true
   }
 ]

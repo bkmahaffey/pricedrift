@@ -1,0 +1,539 @@
+[
+  {
+    "id": "mailgun-com-pricing-20230307225129",
+    "url": "https://www.mailgun.com/pricing/",
+    "ts": "20230307225129",
+    "date": "2023-03-07",
+    "source": "wayback",
+    "prevTs": "20230115192026",
+    "kind": "price",
+    "score": 14,
+    "counts": {
+      "price": 3,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mailgun: 3 prices, 3 limits changed (removed “$80/month”; added “The Trial plan is ideal for those looking to …”)",
+    "pairs": [],
+    "added": [
+      "Get Started For Free",
+      "The Trial plan is ideal for those looking to test out the service. On the foundation trial, you get a 30-day free trial of everything included in the Foundation plan. After 30-days, you will be upgraded to the Foundation 50k plan. Trial provides you with the following features:"
+    ],
+    "removed": [
+      "$80/month",
+      "100,000 emails/month included",
+      "1,000 Email Address Verifications",
+      "15 Days Log Retention",
+      "3 days message retention",
+      "Extra emails & verifications from $0.80 / 1,000 emails",
+      "from $1.20 / 100 verifications",
+      "The Trial plan is ideal for those looking to test out the service. For the first month on the Trial plan, you get a complimentary 5,000 free emails. After your month-long trial expires, you’ll be migrated to the Foundation plan. Trial provides you with the following features:"
+    ],
+    "totals": {
+      "removed": 25,
+      "added": 27,
+      "materialRemoved": 8,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "mailgun-com-pricing-20230711201256",
+    "url": "https://www.mailgun.com/pricing/",
+    "ts": "20230711201256",
+    "date": "2023-07-11",
+    "source": "wayback",
+    "prevTs": "20230307225129",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Mailgun: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 21,
+      "added": 37,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "mailgun-com-pricing-20231201173303",
+    "url": "https://www.mailgun.com/pricing/",
+    "ts": "20231201173303",
+    "date": "2023-12-01",
+    "source": "wayback",
+    "prevTs": "20230711201256",
+    "kind": "price",
+    "score": 16,
+    "counts": {
+      "price": 2,
+      "limit": 3,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Mailgun: 2 prices, 3 limits, 2 plan names changed (removed “$0/month”; added “5 days log retention”)",
+    "pairs": [],
+    "added": [
+      "Try For Free",
+      "5 days log retention",
+      "Try For Free",
+      "30 days of log retention",
+      "Up to 7 days of Message Retention",
+      "Access at 50k, included at 100K+ volumes"
+    ],
+    "removed": [
+      "$0/month",
+      "Try us out! Get 5,000 free emails for 1 month",
+      "1 Dedicated IP (Foundation 100k and up)",
+      "Extra emails & verifications from $1.00 / 1,000 emails"
+    ],
+    "totals": {
+      "removed": 82,
+      "added": 148,
+      "materialRemoved": 13,
+      "materialAdded": 15
+    }
+  },
+  {
+    "id": "mailgun-com-pricing-20240204024610",
+    "url": "https://www.mailgun.com/pricing/",
+    "ts": "20240204024610",
+    "date": "2024-02-04",
+    "source": "wayback",
+    "prevTs": "20231201173303",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Mailgun: 1 price, 1 limit, 2 plan names changed (added “Free for 1 month, then”)",
+    "pairs": [],
+    "added": [
+      "Free for 1 month, then",
+      "Free for 1 month, then",
+      "Try For Free",
+      "Try For Free",
+      "your TAM can investigate and advise on the exact number and types of IPs that best suite your business. Otherwise, you can add additional IPs to your account for $59/IP/month from within the control panel or by contacting support."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 11,
+      "added": 9,
+      "materialRemoved": 0,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "mailgun-com-pricing-20240405170833",
+    "url": "https://www.mailgun.com/pricing/",
+    "ts": "20240405170833",
+    "date": "2024-04-05",
+    "source": "wayback",
+    "prevTs": "20240204024610",
+    "kind": "price",
+    "score": 23,
+    "counts": {
+      "price": 2,
+      "limit": 2,
+      "plan": 7
+    },
+    "material": true,
+    "headline": "Mailgun: 2 prices, 2 limits, 7 plan names changed ($1.20 → $0.80)",
+    "pairs": [
+      {
+        "before": "from $1.20 / 100 validations",
+        "after": "from $0.80 / 100 validations",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.20",
+            "after": "$0.80"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free",
+      "$0",
+      "No credit card required",
+      "Try For Free",
+      "1 day log retention",
+      "Try For Free",
+      "Send up to 5,000 emails a month to five authorized users of your choice",
+      "Free",
+      "1 day of log retention",
+      "Free",
+      "Free",
+      "Free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 25,
+      "materialRemoved": 3,
+      "materialAdded": 15
+    }
+  },
+  {
+    "id": "mailgun-com-pricing-20240602130015",
+    "url": "https://www.mailgun.com/pricing/",
+    "ts": "20240602130015",
+    "date": "2024-06-02",
+    "source": "wayback",
+    "prevTs": "20240405170833",
+    "kind": "price",
+    "score": 20,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 7
+    },
+    "material": true,
+    "headline": "Mailgun: 2 prices, 7 plan names changed ($1.00 → $1.30; $0.80 → $1.10)",
+    "pairs": [
+      {
+        "before": "from $1.00 / 1,000 emails",
+        "after": "from $1.30 / 1,000 emails",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.00",
+            "after": "$1.30"
+          }
+        ]
+      },
+      {
+        "before": "from $0.80 / 1,000 emails",
+        "after": "from $1.10 / 1,000 emails",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.80",
+            "after": "$1.10"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Start Free Trial",
+      "Start Free Trial"
+    ],
+    "removed": [
+      "Try For Free",
+      "Try For Free",
+      "Try For Free",
+      "Try For Free",
+      "Try For Free"
+    ],
+    "totals": {
+      "removed": 163,
+      "added": 98,
+      "materialRemoved": 7,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "mailgun-com-pricing-20240811190028",
+    "url": "https://www.mailgun.com/pricing/",
+    "ts": "20240811190028",
+    "date": "2024-08-11",
+    "source": "wayback",
+    "prevTs": "20240602130015",
+    "kind": "price",
+    "score": 14,
+    "counts": {
+      "price": 2,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mailgun: 2 prices, 4 limits changed (removed “Send up to 5,000 emails a month to five autho…”; added “100 emails/day included”)",
+    "pairs": [],
+    "added": [
+      "100 emails/day included",
+      "100 emails per day",
+      "$15",
+      "10,000 emails/month included",
+      "1 day log retention",
+      "from $1.80 / 1,000 emails",
+      "1 day message retention",
+      "There are several ways to give Mailgun a try. First, our free plan allows you to explore the platform with all the fundamentals needed to start sending with a daily sending cap. If you’re looking for something more, our paid plans offer free 30-day trials that provided unlimited access to higher tier features like:"
+    ],
+    "removed": [
+      "No credit card required",
+      "Send up to 5,000 emails a month to five authorized users of your choice",
+      "The Trial plan is ideal for those looking to test out the service. On the foundation trial, you get a 30-day free trial of everything included in the Foundation plan. After 30-days, you will be upgraded to the Foundation 50k plan. Trial provides you with the following features:",
+      "5 days of log retention so you can easily troubleshoot issues"
+    ],
+    "totals": {
+      "removed": 51,
+      "added": 59,
+      "materialRemoved": 8,
+      "materialAdded": 12
+    }
+  },
+  {
+    "id": "mailgun-com-pricing-20241002221006",
+    "url": "https://www.mailgun.com/pricing/",
+    "ts": "20241002221006",
+    "date": "2024-10-02",
+    "source": "wayback",
+    "prevTs": "20240811190028",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Mailgun: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "mailgun-com-pricing-20241209133033",
+    "url": "https://www.mailgun.com/pricing/",
+    "ts": "20241209133033",
+    "date": "2024-12-09",
+    "source": "wayback",
+    "prevTs": "20241002221006",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mailgun: 2 limits changed (added “State of email deliverability 2025 Read More”)",
+    "pairs": [],
+    "added": [
+      "State of email deliverability 2025 Read More",
+      "State of email deliverability 2025 Read More",
+      "State of email deliverability 2025 Read More"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 13,
+      "added": 11,
+      "materialRemoved": 1,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "mailgun-com-pricing-20250109010800",
+    "url": "https://www.mailgun.com/pricing/",
+    "ts": "20250109010800",
+    "date": "2025-01-09",
+    "source": "wayback",
+    "prevTs": "20241209133033",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Mailgun: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "mailgun-com-pricing-20250201222412",
+    "url": "https://www.mailgun.com/pricing/",
+    "ts": "20250201222412",
+    "date": "2025-02-01",
+    "source": "wayback",
+    "prevTs": "20250109010800",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mailgun: 2 limits changed (added “1 day of bounce classification”)",
+    "pairs": [],
+    "added": [
+      "1 day of bounce classification",
+      "5 days of bounce classification",
+      "30 days of bounce classification"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 6,
+      "materialRemoved": 0,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "mailgun-com-pricing-20250301154049",
+    "url": "https://www.mailgun.com/pricing/",
+    "ts": "20250301154049",
+    "date": "2025-03-01",
+    "source": "wayback",
+    "prevTs": "20250201222412",
+    "kind": "limits",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Mailgun: 2 limits, 1 plan name changed (removed “State of email deliverability 2025 Read More”; added “I want to send 50,000 emails/month”)",
+    "pairs": [],
+    "added": [
+      "Start For Free",
+      "I want to send 50,000 emails/month"
+    ],
+    "removed": [
+      "State of email deliverability 2025 Read More",
+      "State of email deliverability 2025 Read More",
+      "Get Started For Free",
+      "State of email deliverability 2025 Read More"
+    ],
+    "totals": {
+      "removed": 148,
+      "added": 85,
+      "materialRemoved": 4,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "mailgun-com-pricing-20250501153839",
+    "url": "https://www.mailgun.com/pricing/",
+    "ts": "20250501153839",
+    "date": "2025-05-01",
+    "source": "wayback",
+    "prevTs": "20250301154049",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Mailgun: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 6,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "mailgun-com-pricing-20250914173317",
+    "url": "https://www.mailgun.com/pricing/",
+    "ts": "20250914173317",
+    "date": "2025-09-14",
+    "source": "wayback",
+    "prevTs": "20250501153839",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Mailgun: 1 plan name changed",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Start For Free"
+    ],
+    "totals": {
+      "removed": 167,
+      "added": 30,
+      "materialRemoved": 13,
+      "materialAdded": 12
+    }
+  },
+  {
+    "id": "mailgun-com-pricing-20260402145547",
+    "url": "https://www.mailgun.com/pricing/",
+    "ts": "20260402145547",
+    "date": "2026-04-02",
+    "source": "wayback",
+    "prevTs": "20250914173317",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Mailgun: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 12,
+      "added": 10,
+      "materialRemoved": 7,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "mailgun-com-pricing-20260504134954",
+    "url": "https://www.mailgun.com/pricing/",
+    "ts": "20260504134954",
+    "date": "2026-05-04",
+    "source": "wayback",
+    "prevTs": "20260402145547",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mailgun: 1 price changed (added “from $ 1.20 / 100 validations”)",
+    "pairs": [],
+    "added": [
+      "from $ 1.20 / 100 validations"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  }
+]

@@ -1,0 +1,161 @@
+Skip to main content
+About billing for GitHub Actions
+If you want to use GitHub Actions beyond the storage or minutes included in your account, you will be billed for additional usage.
+In this article
+About billing for GitHub Actions
+Note that GitHub may apply a temporary authorization hold for the value of the usage-based costs in advance, which will appear as a pending charge in your account's payment method.
+GitHub Actions usage is free for standard GitHub-hosted runners in public repositories, and for self-hosted runners. See Choosing the runner for a job
+For private repositories, each GitHub account receives a quota of free minutes and storage for use with GitHub-hosted runners, depending on the account's plan. Any usage beyond the included amounts is billed to your account.
+If you are an organization owner or enterprise owner, you can connect an Azure Subscription ID to your organization or enterprise account to enable and pay for GitHub Actions usage beyond the amounts included with your account. For more information, see Connecting an Azure subscription
+.
+Minutes reset every month, while storage usage does not.
+Included storage and minutes
+Note
+Included minutes cannot be used for larger runners. These runners will always be charged for, including in public repositories. For more information, see Per-minute rates
+.
+Logs and job summaries do not count towards storage usage.
+Plan
+Storage
+Minutes (per month)
+GitHub Free
+500 MB
+2,000
+GitHub Pro
+1 GB
+3,000
+GitHub Free for organizations
+500 MB
+2,000
+GitHub Team
+2 GB
+3,000
+GitHub Enterprise Cloud
+50 GB
+50,000
+If your account's storage surpasses these limits and you have a valid payment method on file, you will pay $0.008 USD per GB of storage per day.
+Minute multipliers
+Jobs that run on Windows and macOS runners that GitHub hosts consume minutes at 2 and 10 times the rate that jobs on Linux runners consume.
+Operating system
+Minute multiplier
+Linux
+1
+Windows
+2
+macOS
+10
+Note
+The billing dashboard may show your Actions usage as a dollar amount ("spend") rather than raw minutes. This amount already reflects the minute multipliers above. If you're using macOS or Windows runners, you will use up your included minutes more quickly
+Per-minute rates
+GitHub rounds the minutes and partial minutes each job uses up to the nearest whole minute.
+Per-minute rates for standard runners
+Operating system
+Per-minute rate (USD)
+Linux 2-core
+$0.008
+Windows 2-core
+$0.016
+macOS 3-core or 4-core (M1 or Intel)
+$0.08
+Per-minute rates for x64-powered larger runners
+Operating system
+Per-minute rate (USD)
+Linux Advanced 2-core
+$0.008
+Linux 4-core
+$0.016
+Linux 8-core
+$0.032
+Linux 16-core
+$0.064
+Linux 32-core
+$0.128
+Linux 64-core
+$0.256
+Linux 96-core
+$0.384
+Windows 4-core
+$0.032
+Windows 8-core
+$0.064
+Windows 16-core
+$0.128
+Windows 32-core
+$0.256
+Windows 64-core
+$0.512
+Windows 96-core
+$0.768
+macOS 12-core
+$0.12
+Per-minute rates for arm64-powered larger runners
+Operating system
+Per-minute rate (USD)
+Linux 2-core
+$0.005
+Linux 4-core
+$0.01
+Linux 8-core
+$0.02
+Linux 16-core
+$0.04
+Linux 32-core
+$0.08
+Linux 64-core
+$0.16
+Windows 2-core
+$0.01
+Windows 4-core
+$0.02
+Windows 8-core
+$0.04
+Windows 16-core
+$0.08
+Windows 32-core
+$0.16
+Windows 64-core
+$0.32
+macOS 6-core (M1)
+$0.16
+Per-minute rates for GPU-powered larger runners
+Operating system
+Per-minute rate (USD)
+Linux 4-core
+$0.07
+Windows 4-core
+$0.14
+Points to note about rates for runners
+The number of jobs you can run concurrently across all repositories in your user or organization account depends on your GitHub plan. For more information, see Usage limits, billing, and administration
+for GitHub-hosted runners and Usage limits for self-hosted runners
+for self-hosted runner usage limits.
+You must manage billing settings and paid features for each of your accounts separately. You can switch between settings for your personal account, organization accounts, and enterprise accounts using the context switcher on each settings page. See About billing on GitHub
+.
+Larger runners are only available for organizations and enterprises using the GitHub Team or GitHub Enterprise Cloud plans.
+Larger runners are only billed at the per-minute rate for the amount of time workflows are executed on them. There is no cost associated with creating a larger runner that is not being used by a workflow.
+For larger runners, there is no additional cost for configurations that assign public static IP addresses to a larger runner. For more information on larger runners, see About larger runners
+.
+Included minutes cannot be used for larger runners.
+The larger runners are not free for public repositories.
+Calculating minute and storage spending
+To estimate the costs for consumptive services, you can use the GitHub pricing calculator
+.
+At the end of the month, GitHub calculates the cost of minutes and storage used over the amount included in your account.
+Sample minutes cost calculation
+For example, if your organization uses GitHub Team and allows unlimited spending, using 5,000 minutes beyond the included quota could have a total storage and minute cost of $56 USD, depending on the operating systems used to run jobs.
+5,000 (3,000 Linux and 2,000 Windows) minutes = $56 USD ($24 USD + $32 USD). 3,000 Linux minutes at $0.008 USD per minute = $24 USD.
+2,000 Windows minutes at $0.016 USD per minute = $32 USD.
+GitHub calculates your storage usage for each month based on hourly usage during that month.
+Sample storage cost calculation
+Note
+GitHub updates your storage space within a 6 to 12-hour window. If you delete artifacts, the available space will be reflected in your account during the next scheduled update.
+For example, if you use 3 GB of storage for 10 days of March and 12 GB for 21 days of March, your storage usage would be:
+3 GB x 10 days x (24 hours per day) = 720 GB-Hours
+12 GB x 21 days x (24 hours per day) = 6,048 GB-Hours
+720 GB-Hours + 6,048 GB-Hours = 6,768 GB-Hours
+6,768 GB-Hours / (744 hours per month) = 9.0967 GB-Months
+At the end of the month, GitHub rounds your storage to the nearest MB. Therefore, your storage usage for March would be 9.097 GB.
+Your GitHub Actions usage shares your account's existing billing date, payment method, and receipt. To view all the subscriptions for your account on GitHub, see About the billing cycle
+.
+Managing your budget for GitHub Actions
+If your account does not have a valid payment method on file, usage is blocked once you use up your quota.
+By default, if you have a valid payment method on file, spending is limited to $0 USD until you set a budget. You can set and manage a budget to limit spending for a product or SKU. See Using budgets to control spending on metered products
+.

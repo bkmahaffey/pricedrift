@@ -1,0 +1,355 @@
+[
+  {
+    "id": "ably-com-pricing-20250304113315",
+    "url": "https://ably.com/pricing",
+    "ts": "20250304113315",
+    "date": "2025-03-04",
+    "source": "wayback",
+    "prevTs": "20241227022417",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Ably: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "ably-com-pricing-20250623030131",
+    "url": "https://ably.com/pricing",
+    "ts": "20250623030131",
+    "date": "2025-06-23",
+    "source": "wayback",
+    "prevTs": "20250304113315",
+    "kind": "price",
+    "score": 38,
+    "counts": {
+      "price": 9,
+      "limit": 2,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Ably: 9 prices, 2 limits, 4 plan names changed (removed “Events ( 5) x Attendees ( 5K) x 5* x (Attende…”; added “MAU pricing for $0.05 per user”)",
+    "pairs": [],
+    "added": [
+      "MAU pricing for $0.05 per user"
+    ],
+    "removed": [
+      "Events ( 5) x Attendees ( 5K) x 5* x (Attendees ( 5K) x 0.2**) + Events ( 5) x Attendees ( 5K) x 5 messages per person",
+      "@ $2.39 / million",
+      "SAVE $78.75",
+      "$296.00 $217.25",
+      "Assumptions: *5 messages sent per person, **20% attendance at any one time",
+      "@ $1.00 / million",
+      "$1.00",
+      "Events ( 5) x Attendees ( 5K) x Avg duration in hrs ( 1) x 60 (mins in an hr) x 0.2*",
+      "@ $1.00 / million",
+      "$1.00",
+      "$219.25 Excludes plan fees",
+      "Free",
+      "Free",
+      "Free",
+      "Free"
+    ],
+    "totals": {
+      "removed": 79,
+      "added": 4,
+      "materialRemoved": 15,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "ably-com-pricing-20250720025354",
+    "url": "https://ably.com/pricing",
+    "ts": "20250720025354",
+    "date": "2025-07-20",
+    "source": "wayback",
+    "prevTs": "20250623030131",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Ably: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "ably-com-pricing-20250806095900",
+    "url": "https://ably.com/pricing",
+    "ts": "20250806095900",
+    "date": "2025-08-06",
+    "source": "wayback",
+    "prevTs": "20250720025354",
+    "kind": "price",
+    "score": 93,
+    "counts": {
+      "price": 22,
+      "limit": 2,
+      "plan": 12
+    },
+    "material": true,
+    "headline": "Ably: 22 prices, 2 limits, 12 plan names changed (2 → 4)",
+    "pairs": [
+      {
+        "before": "2 hour support SLA",
+        "after": "4 hour email support SLA",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "2",
+            "after": "4"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "As low as $0.50/M with volume discount",
+      "As low as $0.20/M with volume discount",
+      "As low as $0.20/M with volume discount",
+      "Unlimited concurrent channels",
+      "Unlimited connections",
+      "Unlimited messages / second",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free"
+    ],
+    "removed": [
+      "MAU pricing for $0.05 per user",
+      "Unlimited",
+      "First 50 million msgs $2.50",
+      "Next 450 million msgs $2.25",
+      "Next 4.5 billion msgs $1.95",
+      "Next 15 billion msgs $1.65",
+      "Next 30 billion msgs $1.40",
+      "Over 50 billion msgs $1.25",
+      "First 10 million mins $1.00",
+      "Next 90 million mins $0.95",
+      "Next 900 million mins $0.85",
+      "Next 4 billion mins $0.75",
+      "Next 10 billion mins $0.65",
+      "Over 15 billion mins $0.60",
+      "First 10 million mins $1.00",
+      "Next 90 million mins $0.95",
+      "Next 900 million mins $0.85",
+      "Next 4 billion mins $0.75",
+      "Next 10 billion mins $0.65",
+      "Over 15 billion mins $0.60",
+      "2k / second",
+      "Free",
+      "Unlimited",
+      "Free",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 123,
+      "added": 131,
+      "materialRemoved": 33,
+      "materialAdded": 25
+    }
+  },
+  {
+    "id": "ably-com-pricing-20251012074142",
+    "url": "https://ably.com/pricing",
+    "ts": "20251012074142",
+    "date": "2025-10-12",
+    "source": "wayback",
+    "prevTs": "20250806095900",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Ably: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "ably-com-pricing-20251102194658",
+    "url": "https://ably.com/pricing",
+    "ts": "20251102194658",
+    "date": "2025-11-02",
+    "source": "wayback",
+    "prevTs": "20251012074142",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Ably: 1 limit changed (removed “Median roundtrip latency < 37ms”; added “message delivery latency 6.5ms”)",
+    "pairs": [],
+    "added": [
+      "message delivery latency 6.5ms"
+    ],
+    "removed": [
+      "Median roundtrip latency < 37ms"
+    ],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "ably-com-pricing-20260211212734",
+    "url": "https://ably.com/pricing",
+    "ts": "20260211212734",
+    "date": "2026-02-11",
+    "source": "wayback",
+    "prevTs": "20251102194658",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Ably: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "24x7 tech support and incident management with sub 15 mins response times."
+    ],
+    "totals": {
+      "removed": 26,
+      "added": 16,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "ably-com-pricing-20260308002221",
+    "url": "https://ably.com/pricing",
+    "ts": "20260308002221",
+    "date": "2026-03-08",
+    "source": "wayback",
+    "prevTs": "20260211212734",
+    "kind": "price",
+    "score": 36,
+    "counts": {
+      "price": 4,
+      "limit": 0,
+      "plan": 12
+    },
+    "material": true,
+    "headline": "Ably: 4 prices, 12 plan names changed (added “$107.50”)",
+    "pairs": [],
+    "added": [
+      "$107.50",
+      "$1.00",
+      "$1.00",
+      "$109.50"
+    ],
+    "removed": [
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free"
+    ],
+    "totals": {
+      "removed": 61,
+      "added": 23,
+      "materialRemoved": 12,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "ably-com-pricing-20260411050100",
+    "url": "https://ably.com/pricing",
+    "ts": "20260411050100",
+    "date": "2026-04-11",
+    "source": "wayback",
+    "prevTs": "20260308002221",
+    "kind": "plans",
+    "score": 30,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 15
+    },
+    "material": true,
+    "headline": "Ably: 15 plan names changed",
+    "pairs": [],
+    "added": [
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free"
+    ],
+    "removed": [
+      "Free"
+    ],
+    "totals": {
+      "removed": 16,
+      "added": 78,
+      "materialRemoved": 2,
+      "materialAdded": 15
+    }
+  }
+]

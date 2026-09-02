@@ -1,0 +1,39 @@
+Cohere offers two kinds of API keys: evaluation keys (free but limited in usage), and production keys (paid and much less limited in usage). You can create a trial or production key on the API keys page
+For more details on pricing please see our pricing docs
+.
+Endpoint
+Trial rate limit
+Production rate limit
+Chat
+20/min
+500/min
+Embed
+100/min
+2,000/min
+Embed (Images)
+5/min
+400/min
+Rerank
+10/min
+1,000/min
+Tokenize
+100/min
+2,000/min
+Classify
+100/min
+1000/min
+EmbedJob
+5/min
+50/min
+Summarize (legacy)
+5/min
+500/min
+Generate (legacy)
+5/min
+500/min
+Default (anything not covered above)
+500/min
+In addition, all endpoints are limited to 1,000 calls per month with a trial key.
+If you have any questions or want to speak about getting a rate limit increase, reach out to support@cohere.com
+.
+Built with

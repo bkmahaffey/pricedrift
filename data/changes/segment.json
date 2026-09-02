@@ -1,0 +1,272 @@
+[
+  {
+    "id": "segment-com-pricing-20230301033248",
+    "url": "https://segment.com/pricing/",
+    "ts": "20230301033248",
+    "date": "2023-03-01",
+    "source": "wayback",
+    "prevTs": "20230125182208",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Segment: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "segment-com-pricing-20230504041420",
+    "url": "https://segment.com/pricing/",
+    "ts": "20230504041420",
+    "date": "2023-05-04",
+    "source": "wayback",
+    "prevTs": "20230301033248",
+    "kind": "plans",
+    "score": 5,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Segment: 1 limit, 2 plan names changed (removed “Yes! There is a 14-day free trial for the Tea…”; added “500,000/mo Reverse ETL Records”)",
+    "pairs": [],
+    "added": [
+      "500,000/mo Reverse ETL Records",
+      "Throughput Limit Your customer data comes in the form of API Calls and Objects. Free and Team plans include up to 250 API Calls and Objects per MTU. The vast majority of Segment customers use well under these limits. Business plans are eligible for custom limits.",
+      "Unlimited"
+    ],
+    "removed": [
+      "Create a free account",
+      "Try for free",
+      "Free Create a free account",
+      "Create a free account",
+      "Team Try for free",
+      "Try for free",
+      "Yes! There is a 14-day free trial for the Team plan. To try the Business plan, please contact us",
+      "No, you’re responsible for accounts that you register with Sources, Integrations, and Warehouse providers, whether they are paid or free."
+    ],
+    "totals": {
+      "removed": 94,
+      "added": 104,
+      "materialRemoved": 13,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "segment-com-pricing-20231115053714",
+    "url": "https://segment.com/pricing/",
+    "ts": "20231115053714",
+    "date": "2023-11-15",
+    "source": "wayback",
+    "prevTs": "20230504041420",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Segment: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 14,
+      "added": 8,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "segment-com-pricing-20240303144313",
+    "url": "https://segment.com/pricing/",
+    "ts": "20240303144313",
+    "date": "2024-03-03",
+    "source": "wayback",
+    "prevTs": "20231115053714",
+    "kind": "price",
+    "score": 4,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Segment: 1 price, 1 limit changed (removed “Includes 10,000 visitors/mo +$10/mo for 1,000…”; added “Includes 10,000 visitors/mo”)",
+    "pairs": [],
+    "added": [
+      "Includes 10,000 visitors/mo"
+    ],
+    "removed": [
+      "Includes 10,000 visitors/mo +$10/mo for 1,000 monthly visitors",
+      "Throughput Limit Your customer data comes in the form of API Calls and Objects. Free and Team plans include up to 250 API Calls and Objects per MTU. The vast majority of Segment customers use well under these limits. Business plans are eligible for custom limits."
+    ],
+    "totals": {
+      "removed": 49,
+      "added": 49,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "segment-com-pricing-20251006202432",
+    "url": "https://segment.com/pricing/",
+    "ts": "20251006202432",
+    "date": "2025-10-06",
+    "source": "wayback",
+    "prevTs": "20240303144313",
+    "kind": "price",
+    "score": 40,
+    "counts": {
+      "price": 6,
+      "limit": 5,
+      "plan": 6
+    },
+    "material": true,
+    "headline": "Segment: 6 prices, 5 limits, 6 plan names changed (removed “$0/month”)",
+    "pairs": [],
+    "added": [
+      "Start with Connections for free",
+      "No, you’re responsible for accounts that you register with Sources, Integrations, and Warehouse providers, whether they are paid or free."
+    ],
+    "removed": [
+      "Free",
+      "Create a free account",
+      "$0/month",
+      "Includes 1,000 visitors/mo",
+      "500,000/mo Reverse ETL Records",
+      "Try for free",
+      "Starts at $120/month",
+      "All of Free plus:",
+      "Includes 10,000 visitors/mo",
+      "Unlimited Sources",
+      "Free",
+      "Free plan:",
+      "Send data to unlimited destinations",
+      "Create a free account",
+      "Collect data from unlimited sources",
+      "Send data to unlimited destinations",
+      "Try for free",
+      "Collect data from unlimited sources",
+      "Send data to unlimited destinations",
+      "Free Create a free account",
+      "Team Try for free",
+      "14 day free trial",
+      "Unlimited",
+      "Unlimited",
+      "50 Hours",
+      "Unlimited",
+      "1 per day",
+      "2 per day",
+      "Free",
+      "Starting at $120/month",
+      "Additional 1,000 monthly tracked users (10K - 25K)",
+      "+ $12",
+      "Additional 1,000 monthly tracked users (25K - 100K)",
+      "+ $11",
+      "Additional 1,000 monthly tracked users (100K+)",
+      "+ $10",
+      "Create a free account"
+    ],
+    "totals": {
+      "removed": 170,
+      "added": 131,
+      "materialRemoved": 38,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "segment-com-pricing-20260124133137",
+    "url": "https://segment.com/pricing/",
+    "ts": "20260124133137",
+    "date": "2026-01-24",
+    "source": "wayback",
+    "prevTs": "20251006202432",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Segment: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 9,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "twilio-com-en-us-products-connections-pricing-20260613031657",
+    "url": "https://www.twilio.com/en-us/products/connections/pricing",
+    "ts": "20260613031657",
+    "date": "2026-06-13",
+    "source": "wayback",
+    "prevTs": "20251004114816",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Segment: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 11,
+      "added": 11,
+      "materialRemoved": 7,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "twilio-com-en-us-products-connections-pricing-20260818170112",
+    "url": "https://www.twilio.com/en-us/products/connections/pricing",
+    "ts": "20260818170112",
+    "date": "2026-08-18",
+    "source": "wayback",
+    "prevTs": "20260613031657",
+    "kind": "plans",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Segment: 2 plan names changed",
+    "pairs": [],
+    "added": [
+      "Start for free",
+      "Start for free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 45,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  }
+]

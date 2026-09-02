@@ -1,0 +1,117 @@
+Sign In
+Contact Us
+*Need something in-between our Enterprise plan for users or API limits?
+Reach out
+to us and we'll help you out
+Free
+Get started
+Get Started!
+Start-Up
+Small teams
+14 Day Free Trial
+Scale-Up
+Grow and test with flags
+14 Day Free Trial
+Enterprise
+Max control and security
+Contact Sales
+Usage and Access
+Requests per month
+50,000
+1,000,000
+5,000,000
+5,000,000+
+Team Members
+1
+3
+5+
+20+
+Projects
+1
+Unlimited
+Feature Flags
+Unlimited
+Environments
+Unlimited
+Identities and Segments
+Unlimited
+Integrations and Testing
+3rd Party Integrations
+A/B and MVT Testing
+Support and Access
+Technical Support
+Email
+Slack or Discord with the Engineering team (Priority Support)
+API Access
+On-Boarding & Training
+Security and Compliance
+Advanced Authentication Protocols
+2FA
+2FA, SAML, Okta, ADFS and LDAP
+SAML Authentication
+User Roles and Permissions
+Unlimited Audit Log History
+Change Requests
+Optional On Premises Installation
+Feature Management
+Online Ts and Cs
+Scheduled Flags
+Custom Fields
+Real-Time Flag Updates
+Flexible deployment options
+SaaS
+Try our enterprise-grade cloud offering hosted by Flagsmith
+Flagsmith cloud gets you get up and running instantly
+Optimised over eight regions across the world to minimise latency
+Learn More
+Private Cloud
+Fully managed private deployments
+Have us host in your own private instance in any region you choose
+Protect yourself with increased security
+Learn More
+On-Prem
+Self host on-premises or in your own cloud
+On-prem feature flags are ideal for privacy-conscious organisations
+Includes premium support from the Flagsmith team
+Easily deploy with familiar tools like Helm for Kubernetes and our OpenShift Operator
+Learn More
+I still have questions, can I talk to someone?
+Absolutely! If you still have open questions, feel free to reach out to support@flagsmith.com and we will be happy to answer any questions for you.
+Can I add extra seats or API calls?
+We are able to adjust our plans to give you additional seats and/or API calls. Just get in touch with us to provide a bespoke pricing plan for you and your team.
+How do you calculate API calls per month?
+This is simply the total number of API requests
+you make for each calendar month, across all the projects in your organisation.
+Each time you instantiate one of our client SDKs and get the flags for a user or application, you make 1 request. For example, if you have a single page React web application, you would generally make 1 API request when the user loads your app, and then maintain that data for the duration of the user session. If your web pages were generated server-side, you would generally make 1 API request for each page view.
+We don't charge for every single API call. The following endpoints count against your monthly limit:
+- /flags
+- /identities
+- /traits
+- /environment-document (for Server Side Flags only)
+What is a Team Member?
+Each Team Member can log in with their own email address. Audit logs record activities per logged in Team Member.
+What happens if I go over my plan limit?
+Don't worry, we'll carry on serving flags to your users! We know it's an important part of your application. You'll get notified via email and in the app for any over usage. If you're on a free plan, you'll have 7 days to upgrade your plan before any action is taken. For paid plans that exceed your API limit (within 200%) for the first time, you'll have a 30-day grace period and you won't be charged. If you continue to exceed your plan after 30 days, you’ll be billed for overages per specified r
+To recap, you'll get notifications as you approach your limit. Free plan users will have 7 days to upgrade. Paid planned users who exceed their plan limit for the first time and stay within 200% of their plan limit get a 30 day grace period and will only be billed if the overuse continues after 30 days. Paid plan users who have exceeded their plan in the past or exceed 200% of their API usage will get a bill within 30 days.
+What about an annual discount?
+We offer annual discounts on all our plans. Please get in touch for more info.
+We're an Open Source/Not for profit/Charity project. Do you offer discounts?
+100% Yes! Please get in touch and we can set you up on a discounted plan.
+What are open source feature flags?
+Open source feature flags
+are a way for developers to wrap a section of code in a flag and toggle it on or off without needing to deploy new code. Feature flags give you a high amount of control over deployments, and the open source element gives you more control through full code transparency, built-in user testing from developers around the globe, and a safety net against vendor lock-in.
+Is Flagsmith free?
+Flagsmith has a free plan to get started—or for solo developers. This is a great way to start with feature flags or to try things out before choosing the deployment option and team plan type that suits your needs. We're here for any questions along the way!
+Get started
+Enhance customer experience by bringing feature flags to your projects
+Start Free Trial
+Contact Us!
+Your name
+Your business email
+Your phone number (include your country code)
+Your phone number
+How can we help you?
+OR
+Start free trial
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.

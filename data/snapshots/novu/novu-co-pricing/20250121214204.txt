@@ -1,0 +1,106 @@
+Flexible pricing
+for companies and developers
+Free A generous free tier for testing and evaluation, or smaller requirements.
+$ 0
+per month
+30K events/month included
+Get started for free
+Business Best fit for most businesses.
+$ 250
+per month
+250K events/month included
+$1.20 per 1,000 additional events
+Get started for free
+Enterprise For businesses with the most demanding notification requirements.
+Contact us
+5M events/month included
+Contact us
+Compare our plans
+Platform Included monthly events
+Additional events
+Environments
+Max API Requests (RPS) (Trigger events/Configuration/Global)
+Channels supported: email, in-app, SMS, chat, push, and custom
+Notification Subscribers
+GUI-based workflows
+Code-based workflows
+Subscriber management
+Multi-org/Multi-tenancy
+Novu Framework Maximum Workflows
+Provider integrations
+Activity Feed retention
+Notification Digests
+Workflow Step Controls
+Translations
+Block-based email editor
+Inbox Inbox component
+User preferences component
+Bell component
+Notifications component
+Content component
+Remove Novu branding
+Administration and Security Maximum team members
+Role-Based Access Control (RBAC)
+Standard SAML authentication (Google, GitHub)
+Custom SAML SSO, OIDC enterprise providers
+Built-In authentication
+Multi-Factor Authentication (MFA)
+Compliance GDPR
+SOC 2 / ISO 27001
+HIPAA BAA
+Custom security reviews
+Data Processing Agreements (DPA)
+Free
+Get started
+30k - 2 60/20/30 per second Unlimited
+Unlimited Unlimited 30 days
+3
+Standard
+Business
+Get Started
+250k $1.20 per 1,000 10 600/200/300 per second Unlimited Q1 2025
+Unlimited Unlimited 90 days
+Unlimited Q2 2025
+Standard
+Enterprise
+Contact Us
+5 million Custom Unlimited 6k/2k/3k per second Unlimited Q1 2025
+Unlimited Unlimited Unlimited
+Unlimited Q2 2025
+Custom
+Frequently Asked Questions
+Looking for answers? Here are some common questions we've been asked.
+What is an event?
+An event is a request (for instance, an API call to /v1/events/trigger) that starts off an action in the Novu Workflow Engine. Events can make many different types of actions, including digests, delays, and sending notifications to various channels, as well as filters and user preference checks. For workflows triggered to a topic,
+Novu creates one event per topic subscriber, this means that a workflow trigger to a topic with 100 subscribers creates 100 events.
+What is a notification?
+A notification is any message sent over any channel, after Novu logic engine, Novu user preferences, and your configuration calculated and crafted the message. A notification can be sent to an email, in-app Inbox, chat, push, and more.
+What are the differences between Novu Cloud and Open Source?
+The Novu Project
+is an open source notifications system that is built and maintained by Novu and the Novu community. You can download, modify, build and deploy it yourself, or use pre-built Docker images
+to more easily run it in your local environment. Novu Cloud is based on the Novu Project, and is a managed service that we deploy, and manage as a service. It is the most scalable and robust way to enable industry-leading notifications in your apps and website. Novu Cloud includes SLAs, and additional business-level features that are not available in the open source Novu Project.
+How many notifications can I send on Novu Cloud?
+Virtually any number you need to. In fact, sending is more often limited by your configured providers than Novu Cloud. In general, you won't have to worry about it.
+In what regions is Novu Cloud hosted?
+Novu Cloud instances are deployed in the US (East coast), and the EU (Germany).
+Do you offer an enterprise plan?
+Yes. Enterprise plans are available for businesses that require extended enterprise-grade features, and specific SLAs or have unique concerns about PII, security, insurance, or legal. Contact us
+to learn more.
+Do you offer enterprise support?
+As part of our enterprise plan, you’ll get our usual support channels as well as a Microsoft Teams/Slack/Discord channel. In case you want to add an enterprise support plan, with dedicated technical support, we are happy to offer that next to an active enterprise plan.
+I need more events or enterprise features, can you help?
+We sure can. We are happy to work with enterprises and build Novu to support both their needs as well as the grand community ones. From new features, security, and privacy, or if you need to send dozens or tens of millions of events a month, we are here to help. Contact us
+or book a meeting
+so we can learn how to help you answer your question.
+What should I do if I have regulatory or security issues with PII?
+We regularly work with big companies and are happy to help and support you with guidance, and various compliance needs including reports to ease your security and legal team. If you have very complicated PII needs, contact us
+or book a meeting
+to discuss more.
+What is your Service Level Agreement (SLA)?
+Our cloud uptime SLA is 99.99%. We also offer a support ticket SLA for our Business and Enterprise tier plans, which includes a private Slack channel with our support team. Free tier and the Novu Project are supported via Discord
+.
+Can I use Novu free of charge?
+Yes, you can. If you send less than 30K events per month, then Novu Cloud is entirely free. Another option is to deploy the Open-Source version of Novu onto your own infrastructure, but that does not give you the unique SLA and global redundancy we have in the Cloud version of Novu.
+Subscribe to the blog updates
+Novu's latest articles, right in your inbox. Keep in touch with our news and updates.
+Subscribe

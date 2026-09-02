@@ -1,0 +1,676 @@
+[
+  {
+    "id": "kinde-com-pricing-20230802071227",
+    "url": "https://kinde.com/pricing/",
+    "ts": "20230802071227",
+    "date": "2023-08-02",
+    "source": "wayback",
+    "prevTs": "20230329231149",
+    "kind": "price",
+    "score": 74,
+    "counts": {
+      "price": 17,
+      "limit": 1,
+      "plan": 11
+    },
+    "material": true,
+    "headline": "Kinde: 17 prices, 1 limit, 11 plan names changed ($250 → $75)",
+    "pairs": [
+      {
+        "before": "Starting at $250 USD per month",
+        "after": "$75 USD per month",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "$250",
+            "after": "$75"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Start for free",
+      "What’s included in Free:",
+      "Try for free",
+      "Unlimited MAU and M2M connections as you grow",
+      "Try for free",
+      "Unlimited organizations and enterprise connections as you grow",
+      "$2,000 USD per month",
+      "Free plan",
+      "Free",
+      "$25",
+      "$0.01 per MAU",
+      "$0.02 per MAU",
+      "$0.50 per MAO",
+      "$0.50 per connection",
+      "$0.001 per token",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Free",
+      "Free",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "$25",
+      "$0.01 per MAU",
+      "$0.001 per token",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "$75",
+      "$0.02 per MAU",
+      "$0.50 per MAO",
+      "$0.50 per connection",
+      "$0.001 per token",
+      "Unlimited"
+    ],
+    "removed": [
+      "Get started with Kinde for free",
+      "While your business is starting out, we want to make sure you have every advantage possible. So Kinde is completely free to early stage founders — forever.",
+      "Up to 7,500 MAU per month",
+      "Try free",
+      "Try free",
+      "No credit card required",
+      "Try free",
+      "Unlimited connections",
+      "Unlimited organizations",
+      "Starting at $1,500 USD per month or a variable fee for higher volume businesses",
+      "Unlimited connections",
+      "Unlimited organisations",
+      "Unlimited team members"
+    ],
+    "totals": {
+      "removed": 83,
+      "added": 392,
+      "materialRemoved": 19,
+      "materialAdded": 51
+    }
+  },
+  {
+    "id": "kinde-com-pricing-20231124065445",
+    "url": "https://kinde.com/pricing/",
+    "ts": "20231124065445",
+    "date": "2023-11-24",
+    "source": "wayback",
+    "prevTs": "20230802071227",
+    "kind": "price",
+    "score": 52,
+    "counts": {
+      "price": 15,
+      "limit": 1,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Kinde: 15 prices, 1 limit, 3 plan names changed ($0.01 → $0.0175; $0.50 → $10)",
+    "pairs": [
+      {
+        "before": "$0.01 per MAU",
+        "after": "$0.0175 per MAU",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.01",
+            "after": "$0.0175"
+          }
+        ]
+      },
+      {
+        "before": "$0.50 per connection",
+        "after": "$10 per connection",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.50",
+            "after": "$10"
+          }
+        ]
+      },
+      {
+        "before": "$0.01 per MAU",
+        "after": "$0.0175 per MAU",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.01",
+            "after": "$0.0175"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "7,500 Monthly Active Users limit No credit card required",
+      "1,000 Monthly Active Users included $0.0175 per additional",
+      "Unlimited roles and permissions",
+      "Unlimited Azure Active Directory and SAML",
+      "Unlimited non-production environments",
+      "Unlimited",
+      "$5 per environment",
+      "Unlimited roles and permissions",
+      "Unlimited",
+      "Unlimited roles and permissions",
+      "Unlimited",
+      "Unlimited",
+      "$10 per connection",
+      "$5 per environment",
+      "Unlimited roles and permissions",
+      "Unlimited",
+      "Unlimited roles and permissions",
+      "Unlimited"
+    ],
+    "removed": [
+      "Start for free",
+      "No credit card required",
+      "Try for free",
+      "No credit card required",
+      "$75 USD per month",
+      "Try for free",
+      "Unlimited organizations and enterprise connections as you grow",
+      "No credit card required",
+      "$2,000 USD per month",
+      "$75",
+      "$0.02 per MAU",
+      "$75",
+      "$0.02 per MAU",
+      "$0.50 per connection",
+      "$0.001 per token"
+    ],
+    "totals": {
+      "removed": 108,
+      "added": 170,
+      "materialRemoved": 22,
+      "materialAdded": 25
+    }
+  },
+  {
+    "id": "kinde-com-pricing-20240821034045",
+    "url": "https://kinde.com/pricing/",
+    "ts": "20240821034045",
+    "date": "2024-08-21",
+    "source": "wayback",
+    "prevTs": "20231124065445",
+    "kind": "price",
+    "score": 137,
+    "counts": {
+      "price": 32,
+      "limit": 10,
+      "plan": 11
+    },
+    "material": true,
+    "headline": "Kinde: 32 prices, 10 limits, 11 plan names changed (1,000 → 10,500; 7,500 → 10,500)",
+    "pairs": [
+      {
+        "before": "1,000 Monthly Active Users included $0.0175 per additional",
+        "after": "10,500 Monthly Active Users included $0.0175 USD per additional",
+        "confidence": 0.86,
+        "deltas": [
+          {
+            "before": "1,000",
+            "after": "10,500"
+          }
+        ]
+      },
+      {
+        "before": "Everything you need to get started with 7,500 free MAU. No setup fees, monthly fees, or hidden fees.",
+        "after": "Everything you need to get started with 10,500 free MAU. No setup fees, monthly fees, or hidden fees.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "7,500",
+            "after": "10,500"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Stay for free, then pay as you grow",
+      "Start building on Free now",
+      "Try Kinde Free up to 10,500 monthly active users.",
+      "No credit card required.",
+      "$75 USD per month",
+      "10,500 Monthly Active Users included $0.0163 USD per additional",
+      "$250 USD per month",
+      "10,500 Monthly Active Users included $0.0151 USD per additional",
+      "Unlimited enterprise connections (5 included)",
+      "$75 USD",
+      "$250 USD",
+      "$4 USD per environment",
+      "$3 USD per environment",
+      "$0.0163 USD per MAU",
+      "$0.0151 USD per MAU",
+      "$0.47 USD per MAO",
+      "$0.43 USD per MAO",
+      "$0.0009 USD per token",
+      "$0.0008 USD per token",
+      "10 SMS included",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Free plan",
+      "Free plan",
+      "10 SMS included",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Free plan",
+      "Unlimited",
+      "$65 USD per connection",
+      "1 day",
+      "7 days",
+      "14 days",
+      "30 days",
+      "Unlimited",
+      "Free plan",
+      "Unlimited",
+      "$65 USD per org"
+    ],
+    "removed": [
+      "Free",
+      "$0 forever",
+      "7,500 Monthly Active Users limit No credit card required",
+      "All features in Free, plus:",
+      "Unlimited Azure Active Directory and SAML",
+      "Unlimited non-production environments",
+      "Unlimited environments",
+      "Unlimited roles and permissions",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited roles and permissions",
+      "Unlimited roles and permissions",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited roles and permissions",
+      "Unlimited",
+      "Unlimited",
+      "Get started for free",
+      "Sign up for free"
+    ],
+    "totals": {
+      "removed": 306,
+      "added": 1096,
+      "materialRemoved": 38,
+      "materialAdded": 111
+    }
+  },
+  {
+    "id": "kinde-com-pricing-20250126174949",
+    "url": "https://kinde.com/pricing/",
+    "ts": "20250126174949",
+    "date": "2025-01-26",
+    "source": "wayback",
+    "prevTs": "20240821034045",
+    "kind": "price",
+    "score": 20,
+    "counts": {
+      "price": 6,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Kinde: 6 prices, 1 limit changed ($65 → $10; $65 → $10)",
+    "pairs": [
+      {
+        "before": "$65 USD per org",
+        "after": "$10 USD per org (5 included)",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "$65",
+            "after": "$10"
+          }
+        ]
+      },
+      {
+        "before": "$65 USD per org",
+        "after": "$10 USD per org (5 included)",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "$65",
+            "after": "$10"
+          }
+        ]
+      },
+      {
+        "before": "1 hour P1 response time (24/7) 1",
+        "after": "1 hour (24/7) P1 response time 1",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1",
+            "after": "24"
+          },
+          {
+            "before": "24",
+            "after": "7"
+          },
+          {
+            "before": "7",
+            "after": "1"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Unlimited enterprise connections (1 included)",
+      "$25 USD per connection",
+      "$25 USD per connection"
+    ],
+    "removed": [
+      "$10 USD per domain",
+      "$10 USD per domain"
+    ],
+    "totals": {
+      "removed": 34,
+      "added": 53,
+      "materialRemoved": 6,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "kinde-com-pricing-20250321045614",
+    "url": "https://kinde.com/pricing/",
+    "ts": "20250321045614",
+    "date": "2025-03-21",
+    "source": "wayback",
+    "prevTs": "20250126174949",
+    "kind": "limits",
+    "score": 16,
+    "counts": {
+      "price": 0,
+      "limit": 7,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Kinde: 7 limits, 1 plan name changed (added “1 hour”)",
+    "pairs": [],
+    "added": [
+      "1 hour",
+      "1 day",
+      "3 days",
+      "Free plan",
+      "1 hour",
+      "1 day",
+      "3 days",
+      "1 hour",
+      "1 hour",
+      "1 day",
+      "1 day",
+      "3 days",
+      "3 days",
+      "3 days",
+      "3 days"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 25,
+      "added": 222,
+      "materialRemoved": 0,
+      "materialAdded": 15
+    }
+  },
+  {
+    "id": "kinde-com-pricing-20250422215107",
+    "url": "https://kinde.com/pricing/",
+    "ts": "20250422215107",
+    "date": "2025-04-22",
+    "source": "wayback",
+    "prevTs": "20250321045614",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 8,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Kinde: 8 prices changed (removed “$10 USD per org (5 included)”; added “$0.50 USD per MAO”)",
+    "pairs": [],
+    "added": [
+      "$0.50 USD per MAO",
+      "$0.47 USD per MAO",
+      "$0.43 USD per MAO",
+      "$0.50 USD per MAO",
+      "$0.47 USD per MAO",
+      "$0.43 USD per MAO"
+    ],
+    "removed": [
+      "$10 USD per org (5 included)",
+      "$10 USD per org (5 included)"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 24,
+      "materialRemoved": 2,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "kinde-com-pricing-20250729165344",
+    "url": "https://kinde.com/pricing/",
+    "ts": "20250729165344",
+    "date": "2025-07-29",
+    "source": "wayback",
+    "prevTs": "20250422215107",
+    "kind": "price",
+    "score": 94,
+    "counts": {
+      "price": 23,
+      "limit": 5,
+      "plan": 8
+    },
+    "material": true,
+    "headline": "Kinde: 23 prices, 5 limits, 8 plan names changed (removed “10,500 Monthly Active Users included $0.0175 …”; added “Free authentication MAU when you use billing. 2”)",
+    "pairs": [],
+    "added": [
+      "Free authentication MAU when you use billing. 2",
+      "Free",
+      "$0 forever",
+      "Start for free",
+      "What’s included in Free:",
+      "2 environments (production and development)",
+      "Everything in Free, and:",
+      "Unlimited webhooks",
+      "Unlimited feature flags",
+      "Unlimited custom properties",
+      "10,500 MAU free No MAU charge for your paid subscribers",
+      "Free enterprise SSO",
+      "6 environments",
+      "10,500 MAU free No MAU charge for your paid subscribers",
+      "11 environments",
+      "10,500 included free",
+      "10,500 included free",
+      "10,500 included free",
+      "50 included free",
+      "50 included free",
+      "50 included free",
+      "Unlimited",
+      "Free plan",
+      "Plans can include unlimited features, either unmetered (for gating) or metered (with per-unit or tiered pricing).",
+      "Unlimited",
+      "Free plan",
+      "2,000 included free",
+      "5,000 included free $0.001 per extra token",
+      "5,000 included free $0.0009 per extra token",
+      "5,000 included free $0.0008 per extra token",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Free plan",
+      "5 included free",
+      "50 included free",
+      "50 included free",
+      "50 included free",
+      "10,500 included free",
+      "5 included free"
+    ],
+    "removed": [
+      "Start building on Free now",
+      "No credit card required.",
+      "10,500 Monthly Active Users included $0.0175 USD per additional",
+      "SSO with unlimited social connections and MFA",
+      "Unlimited MAU, organizations, and M2M connections as you grow",
+      "Unlimited team members",
+      "10,500 Monthly Active Users included $0.0163 USD per additional",
+      "10,500 Monthly Active Users included $0.0151 USD per additional",
+      "$0.001 USD per token",
+      "$0.0009 USD per token",
+      "$0.0008 USD per token",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "$10 USD per connection",
+      "$65 USD per connection",
+      "$25 USD",
+      "$0.001 USD per token",
+      "Unlimited",
+      "$0.0009 USD per token",
+      "Unlimited",
+      "$25 USD per connection",
+      "$0.0008 USD per token",
+      "Unlimited",
+      "$10 USD per connection",
+      "$65 USD per connection",
+      "SSO with unlimited social connections and MFA",
+      "Unlimited team members"
+    ],
+    "totals": {
+      "removed": 248,
+      "added": 745,
+      "materialRemoved": 63,
+      "materialAdded": 111
+    }
+  },
+  {
+    "id": "kinde-com-pricing-20260209021959",
+    "url": "https://kinde.com/pricing/",
+    "ts": "20260209021959",
+    "date": "2026-02-09",
+    "source": "wayback",
+    "prevTs": "20250729165344",
+    "kind": "price",
+    "score": 34,
+    "counts": {
+      "price": 10,
+      "limit": 0,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Kinde: 10 prices, 2 plan names changed (added “MAU is free 2”)",
+    "pairs": [],
+    "added": [
+      "MAU is free 2",
+      "MAU is free 2",
+      "MAU is free 2",
+      "MAU is free 2",
+      "($0 for billed users) 2",
+      "($0 for billed users) 2",
+      "($0 for billed users) 2",
+      "Free plan",
+      "Unlimited",
+      "Unlimited",
+      "Free plan",
+      "1,500,000 included free $0.0001 per extra validation",
+      "($0 for billed users) 2",
+      "1,500,000 included free $0.0001 per extra validation",
+      "($0 for billed users) 2",
+      "Unlimited",
+      "1,500,000 included free $0.0001 per extra validation",
+      "($0 for billed users) 2",
+      "Unlimited",
+      "1,500,000 included free $0.0001 per extra validation"
+    ],
+    "removed": [
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 77,
+      "added": 283,
+      "materialRemoved": 9,
+      "materialAdded": 25
+    }
+  },
+  {
+    "id": "kinde-com-pricing-20260422080053",
+    "url": "https://kinde.com/pricing/",
+    "ts": "20260422080053",
+    "date": "2026-04-22",
+    "source": "wayback",
+    "prevTs": "20260209021959",
+    "kind": "price",
+    "score": 42,
+    "counts": {
+      "price": 14,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Kinde: 14 prices changed (added “$7c per SMS or BYO provider”)",
+    "pairs": [],
+    "added": [
+      "$7c per SMS or BYO provider",
+      "$7c per SMS or BYO provider",
+      "$7c per SMS or BYO provider",
+      "$7c per SMS or BYO provider",
+      "$7c per SMS or BYO provider",
+      "$7c per SMS or BYO provider",
+      "$2.50 per unit",
+      "$7c per SMS or BYO provider",
+      "$7c per SMS or BYO provider",
+      "$7c per SMS or BYO provider",
+      "$7c per SMS or BYO provider",
+      "$7c per SMS or BYO provider",
+      "$7c per SMS or BYO provider",
+      "$2.50 per unit"
+    ],
+    "removed": [
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 22,
+      "added": 20,
+      "materialRemoved": 6,
+      "materialAdded": 14
+    }
+  },
+  {
+    "id": "kinde-com-pricing-20260819234557",
+    "url": "https://kinde.com/pricing/",
+    "ts": "20260819234557",
+    "date": "2026-08-19",
+    "source": "wayback",
+    "prevTs": "20260422080053",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Kinde: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 18,
+      "added": 14,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  }
+]

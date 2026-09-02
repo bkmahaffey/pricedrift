@@ -1,0 +1,148 @@
+Simple pricing, built for growth
+Begin for free, invite your team, and scale without limits.
+Trigger.dev Cloud
+Bring Your Own Cloud
+Free
+$0 /month
+$ 5 free monthly usage
+Get started
+10 concurrent runs
+Unlimited tasks
+5 team members
+Dev and Prod environments
+10 schedules
+1 day log retention
+Community support
+1 alert destination
+10 concurrent Realtime connections
+Hobby
+$10 /month
+$ 10 monthly usage included
+Get started
+25 concurrent runs
+Unlimited tasks
+5 team members
+Dev, Staging and Prod environments
+100 schedules
+7 day log retention
+Community support
+3 alert destinations
+50 concurrent Realtime connections
+Pro
+$50 /month
+$ 50 monthly usage included
+Get started
+100 + concurrent runs
+Then $50/month per 50
+Unlimited tasks
+25 + team members
+Then $20/month per seat
+Dev, Staging and Prod environments
+1000 + schedules
+Then $10/month per 1,000
+30 day log retention
+Dedicated Slack support
+100 + alert destinations
+500 + concurrent Realtime connections
+Then $10/month per 100
+Enterprise
+A custom plan tailored to your requirements
+All Pro plan features +
+Custom log retention
+Priority support
+Role-based access control
+SOC 2 report
+SSO
+Contact us
+Compute pricing
+Per sec
+Per hour
+Machine
+vCPU
+GB RAM
+Cost/ sec
+Micro
+0.25
+$0.0000169
+Small 1x
+Default
+0.5
+$0.0000338
+Small 2x
+1
+$0.0000675
+Medium 1x
+1
+2
+$0.0000850
+Medium 2x
+2
+4
+$0.0001700
+Large 1x
+4
+8
+$0.0003400
+Large 2x
+8
+16
+$0.0006800
+Tasks are executed on our managed workers. You are only charged when your tasks are executing.
+Run pricing
+Cost/run invocation
+$ 0.000025
+($ 0.25 per 10,000 runs)
+Every run that starts executing on our managed workers is charged an invocation cost in addition to compute costs. Runs in the DEV environment are not charged for.
+Frequently asked questions
+What is a task?
+Tasks are functions that can run for a long time and provide strong resilience to failure. They run on our servers so there are no timeouts and no infrastructure to manage. You can read more about how they work in our docs
+.
+Can I self-host Trigger.dev?
+Absolutely. We have a self hosting guide right here
+.
+How long can a task run for?
+Tasks can run for as long as you need, with no timeouts.
+Where are my tasks run?
+In order to provide reliable tasks with no timeouts, we host your task code on our servers and run it on our infrastructure. Your tasks are added to /trigger folders and code inside these is bundled and deployed together. Of course you can self-host
+everything if you prefer.
+How do I estimate my usage?
+Multiply per second machine price by the seconds your run will take. Add the per run invocation cost and multiply by your run count.
+A 10s task that does 100 runs per day on the small-1x machine:
+1 run = (10s × $0.0000338) + $0.000025 = $0.000363
+1 day = 100 × $0.000363 = $0.0363
+1 month = $0.0363 × 30 = $1.09
+How does usage work?
+We charge for usage in 2 ways: the number of seconds of compute your tasks execute for, and the number of runs you do. The compute cost
+depends on the machine you've chosen.
+When triggering and waiting for subtasks, the parent is checkpointed and while waiting does not count towards compute usage. When waiting for a time period (wait.for or wait.until), if the wait is longer than 5 seconds we checkpoint and it does not count towards compute usage.
+Are there rate limits?
+Yes. The free plan is limited to 60 API requests per minute while paid plans are limited to 1,500 API requests per minute. You can trigger more tasks than this by using batchTrigger().
+Can I get more concurrency?
+Yes. Concurrency is limited on our Free plan but you can increase your concurrency limit by upgrading to a paid plan. If your tasks require more than the Pro plan limit (100), you can purchase bundles of 50 additional concurrency for $50/month.
+Do tasks waiting to execute count towards my concurrency limit?
+No. Concurrency limits in Trigger.dev only apply when code is executing. Our built-in wait functions snapshot the process and restore it later, meaning you don't pay for time spent waiting. This approach allows you to efficiently manage long-running tasks, such as multi-day email marketing flows, without unnecessarily consuming your concurrency limits or incurring costs during idle periods.
+Can I run Trigger.dev locally?
+Yes. Using our CLI you develop your tasks locally with hot reloading.
+What frameworks does Trigger.dev support?
+Trigger.dev is framework agnostic so it works with most JavaScript frameworks. We have created guides for popular frameworks
+which provide a great way to get started.
+Can I build complex tasks?
+Yes. There’s no limit to the complexity of tasks you can create. Tasks are created in code so you can write conditional, looping, branching or time delayed logic using normal async code.
+Can I use version control or roll-backs?
+Yes. You create tasks directly in your own code so it’s version controlled with everything else. You can also rollback to previous deploys in the dashboard.
+How long does it take to code a task?
+A simple task triggering using APIs will take about 5 minutes to create.
+Can I use any API I need?
+Yes. You can use any API either by using their SDK or through web requests using fetch or your preferred alternative.
+Is Trigger.dev open source?
+Yes. Trigger.dev is open source using the Apache 2.0 license. We are committed to open source software and working with our community
+to build a great product.
+Ready to start building?
+Build and deploy your first task in 3 mins with no timeouts and no infrastructure to manage.
+Get started for free
+Enterprise
+Custom plans and support for your enterprise needs.
+Contact us
+Self-host
+Trigger.dev is open source and self-hostable.
+Self-hosting docs

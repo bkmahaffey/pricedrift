@@ -1,0 +1,174 @@
+Redis
+Kafka
+QStash
+Free
+$0
+-
+Perfect for prototypes and hobby projects.
+Max Commands Per Second
+1,000
+Daily Command Limit
+10,000
+Start Now
+Pay as you go
+$0.2
+per 100K commands
+For use cases with bursting traffic.
+Max Commands Per Second
+1,000
+Daily Command Limit
+Unlimited
+Start Now
+Pro 2K
+$280 / month
++$100 ✕ read region
+For businesses with consistent high-capacity loads and predictable costs.
+Max Commands Per Second
+2,000
+Daily Command Limit
+Unlimited
+Start Now
+Pro 10K
+$680 / month
++$200 ✕ read region
+For businesses with consistent high-capacity loads and predictable costs.
+Max Commands Per Second
+10,000
+Daily Command Limit
+Unlimited
+Start Now
+Enterprise
+For businesses with advanced needs.
+Contact Us
+Guaranteed scalability and performance
+Custom configurations
+Advanced security options
+Dedicated support
+Contact Us
+Limit of 1 Free DB
+Usage Based Pricing
+Fixed Pricing
+Free
+Pay as you go
+Pro 2K
+Pro 10K
+Pay as you go
+Free
+Pay as you go
+Pro 2K
+Pro 10K
+Pro 2K
+Free
+Pay as you go
+Pro 2K
+Pro 10K
+Free
+Pay as you go
+Pro 2K
+Pro 10K
+Capacity
+Max command per second
+1,000
+2,000
+10,000
+Daily command limit
+10,000
+Unlimited
+Max request size
+1 MB
+10 MB
+100 MB
+Max record size
+100 MB
+200 MB
+500 MB
+Max memory storage
+64 MB
+1 GB
+3 GB
+10 GB
+Max data size
+256 MB
+10 GB
+50 GB
+100 GB
+Max concurrent connections
+100
+1,000
+2,000
+5,000
+Max monthly bandwidth
+50 GB
+200 GB
+5 TB
+10 TB
+Backend Features
+Supported platforms
+AWS GCP
+Persistence
+REST API
+Global replication
+Security and Privacy
+SSL Encryption (TLS)
+Security
+Password
+Password VPC Peering IP Whitelisting
+Audit logs
+Last 7 days
+Last 30 days
+Last 1 year
+Encryption at REST
+Compliance (SOC2)
+Support
+Community Support
+Email Support
+Dedicated support and Slack channel
+Uptime SLA
+Regional: 99.99%
+Global: 99.99%
+Regional: 99.99%
+Global: 99.99%
+Regional: 99.99%
+Global: 99.99%
+Start Now
+Free Tier
+You can start using Upstash for free right away without entering your credit card information. This tier lets you create one database with a limit of 10K daily commands and 256MB Storage. Additionally you can create one read region at maximum within this tier. Once you provide your credit card details, your database will upgrade to the pay-as-you-go plan and limits will be updated. If you want to try Upstash paid and enterprise plans, we can offer Free Trials. Email us at support@upstash.com
+Pay as you go
+Components of the Monthly Bill
+With the Pay As you go plan, you can set a maximum monthly budget for your database so that you won't be charged beyond this chosen limit. We'll keep you informed by sending email notifications once you reach 70% and 90% of your monthly budget. This notifications will let you either adjust your budget limit or upgrade to the Pro tier. Please note that if your usage exceeds your monthly budget cap, your database will be rate limited and your cost will not exceed your chosen budget limit.
+Your monthly bill will be driven by the below components, all charges are per database. You can create up to 10 databases in this tier for free and beyond this you will also be charged $0.5 per database up to 100 databases.
+Commands Per second: You are billed based on the number of Redis Commands processed by your database at a rate of $0.2 per 100K request. Operational commands like AUTH, INFO, PING, QUIT, COMMAND will not be charged. or Global databases, the write commands are replicated to all read regions in addition to primary region. Replications (write operations) are counted as commands. For example, if you have 1 primary 1 read region, 100K writes will cost \$0.4 ($0.2 x 2)
+Data size (Storage Cost): The storage cost is charged separately at a rate of $0.25 per GB total storage. Total storage is determined by adding up the storage at all replica and regions. Even if you do not access your data, we have to keep it persistent in Cloud Provider’s block storage (eg AWS EBS, S3) for durability. To calculate the total storage cost, we take daily average of your data size and multiply with $0.25 at the end of the month. For instance, if you have 1 GB data in your database 
+Monthly Bandwidth (Data Transfer Cost): The data transfer is free up to monthly bandwidth limit of 200GB. Beyond that, we charge $0.03 for each additional GB data transfer.
+Custom Add-ons: You can add some quotas for your database with an extra fee based on the below pricing list:
+Max Request Size Limit
+Price
+10MB
+$50
+50MB
+$80
+100MB
+$120
+Max Record Size Limit
+Price
+256MB
+$60
+500MB
+$100
+1GB
+$180
+Pro / Enterprise Plans
+Components of the Monthly Bill
+For the Pro/Enterprise tiers, you'll be charged a fixed monthly price per database. There is no requirement for long-term contracts as the minimum term is just one month, and you have the flexibility to cancel anytime. But please note that even if you cancel within the month, you will be billed for the minimum term of 1 full month. It's possible to have databases on different plans within the same account, with each being billed separately. Your monthly Pro/Enterprise bill will be driven by the 
+Monthly fixed price: This is fixed based on the Pro tier enabled and not driven by usage volume. The costs are $280+$100 per read region for Pro 2K,and $680 + $200 per read region for Pro 10K. For Enterprise a custom price is set based on specific requirements.
+Data Size (Storage Cost): This follows the Pay-as-you-go tier’s pricing method, charged at a rate of $0.25 per GB-month. Total storage is determined by adding up the storage at all replica and regions.
+Monthly Bandwidth (Data Transfer Cost): Data transfer is charged at a rate of $0.03 per GB for all the usage throughout the month. For use cases with high volume, you may consider VPC Peering which minimizes the data transfer cost. Contact us at support@upstash.com
+for details.
+Security Add-ons: Security add-ons are only available for a Pro/Enterprise databases and are provided upon request with an extra fee. Please contact us at support@upstash.com to learn about their pricing.
+IP Whitelisting: You can set the IP addresses which will have access to your database.
+TLS Mutual Authentication: mTLS ensures two-way authentication where both client and server authenticate each other at the same time in the authentication protocol.
+VPC Peering: VPC Peering enables you to connect to Upstash from your own VPC using private IP. Cluster and your application can run in the same subnet which also minimizes data transfer costs.
+AWS Private Link: AWS Private link helps you to access to Upstash Cluster with a private network link inside AWS infrastructure.
+Encryption at rest: Upstash encrypts the block storage where your data is persisted and stored.
+Professional Support: This includes a dedicated service desk along and a Slack/Discord channel with a committed response time SLA. Please contact us at support@upstash.com
+to learn more about the details.

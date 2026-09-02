@@ -1,0 +1,515 @@
+[
+  {
+    "id": "temporal-io-pricing-20240201130627",
+    "url": "https://temporal.io/pricing",
+    "ts": "20240201130627",
+    "date": "2024-02-01",
+    "source": "wayback",
+    "prevTs": "20230928072940",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 2,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Temporal Cloud: 2 prices, 2 limits changed ($1 → $200)",
+    "pairs": [
+      {
+        "before": "~$ 1 /month",
+        "after": "~$200/month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1",
+            "after": "$200"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Get started with $2,400 free Temporal Cloud credits."
+    ],
+    "removed": [
+      "~10k",
+      "~100k",
+      "> 1M"
+    ],
+    "totals": {
+      "removed": 27,
+      "added": 13,
+      "materialRemoved": 4,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "temporal-io-pricing-20240501212313",
+    "url": "https://temporal.io/pricing",
+    "ts": "20240501212313",
+    "date": "2024-05-01",
+    "source": "wayback",
+    "prevTs": "20240201130627",
+    "kind": "price",
+    "score": 4,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Temporal Cloud: 1 price, 1 limit changed (removed “~$200/month”; added “~200/month”)",
+    "pairs": [],
+    "added": [
+      "~200/month"
+    ],
+    "removed": [
+      "~$200/month"
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 7,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "temporal-io-pricing-20241209101259",
+    "url": "https://temporal.io/pricing",
+    "ts": "20241209101259",
+    "date": "2024-12-09",
+    "source": "wayback",
+    "prevTs": "20240501212313",
+    "kind": "price",
+    "score": 27,
+    "counts": {
+      "price": 7,
+      "limit": 2,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Temporal Cloud: 7 prices, 2 limits, 1 plan name changed (removed “1,000,000 actions = $25.00”; added “Try for free with $1,000 in credits”)",
+    "pairs": [],
+    "added": [
+      "Try for free with $1,000 in credits",
+      "Are you a Startup under 30M?",
+      "Our startup program offers $2,400 in free Temporal Cloud credits to startups with less than $30M in funding.",
+      "$25",
+      "That’s $0.000025 per action"
+    ],
+    "removed": [
+      "1,000,000 actions = $25.00",
+      "Premium Support: $2,000/month",
+      "Get started with $2,400 free Temporal Cloud credits.",
+      "<1k",
+      "How long will it take an execution of your Workflow to complete? (assumes an active Workflow size of 10k of accumulated data)",
+      "~200/month"
+    ],
+    "totals": {
+      "removed": 62,
+      "added": 68,
+      "materialRemoved": 9,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "temporal-io-pricing-20250108205833",
+    "url": "https://temporal.io/pricing",
+    "ts": "20250108205833",
+    "date": "2025-01-08",
+    "source": "wayback",
+    "prevTs": "20241209101259",
+    "kind": "price",
+    "score": 75,
+    "counts": {
+      "price": 16,
+      "limit": 13,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Temporal Cloud: 16 prices, 13 limits, 1 plan name changed (30M → $30)",
+    "pairs": [
+      {
+        "before": "Are you a Startup under 30M?",
+        "after": "are you a startup under $30M?",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "30M",
+            "after": "$30"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Starting at $100.00/mo.",
+      "1 M Actions",
+      "1 GB Active Storage",
+      "40 GB Retained Storage",
+      "Starting at $500.00/mo.",
+      "2.5 M Actions",
+      "2.5 GB Active Storage",
+      "100 GB Retained Storage",
+      "2.5 M Actions",
+      "2.5 GB Active Storage",
+      "100 GB Retained Storage",
+      "24/7, 30 Minute P0",
+      "$0.00105 GBh",
+      "Next 5M",
+      "$50",
+      "Next 5M, up to 10M",
+      "$45",
+      "Next 10M, up to 20M",
+      "$40",
+      "Next 30M, up to 50M",
+      "$35",
+      "Next 50M, up to 100M",
+      "$30",
+      "Next 100M, up to 200M",
+      "Over 200M",
+      "Starting at $50/Per Million Actions",
+      "Volume Discounts down to $25/Per Million Actions",
+      "1 GB Active",
+      "40 GB Retained",
+      "2.5 GB Active",
+      "100 GB Retained",
+      "10 GB Active",
+      "400 GB Retained",
+      "10 GB Active",
+      "400 GB Retained",
+      "Active: $0.042/per GBh",
+      "Retained: $0.00105/per GBh",
+      "Try for Free"
+    ],
+    "removed": [
+      "$200/Mo",
+      "That’s $0.000025 per action",
+      "$0.00042"
+    ],
+    "totals": {
+      "removed": 36,
+      "added": 117,
+      "materialRemoved": 7,
+      "materialAdded": 42
+    }
+  },
+  {
+    "id": "temporal-io-pricing-20250209212012",
+    "url": "https://temporal.io/pricing",
+    "ts": "20250209212012",
+    "date": "2025-02-09",
+    "source": "wayback",
+    "prevTs": "20250108205833",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 1,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Temporal Cloud: 1 price, 3 limits changed (2.5M → 10M; 2.5GB → 10GB)",
+    "pairs": [
+      {
+        "before": "2.5 M Actions",
+        "after": "10 M Actions",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2.5M",
+            "after": "10M"
+          }
+        ]
+      },
+      {
+        "before": "2.5 GB Active Storage",
+        "after": "10 GB Active Storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2.5GB",
+            "after": "10GB"
+          }
+        ]
+      },
+      {
+        "before": "100 GB Retained Storage",
+        "after": "400 GB Retained Storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100GB",
+            "after": "400GB"
+          }
+        ]
+      },
+      {
+        "before": "Our startup program offers $2,400 in free Temporal Cloud credits to startups with less than $30M in funding.",
+        "after": "Our startup program offers $1,200 in free Temporal Cloud credits to startups with less than $30M in funding.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2,400",
+            "after": "$1,200"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 6,
+      "materialRemoved": 6,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "temporal-io-pricing-20250317191923",
+    "url": "https://temporal.io/pricing",
+    "ts": "20250317191923",
+    "date": "2025-03-17",
+    "source": "wayback",
+    "prevTs": "20250209212012",
+    "kind": "price",
+    "score": 13,
+    "counts": {
+      "price": 1,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Temporal Cloud: 1 price, 5 limits changed ($1,200 → $6,000)",
+    "pairs": [
+      {
+        "before": "Our startup program offers $1,200 in free Temporal Cloud credits to startups with less than $30M in funding.",
+        "after": "Our startup program offers $6,000 in free Temporal Cloud credits to startups with less than $30M in funding.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1,200",
+            "after": "$6,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Next 5M",
+      "Next 10M",
+      "Next 30M",
+      "Next 50M",
+      "Next 100M"
+    ],
+    "removed": [
+      "Next 5M, up to 10M",
+      "Next 10M, up to 20M",
+      "Next 30M, up to 50M",
+      "Next 50M, up to 100M",
+      "Next 100M, up to 200M"
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 10,
+      "materialRemoved": 6,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "temporal-io-pricing-20250906094611",
+    "url": "https://temporal.io/pricing",
+    "ts": "20250906094611",
+    "date": "2025-09-06",
+    "source": "wayback",
+    "prevTs": "20250317191923",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Temporal Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "temporal-io-pricing-20251210045549",
+    "url": "https://temporal.io/pricing",
+    "ts": "20251210045549",
+    "date": "2025-12-10",
+    "source": "wayback",
+    "prevTs": "20250906094611",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Temporal Cloud: 1 limit changed (added “Scales based on usage from last 7 days”)",
+    "pairs": [],
+    "added": [
+      "Scales based on usage from last 7 days",
+      "Provisioned: Sety your own APS with Temporal Resource Units (500 per TRU, 360k Actions/hr)"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 11,
+      "added": 35,
+      "materialRemoved": 2,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "temporal-io-pricing-20260306005204",
+    "url": "https://temporal.io/pricing",
+    "ts": "20260306005204",
+    "date": "2026-03-06",
+    "source": "wayback",
+    "prevTs": "20251210045549",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Temporal Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "temporal-io-pricing-20260404173818",
+    "url": "https://temporal.io/pricing",
+    "ts": "20260404173818",
+    "date": "2026-04-04",
+    "source": "wayback",
+    "prevTs": "20260306005204",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Temporal Cloud: 1 price changed (added “Series D at $5B Valuation | AI Drives Demand …”)",
+    "pairs": [],
+    "added": [
+      "Series D at $5B Valuation | AI Drives Demand for Durable Execution"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 2,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "temporal-io-pricing-20260705090545",
+    "url": "https://temporal.io/pricing",
+    "ts": "20260705090545",
+    "date": "2026-07-05",
+    "source": "wayback",
+    "prevTs": "20260404173818",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Temporal Cloud: 2 prices changed (removed “Series D at $5B Valuation | AI Drives Demand …”; added “Why do I get $1,000 in credits if the base pl…”)",
+    "pairs": [],
+    "added": [
+      "Why is a credit card required for the free trial?",
+      "Why do I get $1,000 in credits if the base plan is $100/month?",
+      "What happens when my free trial expires or if I run out of credits?"
+    ],
+    "removed": [
+      "Series D at $5B Valuation | AI Drives Demand for Durable Execution"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 11,
+      "materialRemoved": 1,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "temporal-io-pricing-20260804172047",
+    "url": "https://temporal.io/pricing",
+    "ts": "20260804172047",
+    "date": "2026-08-04",
+    "source": "wayback",
+    "prevTs": "20260705090545",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Temporal Cloud: 2 prices changed (added “Starting at $100/mo”)",
+    "pairs": [],
+    "added": [
+      "Starting at $100/mo",
+      "Starting at $500/mo",
+      "Start free or talk to our team."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 31,
+      "added": 46,
+      "materialRemoved": 1,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "temporal-io-pricing-20260902202107",
+    "url": "https://temporal.io/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260804172047",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Temporal Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

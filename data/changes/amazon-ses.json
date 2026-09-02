@@ -1,0 +1,676 @@
+[
+  {
+    "id": "aws-amazon-com-ses-pricing-20230815092851",
+    "url": "https://aws.amazon.com/ses/pricing/",
+    "ts": "20230815092851",
+    "date": "2023-08-15",
+    "source": "wayback",
+    "prevTs": "20230128063749",
+    "kind": "price",
+    "score": 84,
+    "counts": {
+      "price": 22,
+      "limit": 9,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Amazon SES: 22 prices, 9 limits changed (200,000 → 2,000,000; 250,000 → 2,000,000)",
+    "pairs": [
+      {
+        "before": "(200,000 total messages - 62,000 free messages) × $.0001 per message",
+        "after": "(2,000,000 total messages - 3,000 free messages) × $.0001 per message",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "200,000",
+            "after": "2,000,000"
+          },
+          {
+            "before": "62,000",
+            "after": "3,000"
+          }
+        ]
+      },
+      {
+        "before": "(.000032GB × 250,000 messages) × $0.12 per gigabyte of data",
+        "after": "(.000032GB × 2,000,000 - 3,000 messages) × $0.12 per gigabyte of data",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "250,000",
+            "after": "2,000,000"
+          },
+          {
+            "before": "$0.12",
+            "after": "3,000"
+          },
+          {
+            "before": null,
+            "after": "$0.12"
+          }
+        ]
+      },
+      {
+        "before": "(32KB × 1,000 messages) ÷ 256KB = 125 mail chunks × $0.00009 per mail chunk",
+        "after": "(32KB × 250,000 messages) ÷ 256KB = 125 mail chunks × $0.00009 per mail chunk",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1,000",
+            "after": "250,000"
+          }
+        ]
+      },
+      {
+        "before": "(120,000,000 total messages – 62,000 free messages) × $0.0001 per message",
+        "after": "(80,000,000 total messages – 3,000 free messages) × $0.0001 per message",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "120,000,000",
+            "after": "80,000,000"
+          },
+          {
+            "before": "62,000",
+            "after": "3,000"
+          }
+        ]
+      },
+      {
+        "before": "(.000032GB × 2,000,000 messages) × $0.12 per gigabyte of attachments",
+        "after": "(.000032GB × 80,000,000 messages) × $0.12 per gigabyte of attachments",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2,000,000",
+            "after": "80,000,000"
+          }
+        ]
+      },
+      {
+        "before": "(120,000,000 total messages – 62,000 free messages) × $0.0001 per message",
+        "after": "(80,000,000 total messages – 3,000 free messages) × $0.0001 per message",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "120,000,000",
+            "after": "80,000,000"
+          },
+          {
+            "before": "62,000",
+            "after": "3,000"
+          }
+        ]
+      },
+      {
+        "before": "(.000032GB × 2,000,000 messages) × $0.12 per gigabyte of attachments",
+        "after": "(.000032GB × 80,000,000 messages) × $0.12 per gigabyte of attachments",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2,000,000",
+            "after": "80,000,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "SES offers a flexible free tier which enables you to try the SES email features you need, free of charge. Free tier customers receive up to 3,000 message charges free each month for the first 12 months after you start using SES.",
+      "Message charges from these SES products are eligible for the SES free tier:",
+      "For example: A customer could send 1,000 messages per month with Virtual Deliverability Manager enabled (2,000 message charges) and receive 1,000 emails (1,000 message charges) without exceeding the revised SES free tier limit of 3,000 message charges. You can read this blog post",
+      "Free tier messages charges will apply first to the more expensive charges (e.g. outbound messages) in situations where multiple products are in use.",
+      "to estimate your monthly charges for using Amazon SES. Please note that the pricing calculator does not currently include SES Free Tier discounts.",
+      "250,000 total messages × $.0001 per message - 3,000 free messages",
+      "$24.70",
+      "$ 0.10",
+      "$25.77",
+      "$199.70",
+      "$7.67",
+      "$310.03",
+      "$7,999.70",
+      "$9,055.40",
+      "$7,999.70",
+      "$11,321.90"
+    ],
+    "removed": [
+      "0-62,000 emails",
+      "$0",
+      ">62,000 emails",
+      "0-1,000 emails",
+      "$0",
+      ">1,000 emails",
+      "1,000 total messages − 1,000 free messages",
+      "$25.97",
+      "$193.80",
+      "$7.68",
+      "1,000 total messages − 1,000 free messages",
+      "$24.90",
+      "$304.04",
+      "$7,993.80",
+      "$9,049.50",
+      "$7,993.80",
+      "$11,316.00"
+    ],
+    "totals": {
+      "removed": 39,
+      "added": 39,
+      "materialRemoved": 28,
+      "materialAdded": 27
+    }
+  },
+  {
+    "id": "aws-amazon-com-ses-pricing-20240203040837",
+    "url": "https://aws.amazon.com/ses/pricing/",
+    "ts": "20240203040837",
+    "date": "2024-02-03",
+    "source": "wayback",
+    "prevTs": "20230815092851",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Amazon SES: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "aws-amazon-com-ses-pricing-20240706070017",
+    "url": "https://aws.amazon.com/ses/pricing/",
+    "ts": "20240706070017",
+    "date": "2024-07-06",
+    "source": "wayback",
+    "prevTs": "20240203040837",
+    "kind": "price",
+    "score": 98,
+    "counts": {
+      "price": 32,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Amazon SES: 32 prices, 1 limit changed (removed “$0.10/1000 emails”; added “$50 per month per endpoint”)",
+    "pairs": [],
+    "added": [
+      "$50 per month per endpoint",
+      "$0.15/1000 emails",
+      "$0.09 for every 1,000 incoming email chunks (see Pricing details for more information)",
+      "$2 per GB of emails ingested",
+      "$0.19 per GB per month for storing and searching the archive",
+      "You use Amazon SES Mail Manager to receive about 300,000 emails per month for your organization. You use 1 Open Ingress Endpoint to receive external emails and set up an Authenticated Ingress Endpoint for internal emails. Every message you send and receive is 50KB in sizes.",
+      "$50.0001",
+      "1 open ingress endpoint × $50 per endpoint per month",
+      "$50.00",
+      "$0.00015",
+      "$45.00",
+      "$0.00009",
+      "50KB × 300,000 messages) ÷ 256KB × $0.00009 per mail chunk",
+      "$5.27",
+      "$100.27",
+      "$50.00",
+      "1 open ingress endpoint × $50 per endpoint per month",
+      "$100.00",
+      "$0.00015",
+      "$150.00",
+      "$0.00009",
+      "(50KB × 1,000,000 messages) ÷ 256KB × $0.00009 per mail chunk",
+      "$17.58",
+      "$2 per GB",
+      "(50KB × 1,000,000 messages) * 1e-6 × $2 per GB",
+      "$50.00",
+      "$0.19 per GB",
+      "(50KB × 1,000,000 messages) * 1e-6 × $.19 per GB",
+      "$4.75",
+      "$0.0001875",
+      "$93.75",
+      "$416.08"
+    ],
+    "removed": [
+      "$0.10/1000 emails",
+      "$0.12 per gigabyte (GB) of data in the attachments you send"
+    ],
+    "totals": {
+      "removed": 8,
+      "added": 71,
+      "materialRemoved": 2,
+      "materialAdded": 32
+    }
+  },
+  {
+    "id": "aws-amazon-com-ses-pricing-20241114072532",
+    "url": "https://aws.amazon.com/ses/pricing/",
+    "ts": "20241114072532",
+    "date": "2024-11-14",
+    "source": "wayback",
+    "prevTs": "20240706070017",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Amazon SES: 1 limit changed (125 → 31,250)",
+    "pairs": [
+      {
+        "before": "(32KB × 250,000 messages) ÷ 256KB = 125 mail chunks × $0.00009 per mail chunk",
+        "after": "(32KB × 250,000 messages) ÷ 256KB = 31,250 mail chunks × $0.00009 per mail chunk",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "125",
+            "after": "31,250"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "aws-amazon-com-ses-pricing-20250115220735",
+    "url": "https://aws.amazon.com/ses/pricing/",
+    "ts": "20250115220735",
+    "date": "2025-01-15",
+    "source": "wayback",
+    "prevTs": "20241114072532",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Amazon SES: 2 prices changed (added “$0.03/1000 emails”)",
+    "pairs": [],
+    "added": [
+      "$0.03/1000 emails",
+      "$0.05 per email"
+    ],
+    "removed": [
+      "Sign up for a free account",
+      "Instantly get access to the AWS Free Tier."
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 15,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "aws-amazon-com-ses-pricing-20250306030851",
+    "url": "https://aws.amazon.com/ses/pricing/",
+    "ts": "20250306030851",
+    "date": "2025-03-06",
+    "source": "wayback",
+    "prevTs": "20250115220735",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 3,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Amazon SES: 3 prices, 2 limits changed (removed “Virtual Deliverability Manager costs $0.07 fo…”; added “0-10M emails per month”)",
+    "pairs": [],
+    "added": [
+      "0-10M emails per month",
+      "$0.05/1000 emails",
+      "10M-100M emails per month",
+      "$0.02/1000 emails",
+      ">100M emails per month"
+    ],
+    "removed": [
+      "Virtual Deliverability Manager costs $0.07 for each 1,000 email messages you send, in addition to other SES charges such as email sending charges. Accessing Virtual Deliverability Manager information through the AWS console, CLI, or API costs $0.0005 for each 1,000 queries. Your first 5,000 queries each month are free."
+    ],
+    "totals": {
+      "removed": 1,
+      "added": 6,
+      "materialRemoved": 1,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "aws-amazon-com-ses-pricing-20250803003345",
+    "url": "https://aws.amazon.com/ses/pricing/",
+    "ts": "20250803003345",
+    "date": "2025-08-03",
+    "source": "wayback",
+    "prevTs": "20250306030851",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Amazon SES: 2 prices changed (added “$0.005 per month per tenant”)",
+    "pairs": [],
+    "added": [
+      "and AWS Free Tier documentation",
+      "$0.005 per month per tenant",
+      "$0.005/1000 emails"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 22,
+      "materialRemoved": 0,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "aws-amazon-com-ses-pricing-20251002121646",
+    "url": "https://aws.amazon.com/ses/pricing/",
+    "ts": "20251002121646",
+    "date": "2025-10-02",
+    "source": "wayback",
+    "prevTs": "20250803003345",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Amazon SES: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "aws-amazon-com-ses-pricing-20251123115626",
+    "url": "https://aws.amazon.com/ses/pricing/",
+    "ts": "20251123115626",
+    "date": "2025-11-23",
+    "source": "wayback",
+    "prevTs": "20251002121646",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Amazon SES: 2 prices changed (removed “$0.05 per email”; added “$0.10/1000 recipients after the first recipie…”)",
+    "pairs": [],
+    "added": [
+      "$0.10/1000 recipients after the first recipient on an email"
+    ],
+    "removed": [
+      "$0.05 per email"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 4,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "aws-amazon-com-ses-pricing-20260101084135",
+    "url": "https://aws.amazon.com/ses/pricing/",
+    "ts": "20260101084135",
+    "date": "2026-01-01",
+    "source": "wayback",
+    "prevTs": "20251123115626",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 4,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Amazon SES: 4 prices changed (added “$0.01 per validation”)",
+    "pairs": [],
+    "added": [
+      "$0.01 per validation",
+      "$0.01 per email address validated using API or console",
+      "$0.01/1000 validations",
+      "$0.01 for every 1,000 validations using Auto Validation******"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 7,
+      "materialRemoved": 1,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "aws-amazon-com-ses-pricing-20260510140547",
+    "url": "https://aws.amazon.com/ses/pricing/",
+    "ts": "20260510140547",
+    "date": "2026-05-10",
+    "source": "wayback",
+    "prevTs": "20260101084135",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Amazon SES: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "aws-amazon-com-ses-pricing-20260612090039",
+    "url": "https://aws.amazon.com/ses/pricing/",
+    "ts": "20260612090039",
+    "date": "2026-06-12",
+    "source": "wayback",
+    "prevTs": "20260510140547",
+    "kind": "price",
+    "score": 7,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Amazon SES: 2 prices, 1 limit changed (added “$1,250 per month”)",
+    "pairs": [],
+    "added": [
+      "$1,250 per month",
+      "Includes 5 domains, 12 IPs, and 25 seed list tests per month.",
+      "Overages are $25/domain, $12.5/IP, and $10 per seed list test."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 8,
+      "materialRemoved": 0,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "aws-amazon-com-ses-pricing-20260810102831",
+    "url": "https://aws.amazon.com/ses/pricing/",
+    "ts": "20260810102831",
+    "date": "2026-08-10",
+    "source": "wayback",
+    "prevTs": "20260612090039",
+    "kind": "price",
+    "score": 487,
+    "counts": {
+      "price": 156,
+      "limit": 10,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Amazon SES: 156 prices, 10 limits changed ($0.005 → $0.15; $0.08 → $0.10)",
+    "pairs": [
+      {
+        "before": "$0.005/1000 emails",
+        "after": "$0.15 / 1,000 emails",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.005",
+            "after": "$0.15"
+          }
+        ]
+      },
+      {
+        "before": "$0.08/1000 emails",
+        "after": "$0.10 / 1,000 emails",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.08",
+            "after": "$0.10"
+          }
+        ]
+      },
+      {
+        "before": "Includes 5 domains, 12 IPs, and 25 seed list tests per month.",
+        "after": "Per region per account. Includes 5 domains, 12 IPs, and 25 seed list tests/month. Overages: $25/domain, $12.50/IP, $10/seed list test.",
+        "confidence": 0.64,
+        "deltas": [
+          {
+            "before": null,
+            "after": "$25"
+          },
+          {
+            "before": null,
+            "after": "$12.50"
+          },
+          {
+            "before": null,
+            "after": "$10"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "0 – 10M emails 1 / month",
+      "$0.16 per 1,000 emails 2",
+      "$0.22 per 1,000 emails",
+      "$0.23 per 1,000 emails",
+      "10 – 100M emails / month",
+      "$0.14 per 1,000 emails",
+      "$0.17 per 1,000 emails",
+      "$0.18 per 1,000 emails",
+      "$0.11 per 1,000 emails",
+      "$0.12 per 1,000 emails",
+      "$0.13 per 1,000 emails",
+      "$105",
+      "$500",
+      "3. Pro includes 1 domain, 1 DIPs and 5 seedlist tests; Enterprise includes 5 domains, 12 DIPs, and 25 seed list tests; Essentials plan customers pay $1,250 per month (includes 5 domains, 12 DIPs, and 25 seed list test).",
+      "4. Includes Auto Validation for all emails sent. Pro plan includes 2,500 API validations/account/region/month and Enterprise plan includes 5,000 API validations/account/region/month; Extra API validations at $0.01/validation.",
+      "6. 1,000 tenants included per account per region; $0.005/month/tenant for additional tenants.",
+      "8. $0.09/1000 incoming email chunks and $0.10/1000 recipients beyond the first recipient when using the 'Send to Internet' rule action.",
+      "$0.12 per GB of attachment data sent 1",
+      "$0.01 per validation; $0.01/1,000 for Auto Validation",
+      "$0.01 per email address validated using API or console; $0.01 for every 1,000 validations using Auto Validation 5",
+      "$0.005 / month / tenant + $0.005 / 1,000 emails",
+      "Per email fee: $0.08/1,1000 emails (0–10M emails per month), $0.04/1,000 emails (10–50M emails per month), $0.02/1,000 emails (50–100M emails per month), Contact us (>100M emails per month)",
+      "Per email fee: $0.07/1,000 emails (0–10M emails per month), $0.05/1,000 emails (10–100M emails per month), $0.02/1,000 emails (>100M emails per month). Queries: $0.0005/1,000 queries (first 5K queries/month are free)",
+      "$2 per GB of emails ingested; $0.19 per GB per month for storage and search",
+      "Trend Micro Virus Scanning: $0.1875/1,000 emails; SpamHaus IP Reputation: $0.125/1,000 emails; Abusix Guardian Mail: $0.125/1,000 emails; Vade Advanced Email Security: $0.415/1,000 emails",
+      "You send 250,000 emails per month. You choose the Essentials plan. Every message is 32KB.",
+      "250,000 × $0.16 / 1,000",
+      "$40.00",
+      "(0.000032 GB × 250,000) × $0.12/GB",
+      "$40.96",
+      "You send 2M emails per month. You choose the Pro plan for improved deliverability with Dedicated IPs (Managed), Email Validation, and Virtual Deliverability Manager. Every message is 32KB.",
+      "2M × $0.22 / 1,000",
+      "$440.00",
+      "(0.000032 GB × 2M) × $0.12/GB",
+      "$7.68",
+      "$105/account/region/month",
+      "$105.00",
+      "$552.68",
+      "You send 50M emails per month and receive 300,000 emails via Mail Manager. You choose the Enterprise plan for comprehensive feature access. Every message is 50KB.",
+      "10M × $0.23/1K + 40M × $0.18/1K"
+    ],
+    "removed": [
+      "As part of AWS Free Tier",
+      "SES offers a flexible free tier which enables you to try the SES email features you need, free of charge. Free tier customers receive up to 3,000 message charges free each month for the first 12 months after you start using SES.",
+      "Message charges from these SES products are eligible for the SES free tier:",
+      "For example: A customer could send 1,000 messages per month with Virtual Deliverability Manager enabled (2,000 message charges) and receive 1,000 emails (1,000 message charges) without exceeding the revised SES free tier limit of 3,000 message charges. You can read this blog post",
+      "Free tier messages charges will apply first to the more expensive charges (e.g. outbound messages) in situations where multiple products are in use.",
+      "Note: You pay for outgoing mail data, incoming mail chunks, EC2 data transfer fees, and add-on features such as Dedicated IP Addresses (if applicable), even if your usage of Amazon SES qualifies for the AWS Free Usage Tier.",
+      "$0.12 per gigabyte (GB) of data in the attachments you send*",
+      "$0.01 per validation",
+      "$0.01 per email address validated using API or console",
+      "$0.01/1000 validations",
+      "$0.01 for every 1,000 validations using Auto Validation******",
+      "$0.15/1000 emails",
+      "$0.09 for every 1,000 incoming email chunks (see Pricing details for more information)",
+      "$0.10/1000 recipients after the first recipient on an email",
+      "$2 per GB of emails ingested",
+      "$0.19 per GB per month for storing and searching the archive",
+      "***** You can use the Amazon Web Services Monthly Calculator to estimate your monthly charges for using Amazon SES. Please note that the pricing calculator does not currently include SES Free Tier discounts.",
+      "$0.005 per month per tenant",
+      "0-10M emails per month",
+      "$0.04/1000 emails",
+      "10M-50M emails per month",
+      "$0.02/1000 emails",
+      "50M-100M emails per month",
+      "$0.07/1000 emails",
+      "0-10M emails per month",
+      "$0.05/1000 emails",
+      "10M-100M emails per month",
+      "$0.02/1000 emails",
+      ">100M emails per month",
+      "$0.0005/1000 queries",
+      "First 5,000 queries each month are free",
+      "Overages are $25/domain, $12.5/IP, and $10 per seed list test.",
+      "You use Amazon SES to send about 250,000 email per month. You receive 1,000 emails per month. You don’t use dedicated IP addresses. You send your email using an application that isn’t hosted on Amazon EC2. Every message you send and receive is 32KB in sizes.",
+      "$0.0001",
+      "250,000 total messages × $.0001 per message - 3,000 free messages",
+      "$24.70",
+      "$0.12",
+      "(.000032GB × 250,000 messages) × $0.12 per gigabyte of data",
+      "$0.0001",
+      "$ 0.10"
+    ],
+    "totals": {
+      "removed": 267,
+      "added": 196,
+      "materialRemoved": 132,
+      "materialAdded": 85
+    }
+  }
+]

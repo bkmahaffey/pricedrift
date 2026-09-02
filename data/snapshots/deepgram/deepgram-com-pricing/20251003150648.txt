@@ -1,0 +1,271 @@
+Straightforward pricing that rewards you as you grow
+Whether you’re just exploring or ready for commitment, our pricing plans make it easy to get started. All plans give you access to speech-to-text, audio intelligence, and text-to-speech models and endpoints.
+Pay As You Go
+Free $200 of credit
+Then pay-as-you-go. No minimums. No expiration. No credit card required.
+Sign Up Free
+View all features
+Access all endpoints in public models
+Concurrency Limits
+• Speech-to-text:
+- Up to 100 for the REST API
+- Up to 50 for the WSS API
+- Up to 5 for Deepgram Whisper Cloud
+• Text-to-speech:
+- Up to 15 for the REST API + WSS API
+• Voice Agent API:
+- Up to 15 for the WSS API
+• Audio Intelligence:
+- Up to 10 for the REST API
+Discord and community help
+Growth
+$4k+ / year
+Save up to 20%
+With pre-paid credits for the year. Credits are redeemed against actual usage.
+Buy Now
+View all features
+Access all endpoints in public models
+Concurrency Limits
+• Speech-to-text:
+- Up to 100 for the REST API
+- Up to 50 for the WSS API
+- Up to 5 for Deepgram Whisper Cloud
+• Text-to-speech:
+- Up to 15 for the REST API + WSS API
+• Voice Agent API:
+- Up to 15 for the WSS API
+• Audio Intelligence:
+- Up to 10 for the REST API
+Discord and community help
+Enterprise
+Custom Pricing
+For businesses with large volumes, data or deployment requirements, or support needs.
+Contact Sales
+View all features
+Access all endpoints in public models with our best discounts
+Access to custom-trained speech-to-text models
+Priority access to new endpoints and models
+Highest concurrency support
+Self-hosted deployment options
+Paid Support plans available
+Discord and community help
+Voice Agent API A unified speech-to-speech API for natural AI conversations. Build LLM-powered agents that listen, think, and speak with human-like intelligence.
+For detailed LLM tier information, please refer to our Developer Documentation
+.
+Tier
+Pay As You Go
+Growth
+Enterprise
+Standard
+$0.0800/min
+$0.0700/min
+Contact Sales
+Standard - BYO TTS
+$0.0600/min
+$0.0500/min
+Custom - BYO LLM
+$0.0700/min
+$0.0600/min
+Custom - BYO LLM + TTS
+$0.0500/min
+$0.0400/min
+Advanced
+$0.1600/min
+$0.1500/min
+Advanced - BYO TTS
+$0.1200/min
+$0.1100/min
+Speech to Text Power your apps with world-class speech recognition in 30+ languages.
+Includes: Speaker Diarization, Smart formatting, Automatic Language Detection, Deep Search, Keyword Boosting, Multichannel Support, and Callbacks.
+For detailed model, language, and feature availability, please refer to our Developer Documentation
+.
+Pre-Recorded
+Streaming
+Model
+Pay As You Go
+Growth
+Enterprise
+Flux
+Free through October
+Contact Sales
+Nova-3 (Monolingual)
+$0.0043/min
+$0.0036/min
+Nova-3 (Multilingual)
+$0.0052/min
+$0.0043/min
+Nova-1 & 2
+$0.0043/min
+$0.0035/min
+Enhanced
+$0.0145/min
+$0.0115/min
+Base
+$0.0125/min
+$0.0095/min
+Whisper Large
+$0.0048/min
+Whisper Large
+$0.0042/min
+Whisper Large
+$0.0038/min
+Whisper Large
+$0.0033/min
+Whisper Large
+$0.0035/min
+Custom
+Redaction (Add-on)
+$0.0020/min
+$0.0017/min
+Entity Detection (Add-on)
+$0.0017/min
+Keyterm Prompting (Add-on)
+$0.0013/min
+$0.0012/min
+Rates listed above opt in to the Model Improvement Program
+.
+Model
+Pay As You Go
+Growth
+Enterprise
+Flux
+Free through October
+Contact Sales
+Nova-3 (Monolingual)
+$0.0077/min
+$0.0065/min
+Nova-3 (Multilingual)
+$0.0092/min
+$0.0078/min
+Nova-1 & 2
+$0.0058/min
+$0.0047/min
+Enhanced
+$0.0165/min
+$0.0136/min
+Base
+$0.0145/min
+$0.0105/min
+Custom
+Redaction (Add-on)
+$0.0020/min
+$0.0017/min
+Keyterm Prompting (Add-on)
+$0.0013/min
+$0.0012/min
+Speaker Diarization (Add-on)
+$0.0020/min
+$0.0017/min
+Rates listed above opt in to the Model Improvement Program
+.
+Text to Speech Responsive, natural-sounding text-to-speech to power your high throughput voicebots and conversational AI applications. Billed per character.
+Model
+Pay As You Go
+Growth
+Enterprise
+Aura-2
+$0.030/1k characters
+$0.027/1k characters
+Contact Sales
+Aura-1
+$0.0150/1k characters
+$0.0135/1k characters
+Rates listed above opt in to the Model Improvement Program
+.
+Calculate the Text to Speech concurrency you need
+Advanced Options
+Get your results!
+Get results
+Audio Intelligence Powered by task-specific language models.
+Works with or without transcription. Handles text or audio.
+Model
+Pay As You Go
+Growth
+Enterprise
+Summarization
+$0.0003/1k input tokens - $0.0006/1k output tokens
+$0.00024/1k input tokens - $0.00048/1k output tokens
+Contact Sales
+Topic Detection
+Sentiment Analysis
+Intent Recognition
+Rates listed above opt in to the Model Improvement Program
+.
+Voice AI at scale with an API Call
+Get conversational intelligence with transcription and understanding on the world's best speech AI platform.
+Sign Up Free
+Get a Demo
+Frequently Asked Questions
+What does the Voice Agent API cost include for LLM and other Deepgram APIs?
+The Voice Agent API pricing is based on WebSocket connection time, which includes usage of Deepgram's speech-to-text (STT) and text-to-speech (TTS) models—there’s no separate charge for these during a session.
+If you choose to use Deepgram's built-in LLM support (currently via OpenAI or Anthropic), that’s also included in the price. You can optionally use your own LLM instead, which may reduce WebSocket time (and thus cost), depending on your setup.
+At the moment, Deepgram doesn’t offer pricing tiers based on model selection for TTS/STT, but you can configure specific model options in your Agent Settings Configuration
+if you prefer something other than the defaults.
+How is multichannel billed?
+When you opt into using the multichannel feature, each channel is transcribed and billed separately. The total cost when using multichannel is the single-channel cost multiplied by the number of channels. When you do not enable multichannel, Deepgram converts your multichannel audio into mono single-channel audio, and it is transcribed and billed as one channel. We especially recommend using the multichannel feature on multichannel audio in which there is cross-talk (voices overlapping or talkin
+What's the difference between Nova, Enhanced and Base models?
+Nova is our newest and most powerful model, offering the best balance between accuracy and cost-effectiveness. Enhanced is a powerful ASR model that performs especially well with uncommon words. Base is our signature model, with a solid combination of accuracy and cost-effectiveness. Some languages are only supported by Enhanced and Base. See our Models Overview
+and Model
+docs.
+Which file types can you transcribe?
+We support over 40 audio and video formats, documented here
+.
+How does billing work?
+You purchase credit upfront with a credit card. Credit will be deducted from your balance as you use our API. Pay As You Go credit never expires. Growth plan credit expire 1 year from purchase unless you renew or upgrade.
+What unit of time is billed, minutes or seconds?
+Deepgram bills by the second of audio. For instance, if you transcribe 61 seconds of audio, we bill you for 61 seconds of usage, not 2 minutes (120 seconds).
+Can you transcribe live streaming audio?
+Definitely. In fact, we’ve got the fastest real-time transcription in the biz with latency times of under 300 milliseconds.
+Can Deepgram transcribe real-time conversations?
+Yes! Our streaming API is designed for low latency and will return incremental transcripts as a speaker’s sentence unfolds. You can stay up to date on our latest Conversational AI technology by subscribing to our newsletter
+.
+What happens if I run out of credit before my Growth plan expires?
+If you’re on the Growth plan and have saved a credit card, you can continue to use our API with a 10% overage fee billed at the start of each month. This is still less than Pay As You Go rates. You can renew or upgrade your plan at any point to prevent an overage fee.
+What languages do you support?
+We support 36+ languages with Speech to Text
+and English for Text to Speech. We are actively increasing the number of languages available for our products.
+Can I get human support?
+Sure thing. You can get help from our community over at Discord
+or GitHub Discussions
+If you are subscribed to our Enterprise plan, reach out to our support team via email or Slack for assistance.
+How many seats do I get?
+We bill based on usage, not users. Add as many team members and collaborators as you wish!
+Can I self-host Deepgram?
+Yes, our Enterprise plan offers self-hosted deployments of our voice AI products, for use in cloud environments or on-premises datacenters. Contact us
+about getting on an Enterprise plan to expand your deployment capabilities.
+Are the Audio Intelligence features affected by the model I select?
+Our Audio Intelligence features such as topic detection and summarization are not dependent on the selected model. However, audio intelligence features are primarily affected by the transcript, so you should use the most accurate model available for your use case for best results.
+Is streaming available for Deepgram TTS Aura?
+Streaming is available on our Live TTS service
+over WebSocket.
+How can I increase my concurrency and requests per minute for Aura TTS?
+Higher concurrency and requests per minute is available. Please contact sales
+.
+Is voice cloning available for TTS Aura?
+Voice cloning is currently not available for Aura but we are looking into voice cloning in the future.
+Managing your Deepgram Pay-As-You-Go credits: auto-load settings, refunds, and transfers
+At Deepgram, we offer a flexible pay-as-you-go service where customers can purchase credits for usage on our platform. Our goal is to provide transparency and flexibility, while ensuring that you have full control over your account and payments.
+Auto-Load Functionality
+For your convenience, we provide an auto-load function that automatically recharges your account when your credit balance falls below a certain threshold. By default, your account is set to reload with $100 when remaining credit is $10.
+You can turn off auto-reload at any time through your account settings.
+It is the customer’s responsibility to manage their auto-load settings to avoid unwanted charges.
+Managing Your Subscription
+We encourage all customers to review their credit balance and auto-load settings regularly to ensure they align with your needs. By purchasing credits and using our services, you acknowledge that you are fully responsible for the integrity of your uploaded files and coding systems.
+Refunds for Unused Credits
+We offer refunds for unused credits that were purchased within the last 30 days.
+Refunds will only apply to credits that have not been used.
+Credits purchased more than 30 days ago are non-refundable, as they represent services that were available to you at the time of purchase.
+Refund Request Process
+To request a refund for unused credits purchased within the last 30 days, please complete this form
+We will review your account and process any eligible refunds promptly. If you have any other questions please contact ConsoleBilling@deepgram.com
+.
+Disclaimer for Incorrect Audio Files
+Please note that Deepgram is not responsible for errors in your uploaded files due to issues in your recording or transcription systems, including but not limited to loops in the audio caused by coding or system errors on your end.
+If an incorrect or faulty file is uploaded, Deepgram’s system will process the file as received. Customers are still responsible for paying for all processed files, regardless of any errors resulting from their own system or coding.
+We strongly recommend reviewing your files and system before uploading them to avoid such issues. Deepgram provides the service of processing the audio files that are submitted and is not liable for customer errors.
+Credit Transfer Policy
+Credits purchased from Deepgram are tied to the specific account under which they were originally acquired.
+Purchased Credits may be transferred between accounts within the same organization upon request and subject to verification and approval.
+Promotional or Free Credits are non-transferable under all circumstances, including between accounts owned by the same organization.
+We reserve the right to decline transfer requests that appear to be an attempt to circumvent our credit usage policies or promotional terms.
+If additional credits are needed in a specific account, we recommend purchasing credits directly through that account’s billing profile.

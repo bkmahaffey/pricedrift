@@ -1,0 +1,243 @@
+Skip to main content
+New Context Engineering Guide – Download Here
+Fully managed AI Database in shared cloud. The easiest way to get started with Weaviate.
+Try Free
+Free 14-day trial, then pay‑as‑you‑go, monthly instant, no‑commit entry point.
+Sandbox cluster that delivers Weaviate’s full core DB toolkit (hybrid search, dynamic index, compression, multi-tenancy).
+Baseline security with RBAC.
+Various compression techniques.
+Compression by default.
+Support via Community Slack and Weaviate Forum.
+Zero-commitment entry point to experiment and ship quickly. Ideal for prototypes, pilots, and small use cases.
+Get started
+Pay‑as‑you‑go, monthly instant, no‑commit entry point.
+Shared cloud cluster that delivers Weaviate’s full core DB toolkit (hybrid search, replication, dynamic index, compression, multi-tenancy).
+Baseline security with RBAC.
+Various compression techniques.
+Highly available clusters – 99.5% uptime.
+Compression by default.
+Email support, next-business-day Severity 1 response.
+For teams scaling AI in production who need predictable pricing, enterprise security, and enhanced reliability.
+Contact Sales
+Prepaid contract with predictable spend.
+Choice of shared or dedicated deployment for high performance & compliance.
+Enhanced security: SSO/SAML (bring-your-own IdP is available), HIPAA compliant.
+Trusted reliability - 99.9% uptime.
+Various compression techniques.
+Metrics endpoint for external monitoring.
+Global coverage on AWS & GCP (plus Azure for dedicated deployments).
+Enterprise support: 4-hour Severity 1 response.
+For teams running mission-critical workloads that require dedicated infra, advanced compliance, and white-glove support.
+Contact Sales
+Prepaid contract with predictable spend.
+Fully dedicated infrastructure for mission-critical workloads and strict compliance needs.
+Premium security: RBAC, SSO/SAML, PrivateLink (AWS), Bring Your Own Key, bring-your-own IdP, HIPAA compliant.
+Highest reliability – 99.95% uptime.
+Various compression techniques.
+Metrics endpoint for external monitoring.
+Any region on AWS, GCP or Azure.
+White-glove support: 1-hour Severity 1 response, Technical Account Team, and access to training and experts.
+Compare Plans
+Feature comparison across Free, Flex, Plus, and Premium plans Plan
+Free Trial
+Flex
+Plus
+Premium
+FEATURES
+Contract
+14-day free trial
+Monthly (Pay-as-you-go)
+Prepaid Commitment
+Core Database
+Deployment type
+Shared
+Shared or dedicated
+Dedicated
+Hybrid search
+✓
+Backup retention
+✕
+7 days
+30 days
+45 days
+Flexible index types
+✓
+Vector compression
+✓
+HA / replication
+✓
+Multi-tenancy
+✓
+Security
+RBAC
+✓
+SSO/SAML
+✕
+✓
+Bring your own IdP
+✕
+✓
+HIPAA compliant
+✕
+✓ (dedicated)
+✓
+PrivateLink (AWS)
+✕
+✓
+Encrypted volumes
+with customer keys
+✕
+✓
+Observability
+Metrics endpoint
+✕
+✓
+AI Services
+Agents (shared service)
+✓
+Coming soon
+Embeddings (shared service)
+✓
+Coming soon
+Support / Onboarding
+Email support
+✕
+✓
+Phone support
+✕
+✓
+Slack support
+✕
+Available*
+✓
+Technical Account Team
+✕
+✓
+Instructor-led jumpstart training
+✕
+Available**
+SLAs
+Availability
+99.5%
+99.9%
+99.95%
+Severity 1 response time
+✕
+1 business day
+4-hour
+1-hour
+Upgrades
+✕
+Weaviate-managed
+(shared)
+Customer-directed
+(dedicated)
+Customer-directed
+Cloud Availability
+Cloud Service Provider (CSP)
+GCP
+GCP, AWS (coming soon)
+GCP, AWS, Azure
+(dedicated)
+GCP, AWS, Azure
+Regions
+Limited
+Limited (shared)
+All regions (dedicated)
+All regions
+PRICING DIMENSIONS
+Pricing Dimensions
+Vector Dimensions
+Free
+from
+$0.000745 / 1M
+from
+$0.000327 / 1M
+from
+$0.000327 / 1M
+Storage
+Free
+from
+$0.255 / GiB
+from
+$0.2125 / GiB
+from
+$0.2125 / GiB
+Backup
+Free
+from
+$0.0264 / GiB
+from
+$0.022 / GiB
+from
+$0.022 / GiB
+Data Transfer
+Free for promotional period 1
+1 Data transfers, including public internet egress, cross-region transfers, and VPC-related network traffic, currently incur no additional costs to customers for a limited promotional period. Weaviate reserves the right to introduce data transfer charges in the future, with any changes communicated in advance and applied only after notice to customers.
+Available on Marketplaces
+Microsoft Azure
+Amazon Web Services
+Google Cloud Platform
+Explore Add ‑ ons
+SNOWFLAKE ARCTIC-EMBED-M-V1.5
+$0.025 / 1M tokens
+SNOWFLAKE ARCTIC-EMBED-M-V2.0
+$0.040 / 1M tokens
+Learn more
+Free to try
+Monthly plan
+$30 / organization
+4000 requests included
++ unlimited additional requests with usage-based pricing
+Learn more
+Onboarding packages
+Enterprise support
+Free on-demand learning
+Live training
+Learn more
+Get the full pricing list
+Questions about pricing? Download the full Pricing list or contact our team
+for more info.
+Request the Pricing List
+SOC 2 Report
+We work with an independent auditor to maintain a SOC 2 report, which objectively certifies our controls to ensure the continuous security, availability, confidentiality, and integrity of our customers' data.
+HIPAA Compliance
+Our Enterprise Cloud on AWS environments meet HIPAA requirements, enabling the secure storage, handling, and processing of Protected Health Information (PHI). Support for Azure and GCP deployments is actively in development and will be available soon.
+Frequently asked questions
+Let us help answer the most common questions you might have.
+Can I move tenants to different storage tiers? ▼
+Currently, the ability to move tenants between hot, warm, and cold storage is only available if you are using Weaviate Dedicated Cloud or self-hosting Weaviate.
+What is a 'vector dimension' in this context? ▼
+A vector dimension refers to one element in a vector representing an embedding for an object. The total number of these elements is the vector's dimensionality. A vector index holds all the vector dimensions for every object in a collection. Multiple vector indexes can be created in a collection, for example to utilize different models for refine specific types of searches.
+Why is the pricing based on the total number of vector dimensions? ▼
+The total count of vector dimensions is a good indicator of the resources required. This is a simple number that a user can calculate rather than trying to understand abstract concepts like Read/Write units, CPU cycles or other measurements of infrastructure usage.
+In addition to vector dimensions, you will be billed for the persistent and backup storage of objects and their vector embeddings.
+How can I determine the total number of vector dimensions? ▼
+The number of vector dimensions is calculated by multiplying the number of objects by the vector dimensionality of each index. This value is further multiplied by the replication factor to account for data replicas, as all clusters are highly available with replicas.
+What are the differences between 'Accuracy' and 'Cost'? ▼
+Uncompressed vectors provide the highest accuracy for search results. However, this comes at the cost of requiring significant amounts of memory at scale. A compression technique called quantization allows the size of the vectors to be reduced and thus requires less memory, with some tradeoffs to accuracy for searches. Different vector quantization methods are able to deliver different balances between memory efficiency and search accuracy. Read more
+.
+When Compression is used, does it change the cost? ▼
+Compression does not alter the number of vector dimensions stored, but it reduces the computational and memory resources required for search. The more aggressive the compression method, the greater the efficiency gains, which are reflected in discounted list prices for vector dimensions relative to uncompressed vectors.
+Does the Cloud provider and region I choose affect how much I will pay? ▼
+List prices for all pricing vector dimensions vary by Cloud provider and region to reflect regional variations.
+Is the open source Weaviate the same as that used on Weaviate Cloud? ▼
+Weaviate Cloud (WCD) utilizes the Weaviate open-source project. We have created a simple to use service that eliminates the typical administration tasks and overhead needs to manage a database at scale. We have incorporated a number of additional features like the Weaviate Embedding Service, Query Agent, Data Import etc. to further simplify the experience for the user.
+Is Weaviate Cloud SOC2 compliant? ▼
+Yes, for more information see our Trust Portal
+Is Weaviate Enterprise Cloud HIPAA compliant? ▼
+Yes, for more information see our Trust Portal
+Do I pay for data objects without embeddings? ▼
+In addition to vector dimensions, you will be billed for the persistent and backup storage of objects and their vector embeddings. Objects without vector embeddings require less storage and therefore incur lower storage costs.
+Which Models and Providers are available? ▼
+Weaviate is integrated with many model providers, which simplifies the work you need to do to vectorize your data. Read more
+about model provider integrations, including Weaviate’s native Embedding Service.
+Is Weaviate Cloud compatible with models of various embedding sizes? ▼
+Yes. Read more
+about the models and providers that are supported out-of-the-box.
+Ready to get started?
+Try Weaviate Cloud today, or get in touch with our team to discuss your needs. We can’t wait to meet you.
+Try Weaviate Cloud
+Weaviate Products
+Pricing
+Partners

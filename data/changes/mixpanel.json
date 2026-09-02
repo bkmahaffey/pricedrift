@@ -1,0 +1,765 @@
+[
+  {
+    "id": "mixpanel-com-pricing-20230528060318",
+    "url": "https://mixpanel.com/pricing",
+    "ts": "20230528060318",
+    "date": "2023-05-28",
+    "source": "wayback",
+    "prevTs": "20230120204132",
+    "kind": "limits",
+    "score": 8,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Mixpanel: 1 limit, 3 plan names changed (removed “5M-100B+ events/month”; added “5M-100M+ monthly events”)",
+    "pairs": [],
+    "added": [
+      "Unlimited collaborators",
+      "5M-100M+ monthly events",
+      "It's free Starter"
+    ],
+    "removed": [
+      "Free",
+      "Unlimited collaborators",
+      "All features in Free, plus:",
+      "Unlimited saved cohorts for deeper behavioral analysis",
+      "5M-100B+ events/month",
+      "It's free Free"
+    ],
+    "totals": {
+      "removed": 34,
+      "added": 86,
+      "materialRemoved": 12,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "mixpanel-com-pricing-20231008140744",
+    "url": "https://mixpanel.com/pricing",
+    "ts": "20231008140744",
+    "date": "2023-10-08",
+    "source": "wayback",
+    "prevTs": "20230528060318",
+    "kind": "price",
+    "score": 28,
+    "counts": {
+      "price": 5,
+      "limit": 3,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Mixpanel: 5 prices, 3 limits, 4 plan names changed ($50,000 removed)",
+    "pairs": [
+      {
+        "before": "We have the most generous Starter plan in the market (20M events) and extensive additional benefits for eligible startups, including up to $50,000 in credits towards any paid plan and exclusive access to our startup community. Learn more",
+        "after": "We have the most generous Free plan in the market (20M events) and extensive additional benefits for eligible startups, including your first year free on any paid plan and exclusive access to our startup community. Learn more",
+        "confidence": 0.77,
+        "deltas": [
+          {
+            "before": "$50,000",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Startups: first year is free",
+      "Startups that were founded less than 5 years ago, with up to $8M in total funding, can receive their first year free on the Mixpanel Growth or Enterprise plans.",
+      "It’s free",
+      "Default 5 years"
+    ],
+    "removed": [
+      "It's free",
+      "Up to 20M monthly events",
+      "Unlimited integrations",
+      "Unlimited collaborators",
+      "Up to 100M monthly events",
+      "Unlimited saved reports to monitor, update & iterate on KPIs",
+      "5M-100M+ monthly events",
+      "Startups that are less than 5 years old with up to $8M USD in total funding receive $50,000 in credits towards the Mixpanel Growth or Enterprise plans",
+      "It's free Starter",
+      "Starting at $20/mo Growth",
+      "Starting at $833/mo Enterprise",
+      "Free",
+      "Unlimited Customizable",
+      "Make the switch to the new Free Plan",
+      "Our new Free Plan offers up to 20 million events, all our core analytics features, and unlimited data history.",
+      "Learn more about the new Free Plan!",
+      "Our new Free Plan offers up to 100,000 monthly tracked users (up to 100,000,000 events), all our core analytics features, and unlimited data history."
+    ],
+    "totals": {
+      "removed": 129,
+      "added": 190,
+      "materialRemoved": 18,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "mixpanel-com-pricing-20240204145728",
+    "url": "https://mixpanel.com/pricing",
+    "ts": "20240204145728",
+    "date": "2024-02-04",
+    "source": "wayback",
+    "prevTs": "20231008140744",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mixpanel: 1 price changed (removed “$833+ per month”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$833+ per month"
+    ],
+    "totals": {
+      "removed": 25,
+      "added": 23,
+      "materialRemoved": 3,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "mixpanel-com-pricing-20240418223043",
+    "url": "https://mixpanel.com/pricing",
+    "ts": "20240418223043",
+    "date": "2024-04-18",
+    "source": "wayback",
+    "prevTs": "20240204145728",
+    "kind": "price",
+    "score": 16,
+    "counts": {
+      "price": 2,
+      "limit": 3,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Mixpanel: 2 prices, 3 limits, 2 plan names changed (removed “Startups that were founded less than 5 years …”; added “Up to 20M”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "Unlimited",
+      "Up to 20M",
+      "Unlimited",
+      "30 queries / month",
+      "60 queries / month",
+      "300 queries / month"
+    ],
+    "removed": [
+      "Startups: first year is free",
+      "Startups that were founded less than 5 years ago, with up to $8M in total funding, can receive their first year free on the Mixpanel Growth plan.",
+      "It’s free",
+      "$20+ per month",
+      "Default 5 years",
+      "Default 5 years",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 162,
+      "added": 69,
+      "materialRemoved": 8,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "mixpanel-com-pricing-20240612210144",
+    "url": "https://mixpanel.com/pricing",
+    "ts": "20240612210144",
+    "date": "2024-06-12",
+    "source": "wayback",
+    "prevTs": "20240418223043",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mixpanel: 1 price changed (added “Startups that were founded less than 5 years …”)",
+    "pairs": [],
+    "added": [
+      "Startups: first year is free",
+      "Startups that were founded less than 5 years ago, with up to $8M in total funding, can receive their first year free on the Mixpanel Growth plan."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 20,
+      "added": 17,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "mixpanel-com-pricing-20240807054539",
+    "url": "https://mixpanel.com/pricing",
+    "ts": "20240807054539",
+    "date": "2024-08-07",
+    "source": "wayback",
+    "prevTs": "20240612210144",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Mixpanel: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "Get Started Free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 18,
+      "added": 37,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "mixpanel-com-pricing-20241008181542",
+    "url": "https://mixpanel.com/pricing",
+    "ts": "20241008181542",
+    "date": "2024-10-08",
+    "source": "wayback",
+    "prevTs": "20240807054539",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Mixpanel: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 8,
+      "added": 13,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "mixpanel-com-pricing-20241211191701",
+    "url": "https://mixpanel.com/pricing",
+    "ts": "20241211191701",
+    "date": "2024-12-11",
+    "source": "wayback",
+    "prevTs": "20241008181542",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mixpanel: 2 limits changed (added “Up to 1M”)",
+    "pairs": [],
+    "added": [
+      "Up to 1M",
+      "10K / month",
+      "20K / month"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 8,
+      "materialRemoved": 2,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "mixpanel-com-pricing-20250108155623",
+    "url": "https://mixpanel.com/pricing",
+    "ts": "20250108155623",
+    "date": "2025-01-08",
+    "source": "wayback",
+    "prevTs": "20241211191701",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Mixpanel: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 53,
+      "added": 134,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "mixpanel-com-pricing-20250205120331",
+    "url": "https://mixpanel.com/pricing",
+    "ts": "20250205120331",
+    "date": "2025-02-05",
+    "source": "wayback",
+    "prevTs": "20250108155623",
+    "kind": "plans",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Mixpanel: 2 plan names changed",
+    "pairs": [],
+    "added": [
+      "Download Our Free Report",
+      "Download Our Free Report",
+      "Start for Free",
+      "Start for Free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 34,
+      "materialRemoved": 0,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "mixpanel-com-pricing-20250322152111",
+    "url": "https://mixpanel.com/pricing",
+    "ts": "20250322152111",
+    "date": "2025-03-22",
+    "source": "wayback",
+    "prevTs": "20250205120331",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mixpanel: 1 limit changed (20M → 1M)",
+    "pairs": [
+      {
+        "before": "We have the most generous Free plan in the market (20M events) and extensive additional benefits for eligible startups, including your first year free on the Startup Plan and exclusive access to our startup community. Learn More",
+        "after": "We have the best Free plan in the market (1M events) and extensive additional benefits for eligible startups, including your first year free on the Startup Plan and exclusive access to our startup community. Learn More",
+        "confidence": 0.89,
+        "deltas": [
+          {
+            "before": "20M",
+            "after": "1M"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 10,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "mixpanel-com-pricing-20250522043224",
+    "url": "https://mixpanel.com/pricing",
+    "ts": "20250522043224",
+    "date": "2025-05-22",
+    "source": "wayback",
+    "prevTs": "20250322152111",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Mixpanel: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 11,
+      "added": 22,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "mixpanel-com-pricing-20250617110403",
+    "url": "https://mixpanel.com/pricing",
+    "ts": "20250617110403",
+    "date": "2025-06-17",
+    "source": "wayback",
+    "prevTs": "20250522043224",
+    "kind": "price",
+    "score": 37,
+    "counts": {
+      "price": 5,
+      "limit": 4,
+      "plan": 7
+    },
+    "material": true,
+    "headline": "Mixpanel: 5 prices, 4 limits, 7 plan names changed (added “Capped at 1M monthly events. The basics to ge…”)",
+    "pairs": [],
+    "added": [
+      "Get Started Free",
+      "Get Started Free",
+      "No credit card required",
+      "Free forever",
+      "Capped at 1M monthly events. The basics to get started, including up to 5 saved reports and 10K monthly session replays.",
+      "Starts at $0",
+      "1M monthly events free and $.00028 per event after (volume discounts available). Unlimited reports, 20K monthly session replays, cohorts, and more.",
+      "Unlimited monthly events. Advanced analytics, comprehensive data governance and security, premium support, and more.",
+      "$ 0.00",
+      "$ 0.00",
+      "$ 0.00",
+      "$ 0.00",
+      "per 1M events",
+      "Free Plan",
+      "Start Free",
+      "30 queries",
+      "60 queries",
+      "60 queries / month",
+      "300 queries",
+      "300 queries / month",
+      "Get Started Free"
+    ],
+    "removed": [
+      "Download Our Free Ebook",
+      "Download Our Free Ebook",
+      "Start for Free"
+    ],
+    "totals": {
+      "removed": 170,
+      "added": 253,
+      "materialRemoved": 6,
+      "materialAdded": 24
+    }
+  },
+  {
+    "id": "mixpanel-com-pricing-20250711071209",
+    "url": "https://mixpanel.com/pricing",
+    "ts": "20250711071209",
+    "date": "2025-07-11",
+    "source": "wayback",
+    "prevTs": "20250617110403",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Mixpanel: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "mixpanel-com-pricing-20250812205340",
+    "url": "https://mixpanel.com/pricing",
+    "ts": "20250812205340",
+    "date": "2025-08-12",
+    "source": "wayback",
+    "prevTs": "20250711071209",
+    "kind": "price",
+    "score": 13,
+    "counts": {
+      "price": 1,
+      "limit": 2,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Mixpanel: 1 price, 2 limits, 3 plan names changed (00028 → $0.28)",
+    "pairs": [
+      {
+        "before": "1M monthly events free and $.00028 per event after (volume discounts available). Unlimited reports, 20K monthly session replays, cohorts, and more.",
+        "after": "1M monthly events free and $0.28 per 1K events after (volume discounts available). Unlimited reports, 20K monthly session replays, cohorts, and more.",
+        "confidence": 0.94,
+        "deltas": [
+          {
+            "before": "00028",
+            "after": "$0.28"
+          },
+          {
+            "before": "20K",
+            "after": "1K"
+          },
+          {
+            "before": null,
+            "after": "20K"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "per 1K events",
+      "per 1K events",
+      "Get Started Free",
+      "Get Started Free",
+      "Get Started Free"
+    ],
+    "removed": [
+      "per 1M events",
+      "per 1M events"
+    ],
+    "totals": {
+      "removed": 63,
+      "added": 72,
+      "materialRemoved": 3,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "mixpanel-com-pricing-20250904214652",
+    "url": "https://mixpanel.com/pricing",
+    "ts": "20250904214652",
+    "date": "2025-09-04",
+    "source": "wayback",
+    "prevTs": "20250812205340",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mixpanel: 1 limit changed (removed “20K / month”; added “Up to 500K / month”)",
+    "pairs": [],
+    "added": [
+      "Up to 500K / month"
+    ],
+    "removed": [
+      "20K / month"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 18,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "mixpanel-com-pricing-20251014012255",
+    "url": "https://mixpanel.com/pricing",
+    "ts": "20251014012255",
+    "date": "2025-10-14",
+    "source": "wayback",
+    "prevTs": "20250904214652",
+    "kind": "limits",
+    "score": 12,
+    "counts": {
+      "price": 0,
+      "limit": 4,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Mixpanel: 4 limits, 2 plan names changed (removed “Up to 500K / month”; added “First 1M Free”)",
+    "pairs": [],
+    "added": [
+      "First 1M Free",
+      "First 1M Free",
+      "Up to 20M",
+      "10K Free / month",
+      "10K / month",
+      "20K free / month. Customizable (up to 500k)",
+      "20K Free / month. Customizable"
+    ],
+    "removed": [
+      "Up to 500K / month"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 15,
+      "materialRemoved": 1,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "mixpanel-com-pricing-20260413134831",
+    "url": "https://mixpanel.com/pricing",
+    "ts": "20260413134831",
+    "date": "2026-04-13",
+    "source": "wayback",
+    "prevTs": "20251014012255",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Mixpanel: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "10K / month"
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 48,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "mixpanel-com-pricing-20260809114927",
+    "url": "https://mixpanel.com/pricing",
+    "ts": "20260809114927",
+    "date": "2026-08-09",
+    "source": "wayback",
+    "prevTs": "20260413134831",
+    "kind": "price",
+    "score": 15,
+    "counts": {
+      "price": 1,
+      "limit": 3,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Mixpanel: 1 price, 3 limits, 3 plan names changed (removed “Capped at 1M monthly events. The basics to ge…”; added “Up to 1M events / month”)",
+    "pairs": [],
+    "added": [
+      "Explore product analytics for free. No credit card required.",
+      "Up to 1M events / month",
+      "10K session replays / month",
+      "Funnels, cohorts & unlimited saved metrics",
+      "Up to 20M events / month",
+      "Up to 500K session replays / month",
+      "10K / month"
+    ],
+    "removed": [
+      "Get Started Free",
+      "Get Started Free",
+      "Get Started Free",
+      "No credit card required",
+      "Capped at 1M monthly events. The basics to get started, including up to 5 saved reports and 10K monthly session replays.",
+      "1M monthly events free and $0.28 per 1K events after (volume discounts available). Unlimited reports, 20K monthly session replays free, cohorts, and more.",
+      "Unlimited monthly events. Advanced analytics, comprehensive data governance and security, premium support, and more."
+    ],
+    "totals": {
+      "removed": 336,
+      "added": 32,
+      "materialRemoved": 7,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "mixpanel-com-pricing-20260902202107",
+    "url": "https://mixpanel.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260809114927",
+    "kind": "price",
+    "score": 64,
+    "counts": {
+      "price": 10,
+      "limit": 16,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Mixpanel: 10 prices, 16 limits, 1 plan name changed (20M → 1M)",
+    "pairs": [
+      {
+        "before": "Up to 20M",
+        "after": "Up to 1M",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "20M",
+            "after": "1M"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Unlimited seats",
+      "5k MEU / month included",
+      "Up to 100k MEU / month for experiments",
+      "5k MEU / month included",
+      "Up to 100k MEU / month for experiments",
+      "Unlimited saved cohorts, metrics, & reports",
+      "Up to 5 alerts",
+      "Unlimited alerts & anomaly detection",
+      "Startups: the full power of Mixpanel, free",
+      "$ 120",
+      "$ 140",
+      "18 M",
+      "Save $480/yr with annual billing",
+      "$ 120",
+      "$ 140",
+      "18 M",
+      "Save $480/yr with annual billing",
+      "20k monthly sessions, customizable",
+      "5k MEU / month",
+      "Unlimited",
+      "up to 20M",
+      "Unlimited",
+      "20k monthly sessions",
+      "20k monthly sessions, customizable",
+      "1k MEU / month",
+      "5k MEU / month",
+      "Unlimited",
+      "Up to 1M",
+      "First 1M free",
+      "up to 20M",
+      "Unlimited",
+      "20k monthly sessions",
+      "20k monthly sessions, customizable",
+      "1k MEU / month",
+      "5k MEU / month",
+      "7-365 days",
+      "7-365 days"
+    ],
+    "removed": [
+      "Funnels, cohorts & unlimited saved metrics",
+      "Startups: first year is free",
+      "$ 0.00",
+      "$ 0.00",
+      "$ 0.00",
+      "$ 0.00",
+      "60 queries / month",
+      "60 queries",
+      "60 queries / month",
+      "300 queries / month",
+      "300 queries",
+      "300 queries / month",
+      "20K free / month. Customizable (up to 500k)"
+    ],
+    "totals": {
+      "removed": 61,
+      "added": 420,
+      "materialRemoved": 27,
+      "materialAdded": 51
+    },
+    "transition": true
+  }
+]

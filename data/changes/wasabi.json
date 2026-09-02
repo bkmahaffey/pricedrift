@@ -1,0 +1,301 @@
+[
+  {
+    "id": "wasabi-com-pricing-faq-20250625154026",
+    "url": "https://wasabi.com/pricing/faq",
+    "ts": "20250625154026",
+    "date": "2025-06-25",
+    "source": "wayback",
+    "prevTs": "20250115012805",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Wasabi: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "wasabi-com-pricing-20260402070650",
+    "url": "https://wasabi.com/pricing",
+    "ts": "20260402070650",
+    "date": "2026-04-02",
+    "source": "wayback",
+    "prevTs": "20240531045159",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Wasabi: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Purchase in 1, 3, or 5 year increments"
+    ],
+    "totals": {
+      "removed": 30,
+      "added": 13,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "wasabi-com-pricing-20260602060206",
+    "url": "https://wasabi.com/pricing",
+    "ts": "20260602060206",
+    "date": "2026-06-02",
+    "source": "wayback",
+    "prevTs": "20260402070650",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Wasabi: 1 price changed (added “Price increases to $7.99/TB/month on July 1, …”)",
+    "pairs": [],
+    "added": [
+      "Price increases to $7.99/TB/month on July 1, 2026"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "wasabi-com-pricing-20260708171856",
+    "url": "https://wasabi.com/pricing",
+    "ts": "20260708171856",
+    "date": "2026-07-08",
+    "source": "wayback",
+    "prevTs": "20260602060206",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 4,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Wasabi: 4 prices changed ($6.99 → $7.99)",
+    "pairs": [
+      {
+        "before": "See the incredible savings for yourself. Use our cost calculator to compare our flat-rate (starting at $6.99 per TB/month) Wasabi Hot Cloud Storage against the hyperscalers.",
+        "after": "See the incredible savings for yourself. Use our cost calculator to compare our flat-rate (starting at $7.99 per TB/month) Wasabi Hot Cloud Storage against the hyperscalers.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$6.99",
+            "after": "$7.99"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$7.99"
+    ],
+    "removed": [
+      "$6.99",
+      "Price increases to $7.99/TB/month on July 1, 2026"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 4,
+      "materialRemoved": 5,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "wasabi-com-pricing-faq-20260724163720",
+    "url": "https://wasabi.com/pricing/faq",
+    "ts": "20260724163720",
+    "date": "2026-07-24",
+    "source": "wayback",
+    "prevTs": "20250625154026",
+    "kind": "price",
+    "score": 48,
+    "counts": {
+      "price": 14,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Wasabi: 14 prices, 3 limits changed (0068GB → 0078GB; $6.99 → $7.99)",
+    "pairs": [
+      {
+        "before": "($.0068 GB/mo)",
+        "after": "($.0078 GB/mo)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "0068GB",
+            "after": "0078GB"
+          }
+        ]
+      },
+      {
+        "before": "$6.99 TB/mo",
+        "after": "$7.99 TB/mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$6.99",
+            "after": "$7.99"
+          }
+        ]
+      },
+      {
+        "before": "$6.99 TB/mo",
+        "after": "$7.99 TB/mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$6.99",
+            "after": "$7.99"
+          }
+        ]
+      },
+      {
+        "before": "Wasabi Pay as You Go pricing is based on $ per TB per month ($/TB/mo) that is based on a per GB per day value. Below is an example of how Wasabi’s US & Europe region Pay as You Go pricing ($6.99/TB/mo) breaks out on a GB/mo and GB/day.",
+        "after": "Wasabi Pay as You Go pricing is based on $ per TB per month ($/TB/mo) that is based on a per GB per day value. Below is an example of how Wasabi’s US & Europe region Pay as You Go pricing ($7.99/TB/mo) breaks out on a GB/mo and GB/day.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$6.99",
+            "after": "$7.99"
+          }
+        ]
+      },
+      {
+        "before": "– TB/mo price: ($6.99) / (1024 GB per TB) = $.0068 GB/mo",
+        "after": "– TB/mo price: ($7.99) / (1024 GB per TB) = $.0078 GB/mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$6.99",
+            "after": "$7.99"
+          },
+          {
+            "before": "0068GB",
+            "after": "0078GB"
+          }
+        ]
+      },
+      {
+        "before": "– TB/mo price: ($6.99) / (1024 GB per TB) / (30 days in a month) = $.00022754 GB/day",
+        "after": "– TB/mo price: ($7.99) / (1024 GB per TB) / (30 days in a month) = $.000260091 GB/Day",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$6.99",
+            "after": "$7.99"
+          },
+          {
+            "before": "00022754GB",
+            "after": "000260091GB"
+          }
+        ]
+      },
+      {
+        "before": "– Wasabi’s total charges of $6.99 are ~82% less than AWS S3’s total charge of $32.55",
+        "after": "– Wasabi's total charges of $818 are ~80% less than AWS S3's total charge of $4,097",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$6.99",
+            "after": "$818"
+          },
+          {
+            "before": "$32.55",
+            "after": "$4,097"
+          }
+        ]
+      },
+      {
+        "before": "To better explain this comparison statement, let’s consider a simple example for 1 TB of storage and 10% of this storage downloaded per month (100 GB):",
+        "after": "Example: To better explain this comparison statement, let’s consider a simple example for 100 TB of storage and 20% of this storage downloaded per month (20TB):",
+        "confidence": 0.94,
+        "deltas": [
+          {
+            "before": "1TB",
+            "after": "100TB"
+          },
+          {
+            "before": "10",
+            "after": "20"
+          },
+          {
+            "before": "100GB",
+            "after": "20TB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$7.99/mo",
+      "($0.0078 GB/mo)",
+      "($0.0078 GB/mo)",
+      "– AWS S3 = ($0.023/GB/month*1024GB*100) + ($0.09/GB egress*19,900GB [20% of 100TB, minus first 100GB free]) = $4,097*",
+      "– Wasabi ($0.00799/GB/month*1024GB*100) + ($0.00/GB egress) = $818"
+    ],
+    "removed": [
+      "$6.99 TB/mo",
+      "($.0068 GB/mo)",
+      "($.0068 GB/mo)",
+      "– AWS S3 = [$.023/GB/mo(storage)*1024 GB/TB] + [$.09/GB(egress) * 100 GB] = $32.55",
+      "– Wasabi = $6.99/TB/mo(storage)+ $0/GB(egress) = $6.99"
+    ],
+    "totals": {
+      "removed": 13,
+      "added": 13,
+      "materialRemoved": 13,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "wasabi-com-pricing-faq-20260902202107",
+    "url": "https://wasabi.com/pricing/faq",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260724163720",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Wasabi: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

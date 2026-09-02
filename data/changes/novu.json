@@ -1,0 +1,1014 @@
+[
+  {
+    "id": "novu-co-pricing-20240127193631",
+    "url": "https://novu.co/pricing/",
+    "ts": "20240127193631",
+    "date": "2024-01-27",
+    "source": "wayback",
+    "prevTs": "20230323082041",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Novu: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "We plan to convert to the paid version of Novu sometime in 2024. We will ensure that we contact all of our customers at least 2 months before the switch so that you have plenty of time to ensure your systems are not impacted."
+    ],
+    "removed": [
+      "*During Open Beta, all tariffs except Enterprise are free to use."
+    ],
+    "totals": {
+      "removed": 19,
+      "added": 16,
+      "materialRemoved": 5,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "novu-co-pricing-20240403160914",
+    "url": "https://novu.co/pricing/",
+    "ts": "20240403160914",
+    "date": "2024-04-03",
+    "source": "wayback",
+    "prevTs": "20240127193631",
+    "kind": "price",
+    "score": 33,
+    "counts": {
+      "price": 5,
+      "limit": 8,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Novu: 5 prices, 8 limits, 1 plan name changed (20K → 50K; 10K → 30K)",
+    "pairs": [
+      {
+        "before": "20K events/month included",
+        "after": "50K events/month included",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "20K",
+            "after": "50K"
+          }
+        ]
+      },
+      {
+        "before": "Yes, you can. If you send less than 10K events per month, then Novu Cloud is entirely free. Another option is to deploy the Open-Source version of Novu onto your own infrastructure, but that does not give you the unique SLA and global redundancy we have in the Cloud version of Novu.",
+        "after": "Yes, you can. If you send less than 30K events per month, then Novu Cloud is entirely free. Another option is to deploy the Open-Source version of Novu onto your own infrastructure, but that does not give you the unique SLA and global redundancy we have in the Cloud version of Novu.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10K",
+            "after": "30K"
+          }
+        ]
+      },
+      {
+        "before": "60K events/month included",
+        "after": "30K events/month included",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "60K",
+            "after": "30K"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 250",
+      "$3.00 per 1000 additional events",
+      "Unlimited Workflows",
+      "Unlimited Providers",
+      "Unlimited Subscribers",
+      "Unlimited Team Members",
+      "30K N/A 60RPS Unlimited",
+      "7 days Chat 5 business days 99.9%",
+      "50K Starts at $3.00 per 1000 additional monthly events 600RPS Unlimited",
+      "30 days Coming Soon Chat + Email 2 business days 99.9%",
+      "Custom Custom Custom Unlimited"
+    ],
+    "removed": [
+      "Up to 10K events a month",
+      "$ 25",
+      "$ 200",
+      "Get started for free",
+      "Unlimited 0 10K Unlimited 10 6 All 2",
+      "30 days",
+      "Unlimited 20K Up to 100K Unlimited 10 6 All 2",
+      "Unlimited 60K Up to 5M Unlimited Unlimited Unlimited All Unlimited",
+      "Unlimited 1M Unlimited Unlimited Unlimited Unlimited All Unlimited",
+      "3 years"
+    ],
+    "totals": {
+      "removed": 61,
+      "added": 40,
+      "materialRemoved": 13,
+      "materialAdded": 14
+    }
+  },
+  {
+    "id": "novu-co-pricing-20240712203949",
+    "url": "https://novu.co/pricing/",
+    "ts": "20240712203949",
+    "date": "2024-07-12",
+    "source": "wayback",
+    "prevTs": "20240403160914",
+    "kind": "price",
+    "score": 20,
+    "counts": {
+      "price": 4,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Novu: 4 prices, 4 limits changed (50K → 250K; 1M → 5M)",
+    "pairs": [
+      {
+        "before": "50K events/month included",
+        "after": "250K events/month included",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50K",
+            "after": "250K"
+          }
+        ]
+      },
+      {
+        "before": "1M events/month included",
+        "after": "5M events/month included",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1M",
+            "after": "5M"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0.0012 per additional event",
+      "7 days Community via Discord 99.9%",
+      "250K $0.0012 per additional event over 250k 600RpS Unlimited",
+      "5M Custom Custom Unlimited"
+    ],
+    "removed": [
+      "$3.00 per 1000 additional events",
+      "7 days Chat 5 business days 99.9%",
+      "50K Starts at $3.00 per 1000 additional monthly events 600RPS Unlimited",
+      "Custom Custom Custom Unlimited",
+      "We plan to convert to the paid version of Novu sometime in 2024. We will ensure that we contact all of our customers at least 2 months before the switch so that you have plenty of time to ensure your systems are not impacted."
+    ],
+    "totals": {
+      "removed": 11,
+      "added": 9,
+      "materialRemoved": 9,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "novu-co-pricing-20241217184229",
+    "url": "https://novu.co/pricing/",
+    "ts": "20241217184229",
+    "date": "2024-12-17",
+    "source": "wayback",
+    "prevTs": "20240712203949",
+    "kind": "price",
+    "score": 26,
+    "counts": {
+      "price": 4,
+      "limit": 6,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Novu: 4 prices, 6 limits, 1 plan name changed (removed “$0.0012 per additional event”; added “$1.20 per 1,000 additional events”)",
+    "pairs": [],
+    "added": [
+      "Free A generous free tier for testing and evaluation, or smaller requirements.",
+      "$1.20 per 1,000 additional events",
+      "30k - 60/20/30 per second Unlimited Nov 2024 Q1 2025",
+      "Unlimited Unlimited 30 days Nov 2024",
+      "250k $1.20 per 1,000 600/200/300 per second Nov 2024 Q1 2025 Q1 2025",
+      "Unlimited Unlimited 90 days Nov 2024",
+      "Unlimited Q2 2025",
+      "5 million Custom 6k/2k/3k per second Nov 2024 Q1 2025 Q1 2025",
+      "Unlimited Unlimited Unlimited Nov 2024",
+      "Unlimited Q2 2025",
+      "Novu creates one event per topic subscriber, this means that a workflow trigger to a topic with 100 subscribers creates 100 events.",
+      "Our cloud uptime SLA is 99.99%. We also offer a support ticket SLA for our Business and Enterprise tier plans, which includes a private Slack channel with our support team. Free tier and the Novu Project are supported via Discord"
+    ],
+    "removed": [
+      "Free For testing and evaluation or small-scale deployments.",
+      "$0.0012 per additional event",
+      "Unlimited Workflows",
+      "Unlimited Providers",
+      "Unlimited Subscribers",
+      "Unlimited Team Members",
+      "30K N/A 60RpS Unlimited",
+      "90 days",
+      "7 days Community via Discord 99.9%",
+      "250K $0.0012 per additional event over 250k 600RpS Unlimited",
+      "1 year",
+      "30 days Coming Soon Private Chat + Email 2 business days 99.9%",
+      "5M Custom Custom Unlimited",
+      "Yes, we do. Enterprise plans are available for teams who require extended enterprise-grade features, and specific SLAs or have unique concerns about PII, security, insurance, or legal. Feel free to reach out to us over Intercom, or send us an email at sales@novu.co",
+      "We sure do! First of all we promise uptime SLA for our cloud system for 99.99%. We also offer an initial 2 days support SLA, but most enquiries on our Intercom or Discord"
+    ],
+    "totals": {
+      "removed": 57,
+      "added": 72,
+      "materialRemoved": 15,
+      "materialAdded": 12
+    }
+  },
+  {
+    "id": "novu-co-pricing-20250121214204",
+    "url": "https://novu.co/pricing/",
+    "ts": "20250121214204",
+    "date": "2025-01-21",
+    "source": "wayback",
+    "prevTs": "20241217184229",
+    "kind": "price",
+    "score": 14,
+    "counts": {
+      "price": 2,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Novu: 2 prices, 4 limits changed (60 → 2; 2024 removed)",
+    "pairs": [
+      {
+        "before": "30k - 60/20/30 per second Unlimited Nov 2024 Q1 2025",
+        "after": "30k - 2 60/20/30 per second Unlimited",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "60",
+            "after": "2"
+          },
+          {
+            "before": "20",
+            "after": "60"
+          },
+          {
+            "before": "30",
+            "after": "20"
+          },
+          {
+            "before": "2024",
+            "after": "30"
+          },
+          {
+            "before": "1",
+            "after": null
+          },
+          {
+            "before": "2025",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "Unlimited Unlimited 30 days Nov 2024",
+        "after": "Unlimited Unlimited 30 days",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "2024",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "Unlimited Unlimited 90 days Nov 2024",
+        "after": "Unlimited Unlimited 90 days",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "2024",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "5 million Custom 6k/2k/3k per second Nov 2024 Q1 2025 Q1 2025",
+        "after": "5 million Custom Unlimited 6k/2k/3k per second Unlimited Q1 2025",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "2024",
+            "after": "1"
+          },
+          {
+            "before": "1",
+            "after": "2025"
+          },
+          {
+            "before": "2025",
+            "after": null
+          },
+          {
+            "before": "1",
+            "after": null
+          },
+          {
+            "before": "2025",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "250k $1.20 per 1,000 10 600/200/300 per second Unlimited Q1 2025",
+      "Unlimited Unlimited Unlimited"
+    ],
+    "removed": [
+      "250k $1.20 per 1,000 600/200/300 per second Nov 2024 Q1 2025 Q1 2025",
+      "Unlimited Unlimited Unlimited Nov 2024"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 7,
+      "materialRemoved": 6,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "novu-co-pricing-20250303210631",
+    "url": "https://novu.co/pricing/",
+    "ts": "20250303210631",
+    "date": "2025-03-03",
+    "source": "wayback",
+    "prevTs": "20250121214204",
+    "kind": "price",
+    "score": 32,
+    "counts": {
+      "price": 4,
+      "limit": 6,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Novu: 4 prices, 6 limits, 4 plan names changed (30k → 10k; 250k → $250)",
+    "pairs": [
+      {
+        "before": "30k - 2 60/20/30 per second Unlimited",
+        "after": "Free Free 10k 60/20/30 per second Unlimited 20 Unlimited 24 hours 24 hours 24 hours",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "30k",
+            "after": "10k"
+          },
+          {
+            "before": "2",
+            "after": "60"
+          },
+          {
+            "before": "60",
+            "after": "20"
+          },
+          {
+            "before": "20",
+            "after": "30"
+          },
+          {
+            "before": "30",
+            "after": "20"
+          },
+          {
+            "before": null,
+            "after": "24"
+          },
+          {
+            "before": null,
+            "after": "24"
+          },
+          {
+            "before": null,
+            "after": "24"
+          }
+        ]
+      },
+      {
+        "before": "250k $1.20 per 1,000 10 600/200/300 per second Unlimited Q1 2025",
+        "after": "$250 $2,700 250k $1.20 per 1,000 600/200/300 per second Unlimited Unlimited Unlimited 90 days 90 days 90 days",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "250k",
+            "after": "$250"
+          },
+          {
+            "before": "$1.20",
+            "after": "$2,700"
+          },
+          {
+            "before": "1,000",
+            "after": "250k"
+          },
+          {
+            "before": "10",
+            "after": "$1.20"
+          },
+          {
+            "before": "600",
+            "after": "1,000"
+          },
+          {
+            "before": "200",
+            "after": "600"
+          },
+          {
+            "before": "300",
+            "after": "200"
+          },
+          {
+            "before": "1",
+            "after": "300"
+          },
+          {
+            "before": "2025",
+            "after": "90"
+          },
+          {
+            "before": null,
+            "after": "90"
+          },
+          {
+            "before": null,
+            "after": "90"
+          }
+        ]
+      },
+      {
+        "before": "5 million Custom Unlimited 6k/2k/3k per second Unlimited Q1 2025",
+        "after": "Contact Us Contact Us 5 million Custom 6k/2k/3k per second Unlimited Unlimited Unlimited Unlimited Unlimited Unlimited",
+        "confidence": 0.83,
+        "deltas": [
+          {
+            "before": "1",
+            "after": null
+          },
+          {
+            "before": "2025",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free",
+      "Start for free. Essential features, no limits on subscribers.",
+      "10K events/month included",
+      "Unlimited Subscribers",
+      "2 Environments",
+      "Activity Feed Retention: 24 hours",
+      "$30",
+      "Start Free Trial",
+      "All in Free, plus...",
+      "Activity Feed Retention: 7 days",
+      "Start Free Trial",
+      "Up to 10 Environments",
+      "Unlimited Workflows",
+      "Unlimited Team Members",
+      "Unlimited power. Built for scale.",
+      "Unlimited Environments",
+      "Unlimited Activity Feed Retention",
+      "$30 $330 30k $1.20 per 1,000 240/80/120 per second Unlimited 20 Unlimited 7 days 7 days 7 days",
+      "Create a free account, send your first notification, all before your coffee gets cold... no credit card required."
+    ],
+    "removed": [
+      "Free A generous free tier for testing and evaluation, or smaller requirements.",
+      "Get started for free",
+      "$1.20 per 1,000 additional events",
+      "Get started for free",
+      "Unlimited Unlimited 30 days",
+      "Unlimited Unlimited Unlimited",
+      "Novu creates one event per topic subscriber, this means that a workflow trigger to a topic with 100 subscribers creates 100 events.",
+      "Our cloud uptime SLA is 99.99%. We also offer a support ticket SLA for our Business and Enterprise tier plans, which includes a private Slack channel with our support team. Free tier and the Novu Project are supported via Discord",
+      "Yes, you can. If you send less than 30K events per month, then Novu Cloud is entirely free. Another option is to deploy the Open-Source version of Novu onto your own infrastructure, but that does not give you the unique SLA and global redundancy we have in the Cloud version of Novu."
+    ],
+    "totals": {
+      "removed": 56,
+      "added": 61,
+      "materialRemoved": 15,
+      "materialAdded": 25
+    }
+  },
+  {
+    "id": "novu-co-pricing-20250405135236",
+    "url": "https://novu.co/pricing/",
+    "ts": "20250405135236",
+    "date": "2025-04-05",
+    "source": "wayback",
+    "prevTs": "20250303210631",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Novu: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Everything in Free, plus...",
+      "Unlimited Workflows"
+    ],
+    "removed": [
+      "All in Free, plus...",
+      "Unlimited Workflows",
+      "Unlimited Activity Feed Retention"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 9,
+      "materialRemoved": 4,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "novu-co-pricing-20250514063429",
+    "url": "https://novu.co/pricing/",
+    "ts": "20250514063429",
+    "date": "2025-05-14",
+    "source": "wayback",
+    "prevTs": "20250405135236",
+    "kind": "limits",
+    "score": 12,
+    "counts": {
+      "price": 0,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Novu: 6 limits changed (60 → 20; 240 → 20)",
+    "pairs": [
+      {
+        "before": "Free Free 10k 60/20/30 per second Unlimited 20 Unlimited 24 hours 24 hours 24 hours",
+        "after": "Free Free 10k Unlimited 20 Unlimited 24 hours 24 hours 24 hours",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "60",
+            "after": "20"
+          },
+          {
+            "before": "20",
+            "after": "24"
+          },
+          {
+            "before": "30",
+            "after": "24"
+          },
+          {
+            "before": "20",
+            "after": "24"
+          },
+          {
+            "before": "24",
+            "after": null
+          },
+          {
+            "before": "24",
+            "after": null
+          },
+          {
+            "before": "24",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$30 $330 30k $1.20 per 1,000 240/80/120 per second Unlimited 20 Unlimited 7 days 7 days 7 days",
+        "after": "From $30 From $330 30k $1.20 per 1,000 Unlimited 20 Unlimited 7 days 7 days 7 days",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "240",
+            "after": "20"
+          },
+          {
+            "before": "80",
+            "after": "7"
+          },
+          {
+            "before": "120",
+            "after": "7"
+          },
+          {
+            "before": "20",
+            "after": "7"
+          },
+          {
+            "before": "7",
+            "after": null
+          },
+          {
+            "before": "7",
+            "after": null
+          },
+          {
+            "before": "7",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$250 $2,700 250k $1.20 per 1,000 600/200/300 per second Unlimited Unlimited Unlimited 90 days 90 days 90 days",
+        "after": "From $250 From $2,700 250k $1.20 per 1,000 Unlimited Unlimited Unlimited 90 days 90 days 90 days",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "600",
+            "after": "90"
+          },
+          {
+            "before": "200",
+            "after": "90"
+          },
+          {
+            "before": "300",
+            "after": "90"
+          },
+          {
+            "before": "90",
+            "after": null
+          },
+          {
+            "before": "90",
+            "after": null
+          },
+          {
+            "before": "90",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "Contact Us Contact Us 5 million Custom 6k/2k/3k per second Unlimited Unlimited Unlimited Custom Custom Custom",
+        "after": "Contact Us Contact Us 5 million Custom Unlimited Unlimited Unlimited Custom Custom Custom",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "6k",
+            "after": null
+          },
+          {
+            "before": "2k",
+            "after": null
+          },
+          {
+            "before": "3k",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Up to 24 hours 30 days",
+      "Up to 90 days 90 days",
+      "Up to 90 days 90 days",
+      "6k 2k 3k"
+    ],
+    "removed": [
+      "Unlimited Subscribers"
+    ],
+    "totals": {
+      "removed": 11,
+      "added": 24,
+      "materialRemoved": 7,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "novu-co-pricing-20250621170412",
+    "url": "https://novu.co/pricing/",
+    "ts": "20250621170412",
+    "date": "2025-06-21",
+    "source": "wayback",
+    "prevTs": "20250514063429",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Novu: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Unlimited",
+      "Unlimited"
+    ],
+    "removed": [
+      "Unlimited Q2 2025",
+      "Unlimited Q2 2025"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "novu-co-pricing-20250811013136",
+    "url": "https://novu.co/pricing/",
+    "ts": "20250811013136",
+    "date": "2025-08-11",
+    "source": "wayback",
+    "prevTs": "20250621170412",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Novu: 1 limit changed (1 added)",
+    "pairs": [
+      {
+        "before": "Free Free 10k Unlimited 20 Unlimited 24 hours 24 hours 24 hours",
+        "after": "Free Free 10k Unlimited 20 Unlimited 24 hours 24 hours 24 hours 1 layout",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": null,
+            "after": "1"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 3,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "novu-co-pricing-20251120011615",
+    "url": "https://novu.co/pricing/",
+    "ts": "20251120011615",
+    "date": "2025-11-20",
+    "source": "wayback",
+    "prevTs": "20250811013136",
+    "kind": "price",
+    "score": 27,
+    "counts": {
+      "price": 3,
+      "limit": 7,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Novu: 3 prices, 7 limits, 2 plan names changed ($330 → 30K; $2,700 → 250K)",
+    "pairs": [
+      {
+        "before": "From $30 From $330 30k $1.20 per 1,000 Unlimited 20 Unlimited 7 days 7 days 7 days",
+        "after": "From $30 30K $1.20 per 1K 20 2 Unlimited 240 7 days",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$330",
+            "after": "30K"
+          },
+          {
+            "before": "30k",
+            "after": "$1.20"
+          },
+          {
+            "before": "$1.20",
+            "after": "1K"
+          },
+          {
+            "before": "1,000",
+            "after": "20"
+          },
+          {
+            "before": "20",
+            "after": "2"
+          },
+          {
+            "before": "7",
+            "after": "240"
+          },
+          {
+            "before": "7",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "From $250 From $2,700 250k $1.20 per 1,000 Unlimited Unlimited Unlimited 90 days 90 days 90 days",
+        "after": "From $250 250K $1.20 per 1K Unlimited Up to 10 Unlimited 600 90 days",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2,700",
+            "after": "250K"
+          },
+          {
+            "before": "250k",
+            "after": "$1.20"
+          },
+          {
+            "before": "$1.20",
+            "after": "1K"
+          },
+          {
+            "before": "1,000",
+            "after": "10"
+          },
+          {
+            "before": "90",
+            "after": "600"
+          },
+          {
+            "before": "90",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "No credit card required",
+      "Expanded rate limits (600 RPS triggers)",
+      "Common use cases: send follow-up emails 24 hours after registration, trigger reminders, schedule notifications for specific dates, or allow users time to cancel actions.",
+      "Includes advanced security (SAML SSO, MFA), compliance (SOC 2, ISO 27001, HIPAA BAA), unlimited provider integrations, custom environments, branding removal, and priority support. Extends open-source capabilities with consumable, scalable infrastructure.",
+      "Deploy via Docker Compose, Kubernetes/Helm, or manual installation. Ideal for organizations with strict data residency requirements, compliance needs, or avoiding vendor lock-in. Includes unlimited retention and community-driven support.",
+      "Self-hosted (Enterprise) Enterprise-grade self-hosted solution that combines full infrastructure control with premium features. Includes auto-translations, unlimited service levels, advanced Redis architecture, and all Enterprise capabilities from Novu Cloud.",
+      "$0 10K — 20 2 Unlimited 60 24h",
+      "30 days 1",
+      "7 days 7 days",
+      "90 days Unlimited",
+      "Unlimited Enhanced",
+      "Custom 5M+ Custom Unlimited Unlimited Unlimited Custom Custom",
+      "Custom Unlimited",
+      "Unlimited Full"
+    ],
+    "removed": [
+      "Start for free. Essential features, no limits on subscribers.",
+      "10K events/month included",
+      "Start Free Trial",
+      "30K events/month included",
+      "Activity Feed Retention: 7 days",
+      "Start Free Trial",
+      "250K events/month included",
+      "Unlimited power. Built for scale.",
+      "Free Free 10k Unlimited 20 Unlimited 24 hours 24 hours 24 hours 1 layout",
+      "Up to 24 hours 30 days",
+      "Up to 90 days 90 days",
+      "Unlimited",
+      "Contact Us Contact Us 5 million Custom Unlimited Unlimited Unlimited Custom Custom Custom",
+      "6k 2k 3k",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 100,
+      "added": 161,
+      "materialRemoved": 27,
+      "materialAdded": 26
+    }
+  },
+  {
+    "id": "novu-co-pricing-20260118094900",
+    "url": "https://novu.co/pricing/",
+    "ts": "20260118094900",
+    "date": "2026-01-18",
+    "source": "wayback",
+    "prevTs": "20251120011615",
+    "kind": "price",
+    "score": 31,
+    "counts": {
+      "price": 8,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Novu: 8 prices, 4 limits changed (removed “Common use cases: send follow-up emails 24 ho…”; added “$0”)",
+    "pairs": [],
+    "added": [
+      "$0",
+      "Unlimited",
+      "30 days",
+      "From $30",
+      "$1.20 per 1K",
+      "Unlimited",
+      "7 days",
+      "Unlimited",
+      "From $250",
+      "$1.20 per 1K",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "removed": [
+      "Common use cases: send follow-up emails 24 hours after registration, trigger reminders, schedule notifications for specific dates, or allow users time to cancel actions.",
+      "Includes advanced security (SAML SSO, MFA), compliance (SOC 2, ISO 27001, HIPAA BAA), unlimited provider integrations, custom environments, branding removal, and priority support. Extends open-source capabilities with consumable, scalable infrastructure.",
+      "Deploy via Docker Compose, Kubernetes/Helm, or manual installation. Ideal for organizations with strict data residency requirements, compliance needs, or avoiding vendor lock-in. Includes unlimited retention and community-driven support.",
+      "Self-hosted (Enterprise) Enterprise-grade self-hosted solution that combines full infrastructure control with premium features. Includes auto-translations, unlimited service levels, advanced Redis architecture, and all Enterprise capabilities from Novu Cloud.",
+      "$0 10K — 20 2 Unlimited 60 24h",
+      "30 days 1",
+      "From $30 30K $1.20 per 1K 20 2 Unlimited 240 7 days",
+      "7 days 7 days",
+      "From $250 250K $1.20 per 1K Unlimited Up to 10 Unlimited 600 90 days",
+      "90 days 90 days",
+      "Unlimited Enhanced",
+      "Custom 5M+ Custom Unlimited Unlimited Unlimited Custom Custom",
+      "Custom Unlimited",
+      "Unlimited Full"
+    ],
+    "totals": {
+      "removed": 101,
+      "added": 101,
+      "materialRemoved": 20,
+      "materialAdded": 21
+    }
+  },
+  {
+    "id": "novu-co-pricing-20260226082352",
+    "url": "https://novu.co/pricing/",
+    "ts": "20260226082352",
+    "date": "2026-02-26",
+    "source": "wayback",
+    "prevTs": "20260118094900",
+    "kind": "limits",
+    "score": 5,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Novu: 3 limits changed (5M → 10M)",
+    "pairs": [
+      {
+        "before": "5M+ workflow runs / month (custom volume tiers)",
+        "after": "10M+ workflow runs / month (custom volume tiers)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "5M",
+            "after": "10M"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "1hr",
+      "24hr",
+      "90 days"
+    ],
+    "removed": [
+      "Unlimited workflows",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 16,
+      "materialRemoved": 3,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "novu-co-pricing-20260608020929",
+    "url": "https://novu.co/pricing/",
+    "ts": "20260608020929",
+    "date": "2026-06-08",
+    "source": "wayback",
+    "prevTs": "20260226082352",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Novu: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 10,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  }
+]

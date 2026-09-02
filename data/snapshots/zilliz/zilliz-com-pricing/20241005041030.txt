@@ -1,0 +1,197 @@
+Zilliz Cloud Pricing
+Scalable pricing designed for every team to fit any budget. Estimate Cost
+Subscribe on Marketplace.
+Amazon Web Services
+Google Cloud Platform
+Microsoft Azure
+Free
+A starting point for learning, experimenting, and prototyping, with easy migration to paid plans.
+Quick Start
+5 GB storage
+Enough for 1M 768 dim vectors.
+2.5M vCUs
+A virtual compute unit (vCU) is used to measure the resources consumed by read operations (such as search and query) and write operations (such as insert, upsert, and delete). The read and write costs vary for different vCU usage.
+per month included
+Up to 5 collections
+Serverless
+For applications with variable or infrequent traffic. Minimal configuration required.
+$4 / Million vCUs
+A virtual compute unit (vCU) is used to measure the resources consumed by read operations (such as search and query) and write operations (such as insert, upsert, and delete). The read and write costs vary for different vCU usage.
+Try Free
+Pay only for what you use
+Auto-scaling
+Up to 100 collections
+View Pricing
+Dedicated
+Offers high control and consistent performance, cost-efficient for development and testing environments.
+From
+$65 /mo. (Up to 30-day free trial)
+Try Free
+Multiple cloud providers and regions
+Use case-optimized CU types
+Basic metrics and monitors
+View Pricing
+BYOC
+Designed for organizations prioritizing custom infrastructure, enhanced data protection, and compliance.
+Deploy on your infra of choice
+Enhanced data control and security
+Flexibility and scalability on demand
+Contact Us
+View Plan Feature Details
+Free
+Quick Start
+Serverless
+Try Free
+Dedicated ( Standard)
+Try Free
+Dedicated ( Enterprise)
+Try Free
+Deployment
+Environment
+Shared
+Dedicated
+CU options
+Performance-optimized CU For scenarios requiring low latency and high throughput. Each CU can handle about 1.5 million 768-dim vectors.
+Capacity-optimized CU For scenarios requiring enhanced storage capabilities. Each CU can handle about 5 million 768-dim vectors.
+Public cloud provider
+Google Cloud
+AWS, Google Cloud, Azure
+Scale
+Scale up and down with zero downtime.
+Auto-scale
+Easy scale to
+32 CUs
+Easy scale to
+256 CUs or more
+Uptime SLA
+Guaranteed uptime for production workloads.
+99.95%
+Support
+Community support
+Email support
+Response time SLAs
+Urgent
+4 hours
+1 hour
+High
+1 business day
+4 hours
+Normal
+2 business days
+1 business day
+Technical contacts
+Up to 1
+Up to 4
+High Availability
+Availability zone
+Single
+Multiple
+Multi-cloud, multi-region disaster recovery
+Zilliz Cloud automatically distributes data across multiple cloud service providers and regions, using distributed technology to ensure consistency among all replica data. In the event of a failure, it quickly switches to other replicas.
+Coming Soon
+Data Security & Compliance
+OAuth 2.0
+SSO
+Streamlined user authentication.
+Public Preview
+MFA
+Auditing
+API key management
+Data encryption in transit and at rest
+Backup and restore
+IP address access control
+Private networking
+Private connection between your VPC and Zilliz Cloud VPC.
+SOC 2 Type II and ISO/ICE 27001 compliant, GDPR and HIPPA ready
+Monitoring & Operations
+Basic metrics with monitoring dashboards
+Metrics to monitor performance, storage, usage, data statistics, etc.
+Monitor integration and APIs
+Monitoring API for custom integrations (Prometheus, Datadog).
+Coming Soon
+Alerts
+Threshold-based alerts covering resource utilization, performance, failures, billings, etc.
+Organization & Member Management
+Organization management
+Organization settings and user management.
+Project management
+Multi-projects and collaborator management.
+Single project with basic collaborator management
+Multi-projects and collaborator management.
+Organization and project RBAC
+Role-based access control at both organization and project levels.
+Data plane RBAC
+Data layer RBAC enables precise permission control over collections, partitions, and operations, enhancing security and operational alignment.
+Data Management
+Cross-tier data migration
+Easy migration from Free tier, Serverless, and Standard.
+From Free tier
+From Free tier and Serverless
+From Free tier, Serverless & Standard
+Migration from external sources
+Easy migration from Milvus, Elastic Search, MongoDB, Redis, Weaviate, Qdrant, Chroma, etc.
+High speed data import
+High speed data import from object storage like S3.
+Recycle bin
+Dropped collections will be retained for 30 days to facilitate easy recovery.
+Pipelines
+Data source connectors
+Both batch and streaming data source are supported.
+Ingestion pipelines
+Ingestion pipelines transform your unstructured data to a searchable vector collection, streamlining doc parsing, chunking, embedding, vector indexing processes.
+Search pipelines
+Search on text and image and supports advanced retrieval strategies such as dense and sparse embedding, multi-stage retrieval and reranking.
+Show More
+Pipelines
+Streamline embedding, vector ingestion, search and reranking in one API service. Pipelines support data types including file, text and image, with open-source and 3rd party models. Skip the hassle of DevOps while enjoying the pay-as-you-go pricing.
+View Pricing
+Estimate Your Cost
+Use this calculator to understand how Zilliz Cloud charges.
+Dedicated
+Serverless
+Cloud Provider
+Amazon Web Services
+Cloud Region
+us-east-1
+Pricing Plan
+Standard Suitable for applications in POC or dev with customizable workload management. Advanced configuration options.
+CU Type
+Performance-optimized For scenarios requiring low latency and high throughput. Each CU can handle about 1.5 million 768-dim vectors.
+Number of Entities
+Entities are data records sharing the same set of fields. An entity contains vector fields and scalar fields.
+Million
+Vector Dimensions
+Scalar Field
+Our pricing calculator is built around vectors. If your dataset contains non-vector fields (such as int, string, json, etc.), you can click " + Scalar Field " and provide the information to get a more precise cost estimation.
+For more information about CU sizes, see docs
+.
+CU Cost ( CU)
+CU Usage 0 CU
+Unit Price $0/CU
+$/mo.
+Storage Cost ( GB)
+Storage Usage 0 GB
+Unit Price $0/GB
+$/mo.
+Total Cost (Excl. Tax)
+$ /mo.
+Try Free
+Contact us
+Acknowledgement: Prices are estimates only and are not intended as actual price quotes. Actual pricing may vary depending on a variety of factors, including your actual usage of services.
+Frequently Asked Questions
+What is a Compute Unit (CU)?
+A compute unit (CU) is a group of hardware resources for serving your indexes and search requests. You can simply consider a CU as a fully-managed physical node for deploying search service.
+What is a vCU?
+A virtual compute unit (vCU) is used to measure the resources consumed by read operations (such as search and query) and write operations (such as insert, upsert, and delete). The read and write costs vary for different vCU usage. The read and write costs
+vary for different vCU usage
+Which type of CU should I pick?
+Select the Performance-optimized CU if you require high throughput and low latency for demanding use cases. Alternatively, choose the Capacity-optimized CU if your priority is to host large volumes of data with less concern for throughput and latency, as it offers a better balance of performance and cost.
+How many CUs do I need for a given collection?
+Performance-optimized CU: Supports up to 1.5 million 768-dimensional vectors.
+Capacity-optimized CU: Supports up to 5 million 768-dimensional vectors.
+These estimates are based on vectors with primary keys only. Additional scalar fields like IDs or labels may reduce capacity. We recommend conducting your own tests for accurate assessment.
+How can I get Zilliz Cloud discounts?
+When you commit to an annual plan, you can get additional credits based on your usage.
+How can I request a new cloud region?
+To request a new cloud service provider region for Zilliz Cloud, please fill out the form
+.

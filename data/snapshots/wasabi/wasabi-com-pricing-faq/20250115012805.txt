@@ -1,0 +1,105 @@
+Pricing FAQs
+Pricing FAQs for Wasabi’s Pay as You Go Pricing Model
+Below are frequently asked questions pertaining to our Pay as You Go pricing model. Additional information on Wasabi’s pricing, billing, and payment policies may be found in this section
+of the Wasabi Knowledge Base.
+1. How much does Wasabi cost via the Pay as You Go pricing model?
+The price associated with our Pay as You Go pricing model is summarized in the table below. This price does not include applicable taxes or additional optional services such as Wasabi’s Premium Support
+plan, Wasabi Direct Connect
+and Wasabi Ball Transfer Appliance
+.
+North America
+EMEA
+APAC
+Wasabi Object Storage
+$6.99 TB/mo
+($.0068 GB/mo)
+Ingress Data Transfer = Free*
+Egress Data Transfer = Free*
+API Requests = Free*
+$6.99 TB/mo
+($.0068 GB/mo)
+Ingress Data Transfer = Free*
+Egress Data Transfer = Free*
+API Requests = Free*
+$6.99 TB/mo
+($.0068 GB/mo)
+Ingress Data Transfer = Free*
+Egress Data Transfer = Free*
+API Requests = Free*
+Wasabi Cloud NAS
+$8.99 TB/mo
+($.0088 GB/mo)
+Ingress Data Transfer = Free*
+Egress Data Transfer = Free*
+API Requests = Free*
+$8.99 TB/mo
+($.0088 GB/mo)
+Ingress Data Transfer = Free*
+Egress Data Transfer = Free*
+API Requests = Free*
+$8.99 TB/mo
+($.0088 GB/mo)
+Ingress Data Transfer = Free*
+Egress Data Transfer = Free*
+API Requests = Free*
+Wasabi Surveillance Cloud
+Contact Sales
+Wasabi AiR
+Available only via RCS pricing model
+*subject to Wasabi's free egress and API request policies
+2. How are my Wasabi service charges calculated via the Pay as You Go pricing model?
+For customers using the Wasabi Pay as You Go pricing model, Wasabi service charges are calculated in accordance with the terms described below. For additional details and an invoice example, please refer to this knowledge base article
+.
+Timed Active Storage: This item is the amount of active storage that is stored with Wasabi for the billing cycle.
+Timed Deleted Storage: This item is the amount of deleted storage that has not yet reached the minimum storage retention period with Wasabi for the billing cycle. For more info on how Wasabi’s minimum storage retention policy works, please review this article
+.
+Data Transfer (In): The amount of data transfer in (ingress) to the Wasabi service from your application. Wasabi does not charge this usage but displays the volume of data transfer on your invoice.
+Data Transfer (Out): The amount of data transfer out (egress) from the Wasabi service to your application. Wasabi does not charge this usage but displays the volume of data transfer on your invoice.
+API Requests: The amount of API requests from your application to the Wasabi service. Wasabi does not charge this usage but displays the volume of API requests on your invoice.
+Minimum Active Storage: In the event the Timed Active Storage charge is less than the monthly minimum, a charge for the difference between Wasabi’s monthly minimum and the monthly Timed Active Storage is applied.
+3. Does Wasabi have a minimum monthly storage charge?
+For customers using the Wasabi Pay as You Go pricing model, Wasabi has a minimum monthly charge associated with 1 TB of active storage (Note – For Wasabi Cloud NAS product, the min monthly charge is associated with 10TB of active storage). If you store less than 1 TB of active storage in your account, you will still be charged for 1 TB of storage based on the pricing associated with the storage region you are using. For further details, please refer to this knowledge base article
+.
+4. Does Wasabi have a minimum storage duration policy?
+Wasabi has a minimum storage duration policy that means if stored objects are deleted before they have been stored with Wasabi for a certain number of days (90 days when using the Wasabi Pay as You Go pricing model), a Timed Deleted Storage charge equal to the storage charge for the remaining days will apply. This policy is comparable to the minimum storage duration policies that exist with some AWS and other hyperscaler storage services. For more details on this policy, please refer to this kno
+.
+5. What is the math behind the Wasabi Pay as You Go pricing?
+Wasabi Pay as You Go pricing is based on $ per TB per month ($/TB/mo) that is based on a per GB per day value. Below is an example of how Wasabi’s US & Europe region Pay as You Go pricing ($6.99/TB/mo) breaks out on a GB/mo and GB/day.
+– TB/mo price: ($6.99) / (1024 GB per TB) = $.0068 GB/mo
+– TB/mo price: ($6.99) / (1024 GB per TB) / (30 days in a month) = $.00022754 GB/day
+If you wish to better understand how GB/TB vs. GiB/TiB relates to this topic, please visit this knowledge base article.
+6. What pricing for AWS S3, Google Cloud Storage, and Microsoft Azure Blob Storage are you using in your pricing comparisons?
+Wasabi uses publicly available competitor pricing in our comparisons. Based on our interpretation of competitor pricing as of March 2021, the following pricing is used for US & Europe pricing comparisons:
+– AWS S3: $.023/GB/mo for storage & $.09/GB for egress
+– Google Cloud Storage: $.023/GB/mo for storage & $.12/GB for egress
+– Microsoft Azure Blob Storage: $.0208/GB/mo for storage & $.08/GB for egress
+Wasabi acknowledges that there is some variability in our competitors complex pricing based on which specific tier, volume, and other parameters that are used. If you wish to better understand the pricing for one of our competitors for your specific storage use case, we recommend you use the storage pricing calculators from those providers.
+7. What is the basis for the pricing claim that Wasabi is ‘up to 80% less than AWS S3’?
+To better explain this comparison statement, let’s consider a simple example for 1 TB of storage and 10% of this storage downloaded per month (100 GB):
+– AWS S3 = [$.023/GB/mo(storage)*1024 GB/TB] + [$.09/GB(egress) * 100 GB] = $32.55
+– Wasabi = $6.99/TB/mo(storage)+ $0/GB(egress) = $6.99
+– Wasabi’s total charges of $6.99 are ~82% less than AWS S3’s total charge of $32.55
+Note that this is a simple example using Wasabi’s Pay as You Go pricing for US and European regions that doesn’t factor in additional AWS charges regarding API requests and other fees. For a more detailed examination of AWS S3 pricing, please review the AWS pricing calculator that can be found here
+.
+Pricing FAQs for all Wasabi Pricing Models
+Below are the frequently asked questions associated with all Wasabi pricing models.
+8. How does Wasabi’s free egress policy work?
+Wasabi’s free egress policy is designed for use cases where you store your data with Wasabi, you access this data at a reasonable rate, and your use case does not impose an unreasonable burden on our service. To better understand the definition of ‘reasonable rate’ and ‘unreasonable burden’ in this context, please consider these guidelines.
+If your monthly egress data transfer is less than or equal to your active storage volume, then your storage use case is a good fit for Wasabi’s free egress policy
+If your monthly egress data transfer is greater than your active storage volume, then your storage use case is not a good fit for Wasabi’s free egress policy
+For example, if you store 100 TB with Wasabi and download (egress) 100 TB or less within a monthly billing cycle, then your storage use case is a good fit for our policy. If your monthly downloads exceed 100 TB, then your use case is not a good fit.
+If your use case exceeds the guidelines of our free egress policy on a regular basis, we reserve the right to limit or suspend your service.
+9. How does Wasabi’s free API requests policy work?
+Wasabi’s free egress API request policy is designed for use cases where you store your data with Wasabi, you access this data at a reasonable rate, and your use case does not impose an unreasonable burden on our service. To better understand the definition of ‘reasonable rate’ and ‘unreasonable burden’ in this context, please consider these guidelines.
+If you are using a commercial application that has been validated by Wasabi
+then you can generally expect to be in compliance with Wasabi free API request policy
+If you are using a non-validated application that imposes an inefficient and unreasonable load on the Wasabi service, we reserve the right to limit or suspend your service
+If your use case exceeds the guidelines of our free API request policy on a regular basis, we reserve the right to limit or suspend your service.
+10. What is the cost impact of using Wasabi versioning and bucket logging features?
+Versioning is an object storage feature that is available from Wasabi as well as AWS S3. Any time you enable versioning, you are essentially creating new versions of the objects you are storing. This will result in an increase in storage charges. Bucket logging is another object storage feature that is available from Wasabi and AWS S3. As the feature name implies, when this feature is enabled, you will be creating log files for all bucket activity. These log files are treated just like any other
+11. I’m not planning to use the versioning feature but I may be overwriting a file with the same name multiple times. What is the cost impact of this?
+As a means of answering this question, let’s consider an example where on day 1, you store a file called ‘foo.pdf’. On day 2, you then overwrite foo.pdf with a new copy of foo.pdf but do not change the file name or use versioning. As part of this overwrite action, the original copy of foo.pdf will transition from active storage to deleted storage. This will result in a charge for this particular object of 1 day of active storage and 29 or 89 days of deleted storage (depending on the minimum stor
+12. What is the cost impact of using Wasabi’s immutability features?
+Immutability means the stored objects cannot be deleted by the user or by Wasabi until the specified retention period has expired (this is a security feature for data protection). Any storage (immutable or not) will be charged as active storage.
+13. What is the cost impact of using Wasabi to store very small files (less than 4 kilobytes in size)?
+If you use Wasabi to store files that are less than 4 kilobytes (KB) in size, you should be aware that Wasabi’s minimum file size from a charging perspective is 4 KB. You can store files smaller than 4 KB with Wasabi but (for example), if you store a 2 KB file with Wasabi, you will be charged as if it were a 4 KB file. This policy is comparable to minimum capacity charge per object policies in use by some AWS storage classes (for example, AWS S3 IA has a minimum capacity charge of 128 KB).

@@ -1,0 +1,171 @@
+[
+  {
+    "id": "aws-amazon-com-amplify-pricing-20240326185933",
+    "url": "https://aws.amazon.com/amplify/pricing/",
+    "ts": "20240326185933",
+    "date": "2024-03-26",
+    "source": "wayback",
+    "prevTs": "20230212160144",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "AWS Amplify: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "aws-amazon-com-amplify-pricing-20240601022131",
+    "url": "https://aws.amazon.com/amplify/pricing/",
+    "ts": "20240601022131",
+    "date": "2024-06-01",
+    "source": "wayback",
+    "prevTs": "20240326185933",
+    "kind": "price",
+    "score": 11,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "AWS Amplify: 1 price, 4 plan names changed (removed “Use Amplify tools as much or as little as you…”; added “Amazon S3 Free Tier”)",
+    "pairs": [],
+    "added": [
+      "Ship enterprise-ready features on day one. Only pay for what you use. Get started for free",
+      "Always free - no pay-per-seat pricing.",
+      "with AWS Free Tier",
+      "without AWS Free Tier",
+      "Amplify app frontends are powered by fully-managed AWS services. Many offer generous Free Tiers to get started and pay as you go pricing thereafter. No monthly minimums - simply pay for what you use.",
+      "with AWS Free Tier",
+      "without AWS Free Tier",
+      "Cognito Free Tier",
+      "AWS AppSync Free Tier",
+      "DynamoDB Free Tier",
+      "Lambda Free Tier",
+      "Amazon S3 Free Tier",
+      "Always free. Quickly develop production-ready UI with dozens of pre-built, themeable, and responsive cloud-connected React components and forms."
+    ],
+    "removed": [
+      "Use Amplify tools as much or as little as you need. Get started at $0, then only pay for what you use.",
+      "Get started for free",
+      "Get started free, then pay as you go",
+      "Pay as you go, starting with free offers*",
+      "AWS backend services deployed by Amplify CLI or Amplify Studio are offered on the AWS free tier and pay as you go: API Gateway",
+      "Always free",
+      "The free offer is per account, regardless of number of users. It expires at the end of your 12-month AWS Free Tier term then converts to pay as you go.",
+      "Need more capacity than the free tier? Amplify switches over to pay as you go pricing once you exceed free tier limits, with no disruption to your apps.",
+      "Instantly get access to the AWS Free Tier."
+    ],
+    "totals": {
+      "removed": 57,
+      "added": 47,
+      "materialRemoved": 14,
+      "materialAdded": 18
+    }
+  },
+  {
+    "id": "aws-amazon-com-amplify-pricing-20250415145022",
+    "url": "https://aws.amazon.com/amplify/pricing/",
+    "ts": "20250415145022",
+    "date": "2025-04-15",
+    "source": "wayback",
+    "prevTs": "20240601022131",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "AWS Amplify: 1 price changed (added “$15/month per Amplify app + WAF costs”)",
+    "pairs": [],
+    "added": [
+      "Get started for free",
+      "$15/month per Amplify app + WAF costs"
+    ],
+    "removed": [
+      "Ship enterprise-ready features on day one. Only pay for what you use. Get started for free"
+    ],
+    "totals": {
+      "removed": 1,
+      "added": 4,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "aws-amazon-com-amplify-pricing-20250623010501",
+    "url": "https://aws.amazon.com/amplify/pricing/",
+    "ts": "20250623010501",
+    "date": "2025-06-23",
+    "source": "wayback",
+    "prevTs": "20250415145022",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 2,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "AWS Amplify: 2 prices, 2 limits changed (added “Standard Instance (8 GB Memory; 4 vCPUs)”)",
+    "pairs": [],
+    "added": [
+      "Standard Instance (8 GB Memory; 4 vCPUs)",
+      "Large Instance (16 GB Memory; 8 vCPUs)",
+      "$0.025 per minute",
+      "XLarge Instance (72 GB Memory; 36 vCPUs)",
+      "$0.10 per minute"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 14,
+      "materialRemoved": 0,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "aws-amazon-com-amplify-pricing-20260604101451",
+    "url": "https://aws.amazon.com/amplify/pricing/",
+    "ts": "20260604101451",
+    "date": "2026-06-04",
+    "source": "wayback",
+    "prevTs": "20250623010501",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "AWS Amplify: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "and AWS Free Tier documentation"
+    ],
+    "removed": [
+      "Sign up for a free account"
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 4,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  }
+]

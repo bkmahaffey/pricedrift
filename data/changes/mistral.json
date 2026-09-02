@@ -1,0 +1,711 @@
+[
+  {
+    "id": "mistral-ai-pricing-20250601203928",
+    "url": "https://mistral.ai/pricing",
+    "ts": "20250601203928",
+    "date": "2025-06-01",
+    "source": "wayback",
+    "prevTs": "20250525061708",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 8,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mistral AI: 8 prices changed (added “Input (/M tokens) $0.15”)",
+    "pairs": [],
+    "added": [
+      "Input (/M tokens) $0.15",
+      "Price $0.01 /per call / per connector",
+      "Price $6 /M tokens indexed, incrementally charged + storage $0.04 /M tokens",
+      "Price $30 / 1000 calls",
+      "Price $30 / 1000 calls",
+      "Price $100 / 1000 images",
+      "Price $50 / 1000 calls",
+      "Price $0.04 /M tokens"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 32,
+      "materialRemoved": 0,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "mistral-ai-pricing-20250702051936",
+    "url": "https://mistral.ai/pricing",
+    "ts": "20250702051936",
+    "date": "2025-07-02",
+    "source": "wayback",
+    "prevTs": "20250601203928",
+    "kind": "price",
+    "score": 21,
+    "counts": {
+      "price": 7,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mistral AI: 7 prices changed ($49.98 → $50)",
+    "pairs": [
+      {
+        "before": "$49.98 / 2 users/mo*",
+        "after": "$50 / 2 users/mo*",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$49.98",
+            "after": "$50"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$50 /mo",
+      "Up to 6x Free",
+      "Up to 5x Free",
+      "Up to 40x Free",
+      "Up to 5x Free",
+      "Up to 20x Free",
+      "Input (/M tokens) $2",
+      "Output (/M tokens) $5",
+      "Input (/M tokens) $0.5",
+      "Output (/M tokens) $1.5",
+      "Does Mistral have a free plan?",
+      "What’s the difference between Le Chat Free and Pro plans?",
+      "Does Mistral have a free plan?",
+      "What’s the difference between Le Chat Free and Pro plans?"
+    ],
+    "removed": [
+      "$49.98 for 2 users/mo"
+    ],
+    "totals": {
+      "removed": 110,
+      "added": 210,
+      "materialRemoved": 4,
+      "materialAdded": 17
+    }
+  },
+  {
+    "id": "mistral-ai-pricing-20250802151648",
+    "url": "https://mistral.ai/pricing",
+    "ts": "20250802151648",
+    "date": "2025-08-02",
+    "source": "wayback",
+    "prevTs": "20250702051936",
+    "kind": "price",
+    "score": 36,
+    "counts": {
+      "price": 12,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mistral AI: 12 prices changed ($0.15 → $0.3; $0.15 → $0.04)",
+    "pairs": [
+      {
+        "before": "Output (/M tokens) $0.15",
+        "after": "Output (/M tokens) $0.3",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.15",
+            "after": "$0.3"
+          }
+        ]
+      },
+      {
+        "before": "Output (/M tokens) $0.15",
+        "after": "Output (/M tokens) $0.04",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.15",
+            "after": "$0.04"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Unlimited",
+      "Unlimited",
+      "Up to 40x Free",
+      "Up to 5x Free",
+      "Up to 5x Free",
+      "Up to 20x Free",
+      "Unlimited",
+      "Up to 40x Free",
+      "Up to 5x Free",
+      "$0.004 / $0.1 (text)",
+      "Input (/M tokens) $0.4",
+      "Audio Input/min $0.002",
+      "Input (per min / per M tok) $0.004 (audio) / $0.1 (text)",
+      "Input (per min / per M tok) $0.001 (audio) / $0.04 (text)",
+      "Input (/M tokens) $0.15",
+      "Output (/M tokens) $0.15",
+      "Output (/M tokens) $0.6"
+    ],
+    "removed": [
+      "Input (/M tokens) $0.1",
+      "Input (/M tokens) $0.1"
+    ],
+    "totals": {
+      "removed": 117,
+      "added": 180,
+      "materialRemoved": 40,
+      "materialAdded": 55
+    }
+  },
+  {
+    "id": "mistral-ai-pricing-20250920150858",
+    "url": "https://mistral.ai/pricing",
+    "ts": "20250920150858",
+    "date": "2025-09-20",
+    "source": "wayback",
+    "prevTs": "20250802151648",
+    "kind": "price",
+    "score": 258,
+    "counts": {
+      "price": 82,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mistral AI: 82 prices, 6 limits changed (removed “$0.4”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$0.4",
+      "$2",
+      "$1 / 1000 pages",
+      "$3 / 1000 pages",
+      "$0.004 / $0.1 (text)",
+      "$0.3",
+      "Input (/M tokens) $0.4",
+      "Output (/M tokens) $2",
+      "Input (/M tokens) $2",
+      "Output (/M tokens) $5",
+      "Output (/M tokens) $6",
+      "Input (/M tokens) $0.4",
+      "Output (/M tokens) $2",
+      "Input (/M tokens) $0.3",
+      "Output (/M tokens) $0.9",
+      "OCR $1 / 1000 pages",
+      "Annotations $3 / 1000 pages",
+      "Audio Input/min $0.002",
+      "Input (/M tokens) $0.1",
+      "Output (/M tokens) $0.3",
+      "Input (/M tokens) $0.5",
+      "Output (/M tokens) $1.5",
+      "Input (/M tokens) $0.1",
+      "Output (/M tokens) $0.3",
+      "Input (per min / per M tok) $0.004 (audio) / $0.1 (text)",
+      "Output (/M tokens) $0.3",
+      "Input (per min / per M tok) $0.001 (audio) / $0.04 (text)",
+      "Output (/M tokens) $0.04",
+      "$1",
+      "$2 per month per model",
+      "Input (/M tokens) $0.15",
+      "Output (/M tokens) $0.15",
+      "$9",
+      "$4 / month per model",
+      "Input (/M tokens) $2",
+      "Output (/M tokens) $6",
+      "Pixtral 12B",
+      "$2",
+      "$2",
+      "Input (/M tokens) $0.15"
+    ],
+    "totals": {
+      "removed": 276,
+      "added": 23,
+      "materialRemoved": 100,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "mistral-ai-pricing-20251105122204",
+    "url": "https://mistral.ai/pricing",
+    "ts": "20251105122204",
+    "date": "2025-11-05",
+    "source": "wayback",
+    "prevTs": "20250920150858",
+    "kind": "price",
+    "score": 39,
+    "counts": {
+      "price": 9,
+      "limit": 1,
+      "plan": 5
+    },
+    "material": true,
+    "headline": "Mistral AI: 9 prices, 1 limit, 5 plan names changed (removed “$0 /mo”; added “Base $ 0 0 1 2 3 4 5 6 7 8 9 0 0 1 2 3 4 5 6 …”)",
+    "pairs": [],
+    "added": [
+      "Unlimited projects.",
+      "Base $ 0 0 1 2 3 4 5 6 7 8 9 0 0 1 2 3 4 5 6 7 8 9. 0 0 1 2 3 4 5 6 7 8 9 0 0 1 2 3 4 5 6 7 8 9 /mo*",
+      "Students $ 0 0 1 2 3 4 5 6 7 8 9. 0 0 1 2 3 4 5 6 7 8 9 0 0 1 2 3 4 5 6 7 8 9 /mo*",
+      "$ 0 0 1 2 3 4 5 6 7 8 9 0 0 1 2 3 4 5 6 7 8 9. 0 0 1 2 3 4 5 6 7 8 9 0 0 1 2 3 4 5 6 7 8 9 /user/mo*",
+      "$ 0 0 1 2 3 4 5 6 7 8 9 0 0 1 2 3 4 5 6 7 8 9 /mo /",
+      "Free",
+      "Free",
+      "Free",
+      "Free"
+    ],
+    "removed": [
+      "$0 /mo",
+      "$50 /mo",
+      "Free",
+      "$0 /mo",
+      "$14.99 /mo*",
+      "Up to 6x Free",
+      "Up to 150 / day",
+      "Up to 5x Free",
+      "Up to 30x Free",
+      "Up to 5x Free",
+      "Up to 20x Free",
+      "Unlimited",
+      "Up to 40x Free",
+      "Up to 5x Free",
+      "$50 / 2 users/mo*",
+      "Up to 6x Free",
+      "Up to 200 / day",
+      "Up to 5x Free",
+      "Up to 30x Free",
+      "Up to 5x Free",
+      "Up to 20x Free",
+      "Unlimited",
+      "Up to 40x Free",
+      "Up to 5x Free"
+    ],
+    "totals": {
+      "removed": 249,
+      "added": 46,
+      "materialRemoved": 29,
+      "materialAdded": 14
+    }
+  },
+  {
+    "id": "mistral-ai-pricing-20251202101529",
+    "url": "https://mistral.ai/pricing",
+    "ts": "20251202101529",
+    "date": "2025-12-02",
+    "source": "wayback",
+    "prevTs": "20251105122204",
+    "kind": "price",
+    "score": 319,
+    "counts": {
+      "price": 98,
+      "limit": 8,
+      "plan": 5
+    },
+    "material": true,
+    "headline": "Mistral AI: 98 prices, 8 limits, 5 plan names changed (removed “Base $ 0 0 1 2 3 4 5 6 7 8 9 0 0 1 2 3 4 5 6 …”; added “\"}],[\"$\",\"$L45\",\"1\",{\"question\":\"Which model …”)",
+    "pairs": [],
+    "added": [
+      "\"}],[\"$\",\"$L45\",\"1\",{\"question\":\"Which model should I use?\",\"answer\":\" For most tasks: Mistral Large (best overall performance). For coding: Codestral. For vision tasks: Pixtral Large. For cost-sensitive projects: Ministral 8B. Learn more about our models",
+      "\"}],[\"$\",\"$L45\",\"2\",{\"question\":\"How is API pricing calculated?\",\"answer\":\" We charge per million tokens processed - both input (your prompts) and output (responses) count. For example, Mistral Large costs $2 /M tokens in and $6 /M tokens out. Batch processing gets a 50% discount.",
+      "\"}],[\"$\",\"$L45\",\"4\",{\"question\":\"What’s the difference between Le Chat Free and Pro plans?\",\"answer\":\" Le Chat Free is ideal for getting started and trying out Mistral AI. Le Chat Pro offers 6x more messages, 40x more images, and advanced features like AI agents plus chatbot support.",
+      "\"}],[\"$\",\"$L45\",\"5\",{\"question\":\"Does Le Chat have any usage limits?\",\"answer\":\" Pro has higher ceilings compared to Free (e.g. up to 40x more image generations). Team and Enterprise plans have even higher allowances on certain features. For example, Flash answers: 200 / day on Team vs. 150 / day on Pro.",
+      "\"}],[\"$\",\"$L45\",\"7\",{\"question\":\"Are there discounts for students?\",\"answer\":\" Verified students can get Le Chat Pro for $5.99 / month (normally $14.99).",
+      "\"}],[\"$\",\"$L45\",\"1\",{\"question\":\"Which model should I use?\",\"answer\":\" For most tasks: Mistral Large (best overall performance). For coding: Codestral. For vision tasks: Pixtral Large. For cost-sensitive projects: Ministral 8B. Learn more about our models",
+      "\"}],[\"$\",\"$L45\",\"2\",{\"question\":\"How is API pricing calculated?\",\"answer\":\" We charge per million tokens processed - both input (your prompts) and output (responses) count. For example, Mistral Large costs $2 /M tokens in and $6 /M tokens out. Batch processing gets a 50% discount.",
+      "\"}],[\"$\",\"$L45\",\"4\",{\"question\":\"What’s the difference between Le Chat Free and Pro plans?\",\"answer\":\" Le Chat Free is ideal for getting started and trying out Mistral AI. Le Chat Pro offers 6x more messages, 40x more images, and advanced features like AI agents plus chatbot support.",
+      "\"}],[\"$\",\"$L45\",\"5\",{\"question\":\"Does Le Chat have any usage limits?\",\"answer\":\" Pro has higher ceilings compared to Free (e.g. up to 40x more image generations). Team and Enterprise plans have even higher allowances on certain features. For example, Flash answers: 200 / day on Team vs. 150 / day on Pro.",
+      "\"}],[\"$\",\"$L45\",\"7\",{\"question\":\"Are there discounts for students?\",\"answer\":\" Verified students can get Le Chat Pro for $5.99 / month (normally $14.99).",
+      "\"}],[\"$\",\"$L45\",\"1\",{\"question\":\"Which model should I use?\",\"answer\":\" For most tasks: Mistral Large (best overall performance). For coding: Codestral. For vision tasks: Pixtral Large. For cost-sensitive projects: Ministral 8B. Learn more about our models",
+      "\"}],[\"$\",\"$L45\",\"2\",{\"question\":\"How is API pricing calculated?\",\"answer\":\" We charge per million tokens processed - both input (your prompts) and output (responses) count. For example, Mistral Large costs $2 /M tokens in and $6 /M tokens out. Batch processing gets a 50% discount.",
+      "\"}],[\"$\",\"$L45\",\"4\",{\"question\":\"What’s the difference between Le Chat Free and Pro plans?\",\"answer\":\" Le Chat Free is ideal for getting started and trying out Mistral AI. Le Chat Pro offers 6x more messages, 40x more images, and advanced features like AI agents plus chatbot support.",
+      "\"}],[\"$\",\"$L45\",\"5\",{\"question\":\"Does Le Chat have any usage limits?\",\"answer\":\" Pro has higher ceilings compared to Free (e.g. up to 40x more image generations). Team and Enterprise plans have even higher allowances on certain features. For example, Flash answers: 200 / day on Team vs. 150 / day on Pro.",
+      "\"}],[\"$\",\"$L45\",\"7\",{\"question\":\"Are there discounts for students?\",\"answer\":\" Verified students can get Le Chat Pro for $5.99 / month (normally $14.99).",
+      "\"}],[\"$\",\"$L45\",\"1\",{\"question\":\"Which model should I use?\",\"answer\":\" For most tasks: Mistral Large (best overall performance). For coding: Codestral. For vision tasks: Pixtral Large. For cost-sensitive projects: Ministral 8B. Learn more about our models",
+      "\"}],[\"$\",\"$L45\",\"2\",{\"question\":\"How is API pricing calculated?\",\"answer\":\" We charge per million tokens processed - both input (your prompts) and output (responses) count. For example, Mistral Large costs $2 /M tokens in and $6 /M tokens out. Batch processing gets a 50% discount.",
+      "\"}],[\"$\",\"$L45\",\"4\",{\"question\":\"What’s the difference between Le Chat Free and Pro plans?\",\"answer\":\" Le Chat Free is ideal for getting started and trying out Mistral AI. Le Chat Pro offers 6x more messages, 40x more images, and advanced features like AI agents plus chatbot support.",
+      "\"}],[\"$\",\"$L45\",\"5\",{\"question\":\"Does Le Chat have any usage limits?\",\"answer\":\" Pro has higher ceilings compared to Free (e.g. up to 40x more image generations). Team and Enterprise plans have even higher allowances on certain features. For example, Flash answers: 200 / day on Team vs. 150 / day on Pro.",
+      "\"}],[\"$\",\"$L45\",\"7\",{\"question\":\"Are there discounts for students?\",\"answer\":\" Verified students can get Le Chat Pro for $5.99 / month (normally $14.99).",
+      "\",\"price_dollar\":\"$$0\",\"price_euro\":\"0€\",\"button_label\":\"Start now\",\"button_url\":\"https://chat.mistral.ai/\",\"is_team_plan\":false,\"color\":\"#FFFAEA\",\"popular\":false,\"features\":[{\"value\":\" true",
+      "\",\"price_dollar\":\"$$14.99\",\"price_euro\":\"14.99 €\",\"button_label\":\"Start now\",\"button_url\":\"https://chat.mistral.ai/upgrade\",\"is_team_plan\":false,\"color\":\"#FFF0C3\",\"popular\":true,\"features\":[{\"value\":\" Up to 6x Free",
+      "\",\"type\":\"Features\",\"name\":\"Agents\",\"locale\":\"en\"},{\"value\":\" Up to 5x Free",
+      "\",\"type\":\"Features\",\"name\":\"Web searches\",\"locale\":\"en\"},{\"value\":\" Up to 30x Free",
+      "\",\"type\":\"Features\",\"name\":\"Think mode\",\"locale\":\"en\"},{\"value\":\" Up to 5x Free",
+      "\",\"type\":\"Features\",\"name\":\"Libraries\",\"locale\":\"en\"},{\"value\":\" Up to 20x Free",
+      "\",\"type\":\"Features\",\"name\":\"Custom MCP connectors (beta)\",\"locale\":\"en\"},{\"value\":\" Unlimited",
+      "\",\"type\":\"Features\",\"name\":\"Projects\",\"locale\":\"en\"},{\"value\":\" Up to 40x Free",
+      "\",\"type\":\"Features\",\"name\":\"Image generation\",\"locale\":\"en\"},{\"value\":\" Up to 5x Free",
+      "\",\"type\":\"Team and enterprise features\",\"name\":\"White label\",\"locale\":\"en\"}],\"dark\":false,\"button_sticky_label\":\"Start for free\",\"unit\":\"/mo*\",\"conditions\":\" Excluding taxes",
+      "\",\"student_plan\":true,\"student_price_dollar\":\"$$5.99\",\"student_price_euro\":\"5.99€\",\"student_unit\":\"/mo*\",\"icon\":\"8f96c9e2-03f4-49e2-97e9-08dd3208986f\",\"is_chat\":null,\"background_color\":\"#F2F2F2\",\"feature_sumup\":[{\"feature\":\" More messages and web searches.",
+      "\",\"locale\":\"en\"},{\"feature\":\" Unlimited projects.",
+      "\",\"price_dollar\":\"$$24.99\",\"price_euro\":\"24.99€\",\"button_label\":\"Start now\",\"button_url\":\"https://chat.mistral.ai/upgrade\",\"is_team_plan\":true,\"color\":\"#FFE8AA\",\"popular\":false,\"features\":[{\"value\":\" Up to 6x Free",
+      "\",\"type\":\"Features\",\"name\":\"Agents\",\"locale\":\"en\"},{\"value\":\" Up to 5x Free",
+      "\",\"type\":\"Features\",\"name\":\"Web searches\",\"locale\":\"en\"},{\"value\":\" Up to 30x Free",
+      "\",\"type\":\"Features\",\"name\":\"Think mode\",\"locale\":\"en\"},{\"value\":\" Up to 5x Free",
+      "\",\"type\":\"Features\",\"name\":\"Libraries\",\"locale\":\"en\"},{\"value\":\" Up to 20x Free",
+      "\",\"type\":\"Features\",\"name\":\"Custom MCP connectors (beta)\",\"locale\":\"en\"},{\"value\":\" Unlimited",
+      "\",\"type\":\"Features\",\"name\":\"Projects\",\"locale\":\"en\"},{\"value\":\" Up to 40x Free",
+      "\",\"type\":\"Features\",\"name\":\"Image generation\",\"locale\":\"en\"},{\"value\":\" Up to 5x Free"
+    ],
+    "removed": [
+      "Free",
+      "Unlimited projects.",
+      "Base $ 0 0 1 2 3 4 5 6 7 8 9 0 0 1 2 3 4 5 6 7 8 9. 0 0 1 2 3 4 5 6 7 8 9 0 0 1 2 3 4 5 6 7 8 9 /mo*",
+      "Students $ 0 0 1 2 3 4 5 6 7 8 9. 0 0 1 2 3 4 5 6 7 8 9 0 0 1 2 3 4 5 6 7 8 9 /mo*",
+      "$ 0 0 1 2 3 4 5 6 7 8 9 0 0 1 2 3 4 5 6 7 8 9. 0 0 1 2 3 4 5 6 7 8 9 0 0 1 2 3 4 5 6 7 8 9 /user/mo*",
+      "$ 0 0 1 2 3 4 5 6 7 8 9 0 0 1 2 3 4 5 6 7 8 9 /mo /",
+      "Free",
+      "$14.99",
+      "$24.99",
+      "Free",
+      "Up to 6x free",
+      "Up to 5x Free",
+      "Up to 30x Free",
+      "Up to 5x Free",
+      "Up to 20x Free",
+      "Unlimited",
+      "Up to 40x Free",
+      "Up to 5x Free",
+      "Free",
+      "Free",
+      "Does Mistral have a free plan?",
+      "What’s the difference between Le Chat Free and Pro plans?"
+    ],
+    "totals": {
+      "removed": 149,
+      "added": 550,
+      "materialRemoved": 28,
+      "materialAdded": 149
+    }
+  },
+  {
+    "id": "mistral-ai-pricing-20260603121511",
+    "url": "https://mistral.ai/pricing",
+    "ts": "20260603121511",
+    "date": "2026-06-03",
+    "source": "wayback",
+    "prevTs": "20251202101529",
+    "kind": "price",
+    "score": 272,
+    "counts": {
+      "price": 76,
+      "limit": 20,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Mistral AI: 76 prices, 20 limits, 2 plan names changed (45 → $2; 45 → 200)",
+    "pairs": [
+      {
+        "before": "\"}],[\"$\",\"$L45\",\"2\",{\"question\":\"How is API pricing calculated?\",\"answer\":\" We charge per million tokens processed - both input (your prompts) and output (responses) count. For example, Mistral Large costs $2 /M tokens in and $6 /M tokens out. Batch processing gets a 50% discount.",
+        "after": "We charge per million tokens processed - both input (your prompts) and output (responses) count. For example, Mistral Large costs $2 /M tokens in and $6 /M tokens out. Batch processing gets a 50% discount.",
+        "confidence": 0.79,
+        "deltas": [
+          {
+            "before": "45",
+            "after": "$2"
+          },
+          {
+            "before": "2",
+            "after": "$6"
+          },
+          {
+            "before": "$2",
+            "after": "50"
+          },
+          {
+            "before": "$6",
+            "after": null
+          },
+          {
+            "before": "50",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "\"}],[\"$\",\"$L45\",\"5\",{\"question\":\"Does Le Chat have any usage limits?\",\"answer\":\" Pro has higher ceilings compared to Free (e.g. up to 40x more image generations). Team and Enterprise plans have even higher allowances on certain features. For example, Flash answers: 200 / day on Team vs. 150 / day on Pro.",
+        "after": "Pro has higher ceilings compared to Free (e.g. up to 40x more image generations). Team and Enterprise plans have even higher allowances on certain features. For example, Flash answers: 200 / day on Team vs. 150 / day on Pro.",
+        "confidence": 0.77,
+        "deltas": [
+          {
+            "before": "45",
+            "after": "200"
+          },
+          {
+            "before": "5",
+            "after": "150"
+          },
+          {
+            "before": "200",
+            "after": null
+          },
+          {
+            "before": "150",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free",
+      "$14.99",
+      "$24.99",
+      "$49.98 for 2 users/mo",
+      "$50/mo/ X users -|+",
+      "$5.99",
+      "Valid for a maximum of 12 months for verified students at accredited higher institutions and if you haven't used Vibe (or Le Chat) before.",
+      "Free",
+      "Up to 6x free",
+      "Up to 5x free",
+      "Unlimited (Subject to fair usage limits and Mistral's Terms of Service.)",
+      "Up to 40x free",
+      "Does Mistral have a free plan?",
+      "Yes. Mistral Free provides limited access to Vibe",
+      "What’s the difference between the Free and Pro plans?",
+      "The Free plan is ideal for getting started with the AI assistant. Mistral Pro offers higher limits across chat plus access to coding with Mistral Vibe. You get more messages and web searches, more extended thinking and deep research reports, expanded Mistral Vibe capacity, and chat and email support.",
+      "Yes, you can self-host our models anywhere. Open-weight models (e.g., Mistral 7B) are Apache 2.0 licensed for research/individual use; while commercial deployments require a Mistral license with separate terms for derivatives and production use.",
+      "Verified students can get Mistral Pro for $5.99 / month (normally $14.99).",
+      "Our flagship model that merges instruction-following, reasoning, and coding into a single 128B dense model. Released as open weights, under a modified MIT license.",
+      "$7.5",
+      "$0.016 per 1k characters",
+      "$2 / 1000 pages",
+      "$1.5",
+      "Our flagship model that merges instruction-following, reasoning, and coding into a single 128B dense model. Released as open weights, under a modified MIT license.",
+      "$1.5",
+      "$7.5",
+      "$2 / 1000 pages",
+      "$3",
+      "$0.5",
+      "$1.5",
+      "Ministral 3 - 3B",
+      "ministral-3b-latest",
+      "Ministral 3 - 8B",
+      "ministral-8b-latest",
+      "Ministral 3 - 14B",
+      "$0.2",
+      "$0.2",
+      "ministral-14b-latest",
+      "$0.4",
+      "$0.016 per 1k characters"
+    ],
+    "removed": [
+      "\"}],[\"$\",\"$L45\",\"1\",{\"question\":\"Which model should I use?\",\"answer\":\" For most tasks: Mistral Large (best overall performance). For coding: Codestral. For vision tasks: Pixtral Large. For cost-sensitive projects: Ministral 8B. Learn more about our models",
+      "\"}],[\"$\",\"$L45\",\"4\",{\"question\":\"What’s the difference between Le Chat Free and Pro plans?\",\"answer\":\" Le Chat Free is ideal for getting started and trying out Mistral AI. Le Chat Pro offers 6x more messages, 40x more images, and advanced features like AI agents plus chatbot support.",
+      "\"}],[\"$\",\"$L45\",\"7\",{\"question\":\"Are there discounts for students?\",\"answer\":\" Verified students can get Le Chat Pro for $5.99 / month (normally $14.99).",
+      "\"}],[\"$\",\"$L45\",\"1\",{\"question\":\"Which model should I use?\",\"answer\":\" For most tasks: Mistral Large (best overall performance). For coding: Codestral. For vision tasks: Pixtral Large. For cost-sensitive projects: Ministral 8B. Learn more about our models",
+      "\"}],[\"$\",\"$L45\",\"2\",{\"question\":\"How is API pricing calculated?\",\"answer\":\" We charge per million tokens processed - both input (your prompts) and output (responses) count. For example, Mistral Large costs $2 /M tokens in and $6 /M tokens out. Batch processing gets a 50% discount.",
+      "\"}],[\"$\",\"$L45\",\"4\",{\"question\":\"What’s the difference between Le Chat Free and Pro plans?\",\"answer\":\" Le Chat Free is ideal for getting started and trying out Mistral AI. Le Chat Pro offers 6x more messages, 40x more images, and advanced features like AI agents plus chatbot support.",
+      "\"}],[\"$\",\"$L45\",\"5\",{\"question\":\"Does Le Chat have any usage limits?\",\"answer\":\" Pro has higher ceilings compared to Free (e.g. up to 40x more image generations). Team and Enterprise plans have even higher allowances on certain features. For example, Flash answers: 200 / day on Team vs. 150 / day on Pro.",
+      "\"}],[\"$\",\"$L45\",\"7\",{\"question\":\"Are there discounts for students?\",\"answer\":\" Verified students can get Le Chat Pro for $5.99 / month (normally $14.99).",
+      "\"}],[\"$\",\"$L45\",\"1\",{\"question\":\"Which model should I use?\",\"answer\":\" For most tasks: Mistral Large (best overall performance). For coding: Codestral. For vision tasks: Pixtral Large. For cost-sensitive projects: Ministral 8B. Learn more about our models",
+      "\"}],[\"$\",\"$L45\",\"2\",{\"question\":\"How is API pricing calculated?\",\"answer\":\" We charge per million tokens processed - both input (your prompts) and output (responses) count. For example, Mistral Large costs $2 /M tokens in and $6 /M tokens out. Batch processing gets a 50% discount.",
+      "\"}],[\"$\",\"$L45\",\"4\",{\"question\":\"What’s the difference between Le Chat Free and Pro plans?\",\"answer\":\" Le Chat Free is ideal for getting started and trying out Mistral AI. Le Chat Pro offers 6x more messages, 40x more images, and advanced features like AI agents plus chatbot support.",
+      "\"}],[\"$\",\"$L45\",\"5\",{\"question\":\"Does Le Chat have any usage limits?\",\"answer\":\" Pro has higher ceilings compared to Free (e.g. up to 40x more image generations). Team and Enterprise plans have even higher allowances on certain features. For example, Flash answers: 200 / day on Team vs. 150 / day on Pro.",
+      "\"}],[\"$\",\"$L45\",\"7\",{\"question\":\"Are there discounts for students?\",\"answer\":\" Verified students can get Le Chat Pro for $5.99 / month (normally $14.99).",
+      "\"}],[\"$\",\"$L45\",\"1\",{\"question\":\"Which model should I use?\",\"answer\":\" For most tasks: Mistral Large (best overall performance). For coding: Codestral. For vision tasks: Pixtral Large. For cost-sensitive projects: Ministral 8B. Learn more about our models",
+      "\"}],[\"$\",\"$L45\",\"2\",{\"question\":\"How is API pricing calculated?\",\"answer\":\" We charge per million tokens processed - both input (your prompts) and output (responses) count. For example, Mistral Large costs $2 /M tokens in and $6 /M tokens out. Batch processing gets a 50% discount.",
+      "\"}],[\"$\",\"$L45\",\"4\",{\"question\":\"What’s the difference between Le Chat Free and Pro plans?\",\"answer\":\" Le Chat Free is ideal for getting started and trying out Mistral AI. Le Chat Pro offers 6x more messages, 40x more images, and advanced features like AI agents plus chatbot support.",
+      "\"}],[\"$\",\"$L45\",\"5\",{\"question\":\"Does Le Chat have any usage limits?\",\"answer\":\" Pro has higher ceilings compared to Free (e.g. up to 40x more image generations). Team and Enterprise plans have even higher allowances on certain features. For example, Flash answers: 200 / day on Team vs. 150 / day on Pro.",
+      "\"}],[\"$\",\"$L45\",\"7\",{\"question\":\"Are there discounts for students?\",\"answer\":\" Verified students can get Le Chat Pro for $5.99 / month (normally $14.99).",
+      "\",\"price_dollar\":\"$$0\",\"price_euro\":\"0€\",\"button_label\":\"Start now\",\"button_url\":\"https://chat.mistral.ai/\",\"is_team_plan\":false,\"color\":\"#FFFAEA\",\"popular\":false,\"features\":[{\"value\":\" true",
+      "\",\"price_dollar\":\"$$14.99\",\"price_euro\":\"14.99 €\",\"button_label\":\"Start now\",\"button_url\":\"https://chat.mistral.ai/upgrade\",\"is_team_plan\":false,\"color\":\"#FFF0C3\",\"popular\":true,\"features\":[{\"value\":\" Up to 6x Free",
+      "\",\"type\":\"Features\",\"name\":\"Voice mode\",\"locale\":\"en\"},{\"value\":\" Up to 150 / day",
+      "\",\"type\":\"Features\",\"name\":\"Agents\",\"locale\":\"en\"},{\"value\":\" Up to 5x Free",
+      "\",\"type\":\"Features\",\"name\":\"Web searches\",\"locale\":\"en\"},{\"value\":\" Up to 30x Free",
+      "\",\"type\":\"Features\",\"name\":\"Think mode\",\"locale\":\"en\"},{\"value\":\" Up to 5x Free",
+      "\",\"type\":\"Features\",\"name\":\"Libraries\",\"locale\":\"en\"},{\"value\":\" Up to 20x Free",
+      "\",\"type\":\"Features\",\"name\":\"Custom MCP connectors (beta)\",\"locale\":\"en\"},{\"value\":\" Unlimited",
+      "\",\"type\":\"Features\",\"name\":\"Projects\",\"locale\":\"en\"},{\"value\":\" Up to 40x Free",
+      "\",\"type\":\"Features\",\"name\":\"Image generation\",\"locale\":\"en\"},{\"value\":\" Up to 5x Free",
+      "\",\"type\":\"Team and enterprise features\",\"name\":\"White label\",\"locale\":\"en\"}],\"dark\":false,\"button_sticky_label\":\"Start for free\",\"unit\":\"/mo*\",\"conditions\":\" Excluding taxes",
+      "\",\"student_plan\":true,\"student_price_dollar\":\"$$5.99\",\"student_price_euro\":\"5.99€\",\"student_unit\":\"/mo*\",\"icon\":\"8f96c9e2-03f4-49e2-97e9-08dd3208986f\",\"is_chat\":null,\"background_color\":\"#F2F2F2\",\"feature_sumup\":[{\"feature\":\" More messages and web searches.",
+      "\",\"locale\":\"en\"},{\"feature\":\" Up to 15GB of document storage.",
+      "\",\"locale\":\"en\"},{\"feature\":\" Unlimited projects.",
+      "\",\"price_dollar\":\"$$24.99\",\"price_euro\":\"24.99€\",\"button_label\":\"Start now\",\"button_url\":\"https://chat.mistral.ai/upgrade\",\"is_team_plan\":true,\"color\":\"#FFE8AA\",\"popular\":false,\"features\":[{\"value\":\" Up to 6x Free",
+      "\",\"type\":\"Features\",\"name\":\"Voice mode\",\"locale\":\"en\"},{\"value\":\" Up to 200 / day",
+      "\",\"type\":\"Features\",\"name\":\"Agents\",\"locale\":\"en\"},{\"value\":\" Up to 5x Free",
+      "\",\"type\":\"Features\",\"name\":\"Web searches\",\"locale\":\"en\"},{\"value\":\" Up to 30x Free",
+      "\",\"type\":\"Features\",\"name\":\"Think mode\",\"locale\":\"en\"},{\"value\":\" Up to 5x Free",
+      "\",\"type\":\"Features\",\"name\":\"Libraries\",\"locale\":\"en\"},{\"value\":\" Up to 20x Free",
+      "\",\"type\":\"Features\",\"name\":\"Custom MCP connectors (beta)\",\"locale\":\"en\"},{\"value\":\" Unlimited",
+      "\",\"type\":\"Features\",\"name\":\"Projects\",\"locale\":\"en\"},{\"value\":\" Up to 40x Free"
+    ],
+    "totals": {
+      "removed": 548,
+      "added": 605,
+      "materialRemoved": 149,
+      "materialAdded": 114
+    }
+  },
+  {
+    "id": "mistral-ai-pricing-20260701051001",
+    "url": "https://mistral.ai/pricing",
+    "ts": "20260701051001",
+    "date": "2026-07-01",
+    "source": "wayback",
+    "prevTs": "20260603121511",
+    "kind": "price",
+    "score": 61,
+    "counts": {
+      "price": 19,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Mistral AI: 19 prices, 1 limit, 1 plan name changed ($3 → $5; $3 → $5)",
+    "pairs": [
+      {
+        "before": "$3 / 1,000 pages",
+        "after": "$5 / 1000 pages",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3",
+            "after": "$5"
+          }
+        ]
+      },
+      {
+        "before": "$3 / 1,000 pages",
+        "after": "$5 / 1000 pages",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3",
+            "after": "$5"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$4 / 1000 pages",
+      "$4 / 1000 pages",
+      "$0.003",
+      "$0.006",
+      "Free"
+    ],
+    "removed": [
+      "$49.98 for 2 users/mo",
+      "$50/mo/ X users -|+",
+      "Our flagship model that merges instruction-following, reasoning, and coding into a single 128B dense model. Released as open weights, under a modified MIT license.",
+      "Our flagship model that merges instruction-following, reasoning, and coding into a single 128B dense model. Released as open weights, under a modified MIT license.",
+      "$3",
+      "$0.2",
+      "$0.1",
+      "$0.3",
+      "$0.1",
+      "$0.3",
+      "$0.001 (audio) / $0.04 (text)",
+      "$0.04",
+      "$0.002 per min",
+      "$1",
+      "$0.15"
+    ],
+    "totals": {
+      "removed": 182,
+      "added": 153,
+      "materialRemoved": 26,
+      "materialAdded": 16
+    }
+  },
+  {
+    "id": "mistral-ai-pricing-api-20260806181159",
+    "url": "https://mistral.ai/pricing/api/",
+    "ts": "20260806181159",
+    "date": "2026-08-06",
+    "source": "wayback",
+    "prevTs": "20260701172032",
+    "kind": "price",
+    "score": 11,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Mistral AI: 3 prices, 1 plan name changed (removed “$2”)",
+    "pairs": [],
+    "added": [
+      "Free"
+    ],
+    "removed": [
+      "$2",
+      "$2",
+      "$0.1"
+    ],
+    "totals": {
+      "removed": 24,
+      "added": 27,
+      "materialRemoved": 3,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "mistral-ai-pricing-api-20260902202107",
+    "url": "https://mistral.ai/pricing/api/",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260806181159",
+    "kind": "price",
+    "score": 76,
+    "counts": {
+      "price": 23,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mistral AI: 23 prices, 4 limits changed (3B → 8B)",
+    "pairs": [
+      {
+        "before": "Classifier API model 3B",
+        "after": "Classifier API model (8B)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3B",
+            "after": "8B"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$1.4",
+      "$0.14",
+      "$4.4",
+      "$1.4",
+      "$0.14",
+      "$4.4"
+    ],
+    "removed": [
+      "$1.5",
+      "$7.5",
+      "$0.016",
+      "per 1k characters",
+      "$0.4",
+      "$2",
+      "$0.1",
+      "$0.3",
+      "$2",
+      "$5",
+      "$0.5",
+      "$1.5",
+      "Classifier API model 8B",
+      "Classifier API model 8B",
+      "$0.15",
+      "$0.15",
+      "A 7B sparse Mixture-of-Experts (SMoE). Uses 12.9B active parameters out of 45B total.",
+      "$0.7",
+      "$0.7",
+      "Mixtral 8x22B is currently the most performant open model. A performant, 22B sparse Mixture-of-Experts (SMoE). Uses only 39B active parameters out of 141B.",
+      "$2",
+      "$6"
+    ],
+    "totals": {
+      "removed": 164,
+      "added": 90,
+      "materialRemoved": 32,
+      "materialAdded": 16
+    },
+    "transition": true
+  }
+]

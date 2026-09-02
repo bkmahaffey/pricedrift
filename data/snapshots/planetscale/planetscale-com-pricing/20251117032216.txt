@@ -1,0 +1,113 @@
+$5 single node Postgres databases are here. Learn more
+Pricing
+Region
+For best performance, select the same region as your application. Request another region
+AWS us-east-1
+Database engine
+Postgres NEW
+The fastest cloud Postgres.
+Vitess
+MySQL at hyperscale.
+Cluster configuration
+Primary + multi-replica (HA)
+A primary and two included replica nodes ideal for high-availability workloads. 99.99% SLA.
+Single-node (non-HA)
+A single primary node suitable for non-high availability use cases.
+Cluster type
+High-availability clusters deployed across 3 availability zones.
+Amazon Elastic Block Storage
+Network-attached storage volumes with autoscaling storage. The perfect choice for smaller databases with lower I/O requirements.
+⚡️ PlanetScale Metal ⚡️
+Ultra-fast NVMe drives and unlimited IOPS make high-availability Metal clusters the fastest nodes available in the cloud.
+Architecture: aarch64 ( 10)
+x86-64 ( 10)
+PS-5 1/16 vCPU
+· 512 MB memory
+· 10 GB storage
+$15
+Includes 3 nodes
+CPU
+Memory
+1× primary database
+1/16 vCPU
+512 MB
+2× replica databases
+1/16 vCPU
+512 MB
+1/16 vCPU
+512 MB
+Total resources
+3/16 vCPU
+1.5 GB
+Storage
+Choose the disk size you would like to provision. Autoscaling, IOPS, and bandwidth settings can be configured in-app. View storage documentation
+GB
+Egress bandwidth
+100 GB of egress bandwidth is included. Additional usage: $0.06 / GB.
+GB
++ Show advanced options
+Estimated monthly total:
+$15
+Get started
+Plans
+PlanetScale plans are split up into two categories: Scaler Pro
+Enterprise
+All HA databases are configured for high availability with 1 primary and 2 replicas across 3 availability zones and include branching, managed version upgrades, automated backups, horizontal sharding options (Vitess only), and more. Non-HA single node Postgres starts at just $5/month. Learn more in the plans documentation
+.
+PlanetScale is also available for purchase in the AWS Marketplace
+and Google Cloud Marketplace
+.
+Have questions about Enterprise options, plan features, or pricing?
+Get in touch
+Want to bring your own cloud? Contact us
+to discuss PlanetScale Enterprise options.
+Vitess expertise
+Augment your team with our database experts, including the majority of the core Vitess maintainers
+Migration assistance
+Hands-on, proactive assistance in migrating your workload with no downtime
+Slack-based support
+Private shared Slack channel for fast communication
+More deployment options
+Multi-tenant, single-tenant, or in your own AWS / GCP account
+Business support included
+Enhanced response times from support engineers
+Sharding design consultation
+Work with our Solutions team to identify the optimal sharding scheme
+Custom pricing
+Bulk discounts and AWS/GCP Marketplace purchase options
+Additional regions
+Deploy in any AWS or GCP region with at least 3 availability zones
+Scaler Pro
+Scaler Pro is the default plan you get when you sign up at planetscale.com. It does not require a contract or any interaction with our Sales team. Pricing is resource-based, so you can upsize and downsize your instances as needed.
+Scaler Pro pricing model
+With Scaler Pro, you have two options for billing:
+Pay as you go — Pay month to month based on the price in the calculator above.
+Consumption commitment (up to 12% discount) — If you spend or intend to spend over $5,000 per year with PlanetScale, you can commit to one year of resources to receive a 2.5% discount off your annual bill. If you pay your annual bill upfront, you’ll receive an additional 10% off, for a total of 12.5%. You do not need to take any sales calls for this. Simply follow the instructions here
+and we’ll send you over an order form.
+The main factors that determine your price are:
+Instance and VTGate sizes
+Storage amount — First 10 GB included, and then $0.50 per GB per instance. We require a minimum of 3 instances for production branches to ensure high availability. Storage costs are included for Metal instances.
+Add-ons — Additional development branch hours, SSO, upgraded support
+For the full list of features and more information about the Scaler Pro plan, see our plans documentation
+.
+Enterprise
+Our Enterprise plan comes with all of the same platform features you get with Scaler Pro, but also includes upgraded levels of support and additional deployment options:
+Bring your own cloud — For larger companies or those with compliance policies that require your data to remain in your own cloud, PlanetScale Managed
+may be the best option for you. We can deploy PlanetScale into an AWS or GCP account that you own and we manage.
+Upgraded support — All Enterprise plans come with Business support
+and the option to upgrade to Enterprise support. The Enterprise support option is only available on Enterprise plans and gives you access to our team’s sharding/Vitess expertise through a shared Slack channel and bi-weekly meetings. Additionally, 15 minute response time for P1 tickets.
+PlanetScale Managed pricing model
+If you choose to deploy PlanetScale in your own AWS or GCP account, the required infrastructure is spun up in your account, and you are billed by your cloud provider for those infrastructure costs.
+This allows you to take advantage of the PlanetScale platform (branching, deploy requests, query monitoring, etc) in your own private environment.
+On top of the infrastructure fees that you pay directly to your cloud provider, you will pay a percentage of that cost to PlanetScale for the use of PlanetScale, infrastructure management, migration assistance, and ongoing support.
+For companies with existing AWS or GCP agreements, this option sometimes ends up less expensive than running on PlanetScale’s infrastructure, as you can take advantage of your AWS or GCP discounts for these infrastructure costs.
+When do I need Enterprise?
+If you need any of the following, Enterprise may be the best solution for you:
+Enterprise support — Shared Slack channel with our team and bi-weekly meetings where you can discuss database performance, optimizations, and more.
+You need hands-on evaluation and migration assistance
+You need your database deployed in a single-tenant environment
+You need a PCI DSS certified service provider
+You need to keep your data in your own AWS or GCP account
+You are interested in additional discounts only available on Enterprise
+Any other customizations — Our Enterprise plan offers a lot of flexibility, so if you have a requirement that’s not listed here, it’s best to reach out
+and we can see how we can help.

@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "baseten-co-pricing-20230815215815",
+    "url": "https://www.baseten.co/pricing/",
+    "ts": "20230815215815",
+    "date": "2023-08-15",
+    "source": "wayback",
+    "prevTs": "20230327045648",
+    "kind": "price",
+    "score": 33,
+    "counts": {
+      "price": 9,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Baseten: 9 prices, 3 limits changed (removed “starting at $0.00096 /min”; added “$0.00058 /min”)",
+    "pairs": [],
+    "added": [
+      "$0.00058 /min",
+      "T4 (16 GiB), 4 vCPU, 16 GiB",
+      "$0.01052 /min",
+      "A10 (24 GiB), 4 vCPU, 16 GiB",
+      "$0.02012 /min",
+      "V100 (16 GiB), 8 vCPU, 61 GiB",
+      "$0.06120 /min",
+      "A100 (80 GiB), 12 vCPU, 144 GiB",
+      "$0.10240 / min",
+      "H100 (80 GiB)",
+      "Unlimited workspace users"
+    ],
+    "removed": [
+      "starting at $0.00096 /min",
+      "starting at $0.01753 /min",
+      "starting at $0.03353 /min",
+      "starting at $0.10200 /min",
+      "Up to 5 users",
+      "Unlimited users"
+    ],
+    "totals": {
+      "removed": 38,
+      "added": 42,
+      "materialRemoved": 8,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "baseten-co-pricing-20231130051344",
+    "url": "https://www.baseten.co/pricing/",
+    "ts": "20231130051344",
+    "date": "2023-11-30",
+    "source": "wayback",
+    "prevTs": "20230815215815",
+    "kind": "price",
+    "score": 53,
+    "counts": {
+      "price": 12,
+      "limit": 9,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Baseten: 12 prices, 9 limits changed ($0.00058 → $0.01052; $0.01052 → $0.02408)",
+    "pairs": [
+      {
+        "before": "$0.00058 /min",
+        "after": "$0.01052/min",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.00058",
+            "after": "$0.01052"
+          }
+        ]
+      },
+      {
+        "before": "$0.01052 /min",
+        "after": "$0.02408/min",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.01052",
+            "after": "$0.02408"
+          }
+        ]
+      },
+      {
+        "before": "$0.06120 /min",
+        "after": "$0.03248/min",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.06120",
+            "after": "$0.03248"
+          }
+        ]
+      },
+      {
+        "before": "$0.10240 / min",
+        "after": "$0.05672/min",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.10240",
+            "after": "$0.05672"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "1 T4 GPU, 16 GiB VM, 4 vCPUs, 16 GiB",
+      "1 T4 GPU, 16 GiB VM, 16 vCPUs, 64 GiB",
+      "1 A10s GPU, 24 GiB VM, 4 vCPUs, 16 GiB",
+      "1 A10 GPU, 24 GiB VM, 16 vCPUs, 64 GiB",
+      "2 A10 GPU, 48 GiB VM, 24 vCPUs, 96 GiB",
+      "1 A100 GPU, 80 GiB VM, 12 vCPUs, 144 GiB",
+      "$0.10240/min",
+      "1 vCPU, 2GiB RAM",
+      "$0.00058/min",
+      "1 vCPU, 4GiB RAM",
+      "$0.0008/min",
+      "2 vCPUs, 8GiB RAM",
+      "$0.00173/min",
+      "4 vCPUs, 16GiB RAM",
+      "$0.00346/min",
+      "8 vCPUs, 32GiB RAM",
+      "$0.00691/min",
+      "16 vCPUs, 64GiB RAM",
+      "$0.01382/min"
+    ],
+    "removed": [
+      "Start with $30 of free credit!",
+      "T4 (16 GiB), 4 vCPU, 16 GiB",
+      "A10 (24 GiB), 4 vCPU, 16 GiB",
+      "V100 (16 GiB), 8 vCPU, 61 GiB",
+      "A100 (80 GiB), 12 vCPU, 144 GiB",
+      "H100 (80 GiB)"
+    ],
+    "totals": {
+      "removed": 29,
+      "added": 44,
+      "materialRemoved": 12,
+      "materialAdded": 25
+    }
+  },
+  {
+    "id": "baseten-co-pricing-20240221181005",
+    "url": "https://www.baseten.co/pricing/",
+    "ts": "20240221181005",
+    "date": "2024-02-21",
+    "source": "wayback",
+    "prevTs": "20231130051344",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 4,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Baseten: 4 prices, 3 limits changed ($0.02408 → $0.01414; 16GiB → 24GiB)",
+    "pairs": [
+      {
+        "before": "$0.02408/min",
+        "after": "$0.01414/min",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.02408",
+            "after": "$0.01414"
+          }
+        ]
+      },
+      {
+        "before": "1 T4 GPU, 16 GiB VM, 16 vCPUs, 64 GiB",
+        "after": "1 L4 GPU, 24 GiB VRAM, 4 vCPUs, 16 GiB",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "16GiB",
+            "after": "24GiB"
+          },
+          {
+            "before": "16",
+            "after": "4"
+          },
+          {
+            "before": "64GiB",
+            "after": "16GiB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "1 H100 GPU, 80 GiB VRAM, 26 vCPUs, 234 GiB",
+      "$0.16640/min",
+      "Mistral 7B Instruct"
+    ],
+    "removed": [
+      "1 A10 GPU, 24 GiB VM, 16 vCPUs, 64 GiB",
+      "$0.03248/min",
+      "2 A10 GPU, 48 GiB VM, 24 vCPUs, 96 GiB",
+      "$0.05672/min"
+    ],
+    "totals": {
+      "removed": 11,
+      "added": 15,
+      "materialRemoved": 7,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "baseten-co-pricing-20240419015031",
+    "url": "https://www.baseten.co/pricing/",
+    "ts": "20240419015031",
+    "date": "2024-04-19",
+    "source": "wayback",
+    "prevTs": "20240221181005",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Baseten: 2 prices, 1 limit, 1 plan name changed (removed “Mistral 7B Instruct”; added “🎉 Announcing our $40m Series B”)",
+    "pairs": [],
+    "added": [
+      "🎉 Announcing our $40m Series B",
+      "Pro Unlimited autoscaling and priority compute access",
+      "Unlimited number of replicas per model",
+      "Do you offer free credits to get started?",
+      "Yes, new Baseten accounts come with $30 of free credit so that you can start running models for free.",
+      "Get started free"
+    ],
+    "removed": [
+      "Unlimited models and versions",
+      "Unlimited workspace users",
+      "Mistral 7B Instruct"
+    ],
+    "totals": {
+      "removed": 50,
+      "added": 65,
+      "materialRemoved": 5,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "baseten-co-pricing-20240808040048",
+    "url": "https://www.baseten.co/pricing/",
+    "ts": "20240808040048",
+    "date": "2024-08-08",
+    "source": "wayback",
+    "prevTs": "20240419015031",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Baseten: 1 price changed (removed “🎉 Announcing our $40m Series B”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "🎉 Announcing our $40m Series B"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 3,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "baseten-co-pricing-20241105122208",
+    "url": "https://www.baseten.co/pricing/",
+    "ts": "20241105122208",
+    "date": "2024-11-05",
+    "source": "wayback",
+    "prevTs": "20240808040048",
+    "kind": "price",
+    "score": 4,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Baseten: 1 price, 1 limit changed (added “1 H100 MIG, 40 GiB VRAM, 13 vCPUs, 117 GiB”)",
+    "pairs": [],
+    "added": [
+      "1 H100 MIG, 40 GiB VRAM, 13 vCPUs, 117 GiB",
+      "$0.08250/min"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 12,
+      "added": 18,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "baseten-co-pricing-20250112170436",
+    "url": "https://www.baseten.co/pricing/",
+    "ts": "20250112170436",
+    "date": "2025-01-12",
+    "source": "wayback",
+    "prevTs": "20241105122208",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Baseten: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "baseten-co-pricing-20250214233921",
+    "url": "https://www.baseten.co/pricing/",
+    "ts": "20250214233921",
+    "date": "2025-02-14",
+    "source": "wayback",
+    "prevTs": "20250112170436",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 2,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Baseten: 2 prices, 6 limits changed (1 → 16GiB; 1 → 24GiB)",
+    "pairs": [
+      {
+        "before": "1 T4 GPU, 16 GiB VM, 4 vCPUs, 16 GiB",
+        "after": "16 GiB VM, 4 vCPUs, 16 GiB",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "1",
+            "after": "16GiB"
+          },
+          {
+            "before": "4",
+            "after": null
+          },
+          {
+            "before": "16GiB",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "1 L4 GPU, 24 GiB VRAM, 4 vCPUs, 16 GiB",
+        "after": "24 GiB VRAM, 4 vCPUs, 16 GiB",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "1",
+            "after": "24GiB"
+          },
+          {
+            "before": "24GiB",
+            "after": "16GiB"
+          },
+          {
+            "before": "4",
+            "after": null
+          },
+          {
+            "before": "16GiB",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "1 A100 GPU, 80 GiB VRAM, 12 vCPUs, 144 GiB",
+        "after": "80 GiB VRAM, 12 vCPUs, 144 GiB",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "1",
+            "after": "80GiB"
+          },
+          {
+            "before": "100",
+            "after": "12"
+          },
+          {
+            "before": "80GiB",
+            "after": "144GiB"
+          },
+          {
+            "before": "12",
+            "after": null
+          },
+          {
+            "before": "144GiB",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "1 H100 GPU, 80 GiB VRAM, 26 vCPUs, 234 GiB",
+        "after": "80 GiB VRAM, 26 vCPUs, 234 GiB",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "1",
+            "after": "80GiB"
+          },
+          {
+            "before": "100",
+            "after": "26"
+          },
+          {
+            "before": "80GiB",
+            "after": "234GiB"
+          },
+          {
+            "before": "26",
+            "after": null
+          },
+          {
+            "before": "234GiB",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "1 H100 MIG, 40 GiB VRAM, 13 vCPUs, 117 GiB",
+        "after": "40 GiB VRAM, 13 vCPUs, 117 GiB",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "1",
+            "after": "40GiB"
+          },
+          {
+            "before": "100",
+            "after": "13"
+          },
+          {
+            "before": "40GiB",
+            "after": "117GiB"
+          },
+          {
+            "before": "13",
+            "after": null
+          },
+          {
+            "before": "117GiB",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "24 GiB VM, 4 vCPUs, 16 GiB",
+      "$0.00086"
+    ],
+    "removed": [
+      "1 A10s GPU, 24 GiB VM, 4 vCPUs, 16 GiB",
+      "$0.0008/min"
+    ],
+    "totals": {
+      "removed": 21,
+      "added": 22,
+      "materialRemoved": 18,
+      "materialAdded": 18
+    }
+  },
+  {
+    "id": "baseten-co-pricing-20250405075159",
+    "url": "https://www.baseten.co/pricing/",
+    "ts": "20250405075159",
+    "date": "2025-04-05",
+    "source": "wayback",
+    "prevTs": "20250214233921",
+    "kind": "price",
+    "score": 21,
+    "counts": {
+      "price": 7,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Baseten: 7 prices changed (removed “$0.10240”; added “We raised a $75m series C to build the future…”)",
+    "pairs": [],
+    "added": [
+      "We raised a $75m series C to build the future of inference",
+      "$0.06667",
+      "$0.10833",
+      "$0.06250"
+    ],
+    "removed": [
+      "$0.10240",
+      "$0.16640",
+      "$0.08250"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 6,
+      "materialRemoved": 3,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "baseten-co-pricing-20250525082207",
+    "url": "https://www.baseten.co/pricing/",
+    "ts": "20250525082207",
+    "date": "2025-05-25",
+    "source": "wayback",
+    "prevTs": "20250405075159",
+    "kind": "price",
+    "score": 41,
+    "counts": {
+      "price": 11,
+      "limit": 3,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Baseten: 11 prices, 3 limits, 1 plan name changed (80GiB → 40GiB; 40GiB → 180GiB)",
+    "pairs": [
+      {
+        "before": "80 GiB VRAM, 26 vCPUs, 234 GiB",
+        "after": "40 GiB VRAM, 13 vCPUs, 117 GiB RAM",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "80GiB",
+            "after": "40GiB"
+          },
+          {
+            "before": "26",
+            "after": "13"
+          },
+          {
+            "before": "234GiB",
+            "after": "117GiB"
+          }
+        ]
+      },
+      {
+        "before": "40 GiB VRAM, 13 vCPUs, 117 GiB",
+        "after": "180 GiB VRAM, 28 vCPUs, 384 GiB RAM",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "40GiB",
+            "after": "180GiB"
+          },
+          {
+            "before": "13",
+            "after": "28"
+          },
+          {
+            "before": "117GiB",
+            "after": "384GiB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "1M tokens",
+      "$2.55",
+      "$5.95",
+      "$0.77",
+      "$0.19",
+      "$0.72",
+      "$0.13",
+      "$0.50",
+      "80 GiB VRAM, 26 vCPUs, 234 GiB RAM",
+      "$0.16633"
+    ],
+    "removed": [
+      "We raised a $75m series C to build the future of inference",
+      "Get started with $30 in credit",
+      "Unlimited number of replicas per model",
+      "Get started for free",
+      "Yes, new Baseten accounts come with $30 of free credit so that you can start running models for free.",
+      "Get started free"
+    ],
+    "totals": {
+      "removed": 81,
+      "added": 109,
+      "materialRemoved": 20,
+      "materialAdded": 24
+    }
+  },
+  {
+    "id": "baseten-co-pricing-20250613141117",
+    "url": "https://www.baseten.co/pricing/",
+    "ts": "20250613141117",
+    "date": "2025-06-13",
+    "source": "wayback",
+    "prevTs": "20250525082207",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Baseten: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "baseten-co-pricing-20250715175056",
+    "url": "https://www.baseten.co/pricing/",
+    "ts": "20250715175056",
+    "date": "2025-07-15",
+    "source": "wayback",
+    "prevTs": "20250613141117",
+    "kind": "price",
+    "score": 28,
+    "counts": {
+      "price": 7,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Baseten: 7 prices, 4 limits changed (added “16 GiB VM, 4 vCPUs, 16 GiB RAM”)",
+    "pairs": [],
+    "added": [
+      "16 GiB VM, 4 vCPUs, 16 GiB RAM",
+      "$0.01052",
+      "24 GiB VRAM, 4 vCPUs, 16 GiB RAM",
+      "$0.01414",
+      "24 GiB VM, 4 vCPUs, 16 GiB RAM",
+      "$0.02012",
+      "80 GiB VRAM, 12 vCPUs, 144 GiB RAM",
+      "$0.06667",
+      "40 GiB VRAM, 13 vCPUs, 117 GiB RAM",
+      "$0.0625",
+      "80 GiB VRAM, 26 vCPUs, 234 GiB RAM",
+      "$0.10833",
+      "180 GiB VRAM, 28 vCPUs, 384 GiB RAM",
+      "$0.16633"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 36,
+      "materialRemoved": 0,
+      "materialAdded": 14
+    }
+  },
+  {
+    "id": "baseten-co-pricing-20250805175335",
+    "url": "https://www.baseten.co/pricing/",
+    "ts": "20250805175335",
+    "date": "2025-08-05",
+    "source": "wayback",
+    "prevTs": "20250715175056",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Baseten: 2 prices changed (added “$0.60”)",
+    "pairs": [],
+    "added": [
+      "$0.60",
+      "$2.50"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "baseten-co-pricing-20250917205230",
+    "url": "https://www.baseten.co/pricing/",
+    "ts": "20250917205230",
+    "date": "2025-09-17",
+    "source": "wayback",
+    "prevTs": "20250805175335",
+    "kind": "price",
+    "score": 33,
+    "counts": {
+      "price": 10,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Baseten: 10 prices, 2 limits changed (added “GPT OSS 120B”)",
+    "pairs": [],
+    "added": [
+      "GPT OSS 120B",
+      "$0.10",
+      "$0.50",
+      "Qwen3 Coder 480B",
+      "$0.38",
+      "$1.53",
+      "Qwen3 235B 2507",
+      "$0.22",
+      "$0.80",
+      "$0.60",
+      "$2.50",
+      "$0.50",
+      "$1.50"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 21,
+      "materialRemoved": 0,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "baseten-co-pricing-20251005215705",
+    "url": "https://www.baseten.co/pricing/",
+    "ts": "20251005215705",
+    "date": "2025-10-05",
+    "source": "wayback",
+    "prevTs": "20250917205230",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 4,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Baseten: 4 prices changed (removed “$0.19”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$0.19",
+      "$0.72",
+      "$0.13",
+      "$0.50"
+    ],
+    "totals": {
+      "removed": 8,
+      "added": 0,
+      "materialRemoved": 4,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "baseten-co-pricing-20251111175348",
+    "url": "https://www.baseten.co/pricing/",
+    "ts": "20251111175348",
+    "date": "2025-11-11",
+    "source": "wayback",
+    "prevTs": "20251005215705",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Baseten: 2 prices changed (added “$0.60”)",
+    "pairs": [],
+    "added": [
+      "$0.60",
+      "$2.20",
+      "Yes, new Baseten accounts come with credits so you can get to know the UI and experiment with deployments for free."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 22,
+      "materialRemoved": 0,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "baseten-co-pricing-20251225130801",
+    "url": "https://www.baseten.co/pricing/",
+    "ts": "20251225130801",
+    "date": "2025-12-25",
+    "source": "wayback",
+    "prevTs": "20251111175348",
+    "kind": "price",
+    "score": 47,
+    "counts": {
+      "price": 6,
+      "limit": 15,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Baseten: 6 prices, 15 limits changed (removed “Qwen3 235B 2507”; added “$0.30”)",
+    "pairs": [],
+    "added": [
+      "$0.30",
+      "$0.45",
+      "16 GiB VM",
+      "24 GiB VRAM",
+      "24 GiB VM",
+      "80 GiB VRAM",
+      "40 GiB VRAM",
+      "80 GiB VRAM",
+      "180 GiB VRAM",
+      "16 GiB VM",
+      "24 GiB VRAM",
+      "24 GiB VM",
+      "80 GiB VRAM",
+      "40 GiB VRAM",
+      "80 GiB VRAM",
+      "180 GiB VRAM"
+    ],
+    "removed": [
+      "Qwen3 235B 2507",
+      "$0.22",
+      "$0.80",
+      "$2.55",
+      "$5.95",
+      "16 GiB VM, 4 vCPUs, 16 GiB RAM",
+      "24 GiB VRAM, 4 vCPUs, 16 GiB RAM",
+      "24 GiB VM, 4 vCPUs, 16 GiB RAM",
+      "80 GiB VRAM, 12 vCPUs, 144 GiB RAM",
+      "40 GiB VRAM, 13 vCPUs, 117 GiB RAM",
+      "80 GiB VRAM, 26 vCPUs, 234 GiB RAM",
+      "180 GiB VRAM, 28 vCPUs, 384 GiB RAM",
+      "16 GiB VM, 4 vCPUs, 16 GiB RAM",
+      "24 GiB VRAM, 4 vCPUs, 16 GiB RAM",
+      "24 GiB VM, 4 vCPUs, 16 GiB RAM",
+      "80 GiB VRAM, 12 vCPUs, 144 GiB RAM",
+      "40 GiB VRAM, 13 vCPUs, 117 GiB RAM",
+      "80 GiB VRAM, 26 vCPUs, 234 GiB RAM",
+      "180 GiB VRAM, 28 vCPUs, 384 GiB RAM"
+    ],
+    "totals": {
+      "removed": 22,
+      "added": 19,
+      "materialRemoved": 19,
+      "materialAdded": 16
+    }
+  },
+  {
+    "id": "baseten-co-pricing-20260122204626",
+    "url": "https://www.baseten.co/pricing/",
+    "ts": "20260122204626",
+    "date": "2026-01-22",
+    "source": "wayback",
+    "prevTs": "20251225130801",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Baseten: 2 prices changed (added “$0.60”)",
+    "pairs": [],
+    "added": [
+      "$0.60",
+      "$2.20"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 11,
+      "added": 12,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "baseten-co-pricing-20260210202906",
+    "url": "https://www.baseten.co/pricing/",
+    "ts": "20260210202906",
+    "date": "2026-02-10",
+    "source": "wayback",
+    "prevTs": "20260122204626",
+    "kind": "price",
+    "score": 22,
+    "counts": {
+      "price": 7,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Baseten: 7 prices, 1 limit changed (removed “Qwen3 Coder 480B”; added “Our Series E: we raised $300M at a $5B valuat…”)",
+    "pairs": [],
+    "added": [
+      "Our Series E: we raised $300M at a $5B valuation to power a multi-model future. READ",
+      "$3.00",
+      "$0.60"
+    ],
+    "removed": [
+      "Qwen3 Coder 480B",
+      "$0.38",
+      "$1.53",
+      "$0.30",
+      "$0.45"
+    ],
+    "totals": {
+      "removed": 16,
+      "added": 17,
+      "materialRemoved": 9,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "baseten-co-pricing-20260304092024",
+    "url": "https://www.baseten.co/pricing/",
+    "ts": "20260304092024",
+    "date": "2026-03-04",
+    "source": "wayback",
+    "prevTs": "20260210202906",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 6,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Baseten: 6 prices changed (removed “Our Series E: we raised $300M at a $5B valuat…”; added “$0.30”)",
+    "pairs": [],
+    "added": [
+      "$0.30",
+      "$1.20 Try Model API",
+      "$0.95",
+      "$3.15 Try Model API",
+      "$0.77 Try Model API"
+    ],
+    "removed": [
+      "Our Series E: we raised $300M at a $5B valuation to power a multi-model future. READ"
+    ],
+    "totals": {
+      "removed": 15,
+      "added": 24,
+      "materialRemoved": 8,
+      "materialAdded": 12
+    }
+  },
+  {
+    "id": "baseten-co-pricing-20260409194825",
+    "url": "https://www.baseten.co/pricing/",
+    "ts": "20260409194825",
+    "date": "2026-04-09",
+    "source": "wayback",
+    "prevTs": "20260304092024",
+    "kind": "price",
+    "score": 8,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Baseten: 2 prices, 1 limit changed (added “$0.30”)",
+    "pairs": [],
+    "added": [
+      "$0.30",
+      "$0.75 Try Model API",
+      "GPT OSS 120B",
+      "GPT OSS 120B"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 20,
+      "materialRemoved": 0,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "baseten-co-pricing-20260514191011",
+    "url": "https://www.baseten.co/pricing/",
+    "ts": "20260514191011",
+    "date": "2026-05-14",
+    "source": "wayback",
+    "prevTs": "20260409194825",
+    "kind": "price",
+    "score": 60,
+    "counts": {
+      "price": 20,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Baseten: 20 prices changed ($2.20 → $3.48; $3.00 → $1.50)",
+    "pairs": [
+      {
+        "before": "$2.20 Try Model API",
+        "after": "$3.48 Try Model API",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.20",
+            "after": "$3.48"
+          }
+        ]
+      },
+      {
+        "before": "$3.00 Try Model API",
+        "after": "$1.50 Try Model API",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.00",
+            "after": "$1.50"
+          }
+        ]
+      },
+      {
+        "before": "$2.50 Try Model API",
+        "after": "$3.90 Try Model API",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.50",
+            "after": "$3.90"
+          }
+        ]
+      },
+      {
+        "before": "$2.50 Try Model API",
+        "after": "$3.00 Try Model API",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.50",
+            "after": "$3.00"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$1.74",
+      "$0.145",
+      "$0.25",
+      "$1.00",
+      "$0.20",
+      "$0.12",
+      "$0.06",
+      "$0.06",
+      "$0.20",
+      "$0.12"
+    ],
+    "removed": [
+      "$0.60",
+      "$0.60",
+      "$0.60",
+      "$1.50 Try Model API",
+      "$0.77",
+      "$0.77 Try Model API"
+    ],
+    "totals": {
+      "removed": 31,
+      "added": 33,
+      "materialRemoved": 12,
+      "materialAdded": 16
+    }
+  },
+  {
+    "id": "baseten-co-pricing-20260621051138",
+    "url": "https://www.baseten.co/pricing/",
+    "ts": "20260621051138",
+    "date": "2026-06-21",
+    "source": "wayback",
+    "prevTs": "20260514191011",
+    "kind": "price",
+    "score": 93,
+    "counts": {
+      "price": 31,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Baseten: 31 prices changed ($3.48 → $4.50; $1.50 → $4.30)",
+    "pairs": [
+      {
+        "before": "$3.48 Try Model API",
+        "after": "$4.50 Try Model API",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.48",
+            "after": "$4.50"
+          }
+        ]
+      },
+      {
+        "before": "$1.50 Try Model API",
+        "after": "$4.30 Try Model API",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.50",
+            "after": "$4.30"
+          }
+        ]
+      },
+      {
+        "before": "$3.90 Try Model API",
+        "after": "$3.15 Try Model API",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.90",
+            "after": "$3.15"
+          }
+        ]
+      },
+      {
+        "before": "$1.20 Try Model API",
+        "after": "$3.48 Try Model API",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.20",
+            "after": "$3.48"
+          }
+        ]
+      },
+      {
+        "before": "$3.15 Try Model API",
+        "after": "$2.20 Try Model API",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.15",
+            "after": "$2.20"
+          }
+        ]
+      },
+      {
+        "before": "$2.20 Try Model API",
+        "after": "$4.00 Try Model API",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.20",
+            "after": "$4.00"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$1.50",
+      "$4.50 Try",
+      "$1.30",
+      "$0.26",
+      "$4.30 Try",
+      "$3.15 Try",
+      "$2.20 Try",
+      "$0.95",
+      "$0.16",
+      "$4.00 Try",
+      "$0.95",
+      "$0.16",
+      "$4.00 Try Model API",
+      "$4.00 Try",
+      "$3.00 Try",
+      "$0.60",
+      "$0.12",
+      "$2.40 Try Model API",
+      "$2.40 Try",
+      "$0.75 Try",
+      "$3.48 Try"
+    ],
+    "removed": [
+      "$0.25",
+      "$1.00",
+      "$0.06",
+      "$0.20"
+    ],
+    "totals": {
+      "removed": 31,
+      "added": 52,
+      "materialRemoved": 17,
+      "materialAdded": 34
+    }
+  },
+  {
+    "id": "baseten-co-pricing-20260705011321",
+    "url": "https://www.baseten.co/pricing/",
+    "ts": "20260705011321",
+    "date": "2026-07-05",
+    "source": "wayback",
+    "prevTs": "20260621051138",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 6,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Baseten: 6 prices changed ($4.50 → $4.40; $4.50 → $4.40)",
+    "pairs": [
+      {
+        "before": "$4.50 Try Model API",
+        "after": "$4.40 Try Model API",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$4.50",
+            "after": "$4.40"
+          }
+        ]
+      },
+      {
+        "before": "$4.50 Try",
+        "after": "$4.40 Try",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$4.50",
+            "after": "$4.40"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$1.40",
+      "$0.26"
+    ],
+    "removed": [
+      "$1.50",
+      "$0.30"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 5,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "baseten-co-pricing-20260803194255",
+    "url": "https://www.baseten.co/pricing/",
+    "ts": "20260803194255",
+    "date": "2026-08-03",
+    "source": "wayback",
+    "prevTs": "20260705011321",
+    "kind": "price",
+    "score": 107,
+    "counts": {
+      "price": 35,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Baseten: 35 prices, 1 limit changed ($4.40 → $15.00; $4.40 → $15.00)",
+    "pairs": [
+      {
+        "before": "$4.40 Try Model API",
+        "after": "$15.00 Try Model API",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$4.40",
+            "after": "$15.00"
+          }
+        ]
+      },
+      {
+        "before": "$4.40 Try",
+        "after": "$15.00 Try",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$4.40",
+            "after": "$15.00"
+          }
+        ]
+      },
+      {
+        "before": "$3.00 Try Model API",
+        "after": "$2.20 Try Model API",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.00",
+            "after": "$2.20"
+          }
+        ]
+      },
+      {
+        "before": "$3.00 Try",
+        "after": "$2.20 Try",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.00",
+            "after": "$2.20"
+          }
+        ]
+      },
+      {
+        "before": "$0.75 Try Model API",
+        "after": "$0.26 Try Model API",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.75",
+            "after": "$0.26"
+          }
+        ]
+      },
+      {
+        "before": "$0.75 Try",
+        "after": "$0.26 Try",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.75",
+            "after": "$0.26"
+          }
+        ]
+      },
+      {
+        "before": "$4.30 Try Model API",
+        "after": "$1.20 Try Model API",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$4.30",
+            "after": "$1.20"
+          }
+        ]
+      },
+      {
+        "before": "$3.15 Try Model API",
+        "after": "$4.05 Try Model API",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.15",
+            "after": "$4.05"
+          }
+        ]
+      },
+      {
+        "before": "$2.20 Try Model API",
+        "after": "$4.40 Try Model API",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.20",
+            "after": "$4.40"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$3.00",
+      "$0.50",
+      "$0.10",
+      "$1.20 Try",
+      "$1.00",
+      "$0.17",
+      "$4.05 Try",
+      "$0.14",
+      "$4.40 Try",
+      "$2.10",
+      "$0.21",
+      "$6.60 Try Model API",
+      "$6.60 Try",
+      "$0.13",
+      "$0.028"
+    ],
+    "removed": [
+      "$0.26",
+      "$1.30",
+      "$0.26",
+      "$4.30 Try",
+      "$0.20",
+      "$3.15 Try",
+      "$0.60",
+      "$0.12",
+      "$2.20 Try",
+      "$0.95",
+      "$0.06",
+      "GPT OSS 120B",
+      "GPT OSS 120B"
+    ],
+    "totals": {
+      "removed": 43,
+      "added": 49,
+      "materialRemoved": 24,
+      "materialAdded": 26
+    }
+  },
+  {
+    "id": "baseten-co-pricing-20260902202107",
+    "url": "https://www.baseten.co/pricing/",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260803194255",
+    "kind": "price",
+    "score": 50,
+    "counts": {
+      "price": 16,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Baseten: 16 prices, 1 limit changed ($6.60 → $0.50; $2.20 → $4.40)",
+    "pairs": [
+      {
+        "before": "$6.60 Try Model API",
+        "after": "$0.50 Try Model API",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$6.60",
+            "after": "$0.50"
+          }
+        ]
+      },
+      {
+        "before": "$2.20 Try Model API",
+        "after": "$4.40 Try Model API",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.20",
+            "after": "$4.40"
+          }
+        ]
+      },
+      {
+        "before": "$0.26 Try Model API",
+        "after": "$6.60 Try Model API",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.26",
+            "after": "$6.60"
+          }
+        ]
+      },
+      {
+        "before": "$3.48 Try Model API",
+        "after": "$2.20 Try Model API",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.48",
+            "after": "$2.20"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0.15",
+      "$0.03",
+      "$0.50 Try",
+      "$1.40",
+      "$0.14",
+      "$4.40 Try",
+      "$1.32",
+      "$0.132",
+      "$3.96 Try Model API",
+      "$3.96 Try",
+      "$3.48 Try",
+      "$0.26 Try",
+      "Qwen3.8-27B",
+      "Qwen3.8-27B"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 39,
+      "added": 57,
+      "materialRemoved": 20,
+      "materialAdded": 34
+    },
+    "transition": true
+  }
+]

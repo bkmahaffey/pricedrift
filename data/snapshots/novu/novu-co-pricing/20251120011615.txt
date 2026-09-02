@@ -1,0 +1,188 @@
+Flexible pricing
+for companies and developers
+Free
+$0
+/ month
+GET STARTED
+No credit card required
+A complete starter toolkit for exploring Novu and sending your first notifications.
+Includes:
+10,000 workflow runs / month
+All channels: Email, In-app, SMS, Chat, Push
+US + EU data residency
+Up to 20 workflows
+2 environments (Dev + Prod)
+Activity feed retention: 24 hours
+Up to 3 team members
+Pro
+Starting from $30
+/ month
+GET STARTED
+More scale and flexibility - ideal for teams moving beyond experimentation.
+Everything in Free, plus:
+30,000+ workflow runs / month
+7-day activity feed retention
+Remove Novu branding
+Advanced email editor (blocks, layouts)
+Higher rate limits & faster processing
+Team
+Starting from $250
+/ month
+GET STARTED
+Built for growing engineering teams sending meaningful volume into production.
+Everything in Pro, plus:
+250,000+ workflow runs / month
+Up to 10 environments (Staging, QA, Pre-prod…)
+90-day activity feed retention
+Unlimited team members
+Unlimited workflows
+Role-Based Access Control (RBAC)
+Expanded rate limits (600 RPS triggers)
+Enterprise
+Custom
+Contact us
+Enterprise-grade scale, compliance, support, and hosting options.
+Everything in Team, plus:
+5M+ workflow runs / month (custom volume tiers)
+Unlimited environments
+Custom retention policies (feed, audit, logs)
+Custom delay & digest windows
+SOC 2 / ISO reports, HIPAA BAA, compliance reviews
+Dedicated SSO (SAML / OIDC, SCIM)
+Private Slack/Teams support channel
+Advanced data residency (SG, UK, AU, JP, KR, custom regions)
+Self-hosted + Managed VPC deployment options
+Notifications brands count on
+Ensuring seamless notifications from business to users, with zero hassle.
+Compare our plans
+Platform & Scale Monthly cost
+Included workflow runs A workflow run represents a single execution of a notification workflow.
+Each time you trigger a workflow to send notifications (across one or multiple channels) to a subscriber, it counts as one workflow run.
+Additional workflow runs
+Workflow limits
+Environments Environments allow you to separate your notification workflows across different stages of your development lifecycle.
+Create distinct environments like Development, Staging, and Production to test and manage your notifications safely before deploying to users.
+Subscribers End-users or recipients who receive notifications through your workflows. Each subscriber has a unique subscriberId and can include attributes like email, phone, name, locale, and custom data.
+Subscribers can be created via API, automatically when triggering workflows, or in bulk (up to 500 per request). They represent the "who" in your notification system—the individuals receiving notifications across all channels.
+Throughput (events RPS) Throughput measures the maximum number of notification events you can trigger per second (RPS = Requests Per Second).
+Higher throughput allows you to send more notifications simultaneously, which is essential for high-volume applications and time-sensitive alerts.
+Activity feed retention Activity feed retention determines how long notification data is stored and accessible in your activity feed.
+Longer retention periods allow you to review historical notifications, debug issues, and maintain audit trails for compliance purposes.
+Workflow Logic & Delivery Multi-channel support Unified API for sending notifications across five channels: Email, SMS, Push, Chat, and In-App/Inbox.
+Trigger all channels with a single API call while Novu handles provider routing, failover, and delivery tracking across all channels.
+Delay windows Pauses workflow execution for a specified duration before proceeding to the next step. Supports regular (fixed time), scheduled (specific date/time), and dynamic (payload-based) delays.
+Common use cases: send follow-up emails 24 hours after registration, trigger reminders, schedule notifications for specific dates, or allow users time to cancel actions.
+Digest windows Aggregates multiple trigger events into a single notification to prevent notification fatigue. Collects events during a time window, then sends one consolidated message.
+Supports regular digest (duration-based batching) and scheduled digest (repeating schedule with cron). Use digestKey to group events by specific payload fields. Access digested data via step.events in subsequent steps.
+Code-first workflows TypeScript SDK that allows you to define notification workflows as code in your application using @novu/framework. Define workflows programmatically with full type safety and version control.
+Benefits: Type safety with Zod schemas, version control in your codebase, unit testing, and collaboration where developers define structure and non-technical users modify content via Dashboard.
+Topics Grouping mechanism that works like mailing lists or broadcast groups—send notifications to multiple subscribers at once by targeting a topic instead of individual subscriber IDs.
+Create topics with unique keys, add/remove subscribers, and trigger workflows to entire topics. Perfect for announcements, region-based notifications, or role-based messaging (e.g., all admins).
+Multi-tenancy support Multi-tenancy enables you to manage notifications for multiple organizations or teams within a single Novu account.
+Isolate data and configurations per tenant while maintaining centralized management and shared infrastructure.
+Throttle step The Throttle step limits the number of workflow executions within a specified time window to prevent duplicate or excessive notifications.
+Configure fixed or dynamic time windows to control notification frequency—perfect for limiting high-frequency alerts, preventing spam from cron jobs, or managing notifications across multiple projects or contexts.
+Components & End-User Features <Inbox /> component A pre-built, customizable in-app notification inbox that you can embed directly into your application.
+Provides a drop-in UI component with real-time notifications, read/unread states, and action handling—no need to build your own notification center from scratch.
+<Preferences /> component A pre-built UI component that allows end-users to manage notification preferences directly within your app.
+Displays global preferences (channel-level settings across all workflows) and workflow preferences (per-workflow settings), enabling users to opt in or out of specific notification types and channels.
+Headless components "Bring your own" UI components using custom render props and hooks that let you replace default UI elements with your own React components while Novu handles the notification logic.
+Includes custom render props (renderNotification, renderAvatar, renderSubject, renderBody, etc.) and hooks-only access for React Native. Framework-agnostic support via the NovuUI class for Angular, Vue, and vanilla JS.
+Inbox feed retention The time period that notification data is stored and accessible in the in-app inbox feed for your end-users.
+Longer retention periods allow users to review past notifications and maintain notification history within your application.
+Email editor (blocks) A WYSIWYG visual editor for creating email templates using prebuilt content blocks like text, headings, images, buttons, and custom HTML.
+Best suited for quick prototyping and collaboration with non-technical stakeholders.
+Custom layouts Reusable components used with email steps to bring consistency, maintainability, and efficiency to your email communications.
+Create layouts with headers, footers, and branding elements and reuse them across multiple email steps and workflows—such as transactional, marketing, or newsletter types.
+Remove Novu branding Remove "Powered by Novu" branding from your notification components and emails.
+Present a fully white-labeled experience to your end-users with no third-party branding visible in your notification interfaces.
+Translations (i18n) Multi-language support for workflows that automatically adapts notifications to each subscriber's preferred language.
+Use JSON-based translation files and {{t.key}} syntax in Email or In-App editors. Customize content per workflow or layout to improve communication across geographies.
+Administration & Security Team members
+MFA
+Standard SSO (Google/GitHub)
+Audit logs
+RBAC Role-Based Access Control allows organizations to manage user permissions and restrict access to system resources based on assigned roles.
+Supports Admin (full access) and Member (limited permissions) roles. When disabled, all authenticated users have full access. Securely control who can manage environments, API keys, integrations, and other resources.
+Custom SSO / OIDC Enterprise authentication that allows organizations to integrate their own identity providers (Okta, Azure AD, Auth0, etc.) for user authentication.
+Supports SAML SSO and OIDC protocols. Enables centralized user management, enforcement of corporate security policies, and compliance with enterprise authentication requirements—distinct from standard built-in authentication (Google/GitHub).
+Compliance & SLA GDPR General Data Protection Regulation compliance ensures Novu meets European data protection requirements for handling user data.
+Available on all tiers as a baseline requirement. Includes support for data deletion, user privacy controls, and proper data handling. Enterprise deployments may have additional GDPR compliance configurations based on specific deployment needs.
+SOC 2 / ISO 27001 Report Formal security compliance reports that demonstrate Novu's commitment to information security through independent audits and certifications.
+SOC 2: Independent CPA audit against AICPA Trust Services Criteria (security, availability, confidentiality). ISO 27001: International standard for Information Security Management Systems (ISMS). Both validate robust security practices and build trust with enterprise customers.
+HIPAA BAA Business Associate Agreement - A legally binding contract required for healthcare organizations to ensure Protected Health Information (PHI) is protected according to HIPAA regulations.
+Specifies how PHI can be used, requires implementation of safeguards, mandates breach reporting, and ensures secure data handling. Essential for healthcare providers, insurers, and any organization handling patient data.
+Custom security reviews
+DPA Data Processing Agreement (DPA) - Legally binding contract between data controller and processor that defines how personal data will be handled, protected, and processed. Required under GDPR and privacy regulations.
+Specifies security measures, breach notification procedures, data deletion/return terms, subprocessor management, and ensures compliance responsibilities. Standard DPAs available on all tiers; Enterprise offers custom terms.
+Uptime SLA
+Data Residency 🇺🇸 United States
+🇪🇺 European Union
+🇸🇬 Singapore
+🇬🇧 United Kingdom
+🇦🇺 Australia
+🇯🇵 Japan
+🇰🇷 South Korea
+Other
+Hosting Models Novu Cloud Cloud-managed SaaS service with zero infrastructure management, automatic updates, and enterprise-grade capabilities built for high-volume notification delivery.
+Includes advanced security (SAML SSO, MFA), compliance (SOC 2, ISO 27001, HIPAA BAA), unlimited provider integrations, custom environments, branding removal, and priority support. Extends open-source capabilities with consumable, scalable infrastructure.
+Self-hosted (OSS) Open-source, self-deployable version (MIT licensed) that runs on your own infrastructure, giving you complete control over your notification system and data.
+Deploy via Docker Compose, Kubernetes/Helm, or manual installation. Ideal for organizations with strict data residency requirements, compliance needs, or avoiding vendor lock-in. Includes unlimited retention and community-driven support.
+Self-hosted (Enterprise) Enterprise-grade self-hosted solution that combines full infrastructure control with premium features. Includes auto-translations, unlimited service levels, advanced Redis architecture, and all Enterprise capabilities from Novu Cloud.
+Ideal for large enterprises requiring both infrastructure control and premium features, with compliance certifications and professional services. Deployable via Kubernetes/Helm with horizontal scaling support.
+Managed On-Prem Fully managed on-premises deployment where Novu operates and maintains the infrastructure within your own environment or dedicated infrastructure. Combines the control and compliance benefits of on-premises hosting with the operational simplicity of a managed service.
+Provides enhanced security, compliance guarantees, and performance SLAs with complete data isolation. Includes multi-region support for data residency requirements. Ideal for enterprises with strict regulatory requirements or data sovereignty needs without the operational burden.
+Free
+GET STARTED
+$0 10K — 20 2 Unlimited 60 24h
+24h 24h
+30 days 1
+3 Basic
+Standard 99.9%
+Pro
+GET STARTED
+From $30 30K $1.20 per 1K 20 2 Unlimited 240 7 days
+7 days 7 days
+90 days Unlimited
+3 Basic
+Standard 99.9%
+Team
+GET STARTED
+From $250 250K $1.20 per 1K Unlimited Up to 10 Unlimited 600 90 days
+90 days 90 days
+90 days Unlimited
+Unlimited Enhanced
+Custom 99.9%
+Enterprise
+Contact Us
+Custom 5M+ Custom Unlimited Unlimited Unlimited Custom Custom
+Custom Custom
+Custom Unlimited
+Unlimited Full
+Custom Custom
+Contact Us
+Not sure what plan fits your needs?
+Schedule a call with our team to find the perfect plan for your use case
+Schedule a Call
+Frequently asked questions
+What is a workflow run?
+How is pricing calculated?
+What happens if I exceed my monthly workflow run limit?
+Do you charge per notification or per user?
+Can I use Novu free of charge?
+Do you offer annual or volume discounts?
+Which regions do you support and how is data residency handled?
+Is Novu HIPAA compliant? Do you sign BAAs?
+What data does Novu store and log?
+What is your Service Level Agreement (SLA)?
+Do you offer an Enterprise plan?
+What are the differences between Novu Cloud, Open Source, and Enterprise Self‑Hosted?
+Does Novu support multi‑tenant applications?
+How hard is it to migrate to Novu?
+What is included in the Inbox component? Can I bring my own UI?
+How many notifications can I send on Novu Cloud?
+You're five minutes away from your first Novu-powered notification
+Create a free account, send your first notification, all before your coffee gets cold... no credit card required.
+GET STARTED
+Contact us
+Schedule a Call

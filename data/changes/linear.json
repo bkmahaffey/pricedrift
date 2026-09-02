@@ -1,0 +1,369 @@
+[
+  {
+    "id": "linear-app-pricing-20231206064600",
+    "url": "https://linear.app/pricing",
+    "ts": "20231206064600",
+    "date": "2023-12-06",
+    "source": "wayback",
+    "prevTs": "20230117232341",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Linear: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Best for 1-50 users"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 16,
+      "added": 22,
+      "materialRemoved": 3,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "linear-app-pricing-20240603184110",
+    "url": "https://linear.app/pricing",
+    "ts": "20240603184110",
+    "date": "2024-06-03",
+    "source": "wayback",
+    "prevTs": "20231206064600",
+    "kind": "price",
+    "score": 22,
+    "counts": {
+      "price": 3,
+      "limit": 2,
+      "plan": 5
+    },
+    "material": true,
+    "headline": "Linear: 3 prices, 2 limits, 5 plan names changed (20 → $8; $14 → $12)",
+    "pairs": [
+      {
+        "before": "Standard $8 per user/month -20%",
+        "after": "$ 8 per user/month $ 8 per user/month",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "20",
+            "after": "$8"
+          }
+        ]
+      },
+      {
+        "before": "Plus $14 per user/month",
+        "after": "$ 12 per user/month $ 12 per user/month",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "$14",
+            "after": "$12"
+          },
+          {
+            "before": null,
+            "after": "$12"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free",
+      "$0",
+      "All free plan features and…",
+      "Unlimited teams",
+      "Free Get started",
+      "Free",
+      "Unlimited",
+      "10MB",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "removed": [
+      "Get started with Free",
+      "Best for 1-50 users",
+      "Everything in free, plus…",
+      "Free Change Plan",
+      "Members Unlimited Unlimited Unlimited File upload size 10 MB Unlimited Unlimited File upload volume 150 MB per month Unlimited Unlimited Issues (excluding Archive) 250 Unlimited Unlimited Features"
+    ],
+    "totals": {
+      "removed": 40,
+      "added": 108,
+      "materialRemoved": 8,
+      "materialAdded": 14
+    }
+  },
+  {
+    "id": "linear-app-pricing-20240917161800",
+    "url": "https://linear.app/pricing",
+    "ts": "20240917161800",
+    "date": "2024-09-17",
+    "source": "wayback",
+    "prevTs": "20240603184110",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Linear: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 6,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "linear-app-pricing-20250116002909",
+    "url": "https://linear.app/pricing",
+    "ts": "20250116002909",
+    "date": "2025-01-16",
+    "source": "wayback",
+    "prevTs": "20240917161800",
+    "kind": "price",
+    "score": 14,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Linear: 2 prices, 4 plan names changed ($8 removed; $12 → $14)",
+    "pairs": [
+      {
+        "before": "$ 8 per user/month $ 8 per user/month",
+        "after": "$8 per user/month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$8",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$ 12 per user/month $ 12 per user/month",
+        "after": "$14 per user/month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$12",
+            "after": "$14"
+          },
+          {
+            "before": "$12",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Unlimited issues",
+      "Unlimited members",
+      "Unlimited file uploads",
+      "Unlimited issues",
+      "Unlimited teams"
+    ],
+    "removed": [
+      "250 issues (+unlimited archived)",
+      "Free Get started",
+      "Free",
+      "Free",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 56,
+      "added": 37,
+      "materialRemoved": 13,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "linear-app-pricing-20251007142418",
+    "url": "https://linear.app/pricing",
+    "ts": "20251007142418",
+    "date": "2025-10-07",
+    "source": "wayback",
+    "prevTs": "20250116002909",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Linear: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 19,
+      "added": 36,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "linear-app-pricing-20251112011611",
+    "url": "https://linear.app/pricing",
+    "ts": "20251112011611",
+    "date": "2025-11-12",
+    "source": "wayback",
+    "prevTs": "20251007142418",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Linear: 2 prices changed ($8 → $10; $14 → $16)",
+    "pairs": [
+      {
+        "before": "$8 per user/month",
+        "after": "$10 per user/month $10 per user/month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$8",
+            "after": "$10"
+          },
+          {
+            "before": null,
+            "after": "$10"
+          }
+        ]
+      },
+      {
+        "before": "$14 per user/month",
+        "after": "$16 per user/month $16 per user/month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$14",
+            "after": "$16"
+          },
+          {
+            "before": null,
+            "after": "$16"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 8,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "linear-app-pricing-20260211235525",
+    "url": "https://linear.app/pricing",
+    "ts": "20260211235525",
+    "date": "2026-02-11",
+    "source": "wayback",
+    "prevTs": "20251112011611",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Linear: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 8,
+      "added": 10,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "linear-app-pricing-20260401104742",
+    "url": "https://linear.app/pricing",
+    "ts": "20260401104742",
+    "date": "2026-04-01",
+    "source": "wayback",
+    "prevTs": "20260211235525",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Linear: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "removed": [
+      "Use Linear for free with your whole team. Upgrade to enable unlimited issues, enhanced security controls, and additional features.",
+      "Unlimited members",
+      "Unlimited file uploads",
+      "Unlimited issues",
+      "Unlimited teams"
+    ],
+    "totals": {
+      "removed": 32,
+      "added": 35,
+      "materialRemoved": 6,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "linear-app-pricing-20260902063023",
+    "url": "https://linear.app/pricing",
+    "ts": "20260902063023",
+    "date": "2026-09-02",
+    "source": "wayback",
+    "prevTs": "20260401104742",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Linear: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Unlimited"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 10,
+      "added": 23,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  }
+]

@@ -1,0 +1,269 @@
+Docs
+Login
+Log In
+Documentation
+Docs
+API Reference
+Search
+Docs
+Getting Started
+Overview
+Quickstart
+Models
+OpenAI Compatibility
+Responses API
+Rate Limits
+Templates
+API Reference
+Core Features
+Text Generation
+Speech to Text
+Text to Speech
+Orpheus
+OCR and Image Recognition
+Reasoning
+Content Moderation
+Structured Outputs
+Prompt Caching
+Tools & Integrations
+Tool Use
+Overview
+Groq Built-In Tools
+Web Search
+Visit Website
+Code Execution
+Wolfram Alpha
+Browser Search (GPT OSS Models)
+Remote Tools and MCP
+Connectors
+Local Tool Calling
+Integrations Catalog
+Coding with Groq
+Factory Droid
+OpenCode
+Kilo Code
+Roo Code
+Cline
+Compound (Agentic AI)
+Overview
+Built-In Tools
+Systems
+Use Cases
+Guides
+Prompting Guide
+Basics
+Patterns
+Model Migration
+Assistant Message Prefilling
+Service Tiers
+Performance Tier
+Flex Processing
+Batch Processing
+Advanced
+LoRA Inference
+Production Readiness
+Production Checklist
+Optimizing Latency
+Security Onboarding
+Prometheus Metrics
+Account and Console
+Spend Limits
+Projects
+Model Permissions
+Billing FAQs
+Your Data
+Developer Resources
+SDK Libraries
+Groq Badge
+Developer Community
+OpenBench
+Error Codes
+Changelog
+Legal
+Policies & Notices
+Search
+Docs
+API Reference
+Supported Models
+Copy page
+Explore all available models on GroqCloud.
+Featured Models and Systems
+Groq Compound
+Groq Compound is an AI system powered by openly available models that intelligently and selectively uses built-in tools to answer user queries, including web search and code execution.
+Token Speed
+~450 tps
+Modalities
+Capabilities
+OpenAI GPT-OSS 120B
+GPT-OSS 120B is OpenAI's flagship open-weight language model with 120 billion parameters, built in browser search and code execution, and reasoning capabilities.
+Token Speed
+~500 tps
+Modalities
+Capabilities
+Production Models
+Note: Production models are intended for use in your production environments. They meet or exceed our high standards for speed, quality, and reliability. Read more here
+.
+MODEL ID
+SPEED (T/SEC)
+PRICE PER 1M TOKENS
+RATE LIMITS (DEVELOPER PLAN)
+CONTEXT WINDOW (TOKENS)
+MAX COMPLETION TOKENS
+MAX FILE SIZE
+Llama 3.1 8B
+Enterprise
+llama-3.1-8b-instant
+560
+Contact Sales
+131,072
+-
+Llama 3.3 70B
+Enterprise
+llama-3.3-70b-versatile
+280
+Contact Sales
+131,072
+32,768
+-
+GPT OSS 120B
+openai/gpt-oss-120b
+500
+$0.15 input $0.60 output
+250K TPM 1K RPM
+131,072
+65,536
+-
+GPT OSS 20B
+openai/gpt-oss-20b
+1000
+$0.075 input $0.30 output
+250K TPM 1K RPM
+131,072
+65,536
+-
+Whisper
+whisper-large-v3
+-
+$0.111 per hour
+200K ASH 300 RPM
+-
+100 MB
+Whisper Large V3 Turbo
+whisper-large-v3-turbo
+-
+$0.04 per hour
+400K ASH 400 RPM
+-
+Production Systems
+Systems are a collection of models and tools that work together to answer a user query.
+MODEL ID
+SPEED (T/SEC)
+PRICE PER 1M TOKENS
+RATE LIMITS (DEVELOPER PLAN)
+CONTEXT WINDOW (TOKENS)
+MAX COMPLETION TOKENS
+MAX FILE SIZE
+Compound
+groq/compound
+450
+-
+200K TPM 200 RPM
+131,072
+8,192
+-
+Compound Mini
+groq/compound-mini
+450
+-
+200K TPM 200 RPM
+131,072
+8,192
+-
+Learn More About Agentic Tooling
+Discover how to build powerful applications with real-time web search and code execution
+Preview Models
+Note: Preview models are intended for evaluation purposes only and should not be used in production environments as they may be discontinued at short notice. Read more about deprecations here
+.
+MODEL ID
+SPEED (T/SEC)
+PRICE PER 1M TOKENS
+RATE LIMITS (DEVELOPER PLAN)
+CONTEXT WINDOW (TOKENS)
+MAX COMPLETION TOKENS
+MAX FILE SIZE
+Canopy Labs Orpheus Arabic Saudi
+canopylabs/orpheus-arabic-saudi
+-
+$40.00 per 1M characters
+50K TPM 250 RPM
+4,000
+50,000
+-
+Canopy Labs Orpheus V1 English
+canopylabs/orpheus-v1-english
+-
+$22.00 per 1M characters
+50K TPM 250 RPM
+4,000
+50,000
+-
+Llama Prompt Guard 2 22M
+meta-llama/llama-prompt-guard-2-22m
+-
+$0.03 input $0.03 output
+30K TPM 100 RPM
+512
+-
+Prompt Guard 2 86M
+meta-llama/llama-prompt-guard-2-86m
+-
+$0.04 input $0.04 output
+30K TPM 100 RPM
+512
+-
+MiniMax M2.7
+Enterprise
+minimaxai/minimax-m2.7
+260
+Contact Sales
+196,608
+131,072
+-
+Safety GPT OSS 20B
+openai/gpt-oss-safeguard-20b
+1000
+$0.075 input $0.30 output
+150K TPM 1K RPM
+131,072
+65,536
+-
+Qwen/Qwen3.6-27B
+qwen/qwen3.6-27b
+500
+$0.60 input $3.00 output
+250K TPM 1K RPM
+131,072
+16,384
+20 MB
+Qwen/Qwen3.8-27B
+qwen/qwen3.8-27b
+450
+$0.80 input $4.00 output
+250K TPM 1K RPM
+131,042
+16,384
+20 MB
+Deprecated Models
+Deprecated models are models that are no longer supported or will no longer be supported in the future. See our deprecation guidelines and deprecated models here
+.
+Get All Available Models
+Hosted models are directly accessible through the GroqCloud Models API endpoint using the model IDs mentioned above. You can use the https://api.groq.com/openai/v1/models endpoint to return a JSON list of all active models:
+Python
+curl -X GET "https://api.groq.com/openai/v1/models" \ -H "Authorization: Bearer $GROQ_API_KEY" \ -H "Content-Type: application/json"
+import Groq from "groq-sdk"; const groq = new Groq({ [redacted] }); const getModels = async () => { return await groq.models.list(); }; getModels().then((models) => { // console.log(models); });
+import requests import os api_key = os. environ. get ( "GROQ_API_KEY") url = "https://api.groq.com/openai/v1/models" headers = { "Authorization": f"Bearer { api_key } ", "Content-Type": "application/json" } response = requests. get ( url, headers = headers) print ( response. json ())
+Was this page helpful?
+Yes
+No
+Suggest Edits
+On this page

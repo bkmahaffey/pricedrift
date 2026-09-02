@@ -1,0 +1,531 @@
+Site search
+Ask Grot - AI Beta (what could go wrong?)
+I am Grot. Ask me anything
+Grafana Cloud
+en
+ja
+Overview
+Core LGTM Stack
+Grafana
+Logs
+Metrics
+Adaptive Metrics
+Traces
+Profiles
+Performance Testing
+IRM
+Grafana Cloud IRM
+Alerting
+Incident
+OnCall
+SLO
+Frontend Observability
+Application Observability
+Synthetic Monitoring
+Pricing
+Grafana Cloud Pricing
+en
+ja
+Menu
+Overview
+Core LGTM Stack
+All
+Core LGTM Stack
+Grafana
+Logs
+Metrics
+Adaptive Metrics
+Traces
+Profiles
+Performance Testing
+IRM
+All
+IRM
+Grafana Cloud IRM
+Alerting
+Incident
+OnCall
+SLO
+Frontend Observability
+Application Observability
+Synthetic Monitoring
+Pricing
+Start with Grafana Cloud for free, then pay as you grow
+Enterprise scale? Contact us
+(Hint: nice people & volume discounts)
+Free Forever
+Always
+$0
+No payment. Ever.
+All Grafana Cloud features
+Usage capped to Free tier limits
+Community support only
+Monthly limits:
+Metrics 10k metrics billable series, 14 days retention
+Visualization 3 active users with Enterprise plugins
+Logs, Traces, Profiles 50 GB each, 14 days retention
+IRM 3 active users
+Application Observability 2232 host hours
+Frontend Observability 50k sessions
+Synthetics 100k test executions
+k6 Performance testing 500 virtual user hours, 14 days retention
+Get started
+Create free account
+No credit card required.
+Pro Pay As You Go
+Starts at
+$0
+Start free, then simply pay for any usage beyond the Free tier
+All Grafana Cloud features, Enterprise plugins optional
+Includes 10k metrics, 50 GB logs, 50 GB traces, 50 GB profiles, 50k frontend sessions, 2232 app o11y host hours, 100k synthetics test executions, 500 k6 VUh, and 3 Grafana & IRM users per month
+8x5 support
+Usage-based pricing
+Metrics $8 per 1k series, 13 months retention
+Visualization $8 per active user or $55 per active user with Enterprise plugins
+Logs, Traces, Profiles $0.50 per GB ingested, 30 days retention
+IRM $20 per active user
+Application Observability $0.04 per host hour
+Frontend Observability $0.90 per 1k sessions
+Synthetics $5 per 10k test executions
+k6 Performance testing $0.15 per VUh, 30 days retention
+Create account
+Advanced Premium Bundle
+Starts at
+$299 /month
+2x included usage, Enterprise plugins, and 24x7 support
+All Grafana Cloud features, Enterprise plugins included
+Includes 20k metrics, 100 GB logs, 100 GB traces, 100 GB profiles, 100k frontend sessions, 3720 app o11y host hours, 200k synthetics test executions, 1000 k6 VUh, and 5 Grafana & IRM users per month
+24x7 support
+Usage-based pricing
+Metrics $8 per 1k series, 13 months retention
+Visualization $55 per active user with Enterprise plugins
+Logs, Traces, Profiles $0.50 per GB ingested, 30 days retention
+IRM $20 per active user
+Application Observability $0.04 per host hour
+Frontend Observability $0.90 per 1k sessions
+Synthetics $5 per 10k test executions
+k6 Performance testing $0.15 per VUh, 180 days retention
+Create account
+Enterprise scale?
+Contact us for volume discounts and expert support
+Contact us
+Metrics
+Fully managed, highly scalable metrics service in Grafana Cloud with built-in features to optimize cost.
+Feature highlights
+Metrics cost optimization
+Only pay for data that you find useful. Use Adaptive Metrics to eliminate unused time series data through aggregation and cardinality optimization, and leverage preconfigured integrations to only collect the data that is useful. Typical optimization ranges from 20 - 50%.
+Performance at scale
+Sharded query engine for 10x improvement in query speed; scalable compactor for unlimited cardinality, tested up to 1 billion active series.
+Flexible data formats
+Support for various metric formats like Prometheus, OpenTelemetry, Datadog, InfluxDB, Graphite, etc. with zero re-instrumentation of agents or application code.
+Ease of use
+100+ out-of-the-box Prometheus exporter integrations with preconfigured dashboards and alerts.
+Full feature list:
+Docs
+Pricing starts at:
+$8 per 1k metrics billable series
+See pricing docs
+Enterprise scale?
+Contact us for volume discounts and expert support
+Contact us
+Cloud Free
+No payment. Ever.
+Usage limited to 10k metrics billable series per month. No credit card required. Free forever.
+Retention 14 days
+Cloud Pro
+Pay As You Go
+Included usage 10k metrics billable series per month, then pay for what you use. No usage limits.
+Retention 13 months
+Cloud Advanced
+Premium Bundle
+Included usage 20k metrics billable series per month, then pay for what you use. No usage limits.
+Retention 13 months
+FAQ
+What is metrics billable series?
+Metrics billable series is calculated based on two components: active series and data points per minute (DPM). By understanding these components, you’ll be able to better manage usage and reduce costs for your organization. See pricing docs –>
+Do you provide discounts for higher usage volumes?
+Yes, we provide volume discounts for enterprise-scale usage. Contact us
+for more details.
+Logs
+Fully managed log aggregation system powered by Grafana Loki that allows you to store and query logs from all your applications and infrastructure.
+Feature highlights
+Logs cost optimization
+Use logs volume explorer, logs filtering, and logs to metrics to optimize cost. Understand which log streams are generating the most volume to better attribute logs ingest across an organization and identify areas where logs ingest can be optimized via logs filtering and logs to metrics.
+Performance at scale
+Run faster queries at scale with massive parallelization and query splitting techniques. Native support for out-of-order ingestion and bursts of logs, so no more lost logs.
+Flexible data formats
+Leverage Promtail, Fluentbit, Fluentd, Vector, Logstash, the OpenTelemetry Collector, and the Grafana Agent, as well as a host of unofficial clients for shipping logs.
+Logs Export
+For long-term retention needs, export logs to your own storage bucket (e.g., s3) in a format that is still queryable without needing to ingest logs back into Grafana.
+Full feature list:
+Docs
+Pricing starts at:
+$0.50 per GB logs ingested per month
+30 days retention included
+Fair use policy for querying applies
+See pricing docs
+Enterprise scale?
+Contact us for volume discounts and expert support
+Contact us
+Cloud Free
+No payment. Ever.
+Usage limited to 50 GB logs ingested per month. No credit card required. Free forever.
+Retention 14 days
+Cloud Pro
+Pay As You Go
+Included usage 50 GB logs ingested per month, then pay for what you use. No usage limits.
+Retention 30 days
+Custom retention available
+Cloud Advanced
+Premium Bundle
+Included usage 100 GB logs ingested per month, then pay for what you use. No usage limits.
+Retention 30 days
+Custom retention available
+FAQ
+Do you offer retention greater than 30 days?
+Yes, we have additional retention options available. Contact us
+for more details. Default retention is 30 days, and you can also use logs export to retain logs in your own storage bucket.
+Do you provide discounts for higher usage volumes?
+Yes, we provide volume discounts for enterprise-scale usage. Contact us
+for more details.
+Traces
+Fully managed, easy-to-use, highly scalable, and cost-effective distributed tracing backend.
+Feature highlights
+Traces cost optimization
+Cloud Traces leverages object storage and a columnar trace storage format based on Apache Parquet, making it extremely cost-effective.
+Performance at scale
+Using a massively parallel query engine, Cloud Traces can scan terabytes of traces per second, meaning searches complete in record time.
+Flexibility and ease of use
+Compatible with Prometheus and OpenTelemetry ecosystem using the native pipelining capabilities in the Grafana Agent. Accept all trace formats (Jaeger, Zipkin, etc.) with minimal changes to application instrumentation.
+Trace to metrics
+Generate metrics from your trace data so you can monitor high-level RED signals on application performance and see a map of your services.
+Full feature list:
+Docs
+Pricing starts at:
+$0.50 per GB traces ingested per month
+30 days retention included
+See pricing docs
+Enterprise scale?
+Contact us for volume discounts and expert support
+Contact us
+Cloud Free
+No payment. Ever.
+Usage limited to 50 GB traces ingested per month. No credit card required. Free forever.
+Retention 14 days
+Cloud Pro
+Pay As You Go
+Included usage 50 GB traces ingested per month, then pay for what you use. No usage limits.
+Retention 30 days
+Cloud Advanced
+Premium Bundle
+Included usage 100 GB traces ingested per month, then pay for what you use. No usage limits.
+Retention 30 days
+FAQ
+Do you offer retention greater than 30 days?
+Yes, we have additional retention options available. Contact us
+for more details.
+Do you provide discounts for higher usage volumes?
+Yes, we provide volume discounts for enterprise-scale usage. Contact us
+for more details.
+Grafana visualization
+Query, visualize, alert on, and understand your data no matter where it’s stored.
+Grafana
+Query, visualize, alert on hundreds of data sources.
+Feature highlights
+Ease of use and flexibility: Visualize data from a Kubernetes cluster, Raspberry Pi, different cloud services, or even Google Sheets in a single dashboard to gain full stack visibility, track real-time SLI/SLO metrics, and more.
+Security and governance: Create and manage user permissions, instances, access policies, and tokens via UI and/or API. Leverage SSO, RBAC, SAML, audit logs, reporting, etc. at scale.
+Generative AI for panels: Automatically generate titles and descriptions and change summaries for your Grafana dashboards to streamline your workflow.
+Private Data Source Connect: Leverage the Private Data Source Connect feature to query any network-secured data source, regardless of whether it is hosted on an AWS/GCP/Azure VPC, an on-prem network, or even your local computer.
+See docs for full feature list
+Pricing starts at:
+$8 per active user / month
+Grafana with Enterprise plugins
+Query, visualize, alert on hundreds of data sources including Enterprise plugins.
+Feature highlights
+Everything in Grafana + Enterprise plugins
+Full list of Enterprise plugins
+Pricing starts at:
+$55 per active user / month
+Cloud Free
+No payment. Ever.
+Usage limited to 3 monthly active users. No credit card required. Free forever.
+Support Community support only
+Cloud Pro
+Pay As You Go
+Included usage 3 monthly active users, then pay for what you use. Paid add-on: Enterprise plugins. No usage limits.
+Support 8x5 support
+Cloud Advanced
+Premium Bundle
+Included usage 5 monthly active users, then pay for what you use. Enterprise plugins included. No usage limits.
+Support 24x7 support
+FAQ
+What is a Grafana active user?
+Any user that logs into Grafana during the billing month is considered an active user.
+Does the Cloud Pro Pay As You Go plan include Enterprise plugins?
+Enterprise plugins are a paid add-on for the Cloud Pro Pay As You Go Plan that is priced at $55 per active user per month. By default, your account will have Grafana without Enterprise plugins, which is priced at $8 per active user per month.
+Do you provide discounts for higher usage volumes?
+Yes, we provide volume discounts for enterprise-scale usage. Contact us
+for more details.
+Profiles
+Fully managed continuous profiling tool that gives you a cost-efficient way to better understand the resource usage of code.
+Feature highlights
+Profiles cost optimization
+Spot CPU spikes, memory leaks, and other inefficiencies with code-level visibility into resource usage. Teams can then optimize their code and lower infrastructure costs.
+Performance at scale
+For a typical “busy” server, profiling operates with about 3% overhead - within spare capacity in most cases - allowing you to optimize and minimize costs for the remaining 97%.
+Ease of use
+A flamegraph view of profiles helps drastically reduce the time (weeks to hours) to identify and fix performance issues. Label explorer view shows which labels are consuming the most resources.
+Profiles + traces
+Leverage profiling with tracing to deep dive into service latency and identify which lines of code are impacting performance.
+Full feature list:
+Docs
+Pricing starts at:
+$0.50 per GB profiles ingested per month
+30 days retention included
+Enterprise scale?
+Contact us for volume discounts and expert support
+Contact us
+Cloud Free
+No payment. Ever.
+Usage limited to 50 GB profiles ingested per month. No credit card required. Free forever.
+Retention 14 days
+Cloud Pro
+Pay As You Go
+Included usage 50 GB profiles ingested per month, then pay for what you use. No usage limits.
+30 days Custom retention available
+Cloud Advanced
+Premium Bundle
+Included usage 100 GB profiles ingested per month, then pay for what you use. No usage limits.
+30 days Custom retention available
+FAQ
+Do you offer retention greater than 30 days?
+Yes, we have additional retention options available. Contact us
+for more details.
+Do you provide discounts for higher usage volumes?
+Yes, we provide volume discounts for enterprise-scale usage. Contact us
+for more details.
+Incident Response & Management (IRM)
+Fully managed incident and response management including on-call scheduling, notifications, and incident management.
+Feature highlights
+IRM cost optimization
+Billed only for active users in the on-call and incident workflow. See FAQ below.
+Performance at scale
+Automate incident lifecycle, including incident channel creation, automated timeline updates, and role assignments, with integrations to G-suite, Slack, and GitHub at scale.
+Ease of use
+Use API-first workflows to create and manage on-call schedules and automate escalations.
+PagerDuty migrator
+Leverage OSS migrator from PagerDuty to migrate configuration for notification rules, schedules, escalation policies, and services (integrations) to Grafana OnCall.
+Full feature list:
+Docs
+Pricing starts at:
+$20 per IRM active user per month
+See pricing docs
+Enterprise scale?
+Contact us for volume discounts and expert support
+Contact us
+Cloud Free
+No payment. Ever.
+Usage limited to 3 IRM active users per month. No credit card required. Free forever.
+Support Community support only
+Cloud Pro
+Pay As You Go
+Included usage 3 IRM active users per month, then pay for what you use. No usage limits.
+Support 8x5 support
+Cloud Advanced
+Premium Bundle
+Included usage 5 IRM active users per month, then pay for what you use. No usage limits.
+Support 24x7 support
+FAQ
+What is an IRM active user?
+An active IRM user is defined as a user who is included in OnCall schedules or escalation chains or performs any of the following actions:
+Changed the status of an alert group or OnCall configuration
+Received a page or paged another user
+Created, edited, or updated an incident
+Do you provide discounts for higher usage volumes?
+Yes, we provide volume discounts for enterprise-scale usage. Contact us
+for more details.
+Application Observability
+Gain application performance insights and reduce MTTR out of the box, all based on OpenTelemetry and Prometheus.
+Feature highlights
+Prebuilt dashboards and workflows
+Accelerate time to insights with guided onboarding, Service Inventory, Service Overview, Service Map, and seamless metrics/logs/traces exploration.
+Correlate signals across the full stack
+Correlate metrics, logs, and traces across frontend, application & infrastructure layers, preserving context during troubleshooting.
+OpenTelemetry and Prometheus native
+Combine OpenTelemetry and Prometheus instrumentation as you want. No more expensive, proprietary instrumentation.
+Full feature list:
+Docs
+Pricing starts at:
+$0.04 Per Host Hour
+Enterprise scale?
+Contact us for volume discounts and expert support
+Contact us
+Cloud Free
+No payment. Ever.
+Usage limited to 2232 app o11y host hours per month
+Support Community support only
+Cloud Pro
+Pay As You Go
+Included usage 2232 app o11y host hours per month, then pay for what you use. No usage limits.
+Support 8x5 support
+Cloud Advanced
+Premium Bundle
+Included usage 3720 app o11y host hours per month, then pay for what you use. No usage limits.
+Support 24x7 support
+FAQ
+What is a Host Hour?
+An Host is a physical or virtual operating system instance that is sending observability signals including traces and span metrics - a host is considered active if it has sent observability signals in the last 15 minutes. Billable host hours is the total number of host hours measured during the month.
+Note: By billing based on host hours, customers don’t have to pay for their peak (i.e. 99th percentile) host usage but rather the actual host hours consumed during the billing month.
+When does Host Hour based pricing apply?
+Host Hours based pricing is only applicable for customers that are using the Application Observability product offering in Grafana Cloud.
+For customers not using the Application Observability product offering in Grafana Cloud and instead building their own dashboards, alerts, and workflows to monitor applications, standard pricing for Grafana Cloud Metrics, Logs, Traces, Profiles and Visualization applies and there are no charges based on Host Hours.
+Do you provide discounts for higher usage volumes?
+Yes, we provide volume discounts for Enterprise scale usage. Contact us
+for more details.
+Frontend Observability
+Fully managed real user monitoring (RUM) that provides immediate, clear, actionable insights into the end user experience of web applications.
+Feature highlights
+Monitor end user experience
+Measure page load times, user interaction, cumulative layout shift, and more Web Vitals for understanding and delivering a great user experience.
+Reduce MTTR for frontend errors
+Intelligently group errors for faster trigaing and provide code-level visibility for faster investigation.
+Gain frontend-to-backend visibility
+Reconstruct user behavior leading up to an issue and correlate the data with backend requests when debugging issues.
+Full feature list:
+Docs
+Pricing starts at:
+$0.90 per 1k sessions
+Enterprise scale?
+Contact us for volume discounts and expert support
+Contact us
+Cloud Free
+No payment. Ever.
+Usage limited to 50k sessions per month. No credit card required. Free forever.
+Support Community support only
+Cloud Pro
+Pay As You Go
+Included usage 50k Sessions per month, then pay for what you use. No usage limits.
+Support 8x5 support
+Cloud Advanced
+Premium Bundle
+Included usage 100k Sessions per month, then pay for what you use. No usage limits.
+Support 24x7 support
+FAQ
+What is a session?
+A “session” is defined as the time that a user is spending in a frontend application on and off from start to finish or timeout. A user session is either created or resumed when a user visits and uses the site. A user session ends after a maximum lifetime of 4 hours or after inactivity timeout of 15 minutes. The SDK will automatically create a new user session in any of these situations, if the user returns.
+Do you provide discounts for higher usage volumes?
+Yes, we provide volume discounts for enterprise-scale usage. Contact us
+for more details.
+Synthetic monitoring
+Proactively monitors your APIs and web applications globally and throughout the application lifecycle, with out-of-the-box debugging insights.
+Feature highlights
+Validate critical user journey
+Proactively monitor the performance and uptime of your websites and APIs at various network levels from around the globe, helping you track SLOs and SLAs.
+Synthetic monitoring as code
+Streamline your workflow with automated Synthetic Monitoring. Use the same k6 scripts from pre-prod to production to improve collaboration and efficiency.
+Debug failed checks faster
+Combine the user-friendly pre-built dashboards with Grafana’s flexible dashboarding for effortless triage, diagnosis, and issue resolution.
+Full feature list:
+Docs
+Pricing starts at:
+$5 per 10k test executions
+Enterprise scale?
+Contact us for volume discounts and expert support
+Contact us
+Cloud Free
+No payment. Ever.
+Usage limited to 100k test executions per month. No credit card required. Free forever.
+Support Community support only
+Cloud Pro
+Pay As You Go
+Included usage 100k test executions per month, then pay for what you use. No usage limits.
+Support 8x5 support
+Cloud Advanced
+Premium Bundle
+Included usage 200k test executions per month, then pay for what you use. No usage limits.
+Support 24x7 support
+FAQ
+What is a test execution?
+A test execution is a Synthetic test running in a probe location per minute of run time. Example: A synthetic test running in 5 locations that takes 1.5 minutes to complete will consume 10 executions each time it runs.
+How do I estimate the number of test executions?
+To estimate the number of test executions per month, you will need the following inputs:
+Number of Locations (Probes)
+Number of Targets (Tests)
+Duration of Test (rounded to the nearest minute)
+Frequency of Tests (in Minutes)
+Using the above info, you can calculate the number of test executions per month by applying this formula (where 43,200 is the total minutes in a month): probes x tests x duration x (43,200 / frequency)
+Do you provide discounts for higher usage volumes?
+Yes, we provide volume discounts for enterprise-scale usage. Contact us
+for more details.
+k6 Performance testing
+Fully managed performance testing platform to prevent system failures and consistently deliver fast and reliable applications.
+Feature highlights
+Performance at scale
+Run load tests in the cloud for up to 1 million concurrent virtual users or 5 million requests/second. Launch tests from 21 geographic locations to ensure a great experience no matter where your users are.
+Ease of use and flexibility
+Onboard users quickly and lower the barrier to entry for writing test scripts with the GUI test builder and browser recorder. Schedule and automate testing from the web app, CLI, and CI pipelines and use SLOs as the pass/fail criteria.
+k6 and Tempo
+The integration generates useful aggregations, correlations, and actionable insights from users’ tracing data to help understand your performance tests and prevent reliability problems from impacting end users.
+Full feature list:
+Docs
+Pricing starts at:
+$0.15 per virtual user hour
+See pricing docs
+Enterprise scale?
+Contact us for volume discounts and expert support
+Contact us
+Cloud Free
+No payment. Ever.
+Usage limited to 500 virtual user hours (VUh). No credit card required. Free forever.
+Support Community support only
+Cloud Pro
+Pay As You Go
+Included usage 500 virtual user hours (VUh) per month, then pay for what you use. No usage limits.
+Support 8x5 support
+Cloud Advanced
+Premium Bundle
+Included usage 1000 virtual user hours (VUh) per month, then pay for what you use. No usage limits.
+Support 24x7 support
+FAQ
+What is a virtual user hour (VUh)?
+VUh is calculated by using the following formula:
+(Maximum number of VUs x test execution duration in minutes) / 60 minutes = VUh
+If your test ramps up to a maximum of 100 VUs and runs for 10 minutes, the test run will use 16.67 VUh ((100 VUs x 10 minutes)/60 = 16.67 VUh).
+Note that VU hours are calculated based on the period that the test run executes, not the preconfigured test duration. If the test duration is 2 or more hours but runs for only 30.01 minutes, then the subscription will be charged for the test-execution period rounded up to the next minute (in this case, 31 minutes).
+The minimum for a test is 1 VUh. Find additional details here
+.
+Do you provide discounts for higher usage volumes?
+Yes, we provide volume discounts for enterprise-scale usage. Contact us
+for more details.
+Offerings
+Metrics
+Logs
+Traces
+Grafana visualization
+Profiles
+IRM
+Application Observability
+Frontend Observability
+Synthetics
+k6 Performance testing
+Self-managed: Grafana Enterprise
+Grafana self-managed with custom pricing.
+Compose and scale observability with one or all pieces of the stack – on your infrastructure. Purpose-built to handle the scale of today’s data volumes and tomorrow’s growth.
+Customized data usage, retention, and users
+Audit logging
+Enhanced LDAP
+Team sync
+Access to all Enterprise plugins
+Custom branding
+Customer success manager
+Role-based access control
+The Grafana Enterprise Stack includes features that provide better scalability, collaboration, operations, and governance in a self-managed environment.
+Contact us
+Additional pricing FAQ
+Will I be billed during my 14-day unlimited usage trial?
+Nope! If you decide to continue after the 14-day trial (we hope you do), you can decide between the Pro or Free plan available with Grafana Cloud.
+How can I cancel my subscription or close my account?
+For monthly Pro & Advanced customers, simply log into your account and go to “manage subscription” to downgrade your plan. Please note: Deleting your stack does not cancel your subscription.
+For annually billed customers, the notice period will be in your service order or can be provided by your Account Executive.
+If you have any questions, simply email support@grafana.com
+from an email address registered as an admin on your account.

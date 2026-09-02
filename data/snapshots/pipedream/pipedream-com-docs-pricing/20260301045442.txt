@@ -1,0 +1,205 @@
+Skip to main content
+Pipedream has joined Workday Learn more
+Pipedream home page
+Search...
+⌘ K
+Ask AI
+Search...
+Navigation
+Pricing
+Plans And Pricing
+Documentation
+Connect API
+Changelog
+Getting Started
+Introduction
+Workspaces
+Projects
+AI Tooling
+Connect
+Overview
+Quickstart
+App Discovery
+Managed Auth
+Tool Use
+MCP
+API Proxy
+Workflows
+Use Cases
+Workflows
+Overview
+Quickstart
+Building Workflows
+Data Management
+Event History
+Environment Variables
+GitHub Sync
+Custom Domains
+Virtual Private Clouds
+Limits
+Platform
+Apps
+Components
+REST API
+CLI
+Pricing
+Overview
+FAQ
+Account
+Security
+Troubleshooting
+Glossary Of Terms
+Additional Resources
+Support
+Status
+Terms of Service
+Privacy Policy
+On this page
+Free plan
+Paid plans
+Pipedream Connect
+How credits work in Connect
+End users
+Tracking usage
+Pipedream Workflows
+Credits and billing
+How credits work for Workflows
+Source credit usage
+Included credits
+Additional credits
+Data store keys
+Managing your plan
+Billing period
+Upgrading
+Downgrading
+Cancelling your plan
+Detailed pricing information
+We believe anyone should be able to run simple, low-volume workflows at no cost, and whatever you’re building, we want you to be able to prototype and get to value before having to pay Pipedream any money. We also hope that you share your sources
+workflows
+actions
+and other integration components so that other Pipedream users benefit from your work. To support these goals, Pipedream offers a generous free plan
+and free access to Pipedream Connect while in development
+If you exceed the limits of the free plan, you can upgrade to one of our paid plans
+Read more about our plans and pricing here
+Free plan
+Workspaces on the Free plan have access to many of the Pipedream features, including Workflows
+and Connect
+However, the free plan includes several limitations: General: Daily credit limit: Free workspaces have a daily limit of free credits
+that cannot be exceeded
+Support: Community support is available via our community forum
+and Slack
+Connect: Development environment: Access all the features of Connect while in development mode
+Workflows: Active workflows: Limited number of active workflows
+Connected accounts: Limited number of connected accounts (like Slack, Google Sheets, GitHub, etc.)
+To lift the daily credit limit, access additional features, or use Connect in production, upgrade to a paid plan
+Paid plans
+Visit our pricing page
+to learn more about the details of our paid plans.
+Pipedream Connect
+Pipedream Connect provides SDKs and APIs to let you easily add + integrations to your app or AI agent. Connect pricing is based on two inputs: API usage
+Credits consumed by action executions, tool calls, and other operations
+End users
+Referred to as “external users” throughout the docs and API, this is the number of unique users in your application who connect accounts
+How credits work in Connect
+API operations that consume credits (1 credit per 30 seconds of compute time): Action executions
+Tool calls via MCP
+Source execution for deployed triggers
+Requests to the Connect proxy
+API operations that do not consume credits: Listing apps, actions, and triggers
+Listing accounts
+Configuring actions and triggers
+Other management operations
+End users
+End (external) users are a core billing component for Connect pricing, separate from credit usage: End user definition: A unique end user in your application who connects one or more accounts through Connect
+User to account relationship: Each end user can have multiple connected accounts (e.g., one user might connect their Slack, Gmail, and GitHub accounts)
+Billing impact: For standard plans, you’re billed based on the number of unique external users, not the number of connected accounts
+Tracking usage
+Use the List usage records API
+to retrieve detailed Connect usage data for a given time window, including credit consumption and end user counts.
+Pipedream Workflows
+Pipedream Workflows uses a credit-based pricing model where you pay for compute time used during workflow execution.
+Credits and billing
+Pipedream uses a number of terms to describe platform metrics and details of our plans. See the definitions of key terms in the glossary
+How credits work for Workflows
+Pipedream charges one credit per 30 seconds of compute time at 256MB megabytes of memory (the default) per workflow segment
+Credits are also charged for dedicated workers
+Unlike some other platforms, Pipedream does not charge for usage based on the number of steps. Credits are not charged for workflows during development or testing. Adding additional memory capacity to workflows will increase credit usage in intervals of 256 megabytes. For example, doubling the memory of a workflow from 256MB to 512MB will double the cost of credits in the same execution time. Scenarios
+Developing a workflow with test events in the Pipedream workflow builder is free. No credit usage is incurred.
+If an active workflow isn’t executed in a billing period no credit usage is incurred. Pipedream only charges credits for workflow executions.
+Workflow segments configured to use 256MB memory (default) Scenario
+Credits Used
+Simple linear workflow - 1 second of compute
+1 credit
+Simple linear workflow - 15 seconds of compute
+1 credit
+Simple linear workflow - 35 seconds of compute
+2 credits
+Linear workflow with a delay- 15 seconds before the delay- 15 seconds after execution resumes
+2 credits
+Workflow with a branch - 3 seconds before the branch- 15 seconds within the executed branch
+2 credits
+Workflow with a branch - 3 seconds before the branch, 15 seconds within the executed branch, 3 seconds after the branch in the parent flow
+3 credits
+Workflow segments configured to use 1GB memory Scenario
+Credits Used
+Simple linear workflow - 1 second of compute
+4 credit
+Simple linear workflow - 15 seconds of compute
+4 credit
+Simple linear workflow - 35 seconds of compute
+8 credits
+Linear workflow with a delay- 15 seconds before the delay- 15 seconds after execution resumes
+8 credits
+Workflow with a branch - 3 seconds before the branch- 15 seconds within the executed branch
+8 credits
+Workflow with a branch - 3 seconds before the branch, 15 seconds within the executed branch, 3 seconds after the branch in the parent flow
+24 credits
+Source credit usage
+When an event source
+triggers a workflow, the source execution is included for free. This includes workspaces on the Free plan
+When a source is configured as a workflow trigger, the core value is in the workflow. You won’t be charged for two credits (one to run the source, one to run the workflow) when the workflow contains the core logic.
+This free credit per execution only applies to sources from the Pipedream public registry
+If you deploy a private custom source to your account, then all computation time including the initial 30 seconds for that private source counts toward credits.
+A polling source finishing under 30 seconds per execution For example, a source that polls an API for new events like Airtable - New Row Added
+only takes ~5 seconds to poll and emit events to subscribing workflows. This would result in 0 credits per run because the Airtable - New Row Added source is a publicly available component
+.
+A polling source finishing over 30 seconds per execution Consider a source (like RSS - New Item in Feed for instance) that takes 60 seconds total to finish polling, per execution. Each execution of this source would result in 0 credits because the RSS - New Item in Feed source is a publicly available component
+.
+A custom source that finished under 30 seconds per execution This would result in 1 credit per execution because the initial free credit only applies to Pipedream Public Registry sources attached to at least one workflow.
+Included credits
+When you sign up for a paid plan, you pay a platform fee at the start of each billing period
+This minimum monthly charge grants you a base of included credits that you can use for the rest of your billing period (see your Billing and Usage Settings
+for your exact quota). If you have been granted any additional credit increases by Pipedream, that is added to the included credits.
+Additional credits
+Any credits you run over your included credit
+are called additional credits. This usage is added to the invoice for your next billing period
+according to the invoicing cycle described here
+Data store keys
+A Data Store key represents a single record in a Data Store. In the example below, there are two records in the Data Store, and therefore there are two keys total.
+Managing your plan
+To cancel, upgrade or downgrade your plan, open the pricing page
+To update your billing details, such as your VAT number, email address, etc. use the Manage Billing Information button in your workspace billing settings
+to change your plan. Within this portal you can cancel, upgrade or downgrade your plan at any time.
+Billing period
+Many of the usage statistics for paid users are tied to a billing period. Your billing period starts when you sign up for a paid plan, and recurs roughly once a month for the duration of your subscription. For example, if you sign up on Jan 1st, your first billing period will last one month, ending around Feb 1st, at which point you’ll start a new billing period. Your invoices are tied to your billing period. Read more about invoicing / billing here
+Upgrading
+Upgrading your subscription instantly activates the features available to your workspace. For example, if you upgrade your workspace from Free to Basic, that workspace will immediately be able to activate more workflows and connected accounts.
+Downgrading
+Downgrades will apply at the end of your billing cycle, and any workflows or integrations that use features outside the new billing plan will be automatically disabled. For example, if your workspace downgrades from Advanced to Basic and a workflow uses an Advanced feature such as auto-retries
+then this workflow will be disabled because the workspace plan no longer qualifies for that feature. Additionally, resource limits such as the number of active workflows and connected accounts will also be enforced at this same time.
+Cancelling your plan
+To cancel your plan, open the pricing page
+and click Cancel beneath your current plan. Cancelling your subscription will apply at the end of your current billing period. Workflows, connected accounts and sources will be deactivated from newest to oldest until the Free limits have been reached.
+Detailed pricing information
+Refer to our pricing page
+for detailed pricing information.
+Was this page helpful?
+Yes
+No
+CLI Reference
+FAQ
+⌘ I
+Assistant
+Responses are generated using AI and may contain mistakes.
+Suggestions
+How do I get started with Pipedream Connect?

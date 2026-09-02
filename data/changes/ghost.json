@@ -1,0 +1,464 @@
+[
+  {
+    "id": "ghost-org-pricing-20230306002236",
+    "url": "https://ghost.org/pricing/",
+    "ts": "20230306002236",
+    "date": "2023-03-06",
+    "source": "wayback",
+    "prevTs": "20230102222540",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Ghost(Pro): pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 10,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "ghost-org-pricing-20240303111515",
+    "url": "https://ghost.org/pricing/",
+    "ts": "20240303111515",
+    "date": "2024-03-03",
+    "source": "wayback",
+    "prevTs": "20230306002236",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Ghost(Pro): 1 price changed (removed “+ $50/mo”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "+ $50/mo"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 4,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "ghost-org-pricing-20240502174627",
+    "url": "https://ghost.org/pricing/",
+    "ts": "20240502174627",
+    "date": "2024-05-02",
+    "source": "wayback",
+    "prevTs": "20240303111515",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Ghost(Pro): pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "ghost-org-pricing-20240705235005",
+    "url": "https://ghost.org/pricing/",
+    "ts": "20240705235005",
+    "date": "2024-07-05",
+    "source": "wayback",
+    "prevTs": "20240502174627",
+    "kind": "price",
+    "score": 7,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Ghost(Pro): 2 prices, 1 limit changed (removed “+ $100/mo”; added “+ $20/mo”)",
+    "pairs": [],
+    "added": [
+      "+ $20/mo",
+      "Start a free trial now →"
+    ],
+    "removed": [
+      "+ $100/mo",
+      "No. When your trial ends you'll be prompted to choose a paid plan to continue using Ghost. If you don't choose a plan, you won't be charged, and we tidy things up and delete all your personal data from our servers. If you want to try Ghost again in future, feel free to sign up for a fresh trial.",
+      "Do both free and paid subscribers count as \"members\" in Ghost?",
+      "Yes. Every user with an active account to subscribe to emails or login to your site counted as a member, whether free or paid.",
+      "Ghost is free and open source",
+      "Ready to give it a try? Start a trial completely free for 14 days and build your publication"
+    ],
+    "totals": {
+      "removed": 43,
+      "added": 11,
+      "materialRemoved": 8,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "ghost-org-pricing-20240902231328",
+    "url": "https://ghost.org/pricing/",
+    "ts": "20240902231328",
+    "date": "2024-09-02",
+    "source": "wayback",
+    "prevTs": "20240705235005",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Ghost(Pro): 1 price changed ($100 → $50)",
+    "pairs": [
+      {
+        "before": "It's also possible to run sites on a subdirectory, like example.com/blog, however this requires customers to run their own self-hosted reverse proxy with a custom configuration. Supporting this setup is non-trivial, and is a $100/month addon only available on our Ghost(Pro) Business plan.",
+        "after": "It's also possible to run sites on a subdirectory, like example.com/blog, however this requires customers to run their own self-hosted reverse proxy with a custom configuration. Supporting this setup is non-trivial, and is a $50/month addon only available on our Ghost(Pro) Business plan.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$100",
+            "after": "$50"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 9,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "ghost-org-pricing-20250407163800",
+    "url": "https://ghost.org/pricing/",
+    "ts": "20250407163800",
+    "date": "2025-04-07",
+    "source": "wayback",
+    "prevTs": "20240902231328",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Ghost(Pro): pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 11,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "ghost-org-pricing-20250503012742",
+    "url": "https://ghost.org/pricing/",
+    "ts": "20250503012742",
+    "date": "2025-05-03",
+    "source": "wayback",
+    "prevTs": "20250407163800",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Ghost(Pro): 2 prices changed (removed “+ $20/mo”; added “+ $50/mo”)",
+    "pairs": [],
+    "added": [
+      "+ $50/mo"
+    ],
+    "removed": [
+      "+ $20/mo"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 2,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "ghost-org-pricing-20250701113401",
+    "url": "https://ghost.org/pricing/",
+    "ts": "20250701113401",
+    "date": "2025-07-01",
+    "source": "wayback",
+    "prevTs": "20250503012742",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Ghost(Pro): pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "ghost-org-pricing-20250801005140",
+    "url": "https://ghost.org/pricing/",
+    "ts": "20250801005140",
+    "date": "2025-08-01",
+    "source": "wayback",
+    "prevTs": "20250701113401",
+    "kind": "price",
+    "score": 25,
+    "counts": {
+      "price": 4,
+      "limit": 2,
+      "plan": 5
+    },
+    "material": true,
+    "headline": "Ghost(Pro): 4 prices, 2 limits, 5 plan names changed (removed “Starter 500 Members”; added “$ 18”)",
+    "pairs": [],
+    "added": [
+      "$ 18",
+      "Try for free",
+      "$ 29",
+      "Try for free",
+      "1,000 members",
+      "Try for free",
+      "Unlimited members",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "The number of emails you can send to your subscribers each month. All plans include unlimited email sends with no restrictions.",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "removed": [
+      "Starter 500 Members",
+      "$ 9",
+      "18 free official themes",
+      "$ 25",
+      "Unlimited custom themes",
+      "Business 10,000 members",
+      "Unlimited",
+      "Unlimited",
+      "Our Starter plan comes with free integrations including Slack, Unsplash, FirstPromoter and Google AMP. Our higher plans also include advanced integrations that require custom theme code or API keys, like Zapier and GitHub."
+    ],
+    "totals": {
+      "removed": 58,
+      "added": 252,
+      "materialRemoved": 14,
+      "materialAdded": 18
+    }
+  },
+  {
+    "id": "ghost-org-pricing-20250902084915",
+    "url": "https://ghost.org/pricing/",
+    "ts": "20250902084915",
+    "date": "2025-09-02",
+    "source": "wayback",
+    "prevTs": "20250801005140",
+    "kind": "price",
+    "score": 11,
+    "counts": {
+      "price": 3,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Ghost(Pro): 3 prices, 1 limit changed (added “Ghost(Pro) plans & pricing Get started for fr…”)",
+    "pairs": [],
+    "added": [
+      "Ghost(Pro) plans & pricing Get started for free, then enjoy 50% off for 3 months",
+      "$ 9 /mo for first 3 months",
+      "$ 17 /mo for first 3 months",
+      "$ 119 /mo for first 3 months",
+      "Available on 1-3 year term"
+    ],
+    "removed": [
+      "Start a free trial now →"
+    ],
+    "totals": {
+      "removed": 12,
+      "added": 13,
+      "materialRemoved": 1,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "ghost-org-pricing-20251004202222",
+    "url": "https://ghost.org/pricing/",
+    "ts": "20251004202222",
+    "date": "2025-10-04",
+    "source": "wayback",
+    "prevTs": "20250902084915",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Ghost(Pro): pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "ghost-org-pricing-20251102190321",
+    "url": "https://ghost.org/pricing/",
+    "ts": "20251102190321",
+    "date": "2025-11-02",
+    "source": "wayback",
+    "prevTs": "20251004202222",
+    "kind": "price",
+    "score": 11,
+    "counts": {
+      "price": 3,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Ghost(Pro): 3 prices, 1 limit changed (removed “Ghost(Pro) plans & pricing Get started for fr…”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Ghost(Pro) plans & pricing Get started for free, then enjoy 50% off for 3 months",
+      "$ 9 /mo for first 3 months",
+      "$ 17 /mo for first 3 months",
+      "$ 119 /mo for first 3 months",
+      "Available on 1-3 year term"
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 3,
+      "materialRemoved": 5,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "ghost-org-pricing-20251208002953",
+    "url": "https://ghost.org/pricing/",
+    "ts": "20251208002953",
+    "date": "2025-12-08",
+    "source": "wayback",
+    "prevTs": "20251102190321",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Ghost(Pro): 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "Free custom domain NEW",
+      "All Ghost(Pro) sites come with a free ghost.io subdomain by default, and also support the use of any custom domain name via a CNAME DNS record.",
+      "All Ghost(Pro) sites include a one-year free domain registration using the.link TLD. Domains registered through this promotion renew at standard rates after the first year.",
+      "Free custom domain",
+      "All Ghost(Pro) sites include a one-year free domain registration using the.link TLD. Domains registered through this promotion renew at standard rates after the first year."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 8,
+      "materialRemoved": 0,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "ghost-org-help-manage-your-subscription-20260702173735",
+    "url": "https://ghost.org/help/manage-your-subscription/",
+    "ts": "20260702173735",
+    "date": "2026-07-02",
+    "source": "wayback",
+    "prevTs": "20250114095931",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Ghost(Pro): pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 10,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "ghost-org-pricing-20260901103625",
+    "url": "https://ghost.org/pricing/",
+    "ts": "20260901103625",
+    "date": "2026-09-01",
+    "source": "wayback",
+    "prevTs": "20251208002953",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Ghost(Pro): pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  }
+]

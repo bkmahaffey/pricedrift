@@ -1,0 +1,293 @@
+Pricing
+Questions about pricing or volume discounts? Get in touch
+Free
+For developers bringing new projects to life
+Sign up for free
+$0
+Free
+No risk to use ngrok (for non-commercial use)
+Ephemeral/Random Domains
+Serve HTTP Apps, Webhooks, and APIs
+Automated SSL/TLS certificates
+OAuth, OIDC, and SAML SSO
+Request Inspection & Replay
+APIs and Terraform Provider
+Restricted bandwidth and usage
+Free email support
+Pro
+For teams of developers and scaling production
+Get started
+$20
+license / mo
+billed annually ($25 billed monthly)
+All free features
+Custom Domains
+TCP Edges and Tunnels
+Edge Managed Configuration
+Granular Configuration per URL route
+Webhook Verification
+Load Balancing
+On-demand pricing for additional usage
+Enterprise
+For businesses and critical workloads
+Get started
+$65
+license / mo
+billed annually ($75 billed monthly)
+All pro features
+Dashboard SSO
+Wildcard Domains
+TLS Edges and Tunnels
+Mutual TLS
+Role Based Access Control
+Over the wire agent updates
+Agent ACLs
+IP Restrictions
+IoT and B2B
+For high volume and connections
+Contact us
+Tailored feature set
+Volume Discounts
+Premium Support
+Custom Invoicing
+Full feature list
+Free
+Non-commercial use
+Pro
+For teams of developers and scaling production
+Enterprise
+For businesses and critical workloads
+Free
+Non-commercial
+use
+Sign up for free
+Pro
+For teams of developers and scaling production
+Get started
+Enterprise
+For businesses and critical workloads
+Get started
+Licensing
+Team Members
+1
+1 per License
+Secure Tunnel Agents
+Connect any system fast and with confidence
+1
+1 per License then $14/mo per addl agent
+1 per License then $45/mo per addl agent
+Cloud Edge Domains
+Add a global network to your apps with edge connectivity, access control, resiliency, and encryption
+1
+1 per License then $14/mo per addl domain
+1 per License then $45/mo per addl domain
+Secure Tunnels
+Connectivity
+HTTPS tunnels
+Launch secure tunnels to websites, REST APIs, and Webhook listeners
+TCP tunnels
+Launch secure tunnels to Servers, Databases, and any TCP compatible system
+TLS tunnels
+Launch secure tunnels with additional encryption
+Developer
+Web Inspection Agent
+Inspect and troubleshoot requests in real-time via inspection UI and APIs
+Replay Requests
+Replay any request with a single click and dramatically speed up your iteration cycle
+File Server
+Serve local files with a built-in fileserver
+Agent
+OS Agents
+Install and launch tunnels on all major Operating Systems (OS) with lightweight agents
+Docker Agents
+Launch tunnels in your container infrastructure with Docker containers
+Agentless Tunnels
+Run secure tunnels without agents via ssh gateway
+Agent APIs
+Manage tunnels, collect metrics, inspect, and replay requests programmatically
+Outbound Proxy
+Agent Management
+OS Service Integration
+Keep tunnels up after process crashes, system crashes, and energy outages with native integrations to OS services like systemd and Windows Services
+Remote Management
+Monitor and manage agents remotely via our CLI, APIs, SDK, and Admin Dashboard
+Over the Wire Updates
+Update agents without requiring side channels, backdoors, VPNs, or additional remote clients
+Security
+Per Agent Authtokens
+Provide unique authtokens for ngrok agents, enabling granular Access Control
+Agent ACLs
+Restrict tunnel connections with Access Control Lists (ACLs)
+Granular IP Restrictions: Agents
+Limit agents launching secure tunnels using IP allow and deny lists
+Custom Ingress Domains
+Customize your URL for tunnel communications and improve security and branding
+Contact us
+Zero Knowledge Mutual TLS (mTLS)
+Authenticate tunnel traffic with mutual TLS client authentication
+Contact us
+Zero Knowledge Encryption
+Ensure no one – not even ngrok – see your tunnel data with end-to-end encryption
+Contact us
+Cloud Edge
+Connectivity
+HTTPS Edges
+Front HTTP Sites, Apps, and APIs with edge availability, security, and performance
+TCP Edges
+Add edge connectivity to servers, databases, and any TCP-based systems
+TLS Edges
+Add an extra layer of security to your network with the highest graded encryption
+Edge Logic
+HTTP Header Manipulation
+Modify HTTP requests and responses to send data to your systems and enforce security headers
+Geo Enrichment
+Enrich event logs and requests with the IP and geographic context from requesters
+Modules
+Add security, observability, encryption, and logic to HTTP, TCP, and TLS traffic
+Routes
+Define behaviors and logic granularly per URL
+up to 3
+up to 50
+Resiliency/
+Performance
+HTTP/2
+Improve your App performance with native HTTP/2 and ALPN support
+HTTP Compression
+Optimize HTTP traffic and reduce traffic and improve response times
+Circuit Breaker
+Protect and isolate your services from spikes and cascading failures
+Load Balancing
+Route edge traffic to multiple backends for scale and fault tolerance
+up to 3 origins
+unlimited origins
+Weighted Balancing
+Route edge traffic to backends based on percentage. Great for canary and blue/green deployments
+Identity & Access Control
+Basic Auth
+Restrict access to edges with HTTP Basic authentication
+Webhook Verification
+Ensure that only legitimate webhook calls reach your systems with built-in validation of webhook request signatures
+OAuth 2.0 Authentication
+Add Facebook, GitHub, Google, LinkedIn, and Microsoft Authentication with OpenID Connect/OAuth in a single command
+50 MAUs
+50 MAUs then $50/mo per 1000 MAUs
+OAuth 2.0 Scope Request
+Request specific scopes with the OAuth authorization request
+SAML/OIDC SSO
+Restrict edge access using SAML and OpenID Connect Single Sign-On
+3 MAUs included
+$100/mo per 10 MAUs
+Email based Authorization
+Restrict SAML, OIDC, and OAuth access based on user email and email domain
+Multiple Identity Providers
+Add SSO with multiple SAML, OAuth, and OpenID Connect Identity Providers for partners
+Contact us
+Mutual TLS Authentication (mTLS)
+Authenticate machines access to edges with TLS client authentication
+Security
+Automatic Certificates and Encryption
+All ngrok HTTP edges are automatically secured with TLS certificates and A+ graded encryption
+Custom TLS Certificates
+Bring your own certificates for control, Mutual TLS Authentication, and Zero-Knowledge encryption
+Granular IP Restrictions: Edges and Routes
+Granularly restrict access to Edges and URL routes using IP allow and deny lists
+Private Labeling
+Ephemeral/Random ngrok domains
+Get a random ngrok.io subdomain automatically assigned every time you launch an edge or tunnel
+Custom ngrok.io subdomains
+Reserve and assign custom ngrok.io URLs for your edges to keep configurations consistent
+1 per license
+Reserved ngrok.io TCP addresses
+Reserve and assign ngrok.io addresses to keep TCP configurations consistent
+1 per license
+Custom Domains
+Customize tunnels with your own domain and branding
+1 per license
+Wildcard Domains
+Handle traffic for all subdomains using a single edge
+Platform
+Dashboard UI
+Manage edge, tunnel, and security configurations from a friendly UI
+APIs/SDKs Client Access
+Manage edge, tunnel, and security configurations programmatically via our official APIs and community-built SDKs
+Terraform Provider
+Manage ngrok using our official Terraform Provider
+Team Management
+Invite multiple users to create and manage secure tunnels and cloud edges
+Dashboard SSO
+Restrict access to the Dashboard UI with your Identity Provider
+Role Based Access Control (RBAC)
+Restrict administrative access rights based on Roles
+Account-Wide IP Restrictions: Cloud Edge
+Restrict access to Edges using IP allow and deny lists
+Account-Wide IP Restrictions: Dashboard UI
+Restrict access to the Dashboard using IP allow and deny lists
+Account-Wide IP Restrictions: APIs/SDKs Client Access
+Restrict access to APIs using IP allow and deny lists
+Audit Log Events
+Monitor and keep a history of administrative events via event logs
+Contact us
+Connection/Request SIEM Logging
+Observe and record audit events to meet compliance. Integrate with SIEM tools to analyze events in real-time
+Contact us
+Support
+Email technical support
+Get help directly from the ngrok team
+24×7×365 support with SLA
+Production support, with anytime access to ngrok's support engineers
+Contact us
+Security Questionnaire
+Contact us
+Custom Invoicing
+Contact us
+SOC2 Report
+Contact us
+Scale
+Tunnels per agent
+Number of simultaneous tunnels per agent
+2
+20
+Peak Simultaneous TCP connections
+Peak simultaneous TCP connections
+up to 100
+100 then $0.01/conn
+Peak TCP Connection rate
+Peak TCP connection rate
+up to 120/min
+120/min then $0.01/conn/min
+Network Bandwidth
+Network Bandwidth in a month per agent
+up to 1GB/mo
+1GB/mo then $0.10/gb
+Free
+Pro
+Enterprise
+Trusted by over 5 million developers and recommended by the best teams
+Frequently asked questions
+What's included with an ngrok license?
+A license includes one user, one Secure Tunnel Agent, and one Cloud Edge Domain. Additional users, Agents, and Domains are available a la carte.
+How is Access Control – OAuth, OpenID Connect, and SAML – priced and what are MAUs?
+Access Control via OAuth, OpenID Connect, and SAML is priced by Monthly Active Users (MAUs). MAUs represent the number of unique users who logged into your edges and tunnels via within a month.
+Where's the hobbyist plan?
+We are releasing a hobbyist plan soon with an attractive price for personal projects and hobbies.
+Do you offer volume discounts?
+Yes. We offer volume discounts starting at 100 licenses. Email sales@ngrok.com
+more details.
+Product
+Pricing
+Docs
+Download
+Partners
+Customers
+Careers
+Blog
+Trust Portal
+Service Status
+Online in One Line
+Get started for free
+Abuse
+DPA
+Privacy
+Security
+Terms of service
+© ngrok 2023

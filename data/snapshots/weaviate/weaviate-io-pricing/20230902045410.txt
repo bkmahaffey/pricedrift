@@ -1,0 +1,86 @@
+Skip to main content
+Weaviate 1.21 is here!!! Learn all about it from the release post
+.
+Weaviate Cloud Services
+The power of the open-source vector database, fully managed
+Start for free and only pay for the vector dimensions you store and query. Upgrade to one of our unlimited capacity plans starting at $0.05 per 1 million vector dimensions and scale seamlessly as your needs grow.
+SaaS
+We manage everything in the Weaviate Cloud
+Hybrid SaaS
+We manage the data plane inside your customer-managed VPC
+Login to the Weaviate Cloud console
+Weaviate Cloud Services Saas
+Our pricing is designed to give you all the capabilities to build and test your applications for free.
+When you are ready to move to production, simply pick a plan that best suits your needs.
+Standard
+from
+$ 25 /mo
+$0.050 per 1M vector dimensions stored
+or queried per month
+Round robin region: AWS, Azure, GCP
+∞ lifetime (until terminated)
+Monitoring
+Public Slack
+Severity 1 - max 1h
+Severity 2 - max 4h
+Severity 3 - max 1bd
+Multi AZ
+HA optional
+Enterprise
+from
+$ 135 /mo
+$0.100 per 1M vector dimensions stored
+or queried per month
+AWS, Azure, GCP
+∞ lifetime (until terminated)
+Monitoring
+Weaviate Internal Slack or Teams / Email
+Severity 1 - max 1h
+Severity 2 - max 4h
+Severity 3 - max 1bd
+Multi AZ
+HA optional
+Business Critical
+from
+$ 450 /mo
+$0.175 per 1M vector dimensions stored
+or queried per month
+AWS, Azure, GCP
+∞ lifetime (until terminated)
+Monitoring
+Weaviate Internal Slack or Teams / Email
+Severity 1 - max 1h
+Severity 2 - max 4h
+Severity 3 - max 1bd
+Multi AZ
+HA optional
+Sandbox
+Free
+Round robin region: AWS, Azure, GCP
+14 days lifetime
+Monitoring
+Public Slack
+Community support
+Single AZ
+Weaviate Cloud console
+Create a Free Sandbox
+Pay as you grow
+Our pricing is built around vector dimensions stored and queried, and different SLA-tiers have
+different prices per dimension. The exact calculation can be found in the FAQ below.
+(not inclusive of discounts and taxes).
+Vector Dimensions:
+Data Objects:
+Monthly Queries:
+SLA Tier:
+Standard
+Enterprise
+Business Critical
+High Availability:
+Share this pricing
+Frequently asked questions
+Let us help answer the most common questions you might have.
+What do you mean by 1 million vector dimensions?
+In Weaviate, you can attach a vector embedding to a data object. A vector embedding can have an x-amount of dimensions. To calculate vector dimensions, multiply the number of data objects by the number of embedding dimensions.
+Why do you price per vector dimension?
+Some vectors have a lot of embeddings (sometimes more than 10k), some just a few (e.g., 90). The more vector dimensions you store, the more infrastructure is needed to optimize and maintain performance, this is the reason why we calculate with individual dimensions. We believe it's the fairest and most accurate price to give you the best experience.
+Load more

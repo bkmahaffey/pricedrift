@@ -1,0 +1,584 @@
+[
+  {
+    "id": "mailtrap-io-pricing-20240305215058",
+    "url": "https://mailtrap.io/pricing/",
+    "ts": "20240305215058",
+    "date": "2024-03-05",
+    "source": "wayback",
+    "prevTs": "20230524064728",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Mailtrap: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Create Your Free Account In 3 Clicks"
+    ],
+    "totals": {
+      "removed": 27,
+      "added": 62,
+      "materialRemoved": 17,
+      "materialAdded": 16
+    }
+  },
+  {
+    "id": "mailtrap-io-pricing-20240612210158",
+    "url": "https://mailtrap.io/pricing/",
+    "ts": "20240612210158",
+    "date": "2024-06-12",
+    "source": "wayback",
+    "prevTs": "20240305215058",
+    "kind": "price",
+    "score": 122,
+    "counts": {
+      "price": 8,
+      "limit": 15,
+      "plan": 34
+    },
+    "material": true,
+    "headline": "Mailtrap: 8 prices, 15 limits, 34 plan names changed (7 → 3; 10,000 → 100,000)",
+    "pairs": [
+      {
+        "before": "✓ 7 log retention days",
+        "after": "✓ 3 log retention days",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "7",
+            "after": "3"
+          }
+        ]
+      },
+      {
+        "before": "per month per month per month per month 10,000 emails/mo",
+        "after": "per month per month per month per month 100,000 emails/mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10,000",
+            "after": "100,000"
+          }
+        ]
+      },
+      {
+        "before": "✓ 7 log retention days",
+        "after": "✓ 5 log retention days",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "7",
+            "after": "5"
+          }
+        ]
+      },
+      {
+        "before": "✓ 30 log retention days",
+        "after": "✓ 15 log retention days",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "30",
+            "after": "15"
+          }
+        ]
+      },
+      {
+        "before": "✓ 60 log retention days",
+        "after": "✓ 30 log retention days",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "60",
+            "after": "30"
+          }
+        ]
+      },
+      {
+        "before": "✓ 60 log retention days",
+        "after": "✓ 30 log retention days",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "60",
+            "after": "30"
+          }
+        ]
+      },
+      {
+        "before": "per month per month per month per month 10,000 emails/mo",
+        "after": "per month per month per month per month 100,000 emails/mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10,000",
+            "after": "100,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free",
+      "Try free",
+      "Basic 50K",
+      "$ 15",
+      "✓ Unlimited users",
+      "✓ Unlimited users",
+      "✓ Unlimited users",
+      "Free",
+      "Free",
+      "Free",
+      "Try free",
+      "Basic 50K",
+      "$ 15",
+      "Free",
+      "Try free",
+      "Basic 50K",
+      "$ 15",
+      "Free",
+      "Try free",
+      "Basic 10K",
+      "Basic 50K",
+      "$ 15",
+      "per month Monthly per month 10,000 emails/mo"
+    ],
+    "removed": [
+      "Free",
+      "Try free",
+      "Basic 40K",
+      "Basic 60K",
+      "$ 10",
+      "✓ Unlimited users",
+      "✓ Unlimited users",
+      "✓ Unlimited users",
+      "Free",
+      "Free",
+      "Free",
+      "Try free",
+      "Basic 40K",
+      "Basic 60K",
+      "$ 10",
+      "Free",
+      "Try free",
+      "Basic 40K",
+      "Basic 60K",
+      "$ 10",
+      "Free",
+      "Try free",
+      "Basic 40K",
+      "Basic 60K",
+      "$ 10",
+      "Business 100k",
+      "per month per month per month per month 100,000 emails/mo"
+    ],
+    "totals": {
+      "removed": 359,
+      "added": 367,
+      "materialRemoved": 112,
+      "materialAdded": 108
+    }
+  },
+  {
+    "id": "mailtrap-io-pricing-20240809181806",
+    "url": "https://mailtrap.io/pricing/",
+    "ts": "20240809181806",
+    "date": "2024-08-09",
+    "source": "wayback",
+    "prevTs": "20240612210158",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mailtrap: 1 limit changed (added “200 emails/day”)",
+    "pairs": [],
+    "added": [
+      "200 emails/day",
+      "200 emails/day"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 79,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "mailtrap-io-pricing-20241105114936",
+    "url": "https://mailtrap.io/pricing/",
+    "ts": "20241105114936",
+    "date": "2024-11-05",
+    "source": "wayback",
+    "prevTs": "20240809181806",
+    "kind": "price",
+    "score": 123,
+    "counts": {
+      "price": 12,
+      "limit": 29,
+      "plan": 15
+    },
+    "material": true,
+    "headline": "Mailtrap: 12 prices, 29 limits, 15 plan names changed (removed “✓ 3 log retention days”; added “500 contacts”)",
+    "pairs": [],
+    "added": [
+      "500 contacts",
+      "Try for Free",
+      "✓ 200 emails/day",
+      "2500 contacts",
+      "✓ All Free plan features",
+      "25,000 contacts",
+      "✓ Free Deliverability Expert",
+      "375,000 contacts",
+      "1000 emails/mo",
+      "100 emails",
+      "Free deliverability expert support",
+      "Free migration month",
+      "Expert migration assistance for free for senders exceeding 200K volumes, tailored to your business needs.",
+      "500 contacts",
+      "Try for Free",
+      "from 10,000 emails/mo",
+      "100 emails",
+      "Free deliverability expert support",
+      "Free migration month",
+      "Expert migration assistance for free for senders exceeding 200K volumes, tailored to your business needs.",
+      "2500 contacts",
+      "$0,88",
+      "100 emails",
+      "Free deliverability expert support",
+      "Free migration month",
+      "Expert migration assistance for free for senders exceeding 200K volumes, tailored to your business needs.",
+      "25,000 contacts",
+      "from 1,500,000 emails/mo",
+      "$0,55",
+      "100 emails",
+      "Free deliverability expert support",
+      "Free migration month",
+      "Expert migration assistance for free for senders exceeding 200K volumes, tailored to your business needs.",
+      "375,000 contacts",
+      "from 1,500,000 emails/mo",
+      "Unlimited",
+      "< $0,55",
+      "100 emails",
+      "Free deliverability expert support",
+      "Free migration month"
+    ],
+    "removed": [
+      "Try free",
+      "✓ 3 log retention days",
+      "✓ 5 log retention days",
+      "✓ 15 log retention days",
+      "✓ Unlimited users",
+      "✓ Unlimited users",
+      "Over 5M emails/mo",
+      "Try free",
+      "$0.88",
+      "$0.55",
+      "< $0.55",
+      "Over 5M emails/mo",
+      "Try free",
+      "Over 5M emails/mo",
+      "$0.88",
+      "$0.55",
+      "< $0.55",
+      "Try free",
+      "Over 5M emails/mo",
+      "forever Try free",
+      "Sending limits per 10s",
+      "Sending limits per 10s",
+      "Sending limits per 10s",
+      "Sending limits per 10s",
+      "Sending limits per 10s",
+      "Sending limits per 10s",
+      "Sending limits per 10s"
+    ],
+    "totals": {
+      "removed": 336,
+      "added": 997,
+      "materialRemoved": 48,
+      "materialAdded": 92
+    }
+  },
+  {
+    "id": "mailtrap-io-pricing-20250115073216",
+    "url": "https://mailtrap.io/pricing/",
+    "ts": "20250115073216",
+    "date": "2025-01-15",
+    "source": "wayback",
+    "prevTs": "20241105114936",
+    "kind": "limits",
+    "score": 23,
+    "counts": {
+      "price": 0,
+      "limit": 6,
+      "plan": 6
+    },
+    "material": true,
+    "headline": "Mailtrap: 6 limits, 6 plan names changed (removed “100 emails”; added “10MB”)",
+    "pairs": [],
+    "added": [
+      "10MB",
+      "Content-free logging",
+      "10MB",
+      "Content-free logging",
+      "up to 30MB",
+      "Content-free logging",
+      "up to 30MB",
+      "Content-free logging",
+      "up to 30MB",
+      "Content-free logging",
+      "10MB",
+      "up to 30MB",
+      "Content-free logging"
+    ],
+    "removed": [
+      "100 emails",
+      "100 emails",
+      "100 emails",
+      "100 emails"
+    ],
+    "totals": {
+      "removed": 39,
+      "added": 188,
+      "materialRemoved": 4,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "mailtrap-io-pricing-20250225224507",
+    "url": "https://mailtrap.io/pricing/",
+    "ts": "20250225224507",
+    "date": "2025-02-25",
+    "source": "wayback",
+    "prevTs": "20250115073216",
+    "kind": "limits",
+    "score": 32,
+    "counts": {
+      "price": 0,
+      "limit": 16,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mailtrap: 16 limits changed (500 → 100; 2500 → 5,000)",
+    "pairs": [
+      {
+        "before": "500 contacts",
+        "after": "100 contacts",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "500",
+            "after": "100"
+          }
+        ]
+      },
+      {
+        "before": "2500 contacts",
+        "after": "5,000 contacts",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2500",
+            "after": "5,000"
+          }
+        ]
+      },
+      {
+        "before": "25,000 contacts",
+        "after": "100,000 contacts",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "25,000",
+            "after": "100,000"
+          }
+        ]
+      },
+      {
+        "before": "375,000 contacts",
+        "after": "1,500,000 contacts",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "375,000",
+            "after": "1,500,000"
+          }
+        ]
+      },
+      {
+        "before": "500 contacts",
+        "after": "100 contacts",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "500",
+            "after": "100"
+          }
+        ]
+      },
+      {
+        "before": "2500 contacts",
+        "after": "5,000 contacts",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2500",
+            "after": "5,000"
+          }
+        ]
+      },
+      {
+        "before": "25,000 contacts",
+        "after": "100,000 contacts",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "25,000",
+            "after": "100,000"
+          }
+        ]
+      },
+      {
+        "before": "375,000 contacts",
+        "after": "1,500,000 contacts",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "375,000",
+            "after": "1,500,000"
+          }
+        ]
+      },
+      {
+        "before": "500 contacts",
+        "after": "100 contacts",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "500",
+            "after": "100"
+          }
+        ]
+      },
+      {
+        "before": "2500 contacts",
+        "after": "5,000 contacts",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2500",
+            "after": "5,000"
+          }
+        ]
+      },
+      {
+        "before": "25,000 contacts",
+        "after": "100,000 contacts",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "25,000",
+            "after": "100,000"
+          }
+        ]
+      },
+      {
+        "before": "375,000 contacts",
+        "after": "1,500,000 contacts",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "375,000",
+            "after": "1,500,000"
+          }
+        ]
+      },
+      {
+        "before": "500 contacts",
+        "after": "100 contacts",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "500",
+            "after": "100"
+          }
+        ]
+      },
+      {
+        "before": "2500 contacts",
+        "after": "5,000 contacts",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2500",
+            "after": "5,000"
+          }
+        ]
+      },
+      {
+        "before": "25,000 contacts",
+        "after": "100,000 contacts",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "25,000",
+            "after": "100,000"
+          }
+        ]
+      },
+      {
+        "before": "375,000 contacts",
+        "after": "1,500,000 contacts",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "375,000",
+            "after": "1,500,000"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 23,
+      "added": 23,
+      "materialRemoved": 16,
+      "materialAdded": 16
+    }
+  },
+  {
+    "id": "mailtrap-io-pricing-20250405060627",
+    "url": "https://mailtrap.io/pricing/",
+    "ts": "20250405060627",
+    "date": "2025-04-05",
+    "source": "wayback",
+    "prevTs": "20250225224507",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Mailtrap: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 23,
+      "added": 23,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  }
+]

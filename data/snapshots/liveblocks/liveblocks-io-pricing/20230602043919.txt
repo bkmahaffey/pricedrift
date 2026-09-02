@@ -1,0 +1,143 @@
+P r i c i n g
+Pricing based on your success
+Pay monthly
+Pay yearly
+Starter
+Free no credit card required
+100 MAUs
+1 seat
+Community support
+Get started for free
+Pro
+$ 2 0 1 2 3 4 5 6 7 8 9,
+9 0 1 2 3 4 5 6 7 8 9,
+-25 % per month, billed annually
+200 MAUs
+Unlimited seats
+Email support
+Select your MAUs 2 0 1 2 3 4 5 6 7 8 9,
+0 0 1 2 3 4 5 6 7 8 9,
+Remove MAUs
+Add MAUs
+Get started
+Most popular Startup
+$ 2 0 1 2 3 4 5 6 7 8 9,
+9 0 1 2 3 4 5 6 7 8 9,
+-25 % per month, billed annually
+2,000 MAUs
+Unlimited seats
+Email support
+Webhooks
+Select your MAUs 2 0 1 2 3 4 5 6 7 8 9,
+0 1 2 3 4 5 6 7 8 9,
+0 0 1 2 3 4 5 6 7 8 9,
+Remove MAUs
+Add MAUs
+Get started
+Enterprise
+Contact us for custom needs
+Custom MAUs
+Custom seats
+Priority support
+Webhooks
+Optional custom solution
+Optional SLAs and DPAs
+Contact us
+All plans are subject to our Fair Use Policy
+.
+Companies of all sizes and industries use Liveblocks
+Usage
+MAUs
+100
+200 to 25,000
+2,000 to 250,000
+Custom
+Simultaneous connections per room
+10
+20
+30
+Custom
+Projects
+Unlimited
+Custom
+Seats
+1
+Unlimited
+Custom
+Collaborative document
+Presence
+Included
+Broadcast
+Included
+Conflict-free data types
+Included
+Document management
+Document browsing
+Included
+Permissions management
+Included
+Build and monitor
+DevTools
+Included
+Starter Kit
+Included
+Analytics
+Included
+REST API
+Included
+Schemas
+Not included
+Included
+Webhooks
+Not included
+Included
+Support
+Community support
+Included
+Email support
+Not included
+Included
+Priority support
+Not included
+Included
+Platform Security and Compliance
+SSO
+G Suite, GitHub
+SOC 2
+Not included
+Coming soon
+Security questionnaires
+Not included
+Custom
+99.99% Uptime SLA
+Not included
+Optional
+Data Processing Agreement
+Not included
+Optional
+Frequently
+Asked
+Questions
+Do you offer discounts for non-commercial projects?
+Yes, we can offer a significant discount on Liveblocks for non-commercial projects. In most cases, we’ll offer a discount that allows us to cover a portion of the costs related to onboarding and customer service. Please contact us
+with information and we’ll get back to you.
+How are MAUs (Monthly Active User) calculated?
+Monthly Active Users are calculated as the number of unique users with at least one connection in the last month. Users connected on localhost or.test domains are not included in your billing.
+Users are identified by the userId property you provide when they join a room
+This userId generally comes from your database or your authentification provider. One unique userId corresponds to one MAU, whether they connected to a room 1 day for 5 minutes or kept coming back every day for 8 hours.
+If you can’t identify them with a unique userId, Liveblocks will generate a unique userId for that user and save it in a cookie, which means that as long as they remain on the same browser, they’ll always count for one MAU, whether they reloaded the page multiple times or opened numerous tabs.
+It doesn’t matter how many rooms a user connects to, or how frequently Liveblocks APIs are used—one user is one MAU.
+What’s a room?
+A room is the virtual space where people collaborate. For most products, a room corresponds to a document or a page.
+What’s a connection?
+A connection is when a user initially connects to a Liveblocks room. If a user connects to your product on two different browsers and their phone, that would be three connections.
+What’s a simultaneous connection per room?
+A simultaneous connection is when a user or multiple users are connected to the same Liveblocks room.
+Do you have a yearly pricing option?
+Yes, we can offer a discount if you pay yearly.
+What happens when limits are reached?
+Liveblocks returns a different error for each limit that a user might reach. That way, you can decide how to best handle those cases in your product. Learn more about limits.
+How can I monitor my usage and billing?
+You can track your usage in the Liveblocks dashboard.
+How secure and reliable is Liveblocks?
+Security and reliablity are one of our top concerns when building Liveblocks. We’ve designed our back-end infrastructure to be deployed on the edge using Cloudflare Workers — giving us exceptional performance, reliability, and scale. And we’ve baked authentication into the platform, so that you can set custom permissions for your users.

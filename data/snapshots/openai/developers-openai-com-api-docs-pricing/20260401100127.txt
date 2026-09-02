@@ -1,0 +1,794 @@
+Search the API docs
+Search docs
+Suggested
+responses create
+reasoning_effort
+realtime
+prompt caching
+Primary navigation
+Search docs
+Suggested
+responses create
+reasoning_effort
+realtime
+prompt caching
+Get started
+Overview
+Quickstart
+Models
+Pricing
+Libraries
+Latest: GPT-5.4
+Prompt guidance
+Core concepts
+Text generation
+Code generation
+Images and vision
+Audio and speech
+Structured output
+Function calling
+Responses API
+Agents
+Overview
+Build agents
+Agent Builder
+Node reference
+Safety in building agents
+Agents SDK
+Deploy in your product
+ChatKit
+Custom theming
+Widgets
+Actions
+Advanced integration
+Optimize
+Agent evals
+Trace grading
+Voice agents
+Tools
+Using tools
+Web search
+MCP and Connectors
+Skills
+Shell
+Computer use
+File search and retrieval
+File search
+Retrieval
+Tool search
+More tools
+Apply Patch
+Local shell
+Image generation
+Code interpreter
+Run and scale
+Conversation state
+Background mode
+Streaming
+WebSocket mode
+Webhooks
+File inputs
+Context management
+Compaction
+Counting tokens
+Prompt caching
+Prompting
+Overview
+Prompt engineering
+Citation formatting
+Reasoning
+Reasoning models
+Reasoning best practices
+Evaluation
+Getting started
+Working with evals
+Prompt optimizer
+External models
+Best practices
+Realtime API
+Overview
+Connect
+WebRTC
+WebSocket
+SIP
+Usage
+Using realtime models
+Managing conversations
+MCP servers
+Webhooks and server-side controls
+Managing costs
+Realtime transcription
+Voice agents
+Model optimization
+Optimization cycle
+Fine-tuning
+Supervised fine-tuning
+Vision fine-tuning
+Direct preference optimization
+Reinforcement fine-tuning
+RFT use cases
+Best practices
+Graders
+Specialized models
+Image generation
+Video generation
+Text to speech
+Speech to text
+Deep research
+Embeddings
+Moderation
+Going live
+Production best practices
+Latency optimization
+Overview
+Predicted Outputs
+Priority processing
+Cost optimization
+Overview
+Batch
+Flex processing
+Accuracy optimization
+Safety
+Safety best practices
+Safety checks
+Cybersecurity checks
+Under 18 API Guidance
+Legacy APIs
+Assistants API
+Migration guide
+Deep dive
+Tools
+Resources
+Terms and policies
+Changelog
+Your data
+Permissions
+Rate limits
+Deprecations
+MCP for deep research
+Developer mode
+ChatGPT Actions
+Introduction
+Getting started
+Actions library
+Authentication
+Production
+Data retrieval
+Sending files
+Docs
+Use cases
+Getting Started
+Overview
+Quickstart
+Explore
+Pricing
+Community
+Concepts
+Prompting
+Customization
+Sandboxing
+Subagents
+Workflows
+Models
+Cyber Safety
+Use cases
+Using Codex
+App
+Overview
+Features
+Settings
+Review
+Automations
+Worktrees
+Local Environments
+Commands
+Windows
+Troubleshooting
+IDE Extension
+Overview
+Features
+Settings
+IDE Commands
+Slash commands
+CLI
+Overview
+Features
+Command Line Options
+Slash commands
+Web
+Overview
+Environments
+Internet Access
+Integrations
+GitHub
+Slack
+Linear
+Codex Security
+Overview
+Setup
+Improving the threat model
+FAQ
+Configuration
+Config File
+Config Basics
+Advanced Config
+Config Reference
+Sample Config
+Speed
+Rules
+Hooks
+AGENTS.md
+MCP
+Plugins
+Overview
+Build plugins
+Skills
+Subagents
+Administration
+Authentication
+Agent approvals & security
+Enterprise
+Admin Setup
+Governance
+Managed configuration
+Windows
+Automation
+Non-interactive Mode
+Codex SDK
+App Server
+MCP Server
+GitHub Action
+Learn
+Best practices
+Videos
+Blog
+Using skills to accelerate OSS maintenance
+Building frontend UIs with Codex and Figma
+View all
+Cookbooks
+Codex Prompting Guide
+Modernizing your Codebase with Codex
+View all
+Building AI Teams
+Releases
+Changelog
+Feature Maturity
+Open Source
+Home
+Apps SDK
+Commerce
+Home
+Quickstart
+Core Concepts
+MCP Apps in ChatGPT
+MCP Server
+UX principles
+UI guidelines
+Plan
+Research use cases
+Define tools
+Design components
+Build
+Set up your server
+Build your ChatGPT UI
+Authenticate users
+Manage state
+Monetize your app
+Examples
+Deploy
+Deploy your app
+Connect from ChatGPT
+Test your integration
+Submit your app
+Guides
+Optimize Metadata
+Security & Privacy
+Troubleshooting
+Resources
+Changelog
+App submission guidelines
+Reference
+Home
+Guides
+Get started
+Best practices
+File Upload
+Overview
+Products
+API
+Overview
+Feeds
+Products
+Promotions
+Showcase
+Blog
+Cookbook
+Learn
+Community
+Home
+All posts
+Recent
+How Perplexity Brought Voice Search to Millions Using the Realtime API
+Designing delightful frontends with GPT-5.4
+From prompts to products: One year of Responses
+Using skills to accelerate OSS maintenance
+Building frontend UIs with Codex and Figma
+Topics
+General
+API
+Apps SDK
+Audio
+Codex
+Home
+Topics
+Agents
+Evals
+Multimodal
+Text
+Guardrails
+Optimization
+ChatGPT
+Codex
+gpt-oss
+Contribute
+Cookbook on GitHub
+Home
+Docs MCP
+Categories
+Demo apps
+Videos
+Topics
+Agents
+Audio & Voice
+Computer use
+Codex
+Evals
+gpt-oss
+Fine-tuning
+Image generation
+Scaling
+Tools
+Video generation
+Community
+Programs
+Codex Ambassadors
+Codex for Students
+Codex for Open Source
+Events
+Meetups
+Hackathon Support
+Forum
+Discord
+API Dashboard
+Copy Page
+More page actions
+Copy Page
+More page actions
+Flagship models
+Our latest models
+Prices per 1M tokens.
+Standard
+Batch
+Flex
+Priority
+Standard
+Short context
+Long context
+Model
+Input
+Cached input
+Output
+Input
+Cached input
+Output
+gpt-5.4
+$2.50
+$0.25
+$15.00
+$5.00
+$0.50
+$22.50
+gpt-5.4-mini
+$0.75
+$0.075
+$4.50
+-
+gpt-5.4-nano
+$0.20
+$0.02
+$1.25
+-
+gpt-5.4-pro
+$30.00
+-
+$180.00
+$60.00
+-
+$270.00
+Regional processing (data residency) endpoints are charged a 10% uplift for gpt-5.4, gpt-5.4-mini, gpt-5.4-nano, and gpt-5.4-pro. See our Your data
+guide for supported regions and processing details.
+All models
+Batch
+Short context
+Long context
+Model
+Input
+Cached input
+Output
+Input
+Cached input
+Output
+gpt-5.4
+$1.25
+$0.13
+$7.50
+$2.50
+$0.25
+$11.25
+gpt-5.4-mini
+$0.375
+$0.0375
+$2.25
+-
+gpt-5.4-nano
+$0.10
+$0.01
+$0.625
+-
+gpt-5.4-pro
+$15.00
+-
+$90.00
+$30.00
+-
+$135.00
+Regional processing (data residency) endpoints are charged a 10% uplift for gpt-5.4, gpt-5.4-mini, gpt-5.4-nano, and gpt-5.4-pro. See our Your data
+guide for supported regions and processing details.
+All models
+Flex
+Short context
+Long context
+Model
+Input
+Cached input
+Output
+Input
+Cached input
+Output
+gpt-5.4
+$1.25
+$0.13
+$7.50
+$2.50
+$0.25
+$11.25
+gpt-5.4-mini
+$0.375
+$0.0375
+$2.25
+-
+gpt-5.4-nano
+$0.10
+$0.01
+$0.625
+-
+gpt-5.4-pro
+$15.00
+-
+$90.00
+$30.00
+-
+$135.00
+Regional processing (data residency) endpoints are charged a 10% uplift for gpt-5.4, gpt-5.4-mini, gpt-5.4-nano, and gpt-5.4-pro. See our Your data
+guide for supported regions and processing details.
+All models
+Priority
+Short context
+Long context
+Model
+Input
+Cached input
+Output
+Input
+Cached input
+Output
+gpt-5.4
+$5.00
+$0.50
+$30.00
+-
+gpt-5.4-mini
+$1.50
+$0.15
+$9.00
+-
+Regional processing (data residency) endpoints are charged a 10% uplift for gpt-5.4, gpt-5.4-mini, gpt-5.4-nano, and gpt-5.4-pro. See our Your data
+guide for supported regions and processing details.
+All models
+Multimodal models
+Realtime and audio generation models
+Prices per 1M tokens unless noted.
+Model
+Modality
+Input
+Cached input
+Output / cost
+gpt-realtime-1.5
+Audio
+$32.00
+$0.40
+$64.00
+Text
+$4.00
+$0.40
+$16.00
+Image
+$5.00
+$0.50
+-
+gpt-realtime-mini
+Audio
+$10.00
+$0.30
+$20.00
+Text
+$0.60
+$0.06
+$2.40
+Image
+$0.80
+$0.08
+-
+All models
+Image generation models
+Prices per 1M tokens.
+Standard
+Batch
+Standard
+Per-image output pricing for GPT Image and DALL·E models is listed in the Calculating costs
+section of the image generation guide.
+Model
+Modality
+Input
+Cached input
+Output
+gpt-image-1.5
+Image
+$8.00
+$2.00
+$32.00
+Text
+$5.00
+$1.25
+$10.00
+gpt-image-1-mini
+Image
+$2.50
+$0.25
+$8.00
+Text
+$2.00
+$0.20
+-
+All models
+Batch
+Per-image output pricing for GPT Image and DALL·E models is listed in the Calculating costs
+section of the image generation guide.
+Model
+Modality
+Input
+Cached input
+Output
+gpt-image-1.5
+Image
+$4.00
+$1.00
+$16.00
+Text
+$2.50
+$0.63
+$5.00
+gpt-image-1-mini
+Image
+$1.25
+$0.13
+$4.00
+Text
+$1.00
+$0.10
+-
+All models
+Video generation models
+Prices per second.
+Standard
+Batch
+Standard
+Model
+Size
+Portrait
+Landscape
+Price per second
+sora-2
+720p
+720x1280
+1280x720
+$0.10
+sora-2-pro
+720p
+720x1280
+1280x720
+$0.30
+1024p
+1024x1792
+1792x1024
+$0.50
+1080p
+1080x1920
+1920x1080
+$0.70
+Batch
+Model
+Size
+Portrait
+Landscape
+Price per second
+sora-2
+720p
+720x1280
+1280x720
+$0.05
+sora-2-pro
+720p
+720x1280
+1280x720
+$0.15
+1024p
+1024x1792
+1792x1024
+$0.25
+1080p
+1080x1920
+1920x1080
+$0.35
+Transcription models
+Prices per 1M tokens unless noted.
+Model
+Use case
+Input
+Output
+Estimated cost
+gpt-4o-transcribe
+Transcription
+$2.50
+$10.00
+$0.006 / minute
+gpt-4o-mini-transcribe
+Transcription
+$1.25
+$5.00
+$0.003 / minute
+All models
+Tools
+Tool
+Details
+Pricing
+Web search
+Web search (all models)
+$10.00 / 1k calls
++ Search content tokens billed at model rates.
+Web search preview (reasoning models, including gpt-5, o-series)
+$10.00 / 1k calls
++ Search content tokens billed at model rates.
+Web search preview (non-reasoning models)
+$25.00 / 1k calls
++ Search content tokens are free.
+Containers
+Now
+1 GB $0.03, 4 GB $0.12, 16 GB $0.48, 64 GB $1.92 per 20-minute session per container
+File search
+Storage
+$0.10 / GB per day (1 GB free)
+Tool call
+$2.50 / 1k calls
+Agent Kit
+ChatKit file and image upload storage
+$0.10 / GB-day after 1 GB free per account per month
+Tokens used for built-in tools are billed at the chosen model's per-token rates. GB refers to binary gigabytes (also known as gibibytes), where 1 GB is 2^30 bytes. Web search content tokens are tokens retrieved from the search index and fed to the model alongside your prompt to generate an answer. For gpt-4o-mini and gpt-4.1-mini with the non-preview web search tool, search content tokens are billed as a fixed block of 8,000 input tokens per call. File search tool call pricing applies to the Res
+and Code Interpreter
+Eligible container sessions are billed at the full 20-minute session rate. Responses API, Chat Completions API, Realtime API, Batch API, and Assistants API are not priced separately. Tokens are billed at the chosen model's input and output rates.
+Specialized models
+Prices per 1M tokens.
+Standard
+Batch
+Priority
+Standard
+Category
+Model
+Input
+Cached input
+Output
+ChatGPT
+gpt-5.3-chat-latest
+$1.75
+$0.175
+$14.00
+Codex
+gpt-5.3-codex
+$1.75
+$0.175
+$14.00
+All models
+Batch
+Category
+Model
+Input
+Cached input
+Output
+Deep research
+o3-deep-research
+$5.00
+-
+$20.00
+o4-mini-deep-research
+$1.00
+-
+$4.00
+Computer use
+computer-use-preview
+$1.50
+-
+$6.00
+Priority
+Category
+Model
+Input
+Cached input
+Output
+Codex
+gpt-5.3-codex
+$3.50
+$0.35
+$28.00
+All models
+Finetuning
+Prices per 1M tokens.
+Standard
+Batch
+Standard
+Model
+Training
+Input
+Cached input
+Output
+o4-mini-2025-04-16
+$100.00 / hour
+$4.00
+$1.00
+$16.00
+o4-mini-2025-04-16
+with data sharing
+$100.00 / hour
+$2.00
+$0.50
+$8.00
+All models
+Batch
+Model
+Training
+Input
+Cached input
+Output
+o4-mini-2025-04-16
+$100.00 / hour
+$2.00
+$0.50
+$8.00
+o4-mini-2025-04-16
+with data sharing
+$100.00 / hour
+$1.00
+$0.25
+$4.00
+All models
+Tokens used for model grading in reinforcement fine-tuning are billed at that model's per-token rate. Inference discounts are available if you enable data sharing when creating the fine-tune job. Learn more
+.

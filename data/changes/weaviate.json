@@ -1,0 +1,764 @@
+[
+  {
+    "id": "weaviate-io-pricing-20230428161213",
+    "url": "https://weaviate.io/pricing",
+    "ts": "20230428161213",
+    "date": "2023-04-28",
+    "source": "wayback",
+    "prevTs": "20230124181748",
+    "kind": "limits",
+    "score": 9,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Weaviate Cloud: 3 limits, 2 plan names changed (removed “30 days lifetime”; added “14 days lifetime”)",
+    "pairs": [],
+    "added": [
+      "Our pricing is designed to give you all the capabilities to build and test your applications for free.",
+      "Free",
+      "14 days lifetime"
+    ],
+    "removed": [
+      "Start for free and pay as you go per vector dimension stored and queried",
+      "All paid plans deliver unlimited capacity over three different tiers, so your DBs may scale seamlessly",
+      "Our pricing is designed to give you all the capabilities to build and test your applications for free. When you are ready to move to production, simply pick a plan that best suits your needs.",
+      "Free",
+      "30 days lifetime",
+      "Hibernation after 1 hour",
+      "Hibernation after 8 hours",
+      "You pay for the total amount of embedding dimensions stored per data object and per data object queried. For example, if you have a 100-dimensional embedding and you store 1k documents that you query 1k times per month. You pay for 200k dimensions.",
+      "Not yet; we are currently in the process of becoming SOC2 compliant. Feel free to email us for a status update on hello+soc2@weaviate.io"
+    ],
+    "totals": {
+      "removed": 68,
+      "added": 45,
+      "materialRemoved": 14,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "weaviate-io-pricing-20230902045410",
+    "url": "https://weaviate.io/pricing",
+    "ts": "20230902045410",
+    "date": "2023-09-02",
+    "source": "wayback",
+    "prevTs": "20230428161213",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Weaviate Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "weaviate-io-pricing-20231226154511",
+    "url": "https://weaviate.io/pricing",
+    "ts": "20231226154511",
+    "date": "2023-12-26",
+    "source": "wayback",
+    "prevTs": "20230902045410",
+    "kind": "price",
+    "score": 17,
+    "counts": {
+      "price": 4,
+      "limit": 1,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Weaviate Cloud: 4 prices, 1 limit, 2 plan names changed ($0.050 → $0.095; $0.100 → $0.145)",
+    "pairs": [
+      {
+        "before": "$0.050 per 1M vector dimensions stored",
+        "after": "$0.095 per 1M vector dimensions",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "$0.050",
+            "after": "$0.095"
+          }
+        ]
+      },
+      {
+        "before": "$0.100 per 1M vector dimensions stored",
+        "after": "$0.145 per 1M vector dimensions",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "$0.100",
+            "after": "$0.145"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Our ecosystem is designed to give you the capabilities to build and test your applications for free. When you are ready to move to production, simply pick a plan that best suits your needs.",
+      "Free Sandbox",
+      "from $ 25 /mo",
+      "Please leave your contact details below and one of our sales representatives will reach out to you within 24 hours."
+    ],
+    "removed": [
+      "Start for free and only pay for the vector dimensions you store and query. Upgrade to one of our unlimited capacity plans starting at $0.05 per 1 million vector dimensions and scale seamlessly as your needs grow.",
+      "Our pricing is designed to give you all the capabilities to build and test your applications for free.",
+      "Free",
+      "Create a Free Sandbox"
+    ],
+    "totals": {
+      "removed": 62,
+      "added": 115,
+      "materialRemoved": 11,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "weaviate-io-pricing-20240312003732",
+    "url": "https://weaviate.io/pricing",
+    "ts": "20240312003732",
+    "date": "2024-03-12",
+    "source": "wayback",
+    "prevTs": "20231226154511",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Weaviate Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Our ecosystem is designed to give you the capabilities to build and test your applications for free. When you are ready to move to production, simply pick a plan that best suits your needs."
+    ],
+    "totals": {
+      "removed": 26,
+      "added": 29,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "weaviate-io-pricing-20240718114649",
+    "url": "https://weaviate.io/pricing",
+    "ts": "20240718114649",
+    "date": "2024-07-18",
+    "source": "wayback",
+    "prevTs": "20240312003732",
+    "kind": "price",
+    "score": 44,
+    "counts": {
+      "price": 11,
+      "limit": 3,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Weaviate Cloud: 11 prices, 3 limits, 3 plan names changed (removed “Please leave your contact details below and o…”; added “Price per 1M vector dimensions stored per month”)",
+    "pairs": [],
+    "added": [
+      "Our ecosystem is designed to give you the capabilities to build and test your applications for free. When you are ready to move to production, simply pick a plan that best suits your needs.",
+      "Free Sandbox",
+      "Get free access for learning and prototyping.",
+      "Start Free",
+      "Price per 1M vector dimensions stored per month",
+      "$0.095",
+      "from $135 /mo",
+      "$0.145",
+      "from $450 /mo",
+      "$0.175",
+      "Price per 1M vector dimensions stored per month",
+      "from $25 /mo",
+      "$0.095",
+      "Price per 1M vector dimensions stored per month",
+      "from $135 /mo",
+      "$0.145",
+      "Price per 1M vector dimensions stored per month",
+      "from $450 /mo",
+      "$0.175"
+    ],
+    "removed": [
+      "Free Sandbox",
+      "Please leave your contact details below and one of our sales representatives will reach out to you within 24 hours."
+    ],
+    "totals": {
+      "removed": 66,
+      "added": 128,
+      "materialRemoved": 4,
+      "materialAdded": 21
+    }
+  },
+  {
+    "id": "weaviate-io-pricing-20240907044734",
+    "url": "https://weaviate.io/pricing",
+    "ts": "20240907044734",
+    "date": "2024-09-07",
+    "source": "wayback",
+    "prevTs": "20240718114649",
+    "kind": "price",
+    "score": 27,
+    "counts": {
+      "price": 9,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Weaviate Cloud: 9 prices changed (removed “from $ 25 /mo”; added “Starting at $25 /mo per 1M vector dimensions …”)",
+    "pairs": [],
+    "added": [
+      "Starting at $25 /mo per 1M vector dimensions stored/month",
+      "Get started with a free trial in minutes",
+      "from $2.64 / AIU AIU = AI Unit",
+      "Starting from $2.64 per AI Unit (AIU)",
+      "Get started with a free trial in minutes"
+    ],
+    "removed": [
+      "Our ecosystem is designed to give you the capabilities to build and test your applications for free. When you are ready to move to production, simply pick a plan that best suits your needs.",
+      "from $ 25 /mo",
+      "$0.095 per 1M vector dimensions",
+      "from $ 135 /mo",
+      "$0.145 per 1M vector dimensions",
+      "from $ 450 /mo",
+      "$0.175 per 1M vector dimensions"
+    ],
+    "totals": {
+      "removed": 82,
+      "added": 75,
+      "materialRemoved": 7,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "weaviate-io-pricing-20241126184935",
+    "url": "https://weaviate.io/pricing",
+    "ts": "20241126184935",
+    "date": "2024-11-26",
+    "source": "wayback",
+    "prevTs": "20240907044734",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Weaviate Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Get started with a free trial in minutes"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 6,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "weaviate-io-pricing-20250118190029",
+    "url": "https://weaviate.io/pricing",
+    "ts": "20250118190029",
+    "date": "2025-01-18",
+    "source": "wayback",
+    "prevTs": "20241126184935",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Weaviate Cloud: 1 price changed (added “Weaviate Embeddings available starting at $0.…”)",
+    "pairs": [],
+    "added": [
+      "Weaviate Embeddings available starting at $0.04/M tokens"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 8,
+      "added": 7,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "weaviate-io-pricing-20250316132340",
+    "url": "https://weaviate.io/pricing",
+    "ts": "20250316132340",
+    "date": "2025-03-16",
+    "source": "wayback",
+    "prevTs": "20250118190029",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 4,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Weaviate Cloud: 4 prices changed (1M → $0.095)",
+    "pairs": [
+      {
+        "before": "Starting at $25 /mo per 1M vector dimensions stored/month",
+        "after": "Starting at $25 /mo $0.095 per 1M vector dimensions stored/month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1M",
+            "after": "$0.095"
+          },
+          {
+            "before": null,
+            "after": "1M"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0.025 / 1M tokens",
+      "$0.040 / 1M tokens"
+    ],
+    "removed": [
+      "Weaviate Embeddings available starting at $0.04/M tokens"
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 14,
+      "materialRemoved": 2,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "weaviate-io-pricing-20250720205849",
+    "url": "https://weaviate.io/pricing",
+    "ts": "20250720205849",
+    "date": "2025-07-20",
+    "source": "wayback",
+    "prevTs": "20250316132340",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Weaviate Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "weaviate-io-pricing-20251104192035",
+    "url": "https://weaviate.io/pricing",
+    "ts": "20251104192035",
+    "date": "2025-11-04",
+    "source": "wayback",
+    "prevTs": "20250720205849",
+    "kind": "price",
+    "score": 104,
+    "counts": {
+      "price": 26,
+      "limit": 4,
+      "plan": 9
+    },
+    "material": true,
+    "headline": "Weaviate Cloud: 26 prices, 4 limits, 9 plan names changed (removed “Starting at $25 /mo $0.095 per 1M vector dime…”; added “$ 45”)",
+    "pairs": [],
+    "added": [
+      "Try Free",
+      "$ 45",
+      "Feature comparison across Free, Flex, Plus, and Premium plans Plan",
+      "Free Trial",
+      "14-day free trial",
+      "7 days",
+      "30 days",
+      "45 days",
+      "Free",
+      "$0.000745 / 1M",
+      "$0.000327 / 1M",
+      "$0.000327 / 1M",
+      "Free",
+      "$0.255 / GiB",
+      "$0.2125 / GiB",
+      "$0.2125 / GiB",
+      "Free",
+      "$0.0264 / GiB",
+      "$0.022 / GiB",
+      "$0.022 / GiB",
+      "Free for promotional period 1",
+      "Free to try",
+      "$30 / organization",
+      "4000 requests included",
+      "+ unlimited additional requests with usage-based pricing",
+      "Free on-demand learning"
+    ],
+    "removed": [
+      "Starting at $25 /mo $0.095 per 1M vector dimensions stored/month",
+      "Get started with a free trial in minutes",
+      "Free Sandbox",
+      "Get free access for learning and prototyping.",
+      "Start Free",
+      "Price per 1M vector dimensions stored per month",
+      "from $25 /mo",
+      "$0.095",
+      "from $135 /mo",
+      "$0.145",
+      "from $450 /mo",
+      "$0.175",
+      "Price per 1M vector dimensions stored per month",
+      "from $25 /mo",
+      "$0.095",
+      "Price per 1M vector dimensions stored per month",
+      "from $135 /mo",
+      "$0.145",
+      "Price per 1M vector dimensions stored per month",
+      "from $450 /mo",
+      "$0.175",
+      "from $2.64 / AIU AIU = AI Unit",
+      "Starting from $2.64 per AI Unit (AIU)"
+    ],
+    "totals": {
+      "removed": 179,
+      "added": 240,
+      "materialRemoved": 26,
+      "materialAdded": 29
+    }
+  },
+  {
+    "id": "weaviate-io-pricing-20251201201719",
+    "url": "https://weaviate.io/pricing",
+    "ts": "20251201201719",
+    "date": "2025-12-01",
+    "source": "wayback",
+    "prevTs": "20251104192035",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Weaviate Cloud: 1 price changed (removed “$ 45”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$ 45"
+    ],
+    "totals": {
+      "removed": 26,
+      "added": 2,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "weaviate-io-pricing-20260105143341",
+    "url": "https://weaviate.io/pricing",
+    "ts": "20260105143341",
+    "date": "2026-01-05",
+    "source": "wayback",
+    "prevTs": "20251201201719",
+    "kind": "price",
+    "score": 35,
+    "counts": {
+      "price": 11,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Weaviate Cloud: 11 prices, 1 plan name changed ($0.2125 → $0.31875; $0.022 → $0.033)",
+    "pairs": [
+      {
+        "before": "$0.2125 / GiB",
+        "after": "$0.31875 / GiB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.2125",
+            "after": "$0.31875"
+          }
+        ]
+      },
+      {
+        "before": "$0.022 / GiB",
+        "after": "$0.033 / GiB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.022",
+            "after": "$0.033"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 45",
+      "Unlimited",
+      "Free",
+      "$45 / month",
+      "$400 / month",
+      "$0.01668 / 1M",
+      "$0.0139 / 1M",
+      "$0.00975 / 1M"
+    ],
+    "removed": [
+      "$0.000745 / 1M",
+      "$0.000327 / 1M",
+      "$0.000327 / 1M"
+    ],
+    "totals": {
+      "removed": 36,
+      "added": 37,
+      "materialRemoved": 6,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "weaviate-io-pricing-20260203174345",
+    "url": "https://weaviate.io/pricing",
+    "ts": "20260203174345",
+    "date": "2026-02-03",
+    "source": "wayback",
+    "prevTs": "20260105143341",
+    "kind": "price",
+    "score": 21,
+    "counts": {
+      "price": 7,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Weaviate Cloud: 7 prices changed (removed “$0.01668 / 1M”; added “$0.01668 / 1M 1”)",
+    "pairs": [],
+    "added": [
+      "$0.01668 / 1M 1",
+      "$0.0139 / 1M 1",
+      "$0.00975 / 1M 1",
+      "$0.065 / 1M tokens"
+    ],
+    "removed": [
+      "$0.01668 / 1M",
+      "$0.0139 / 1M",
+      "$0.00975 / 1M"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 12,
+      "materialRemoved": 4,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "weaviate-io-pricing-20260401031346",
+    "url": "https://weaviate.io/pricing",
+    "ts": "20260401031346",
+    "date": "2026-04-01",
+    "source": "wayback",
+    "prevTs": "20260203174345",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Weaviate Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "weaviate-io-pricing-20260618003632",
+    "url": "https://weaviate.io/pricing",
+    "ts": "20260618003632",
+    "date": "2026-06-18",
+    "source": "wayback",
+    "prevTs": "20260401031346",
+    "kind": "price",
+    "score": 93,
+    "counts": {
+      "price": 23,
+      "limit": 3,
+      "plan": 9
+    },
+    "material": true,
+    "headline": "Weaviate Cloud: 23 prices, 3 limits, 9 plan names changed ($400 → $280)",
+    "pairs": [
+      {
+        "before": "$400 / month",
+        "after": "$280 / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$400",
+            "after": "$280"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "✦ Always free Free",
+      "Forever $0 /mo",
+      "No credit card required",
+      "A fully managed AI Database to explore Weaviate features. Easiest way to get started, always free.",
+      "Start free",
+      "✓ Always free — 1 cluster per user, upgrade to paid anytime.",
+      "✓ 100,000 objects · 1 GB memory · 10 GB disk.",
+      "✓ Embeddings (2,000 req/day) + Query Agent (1,000 req/mo).",
+      "Starts at $45 /mo",
+      "✓ Query Agent free tier + usage-based; Embeddings usage-based.",
+      "Starts at $280 /mo",
+      "✓ Query Agent free tier + usage-based; Embeddings usage-based.",
+      "Starts at $400 /mo",
+      "✓ Query Agent free tier + usage-based; Embeddings usage-based.",
+      "Free to try — 1,000 requests / month",
+      "Unlimited additional requests, usage-based",
+      "Free",
+      "Always free",
+      "Unlimited",
+      "Free tier",
+      "Free tier + usage-based",
+      "1,000 req/mo",
+      "30,000 req/mo",
+      "2,000 req/day",
+      "from $400 / month",
+      "from $0.00465 / 1M",
+      "from $0.003875 / 1M",
+      "from $0.002718 / 1M",
+      "from $0.12 / GiB",
+      "from $0.10 / GiB",
+      "from $0.1505 / GiB",
+      "from $0.0042 / GiB",
+      "from $0.0063 / GiB",
+      "Free",
+      "The minimum covers the baseline cluster cost and includes charges for Vector Dimensions and Storage: $45/month on Flex, $280/month on Plus, $400/month on Premium. Backups are charged on top, based on data volume and retention."
+    ],
+    "removed": [
+      "Try Free",
+      "Free 14-day trial, then pay‑as‑you‑go, monthly instant, no‑commit entry point.",
+      "Feature comparison across Free, Flex, and Premium plans Plan",
+      "Free Trial",
+      "14-day free trial",
+      "$0.01668 / 1M 1",
+      "$0.0139 / 1M 1",
+      "$0.00975 / 1M 1",
+      "$0.255 / GiB",
+      "$0.2125 / GiB",
+      "$0.31875 / GiB",
+      "$0.022 / GiB",
+      "$0.033 / GiB",
+      "Free to try",
+      "+ unlimited additional requests with usage-based pricing",
+      "Free on-demand learning"
+    ],
+    "totals": {
+      "removed": 157,
+      "added": 138,
+      "materialRemoved": 24,
+      "materialAdded": 43
+    }
+  },
+  {
+    "id": "weaviate-io-pricing-20260710120822",
+    "url": "https://weaviate.io/pricing",
+    "ts": "20260710120822",
+    "date": "2026-07-10",
+    "source": "wayback",
+    "prevTs": "20260618003632",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Weaviate Cloud: 3 prices changed ($280 → $400)",
+    "pairs": [
+      {
+        "before": "The minimum covers the baseline cluster cost and includes charges for Vector Dimensions and Storage: $45/month on Flex, $280/month on Plus, $400/month on Premium. Backups are charged on top, based on data volume and retention.",
+        "after": "The minimum covers the baseline cluster cost and includes charges for Vector Dimensions and Storage: $45/month on Flex and from $400/month on Premium. Backups are charged on top, based on data volume and retention.",
+        "confidence": 0.92,
+        "deltas": [
+          {
+            "before": "$280",
+            "after": "$400"
+          },
+          {
+            "before": "$400",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "Starts at $280 /mo",
+      "✓ Query Agent free tier + usage-based; Embeddings usage-based.",
+      "$280 / month"
+    ],
+    "totals": {
+      "removed": 21,
+      "added": 4,
+      "materialRemoved": 4,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "weaviate-io-pricing-20260804172408",
+    "url": "https://weaviate.io/pricing",
+    "ts": "20260804172408",
+    "date": "2026-08-04",
+    "source": "wayback",
+    "prevTs": "20260710120822",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Weaviate Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  }
+]

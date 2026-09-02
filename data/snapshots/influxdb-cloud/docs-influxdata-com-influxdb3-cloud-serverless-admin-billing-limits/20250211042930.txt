@@ -1,0 +1,498 @@
+Doc umentation
+InfluxDB Cloud Serverless
+InfluxDB 3
+InfluxDB 3 Core alpha
+InfluxDB 3 Enterprise alpha
+InfluxDB Clustered
+InfluxDB Cloud Serverless
+InfluxDB Cloud Dedicated
+InfluxDB 2
+InfluxDB OSS v2
+InfluxDB Cloud (TSM)
+Flux
+InfluxDB 1
+InfluxDB OSS v1
+InfluxDB Enterprise
+Other products
+Telegraf
+Chronograf
+Kapacitor
+InfluxDB Cloud Serverless
+Sign up
+Get started
+Set up InfluxDB
+Write data
+Query data
+Write data
+Use Telegraf
+Configure Telegraf
+Dual write to OSS & Cloud
+Write CSV data
+Use the influx CLI
+Use the InfluxDB UI
+Use Telegraf
+Write line protocol data
+Use client libraries
+Best practices
+Schema design
+Optimize writes
+Troubleshoot issues
+Delete data
+Use the v1 HTTP write API
+Query data
+Query with SQL
+Explore your schema
+Basic query
+Aggregate data
+Cast types
+Fill gaps in data
+Parameterized queries
+Query with InfluxQL
+Explore your schema
+Basic query
+Aggregate data
+Troubleshoot errors
+Parameterized queries
+Execute queries
+Use client libraries
+Use Go
+Use Python
+Use the Data Explorer
+Use the v1 HTTP query API
+Use visualization tools
+Troubleshoot and optimize queries
+Troubleshoot queries
+Analyze a query plan
+Understand Flight responses
+Process & visualize data
+Downsample data
+Use client libraries
+Use Quix
+Summarize data
+Use data analysis tools
+Use pandas
+Use PyArrow
+Visualize data
+Use Grafana
+Use Superset
+Use Tableau
+Use Chronograf
+Send alerts
+Administer InfluxDB Cloud
+Manage tokens
+Create a token
+View tokens
+Update a token
+Delete a token
+Use tokens
+Manage accounts
+Switch InfluxDB accounts
+Change your password
+Cancel InfluxDB Cloud
+Manage organizations
+View organizations
+Update an organization
+Switch InfluxDB organizations
+Manage users
+Manage billing
+Pricing plans
+View data usage
+Adjustable quotas and limits
+Guides
+API compatibility
+v2 API
+v1 API
+Migrate data
+Reference
+SQL reference
+Data types
+SELECT statement
+JOIN clause
+WHERE clause
+GROUP BY clause
+ORDER BY clause
+HAVING clause
+LIMIT clause
+UNION clause
+EXPLAIN command
+Information schema
+Subqueries
+Operators
+Arithmetic operators
+Comparison operators
+Logical operators
+Bitwise operators
+Other operators
+Functions
+Aggregate
+Selector
+Time and date
+Conditional
+Math
+String
+Regular expression
+Miscellaneous
+Table value constructor
+InfluxQL reference
+SELECT statement
+WHERE clause
+GROUP BY clause
+ORDER BY clause
+LIMIT and SLIMIT clauses
+OFFSET and SOFFSET clauses
+SHOW statements
+Subqueries
+InfluxQL functions
+Aggregates
+Selectors
+Transformations
+Date and time
+Miscellaneous
+Time and time zones
+Regular expressions
+Quotation
+Math operators
+InfluxQL internals
+InfluxQL feature support
+CLIs
+influx
+influx apply
+influx auth
+influx auth active
+influx auth create
+influx auth delete
+influx auth inactive
+influx auth list
+influx backup
+influx bucket
+influx bucket create
+influx bucket delete
+influx bucket list
+influx bucket update
+influx bucket-schema
+influx bucket-schema create
+influx bucket-schema list
+influx bucket-schema update
+influx completion
+influx config
+influx config create
+influx config list
+influx config rm
+influx config set
+influx dashboards
+influx delete
+influx export
+influx export all
+influx export stack
+influx help
+influx org
+influx org create
+influx org delete
+influx org list
+influx org members
+influx org members add
+influx org members list
+influx org members remove
+influx org update
+influx ping
+influx query
+influx remote
+influx remote create
+influx remote delete
+influx remote list
+influx remote update
+influx replication
+influx replication create
+influx replication delete
+influx replication list
+influx replication update
+influx restore
+influx scripts
+influx scripts create
+influx scripts delete
+influx scripts invoke
+influx scripts list
+influx scripts retrieve
+influx scripts update
+influx secret
+influx secret delete
+influx secret list
+influx secret update
+influx setup
+influx stacks
+influx stacks init
+influx stacks remove
+influx stacks update
+influx task
+influx task create
+influx task delete
+influx task list
+influx task log
+influx task log list
+influx task retry-failed
+influx task run
+influx task run list
+influx task run retry
+influx task update
+influx telegrafs
+influx telegrafs create
+influx telegrafs rm
+influx telegrafs update
+influx template
+influx template validate
+influx user
+influx user create
+influx user delete
+influx user list
+influx user password
+influx user update
+influx v1
+influx v1 auth
+influx v1 auth create
+influx v1 auth delete
+influx v1 auth list
+influx v1 auth set-active
+influx v1 auth set-inactive
+influx v1 auth set-password
+influx v1 dbrp
+influx v1 dbrp create
+influx v1 dbrp delete
+influx v1 dbrp list
+influx v1 dbrp update
+influx v1 shell
+influx write
+influx write dryrun
+influx version
+InfluxDB HTTP API
+v2 API
+v1 Compatibility API
+Client libraries
+Arrow Flight clients
+C#.NET
+Go
+Java Flight SQL
+Python
+Python Flight SQL
+v3 client libraries
+C#.NET
+Go
+Java
+JavaScript
+Python
+v2 client libraries
+Arduino
+C#
+Dart
+Go
+Java
+JavaScript
+Browsers and web clients
+Node.js
+Install
+Write
+Kotlin
+PHP
+Python
+R
+Ruby
+Scala
+Swift
+v1 client libraries
+Other syntaxes
+Line protocol
+Annotated CSV
+Extended annotated CSV
+InfluxDB Cloud regions
+InfluxDB Cloud internals
+Arrow Flight SQL
+Data durability
+Data retention
+Query plans
+Policies & procedures
+End-of-life procedures
+Sample data
+Glossary
+Manage buckets
+Create a bucket
+Update a bucket
+View buckets
+Manage explicit bucket schemas
+Syntax
+Delete predicate
+InfluxDB Cloud Serverless limits and adjustable quotas
+InfluxDB Cloud Serverless applies (non-adjustable) global system limits and adjustable service quotas on a per organization basis.
+All rates (data-in (writes), and queries (reads)) are accrued within a fixed five-minute window. Once a rate is exceeded, an error response is returned until the current five-minute window resets.
+Review adjustable service quotas and global limits to plan for your bandwidth needs:
+Adjustable service quotas
+Storage-level
+Free Plan
+Usage-Based Plan
+Global limits
+Error messages when exceeding quotas or limits
+Storage level Errors
+Error messages in the UI
+API error response messages
+Read (query) limit errors
+Adjustable service quotas
+To reduce the chance of unexpected charges and protect the service for all users, InfluxDB Cloud Serverless has adjustable service quotas applied per account.
+Storage-level
+The InfluxDB 3 storage engine enforces limits on the storage level that apply to all accounts (Free Plan and Usage-Based Plan).
+Terminology
+Storage-level limits
+Terminology
+namespace: organization+bucket
+table: measurement
+column: time, tags and fields are structured as columns
+Storage-level limits
+The v3 storage engine enforces the following storage-level limits:
+Maximum number of tables per database: 500
+Maximum number of columns per table: 200
+Storage-level limits apply to Free Plan and Usage-Based Plan accounts. If you need higher storage-level limits, contact InfluxData Sales
+.
+Free Plan
+Data-in: Rate of 5 MB per 5 minutes (average of 17 kb/s) Uncompressed bytes of normalized line protocol
+Read: HTTP response payload rate: 300 MB data per 5 minutes (average of 1000 kb/s)
+Partitions per query: 500
+Parquet files per query: 1000
+Available resources: 2 buckets (excluding _monitoring and _tasks buckets)
+Storage: Storage-level limits
+30 days of data retention (see retention period
+)
+To write historical data older than 30 days, retain data for more than 30 days, increase rate limits, or create additional organizations, upgrade to the Cloud Usage-Based Plan
+.
+Usage-Based Plan
+Data-in: Rate of 300 MB per 5 minutes Uncompressed bytes of normalized line protocol
+Read: HTTP response payload rate: Rate of 3 GB data per 5 minutes
+Partitions per query: 2000
+Parquet files per query: 10000
+Unlimited resources buckets
+users
+Storage: Storage-level limits
+Set your retention period to unlimited or up to 1 year by updating a bucket’s retention period in the InfluxDB UI
+or set a custom retention period using the influx bucket update command
+with the influx CLI
+.
+Global limits
+InfluxDB Cloud Serverless applies global (non-adjustable) system limits to all accounts, which protects the InfluxDB Cloud Serverless infrastructure for all users. As the service continues to evolve, we’ll continue to review these global limits and adjust them as appropriate.
+Limits include:
+Write request limits: 50 MB maximum HTTP request batch size (compressed or uncompressed–defined in the Content-Encoding header)
+250 MB maximum HTTP request batch size after decompression
+Write partition limit: Write to 5000 distinct partitions per bucket every 15 minutes (data is partitioned by day)
+Query processing time: 90 seconds
+Total query time: 1500 seconds of total query time every 30 seconds
+Task processing time: 150 seconds
+Total task time: 1500 seconds of total task time every 30 seconds
+Error messages when exceeding quotas or limits
+Storage level Errors
+Maximum number of columns reached
+couldn't create columns in table `table_name`; table contains <N> existing columns, applying this write would result in <N+> columns, limit is 200
+This error is returned for any write request that would exceed the maximum number of columns allowed in a table.
+Potential solutions
+Consider storing new fields in a new measurement
+(not to exceed the maximum number of tables
+).
+Review InfluxDB schema design recommendations
+.
+Customers with an annual or support contract
+can contact InfluxData Support
+to request a review of their database schema.
+Maximum number of tables reached
+dml handler error: service limit reached: couldn't create new table; namespace contains <N> existing tables, applying this write would result in <N+> columns, limit is 500
+This error is returned for any write request that would exceed the maximum number of tables (measurements) allowed in a namespace.
+Error messages in the UI
+The InfluxDB Cloud Serverless UI displays a notification message when service quotas or limits are exceeded. The error messages correspond with the relevant API error response messages
+.
+Errors can also be viewed in the Usage page
+under Limit Events –for example: event_type_limited_query, event_type_limited_write, or event_type_limited_delete_rate.
+API error response messages
+The following API error responses occur when your plan’s service quotas are exceeded.
+HTTP response code
+Error message
+Description
+HTTP 413 "Request Too Large"
+cannot read data: points in batch is too large
+If a write request exceeds the maximum global limit
+HTTP 429 "Too Many Requests"
+Retry-After: xxx (seconds to wait before retrying the request)
+If a read or write request exceeds your plan’s adjustable service quotas
+or if a delete request exceeds the maximum global limit
+Error messages and their meaning
+Exceeded limited_write plan limit
+Exceeded limited_query plan limit
+Exceeded limited_query_time plan limit
+Exceeded limited_write plan limit
+org <ORG_ID> has exceeded limited_write plan limit
+The exceeded limited_write plan limit error message means you have exceeded the amount of data your organization can write in a five minute period.
+See Free plan–Data-in limit
+and Usage-based plan–Data-in limit
+.
+Exceeded limited_query plan limit
+org <ORG_ID> has exceeded limited_query plan limit
+The exceeded limited_query plan limit error message means you have exceeded the amount of data your organization can query in a five minute period.
+See Free plan–Read limit
+and Usage-based plan–Read limit
+.
+Exceeded limited_query_time plan limit
+org <ORG_ID> has exceeded limited_query_time plan limit
+The exceeded limited_query_time plan limit error message means your organization has exceeded the amount of time allowed for query execution in a 30s period.
+See Global limits–Total query time
+.
+Read (query) limit errors
+Query would process too many files or partitions
+The Flight request returns the following gRPC error code
+ResourceExhausted
+And the error message contains detail about the exceeded Free Plan
+or Usage-Based Plan
+query limit–for example:
+Query would process more than 500 partitions
+Query would process more than 1000 parquet files
+To avoid these errors, split your query into multiple queries that retrieve fewer files or partitions. For example, because InfluxDB Cloud Serverless partitions data by day, you can use time boundaries
+to limit the number of partitions retrieved.
+Related
+Best practices for writing data
+Was this page helpful?
+Yes
+No
+Thank you for your feedback!
+Support and feedback
+Thank you for being part of our community! We welcome and encourage your feedback and bug reports for InfluxDB Cloud Serverless and this documentation. To find support, use the following resources:
+InfluxData Community
+InfluxDB Community Slack
+Customers with an annual or support contract can contact InfluxData Support
+.
+Edit this page
+Submit docs issue
+Submit InfluxDB Cloud Serverless issue
+© 2025 InfluxData, Inc.
+Select your InfluxDB Cloud Serverless region
+Select your InfluxDB Cloud Serverless region and we’ll customize code examples for you.
+AWS
+US East (Virginia)
+EU Frankfurt
+For more information, see InfluxDB Cloud Serverless regions
+.
+Thank you for your feedback!
+Let us know what we can do better:
+Thank you!
+No thanks
+The future of Flux
+Flux is going into maintenance mode. You can continue using it as you currently are without any changes to your code.
+Read more
+InfluxDB 3 Open Source Now in Public Alpha
+InfluxDB 3 Open Source is now available for alpha testing, licensed under MIT or Apache 2 licensing.
+We are releasing two products as part of the alpha.
+InfluxDB 3 Core, is our new open source product. It is a recent-data engine for time series and event data. InfluxDB 3 Enterprise is a commercial version that builds on Core’s foundation, adding historical query capability, read replicas, high availability, scalability, and fine-grained security.
+For more information on how to get started, check out:
+Announcement blog from InfluxData Founder & CTO Paul Dix
+Get Started with InfluxDB 3 Core
+Get Started with InfluxDB 3 Enterprise
+Ask AI
+InfluxDB Cloud Serverless
+You are currently viewing documentation specific to InfluxDB Cloud Serverless powered by the v3 storage engine, which offers different functionality than InfluxDB Cloud powered by the TSM storage engine.
+Are you using InfluxDB Cloud Serverless? How to find out?
+Visit your organization's homepage
+and find the following at the bottom of the right column:
+InfluxDB Cloud Serverless Storage Engine Version 3
+Yes – I'm using InfluxDB Cloud Serverless
+No – I'm using InfluxDB Cloud (TSM)
+Don't ask again

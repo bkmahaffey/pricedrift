@@ -1,0 +1,1021 @@
+[
+  {
+    "id": "about-gitlab-com-pricing-20230301233432",
+    "url": "https://about.gitlab.com/pricing/",
+    "ts": "20230301233432",
+    "date": "2023-03-01",
+    "source": "wayback",
+    "prevTs": "20230101195405",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "GitLab: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "about-gitlab-com-pricing-20230501142832",
+    "url": "https://about.gitlab.com/pricing/",
+    "ts": "20230501142832",
+    "date": "2023-05-01",
+    "source": "wayback",
+    "prevTs": "20230301233432",
+    "kind": "price",
+    "score": 13,
+    "counts": {
+      "price": 4,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "GitLab: 4 prices, 1 limit changed ($228 → $285.36)",
+    "pairs": [
+      {
+        "before": "Billed annually at $228 USD",
+        "after": "Billed annually at $285.36 USD",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$228",
+            "after": "$285.36"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 29",
+      "$ 24 *"
+    ],
+    "removed": [
+      "$ 19",
+      "per 1,000 minutes"
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 13,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "about-gitlab-com-pricing-20230701000535",
+    "url": "https://about.gitlab.com/pricing/",
+    "ts": "20230701000535",
+    "date": "2023-07-01",
+    "source": "wayback",
+    "prevTs": "20230501142832",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "GitLab: 2 prices, 1 limit, 1 plan name changed ($285.36 → $348)",
+    "pairs": [
+      {
+        "before": "Billed annually at $285.36 USD",
+        "after": "Billed annually at $348 USD",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$285.36",
+            "after": "$348"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "1,000 seat commitment"
+    ],
+    "removed": [
+      "Free SaaS trial",
+      "$ 24 *"
+    ],
+    "totals": {
+      "removed": 13,
+      "added": 27,
+      "materialRemoved": 4,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "about-gitlab-com-pricing-20230905090709",
+    "url": "https://about.gitlab.com/pricing/",
+    "ts": "20230905090709",
+    "date": "2023-09-05",
+    "source": "wayback",
+    "prevTs": "20230701000535",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "GitLab: 2 limits changed (1 → 3; 2 → 4)",
+    "pairs": [
+      {
+        "before": "250GB storage [1]",
+        "after": "250GB storage [3]",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1",
+            "after": "3"
+          }
+        ]
+      },
+      {
+        "before": "500GB transfer per month [2]",
+        "after": "500GB transfer per month [4]",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2",
+            "after": "4"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "about-gitlab-com-pricing-20231103153915",
+    "url": "https://about.gitlab.com/pricing/",
+    "ts": "20231103153915",
+    "date": "2023-11-03",
+    "source": "wayback",
+    "prevTs": "20230905090709",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "GitLab: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "about-gitlab-com-pricing-20240101013048",
+    "url": "https://about.gitlab.com/pricing/",
+    "ts": "20240101013048",
+    "date": "2024-01-01",
+    "source": "wayback",
+    "prevTs": "20231103153915",
+    "kind": "price",
+    "score": 31,
+    "counts": {
+      "price": 5,
+      "limit": 8,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "GitLab: 5 prices, 8 limits changed (10GB → 10GiB; 100GB → 100GiB)",
+    "pairs": [
+      {
+        "before": "10GB transfer per month [2]",
+        "after": "10GiB transfer per month [2]",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "10GB",
+            "after": "10GiB"
+          }
+        ]
+      },
+      {
+        "before": "100GB transfer per month [2]",
+        "after": "100GiB transfer per month [2]",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "100GB",
+            "after": "100GiB"
+          }
+        ]
+      },
+      {
+        "before": "500GB transfer per month [4]",
+        "after": "500GiB transfer per month [4]",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "500GB",
+            "after": "500GiB"
+          }
+        ]
+      },
+      {
+        "before": "per 10GB storage and 20GB transfer/month, renews annually",
+        "after": "per 10GiB storage and 20GiB transfer/month, renews annually",
+        "confidence": 0.78,
+        "deltas": [
+          {
+            "before": "10GB",
+            "after": "10GiB"
+          },
+          {
+            "before": "20GB",
+            "after": "20GiB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "5GiB storage [1]",
+      "50GiB storage [1]",
+      "250GiB storage [3]",
+      "$9 *",
+      "Bills annually at $108 USD",
+      "$15",
+      "50 seat commitment"
+    ],
+    "removed": [
+      "5GB storage [1]",
+      "50GB storage [1]",
+      "$ 99",
+      "Billed annually at $1188 USD",
+      "250GB storage [3]",
+      "1,000 seat commitment"
+    ],
+    "totals": {
+      "removed": 32,
+      "added": 38,
+      "materialRemoved": 10,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "about-gitlab-com-pricing-20240301073829",
+    "url": "https://about.gitlab.com/pricing/",
+    "ts": "20240301073829",
+    "date": "2024-03-01",
+    "source": "wayback",
+    "prevTs": "20240101013048",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "GitLab: 3 prices changed ($108 → $228)",
+    "pairs": [
+      {
+        "before": "Bills annually at $108 USD",
+        "after": "Bills annually at $228 USD",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$108",
+            "after": "$228"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$19"
+    ],
+    "removed": [
+      "$9 *"
+    ],
+    "totals": {
+      "removed": 9,
+      "added": 13,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "about-gitlab-com-pricing-20240501152146",
+    "url": "https://about.gitlab.com/pricing/",
+    "ts": "20240501152146",
+    "date": "2024-05-01",
+    "source": "wayback",
+    "prevTs": "20240301073829",
+    "kind": "price",
+    "score": 10,
+    "counts": {
+      "price": 3,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "GitLab: 3 prices, 1 limit changed (removed “Billed annually at $348 USD”; added “$39”)",
+    "pairs": [],
+    "added": [
+      "$39"
+    ],
+    "removed": [
+      "Billed annually at $348 USD",
+      "Bills annually at $228 USD",
+      "50 seat commitment"
+    ],
+    "totals": {
+      "removed": 24,
+      "added": 57,
+      "materialRemoved": 4,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "about-gitlab-com-pricing-20240701015325",
+    "url": "https://about.gitlab.com/pricing/",
+    "ts": "20240701015325",
+    "date": "2024-07-01",
+    "source": "wayback",
+    "prevTs": "20240501152146",
+    "kind": "limits",
+    "score": 11,
+    "counts": {
+      "price": 0,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "GitLab: 6 limits changed (4 → 2)",
+    "pairs": [
+      {
+        "before": "5 users per top-level group [4]",
+        "after": "5 users per top-level group [2]",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4",
+            "after": "2"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Try GitLab Duo Pro free for 60 days",
+      "10GiB storage, renews annually"
+    ],
+    "removed": [
+      "5GiB storage [1]",
+      "10GiB transfer per month [2]",
+      "50GiB storage [1]",
+      "100GiB transfer per month [2]",
+      "250GiB storage [3]",
+      "500GiB transfer per month [4]",
+      "per 10GiB storage and 20GiB transfer/month, renews annually"
+    ],
+    "totals": {
+      "removed": 17,
+      "added": 7,
+      "materialRemoved": 8,
+      "materialAdded": 3
+    },
+    "flap": true
+  },
+  {
+    "id": "about-gitlab-com-pricing-20240905150141",
+    "url": "https://about.gitlab.com/pricing/",
+    "ts": "20240905150141",
+    "date": "2024-09-05",
+    "source": "wayback",
+    "prevTs": "20240701015325",
+    "kind": "price",
+    "score": 8,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "GitLab: 2 prices, 1 limit changed (2 → 4)",
+    "pairs": [
+      {
+        "before": "5 users per top-level group [2]",
+        "after": "5 users per top-level group [4]",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2",
+            "after": "4"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$5"
+    ],
+    "removed": [
+      "$60"
+    ],
+    "totals": {
+      "removed": 13,
+      "added": 13,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    },
+    "flap": true
+  },
+  {
+    "id": "about-gitlab-com-pricing-20241101100804",
+    "url": "https://about.gitlab.com/pricing/",
+    "ts": "20241101100804",
+    "date": "2024-11-01",
+    "source": "wayback",
+    "prevTs": "20240905150141",
+    "kind": "price",
+    "score": 4,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "GitLab: 1 price, 1 limit changed (removed “Try GitLab Duo Pro Free for 60 days”; added “GitLab Premium & GitLab Duo Pro — $19 for new…”)",
+    "pairs": [],
+    "added": [
+      "GitLab Premium & GitLab Duo Pro — $19 for new small business customers"
+    ],
+    "removed": [
+      "Try GitLab Duo Pro Free for 60 days"
+    ],
+    "totals": {
+      "removed": 14,
+      "added": 16,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "about-gitlab-com-pricing-20250104212658",
+    "url": "https://about.gitlab.com/pricing/",
+    "ts": "20250104212658",
+    "date": "2025-01-04",
+    "source": "wayback",
+    "prevTs": "20241101100804",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "GitLab: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 7,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "about-gitlab-com-pricing-20250303192448",
+    "url": "https://about.gitlab.com/pricing/",
+    "ts": "20250303192448",
+    "date": "2025-03-03",
+    "source": "wayback",
+    "prevTs": "20250104212658",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "GitLab: 1 price changed (removed “$39”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$39"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 2,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "about-gitlab-com-pricing-20250501093055",
+    "url": "https://about.gitlab.com/pricing/",
+    "ts": "20250501093055",
+    "date": "2025-05-01",
+    "source": "wayback",
+    "prevTs": "20250303192448",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "GitLab: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "about-gitlab-com-pricing-20250602031223",
+    "url": "https://about.gitlab.com/pricing/",
+    "ts": "20250602031223",
+    "date": "2025-06-02",
+    "source": "wayback",
+    "prevTs": "20250501093055",
+    "kind": "price",
+    "score": 21,
+    "counts": {
+      "price": 1,
+      "limit": 3,
+      "plan": 6
+    },
+    "material": true,
+    "headline": "GitLab: 1 price, 3 limits, 6 plan names changed (removed “5 users per top-level group [4]”; added “Limited time offer $29 $19 for new Premium cu…”)",
+    "pairs": [],
+    "added": [
+      "Limited time offer $29 $19 for new Premium customers. Contact sales",
+      "Try for free",
+      "10 GiB storage",
+      "Unlimited licensed users",
+      "Unlimited guest users",
+      "Free",
+      "10 GiB",
+      "Try for Free",
+      "Try for Free",
+      "14 days after the end of your subscription, your key will no longer work and GitLab Enterprise Edition will not be functional anymore. You will be able to downgrade to GitLab Community Edition, which is free to use.",
+      "Yes! We provide free Ultimate licenses, along with 50K compute minutes/month, to qualifying open source projects, educational institutions, and startups. Find out more by visiting our GitLab for Open Source",
+      "What are the differences between Free, Premium, and Ultimate plans?",
+      "What is the 5-user limit on the GitLab.com Free tier?",
+      "Compute minutes are the units used during the execution time for your pipelines on our shared runners. Execution on your own runners will not use your compute minutes and is unlimited.",
+      "Why do I need to enter credit/debit card details for free compute minutes?",
+      "Free GitLab.com Projects have a 10 GiB adjustable storage limit on their Git repository and LFS storage."
+    ],
+    "removed": [
+      "Free features:",
+      "5 users per top-level group [4]",
+      "Free guest users"
+    ],
+    "totals": {
+      "removed": 81,
+      "added": 311,
+      "materialRemoved": 5,
+      "materialAdded": 18
+    }
+  },
+  {
+    "id": "about-gitlab-com-pricing-20250701013010",
+    "url": "https://about.gitlab.com/pricing/",
+    "ts": "20250701013010",
+    "date": "2025-07-01",
+    "source": "wayback",
+    "prevTs": "20250602031223",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "GitLab: 2 prices, 1 limit, 1 plan name changed (removed “Limited time offer $29 $19 for new Premium cu…”; added “Get 60-day access to our best plan, then free…”)",
+    "pairs": [],
+    "added": [
+      "Start free, upgrade later.",
+      "Get 60-day access to our best plan, then free tier forever.",
+      "500 GiB"
+    ],
+    "removed": [
+      "Limited time offer $29 $19 for new Premium customers. Contact sales",
+      "$ 19",
+      "Try for free"
+    ],
+    "totals": {
+      "removed": 26,
+      "added": 40,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "about-gitlab-com-pricing-20250802193730",
+    "url": "https://about.gitlab.com/pricing/",
+    "ts": "20250802193730",
+    "date": "2025-08-02",
+    "source": "wayback",
+    "prevTs": "20250701013010",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "GitLab: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 25,
+      "added": 28,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "about-gitlab-com-pricing-20250901094723",
+    "url": "https://about.gitlab.com/pricing/",
+    "ts": "20250901094723",
+    "date": "2025-09-01",
+    "source": "wayback",
+    "prevTs": "20250802193730",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "GitLab: 1 limit changed (14 removed)",
+    "pairs": [
+      {
+        "before": "14 days after the end of your subscription, your key will no longer work and GitLab Enterprise Edition will not be functional anymore. You will be able to downgrade to GitLab Community Edition, which is free to use.",
+        "after": "If you choose not to renew your GitLab subscription, your key will no longer work and GitLab Enterprise Edition will not be functional anymore. You will be able to downgrade to GitLab Community Edition, which is free to use.",
+        "confidence": 0.77,
+        "deltas": [
+          {
+            "before": "14",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 9,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "about-gitlab-com-pricing-20251101033411",
+    "url": "https://about.gitlab.com/pricing/",
+    "ts": "20251101033411",
+    "date": "2025-11-01",
+    "source": "wayback",
+    "prevTs": "20250901094723",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "GitLab: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 7,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "about-gitlab-com-pricing-20251201002045",
+    "url": "https://about.gitlab.com/pricing/",
+    "ts": "20251201002045",
+    "date": "2025-12-01",
+    "source": "wayback",
+    "prevTs": "20251101033411",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "GitLab: 1 limit changed (removed “Free GitLab.com Projects have a 10 GiB adjust…”; added “Projects on GitLab.com Free have an initial 1…”)",
+    "pairs": [],
+    "added": [
+      "Projects on GitLab.com Free have an initial 10 GiB limit on Git repository and LFS storage. Users can purchase additional storage to increase the set project limit. Projects on Premium and Ultimate have a fixed limit of 500GiB per project. For more information, see fixed project limit"
+    ],
+    "removed": [
+      "Free GitLab.com Projects have a 10 GiB adjustable storage limit on their Git repository and LFS storage."
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 7,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "about-gitlab-com-pricing-20260101101124",
+    "url": "https://about.gitlab.com/pricing/",
+    "ts": "20260101101124",
+    "date": "2026-01-01",
+    "source": "wayback",
+    "prevTs": "20251201002045",
+    "kind": "plans",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "GitLab: 2 plan names changed",
+    "pairs": [],
+    "added": [
+      "Try for free",
+      "Try for free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 24,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "about-gitlab-com-pricing-20260207232538",
+    "url": "https://about.gitlab.com/pricing/",
+    "ts": "20260207232538",
+    "date": "2026-02-07",
+    "source": "wayback",
+    "prevTs": "20260101101124",
+    "kind": "price",
+    "score": 33,
+    "counts": {
+      "price": 9,
+      "limit": 2,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "GitLab: 9 prices, 2 limits, 1 plan name changed (removed “$10”; added “Includes $12 in GitLab Credits/User/Month for…”)",
+    "pairs": [],
+    "added": [
+      "Includes $12 in GitLab Credits/User/Month for GitLab Duo Agent Platform",
+      "Includes $24 in GitLab Credits/User/Month for GitLab Duo Agent Platform",
+      "Includes $12 in GitLab Credits per user per month*",
+      "Includes $24 in GitLab Credits per user per month*",
+      "12 credits/user/month *",
+      "24 credits/user/month *",
+      "$ 1 per GitLab Credit Volume discounts available with annual commitment",
+      "$ 10 per 1,000 minutes, one-time payment",
+      "$ 5 per month for 10GiB of storage, billed annually",
+      "Included credits: For a limited time, Premium customers receive 12 credits/user/month, and Ultimate customers receive 24 credits/user/month at no additional cost. These included promotional credits are available for a limited time after GA, and subject to change at GitLab’s discretion. See Promo Terms"
+    ],
+    "removed": [
+      "Try for Free",
+      "$10",
+      "$5",
+      "per month for 10GiB of storage, billed annually"
+    ],
+    "totals": {
+      "removed": 107,
+      "added": 85,
+      "materialRemoved": 8,
+      "materialAdded": 14
+    }
+  },
+  {
+    "id": "about-gitlab-com-pricing-20260302144103",
+    "url": "https://about.gitlab.com/pricing/",
+    "ts": "20260302144103",
+    "date": "2026-03-02",
+    "source": "wayback",
+    "prevTs": "20260207232538",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "GitLab: 1 plan name changed (removed “Get 30-day access to our best plan, then free…”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Start free, upgrade later.",
+      "Get 30-day access to our best plan, then free tier forever.",
+      "Try for free"
+    ],
+    "totals": {
+      "removed": 29,
+      "added": 24,
+      "materialRemoved": 4,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "about-gitlab-com-pricing-20260402181107",
+    "url": "https://about.gitlab.com/pricing/",
+    "ts": "20260402181107",
+    "date": "2026-04-02",
+    "source": "wayback",
+    "prevTs": "20260302144103",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "GitLab: 1 price changed (removed “$ 19 per user/month, billed annually”)",
+    "pairs": [],
+    "added": [
+      "Which Free namespaces can purchase a monthly commitment of GitLab Credits?",
+      "GitLab.com Free top-level group namespaces can purchase and share a pool of credits. Self-managed instances and personal namespaces cannot purchase monthly commitments."
+    ],
+    "removed": [
+      "$ 19 per user/month, billed annually"
+    ],
+    "totals": {
+      "removed": 17,
+      "added": 11,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "about-gitlab-com-pricing-20260602133409",
+    "url": "https://about.gitlab.com/pricing/",
+    "ts": "20260602133409",
+    "date": "2026-06-02",
+    "source": "wayback",
+    "prevTs": "20260402181107",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "GitLab: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 8,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "about-gitlab-com-pricing-20260701120413",
+    "url": "https://about.gitlab.com/pricing/",
+    "ts": "20260701120413",
+    "date": "2026-07-01",
+    "source": "wayback",
+    "prevTs": "20260602133409",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "GitLab: 2 prices changed (added “Only $15/user”)",
+    "pairs": [],
+    "added": [
+      "Only $15/user",
+      "No. Overage is always billed at list rate ($1/credit). Volume discounts apply only to your reserved allocation."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 37,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "about-gitlab-com-pricing-20260801160535",
+    "url": "https://about.gitlab.com/pricing/",
+    "ts": "20260801160535",
+    "date": "2026-08-01",
+    "source": "wayback",
+    "prevTs": "20260701120413",
+    "kind": "price",
+    "score": 28,
+    "counts": {
+      "price": 6,
+      "limit": 0,
+      "plan": 5
+    },
+    "material": true,
+    "headline": "GitLab: 6 prices, 5 plan names changed (added “$ 0”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "Free",
+      "Free",
+      "$ 0",
+      "No credit card required",
+      "$ 29",
+      "Includes $12 in GitLab Credits/User/Month for GitLab Duo Agent Platform",
+      "Try for free",
+      "Includes $24 in GitLab Credits/User/Month for GitLab Duo Agent Platform",
+      "Try for free",
+      "Everything from Free, plus:",
+      "Includes $12 in GitLab Credits per user per month*",
+      "Includes $24 in GitLab Credits per user per month*",
+      "Unlimited guest users"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 82,
+      "materialRemoved": 0,
+      "materialAdded": 14
+    }
+  },
+  {
+    "id": "about-gitlab-com-pricing-20260902202107",
+    "url": "https://about.gitlab.com/pricing/",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260801160535",
+    "kind": "price",
+    "score": 15,
+    "counts": {
+      "price": 4,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "GitLab: 4 prices, 1 limit, 1 plan name changed (removed “Includes $12 in GitLab Credits/User/Month for…”; added “5 users per top-level group”)",
+    "pairs": [],
+    "added": [
+      "5 users per top-level group",
+      "Try for free"
+    ],
+    "removed": [
+      "Includes $12 in GitLab Credits/User/Month for GitLab Duo Agent Platform",
+      "Includes $24 in GitLab Credits/User/Month for GitLab Duo Agent Platform",
+      "Includes $12 in GitLab Credits per user per month*",
+      "Includes $24 in GitLab Credits per user per month*"
+    ],
+    "totals": {
+      "removed": 75,
+      "added": 80,
+      "materialRemoved": 15,
+      "materialAdded": 13
+    },
+    "transition": true
+  }
+]

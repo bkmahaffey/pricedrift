@@ -1,0 +1,262 @@
+The most flexible usage-based CI/CD anywhere
+Cloud
+Server
+Free
+All our premium features. For free.
+No credit card required.
+$0 /month
+Start now
+Up to 6,000 build minutes Number of build minutes when using a small Docker resource class
+Up to 5 active users/month
+Docker, Windows, Linux, Arm, macOS, self hosted runners
+30x concurrency
+Performance
+Our most flexible plan. Pay only for what you use.
+Starting at
+$15 /month Option to purchase bulk credits at a discount.
+Get started
+30,000 credits included free
+5 active users Add additional users for $15/month.
+included
+Larger resources
+80x concurrency
+Access to 8x5 support
+Scale
+Enterprise-level power. Talk to us to build your plan.
+Starting at
+$2000 /month Billed annually.
+Talk to sales
+Customizable plans
+Enterprise controls
+Largest resource classes
+All environments, even GPU
+Access to 24/7 support
+Prices do not include applicable taxes.
+Compare features
+CircleCI runs on credits
+Buy
+Choose the credit plan that’s right for your team.
+Build
+Spend credits on seats, resources, and more.
+Repeat
+Automatic refills keep your team building.
+Free
+Start now
+Performance
+Get started
+Scale
+Talk to sales
+Plan overview
+?
+Credits are used to pay for your team’s usage based on number of active users, machine type and size, and premium features.
+Credits
+30,000 free credits/month
+30,000 credits 30,000 free credits/month + $15 for every additional 25,000 credits.
+/month included
+Custom
+?
+Any user who commits code changes on a project building on CircleCI.
+Users
+5 active users included
+5 active users 25,000 credits per month for each additional user.
+included
+Custom
+?
+The network transfer limit applies to self-hosted runners only, when restoring caches and workspaces.
+Network
+1GB included
+5GB included
+50GB included
+Storage
+2GB included
+200GB included
+Resource classes
+(x86) Docker
+Small
+Medium
+Medium+
+Large
+X-large
+—
+2 X-large
+—
+2 X-large+
+—
+(Arm) Docker / Remote Docker
+Medium
+Large
+X-large
+—
+2 X-large
+—
+Linux VM / (x86) Remote Docker
+Medium
+Large
+X-large
+—
+2 X-large
+—
+2 X-large+
+—
+Arm VM (Linux)
+Medium
+Large
+X-large
+—
+2 X-large
+—
+Windows VM
+Medium
+Large
+X-large
+—
+2 X-large
+—
+macOS VM
+M1 Medium
+M1 Large
+—
+GPU
+—
+Small
+—
+Small Multi
+—
+Small Gen2
+—
+Medium
+—
+Medium Multi
+—
+Windows Medium
+—
+Large
+—
+See full pricing list
+Key features
+?
+Jobs that run simultaneously, without queuing.
+Concurrent job runs
+30
+80
+Custom
+Docker
+30
+80
+Custom
+Linux VM
+30
+80
+Custom
+Arm VM (Linux)
+30
+80
+Custom
+Windows VM
+30
+80
+Custom
+macOS VM
+1
+15
+Custom
+?
+The amount of concurrent tasks per self-hosted runner is restricted by plan.
+Self-hosted runner
+5
+20
+Unlimited
+?
+Cache the individual layers of any Docker images built during your jobs.
+Docker layer caching
+?
+Usage for IP ranges is billed at 450 credits/GB per job.
+IP ranges
+—
+Insights
+Flaky test detection
+5 tests
+Unlimited
+?
+Create reusable packages of YAML config, called orbs, to be used exclusively by your organization.
+Private orbs
+Releases
+?
+A collection of code and configuration that is updated through releases.
+Components
+3 free components per month
+3 free components per month; 40k credits per addt’l component
+5 free components per month; 40k credits per addt’l component
+?
+An update of a component to a new version in a specific environment.
+Component release
+250 credits per release
+Included support
+?
+Access to our 24/7 community support forum.
+Community support
+?
+Our team of expert support engineers, based around the world.
+Ticket-based global support
+—
+Support packages
+Learn more
+Support SLA
+—
+8x5 and 12x5 SLAs available
+24x5 and 24x7 SLAs available
+See full pricing list
+Frequently asked questions
+What are credits?
+Credits are the currency of CircleCI. Credits are purchased up-front and are used to pay for CircleCI platform usage in real time. Platform usage consists of:
+Monthly active users - By using credits to pay for monthly active users, your organization is never restricted to a static number of active users each month.
+Compute time - Each resource type on CircleCI has an associated credits-per-minute price. Your credits are used in real time whenever your organization is actively using a compute resource on CircleCI.
+Add-on features - Some features of CircleCI have additional credit costs associated with them. These costs may be represented in credits per use or in credits per minute.
+Additional network & storage use - network and storage utilization beyond the plan-specified thresholds is charged at 420 credits per GB.
+Do credits expire?
+Credits on the free plan expire after a month and do not roll over.
+The Performance plan includes the 30,000 credits available to the Free plan; these expire and do not roll over month to month.
+Performance plan users may purchase additional credits at $15 for every 25,000 credits. Any paid credits roll over month to month, and expire after a year.
+Unused credits will be forfeited if the account subscription is canceled.
+How do CircleCI credits translate to build minutes?
+Example: 30,000 credits at a rate of 10 credits per min (using Linux Medium) is 3,000 minutes.
+It’s important to note that a minute on CircleCI is different than a minute on other CI platforms. Access to more powerful resources, Docker Layer Caching, as well as concurrency and parallelism mean you can do more in a minute on CircleCI than anywhere else.
+How do I manage billing with the Performance Plan?
+An admin for your CircleCI account can sign up for a paid plan using using a credit card, log into the CircleCI application, and go to Settings → Plan Overview.
+The Performance plan provides two purchase options for your convenience.
+In the M2M (or default) option, credits are purchased on a monthly cycle. You can set up a monthly amount to be billed at the start of your billing cycle.
+Credits are purchased in blocks of 25,000. At the beginning of each billing month (based on your purchase date), you are charged for your credits and those credits are added to your account.
+When you use up all your credits, then credits automatically refill to a level of 25% of your monthly amount, with a minimum refill amount of 25,000 credits.
+For example:
+If your monthly credit purchase is 200,000 credits, you will automatically be refilled 50,000 credits when you run out of credits.
+In the Prepaid Billing option, credits can be purchased at a discount based on credit volume. When credits run out, the account is reloaded based on your usage.
+Bulk purchases can be made starting at 1 million credits for $600. Discounts start when you purchase 5 million credits for $3,000.
+To purchase discounted credits in bulk, visit the Plan Overview Page in your CircleCI account, and select the Prepaid Billing option.
+Please note that all paid credits are valid up to 12 months from the time of purchase, regardless of the purchase option. Updates to payments can be made in the billing portal, and also in the applications Plan Overview page.
+Learn more about Prepaid Billing here.
+What if I am building open-source?
+CircleCI offers free access to compute time and resources for organizations on our Free plan. Open source projects can access up to 400,000 credits per month (equivalent to 80,000 build minutes) to use on Linux, Arm, and Docker.
+Open source Windows and macOS builds or private repositories can use the 30,000 credits offered in our free plan.
+If you are building a bigger open source project and would like the flexibility of our new plans, let us know
+how we can help you!
+Learn more about building open source projects with CircleCI.
+What are concurrent job runs?
+Concurrent job runs refers to the number of jobs that can run simultaneously without queueing. You pay for compute based on the total amount of time you use compute resources, not the number of resources that you have access to. This means you can choose the right plan for your team to maximize concurrent jobs and parallelism for your jobs to minimize queuing.
+For example, say you have a workflow with 10 jobs that each take 5 minutes to run. If you are limited to 1x concurrency, each of these jobs runs sequentially, and the workflow completes in 50 minutes. With scaling concurrency, you can run all 10 jobs concurrently (at the same time), and the workflow completes in 5 minutes. In both cases, your total usage time is 50 minutes since you used 10 machines for 5 minutes each. With usage-based pricing, that means you pay the same amount either way, but 
+What is self-hosted runner concurrency?
+Self-hosted runner concurrency is the amount of runner tasks that can be run at the same time. This applies to both machine and container runner. For example, CircleCI customers on the Free plan have 5 concurrent tasks that can be used for machine and container runner.
+How is network egress measured?
+Network egress is triggered by restoring caches and workspaces to self-hosted runners.
+Any egress triggered by our cloud executors is not passed on to the customer.
+Self-hosted runners can incur network egress cost (at a rate of 420 credits per GB) if usage exceeds the network allowance included in your plan. CircleCI does not charge per build minute on self-hosted runners.
+Learn more about how to calculate and adjust network usage
+Activities that utilize storage include saving caches and workspaces in jobs, uploading test results, and building artifacts.
+Learn more about how to calculate and adjust storage usage
+Both network and storage beyond the monthly thresholds are charged at 420 credits per GB ($0.252/GB).
+How is Docker Layer Caching (DLC) charged?
+Docker layer caching uses 200 credits per job run in a pipeline (equivalent to $0.12 per job run). For example, if your configuration specifies a workflow with three parallel Docker build jobs, you will be charged 600 credits each time these jobs are run in addition to the compute credits per minute usage.
+How much does the IP ranges feature cost?
+The IP ranges feature costs 450 credits per GB of data used by jobs with the feature enabled.
+<Build faster today
+Start for free
+Talk to sales

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "lemonsqueezy-com-pricing-20240519014425",
+    "url": "https://www.lemonsqueezy.com/pricing",
+    "ts": "20240519014425",
+    "date": "2024-05-19",
+    "source": "wayback",
+    "prevTs": "20230128162900",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Lemon Squeezy: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Free guide for all entrepreneurs and organizations explaining why partnering with a Merchant of Record is more important than you might realize."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 21,
+      "added": 63,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "lemonsqueezy-com-pricing-20260902202107",
+    "url": "https://www.lemonsqueezy.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20240519014425",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Lemon Squeezy: 3 prices changed (removed “We're giving away $250,000 in credits —”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "We're giving away $250,000 in credits —",
+      "Get started for free",
+      "We’re giving away $250,000 in credits. Enjoy 0% transaction fees on all sales until the end of January!",
+      "In our biggest release to date, we’ve added a bunch of powerful SaaS tools for no additional cost. To celebrate, we’re giving away $250,000 in credits.*"
+    ],
+    "totals": {
+      "removed": 30,
+      "added": 8,
+      "materialRemoved": 4,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

@@ -1,0 +1,812 @@
+[
+  {
+    "id": "fal-ai-pricing-20240806152922",
+    "url": "https://fal.ai/pricing",
+    "ts": "20240806152922",
+    "date": "2024-08-06",
+    "source": "wayback",
+    "prevTs": "20240619234606",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "fal: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "fal-ai-pricing-20241004032134",
+    "url": "https://fal.ai/pricing",
+    "ts": "20241004032134",
+    "date": "2024-10-04",
+    "source": "wayback",
+    "prevTs": "20240806152922",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "fal: 2 limits changed (removed “~ 1.75 s inference time”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "~ 1.75 s inference time",
+      "~ 0.38 s inference time",
+      "~ 4.9 s inference time"
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 14,
+      "materialRemoved": 4,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "fal-ai-pricing-20241205105306",
+    "url": "https://fal.ai/pricing",
+    "ts": "20241205105306",
+    "date": "2024-12-05",
+    "source": "wayback",
+    "prevTs": "20241004032134",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "fal: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "fal-ai-pricing-20250114112305",
+    "url": "https://fal.ai/pricing",
+    "ts": "20250114112305",
+    "date": "2025-01-14",
+    "source": "wayback",
+    "prevTs": "20241205105306",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 4,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "fal: 4 prices, 3 limits changed (4GB → 60GB; 100GB → 48GB)",
+    "pairs": [
+      {
+        "before": "CPU Memory 4GB",
+        "after": "CPU Memory 60GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4GB",
+            "after": "60GB"
+          }
+        ]
+      },
+      {
+        "before": "CPU Memory 100GB",
+        "after": "CPU Memory 48GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100GB",
+            "after": "48GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "VRAM 80GB",
+      "CPU Memory 112GB",
+      "Price per second $ 0.00125 /s"
+    ],
+    "removed": [
+      "With $20.00, run this model with 20 inference steps approximately 10,296 times. That's about $ 0.00194 per inference.",
+      "With $20.00, run this model with 4 inference steps approximately 47,415 times. That's about $ 0.00042 per inference.",
+      "With $20.00, run this model with a 10 minute audio clip approximately 3,677 times. That's about $ 0.00544 per inference."
+    ],
+    "totals": {
+      "removed": 12,
+      "added": 9,
+      "materialRemoved": 5,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "fal-ai-pricing-20250212203736",
+    "url": "https://fal.ai/pricing",
+    "ts": "20250212203736",
+    "date": "2025-02-12",
+    "source": "wayback",
+    "prevTs": "20250114112305",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "fal: 1 price changed (added “fal Raises $49M Series B to Power the Future …”)",
+    "pairs": [],
+    "added": [
+      "fal Raises $49M Series B to Power the Future of AI Video"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 14,
+      "added": 10,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "fal-ai-pricing-20250304052556",
+    "url": "https://fal.ai/pricing",
+    "ts": "20250304052556",
+    "date": "2025-03-04",
+    "source": "wayback",
+    "prevTs": "20250212203736",
+    "kind": "price",
+    "score": 56,
+    "counts": {
+      "price": 17,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "fal: 17 prices, 3 limits changed ($0.00125 → $0.0006; $0.00111 → $0.0003)",
+    "pairs": [
+      {
+        "before": "Price per second $ 0.00125 /s",
+        "after": "Price per second* $0.0006/s",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.00125",
+            "after": "$0.0006"
+          }
+        ]
+      },
+      {
+        "before": "Price per second $ 0.00111 /s",
+        "after": "Price per second* $0.0003/s",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.00111",
+            "after": "$0.0003"
+          }
+        ]
+      },
+      {
+        "before": "Price per second $ 0.000575 /s",
+        "after": "Price per second* $0.0002/s",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.000575",
+            "after": "$0.0002"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Competitive pricing for custom deployments. Get H100s from from as low as $1.99/hr. Contact support, [email protected]",
+      "Price per hour* $1.99/s",
+      "VRAM 141GB",
+      "Price per hour* $2.10/s",
+      "Price per second* $0.0006/s",
+      "Price per hour* $0.99/s",
+      "Price per hour* $0.60/s",
+      "VRAM 192GB"
+    ],
+    "removed": [
+      "fal Raises $49M Series B to Power the Future of AI Video",
+      "$1.00",
+      "$5.69",
+      "$20.00",
+      "$50.00",
+      "$100.00",
+      "$200.00",
+      "$20.00",
+      "CPU Memory 112GB",
+      "CPU Memory 60GB",
+      "CPU Memory 48GB"
+    ],
+    "totals": {
+      "removed": 26,
+      "added": 24,
+      "materialRemoved": 14,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "fal-ai-pricing-20250401023932",
+    "url": "https://fal.ai/pricing",
+    "ts": "20250401023932",
+    "date": "2025-04-01",
+    "source": "wayback",
+    "prevTs": "20250304052556",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "fal: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 6,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "fal-ai-pricing-20250514115230",
+    "url": "https://fal.ai/pricing",
+    "ts": "20250514115230",
+    "date": "2025-05-14",
+    "source": "wayback",
+    "prevTs": "20250401023932",
+    "kind": "price",
+    "score": 65,
+    "counts": {
+      "price": 18,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "fal: 18 prices, 6 limits changed (removed “Price per hour* $1.99/h”; added “$1.89/h”)",
+    "pairs": [],
+    "added": [
+      "$1.89/h",
+      "$0.0005/s",
+      "184GB",
+      "Output per $1",
+      "Veo 2 Image to Video",
+      "$ 0.5",
+      "2 video seconds",
+      "$ 0.4",
+      "3 videos",
+      "$ 0.095",
+      "11 video seconds",
+      "$ 0.28",
+      "4 video seconds",
+      "$ 0.4",
+      "3 videos",
+      "$ 0.075",
+      "13 videos",
+      "$ 0.5",
+      "2 videos",
+      "* For a fair comparison, we’ve normalized these values to show approximate output per $1.",
+      "Output per $1",
+      "$ 0.025",
+      "$ 0.003",
+      "$ 0.05",
+      "$ 0.035",
+      "29 images"
+    ],
+    "removed": [
+      "Price per hour* $1.99/h",
+      "Price per second* $0.0006/s",
+      "VRAM 192GB"
+    ],
+    "totals": {
+      "removed": 29,
+      "added": 91,
+      "materialRemoved": 14,
+      "materialAdded": 37
+    }
+  },
+  {
+    "id": "fal-ai-pricing-20250608151355",
+    "url": "https://fal.ai/pricing",
+    "ts": "20250608151355",
+    "date": "2025-06-08",
+    "source": "wayback",
+    "prevTs": "20250514115230",
+    "kind": "price",
+    "score": 16,
+    "counts": {
+      "price": 4,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "fal: 4 prices, 2 limits changed (removed “48GB”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "48GB",
+      "$0.60/h",
+      "$0.0002/s",
+      "Veo 2 Image to Video",
+      "$ 0.5",
+      "2 video seconds",
+      "$ 0.075",
+      "13 videos"
+    ],
+    "totals": {
+      "removed": 13,
+      "added": 3,
+      "materialRemoved": 9,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "fal-ai-pricing-20250720034035",
+    "url": "https://fal.ai/pricing",
+    "ts": "20250720034035",
+    "date": "2025-07-20",
+    "source": "wayback",
+    "prevTs": "20250608151355",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "fal: 1 price changed ($1.99 → $1.89)",
+    "pairs": [
+      {
+        "before": "Competitive pricing for custom deployments. Get H100s from as low as $1.99/hr. Contact [email protected]",
+        "after": "Competitive pricing for custom deployments. Get H100s from as low as $ 1.89 /hr. Contact [email protected]",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.99",
+            "after": "$1.89"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 10,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "fal-ai-pricing-20250802200744",
+    "url": "https://fal.ai/pricing",
+    "ts": "20250802200744",
+    "date": "2025-08-02",
+    "source": "wayback",
+    "prevTs": "20250720034035",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "fal: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Get started for free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 19,
+      "added": 20,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "fal-ai-pricing-20250903150359",
+    "url": "https://fal.ai/pricing",
+    "ts": "20250903150359",
+    "date": "2025-09-03",
+    "source": "wayback",
+    "prevTs": "20250802200744",
+    "kind": "price",
+    "score": 8,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "fal: 2 prices, 1 limit changed (added “* Starting at. Competitive pricing for custom…”)",
+    "pairs": [],
+    "added": [
+      "* Starting at. Competitive pricing for custom deployments. Get H100s from as low as $1.89/hr. Contact [email protected]",
+      "LTX-Video 13B 0.9.8 Distilled",
+      "$ 0.02",
+      "50 video seconds"
+    ],
+    "removed": [
+      "Get started for free"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 14,
+      "materialRemoved": 2,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "fal-ai-pricing-20251005005558",
+    "url": "https://fal.ai/pricing",
+    "ts": "20251005005558",
+    "date": "2025-10-05",
+    "source": "wayback",
+    "prevTs": "20250903150359",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "fal: 2 limits changed (removed “11 video seconds”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "11 video seconds",
+      "4 video seconds",
+      "50 video seconds"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 6,
+      "materialRemoved": 3,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "fal-ai-pricing-20251107222738",
+    "url": "https://fal.ai/pricing",
+    "ts": "20251107222738",
+    "date": "2025-11-07",
+    "source": "wayback",
+    "prevTs": "20251005005558",
+    "kind": "price",
+    "score": 45,
+    "counts": {
+      "price": 12,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "fal: 12 prices, 5 limits changed (2 → 5; 29 → 33)",
+    "pairs": [
+      {
+        "before": "2 videos",
+        "after": "5 videos",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2",
+            "after": "5"
+          }
+        ]
+      },
+      {
+        "before": "29 images",
+        "after": "33 images",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "29",
+            "after": "33"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 0.07",
+      "$ 0.2",
+      "$ 0.03",
+      "$ 0.04",
+      "25 images",
+      "$ 0.0398",
+      "25 images"
+    ],
+    "removed": [
+      "$ 0.4",
+      "3 videos",
+      "$ 0.095",
+      "$ 0.28",
+      "3 videos",
+      "$ 0.5",
+      "LTX-Video 13B 0.9.8 Distilled",
+      "$ 0.025",
+      "$ 0.003",
+      "$ 0.035"
+    ],
+    "totals": {
+      "removed": 35,
+      "added": 28,
+      "materialRemoved": 14,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "fal-ai-pricing-20260501045248",
+    "url": "https://fal.ai/pricing",
+    "ts": "20260501045248",
+    "date": "2026-05-01",
+    "source": "wayback",
+    "prevTs": "20251107222738",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "fal: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 11,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "fal-ai-docs-documentation-model-apis-sandbox-20260515032145",
+    "url": "https://fal.ai/docs/documentation/model-apis/sandbox",
+    "ts": "20260515032145",
+    "date": "2026-05-15",
+    "source": "wayback",
+    "prevTs": "20260411043051",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "fal: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "fal-ai-docs-documentation-model-apis-sandbox-20260606131235",
+    "url": "https://fal.ai/docs/documentation/model-apis/sandbox",
+    "ts": "20260606131235",
+    "date": "2026-06-06",
+    "source": "wayback",
+    "prevTs": "20260515032145",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "fal: 1 plan name changed",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Free credits"
+    ],
+    "totals": {
+      "removed": 105,
+      "added": 3,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "fal-ai-pricing-20260609060834",
+    "url": "https://fal.ai/pricing",
+    "ts": "20260609060834",
+    "date": "2026-06-09",
+    "source": "wayback",
+    "prevTs": "20260501045248",
+    "kind": "price",
+    "score": 46,
+    "counts": {
+      "price": 13,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "fal: 13 prices, 4 limits changed (100 added)",
+    "pairs": [
+      {
+        "before": "Deploy your own app on our competitively priced GPU fleet. Get H100s from as low as $1.89/hr.",
+        "after": "Deploy your own app on our competitively priced GPU fleet, as low as $1.89/hr for H100.",
+        "confidence": 0.71,
+        "deltas": [
+          {
+            "before": null,
+            "after": "100"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "288GB",
+      "$8.50/h",
+      "$4.49/h",
+      "180GB",
+      "$6.25/h",
+      "$3.49/h",
+      "$4.50/h",
+      "$3.99/h",
+      "96GB",
+      "$2.99/h",
+      "$1.10/h"
+    ],
+    "removed": [
+      "$0.0005/s",
+      "$0.0006/s",
+      "40GB",
+      "$0.99/h",
+      "$0.0003/s",
+      "184GB",
+      "* Starting at. Competitive pricing for custom deployments. Get H100s from as low as $1.89/hr. Contact support@fal.ai"
+    ],
+    "totals": {
+      "removed": 17,
+      "added": 23,
+      "materialRemoved": 10,
+      "materialAdded": 14
+    }
+  },
+  {
+    "id": "fal-ai-pricing-20260719220440",
+    "url": "https://fal.ai/pricing",
+    "ts": "20260719220440",
+    "date": "2026-07-19",
+    "source": "wayback",
+    "prevTs": "20260609060834",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "fal: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 16,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "fal-ai-pricing-20260824143808",
+    "url": "https://fal.ai/pricing",
+    "ts": "20260824143808",
+    "date": "2026-08-24",
+    "source": "wayback",
+    "prevTs": "20260719220440",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "fal: 2 prices changed (removed “$3.99/h”; added “$4.50/h”)",
+    "pairs": [],
+    "added": [
+      "$4.50/h"
+    ],
+    "removed": [
+      "$3.99/h"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "fal-ai-docs-documentation-model-apis-sandbox-20260831074328",
+    "url": "https://fal.ai/docs/documentation/model-apis/sandbox",
+    "ts": "20260831074328",
+    "date": "2026-08-31",
+    "source": "wayback",
+    "prevTs": "20260606131235",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "fal: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "fal-ai-pricing-20260902202107",
+    "url": "https://fal.ai/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260824143808",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "fal: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

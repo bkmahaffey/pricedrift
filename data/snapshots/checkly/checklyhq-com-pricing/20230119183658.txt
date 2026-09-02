@@ -1,0 +1,165 @@
+Flexible pricing
+Get started with the most delightful active monitoring for your hobby projects, business sites, and crucial enterprise applications.
+Hobby
+$
+0
+forever
+Start for free
+* Hobby plan comes with access to Team plan features for 14 days. No credit card required.
+10 API & 5 Browser checks
+30 days of aggregated data retention
+Single-user account
+Email, Slack, Webhook alerts
+Team
+Starting at
+$
+30
+per month
+Try for free
+* No credit card required.
+All features on the Hobby plan
+Includes check runs worth $30
+20 Users
+Unlimited Browser and API checks
+1 year of aggregated data retention
+Prometheus endpoint
+All alert channels
+Pro support
+Enterprise
+Starting at
+$
+1500
+per month
+Contact sales
+Everything on the Team plan
+Unlimited Users
+SSO/SAML
+Private locations
+Client certificates
+Premium support
+99.9% SLA
+25 months of aggregated data retention
+Prepay - Get a discount for your commitment.
+Monthly
+$
+2.00
+for 10k API check runs
+$
+5.00
+for 1k Browser check runs
+Annual
+$
+1.50
+for 10k API check runs
+$
+4.00
+for 1k Browser check runs
+Create your own plan
+Pay upfront, get a discount
+Unlimited users, all features
+Start for free
+How many check runs do I need?
+10 API checks running every minute makes 446,400 check runs per month
+Daily runs: 10 x 60 x 24 = 14,400 runs
+Monthly runs: 14,400 x 31 = 446,400 runs
+Which costs me (446,400 / 10,000) * $2.00 = $89.28 per month on the "Team"-plan.
+Use our pricing spreadsheet to build your plan
+×
+Name
+Email *
+Company website
+Company size
+1-100
+101-1000
+1001-5000
+5000+
+Project Details or Questions
+Trusted by engineering teams at
+Feature overview
+Hobby
+Team
+Enterprise
+Browser checks
+5
+Unlimited
+API checks
+10
+Unlimited
+API check runs
+50,000 / month
+Additional at $2/10K
+Custom
+Browser check runs
+5000 / month
+Additional at $5/1K
+Custom
+High-frequency intervals
+10 sec / 60 sec API checks can be scheduled every 10 seconds, browser checks every min.
+Custom
+Users
+1
+20
+Custom
+Public dashboards
+1
+10
+Unlimited*
+Data center locations
+20
+Raw data retention
+7 days
+30 days
+180 days
+Aggregated data retention
+30 days
+1 year
+25 months
+SSL monitoring
+Email, Slack, Webhooks and more All plans have access to our basic alerting integrations like email, Slack and Webhooks. In addition, you also have access to an ever growing list of 3rd party integrations like Pagerduty, Opsgenie and Discord.
+Threshold based alerting Configure when and how often your are alerted and how many reminders you should get
+Setup & teardown scripts Have full control over request data and responses using custom Javascript snippets.
+API access
+Terraform provider
+Pulumi provider
+CI/CD & Deployment triggers Automatically trigger checks from a GitHub PR or commit for automated testing before deploying to production. Works out-of-the-box with Vercel, Heroku etc. Use our command line triggers to integrate with any CI/CD provider.
+Reporting Get a longer term, aggregated overview on uptime and performance. Exports to CSV for further processing.
+SMS credits
+200*
+Custom
+Maintenance windows
+Prometheus endpoint We provision a custom, secured endpoint that exposes checks statuses and response times in Prometheus format.
+Private locations Get full visibility of private applications and APIs across your infrastructure, on-prem and in your private or hybrid cloud.
+Client Certificates
+SAML/SSO login
+SLA for 99.9% Uptime
+Premium support
+Onboarding support
+Dedicated Customer Success Engineer
+24x7 Escalation Phone Number
+Custom contracts & invoicing
+Security & compliance review
+* All plans are subject to our fair use policy. Check the FAQ below for more details.
+FAQ
+What’s an API check run?
+API checks are monitors that do POST, GET, and other typical HTTP requests. You have full control over the payload, headers, etc. You can also create assertions to check if the response from your API is valid and performant. For billing, we count any HTTP request as a check run. API check runs have a timeout threshold of 30 seconds.
+What is a browser check run?
+Browser checks are monitors based on Node.js scripts using frameworks like Mocha, Puppeteer, and Playwright. Each browser check uses an actual Chrome browser to execute clicks, fill out forms and validate if these interactions have the correct results. This is also commonly called “synthetic monitoring”. For billing we count every executed script as a check run. Browser check runs have a timeout threshold of 60 seconds.
+How does the hobby plan work?
+By signing up for the hobby plan, you get access to almost all of Checkly’s features. You do not need a credit card to get started. You can execute up to 50,000 API and 5,000 browser check runs.
+What does fair use mean?
+Fair use limits are soft boundaries that apply to certain features. The limits are set in a way that most customers should not encounter any limitations. On a Team plan, you can invite up to 99 users, have 25 public dashboards, and 200 SMS alerts per month. If you exceed the thresholds, we will reach out and discuss options with you.
+Can I upgrade or downgrade my plan?
+For the Hobby plan upgrades and downgrades don’t apply.
+Downgrade Team plan: You can reduce the number of prepaid checks from account settings. The changes will apply after your current subscription cycle automatically.
+Can I change plans?
+When you are on a Hobby plan or Team plan, you can switch to all plans anytime, and the changes will apply immediately.
+How do you bill?
+Prepaid plans, like the Team plan, are paid upfront at the beginning of the subscription cycle. Overages will be added to the invoice of the next subscription cycle.
+What payment types do you accept?
+We accept Visa, Mastercard, and American Express credit card payments. Stripe handles all payments. For custom plans, we also accept invoice payments.
+Do you support early startups or nonprofits?
+Yes! We do support early-stage startups that are younger than two years by providing a 30% discount on all plans. Nonprofits qualify for a 50% discount. Apply here
+Try out Checkly for free
+Start monitoring your API endpoints and your vital site transactions.
+Start for free
+no credit card required

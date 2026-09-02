@@ -1,0 +1,269 @@
+[
+  {
+    "id": "logrocket-com-pricing-20250116003506",
+    "url": "https://logrocket.com/pricing",
+    "ts": "20250116003506",
+    "date": "2025-01-16",
+    "source": "wayback",
+    "prevTs": "20240114130438",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "LogRocket: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "logrocket-com-pricing-20250316084118",
+    "url": "https://logrocket.com/pricing",
+    "ts": "20250316084118",
+    "date": "2025-03-16",
+    "source": "wayback",
+    "prevTs": "20250116003506",
+    "kind": "price",
+    "score": 48,
+    "counts": {
+      "price": 15,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "LogRocket: 15 prices, 2 limits changed (removed “$295 / month 10k sessions/mo: $295/mo”; added “$295 / month Less than 20 employess?”)",
+    "pairs": [],
+    "added": [
+      "$295 / month Less than 20 employess?",
+      "Annual Commitment, 21 Day Trial",
+      "Annual Commitment, 21 Day Pilot"
+    ],
+    "removed": [
+      "$295 / month 10k sessions/mo: $295/mo",
+      "25k sessions/mo: $460/mo",
+      "50k sessions/mo: $600/mo",
+      "100k sessions/mo: $720/mo",
+      "175k sessions/mo: $885/mo",
+      "250k sessions/mo: $995/mo",
+      "300k sessions/mo: $1,100/mo",
+      "400K sessions/mo: $1,270/mo",
+      "500k sessions/mo: $1,440/mo",
+      "600k sessions/mo: $1,595/mo",
+      "700k sessions/mo: $1,760/mo",
+      "800k sessions/mo: $1,925/mo",
+      "900k sessions/mo: $2,095/mo",
+      "1m sessions/mo: $2,200/mo",
+      "Annual Commitment, Free PoC",
+      "Try Free for 14 Days",
+      "Annual Commitment, Free PoC"
+    ],
+    "totals": {
+      "removed": 22,
+      "added": 7,
+      "materialRemoved": 18,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "logrocket-com-pricing-20250427134749",
+    "url": "https://logrocket.com/pricing",
+    "ts": "20250427134749",
+    "date": "2025-04-27",
+    "source": "wayback",
+    "prevTs": "20250316084118",
+    "kind": "price",
+    "score": 54,
+    "counts": {
+      "price": 7,
+      "limit": 6,
+      "plan": 11
+    },
+    "material": true,
+    "headline": "LogRocket: 7 prices, 6 limits, 11 plan names changed (21 removed; 21 removed)",
+    "pairs": [
+      {
+        "before": "Annual Commitment, 21 Day Trial",
+        "after": "Annual Commitment, Free Trial",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "21",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "Annual Commitment, 21 Day Pilot",
+        "after": "Annual Commitment, Free Pilot",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "21",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "3 min. installation • Try all features free for 14 days • Cancel at any time",
+        "after": "Access all of LogRocket's features free for 14 days. Cancel any time.",
+        "confidence": 0.62,
+        "deltas": [
+          {
+            "before": "3",
+            "after": "14"
+          },
+          {
+            "before": "14",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 69 / month",
+      "10k sessions/mo: $ 69",
+      "$ 295 / month",
+      "1 month",
+      "Starts at 1 month",
+      "Create seamless, issue-free user experiences",
+      "Start for free",
+      "Start for free"
+    ],
+    "removed": [
+      "$69 / month 10k sessions/mo: $69/mo",
+      "50k sessions/mo: $280/mo",
+      "$295 / month Less than 20 employess?",
+      "FREE",
+      "FREE",
+      "FREE",
+      "FREE",
+      "Data erasure? Erase customer data within 24 hours",
+      "FREE",
+      "FREE",
+      "Customer success manager? Dedicated customer success manager for plans greater than $12K annually. Access to customer success for all other Pro plans",
+      "FREE",
+      "FREE",
+      "14 Days Free",
+      "14 Days Free",
+      "Sign up, it’s free!",
+      "Get Started Free"
+    ],
+    "totals": {
+      "removed": 136,
+      "added": 101,
+      "materialRemoved": 28,
+      "materialAdded": 19
+    }
+  },
+  {
+    "id": "logrocket-com-pricing-20260608115158",
+    "url": "https://logrocket.com/pricing",
+    "ts": "20260608115158",
+    "date": "2026-06-08",
+    "source": "wayback",
+    "prevTs": "20250427134749",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "LogRocket: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "200/mo included"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 10,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "logrocket-com-pricing-20260819234559",
+    "url": "https://logrocket.com/pricing",
+    "ts": "20260819234559",
+    "date": "2026-08-19",
+    "source": "wayback",
+    "prevTs": "20260608115158",
+    "kind": "price",
+    "score": 49,
+    "counts": {
+      "price": 8,
+      "limit": 7,
+      "plan": 6
+    },
+    "material": true,
+    "headline": "LogRocket: 8 prices, 7 limits, 6 plan names changed (removed “$0 / month”; added “Sessions per month web + mobile 25K sessions …”)",
+    "pairs": [],
+    "added": [
+      "Pay for the sessions you capture. Analytics, logs, and errors are always unlimited.",
+      "Sessions per month web + mobile 25K sessions / mo",
+      "1K 10K 25K 50K 250K 1M 2M 4M+",
+      "Always unlimited, every plan",
+      "∞ Unlimited analytics",
+      "∞ Unlimited error",
+      "∞ Unlimited logs",
+      "$ 176 / mo",
+      "≈ $ 765 / mo",
+      "Start free trial — no credit card required",
+      "% Startups under $50M funding",
+      "Analytics, errors, and issues are always unlimited.",
+      "Unlimited analytics events",
+      "Unlimited error events",
+      "Unlimited log events",
+      "Unlimited projects & environments",
+      "Start free trial",
+      "Included free above 100K sessions / mo",
+      "500 free API / MCP credits per month",
+      "Start free trial",
+      "Unlimited seats",
+      "2,000 free API / MCP credits per month",
+      "Does LogRocket really include unlimited analytics events and errors?",
+      "Is there a free trial?"
+    ],
+    "removed": [
+      "Free",
+      "Free forever",
+      "$0 / month",
+      "Includes 1,000 Sessions / Month",
+      "1 Month Data Retention",
+      "$ 69 / month",
+      "10k sessions/mo: $ 69",
+      "25k sessions/mo: $ 139",
+      "Monthly Commitment, 14 Day Trial",
+      "Try free for 14 days",
+      "$ 295 / month",
+      "Annual Commitment, Free Trial",
+      "1M+ sessions/mo?",
+      "Annual Commitment, Free Pilot",
+      "Free",
+      "200/mo included",
+      "Unlimited",
+      "1k/month",
+      "10k-50k/month",
+      "1 month",
+      "Starts at 1 month",
+      "Free Forever"
+    ],
+    "totals": {
+      "removed": 147,
+      "added": 107,
+      "materialRemoved": 22,
+      "materialAdded": 24
+    }
+  }
+]

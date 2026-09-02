@@ -1,0 +1,978 @@
+[
+  {
+    "id": "replit-com-pricing-20230213035901",
+    "url": "https://replit.com/pricing",
+    "ts": "20230213035901",
+    "date": "2023-02-13",
+    "source": "wayback",
+    "prevTs": "20230108020036",
+    "kind": "price",
+    "score": 13,
+    "counts": {
+      "price": 3,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Replit: 3 prices, 1 limit, 1 plan name changed (removed “Unlimited private Repls, 150 Cycles/month”; added “$0”)",
+    "pairs": [],
+    "added": [
+      "$0",
+      "Unlimited Public Repls",
+      "$7/month or $74/year",
+      "unlimited Repls",
+      "unlimited Repls"
+    ],
+    "removed": [
+      "Free",
+      "Unlimited Repls",
+      "Unlimited private Repls, 150 Cycles/month",
+      "$7/mo",
+      "4x Memory 2 GB per Repl",
+      "4x Speed 2 vCPUs"
+    ],
+    "totals": {
+      "removed": 29,
+      "added": 31,
+      "materialRemoved": 10,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "replit-com-pricing-20230304221452",
+    "url": "https://replit.com/pricing",
+    "ts": "20230304221452",
+    "date": "2023-03-04",
+    "source": "wayback",
+    "prevTs": "20230213035901",
+    "kind": "price",
+    "score": 21,
+    "counts": {
+      "price": 3,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Replit: 3 prices, 6 limits changed (removed “Free storage 500 MB”; added “0.5 GB Account Storage”)",
+    "pairs": [],
+    "added": [
+      "0.5 GB Account Storage",
+      "1 GiB Egress",
+      "Base Workspace ( 0.5 GB Memory, 0.5vCPUs)",
+      "Hacker $7/month",
+      "10 GiB Egress",
+      "Fast Workspace ( 2 GB Memory, 2 vCPUs)",
+      "Best value Pro $20/month",
+      "Unlimited Private Repls",
+      "10 GB Account Storage",
+      "50 GiB Egress",
+      "Very Fast Workspace ( 4 GB Memory, 4 vCPUs)"
+    ],
+    "removed": [
+      "Plans for your personal work. Free",
+      "Free storage 500 MB",
+      "500 MB memory",
+      "0.2 - 0.5 vCPUs",
+      "$7/month or $74/year",
+      "Everything on Free tier and more.",
+      "2x Repl storage 1 GB per Repl"
+    ],
+    "totals": {
+      "removed": 16,
+      "added": 31,
+      "materialRemoved": 9,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "replit-com-pricing-20230406002721",
+    "url": "https://replit.com/pricing",
+    "ts": "20230406002721",
+    "date": "2023-04-06",
+    "source": "wayback",
+    "prevTs": "20230304221452",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 1,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Replit: 1 price, 5 limits changed (removed “1 GiB Egress”; added “100 GiB Outbound Data Transfer”)",
+    "pairs": [],
+    "added": [
+      "100 GiB Outbound Data Transfer",
+      "1,000 / month",
+      "500 / month",
+      "20 - 350 / day",
+      "20 / day"
+    ],
+    "removed": [
+      "1 GiB Egress",
+      "Hacker $7/month",
+      "Unlimited Private Repls",
+      "5 GB Account Storage",
+      "Fast Workspace ( 2 GB Memory, 2 vCPUs)",
+      "50 GiB Egress"
+    ],
+    "totals": {
+      "removed": 20,
+      "added": 7,
+      "materialRemoved": 7,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "replit-com-pricing-20230504013459",
+    "url": "https://replit.com/pricing",
+    "ts": "20230504013459",
+    "date": "2023-05-04",
+    "source": "wayback",
+    "prevTs": "20230406002721",
+    "kind": "price",
+    "score": 75,
+    "counts": {
+      "price": 15,
+      "limit": 10,
+      "plan": 5
+    },
+    "material": true,
+    "headline": "Replit: 15 prices, 10 limits, 5 plan names changed (removed “$0.01 each”; added “Free $0”)",
+    "pairs": [],
+    "added": [
+      "Free $0",
+      "• Unlimited public Repls",
+      "Hacker $7 /month",
+      "Pro $20 /month",
+      "On Demand Starts at $0 /month per app",
+      "Dedicated VM Starts at $6.40 /month per app",
+      "Static $0",
+      "Host your static website for free",
+      "Outbound data transfer Outbound data transfer add-ons last 180 days and apply to your whole account. If you hit your limit, data transfer out of your Repls will be throttled.",
+      "+10 GiB",
+      "$1",
+      "+50 GiB",
+      "$5",
+      "+100 GiB",
+      "$10",
+      "+500 GiB",
+      "$50",
+      "+1000 GiB",
+      "$100",
+      "On Demand Starts at $0 /month per app",
+      "Dedicated VM $12.80 /month per app",
+      "Power 0.5 vCPUs, 2 GiB RAM",
+      "Max app size 10 GiB",
+      "Outbound data transfer 20 GiB /month",
+      "Static Free"
+    ],
+    "removed": [
+      "$0.01 each",
+      "1,000 / month",
+      "unlimited Repls",
+      "500 / month",
+      "unlimited Repls",
+      "20 - 350 / day",
+      "$15/user/mo",
+      "Unlimited teams, members, & power",
+      "Unlimited Teams",
+      "Lots of storage 10 GB+",
+      "2x Repl size 1 GB per Repl",
+      "4x Memory 2 GB per Repl",
+      "4x Speed 2 vCPUs",
+      "Free",
+      "Unlimited teachers, teams, & students. * This plan is offered to all teachers/education institutions. Please use your education affiliated email address when signing up to ensure you receive the best performance and speed. If you are a student, you are welcome to use Teams for Friends.",
+      "Unlimited teams & students",
+      "Lots of storage* 10 GB+",
+      "2x Repl size* 1 GB per Repl",
+      "4x Memory* 2 GB per Repl",
+      "4x Speed* 2 vCPUs"
+    ],
+    "totals": {
+      "removed": 53,
+      "added": 74,
+      "materialRemoved": 22,
+      "materialAdded": 27
+    }
+  },
+  {
+    "id": "replit-com-pricing-20230605063712",
+    "url": "https://replit.com/pricing",
+    "ts": "20230605063712",
+    "date": "2023-06-05",
+    "source": "wayback",
+    "prevTs": "20230504013459",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 1,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Replit: 1 price, 2 limits changed (added “Hacker $7/month”)",
+    "pairs": [],
+    "added": [
+      "Hacker $7/month",
+      "Unlimited Private Repls",
+      "5 GB Account Storage",
+      "50 GiB Outbound Data Transfer",
+      "Fast Workspace ( 2 GB Memory, 2 vCPUs)"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 10,
+      "materialRemoved": 0,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "replit-com-pricing-20230703035114",
+    "url": "https://replit.com/pricing",
+    "ts": "20230703035114",
+    "date": "2023-07-03",
+    "source": "wayback",
+    "prevTs": "20230605063712",
+    "kind": "limits",
+    "score": 12,
+    "counts": {
+      "price": 0,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Replit: 6 limits changed (0.5GB → 0.5GiB; 2GB → 2GiB)",
+    "pairs": [
+      {
+        "before": "Base Workspace ( 0.5 GB Memory, 0.5vCPUs)",
+        "after": "Base Workspace ( 0.5 GiB Memory, 0.5vCPUs)",
+        "confidence": 0.8,
+        "deltas": [
+          {
+            "before": "0.5GB",
+            "after": "0.5GiB"
+          }
+        ]
+      },
+      {
+        "before": "Fast Workspace ( 2 GB Memory, 2 vCPUs)",
+        "after": "Fast Workspace ( 2 GiB Memory, 2 vCPUs)",
+        "confidence": 0.8,
+        "deltas": [
+          {
+            "before": "2GB",
+            "after": "2GiB"
+          }
+        ]
+      },
+      {
+        "before": "Very Fast Workspace ( 4 GB Memory, 4 vCPUs)",
+        "after": "Very Fast Workspace ( 4 GiB Memory, 4 vCPUs)",
+        "confidence": 0.83,
+        "deltas": [
+          {
+            "before": "4GB",
+            "after": "4GiB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "0.5 GiB Account Storage",
+      "5 GiB Account Storage",
+      "10 GiB Account Storage"
+    ],
+    "removed": [
+      "0.5 GB Account Storage",
+      "5 GB Account Storage",
+      "10 GB Account Storage"
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 7,
+      "materialRemoved": 6,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "replit-com-pricing-20230803203304",
+    "url": "https://replit.com/pricing",
+    "ts": "20230803203304",
+    "date": "2023-08-03",
+    "source": "wayback",
+    "prevTs": "20230703035114",
+    "kind": "limits",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Replit: 3 limits changed (0.5GiB → 10GiB; 5GiB → 20GiB)",
+    "pairs": [
+      {
+        "before": "0.5 GiB Account Storage",
+        "after": "10 GiB Account Storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "0.5GiB",
+            "after": "10GiB"
+          }
+        ]
+      },
+      {
+        "before": "5 GiB Account Storage",
+        "after": "20 GiB Account Storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "5GiB",
+            "after": "20GiB"
+          }
+        ]
+      },
+      {
+        "before": "10 GiB Account Storage",
+        "after": "50 GiB Account Storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10GiB",
+            "after": "50GiB"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "replit-com-pricing-20230903031631",
+    "url": "https://replit.com/pricing",
+    "ts": "20230903031631",
+    "date": "2023-09-03",
+    "source": "wayback",
+    "prevTs": "20230803203304",
+    "kind": "price",
+    "score": 20,
+    "counts": {
+      "price": 5,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Replit: 5 prices, 3 limits changed (added “+10 GiB /month”)",
+    "pairs": [],
+    "added": [
+      "+10 GiB /month",
+      "$1.5 /month",
+      "+50 GiB /month",
+      "$7.5 /month",
+      "+100 GiB /month",
+      "$15 /month",
+      "+500 GiB /month",
+      "$75 /month",
+      "+1000 GiB /month",
+      "$150 /month"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 13,
+      "materialRemoved": 2,
+      "materialAdded": 12
+    }
+  },
+  {
+    "id": "replit-com-pricing-20231001020557",
+    "url": "https://replit.com/pricing",
+    "ts": "20231001020557",
+    "date": "2023-10-01",
+    "source": "wayback",
+    "prevTs": "20230903031631",
+    "kind": "price",
+    "score": 39,
+    "counts": {
+      "price": 9,
+      "limit": 3,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Replit: 9 prices, 3 limits, 3 plan names changed (removed “Free $0”; added “50 GiB outbound data transfer for deployments”)",
+    "pairs": [],
+    "added": [
+      "50 GiB outbound data transfer for deployments",
+      "100 GiB outbound data transfer for deployments",
+      "Starting at $0.000024 / second Currently only available on Hacker and Pro",
+      "A compute unit measures both the amount of time and the machine power used (CPU + RAM) to complete a task. You pick your app’s machine power, so if you choose a more powerful machine, it will use more compute units per second while it is running. Each compute unit costs $ 0.00000125. More on compute units",
+      "Free Currently only available on Hacker and Pro",
+      "No server compute means free usage — you are only responsible for outbound data transfer. Hacker includes 50 GiB of outbound data transfer per month for Deployments, and Pro includes 100 GiB per month."
+    ],
+    "removed": [
+      "Free $0",
+      "• Unlimited public Repls",
+      "Unlimited private Repls",
+      "Pro $20 /month",
+      "Autoscale Starts at $0 /month per app",
+      "Dedicated VM Starts at $6.40 /month per app",
+      "Static $0",
+      "Host your static website for free",
+      "• Free distribution to an active community of 20 million developers",
+      "Autoscale Starts at $0 /month per app",
+      "Dedicated VM $12.80 /month per app",
+      "Power 0.5 vCPUs, 2 GiB RAM",
+      "Max app size 10 GiB",
+      "Outbound data transfer 20 GiB /month",
+      "Static Free"
+    ],
+    "totals": {
+      "removed": 73,
+      "added": 35,
+      "materialRemoved": 22,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "replit-com-pricing-20231106211739",
+    "url": "https://replit.com/pricing",
+    "ts": "20231106211739",
+    "date": "2023-11-06",
+    "source": "wayback",
+    "prevTs": "20231001020557",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Replit: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "Free"
+    ],
+    "removed": [
+      "Free Currently only available on Hacker and Pro"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 3,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "replit-com-pricing-20231202090715",
+    "url": "https://replit.com/pricing",
+    "ts": "20231202090715",
+    "date": "2023-12-02",
+    "source": "wayback",
+    "prevTs": "20231106211739",
+    "kind": "price",
+    "score": 68,
+    "counts": {
+      "price": 14,
+      "limit": 11,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Replit: 14 prices, 11 limits, 2 plan names changed (removed “Free $0”; added “Replit Core $120 /year”)",
+    "pairs": [],
+    "added": [
+      "Starter Free",
+      "Replit Core $120 /year",
+      "$220/year",
+      "Unlimited basic responses for AI chat",
+      "Unlimited private projects",
+      "Replit Core members get first-class perks and benefits Enhanced AI access Get access to our advanced AI models and unlimited access to the basic models."
+    ],
+    "removed": [
+      "Free $0",
+      "Unlimited Public Repls",
+      "Base Workspace ( 0.5 GiB Memory, 0.5vCPUs)",
+      "10 GiB Account Storage",
+      "10 GiB outbound data transfer for development",
+      "Hacker $7/month",
+      "Unlimited Private Repls",
+      "Fast Workspace ( 2 GiB Memory, 2 vCPUs)",
+      "50 GiB outbound data transfer for development",
+      "50 GiB outbound data transfer for deployments",
+      "20 GiB Account Storage",
+      "Best value Pro $20/month",
+      "Unlimited Private Repls",
+      "Very fast Workspace ( 4 GiB Memory, 4 vCPUs)",
+      "100 GiB outbound data transfer for development",
+      "100 GiB outbound data transfer for deployments",
+      "50 GiB Account Storage",
+      "Outbound data transfer Outbound data transfer add-ons last 180 days and apply to your whole account. If you hit your limit, data transfer out of your Repls will be throttled.",
+      "+10 GiB",
+      "$1",
+      "+50 GiB",
+      "$5",
+      "+100 GiB",
+      "$10",
+      "+500 GiB",
+      "$50",
+      "+1000 GiB",
+      "+10 GiB /month",
+      "$1.5 /month",
+      "+50 GiB /month",
+      "$7.5 /month",
+      "+100 GiB /month",
+      "$15 /month",
+      "+500 GiB /month",
+      "$75 /month",
+      "+1000 GiB /month",
+      "$150 /month"
+    ],
+    "totals": {
+      "removed": 57,
+      "added": 107,
+      "materialRemoved": 39,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "replit-com-pricing-20240101000417",
+    "url": "https://replit.com/pricing",
+    "ts": "20240101000417",
+    "date": "2024-01-01",
+    "source": "wayback",
+    "prevTs": "20231202090715",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Replit: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "replit-com-pricing-20240202005644",
+    "url": "https://replit.com/pricing",
+    "ts": "20240202005644",
+    "date": "2024-02-02",
+    "source": "wayback",
+    "prevTs": "20240101000417",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 1,
+      "limit": 4,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Replit: 1 price, 4 limits, 1 plan name changed (50GiB → 100GiB)",
+    "pairs": [
+      {
+        "before": "No server compute means free usage — you are only responsible for outbound data transfer. Hacker includes 50 GiB of outbound data transfer per month for Deployments, and Core includes 100 GiB per month.",
+        "after": "No server compute means free usage — you are only responsible for outbound data transfer. Replit Core includes 100 GiB per month.",
+        "confidence": 0.82,
+        "deltas": [
+          {
+            "before": "50GiB",
+            "after": "100GiB"
+          },
+          {
+            "before": "100GiB",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "1 vCPU 18 compute units /sec",
+      "2 GiB RAM 4 compute units /sec",
+      "seconds per month (about 20 hours)",
+      "$12.80 /month",
+      "CPU size 0.5 vCPUs",
+      "RAM 2 GiB"
+    ],
+    "removed": [
+      "Free Sign up"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 25,
+      "materialRemoved": 2,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "replit-com-pricing-20240304074332",
+    "url": "https://replit.com/pricing",
+    "ts": "20240304074332",
+    "date": "2024-03-04",
+    "source": "wayback",
+    "prevTs": "20240202005644",
+    "kind": "price",
+    "score": 21,
+    "counts": {
+      "price": 7,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Replit: 7 prices changed ($120 → $220)",
+    "pairs": [
+      {
+        "before": "Replit Core $120 /year",
+        "after": "Replit Core $220 /year",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$120",
+            "after": "$220"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Save $20 with the yearly Replit membership",
+      "$8 of flexible credits each month",
+      "$8 of flexible credits is included in Replit Core.",
+      "of the $8 flexible credits included in Replit Core"
+    ],
+    "removed": [
+      "Limited time offer! Save $100 on a yearly Replit membership",
+      "$220/year"
+    ],
+    "totals": {
+      "removed": 11,
+      "added": 7,
+      "materialRemoved": 3,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "replit-com-pricing-20240402013401",
+    "url": "https://replit.com/pricing",
+    "ts": "20240402013401",
+    "date": "2024-04-02",
+    "source": "wayback",
+    "prevTs": "20240304074332",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Replit: 2 prices changed ($20 → $60; $220 → $180)",
+    "pairs": [
+      {
+        "before": "Save $20 with the yearly Replit membership",
+        "after": "Save $60 on a yearly Replit membership",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$20",
+            "after": "$60"
+          }
+        ]
+      },
+      {
+        "before": "Replit Core $220 /year",
+        "after": "Replit Core $180 /year",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$220",
+            "after": "$180"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 6,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "replit-com-pricing-20240505184313",
+    "url": "https://replit.com/pricing",
+    "ts": "20240505184313",
+    "date": "2024-05-05",
+    "source": "wayback",
+    "prevTs": "20240402013401",
+    "kind": "price",
+    "score": 34,
+    "counts": {
+      "price": 8,
+      "limit": 4,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Replit: 8 prices, 4 limits, 1 plan name changed ($180 → $120)",
+    "pairs": [
+      {
+        "before": "Replit Core $180 /year",
+        "after": "Replit Core $120 /year",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$180",
+            "after": "$120"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Save $120",
+      "Starting at $0.000024/second",
+      "Upgrade your development compute up to 16 vCPUs, 32 GiB RAM for high-performance computing tasks.",
+      "Starting at $0.36/hour",
+      "Up to 64 vCPUs",
+      "Up to 128 GiB RAM"
+    ],
+    "removed": [
+      "Save $60 on a yearly Replit membership",
+      "Replit Core members get first-class perks and benefits Enhanced AI access Get access to our advanced AI models and unlimited access to the basic models.",
+      "A compute unit measures both the amount of time and the machine power used (CPU + RAM) to complete a task. You pick your app’s machine power, so if you choose a more powerful machine, it will use more compute units per second while it is running. Each compute unit costs $ 0.00000125. More on compute units",
+      "1 vCPU 18 compute units /sec",
+      "2 GiB RAM 4 compute units /sec",
+      "seconds per month (about 20 hours)",
+      "of the $8 flexible credits included in Replit Core",
+      "$12.80 /month",
+      "CPU size 0.5 vCPUs",
+      "RAM 2 GiB",
+      "Free"
+    ],
+    "totals": {
+      "removed": 107,
+      "added": 72,
+      "materialRemoved": 16,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "replit-com-pricing-20240705034632",
+    "url": "https://replit.com/pricing",
+    "ts": "20240705034632",
+    "date": "2024-07-05",
+    "source": "wayback",
+    "prevTs": "20240505184313",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Replit: 1 price changed (added “Teams $396 per user per year”)",
+    "pairs": [],
+    "added": [
+      "Teams $396 per user per year",
+      "Unlimited"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 6,
+      "materialRemoved": 2,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "replit-com-pricing-20240801050145",
+    "url": "https://replit.com/pricing",
+    "ts": "20240801050145",
+    "date": "2024-08-01",
+    "source": "wayback",
+    "prevTs": "20240705034632",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Replit: 3 prices changed ($8 → $10; $8 → $10)",
+    "pairs": [
+      {
+        "before": "$8 of flexible credits each month",
+        "after": "$10 of flexible credits each month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$8",
+            "after": "$10"
+          }
+        ]
+      },
+      {
+        "before": "$8 of flexible credits per user each month",
+        "after": "$10 of flexible credits per user each month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$8",
+            "after": "$10"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "Teams $396 per user per year"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 5,
+      "materialRemoved": 3,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "replit-com-pricing-20240902043747",
+    "url": "https://replit.com/pricing",
+    "ts": "20240902043747",
+    "date": "2024-09-02",
+    "source": "wayback",
+    "prevTs": "20240801050145",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Replit: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Unlimited"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 7,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "replit-com-pricing-20241003022054",
+    "url": "https://replit.com/pricing",
+    "ts": "20241003022054",
+    "date": "2024-10-03",
+    "source": "wayback",
+    "prevTs": "20240902043747",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Replit: 1 price changed ($120 → $15)",
+    "pairs": [
+      {
+        "before": "Replit Core $120 per year billed annually",
+        "after": "Replit Core $15 per month billed annually",
+        "confidence": 0.71,
+        "deltas": [
+          {
+            "before": "$120",
+            "after": "$15"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 6,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "replit-com-pricing-20260902202107",
+    "url": "https://replit.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20241003022054",
+    "kind": "price",
+    "score": 46,
+    "counts": {
+      "price": 12,
+      "limit": 3,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Replit: 12 prices, 3 limits, 2 plan names changed (removed “Save $120”; added “$20 $17 / month, billed annually AI integrations”)",
+    "pairs": [],
+    "added": [
+      "Free Daily agent credits",
+      "Free daily usage",
+      "$20 $17 / month, billed annually AI integrations",
+      "More free agent usage",
+      "$20 towards most powerful models",
+      "Unlimited workspaces",
+      "$100 $95 / month, billed annually 10 parallel agents",
+      "Even more free agent usage",
+      "$100 towards most powerful models",
+      "Up to 15 collaborators",
+      "Database rollback up to 28 days"
+    ],
+    "removed": [
+      "Save $120",
+      "Starter Free",
+      "Replit Core $15 per month billed annually",
+      "$10 of flexible credits each month",
+      "Unlimited basic responses for AI chat",
+      "Unlimited public and private projects",
+      "$10 of flexible credits per user each month",
+      "Starting at $0.000024/second",
+      "Starting at $7/month",
+      "Starting at $0.000024/second",
+      "No server compute means free usage — you are only responsible for outbound data transfer. Replit Core includes 100 GiB per month.",
+      "Upgrade your development compute up to 16 vCPUs, 32 GiB RAM for high-performance computing tasks.",
+      "Starting at $0.36/hour",
+      "Up to 64 vCPUs",
+      "Up to 128 GiB RAM",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 116,
+      "added": 53,
+      "materialRemoved": 17,
+      "materialAdded": 11
+    },
+    "transition": true
+  }
+]

@@ -1,0 +1,214 @@
+Plans & Pricing
+Aiven's pricing is all-inclusive and transparent, providing you with the confidence and ease to forecast monthly expenses without any surprises from variable costs.
+Find the right plan
+Get building
+Service
+Apache Kafka®
+Inkless
+Apache Kafka® Connect
+Apache Kafka® MirrorMaker 2
+PostgreSQL®
+MySQL
+Valkey™
+ClickHouse®
+OpenSearch®
+Metrics
+Grafana®
+Cloud
+Amazon Web Services
+DigitalOcean
+Google Cloud
+Microsoft Azure
+OVH
+UpCloud
+Region
+United States, New York (nyc)
+United States, San Francisco (sfo)
+Canada, Toronto (tor)
+Asia, Singapore (sgp)
+Asia, Bangalore (blr)
+Europe, Frankfurt (fra)
+Europe, Amsterdam (ams)
+Europe, London (lon)
+Australia, Sydney (syd)
+Free
+Up to 250 KiB/s throughput
+Retention up to 3 days
+Up to 5 topics, each with two partitions
+Schema Registry and REST proxy included
+$0 / month
+Get building
+Developer
+Up to 1 MB/s throughput
+Retention up to 3 days
+Up to 20 topics (max 100 partitions)
+Kafka Connect compatible
+Schema Registry and REST proxy included
+starting from
+$35 / month
+$0.05 / hour
+Get building
+View plans
+Startup
+3 dedicated VMs
+2 CPU per VM
+2-4 GB RAM per VM
+90 GB total cluster storage
+starting from
+$200 / month
+$0.27 / hour
+Get building
+View plans
+Business
+3 dedicated VMs
+2-16 CPU per VM
+4-32 GB RAM per VM
+600 GB-18.43 TB total cluster storage
+Everything in Startup, plus support for Kafka Connect in the same cluster
+Add-ons
+Tiered Storage
+Starting from $0.00012 per GB/hour
+starting from
+$500 / month
+$0.69 / hour
+Get building
+View plans
+Premium
+6-30 dedicated VMs
+4-16 CPU per VM
+8-32 GB RAM per VM
+2.25 TB-184.32 TB total cluster storage
+Everything in Business, plus more compute and storage capacity
+Add-ons
+Tiered Storage
+Starting from $0.00012 per GB/hour
+starting from
+$1,900 / month
+$2.60 / hour
+Get building
+View plans
+Need help? Use our Pricing Calculator
+to get a recommended plan based on your unique data needs and requirements.
+Data retention is only limited by storage, with the exception of Free plan. For information about annual discount or plan capacity beyond the listed plans, please contact us
+Compare plans
+Apache Kafka®
+Free
+$0 / month
+Developer
+starting from
+$35 / month
+Startup
+starting from
+$200 / month
+Business
+starting from
+$500 / month
+Premium
+starting from
+$1,900 / month
+Dedicated VMs
+N/A
+3
+6-30
+CPU per VM
+N/A
+2
+2-16
+4-16
+RAM per VM
+N/A
+2-4 GB
+4-32 GB
+8-32 GB
+Total cluster storage
+N/A
+90 GB
+600 GB-18.43 TB
+2.25 TB-184.32 TB
+Clouds
+Limited
+Amazon Web Services, DigitalOcean, Google Cloud, Microsoft Azure, OVH, UpCloud
+Seamless upgrade/downgrade to other plans
+One-click version upgrade
+Performance graphs
+Data encrypted on disk and network
+Kafka REST
+HTTP access to sending and receiving messages
+Schema Registry
+Registry for storing Kafka message schemas
+High availability
+Automatic failover to another node in case of a node failure
+99.99% availability
+Percentage of time the service is guaranteed to be available and operational
+VPC peering in AWS, GCP, and Microsoft Azure
+Kafka Connect
+Included in the base Kafka cluster. A separate Kafka Connect service is available to all plans
+Kafka Tiered Storage
+Offload data from local disks to object storage in the cloud
+Dynamic disk sizing
+Add or remove additional storage to meet your growing business needs
+Available at an additional cost
+Support
+Offers three additional support tiers with separate charge that include faster response times and phone support
+Support via documentation
+Support via documentation and best efforts
+Support through email with best-effort responses during the same or next business day
+Get building
+Bring Your Own Cloud (BYOC) available for larger setups
+Run Aiven services in your own cloud account to achieve lower TCO. Our self-service BYOC
+automation simplifies deployment. Contact us
+for more information.
+Network & Data Transfer
+Networking is metered based on consumption. For accounts on classic plans, usage is included whilst meeting our fair usage policy to ensure platform stability.
+For high-volume streaming requirements or to view current network rates, please contact Sales
+.
+Available marketplaces
+Open questions? We’ve got answers
+What are the differences between plans?
+Aiven categorise plans into 6 different tiers depending on the services. These are Free, Developer, Hobbyist, Startup, Business and Premium. The differences between tiers are service specific so we encourage you to choose the service you are interested in from the plan finder on the pricing page and then click "Plan Comparison".
+Most technical features are available in all tiers. One key difference between the tiers can be the number of dedicated VMs. The more VMs there are, the more resistant the service is for any anomalies. Our Developer/Hobbyist/Startup tiers are typically recommended for test environments, Business for production environments and Premium for enterprise-level production environments.
+Aiven offers free plans for Aiven for PostgreSQL®, Aiven for MySQL and Aiven for Valkey™, and have the following specifications:
+A single node
+1 CPU per virtual machine
+1 GB RAM
+For PostgreSQL and MySQL: 1 GB storage
+For Valkey: maxmemory set to 50%
+For more details on the free plans, check out our documentation
+.
+All Aiven for Apache Kafka and Aiven for Apache Cassandra plans offer high-availability (minimum 3 nodes), private networking (VPC) and single-tenant, dedicated clusters where each virtual machine is in a different availability zone. With our Apache Kafka service, Kafka Connect is included only in Business and Premium plans.
+Aiven for PostgreSQL offers high Availability for Business (2 nodes) and Premium (3 nodes) plans. Backup Retention Time varies per plan: 0 days for Free, Developer and Hobbyist, 2 days for Startup, 14 days for Business, and 30 days for Premium plan. On premium level plans, you can optionally enable synchronous replication for higher reliability
+Does Aiven offer a free plan?
+Aiven offers free plans for Aiven for PostgreSQL®, Aiven for MySQL and Aiven for Valkey™, and have the following specifications:
+A single node
+1 CPU per virtual machine
+1 GB RAM
+For PostgreSQL and MySQL: 1 GB disk storage
+For Valkey: maxmemory set to 50%
+Management through the Aiven Console, CLI, API, Terraform Provider, or Kubernetes Operator
+Monitoring for metrics and logs
+Backups
+Integrations between different Aiven services including free, paid, and trial services
+If you need more memory or access to features in the full platform, try a free trial
+.
+Free plans do not have any time limitations. However, Aiven reserves the right to shut down services if we believe they violate the acceptable use policy
+or are unused for some time. For more details, check out our documentation
+.
+What is the difference between the Aiven free plans and the Aiven free trial?
+The free plans are limited in size but can be run indefinitely free of charge. The full platform free trial gives you $300 of credit for 30 days that you can use on any service types and plan sizes. You can run free services alongside your trial, they will not impact your trial credits and will continue to run after the trial has expired.
+For more details on the free plans, check out our documentation.
+What’s included in Aiven customer support?
+We proactively monitor all services 24/7/365. Our personnel are automatically alerted to any service anomalies for immediate resolution. Additionally, your account includes email and chat support. Three additional support tiers are available for a fee. Learn
+more about support response times and plans.
+Does Aiven offer any discounts?
+Discounts are available for organizations willing to make annual minimum-spend commitments. For more information, contact sales
+.
+Can I add more disk space to my plan?
+Yes, with Aiven’s Dynamic Disk Sizing
+you can freely adjust the disk space allocation for Aiven for PostgreSQL®
+Aiven for MySQL®
+Aiven for Apache Kafka®
+Aiven for Metrics®
+and Aiven for OpenSearch
+plans. Adjust the amount of disk space you use in the Aiven Console. You can go all the way up to three times the amount defined in your plan. The price of the additional storage also covers the additional backup storage needed to handle the increased disk size.
+Stop managing, start building
+Get building

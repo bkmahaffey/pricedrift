@@ -1,0 +1,432 @@
+[
+  {
+    "id": "cursor-com-pricing-20240803034017",
+    "url": "https://cursor.com/pricing",
+    "ts": "20240803034017",
+    "date": "2024-08-03",
+    "source": "wayback",
+    "prevTs": "20240605162025",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cursor: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Unlimited completions",
+      "Unlimited slow premium requests",
+      "GPT-4, GPT-4o, and Claude 3.5 Sonnet are all considered premium models. You have 500 fast uses and unlimited slow uses each month for these models."
+    ],
+    "removed": [
+      "Unlimited slow GPT-4 uses",
+      "Unlimited Copilot++ completions"
+    ],
+    "totals": {
+      "removed": 22,
+      "added": 23,
+      "materialRemoved": 3,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "cursor-com-pricing-20241001022256",
+    "url": "https://cursor.com/pricing",
+    "ts": "20241001022256",
+    "date": "2024-10-01",
+    "source": "wayback",
+    "prevTs": "20240803034017",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cursor: 1 price changed (removed “Yearly (Save $48)”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Yearly (Save $48)",
+      "Unlimited cursor-small uses"
+    ],
+    "totals": {
+      "removed": 13,
+      "added": 10,
+      "materialRemoved": 2,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "cursor-com-pricing-20250309042648",
+    "url": "https://cursor.com/pricing",
+    "ts": "20250309042648",
+    "date": "2025-03-09",
+    "source": "wayback",
+    "prevTs": "20241001022256",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cursor: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Examples of premium models are GPT-4, GPT-4o, and Claude 3.5/3.7 Sonnet. You have 500 fast uses and unlimited slow uses each month for these models. Some models like o3-mini use 1/3 of a fast request. The full list of premium models can be found here",
+      "You’re welcome to join our forum and share your thoughts! If you prefer a private conversation, feel free to email us directly."
+    ],
+    "removed": [
+      "GPT-4, GPT-4o, and Claude 3.5 Sonnet are all considered premium models. You have 500 fast uses and unlimited slow uses each month for these models.",
+      "Feel free to join and post on our forum"
+    ],
+    "totals": {
+      "removed": 37,
+      "added": 23,
+      "materialRemoved": 5,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "cursor-com-pricing-20250729150422",
+    "url": "https://cursor.com/pricing",
+    "ts": "20250729150422",
+    "date": "2025-07-29",
+    "source": "wayback",
+    "prevTs": "20250309042648",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cursor: 2 prices changed (removed “Examples of premium models are GPT-4, GPT-4o,…”; added “$200 /mo”)",
+    "pairs": [],
+    "added": [
+      "Unlimited tab completions",
+      "$200 /mo",
+      "Limits will always be greater than the cost of one's plan. For example, Pro includes at least $20 of agent model inference at API prices per month. If you go over your limit, we'll nicely ask you to upgrade or switch to an unlimited model."
+    ],
+    "removed": [
+      "Unlimited completions",
+      "Unlimited slow premium requests",
+      "Examples of premium models are GPT-4, GPT-4o, and Claude 3.5/3.7 Sonnet. You have 500 fast uses and unlimited slow uses each month for these models. Some models like o3-mini use 1/3 of a fast request. The full list of premium models can be found here",
+      "If you go over your limit, we'll nicely ask you to upgrade. You can use up to 50 uses of the premium models for free."
+    ],
+    "totals": {
+      "removed": 19,
+      "added": 37,
+      "materialRemoved": 6,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "cursor-com-pricing-20250806055703",
+    "url": "https://cursor.com/pricing",
+    "ts": "20250806055703",
+    "date": "2025-08-06",
+    "source": "wayback",
+    "prevTs": "20250729150422",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cursor: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 5,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "cursor-com-pricing-20250922053513",
+    "url": "https://cursor.com/pricing",
+    "ts": "20250922053513",
+    "date": "2025-09-22",
+    "source": "wayback",
+    "prevTs": "20250806055703",
+    "kind": "price",
+    "score": 38,
+    "counts": {
+      "price": 10,
+      "limit": 1,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Cursor: 10 prices, 1 limit, 3 plan names changed (added “$60 / mo.”)",
+    "pairs": [],
+    "added": [
+      "$60 / mo.",
+      "Free",
+      "$0",
+      "✓ Unlimited access to Cursor Ask",
+      "$40 / user / mo.",
+      "Everything in Free, plus:",
+      "✓ 14 day individual trial",
+      "✓ Unlimited reviews on up to 200 PRs/month",
+      "$40 / user / mo.",
+      "✓ Unlimited code reviews on all PRs",
+      "Free",
+      "✓ Unlimited Tab completions",
+      "$60 / mo.",
+      "$200 / mo.",
+      "$40 / user / mo.",
+      "Free",
+      "$0",
+      "✓ Unlimited access to Cursor Ask",
+      "$40 / user / mo.",
+      "Everything in Free, plus:",
+      "✓ 14 day individual trial",
+      "✓ Unlimited reviews on up to 200 PRs/month",
+      "$40 / user / mo.",
+      "✓ Unlimited code reviews on all PRs"
+    ],
+    "removed": [
+      "Why isn't Cursor completely free?",
+      "You! Regardless of whether you use the free, pro or business version of Cursor, all generated code is yours and free to be used however you like, including commercially.",
+      "You’re welcome to join our forum and share your thoughts! If you prefer a private conversation, feel free to email us directly."
+    ],
+    "totals": {
+      "removed": 53,
+      "added": 166,
+      "materialRemoved": 8,
+      "materialAdded": 29
+    }
+  },
+  {
+    "id": "cursor-com-pricing-20260301145331",
+    "url": "https://cursor.com/pricing",
+    "ts": "20260301145331",
+    "date": "2026-03-01",
+    "source": "wayback",
+    "prevTs": "20250922053513",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cursor: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "✓ No credit card required",
+      "✓ No credit card required"
+    ],
+    "removed": [
+      "✓ Unlimited access to Cursor Ask",
+      "✓ Unlimited access to Cursor Ask"
+    ],
+    "totals": {
+      "removed": 22,
+      "added": 28,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "cursor-com-pricing-20260401120935",
+    "url": "https://cursor.com/pricing",
+    "ts": "20260401120935",
+    "date": "2026-04-01",
+    "source": "wayback",
+    "prevTs": "20260301145331",
+    "kind": "price",
+    "score": 10,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Cursor: 2 prices, 2 plan names changed (removed “$0”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "✓ Unlimited Tab completions",
+      "Free",
+      "$0",
+      "Everything in Free, plus:",
+      "✓ Unlimited reviews on up to 200 PRs/mo",
+      "✓ Unlimited code reviews on all PRs",
+      "✓ Unlimited Tab completions",
+      "Free",
+      "$0",
+      "Everything in Free, plus:",
+      "✓ Unlimited reviews on up to 200 PRs/mo",
+      "✓ Unlimited code reviews on all PRs"
+    ],
+    "totals": {
+      "removed": 28,
+      "added": 16,
+      "materialRemoved": 12,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "cursor-com-pricing-20260501101348",
+    "url": "https://cursor.com/pricing",
+    "ts": "20260501101348",
+    "date": "2026-05-01",
+    "source": "wayback",
+    "prevTs": "20260401120935",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cursor: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "and share your thoughts! If you prefer a private conversation, feel free to email us directly at hi@cursor.com",
+      "and share your thoughts! If you prefer a private conversation, feel free to email us directly at hi@cursor.com"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 26,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "cursor-com-pricing-20260601015235",
+    "url": "https://cursor.com/pricing",
+    "ts": "20260601015235",
+    "date": "2026-06-01",
+    "source": "wayback",
+    "prevTs": "20260501101348",
+    "kind": "price",
+    "score": 52,
+    "counts": {
+      "price": 14,
+      "limit": 1,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Cursor: 14 prices, 1 limit, 4 plan names changed (removed “$40 / user / mo.”; added “$0 / mo.”)",
+    "pairs": [],
+    "added": [
+      "$0 / mo.",
+      "Free for everyone",
+      "$16 / mo.",
+      "$48 / mo.",
+      "$160 / mo.",
+      "$0 / mo.",
+      "Free for everyone",
+      "$16 / mo.",
+      "$48 / mo.",
+      "$160 / mo."
+    ],
+    "removed": [
+      "Free",
+      "$40 / user / mo.",
+      "$40 / user / mo.",
+      "✓ 14 day individual trial",
+      "$40 / user / mo.",
+      "Free",
+      "$40 / user / mo.",
+      "$40 / user / mo.",
+      "✓ 14 day individual trial",
+      "$40 / user / mo."
+    ],
+    "totals": {
+      "removed": 122,
+      "added": 48,
+      "materialRemoved": 16,
+      "materialAdded": 16
+    }
+  },
+  {
+    "id": "cursor-com-pricing-20260701071856",
+    "url": "https://cursor.com/pricing",
+    "ts": "20260701071856",
+    "date": "2026-07-01",
+    "source": "wayback",
+    "prevTs": "20260601015235",
+    "kind": "price",
+    "score": 50,
+    "counts": {
+      "price": 14,
+      "limit": 0,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Cursor: 14 prices, 4 plan names changed (removed “$0 / mo.”; added “$40 / user / mo.”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "$40 / user / mo.",
+      "Free",
+      "$40 / user / mo."
+    ],
+    "removed": [
+      "$0 / mo.",
+      "Free for everyone",
+      "$16 / mo.",
+      "$48 / mo.",
+      "Billed annually. $60 if billed monthly.",
+      "$160 / mo.",
+      "Billed annually. $200 if billed monthly.",
+      "$0 / mo.",
+      "Free for everyone",
+      "$16 / mo.",
+      "$48 / mo.",
+      "Billed annually. $60 if billed monthly.",
+      "$160 / mo.",
+      "Billed annually. $200 if billed monthly."
+    ],
+    "totals": {
+      "removed": 58,
+      "added": 76,
+      "materialRemoved": 16,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "cursor-com-pricing-20260902024928",
+    "url": "https://cursor.com/pricing",
+    "ts": "20260902024928",
+    "date": "2026-09-02",
+    "source": "wayback",
+    "prevTs": "20260701071856",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cursor: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 68,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  }
+]

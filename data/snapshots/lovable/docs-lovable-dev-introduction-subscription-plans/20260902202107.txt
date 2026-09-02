@@ -1,0 +1,339 @@
+Documentation Index
+Fetch the complete documentation index at: /llms.txt
+Use this file to discover all available pages before exploring further.
+Skip to main content
+Lovable has a Free plan and several paid plans for individuals, teams, and organizations. For the latest plan comparison and pricing details, always refer to Lovable pricing
+.
+Manage or cancel your subscription
+Open Settings → Plans & credit usage to upgrade, downgrade, switch billing cycle, update your payment method, view invoices, or cancel. Jump to Manage your subscription
+below for step-by-step instructions.
+For details about how credits work, what drives usage, top-ups, and credit usage tracking, see Credits and usage
+.
+Make the most of your included daily build credits. Free, Pro, and Business plans include 5 daily build credits at no extra cost. They reset every day at 00:00 UTC and do not roll over. On Free plans, daily build credits are capped at 30 per calendar month. After you reach the monthly cap, daily build credits resume on the 1st of the next calendar month at 00:00 UTC. Pro and Business plans do not have a monthly cap for daily build credits.
+Compare plans
+Plan
+Best for
+Free
+Trying Lovable and building smaller projects
+Pro
+Fast-moving teams building together in real time
+Business
+Growing departments that need advanced controls and governance
+Enterprise
+Large organizations that need flexibility, scale, and governance
+Credits and usage
+This table summarizes which credit features are included by plan. For a full explanation of credit types, expiry, usage costs, top-ups, auto top-up, and usage tracking, see Credits and usage
+Feature
+Free
+Pro
+Business
+Enterprise
+Monthly subscription credits
+—
+From 100/month
+Volume-based
+Daily build credits*
+5/day, 30/month
+5 per day
+—
+Monthly Cloud grant
+20 credits
+—
+Monthly AI grant
+4 credits
+—
+Credit rollovers
+—
+Yes
+—
+On-demand credit top-ups
+—
+Yes
+—
+Auto top-up
+—
+Yes
+—
+Per-member monthly credit limits
+—
+Yes
+Bulk CSV import of member credit limits
+—
+Yes
+Git sync (GitHub and GitLab)
+Yes
+Download code
+—
+Yes
+*Once you hit the monthly cap, the daily 5 credits stop being granted for the rest of that calendar month and resume on the 1st at 00:00 UTC. For example, on Free, you receive daily build credits for the first 6 days each month (6 × 5 = 30), then none until the next month starts.
+Free, Pro, and Business workspaces include monthly Cloud and AI grants so you can host apps, run their built-in backend (Cloud), and use AI features in deployed apps without spending general credits on that usage first. Enterprise terms vary by contract. Enterprise plans do not include free daily build credits or the monthly Cloud and AI grant. Contact your account team for account-specific details.
+Building and publishing
+Feature
+Free
+Pro
+Business
+Enterprise
+Unlimited workspace members
+Yes
+Workspace-private projects
+Yes
+Edit code
+—
+Yes
+Custom domains
+—
+Yes
+Remove “Edit with Lovable” badge
+—
+Yes
+Design templates
+—
+Yes
+Personal projects within a workspace
+—
+Yes
+Internal publish
+—
+Yes
+Publishing controls
+—
+Yes
+Sharing controls
+—
+Yes
+Design systems
+—
+Yes
+Design systems from an existing npm package
+—
+Yes
+Create custom connectors
+Yes
+Support for custom connectors built by Lovable
+—
+Yes
+Security and governance
+Feature
+Free
+Pro
+Business
+Enterprise
+User roles and permissions
+—
+Yes
+Role-based access
+—
+Yes
+Single sign-on (SSO)
+—
+Yes
+Security center
+—
+Yes
+Security insights
+—
+Yes
+Commit attribution
+—
+Yes
+SCIM
+—
+Yes
+Audit logs
+—
+Yes
+Scheduled security scans
+—
+Yes
+Support
+Feature
+Free
+Pro
+Business
+Enterprise
+Community support
+Yes
+Email support
+—
+Yes
+Priority support
+—
+Yes
+Dedicated support
+—
+Yes
+Onboarding services
+—
+Yes
+Compare subscription tiers
+Pro and Business plans are available in different monthly credit tiers. Annual billing offers a discounted monthly rate and higher rollover limits for unused credits.
+Pro tiers
+Monthly credits
+Monthly billing
+Annual billing
+100
+$25
+$250 ($21/month)
+200
+$50
+$500 ($42/month)
+400
+$100
+$1,000 ($84/month)
+800
+$200
+$2,000 ($167/month)
+1,200
+$294
+$2,940 ($245/month)
+2,000
+$480
+$4,800 ($400/month)
+3,000
+$705
+$7,050 ($588/month)
+4,000
+$920
+$9,200 ($767/month)
+5,000
+$1,125
+$11,250 ($938/month)
+7,500
+$1,688
+$16,880 ($1,407/month)
+10,000
+$2,250
+$22,500 ($1,875/month)
+Business tiers
+Monthly credits
+Monthly billing
+Annual billing
+100
+$50
+$500 ($42/month)
+200
+$100
+$1,000 ($84/month)
+400
+$200
+$2,000 ($167/month)
+800
+$400
+$4,000 ($334/month)
+1,200
+$588
+$5,880 ($490/month)
+2,000
+$960
+$9,600 ($800/month)
+3,000
+$1,410
+$14,100 ($1,175/month)
+4,000
+$1,840
+$18,400 ($1,534/month)
+5,000
+$2,250
+$22,500 ($1,875/month)
+7,500
+$3,300
+$33,000 ($2,750/month)
+10,000
+$4,300
+$43,000 ($3,584/month)
+Manage your subscription
+Go to Plans & credit usage
+( Settings → Plans & credit usage) to manage your subscription, billing information, payment method, and invoices. From Plans & credit usage, you can: Upgrade or downgrade your plan
+Switch between monthly and annual billing
+View upcoming invoices and payment history
+Update billing and payment information
+To check which plan your workspace is on, or whether a new subscription has activated, you can also ask Lovable in chat
+Plan changes themselves happen only in Plans & credit usage.
+Upgrade your subscription tier
+If you consistently run out of subscription credits before your renewal date, upgrading is usually more cost-effective than repeated top-ups. For one-time top-ups, auto top-up, and how credits are spent, see Credits and usage
+To upgrade: Go to Settings → Plans & credit usage.
+Choose your desired credit amount from the credits per month dropdown.
+Select Upgrade.
+Complete the upgrade in the Stripe portal.
+When you upgrade to a higher credit allocation, you do not receive a full new grant immediately. Your monthly allocation is updated, and you receive the difference. For example, upgrading from 100 credits to 200 credits adds 100 credits, not 200. Your existing unused credits keep their original expiry date.
+Downgrade your subscription tier
+Use this flow to move to a lower paid tier on the same plan. To move to the Free plan instead, see Cancel your subscription
+To downgrade to a lower paid tier: Go to Settings → Plans & credit usage.
+Choose your desired credit amount from the credits per month dropdown.
+Select Downgrade.
+Complete the downgrade in Lovable and then in the Stripe portal.
+Your current plan remains active until the end of the current billing period.
+Downgrading between paid tiers keeps your existing credits When you downgrade to a lower paid tier, including from Business to Pro, your unused monthly plan credits and rollover credits stay available until their original expiry date. Your new monthly credit allocation applies from your next billing period.
+Downgrading to Free freezes subscription credits If you downgrade to the Free plan, unexpired credits granted through your paid subscription cannot be used while your workspace is on Free. This includes monthly plan credits and rollover credits. If you upgrade to a paid plan again before those credits expire, you can continue using them until their original expiry date. Top-up credits you purchased while subscribed and any bonus credits can still be used on Free until they expire.
+What turns off when you downgrade
+When your workspace moves to a lower plan, features that are not included in the new plan stop working. Examples include: Scheduled security scans and scheduled data exports (Enterprise) stop running. Stopped scans no longer use credits.
+Verified email sign-up (Business and Enterprise) stops automatically adding new sign-ups to your workspace. Existing members keep their access.
+Announcement banners (Business and Enterprise) stop showing to workspace members.
+Hiding the Lovable badge (paid plans): if you hid the Edit with Lovable badge on a published project, your live site keeps it hidden until you publish again. On that next publish, Lovable warns you, then brings the badge back and turns off the project’s Hide Lovable badge setting. To hide the badge again after upgrading, turn the setting back on in Project settings → Publishing.
+For most features, Lovable keeps your configuration, so they resume automatically if you upgrade again. Plan-dependent workspace defaults, such as default project visibility and publishing permissions, reset to the new plan’s defaults and are not restored by a later upgrade.
+Switch to annual billing
+You can switch from monthly to annual billing on Pro and Business plans from Settings → Plans & credit usage. Annual billing offers a discounted monthly rate and higher rollover limits for unused credits. Monthly plan credits on annual billing are still issued monthly and expire 1 month after the annual billing period ends. Go to Settings → Plans & credit usage.
+Find the Pro or Business plan card.
+Turn on Annual. The plan card updates to show the discounted monthly rate for annual billing.
+Select the monthly credit amount you want from the credits per month dropdown.
+Select Switch to annual and then confirm the change in checkout.
+When you switch to annual billing, you are charged for the annual plan at checkout. Monthly plan credits continue to be granted each month.
+Manage billing, payment method, and invoices
+Go to Settings → Plans & credit usage to view upcoming invoices, payment history, and billing information. To update your payment method (for example, to change or add a credit card) or edit billing details, select Manage on your plan card. Lovable redirects you to the Stripe billing portal, where you can: Add, replace, or remove a credit card or other payment method.
+Change the default payment method used for renewals and top-ups.
+Update your billing name, address, and tax details.
+Download past invoices and receipts.
+Payment methods and billing details are stored by Stripe, not in Lovable, so this portal is the only place to view or change them.
+Cancel your subscription
+Canceling your paid subscription moves your workspace to the Free plan. There is no separate cancel action, and there is no email address to request cancellation. You cancel yourself from Plans & credit usage. To cancel your subscription: Go to Settings → Plans & credit usage.
+Select Manage.
+In the Manage plan dialog, select Downgrade to free.
+Complete the downgrade flow.
+Your current plan remains active until the end of the current billing period. After that, your workspace moves to Free.
+The credits per month dropdown on the plan card only lists paid tiers, so it cannot be used to move to Free. Use Manage → Downgrade to free instead.
+Cancel from your phone
+The Lovable mobile app
+has no cancel option, so on a phone you cancel in the browser. Open lovable.dev in your phone’s browser, go to Settings → Plans & credit usage
+and follow the same steps. This applies on both iOS and Android.
+Subscribed through the iOS app? Plans purchased inside the iOS app go through the App Store and work differently: each purchase covers one month and does not renew automatically, so there is nothing to cancel. Your plan card in Settings → Plans & credit usage shows Managed by App Store in place of the Manage button, along with the date your plan runs until. When that date passes, your workspace moves to the Free plan on its own, and you are not charged again unless you make a new purchase. Becau
+for more on iOS and Android billing differences.
+FAQ
+When do plan changes take effect?
+Upgrades take effect when the upgrade is completed. If you upgrade to a higher credit allocation, you receive the difference between your previous allocation and your new allocation. Downgrades take effect at the end of your current billing period. Your current plan remains active until then.
+What happens to my credits if I cancel my subscription?
+Your current plan remains active until the end of the current billing period. After that, your workspace moves to the Free plan and your unused monthly plan credits and rollover credits are frozen. You cannot use them on Free, and they are not refunded. If you upgrade again before they expire, you can use them until their original expiry date. For more about credit expiry and rollover behavior, see Credits and usage
+.
+What happens to my unused credits if I switch between paid tiers?
+Your unused monthly plan credits and rollover credits stay available until their original expiry date when you move between paid tiers, in either direction. Switching between Pro and Business, or to a different Pro or Business tier, only changes your monthly credit allocation: immediately when you upgrade, and from the next billing period when you downgrade. For a full overview of credit expiry and rollover, see Credits and usage
+.
+Can I switch from monthly to annual billing?
+Yes. You can switch from monthly to annual billing on Pro and Business plans from Settings → Plans & credit usage. Annual billing offers a discounted monthly rate and higher rollover limits for unused credits. Monthly plan credits on annual billing are still issued monthly and expire 1 month after the annual billing period ends.
+How can I change my billing information?
+Go to Settings → Plans & credit usage, select Manage on your plan card, then choose Edit billing information. Lovable redirects you to the Stripe billing portal, where you can update your billing name, address, and tax details.
+Where do I find or update my credit card or payment method?
+Payment methods live in the Stripe billing portal, not directly in Lovable. Go to Settings → Plans & credit usage, select Manage on your plan card, then choose Invoices & payments to open the Stripe billing portal. From there, you can add, replace, or remove a card and change the default payment method used for renewals and top-ups.
+How do I download my invoices?
+Go to Settings → Plans & credit usage, select Manage on your plan card, then choose Invoices & payments. Lovable redirects you to the Stripe billing portal, where you can find past invoices and receipts.
+Troubleshooting
+I cannot pay for my subscription. What should I do?
+Payment setup may occasionally fail because of an issue with Stripe. Double-check your payment details and retry. If the problem persists, try a different payment method.
+I paid but still do not have access to my plan. What should I do?
+First check whether the subscription has come through. Your current plan and subscription status are shown in Settings → Plans & credit usage, and you can also ask Lovable in chat
+for example Has my subscription activated? If your plan still has not changed, contact support at support@lovable.dev
+.
+I upgraded but have not received credits. What should I do?
+You receive additional credits only if you upgrade to a plan or tier with a higher credit allowance. If you upgraded to a higher allowance and still have not received the additional credits, contact support at support@lovable.dev
+.
+I downgraded to Free. Why can't I use some of my credits?
+If you downgrade to the Free plan, unexpired credits granted through your paid subscription are frozen. This means you cannot use monthly plan credits or rollover credits while your workspace is on Free. If you upgrade to a paid plan again before those credits expire, you can continue using them until their original expiry date. Top-up credits you purchased while subscribed and any bonus credits can still be used on Free until they expire.
+Related topics
+Credits and usage
+Connect your app to Chargebee
+Support policy
+How to build a real product with Lovable
+Workspace admin settings
+Was this page helpful?
+Yes
+No
+Assistant
+Responses are generated using AI and may contain mistakes.

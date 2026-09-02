@@ -1,0 +1,2990 @@
+[
+  {
+    "id": "datadoghq-com-pricing-20230301050139",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20230301050139",
+    "date": "2023-03-01",
+    "source": "wayback",
+    "prevTs": "20230106154234",
+    "kind": "limits",
+    "score": 8,
+    "counts": {
+      "price": 0,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Datadog: 4 limits changed (100 removed; 100 removed)",
+    "pairs": [
+      {
+        "before": "*Billed annually or $27 on-demand 100 host minimum",
+        "after": "*Billed annually or $27 on-demand",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "100",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $27 on-demand 100 host minimum",
+        "after": "*Billed annually or $27 on-demand",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "100",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "Pipeline and Test spans are retained for 30 days.",
+        "after": "Pipeline and Test spans are retained for 15 months.",
+        "confidence": 0.78,
+        "deltas": [
+          {
+            "before": "30",
+            "after": "15"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "WITHOUT parallelization, your tests will run sequentially and your pipeline will take roughly 17 minutes to complete.",
+      "WITH parallelization, if you purchase (for example) an additional speed of 4 Parallel Testing, your 100 tests will run over a total of 5 parallel slots, and your pipeline will now take roughly 3 minutes to complete."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 17,
+      "added": 30,
+      "materialRemoved": 6,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "datadoghq-com-pricing-20230505153919",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20230505153919",
+    "date": "2023-05-05",
+    "source": "wayback",
+    "prevTs": "20230301050139",
+    "kind": "price",
+    "score": 50,
+    "counts": {
+      "price": 14,
+      "limit": 1,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Datadog: 14 prices, 1 limit, 3 plan names changed ($0.10 → $0.095; $27 → $42)",
+    "pairs": [
+      {
+        "before": "$ 0.10 Per ingested GB, per month*",
+        "after": "$ 0.095 Per ingested GB per month*",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.10",
+            "after": "$0.095"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $27 on-demand",
+        "after": "*Billed annually or $ 42 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$27",
+            "after": "$42"
+          }
+        ]
+      },
+      {
+        "before": "$ 15 Per host, per month*",
+        "after": "$ 35 Per host, per month*",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$15",
+            "after": "$35"
+          }
+        ]
+      },
+      {
+        "before": "$ 23 Per host, per month*",
+        "after": "$ 35 Per host, per month*",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$23",
+            "after": "$35"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 0.25 Per GB outbound, per destination, per month*",
+      "No. Forwarding to S3 Archives, GCP Storage, and Azure Storage is included with $0.10 per ingested GB. However, forwarding to other destinations such as your external SIEM or BI vendor is billable starting at $0.25 per GB outbound per destination.",
+      "Data Streams Monitoring is also available standalone starting at $15 per host",
+      "Yes, Data Streams Monitoring can be purchased for standalone hosts at $15 per host per month for DSM on top of the $31 per host per month for APM with an annual commitment.",
+      "Map history is stored for 30 days and all metrics are retained for 15 months.",
+      "per 1M traced invocations; then $0.10/GB. Span Retention: 300 thousand Indexed Spans",
+      "$ 10 Per host, per month",
+      "START FREE TRIAL",
+      "START FREE TRIAL"
+    ],
+    "removed": [
+      "Free",
+      "$ 0",
+      "*Billed annually or $18 on-demand",
+      "Search and analyze 100% of ingested traces using any tag, live for 15 minutes",
+      "Yes. Existing APM customers have the option of changing their plan to APM & Continuous Profiler at $40 per host per month. Contact your Sales",
+      "per 1M traced invocations; then $0.10/GB."
+    ],
+    "totals": {
+      "removed": 173,
+      "added": 179,
+      "materialRemoved": 42,
+      "materialAdded": 45
+    }
+  },
+  {
+    "id": "datadoghq-com-pricing-20230705093437",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20230705093437",
+    "date": "2023-07-05",
+    "source": "wayback",
+    "prevTs": "20230505153919",
+    "kind": "price",
+    "score": 74,
+    "counts": {
+      "price": 20,
+      "limit": 4,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Datadog: 20 prices, 4 limits, 3 plan names changed ($2.60 → $2.30; $2.90 → $2.30)",
+    "pairs": [
+      {
+        "before": "$2.60 per task ($3.70 on-demand)",
+        "after": "$ 2.30 per task ($ 3.30 on-demand)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.60",
+            "after": "$2.30"
+          },
+          {
+            "before": "$3.70",
+            "after": "$3.30"
+          }
+        ]
+      },
+      {
+        "before": "Yes, we support AWS Fargate tasks ($2 per task billed annually or $2.90 on-demand) and AWS Lambda (see pricing info here",
+        "after": "Yes. We support AWS Fargate tasks. Based on your APM plan, the price is $ 2 /$ 2.30 /$ 2.60 per task when billed annually and $ 2.90 /$ 3.30 /$ 3.70 when billed on-demand. APM also supports AWS Lambda ( see pricing info here",
+        "confidence": 0.64,
+        "deltas": [
+          {
+            "before": "$2.90",
+            "after": "$2.30"
+          },
+          {
+            "before": null,
+            "after": "$2.60"
+          },
+          {
+            "before": null,
+            "after": "$2.90"
+          },
+          {
+            "before": null,
+            "after": "$3.30"
+          },
+          {
+            "before": null,
+            "after": "$3.70"
+          }
+        ]
+      },
+      {
+        "before": "Yes, Data Streams Monitoring can be purchased for standalone hosts at $15 per host per month for DSM on top of the $31 per host per month for APM with an annual commitment.",
+        "after": "Yes, Data Streams Monitoring can be purchased on top of Pro or Enterprise Infrastructure Monitoring hosts starting at $ 15 per host per month with an annual commitment.",
+        "confidence": 0.61,
+        "deltas": [
+          {
+            "before": "$31",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "Yes, Continuous Profiler can be purchased standalone at $19 per profiled host per month with an annual commitment. Month-to-month and on-demand plans are also available at $23 per profiled host per month or $0.038 per hour. Contact us",
+        "after": "Yes, Continuous Profiler can be purchased standalone at $19 per profiled host per month with an annual commitment. Month-to-month and on-demand plans are also available at $ 23 per profiled host per month or $ 0.04 per hour. Contact us",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.038",
+            "after": "$0.04"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 2.55 on-demand",
+        "after": "*Billed annually or $ 15 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.55",
+            "after": "$15"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 2.90 on-demand",
+        "after": "*Billed annually or $ 15 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.90",
+            "after": "$15"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "500K-999.9K",
+      "1M-4.9M",
+      "5M-9.9M",
+      "10M-19.9M",
+      "20M-100M",
+      "Price per 100 per month",
+      "$4.00",
+      "$3.50",
+      "$3.00",
+      "$2.50",
+      "$ 2.60 per task ($ 3.70 on-demand)",
+      "For additional volume, in a given hour, customers will be charged $ 0.10 per additional GB of ingested spans and the indexed spans rate for every additional 1M indexed spans.",
+      "on your plan (starting at $ 9 per host per month).",
+      "Yes. If you would like to set up USM on a subset of your Pro or Enterprise Infrastructure hosts, you would need to purchase APM. Every purchase of an APM host now includes USM on that host at no additional cost, starting at $ 31 per host per month.",
+      "Greater than 90 days",
+      "Datadog offers 1000 traps for every device per month, counted in aggregate across your entire account, not just on a per-device basis. Beyond this limit, Datadog reserves the right to charge $ 2.55 / million traps, although we are not currently billing customers for traps.",
+      "$ 10 Per host, per month*",
+      "START FREE TRIAL",
+      "$ 2 per task ($ 2.90 on demand)",
+      "$ 10 Per 100 Workflow Executions, per month*",
+      "START FREE TRIAL",
+      "*Billed annually or $ 14 on-demand",
+      "START FREE TRIAL",
+      "Maximum execution time for a workflow: 24 hours"
+    ],
+    "removed": [
+      "$ 1.70 Per million log events, per month*"
+    ],
+    "totals": {
+      "removed": 107,
+      "added": 202,
+      "materialRemoved": 34,
+      "materialAdded": 57
+    }
+  },
+  {
+    "id": "datadoghq-com-pricing-20230923014017",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20230923014017",
+    "date": "2023-09-23",
+    "source": "wayback",
+    "prevTs": "20230705093437",
+    "kind": "price",
+    "score": 115,
+    "counts": {
+      "price": 30,
+      "limit": 4,
+      "plan": 9
+    },
+    "material": true,
+    "headline": "Datadog: 30 prices, 4 limits, 9 plan names changed ($3.30 → $3.40; $0.095 → $0.10)",
+    "pairs": [
+      {
+        "before": "Yes. We support AWS Fargate tasks. Based on your APM plan, the price is $ 2 /$ 2.30 /$ 2.60 per task when billed annually and $ 2.90 /$ 3.30 /$ 3.70 when billed on-demand. APM also supports AWS Lambda ( see pricing info here",
+        "after": "Yes. We support AWS Fargate tasks. Based on your APM plan, the price is $ 2 /$ 2.30 /$ 2.60 per task when billed annually and $ 2.90 /$ 3.40 /$ 3.70 when billed on-demand. APM also supports AWS Lambda ( see pricing info here",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.30",
+            "after": "$3.40"
+          }
+        ]
+      },
+      {
+        "before": "$ 0.095 Per ingested GB per month*",
+        "after": "$ 0.10 Per ingested GB per month* **",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.095",
+            "after": "$0.10"
+          }
+        ]
+      },
+      {
+        "before": "$ 7.50 Per host, per month*",
+        "after": "$ 10 Per host, per month*",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$7.50",
+            "after": "$10"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 9 on-demand",
+        "after": "*Billed annually or $ 12 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$9",
+            "after": "$12"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 29 on-demand",
+        "after": "*Billed annually or $ 72 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$29",
+            "after": "$72"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 50 Per hundred test runs, per month*",
+      "$ 50 Per hundred test runs, per month*",
+      "*Billed annually or $ 72 on-demand",
+      "$ 50 Per hundred test runs, per month*",
+      "Start Free Trial",
+      "*Billed annually or $ 72 on-demand",
+      "Start Free Trial",
+      "Web-Recorder for code-free test creation",
+      "*Billed annually or $ 29 on-demand",
+      "Start Free Trial",
+      "$ 40 Per committer, per month*",
+      "Free up development time by improving pipeline speed and reliability",
+      "*Billed annually or $ 58 on-demand",
+      "Start Free Trial",
+      "$ 3 Per active* application instance, per month**",
+      "**Billed annually or $ 4.32 on-demand",
+      "Start Free Trial",
+      "$ 3 Per active* application instance, per month**",
+      "**Billed annually or $ 4.32 on-demand",
+      "Start Free Trial",
+      "$ 10 Per million traced invocations*, per month**",
+      "**Billed annually or $ 15 on-demand",
+      "Start Free Trial",
+      "Span Ingestion: 50GB Ingested Spans",
+      "per 1M traced invocations; then $ 0.10 /GB. Span Retention: 300 thousand Indexed Spans",
+      "per 1M traced invocations; then $ 1.70 per 1 million Indexed Spans with 15-day retention (billed annually or $ 2.55 on-demand). See APM common questions",
+      "Span Ingestion: 50GB Ingested Spans",
+      "per 1M traced invocations; then $ 0.10 /GB. Span Retention: 300 thousand Indexed Spans",
+      "per 1M traced invocations; then $ 1.70 per 1 million Indexed Spans with 15-day retention (billed annually or $ 2.55 on-demand). See APM common questions",
+      "We offer 15, 30, 60, and 90 day retention for NetFlow records with the default retention being 30 days. Please contact us",
+      "Recommended for lower volumes below 50TB/month",
+      "**Billed annually or $ 0.12 on-demand",
+      "$ 1500 Per CPU per month* **",
+      "Recommended for organizations with volumes above 50TB/month**",
+      "Start Free Trial",
+      "This is suited for organizations with volumes below 50TB/month. It is cost effective at lower volumes and easy to understand, as well as allowing you to pay based on your usage as you scale or ramp up early on.",
+      "Sizing and resource provisioning for Observability Pipelines Worker depends on various factors, such as the pipeline configuration and workload. Generally speaking, we recommend provisioning 1 vCPU for every 30TB/month.",
+      "**Additional containers billed at $ 0.001 / hr per container",
+      "$ 25 Per host, per month*",
+      "*Billed annually or $ 30 on-demand"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 149,
+      "added": 394,
+      "materialRemoved": 70,
+      "materialAdded": 113
+    }
+  },
+  {
+    "id": "datadoghq-com-pricing-20231127181720",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20231127181720",
+    "date": "2023-11-27",
+    "source": "wayback",
+    "prevTs": "20230923014017",
+    "kind": "price",
+    "score": 69,
+    "counts": {
+      "price": 19,
+      "limit": 5,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Datadog: 19 prices, 5 limits, 1 plan name changed ($0.04 → $0.004; $15 → $22)",
+    "pairs": [
+      {
+        "before": "Yes, Continuous Profiler can be purchased standalone at $ 19 per profiled host per month with an annual commitment. Month-to-month and on-demand plans are also available at $ 23 per profiled host per month or $ 0.04 per hour. Contact us",
+        "after": "Yes, Continuous Profiler can be purchased standalone at $ 19 per profiled host per month with an annual commitment. Month-to-month and on-demand plans are also available at $ 23 per profiled host per month or $ 0.004 per hour. Contact us",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.04",
+            "after": "$0.004"
+          }
+        ]
+      },
+      {
+        "before": "$ 15 Per host, per month*",
+        "after": "$ 22 Per host, per month*",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$15",
+            "after": "$22"
+          }
+        ]
+      },
+      {
+        "before": "$ 23 Per host, per month*",
+        "after": "$ 34 Per host, per month*",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$23",
+            "after": "$34"
+          }
+        ]
+      },
+      {
+        "before": "$ 31 Per host, per month*",
+        "after": "$ 36 Per host, per month*",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$31",
+            "after": "$36"
+          }
+        ]
+      },
+      {
+        "before": "$ 35 Per host, per month*",
+        "after": "$ 40 Per host, per month*",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$35",
+            "after": "$40"
+          }
+        ]
+      },
+      {
+        "before": "$ 40 Per host, per month*",
+        "after": "$ 45 Per host, per month*",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$40",
+            "after": "$45"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 2.20 on-demand",
+        "after": "*Billed annually or $ 27 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.20",
+            "after": "$27"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Unlimited User Accounts",
+      "*Billed annually or $ 41 on-demand",
+      "$ 1.70 Per million log events, per month*",
+      "*Billed annually or $ 2.55 on-demand",
+      "*Billed annually or $ 43.20 on-demand",
+      "*Billed annually or $ 48 on-demand",
+      "*Billed annually or $ 54 on-demand",
+      "Application Vulnerability Management is offered either through the APM DevSecOps bundle or standalone for $10/host/month. However, if it is bought as standalone, it is a prerequisite to have APM on the host.",
+      "No. However Mobile App Testing does group test steps into buckets with each set of 25 steps counted as an individual test run. For example, tests with 1-25 steps will count as 1 run, tests with 25-50 will count as 2 runs, tests with 51-75 will count as 3 runs and so on.",
+      "10 invocations",
+      "0 invocations",
+      "1M invocations",
+      "1 invocation",
+      "5M invocations",
+      "1M invocations",
+      "0 invocations",
+      "1 invocation",
+      "= 2 average active functions × $ 5 = $ 10",
+      "*denominator for normal month would be the number of hours in that month. For example, in a 30-day month, it would be 720 hours.",
+      "$ 0.65 per million records, per month*",
+      "*Billed annually or $ 0.94 on-demand"
+    ],
+    "removed": [
+      "$ 0",
+      "$ 1.50 Per 1,000 sessions, per month*",
+      "Start Free Trial"
+    ],
+    "totals": {
+      "removed": 73,
+      "added": 258,
+      "materialRemoved": 17,
+      "materialAdded": 35
+    }
+  },
+  {
+    "id": "datadoghq-com-pricing-20240104064447",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20240104064447",
+    "date": "2024-01-04",
+    "source": "wayback",
+    "prevTs": "20231127181720",
+    "kind": "price",
+    "score": 29,
+    "counts": {
+      "price": 7,
+      "limit": 3,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Datadog: 7 prices, 3 limits, 1 plan name changed (10K added; 10K added)",
+    "pairs": [
+      {
+        "before": "$ 5 Per ten thousand test runs, per month*",
+        "after": "$ 5 Per 10K test runs, per month*",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": null,
+            "after": "10K"
+          }
+        ]
+      },
+      {
+        "before": "$ 5 Per ten thousand test runs, per month*",
+        "after": "$ 5 Per 10K test runs, per month*",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": null,
+            "after": "10K"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 0.30 on-demand",
+        "after": "*Cloud SIEM is billed annually or $ 7.50 on-demand",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "$0.30",
+            "after": "$7.50"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Real-time threat detection, intelligence, and investigation across 15 months of data",
+      "$ 10 Per million traced invocations*,",
+      "**Billed annually or $ 15 on-demand",
+      "Start Free Trial",
+      "$ 2 per million traced invocations ($ 2.90 on demand)",
+      "$ 5 Per million events analyzed,",
+      "Volume discounts available (1.2B+ events/mo)"
+    ],
+    "removed": [
+      "**Additional containers billed at $ 0.001 / hr per container",
+      "$ 0.20 Per GB of analyzed logs, per month*"
+    ],
+    "totals": {
+      "removed": 86,
+      "added": 163,
+      "materialRemoved": 49,
+      "materialAdded": 54
+    }
+  },
+  {
+    "id": "datadoghq-com-pricing-20240312082030",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20240312082030",
+    "date": "2024-03-12",
+    "source": "wayback",
+    "prevTs": "20240104064447",
+    "kind": "price",
+    "score": 67,
+    "counts": {
+      "price": 19,
+      "limit": 2,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Datadog: 19 prices, 2 limits, 3 plan names changed ($5 → $1; $40 → $20)",
+    "pairs": [
+      {
+        "before": "Beyond the volume of custom metrics included per host, Datadog charges $ 5 per 100 custom metrics per month. Volume discounts are available when billed annually as follows:",
+        "after": "Beyond the volume of custom metrics included per host, Datadog charges as low as $ 1 per 100 custom metrics per month. Volume discounts are available when billed annually as follows:",
+        "confidence": 0.95,
+        "deltas": [
+          {
+            "before": "$5",
+            "after": "$1"
+          }
+        ]
+      },
+      {
+        "before": "$ 40 Per committer,",
+        "after": "$ 20 Per committer,",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$40",
+            "after": "$20"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 58 on-demand",
+        "after": "*Billed annually or $ 29 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$58",
+            "after": "$29"
+          }
+        ]
+      },
+      {
+        "before": "400,000 spans are included per Pipeline Visibility committer per month (summed across all Pipeline Visibility committers). 1,000,000 spans are included per Testing Visibility committer per month (summed across all Testing Visibility committers).",
+        "after": "1,000,000 spans are included per Test Visibility committer per month (summed across all Test Visibility committers). Additional test spans can be purchased at $ 3 per million spans per month.",
+        "confidence": 0.61,
+        "deltas": [
+          {
+            "before": "400,000",
+            "after": "1,000,000"
+          },
+          {
+            "before": "1,000,000",
+            "after": "$3"
+          }
+        ]
+      },
+      {
+        "before": "Pipeline and Test spans are retained for 15 months.",
+        "after": "Test spans are retained for 3 months.",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "15",
+            "after": "3"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 7.20 on-demand",
+        "after": "**Billed annually or $ 0.36 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$7.20",
+            "after": "$0.36"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 18 on-demand",
+        "after": "*Billed annually or $ 72 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$18",
+            "after": "$72"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 72 on-demand",
+        "after": "*Billed annually or $ 12 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$72",
+            "after": "$12"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 114 on-demand",
+        "after": "*Billed annually or $ 7.20 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$114",
+            "after": "$7.20"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 72 on-demand",
+        "after": "*Billed annually or $ 18 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$72",
+            "after": "$18"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 12 on-demand",
+        "after": "*Billed annually or $ 72 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$12",
+            "after": "$72"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 10.80 on-demand",
+        "after": "*Billed annually or $ 114 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$10.80",
+            "after": "$114"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Custom Metrics: As low as $ 1 per 100 ( see common questions",
+      "$ 1.00",
+      "$ 0.25 Per 1k error events, per month*",
+      "400,000 spans are included per Pipeline Visibility committer per month (summed across all Pipeline Visibility committers). Additional pipeline spans can be purchased at $ 3 per million spans per month.",
+      "Pipeline spans are retained for 15 months.",
+      "Start Free Trial",
+      "Start Free Trial",
+      "*Billed annually or $ 10.80 on-demand",
+      "Start Free Trial"
+    ],
+    "removed": [
+      "20M-100M",
+      "$ 2.00",
+      "Application Vulnerability Management is offered either through the APM DevSecOps bundle or standalone for $10/host/month. However, if it is bought as standalone, it is a prerequisite to have APM on the host.",
+      "Yes. Pipeline spans and test spans can each be purchased at $ 2.50 per million spans per month."
+    ],
+    "totals": {
+      "removed": 283,
+      "added": 358,
+      "materialRemoved": 38,
+      "materialAdded": 43
+    }
+  },
+  {
+    "id": "datadoghq-com-pricing-20240506055715",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20240506055715",
+    "date": "2024-05-06",
+    "source": "wayback",
+    "prevTs": "20240312082030",
+    "kind": "price",
+    "score": 71,
+    "counts": {
+      "price": 19,
+      "limit": 5,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Datadog: 19 prices, 5 limits, 2 plan names changed ($0.10 → 0.205GB; $3 → 547.95)",
+    "pairs": [
+      {
+        "before": "Span Ingestion: 150GB per APM host, averaged across all your APM hosts; then $ 0.10 /GB",
+        "after": "Span Ingestion: 150 GB per APM host per month or 0.205 GB per APM host per hour, averaged across all your APM hosts",
+        "confidence": 0.71,
+        "deltas": [
+          {
+            "before": "$0.10",
+            "after": "0.205GB"
+          }
+        ]
+      },
+      {
+        "before": "400,000 spans are included per Pipeline Visibility committer per month (summed across all Pipeline Visibility committers). Additional pipeline spans can be purchased at $ 3 per million spans per month.",
+        "after": "400,000 spans per committer per month or 547.95 spans per committer per hour (both summed across all Pipeline Visibility committers). Additional pipeline spans can be purchased at $ 3 per million spans per month.",
+        "confidence": 0.78,
+        "deltas": [
+          {
+            "before": "$3",
+            "after": "547.95"
+          },
+          {
+            "before": null,
+            "after": "$3"
+          }
+        ]
+      },
+      {
+        "before": "1,000,000 spans are included per Test Visibility committer per month (summed across all Test Visibility committers). Additional test spans can be purchased at $ 3 per million spans per month.",
+        "after": "1,000,000 spans per committer per month or 1370 spans per committer per hour (both summed across all Testing Visibility committers). Additional test spans can be purchased at $ 3 per million spans per month.",
+        "confidence": 0.74,
+        "deltas": [
+          {
+            "before": "$3",
+            "after": "1370"
+          },
+          {
+            "before": null,
+            "after": "$3"
+          }
+        ]
+      },
+      {
+        "before": "per 1M traced invocations; then $ 0.10 /GB. Span Retention: 300 thousand Indexed Spans",
+        "after": "per 1M traced invocations. Span Retention: 300 thousand Indexed Spans",
+        "confidence": 0.89,
+        "deltas": [
+          {
+            "before": "$0.10",
+            "after": "300"
+          },
+          {
+            "before": "300",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 72 on-demand",
+        "after": "*Billed annually or $ 114 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$72",
+            "after": "$114"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 1 per task; includes an allotment of 5 custom metrics and 5 ingested custom metrics per function",
+      "$ 5 per device; includes an allotment of 20 custom metrics and 20 ingested custom metrics per device",
+      "10GB span ingestion and 65,000 span retention, averaged across all your APM hosts",
+      "10GB span ingestion and 65,000 span retention, averaged across all your APM hosts, 1 profiled host",
+      "$ 79 Per additional parallelization,",
+      "WITHOUT parallelization, your tests will run sequentially and your pipeline will take roughly 17 minutes to complete.",
+      "WITH parallelization, if you purchase (for example) an additional speed of 4 Parallel Testing, your 100 tests will run over a total of 5 parallel slots, and your pipeline will now take roughly 3 minutes to complete.",
+      "per 1M traced invocations. See APM common questions",
+      "per 1M traced invocations. Span Retention: 300 thousand Indexed Spans",
+      "per 1M traced invocations. See APM common questions",
+      "Per CPU pricing, recommended for volumes above 30TB/month, is also available***",
+      "*** Billed annually per CPU allocated to Observability Pipelines Worker, or $3.00 per CPU per hour on-demand"
+    ],
+    "removed": [
+      "$ 1 per task",
+      "$ 5 per device",
+      "Span Retention: 1 million Indexed Spans per APM host, averaged across all your APM hosts; then $ 1.70 ($ 2.55 on-demand) per 1 million Indexed Spans with 15-day retention. See Common Questions",
+      "$ 50 Per hundred test runs,",
+      "Web-Recorder for code-free test creation",
+      "$ 10 Per million traced invocations*,",
+      "**Billed annually or $ 15 on-demand",
+      "Start Free Trial",
+      "per 1M traced invocations; then $ 1.70 per 1 million Indexed Spans with 15-day retention (billed annually or $ 2.55 on-demand). See APM common questions",
+      "per 1M traced invocations; then $ 0.10 /GB. Span Retention: 300 thousand Indexed Spans",
+      "per 1M traced invocations; then $ 1.70 per 1 million Indexed Spans with 15-day retention (billed annually or $ 2.55 on-demand). See APM common questions",
+      "Recommended for lower volumes below 50TB/month",
+      "$ 1500 Per CPU",
+      "Recommended for organizations with volumes above 50TB/month**",
+      "Start Free Trial"
+    ],
+    "totals": {
+      "removed": 230,
+      "added": 254,
+      "materialRemoved": 29,
+      "materialAdded": 26
+    }
+  },
+  {
+    "id": "datadoghq-com-pricing-20240714140101",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20240714140101",
+    "date": "2024-07-14",
+    "source": "wayback",
+    "prevTs": "20240506055715",
+    "kind": "price",
+    "score": 125,
+    "counts": {
+      "price": 36,
+      "limit": 4,
+      "plan": 5
+    },
+    "material": true,
+    "headline": "Datadog: 36 prices, 4 limits, 5 plan names changed ($2.30 → $2; $70 → $10)",
+    "pairs": [
+      {
+        "before": "Yes. We support AWS Fargate tasks. Based on your APM plan, the price is $ 2 /$ 2.30 /$ 2.60 per task when billed annually and $ 2.90 /$ 3.40 /$ 3.70 when billed on-demand. APM also supports AWS Lambda ( see pricing info here",
+        "after": "Yes. We support AWS Fargate tasks. Based on your APM plan, the price is $ 2 /$ 2 /$ 2.60 per task when billed annually and $ 2.90 /$ 2.90 /$ 3.70 when billed on-demand. APM also supports AWS Lambda ( see pricing info here",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.30",
+            "after": "$2"
+          },
+          {
+            "before": "$3.40",
+            "after": "$2.90"
+          }
+        ]
+      },
+      {
+        "before": "$ 70 Per database host,",
+        "after": "$ 10 Per host,",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$70",
+            "after": "$10"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 84 on-demand",
+        "after": "*Billed annually or $ 36 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$84",
+            "after": "$36"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 30 on-demand",
+        "after": "*Billed annually or $ 15 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$30",
+            "after": "$15"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 0.94 on-demand",
+        "after": "*Billed annually or $ 10.80 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.94",
+            "after": "$10.80"
+          }
+        ]
+      },
+      {
+        "before": "This is suited for organizations with volumes below 50TB/month. It is cost effective at lower volumes and easy to understand, as well as allowing you to pay based on your usage as you scale or ramp up early on.",
+        "after": "This is suited for organizations with volumes below 30TB/month. It is cost effective at lower volumes and easy to understand, as well as allowing you to pay based on your usage as you scale or ramp up early on.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50TB",
+            "after": "30TB"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 0.45 on-demand",
+        "after": "*Billed annually or $ 84 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.45",
+            "after": "$84"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 14 on-demand",
+        "after": "*Billed annually or $ 0.072 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$14",
+            "after": "$0.072"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 2.55 on-demand",
+        "after": "*Billed annually or $ 0.14 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.55",
+            "after": "$0.14"
+          }
+        ]
+      },
+      {
+        "before": "$ 2.30 per task ($ 3.30 on-demand)",
+        "after": "$ 2 per task ($ 2.90 on demand)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.30",
+            "after": "$2"
+          },
+          {
+            "before": "$3.30",
+            "after": "$2.90"
+          }
+        ]
+      },
+      {
+        "before": "**Billed annually or $ 0.36 on-demand",
+        "after": "*Billed annually or $ 12 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.36",
+            "after": "$12"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 2.20 on-demand",
+        "after": "*Billed annually or $ 30 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.20",
+            "after": "$30"
+          }
+        ]
+      },
+      {
+        "before": "**Billed annually or $ 2.60 on-demand",
+        "after": "*Billed annually or $ 18 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.60",
+            "after": "$18"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 29 on-demand",
+        "after": "*Billed annually or $ 2.55 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$29",
+            "after": "$2.55"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 29 on-demand",
+        "after": "*Billed annually or $ 2.20 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$29",
+            "after": "$2.20"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 7.20 on-demand",
+        "after": "**Billed annually or $ 2.60 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$7.20",
+            "after": "$2.60"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 10.20 on-demand",
+        "after": "*Billed annually or $ 29 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$10.20",
+            "after": "$29"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 10.80 on-demand",
+        "after": "*Billed annually or $ 29 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$10.80",
+            "after": "$29"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 12 on-demand",
+        "after": "*Billed annually or $ 15 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$12",
+            "after": "$15"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 30 on-demand",
+        "after": "*Billed annually or $ 0.45 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$30",
+            "after": "$0.45"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 18 on-demand",
+        "after": "*Billed annually or $ 30 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$18",
+            "after": "$30"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 15 on-demand",
+        "after": "*Billed annually or $ 7.20 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$15",
+            "after": "$7.20"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 36 on-demand",
+        "after": "*Billed annually or $ 10.20 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$36",
+            "after": "$10.20"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 15 on-demand",
+        "after": "*Billed annually or $ 0.94 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$15",
+            "after": "$0.94"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 0.10 Per event evaluated by a correlation pattern",
+      "(Datadog generated events are free)",
+      "Unlimited Sources",
+      "Start Free Trial",
+      "**Billed annually or $ 0.36 on-demand",
+      "Start Free Trial",
+      "$ 5 Per active* step function,",
+      "**Billed annually or $ 7.20 on-demand",
+      "Start Free Trial",
+      "**Billed annually or $ 15 on-demand",
+      "Start Free Trial",
+      "Span Ingestion: 50GB Ingested Spans",
+      "per 1M traced invocations; then $ 0.10 /GB. Span Retention: 300 thousand Indexed Spans",
+      "per 1M traced invocations; then $ 1.70 per 1 million Indexed Spans with 15-day retention (billed annually or $ 2.55 on-demand). See APM common questions",
+      "*Billed annually or $ 14 on-demand",
+      "Start Free Trial",
+      "Yes, App Builder is already available in your account and it is free to start using. We will reach out to you about pricing once your apps start having a meaningful amount of query executions.",
+      "$ 70 Per database host,",
+      "$ 0.05 Per host, per hour*",
+      "Unlimited users",
+      "15 days for job execution traces and 15 months for metrics.",
+      "Assume we see this usage pattern once a day for 30 days. This would result in a monthly total of 50 x 30 = 1,500 billable DJM host hours.",
+      "DJM job execution traces generate Span Ingestion and Span Indexing usage, which may lead to additional charges beyond the allotted 0.205 GB Ingested Spans & 1,370 Indexed Spans per DJM host, per hour. Enabling Spark log collection (optional) when using DJM is billed via Datadog Log Management."
+    ],
+    "removed": [
+      "Real-time threat detection, intelligence, and investigation across 15 months of data",
+      "Unlimited Sources",
+      "Datadog offers an allotment of 6 million NPM flows for every host monitored with network monitoring. NPM flows are averaged across your entire account, not just on a per-host basis. Beyond this limit, Datadog charges $ 1.27 / million NPM flows, although it is rare for our customers to exceed the included volume.",
+      "Datadog offers an allotment of 1000 traps for every device per month, counted in aggregate across your entire account, not just on a per-device basis. Beyond this limit, Datadog reserves the right to charge $ 2.55 / million traps, although we are not currently billing customers for traps.",
+      "$ 2 per task ($ 2.90 on demand)"
+    ],
+    "totals": {
+      "removed": 950,
+      "added": 1079,
+      "materialRemoved": 99,
+      "materialAdded": 117
+    }
+  },
+  {
+    "id": "datadoghq-com-pricing-20240917084718",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20240917084718",
+    "date": "2024-09-17",
+    "source": "wayback",
+    "prevTs": "20240714140101",
+    "kind": "price",
+    "score": 66,
+    "counts": {
+      "price": 15,
+      "limit": 4,
+      "plan": 7
+    },
+    "material": true,
+    "headline": "Datadog: 15 prices, 4 limits, 7 plan names changed ($0.072 → $0.10; 15 → 90)",
+    "pairs": [
+      {
+        "before": "*Billed annually or $ 0.072 on-demand",
+        "after": "**Billed annually or $ 0.10 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.072",
+            "after": "$0.10"
+          }
+        ]
+      },
+      {
+        "before": "15 days for job execution traces and 15 months for metrics.",
+        "after": "90 days for job execution traces and 15 months for metrics.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "15",
+            "after": "90"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Yes, LLM Observability is already available in your account and it is free to start using. We will reach out to you about pricing once your instrumented LLM apps start submitting meaningful number of LLM requests.",
+      "$ 2 per task ($ 2.90 on demand)",
+      "$ 0.10 Per ingested or scanned GB,",
+      "**Billed annually or $ 0.10 on-demand",
+      "$ 0.05 Per million events stored,",
+      "Flexible long-term retention up to 15 months without the need to rehydrate",
+      "*Minimum retention of 1 month up to 15 months",
+      "**Billed annually or $ 0.075 on-demand",
+      "$ 0.05 Per instance-hour,",
+      "Start Free Trial",
+      "$ 0.60 Per million events stored,",
+      "Retention options of 6 months, 12 months, and 15 months",
+      "Bundled Starter Compute for log volumes below 2B per month (10B total stored)",
+      "*Minimum retention of 6 months, options for 12 and 15 months",
+      "**Billed annually or $ 0.90 on-demand",
+      "Start Free Trial",
+      "$ 1 per task ($ 1.40 on demand)",
+      "No. Synthetic RUM data collection comes free of charge with Synthetic Testing and Monitoring.",
+      "$ 1 per task ($ 1.40 on demand)",
+      "$ 20 Per host,",
+      "Start Free Trial",
+      "*Billed annually or $ 29 on-demand",
+      "Start Free Trial",
+      "Start Free Trial",
+      "*Billed annually or $ 0.072 on-demand",
+      "Start Free Trial",
+      "Unlimited users",
+      "**Ingestion starts at $0.10 per ingested or scanned GB, per month"
+    ],
+    "removed": [
+      "Get Started Free",
+      "Unlimited users"
+    ],
+    "totals": {
+      "removed": 87,
+      "added": 234,
+      "materialRemoved": 12,
+      "materialAdded": 38
+    }
+  },
+  {
+    "id": "datadoghq-com-pricing-20241107022200",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20241107022200",
+    "date": "2024-11-07",
+    "source": "wayback",
+    "prevTs": "20240917084718",
+    "kind": "price",
+    "score": 52,
+    "counts": {
+      "price": 14,
+      "limit": 3,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Datadog: 14 prices, 3 limits, 2 plan names changed ($29 → $18; $30 → $0.36)",
+    "pairs": [
+      {
+        "before": "*Billed annually or $ 29 on-demand",
+        "after": "*Billed annually or $ 18 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$29",
+            "after": "$18"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 30 on-demand",
+        "after": "**Billed annually or $ 0.36 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$30",
+            "after": "$0.36"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Flex Logs are metered on an hourly basis per million events stored. Each million events stored is billed for a minimum of 30 days, or a minimum of $0.05. For example, if one million logs are retained for 60 days, this will be charged for every 30 days that they are stored.",
+      "$ 30 Per seat,",
+      "*Billed annually or $ 36 billed month-to-month",
+      "No. All users have access to create unlimited incidents, postmortems, and integrations.",
+      "$ 15 Per host, per month*",
+      "Unlimited users",
+      "Map history is stored for 30 days and all metrics are retained for 15 months.",
+      "Start Free Trial",
+      "Start Free Trial"
+    ],
+    "removed": [
+      "500K-999.9K",
+      "1M-4.9M",
+      "5M-9.9M",
+      "10M-19.9M",
+      "Price per 100 per month",
+      "$ 4.00",
+      "$ 3.50",
+      "$ 3.00",
+      "$ 2.50",
+      "$ 1.00",
+      "$ 20 Per committer,",
+      "Free up development time by improving pipeline speed and reliability",
+      "$ 20 Per user,",
+      "**Billed annually or $ 0.36 on-demand"
+    ],
+    "totals": {
+      "removed": 146,
+      "added": 155,
+      "materialRemoved": 23,
+      "materialAdded": 18
+    }
+  },
+  {
+    "id": "datadoghq-com-pricing-20250105185715",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20250105185715",
+    "date": "2025-01-05",
+    "source": "wayback",
+    "prevTs": "20241107022200",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Datadog: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Unlimited User Accounts",
+      "Unlimited User Accounts"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 104,
+      "added": 160,
+      "materialRemoved": 2,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "datadoghq-com-pricing-20250201202349",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20250201202349",
+    "date": "2025-02-01",
+    "source": "wayback",
+    "prevTs": "20250105185715",
+    "kind": "price",
+    "score": 29,
+    "counts": {
+      "price": 9,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Datadog: 9 prices, 1 plan name changed ($0.14 → $29; $15 → $43.20)",
+    "pairs": [
+      {
+        "before": "*Billed annually or $ 0.14 on-demand",
+        "after": "*Billed annually or $ 29 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.14",
+            "after": "$29"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 15 on-demand",
+        "after": "*Billed annually or $ 43.20 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$15",
+            "after": "$43.20"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 20 Per seat,",
+      "Unlimited on-call schedules, escalations, and routing rules",
+      "$ 40 Per seat,",
+      "*Billed annually or $ 58 on-demand",
+      "No, seat holders have access to create unlimited pages, schedules, escalation policies, incidents, and postmortems.",
+      "*Billed annually or $ 0.14 on-demand",
+      "Start Free Trial"
+    ],
+    "removed": [
+      "$ 10 Per host,",
+      "$ 1 per task ($ 1.40 on demand)",
+      "*Billed annually or $ 36 billed month-to-month",
+      "No. All users have access to create unlimited incidents, postmortems, and integrations."
+    ],
+    "totals": {
+      "removed": 123,
+      "added": 159,
+      "materialRemoved": 14,
+      "materialAdded": 17
+    }
+  },
+  {
+    "id": "datadoghq-com-pricing-20250326111401",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20250326111401",
+    "date": "2025-03-26",
+    "source": "wayback",
+    "prevTs": "20250201202349",
+    "kind": "price",
+    "score": 183,
+    "counts": {
+      "price": 51,
+      "limit": 12,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Datadog: 51 prices, 12 limits, 3 plan names changed ($0.14 → $10.20; $15 → $0.45)",
+    "pairs": [
+      {
+        "before": "*Billed annually or $ 0.14 on-demand",
+        "after": "*Billed annually or $ 10.20 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.14",
+            "after": "$10.20"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 15 on-demand",
+        "after": "*Billed annually or $ 0.45 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$15",
+            "after": "$0.45"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 72 on-demand",
+        "after": "*Billed annually or $ 13 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$72",
+            "after": "$13"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 14 on-demand",
+        "after": "*Billed annually or $ 30 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$14",
+            "after": "$30"
+          }
+        ]
+      },
+      {
+        "before": "**Billed annually or $ 0.36 on-demand",
+        "after": "*Billed annually or $ 36 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.36",
+            "after": "$36"
+          }
+        ]
+      },
+      {
+        "before": "*Cloud SIEM is billed annually or $ 7.50 on-demand",
+        "after": "*Billed annually or $ 15 on-demand",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "$7.50",
+            "after": "$15"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 12 on-demand",
+        "after": "*Billed annually or $ 27 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$12",
+            "after": "$27"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 30 on-demand",
+        "after": "*Billed annually or $ 12 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$30",
+            "after": "$12"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 18 on-demand",
+        "after": "*Billed annually or $ 7.20 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$18",
+            "after": "$7.20"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 12 on-demand",
+        "after": "*Billed annually or $ 18 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$12",
+            "after": "$18"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 29 on-demand",
+        "after": "*Billed annually or $ 72 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$29",
+            "after": "$72"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 43.20 on-demand",
+        "after": "*Billed annually or $ 114 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$43.20",
+            "after": "$114"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 58 on-demand",
+        "after": "*Billed annually or $ 29 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$58",
+            "after": "$29"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 29 on-demand",
+        "after": "*Billed annually or $ 51 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$29",
+            "after": "$51"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 13 on-demand",
+        "after": "*Billed annually or $ 29 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$13",
+            "after": "$29"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 36 on-demand",
+        "after": "*Billed annually or $ 43.20 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$36",
+            "after": "$43.20"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 0.45 on-demand",
+        "after": "*Billed annually or $ 58 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.45",
+            "after": "$58"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 7.20 on-demand",
+        "after": "*Billed annually or $ 0.14 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$7.20",
+            "after": "$0.14"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 10.20 on-demand",
+        "after": "*Billed annually or $ 14 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$10.20",
+            "after": "$14"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 0.94 on-demand",
+        "after": "**Billed annually or $ 36 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.94",
+            "after": "$36"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 18 on-demand",
+        "after": "*Billed annually or $ 0.94 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$18",
+            "after": "$0.94"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 114 on-demand",
+        "after": "*Billed annually or $ 12 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$114",
+            "after": "$12"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 29 on-demand",
+        "after": "*Billed annually or $ 18 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$29",
+            "after": "$18"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 35 per published app",
+      "Yes, App Builder is already available in your account and it is free to start using. App Builder becomes paid once you publish an app.",
+      "50k errors",
+      "100k errors",
+      "300k errors",
+      "500k errors",
+      "1M errors",
+      "3M errors",
+      "5M errors",
+      "10M errors",
+      "15M errors",
+      "20M errors",
+      "25M errors",
+      "30M errors",
+      "35M errors",
+      "40M errors",
+      "45M errors",
+      "50M errors",
+      "Error Tracking is billed according to your monthly volume of errors. Monthly error volumes below 50k errors will be billed at the flat rate of $ 25 per month or $ 36 on-demand. For monthly error volumes over 50k, the cost per 1,000 errors will be billed as follows:",
+      "cost per 1k errors, per month",
+      "cost per 1k errors, per month",
+      "cost per 1k errors, per month",
+      "> 50k - 100k errors",
+      "$ 0.25",
+      "$ 0.30",
+      "$ 0.38",
+      "> 100k - 500k errors",
+      "$ 0.21",
+      "$ 0.25",
+      "$ 0.32",
+      "> 500k - 10M errors",
+      "$ 0.17",
+      "$ 0.20",
+      "$ 0.26",
+      "> 10M - 20M errors",
+      "$ 0.12",
+      "$ 0.14",
+      "$ 0.22",
+      "> 20M+ errors",
+      "$ 0.10"
+    ],
+    "removed": [
+      "Unlimited User Accounts",
+      "Unlimited User Accounts",
+      "Unlimited User Accounts",
+      "Unlimited User Accounts",
+      "Unlimited user accounts",
+      "Yes, App Builder is already available in your account and it is free to start using. We will reach out to you about pricing once your apps start having a meaningful amount of query executions.",
+      "$ 0.25 Per 1k error events, per month*",
+      "Unlimited user accounts"
+    ],
+    "totals": {
+      "removed": 1100,
+      "added": 1032,
+      "materialRemoved": 117,
+      "materialAdded": 164
+    }
+  },
+  {
+    "id": "datadoghq-com-pricing-20250404055521",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20250404055521",
+    "date": "2025-04-04",
+    "source": "wayback",
+    "prevTs": "20250326111401",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Datadog: 3 prices changed ($13 → $36)",
+    "pairs": [
+      {
+        "before": "*Billed annually or $ 13 on-demand",
+        "after": "*Billed annually or $ 36 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$13",
+            "after": "$36"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "**Billed annually or $ 13 on-demand",
+      "$ 31 Per host,"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 20,
+      "materialRemoved": 2,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "datadoghq-com-pricing-20250502100113",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20250502100113",
+    "date": "2025-05-02",
+    "source": "wayback",
+    "prevTs": "20250404055521",
+    "kind": "price",
+    "score": 31,
+    "counts": {
+      "price": 9,
+      "limit": 0,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Datadog: 9 prices, 2 plan names changed ($43.20 → $18)",
+    "pairs": [
+      {
+        "before": "*Billed annually or $ 43.20 on-demand",
+        "after": "*Billed annually or $ 18 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$43.20",
+            "after": "$18"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "$ 36 Per host,",
+      "$ 40 Per host,",
+      "*Billed annually or $ 48 on-demand",
+      "$ 45 Per host,",
+      "*Billed annually or $ 54 on-demand",
+      "Start Free Trial",
+      "*Billed annually or $ 18 on-demand",
+      "Start Free Trial",
+      "$ 2 per task ($ 2.90 on demand)",
+      "Additional hosts start at $12 for Runtime SCA and $24 for Runtime Code Analysis (IAST)."
+    ],
+    "totals": {
+      "removed": 124,
+      "added": 68,
+      "materialRemoved": 16,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "datadoghq-com-pricing-20250610002147",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20250610002147",
+    "date": "2025-06-10",
+    "source": "wayback",
+    "prevTs": "20250502100113",
+    "kind": "price",
+    "score": 66,
+    "counts": {
+      "price": 15,
+      "limit": 5,
+      "plan": 6
+    },
+    "material": true,
+    "headline": "Datadog: 15 prices, 5 limits, 6 plan names changed ($2.20 → $0.22; $1.50 → $0.15)",
+    "pairs": [
+      {
+        "before": "*Billed annually or $ 2.20 on-demand",
+        "after": "*Billed annually or $ 0.22 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.20",
+            "after": "$0.22"
+          }
+        ]
+      },
+      {
+        "before": "$ 1.50 Per 1,000 sessions, per month*",
+        "after": "$ 0.15 Per 1,000 sessions,",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$1.50",
+            "after": "$0.15"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 2.60 on-demand",
+        "after": "*Billed annually or $ 4.50 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.60",
+            "after": "$4.50"
+          }
+        ]
+      },
+      {
+        "before": "$ 1.80 Per 1,000 sessions, per month*",
+        "after": "$ 3 Per 1,000 sessions,",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$1.80",
+            "after": "$3"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 8 Per 10K monitored LLM requests*,",
+      "Start Free Trial",
+      "*Billed annually or $ 12 on-demand",
+      "**Minimum of 100K LLM requests per month",
+      "Start Free Trial",
+      "You do not have to purchase SDS separately for LLM Observability. For every 10K LLM requests, you have an allotment of 1 GB of Sensitive Data Scanner.",
+      "Traces are retained for 15 days by default, while metrics are retained for 15 months.",
+      "$ 0.80 Per 1,000 sessions,",
+      "Track long-term trends with data retention starting at 15 months to assess the lasting impact of product changes.",
+      "*Billed annually or $ 1.15 on-demand",
+      "Start Free Trial",
+      "$ 2.50 Per 1,000 sessions,",
+      "*Billed annually or $ 3.60 on-demand",
+      "Start Free Trial",
+      "Behavioral data in Product Analytics is retained for a minimum of 15 months, so you can analyze long-term adoption and validate the lasting impact of product changes over time. By default, Session Replays will be retained for 30 days.",
+      "Can I get more than 15 months retention?",
+      "Retain sessions, views, and errors for 30 days, with 15-day retention for resources, long tasks, and vitals.",
+      "$ 2.50 Per 1,000 sessions,",
+      "*Billed annually or $ 3.60 on-demand",
+      "Start Free Trial",
+      "Retained sessions are stored for 30 days for deep troubleshooting. You can also add Session Replay to any retained session for a visual playback of the user experience. Replay sessions are billed separately at $2.50 per 1,000 sessions.",
+      "The retention policy for RUM sessions and session replays is 30 days. With OOTB metrics are generated on 100% of sessions (RUM Measure SKU) and are retained for 15 months.",
+      "these will computed on 100% of your traffic, retained for 15 months, and charged as additional metrics ( learn more",
+      "$ 4 Per device,",
+      "*Billed annually or $ 5.76 on-demand",
+      "Start Free Trial"
+    ],
+    "removed": [
+      "Yes, LLM Observability is already available in your account and it is free to start using. We will reach out to you about pricing once your instrumented LLM apps start submitting meaningful number of LLM requests."
+    ],
+    "totals": {
+      "removed": 96,
+      "added": 307,
+      "materialRemoved": 6,
+      "materialAdded": 31
+    }
+  },
+  {
+    "id": "datadoghq-com-pricing-20250701184856",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20250701184856",
+    "date": "2025-07-01",
+    "source": "wayback",
+    "prevTs": "20250610002147",
+    "kind": "price",
+    "score": 8,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Datadog: 2 prices, 1 plan name changed ($1.15 → $1.20)",
+    "pairs": [
+      {
+        "before": "*Billed annually or $ 1.15 on-demand",
+        "after": "*Billed annually or $ 1.20 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.15",
+            "after": "$1.20"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 0",
+      "Start Free Trial"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 15,
+      "added": 82,
+      "materialRemoved": 4,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "datadoghq-com-pricing-20250803003408",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20250803003408",
+    "date": "2025-08-03",
+    "source": "wayback",
+    "prevTs": "20250701184856",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Datadog: 2 prices changed ($0.10 → $0.095)",
+    "pairs": [
+      {
+        "before": "$ 0.10 Per ingested GB",
+        "after": "$ 0.095 Per ingested GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.10",
+            "after": "$0.095"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Start Your Free Datadog Trial Now"
+    ],
+    "removed": [
+      "*** Billed annually per vCPU allocated to Observability Pipelines Worker, or $3.00 per vCPU per hour on-demand"
+    ],
+    "totals": {
+      "removed": 9,
+      "added": 6,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "datadoghq-com-pricing-20250906013456",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20250906013456",
+    "date": "2025-09-06",
+    "source": "wayback",
+    "prevTs": "20250803003408",
+    "kind": "price",
+    "score": 14,
+    "counts": {
+      "price": 2,
+      "limit": 2,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Datadog: 2 prices, 2 limits, 2 plan names changed (6 → 3; 6 → 3)",
+    "pairs": [
+      {
+        "before": "Retention options of 6 months, 12 months, and 15 months",
+        "after": "Retention options of 3 months, 6 months, 12 months, and 15 months",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "6",
+            "after": "3"
+          },
+          {
+            "before": "12",
+            "after": "6"
+          },
+          {
+            "before": "15",
+            "after": "12"
+          },
+          {
+            "before": null,
+            "after": "15"
+          }
+        ]
+      },
+      {
+        "before": "*Minimum retention of 6 months, options for 12 and 15 months",
+        "after": "*Minimum retention of 3 months, options for 6, 12, and 15 months",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "6",
+            "after": "3"
+          },
+          {
+            "before": "12",
+            "after": "6,"
+          },
+          {
+            "before": "15",
+            "after": "12,"
+          },
+          {
+            "before": null,
+            "after": "15"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 3 Per autoscaled vCPU",
+      "Start Free Trial",
+      "**Billed annually or $ 4.32 on-demand",
+      "Start Free Trial"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 48,
+      "materialRemoved": 2,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "datadoghq-com-pricing-20251002135925",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20251002135925",
+    "date": "2025-10-02",
+    "source": "wayback",
+    "prevTs": "20250906013456",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Datadog: 1 limit changed (3 → 15)",
+    "pairs": [
+      {
+        "before": "– Query metrics are retained for 3 months",
+        "after": "Query metrics are retained for 15 months",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3",
+            "after": "15"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 8,
+      "added": 10,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "datadoghq-com-pricing-20251106114710",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20251106114710",
+    "date": "2025-11-06",
+    "source": "wayback",
+    "prevTs": "20251002135925",
+    "kind": "price",
+    "score": 96,
+    "counts": {
+      "price": 18,
+      "limit": 13,
+      "plan": 8
+    },
+    "material": true,
+    "headline": "Datadog: 18 prices, 13 limits, 8 plan names changed ($7.20 → $4.32; $4.32 → $9)",
+    "pairs": [
+      {
+        "before": "**Billed annually or $ 7.20 on-demand",
+        "after": "**Billed annually or $ 4.32 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$7.20",
+            "after": "$4.32"
+          }
+        ]
+      },
+      {
+        "before": "**Billed annually or $ 4.32 on-demand",
+        "after": "**Billed annually or $ 9 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$4.32",
+            "after": "$9"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "applications. Running the Datadog Agent is not required for Mobile Devices. The APM price is based on the ingested and indexed spans volume (note: by default, spans are indexed for 15 days).",
+      "Stay lean while you grow. Get one year of free Datadog Pro. Apply now",
+      "Experiment results are retained for 90 days by default, separate from trace retention. Datasets themselves are versioned and persist for 3 years by default, so you can always rerun experiments against the same baseline or compare results across versions.",
+      "Unlimited number of status pages with custom domains",
+      "Unlimited incident automations",
+      "Unlimited number of status pages",
+      "Unlimited incident automations",
+      "$ 3 Per active application instance*",
+      "$ 6 Per actively traced application instance* per month**",
+      "*Average over the 5 minute interval of active application instances",
+      "**Billed annually or $ 9 on-demand",
+      "Start Free Trial",
+      "*Average over the 5 minute interval of active application instances",
+      "**Billed annually or $ 4.32 on-demand",
+      "Start Free Trial",
+      "$ 6 Per active* application instance, per month**",
+      "**Billed annually or $ 9 on-demand",
+      "Start Free Trial",
+      "$ 3 Per active application instance* per month**",
+      "*Average over the 5 minute interval of active application instances",
+      "$ 6 Per actively traced application instance* per month**",
+      "*Average over the 5 minute interval of active application instances",
+      "**Billed annually or $ 9 on-demand",
+      "Start Free Trial",
+      "*Average over the 5 minute interval of active application instances",
+      "**Billed annually or $ 4.32 on-demand",
+      "Start Free Trial",
+      "$ 6 Per actively traced application instance* per month**",
+      "*Average over the 5 minute interval of active application instances",
+      "**Billed annually or $ 9 on-demand",
+      "Start Free Trial",
+      "$ 3 Per active application instance* per month**",
+      "*Average over the 5 minute interval of active application instances",
+      "**Billed annually or $ 4.32 on-demand",
+      "Start Free Trial",
+      "$ 6 Per actively traced application instance* per month**",
+      "*Average over the 5 minute interval of active application instances",
+      "**Billed annually or $ 7.20 on-demand",
+      "Start Free Trial",
+      "Each active application instance includes an allotment of 20 ingested custom metrics and 20 indexed custom metrics under application monitoring. The APM add-on offering provides 30GB of Ingested Spans"
+    ],
+    "removed": [
+      "Yes. However, any spans submitted from Azure Container Apps that go over your org’s current allotment will still be billed. Span Ingestion: 50GB Ingested Spans",
+      "per 1M traced invocations. Span Retention: 300 thousand Indexed Spans",
+      "per 1M traced invocations. See APM common questions",
+      "Yes. However, any spans submitted from Cloud Run that go over your org’s current allotment will still be billed. Span Ingestion: 50GB Ingested Spans",
+      "per 1M traced invocations. Span Retention: 300 thousand Indexed Spans",
+      "per 1M traced invocations. See APM common questions"
+    ],
+    "totals": {
+      "removed": 86,
+      "added": 290,
+      "materialRemoved": 13,
+      "materialAdded": 56
+    }
+  },
+  {
+    "id": "datadoghq-com-pricing-20251201101719",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20251201101719",
+    "date": "2025-12-01",
+    "source": "wayback",
+    "prevTs": "20251106114710",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Datadog: 2 prices changed (added “$ 0.03 per ingested GB,”)",
+    "pairs": [],
+    "added": [
+      "$ 0.03 per ingested GB,",
+      "**Billed annually or $ 0.045 on-demand"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 14,
+      "added": 62,
+      "materialRemoved": 1,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "datadoghq-com-pricing-20260101050357",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20260101050357",
+    "date": "2026-01-01",
+    "source": "wayback",
+    "prevTs": "20251201101719",
+    "kind": "price",
+    "score": 15,
+    "counts": {
+      "price": 3,
+      "limit": 1,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Datadog: 3 prices, 1 limit, 2 plan names changed (removed “$ 1 per task; includes an allotment of 5 cust…”; added “$ 500 Per 20 investigations,”)",
+    "pairs": [],
+    "added": [
+      "Unlimited Sources",
+      "$ 500 Per 20 investigations,",
+      "*Billed annually. Month-to-month plans available at $ 600 per 20 investigations, per month. On-demand billing at $ per investigation.",
+      "Start Free Trial",
+      "5 connections",
+      "100 connections",
+      "Start Free Trial"
+    ],
+    "removed": [
+      "$ 1 per task; includes an allotment of 5 custom metrics and 5 ingested custom metrics per function",
+      "Unlimited Sources"
+    ],
+    "totals": {
+      "removed": 214,
+      "added": 262,
+      "materialRemoved": 36,
+      "materialAdded": 41
+    }
+  },
+  {
+    "id": "datadoghq-com-pricing-20260201154515",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20260201154515",
+    "date": "2026-02-01",
+    "source": "wayback",
+    "prevTs": "20260101050357",
+    "kind": "price",
+    "score": 33,
+    "counts": {
+      "price": 7,
+      "limit": 3,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Datadog: 7 prices, 3 limits, 3 plan names changed (added “$ 0.50 Per job, per hour*”)",
+    "pairs": [],
+    "added": [
+      "$ 0.50 Per job, per hour*",
+      "*Billed annually or $ 0.72 on-demand",
+      "$ 0.10 Per job, per hour*",
+      "*Billed annually or $ 0.144 on-demand",
+      "Start Free Trial",
+      "Job 1, Run 1 duration: 3.4 hours",
+      "Job 2, Run 2 duration: 0.1 hours",
+      "Job 1, Run 2 duration: 5 hours",
+      "Job 2, Run 2 duration: 0.15 hours",
+      "Job 2, Run 3 duration: 0.25 hours",
+      "Data Observability: Jobs Monitoring for Clusters generates container monitoring usage for jobs on Kubernetes (K8s) and there is an allotment of 10 Jobs Monitoring containers per host.",
+      "$ 16 Per Monitored Table, per Month*",
+      "or $24 on-demand",
+      "Start Free Trial",
+      "*Billed annually or $ 24 on-demand",
+      "Start Free Trial"
+    ],
+    "removed": [
+      "Unlimited users"
+    ],
+    "totals": {
+      "removed": 37,
+      "added": 124,
+      "materialRemoved": 5,
+      "materialAdded": 20
+    }
+  },
+  {
+    "id": "datadoghq-com-pricing-20260301024814",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20260301024814",
+    "date": "2026-03-01",
+    "source": "wayback",
+    "prevTs": "20260201154515",
+    "kind": "price",
+    "score": 82,
+    "counts": {
+      "price": 21,
+      "limit": 4,
+      "plan": 6
+    },
+    "material": true,
+    "headline": "Datadog: 21 prices, 4 limits, 6 plan names changed ($36 → $12; $42 → $100)",
+    "pairs": [
+      {
+        "before": "*Billed annually or $ 36 on-demand",
+        "after": "*Billed annually or $ 12 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$36",
+            "after": "$12"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 42 on-demand",
+        "after": "**Billed annually or $ 100 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$42",
+            "after": "$100"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 48 on-demand",
+        "after": "*Billed annually or $ 22 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$48",
+            "after": "$22"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 8 Per committer,",
+      "Start Free Trial",
+      "Start Free Trial",
+      "1M-10M MFCRs",
+      "10M+ MFCRs",
+      "$ 55 per month* **",
+      "Start Free Trial",
+      "cost per 1M MFCRs",
+      "cost per 1M MFCRs",
+      "cost per 1M MFCRs",
+      "< 1M",
+      "Free",
+      "1M - 10M",
+      "$ 55",
+      "$ 89",
+      "$ 100",
+      "$ 45",
+      "$ 73",
+      "$ 92",
+      "*With Infrastructure Monitoring attached: billed annually or $ 48 on-demand",
+      "*With Infrastructure Monitoring attached: billed annually or $ 54 on-demand",
+      "*With Infrastructure Monitoring attached: billed annually or $ 60 on-demand",
+      "No. APM, APM Pro, and APM Enterprise can be purchased standalone and do not require Infrastructure Monitoring. Standalone pricing is $ 36 for APM, $ 41 for APM Pro, and $ 47 for APM Enterprise, priced per host, per month, billed annually and available on-demand.",
+      "No. APM, APM Pro, and APM Enterprise can be purchased standalone and do not require Infrastructure Monitoring. Standalone pricing is $ 36 for APM, $ 41 for APM Pro, and $ 47 for APM Enterprise, priced per host, per month, billed annually and available on-demand.",
+      "No. APM, APM Pro, and APM Enterprise can be purchased standalone and do not require Infrastructure Monitoring. Standalone pricing is $ 36 for APM, $ 41 for APM Pro, and $ 47 for APM Enterprise, priced per host, per month, billed annually and available on-demand.",
+      "$ 15 Per committer,",
+      "Start Free Trial",
+      "$ 15 Per committer,",
+      "*Billed annually or $ 22 on-demand",
+      "Start Free Trial"
+    ],
+    "removed": [
+      "$ 0"
+    ],
+    "totals": {
+      "removed": 60,
+      "added": 127,
+      "materialRemoved": 4,
+      "materialAdded": 33
+    }
+  },
+  {
+    "id": "datadoghq-com-pricing-20260403235958",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20260403235958",
+    "date": "2026-04-03",
+    "source": "wayback",
+    "prevTs": "20260301024814",
+    "kind": "price",
+    "score": 100,
+    "counts": {
+      "price": 27,
+      "limit": 3,
+      "plan": 7
+    },
+    "material": true,
+    "headline": "Datadog: 27 prices, 3 limits, 7 plan names changed ($10.80 → $15; $2 → $2.60)",
+    "pairs": [
+      {
+        "before": "*Billed annually or $ 10.80 on-demand",
+        "after": "*Billed annually or $ 15 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$10.80",
+            "after": "$15"
+          }
+        ]
+      },
+      {
+        "before": "$ 2 per task ($ 2.90 on-demand)",
+        "after": "$ 2.60 per task ($ 3.70 on demand)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2",
+            "after": "$2.60"
+          },
+          {
+            "before": "$2.90",
+            "after": "$3.70"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 4.32 on-demand",
+        "after": "*Billed annually or $ 7.20 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$4.32",
+            "after": "$7.20"
+          }
+        ]
+      },
+      {
+        "before": "**Billed annually or $ 9 on-demand",
+        "after": "**Billed annually or $ 350 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$9",
+            "after": "$350"
+          }
+        ]
+      },
+      {
+        "before": "**Billed annually or $ 7.20 on-demand",
+        "after": "**Billed annually or $ 4.32 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$7.20",
+            "after": "$4.32"
+          }
+        ]
+      },
+      {
+        "before": "**Billed annually or $ 4.32 on-demand",
+        "after": "**Billed annually or $ 9 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$4.32",
+            "after": "$9"
+          }
+        ]
+      },
+      {
+        "before": "**Billed annually or $ 9 on-demand",
+        "after": "**Billed annually or $ 7.20 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$9",
+            "after": "$7.20"
+          }
+        ]
+      },
+      {
+        "before": "**Billed annually or $ 15 on-demand",
+        "after": "**Billed annually or $ 4.32 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$15",
+            "after": "$4.32"
+          }
+        ]
+      },
+      {
+        "before": "**Billed annually or $ 7.20 on-demand",
+        "after": "**Billed annually or $ 9 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$7.20",
+            "after": "$9"
+          }
+        ]
+      },
+      {
+        "before": "**Billed annually or $ 15 on-demand",
+        "after": "**Billed annually or $ 7.20 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$15",
+            "after": "$7.20"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Yes. We support AWS Fargate tasks at $ 2.60 per task when billed annually and $ 3.70 on-demand. APM also supports AWS Lambda ( see pricing info here",
+      "$ 5 Per host,",
+      "$ 275 per experiment launched*, billed annually**,",
+      "*Billing occurs once experiment reaches 3 days and 500 subjects. Volume discounts are available; talk to your Datadog representative for details.",
+      "Datadog Experiments is priced based on the number of successfully launched experiments. An experiment is considered successfully launched—and billable—once it reaches at least 500 total subjects and runs for a minimum of 3 days.",
+      "Start Free Trial",
+      "Start Free Trial",
+      "**Billed annually or $ 15 on-demand",
+      "Start Free Trial",
+      "**Billed annually or $ 15 on-demand",
+      "Start Free Trial",
+      "1M invocations",
+      "$ 5 Per 1,000 tests,",
+      "*Billed annually or $ 7.20 on-demand",
+      "Start Free Trial",
+      "$ 5 Per 1,000 tests,",
+      "*Billed annually or $ 7.20 on-demand",
+      "Start Free Trial",
+      "**Includes allotment of 100 free monthly Bits AI Security Analyst investigations per 1 billion events",
+      "All security log and signal data retained and indexed for 15 months",
+      "$ 0 Free",
+      "Start Free Trial",
+      "$ 5 Per $1,000 in cloud/SaaS spend,",
+      "*Billed annually or $ 7.20 on-demand",
+      "$ 10 Per $1,000 in cloud/SaaS spend,",
+      "Datadog Cost Visibility Free"
+    ],
+    "removed": [
+      "$ 5 per device; includes an allotment of 20 custom metrics and 20 ingested custom metrics per device",
+      "10GB span ingestion and 65,000 span retention, averaged across all your APM hosts",
+      "Yes. We support AWS Fargate tasks. Based on your APM plan, the price is $ 2 /$ 2 /$ 2.60 per task when billed annually and $ 2.90 /$ 2.90 /$ 3.70 when billed on-demand. APM also supports AWS Lambda ( see pricing info here",
+      "**Ingestion starts at $ 0.10 per ingested or scanned GB, per month",
+      "$ 7.50 Per host,"
+    ],
+    "totals": {
+      "removed": 495,
+      "added": 670,
+      "materialRemoved": 91,
+      "materialAdded": 112
+    }
+  },
+  {
+    "id": "datadoghq-com-pricing-20260502081410",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20260502081410",
+    "date": "2026-05-02",
+    "source": "wayback",
+    "prevTs": "20260403235958",
+    "kind": "price",
+    "score": 63,
+    "counts": {
+      "price": 13,
+      "limit": 7,
+      "plan": 5
+    },
+    "material": true,
+    "headline": "Datadog: 13 prices, 7 limits, 5 plan names changed ($12 → $0.50; $350 → $4.32)",
+    "pairs": [
+      {
+        "before": "*Billed annually or $ 12 on-demand",
+        "after": "*Billed annually or $ 0.50 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$12",
+            "after": "$0.50"
+          }
+        ]
+      },
+      {
+        "before": "**Billed annually or $ 350 on-demand",
+        "after": "**Billed annually or $ 4.32 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$350",
+            "after": "$4.32"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free",
+      "$ 0 per month",
+      "Up to 40K LLM spans / month",
+      "Unlimited context & evals",
+      "$ 160 per month",
+      "Unlimited context & evals",
+      "Unlimited context for unlimited ambition",
+      "$ 0.35 Per 1M objects monitored,",
+      "$ 3 Per active application instance* per month**",
+      "*Average over the 5 minute interval of active application instances",
+      "Start Free Trial",
+      "$ 6 Per actively traced application instance* per month**",
+      "*Average over the 5 minute interval of active application instances",
+      "**Billed annually or $ 9 on-demand",
+      "Start Free Trial",
+      "Each active application instance includes an allotment of 20 ingested custom metrics and 20 indexed custom metrics under application monitoring. The APM add-on offering provides 30GB of Ingested Spans",
+      "allotment to 195k. See APM common questions",
+      "$2.9 per active application instances ($4.40 on-demand)",
+      "$ 0.05 Per GB scanned * **",
+      "Start Free Trial",
+      "*No minimum scan size. No scan limits. Customers are billed proportionally to scan volume. Rehydrating logs or electing to retain results for longer than 24 hours will incur indexing costs.",
+      "**Billed annually at $0.05 per GB of committed scan capacity or monthly at $0.07 per GB scanned on-demand",
+      "Start Free Trial",
+      "Retain up to 100K results for 24 hours with no indexing charges",
+      "Archive Search lets you run precise ad-hoc searches directly on your archived logs in cold storage within Datadog, with no rehydration required. Results stream in real time and are retained for 24 hours, up to 100K logs.",
+      "Search results are retained for 24 hours, up to 100K logs, at no indexing cost. If you need to retain more than 100K results or keep results for longer than 24 hours, rehydration will incur standard indexing costs (Flex or Standard)."
+    ],
+    "removed": [
+      "$ 8 Per 10K monitored LLM requests*,",
+      "You do not have to purchase SDS separately for LLM Observability. For every 10K LLM requests, you have an allotment of 1 GB of Sensitive Data Scanner.",
+      "Traces are retained for 15 days by default, while metrics for traces are retained for 15 months.",
+      "Experiment results are retained for 90 days by default, separate from trace retention. Datasets themselves are versioned and persist for 3 years by default, so you can always rerun experiments against the same baseline or compare results across versions.",
+      "$ 275 per experiment launched*, billed annually**,",
+      "up to 1M MFCRs***",
+      "*Billing occurs once experiment reaches 3 days and 500 subjects. Volume discounts are available; talk to your Datadog representative for details."
+    ],
+    "totals": {
+      "removed": 77,
+      "added": 162,
+      "materialRemoved": 14,
+      "materialAdded": 33
+    }
+  },
+  {
+    "id": "datadoghq-com-pricing-20260605104727",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20260605104727",
+    "date": "2026-06-05",
+    "source": "wayback",
+    "prevTs": "20260502081410",
+    "kind": "price",
+    "score": 65,
+    "counts": {
+      "price": 16,
+      "limit": 5,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Datadog: 16 prices, 5 limits, 4 plan names changed (removed “$ 500 Per 20 investigations,”; added “$ 500 Per 500 credits,”)",
+    "pairs": [],
+    "added": [
+      "$ 500 Per 500 credits,",
+      "*Billed annually or $ 1.30 per credit on-demand.",
+      "0.3 credits",
+      "0.5 credits",
+      "0.6 credits",
+      "0.6 credits",
+      "0.7 credits",
+      "5 credits",
+      "6.5 credits",
+      "are available. Annual and monthly plans are billed per 500 credits. On-demand is billed per individual credit. We can customize billing plans to meet your needs. For a detailed explanation of billing, please see our Billing FAQ",
+      "$ 0.50 per GB of ingested spans,",
+      "Free",
+      "Start Free Trial",
+      "100K LLM spans per month included. Additional spans: $3.5 per 10K LLM spans.",
+      "Start Free Trial",
+      "The Free tier includes up to 40K LLM spans per month with 15-day retention, unlimited context, and unlimited evaluations — no credit card required. The Pro tier starts at $240 per month on-demand for the first 100K LLM spans, with lower rates at $200 per month month-to-month and $160 per month on an annual commitment.",
+      "$3.5 per 10K LLM spans (billed annually)",
+      "$4.20 per 10K LLM spans (billed month-to-month)",
+      "$5.00 per 10K LLM spans (billed on-demand)",
+      "Trace data is retained for 15 days by default, and trace metrics are retained for 15 months. Experiment results are retained for 15 days by default, and datasets are versioned and stored for 3 years so you can always rerun experiments against the same baseline.",
+      "30-day retention at $1.50 per 10K LLM spans per month (30-day trace retention, 6-month experiment retention)",
+      "60-day retention at $3 per 10K LLM spans per month (60-day trace retention, 9-month experiment retention)",
+      "90-day retention at $4 per 10K LLM spans per month (90-day trace retention, 12-month experiment retention)",
+      "**Ingestion starts at $ 0.10 per ingested or scanned GB, per month"
+    ],
+    "removed": [
+      "$ 500 Per 20 investigations,",
+      "*Billed annually. Month-to-month plans available at $ 600 per 20 investigations, per month. On-demand billing at $ per investigation.",
+      "Custom Metrics: As low as $ 1 per 100 ( see common questions",
+      "Beyond the volume of custom metrics allotted per host, Datadog charges as low as $1 per 100 custom metrics per month. Contact us",
+      "Free"
+    ],
+    "totals": {
+      "removed": 112,
+      "added": 172,
+      "materialRemoved": 17,
+      "materialAdded": 36
+    }
+  },
+  {
+    "id": "datadoghq-com-pricing-20260703034532",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20260703034532",
+    "date": "2026-07-03",
+    "source": "wayback",
+    "prevTs": "20260605104727",
+    "kind": "price",
+    "score": 14,
+    "counts": {
+      "price": 3,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Datadog: 3 prices, 3 limits changed (15 → 12; 15 → 12)",
+    "pairs": [
+      {
+        "before": "All security log and signal data retained and indexed for 15 months",
+        "after": "All security log and signal data retained and indexed for 12 months",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "15",
+            "after": "12"
+          }
+        ]
+      },
+      {
+        "before": "No, Cloud SIEM covers the retention of security signals for 15 months.",
+        "after": "No, Cloud SIEM covers the retention of security signals for 12 months.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "15",
+            "after": "12"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "$ 2.60 per task ($ 3.70 on-demand)",
+      "10GB span ingestion and 65,000 span retention, averaged across all your APM hosts, 1 profiled host",
+      "Yes. We support AWS Fargate tasks at $ 2.60 per task when billed annually and $ 3.70 on-demand. APM also supports AWS Lambda ( see pricing info here",
+      "**Ingestion starts at $ 0.10 per ingested or scanned GB, per month"
+    ],
+    "totals": {
+      "removed": 48,
+      "added": 74,
+      "materialRemoved": 9,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "datadoghq-com-pricing-20260818010129",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20260818010129",
+    "date": "2026-08-18",
+    "source": "wayback",
+    "prevTs": "20260703034532",
+    "kind": "price",
+    "score": 25,
+    "counts": {
+      "price": 4,
+      "limit": 5,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Datadog: 4 prices, 5 limits, 2 plan names changed (0.3 → 0.5; 0.5 → 3)",
+    "pairs": [
+      {
+        "before": "0.3 credits",
+        "after": "~0.5 credits",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "0.3",
+            "after": "0.5"
+          }
+        ]
+      },
+      {
+        "before": "0.5 credits",
+        "after": "~3 credits",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "0.5",
+            "after": "3"
+          }
+        ]
+      },
+      {
+        "before": "**Includes allotment of 100 free monthly Bits Security Analyst investigations per 1 billion events (minimum of 50 free monthly investigations)",
+        "after": "**Includes allotment of 100 free monthly Bits Security Analyst investigations per 1 TB analyzed (minimum of 50 free monthly investigations)",
+        "confidence": 0.77,
+        "deltas": [
+          {
+            "before": "1",
+            "after": "1TB"
+          }
+        ]
+      },
+      {
+        "before": "*Billed annually or $ 0.72 on-demand",
+        "after": "*Billed annually or $ 575 on-demand",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.72",
+            "after": "$575"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 450 per experiment,",
+      "Start Free Trial",
+      "Start Free Trial"
+    ],
+    "removed": [
+      "0.6 credits",
+      "0.6 credits",
+      "0.7 credits",
+      "The Free tier includes up to 40K LLM spans per month with 15-day retention, unlimited context, and unlimited evaluations — no credit card required. The Pro tier starts at $240 per month on-demand for the first 100K LLM spans, with lower rates at $200 per month month-to-month and $160 per month on an annual commitment.",
+      "$ 0.50 Per job, per hour*"
+    ],
+    "totals": {
+      "removed": 50,
+      "added": 47,
+      "materialRemoved": 21,
+      "materialAdded": 19
+    }
+  },
+  {
+    "id": "datadoghq-com-pricing-20260902202107",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260818010129",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Datadog: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

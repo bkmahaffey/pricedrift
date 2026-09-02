@@ -1,0 +1,184 @@
+[
+  {
+    "id": "elastic-co-pricing-20230513091641",
+    "url": "https://www.elastic.co/pricing",
+    "ts": "20230513091641",
+    "date": "2023-05-13",
+    "source": "wayback",
+    "prevTs": "20230109150458",
+    "kind": "limits",
+    "score": 8,
+    "counts": {
+      "price": 0,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Elastic Cloud: 4 limits changed (removed “Support response time SLAs (Urgent: 4 hrs; Hi…”; added “Urgent: 1 hour”)",
+    "pairs": [],
+    "added": [
+      "Urgent: 1 hour",
+      "High: 4 hours",
+      "Urgent: Self-managed: 1 hour",
+      "Elastic Cloud: 30 minutes",
+      "High: 4 hours"
+    ],
+    "removed": [
+      "Support response time SLAs (Urgent: 4 hrs; High: 1 day; Normal: 2 business days)",
+      "Enhanced support response time SLAs (Urgent: 1 hr; High: 4 hrs; Normal: 1 business day)",
+      "Enhanced support response time SLAs (Urgent: 1 hr; High: 4 hrs; Normal: 1 business day)"
+    ],
+    "totals": {
+      "removed": 9,
+      "added": 24,
+      "materialRemoved": 4,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "elastic-co-pricing-20240102035924",
+    "url": "https://www.elastic.co/pricing",
+    "ts": "20240102035924",
+    "date": "2024-01-02",
+    "source": "wayback",
+    "prevTs": "20230513091641",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Elastic Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Elastic Cloud on AWS gives users the ability to run pre-built SaaS solutions for enterprise search, observability, and security. Start a free trial."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 35,
+      "added": 49,
+      "materialRemoved": 4,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "elastic-co-pricing-20240301215653",
+    "url": "https://www.elastic.co/pricing",
+    "ts": "20240301215653",
+    "date": "2024-03-01",
+    "source": "wayback",
+    "prevTs": "20240102035924",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Elastic Cloud: 1 limit changed (1 → 120GB)",
+    "pairs": [
+      {
+        "before": "1 Based on cloud production config, 120 GB storage / 2 zones. Instance type usage-based pricing",
+        "after": "1 Based on cloud production config, 120 GB storage / 2 zones. Instance type usage-based pricing.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1",
+            "after": "120GB"
+          },
+          {
+            "before": "120GB",
+            "after": "2"
+          },
+          {
+            "before": "2",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 3,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "elastic-co-pricing-20250424014940",
+    "url": "https://www.elastic.co/pricing",
+    "ts": "20250424014940",
+    "date": "2025-04-24",
+    "source": "wayback",
+    "prevTs": "20240301215653",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Elastic Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Urgent: Self-managed: 1 hour"
+    ],
+    "totals": {
+      "removed": 45,
+      "added": 42,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "elastic-co-pricing-20260902202804",
+    "url": "https://www.elastic.co/pricing",
+    "ts": "20260902202804",
+    "date": "2026-09-02",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20250424014940",
+    "kind": "price",
+    "score": 29,
+    "counts": {
+      "price": 4,
+      "limit": 3,
+      "plan": 6
+    },
+    "material": true,
+    "headline": "Elastic Cloud: 4 prices, 3 limits, 6 plan names changed (removed “As low as $95 per month 1”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Start free trial",
+      "As low as $95 per month 1",
+      "Try free",
+      "Download free",
+      "As low as $109 per month 1",
+      "Try free",
+      "As low as $125 per month 1",
+      "Try free",
+      "Urgent: 1 hour",
+      "High: 4 hours",
+      "As low as $175 per month 1",
+      "Try free",
+      "Urgent: 30 minutes",
+      "High: 4 hours",
+      "1 Based on cloud production config, 120 GB storage / 2 zones. Instance type usage-based pricing.",
+      "Elastic Cloud on AWS gives users the ability to run pre-built SaaS solutions for enterprise search, observability, and security. Start a free trial."
+    ],
+    "totals": {
+      "removed": 149,
+      "added": 112,
+      "materialRemoved": 16,
+      "materialAdded": 0
+    }
+  }
+]

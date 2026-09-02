@@ -1,0 +1,354 @@
+For AI agents: a site index is available at /llms.txt. Append.md to any documentation, blog, changelog, or customer URL on this site to fetch its markdown source.
+⚡️ Announcing Depot Metal
+Depot
+Sign In
+Get started
+Menu
+Simple pricing for any team
+Start for free, collaborate with your team, scale to any size.
+Developer
+$20
+per month
+Perfect for solo devs, side-projects, and experiments.
+1 user
+Community support
+Unlimited concurrency
+Docker builds
+Depot CI
+GitHub Actions builds
+macOS M2 Runners
+Depot Registry
+Agent sandboxes
+Test results
+Usage caps
+Start a 7-day trial
+No credit card required
+Most popular
+Startup
+$200
+per month
+For teams building production applications.
+Unlimited users
+Everything in developer, plus:
+Email support
+User RBAC
+Start a 7-day trial
+No credit card required
+Business
+Custom
+Support and performance for businesses looking to scale.
+Ability to deploy in your AWS account
+Dedicated infrastructure
+GPU enabled builds
+Static outbound IPs
+Network firewall rules
+AWS PrivateLink
+SSO with SAML, SCIM
+Advanced compliance controls
+Audit logging
+Slack Connect support
+AWS Marketplace billing
+Schedule a call
+Flexible billing & payment options available
+Included monthly compute & storage
+With the Developer plan:
+500 Docker build minutes
+2,000 Depot CI minutes
+2,000 GitHub Actions minutes
+25 GB cache and registry storage
+1,000,000 passing test results
+With the Startup plan:
+5,000 Docker build minutes
+20,000 Depot CI minutes
+20,000 GitHub Actions minutes
+250 GB cache and registry storage
+1,000,000 passing test results
+For additional usage on Developer and Startup:
+Depot CI
+$0.00005 / second / vCPU
+GitHub Actions jobs
+$0.004 / minute
+Docker builds
+$0.04 / minute
+Cache storage
+$0.20 / GB / month
+Agent sandboxes
+$0.01 / minute
+Registry storage
+$0.20 / GB / month, free transfer
+Test results
+$0.000001 / passing test
+With the Business plan:
+Custom Docker build minutes
+Custom Depot CI minutes
+Custom GitHub Actions minutes
+Custom Agent sandboxes
+Custom cache and registry storage
+Custom passing test results
+Trusted by the best engineering teams
+"The most impactful project we did for Engineering last year was migrating to Depot. It was one week's effort and one month's lead time — yet it was the most impactful."
+Alonso Suarez
+Staff DevOps Engineer
+2.4x faster
+build times
+55%
+cost reduction
+"Do you wanna save money and go faster? Use Depot. Not trying Depot is basically saying I don't care about my developers, and I don't care about saving money."
+Jameel Al-Aziz
+CTO
+6x faster
+Docker builds
+50%
+cost reduction
+"Around here, we say PostHog ships weirdly fast, and you can't say PostHog ships weirdly fast if you're waiting for an hour and 45 minutes."
+Paul D'Ambra
+Technical Lead
+55x faster
+Docker builds
+193 → 3 min
+build time
+Compute sizes
+Available compute for Depot CI, GitHub Actions runners, and container builds.
+Depot CI
+Depot CI sandboxes can use from 2 vCPUs and 8 GB of memory up to 64 vCPUs and 256 GB. Billed per second per vCPU with no one minute minimum.
+See Depot CI docs
+Sandbox label
+CPUs
+Memory
+Size
+Price
+per second
+depot-ubuntu-24.04
+2
+8 GB
+2x8
+$0.0001
+depot-ubuntu-24.04-4
+4
+16 GB
+4x16
+$0.0002
+depot-ubuntu-24.04-8
+8
+32 GB
+8x32
+$0.0004
+depot-ubuntu-24.04-16
+16
+64 GB
+16x64
+$0.0008
+depot-ubuntu-24.04-32
+32
+128 GB
+32x128
+$0.0016
+depot-ubuntu-24.04-64
+64
+256 GB
+64x256
+$0.0032
+Depot CI minutes included with the base plan can be used for any sandbox size, consumed at the vCPU multiple rate.
+GitHub Actions Runners
+GitHub Actions builds can use from 2 vCPUs and 8 GB of memory up to 64 vCPUs and 256 GB. With support for Intel, Arm, and macOS runners. Billed per minute, tracked per second.
+See all runner types
+Actions runner label
+CPUs
+Memory
+Minute Multiple
+Price
+per minute
+depot-ubuntu-24.04
+2
+8 GB
+1x
+$0.004
+depot-ubuntu-24.04-4
+4
+16 GB
+2x
+$0.008
+depot-ubuntu-24.04-8
+8
+32 GB
+4x
+$0.016
+depot-ubuntu-24.04-16
+16
+64 GB
+8x
+$0.032
+depot-ubuntu-24.04-32
+32
+128 GB
+16x
+$0.064
+depot-ubuntu-24.04-64
+64
+256 GB
+32x
+$0.128
+GitHub Actions minutes included with the base plan can be used for any machine type, consumed at the minute multiple rate.
+Container Builds
+Docker builds can use from 16 vCPUs and 32 GB of memory up to 64 vCPUs and 128 GB, allowing for efficient, parallel computation of the Dockerfile graph. Billed per minute, tracked per second.
+See container build docs
+Container builder size
+CPUs
+Memory
+Minute Multiple
+Price
+per minute
+Default
+16
+32 GB
+1x
+$0.04
+Large
+32
+64 GB
+2x
+$0.08
+Extra large
+64
+128 GB
+4x
+$0.16
+Developer
+Start a 7-day trial
+Startup
+Start a 7-day trial
+Business
+Schedule a call
+Features
+Developer
+Startup
+Business
+Users
+1 user
+Unlimited
+Build concurrency
+Unlimited
+Docker build minutes included
+500
+5,000
+Custom
+GitHub Actions minutes included
+2,000
+20,000
+Custom
+Depot CI minutes included
+2,000
+20,000
+Custom
+Cache and registry storage included
+25 GB
+250 GB
+Custom
+Multi-platform builds
+Build Insights
+API Access
+Integrations
+Depot Registry
+Windows Runners
+Docker build autoscaling
+Agent Sandboxes
+Usage caps
+macOS M2 Runners
+GPU enabled builds
+×
+Compute
+Depot Cloud
+US & EU regions
+Custom regions
+×
+Dedicated infrastructure
+×
+Static outbound IPs
+×
+Network firewall rules
+×
+AWS PrivateLink
+×
+Deploy in your AWS account
+×
+Available
+Depot Cache
+GitHub Actions
+Docker
+Bazel
+Go
+Gradle
+Pants
+Turborepo
+sccache
+Test Results
+Test reporting and analytics
+Included passing test results
+1,000,000
+Custom
+Additional passing tests
+$0.000001 each
+Custom
+Failed, errored, and skipped tests
+Free
+Security and audit
+OIDC
+Egress Filtering
+RBAC
+×
+SSO (SAML & SCIM)
+×
+Optional ($500/mo)
+Audit Logging
+×
+Support and Billing
+Discord Community
+Email support
+×
+Slack Connect
+×
+AWS Marketplace
+×
+Invoice / ACH payment
+×
+Common questions
+Have any questions that aren't covered? Contact us
+.
+Which plan is right for me?
+The Developer plan is perfect for solo developers, side-projects, and experiments. It includes 500 Docker build minutes, 2,000 GitHub Actions minutes, 2,000 Depot CI minutes, and 1 user, with additional usage billed monthly.
+The Startup plan is great for teams building production applications. It includes 5,000 Docker build minutes, 20,000 GitHub Actions minutes, 20,000 Depot CI minutes, and unlimited users, with additional usage billed monthly.
+The Business plan is for dev teams looking to scale, and includes additional security controls and deployment models.
+What is Depot Cloud?
+Depot Cloud is fully-managed remote build infrastructure, including both compute and cache. With Depot Cloud, we handle the infrastructure and orchestration, with no need to manage your own build infrastructure. Depot Cloud runs on AWS, and is available in the us-east-1 and eu-central-1 regions.
+What is the usage granularity?
+Docker build minutes and GitHub Actions minutes are billed on a per-minute basis, tracked per second. Depot CI usage is billed per second based on vCPU-seconds. We don't enforce a one minute minimum, so if you run a 30 second Docker or GitHub Actions build, you'll only be billed for 30 seconds. Test results are billed per individual passing test.
+Can I self-host Depot? What is bring-your-own-compute?
+You can connect an AWS account to your Depot account and Depot will use that account for build compute and cache storage. This ensures that your build data is entirely under your control and allows you to access any private services in your account during the build. Additionally you can customize the types of machines used for your builds.
+Bring your own compute is available on the Business plan.
+Read more in our Depot Managed documentation
+Am I charged for build usage and storage?
+You are charged monthly for build usage and storage. See usage granularity above for how build time is measured.
+Storage is a single combined total that covers your container build cache, Depot Cache, and Depot Registry. All three draw from your plan's included storage, and anything above that amount is billed at $0.20 per GB per month. Storage is billed as the average storage used over the month, sampled hourly. Data transfer into and out of Depot Registry is free.
+How are test results billed?
+The Developer and Startup plans each include 1,000,000 passing test results per month at no charge. After that, it's $0.000001 per passing test, or $1 per 1 million tests. Failed, errored, and skipped tests are free.
+Read more in our test results documentation
+When will I be billed?
+Depot bills monthly on the 1st. If you sign up partway through a month, your first charge is prorated for the remaining days. Usage-based charges accrue through the month and appear on your next invoice on the 1st along with your plan charge for that month.
+Are there discounts for non-profits or open-source?
+Yes! Please contact us
+with more information about your project and for more details.
+Do you offer credits for startups?
+Yes, through our startup partner programs. Y Combinator companies can claim Depot credits from the YC deals page
+.
+Startups approved for PostHog for Startups
+receive a partner code worth $5,000 in Depot credits. See our PostHog for Startups documentation
+for how to redeem it and what it covers.
+Can I cap my usage so my bill doesn't run over?
+Yes, you can set self-imposed usage caps to control monthly usage. If you reach a cap, Depot will stop running builds until the next month or until you raise the cap. You can change these limits at any time.
+What payment methods are accepted?
+For the Developer and Startup plans, we support monthly payments via credit card using Stripe. For the Business plan, we additionally support invoice billing, ACH, and AWS Marketplace.
+Can I pay through the AWS Marketplace?
+Yes! We support AWS Marketplace billing on the Business plan. Contact us
+for more details.
+Your builds have never been this quick.
+Get started

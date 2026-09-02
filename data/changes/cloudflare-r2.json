@@ -1,0 +1,368 @@
+[
+  {
+    "id": "developers-cloudflare-com-r2-pricing-20231103143026",
+    "url": "https://developers.cloudflare.com/r2/pricing/",
+    "ts": "20231103143026",
+    "date": "2023-11-03",
+    "source": "wayback",
+    "prevTs": "20230316074557",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare R2: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 15,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-r2-pricing-20240109182342",
+    "url": "https://developers.cloudflare.com/r2/pricing/",
+    "ts": "20240109182342",
+    "date": "2024-01-09",
+    "source": "wayback",
+    "prevTs": "20231103143026",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare R2: 2 limits changed (2GB → 3GB)",
+    "pairs": [
+      {
+        "before": "Storing 2 GB for 15 days will be charged as 1 GB-month.",
+        "after": "Storing 3 GB constantly for 30 days will be charged as 3 GB-month.",
+        "confidence": 0.86,
+        "deltas": [
+          {
+            "before": "2GB",
+            "after": "3GB"
+          },
+          {
+            "before": "15",
+            "after": "30"
+          },
+          {
+            "before": "1GB",
+            "after": "3GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Storage is billed using gigabyte-month (GB-month) as the billing metric. A GB-month is calculated by averaging the peak storage per day over a billing period (30 days)",
+      "Storing 1 GB for 5 days, then 3 GB for the remaining 25 days will be charged as 1GB * 5/30 month + 3GB * 25/30 month = 2.66 GB-month"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 7,
+      "materialRemoved": 2,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-r2-pricing-20240517123032",
+    "url": "https://developers.cloudflare.com/r2/pricing/",
+    "ts": "20240517123032",
+    "date": "2024-05-17",
+    "source": "wayback",
+    "prevTs": "20240109182342",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Cloudflare R2: 1 plan name changed (added “Free 1”)",
+    "pairs": [],
+    "added": [
+      "Free 1",
+      "does not incur data transfer (egress) charges and is free. If you connect other, metered services to an R2 bucket, you may be charged by those services. ↩︎"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 25,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-r2-pricing-20240708152927",
+    "url": "https://developers.cloudflare.com/r2/pricing/",
+    "ts": "20240708152927",
+    "date": "2024-07-08",
+    "source": "wayback",
+    "prevTs": "20240517123032",
+    "kind": "price",
+    "score": 17,
+    "counts": {
+      "price": 4,
+      "limit": 1,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Cloudflare R2: 4 prices, 1 limit, 2 plan names changed (added “$0.01 / GB-month”)",
+    "pairs": [],
+    "added": [
+      "$0.01 / GB-month",
+      "$9.00 / million requests",
+      "$0.90 / million requests",
+      "$0.01 / GB",
+      "Free 1",
+      "Free tier",
+      "You can use the following amount of storage and operations each month for free. The free tier only applies to Standard storage.",
+      "30 days"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 10,
+      "added": 44,
+      "materialRemoved": 5,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-r2-pricing-20250101020258",
+    "url": "https://developers.cloudflare.com/r2/pricing/",
+    "ts": "20250101020258",
+    "date": "2025-01-01",
+    "source": "wayback",
+    "prevTs": "20240708152927",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare R2: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "does not incur data transfer (egress) charges and is free. If you connect other metered services to an R2 bucket, you may be charged by those services."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 96,
+      "added": 44,
+      "materialRemoved": 2,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-r2-pricing-20250211094055",
+    "url": "https://developers.cloudflare.com/r2/pricing/",
+    "ts": "20250211094055",
+    "date": "2025-02-11",
+    "source": "wayback",
+    "prevTs": "20250101020258",
+    "kind": "price",
+    "score": 19,
+    "counts": {
+      "price": 4,
+      "limit": 3,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Cloudflare R2: 4 prices, 3 limits, 1 plan name changed (removed “does not incur data transfer (egress) charges…”; added “If a user writes 10 objects in R2 for 1 month…”)",
+    "pairs": [],
+    "added": [
+      "If a user writes 10 objects in R2 for 1 month with an average size of 1 GB and requests 1,000 times per month, the estimated cost for the month would be:",
+      "Free Tier",
+      "(1,000 objects) * (1,000 reads per object)",
+      "$0.00",
+      "(1,000 objects) * (1 write per object)",
+      "$0.00",
+      "(10 objects) * (1 GB per object)",
+      "10 GB-months",
+      "$0.00",
+      "$0.00"
+    ],
+    "removed": [
+      "does not incur data transfer (egress) charges and is free. If you connect other metered services to an R2 bucket, you may be charged by those services."
+    ],
+    "totals": {
+      "removed": 35,
+      "added": 30,
+      "materialRemoved": 4,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-r2-pricing-20250703210548",
+    "url": "https://developers.cloudflare.com/r2/pricing/",
+    "ts": "20250703210548",
+    "date": "2025-07-03",
+    "source": "wayback",
+    "prevTs": "20250211094055",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare R2: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "can start using it. Currently, outside of standard R2 storage and operations, you will not be billed for your use of R2 Data Catalog. We will provide at least 30 days' notice before we make any changes or start charging for usage."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 36,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-r2-pricing-20250804022949",
+    "url": "https://developers.cloudflare.com/r2/pricing/",
+    "ts": "20250804022949",
+    "date": "2025-08-04",
+    "source": "wayback",
+    "prevTs": "20250703210548",
+    "kind": "price",
+    "score": 46,
+    "counts": {
+      "price": 8,
+      "limit": 11,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare R2: 8 prices, 11 limits changed (1,000GB added; 1,000 → 1GB)",
+    "pairs": [
+      {
+        "before": "(1,000 objects) * (1 GB per object)",
+        "after": "(1,000 objects) * (1 GB per object) = 1,000 GB-months",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": null,
+            "after": "1,000GB"
+          }
+        ]
+      },
+      {
+        "before": "(1,000 objects) * (1,000 reads per object)",
+        "after": "(1,000 objects) * (1 GB per object) = 1,000 GB-months",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "1,000",
+            "after": "1GB"
+          },
+          {
+            "before": null,
+            "after": "1,000GB"
+          }
+        ]
+      },
+      {
+        "before": "(1,000 objects) * (1 write per object)",
+        "after": "(1,000 objects) * (1 write per object) = 1,000 writes",
+        "confidence": 0.8,
+        "deltas": [
+          {
+            "before": null,
+            "after": "1,000"
+          }
+        ]
+      },
+      {
+        "before": "(10 objects) * (1 GB per object)",
+        "after": "(1,000 objects) * (1 GB per object) = 1,000 GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10",
+            "after": "1,000"
+          },
+          {
+            "before": null,
+            "after": "1,000GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "If you have used 1.1 GB-month, you will be billed for 2 GB-month.",
+      "If you have retrieved data (for infrequent access storage) for 1.1 GB, you will be billed for 2 GB.",
+      "The free tier only applies to Standard storage, and does not apply to Infrequent Access storage.",
+      "(1,000 objects) * (1 write per object) = 1,000 writes",
+      "(1,000 objects) * (1,000 reads per object) = 1 million reads",
+      "(1,000 objects) * (1 GB per object) = 1,000 GB",
+      "If a user writes 1,000 objects in R2 Infrequent Access storage with an average size of 1 GB, stores them for 5 days, and then deletes them (delete operations are free), and during those 5 days each object is read 1,000 times, the estimated cost for the month would be:",
+      "1,000 GB-months",
+      "$10.00",
+      "$9.00",
+      "(1,000 objects) * (1,000 reads per object) = 1 million reads",
+      "$0.90",
+      "1,000 GB",
+      "$10.00",
+      "$29.90",
+      "Note that the minimal storage duration for infrequent access storage is 30 days, which means the billable quantity is 1,000 GB-months, rather than 167 GB-months."
+    ],
+    "removed": [
+      "(1,000 objects) * (1,000 reads per object)",
+      "(1,000 objects) * (1 write per object)",
+      "If a user writes 10 objects in R2 for 1 month with an average size of 1 GB and requests 1,000 times per month, the estimated cost for the month would be:",
+      "10 GB-months",
+      "$0.00",
+      "$0.00",
+      "$0.00"
+    ],
+    "totals": {
+      "removed": 34,
+      "added": 54,
+      "materialRemoved": 20,
+      "materialAdded": 29
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-r2-pricing-20260803055902",
+    "url": "https://developers.cloudflare.com/r2/pricing/",
+    "ts": "20260803055902",
+    "date": "2026-08-03",
+    "source": "wayback",
+    "prevTs": "20250804022949",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare R2: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "can start using it. Currently, outside of standard R2 storage and operations, you will not be billed for your use of R2 Data Catalog. We will provide at least 30 days' notice before we make any changes or start charging for usage."
+    ],
+    "totals": {
+      "removed": 40,
+      "added": 13,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  }
+]

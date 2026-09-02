@@ -1,0 +1,258 @@
+10,000 search + 10,000 recommend requests/mo and 10,000 records/mo
+Free
+Free usage tier
+No credit card required. Free credits renew every month
+Start building for free
+Powerful, hosted search API to create fast and relevant search & navigation.
+$
+1.00
+*
+per 1,000 requests/mo
++1,000 records?
+*Standard Pricing. Premium Pricing below.
+Get a demo
+Flexible, hosted recommendation API with advanced programmatic control.
+$
+0.60
+per 1,000 requests/mo
+Available features and new releases below.
+Get a demo
+Pay-as-you-go-pricing
+Simple usage based pricing with no long term commitments.
+Volume discounts
+Discounts trigger as your usage grows, so you always get a fair price.
+Committed-use discounts
+Get additional discounts for annual or multi-year commitments.
+Request pricing
+Features
+Standard $
+1.00
+per 1,000 Search requests/mo + 1,000 records
+Premium $
+1.50
+per 1,000 Search requests/mo + 1,000 records
+Search API
+Pre-built UI Libraries
+Search Analytics?
+Event Analytics (Insights API)?
+Analytics Retention
+90 days
+A/B Testing?
+Synonyms
+10,000 per index
+Natural Language Processing (NLP)?
+Autocomplete?
+Rules (Merchandising & Intent detection)?
+10,000 per index
+Visual Editor?
+Personalization?
+Dynamic Synonym Suggestions?
+Dynamic Re-Ranking?
+Relevant sort (virtual replica)
+Additional team members
+10
+20
+Advanced APIs (Analytics and Monitoring)?
+Features
+$
+0.60
+per 1,000 Recommend requests/Month
+Recommendation API
+Pre-built UI Libraries
+Recommendations Analytics
+Coming soon
+Event Analytics (Insights API)
+Analytics Retention
+90 days
+Recommendations Merchandising
+Coming soon
+Related Products
+Frequently Bought Together
+Personalized Recommendations
+Coming soon
+Additional features
+Secure environment - 2FA, HTTPS, API keys
+Team Advanced Permissions
+Add-on
+Integration with Salesforce Commerce Cloud, Shopify, Magento
+Integration with Segment, Google Tag Manager?
+Support & Success
+Documentation & Community forum
+API Status updates
+Email and website support
+Algolia Academy?
+Live Webinars Resource Guidance?
+Professional services
+Algolia Blueprint
+Contact Sales
+Algolia Kickstart
+Contact Sales
+Algolia Guided Onboarding
+Contact Sales
+Algolia Quick Start for Shopify
+Contact Sales
+Algolia Quick Start for Crawler
+Contact Sales
+Algolia Quick Start for Sending Events
+Contact Sales
+Algolia Pulse
+Contact Sales
+Algolia Advisory 25
+Contact Sales
+Features
+Standard $1.00 per 1k search requests/mo + 1k records
+Premium $1.50 per 1k search requests/mo + 1k records
+Search API
+Pre-built UI Libraries
+Search Analytics?
+Event Analytics (Insights API)?
+Analytics Retention
+90 days
+A/B Testing?
+Synonyms
+10,000 per index
+Natural Language Processing (NLP)?
+Autocomplete?
+Rules (Merchandising & Intent detection)?
+Visual Editor?
+Personalization?
+Dynamic Synonym Suggestions?
+Dynamic Re-Ranking?
+Relevant sort (virtual replica)
+Additional team members
+10
+Advanced APIs (Analytics and Monitoring)?
+Features
+$ 0.60
+Per 1k Recommend requests/mo
+Recommendation API
+Pre-built UI Libraries
+Recommendations Analytics
+Coming soon
+Event Analytics (Insights API)
+Analytics Retention
+90 days
+Recommendations Merchandising
+Coming soon
+Related Products
+Frequently Bought Together
+Personalized Recommendations
+Coming soon
+Additional features
+Secure environment - 2FA, HTTPS, API keys
+Team Advanced Permissions
+Add-on
+Integration with Salesforce Commerce Cloud, Shopify, Magento
+Integration with Segment, Google Tag Manager?
+Support & Success
+Professional services
+Crawler
+Automatically extract and enrich your website content
+Distributed Search Network
+Easily distribute your search engine on up to 17 regions worldwide
+Dedicated infrastructure & Vault
+Protect your data with customizable IP restrictions and encryption at rest
+Extended Analytics Retention
+365 days of search analytics history
+Premier Platform Availability SLA
+Highest level 99.999% uptime guarantee
+Premier Support
+SLA guarantee on response times and dedicated account technical lead
+HIPAA
+Environment ready for your projects in the healthcare and wellness sector
+Request pricing
+Algolia Essential Foundation
+Everything you need to get started with Algolia. Access to our support team & online materials to give you the start that you need.
+Ensure your implementation is up and running with our 99.99% SLA.
+Request pricing
+Security & Compliance
+99.99% SLA
+Success Plan + Support
+Algolia Success Plan
+Standard Support
+Access to Algolia Academy & Onboarding
+Algolia Core Foundation
+Leverage sandbox infrastructure and unlock additional APIs and seats for your team & manage them through SSO.
+Request pricing
+Advanced Access & Admin Management
+Unlimited Team Users
+SSO
+Team Advanced Permissions
+Advanced APIs (Analytics & Monitoring)
+Security & Compliance
+99.99% SLA
+Success Plan + Support
+Algolia Success Plan
+Standard Support
+Access to Algolia Academy & Onboarding
+Sandbox
+Testing & Staging Environments Accessible
+Algolia Enterprise Foundation
+Meet with a Technical Algolia Expert every two weeks, to continuously improve your application.
+Benefit from periodic reviews of implementation health to review and improve your implementation and business goals.
+Request pricing
+Advanced Access & Admin Management
+Unlimited Team Users
+SSO
+Team Advanced Permissions
+Advanced API (analytics & monitoring)
+365 Analytics Retention
+Security and Compliance
+99.99% SLA
+Support and Services
+Bi-Weekly Technical Office Hours
+Periodic Reviews of Implementation Health
+Extended Support
+Advanced Success Plan
+Access to Algolia Academy & Onboarding
+Sandbox
+Testing & Staging Environments Accessible
+OEM Plans
+For companies building apps with embedded search and discovery.
+Request pricing
+Open source & Non-profit plans
+For qualifying open-source projects and charitable non-profit organizations.
+Learn more
+What is a Search request?
+A Search request is a group of one or more search operations sent in a single exchange. Search operations are triggered when a search is performed. In autocomplete and search-as-you-type implementations, a new search request is performed on every keystroke.
+In past Algolia plans, a single search would be counted per active search index. So Algolia would count a single search applied to 3 active indexes as 3 search “operations”. With the current pricing, in this example Algolia would count this as one search “request”. This greatly simplifies our pricing model for customers using federated search and for customers with multiple sorts (e.g. newest products, lowest cost, highest cost, etc.).
+For more details, please refer to our detailed documentation
+.
+What is a record? How do you count records?
+Simply put, a record is an item or object that contains data that someone would search (or get recommendations) for. The total number of records is equal to the sum of records that you have in all of your indices. Note that each pre-sort of your records creates a copy of the relevant pre-sorted records and as a result, increases your total record count.
+Each Search plan allows you to store a certain number of records at any given time. You can update, delete, or add as many records as you want as long as the total number of the indexed records does not exceed the inclusion of the plan. If you go over the inclusion, you’ll be charged an over-quota based on the maximum number of records you’ve reached. Depending on your plan, there may be an opportunity to pre-purchase additional records at the beginning of your contract period at a discounted pr
+Note: To offer flexibility, Algolia ignores the 3 days with the most records in each month before calculating the total number of records.
+What is a Recommend request?
+A Recommend request is triggered when a Recommend API call is performed to retrieve a list of recommendations for a specific item. Multiple Recommend requests can be batched within a single Recommend API call to improve network latency.
+What is a Search unit?
+A Search unit is used to represent a certain number of search requests (query only, free indexing ops) and records.
+A Search unit allows us to provide one metric per price level, instead of two separate ones, in an effort to simplify pricing for our customers.
+How many Search requests and records are included per Search unit?
+When using Pay-as-you go pricing (no contract or minimum commitment), each unit contains 1,000 search requests per month, and a maximum of 1,000 records. This way, one Search unit bought each month for twelve months will give 12,000 searches in one year, with a maximum of 1,000 records at any point in the year.
+When committing annually, you will get 12 Search units over a 12-month period including 12,000 search requests for twelve months and a maximum of 1,000 records at any point in the year.
+The minimum commitment for a year is 1,200 Search units.
+If your use case includes higher record volumes than what is provided by this model, please contact sales
+.
+If fewer Search units are used than included in what I purchased, they do not roll over to the following service period.
+How are requests powering Browse and Navigation experiences counted?
+Browse and Navigation experiences rely on the same Search requests as search results pages, but are instead powered by a click (of a page or filter) rather than a query string.
+Who owns my data?
+You do. You retain ownership of all the data you send to your user account.
+What happens if I exceed my committed usage?
+If you exceed your committed usage overages will be charged. For Standard Search plans, the cost is $1 / extra unit. For Premium Search plans, the cost is $1.50 / extra unit. For Recommend, the cost is $0.60 / extra 1,000 Recommend requests.
+Is there a free plan?
+Yes! We know you’ll love Algolia, that's why we make it free for you to get up and running in no time, and see how you and your customers can benefit from our technology. We offer a free plan (with a maximum of 500 Search units and 500,000 Recommend requests included) with many of our Premium Search features, including our Search API, Recommend API, community support & documentation. Get started for free here
+.
+Can I extend the retention period of the analytics data?
+Yes, we are providing 90-day retention for data for all new customers and can extend to 365-day as an add-on.
+How does pricing scale as I use Algolia for more Search requests?
+Algolia’s pricing offers volume-based discounts and committed use discounts.
+There are three main levers to consider - how many Search units will be consumed, the product edition in use (Standard or Premium) and whether or not you are using Algolia in a pay-as-you-go (PAYGO) model, or annual commitment model.
+When committing to the equivalent of 100 Search units per month or more, you automatically unlock a discount compared to PAYGO. Please contact sales
+for more information.
+What are the advantages of an annual commitment vs. pay-as-you-go?
+Annual commitments allow you to unlock discounts on your Algolia usage. For a minimum of 100 Search units per month / 1,200 Search units per year (or 100,000 Recommend requests per month / 1,200,000 Recommend requests per year), you will receive a discount. For additional Search units above and beyond 500 Search units per month, you may unlock even greater volume-based discounts, making your cost per Search unit even less. A similar mechanism applies for Recommend above 50,000,000 Recommend requ
+for more information.
+Additionally, Annual commitments give you predictability and flexibility in your overall spend. Lock in annual volume discounts, while having the flexibility to use more in peak months, and less in slower months.
+Annual commitments are also required for purchasing Algolia’s Enterprise Foundation, as well as add-ons such as Crawler, DSN or Dedicated Infrastructure to power more sophisticated deployments.
+Existing customer? To access the previous version of our pricing and feature description, please contact support@algolia.com

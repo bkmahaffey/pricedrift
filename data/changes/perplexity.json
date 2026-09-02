@@ -1,0 +1,277 @@
+[
+  {
+    "id": "docs-perplexity-ai-getting-started-pricing-20250808143556",
+    "url": "https://docs.perplexity.ai/getting-started/pricing",
+    "ts": "20250808143556",
+    "date": "2025-08-08",
+    "source": "wayback",
+    "prevTs": "20250719004459",
+    "kind": "price",
+    "score": 15,
+    "counts": {
+      "price": 5,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Perplexity API: 5 prices changed (removed “$2”; added “$0.153”)",
+    "pairs": [],
+    "added": [
+      "$0.153"
+    ],
+    "removed": [
+      "$2",
+      "$8",
+      "$0.006",
+      "$0.159"
+    ],
+    "totals": {
+      "removed": 30,
+      "added": 15,
+      "materialRemoved": 4,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "docs-perplexity-ai-getting-started-pricing-20250909200542",
+    "url": "https://docs.perplexity.ai/getting-started/pricing",
+    "ts": "20250909200542",
+    "date": "2025-09-09",
+    "source": "wayback",
+    "prevTs": "20250808143556",
+    "kind": "price",
+    "score": 36,
+    "counts": {
+      "price": 12,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Perplexity API: 12 prices changed (removed “$0.001”; added “$0.000066”)",
+    "pairs": [],
+    "added": [
+      "$0.000066",
+      "$0.057304",
+      "$0.040032",
+      "$0.221991",
+      "$0.09",
+      "$0.409393"
+    ],
+    "removed": [
+      "$0.001",
+      "$0.0016",
+      "$0.0001",
+      "$0.0003",
+      "$0.15",
+      "$0.153"
+    ],
+    "totals": {
+      "removed": 12,
+      "added": 21,
+      "materialRemoved": 6,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "docs-perplexity-ai-getting-started-pricing-20251015155907",
+    "url": "https://docs.perplexity.ai/getting-started/pricing",
+    "ts": "20251015155907",
+    "date": "2025-10-15",
+    "source": "wayback",
+    "prevTs": "20250909200542",
+    "kind": "price",
+    "score": 4,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Perplexity API: 1 price, 1 limit changed (added “Price per 1K requests”)",
+    "pairs": [],
+    "added": [
+      "Price per 1K requests",
+      "$5.00"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 14,
+      "added": 34,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "docs-perplexity-ai-getting-started-pricing-20251205052458",
+    "url": "https://docs.perplexity.ai/getting-started/pricing",
+    "ts": "20251205052458",
+    "date": "2025-12-05",
+    "source": "wayback",
+    "prevTs": "20251015155907",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Perplexity API: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "docs-perplexity-ai-getting-started-pricing-20260103050603",
+    "url": "https://docs.perplexity.ai/getting-started/pricing",
+    "ts": "20260103050603",
+    "date": "2026-01-03",
+    "source": "wayback",
+    "prevTs": "20251205052458",
+    "kind": "price",
+    "score": 107,
+    "counts": {
+      "price": 35,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Perplexity API: 35 prices, 1 limit changed (added “Search context determines how much web inform…”)",
+    "pairs": [],
+    "added": [
+      "Search context determines how much web information is retrieved. Higher context = more comprehensive results. The following table shows the request fee for each model for every 1000 requests. Model",
+      "$5",
+      "$8",
+      "$12",
+      "$6",
+      "$10",
+      "$14",
+      "$5",
+      "$8",
+      "$12",
+      "$6",
+      "$10",
+      "$14",
+      "Request Fee (per 1K)",
+      "$6 / $10 / $14",
+      "$14 / $18 / $22",
+      "Request fees vary by search context size (Low / Medium / High). Token pricing remains the same as standard Sonar Pro ($3 per 1M input, $15 pe r 1M output).",
+      "$0.0005",
+      "$0.0002",
+      "$0.008",
+      "$0.0087",
+      "$0.0005",
+      "$0.0002",
+      "$0.012",
+      "$0.0127",
+      "$0.00",
+      "$0.031",
+      "$0.095",
+      "$0.924",
+      "$0.14",
+      "$1.190",
+      "$0.00",
+      "$0.035",
+      "$0.116",
+      "$1.019",
+      "$0.15",
+      "$1.320"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 91,
+      "materialRemoved": 0,
+      "materialAdded": 37
+    }
+  },
+  {
+    "id": "docs-perplexity-ai-getting-started-pricing-20260902202107",
+    "url": "https://docs.perplexity.ai/getting-started/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260103050603",
+    "kind": "price",
+    "score": 150,
+    "counts": {
+      "price": 48,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Perplexity API: 48 prices, 3 limits changed (removed “$1”; added “$0.0025 per invocation”)",
+    "pairs": [],
+    "added": [
+      "$0.0025 per invocation",
+      "Looks up professionals, employees, and people. $5 per 1,000 tool invocations",
+      "$0.005 per invocation",
+      "Retrieves financial data and market information. $5 per 1,000 tool invocations",
+      "$0.03 per session",
+      "Isolated container for executing code during an Agent API request. A session covers up to 20 minutes of active use for billing purposes — this is the billing window, not a runtime cap. SDK search queries made from inside the sandbox are billed at $0.0025 per request (same as web_search).",
+      "Price ($/1M tokens)",
+      "pplx-embed-v1-0.6b",
+      "$0.004",
+      "pplx-embed-v1-4b",
+      "$0.03",
+      "Price ($/1M tokens)",
+      "pplx-embed-context-v1-0.6b",
+      "pplx-embed-context-v1-4b",
+      "$0.05",
+      "$0.000875",
+      "$0.0028",
+      "$0.0025",
+      "$0.006175",
+      "$0.001",
+      "$0.003",
+      "$0.0025",
+      "$0.007"
+    ],
+    "removed": [
+      "$1",
+      "$5",
+      "$5",
+      "$8",
+      "$12",
+      "$0.0002",
+      "$0.0057",
+      "$0.0002",
+      "$0.0087",
+      "$0.0005",
+      "$0.0002",
+      "$0.012",
+      "$0.0127",
+      "$0.000066",
+      "$0.057304",
+      "$0.040032",
+      "$0.221991",
+      "$0.09",
+      "$0.409393",
+      "$0.00",
+      "$0.031",
+      "$0.095",
+      "$0.924",
+      "$0.14",
+      "$1.190",
+      "$0.00",
+      "$0.035",
+      "$0.116",
+      "$1.019",
+      "$0.15",
+      "$1.320"
+    ],
+    "totals": {
+      "removed": 161,
+      "added": 88,
+      "materialRemoved": 35,
+      "materialAdded": 27
+    },
+    "transition": true
+  }
+]

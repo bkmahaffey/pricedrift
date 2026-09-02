@@ -1,0 +1,743 @@
+[
+  {
+    "id": "mapbox-com-pricing-20230306091530",
+    "url": "https://www.mapbox.com/pricing",
+    "ts": "20230306091530",
+    "date": "2023-03-06",
+    "source": "wayback",
+    "prevTs": "20230105092305",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Mapbox: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "mapbox-com-pricing-20230516211432",
+    "url": "https://www.mapbox.com/pricing",
+    "ts": "20230516211432",
+    "date": "2023-05-16",
+    "source": "wayback",
+    "prevTs": "20230306091530",
+    "kind": "price",
+    "score": 47,
+    "counts": {
+      "price": 13,
+      "limit": 0,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Mapbox: 13 prices, 4 plan names changed (added “$3.0”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "$3.0",
+      "$2.75",
+      "$2.50",
+      "Free",
+      "$11.50",
+      "$10.00",
+      "$8.40",
+      "$6.60",
+      "Free",
+      "$1.25",
+      "$1.00",
+      "$0.75",
+      "Free",
+      "$1.70",
+      "$1.50",
+      "$1.25"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 72,
+      "materialRemoved": 0,
+      "materialAdded": 17
+    }
+  },
+  {
+    "id": "mapbox-com-pricing-20231210060135",
+    "url": "https://www.mapbox.com/pricing",
+    "ts": "20231210060135",
+    "date": "2023-12-10",
+    "source": "wayback",
+    "prevTs": "20230516211432",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Mapbox: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "mapbox-com-pricing-20240208131729",
+    "url": "https://www.mapbox.com/pricing",
+    "ts": "20240208131729",
+    "date": "2024-02-08",
+    "source": "wayback",
+    "prevTs": "20231210060135",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 4,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mapbox: 4 prices changed (removed “$1.25”; added “$0.85”)",
+    "pairs": [],
+    "added": [
+      "$0.85",
+      "$0.70"
+    ],
+    "removed": [
+      "$1.25",
+      "$0.75"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 6,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "mapbox-com-pricing-20240405163131",
+    "url": "https://www.mapbox.com/pricing",
+    "ts": "20240405163131",
+    "date": "2024-04-05",
+    "source": "wayback",
+    "prevTs": "20240208131729",
+    "kind": "price",
+    "score": 10,
+    "counts": {
+      "price": 2,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mapbox: 2 prices, 2 limits changed (removed “150B - 1.5T”; added “150B+”)",
+    "pairs": [],
+    "added": [
+      "150B+",
+      "$ 6000 / year",
+      "Customers with an estimated annual spend with Mapbox of less than $60k can subscribe directly through their Mapbox account. Customers with an annual spend of greater than $60K can contact sales"
+    ],
+    "removed": [
+      "150B - 1.5T",
+      "100M - 1B",
+      "30M - 300M"
+    ],
+    "totals": {
+      "removed": 88,
+      "added": 71,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "mapbox-com-pricing-20240601111959",
+    "url": "https://www.mapbox.com/pricing",
+    "ts": "20240601111959",
+    "date": "2024-06-01",
+    "source": "wayback",
+    "prevTs": "20240405163131",
+    "kind": "price",
+    "score": 14,
+    "counts": {
+      "price": 4,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mapbox: 4 prices, 1 limit changed (added “$50”)",
+    "pairs": [],
+    "added": [
+      "$50",
+      "( $500/mo minimum)",
+      "$6000",
+      "Customers with an estimated annual spend with Mapbox of less than $60k can subscribe directly through their Mapbox account. Customers with an annual spend of greater than $60K can contact sales",
+      "4 hour emergency response.",
+      "Emergency response within 30 minutes"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 41,
+      "materialRemoved": 0,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "mapbox-com-pricing-20240802093224",
+    "url": "https://www.mapbox.com/pricing",
+    "ts": "20240802093224",
+    "date": "2024-08-02",
+    "source": "wayback",
+    "prevTs": "20240601111959",
+    "kind": "price",
+    "score": 71,
+    "counts": {
+      "price": 18,
+      "limit": 3,
+      "plan": 6
+    },
+    "material": true,
+    "headline": "Mapbox: 18 prices, 3 limits, 6 plan names changed (removed “$ 50 / month”; added “$0.007”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "$0.007",
+      "Free",
+      "$0.90",
+      "$0.85",
+      "$0.80",
+      "The number of custom tilesets multiplied by the days per month you host each tileset. For example, 3 tilesets hosted for 15 days is 45 tileset hosting days.",
+      "Tileset hosting is metered daily as Tileset Hosting Days, which is the number of tilesets hosted for all or part of a day. For example, 3 tilesets hosted for 15 days is 45 tileset hosting days. Tileset hosting will appear on your invoice as Tileset Hosting Days. Mapbox default tilesets are exempt.",
+      "Free",
+      "$0.00137",
+      "$0.01096",
+      "$0.00822",
+      "$0.00548",
+      "$0.00274",
+      "Monthly cost per tileset (30 days)",
+      "Free",
+      "$0.41",
+      "$0.33",
+      "$0.25",
+      "$0.16",
+      "$0.08"
+    ],
+    "removed": [
+      "Free",
+      "$ 50 / month",
+      "( $500/mo minimum)",
+      "$ 6000 / year",
+      "Customers with an estimated annual spend with Mapbox of less than $60k can subscribe directly through their Mapbox account. Customers with an annual spend of greater than $60K can contact sales",
+      "Response within 4 hours for emergencies",
+      "Response within 1/2 hour for emergencies",
+      "Is Mapbox free?",
+      "Yes. Every product has a meaningful free tier so you can sign up and build without friction.",
+      "From free community resources to paid support with guaranteed response times and dedicated assistance, every Mapbox developer has access to help and support. Detailed pricing information is available at Mapbox Support"
+    ],
+    "totals": {
+      "removed": 52,
+      "added": 81,
+      "materialRemoved": 10,
+      "materialAdded": 21
+    }
+  },
+  {
+    "id": "mapbox-com-pricing-20241001142916",
+    "url": "https://www.mapbox.com/pricing",
+    "ts": "20241001142916",
+    "date": "2024-10-01",
+    "source": "wayback",
+    "prevTs": "20240802093224",
+    "kind": "price",
+    "score": 28,
+    "counts": {
+      "price": 8,
+      "limit": 0,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Mapbox: 8 prices, 2 plan names changed (removed “$0.00137”; added “$0.01370”)",
+    "pairs": [],
+    "added": [
+      "$0.01370",
+      "A user of Mapbox vision services within your mobile app during your month-long billing period. Each user may make unlimited vision-related requests.",
+      "Free",
+      "$1.00",
+      "$0.80",
+      "$0.60",
+      "Free",
+      "$1.00",
+      "$0.80",
+      "$0.60"
+    ],
+    "removed": [
+      "$0.00137"
+    ],
+    "totals": {
+      "removed": 1,
+      "added": 43,
+      "materialRemoved": 1,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "mapbox-com-pricing-20241202102617",
+    "url": "https://www.mapbox.com/pricing",
+    "ts": "20241202102617",
+    "date": "2024-12-02",
+    "source": "wayback",
+    "prevTs": "20241001142916",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 4,
+      "limit": 0,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Mapbox: 4 prices, 3 plan names changed (added “$0.30”)",
+    "pairs": [],
+    "added": [
+      "Unlimited trips",
+      "Active guidance trips will appear on your invoice as Active Guidance Trips for Mobile and free-drive trips will appear as Free Drive Trips for Mobile.",
+      "Free",
+      "$0.30",
+      "Free",
+      "$0.08",
+      "$0.064",
+      "$0.048",
+      "Unlimited trips",
+      "Embed navigation with routing and guidance directly into your application. Pay one fee for each monthly active user (MAU) of your application. This option includes unlimited trips at no additional cost.",
+      "Free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 59,
+      "materialRemoved": 0,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "mapbox-com-pricing-20250401004525",
+    "url": "https://www.mapbox.com/pricing",
+    "ts": "20250401004525",
+    "date": "2025-04-01",
+    "source": "wayback",
+    "prevTs": "20241202102617",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Mapbox: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "mapbox-com-pricing-20250504070526",
+    "url": "https://www.mapbox.com/pricing",
+    "ts": "20250504070526",
+    "date": "2025-05-04",
+    "source": "wayback",
+    "prevTs": "20250401004525",
+    "kind": "price",
+    "score": 45,
+    "counts": {
+      "price": 13,
+      "limit": 0,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Mapbox: 13 prices, 3 plan names changed (removed “$4.00”; added “$2.00”)",
+    "pairs": [],
+    "added": [
+      "$2.00",
+      "$1.60"
+    ],
+    "removed": [
+      "A user of Mapbox services within your Unity app during your month-long billing period. Each user may make an unlimited number of Vector Tiles API, Raster Tiles API, and Static Tiles API requests per month.",
+      "Free",
+      "$4.00",
+      "$3.20",
+      "$2.40",
+      "$1.50",
+      "$0.90",
+      "A user of Mapbox vision services within your mobile app during your month-long billing period. Each user may make unlimited vision-related requests.",
+      "Free",
+      "$1.00",
+      "$0.80",
+      "$0.60",
+      "A user of Mapbox vision services within your mobile app during your month-long billing period. Each user may make unlimited vision-related requests.",
+      "Free",
+      "$1.00",
+      "$0.80",
+      "$0.60"
+    ],
+    "totals": {
+      "removed": 94,
+      "added": 35,
+      "materialRemoved": 18,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "mapbox-com-pricing-20250901061141",
+    "url": "https://www.mapbox.com/pricing",
+    "ts": "20250901061141",
+    "date": "2025-09-01",
+    "source": "wayback",
+    "prevTs": "20250504070526",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Mapbox: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 8,
+      "added": 6,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "mapbox-com-pricing-20251005230643",
+    "url": "https://www.mapbox.com/pricing",
+    "ts": "20251005230643",
+    "date": "2025-10-05",
+    "source": "wayback",
+    "prevTs": "20250901061141",
+    "kind": "price",
+    "score": 8,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Mapbox: 2 prices, 1 plan name changed (added “$0.25”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "$0.25",
+      "$0.20"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 20,
+      "materialRemoved": 0,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "mapbox-com-pricing-20251201023220",
+    "url": "https://www.mapbox.com/pricing",
+    "ts": "20251201023220",
+    "date": "2025-12-01",
+    "source": "wayback",
+    "prevTs": "20251005230643",
+    "kind": "price",
+    "score": 15,
+    "counts": {
+      "price": 5,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mapbox: 5 prices changed (added “US$1.00”)",
+    "pairs": [],
+    "added": [
+      "US$1.00",
+      "US$0.85",
+      "US$0.70",
+      "US$5.00",
+      "US$4.75"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 44,
+      "materialRemoved": 0,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "mapbox-com-pricing-20260101053832",
+    "url": "https://www.mapbox.com/pricing",
+    "ts": "20260101053832",
+    "date": "2026-01-01",
+    "source": "wayback",
+    "prevTs": "20251201023220",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Mapbox: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "mapbox-com-pricing-20260201051934",
+    "url": "https://www.mapbox.com/pricing",
+    "ts": "20260201051934",
+    "date": "2026-02-01",
+    "source": "wayback",
+    "prevTs": "20260101053832",
+    "kind": "price",
+    "score": 15,
+    "counts": {
+      "price": 5,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mapbox: 5 prices changed (removed “US$1.00”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "US$1.00",
+      "US$0.85",
+      "US$0.70",
+      "US$5.00",
+      "US$4.75"
+    ],
+    "totals": {
+      "removed": 40,
+      "added": 0,
+      "materialRemoved": 5,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "mapbox-com-pricing-20260301074738",
+    "url": "https://www.mapbox.com/pricing",
+    "ts": "20260301074738",
+    "date": "2026-03-01",
+    "source": "wayback",
+    "prevTs": "20260201051934",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Mapbox: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "mapbox-com-pricing-20260501180621",
+    "url": "https://www.mapbox.com/pricing",
+    "ts": "20260501180621",
+    "date": "2026-05-01",
+    "source": "wayback",
+    "prevTs": "20260301074738",
+    "kind": "price",
+    "score": 11,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Mapbox: 3 prices, 1 plan name changed (added “$4.00”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "$4.00",
+      "$3.25",
+      "$2.25"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 22,
+      "materialRemoved": 0,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "mapbox-com-pricing-20260602013210",
+    "url": "https://www.mapbox.com/pricing",
+    "ts": "20260602013210",
+    "date": "2026-06-02",
+    "source": "wayback",
+    "prevTs": "20260501180621",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mapbox: 1 price changed (added “$2.50”)",
+    "pairs": [],
+    "added": [
+      "$2.50"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "mapbox-com-pricing-20260701161139",
+    "url": "https://www.mapbox.com/pricing",
+    "ts": "20260701161139",
+    "date": "2026-07-01",
+    "source": "wayback",
+    "prevTs": "20260602013210",
+    "kind": "price",
+    "score": 138,
+    "counts": {
+      "price": 24,
+      "limit": 18,
+      "plan": 15
+    },
+    "material": true,
+    "headline": "Mapbox: 24 prices, 18 limits, 15 plan names changed (removed “Total: $ 0”; added “Tileset hosting is metered daily as Tileset H…”)",
+    "pairs": [],
+    "added": [
+      "Sign up and start building with meaningful free tiers for most products.",
+      "Free",
+      "Free",
+      "Tileset hosting is metered daily as Tileset Hosting Days, which is the number of tilesets hosted for all or part of a day. For example, 3 tilesets hosted for 15 days is 45 tileset hosting days. Tileset hosting will appear on your invoice as Tileset Hosting Days. Mapbox default tilesets are exempt.",
+      "Mapbox Traffic Data is a dataset of estimated road speeds. Traffic Data includes Typical speeds, which are the expected traffic conditions throughout the week, and =Live speeds, which are speeds that have been directly observed in the last 15 minutes. Access is provided via a Mapbox Traffic Data license."
+    ],
+    "removed": [
+      "Total: $ 0",
+      "Free",
+      "Unlimited trips",
+      "Unlimited trips",
+      "Free",
+      "Unlimited trips",
+      "Embed navigation with routing and guidance directly into your application. Pay one fee for each monthly active user (MAU) of your application. This option includes unlimited trips at no additional cost.",
+      "Free",
+      "$5.00",
+      "$4.50",
+      "$4.00",
+      "A user who uses Mapbox services within your web application during your month-long billing period. Each user may make unlimited Vector Tiles API and Raster Tiles API requests.",
+      "Tileset Processing 10m",
+      "1.5B",
+      "15B",
+      "150B",
+      "Up to 1.5B",
+      "1.5B - 15B",
+      "15B - 150B",
+      "150B+",
+      "Free",
+      "$0.0004",
+      "$0.00032",
+      "$0.00024",
+      "Tileset Processing 1m",
+      "1B",
+      "Up to 1M",
+      "1M - 10M",
+      "10M - 100M",
+      "1B+",
+      "Free",
+      "$0.008",
+      "$0.0064",
+      "$0.0048",
+      "Free",
+      "$0.25",
+      "$0.20",
+      "$0.15",
+      "Free",
+      "Tileset Hosting 10m"
+    ],
+    "totals": {
+      "removed": 469,
+      "added": 246,
+      "materialRemoved": 82,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "mapbox-com-pricing-20260801193123",
+    "url": "https://www.mapbox.com/pricing",
+    "ts": "20260801193123",
+    "date": "2026-08-01",
+    "source": "wayback",
+    "prevTs": "20260701161139",
+    "kind": "price",
+    "score": 15,
+    "counts": {
+      "price": 5,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mapbox: 5 prices changed (removed “$4.00”; added “$7.00”)",
+    "pairs": [],
+    "added": [
+      "$7.00",
+      "$4.25"
+    ],
+    "removed": [
+      "$4.00",
+      "$3.25",
+      "$2.25"
+    ],
+    "totals": {
+      "removed": 8,
+      "added": 6,
+      "materialRemoved": 3,
+      "materialAdded": 2
+    }
+  }
+]

@@ -1,0 +1,724 @@
+[
+  {
+    "id": "launchdarkly-com-pricing-20240324152335",
+    "url": "https://launchdarkly.com/pricing/",
+    "ts": "20240324152335",
+    "date": "2024-03-24",
+    "source": "wayback",
+    "prevTs": "20230405015943",
+    "kind": "price",
+    "score": 13,
+    "counts": {
+      "price": 2,
+      "limit": 2,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "LaunchDarkly: 2 prices, 2 limits, 2 plan names changed (removed “$10”; added “Reusable segments Target groups of users by i…”)",
+    "pairs": [],
+    "added": [
+      "Get started free",
+      "Get started free",
+      "Starter Get started free",
+      "Pro Get started free",
+      "Reusable segments Target groups of users by including or excluding up to 15K individual targets, or target users that match specific rules.",
+      "Synced segments Sync audience data from external sources with an unlimited number of targets for targeted feature delivery.",
+      "Larger list-based segments Import a CSV list of up to 1M targets for targeted feature delivery."
+    ],
+    "removed": [
+      "$10",
+      "$20",
+      "ROI over 3 years"
+    ],
+    "totals": {
+      "removed": 47,
+      "added": 79,
+      "materialRemoved": 5,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "launchdarkly-com-pricing-20240605120840",
+    "url": "https://launchdarkly.com/pricing/",
+    "ts": "20240605120840",
+    "date": "2024-06-05",
+    "source": "wayback",
+    "prevTs": "20240324152335",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "LaunchDarkly: 1 limit changed (removed “Up to 300k”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Unlimited Projects",
+      "Up to 300k",
+      "We provide 1,000 Client-Side MAUs on Starter plans and 10,000 MAUs on Professional plans with the core platform. The Client-Side MAUs add-on is intended for teams that need to scale their usage beyond this level. Enterprise plans also include a base set of Client-Side MAUs. Contact sales"
+    ],
+    "totals": {
+      "removed": 22,
+      "added": 39,
+      "materialRemoved": 3,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "launchdarkly-com-pricing-20240828181427",
+    "url": "https://launchdarkly.com/pricing/",
+    "ts": "20240828181427",
+    "date": "2024-08-28",
+    "source": "wayback",
+    "prevTs": "20240605120840",
+    "kind": "price",
+    "score": 41,
+    "counts": {
+      "price": 7,
+      "limit": 8,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "LaunchDarkly: 7 prices, 8 limits, 2 plan names changed (removed “$ 8. 33”; added “1 project”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "Start for free; pay only when you exceed Developer tier limits",
+      "1 project",
+      "3 environments",
+      "5 service connections per month Service connections are the number of microservices, replicas, and environments connected to LaunchDarkly for 1 month",
+      "1k contexts per month Each client side user or device creates a context",
+      "10k experimentation keys per month Keys are used to measure targeting for experiments. They allow you to target specific groups of contexts or segments to experiments.",
+      "$ 12 / mo",
+      "for 1 monthly service connection Service connections are the number of microservices, replicas, and environments connected to LaunchDarkly for 1 month",
+      "or 1K monthly contexts Each client side user or device creates a context",
+      "Unlimited projects",
+      "Unlimited environments",
+      "Unlimited seats",
+      "Service Connections Service connections are the number of microservices, replicas, and environments connected to LaunchDarkly for 1 month.",
+      "$12/month for 1 monthly service connections",
+      "Contexts Contexts are the client-side users, devices, organizations, or other defined entity that encounter feature flags in your product in 1 month.",
+      "Up to 1k",
+      "$12/month for 1k monthly contexts",
+      "Up 10k",
+      "$33/month for 10k keys",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Synced segments Sync audience data from external sources with an unlimited number of targets for targetted feature delivery.",
+      "Unlimited",
+      "Service connections are used to measure back-end feature management. Service connections are the number of microservices, replicas, and environments connected to LaunchDarkly for 1 month. Only server-side SDKs count toward measuring service connections. Read the docs to learn more.",
+      "You only get charged when you exceed the Developer tier limits for environments (3), service connections (5), contexts (1k), or experimentation keys (10k).",
+      "Christian Dior shortens time to market from 15 minutes to instant updates",
+      "Free trial"
+    ],
+    "removed": [
+      "$ 8. 33",
+      "Unlimited feature flags & Environments",
+      "$ 16. 67",
+      "Unlimited feature flags",
+      "Unlimited Environments",
+      "Reusable segments Target groups of users by including or excluding up to 15K individual targets, or target users that match specific rules.",
+      "Synced segments Sync audience data from external sources with an unlimited number of targets for targeted feature delivery.",
+      "Larger list-based segments Import a CSV list of up to 1M targets for targeted feature delivery.",
+      "$10/seat/month",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 139,
+      "added": 272,
+      "materialRemoved": 12,
+      "materialAdded": 31
+    }
+  },
+  {
+    "id": "launchdarkly-com-pricing-20241004155100",
+    "url": "https://launchdarkly.com/pricing/",
+    "ts": "20241004155100",
+    "date": "2024-10-04",
+    "source": "wayback",
+    "prevTs": "20240828181427",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "LaunchDarkly: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "launchdarkly-com-pricing-20241225094240",
+    "url": "https://launchdarkly.com/pricing/",
+    "ts": "20241225094240",
+    "date": "2024-12-25",
+    "source": "wayback",
+    "prevTs": "20241004155100",
+    "kind": "price",
+    "score": 33,
+    "counts": {
+      "price": 6,
+      "limit": 4,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "LaunchDarkly: 6 prices, 4 limits, 4 plan names changed (5 → 1; 1 removed)",
+    "pairs": [
+      {
+        "before": "5 service connections per month Service connections are the number of microservices, replicas, and environments connected to LaunchDarkly for 1 month",
+        "after": "are the number of microservices, replicas, and environments connected to LaunchDarkly for 1 month.",
+        "confidence": 0.79,
+        "deltas": [
+          {
+            "before": "5",
+            "after": "1"
+          },
+          {
+            "before": "1",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "for 1 monthly service connection Service connections are the number of microservices, replicas, and environments connected to LaunchDarkly for 1 month",
+        "after": "are the number of microservices, replicas, and environments connected to LaunchDarkly for 1 month.",
+        "confidence": 0.73,
+        "deltas": [
+          {
+            "before": "1",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free forever",
+      "Unlimited Seats",
+      "Start free trial",
+      "Unlimited Seats",
+      "are used to measure targeting for experiments. They allow you to target specific groups of 1k client-side MAU",
+      "Unlimited Seats",
+      "Unlimited Seats",
+      "$12/mo per service connection or $120/yr",
+      "$12/mo per +1K or $100/yr",
+      "$33/mo per 10k or $333/yr",
+      "1 business day (8 hours outage)"
+    ],
+    "removed": [
+      "Free",
+      "Start for free; pay only when you exceed Developer tier limits",
+      "1 project",
+      "Get started free",
+      "Unlimited seats",
+      "$12/month for 1 monthly service connections",
+      "$12/month for 1k monthly contexts",
+      "$33/month for 10k keys"
+    ],
+    "totals": {
+      "removed": 70,
+      "added": 102,
+      "materialRemoved": 17,
+      "materialAdded": 20
+    }
+  },
+  {
+    "id": "launchdarkly-com-pricing-20250115100949",
+    "url": "https://launchdarkly.com/pricing/",
+    "ts": "20250115100949",
+    "date": "2025-01-15",
+    "source": "wayback",
+    "prevTs": "20241225094240",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "LaunchDarkly: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "launchdarkly-com-pricing-20250211022523",
+    "url": "https://launchdarkly.com/pricing/",
+    "ts": "20250211022523",
+    "date": "2025-02-11",
+    "source": "wayback",
+    "prevTs": "20250115100949",
+    "kind": "price",
+    "score": 17,
+    "counts": {
+      "price": 5,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "LaunchDarkly: 5 prices, 1 limit changed ($120 removed)",
+    "pairs": [
+      {
+        "before": "$12/mo per service connection or $120/yr",
+        "after": "$12/mo per service connection",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$120",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$12/mo per 1K",
+      "$33/mo per 10k"
+    ],
+    "removed": [
+      "Up to 1k",
+      "$12/mo per +1K or $100/yr",
+      "Up to 10k",
+      "$33/mo per 10k or $333/yr",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 14,
+      "added": 7,
+      "materialRemoved": 6,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "launchdarkly-com-pricing-20250311092053",
+    "url": "https://launchdarkly.com/pricing/",
+    "ts": "20250311092053",
+    "date": "2025-03-11",
+    "source": "wayback",
+    "prevTs": "20250211022523",
+    "kind": "price",
+    "score": 8,
+    "counts": {
+      "price": 1,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "LaunchDarkly: 1 price, 3 limits changed ($33 → $3; 10k removed)",
+    "pairs": [
+      {
+        "before": "$33/mo per 10k",
+        "after": "$3/mo per 1k",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$33",
+            "after": "$3"
+          },
+          {
+            "before": "10k",
+            "after": "1k"
+          }
+        ]
+      },
+      {
+        "before": "You only get charged when you exceed the Developer tier limits for environments (3), service connections (5), client-side MAU (1k), or experimentation keys (10k).",
+        "after": "You only get charged when you exceed the Developer tier limits for environments (3), service connections (5), or client-side MAU (1k).",
+        "confidence": 0.89,
+        "deltas": [
+          {
+            "before": "10k",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "100k experimentation MAU per month The number of users available to be targeted in experiments each month."
+    ],
+    "removed": [
+      "10k experimentation keys per month Keys",
+      "are used to measure targeting for experiments. They allow you to target specific groups of 1k client-side MAU"
+    ],
+    "totals": {
+      "removed": 43,
+      "added": 7,
+      "materialRemoved": 4,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "launchdarkly-com-pricing-20250506122218",
+    "url": "https://launchdarkly.com/pricing/",
+    "ts": "20250506122218",
+    "date": "2025-05-06",
+    "source": "wayback",
+    "prevTs": "20250311092053",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 4,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "LaunchDarkly: 4 prices changed (1k → $8.33; $12 → $10)",
+    "pairs": [
+      {
+        "before": "or 1k client-side MAU Each client side user or device creates a client-side MAU",
+        "after": "or $8.33 per 1k client-side MAU / mo Each client side user or device creates a client-side MAU",
+        "confidence": 0.88,
+        "deltas": [
+          {
+            "before": "1k",
+            "after": "$8.33"
+          },
+          {
+            "before": null,
+            "after": "1k"
+          }
+        ]
+      },
+      {
+        "before": "$12/mo per 1K",
+        "after": "$10/mo per 1K",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$12",
+            "after": "$10"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 10 per Service Connection / mo Service connections"
+    ],
+    "removed": [
+      "$ 12"
+    ],
+    "totals": {
+      "removed": 46,
+      "added": 86,
+      "materialRemoved": 6,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "launchdarkly-com-pricing-20250904184541",
+    "url": "https://launchdarkly.com/pricing/",
+    "ts": "20250904184541",
+    "date": "2025-09-04",
+    "source": "wayback",
+    "prevTs": "20250506122218",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "LaunchDarkly: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Yes. All experimentation features are included for every customer on every plan, with up to 100k monthly active users (MAU) free."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 11,
+      "added": 6,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "launchdarkly-com-pricing-20251028193037",
+    "url": "https://launchdarkly.com/pricing/",
+    "ts": "20251028193037",
+    "date": "2025-10-28",
+    "source": "wayback",
+    "prevTs": "20250904184541",
+    "kind": "price",
+    "score": 29,
+    "counts": {
+      "price": 6,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "LaunchDarkly: 6 prices, 6 limits changed ($10 → $12; $8.33 → $10)",
+    "pairs": [
+      {
+        "before": "$ 10 per Service Connection / mo Service connections",
+        "after": "$ 12 per Service Connection / mo Service connections",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$10",
+            "after": "$12"
+          }
+        ]
+      },
+      {
+        "before": "and $8.33 per 1k client-side MAU / mo Each client side user or device creates a client-side MAU",
+        "after": "and $10 per 1k client-side MAU / mo Each client side user or device creates a client-side MAU",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$8.33",
+            "after": "$10"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Unlimited feature flags",
+      "5K Session Replays and Errors Need more? Calculate your usage needs Observability Usage Calculator",
+      "10M Logs and Traces Need more? Calculate your usage needs Observability Usage Calculator",
+      "5,000/mo",
+      "$3.50/1k sessions",
+      "5,000/mo",
+      "$0.30/1k per month",
+      "10,000,000/mo",
+      "$1.50/1M per month",
+      "10,000,000/mo",
+      "$1.50/1M per month"
+    ],
+    "removed": [
+      "3 environments",
+      "are the number of microservices, replicas, and environments connected to LaunchDarkly for 1 month.",
+      "1k client-side MAU per month Each client side user or device creates a client-side MAU",
+      "100k experimentation MAU per month The number of users available to be targeted in experiments each month.",
+      "Unlimited environments",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Yes. All experimentation features are included for every customer on every plan, with up to 100k monthly active users (MAU) free."
+    ],
+    "totals": {
+      "removed": 34,
+      "added": 44,
+      "materialRemoved": 11,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "launchdarkly-com-pricing-20260516204836",
+    "url": "https://launchdarkly.com/pricing/",
+    "ts": "20260516204836",
+    "date": "2026-05-16",
+    "source": "wayback",
+    "prevTs": "20251028193037",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "LaunchDarkly: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "No credit card required"
+    ],
+    "removed": [
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 33,
+      "added": 15,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "launchdarkly-com-pricing-20260606062226",
+    "url": "https://launchdarkly.com/pricing/",
+    "ts": "20260606062226",
+    "date": "2026-06-06",
+    "source": "wayback",
+    "prevTs": "20260516204836",
+    "kind": "price",
+    "score": 28,
+    "counts": {
+      "price": 5,
+      "limit": 3,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "LaunchDarkly: 5 prices, 3 limits, 4 plan names changed ($12 → $10)",
+    "pairs": [
+      {
+        "before": "$ 12 per Service Connection / mo Service connections",
+        "after": "CodeControl: $10 per Service Connection / mo",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "$12",
+            "after": "$10"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "One platform for features and agents. Free to start.",
+      "$0 / mo",
+      "CodeControl: Unlimited feature flags",
+      "AgentControl: Unlimited Playgrounds",
+      "Unlimited Offline Evals",
+      "Unlimited Datasets",
+      "14 days data retention",
+      "$8.33 per 1k client-side MAU / mo",
+      "AgentControl: $5 per 1k AI runs past 5k / mo",
+      "CodeControl: Unlimited projects",
+      "30 days data retention",
+      "100 days data retention",
+      "Get started free",
+      "Start free trial"
+    ],
+    "removed": [
+      "Free forever",
+      "Unlimited feature flags",
+      "are the number of microservices, replicas, and environments connected to LaunchDarkly for 1 month.",
+      "and $10 per 1k client-side MAU / mo Each client side user or device creates a client-side MAU",
+      "Unlimited Seats",
+      "Unlimited projects",
+      "Unlimited Seats",
+      "Unlimited Seats",
+      "Christian Dior shortens time to market from 15 minutes to instant updates",
+      "Free trial"
+    ],
+    "totals": {
+      "removed": 77,
+      "added": 77,
+      "materialRemoved": 14,
+      "materialAdded": 18
+    }
+  },
+  {
+    "id": "launchdarkly-com-pricing-20260802175958",
+    "url": "https://launchdarkly.com/pricing/",
+    "ts": "20260802175958",
+    "date": "2026-08-02",
+    "source": "wayback",
+    "prevTs": "20260606062226",
+    "kind": "price",
+    "score": 43,
+    "counts": {
+      "price": 8,
+      "limit": 6,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "LaunchDarkly: 8 prices, 6 limits, 4 plan names changed (removed “Service connections are the number of microse…”; added “14 days”)",
+    "pairs": [],
+    "added": [
+      "14 days",
+      "< 300ms",
+      "< 200ms",
+      "< 150ms (SLA)",
+      "Ingestion stops at 5K",
+      "$5 / 1000",
+      "$5 / 1000",
+      "Limited (free tier)",
+      "Limited (free tier)",
+      "1 project & 3 environments",
+      "Unlimited",
+      "Unlimited",
+      "5K / mo",
+      "Free trial",
+      "Free trial"
+    ],
+    "removed": [
+      "Service connections are the number of microservices, replicas, and environments connected to LaunchDarkly for 1 month.",
+      "$12/mo per service connection",
+      "Client-side MAU are the client-side users, devices, organizations, or other defined entity that encounter feature flags in your product in 1 month.",
+      "$3/mo per 1k",
+      "$3.50/1k sessions",
+      "$0.30/1k per month",
+      "$1.50/1M per month",
+      "$1.50/1M per month",
+      "Sync audience data from external sources with an unlimited number of targets for targetted feature delivery.",
+      "Unlimited",
+      "Service connections are used to measure back-end feature management. Service connections are the number of microservices, replicas, and environments connected to LaunchDarkly for 1 month. Only server-side SDKs count toward measuring service connections. Read the docs to learn more.",
+      "You only get charged when you exceed the Developer tier limits for environments (3), service connections (5), or client-side MAU (1k)."
+    ],
+    "totals": {
+      "removed": 239,
+      "added": 113,
+      "materialRemoved": 18,
+      "materialAdded": 21
+    }
+  },
+  {
+    "id": "launchdarkly-com-pricing-20260902202107",
+    "url": "https://launchdarkly.com/pricing/",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260802175958",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 3,
+      "limit": 4,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "LaunchDarkly: 3 prices, 4 limits, 4 plan names changed (removed “10M Logs and Traces”; added “A/B Tests and Experiments Includes 100K exper…”)",
+    "pairs": [],
+    "added": [
+      "Unlimited seats No per-seat pricing. Invite your whole team; pricing is based on usage.",
+      "A/B Tests and Experiments Includes 100K experimentation MAU per month at no additional charge.",
+      "10M logs and 10M traces /mo A log is a single log line and a trace is a single span, each ingested, stored, and searchable for one month.",
+      "5 service connections and 1K client-side MAU /mo A service connection is one server-side SDK connected to one environment for a month. Each unique client-side user or device is one MAU.",
+      "5K session replays and 5K errors /mo A session replay is one recorded user session (a single tab instance); an error is one unique error or exception. Each is stored for one month.",
+      "5k AI Runs included / mo. An AI run is generated when you track an LLM request or run an online eval (LLM-as-a-judge).",
+      "$5 per additional 1k runs.",
+      "Everything in Developer, plus: Unlimited projects and environments",
+      "5 service connections included, pay as you go beyond Your first 5 service connections each month are included. Additional connections bill at $10 each per month.",
+      "Scalable observability usage 5K session replays, 5K errors, 10M logs, and 10M traces included each month. Usage beyond that bills as you go.",
+      "Start free",
+      "Get started free"
+    ],
+    "removed": [
+      "Unlimited seats",
+      "10M Logs and Traces",
+      "AgentControl: Unlimited Playgrounds",
+      "Unlimited Offline Evals",
+      "Unlimited Datasets",
+      "AgentControl: $5 per 1k AI runs past 5k / mo",
+      "Start free trial",
+      "CodeControl: Unlimited projects",
+      "Start free Get started free",
+      "Start free trial"
+    ],
+    "totals": {
+      "removed": 48,
+      "added": 65,
+      "materialRemoved": 19,
+      "materialAdded": 21
+    },
+    "transition": true
+  }
+]

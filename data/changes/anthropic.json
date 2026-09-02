@@ -1,0 +1,1865 @@
+[
+  {
+    "id": "claude-com-pricing-20251001083441",
+    "url": "https://claude.com/pricing",
+    "ts": "20251001083441",
+    "date": "2025-10-01",
+    "source": "wayback",
+    "prevTs": "20250917191450",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 8,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Anthropic API: 8 prices changed ($15 → $3; $75 → $15)",
+    "pairs": [
+      {
+        "before": "$ 15 / MTok",
+        "after": "$ 3 / MTok",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$15",
+            "after": "$3"
+          }
+        ]
+      },
+      {
+        "before": "$ 75 / MTok",
+        "after": "$ 15 / MTok",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$75",
+            "after": "$15"
+          }
+        ]
+      },
+      {
+        "before": "$ 18.75 / MTok",
+        "after": "$ 3.75 / MTok",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$18.75",
+            "after": "$3.75"
+          }
+        ]
+      },
+      {
+        "before": "$ 1.50 / MTok",
+        "after": "$ 0.30 / MTok",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.50",
+            "after": "$0.30"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 15 / MTok",
+      "$ 75 / MTok",
+      "$ 18.75 / MTok",
+      "$ 1.50 / MTok"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 12,
+      "added": 23,
+      "materialRemoved": 4,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "claude-com-pricing-20251101063108",
+    "url": "https://claude.com/pricing",
+    "ts": "20251101063108",
+    "date": "2025-11-01",
+    "source": "wayback",
+    "prevTs": "20251001083441",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 8,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Anthropic API: 8 prices changed ($0.80 → $1; $4 → $5)",
+    "pairs": [
+      {
+        "before": "$ 0.80 / MTok",
+        "after": "$ 1 / MTok",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.80",
+            "after": "$1"
+          }
+        ]
+      },
+      {
+        "before": "$ 4 / MTok",
+        "after": "$ 5 / MTok",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$4",
+            "after": "$5"
+          }
+        ]
+      },
+      {
+        "before": "$ 1 / MTok",
+        "after": "$ 1.25 / MTok",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1",
+            "after": "$1.25"
+          }
+        ]
+      },
+      {
+        "before": "$ 0.08 / MTok",
+        "after": "$ 0.10 / MTok",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.08",
+            "after": "$0.10"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 0.80 / MTok",
+      "$ 4 / MTok",
+      "$ 1 / MTok",
+      "$ 0.08 / MTok"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 32,
+      "materialRemoved": 4,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "platform-claude-com-docs-en-about-claude-pricing-20251201041432",
+    "url": "https://platform.claude.com/docs/en/about-claude/pricing",
+    "ts": "20251201041432",
+    "date": "2025-12-01",
+    "source": "wayback",
+    "prevTs": "20251119190003",
+    "kind": "price",
+    "score": 22,
+    "counts": {
+      "price": 7,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Anthropic API: 7 prices, 1 limit changed (added “$5 / MTok”)",
+    "pairs": [],
+    "added": [
+      "$5 / MTok",
+      "$6.25 / MTok",
+      "$10 / MTok",
+      "$0.50 / MTok",
+      "$25 / MTok",
+      "$2.50 / MTok",
+      "$12.50 / MTok",
+      "346 tokens 313 tokens"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 12,
+      "materialRemoved": 0,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "claude-com-pricing-20251202035630",
+    "url": "https://claude.com/pricing",
+    "ts": "20251202035630",
+    "date": "2025-12-02",
+    "source": "wayback",
+    "prevTs": "20251101063108",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 8,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Anthropic API: 8 prices changed ($15 → $5; $75 → $25)",
+    "pairs": [
+      {
+        "before": "$ 15 / MTok",
+        "after": "$ 5 / MTok",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$15",
+            "after": "$5"
+          }
+        ]
+      },
+      {
+        "before": "$ 75 / MTok",
+        "after": "$ 25 / MTok",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$75",
+            "after": "$25"
+          }
+        ]
+      },
+      {
+        "before": "$ 18.75 / MTok",
+        "after": "$ 6.25 / MTok",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$18.75",
+            "after": "$6.25"
+          }
+        ]
+      },
+      {
+        "before": "$ 1.50 / MTok",
+        "after": "$ 0.50 / MTok",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.50",
+            "after": "$0.50"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 15 / MTok",
+      "$ 75 / MTok",
+      "$ 18.75 / MTok",
+      "$ 1.50 / MTok"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 14,
+      "added": 22,
+      "materialRemoved": 4,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "claude-com-pricing-20260101044440",
+    "url": "https://claude.com/pricing",
+    "ts": "20260101044440",
+    "date": "2026-01-01",
+    "source": "wayback",
+    "prevTs": "20251202035630",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 8,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Anthropic API: 8 prices changed (removed “$ 3 / MTok”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$ 3 / MTok",
+      "$ 15 / MTok",
+      "$ 3.75 / MTok",
+      "$ 0.30 / MTok",
+      "$ 0.80 / MTok",
+      "$ 4 / MTok",
+      "$ 1 / MTok",
+      "$ 0.08 / MTok"
+    ],
+    "totals": {
+      "removed": 23,
+      "added": 16,
+      "materialRemoved": 8,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "platform-claude-com-docs-en-api-rate-limits-20260101234310",
+    "url": "https://platform.claude.com/docs/en/api/rate-limits",
+    "ts": "20260101234310",
+    "date": "2026-01-01",
+    "source": "wayback",
+    "prevTs": "20251122075834",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Anthropic API: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 12,
+      "added": 47,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "platform-claude-com-docs-en-about-claude-pricing-20260104041630",
+    "url": "https://platform.claude.com/docs/en/about-claude/pricing",
+    "ts": "20260104041630",
+    "date": "2026-01-04",
+    "source": "wayback",
+    "prevTs": "20251201041432",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Anthropic API: 1 limit changed (50 → 1,550)",
+    "pairs": [
+      {
+        "before": "Each organization receives 50 free hours of usage with the code execution tool per day. Additional usage beyond the first 50 hours is billed at $0.05 per hour, per container.",
+        "after": "Each organization receives 1,550 free hours of usage with the code execution tool per month. Additional usage beyond the first 1,550 hours is billed at $0.05 per hour, per container.",
+        "confidence": 0.9,
+        "deltas": [
+          {
+            "before": "50",
+            "after": "1,550"
+          },
+          {
+            "before": "50",
+            "after": "1,550"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 96,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "platform-claude-com-docs-en-about-claude-pricing-20260201050917",
+    "url": "https://platform.claude.com/docs/en/about-claude/pricing",
+    "ts": "20260201050917",
+    "date": "2026-02-01",
+    "source": "wayback",
+    "prevTs": "20260104041630",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Anthropic API: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "claude-com-pricing-20260201072736",
+    "url": "https://claude.com/pricing",
+    "ts": "20260201072736",
+    "date": "2026-02-01",
+    "source": "wayback",
+    "prevTs": "20260101044440",
+    "kind": "price",
+    "score": 28,
+    "counts": {
+      "price": 9,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Anthropic API: 9 prices, 1 limit changed (removed “Per person / month with annual subscription d…”; added “$20”)",
+    "pairs": [],
+    "added": [
+      "$20",
+      "$100",
+      "Per seat / month if billed annually. $125 if billed monthly."
+    ],
+    "removed": [
+      "Per person / month with annual subscription discount. $30 if billed monthly. Minimum 5 members.",
+      "$150",
+      "Per person / month. Minimum 5 members.",
+      "$ 15 / MTok",
+      "$ 75 / MTok",
+      "$ 18.75 / MTok",
+      "$ 1.50 / MTok"
+    ],
+    "totals": {
+      "removed": 40,
+      "added": 29,
+      "materialRemoved": 8,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "platform-claude-com-docs-en-api-rate-limits-20260205191014",
+    "url": "https://platform.claude.com/docs/en/api/rate-limits",
+    "ts": "20260205191014",
+    "date": "2026-02-05",
+    "source": "wayback",
+    "prevTs": "20260101234310",
+    "kind": "limits",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Anthropic API: 3 limits changed (4 added; 4 → 4.6)",
+    "pairs": [
+      {
+        "before": "For long context requests (>200K tokens) when using the context-1m-2025-08-07 beta header with Claude Sonnet 4.x, separate rate limits apply. See Long context rate limits",
+        "after": "For long context requests (>200K tokens) when using the context-1m-2025-08-07 beta header with Claude Opus 4.x or Sonnet 4.x, separate rate limits apply. See Long context rate limits",
+        "confidence": 0.95,
+        "deltas": [
+          {
+            "before": null,
+            "after": "4"
+          }
+        ]
+      },
+      {
+        "before": "When using Claude Sonnet 4 and Sonnet 4.5 with the 1M token context window enabled",
+        "after": "When using Claude Opus 4.6, Sonnet 4.5, or Sonnet 4 with the 1M token context window enabled",
+        "confidence": 0.83,
+        "deltas": [
+          {
+            "before": "4",
+            "after": "4.6"
+          },
+          {
+            "before": "1M",
+            "after": "4"
+          },
+          {
+            "before": null,
+            "after": "1M"
+          }
+        ]
+      },
+      {
+        "before": "The 1M token context window is currently in beta for organizations in usage tier 4 and organizations with custom rate limits. The 1M token context window is only available for Claude Sonnet 4 and Sonnet 4.5.",
+        "after": "The 1M token context window is currently in beta for organizations in usage tier 4 and organizations with custom rate limits. The 1M token context window is only available for Claude Opus 4.6, Sonnet 4.5, and Sonnet 4.",
+        "confidence": 0.95,
+        "deltas": [
+          {
+            "before": "4",
+            "after": "4.6"
+          },
+          {
+            "before": null,
+            "after": "4"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 16,
+      "added": 19,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "claude-com-pricing-20260301082827",
+    "url": "https://claude.com/pricing",
+    "ts": "20260301082827",
+    "date": "2026-03-01",
+    "source": "wayback",
+    "prevTs": "20260201072736",
+    "kind": "price",
+    "score": 44,
+    "counts": {
+      "price": 12,
+      "limit": 3,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Anthropic API: 12 prices, 3 limits, 1 plan name changed (added “Prompts ≤ 200K tokens”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "Prompts ≤ 200K tokens",
+      "Prompts > 200K tokens",
+      "$ 10 / MTok",
+      "Prompts ≤ 200K tokens",
+      "Prompts > 200K tokens",
+      "$ 37.50 / MTok",
+      "≤ 200K tokens",
+      "> 200K tokens",
+      "$ 12.50 / MTok",
+      "$ 1.00 / MTok",
+      "$ 3 / MTok",
+      "$ 15 / MTok",
+      "$ 3.75 / MTok",
+      "$ 0.30 / MTok",
+      "$ 5 / MTok",
+      "$ 25 / MTok",
+      "$ 6.25 / MTok",
+      "$ 0.50 / MTok"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 11,
+      "added": 251,
+      "materialRemoved": 0,
+      "materialAdded": 19
+    }
+  },
+  {
+    "id": "platform-claude-com-docs-en-about-claude-pricing-20260301150515",
+    "url": "https://platform.claude.com/docs/en/about-claude/pricing",
+    "ts": "20260301150515",
+    "date": "2026-03-01",
+    "source": "wayback",
+    "prevTs": "20260201050917",
+    "kind": "price",
+    "score": 80,
+    "counts": {
+      "price": 24,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Anthropic API: 24 prices, 4 limits changed (4 → 4.6; 4 → 4.6)",
+    "pairs": [
+      {
+        "before": "When using Claude Sonnet 4 or Sonnet 4.5 with the 1M token context window enabled",
+        "after": "When using Claude Opus 4.6, Sonnet 4.6, Sonnet 4.5, or Sonnet 4 at standard speed with the 1M token context window enabled",
+        "confidence": 0.77,
+        "deltas": [
+          {
+            "before": "4",
+            "after": "4.6"
+          },
+          {
+            "before": "4.5",
+            "after": "4.6"
+          },
+          {
+            "before": "1M",
+            "after": "4.5"
+          },
+          {
+            "before": null,
+            "after": "4"
+          },
+          {
+            "before": null,
+            "after": "1M"
+          }
+        ]
+      },
+      {
+        "before": "4 and organizations with custom rate limits. The 1M token context window is only available for Claude Sonnet 4 and Sonnet 4.5.",
+        "after": "4 and organizations with custom rate limits. The 1M token context window is only available for Claude Opus 4.6, Sonnet 4.6, Sonnet 4.5, and Sonnet 4.",
+        "confidence": 0.94,
+        "deltas": [
+          {
+            "before": "4",
+            "after": "4.6"
+          },
+          {
+            "before": "4.5",
+            "after": "4.6"
+          },
+          {
+            "before": null,
+            "after": "4.5"
+          },
+          {
+            "before": null,
+            "after": "4"
+          }
+        ]
+      },
+      {
+        "before": "Total cost: ~$22.20 per 10,000 tickets",
+        "after": "Total cost: ~$37.00 per 10,000 tickets",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$22.20",
+            "after": "$37.00"
+          }
+        ]
+      },
+      {
+        "before": "Using Claude Sonnet 4.5 at $3/MTok input, $15/MTok output",
+        "after": "Using Claude Opus 4.6 at $5/MTok input, $25/MTok output",
+        "confidence": 0.71,
+        "deltas": [
+          {
+            "before": "4.5",
+            "after": "4.6"
+          },
+          {
+            "before": "$3",
+            "after": "$5"
+          },
+          {
+            "before": "$15",
+            "after": "$25"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$5 / MTok",
+      "$6.25 / MTok",
+      "$10 / MTok",
+      "$0.50 / MTok",
+      "$25 / MTok",
+      "$3 / MTok",
+      "$3.75 / MTok",
+      "$6 / MTok",
+      "$0.30 / MTok",
+      "$15 / MTok",
+      "for Claude Opus 4.6 (research preview) provides significantly faster output at premium pricing (6x standard rates). Fast mode pricing applies across the full context window, including requests over 200K input tokens. Currently supported on Opus 4.6:",
+      "$30 / MTok",
+      "$150 / MTok",
+      "$2.50 / MTok",
+      "$12.50 / MTok",
+      "$1.50 / MTok",
+      "$7.50 / MTok",
+      "includes the full 1M context window at no additional long context charge.",
+      "Input: $5 / MTok",
+      "Input: $10 / MTok",
+      "Output: $25 / MTok",
+      "Output: $37.50 / MTok",
+      "346 tokens 313 tokens",
+      "346 tokens 313 tokens",
+      "Code execution is free when used with web search or web fetch. When web_search_20260209 or web_fetch_20260209 is included in your API request, there are no additional charges for code execution tool calls beyond the standard input and output token costs.",
+      "Each organization receives 1,550 free hours of usage per month",
+      "Additional usage beyond 1,550 hours is billed at $0.05 per hour, per container"
+    ],
+    "removed": [
+      "Each organization receives 1,550 free hours of usage with the code execution tool per month. Additional usage beyond the first 1,550 hours is billed at $0.05 per hour, per container."
+    ],
+    "totals": {
+      "removed": 48,
+      "added": 110,
+      "materialRemoved": 7,
+      "materialAdded": 33
+    }
+  },
+  {
+    "id": "platform-claude-com-docs-en-api-rate-limits-20260307042952",
+    "url": "https://platform.claude.com/docs/en/api/rate-limits",
+    "ts": "20260307042952",
+    "date": "2026-03-07",
+    "source": "wayback",
+    "prevTs": "20260205191014",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Anthropic API: 2 limits changed (4.5 → 4.6; 4.5 → 4.6)",
+    "pairs": [
+      {
+        "before": "When using Claude Opus 4.6, Sonnet 4.5, or Sonnet 4 with the 1M token context window enabled",
+        "after": "When using Claude Opus 4.6, Sonnet 4.6, Sonnet 4.5, or Sonnet 4 with the 1M token context window enabled",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4.5",
+            "after": "4.6"
+          },
+          {
+            "before": "4",
+            "after": "4.5"
+          },
+          {
+            "before": "1M",
+            "after": "4"
+          },
+          {
+            "before": null,
+            "after": "1M"
+          }
+        ]
+      },
+      {
+        "before": "The 1M token context window is currently in beta for organizations in usage tier 4 and organizations with custom rate limits. The 1M token context window is only available for Claude Opus 4.6, Sonnet 4.5, and Sonnet 4.",
+        "after": "The 1M token context window is currently in beta for organizations in usage tier 4 and organizations with custom rate limits. The 1M token context window is only available for Claude Opus 4.6, Sonnet 4.6, Sonnet 4.5, and Sonnet 4.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4.5",
+            "after": "4.6"
+          },
+          {
+            "before": "4",
+            "after": "4.5"
+          },
+          {
+            "before": null,
+            "after": "4"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 13,
+      "added": 18,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "claude-com-pricing-20260401052230",
+    "url": "https://claude.com/pricing",
+    "ts": "20260401052230",
+    "date": "2026-04-01",
+    "source": "wayback",
+    "prevTs": "20260301082827",
+    "kind": "price",
+    "score": 39,
+    "counts": {
+      "price": 9,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Anthropic API: 9 prices, 6 limits changed (removed “Prompts ≤ 200K tokens”; added “$20/seat. Usage cost scales with model and task.”)",
+    "pairs": [],
+    "added": [
+      "$20/seat. Usage cost scales with model and task."
+    ],
+    "removed": [
+      "Prompts ≤ 200K tokens",
+      "Prompts > 200K tokens",
+      "$ 10 / MTok",
+      "Prompts ≤ 200K tokens",
+      "Prompts > 200K tokens",
+      "$ 37.50 / MTok",
+      "≤ 200K tokens",
+      "> 200K tokens",
+      "$ 12.50 / MTok",
+      "$ 1.00 / MTok",
+      "Prompts ≤ 200K tokens",
+      "Prompts > 200K tokens",
+      "$ 6 / MTok",
+      "Prompts ≤ 200K tokens",
+      "Prompts > 200K tokens",
+      "$ 22.50 / MTok",
+      "≤ 200K tokens",
+      "> 200K tokens",
+      "$ 7.50 / MTok",
+      "$ 0.60 / MTok"
+    ],
+    "totals": {
+      "removed": 58,
+      "added": 38,
+      "materialRemoved": 20,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "platform-claude-com-docs-en-about-claude-pricing-20260401185808",
+    "url": "https://platform.claude.com/docs/en/about-claude/pricing",
+    "ts": "20260401185808",
+    "date": "2026-04-01",
+    "source": "wayback",
+    "prevTs": "20260301150515",
+    "kind": "price",
+    "score": 37,
+    "counts": {
+      "price": 8,
+      "limit": 7,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Anthropic API: 8 prices, 7 limits changed (removed “When using Claude Opus 4.6, Sonnet 4.6, Sonne…”; added “Claude Opus 4.6 and Sonnet 4.6 include the fu…”)",
+    "pairs": [],
+    "added": [
+      "Claude Opus 4.6 and Sonnet 4.6 include the full 1M token context window",
+      "at standard pricing. (A 900k-token request is billed at the same per-token rate as a 9k-token request.) Prompt caching and batch processing discounts apply at standard rates across the full context window."
+    ],
+    "removed": [
+      "When using Claude Opus 4.6, Sonnet 4.6, Sonnet 4.5, or Sonnet 4 at standard speed with the 1M token context window enabled",
+      "requests that exceed 200K input tokens are automatically charged at premium long context rates. Fast mode",
+      "includes the full 1M context window at no additional long context charge.",
+      "The 1M token context window is currently in beta for organizations in usage tier",
+      "4 and organizations with custom rate limits. The 1M token context window is only available for Claude Opus 4.6, Sonnet 4.6, Sonnet 4.5, and Sonnet 4.",
+      "≤ 200K input tokens",
+      "> 200K input tokens",
+      "Input: $5 / MTok",
+      "Input: $10 / MTok",
+      "Output: $25 / MTok",
+      "Output: $37.50 / MTok",
+      "Input: $3 / MTok",
+      "Input: $6 / MTok",
+      "Output: $15 / MTok",
+      "Output: $22.50 / MTok",
+      "Even with the beta flag enabled, requests with fewer than 200K input tokens are charged at standard rates. If your request exceeds 200K input tokens, all tokens incur premium pricing.",
+      "The 200K threshold is based solely on input tokens (including cache reads/writes). Output token count does not affect pricing tier selection, though output tokens are charged at the higher rate when the input threshold is exceeded.",
+      "To check if your API request was charged at the 1M context window rates, examine the usage object in the API response:",
+      "If the total exceeds 200,000 tokens, the entire request was billed at 1M context rates."
+    ],
+    "totals": {
+      "removed": 66,
+      "added": 57,
+      "materialRemoved": 23,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "platform-claude-com-docs-en-api-rate-limits-20260403051146",
+    "url": "https://platform.claude.com/docs/en/api/rate-limits",
+    "ts": "20260403051146",
+    "date": "2026-04-03",
+    "source": "wayback",
+    "prevTs": "20260307042952",
+    "kind": "price",
+    "score": 14,
+    "counts": {
+      "price": 3,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Anthropic API: 3 prices, 3 limits changed (removed “$5,000”; added “$200,000”)",
+    "pairs": [],
+    "added": [
+      "$200,000",
+      "When you need a limit higher than your tier's ceiling (Tier 4's ceiling is $200,000 per month), click Contact Sales on the Limits"
+    ],
+    "removed": [
+      "$5,000",
+      "For long context requests (>200K tokens) when using the context-1m-2025-08-07 beta header with Claude Opus 4.x or Sonnet 4.x, separate rate limits apply. See Long context rate limits",
+      "When using Claude Opus 4.6, Sonnet 4.6, Sonnet 4.5, or Sonnet 4 with the 1M token context window enabled",
+      "the following dedicated rate limits apply to requests exceeding 200K tokens.",
+      "The 1M token context window is currently in beta for organizations in usage tier 4 and organizations with custom rate limits. The 1M token context window is only available for Claude Opus 4.6, Sonnet 4.6, Sonnet 4.5, and Sonnet 4.",
+      "To get the most out of the 1M token context window with rate limits, use prompt caching"
+    ],
+    "totals": {
+      "removed": 17,
+      "added": 28,
+      "materialRemoved": 8,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "claude-com-pricing-20260501052025",
+    "url": "https://claude.com/pricing",
+    "ts": "20260501052025",
+    "date": "2026-05-01",
+    "source": "wayback",
+    "prevTs": "20260401052230",
+    "kind": "price",
+    "score": 27,
+    "counts": {
+      "price": 9,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Anthropic API: 9 prices changed (removed “$ 0.25 / MTok”; added “$0.08 per session-hour for active runtime”)",
+    "pairs": [],
+    "added": [
+      "$0.08 per session-hour for active runtime",
+      "$ 5 / MTok",
+      "$ 25 / MTok",
+      "$ 6.25 / MTok",
+      "$ 0.50 / MTok"
+    ],
+    "removed": [
+      "$ 0.25 / MTok",
+      "$ 1.25 / MTok",
+      "$ 0.30 / MTok",
+      "$ 0.03 / MTok"
+    ],
+    "totals": {
+      "removed": 27,
+      "added": 38,
+      "materialRemoved": 4,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "platform-claude-com-docs-en-api-rate-limits-20260501062310",
+    "url": "https://platform.claude.com/docs/en/api/rate-limits",
+    "ts": "20260501062310",
+    "date": "2026-05-01",
+    "source": "wayback",
+    "prevTs": "20260403051146",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Anthropic API: 1 limit changed (added “300 requests per minute”)",
+    "pairs": [],
+    "added": [
+      "300 requests per minute",
+      "600 requests per minute"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 38,
+      "added": 15,
+      "materialRemoved": 1,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "platform-claude-com-docs-en-about-claude-pricing-20260504111305",
+    "url": "https://platform.claude.com/docs/en/about-claude/pricing",
+    "ts": "20260504111305",
+    "date": "2026-05-04",
+    "source": "wayback",
+    "prevTs": "20260401185808",
+    "kind": "price",
+    "score": 92,
+    "counts": {
+      "price": 29,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Anthropic API: 29 prices, 3 limits changed (4.6 → 4.7; 4.6 → 4.5)",
+    "pairs": [
+      {
+        "before": "Claude Opus 4.6 and Sonnet 4.6 include the full 1M token context window",
+        "after": "Opus 4.7, Opus 4.6, and Sonnet 4.6 include the full 1M token context window",
+        "confidence": 0.9,
+        "deltas": [
+          {
+            "before": "4.6",
+            "after": "4.7"
+          },
+          {
+            "before": "1M",
+            "after": "4.6"
+          },
+          {
+            "before": null,
+            "after": "1M"
+          }
+        ]
+      },
+      {
+        "before": "Using Claude Opus 4.6 at $5/MTok input, $25/MTok output",
+        "after": "Using Claude Haiku 4.5 at $1/MTok input, $5/MTok output",
+        "confidence": 0.71,
+        "deltas": [
+          {
+            "before": "4.6",
+            "after": "4.5"
+          },
+          {
+            "before": "$5",
+            "after": "$1"
+          },
+          {
+            "before": "$25",
+            "after": "$5"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$5 / MTok",
+      "$6.25 / MTok",
+      "$10 / MTok",
+      "$0.50 / MTok",
+      "$25 / MTok",
+      "$2.50 / MTok",
+      "$12.50 / MTok",
+      "346 tokens 313 tokens",
+      "multipliers apply identically. Web search triggered inside a session incurs the standard $10 per 1,000 searches.",
+      "$0.08 per session-hour",
+      "50,000 × $5 / 1,000,000",
+      "$0.25",
+      "15,000 × $25 / 1,000,000",
+      "$0.375",
+      "1.0 hour × $0.08",
+      "$0.08",
+      "$0.705",
+      "10,000 × $5 / 1,000,000",
+      "$0.05",
+      "40,000 × $5 × 0.1 / 1,000,000",
+      "$0.02",
+      "15,000 × $25 / 1,000,000",
+      "$0.375",
+      "1.0 hour × $0.08",
+      "$0.08",
+      "$0.525"
+    ],
+    "removed": [
+      "Typical input: 500-1,000 tokens",
+      "Processing cost: ~$0.003 per request",
+      "Retrieved context: 2,000-5,000 tokens",
+      "Cost per retrieval: ~$0.015 per operation",
+      "Combined cost: ~$0.045 per action"
+    ],
+    "totals": {
+      "removed": 129,
+      "added": 94,
+      "materialRemoved": 7,
+      "materialAdded": 28
+    }
+  },
+  {
+    "id": "claude-com-pricing-20260601013523",
+    "url": "https://claude.com/pricing",
+    "ts": "20260601013523",
+    "date": "2026-06-01",
+    "source": "wayback",
+    "prevTs": "20260501052025",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 4,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Anthropic API: 4 prices changed (added “$ 5 / MTok”)",
+    "pairs": [],
+    "added": [
+      "$ 5 / MTok",
+      "$ 25 / MTok",
+      "$ 6.25 / MTok",
+      "$ 0.50 / MTok"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 22,
+      "added": 32,
+      "materialRemoved": 0,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "platform-claude-com-docs-en-about-claude-pricing-20260601063217",
+    "url": "https://platform.claude.com/docs/en/about-claude/pricing",
+    "ts": "20260601063217",
+    "date": "2026-06-01",
+    "source": "wayback",
+    "prevTs": "20260504111305",
+    "kind": "price",
+    "score": 122,
+    "counts": {
+      "price": 30,
+      "limit": 16,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Anthropic API: 30 prices, 16 limits changed (4.6 → 4.8; 4.7 → 4.8)",
+    "pairs": [
+      {
+        "before": "(beta: research preview) for Claude Opus 4.6 provides significantly faster output at premium pricing (6x standard rates). Fast mode pricing applies across the full context window, including requests over 200k input tokens. Currently supported on Opus 4.6:",
+        "after": "in research preview, provides significantly faster output for Claude Opus 4.8, Claude Opus 4.7, and Claude Opus 4.6 at premium pricing. Fast mode pricing applies across the full context window, including requests over 200k input tokens. Fast mode is not available on Claude Platform on AWS.",
+        "confidence": 0.71,
+        "deltas": [
+          {
+            "before": "4.6",
+            "after": "4.8"
+          },
+          {
+            "before": "200k",
+            "after": "4.7"
+          },
+          {
+            "before": null,
+            "after": "200k"
+          }
+        ]
+      },
+      {
+        "before": "Opus 4.7, Opus 4.6, and Sonnet 4.6 include the full 1M token context window",
+        "after": "Claude Opus 4.8, Opus 4.7, Opus 4.6, and Sonnet 4.6 include the full 1M token context window",
+        "confidence": 0.9,
+        "deltas": [
+          {
+            "before": "4.7",
+            "after": "4.8"
+          },
+          {
+            "before": "4.6",
+            "after": "4.7"
+          },
+          {
+            "before": "1M",
+            "after": "4.6"
+          },
+          {
+            "before": null,
+            "after": "1M"
+          }
+        ]
+      },
+      {
+        "before": "346 tokens 313 tokens",
+        "after": "675 tokens 804 tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "346",
+            "after": "675"
+          },
+          {
+            "before": "313",
+            "after": "804"
+          }
+        ]
+      },
+      {
+        "before": "346 tokens 313 tokens",
+        "after": "497 tokens 589 tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "346",
+            "after": "497"
+          },
+          {
+            "before": "313",
+            "after": "589"
+          }
+        ]
+      },
+      {
+        "before": "346 tokens 313 tokens",
+        "after": "496 tokens 588 tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "346",
+            "after": "496"
+          },
+          {
+            "before": "313",
+            "after": "588"
+          }
+        ]
+      },
+      {
+        "before": "346 tokens 313 tokens",
+        "after": "313 tokens 315 tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "346",
+            "after": "313"
+          },
+          {
+            "before": "313",
+            "after": "315"
+          }
+        ]
+      },
+      {
+        "before": "346 tokens 313 tokens",
+        "after": "313 tokens 315 tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "346",
+            "after": "313"
+          },
+          {
+            "before": "313",
+            "after": "315"
+          }
+        ]
+      },
+      {
+        "before": "346 tokens 313 tokens",
+        "after": "497 tokens 589 tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "346",
+            "after": "497"
+          },
+          {
+            "before": "313",
+            "after": "589"
+          }
+        ]
+      },
+      {
+        "before": "346 tokens 313 tokens",
+        "after": "496 tokens 588 tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "346",
+            "after": "496"
+          },
+          {
+            "before": "313",
+            "after": "588"
+          }
+        ]
+      },
+      {
+        "before": "346 tokens 313 tokens",
+        "after": "313 tokens 315 tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "346",
+            "after": "313"
+          },
+          {
+            "before": "313",
+            "after": "315"
+          }
+        ]
+      },
+      {
+        "before": "346 tokens 313 tokens",
+        "after": "496 tokens 588 tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "346",
+            "after": "496"
+          },
+          {
+            "before": "313",
+            "after": "588"
+          }
+        ]
+      },
+      {
+        "before": "530 tokens 281 tokens",
+        "after": "264 tokens 355 tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "530",
+            "after": "264"
+          },
+          {
+            "before": "281",
+            "after": "355"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$5 / MTok",
+      "$6.25 / MTok",
+      "$10 / MTok",
+      "$25 / MTok",
+      "MTok = Million tokens. The \"Base Input Tokens\" column shows standard input pricing, the \"5m Cache Writes\", \"1h Cache Writes\", and \"Cache Hits & Refreshes\" columns are specific to prompt caching",
+      "$0.01 per CCU (fixed; discounts apply at token-to-CCU conversion, not to the CCU price)",
+      "), then converted to CCUs at $0.01 per CCU",
+      "$10 / MTok",
+      "$50 / MTok",
+      "$2.50 / MTok",
+      "$12.50 / MTok",
+      "290 tokens 410 tokens"
+    ],
+    "removed": [
+      "$3 / MTok",
+      "$3.75 / MTok",
+      "$6 / MTok",
+      "$0.30 / MTok",
+      "$15 / MTok",
+      "$15 / MTok",
+      "$18.75 / MTok",
+      "$30 / MTok",
+      "$1.50 / MTok",
+      "$75 / MTok",
+      "$0.25 / MTok",
+      "$0.30 / MTok",
+      "$0.03 / MTok",
+      "$1.25 / MTok",
+      "$1.50 / MTok",
+      "$7.50 / MTok",
+      "$7.50 / MTok",
+      "$37.50 / MTok",
+      "$0.125 / MTok",
+      "$0.625 / MTok",
+      "346 tokens 313 tokens",
+      "264 tokens 340 tokens",
+      "159 tokens 235 tokens",
+      "264 tokens 340 tokens",
+      "700 tokens",
+      "735 tokens"
+    ],
+    "totals": {
+      "removed": 112,
+      "added": 119,
+      "materialRemoved": 41,
+      "materialAdded": 27
+    }
+  },
+  {
+    "id": "platform-claude-com-docs-en-api-rate-limits-20260601084139",
+    "url": "https://platform.claude.com/docs/en/api/rate-limits",
+    "ts": "20260601084139",
+    "date": "2026-06-01",
+    "source": "wayback",
+    "prevTs": "20260501062310",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Anthropic API: 2 prices changed (removed “$100”; added “$500”)",
+    "pairs": [],
+    "added": [
+      "$500"
+    ],
+    "removed": [
+      "$100"
+    ],
+    "totals": {
+      "removed": 14,
+      "added": 16,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "platform-claude-com-docs-en-about-claude-pricing-20260701035419",
+    "url": "https://platform.claude.com/docs/en/about-claude/pricing",
+    "ts": "20260701035419",
+    "date": "2026-07-01",
+    "source": "wayback",
+    "prevTs": "20260601063217",
+    "kind": "price",
+    "score": 95,
+    "counts": {
+      "price": 30,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Anthropic API: 30 prices, 3 limits changed (4.6 → 200k; 4.6 → 5,)",
+    "pairs": [
+      {
+        "before": "in research preview, provides significantly faster output for Claude Opus 4.8, Claude Opus 4.7, and Claude Opus 4.6 at premium pricing. Fast mode pricing applies across the full context window, including requests over 200k input tokens. Fast mode is not available on Claude Platform on AWS.",
+        "after": "in research preview, provides significantly faster output for Claude Opus 4.8 and Claude Opus 4.7 at premium pricing. Fast mode pricing applies across the full context window, including requests over 200k input tokens. Fast mode is not available on Claude Platform on AWS.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4.6",
+            "after": "200k"
+          },
+          {
+            "before": "200k",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "Claude Opus 4.8, Opus 4.7, Opus 4.6, and Sonnet 4.6 include the full 1M token context window",
+        "after": "Claude Opus 4.8, Opus 4.7, Opus 4.6, Sonnet 5, and Sonnet 4.6 include the full 1M token context window",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4.6",
+            "after": "5,"
+          },
+          {
+            "before": "1M",
+            "after": "4.6"
+          },
+          {
+            "before": null,
+            "after": "1M"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$10 / MTok",
+      "$12.50 / MTok",
+      "$20 / MTok",
+      "$1 / MTok",
+      "$50 / MTok",
+      "$10 / MTok",
+      "$12.50 / MTok",
+      "$20 / MTok",
+      "$1 / MTok",
+      "$50 / MTok",
+      "$2 / MTok",
+      "$2.50 / MTok",
+      "$4 / MTok",
+      "$0.20 / MTok",
+      "$10 / MTok",
+      "$3 / MTok",
+      "$3.75 / MTok",
+      "$6 / MTok",
+      "$0.30 / MTok",
+      "$15 / MTok",
+      "$0.01 per CCU (fixed; discounts apply at token-to-CCU conversion, not to the CCU price)",
+      "), then converted to CCUs at $0.01 per CCU",
+      "$5 / MTok",
+      "$25 / MTok",
+      "$5 / MTok",
+      "$25 / MTok",
+      "$1 / MTok",
+      "$5 / MTok",
+      "$1.50 / MTok",
+      "$7.50 / MTok",
+      "354 tokens 474 tokens"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 36,
+      "added": 163,
+      "materialRemoved": 5,
+      "materialAdded": 36
+    }
+  },
+  {
+    "id": "claude-com-pricing-20260701064722",
+    "url": "https://claude.com/pricing",
+    "ts": "20260701064722",
+    "date": "2026-07-01",
+    "source": "wayback",
+    "prevTs": "20260601013523",
+    "kind": "price",
+    "score": 36,
+    "counts": {
+      "price": 12,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Anthropic API: 12 prices changed ($3 → $2; $15 → $10)",
+    "pairs": [
+      {
+        "before": "$ 3 / MTok",
+        "after": "$ 2 / MTok",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3",
+            "after": "$2"
+          }
+        ]
+      },
+      {
+        "before": "$ 15 / MTok",
+        "after": "$ 10 / MTok",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$15",
+            "after": "$10"
+          }
+        ]
+      },
+      {
+        "before": "$ 3.75 / MTok",
+        "after": "$ 2.50 / MTok",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.75",
+            "after": "$2.50"
+          }
+        ]
+      },
+      {
+        "before": "$ 0.30 / MTok",
+        "after": "$ 0.20 / MTok",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.30",
+            "after": "$0.20"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 10 / MTok",
+      "$ 50 / MTok",
+      "$ 12.50 / MTok",
+      "$ 1 / MTok"
+    ],
+    "removed": [
+      "$ 15 / MTok",
+      "$ 75 / MTok",
+      "$ 18.75 / MTok",
+      "$ 1.50 / MTok"
+    ],
+    "totals": {
+      "removed": 49,
+      "added": 58,
+      "materialRemoved": 13,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "platform-claude-com-docs-en-api-rate-limits-20260703063955",
+    "url": "https://platform.claude.com/docs/en/api/rate-limits",
+    "ts": "20260703063955",
+    "date": "2026-07-03",
+    "source": "wayback",
+    "prevTs": "20260601084139",
+    "kind": "price",
+    "score": 20,
+    "counts": {
+      "price": 6,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Anthropic API: 6 prices, 1 limit changed (600 → 1,200)",
+    "pairs": [
+      {
+        "before": "600 requests per minute",
+        "after": "1,200 requests per minute",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "600",
+            "after": "1,200"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "$5",
+      "$40",
+      "$500",
+      "$200",
+      "$400",
+      "When you need a limit higher than your tier's ceiling (Tier 4's ceiling is $200,000 per month), click Contact Sales on the Limits"
+    ],
+    "totals": {
+      "removed": 55,
+      "added": 57,
+      "materialRemoved": 7,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "claude-com-pricing-20260801100648",
+    "url": "https://claude.com/pricing",
+    "ts": "20260801100648",
+    "date": "2026-08-01",
+    "source": "wayback",
+    "prevTs": "20260701064722",
+    "kind": "price",
+    "score": 21,
+    "counts": {
+      "price": 4,
+      "limit": 1,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Anthropic API: 4 prices, 1 limit, 4 plan names changed (added “$ 5 / MTok”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "$ 5 / MTok",
+      "$ 25 / MTok",
+      "$ 6.25 / MTok",
+      "$ 0.50 / MTok",
+      "gives you everything in a Free plan with more usage and the full set of Claude capabilities. That includes Claude Code, Claude Cowork, Claude Design, along with projects to organize your chats and documents, access to more Claude models, and Claude for Microsoft 365. You can choose a monthly or annual subscription.",
+      "You can cancel anytime, and your plan stays active until the end of your current billing period. To avoid the next charge, cancel at least 24 hours before your renewal date.",
+      "Canceling doesn't delete your data. Your chats, projects, and files stay with your account, though some features aren't available on the Free plan. For Pro and Max, your account moves to the Free plan once the period ends. For step-by-step help, see how to cancel a Pro or Max plan"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 14,
+      "added": 139,
+      "materialRemoved": 0,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "platform-claude-com-docs-en-about-claude-pricing-20260801200108",
+    "url": "https://platform.claude.com/docs/en/about-claude/pricing",
+    "ts": "20260801200108",
+    "date": "2026-08-01",
+    "source": "wayback",
+    "prevTs": "20260701035419",
+    "kind": "price",
+    "score": 33,
+    "counts": {
+      "price": 9,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Anthropic API: 9 prices, 3 limits changed (4.8 → 1M)",
+    "pairs": [
+      {
+        "before": "Claude Opus 4.8, Opus 4.7, Opus 4.6, Sonnet 5, and Sonnet 4.6 include the full 1M token context window",
+        "after": "include the full 1M token context window",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "4.8",
+            "after": "1M"
+          },
+          {
+            "before": "4.7",
+            "after": null
+          },
+          {
+            "before": "4.6",
+            "after": null
+          },
+          {
+            "before": "5,",
+            "after": null
+          },
+          {
+            "before": "4.6",
+            "after": null
+          },
+          {
+            "before": "1M",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$5 / MTok",
+      "$6.25 / MTok",
+      "$10 / MTok",
+      "$0.50 / MTok",
+      "$25 / MTok",
+      "$2.50 / MTok",
+      "$12.50 / MTok",
+      "286 tokens 406 tokens",
+      "325 tokens",
+      "244 tokens"
+    ],
+    "removed": [
+      "in research preview, provides significantly faster output for Claude Opus 4.8 and Claude Opus 4.7 at premium pricing. Fast mode pricing applies across the full context window, including requests over 200k input tokens. Fast mode is not available on Claude Platform on AWS.",
+      "$30 / MTok",
+      "$150 / MTok"
+    ],
+    "totals": {
+      "removed": 19,
+      "added": 34,
+      "materialRemoved": 6,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "platform-claude-com-docs-en-api-rate-limits-20260802060611",
+    "url": "https://platform.claude.com/docs/en/api/rate-limits",
+    "ts": "20260802060611",
+    "date": "2026-08-02",
+    "source": "wayback",
+    "prevTs": "20260703063955",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Anthropic API: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 26,
+      "added": 142,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "platform-claude-com-docs-en-about-claude-pricing-20260901103305",
+    "url": "https://platform.claude.com/docs/en/about-claude/pricing",
+    "ts": "20260901103305",
+    "date": "2026-09-01",
+    "source": "wayback",
+    "prevTs": "20260801200108",
+    "kind": "price",
+    "score": 22,
+    "counts": {
+      "price": 7,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Anthropic API: 7 prices, 1 limit changed (removed “$3 / MTok”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$3 / MTok",
+      "$3.75 / MTok",
+      "$6 / MTok",
+      "$0.30 / MTok",
+      "$15 / MTok",
+      "$1.50 / MTok",
+      "$7.50 / MTok",
+      "735 tokens"
+    ],
+    "totals": {
+      "removed": 135,
+      "added": 89,
+      "materialRemoved": 11,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "claude-com-pricing-20260901215950",
+    "url": "https://claude.com/pricing",
+    "ts": "20260901215950",
+    "date": "2026-09-01",
+    "source": "wayback",
+    "prevTs": "20260801100648",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 4,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Anthropic API: 4 prices changed (added “$ 0.25 / MTok”)",
+    "pairs": [],
+    "added": [
+      "$ 0.25 / MTok",
+      "$ 10 / MTok",
+      "$ 50 / MTok",
+      "$ 12.50 / MTok"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 174,
+      "added": 39,
+      "materialRemoved": 11,
+      "materialAdded": 15
+    }
+  },
+  {
+    "id": "platform-claude-com-docs-en-api-rate-limits-20260902202107",
+    "url": "https://platform.claude.com/docs/en/api/rate-limits",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260802060611",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Anthropic API: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 116,
+      "added": 107,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
+  },
+  {
+    "id": "platform-claude-com-docs-en-about-claude-pricing-20260902202107",
+    "url": "https://platform.claude.com/docs/en/about-claude/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260901103305",
+    "kind": "price",
+    "score": 42,
+    "counts": {
+      "price": 14,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Anthropic API: 14 prices changed (added “$10 / MTok”)",
+    "pairs": [],
+    "added": [
+      "$10 / MTok",
+      "$12.50 / MTok",
+      "$20 / MTok",
+      "$0.25 / MTok 1",
+      "$50 / MTok",
+      "$10 / MTok",
+      "$12.50 / MTok",
+      "$20 / MTok",
+      "$0.25 / MTok 1",
+      "$50 / MTok",
+      "$5 / MTok",
+      "$25 / MTok",
+      "$5 / MTok",
+      "$25 / MTok"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 30,
+      "materialRemoved": 1,
+      "materialAdded": 15
+    },
+    "transition": true
+  }
+]

@@ -1,0 +1,70 @@
+Zilliz Cloud Pricing
+Scalable pricing designed for every team to fit any budget.
+Sign up now
+Or subscribe on AWS marketplace
+Free trial
+For feature experience and proofs of concept
+30-days free trial with $400 worth of credits
+No credit card required
+Try Free
+Hardware
+Performance-optimized CU and Capacity-optimized CU options
+Up to 4 CUs per database
+Up to 100 GB storage
+Features
+Available on AWS US East, AWS US West, and GCP
+Multiple projects
+Enterprise grade encryption in transit and at rest
+Support
+Slack
+E-mail support during business hours
+Response time within 1 business day
+Security and Compliance
+Full data encryption in transit
+Enterprise
+Compute Unit (CU)
+Storage
+$0.259 / hour
+$0.025 / GB per month
+$0.215 / hour
+$0.02 / GB per month
+Get Started
+Hardware
+Performance-optimized CU and Capacity-optimized CU options
+Up to 256 CUs per database
+Unlimited storage
+Features
+Available on AWS US East, AWS US West, and GCP
+Multiple projects
+Enterprise grade encryption in transit and at rest
+99.9% monthly uptime availability
+Configurable snapshot and retention policies ($0.025/GB)
+Backups every 24h, retained for 7 days
+Support
+Slack
+Premier support 24 x 365
+1 hour response time for urgent issues
+Security and Compliance
+Full data encryption in transit
+SOC 2 Type 2 compliant
+Frequently asked questions
+What is a Compute Unit (CU)?
+A CU is a group of hardware resources for serving your indexes and search requests. You can simply consider a CU as a fully-managed physical node for deploying search service.
+What's the difference between performance-optimized CU and capacity-optimized CU?
+The "performance-optimized Compute Unit" option suits low latency or high throughput similarity searches. This option works best for high-search performance scenarios.
+The "capacity-optimized Compute Unit" option suits data volumes that are five times larger than the performance-optimized CU option but at the cost of higher search latency. This option works best for increased storage capacity scenarios.
+How many CUs do I need for a given collection?
+A performance-optimized CU can serve 5 million 128-dimensional vectors. A capacity-optimized CU can fit 25 million 128-dimensional vectors.
+Since your collection's schema may differ from the ones in the simple guide above, we highly recommend you test the actual requirements against different CU types.
+Can I apply for more than 4 CUs for PoC in my free trial?
+Yes. By default, the upper limit of resource usage in the free trial is 4 CUs per database. However, If you need to test a large dataset that requires more resources, please contact us at support@zilliz.com
+We will try to help you complete your Proof of Concept (POC).
+How can I get further technical support?
+Please send your issues to us via support@zilliz.com
+We will reply you within 24 hours.
+What happened after the trial?
+After the free trial, your data will be automatically backed up and moved to the Recycle Bin, and the instance will be deleted. Data in the Recycle Bin will be retained for 30 days. You can upgrade to enterprise users by binding a credit card or your AWS Marketplace account. Within these 30 days, you can safely recover your data and rebuild your services. If you have not completed the PoC during the trial period, you can also contact us to extend the trial period.
+Is the pricing the same in every region?
+After the free trial, your data will be automatically backed up and moved to the Recycle Bin, and the instance will be deleted. Data in the Recycle Bin will be retained for 30 days. You can upgrade to enterprise users by binding a credit card or your AWS Marketplace account. Within these 30 days, you can safely recover your data and rebuild your services. If you have not completed the PoC during the trial period, you can also contact us to extend the trial.
+Get started with Zilliz Cloud
+Start Free Trial

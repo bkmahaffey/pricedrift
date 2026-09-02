@@ -1,0 +1,37 @@
+{
+  "slug": "windsurf",
+  "urls": {
+    "windsurf-com-pricing": {
+      "url": "https://windsurf.com/pricing",
+      "lastChecked": "20260501183951",
+      "lastSource": "wayback",
+      "latestTs": "20260501183951",
+      "hash": "67f34ba8d205ca7c",
+      "firstTs": "20250405014045",
+      "status": "ok",
+      "lastChanged": "20260501183951"
+    },
+    "devin-ai-pricing": {
+      "url": "https://devin.ai/pricing",
+      "lastChecked": "20260902202804",
+      "lastSource": "browser",
+      "latestTs": "20260902202107",
+      "hash": "3dfe5160083fc490",
+      "firstTs": "20241211030344",
+      "status": "ok",
+      "lastChanged": "20260902202107",
+      "failures": 0
+    },
+    "docs-devin-ai-desktop-accounts-usage": {
+      "url": "https://docs.devin.ai/desktop/accounts/usage",
+      "status": "ok",
+      "lastChecked": "20260902202804",
+      "lastNote": "http: only 64 lines; browser: 200, 64 lines; wayback: 65 lines",
+      "failures": 0,
+      "latestTs": "20260902202628",
+      "hash": "633b214bc71f5b07",
+      "firstTs": "20260902202628",
+      "lastSource": "http"
+    }
+  }
+}

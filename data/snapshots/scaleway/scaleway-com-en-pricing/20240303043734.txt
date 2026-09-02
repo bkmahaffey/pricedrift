@@ -1,0 +1,2646 @@
+Go to top
+Home
+Pricing
+Predictable pricing
+All
+Serverless
+Containers
+Storage
+Managed Databases
+Network
+Compute
+Bare Metal
+Managed Services
+Security and Identity
+Select products
+Clear all
+Serverless
+Serverless Functions
+Serverless Containers
+Serverless Jobs
+Serverless SQL Database
+Containers
+Kubernetes Kapsule
+Kubernetes Kosmos
+Container Registry
+Storage
+Object Storage
+Scaleway Glacier
+Block Storage
+Managed Databases
+Production-Optimized - DB-POP2
+Cost-Optimized - DB-PLAY2/DB-PRO2
+Cost-Optimized - DB-DEV/DB-GP
+Managed Database for Redis™
+Network
+Load Balancer
+VPC
+VPC Public Gateway
+Additional IP
+DNS
+Compute
+GPU Instances
+Learning - STARDUST1
+Cost-Optimized - PLAY2/PRO2
+Cost-Optimized - DEV1/GP1
+Cost-Optimized - ARM Based Instances
+Production-Optimized - POP2
+Production-Optimized - ENT1
+Workload-Optimized - POP2HC
+Workload-Optimized - POP2HM
+Security and Identity
+Secret Manager
+Managed Services
+Web Hosting
+IoT Hub
+Transactional Email
+Cockpit
+Bare Metal
+Dedibox Start
+Dedibox Pro
+Dedibox Core
+Dedibox Store
+Elastic Metal Aluminium
+Elastic Metal Beryllium
+Elastic Metal Lithium
+Elastic Metal Iridium
+Elastic Metal Titanium
+Mac mini M1
+Mac mini M2
+The monthly invoices for some products
+are calculated at the end of each month,
+and based on hourly resource usage
+during that month (e.g. Instances).
+Other products have fixed-price monthly billing.
+Billing:
+Hourly
+Monthly
+All
+Show unavailable products
+Serverless
+Functions
+Functions Serverless Functions
+Serverless Function is billed based on:
+Monthly requests: each request is billed €0.00000015 (or €0.15 per Million Requests), and we offer 1M free requests per account per month.
+Resources consumption are calculated by multiplying the execution duration (in ms) of your function by the memory tiers chosen (in GB). Resources consumption is billed €1.2 per 100k GB-s and we provide 400 000 GB-s Free Tiers per account and per month.
+Serverless - Functions - Serverless Functions Memory
+Price/100ms
+128 MB
+€0.000000150
+256 MB
+€0.000000300
+512 MB
+€0.000000600
+1024 MB
+€0.000001200
+2048 MB
+€0.000002400
+3072 MB
+€0.000003600
+4096 MB
+€0.000004800
+Legal Notice In order to mitigate cold start latency, you can also provision functions, we will charge an additional €0.36 per 100k GB-s fees to keep your functions warm.
+More info
+Containers
+Containers Serverless Containers
+Serverless Containers is billed strictly on the resources consumed by your running container over the month.
+Serverless - Containers - Serverless Containers Type of consumption
+Price
+Memory consumption
+€0.000001 / GB-s (€0.10 per 100k GB-s) after a 400 000 GB-s Free Tiers per account and per month
+vCPU consumption
+€0.00001 / vCPU-s (€1.0 per 100k vCPU-s) after a 200 000 vCPU-s Free Tiers per account and per month
+Legal Notice You can provision containers to mitigate cold start latency or ensure longer activities, you will be billed on the resources consumed
+More info
+Jobs
+Jobs Serverless Jobs
+Serverless Jobs is billed on the resources consumed by your running container over the month.
+(Please note that the pricing for Serverless Jobs will be in effect starting March 1, 2024.)
+Serverless - Jobs - Serverless Jobs Type of consumption
+Price
+Memory consumption
+€0.000001 / GB-s (€0.10 per 100k GB-s) after a 400 000 GB-s Free Tiers per account and per month
+vCPU consumption
+€0.00001 / vCPU-s (€1.0 per 100k vCPU-s) after a 200 000 vCPU-s Free Tiers per account and per month
+Legal Notice Prices before tax
+More info
+Database
+Database Serverless SQL Database
+Serverless SQL Database is billed on:
+Resources consumption: the vCPU provisioned every second (with a minimum 5-minute window when your database is active). Each vCPU includes 4 GB RAM of provisioned memory.
+Data stored: the amount of data stored in your database.
+Serverless - Database - Serverless SQL Database Type of consumption
+Price
+vCPU consumption
+€0.06876 /vCPU-hour (or €0.0000191 /vCPU-second)
+Storage
+€0.000136 /GB-hour
+Backup
+Free (Backups are performed each day automatically and stored 7 days)
+Legal Notice During Public Beta, prices include a 50% discount, already applied in the table below.
+More info
+Middleware
+Middleware Messaging and Queueing
+Messaging and Queueing are billed based on usage. Please note that messages have a restricted size.
+Serverless - Middleware - Messaging and Queueing Protocol name
+Payload limits
+Type
+Price
+SQS
+256 Kb/msg
+Price per Volume
+€0.01/GB
+NATS
+1 Mb/msg
+Price per Volume
+€0.01/GB
+NATS Persistence
+300 Mb/volume
+Price for Storage
+€0.1/GB/mth
+Legal Notice Prices before tax
+More info
+Containers
+Managed Kubernetes
+Managed Kubernetes Kubernetes Kapsule
+Starting with a free plan to the dedicated offer, Start and scale with Kubernetes Kapsule, integrated with all the necessary components: Container registry, Volumes, Load Balancers, Instances and even GPUs.
+Improve Kubernetes performances with our Dedicated Control plane
+offer. Price on request.
+Containers - Managed Kubernetes - Kubernetes Kapsule Name
+Memory
+Replicas
+Max Nodes
+SLA 99,5%
+Commitment
+Price
+Kapsule "Mutualized"
+Up to 4GB
+1
+150
+N/A
+Free
+Kapsule Dedicated-4
+4 GB dedicated
+2
+250
+Yes
+€0.11/hour €80/month
+Kapsule Dedicated-8
+8 GB dedicated
+2
+500
+Yes
+€0.18/hour €131/month
+Kapsule Dedicated-16
+16 GB dedicated
+2
+500
+Yes
+€0.35/hour €255/month
+Legal Notice Prices before tax
+More info
+Managed Kubernetes Kubernetes Kosmos
+Embrace a multi-cloud strategy with a managed Control Plane, dedicated or mutualized, to deploy containers across any available compute resources at Scaleway or any other providers.
+Improve Kubernetes performances with our Dedicated Control plane
+offer. Price on request.
+Containers - Managed Kubernetes - Kubernetes Kosmos Name
+Memory
+Replicas
+Max Nodes
+SLA 99,5%
+Commitment
+Price
+Kosmos "Mutualized"
+Up to 4GB
+1
+150
+N/A
+€0.1444/hour €105/month
+Kosmos Dedicated-4
+4 GB dedicated
+2
+250
+Yes
+€0.2544/hour €186/month
+Kosmos Dedicated-8
+8 GB dedicated
+2
+500
+Yes
+€0.3244/hour €237/month
+Kosmos Dedicated-16
+16 GB dedicated
+2
+500
+Yes
+€0.4944/hour €361/month
+Legal Notice Prices before tax
+More info
+Container Registry
+Container Registry Registry
+A fully managed container registry, facilitating storage, management and deployment of container images. You only pay for the stored images and external or inter-regional bandwidth. Incoming bandwidth is FREE.
+Containers - Container Registry - Registry Name
+Stored Images
+Outgoing data transfer
+Incoming data transfert
+Private images
+€0.027/GB/month
+Inter-regional: €0.033/GB Intra-regional: free
+Free
+Public images
+Free up to 75GB
+Inter-regional: free Intra-regional: free
+Free
+Legal Notice *Inter-regional: AMS ↔ PAR / Intra-regional: PAR ↔ PAR or AMS ↔ AMS is free of charge.
+Prices before tax.
+More info
+Storage
+Object Storage
+Object Storage Object Storage
+Scalable, fast and reliable S3-compatible storage platform for your data.
+Storage - Object Storage - Object Storage Type of consumption
+Price
+Multi-AZ Standard Object Storage
+€0.00002/GB/hour ~€0.0146/GB/month
+One Zone - IA Object Storage
+€0,0000165/GB/hour ~€0.012/GB/month
+Requests
+Included
+Ingress
+Included
+Bucket websites feature
+Free
+Egress fees: - external outgoing data transfer - inter-region data transfer*
+75 GB free every month, then €0.01/GB
+Archiving objects: Object Storage (Standard) → Cold Storage (Glacier)
+Free
+Legal Notice *Inter-regional: AMS ↔ PAR or AMS ↔ WAW or PAR ↔ WAW / Intra-regional: PAR ↔ PAR or AMS ↔ AMS or WAW ↔ WAW is free of charge.
+Important notice: Chia farming on Scaleway Object Storage that occurs without prior authorization will be billed at €0.08 per GB.
+Price before taxes.
+More info
+Object Storage Scaleway Glacier
+The most secured and reliable solution to archive your data. Secure your precious data in our fallout shelter 25 meters underground.
+Storage - Object Storage - Scaleway Glacier Type of consumption
+Price
+Data storage
+€0.00000348/GB/hour ~€0.002/GB/month
+Archiving objects from the Standard-class to the Glacier-class
+Free
+Restoring archived objects from the Glacier-class to the Standard-class
+€0.009/GB from November 6th, 2023
+Legal Notice Prices before tax
+More info
+Block Storage
+Block Storage Block Storage
+High-performance SSD network-attached persistent volumes for Instances and Kubernetes Kapsule clusters.
+Storage - Block Storage - Block Storage Name
+IOPS
+Transfer
+Price
+Block Storage SSD
+5,000 IOPS
+Free
+From €0.000118/GB/hour
+Block Storage Low Latency 5K
+5,000 IOPS
+Free
+€0.000118/GB/hour from March, 1st
+Block Storage Low Latency 15K
+15,000 IOPS
+Free
+€0.000177/GB/hour from March 1st
+Legal Notice Block Snapshot will be billed at €0.000044/GB/hour. Unified Snapshot will be billed at €0.000044/GB/hour.
+Prices before tax.
+More info
+Managed Databases
+Managed Database for PostgreSQL & MySQL
+Managed Database for PostgreSQL & MySQL Production-Optimized DB-POP2
+Our dedicated vCPU database range based on the latest hardware generation, optimized for your production workloads and mission-critical applications.
+Managed Databases - Managed Database for PostgreSQL & MySQL - Production-Optimized DB_POP2 Name
+vCPUs
+RAM
+Ratio
+1 node
+2 nodes - High availability
+DB-POP2-2C-8G
+2
+8
+1:4
+€0.1434/hour
+€0.2194/hour
+DB-POP2-4C-16G
+4
+16
+1:4
+€0.2866/hour
+€0.4385/hour
+DB-POP2-8C-32G
+8
+32
+1:4
+€0.5684/hour
+€0.8753/hour
+DB-POP2-16C-64G
+16
+64
+1:4
+€1.1269/hour
+€1.7467/hour
+DB-POP2-32C-128G
+32
+128
+1:4
+€2.1712/hour
+€3.2785/hour
+Legal Notice Prices before tax
+More info
+Managed Database for PostgreSQL & MySQL Cost-Optimized DB-PLAY2/DB-PRO2
+The latest generation of highly reliable databases with shared resources based on new hardware, that is made for scaling from development to production needs, at affordable prices.
+Managed Databases - Managed Database for PostgreSQL & MySQL - Cost-Optimized DB_PLAY2/DB_PRO2 Name
+vCPUs
+RAM
+Ratio
+1 node
+2 nodes - High availability
+DB-PLAY2-PICO
+1
+2
+1:2
+€0.0233/hour
+€0.0436/hour
+DB-PLAY2-NANO
+2
+4
+1:2
+€0.0432/hour
+€0.0808/hour
+DB-PRO2-XXS
+2
+8
+1:4
+€0.1100/hour
+€0.1683/hour
+Legal Notice Prices before tax
+More info
+Managed Database for PostgreSQL & MySQL Cost-Optimized DB-DEV/DB-GP
+A complete and highly reliable first-generation database range with shared resources, that is made to fit all your needs and budget.
+Managed Databases - Managed Database for PostgreSQL & MySQL - Cost-Optimized DB_DEV/DB_GP Name
+vCPUs
+RAM
+Ratio
+1 node
+2 nodes - High availability
+DB-DEV-S
+2
+1:1
+€0.0156/hour
+€0.0292/hour
+DB-DEV-M
+3
+4
+3:4
+€0.0382/hour
+€0.0565/hour
+DB-DEV-L
+4
+8
+1:2
+€0.0756/hour
+€0.1114/hour
+DB-DEV-XL
+4
+12
+1:3
+€0.1129/hour
+€0.1661/hour
+DB-GP-XS
+4
+16
+1:4
+€0.1906/hour
+€0.2817/hour
+DB-GP-S
+8
+32
+1:4
+€0.3803/hour
+€0.5616/hour
+DB-GP-M
+16
+64
+1:4
+€0.7595/hour
+€1.1211/hour
+DB-GP-L
+32
+128
+1:4
+n/a
+€1.9169/hour
+DB-GP-XL
+48
+256
+3:16
+n/a
+€3.9063/hour
+Legal Notice Prices before tax
+More info
+Memory Databases
+Memory Databases Managed Database for Redis™
+Boost the performance and scalability of your applications with a powerful and managed in-memory caching solution. Managed Database for Redis™ can be set in cluster-mode for High Availability, with 3 to 6 nodes.
+Managed Databases - Memory Databases - Managed Database for Redis™ Name
+vCPUs
+RAM
+Main node
+Additional nodes
+RED1-micro
+2 vCPUs
+2 GB
+From €0.0479/hour
+From €0.0274/hour
+RED1-2XS
+3 vCPUs
+4 GB
+From €0.0753/hour
+From €0.0411/hour
+RED1-XS
+4 vCPUs
+8 GB
+From €0.1370/hour
+From €0.0822/hour
+RED1-S
+4 vCPUs
+12 GB
+From €0.2055/hour
+From €0.1233/hour
+RED1-M
+4 vCPUs
+16 GB
+From €0.2740/hour
+From €0.1644/hour
+RED1-L
+8 vCPUs
+32 GB
+From €0.5479/hour
+From €0.3288/hour
+RED1-XL
+16 vCPUs
+64 GB
+From €1.0959/hour
+From €0.6575/hour
+Legal Notice Prices before tax
+More info
+Network
+VPC
+VPC VPC
+Secure your cloud resources on a reliable and secure private network to isolate your resources from the Internet.
+Maximize infrastructure reliability without compromising security by spreading the resources across the AZs communicating on the same private network in PAR-AMS-WAW region.
+Deploy easily complex architectures thanks to the DHCP server to avoid time-consuming configuration.
+Network - VPC - VPC Name
+IP Support
+Traffic
+Bandwith
+Price
+Private Networks
+IPv4 & IPv6
+Unlimited
+Up to 4 Gbps
+Free
+Private Networks up to 1 Gbps for Elastic Metal server
+IPv4 & IPv6
+Unlimited
+Up to 1 Gbps
+€9.99/month €0.03/hour
+Private Networks up to 10 Gbps for Elastic Metal server
+IPv4 & IPv6
+Unlimited
+Up to 10 Gbps
+€19.99/month €0.06/hour
+Legal Notice Prices before tax
+More info
+VPC Public Gateway
+Automate configuration and enable communication between your Private Networks and the internet.
+Network - VPC - Public Gateway Name
+Egress
+Bandwidth
+Price
+PUB-GW-S
+Included
+Up to 100 Mbps
+€0.0199/hour
+PUB-GW-M
+Included
+Up to 1 Gbps
+€0.0802/hour
+Legal Notice Prices before tax
+More info
+IP
+IP Additional IP
+Take advantage of additional IP addresses.
+Network - IP - Additional IP Name
+Compatible Product
+Details
+Price
+Additional IP address
+Instance
+Type: IPv4 IP per asset - 1 IP
+€0.004/hour
+Additional IP address
+Bare Metal
+Type: IPv4 IP per asset - up to 64 IP Options included: Virtual MAC, Reverse DNS
+€0.004/hour
+Legal Notice Prices before tax
+Load Balancer
+Load Balancer Load Balancer
+Load Balancers ensure application scaling while guaranteeing high performance and availability.
+Network - Load Balancer - Load Balancer Name
+Multicloud
+Backend servers
+Traffic
+Bandwidth
+Price
+LB-GP-S
+No
+Unlimited
+200 Mbit/s
+€0.016/hour
+LB-GP-M
+No
+Unlimited
+500 Mbit/s
+€0.037/hour
+LB-GP-L
+Yes
+Unlimited
+1 Gbit/s
+€0.094/hour
+LB-GP-XL
+Yes
+Unlimited
+4 Gbit/s
+€0.941/hour
+Legal Notice Prices before tax
+More info
+Domains and DNS
+Domains and DNS DNS
+Manage all your DNS records and your zones from a single environment.
+Check prices for all domain name extensions:
+https://www.scaleway.com/en/domains-name/
+Network - Domains and DNS - DNS Name
+Price per zone
+Price per request
+DNS per domain
+€0.001 per hour
+5 millions included Then €0.0005/million
+Legal Notice Prices before tax
+More info
+Compute
+Instances
+Instances GPU Instances
+Unleash the Potential of GPUs: Harness the speed and efficiency of Graphics Processing Units (GPUs) for parallelized workloads, making them perfect for rendering and AI projects. Our comprehensive lineup of NVIDIA GPUs, including P100 and H100, covers a wide range of computing needs.
+Compute - Instances - GPU Instances Name
+Cores
+GPU
+RAM
+Disks
+Bandwidth
+Price
+RENDER-S
+10 cores
+1 GPU
+42 GB
+NVMe Local Storage or Block Storage on demand
+1 Gbps
+€1.24/hour (~€891/month)
+GPU - 3070
+8 cores
+1 GPU
+16 GB
+Block Storage
+2.5 Gbps
+€0.98/hour (~€715/month)
+H100-1-80G
+24 cores
+1 GPU
+240 GB
+Block Storage
+10 Gbps
+starting at €1.9/hour (~€1387/month)
+H100-2-80G
+48 cores
+2 GPU
+480 GB
+Block Storage
+20 Gbps
+starting at €3.8/hour (~€2774/month)
+Legal Notice Unified Snapshot will be billed at €0.000044/GB/hour.
+Flexible IP is billed at €0.004/h.
+Prices before tax
+More info
+Instances Learning - STARDUST1
+Essential Compute resource with shared vCPU for basic workloads, personal projects and small apps. Limited availability without a fixed SLA.
+Compute - Instances - Learning _ STARDUST1 Name
+vCPUs
+RAM
+Disks
+Bandwidth
+Price
+Stardust1-s
+1 vCPU
+1 GB
+Block or Local Storage
+100 Mbps
+From €0.0046/hour (~€3.35/month)
+Legal Notice Unified Snapshot will be billed at €0.000044/GB/hour.
+Flexible IP is billed at €0.004/h.
+Prices before tax
+More info
+Instances Cost-Optimized - PLAY2/PRO2
+Best balance of price and performance, with shared vCPU for development & testing environments, CI/CD runners, and containerized worker nodes. Built on the newest AMD EPYC™ 7543 processors and offering resilient Block Storage.
+Compute - Instances - Cost-Optimized _ PLAY2/PRO2 Name
+vCPUs
+RAM
+Disks
+Bandwidth
+Price
+PLAY2-PICO
+1
+2 GB
+Block Storage
+100 Mbps
+From €0.014/hour (~€10/month)
+PLAY2-NANO
+2
+4 GB
+Block Storage
+200 Mbps
+From €0.027/hour (~€19/month)
+PLAY2-MICRO
+4
+8 GB
+Block Storage
+400 Mbps
+From €0.054/hour (~€39/month)
+PRO2-XXS
+2
+8 GB
+Block Storage
+350 Mbps
+From €0.055/hour (~€40/month)
+PRO2-XS
+4
+16 GB
+Block Storage
+700 Mbps
+From €0.11/hour (~€80/month)
+PRO2-S
+8
+32 GB
+Block Storage
+1.5 Gbps
+From €0.219/hour (~€159/month)
+PRO2-M
+16
+64 GB
+Block Storage
+3 Gbps
+From €0.438/hour (~€319/month)
+PRO2-L
+32
+128 GB
+Block Storage
+6 Gbps
+From €0.877/hour (~€640/month)
+Legal Notice Unified Snapshot will be billed at €0.000044/GB/hour.
+Flexible IP is billed at €0.004/h.
+Prices before tax
+More info
+Instances Cost-Optimized - DEV1/GP1
+The first generation of Cost-optimized instances, designed to scale development and testing production Instances at a minimal cost. Built on AMD EPYC™ 7281 processors (or equivalent), and offering either resilient Block Storage or a local storage option.
+Compute - Instances - Cost-Optimized _ DEV1/GP1 Name
+vCPUs
+RAM
+Disks
+Bandwidth
+Price
+DEV1-S
+2 vCPUs
+2 GB
+Block or Local Storage
+200 Mbps
+From €0.0088/hour (~€6/month)
+DEV1-M
+3 vCPUs
+4 GB
+Block or Local Storage
+300 Mbps
+From €0.0198/hour (~€14/month)
+DEV1-L
+4 vCPUs
+8 GB
+Block or Local Storage
+400 Mbps
+From €0.042/hour (~€30/month)
+DEV1-XL
+4 vCPUs
+12 GB
+Block or Local Storage
+500 Mbps
+From €0.0638/hour (~€46/month)
+GP1-XS
+4 vCPUs
+16 GB
+Block or Local Storage
+500 Mbps
+From €0.091/hour (~€66/month)
+GP1-S
+8 vCPUs
+32 GB
+Block or Local Storage
+800 Mbps
+From €0.187/hour (~€136/month)
+GP1-M
+16 vCPUs
+64 GB
+Block or Local Storage
+1.5 Gbps
+From €0.376/hour (~€274/month)
+GP1-L
+32 vCPUs
+128 GB
+Block or Local Storage
+5 Gbps
+From €0.759/hour (~€554/month)
+GP1-XL
+48 vCPUs
+256 GB
+Block or Local Storage
+10 Gbps
+From €1.641/hour (~€1197/month)
+Legal Notice Unified Snapshot will be billed at €0.000044/GB/hour.
+Flexible IP is billed at €0.004/h.
+Prices before tax
+More info
+Instances Cost-Optimized - ARM Based Instances
+Propel AI innovation with Scaleway's ARM Instances, powered by Ampere Altra: data center-grade efficiency meets cost-effectiveness and optimized performance.
+Compute - Instances - Cost-Optimized _ ARM Based Instances Name
+vCPUs
+RAM
+Disks
+Bandwidth
+Price
+COPARM1-2C-8G
+2
+8
+Block Storage
+200
+From 0.0426€/hour (~€31/month)
+COPARM1-4C-16G
+4
+16
+Block Storage
+400
+From 0.0857€/hour (~€62/month)
+COPARM1-8C-32G
+8
+32
+Block Storage
+800
+From 0.1724€/hour (~€125/month)
+COPARM1-16C-64G
+16
+64
+Block Storage
+1600
+From 0.3454€/hour (~€251/month)
+COPARM1-32C-128G
+32
+128
+Block Storage
+3200
+From 0.6935€/hour (~€506/month)
+Legal Notice Unified Snapshot will be billed at €0.000044/GB/hour.
+Flexible IP is billed at €0.004/h.
+Prices before tax
+More info
+Instances Production-Optimized - POP2
+Next-generation production optimized instances with dedicated vCPU and improved performance management, tailored for demanding workloads and enhanced scalability.
+Compute - Instances - Production-Optimized _ POP2 Name
+vCPUs
+RAM
+Ratio
+Bandwidth
+Disks
+Price
+POP2-2C-8G
+2 vCPUs
+8 GB
+1/4
+400 Mbps
+Block Storage
+From €0.074/hour (~€54/month)
+POP2-4C-16G
+4 vCPUs
+16 GB
+1/4
+800 Mbps
+Block Storage
+From €0.147/hour (~€107/month)
+POP2-8C-32G
+8 vCPUs
+32 GB
+1/4
+1.6 Gbps
+Block Storage
+From €0.29/hour (~€211/month)
+POP2-16C-64G
+16 vCPUs
+64 GB
+1/4
+3.2 Gbps
+Block Storage
+From €0.59/hour (~€430/month)
+POP2-32C-128G
+32 vCPUs
+128 GB
+1/4
+6.4 Gbps
+Block Storage
+From €1.18/hour (~€861/month)
+POP2-64C-256G
+64 vCPUs
+256 GB
+1/4
+12.8 Gbps
+Block Storage
+From €2.35/hour (~€1715/month)
+Legal Notice Unified Snapshot will be billed at €0.000044/GB/hour.
+Flexible IP is billed at €0.004/h.
+Prices before tax
+More info
+Instances Production-Optimized - ENT1
+High-performance and reliable instances with dedicated vCPU for production workloads and business-critical apps.
+Compute - Instances - Production-Optimized _ ENT1 Name
+vCPUs
+RAM
+Disks
+Bandwidth
+Price
+ENT1-XXS
+2
+8 GB
+Block Storage
+Up to 400 Mbps
+From €0.074/hour (~€54/month)
+ENT1-XS
+4
+16 GB
+Block Storage
+Up to 800 Mbps
+From €0.147/hour (~€107/month)
+ENT1-S
+8
+32 GB
+Block Storage
+Up to 1.6 Gbps
+From €0.29/hour (~€211/month)
+ENT1-M
+16
+64 GB
+Block Storage
+Up to 3.2 Gbps
+From €0.59/hour (~€430/month)
+ENT1-L
+32
+128 GB
+Block Storage
+Up to 6.4 Gbps
+From €1.18/hour (~€861/month)
+ENT1-XL
+64
+256 GB
+Block Storage
+Up to 12.8 Gbps
+From €2.35/hour (~€1715/month)
+ENT1-2XL
+96
+384 GB
+Block Storage
+Up to 20 Gbps
+From €3.53/hour (~€2445/month)
+Legal Notice Unified Snapshot will be billed at €0.000044/GB/hour.
+Flexible IP is billed at €0.004/h.
+Prices before tax
+More info
+Instances Workload-Optimized - POP2HC
+Unlock unrivaled computing power and reliability with POP2HC - purpose-built instances featuring dedicated vCPUs for high-performance production workloads and mission-critical applications.
+Compute - Instances - Workload-Optimized _ POP2HC Name
+vCPUs
+RAM
+Ratio
+Bandwidth
+Disks
+Price
+POP2-HC-2C-4G
+2 vCPUs
+4 GB
+1/2
+400 Mbps
+Block Storage
+From €0.05/hour (~38€ per month)
+POP2-HC-4C-8G
+4 vCPUs
+8 GB
+1/2
+800 Mbps
+Block Storage
+From €0.11/hour (~77€ per month)
+POP2-HC-8C-16G
+8 vCPUs
+16 GB
+1/2
+1.6 Gbps
+Block Storage
+From €0.21/hour (~155€ per month)
+POP2-HC-16C-32G
+16 vCPUs
+32 GB
+1/2
+3.2 Gbps
+Block Storage
+From €0.43/hour (~310€ per month)
+POP2-HC-32C-64G
+32 vCPUs
+64 GB
+1/2
+6.4 Gbps
+Block Storage
+From €0.85/hour (~621€ per month)
+POP2-HC-64C-128G
+64 vCPUs
+128 GB
+1/2
+12.8 Gbps
+Block Storage
+From €1.70/hour (~1242€ per month)
+Legal Notice Unified Snapshot will be billed at €0.000044/GB/hour.
+Flexible IP is billed at €0.004/h.
+Prices before tax
+More info
+Instances Workload-Optimized - POP2HM
+High-memory and powerful instances with dedicated vCPU, designed for memory-intensive workloads and data-intensive applications.
+Compute - Instances - Workload-Optimized _ POP2HM Name
+vCPUs
+RAM
+Ratio
+Bandwidth
+Disks
+Price
+POP2-HM-2C-16G
+2 vCPUs
+16 GB
+1/8
+400 Mbps
+Block Storage
+From €0.10/hour (~75€ per month)
+POP2-HM-4C-32G
+4 vCPUs
+32 GB
+1/8
+800 Mbps
+Block Storage
+From €0.21/hour (~150€ per month)
+POP2-HM-8C-64G
+8 vCPUs
+64 GB
+1/8
+1.6 Gbps
+Block Storage
+From €0.41/hour (~300€ per month)
+POP2-HM-16C-128G
+16 vCPUs
+128 GB
+1/8
+3.2 Gbps
+Block Storage
+From €0.82/hour (~600€ per month)
+POP2-HM-32C-256G
+32 vCPUs
+256 GB
+1/8
+6.4 Gbps
+Block Storage
+From €1.65/hour (~1203€ per month)
+POP2-HM-64C-512G
+64 vCPUs
+512 GB
+1/8
+12.8 Gbps
+Block Storage
+From €3.30/hour (~2406€ per month)
+Legal Notice Unified Snapshot will be billed at €0.000044/GB/hour.
+Flexible IP is billed at €0.004/h.
+Prices before tax
+More info
+Bare Metal
+Elastic Metal
+Elastic Metal Aluminium
+Fully dedicated Bare Metal servers with native cloud integration, at the best price.
+Please find all options available for Elastic Metal servers
+.
+Open all
+Bare Metal - Elastic Metal - Aluminium Name
+CPU
+RAM
+Disks
+Public Bandwidth
+Price
+Subtable open buttons
+EM-A210R-HDD
+1x AMD Ryzen PRO 3600 6C / 12T - 3,6 GHz
+16 GB
+2 x 1 TB HDD
+1 Gbit/s
+€43.99/month €0.122/hour
+Open
+Regions
+CPU Benchmark
+RAM Type
+Private network
+Private bandwidth
+France
+PAR 2
+18 037
+ECC
+(optional)
+up to 1 Gbit/s
+EM-A315X-SSD
+1x Intel Xeon E5 1410 v2 4C / 8T - 2,8 GHz
+64 GB
+2 × 1TB SSD
+1 Gbit/s
+€54.99/month €0.153/hour
+Open
+Regions
+CPU Benchmark
+RAM Type
+Private network
+Private bandwidth
+France
+PAR 1
+5842
+ECC
+(optional)
+up to 1 Gbit/s
+EM-A410X-SSD
+1x Intel Xeon E5 1650 6C / 12T - 3,2 GHz
+64 GB
+2 x 1 TB SSD
+1 Gbit/s
+€54.99/month €0.153/hour
+Open
+Regions
+CPU Benchmark
+RAM Type
+Private network
+Private bandwidth
+France
+PAR 2
+8 084
+ECC
+(optional)
+up to 1 Gbit/s
+Legal Notice A commitment fee equivalent to one month of server rental is charged for each Elastic Metal server order with monthly billing. No commitment fee is charged for hourly billing.
+Price before tax
+More info
+Elastic Metal Beryllium
+Powerful, balanced and reliable servers for production-grade applications.
+Please find all options available for Elastic Metal servers
+.
+Open all
+Bare Metal - Elastic Metal - Beryllium Name
+CPU
+RAM
+Disks
+Public Bandwidth
+Price
+Subtable open buttons
+EM-B111X-SATA
+2x Intel Xeon E5 2620* 6C / 12T - 2 GHz
+192 GB
+2 x 8 TB HDD
+1 Gbit/s
+€94.99/month €0.263/hour
+Open
+Regions
+CPU Benchmark
+RAM Type
+Private network
+Private bandwidth
+France
+PAR 1 | PAR 2
+9 612
+ECC
+(optional)
+up to 1 Gbit/s
+EM-B112X-SSD
+2x Intel Xeon E5 2620* 6C / 12T - 2 GHz
+192 GB
+2 x 1 TB SSD
+1 Gbit/s
+€94.99/month €0.263/hour
+Open
+Regions
+CPU Benchmark
+RAM Type
+Private network
+Private bandwidth
+France
+PAR 1 | PAR 2
+9 612
+ECC
+(optional)
+up to 1 Gbit/s
+EM-B211X-SATA
+2x Intel Xeon E5 2670* 8C / 16T - 2,6 GHz
+256 GB
+2 x 8 TB HDD
+1 Gbit/s
+€115.99/month €0.321/hour
+Open
+Regions
+CPU Benchmark
+RAM Type
+Private network
+Private bandwidth
+France
+PAR 2
+15 682
+ECC
+(optional)
+up to 1 Gbit/s
+EM-B212X-SSD
+2x Intel Xeon E5 2670* 8C / 16T - 2,6 GHz
+256 GB
+2 x 1 TB SSD
+1 Gbit/s
+€115.99/month €0.321/hour
+Open
+Regions
+CPU Benchmark
+RAM Type
+Private network
+Private bandwidth
+France
+PAR 1 | PAR 2
+15 682
+ECC
+(optional)
+up to 1 Gbit/s
+EM-B311X-SATA
+2x Intel Xeon E5 2670 v2* 10C / 20T - 2,5 GHz
+256 GB
+2 x 12 TB HDD
+1 Gbit/s
+€136.99/month €0.379/hour
+Open
+Regions
+CPU Benchmark
+RAM Type
+Private network
+Private bandwidth
+France
+PAR 2
+20 979
+ECC
+(optional)
+up to 1 Gbit/s
+EM-B312X-SSD
+2x Intel Xeon E5 2670 v2* 10C / 20T - 2,5 GHz
+256 GB
+2 x 1 TB SSD
+1 Gbit/s
+€136.99/month €0.379/hour
+Open
+Regions
+CPU Benchmark
+RAM Type
+Private network
+Private bandwidth
+France
+PAR 2
+20 979
+ECC
+(optional)
+up to 1 Gbit/s
+EM-B220E-NVME
+AMD EPYC™ 7232P 8c/16t, 3.1 Ghz
+64 GB
+2 x 1 TB NVMe
+1 Gbit/s
+€119.99/month €0.333/hour
+Open
+Regions
+CPU Benchmark
+RAM Type
+Private network
+Private bandwidth
+France
+PAR 2
+17 017
+ECC
+(optional)
+up to 10 Gbit/s
+EM-B320E-NVME
+AMD EPYC™ 7232P 8c/16t, 3.1 Ghz
+128 GB
+2 x 2 TB NVMe
+1 Gbit/s
+€149.99/month €0.417/hour
+Open
+Regions
+CPU Benchmark
+RAM Type
+Private network
+Private bandwidth
+France
+PAR 2
+17 017
+ECC
+(optional)
+up to 10 Gbit/s
+EM-B420E-NVME
+AMD EPYC™ 7272 12c/24t, 2.9 Ghz
+128 GB
+2 x 1 TB NVMe
+1 Gbit/s
+€159.99/month €0.444/hour
+Open
+Regions
+CPU Benchmark
+RAM Type
+Private network
+Private bandwidth
+France
+PAR 2
+26 446
+ECC
+(optional)
+up to 10 Gbit/s
+EM-B520E-NVME
+AMD EPYC™ 7272 12c/24t, 2.9 Ghz
+256 GB
+2 x 2 TB NVMe
+1 Gbit/s
+€189.99/month €0.528/hour
+Open
+Regions
+CPU Benchmark
+RAM Type
+Private network
+Private bandwidth
+France
+PAR 2
+26 446
+ECC
+(optional)
+up to 10 Gbit/s
+Legal Notice A commitment fee equivalent to one month of server rental is charged for each Elastic Metal server order with monthly billing. No commitment fee is charged for hourly billing.
+Price before tax
+More info
+Elastic Metal Lithium
+Designed with huge local storage to keep, back up, and protect your data.
+Please find all options available for Elastic Metal servers
+.
+Open all
+Bare Metal - Elastic Metal - Lithium Name
+CPU
+RAM
+Disks
+Public Bandwidth
+Price
+Subtable open buttons
+EM-L101X-SATA
+1x Intel Xeon E5 1410 v2 4C / 8T - 2,8 GHz
+96 GB
+2 x 6 TB HDD
+1 Gbit/s
+€43.99/month €0.122/hour
+Open
+Regions
+CPU Benchmark
+RAM Type
+Private network
+Private bandwidth
+France
+PAR 1 | PAR 2
+Netherlands
+AMS 1
+5 842
+ECC
+(optional)
+up to 1 Gbit/s
+EM-L105X-SATA
+1x Intel Xeon E5 1410 v2 4C / 8T - 2,8 GHz
+96 GB
+4 x 6 TB HDD
+1 Gbit/s
+€76.99/month €0.213/hour
+Open
+Regions
+CPU Benchmark
+RAM Type
+Private network
+Private bandwidth
+France
+PAR 1 | PAR 2
+Netherlands
+AMS 1
+5 842
+ECC
+(optional)
+up to 1 Gbit/s
+EM-L110X-SATA
+1x Intel Xeon E5 1410 v2 4C / 8T - 2,8 GHz
+96 GB
+4 x 12 TB HDD
+1 Gbit/s
+€131.99/month €0.366/hour
+Open
+Regions
+CPU Benchmark
+RAM Type
+Private network
+Private bandwidth
+France
+PAR 1 | PAR 2
+Netherlands
+AMS 1
+5 842
+ECC
+(optional)
+up to 1 Gbit/s
+Legal Notice A commitment fee equivalent to one month of server rental is charged for each Elastic Metal server order with monthly billing. No commitment fee is charged for hourly billing.
+Price before tax
+More info
+Elastic Metal Iridium
+Powerful dedicated servers designed to handle high workload applications.
+Please find all options available for Elastic Metal servers
+.
+Open all
+Bare Metal - Elastic Metal - Iridium Name
+CPU
+RAM
+Disks
+Public Bandwidth
+Price
+Subtable open buttons
+EM-I210E-NVME
+1x AMD EPYC 7313P 16C/32T - 3.0 GHz
+128 GB
+2 × 1.92 TB NVMe
+1 Gbit/s
+€239.99/month €0.667/hour
+Open
+Regions
+CPU Benchmark
+RAM Type
+Private network
+Private bandwidth
+France
+PAR 1 | PAR 2
+40494
+ECC
+(optional)
+Up to 10 Gbit/s
+Legal Notice A commitment fee equivalent to one month of server rental is charged for each Elastic Metal server order with monthly billing. No commitment fee is charged for hourly billing.
+Price before tax
+More info
+Elastic Metal Titanium
+The best performance for your demanding compute workloads.
+Please find all options available for Elastic Metal servers
+.
+Open all
+Bare Metal - Elastic Metal - Titanium Name
+CPU
+RAM
+Disks
+Public Bandwidth
+Price
+Subtable open buttons
+EM-T210E-NVME
+2x AMD EPYC 7742 64C / 128T - 2,25 GHz
+2048 GB
+4 x 1.92 TB NVMe
+10 Gbit/s
+€2 625.99/month €7.271/hour
+Open
+Regions
+CPU Benchmark
+RAM Type
+Private network
+Private bandwidth
+France
+PAR 2
+95 937
+ECC
+(optional)
+up to 1 Gbit/s
+EM-T510X-NVME
+8x Intel Xeon Platinum 8280 28C / 56T - 2,7 GHz
+1536 GB
+6 x 3.2 TB NVMe 2 x 0.8 TB SSD
+10 Gbit/s
+€10 907.99/month €30.299/hour
+Open
+Regions
+CPU Benchmark
+RAM Type
+Private network
+Private bandwidth
+France
+PAR 2
+257 164
+1,54 To +
+(optional)
+up to 1 Gbit/s
+Legal Notice A commitment fee equivalent to one month of server rental is charged for each Elastic Metal server order with monthly billing. No commitment fee is charged for hourly billing.
+Price before tax
+More info
+Dedibox
+Dedibox Start
+These servers are perfect for testing, pre-production or to host small applications.
+Please find all options available for Dedibox servers
+.
+Open all
+Bare Metal - Dedibox - Start Name
+CPU
+RAM
+Disks
+Public Bandwidth
+Price
+Subtable open buttons
+START-2-XS-SATA
+1x Intel® C2350 (Avoton) 2C/2T - 1.7 GHz
+4 GB
+1 x 500 GB HDD
+250 Mbps
+€9.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 2
+Netherlands
+AMS 1
+898
+DDR3
+N/A
+START-2-S-SSD
+1x Intel® C2350 (Avoton) 2C/2T - 1.7 GHz
+4 GB
+1 x 120 GB SSD
+250 Mbps
+€9.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 2
+Netherlands
+AMS 1
+898
+DDR3
+N/A
+START-2-S-SATA
+Bestseller
+1x Intel® C2350 (Avoton) 2C/2T - 1.7 GHz
+4 GB
+1 x 1 TB HDD
+250 Mbps
+€9.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 2 | PAR 5
+Netherlands
+AMS 1
+898
+DDR3
+N/A
+START-3-S-SSD
+1x Intel® C2350 (Avoton) 2C/2T - 1.7 GHz
+4 GB
+1 x 250 GB SSD
+250 Mbps
+€13.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 5
+898
+DDR3 ECC
+N/A
+START-1-M-SATA
+1x Intel® C2750 (Avoton) 8C/8T - 2.4 GHz
+8 GB
+1 x 1 TB HDD
+100 Mbps
+€15.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 2 | PAR 3
+2401
+DDR3 ECC
+N/A
+START-1-M-SSD
+Unavailable
+1x Intel® C2750 (Avoton) 8C/8T - 2.4 GHz
+8 GB
+1 x 120 GB SSD
+100 Mbps
+€15.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 2
+2401
+DDR3 ECC
+N/A
+START-1-M-SSD-160G
+Unavailable
+1x Intel® C2750 (Avoton) 8C/8T - 2.4 GHz
+8 GB
+1 x 160 GB SSD
+100 Mbps
+€15.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 2
+2401
+DDR3 ECC
+N/A
+START-2-M-SATA
+1x Intel® C2750 (Avoton) 8C/8T - 2.4 GHz
+16 GB
+1 x 1 TB HDD
+250 Mbps
+€16.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 2
+Netherlands
+AMS 1
+2401
+DDR3
+RPNv1
+2.5 Gbps
+START-2-M-SSD
+Bestseller
+1x Intel® C2750 (Avoton) 8C/8T - 2.4 GHz
+16 GB
+1 x 250 GB SSD
+250 Mbps
+€16.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 2
+Netherlands
+AMS 1
+2401
+DDR3
+RPNv1
+2.5 Gbps
+START-1-L
+1x Intel® Xeon E3 1220v2 4C/4T - 3.1 GHz
+16 GB
+2 x 1 TB HDD
+200 Mbps
+€23.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 2 | PAR 3
+4686
+DDR3 ECC
+N/A
+START-2-L
+1x Intel® Xeon® D-1531 6C/12T - 2.2 GHz
+32 GB
+2 x 250 GB SSD
+300 Mbps
+€24.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 2 | PAR 5
+7967
+DDR4 ECC
+N/A
+START-3-L
+1x Intel® Xeon® D-1531 6C/12T - 2.2 GHz
+32 GB
+2 x 500 GB SSD
+300 Mbps
+€34.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 2
+Netherlands
+AMS 1
+7967
+DDR4 ECC
+N/A
+Legal Notice An installation fee equivalent to one month of server rental is charged for each Dedibox server order.
+Prices before tax
+More info
+Dedibox Pro
+Bring flexibility and versatility to your projects our unique balance of processing, memory and storage.
+Please find all options available for Dedibox servers
+.
+Open all
+Bare Metal - Dedibox - Pro Name
+CPU
+RAM
+Disks
+Public Bandwidth
+Price
+Subtable open buttons
+PRO-4-S
+1x Intel® Xeon E3 1245v5 4C/8T - 3.5 GHz
+32 GB
+3 x 250 GB SSD
+300 Mbps
+€44.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 2 | PAR 5
+8038
+DDR4 ECC
+RPNv2
+1 Gbps
+PRO-5-S
+Bestseller
+1x Intel® Xeon E3 1240v6 4C/8T - 3.7 GHz
+32 GB
+3 x 250 GB SSD
+300 Mbps
+€44.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 2 | PAR 5
+8809
+DDR4 ECC
+RPNv2
+1 Gbps
+PRO-5-S-LE
+1x Intel® Xeon E3 1240v6 4C/8T - 3.7 GHz
+32 GB
+2 x 250 GB SSD
+300 Mbps
+€49.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 5
+8809
+DDR4 ECC
+N/A
+PRO-4-M
+1x Intel® Xeon E3 1245v5 4C/8T - 3.5 GHz
+64 GB
+3 x 500 GB SSD
+300 Mbps
+€54.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 2 | PAR 5
+8038
+DDR4 ECC
+RPNv2
+1 Gbps
+PRO-6-S
+1x Intel® Xeon E3 1240v6 4C/8T - 3.7 GHz
+64 GB
+2 x 500 GB SSD
+500 Mbps
+€54.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 5
+Netherlands
+AMS 1
+8809
+DDR4 ECC
+RPNv2
+1 Gbps
+PRO-8-XS-LE
+New
+1x Intel® Xeon E5 1410v2 4C/8T - 2.8 GHz
+64 GB
+2 x 1 TB SSD
+500 Mbps
+€57.49/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 2 | PAR 5
+5842
+DDR3 ECC
+RPNv2
+1 Gbps
+PRO-2-M-SATA
+1x Intel® Xeon E3 1230v3 4C/8T - 3.3 GHz
+32 GB
+2 x 2 TB HDD
+100 Mbps
+€59.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 3
+6833
+DDR3 ECC
+RPNv1
+1 Gbps
+PRO-5-M
+1x Intel® Xeon E3 1240v6 4C/8T - 3.7 GHz
+64 GB
+3 x 500 GB SSD
+500 Mbps
+€59.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 2 | PAR 5
+8809
+DDR4 ECC
+RPNv2
+1 Gbps
+PRO-8-XS
+New
+1x Intel® Xeon E5 1410v2 4C/8T - 2.8 GHz
+96 GB
+3 x 1 TB SSD
+750 Mbps
+€69.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 2 | PAR 5
+5842
+DDR3 ECC
+RPNv2
+1 Gbps
+PRO-3-L-SATA
+Unavailable
+1x Intel® Xeon E5 1410v2 4C/8T - 2.8 GHz
+96 GB
+2 x 4 TB HDD
+400 Mbps
+€79.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 3
+5842
+DDR3 ECC
+RPNv1
+1 Gbps
+PRO-4-L
+Bestseller
+1x Intel® Xeon E5 1650v3 6C/12T - 3.5 GHz
+96 GB
+3 x 500 GB SSD
+500 Mbps
+€79.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 2 | PAR 3
+Netherlands
+AMS 1
+10338
+DDR4 ECC
+RPNv2
+10 Gbps
+PRO-7-S
+Bestseller
+1x Intel Xeon E-2246G 6C/12T - 3.6 GHz
+32 GB
+2 x 480 GB NVMe
+750 Mbps
+€89.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 2 | PAR 5
+Netherlands
+AMS 1
+14018
+DDR4 ECC
+RPNv2
+1 Gbps
+PRO-7-M
+Bestseller
+1x Intel Xeon E-2246G 6C/12T - 3.6 GHz
+64 GB
+2 x 960 GB NVMe
+750 Mbps
+€99.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 2 | PAR 5
+Netherlands
+AMS 1
+14018
+DDR4 ECC
+RPNv2
+1 Gbps
+PRO-3-L-SSD-160
+Unavailable
+1x Intel® Xeon E5 1410v2 4C/8T - 2.8 GHz
+96 GB
+2 x 160 GB SSD
+400 Mbps
+€100.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+5842
+DDR3 ECC
+RPNv1
+1 Gbps
+PRO-3-L-SSD
+Unavailable
+1x Intel® Xeon E5 1410v2 4C/8T - 2.8 GHz
+96 GB
+2 x 500 GB SSD
+400 Mbps
+€100.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+5842
+DDR3 ECC
+RPNv1
+1 Gbps
+PRO-5-L
+1x AMD EPYC 7281 16C/32T - 2.1 GHz
+96 GB
+2 x 1 TB NVMe
+750 Mbps
+€129.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 5
+21230
+DDR4 ECC
+RPNv2
+10 Gbps
+PRO-9-M
+Unavailable New
+1x AMD EPYC™ 7272 12C/24T - 2.9 GHz
+128 GB
+2 x 1 TB NVMe
+Up to 1 Gbps
+€159.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 2 | PAR 5
+25568
+DDR4 ECC
+RPNv2
+10 Gbps
+PRO-9-L
+Unavailable New
+1x AMD EPYC™ 7272 12C/24T - 2.9 GHz
+256 GB
+2 x 2 TB NVMe
+Up to 1 Gbps
+€189.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 2 | PAR 5
+25568
+DDR4 ECC
+RPNv2
+10 Gbps
+Legal Notice An installation fee equivalent to one month of server rental is charged for each Dedibox server order.
+Prices before tax
+More info
+Dedibox Core
+Choose this range of dedicated servers to provide better performance for your infrastructure or deploy resource-intensive applications.
+Please find all options available for Dedibox servers
+.
+Open all
+Bare Metal - Dedibox - Core Name
+CPU
+RAM
+Disks
+Public Bandwidth
+Price
+Subtable open buttons
+CORE-6-XS
+Bestseller
+2x Intel® Xeon Silver 4114 10C/20T - 2.2 GHz
+96 GB
+2 x 1 TB NVMe
+Up to 1 Gbps
+€139.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 5
+21179
+DDR4 ECC
+RPNv2
+10 Gbps
+CORE-4-M-SATA
+2x Intel® Xeon E5 2640v4 10C/20T - 2.4 GHz
+192 GB
+3 x 6 TB HDD
+750 Mbps
+€149.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 3 | PAR 5
+20394
+DDR4 ECC
+RPNv2
+10 Gbps
+CORE-3-S-SSD
+Unavailable
+2x Intel® Xeon E5 2620v2 6C/12T - 2.1 GHz
+128 GB
+2 x 500 GB SSD
+400 Mbps
+€159.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 3
+10778
+DDR3 ECC
+RPNv1
+1 Gbps
+CORE-3-S-SATA
+Unavailable
+2x Intel® Xeon E5 2620v3 6C/12T - 2.4 GHz
+128 GB
+2 x 4 TB HDD
+400 Mbps
+€159.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 3
+13411
+DDR4 ECC
+RPNv1
+1 Gbps
+CORE-4-S-SATA
+2x Intel® Xeon E5 2620v4 8C/16T - 2.1 GHz
+128 GB
+2 x 6 TB HDD
+500 Mbps
+€159.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 3 | PAR 5
+16066
+DDR4 ECC
+RPNv2
+10 Gbps
+CORE-4-S-SSD
+2x Intel® Xeon E5 2620v4 8C/16T - 2.1 GHz
+128 GB
+3 x 500 GB SSD
+500 Mbps
+€159.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 3 | PAR 5
+16066
+DDR4 ECC
+RPNv2
+10 Gbps
+CORE-5-S
+Bestseller
+2x Intel® Xeon Silver 4114 10C/20T - 2.2 GHz
+128 GB
+2 x 1 TB NVMe
+Up to 1 Gbps
+€169.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 5
+21179
+DDR4 ECC
+RPNv2
+10 Gbps
+CORE-6-M
+2x Intel® Xeon Silver 4114 10C/20T - 2.2 GHz
+192 GB
+2 x 1 TB NVMe
+Up to 1 Gbps
+€179.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 5
+21179
+DDR4 ECC
+RPNv2
+10 Gbps
+CORE-2-M-SSD
+2x Intel® Xeon E5 2650v2 8C/16T - 2.6 GHz
+192 GB
+3 x 500 GB SSD
+500 Mbps
+€199.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 3
+17522
+DDR3 ECC
+RPNv1
+1 Gbps
+CORE-2-M-SATA
+Unavailable
+2x Intel® Xeon E5 2640v3 8C/16T - 2.6 GHz
+192 GB
+3 x 4 TB HDD
+500 Mbps
+€199.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 3
+18094
+DDR4 ECC
+RPNv1
+1 Gbps
+CORE-3-M-SSD
+Unavailable
+2x Intel® Xeon E5 2640v3 8C/16T - 2.6 GHz
+192 GB
+3 x 500 GB SSD
+500 Mbps
+€199.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 3
+18094
+DDR4 ECC
+RPNv2
+1 Gbps
+CORE-4-M-SSD
+Bestseller
+2x Intel® Xeon E5 2640v4 10C/20T - 2.4 GHz
+192 GB
+5 x 500 GB SSD
+750 Mbps
+€199.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 3 | PAR 5
+20394
+DDR4 ECC
+RPNv2
+10 Gbps
+CORE-3-M-SATA
+2x Intel® Xeon E5 2640v3 8C/16T - 2.6 GHz
+192 GB
+3 x 6 TB HDD
+500 Mbps
+€199.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 3
+18094
+DDR4 ECC
+RPNv2
+10 Gbps
+CORE-3-L-SSD
+2x Intel® Xeon E5 2670v2 10C/20T - 2.6 GHz
+256 GB
+3 x 500 GB SSD
+500 Mbps
+€229.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 3
+20667
+DDR3 ECC
+RPNv1
+1 Gbps
+CORE-3-L-SATA
+Unavailable
+2x Intel® Xeon E5 2660v3 10C/20T - 2.6 GHz
+256 GB
+3 x 4 TB HDD
+500 Mbps
+€229.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 3
+21756
+DDR4 ECC
+RPNv1
+1 Gbps
+CORE-4-L-SATA
+2x Intel® Xeon E5 2660v4 14C/28T - 2.0 GHz
+256 GB
+3 x 6 TB HDD
+750 Mbps
+€299.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 3 | PAR 5
+27261
+DDR4 ECC
+RPNv2
+10 Gbps
+CORE-4-L-SSD
+2x Intel® Xeon E5 2660v4 14C/28T - 2.0 GHz
+256 GB
+5 x 500 GB SSD
+750 Mbps
+€299.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 3 | PAR 5
+27261
+DDR4 ECC
+RPNv2
+10 Gbps
+CORE-5-M
+Bestseller
+1x AMD EPYC 7401P 24C/48T - 2.0 GHz
+256 GB
+3 x 1 TB NVMe
+Up to 1 Gbps
+€299.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 5
+26392
+DDR4 ECC
+RPNv2
+10 Gbps
+CORE-7-M-A
+1x AMD EPYC™ 7302P 16C/32T - 3.0 GHz
+256 GB
+2 x 1.92 TB NVMe
+Up to 1 Gbps
+€349.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 2 | PAR 5
+Netherlands
+AMS 1
+32818
+DDR4 ECC
+RPNv2
+25 Gbps
+CORE-7-M-I
+2x Intel Xeon Silver 4214R 12C/24T - 2.4 GHz
+192 GB
+2 x 1.92 TB NVMe
+Up to 1 Gbps
+€349.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 2 | PAR 5
+Netherlands
+AMS 1
+29007
+DDR4 ECC
+RPNv2
+25 Gbps
+CORE-5-L
+Bestseller
+2x Intel® Xeon Gold 5120 14C/28T - 2.2 GHz
+384 GB
+4 x 1 TB NVMe
+Up to 1 Gbps
+€449.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 2 | PAR 5
+28331
+DDR4 ECC
+RPNv2
+10 Gbps
+CORE-7-L-A
+1x AMD EPYC 7532 32C/64T - 2.4 GHz
+256 GB
+2 x 1.92 TB NVMe
+Up to 1 Gbps
+€449.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 2 | PAR 5
+Netherlands
+AMS 1
+57000
+DDR4 ECC
+RPNv2
+25 Gbps
+CORE-7-L-I
+2x Intel Xeon Silver 4214R 12C/24T - 2.4 GHz
+576 GB
+2 x 1.92 TB NVMe
+Up to 1 Gbps
+€449.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 2 | PAR 5
+Netherlands
+AMS 1
+29007
+DDR4 ECC
+RPNv2
+25 Gbps
+CORE-7-XL-I
+2x Intel Xeon Gold 6242R 20C/40T - 3.1 GHz
+384 GB
+2 x 1.92 TB NVMe
+Up to 1 Gbps
+€649.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 2 | PAR 5
+Netherlands
+AMS 1
+34971
+DDR4 ECC
+RPNv2
+25 Gbps
+CORE-5-XL
+2x Intel® Xeon Gold 6140 18C/36T - 2.3 GHz
+768 GB
+8 x 1 TB NVMe
+Up to 1 Gbps
+€799.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 5
+32762
+DDR4 ECC
+RPNv2
+10 Gbps
+CORE-7-XXL-A
+2x AMD EPYC 7532 32C/64T - 2.4 GHz
+1024 GB
+2 x 1.92 TB NVMe
+Up to 1 Gbps
+€849.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 2 | PAR 5
+57000
+DDR4 ECC
+RPNv2
+25 Gbps
+Legal Notice An installation fee equivalent to one month of server rental is charged for each Dedibox server order.
+Prices before tax
+More info
+Dedibox Store
+These servers are specialized for massive data storage, streaming or critical data backup.
+Please find all options available for Dedibox servers
+.
+Open all
+Bare Metal - Dedibox - Store Name
+CPU
+RAM
+Disks
+Public Bandwidth
+Price
+Subtable open buttons
+STORE-1-S
+1x Intel® Xeon E3 1220 4C/4T - 3.1 GHz
+32 GB
+2 x 4 TB HDD
+150 Mbps
+€39.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 2 | PAR 3
+3738
+DDR3 ECC
+N/A
+STORE-2-M
+Bestseller
+1x Intel® Xeon E5 1410v2 4C/8T - 2.8 GHz
+64 GB
+3 x 6 TB HDD
+500 Mbps
+€89.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 3
+5842
+DDR3 ECC
+RPNv1
+1 Gbps
+STORE-2-S
+Unavailable
+1x Intel® Xeon E3 1230v2 4C/8T - 3.3 GHz
+16 GB
+4 x 3 TB HDD
+400 Mbps
+€97.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+6259
+DDR3 ECC
+RPNv1
+1 Gbps
+STORE-4-M
+2x Intel® Xeon E5 2620v3 6C/12T - 2.4 GHz
+128 GB
+4 x 6 TB HDD
+500 Mbps
+€199.99/month
+Open
+Regions
+CPU Benchmark
+RAM Type
+Network RPN Type
+Private bandwidth up to
+France
+PAR 3
+13411
+DDR4 ECC
+RPNv2
+10 Gbps

@@ -1,0 +1,207 @@
+[
+  {
+    "id": "flagsmith-com-pricing-20240619104422",
+    "url": "https://www.flagsmith.com/pricing",
+    "ts": "20240619104422",
+    "date": "2024-06-19",
+    "source": "wayback",
+    "prevTs": "20230105171254",
+    "kind": "limits",
+    "score": 13,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 5
+    },
+    "material": true,
+    "headline": "Flagsmith: 2 limits, 5 plan names changed (removed “Up to 50,000 requests per month”)",
+    "pairs": [],
+    "added": [
+      "Is Flagsmith free?",
+      "Flagsmith has a free plan to get started—or for solo developers. This is a great way to start with feature flags or to try things out before choosing the deployment option and team plan type that suits your needs. We're here for any questions along the way!",
+      "Start free trial"
+    ],
+    "removed": [
+      "Start using Flagsmith for free",
+      "Free",
+      "Up to 50,000 requests per month",
+      "1 Project",
+      "Unlimited Feature Flags",
+      "Unlimited Environments",
+      "Unlimited Identities and Segments",
+      "Try it Free",
+      "Up to 1,000,000 requests per month",
+      "Unlimited Projects",
+      "Unlimited Feature Flags",
+      "Unlimited Environments",
+      "Unlimited Identities and Segments",
+      "Try it Free",
+      "Unlimited Projects",
+      "Unlimited Feature Flags",
+      "Unlimited Environments",
+      "Unlimited Identities and Segments",
+      "Unlimited Projects",
+      "Unlimited Feature Flags",
+      "Unlimited Environments",
+      "Unlimited Identities and Segments"
+    ],
+    "totals": {
+      "removed": 88,
+      "added": 18,
+      "materialRemoved": 22,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "flagsmith-com-pricing-20240814193125",
+    "url": "https://www.flagsmith.com/pricing",
+    "ts": "20240814193125",
+    "date": "2024-08-14",
+    "source": "wayback",
+    "prevTs": "20240619104422",
+    "kind": "price",
+    "score": 8,
+    "counts": {
+      "price": 1,
+      "limit": 2,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Flagsmith: 1 price, 2 limits, 1 plan name changed (removed “If you consistently breach your API call limi…”; added “14 Day Free Trial”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "14 Day Free Trial",
+      "14 Day Free Trial",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "To recap, you'll get notifications as you approach your limit. Free plan users will have 7 days to upgrade. Paid planned users will get an invoice for overages after the 30 day grace period."
+    ],
+    "removed": [
+      "If you consistently breach your API call limit (if you are over the limit for a 30 day window), we charge $50 per million API calls for any overages in the calendar month. We will contact you in the event of an overage regarding any subsequent charges."
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 68,
+      "materialRemoved": 1,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "flagsmith-com-pricing-20241202103214",
+    "url": "https://www.flagsmith.com/pricing",
+    "ts": "20241202103214",
+    "date": "2024-12-02",
+    "source": "wayback",
+    "prevTs": "20240814193125",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Flagsmith: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Unlimited Audit Log History"
+    ],
+    "removed": [
+      "To recap, you'll get notifications as you approach your limit. Free plan users will have 7 days to upgrade. Paid planned users will get an invoice for overages after the 30 day grace period."
+    ],
+    "totals": {
+      "removed": 17,
+      "added": 11,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "flagsmith-com-pricing-20250116051655",
+    "url": "https://www.flagsmith.com/pricing",
+    "ts": "20250116051655",
+    "date": "2025-01-16",
+    "source": "wayback",
+    "prevTs": "20241202103214",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Flagsmith: 1 plan name changed",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Start Free Trial"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "flagsmith-com-pricing-20260307120321",
+    "url": "https://www.flagsmith.com/pricing",
+    "ts": "20260307120321",
+    "date": "2026-03-07",
+    "source": "wayback",
+    "prevTs": "20250116051655",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Flagsmith: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "14 Day Free Trial"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 3,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "flagsmith-com-pricing-20260624073952",
+    "url": "https://www.flagsmith.com/pricing",
+    "ts": "20260624073952",
+    "date": "2026-06-24",
+    "source": "wayback",
+    "prevTs": "20260307120321",
+    "kind": "plans",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Flagsmith: 1 limit, 1 plan name changed (added “14 Day Free Trial”)",
+    "pairs": [],
+    "added": [
+      "Start Free",
+      "14 Day Free Trial"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 8,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  }
+]

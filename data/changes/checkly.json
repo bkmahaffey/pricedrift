@@ -1,0 +1,740 @@
+[
+  {
+    "id": "checklyhq-com-pricing-20230507031104",
+    "url": "https://www.checklyhq.com/pricing/",
+    "ts": "20230507031104",
+    "date": "2023-05-07",
+    "source": "wayback",
+    "prevTs": "20230119183658",
+    "kind": "limits",
+    "score": 8,
+    "counts": {
+      "price": 0,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Checkly: 4 limits changed (10k added; 50,000 → 10,000)",
+    "pairs": [
+      {
+        "before": "* Hobby plan comes with access to Team plan features for 14 days. No credit card required.",
+        "after": "* Hobby plan comes with access to Team plan features for 14 days. No credit card required – jump in! 10k API / 1.5k browser check runs",
+        "confidence": 0.71,
+        "deltas": [
+          {
+            "before": null,
+            "after": "10k"
+          },
+          {
+            "before": null,
+            "after": "1.5k"
+          }
+        ]
+      },
+      {
+        "before": "50,000 / month",
+        "after": "10,000 / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50,000",
+            "after": "10,000"
+          }
+        ]
+      },
+      {
+        "before": "5000 / month",
+        "after": "1,500 / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "5000",
+            "after": "1,500"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "* No credit card required – jump in! All features in the Hobby plan plus:",
+      "12 months of aggregated data retention"
+    ],
+    "removed": [
+      "* No credit card required.",
+      "Unlimited Browser and API checks",
+      "1 year of aggregated data retention"
+    ],
+    "totals": {
+      "removed": 25,
+      "added": 22,
+      "materialRemoved": 9,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "checklyhq-com-pricing-20231101153840",
+    "url": "https://www.checklyhq.com/pricing/",
+    "ts": "20231101153840",
+    "date": "2023-11-01",
+    "source": "wayback",
+    "prevTs": "20230507031104",
+    "kind": "price",
+    "score": 55,
+    "counts": {
+      "price": 12,
+      "limit": 8,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Checkly: 12 prices, 8 limits, 2 plan names changed (10k removed)",
+    "pairs": [
+      {
+        "before": "* Hobby plan comes with access to Team plan features for 14 days. No credit card required – jump in! 10k API / 1.5k browser check runs",
+        "after": "*Hobby plan comes with access to Team plan features for 14 days. No credit card required – jump in!",
+        "confidence": 0.76,
+        "deltas": [
+          {
+            "before": "10k",
+            "after": null
+          },
+          {
+            "before": "1.5k",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0",
+      "10k API / 1.5k browser check runs",
+      "Designed for modern development teams of up to 20 users, providing advanced monitoring, alerting, and advanced features.",
+      "$40",
+      "50k API / 6k browser check runs",
+      "50k / month (additional 10k cost $2)",
+      "Unlimited",
+      "6k / month (additional 1k cost $5)",
+      "10 sec / 60 sec",
+      "API checks up to every 10s and Browser checks every 60s.",
+      "10 sec / 60 sec",
+      "API checks up to every 10s and Browser checks every 60s.",
+      "200 / month",
+      "100 / month",
+      "$2.00",
+      "$5.00",
+      "$1.50",
+      "$4.00",
+      "Overages apply at $6 for 1k browser and $2.5 for 1k API checks if no prepaid check runs are left.",
+      "If there are no prepaid checks left, we bill $0.00025 for every API and $0.006 for every additionally run browser check."
+    ],
+    "removed": [
+      "* No credit card required – jump in! All features in the Hobby plan plus:",
+      "Check runs worth $30",
+      "Unlimited Users",
+      "Start for free",
+      "10 API checks running every minute makes 446,400 check runs per month",
+      "Daily runs: 10 x 60 x 24 = 14,400 runs",
+      "Monthly runs: 14,400 x 31 = 446,400 runs",
+      "Which costs me (446,400 / 10,000) * $2.00 = $89.28 per month on the \"Team\"-plan.",
+      "Unlimited",
+      "10 sec / 60 sec API checks can be scheduled every 10 seconds, browser checks every min.",
+      "Unlimited*",
+      "Start for free"
+    ],
+    "totals": {
+      "removed": 82,
+      "added": 108,
+      "materialRemoved": 24,
+      "materialAdded": 32
+    }
+  },
+  {
+    "id": "checklyhq-com-pricing-20240224170911",
+    "url": "https://www.checklyhq.com/pricing/",
+    "ts": "20240224170911",
+    "date": "2024-02-24",
+    "source": "wayback",
+    "prevTs": "20231101153840",
+    "kind": "price",
+    "score": 8,
+    "counts": {
+      "price": 1,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Checkly: 1 price, 3 limits changed (added “10k / month*”)",
+    "pairs": [],
+    "added": [
+      "Unlimited",
+      "10k / month*",
+      "50k / month (additional 10k cost $2)*",
+      "Multistep requests are shared with API check runs. 1 request in a multistep API check equals one API check run. See FAQ for more information",
+      "1 year",
+      "All Team Plan features, up to 20 users",
+      "Multistep requests are drawn from a shared pool with API check runs - 1 request in a multistep API check equals one API check run. See the multistep API check documentation for more details."
+    ],
+    "removed": [
+      "Unlimited users, all features"
+    ],
+    "totals": {
+      "removed": 8,
+      "added": 20,
+      "materialRemoved": 4,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "checklyhq-com-pricing-20240507032502",
+    "url": "https://www.checklyhq.com/pricing/",
+    "ts": "20240507032502",
+    "date": "2024-05-07",
+    "source": "wayback",
+    "prevTs": "20240224170911",
+    "kind": "price",
+    "score": 14,
+    "counts": {
+      "price": 2,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Checkly: 2 prices, 4 limits changed (50k → 100k; 50k → 100k)",
+    "pairs": [
+      {
+        "before": "50k API / 6k browser check runs",
+        "after": "100k API / 12k browser check runs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50k",
+            "after": "100k"
+          },
+          {
+            "before": "6k",
+            "after": "12k"
+          }
+        ]
+      },
+      {
+        "before": "50k / month (additional 10k cost $2)",
+        "after": "100k / month (additional 10k cost $2)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50k",
+            "after": "100k"
+          }
+        ]
+      },
+      {
+        "before": "50k / month (additional 10k cost $2)*",
+        "after": "100k / month (additional 10k cost $2)*",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50k",
+            "after": "100k"
+          }
+        ]
+      },
+      {
+        "before": "6k / month (additional 1k cost $5)",
+        "after": "12k / month (additional 1k cost $5)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "6k",
+            "after": "12k"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$80"
+    ],
+    "removed": [
+      "$40"
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 9,
+      "materialRemoved": 5,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "checklyhq-com-pricing-20240825135122",
+    "url": "https://www.checklyhq.com/pricing/",
+    "ts": "20240825135122",
+    "date": "2024-08-25",
+    "source": "wayback",
+    "prevTs": "20240507032502",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Checkly: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "checklyhq-com-pricing-20241223020848",
+    "url": "https://www.checklyhq.com/pricing/",
+    "ts": "20241223020848",
+    "date": "2024-12-23",
+    "source": "wayback",
+    "prevTs": "20240825135122",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Checkly: 2 prices changed (removed “$80”; added “$64”)",
+    "pairs": [],
+    "added": [
+      "$64"
+    ],
+    "removed": [
+      "$80"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 7,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "checklyhq-com-pricing-20250707222450",
+    "url": "https://www.checklyhq.com/pricing/",
+    "ts": "20250707222450",
+    "date": "2025-07-07",
+    "source": "wayback",
+    "prevTs": "20241223020848",
+    "kind": "plans",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Checkly: 1 limit, 1 plan name changed (added “TCP requests are drawn from a shared pool wit…”)",
+    "pairs": [],
+    "added": [
+      "Free trial",
+      "TCP requests are drawn from a shared pool with API check runs - 1 request in a TCP check equals one API check run."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 10,
+      "added": 19,
+      "materialRemoved": 4,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "checklyhq-com-pricing-20250814015943",
+    "url": "https://www.checklyhq.com/pricing/",
+    "ts": "20250814015943",
+    "date": "2025-08-14",
+    "source": "wayback",
+    "prevTs": "20250707222450",
+    "kind": "price",
+    "score": 118,
+    "counts": {
+      "price": 28,
+      "limit": 11,
+      "plan": 6
+    },
+    "material": true,
+    "headline": "Checkly: 28 prices, 11 limits, 6 plan names changed (removed “*Hobby plan comes with access to Team plan fe…”; added “2 Min.”)",
+    "pairs": [],
+    "added": [
+      "2 Min.",
+      "$ 24",
+      "Try for Free",
+      "($ 8.00 per additional 25)",
+      "($ 4.00 per 1 k)",
+      "($ 1.80 per 10 k)",
+      "($ 8.00 per additional 25)",
+      "($ 4.00 per 1 k)",
+      "($ 1.80 per 10 k)",
+      "30 Sec.",
+      "$ 0 per month, billed annually",
+      "$ 24 per month, billed annually",
+      "Try for Free",
+      "$ 64 per month, billed annually",
+      "Try for Free",
+      "$8",
+      "$4.00 per 1k",
+      "$6.50",
+      "$6.25",
+      "$1.80 per 10k",
+      "$2.60",
+      "$2.50",
+      "200/month",
+      "Free Trial"
+    ],
+    "removed": [
+      "Start for free",
+      "*Hobby plan comes with access to Team plan features for 14 days. No credit card required – jump in!",
+      "10k API & network / 1.5k browser check runs",
+      "Designed for modern development teams of up to 20 users, providing advanced monitoring, alerting, and advanced features.",
+      "+ $2.00 for 10,000 extra API & TCP check runs",
+      "+ $5.00 for 1,000 extra browser check runs",
+      "100k API & TCP / 12k browser check runs",
+      "Up to 20 users",
+      "12 months of aggregated data retention",
+      "Unlimited",
+      "100k / month (additional 10k cost $2)",
+      "Unlimited",
+      "10k / month*",
+      "100k / month (additional 10k cost $2)*",
+      "Multistep requests are shared with API check runs. 1 request in a multistep API check equals one API check run. See FAQ for more information",
+      "Unlimited",
+      "1.5k / month",
+      "12k / month (additional 1k cost $5)",
+      "10 sec / 60 sec",
+      "API checks up to every 10s and Browser checks every 60s.",
+      "10 sec / 60 sec",
+      "API checks up to every 10s and Browser checks every 60s.",
+      "Free trial",
+      "$2.00",
+      "for 10k API & network check runs",
+      "$5.00",
+      "$1.50",
+      "for 10k API check runs",
+      "$4.00",
+      "for 1k Browser check runs",
+      "All Team Plan features, up to 20 users",
+      "Overages apply at $6 for 1k browser and $2.5 for 1k API checks if no prepaid check runs are left.",
+      "If there are no prepaid checks left, we bill $0.00025 for every API and $0.006 for every additionally run browser check.",
+      "Multistep requests are drawn from a shared pool with API check runs - 1 request in a multistep API check equals one API check run. See the multistep API check documentation for more details.",
+      "TCP requests are drawn from a shared pool with API check runs - 1 request in a TCP check equals one API check run."
+    ],
+    "totals": {
+      "removed": 158,
+      "added": 184,
+      "materialRemoved": 45,
+      "materialAdded": 34
+    }
+  },
+  {
+    "id": "checklyhq-com-pricing-20250904112626",
+    "url": "https://www.checklyhq.com/pricing/",
+    "ts": "20250904112626",
+    "date": "2025-09-04",
+    "source": "wayback",
+    "prevTs": "20250814015943",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Checkly: 1 limit changed (30 → 1)",
+    "pairs": [
+      {
+        "before": "30 Sec.",
+        "after": "1 Sec.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "30",
+            "after": "1"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 19,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "checklyhq-com-pricing-20251117222924",
+    "url": "https://www.checklyhq.com/pricing/",
+    "ts": "20251117222924",
+    "date": "2025-11-17",
+    "source": "wayback",
+    "prevTs": "20250904112626",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Checkly: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Playwright Check Suites are equal to a single Browser Check running for 30 seconds. For each 30 seconds they run, it will consume one more check run, i.e. a 45 second Playwright Check Suite will consume 2 runs."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 13,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "checklyhq-com-pricing-20260211161919",
+    "url": "https://www.checklyhq.com/pricing/",
+    "ts": "20260211161919",
+    "date": "2026-02-11",
+    "source": "wayback",
+    "prevTs": "20251117222924",
+    "kind": "price",
+    "score": 53,
+    "counts": {
+      "price": 12,
+      "limit": 4,
+      "plan": 5
+    },
+    "material": true,
+    "headline": "Checkly: 12 prices, 4 limits, 5 plan names changed (removed “($ 8.00 per additional 25)”; added “1,000 per month”)",
+    "pairs": [],
+    "added": [
+      "1,000 per month",
+      "3,000 per month",
+      "12,000 per month",
+      "10,000 per month",
+      "25,000 per month",
+      "100,000 per month",
+      "$ 0 per month, billed annually",
+      "$ 9 per month, billed annually",
+      "Try for Free",
+      "$ 30 per month, billed annually",
+      "Try for Free",
+      "$ 0 per month, billed annually",
+      "$ 24 per month, billed annually",
+      "Try for Free",
+      "$ 64 per month, billed annually",
+      "Try for Free"
+    ],
+    "removed": [
+      "($ 8.00 per additional 25)",
+      "($ 4.00 per 1 k)",
+      "($ 1.80 per 10 k)",
+      "($ 8.00 per additional 25)",
+      "($ 4.00 per 1 k)",
+      "($ 1.80 per 10 k)",
+      "25 months",
+      "Free Trial"
+    ],
+    "totals": {
+      "removed": 49,
+      "added": 74,
+      "materialRemoved": 11,
+      "materialAdded": 19
+    }
+  },
+  {
+    "id": "checklyhq-com-pricing-20260317094215",
+    "url": "https://www.checklyhq.com/pricing/",
+    "ts": "20260317094215",
+    "date": "2026-03-17",
+    "source": "wayback",
+    "prevTs": "20260211161919",
+    "kind": "price",
+    "score": 17,
+    "counts": {
+      "price": 3,
+      "limit": 2,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Checkly: 3 prices, 2 limits, 2 plan names changed (added “Purchase additional browser check runs beyond…”)",
+    "pairs": [],
+    "added": [
+      "Purchase additional browser check runs beyond your included amount at a per-1k rate.",
+      "The per-1k cost charged automatically when you exceed your purchased browser check runs.",
+      "Purchase additional API check runs beyond your included amount at a per-10k rate.",
+      "The per-10k cost charged automatically when you exceed your purchased API check runs.",
+      "$ 0 per month, billed annually",
+      "$ 12 per month, billed annually",
+      "Try for Free",
+      "$ 39 per month, billed annually",
+      "Try for Free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 15,
+      "added": 89,
+      "materialRemoved": 3,
+      "materialAdded": 12
+    }
+  },
+  {
+    "id": "checklyhq-com-pricing-20260402155505",
+    "url": "https://www.checklyhq.com/pricing/",
+    "ts": "20260402155505",
+    "date": "2026-04-02",
+    "source": "wayback",
+    "prevTs": "20260317094215",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Checkly: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 23,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "checklyhq-com-pricing-20260618003631",
+    "url": "https://www.checklyhq.com/pricing/",
+    "ts": "20260618003631",
+    "date": "2026-06-18",
+    "source": "wayback",
+    "prevTs": "20260402155505",
+    "kind": "price",
+    "score": 4,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Checkly: 1 price, 1 limit changed (added “$32 / mo per check”)",
+    "pairs": [],
+    "added": [
+      "$32 / mo per check",
+      "The number of regions each agentic check can run from. Contact sales for custom agentic check pricing with unlimited regions.",
+      "Unlimited with custom pricing",
+      "5 Min."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 12,
+      "added": 45,
+      "materialRemoved": 1,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "checklyhq-com-pricing-20260701105114",
+    "url": "https://www.checklyhq.com/pricing/",
+    "ts": "20260701105114",
+    "date": "2026-07-01",
+    "source": "wayback",
+    "prevTs": "20260618003631",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 2,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Checkly: 2 prices, 3 limits changed (added “By signing up for the Hobby plan, you get acc…”)",
+    "pairs": [],
+    "added": [
+      "By signing up for the Hobby plan, you get access to almost all of Checkly’s features. You do not need a credit card to get started. You get access to 10 Uptime Monitors and can execute up to 10,000 API and 1,000 Browser Check runs per month.",
+      "Multistep Checks: Each request counts as one run. For example, if your Multistep Check script makes 3 requests, then that counts as 3 runs each time your check executes.",
+      "Playwright Check Suite: For every 30 seconds of execution time, they consume one check run. i.e., a 45 second Playwright Check Suite will consume 2 runs.",
+      "The Hobby plan is hard-capped at 10k API and 1k Browser Check runs. If you need more, upgrade to the Starter or Team plan.",
+      "For example, a check running every hour from 1 location would use 24 check runs a day. If it ran from 2 parallel locations, then that would be 48 runs/day. All retries would be added to that, i.e. 2 retries would result in 2 additional check runs.",
+      "The Hobby plan is hard-capped at 10k API and 1k Browser Check runs. We will stop running your checks when your credits are exhausted. If you need more, upgrade to the Starter or Team plan.",
+      "On the Starter plan, Browser Check overages are $6.50 per 1k additional runs. API Check overages are $2.60 per 10k additional runs.",
+      "On the Team plan, Browser Check overages are $6.25 per 1k additional runs. API Check overages are $2.50 per 10k additional runs."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 108,
+      "materialRemoved": 0,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "checklyhq-com-pricing-20260813213453",
+    "url": "https://www.checklyhq.com/pricing/",
+    "ts": "20260813213453",
+    "date": "2026-08-13",
+    "source": "wayback",
+    "prevTs": "20260701105114",
+    "kind": "price",
+    "score": 4,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Checkly: 1 price, 1 limit changed (removed “$32 / mo per check”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$32 / mo per check",
+      "The number of regions each agentic check can run from. Contact sales for custom agentic check pricing with unlimited regions.",
+      "Unlimited with custom pricing",
+      "5 Min."
+    ],
+    "totals": {
+      "removed": 27,
+      "added": 3,
+      "materialRemoved": 4,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "checklyhq-com-pricing-20260902202107",
+    "url": "https://www.checklyhq.com/pricing/",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260813213453",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Checkly: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 9,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

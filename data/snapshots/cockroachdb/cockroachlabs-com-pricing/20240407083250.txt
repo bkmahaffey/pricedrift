@@ -1,0 +1,295 @@
+The cloud-native, distributed SQL database
+× CockroachDB Serverless
+Pricing
+Start for free and set upper limits for storage and transactional volume per month to fit your budget.
+Free
+Free for use up to 10 GiB of storage and 50M RUs per organization per month.
+No Credit Card Required to Start
+Sign up with an email or use single-sign on with your GitHub account, Google account, and more to get started.
+Never Overspend
+Define a Spend Limit to prevent overspending. When your cluster hits the limit, requests will be restricted. You can also set up a cluster without limits so your workload is never restricted.
+Storage
+Storage is the disk space for storing your data in the cluster. The price of storage is $0.50 per additional GiB storage above the 10 GiB free storage given to each organization per month.
+Request Units
+A request unit (RU) measures the amount of compute and IOPs each query will incur. Every query has varying requirements for resources; RUs are an abstracted metric that represents the size and complexity of these requests. The price of RUs is $0.20 per additional 1M Request Units above the 50M RUs given to each organization per month.
+These amounts are reset each month.
+Request Unit Cost Estimates
+The examples below show cost estimates of some common queries and how they increase with the size and complexity of the query. Note that the prices listed are estimates, and your actual costs may vary slightly.
+Reading 1 Row
+Reading a 64 byte row is approximately 1 RU, plus 1 RU for each additional KiB.
+Query
+RUs per 1 query
+Price per 1M queries
+Read 1 row of 64 bytes
+1.03
+$0.21
+Read 1 row of 1024 bytes
+1.99
+$0.40
+Read 1 row of 2048 bytes
+3.01
+$0.60
+Writing 1 Row
+The cost of writes includes the cost of replicating the write 3 times for high availability and durability, plus 3 RUs for each additional KiB.
+Query
+RUs per 1 query
+Price per 1M queries
+Write 1 row of 64 bytes
+6.71
+$1.34
+Write 1 row of 1024 bytes
+9.59
+$1.92
+Write 1 row of 2048 bytes
+12.62
+$2.52
+Writing 1 row with added complexity
+Adding complexity to a query, such as an index or join, increases the number of RUs consumed.
+Query
+RUs per 1 query
+Price per 1M queries
+Write 1 row of 1024 bytes, with 0 indexes
+9.59
+$1.92
+Write 1 row of 1024 bytes, with 1 indexes
+18.69
+$3.74
+Write 1 row of 1024 bytes, with 2 indexes
+27.80
+$5.56
+Scans
+A small scan costs about 3 RUs, and the cost increases with the size of the scan.
+Query
+RUs per 1 query
+Price per 1M queries
+Scan 1K rows of 64 bytes, return 1
+3.26
+$0.65
+Scan 1K rows of 128 bytes, return 1
+22.39
+$4.48
+Scan 1K rows of 2048 bytes, return 1
+196.05
+$39.21
+Other Cluster Activity
+Activities such as establishing a SQL connection or executing a SELECT statement also consume RUs. In addition to queries you run, RUs can be consumed by background activity.
+Query
+RUs per 1 query
+Price per 1M queries
+Establish SQL Connection
+4.36
+$0.87
+SELECT 1
+0.14
+$0.03
+GCP Cross Region Network Transfer Cost (RUs per KiB)
+Multi-region Serverless operations accrue an additional RU charge to account for the cost of cross-region network overhead. The price of networking depends on the cloud provider and the source and destination regions.
+Source region
+us-central1
+europe-west1
+asia-southeast1
+southamerica-east1
+us-east1
+us-west2
+Destination Region
+us-central1
+Source Region
+0.00
+0.48
+1.43
+1.34
+0.19
+europe-west1
+Source Region
+0.48
+0.00
+1.43
+1.34
+0.48
+asia-southeast1
+Source Region
+1.43
+0.00
+1.43
+southamerica-east1
+Source Region
+1.34
+1.43
+0.00
+1.34
+us-east1
+Source Region
+0.19
+0.48
+1.43
+1.34
+0.00
+0.19
+us-west2
+Source Region
+0.19
+0.48
+1.43
+1.34
+0.19
+0.00
+AWS Cross Region Network Transfer Cost (RUs per KiB)
+Multi-region Serverless operations accrue an additional RU charge to account for the cost of cross-region network overhead. The price of networking depends on the cloud provider and the source and destination regions.
+Source region
+us-west-2
+ap-southeast-1
+eu-west-1
+ap-south-1
+eu-central-1
+us-east-1
+Destination Region
+us-west-2
+Source Region
+0.19
+0.86
+0.19
+0.82
+0.19
+ap-southeast-1
+Source Region
+0.19
+0.82
+0.19
+eu-west-1
+Source Region
+0.19
+0.86
+0.19
+0.82
+0.19
+ap-south-1
+Source Region
+0.19
+0.86
+0.19
+eu-central-1
+Source Region
+0.19
+0.86
+0.19
+0.82
+0.19
+us-east-1
+Source Region
+0.19
+0.86
+0.19
+0.82
+0.19
+Serverless
+From $0 / month
+Start instantly and eliminate database operations
+Get started
+Great for starter projects and evaluating distributed SQL
+Available on GCP and AWS
+SRE team support and guaranteed uptime
+Elastic, auto-scale across multiple regions
+Row based data partitioning across geographies
+Automated, no downtime upgrades
+Daily and hourly backups
+View pricing
+Dedicated
+From $295 / month
+Streamlined cloud database experience on dedicated hardware
+Get started
+Built for mission-critical use cases in the cloud
+Available on AWS, Azure, and GCP
+SRE team support and guaranteed uptime
+Node-based, self-service scale across multiple regions
+Row based data partitioning across geographies
+Automated, no downtime upgrades
+Daily and hourly backups
+View pricing
+Self-hosted
+Pricing upon request
+Gain deep control and deploy across multiple clouds
+Contact us
+Ideal for those with advanced configuration needs
+Available across public or private clouds, and across on-premise data centers (option for hybrid deployments)
+Enterprise support options available
+Node-based, manual scale across multiple regions and clouds
+Row based data partitioning across geographies
+Self-service, no downtime upgrades
+Self-service backups
+Request pricing
+Compare features
+× CockroachDB Dedicated Pricing
+Choose your cloud provider and cloud region.
+Cloud Provider
+Cloud Region
+Standard
+Includes all standard database capabilities
+vCPUs
+Starting price*
+2
+4
+8
+16
+32
++ Per provisioned GiB
++ Per provisioned IOPS
+Advanced
+Standard, plus advanced security capabilities: PCI-DSS Certification, CMEK, Egress Perimeter Rules
+vCPUs
+Starting price*
+2
+4
+8
+16
+32
++ Per provisioned GiB
++ Per provisioned IOPS
+×
+CockroachDB self-hosted pricing inquiry
+Request for pricing information
+Close all
+Show all
+Serverless
+For starter projects and evaluation
+Start now
+Dedicated
+For mission-critical use cases in a flexible cloud environment
+Start now
+Self-hosted
+For mission-critical use cases with advanced configuration requirements
+Contact us
+Distributed features
+Node-based scale
+Auto-scale
+Distributed transaction execution
+PostgreSQL wire compatibility
+Guaranteed ACID transactions
+Distributed change data capture (CDC)
+Native JSON support
+Cost-based optimizer
+Geo-partitioning and data replication
+Data lifecycle management & deployment
+Intelligent data distribution
+Multi-active availability
+Multi-region deployments
+Multi-cloud deployments
+Distributed backup/restore
+Incremental backups and revision history
+Automatic upgrades
+Online, active dynamic schema changes
+Security & data protection
+Role-based access control
+Encrypted data in motion
+Customer Managed Encryption Keys (CMEK)
+Self-managed
+Client certificate-based authentication
+Enterprise-level uptime SLAs
+SOC 2 certified
+PCI-DSS certified
+ISO certified
+HIPAA-ready
+Download full feature comparison
+Start your
+CockroachDB journey
+Get started
+Contact us

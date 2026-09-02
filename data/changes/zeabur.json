@@ -1,0 +1,598 @@
+[
+  {
+    "id": "zeabur-com-pricing-20230804235341",
+    "url": "https://zeabur.com/pricing",
+    "ts": "20230804235341",
+    "date": "2023-08-04",
+    "source": "wayback",
+    "prevTs": "20230608214914",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Zeabur: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "zeabur-com-pricing-20231207100739",
+    "url": "https://zeabur.com/pricing",
+    "ts": "20231207100739",
+    "date": "2023-12-07",
+    "source": "wayback",
+    "prevTs": "20230804235341",
+    "kind": "price",
+    "score": 33,
+    "counts": {
+      "price": 2,
+      "limit": 10,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Zeabur: 2 prices, 10 limits, 4 plan names changed (removed “CPU limit: 1 vCPU”; added “Up to 2 vCPU and 4GB Memory for each container.”)",
+    "pairs": [],
+    "added": [
+      "Free and automatic SSL certificates",
+      "Up to 2 vCPU and 4GB Memory for each container.",
+      "Up to 4 vCPU and 16GB Memory for each container.",
+      "Up to 2 vCPU and 4GB Memory for each container.",
+      "$ 80 + Resource usages per month For teams with fast growing business, focus on performance and scalability.",
+      "Up to 4 vCPU and 16GB Memory for each container."
+    ],
+    "removed": [
+      "Free Plan",
+      "CPU limit: 1 vCPU",
+      "Memory limit: 512 MB",
+      "Disk limit: 1 GB",
+      "Choose Free Plan",
+      "Project number limit: Unlimited",
+      "CPU limit: 2 vCPU",
+      "Memory limit: 4 GB",
+      "Disk limit: 64 GB",
+      "Project number limit: Unlimited",
+      "CPU limit: 4 vCPU",
+      "Memory limit: 16 GB",
+      "Disk limit: 256 GB",
+      "Project number limit: Unlimited",
+      "CPU limit: 2 vCPU",
+      "Memory limit: 4 GB",
+      "Disk limit: 64 GB",
+      "Free Plan",
+      "US$ 0",
+      "CPU limit: 1 vCPU",
+      "Memory limit: 512 MB",
+      "Disk limit: 1 GB",
+      "Choose Free Plan"
+    ],
+    "totals": {
+      "removed": 45,
+      "added": 46,
+      "materialRemoved": 28,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "zeabur-com-pricing-20240229181943",
+    "url": "https://zeabur.com/pricing",
+    "ts": "20240229181943",
+    "date": "2024-02-29",
+    "source": "wayback",
+    "prevTs": "20231207100739",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 6,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Zeabur: 6 prices changed (US$0.0005 → $0.0003; US$0.00023 → $0.0001)",
+    "pairs": [
+      {
+        "before": "US$ 0.0005 / vCPU per minute",
+        "after": "$0.0003 / vCPU per minute",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "US$0.0005",
+            "after": "$0.0003"
+          }
+        ]
+      },
+      {
+        "before": "US$ 0.00023 / GB per minute",
+        "after": "$0.0001 / GB per minute",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "US$0.00023",
+            "after": "$0.0001"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "about $12 / vCPU per month",
+      "about $4 / GB per month",
+      "$0.1 / GB",
+      "$0.2 / GB per month"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 13,
+      "materialRemoved": 2,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "zeabur-com-pricing-20240420083625",
+    "url": "https://zeabur.com/pricing",
+    "ts": "20240420083625",
+    "date": "2024-04-20",
+    "source": "wayback",
+    "prevTs": "20240229181943",
+    "kind": "price",
+    "score": 43,
+    "counts": {
+      "price": 13,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Zeabur: 13 prices, 1 limit, 1 plan name changed ($12 added)",
+    "pairs": [
+      {
+        "before": "$0.0003 / vCPU per minute",
+        "after": "$0.0003 /vCPU per minute about $12 / vCPU per month",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": null,
+            "after": "$12"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Zeabur's monthly fees include subscription fee and extra resource fee. For the Developer Plan, resource usage below the subscription fee is free, while usage above the subscription fee is charged.",
+      "Extra Usage $ 0 per month",
+      "Project 1 Monthly Cost $3.00",
+      "Monthly Budget $10.00",
+      "Project 2 Monthly Cost $16.00",
+      "Monthly Budget $20.00",
+      "$0.1 /GB 100 GB free per month",
+      "$0.2 /GB 5 GB free per month"
+    ],
+    "removed": [
+      "Free amount",
+      "$ 5 + Resource usages per month Deploy both Serverless and Containerized services with priority support.",
+      "Up to 2 vCPU and 4GB Memory for each container.",
+      "$ 80 + Resource usages per month For teams with fast growing business, focus on performance and scalability.",
+      "Up to 4 vCPU and 16GB Memory for each container.",
+      "about $12 / vCPU per month",
+      "$0.1 / GB",
+      "$0.2 / GB per month"
+    ],
+    "totals": {
+      "removed": 47,
+      "added": 36,
+      "materialRemoved": 17,
+      "materialAdded": 17
+    }
+  },
+  {
+    "id": "zeabur-com-pricing-20240802100310",
+    "url": "https://zeabur.com/pricing",
+    "ts": "20240802100310",
+    "date": "2024-08-02",
+    "source": "wayback",
+    "prevTs": "20240420083625",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Zeabur: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 16,
+      "added": 8,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "zeabur-com-pricing-20241105094025",
+    "url": "https://zeabur.com/pricing",
+    "ts": "20241105094025",
+    "date": "2024-11-05",
+    "source": "wayback",
+    "prevTs": "20240802100310",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Zeabur: 1 limit changed (removed “Up to 2 vCPU and 4GB memory for each container”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Up to 2 vCPU and 4GB memory for each container",
+      "Up to 4 vCPU and 16GB memory for each container"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 0,
+      "materialRemoved": 2,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "zeabur-com-pricing-20241212201859",
+    "url": "https://zeabur.com/pricing",
+    "ts": "20241212201859",
+    "date": "2024-12-12",
+    "source": "wayback",
+    "prevTs": "20241105094025",
+    "kind": "price",
+    "score": 30,
+    "counts": {
+      "price": 9,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Zeabur: 9 prices, 1 limit, 1 plan name changed ($4 → $10)",
+    "pairs": [
+      {
+        "before": "/GB per minute about $4 / GB per month",
+        "after": "/GB per minute about $10 / GB per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$4",
+            "after": "$10"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free Trial Plan",
+      "Free deployment experience in Google Cloud",
+      "No credit card required",
+      "Projects will be automatically deleted after 24 hours",
+      "$0 /vCPU per minute Completely Free!",
+      "$0.00025",
+      "$0.1 /GB",
+      "$0.2 /GB"
+    ],
+    "removed": [
+      "Free and automatic SSL certificates",
+      "$0.0003 /vCPU per minute about $12 / vCPU per month",
+      "$0.0001",
+      "$0.1 /GB 100 GB free per month",
+      "$0.2 /GB 5 GB free per month"
+    ],
+    "totals": {
+      "removed": 14,
+      "added": 13,
+      "materialRemoved": 7,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "zeabur-com-pricing-20250807130235",
+    "url": "https://zeabur.com/pricing",
+    "ts": "20250807130235",
+    "date": "2025-08-07",
+    "source": "wayback",
+    "prevTs": "20241212201859",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Zeabur: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Can add unlimited dedicated servers (exclude zeabur managed VPS)"
+    ],
+    "removed": [
+      "Free deployment experience in Google Cloud",
+      "Projects will be automatically deleted after 24 hours"
+    ],
+    "totals": {
+      "removed": 28,
+      "added": 11,
+      "materialRemoved": 3,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "zeabur-com-pricing-20250917112527",
+    "url": "https://zeabur.com/pricing",
+    "ts": "20250917112527",
+    "date": "2025-09-17",
+    "source": "wayback",
+    "prevTs": "20250807130235",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Zeabur: 2 prices changed (added “Includes $5 monthly free credit”)",
+    "pairs": [],
+    "added": [
+      "Includes $5 monthly free credit",
+      "Includes $5 monthly free credit"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "zeabur-com-pricing-20251128194426",
+    "url": "https://zeabur.com/pricing",
+    "ts": "20251128194426",
+    "date": "2025-11-28",
+    "source": "wayback",
+    "prevTs": "20250917112527",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Zeabur: 2 limits changed (added “Up to 1 vCPU and 2GB memory for each service”)",
+    "pairs": [],
+    "added": [
+      "Up to 1 vCPU and 2GB memory for each service",
+      "Up to 2 vCPU and 4GB memory for each service",
+      "Up to 4 vCPU and 8GB memory for each container"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 10,
+      "added": 29,
+      "materialRemoved": 0,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "zeabur-com-pricing-20260101195713",
+    "url": "https://zeabur.com/pricing",
+    "ts": "20260101195713",
+    "date": "2026-01-01",
+    "source": "wayback",
+    "prevTs": "20251128194426",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Zeabur: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 22,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "zeabur-com-pricing-20260307153044",
+    "url": "https://zeabur.com/pricing",
+    "ts": "20260307153044",
+    "date": "2026-03-07",
+    "source": "wayback",
+    "prevTs": "20260101195713",
+    "kind": "price",
+    "score": 154,
+    "counts": {
+      "price": 37,
+      "limit": 22,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Zeabur: 37 prices, 22 limits changed (removed “Up to 1 vCPU and 2GB memory for each service”; added “Digital Ocean $ 12 +”)",
+    "pairs": [],
+    "added": [
+      "Digital Ocean $ 12 +",
+      "Tencent Cloud $ 2 +",
+      "Volcano Engine $ 2 +",
+      "Linode $ 6 +",
+      "Amazon Web Services $ 12 +",
+      "Google Cloud Platform $ 15 +",
+      "2 GB",
+      "50 GB",
+      "2.0 TB",
+      "$ 12 /mo",
+      "$ 12 /mo",
+      "1 vCPU 2 GB RAM 50 GB SSD 2.0 TB",
+      "2 GB",
+      "40 GB",
+      "1.0 TB",
+      "$ 5.74 - 13 % $ 5 /mo",
+      "- 13 % $ 5 /mo",
+      "2 vCPU 2 GB RAM 40 GB SSD 1.0 TB",
+      "2 GB",
+      "40 GB",
+      "0.5 TB 30 M",
+      "$ 4.20 - 52 % $ 2 /mo",
+      "- 52 % $ 2 /mo",
+      "2 vCPU 2 GB RAM 40 GB SSD 0.5 TB",
+      "4 GB",
+      "50 GB",
+      "∞ 200 M",
+      "$ 16.00 - 50 % $ 8 /mo",
+      "- 50 % $ 8 /mo",
+      "2 vCPU 4 GB RAM 50 GB SSD ∞",
+      "2 GB",
+      "40 GB",
+      "0.1 TB",
+      "$ 7.25 - 59 % $ 3 /mo",
+      "- 59 % $ 3 /mo",
+      "2 vCPU 2 GB RAM 40 GB SSD 0.1 TB",
+      "2 GB",
+      "50 GB",
+      "2.0 TB",
+      "$ 12.00 - 50 % $ 6 /mo"
+    ],
+    "removed": [
+      "Up to 1 vCPU and 2GB memory for each service",
+      "Up to 2 vCPU and 4GB memory for each service",
+      "Can add unlimited dedicated servers (exclude zeabur managed VPS)",
+      "Up to 4 vCPU and 8GB memory for each container",
+      "Zeabur's monthly fees include subscription fee and extra resource fee. For the Developer Plan, resource usage below the subscription fee is free, while usage above the subscription fee is charged.",
+      "Subscription $ 5 per month",
+      "Extra Usage $ 0 per month",
+      "Project 1 Monthly Cost $3.00",
+      "Monthly Budget $10.00",
+      "Project 2 Monthly Cost $16.00",
+      "Monthly Budget $20.00",
+      "$0 /vCPU per minute Completely Free!",
+      "$0.00025",
+      "/GB per minute about $10 / GB per month",
+      "$0.1 /GB",
+      "$0.2 /GB"
+    ],
+    "totals": {
+      "removed": 53,
+      "added": 157,
+      "materialRemoved": 22,
+      "materialAdded": 74
+    }
+  },
+  {
+    "id": "zeabur-com-pricing-20260702202512",
+    "url": "https://zeabur.com/pricing",
+    "ts": "20260702202512",
+    "date": "2026-07-02",
+    "source": "wayback",
+    "prevTs": "20260307153044",
+    "kind": "price",
+    "score": 167,
+    "counts": {
+      "price": 36,
+      "limit": 25,
+      "plan": 5
+    },
+    "material": true,
+    "headline": "Zeabur: 36 prices, 25 limits, 5 plan names changed (removed “Digital Ocean $ 12 +”; added “Single file upload size limit: 50 MB”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "This is the spec of Zeabur's CI/CD build machine. It's independent from your service's runtime — your service always runs on whatever your plan or dedicated server provides. Higher specs mean faster builds. Per-plan specs: Free",
+      "Single file upload size limit: 50 MB",
+      "Get started free",
+      "$0 First 14 days free $ 5 /mo",
+      "All Free features",
+      "Single file upload size limit: 250 MB",
+      "$0 First 14 days free $ 19 /mo",
+      "This is the spec of Zeabur's CI/CD build machine. It's independent from your service's runtime — your service always runs on whatever your plan or dedicated server provides. Higher specs mean faster builds. Per-plan specs: Free",
+      "$ 79 per month",
+      "3 seats included, +$24/seat/mo",
+      "Manageable own servers: Unlimited",
+      "Plan seats: 3 seats (Pro level)",
+      "Free",
+      "$0/mo",
+      "$19/mo",
+      "$79/mo",
+      "50 MB",
+      "250 MB",
+      "1 GiB",
+      "Unlimited",
+      "This is the spec of Zeabur's CI/CD build machine. It's independent from your service's runtime — your service always runs on whatever your plan or dedicated server provides. Higher specs mean faster builds. Per-plan specs: Free",
+      "3 seats (Pro level)",
+      "Unlimited",
+      "Standard tickets target a 4 working-day first response on every plan. Express passes upgrade that to a guaranteed 36 hours during working hours.",
+      "36 hours",
+      "What are the eligibility and rules for the 14-day free trial?"
+    ],
+    "removed": [
+      "Digital Ocean $ 12 +",
+      "Tencent Cloud $ 2 +",
+      "Alibaba Cloud $ 5 +",
+      "Volcano Engine $ 2 +",
+      "Linode $ 6 +",
+      "Amazon Web Services $ 12 +",
+      "Google Cloud Platform $ 15 +",
+      "2 GB",
+      "50 GB",
+      "2.0 TB",
+      "$ 12 /mo",
+      "$ 12 /mo",
+      "1 vCPU 2 GB RAM 50 GB SSD 2.0 TB",
+      "2 GB",
+      "40 GB",
+      "1.0 TB",
+      "$ 5.74 - 13 % $ 5 /mo",
+      "- 13 % $ 5 /mo",
+      "2 vCPU 2 GB RAM 40 GB SSD 1.0 TB",
+      "2 GB",
+      "40 GB",
+      "0.5 TB 30 M",
+      "$ 4.20 - 52 % $ 2 /mo",
+      "- 52 % $ 2 /mo",
+      "2 vCPU 2 GB RAM 40 GB SSD 0.5 TB",
+      "4 GB",
+      "50 GB",
+      "∞ 200 M",
+      "$ 16.00 - 50 % $ 8 /mo",
+      "- 50 % $ 8 /mo",
+      "2 vCPU 4 GB RAM 50 GB SSD ∞",
+      "2 GB",
+      "40 GB",
+      "0.1 TB",
+      "$ 7.25 - 59 % $ 3 /mo",
+      "- 59 % $ 3 /mo",
+      "2 vCPU 2 GB RAM 40 GB SSD 0.1 TB",
+      "2 GB",
+      "50 GB",
+      "2.0 TB"
+    ],
+    "totals": {
+      "removed": 168,
+      "added": 163,
+      "materialRemoved": 75,
+      "materialAdded": 29
+    }
+  }
+]

@@ -1,0 +1,641 @@
+[
+  {
+    "id": "notion-com-pricing-20250103151242",
+    "url": "https://www.notion.com/pricing",
+    "ts": "20250103151242",
+    "date": "2025-01-03",
+    "source": "wayback",
+    "prevTs": "20241116224846",
+    "kind": "price",
+    "score": 26,
+    "counts": {
+      "price": 8,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Notion: 8 prices, 1 limit changed ($8 → €7.50; $10 → €9.50)",
+    "pairs": [
+      {
+        "before": "Add to your workspace for $8 per member/month, billed annually.",
+        "after": "Add to your workspace for €7.50 per member/month, billed annually.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$8",
+            "after": "€7.50"
+          }
+        ]
+      },
+      {
+        "before": "$10 per member/month billed monthly.",
+        "after": "€9.50 per member/month billed monthly.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$10",
+            "after": "€9.50"
+          }
+        ]
+      },
+      {
+        "before": "Plus $10 per seat/month Get started",
+        "after": "Plus €9.50 per seat/month Get started",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$10",
+            "after": "€9.50"
+          }
+        ]
+      },
+      {
+        "before": "Business $15 per seat/month Get started",
+        "after": "Business €14 per seat/month Get started",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$15",
+            "after": "€14"
+          }
+        ]
+      },
+      {
+        "before": "We'll be happy to refund you the full amount (not pro-rated) if you downgrade your subscription within 72 hours of signing up for monthly billing, or within 30 days of signing up for annual billing.",
+        "after": "We'll be happy to refund you the full amount (not pro-rated) if you downgrade your subscription within three days of signing up for monthly billing, or within 30 days of signing up for annual billing.",
+        "confidence": 0.9,
+        "deltas": [
+          {
+            "before": "72",
+            "after": "30"
+          },
+          {
+            "before": "30",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "€9.50",
+      "€14"
+    ],
+    "removed": [
+      "$10",
+      "$15"
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 10,
+      "materialRemoved": 8,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "notion-com-pricing-20250201030802",
+    "url": "https://www.notion.com/pricing",
+    "ts": "20250201030802",
+    "date": "2025-02-01",
+    "source": "wayback",
+    "prevTs": "20250103151242",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 8,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Notion: 8 prices changed (€7.50 → $8; €9.50 → $10)",
+    "pairs": [
+      {
+        "before": "Add to your workspace for €7.50 per member/month, billed annually.",
+        "after": "Add to your workspace for $8 per member/month, billed annually.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€7.50",
+            "after": "$8"
+          }
+        ]
+      },
+      {
+        "before": "€9.50 per member/month billed monthly.",
+        "after": "$10 per member/month billed monthly.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€9.50",
+            "after": "$10"
+          }
+        ]
+      },
+      {
+        "before": "Plus €9.50 per seat/month Get started",
+        "after": "Plus $10 per seat/month Get started",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€9.50",
+            "after": "$10"
+          }
+        ]
+      },
+      {
+        "before": "Business €14 per seat/month Get started",
+        "after": "Business $15 per seat/month Get started",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€14",
+            "after": "$15"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$10",
+      "$15"
+    ],
+    "removed": [
+      "€9.50",
+      "€14"
+    ],
+    "totals": {
+      "removed": 9,
+      "added": 9,
+      "materialRemoved": 8,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "notion-com-pricing-20250504061555",
+    "url": "https://www.notion.com/pricing",
+    "ts": "20250504061555",
+    "date": "2025-05-04",
+    "source": "wayback",
+    "prevTs": "20250201030802",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Notion: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Unlimited for individuals",
+      "Unlimited + conditional logic + additional customization"
+    ],
+    "removed": [
+      "Unlimited for individuals, limited block trial for 2+ members"
+    ],
+    "totals": {
+      "removed": 9,
+      "added": 21,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "notion-com-pricing-20250603010705",
+    "url": "https://www.notion.com/pricing",
+    "ts": "20250603010705",
+    "date": "2025-06-03",
+    "source": "wayback",
+    "prevTs": "20250504061555",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Notion: 3 prices changed ($15 → $20)",
+    "pairs": [
+      {
+        "before": "Business $15 per seat/month Get started",
+        "after": "Business $20 per seat/month Get started",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$15",
+            "after": "$20"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$20"
+    ],
+    "removed": [
+      "$15",
+      "When you purchase the Notion AI add-on, you’re enabling everyone in your workspace (except for guests) to have unlimited use of Notion AI.",
+      "Is there a free trial for Notion AI?",
+      "Everyone can try Notion AI for free, so you can test most of its capabilities before purchasing the add-on subscription. Please note that some features are not available in the free trial, including AI connectors BETA, autofilling a database in bulk, and auto-updating of autofilled database properties."
+    ],
+    "totals": {
+      "removed": 25,
+      "added": 21,
+      "materialRemoved": 7,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "notion-com-pricing-20250701134653",
+    "url": "https://www.notion.com/pricing",
+    "ts": "20250701134653",
+    "date": "2025-07-01",
+    "source": "wayback",
+    "prevTs": "20250603010705",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Notion: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Unlimited",
+      "Unlimited + additional customization",
+      "Unlimited + conditional logic + additional customization",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 41,
+      "added": 45,
+      "materialRemoved": 4,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "notion-com-pricing-20250801102252",
+    "url": "https://www.notion.com/pricing",
+    "ts": "20250801102252",
+    "date": "2025-08-01",
+    "source": "wayback",
+    "prevTs": "20250701134653",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 6,
+      "limit": 2,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Notion: 6 prices, 2 limits, 1 plan name changed ($10 → €9.50; $20 → €19.50)",
+    "pairs": [
+      {
+        "before": "Plus $10 per seat/month Get started",
+        "after": "Plus €9.50 per seat/month Get started",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$10",
+            "after": "€9.50"
+          }
+        ]
+      },
+      {
+        "before": "Business $20 per seat/month Get started",
+        "after": "Business €19.50 per seat/month Get started",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$20",
+            "after": "€19.50"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Unlimited storage for individuals. Limited trial for teams.",
+      "Free for individual usage",
+      "Unlimited collaborative blocks",
+      "Unlimited charts"
+    ],
+    "removed": [
+      "7 day page history",
+      "$10",
+      "Unlimited blocks for teams",
+      "View and restore past versions of any Notion page from the past 30 days.",
+      "30 day page history",
+      "$20",
+      "90 day page history",
+      "Unlimited page history",
+      "Add to your workspace for $8 per member/month, billed annually.",
+      "$10 per member/month billed monthly.",
+      "Free For individuals Sign up",
+      "Get started for free.",
+      "Try Notion free"
+    ],
+    "totals": {
+      "removed": 79,
+      "added": 66,
+      "materialRemoved": 17,
+      "materialAdded": 8
+    },
+    "flap": true
+  },
+  {
+    "id": "notion-com-pricing-20250901075245",
+    "url": "https://www.notion.com/pricing",
+    "ts": "20250901075245",
+    "date": "2025-09-01",
+    "source": "wayback",
+    "prevTs": "20250801102252",
+    "kind": "price",
+    "score": 7,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Notion: 2 prices, 1 limit changed (€9.50 → $10; €19.50 → $20)",
+    "pairs": [
+      {
+        "before": "Plus €9.50 per seat/month Get started",
+        "after": "Plus $10 per seat/month Get started",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€9.50",
+            "after": "$10"
+          }
+        ]
+      },
+      {
+        "before": "Business €19.50 per seat/month Get started",
+        "after": "Business $20 per seat/month Get started",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€19.50",
+            "after": "$20"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "30 day retention"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 11,
+      "materialRemoved": 3,
+      "materialAdded": 4
+    },
+    "flap": true
+  },
+  {
+    "id": "notion-com-pricing-20260303012745",
+    "url": "https://www.notion.com/pricing",
+    "ts": "20260303012745",
+    "date": "2026-03-03",
+    "source": "wayback",
+    "prevTs": "20250901075245",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Notion: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Unlimited guests"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 26,
+      "added": 34,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "notion-com-pricing-20260401185303",
+    "url": "https://www.notion.com/pricing",
+    "ts": "20260401185303",
+    "date": "2026-04-01",
+    "source": "wayback",
+    "prevTs": "20260303012745",
+    "kind": "price",
+    "score": 19,
+    "counts": {
+      "price": 5,
+      "limit": 0,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Notion: 5 prices, 2 plan names changed (added “$0 per member / month”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "$0 per member / month",
+      "$10 per member / month",
+      "Everything in Free, and:",
+      "Unlimited charts",
+      "$20 per member / month",
+      "AI agents handle repetitive tasks autonomously, so your team doesn’t have to. Free to try, then $10 per 1,000 credits. Learn more →",
+      "AI agents handle repetitive tasks autonomously, so your team doesn’t have to. Free to try, then $10 per 1,000 credits."
+    ],
+    "removed": [
+      "Free for teams to try.",
+      "Unlimited storage for individuals. Limited trial for teams.",
+      "Free for individual usage",
+      "Everything in Free",
+      "Unlimited charts"
+    ],
+    "totals": {
+      "removed": 31,
+      "added": 41,
+      "materialRemoved": 7,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "notion-com-pricing-20260601052902",
+    "url": "https://www.notion.com/pricing",
+    "ts": "20260601052902",
+    "date": "2026-06-01",
+    "source": "wayback",
+    "prevTs": "20260401185303",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Notion: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Extend Notion with custom code to build agent tools, sync external data, and trigger Notion workflows from anywhere. Free to try now. Starts using credits on August 11. Learn more →"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 15,
+      "added": 24,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "notion-com-pricing-20260805043453",
+    "url": "https://www.notion.com/pricing",
+    "ts": "20260805043453",
+    "date": "2026-08-05",
+    "source": "wayback",
+    "prevTs": "20260601052902",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 4,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Notion: 4 prices changed ($10 → €9.50; $20 → €19.50)",
+    "pairs": [
+      {
+        "before": "$10 per member / month",
+        "after": "€9.50 per member / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$10",
+            "after": "€9.50"
+          }
+        ]
+      },
+      {
+        "before": "$20 per member / month",
+        "after": "€19.50 per member / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$20",
+            "after": "€19.50"
+          }
+        ]
+      },
+      {
+        "before": "Plus $10 per seat/month Get started",
+        "after": "Plus €9.50 per seat/month Get started",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$10",
+            "after": "€9.50"
+          }
+        ]
+      },
+      {
+        "before": "Business $20 per seat/month Get started",
+        "after": "Business €19.50 per seat/month Get started",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$20",
+            "after": "€19.50"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 21,
+      "added": 8,
+      "materialRemoved": 7,
+      "materialAdded": 7
+    },
+    "flap": true
+  },
+  {
+    "id": "notion-com-pricing-20260902202107",
+    "url": "https://www.notion.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260805043453",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 4,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Notion: 4 prices changed (€9.50 → $10; €19.50 → $20)",
+    "pairs": [
+      {
+        "before": "€9.50 per member / month",
+        "after": "$10 per member / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€9.50",
+            "after": "$10"
+          }
+        ]
+      },
+      {
+        "before": "€19.50 per member / month",
+        "after": "$20 per member / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€19.50",
+            "after": "$20"
+          }
+        ]
+      },
+      {
+        "before": "Plus €9.50 per seat/month Get started",
+        "after": "Plus $10 per seat/month Get started",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€9.50",
+            "after": "$10"
+          }
+        ]
+      },
+      {
+        "before": "Business €19.50 per seat/month Get started",
+        "after": "Business $20 per seat/month Get started",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€19.50",
+            "after": "$20"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 6,
+      "materialRemoved": 6,
+      "materialAdded": 6
+    },
+    "flap": true,
+    "transition": true
+  }
+]

@@ -1,0 +1,464 @@
+[
+  {
+    "id": "bugsnag-com-pricing-20230604181422",
+    "url": "https://www.bugsnag.com/pricing/",
+    "ts": "20230604181422",
+    "date": "2023-06-04",
+    "source": "wayback",
+    "prevTs": "20230130085629",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Bugsnag: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Monitor an unlimited number of apps in one dashboard",
+      "Create an unlimited number of projects in Bugsnag."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 10,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "bugsnag-com-pricing-20240229125521",
+    "url": "https://www.bugsnag.com/pricing/",
+    "ts": "20240229125521",
+    "date": "2024-02-29",
+    "source": "wayback",
+    "prevTs": "20230604181422",
+    "kind": "limits",
+    "score": 66,
+    "counts": {
+      "price": 0,
+      "limit": 24,
+      "plan": 9
+    },
+    "material": true,
+    "headline": "Bugsnag: 24 limits, 9 plan names changed (7.5k → 50k; 150k → 100k)",
+    "pairs": [
+      {
+        "before": "7.5k monthly events, 1 seat",
+        "after": "50k monthly events",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "7.5k",
+            "after": "50k"
+          },
+          {
+            "before": "1",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "150k monthly events, 5 seats",
+        "after": "100k monthly events",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "150k",
+            "after": "100k"
+          },
+          {
+            "before": "5",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "7.5k monthly events, 1 seat",
+        "after": "200k monthly events",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "7.5k",
+            "after": "200k"
+          },
+          {
+            "before": "1",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "150k monthly events, 5 seats",
+        "after": "300k monthly events",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "150k",
+            "after": "300k"
+          },
+          {
+            "before": "5",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "150k monthly events, 5 seats",
+        "after": "50k monthly events",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "150k",
+            "after": "50k"
+          },
+          {
+            "before": "5",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "450k monthly events, 15 seats",
+        "after": "100k monthly events",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "450k",
+            "after": "100k"
+          },
+          {
+            "before": "15",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "150k monthly events, 5 seats",
+        "after": "200k monthly events",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "150k",
+            "after": "200k"
+          },
+          {
+            "before": "5",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "450k monthly events, 15 seats",
+        "after": "300k monthly events",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "450k",
+            "after": "300k"
+          },
+          {
+            "before": "15",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "24/7 monitoring · SaaS and On-Premises · Deliver quality customer experiences · 14-day free trial",
+      "Free",
+      "Free",
+      "try for free",
+      "1 user",
+      "7.5K events and 1M spans",
+      "400k monthly events",
+      "500k monthly events",
+      "1M monthly events",
+      "1.5M monthly events",
+      "3M monthly events",
+      "3M Monthly Spans",
+      "7.5M Monthly Spans",
+      "15M Monthly Spans",
+      "30M Monthly Spans",
+      "75M Monthly Spans",
+      "150M Monthly Spans",
+      "try for free",
+      "Unlimited users",
+      "400k monthly events",
+      "500k monthly events",
+      "1M monthly events",
+      "1.5M monthly events",
+      "3M monthly events",
+      "3M Monthly Spans",
+      "7.5M Monthly Spans",
+      "15M Monthly Spans",
+      "30M Monthly Spans",
+      "75M Monthly Spans",
+      "150M Monthly Spans",
+      "300M Monthly Spans",
+      "try for free",
+      "try for free",
+      "try for free",
+      "6 tiers: 3M - 150M",
+      "7 tiers: 3M - 300M",
+      "Packs of 150M spans",
+      "View and filter up to 30 days of performance data.",
+      "30 Days",
+      "try for free"
+    ],
+    "removed": [
+      "Full-stack monitoring · SaaS and On-Premise · Meet developer productivity goals · 14-day free trial",
+      "Start free trial",
+      "Full-stack monitoring on an unlimited number of web, desktop, and server applications",
+      "Start free trial",
+      "Start free trial",
+      "Start free trial",
+      "60 days*",
+      "60 days",
+      "Start free trial",
+      "Start free trial",
+      "Monitor an unlimited number of apps in one dashboard",
+      "Create an unlimited number of projects in Bugsnag.",
+      "Monitor an unlimited number of apps in one dashboard",
+      "Create an unlimited number of projects in Bugsnag.",
+      "Fast and unlimited support from our team of talented engineers.",
+      "Start free trial"
+    ],
+    "totals": {
+      "removed": 182,
+      "added": 120,
+      "materialRemoved": 27,
+      "materialAdded": 51
+    }
+  },
+  {
+    "id": "bugsnag-com-pricing-20240621083110",
+    "url": "https://www.bugsnag.com/pricing/",
+    "ts": "20240621083110",
+    "date": "2024-06-21",
+    "source": "wayback",
+    "prevTs": "20240229125521",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Bugsnag: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Free plan features, plus:"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 20,
+      "added": 23,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "bugsnag-com-pricing-20241114020822",
+    "url": "https://www.bugsnag.com/pricing/",
+    "ts": "20241114020822",
+    "date": "2024-11-14",
+    "source": "wayback",
+    "prevTs": "20240621083110",
+    "kind": "limits",
+    "score": 17,
+    "counts": {
+      "price": 0,
+      "limit": 9,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Bugsnag: 9 limits changed (100k → 150k; 3M → 1M)",
+    "pairs": [
+      {
+        "before": "100k monthly events",
+        "after": "150k monthly events",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100k",
+            "after": "150k"
+          }
+        ]
+      },
+      {
+        "before": "3M Monthly Spans",
+        "after": "1M Monthly Spans",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3M",
+            "after": "1M"
+          }
+        ]
+      },
+      {
+        "before": "200k monthly events",
+        "after": "150k monthly events",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "200k",
+            "after": "150k"
+          }
+        ]
+      },
+      {
+        "before": "3M Monthly Spans",
+        "after": "1M Monthly Spans",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3M",
+            "after": "1M"
+          }
+        ]
+      },
+      {
+        "before": "6 tiers: 3M - 150M",
+        "after": "6 tiers: 1M - 150M",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3M",
+            "after": "1M"
+          }
+        ]
+      },
+      {
+        "before": "7 tiers: 3M - 300M",
+        "after": "7 tiers: 1M - 150M",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3M",
+            "after": "1M"
+          },
+          {
+            "before": "300M",
+            "after": "150M"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "400k monthly events",
+      "50k monthly events",
+      "400k monthly events",
+      "View and filter up to 30 days of performance data.",
+      "30 Days"
+    ],
+    "totals": {
+      "removed": 22,
+      "added": 22,
+      "materialRemoved": 11,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "bugsnag-com-pricing-20250118201457",
+    "url": "https://www.bugsnag.com/pricing/",
+    "ts": "20250118201457",
+    "date": "2025-01-18",
+    "source": "wayback",
+    "prevTs": "20241114020822",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Bugsnag: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 4,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "bugsnag-com-pricing-20250918093045",
+    "url": "https://www.bugsnag.com/pricing/",
+    "ts": "20250918093045",
+    "date": "2025-09-18",
+    "source": "wayback",
+    "prevTs": "20250118201457",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 3,
+      "limit": 3,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Bugsnag: 3 prices, 3 limits, 2 plan names changed (removed “24/7 monitoring · SaaS and On-Premises · Deli…”; added “$0 /month”)",
+    "pairs": [],
+    "added": [
+      "Try Free",
+      "$0 /month",
+      "$ 0 /month",
+      "$ 0 /month",
+      "Unlimited users",
+      "Advanced Filtering (Search Builder) *with paid performance plans starting at 7.5M spans",
+      "Network Configurations (Endpoint Groupings) *with paid performance plans starting at 7.5M spans",
+      "Try BugSnag for free to monitor, prioritize, and resolve app errors and performance bottlenecks."
+    ],
+    "removed": [
+      "24/7 monitoring · SaaS and On-Premises · Deliver quality customer experiences · 14-day free trial",
+      "Free",
+      "Unlimited users",
+      "Create an unlimited number of projects in Bugsnag.",
+      "Minidump events (native crashes reported by Electron apps, or apps integrating Breakpad or Crashpad) each count as 5 events for billing purposes. This is due to the additional costs associated with receiving and processing minidump events.",
+      "Unrestricted access to all Preferred features free for 14 days. No credit card required. At the end of your trial, select a plan to continue using BugSnag.",
+      "You can select a plan at any time during your 14-day free trial. We won't charge you until the end of your trial.",
+      "has further details and instructions on how to apply for a free license.",
+      "Try Insight Hub’s features for free for 14 days. No credit card required."
+    ],
+    "totals": {
+      "removed": 193,
+      "added": 140,
+      "materialRemoved": 33,
+      "materialAdded": 32
+    }
+  },
+  {
+    "id": "bugsnag-com-pricing-20260525100649",
+    "url": "https://www.bugsnag.com/pricing/",
+    "ts": "20260525100649",
+    "date": "2026-05-25",
+    "source": "wayback",
+    "prevTs": "20250918093045",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Bugsnag: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 15,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  }
+]

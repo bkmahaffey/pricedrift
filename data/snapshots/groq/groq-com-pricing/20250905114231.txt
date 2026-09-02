@@ -1,0 +1,168 @@
+On-demand Pricing for Tokens-as-a-Service
+Groq powers leading openly-available AI models.
+Get started for free
+and upgrade as your needs grow. View the pricing of our core models below – note all prices are in USD. Other models are available for specific customer requests including fine tuned models. Send us your inquiries here
+.
+Large Language Models (LLMs)
+*Approximate number of tokens per $ AI Model
+Current Speed (Tokens per Second)
+Input Token Price (Per Million Tokens)
+Output Token Price (Per Million Tokens)
+GPT OSS 20B 128k
+1,000
+$0.10 (10M / $1)*
+$0.50 (2M / $1)*
+Try Now
+Model Card
+GPT OSS 120B 128k
+500
+$0.15 (6.67M / $1)*
+$0.75 (1.33M / $1)*
+Try Now
+Model Card
+Kimi K2-0905 1T 256k
+200
+$1.00 (1M / $1)*
+$3.00 (333,333 / $1)*
+Try Now
+Model Card
+Llama 4 Scout (17Bx16E) 128k
+594
+$0.11 (9.09M / $1)*
+$0.34 (2.94M / $1)*
+Try Now
+Model Card
+Llama 4 Maverick (17Bx128E) 128k
+562
+$0.20 (5M / $1)*
+$0.60 (1.6M / $1)*
+Try Now
+Model Card
+Llama Guard 4 12B 128k
+325
+$0.20 (5M / $1)*
+Try Now
+Model Card
+DeepSeek R1 Distill Llama 70B 128k
+400
+$0.75 (1.33M / $1)*
+$0.99 (1.01M / $1)*
+Try Now
+Model Card
+Qwen3 32B 131k
+662
+$0.29 (3.44M / $1)*
+$0.59 (1.69M / $1)*
+Try Now
+Model Card
+Mistral Saba 24B 32k
+330
+$0.79 (1.27M / $1)*
+Try Now
+Llama 3.3 70B Versatile 128k
+394
+$0.59 (1.69M / $1)*
+$0.79 (1.27M / $1)*
+Try Now
+Model Card
+Llama 3.1 8B Instant 128k
+840
+$0.05 (20M / $1)*
+$0.08 (12.5M / $1)*
+Try Now
+Model Card
+Llama 3 70B 8k
+330
+$0.59 (1.69M / $1)*
+$0.79 (1.27M / $1)*
+Try Now
+Model Card
+Llama 3 8B 8k
+1,345
+$0.05 (20M / $1)*
+$0.08 (12.5M / $1)*
+Try Now
+Model Card
+Gemma 2 9B 8k
+500
+$0.20 (5M / $1)*
+Try Now
+Model Card
+Llama Guard 3 8B 8k
+765
+$0.20 (5M / $1)*
+Try Now
+Model Card
+Text-to-Speech (TTS) Models
+AI Model
+Characters /s
+Price Price (Per M Characters)
+PlayAI Dialog v1.0
+140
+$50.00
+Try Now
+Model Card
+Automatic Speech Recognition (ASR) Models
+*Audio is billed at a minimum of 10s per request. AI Model
+Speed Factor
+Price (Per Hour Transcribed)
+Whisper V3 Large
+217x
+$0.111*
+Try Now
+Model Card
+Whisper Large v3 Turbo
+228x
+$0.04*
+Try Now
+Model Card
+Prompt Caching
+Note: No extra fee for the caching feature itself. The discount only applies when a cache hit occurs. Model
+Uncached Input Tokens (Per M Tokens)
+Cached Input Tokens (Per M Tokens)
+Output Tokens (Per M Tokens)
+moonshotai/kimi‑k2‑instruct
+$1.00
+$0.50
+$3.00
+Built In Tools (Compound)
+Tool
+Price
+Parameter
+Basic Search
+$5 / 1000 requests
+web_search
+Advanced Search
+$8 / 1000 requests
+web_search
+Visit Website
+$1 / 1000 requests
+visit_website
+Code Execution
+$0.18 / hour
+code_interpreter
+Browser Automation
+$0.08 / hour
+browser_automation
+Built In Tools (GPT-OSS)
+Tool
+Price
+Parameter
+Browser Search - Basic Search
+$5 / 1000 requests
+browser_search - browser.search
+Browser Search - Visit Website
+$1 / 1000 requests
+browser_search - browser.open
+Code Execution - Python
+$0.18 / hour
+code_interpreter - python
+Compound Systems
+Compound AI systems are powered by multiple openly-available models already supported in GroqCloud to intelligently and selectively use tools to answer user queries, starting first with web search and code execution.Pricing is passed through to the underlying models and server side tools that are part of the compound AI system.
+For more information, see the GroqCloud documentation
+.
+Batch API
+Batch processing lets you run thousands of API requests at scale by submitting your workload as an asynchronous batch of requests to Groq with 50% lower cost, no impact to your standard rate limits, and 24-hour to 7 day processing window.
+Learn more about Batch pricing and how to get started.
+For enterprise API solutions or on-prem deployments, please fill out the form on our Enterprise Access Page
+.

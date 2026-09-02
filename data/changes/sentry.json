@@ -1,0 +1,884 @@
+[
+  {
+    "id": "sentry-io-pricing-20230423060937",
+    "url": "https://sentry.io/pricing/",
+    "ts": "20230423060937",
+    "date": "2023-04-23",
+    "source": "wayback",
+    "prevTs": "20230209120938",
+    "kind": "price",
+    "score": 10,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Sentry: 2 prices, 1 limit, 1 plan name changed (added “$ 29 /mo”)",
+    "pairs": [],
+    "added": [
+      "Codecov Free",
+      "Add code coverage free for one developer.",
+      "$ 29 /mo",
+      "for the first 5 seats of Codecov Pro.",
+      "Optional add-on to Team and Business Plan. 15 day trial included. Read more.",
+      "+$ 0.00"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 15,
+      "materialRemoved": 0,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "sentry-io-pricing-20230612190211",
+    "url": "https://sentry.io/pricing/",
+    "ts": "20230612190211",
+    "date": "2023-06-12",
+    "source": "wayback",
+    "prevTs": "20230423060937",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Sentry: 1 limit changed (15 → 14)",
+    "pairs": [
+      {
+        "before": "Optional add-on to Team and Business Plan. 15 day trial included. Read more.",
+        "after": "Optional add-on to Team and Business Plan. 14 day trial included. Read more.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "15",
+            "after": "14"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 7,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "sentry-io-pricing-20231020154630",
+    "url": "https://sentry.io/pricing/",
+    "ts": "20231020154630",
+    "date": "2023-10-20",
+    "source": "wayback",
+    "prevTs": "20230612190211",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Sentry: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "sentry-io-pricing-20240206234137",
+    "url": "https://sentry.io/pricing/",
+    "ts": "20240206234137",
+    "date": "2024-02-06",
+    "source": "wayback",
+    "prevTs": "20231020154630",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Sentry: 1 price changed (added “* Monitors are available for purchase at $0.7…”)",
+    "pairs": [],
+    "added": [
+      "* Monitors are available for purchase at $0.78 per monitor, per month through a pre-determined on-demand budget. ** Contact our sales team for more information."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 52,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "sentry-io-pricing-20240413214426",
+    "url": "https://sentry.io/pricing/",
+    "ts": "20240413214426",
+    "date": "2024-04-13",
+    "source": "wayback",
+    "prevTs": "20240206234137",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Sentry: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 6,
+      "materialRemoved": 6,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "sentry-io-pricing-20240612210304",
+    "url": "https://sentry.io/pricing/",
+    "ts": "20240612210304",
+    "date": "2024-06-12",
+    "source": "wayback",
+    "prevTs": "20240413214426",
+    "kind": "price",
+    "score": 55,
+    "counts": {
+      "price": 10,
+      "limit": 12,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Sentry: 10 prices, 12 limits, 1 plan name changed (50K → 5k)",
+    "pairs": [
+      {
+        "before": "50K errors",
+        "after": "5k errors",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50K",
+            "after": "5k"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Unlimited users",
+      "$80/mo",
+      "Unlimited",
+      "Unlimited",
+      "50k errors",
+      "Plan Base $26.00",
+      "+ $0.00",
+      "1B",
+      "2B",
+      "3B",
+      "4B",
+      "5B",
+      "6B",
+      "7B",
+      "8B",
+      "9B",
+      "10B",
+      "+ $0.00",
+      "+ $0.00",
+      "+ $0.00",
+      "+ $0.00",
+      "1K GB",
+      "+ $0.00",
+      "Reserved Pricing $26.00 /mo Discounts applied:"
+    ],
+    "removed": [
+      "Unlimited members",
+      "Codecov Free",
+      "Add code coverage free for one developer.",
+      "$ 29 /mo",
+      "for the first 5 seats of Codecov Pro.",
+      "Optional add-on to Team and Business Plan. 14 day trial included. Read more.",
+      "1,000GB",
+      "1,000GB",
+      "30 day data retention",
+      "90 day data retention",
+      "Unlimited users",
+      "90 day data retention",
+      "Unlimited users",
+      "100K performance units",
+      "1GB attachments"
+    ],
+    "totals": {
+      "removed": 149,
+      "added": 195,
+      "materialRemoved": 41,
+      "materialAdded": 50
+    }
+  },
+  {
+    "id": "sentry-io-pricing-20241004204737",
+    "url": "https://sentry.io/pricing/",
+    "ts": "20241004204737",
+    "date": "2024-10-04",
+    "source": "wayback",
+    "prevTs": "20240612210304",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Sentry: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 15,
+      "added": 14,
+      "materialRemoved": 10,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "sentry-io-pricing-20241204131546",
+    "url": "https://sentry.io/pricing/",
+    "ts": "20241204131546",
+    "date": "2024-12-04",
+    "source": "wayback",
+    "prevTs": "20241004204737",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Sentry: 2 limits changed (added “Insights (7 day lookback)”)",
+    "pairs": [],
+    "added": [
+      "Insights (7 day lookback)",
+      "Insights (90 day lookback)",
+      "Insights (7 day lookback)",
+      "Insights (90 day lookback)"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 10,
+      "materialRemoved": 0,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "sentry-io-pricing-20250217105817",
+    "url": "https://sentry.io/pricing/",
+    "ts": "20250217105817",
+    "date": "2025-02-17",
+    "source": "wayback",
+    "prevTs": "20241204131546",
+    "kind": "price",
+    "score": 5,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Sentry: 1 price, 1 limit changed (added “10M spans”)",
+    "pairs": [],
+    "added": [
+      "10M spans",
+      "1 uptime monitor",
+      "Monitor the availability and reliability of your critical web services for $1.00 per uptime alert, per month with Uptime Monitoring."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 11,
+      "materialRemoved": 1,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "sentry-io-pricing-20250402083729",
+    "url": "https://sentry.io/pricing/",
+    "ts": "20250402083729",
+    "date": "2025-04-02",
+    "source": "wayback",
+    "prevTs": "20250217105817",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Sentry: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 13,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "sentry-io-pricing-20250506080031",
+    "url": "https://sentry.io/pricing/",
+    "ts": "20250506080031",
+    "date": "2025-05-06",
+    "source": "wayback",
+    "prevTs": "20250402083729",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Sentry: 2 prices changed (added “Continuous Profiling: $0.0315/hr”)",
+    "pairs": [],
+    "added": [
+      "Continuous Profiling: $0.0315/hr",
+      "UI Profiling: $0.25/hr"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 10,
+      "materialRemoved": 2,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "sentry-io-pricing-20250611013459",
+    "url": "https://sentry.io/pricing/",
+    "ts": "20250611013459",
+    "date": "2025-06-11",
+    "source": "wayback",
+    "prevTs": "20250506080031",
+    "kind": "price",
+    "score": 11,
+    "counts": {
+      "price": 3,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Sentry: 3 prices, 1 limit changed (removed “Insights (7 day lookback)”; added “Starting at $18/month”)",
+    "pairs": [],
+    "added": [
+      "Starting at $18/month",
+      "The Seer subscription includes $25/month of credits for issue scans and issue fixes; additional usage is billed against the PAYG budget.",
+      "+$ 0"
+    ],
+    "removed": [
+      "Insights (7 day lookback)",
+      "Insights (7 day lookback)"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 14,
+      "materialRemoved": 2,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "sentry-io-pricing-20250807003428",
+    "url": "https://sentry.io/pricing/",
+    "ts": "20250807003428",
+    "date": "2025-08-07",
+    "source": "wayback",
+    "prevTs": "20250611013459",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Sentry: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "sentry-io-pricing-20250903221042",
+    "url": "https://sentry.io/pricing/",
+    "ts": "20250903221042",
+    "date": "2025-09-03",
+    "source": "wayback",
+    "prevTs": "20250807003428",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 2,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Sentry: 2 prices, 2 limits changed (10M → 5M; $0.78 → $0.50)",
+    "pairs": [
+      {
+        "before": "10M spans",
+        "after": "5M spans",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10M",
+            "after": "5M"
+          }
+        ]
+      },
+      {
+        "before": "Cron Monitoring, Uptime Monitoring, and Profiling can be purchased via your organization's pay-as-you-go budget. Cron Monitoring: $0.78/monitor",
+        "after": "Logs, Cron Monitoring, Uptime Monitoring, and Profiling can be purchased via your organization's pay-as-you-go budget. Logs: $0.50/GB",
+        "confidence": 0.87,
+        "deltas": [
+          {
+            "before": "$0.78",
+            "after": "$0.50"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Unlimited custom dashboards",
+      "Unlimited metric alerts",
+      "Unlimited custom dashboards",
+      "Unlimited metric alerts",
+      "5GB",
+      "Unlimited",
+      "Unlimited",
+      "Cron Monitoring: $0.78/monitor"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 30,
+      "added": 40,
+      "materialRemoved": 2,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "sentry-io-pricing-20251004122330",
+    "url": "https://sentry.io/pricing/",
+    "ts": "20251004122330",
+    "date": "2025-10-04",
+    "source": "wayback",
+    "prevTs": "20250903221042",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Sentry: 1 limit changed (removed “1K GB”; added “1 TB”)",
+    "pairs": [],
+    "added": [
+      "1 TB"
+    ],
+    "removed": [
+      "1K GB"
+    ],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "sentry-io-pricing-20251104232741",
+    "url": "https://sentry.io/pricing/",
+    "ts": "20251104232741",
+    "date": "2025-11-04",
+    "source": "wayback",
+    "prevTs": "20251004122330",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Sentry: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Unlimited metric alerts with anomaly detection",
+      "Unlimited metric alerts with anomaly detection"
+    ],
+    "removed": [
+      "Unlimited metric alerts",
+      "Unlimited metric alerts"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 3,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "sentry-io-pricing-20251207094307",
+    "url": "https://sentry.io/pricing/",
+    "ts": "20251207094307",
+    "date": "2025-12-07",
+    "source": "wayback",
+    "prevTs": "20251104232741",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Sentry: 2 prices changed (removed “Reserved Pricing $ 26 /mo Discounts applied:”; added “Reserved Pricing $ 26 /mo Total annual cost: …”)",
+    "pairs": [],
+    "added": [
+      "Reserved Pricing $ 26 /mo Total annual cost: $ 312 /yr"
+    ],
+    "removed": [
+      "Reserved Pricing $ 26 /mo Discounts applied:"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "sentry-io-pricing-20260106011552",
+    "url": "https://sentry.io/pricing/",
+    "ts": "20260106011552",
+    "date": "2026-01-06",
+    "source": "wayback",
+    "prevTs": "20251207094307",
+    "kind": "price",
+    "score": 17,
+    "counts": {
+      "price": 5,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Sentry: 5 prices, 1 limit changed (removed “5GB”; added “5GB +$0.50/GB additional”)",
+    "pairs": [],
+    "added": [
+      "5GB +$0.50/GB additional",
+      "1 uptime monitor +$1.00/uptime alert additional",
+      "1 cron monitor +$0.78/monitor additional",
+      "Pay-as-you-go required +$0.25/hr",
+      "Pay-as-you-go required +$0.0315/hr"
+    ],
+    "removed": [
+      "5GB",
+      "1 uptime monitor"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 8,
+      "materialRemoved": 3,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "sentry-io-pricing-20260215010818",
+    "url": "https://sentry.io/pricing/",
+    "ts": "20260215010818",
+    "date": "2026-02-15",
+    "source": "wayback",
+    "prevTs": "20260106011552",
+    "kind": "price",
+    "score": 10,
+    "counts": {
+      "price": 3,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Sentry: 3 prices, 1 limit changed (removed “Starting at $18/month”; added “100 builds”)",
+    "pairs": [],
+    "added": [
+      "100 builds",
+      "Get unlimited root cause analysis, automated fixes, and code review on connected repos.",
+      "$ 40 /active contributor/month"
+    ],
+    "removed": [
+      "Starting at $18/month",
+      "The Seer subscription includes $25/month of credits for issue scans and issue fixes; additional usage is billed against the PAYG budget."
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 14,
+      "materialRemoved": 3,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "sentry-io-pricing-20260307061132",
+    "url": "https://sentry.io/pricing/",
+    "ts": "20260307061132",
+    "date": "2026-03-07",
+    "source": "wayback",
+    "prevTs": "20260215010818",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Sentry: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 52,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "sentry-io-pricing-20260409081632",
+    "url": "https://sentry.io/pricing/",
+    "ts": "20260409081632",
+    "date": "2026-04-09",
+    "source": "wayback",
+    "prevTs": "20260307061132",
+    "kind": "price",
+    "score": 91,
+    "counts": {
+      "price": 19,
+      "limit": 17,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Sentry: 19 prices, 17 limits changed (removed “1B”; added “Summary ($ 26.00 /mo)”)",
+    "pairs": [],
+    "added": [
+      "Summary ($ 26.00 /mo)",
+      "50K/mo included",
+      "50K +$ 0.00",
+      "50K 1B",
+      "50K – 100K",
+      "$0.0003625",
+      "100K – 500K",
+      "$0.0002188",
+      "500K – 10M",
+      "$0.0001875",
+      "10M – 20M",
+      "$0.0001625",
+      "$0.0001500",
+      "Estimated Monthly Cost $ 26.00 /mo",
+      "Annual total: $ 312.00 /yr",
+      "team Plan $ 26.00",
+      "Errors 50K",
+      "Logs 5 GB",
+      "Spans 5M",
+      "Cont. profile hrs 0 hr",
+      "UI profile hrs 0 hr",
+      "$0.00",
+      "Total $ 26.00 /mo"
+    ],
+    "removed": [
+      "1B",
+      "2B",
+      "3B",
+      "4B",
+      "5B",
+      "6B",
+      "7B",
+      "8B",
+      "9B",
+      "10B",
+      "25 GB",
+      "50 GB",
+      "75 GB",
+      "100 GB",
+      "200 GB",
+      "300 GB",
+      "400 GB",
+      "500 GB",
+      "600 GB",
+      "700 GB",
+      "800 GB",
+      "900 GB",
+      "1 TB",
+      "Get unlimited root cause analysis, automated fixes, and code review on connected repos.",
+      "$ 40 /active contributor/month",
+      "Reserved Pricing $ 26 /mo Total annual cost: $ 312 /yr",
+      "Logs: $0.50/GB",
+      "Cron Monitoring: $0.78/monitor",
+      "Uptime Monitoring: $1.00/uptime alert",
+      "Continuous Profiling: $0.0315/hr",
+      "UI Profiling: $0.25/hr"
+    ],
+    "totals": {
+      "removed": 60,
+      "added": 61,
+      "materialRemoved": 42,
+      "materialAdded": 34
+    }
+  },
+  {
+    "id": "sentry-io-pricing-20260501101252",
+    "url": "https://sentry.io/pricing/",
+    "ts": "20260501101252",
+    "date": "2026-05-01",
+    "source": "wayback",
+    "prevTs": "20260409081632",
+    "kind": "price",
+    "score": 10,
+    "counts": {
+      "price": 2,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Sentry: 2 prices, 2 limits changed (added “5GB”)",
+    "pairs": [],
+    "added": [
+      "5GB",
+      "5GB",
+      "5GB +$0.50/GB additional",
+      "1 uptime monitor",
+      "Application Metrics 5 GB",
+      "$0.00",
+      "Try Sentry for Free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 15,
+      "materialRemoved": 0,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "sentry-io-pricing-20260609030959",
+    "url": "https://sentry.io/pricing/",
+    "ts": "20260609030959",
+    "date": "2026-06-09",
+    "source": "wayback",
+    "prevTs": "20260501101252",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Sentry: 1 limit changed (removed “Insights (90 day lookback)”)",
+    "pairs": [],
+    "added": [
+      "Custom +unlimited build monitors"
+    ],
+    "removed": [
+      "Insights (90 day lookback)",
+      "Insights (90 day lookback)",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 13,
+      "added": 8,
+      "materialRemoved": 6,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "sentry-io-pricing-20260811155053",
+    "url": "https://sentry.io/pricing/",
+    "ts": "20260811155053",
+    "date": "2026-08-11",
+    "source": "wayback",
+    "prevTs": "20260609030959",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Sentry: 1 limit changed (added “5,000 Session Replays on us”)",
+    "pairs": [],
+    "added": [
+      "5,000 Session Replays on us",
+      "New users only: Get 5,000 free replays per month for your first 3 months."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 7,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "sentry-io-pricing-20260902202107",
+    "url": "https://sentry.io/pricing/",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260811155053",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Sentry: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Unlimited metric monitors with anomaly detection",
+      "Unlimited metric monitors with anomaly detection"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 0,
+      "materialRemoved": 2,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

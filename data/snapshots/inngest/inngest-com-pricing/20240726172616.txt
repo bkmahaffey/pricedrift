@@ -1,0 +1,172 @@
+Simple pricing.
+Powerful functionality.
+Free tier
+50000 steps
+— 25 concurrent functions — 3 days history
+Create an account
+No credit-card required
+Team
+$50 /month
+Start building
+100K steps
++ $ 1 per additional 10K
+Unlimited Events
+Unlimited Seats
+100 Concurrent functions
+7 days History
+Discord Community Support
+-
+Most popular
+Startup
+$350 /month
+Start building
+5M steps
++ $ 5 per additional 200K
+Unlimited Events
+Unlimited Seats
+500 Concurrent functions
+14 days History
+Email, Discord Support
+-
+Enterprise
+Custom
+Contact sales
+Custom steps
+Unlimited Events
+Unlimited Seats
+Custom Concurrent functions
+90 days History
+SLAs, Dedicated Slack channel, Email Support
+Single sign-on Account security
+Dedicated customer success
+Datadog, Salesforce (+Add on) Integrations
+Data warehouse exports (+Add on)
+SOC2 report & HIPAA/BAA Compliance
+What is a step?
+Steps
+are building blocks for logic in functions. They are individually retried, and only run once on success. They allow you to easily write complex logic in a single function.
+Single-step function
+This function does one thing. When a app/user.signup event is triggered, the function sends a welcome email. This is billed as 1 step.
+export default inngest.createFunction( { id: "send-welcome-email" }, { event: "app/user.signup" }, async ({ event, step }) => { await emailAPI.send({ template: "welcome", to: event.user.email, }); });
+Multi-step function
+In this example, when a app/user.signup event is triggered the function sends a welcome email, waits 3 days, then sends another email - without any extra queues, state, or functions. This is billed as 3 steps.
+export default inngest.createFunction( { id: "new-signup-drip-campaign" }, { event: "app/user.signup" }, async ({ event, step }) => { await step.run( "send-welcome-email", async () => { await emailAPI.send({ template: "welcome", to: event.user.email, }); }); await step.sleep( "wait-before-tips", "3 days"); await step.run( "send-new-user-tips-email", async () => { await emailAPI.send({ template: "new-user-tips", to: event.user.email, }); }); });
+How can I estimate steps?
+You can use the volume of messages that you currently process in your queues to approximate your step usage. Additionally, add the number of cron jobs that you run if you aim to use Inngest for scheduling.
+Get in touch
+if you want help estimating advanced use cases.
+Compare all plans
+Free tier
+Team
+Startup Most popular
+Enterprise
+$0 / month Build your side project Create an account
+Starting at $50 / month Bring your product to life Start building
+Starting at $350 / month Scale with us Start building
+Custom Powerful access for any scale Contact sales
+Steps/month
+50K
+100K + $1 per additional 10K
+5M + $5 per additional 200K
+Custom
+Events
+Unlimited
+Seats
+Unlimited
+Concurrent functions
+25
+100
+500
+Custom
+History (log retention)
+3 days
+7 days
+14 days
+90 days
+Features
+Automatic retries
+Step functions
+Scheduled functions
+Concurrency controls
+Custom failure handlers
+Parallel steps
+Fan-out
+Local dev server
+Branch environments
+Vercel integration
+Data warehouse exports
+-
++ Add on
+Integrations
+Datadog
+-
+Salesforce
+-
++ Add on
+Support
+Discord support
+Email support
+-
+Dedicated Slack channel support
+-
+SLAs
+-
+Dedicated customer success
+-
+Solutions engineering
+-
++ Add on
+Security & Privacy
+HIPAA BAA
+-
+Available
+SOC2 report
+-
+Create an account
+Start building
+Contact sales
+Frequently
+asked
+questions
+What's a "function"?
+A function is defined with the Inngest SDK
+using createFunction or similar. A function can be triggered by an event or run on a schedule (cron).
+Functions can contain multiple “steps” to reliably run parts of your function or add functionality like sleeping/pausing a function for a period of time. You can define a step using available tools in our SDKs like step.run, step.sleep, step.sleepUntil and step.waitForEvent. Read more in our documentation
+.
+How are my functions run?
+Your functions are hosted in your existing application on any platform. We’ll call your functions securely via HTTP request on-demand.
+Each function step is called as a separate HTTP request enabling things like having a function sleep for minutes, hours or days.
+What are concurrency limits?
+As Inngest runs your function any time an event is received, you may have any number of events received within a short period of time (e.g. 10ms). Inngest can run all of these functions concurrently (in parallel). Our free tier allows for up to concurrent functions at a time. Our paid plans offer substantial concurrency to enable you to parallelize workloads and keep your system efficient and performant.
+Sleeps and other pauses do not count towards your concurrency limit as your function isn't running while waiting.
+See more details at usage limits
+page.
+Can I get a demo of the product?
+Yes! We would be happy to demo Inngest for you and understand the needs of your team. Contact us here
+to set up a call.
+What languages do you support?
+We currently have an SDK for JavaScript/TypeScript, Python, and Go.
+Additional SDKs are in development. View, upvote, and add your name to the list for a particular language SDK on our public roadmap
+.
+Do you have a SOC 2 report?
+Yes, Inngest is SOC 2 compliant
+You can request a report by contacting our team here
+.
+How long can my functions run for?
+Inngest functions are invoked via https, so each function step can run as long as your platform or server supports, for example, Vercel's Pro plan runs functions for up to 60 seconds which means that if your function needs to run longer than that, you can break it up into multiple steps (see: What is a function step?).
+See more details on our usage limits
+documentation.
+Can multiple functions be triggered by the same event?
+Yep! Any number of functions can be triggered by the same event enabling useful design patterns
+like fan-out.
+Do you charge for events?
+Nope. You can send any event to Inngest via and SDK or a webhook at any scale. We only charge for the code that you run: the “function steps.” We encourage teams to send any/all events to the Inngest platform which then can allow them to add new functions at any time.
+Can I select a region for my data?
+Not yet, but it's in our roadmap. If you have a specific roadmap in mind or would like to be one of the first people to have access, shoot us a message
+.
+Can I self host inngest?
+Not yet, but we plan to offer this in the future. If you're interested in self-hosting Inngest, reach out with your needs
+.
+Ready to start building?
+Ship background functions & workflows like never before
+$ npx inngest-cli dev Get started for free

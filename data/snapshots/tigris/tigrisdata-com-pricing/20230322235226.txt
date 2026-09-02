@@ -1,0 +1,140 @@
+Tigris Pricing
+Tigris Cloud is free for usage up to Individual plan limits while we are in beta. For usage greater than Individual plan limits, get in touch to get onboarded.
+Once Tigris Cloud moves out of beta, we plan for pricing to be similar to what is shown below.
+GET IN TOUCH
+Plan
+Database
+Search
+Database +
+Search Bundle
+Free
+Database $0 /month 5GB storage 100M database request units (DRU)
+Search $0 /month 250MB index size 100K search request units (SRU)
+Database +
+Search Bundle $0 /month 5GB storage 100M database request units (DRU) 250MB index size 100K search request units (SRU)
+Individual
+Database $29 /month 10GB storage 500M database request units (DRU)
+Search $19 /month 750MB index size 250K search request units (SRU)
+Database +
+Search Bundle $43 /month 10GB storage 500M database request units (DRU) 750MB index size 250K search request units (SRU)
+Pro
+Database $229 /month 100GB storage 3000M database request units (DRU)
+Search $199 /month 6GB index size 2M search request units (SRU)
+Database +
+Search Bundle $385 /month 100GB storage 3000M database request units (DRU) 6GB index size 2M search request units (SRU)
+Business
+Database $1999 /month Custom pricing and deployment options Contact us
+Search $1999 /month Custom pricing and deployment options Contact us
+Database +
+Search Bundle $2999 /month Custom pricing and deployment options Contact us
+Additional usage
+Database $1.0 per GB-month of storage $0.1 per 1M DRUs per month This option becomes available once customers upgrade to one of the paid plans
+Search $0.5 per GB-month of storage $0.04 per 1MB of index size and 1K SRUs per month This option becomes available once customers upgrade to one of the paid plans
+Database +
+Search Bundle Same as the database and search usage pricing
+Database
+Search
+Database +
+Search Bundle
+Free
+Database $0 /month 5GB storage 100M database request units (DRU)
+Search $0 /month 250MB index size 100K search request units (SRU)
+Database +
+Search Bundle $0 /month 5GB storage 100M database request units (DRU) 250MB index size 100K search request units (SRU)
+Individual
+Database $29 /month 10GB storage 500M database request units (DRU)
+Search $19 /month 750MB index size 250K search request units (SRU)
+Database +
+Search Bundle $43 /month 10GB storage 500M database request units (DRU) 750MB index size 250K search request units (SRU)
+Pro
+Database $229 /month 100GB storage 3000M database request units (DRU)
+Search $199 /month 6GB index size 2M search request units (SRU)
+Database +
+Search Bundle $385 /month 100GB storage 3000M database request units (DRU) 6GB index size 2M search request units (SRU)
+Business
+Database $1999 /month Custom pricing and deployment options Contact us
+Search $1999 /month Custom pricing and deployment options Contact us
+Database +
+Search Bundle $2999 /month Custom pricing and deployment options Contact us
+Additional usage
+Database $1.0 per GB-month of storage $0.1 per 1M DRUs per month This option becomes available once customers upgrade to one of the paid plans
+Search $0.5 per GB-month of storage $0.04 per 1MB of index size and 1K SRUs per month This option becomes available once customers upgrade to one of the paid plans
+Database +
+Search Bundle Same as the database and search usage pricing
+Database
+Free
+$0 /month 5GB storage 100M database request units (DRU) 250MB index size 100K search request units (SRU)
+Individual
+$43 /month 10GB storage 500M database request units (DRU) 750MB index size 250K search request units (SRU)
+Pro
+$385 /month 100GB storage 3000M database request units (DRU) 6GB index size 2M search request units (SRU)
+Business
+$2999 /month Custom pricing and deployment options Contact us
+Additional usage
+Same as the database and search usage pricing
+Free
+$0 /month 5GB Storage 100M database request units (DRU)
+Individual
+$29 /month 10GB storage 500M database request units (DRU)
+Pro
+$229 /month 100GB storage 3000M database request units (DRU)
+Business
+$1999 /month Custom pricing and deployment options Contact us
+Additional usage
+$1.0 per GB-month of storage $0.1 per 1M DRUs per month This option becomes available once customers upgrade to one of the paid plans
+Free
+$0 /month 250MB index size 100K search request units (SRU)
+Individual
+$19 /month 750MB index size 250K search request units (SRU)
+Pro
+$199 /month 6GB index size 2M search request units (SRU)
+Business
+$1999 /month Custom pricing and deployment options Contact us
+Additional usage
+$0.5 per GB-month of storage $0.04 per 1MB of index size and 1K SRUs per month This option becomes available once customers upgrade to one of the paid plans
+Free
+$0 /month 5GB storage 100M database request units (DRU) 250MB index size 100K search request units (SRU)
+Individual
+$43 /month 10GB storage 500M database request units (DRU) 750MB index size 250K search request units (SRU)
+Pro
+$385 /month 100GB storage 3000M database request units (DRU) 6GB index size 2M search request units (SRU)
+Business
+$2999 /month Custom pricing and deployment options Contact us
+Additional usage
+Same as the database and search usage pricing
+Free
+$0 /month 5GB Storage 100M database request units (DRU)
+Individual
+$29 /month 10GB storage 500M database request units (DRU)
+Pro
+$229 /month 100GB storage 3000M database request units (DRU)
+Business
+$1999 /month Custom pricing and deployment options Contact us
+Additional usage
+$1.0 per GB-month of storage $0.1 per 1M DRUs per month This option becomes available once customers upgrade to one of the paid plans
+Frequently Asked Questions
+What is a Database Request Unit (DRU)?
+Database reads and writes are mapped to database request units. A unit is a read or write up to 4KB in size. A request that performs 4KB write maps to a single RU. A request that performs 8KB read maps to 2 RUs.
+How is the Storage size calculated?
+The storage size is the max storage consumed in any given month. This is the logical dataset size.
+What is a Search Request Unit (SRU)?
+A search request unit is a metric that measures the number of searches performed.
+What is the Index size metric?
+The index size is the total size of the indexed documents in the search index. This is the logical size.
+How does the Index size metric relate to the number of documents?
+The number of documents that can fit a certain index size can be calculated based on the average size of indexed fields in a document. Given that the free plan has 250MB of index size, it can translate to the number of documents as follows:
+1KB average size of indexed fields per document = 250K documents
+0.5KB average size of indexed fields per document = 500K documents
+10KB average size of indexed fields per document = 25K documents
+Ready to get started
+Signup
+Explore docs
+Github repo
+Support Help Center
+Contact Us
+Social Media
+Legal Terms of service
+Privacy Policy
+Serverless Database Next.js
+Jamstack
+© 2023 Tigris. All Rights Reserved.

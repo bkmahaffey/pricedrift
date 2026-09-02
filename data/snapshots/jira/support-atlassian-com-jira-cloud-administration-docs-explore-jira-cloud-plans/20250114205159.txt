@@ -1,0 +1,578 @@
+Jira Cloud administration
+Documentation
+Discover Jira Cloud products
+Explore Jira Cloud plans
+What is the Free Jira Cloud plan?
+Import and export your data to and from Jira Cloud
+Import issues
+Import data from a CSV file
+Common CSV file questions and known issues
+Import CSV data with the PVCS command
+Import data from JSON
+Import data from Bitbucket
+Import data from Trello
+Export data from Jira Cloud
+Migrate from other issue trackers
+Enable Jira features in software projects
+Enable parallel sprints in Jira
+Store Jira data on your own device
+Set up Jira products
+Integrate Jira Cloud with other products and apps
+Integrate with Confluence
+Integrate Jira with development tools
+What development data can I view in Jira?
+Enable Smart Commits
+Connect GitHub Cloud to Jira
+Connect Jira to Bitbucket
+Fix error connections between Jira Cloud and Bitbucket
+Integrate Jira with Bamboo
+Integrate FishEye with Jira
+Integrate with feature flags
+Integrate with GitLab
+Integrate with Jenkins
+Connect Azure DevOps to Jira
+Reauthorize Azure DevOps using a different tenant
+How Jenkins for Jira works
+Integrate with self-hosted tools using OAuth
+Use AppLinks to link to Atlassian products
+Integrate apps
+Administer projects and links across multiple applications
+Manage webhooks
+Integrate Figma with Jira
+Explore Atlassian Open DevOps
+Integrate Jira with GitHub
+Connect GitHub Cloud to Jira
+Link GitHub development information to Jira issues
+Link GitHub workflows and deployments to Jira issues
+Connect Jira to GitHub Enterprise Server
+Manually create a GitHub app for Enterprise Server
+GitHub Enterprise Server integration FAQ
+Permissions required for Github for Jira
+Backfill GitHub data in Jira
+Integrate with Google
+Integrate your Google account with Atlassian
+Integrate with security tools
+What is the security feature?
+Connect a security tool to Jira
+Integrate with Snyk
+Integrate GitHub Advanced Security with Jira
+Integrate your deployments with Jira
+What is the deployments feature?
+Set up your deployment integration
+Integrate Bitbucket with Jira
+Integrate GitLab with Jira
+Integrate Jenkins with Jira
+Manage users, groups, permissions, and roles in Jira Cloud
+Create, edit, and delete users
+Assign users to groups, project roles, and applications
+Monitor a user's activity
+Create and update groups
+Deactivate or delete managed accounts
+Manage permissions
+Manage global permissions
+Prevent or remove public access
+Manage project permissions
+Permissions and issue-level security in Free plans
+Use manage sprints permission for advanced cases
+Permissions for company-managed projects
+Customize Jira Service Management permissions
+Resolve Jira Service Management permission errors
+How does Jira field editability work?
+Manage project roles
+Manage project role membership
+Allow anonymous access to projects
+Restrict issues to a project role after a transition
+Configure and manage projects to track team progress
+Create and edit a project
+Configure projects
+Configure a project
+Add, assign, and delete project categories
+Hide a project
+Convert a project to a different template or type
+Configure boards
+Create release notes
+Default configurations for Jira Service Management
+Configure the issue layout
+Edit a project's details
+Trash for Jira Cloud projects
+Move a project to trash
+Restore a project from trash
+Delete a project
+Archive a project
+Configure priorities for projects
+Manage priorities
+Manage priority schemes
+Configure issues to track individual pieces of work
+Configure issues
+What are issues?
+What are issue statuses, priorities, and resolutions?
+Configure statuses, resolutions, and priorities
+Translate resolutions, priorities, statuses, and issue types
+Configure time tracking
+Configure issue linking
+Configure issue types
+What are issue types?
+Add, edit, and delete an issue type
+Configure sub-tasks
+Associate issue types with projects
+What are issue type schemes?
+Add, edit, and delete an issue type scheme
+Configure the issue type hierarchy
+Manage issue screens
+Configure issue screens
+Manage screen schemes
+Manage issue type screens
+Configure issue custom fields
+Create a custom field
+Add a custom field to a screen
+Custom fields types in company-managed projects
+Configure a custom field
+Edit a custom field’s options
+Edit or delete a custom field
+Translate a custom field
+Configure custom field context
+Add a context to a custom field
+Edit a custom field context
+What are locked custom fields?
+Find your custom fields
+Manage issue field configurations
+Add, edit, and delete a field configuration
+Associate field behavior with an issue type
+Change a field configuration
+Specify field behavior
+Configure renderers
+What are issue field configuration schemes?
+Add, edit, and delete a field configuration scheme
+Configure a field configuration scheme
+Create and manage issue workflows and issue workflow schemes
+Add and delete an issue workflow
+Edit an issue workflow
+Manage issue workflows
+Work with issue workflows
+Import and export issue workflows
+Configure advanced issue workflows
+Work in text mode
+Add a custom event
+Configure the initial status
+Understand workflow triggers
+Configure workflow triggers
+Use workflow triggers for company-managed projects
+Troubleshoot workflow triggers
+Use the Fields Required validator from Jira Suite Utilities
+Use workflow validators for company-managed projects
+Use workflow properties
+Add a workflow property
+Configure issue workflow schemes
+Add, edit, and delete an issue workflow scheme
+Configure workflow schemes
+Configure notification schemes
+Configure issue security schemes
+Features in the new workflow editor
+Use the issue collector
+Customize the Jira issue collector
+What is a temporary workflow?
+What is the new workflow editor?
+System administration
+Configure global settings
+Configure Jira application options
+Configure advanced settings
+Configure file attachments
+Enable logout confirmation
+Change the default order for comments
+Configure session timeout
+Audit activities in Jira applications
+Configure announcement banners
+Manage shared items
+Manage filters
+Manage dashboards
+Customize the layout and design of Jira applications
+Configure the look and feel of Jira applications
+Configure dashboards
+Configure the default dashboard
+Configure custom dashboards
+Dashboard gadgets
+Configure the default issue navigator
+Configure the user default settings
+Create links in the application navigator
+Configure email in Jira applications
+Configure Jira Cloud to send emails on behalf of your domain
+Configure email notifications
+Configure email notifications for a custom event
+Create issues and comments from email
+Manage DMARC authentication for incoming emails
+Clean out old data using the Site optimizer
+What is the Site optimizer?
+Optimize issues in your site
+Optimize your custom fields
+Optimize your number of project role memberships
+Optimize the number of projects in your site
+Unblock user invites with the admin email audit
+Use the Jira Admin Helper
+Atlassian Support
+/
+Jira Cloud administration Resources
+/
+Discover Jira Cloud products
+Explore Jira Cloud plans
+Plans in Jira Cloud let you choose the right features and functionality for your stage of business. From teams of three where you share everything, up to large enterprises with thousands of staff where visibility and control are paramount, there's a plan to suit your needs.
+What do I get with each plan?
+Plans comparison for Jira
+Plans
+Free
+Standard
+Premium
+Enterprise
+Plan description
+For small teams to plan and track work more efficiently
+For growing teams focused on building more together
+For organizations that need to scale how they collaborate and track work
+For enterprises with global scale, security, and governance needs
+Features
+User limit
+Up to 10 users
+Up to 50,000 users
+Site limit
+The number of instances that can be licensed under a plan.
+One
+150
+Scrum and Kanban boards
+Backlog
+Agile reporting
+Customizable workflows
+Apps and integrations
+Automation
+Automate any task or process with just a few clicks. With Global and multi-project automation you can automate across as many projects as you need with a single rule. Read more about Atlassian Automation
+Automation usage limits vary by product and plan. Read more about automation limits
+Roadmaps
+Build big picture plans for your team. Our basic roadmap is designed to enable you to build a roadmap for your team. Advanced Roadmaps is designed to help you build plans across multiple teams. Learn more.
+Basic
+Advanced
+Dependency management
+Track dependencies within your team and across your organization to ensure projects deliver on time. Basic dependency management is designed to help you map dependencies within your team. Advanced dependency management is designed to help you map dependencies across multiple teams.
+Project roles
+Advanced permissions
+Capacity planning
+Keep your goals on track by accounting for whether your teams have bandwidth to complete the work they’ve scoped. See multiple teams' capacity on a sprint by sprint basis.
+Project archiving
+Admin controls
+Domain verification and account capture
+Session duration management (desktop)
+Admin insights
+Sandbox
+Leverage a safe, isolated sandbox environment to test and preview configuration changes, product updates and more along with ability to clone data from production environment. Learn more
+.
+Release tracks
+Batch cloud releases to give admins time to plan and prepare end-users for updates. Learn more
+.
+Security and compliance
+Single sign-on, SCIM provisioning, and Active Directory Sync
+Requires Atlassian Guard Standard subscription
+Included
+Password policies
+Encryption in transit & at rest
+Business continuity & disaster recovery
+Anonymous access
+Audit logs
+Anonymous access
+IP allowlisting
+Data residency
+Specify where your data is hosted within Atlassian’s global cloud footprint to help meet your corporate policies and compliance requirements. Learn more
+.
+Storage, support and invoicing
+Storage
+2 GB file storage
+250 GB file storage
+Unlimited storage
+Support
+Community support
+Local business hours
+24/7 Premium support
+24/7 Enterprise support
+Guaranteed Uptime SLA
+99.9%
+99.95%
+Centralized Per-User Licensing
+Centralized per-user subscription model that allows a user entry into all sites (instances) with a single license
+For a price estimate, check out our Jira pricing
+page. Jira
+Plans comparison for Jira Product Discovery
+Jira Product Discovery Premium is in Early Access estate
+Administration
+Free
+Standard
+Premium
+Creator limit per site
+Three creators
+Unlimited
+Number of contributors
+Unlimited
+Storage
+2 GB file storage
+250 GB file storage
+Unlimited
+Automation
+200 rules runs per month
+500 rules runs per month
+1000 rules per user per month
+Project workflows
+Project roles
+Custom project roles
+Data Residency
+Admin insights
+Atlassian Intelligence (AI)
+Sandbox
+Coming soon
+IP allowlisting
+Coming soon
+Ideation
+Free
+Standard
+Premium
+Ideas and templates
+Idea import
+Insights
+Chrome extension
+Prioritization and roadmapping
+Free
+Standard
+Premium
+List views
+Matrix views
+Timeline views
+Custom fields and formulas
+Stakeholder engagement
+Free
+Standard
+Premium
+Comments, reactions, and votes
+Idea export
+Internally shareable links
+Jira integration
+Published views
+Cross-project views
+View permissions
+Customer support
+Free
+Standard
+Premium
+Support
+Atlassian Community
+Business hours support
+24/7 Premium Support
+SLA
+99,9%
+Plans comparison for Jira Work Management
+Feature description
+Free
+Standard
+Premium
+User limit
+Up to 10 users
+Up to 35,000 users
+Storage
+2 GB
+250 GB
+Unlimited
+Automation
+100 rule executions
+500 rule executions
+Unlimited (for a limited time)
+Unlimited tasks and projects
+List, timeline, calendar, board, and summary views
+Collaborative editing
+Forms
+Business project templates
+Dependency management
+Reporting
+Dashboards
+Smart Links
+Apps and integrations
+Overviews
+Approvals
+Admin controls
+Customizable workflows
+Custom branding and colors
+Domain verification and account capture
+Session duration management (desktop)
+Issue level security
+Advanced permissions
+Project roles
+Admin insights
+Release tracks
+Sandbox
+Security and compliance
+Single sign-on, SCIM provisioning, Active Directory Sync
+Requires Atlassian Guard Standard subscription
+Password policies
+Encryption in transit and at rest
+Business continuity and disaster recovery
+Mobile Device Management
+Audit logs
+Anonymous access
+Data residency
+IP allowlisting
+Storage and support
+Storage
+2 GB file storage
+250 GB file storage
+Unlimited storage
+Support
+Support ↗
+Community Support
+9-5 Standard Support
+iOS and Android apps
+Mac app
+For a price estimate, check out our Jira Work Management pricing
+page.
+Plans comparison for Jira Service Management
+Free
+Standard
+Premium
+Enterprise
+User limit
+Up to 3 agents
+Up to 20,000 agents
+Customer limit
+Unlimited
+Storage
+2 GB
+250 GB
+Unlimited
+Support
+Community support
+9–5 Standard Support
+24/7 Premium Support
+24/7 Enterprise Support
+Multi-channel support
+Multiple help centers on a single site
+-
+Customizable workflows and SLA’s
+Custom reports
+Automation
+Automation usage limits vary by product and plan. Read more about automation limits
+Global and multi-project automation
+100 executions per month
+5,000 executions per month
+1,000 executions per user per month (combined)
+Issue-level security settings
+-
+Audit logs
+-
+Sandboxes
+-
+Release tracks
+-
+Data pinning to a realm
+-
+Uptime SLA
+-
+99.9%
+99.95%
+Assets
+Up to 50,000 objects ( more available via add-ons
+)
+Up to 50,000 objects ( more available via add-ons
+)
+Virtual service agent
+Up to 1,000 assisted conversations per month ( more available via add-ons
+)
+Up to 1,000 assisted conversations per month ( more available via add-ons
+)
+For a price estimate, check out our Jira Service Management pricing page
+.
+Free
+The Free plan is for small teams of fewer than 10 people who are just getting started with Jira.
+On the Free plan you get:
+Up to 10 users (or 3 agents for Jira Service Management)
+2 GB of file storage
+Atlassian Community
+support
+Limitations in Free
+There are some limitations to the following features when you use Free plans for Jira Cloud products:
+Permissions, roles, and issue-level security
+Audit logs
+Email notifications
+Apps that extend Jira Cloud
+Advanced roadmaps that can help you track multiple projects across different teams
+If all of your Jira Cloud products are on the Free plan, those products will be deactivated after 120 days of inactivity.
+Read more about deactivating inactive products and other limitations in Free plans
+.
+Standard
+As your team grows, and you need tighter access control, more file storage, and better support, you can move to Standard or Premium.
+On the Standard plan, you move up to:
+Up to 50,000 users for Jira (10,000 for Jira Work Management and 20,000 agents in Jira Service Management)
+250 GB of file storage
+Advanced permissions, roles, and permission sharing between company-managed projects
+Audit logs for keeping track of important changes
+Pin product content at rest to a data realm – Learn more
+Standard Support (available 9 am–5 pm Monday to Friday for your time zone)
+Advanced roadmaps can help you and your team track multiple projects across different teams. To take advantage of Jira's powerful project tracking features, upgrade your plan to Premium.
+Premium
+The Premium plan is available for Jira and Jira Service Management. This plan gets you the best of everything, including Premium dedicated customer support.
+On the Premium plan for both Jira and Jira Service Management, you get:
+Unlimited file storage
+Premium dedicated Atlassian 24/7 support
+99.9% uptime service level agreement (SLA)
+Advanced roadmaps that help you track multiple projects across different teams
+Sandboxes
+Release tracks
+Up to 50,000 objects for Assets ( more available via add-ons
+)
+Up to 1,000 assisted conversations per month for the virtual service agent ( more available via add-ons
+)
+Enterprise
+The Enterprise plan is available for Jira and Jira Service Management. This plan gets you everything from the Premium plan, plus you can:
+Give users access to multiple Jira Enterprise products (up to 150) and only pay for each user once
+Get our 99.95% uptime service level agreement (SLA)
+To inquire about an Enterprise trial or change to an Enterprise plan, fill out our contact form
+and someone from our team will reach out.
+Inherited Jira Work Management plans
+If you have a license for either Jira or Jira Service Management, you also get Jira Work Management with project templates made specifically for business teams. The Jira Work Management plan you inherit depends on what plans you have for your other Jira Cloud products.
+If all of your other Jira Cloud products are on the Free plan, you'll get the features of a Jira Work Management Free plan
+If all of your other Jira Cloud products are on the Standard plan, you'll get the features of Jira Work Management Standard plan
+If all of your other Jira Cloud products are on the Premium plan, you'll get the features of a Jira Work Management Premium plan
+Currently, Jira Work Management does not have Enterprise plans.
+If you don't specifically activate a license for Jira Work Management, you can use the features associated with your plan level but you don't get a separate user allowance for Jira Work Management. To add more users for Jira Work Management, activate a plan for Jira Work Management.
+Change your plan
+If you're using Jira Cloud already, you can try another plan at no extra cost for the remainder of your current and next billing cycles, and cancel any time during the trial if you don't want to proceed. During a trial, you can use all the features available on the new plan, but SLA compensation included on the Premium or Enterprise plan doesn't commence until the end of your trial. Once the trial finishes, you'll be placed onto the new plan and charged the new amount at the end of your billing 
+to try the Enterprise plan.
+Not sure which plan you're on? Choose Settings () > Billing > Manage subscriptions to find out. The plan for each product is shown next to the product name.
+If you change to a lower plan level, you can keep using the features available in your current plan until the end of your billing period.
+You need to be an Atlassian Cloud site admin to change a plan for your site. Learn more about site admins
+.
+To change the plan for your site:
+Choose Settings () > Billing > Manage subscriptions
+Choose Change next to your plan name
+You're ready to try out your new plan!
+To successfully change to the Free plan for a Jira Cloud product, you need to have 10 users or fewer ( Jira) or 3 agents or fewer (Jira Service Management). If you're over that limit when you try to change your plan, the change will fail and you'll remain on your current plan. Jira Work Management
+Free cloud migration trials for Jira Data Center instances
+If you're using Jira Data Center and trialing Jira Cloud, your cloud migration trial lasts for the remainder of your existing data center license period, up to 12 months. If you change to the Free plan during that trial period, your cloud migration trial will end immediately, and you'll be required to upgrade to a Standard or Premium Jira Cloud plan to use additional features. For that reason, we don't recommend changing to the Free plan while you're on a free cloud migration trial. To learn mor
+.
+Check out the Free Jira Cloud plan and the features that come with it.
+View topic
+Was this helpful?
+Yes
+No
+It wasn't accurate
+It wasn't clear
+It wasn't relevant
+Provide feedback about this article
+Still need help?
+The Atlassian Community is here for you.
+Ask the Community
+Explore more
+What is the Free Jira Cloud plan?
+Discover Jira Cloud products
+Explore Jira Cloud plans
+Import and export your data to and from Jira Cloud
+Enable Jira features in software projects
+Set up Jira products
+On this page What do I get with each plan?
+Free
+Standard
+Premium
+Enterprise
+Inherited Jira Work Management plans
+Change your plan
+Free cloud migration trials for Jira Data Center instances
+Community Questions, discussions, and articles

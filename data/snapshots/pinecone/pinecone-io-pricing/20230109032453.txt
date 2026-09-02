@@ -1,0 +1,145 @@
+Start free, scale effortlessly.
+Pinecone runs on fully managed infrastructure that scales with you, while you pay only for what you use.
+Starter
+For trying out and for small applications.
+Free
+Hardware:
+Single pod
+Features:
+Single project
+Single environment (GCP US-West)
+Single Availability Zone
+Community Support:
+Community Support
+Get Started
+No credit card required
+Standard
+For production applications at any scale.
+From $0.096/hour
+Hardware:
+Any number of pods and replicas
+Zero-downtime scaling
+Features:
+Save vector data in Collections ($0.025/GB/month)
+Multiple projects and users
+Choose your environment (GCP US-West, GCP EU-West, AWS US-East)
+Single AZ
+Standard Support:
+Email
+Business hours Monday–Friday 9am–6pm EST
+Up to 2 technical contacts
+Response-time SLA ( Sev-1 Production system is down or is severely impacted such that routine operation is impossible.: 4 hours; Sev-2 Production issue where system is functional but offers service in degraded or restricted capacity.: 1 business day; Sev-3 Production system has minor impact or has issue in development.: 1 business day; Sev-4 No production impact, questions or request for feature.: 2 business days)
+Get Started
+Upgrade after creating account
+Enterprise
+For mission-critical production applications.
+From $0.144/hour
+Hardware:
+Any number of pods and replicas
+Zero-downtime scaling
+Features:
+Save vector data in Collections ($0.025/GB/month)
+Multiple projects and users
+Choose your environment (GCP US-West, GCP EU-West, AWS US-East)
+Multi-AZ
+Prometheus Metrics
+Multiple payment options
+Premium Support:
+Slack and Email
+24/7/365 for Sev-1 Production system is down or is severely impacted such that routine operation is impossible. and Sev-2 Production issue where system is functional but offers service in degraded or restricted capacity., Business hours Monday–Friday 9am–6pm EST for Sev-3 Production system has minor impact or has issue in development. and Sev-4 No production impact, questions or request for feature.
+Up to 4 technical contacts
+Response-time SLA ( Sev-1 Production system is down or is severely impacted such that routine operation is impossible.: 1 hour; Sev-2 Production issue where system is functional but offers service in degraded or restricted capacity.: 4 hours; Sev-3 Production system has minor impact or has issue in development.: 1 business day; Sev-4 No production impact, questions or request for feature.: 2 business days)
+Uptime Defined as total minutes in that month minus downtime, divided by total minutes in that month. SLA (99.9%)
+Get Started
+Upgrade after creating account
+Enterprise Dedicated
+Get all the Enterprise features and support, deployed in a single-tenant VPC environment in the region of your choice. Contact us
+for details and pricing.
+Usage Pricing
+When you create a Pinecone Index
+you choose the pod type and number of pods to use for the index. Each pod comes with a fixed amount of vCPU, RAM, and SSD coupled with the software. You will be billed at the end of the month for total pod-hours used. Pod usage is rounded up to 15-minute increments.
+Overview of pod types (see documentation
+for more details):
+s1: Optimized for storage and cost, with low overall cost and low throughput.
+p1: Optimized for balanced performance, with moderate search latency and throughput.
+p2: Optimized for high performance, with very low search latency and high throughput.
+Google Cloud Platform
+Amazon Web Services
+Pod Type
+Starter
+Standard
+Enterprise
+s1
+Free
+(Limit: 1)
+$0.0960
+/pod-hour
+$0.1440
+/pod-hour
+p1
+Free
+(Limit: 1)
+$0.0960
+/pod-hour
+$0.1440
+/pod-hour
+p2
+Free
+(Limit: 1)
+$0.1440
+/pod-hour
+$0.2160
+/pod-hour
+Pod Type
+Starter
+Standard
+Enterprise
+s1
+Not available
+$0.1110
+/pod-hour
+$0.1665
+/pod-hour
+p1
+Not available
+$0.1110
+/pod-hour
+$0.1665
+/pod-hour
+p2
+Not available
+$0.1665
+/pod-hour
+$0.24975
+/pod-hour
+Scaling pod sizes
+to x2, x4, and x8 will change the pricing proportionally. For instance, a p1.x2 pod is twice the price of a p1 pod.
+Contact us
+for pre-commitment discounts and Enterprise Dedicated pricing.
+Common Questions
+What will I be charged for?
+You will be charged for “pod hours” in 15-minute increments, which is the time an index is running. Pod-hours are counted even when you’re not sending queries to the index.
+How many pods do I need?
+Since each pod is a bundle of hardware resources (vCPU, RAM, and disk), the required number of pods is affected by multiple factors such as data size (volume, dimensionality, and metadata), metadata cardinality, and desired latency or throughput. We strongly recommend testing with your own data on different pod types and number of pods, and following our tips for performance tuning
+.
+As a very rough starting guideline: each s1 pod fits 5M 768-dim vectors, each p1 pod fits 1M 768-dim vectors, and each p2 pod fits 1M 768-dim vectors.
+You can also contact us
+for help with sizing and testing.
+How secure is Pinecone?
+Pinecone is SOC2 Type II compliant, and we take security seriously for all users on all plans. Read about our security practices
+.
+Where is the user license or the terms of service?
+Users accept the End-User License Agreement
+when creating an account.
+Do you offer pre-commitment discounts?
+Yes we do. Contact us
+for more details.
+How do I cancel or downgrade?
+You can manage your subscription directly in the console. If you attempt to downgrade to Starter (Free) while exceeding the limits of the Starter plan, you will first need to delete projects or indexes until you are within the limits.
+For other questions, contact us
+or ask the community
+.
+What will you build?
+Upgrade your search or recommendation systems with just a few lines of code, or contact us
+for help.
+Create Account

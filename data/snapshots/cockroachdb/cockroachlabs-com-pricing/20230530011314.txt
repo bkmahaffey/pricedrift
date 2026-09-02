@@ -1,0 +1,75 @@
+CockroachDB Pricing
+Serverless
+From $0 / month
+Get Started
+Fully managed database for applications with spiky traffic, available on GCP and AWS.
+10 GiB storage & 50M Request Units for free per month for each organization,
+$0.50 per additional GiB storage
+$0.20 per additional 1M request Units
+Pay only for the storage and capacity you use
+Set spend limits so you don't go over budget
+Scale down to zero
+View Pricing
+Dedicated
+From $295 / month
+Get Started
+Fully managed database for applications with predictable traffic and advanced configuration requirements, available on AWS, Azure, and GCP.
+15 GiB to 10,000 GiB storage per node available
+2 vCPU to 32 vCPU per node available
+PCI-DSS and SOC 2 Type II compliant
+View Pricing
+Self-Hosted
+Pricing upon request
+Get Started
+Self-managed database for applications with advanced configuration requirements. Runs on nearly any infrastructure or cloud provider.
+Deploy on your infrastructure of choice, across multiple cloud platforms (public or private), across on-premises data centers, or in a hybrid set of environments
+Highly compatible with Kubernetes; integrations available with Red Hat OpenShift and IBM Cloud Pak for Data
+Contact Us
+CockroachDB Core
+Our open-source cloud database software with fundamental capabilities, available for free.
+Get started
+CockroachDB Serverless
+Pricing Concepts Explained
+Start for free and set upper limits for storage and transactional volume per month to fit your budget.
+Free
+Free for use up to 10 GiB of storage and 50M RUs per organization per month.
+No Credit Card
+Required to Start
+Sign up with an email or use single-sign on with your GitHub account, Google account, and more to get started.
+Storage
+Storage is the disk space for storing your data in the cluster. Note: We do not charge you for the replicas of data we store to provide high availability and resilience.
+Request Units
+A request unit measures the amount of compute and IOPs each query will incur. Every query has varying requirements for resources and we rate them on the backend.
+These amounts are reset each month.
+Never Overspend
+When you configure your cluster, you have the option to define a Spend Limit, which we use to regulate your usage of RUs and storage to prevent overspending. When your cluster hits these limits, requests will be restricted. You also have the option to set up a cluster without any limits, so your workload is never restricted.
+CockroachDB Dedicated Pricing
+Choose your cloud provider and cloud region.
+Cloud Provider
+Cloud Region
+Standard
+Includes all standard database capabilities
+vCPUs
+Starting price*
+2
+4
+8
+16
+32
++ Per provisioned GiB
++ Per provisioned IOPS
+Advanced
+Standard, plus advanced security capabilities: PCI-DSS Certification, CMEK, Egress Perimeter Rules
+vCPUs
+Starting price*
+2
+4
+8
+16
+32
++ Per provisioned GiB
++ Per provisioned IOPS
+Start instantly
+/* Sign up, and in just a few seconds you’ll have a CockroachDB instance */
+START INSTANTLY
+See CockroachDB in action and ask questions of our product experts

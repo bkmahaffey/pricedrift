@@ -1,0 +1,99 @@
+[
+  {
+    "id": "airtable-com-pricing-20230704051117",
+    "url": "https://airtable.com/pricing",
+    "ts": "20230704051117",
+    "date": "2023-07-04",
+    "source": "wayback",
+    "prevTs": "20230105043256",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Airtable: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 11,
+      "added": 20,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "airtable-com-pricing-20260902202107",
+    "url": "https://airtable.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "browser",
+    "prevTs": "20230704051117",
+    "kind": "price",
+    "score": 91,
+    "counts": {
+      "price": 14,
+      "limit": 14,
+      "plan": 11
+    },
+    "material": true,
+    "headline": "Airtable: 14 prices, 14 limits, 11 plan names changed (added “$20 USD”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "Free",
+      "$20 USD",
+      "$45 USD",
+      "$24 billed monthly",
+      "$54 billed monthly",
+      "Try for free",
+      "Free includes:",
+      "Unlimited bases",
+      "1,000 records per base",
+      "Up to 5 editors",
+      "1 GB of attachments per base",
+      "Everything in Free, plus:",
+      "50,000 records per base",
+      "20 GB of attachments per base",
+      "Portals: Starting from $120 for 15 guests/month",
+      "125,000 records per base",
+      "100 GB of attachments per base",
+      "Portals: Starting from $150 for 15 guests/month",
+      "500,000 records per base",
+      "1,000 GB of attachments per base",
+      "Free",
+      "Free",
+      "Try for free",
+      "Free includes:",
+      "Unlimited bases",
+      "1,000 records per base",
+      "Up to 5 editors",
+      "1 GB of attachments per base",
+      "$20",
+      "Try for free",
+      "Everything in Free, plus:",
+      "50,000 records per base",
+      "20 GB of attachments per base",
+      "Portals: Starting from $120 for 15 guests/month",
+      "$45",
+      "125,000 records per base",
+      "100 GB of attachments per base",
+      "Portals: Starting from $150 for 15 guests/month",
+      "500,000 records per base"
+    ],
+    "removed": [
+      "Sign up today and try the Pro plan for free",
+      "Unlimited workspaces"
+    ],
+    "totals": {
+      "removed": 86,
+      "added": 319,
+      "materialRemoved": 2,
+      "materialAdded": 62
+    },
+    "transition": true
+  }
+]

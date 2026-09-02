@@ -1,0 +1,1125 @@
+[
+  {
+    "id": "betterstack-com-pricing-20240908104802",
+    "url": "https://betterstack.com/pricing",
+    "ts": "20240908104802",
+    "date": "2024-09-08",
+    "source": "wayback",
+    "prevTs": "20240709000051",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 3,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Better Stack: 3 prices, 5 limits changed (50GB → 3GB)",
+    "pairs": [
+      {
+        "before": "Logs: 50 GB ingested per month retained for 7 days",
+        "after": "3 GB ingested logs per month retained for 3 days",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50GB",
+            "after": "3GB"
+          },
+          {
+            "before": "7",
+            "after": "3"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "E-mail alerts with 3 minute checks",
+      "$34",
+      "$29",
+      "Everything in free, plus:",
+      "Unlimited team members for Logs & metrics",
+      "Unlimited phone call alerts, SMS, push notifications and webhooks with 30-second checks",
+      "30 GB ingested logs per month retained for 7 days",
+      "10M ingested metrics data points retained for 30 days",
+      "Get started in 2 minutes",
+      "30 GB per month retained for 7 days"
+    ],
+    "removed": [
+      "50GB per month included",
+      "7 days included",
+      "$100 per month"
+    ],
+    "totals": {
+      "removed": 28,
+      "added": 46,
+      "materialRemoved": 10,
+      "materialAdded": 17
+    }
+  },
+  {
+    "id": "betterstack-com-pricing-20241117040815",
+    "url": "https://betterstack.com/pricing",
+    "ts": "20241117040815",
+    "date": "2024-11-17",
+    "source": "wayback",
+    "prevTs": "20240908104802",
+    "kind": "price",
+    "score": 102,
+    "counts": {
+      "price": 24,
+      "limit": 15,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Better Stack: 24 prices, 15 limits changed (10M → 2B; 10M → 2B)",
+    "pairs": [
+      {
+        "before": "10M ingested metrics data points retained for 30 days",
+        "after": "2B ingested metrics data points retained for 30 days",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10M",
+            "after": "2B"
+          }
+        ]
+      },
+      {
+        "before": "10M ingested metrics data points retained for 30 days",
+        "after": "2B ingested metrics data points retained for 30 days",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10M",
+            "after": "2B"
+          }
+        ]
+      },
+      {
+        "before": "Additional 10M data points retained",
+        "after": "Additional 1B data points retained",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10M",
+            "after": "1B"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Unlimited team members for Telemetry",
+      "Get ~2 months off",
+      "Free access to Telemetry",
+      "$250 per page per month",
+      "$208 per page per month",
+      "Unlimited incident history",
+      "All bundles include 30 day logs retention and 13 month metrics retention. Reserve data and save.",
+      "$ 25 19% OFF",
+      "$ 30 3% OFF",
+      "35 GB",
+      "2.5B",
+      "35 GB",
+      "2.5B",
+      "$0.36 per ingested GB of logs",
+      "$0.43 per ingested GB of logs",
+      "$ 100 25% OFF",
+      "$ 120 10% OFF",
+      "150 GB",
+      "11B",
+      "150 GB",
+      "11B",
+      "$0.33 per ingested GB of logs",
+      "$0.40 per ingested GB of logs",
+      "$ 210 37% OFF",
+      "$ 250 25% OFF",
+      "350 GB",
+      "30B",
+      "350 GB",
+      "30B",
+      "$0.30 per ingested GB of logs",
+      "$0.36 per ingested GB of logs",
+      "$ 420 45% OFF",
+      "$ 500 35% OFF",
+      "800 GB",
+      "70B",
+      "800 GB",
+      "70B",
+      "$0.26 per ingested GB of logs",
+      "$0.31 per ingested GB of logs",
+      "$ 850 52% OFF"
+    ],
+    "removed": [
+      "Unlimited team members for Logs & metrics",
+      "Free access to Logs and Metrics",
+      "10M included",
+      "$10"
+    ],
+    "totals": {
+      "removed": 19,
+      "added": 108,
+      "materialRemoved": 7,
+      "materialAdded": 52
+    }
+  },
+  {
+    "id": "betterstack-com-pricing-20250107171015",
+    "url": "https://betterstack.com/pricing",
+    "ts": "20250107171015",
+    "date": "2025-01-07",
+    "source": "wayback",
+    "prevTs": "20241117040815",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Better Stack: 2 limits changed (removed “2 TB”; added “2.05 TB”)",
+    "pairs": [],
+    "added": [
+      "2.05 TB",
+      "2.05 TB"
+    ],
+    "removed": [
+      "2 TB",
+      "2 TB"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "betterstack-com-pricing-20250402182128",
+    "url": "https://betterstack.com/pricing",
+    "ts": "20250402182128",
+    "date": "2025-04-02",
+    "source": "wayback",
+    "prevTs": "20250107171015",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Better Stack: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Book a 20min demo of Better Stack"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "betterstack-com-pricing-20250604184401",
+    "url": "https://betterstack.com/pricing",
+    "ts": "20250604184401",
+    "date": "2025-06-04",
+    "source": "wayback",
+    "prevTs": "20250402182128",
+    "kind": "limits",
+    "score": 14,
+    "counts": {
+      "price": 0,
+      "limit": 5,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Better Stack: 5 limits, 2 plan names changed (30GB → 3GB)",
+    "pairs": [
+      {
+        "before": "30 GB per month retained for 7 days",
+        "after": "3 GB per month retained for 3 days",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "30GB",
+            "after": "3GB"
+          },
+          {
+            "before": "7",
+            "after": "3"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Try Better Stack today risk‑free with our 60‑day money-back guarantee.",
+      "Free for personal projects",
+      "Includes a single responder with unlimited phone call alerts so that you can leverage the entire platform.",
+      "Unlimited SMS",
+      "2 TB",
+      "2 TB",
+      "Unlimited storage",
+      "Unlimited querying"
+    ],
+    "removed": [
+      "Free",
+      "E-mail alerts with 3 minute checks",
+      "Everything in free, plus:",
+      "Unlimited team members for Telemetry",
+      "Unlimited phone call alerts, SMS, push notifications and webhooks with 30-second checks",
+      "30 GB ingested logs per month retained for 7 days",
+      "2B ingested metrics data points retained for 30 days",
+      "Get started in 2 minutes",
+      "Unlimited SMS",
+      "2.05 TB",
+      "2.05 TB",
+      "Unlimited querying",
+      "Start for free"
+    ],
+    "totals": {
+      "removed": 228,
+      "added": 184,
+      "materialRemoved": 49,
+      "materialAdded": 44
+    }
+  },
+  {
+    "id": "betterstack-com-pricing-20250714152428",
+    "url": "https://betterstack.com/pricing",
+    "ts": "20250714152428",
+    "date": "2025-07-14",
+    "source": "wayback",
+    "prevTs": "20250604184401",
+    "kind": "price",
+    "score": 329,
+    "counts": {
+      "price": 69,
+      "limit": 61,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Better Stack: 69 prices, 61 limits changed (60 added; $0.025 → $0.0375)",
+    "pairs": [
+      {
+        "before": "Reserve data and save. All bundles include 30 day logs retention and 13 month metrics retention.",
+        "after": "All bundles include 30 day logs retention and 13 month metrics retention. 60-day money back guarantee.",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": null,
+            "after": "60"
+          }
+        ]
+      },
+      {
+        "before": "$0.025 per GB per extra week",
+        "after": "$0.0375 per GB per week",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$0.025",
+            "after": "$0.0375"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "17.5 GB",
+      "17.5 GB",
+      "17.5 GB",
+      "17.5 GB",
+      "75 GB",
+      "75 GB",
+      "75 GB",
+      "75 GB",
+      "175 GB",
+      "175 GB",
+      "175 GB",
+      "175 GB",
+      "400 GB",
+      "400 GB",
+      "400 GB",
+      "400 GB",
+      "1 TB",
+      "1 TB",
+      "1 TB",
+      "1 TB",
+      "$38 19% OFF",
+      "$45 3% OFF",
+      "17.5 GB",
+      "17.5 GB",
+      "2.5B",
+      "17.5 GB",
+      "17.5 GB",
+      "2.5B",
+      "$0.54 per ingested GB",
+      "$0.65 per ingested GB",
+      "$150 25% OFF",
+      "$180 10% OFF",
+      "75 GB",
+      "75 GB",
+      "11B",
+      "75 GB",
+      "75 GB",
+      "11B",
+      "$0.50 per ingested GB",
+      "$0.60 per ingested GB"
+    ],
+    "removed": [
+      "Unlimited SMS",
+      "Unlimited SMS",
+      "Unlimited SMS",
+      "35 GB",
+      "35 GB",
+      "150 GB",
+      "150 GB",
+      "350 GB",
+      "350 GB",
+      "800 GB",
+      "800 GB",
+      "2 TB",
+      "2 TB"
+    ],
+    "totals": {
+      "removed": 126,
+      "added": 439,
+      "materialRemoved": 46,
+      "materialAdded": 214
+    }
+  },
+  {
+    "id": "betterstack-com-pricing-20250807185054",
+    "url": "https://betterstack.com/pricing",
+    "ts": "20250807185054",
+    "date": "2025-08-07",
+    "source": "wayback",
+    "prevTs": "20250714152428",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Better Stack: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "betterstack-com-pricing-20250907025302",
+    "url": "https://betterstack.com/pricing",
+    "ts": "20250907025302",
+    "date": "2025-09-07",
+    "source": "wayback",
+    "prevTs": "20250807185054",
+    "kind": "limits",
+    "score": 20,
+    "counts": {
+      "price": 0,
+      "limit": 10,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Better Stack: 10 limits changed (removed “7 days”; added “< 10k”)",
+    "pairs": [],
+    "added": [
+      "< 10k",
+      "< 50k",
+      "< 100k",
+      "< 1M",
+      "< 1 week",
+      "< 2 weeks",
+      "< 4 weeks",
+      "< 12 weeks",
+      "< 52 weeks",
+      "52 weeks+",
+      "< 100 GB",
+      "< 500 GB",
+      "< 1 TB",
+      "< 5 TB",
+      "5 TB+"
+    ],
+    "removed": [
+      "7 days",
+      "15 days",
+      "30 days",
+      "90 days",
+      "400 days"
+    ],
+    "totals": {
+      "removed": 17,
+      "added": 64,
+      "materialRemoved": 5,
+      "materialAdded": 15
+    }
+  },
+  {
+    "id": "betterstack-com-pricing-20251005051332",
+    "url": "https://betterstack.com/pricing",
+    "ts": "20251005051332",
+    "date": "2025-10-05",
+    "source": "wayback",
+    "prevTs": "20250907025302",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Better Stack: 1 price changed (removed “$50 per month”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$50 per month"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "betterstack-com-pricing-20251103183732",
+    "url": "https://betterstack.com/pricing",
+    "ts": "20251103183732",
+    "date": "2025-11-03",
+    "source": "wayback",
+    "prevTs": "20251005051332",
+    "kind": "price",
+    "score": 451,
+    "counts": {
+      "price": 98,
+      "limit": 79,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Better Stack: 98 prices, 79 limits changed ($4 → $1)",
+    "pairs": [
+      {
+        "before": "$4 per month",
+        "after": "$1 per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$4",
+            "after": "$1"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "10 monitors & heartbeats, 1 status page",
+      "3 GB warehouse events stored for 30 days",
+      "50 GB",
+      "50 GB",
+      "50 GB",
+      "50 GB",
+      "210 GB",
+      "210 GB",
+      "210 GB",
+      "210 GB",
+      "450 GB",
+      "450 GB",
+      "450 GB",
+      "450 GB",
+      "925 GB",
+      "925 GB",
+      "925 GB",
+      "925 GB",
+      "50 GB",
+      "50 GB",
+      "50 GB",
+      "50 GB",
+      "210 GB",
+      "210 GB",
+      "210 GB",
+      "210 GB",
+      "450 GB",
+      "450 GB",
+      "450 GB",
+      "450 GB",
+      "925 GB",
+      "925 GB",
+      "925 GB",
+      "925 GB",
+      "50 GB",
+      "50 GB",
+      "50 GB",
+      "50 GB",
+      "210 GB",
+      "210 GB"
+    ],
+    "removed": [
+      "10 monitors & heartbeats",
+      "17.5 GB",
+      "17.5 GB",
+      "17.5 GB",
+      "17.5 GB",
+      "$0.36 per ingested GB",
+      "$0.43 per ingested GB",
+      "75 GB",
+      "75 GB",
+      "75 GB",
+      "75 GB",
+      "$0.33 per ingested GB",
+      "$0.40 per ingested GB",
+      "175 GB",
+      "175 GB",
+      "175 GB",
+      "175 GB",
+      "$0.30 per ingested GB",
+      "$0.36 per ingested GB",
+      "400 GB",
+      "400 GB",
+      "400 GB",
+      "400 GB",
+      "$0.26 per ingested GB",
+      "$0.31 per ingested GB",
+      "$850 52% OFF",
+      "$1,000 44% OFF",
+      "1 TB",
+      "1 TB",
+      "150B",
+      "1 TB",
+      "1 TB",
+      "150B",
+      "$0.21 per ingested GB",
+      "$0.25 per ingested GB",
+      "17.5 GB",
+      "17.5 GB",
+      "17.5 GB",
+      "17.5 GB",
+      "$0.54 per ingested GB"
+    ],
+    "totals": {
+      "removed": 241,
+      "added": 214,
+      "materialRemoved": 171,
+      "materialAdded": 136
+    }
+  },
+  {
+    "id": "betterstack-com-pricing-20251205183030",
+    "url": "https://betterstack.com/pricing",
+    "ts": "20251205183030",
+    "date": "2025-12-05",
+    "source": "wayback",
+    "prevTs": "20251103183732",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 3,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Better Stack: 3 prices, 2 limits changed (3 → 30)",
+    "pairs": [
+      {
+        "before": "3 GB per month retained for 3 days",
+        "after": "3 GB per month retained for 30 days",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3",
+            "after": "30"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0.000075 per exception",
+      "$0.000050 per exception",
+      "$0.000175 per exception",
+      "90 days"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 30,
+      "materialRemoved": 2,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "betterstack-com-pricing-20260206152650",
+    "url": "https://betterstack.com/pricing",
+    "ts": "20260206152650",
+    "date": "2026-02-06",
+    "source": "wayback",
+    "prevTs": "20251205183030",
+    "kind": "price",
+    "score": 218,
+    "counts": {
+      "price": 6,
+      "limit": 100,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Better Stack: 6 prices, 100 limits changed (13 → 60)",
+    "pairs": [
+      {
+        "before": "All bundles include 30 day logs retention and 13 month metrics retention. 60-day money back guarantee.",
+        "after": "All bundles include 30 day logs retention. 60-day money back guarantee.",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "13",
+            "after": "60"
+          },
+          {
+            "before": "60",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "3 GB metrics",
+      "3 GB web events retained for 3 days",
+      "40 GB",
+      "40 GB",
+      "40 GB",
+      "40 GB",
+      "40 GB",
+      "40 GB",
+      "160 GB",
+      "160 GB",
+      "160 GB",
+      "160 GB",
+      "160 GB",
+      "160 GB",
+      "340 GB",
+      "340 GB",
+      "340 GB",
+      "340 GB",
+      "340 GB",
+      "340 GB",
+      "700 GB",
+      "700 GB",
+      "700 GB",
+      "700 GB",
+      "700 GB",
+      "700 GB",
+      "40 GB",
+      "40 GB",
+      "40 GB",
+      "40 GB",
+      "40 GB",
+      "40 GB",
+      "160 GB",
+      "160 GB",
+      "160 GB",
+      "160 GB",
+      "160 GB",
+      "160 GB",
+      "340 GB",
+      "340 GB"
+    ],
+    "removed": [
+      "2B metrics retained for 30 days",
+      "50 GB",
+      "50 GB",
+      "2.5B",
+      "50 GB",
+      "50 GB",
+      "2.5B",
+      "210 GB",
+      "210 GB",
+      "11B",
+      "210 GB",
+      "210 GB",
+      "11B",
+      "450 GB",
+      "450 GB",
+      "30B",
+      "450 GB",
+      "450 GB",
+      "30B",
+      "925 GB",
+      "925 GB",
+      "70B",
+      "925 GB",
+      "925 GB",
+      "70B",
+      "50 GB",
+      "50 GB",
+      "2.5B",
+      "50 GB",
+      "50 GB",
+      "2.5B",
+      "210 GB",
+      "210 GB",
+      "11B",
+      "210 GB",
+      "210 GB",
+      "11B",
+      "450 GB",
+      "450 GB",
+      "30B"
+    ],
+    "totals": {
+      "removed": 142,
+      "added": 146,
+      "materialRemoved": 135,
+      "materialAdded": 135
+    }
+  },
+  {
+    "id": "betterstack-com-pricing-20260301135011",
+    "url": "https://betterstack.com/pricing",
+    "ts": "20260301135011",
+    "date": "2026-03-01",
+    "source": "wayback",
+    "prevTs": "20260206152650",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Better Stack: 2 limits changed (3GB → 30GB)",
+    "pairs": [
+      {
+        "before": "3 GB metrics",
+        "after": "30 GB metrics",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3GB",
+            "after": "30GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "30 GB"
+    ],
+    "removed": [
+      "3 GB"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "betterstack-com-pricing-20260401122243",
+    "url": "https://betterstack.com/pricing",
+    "ts": "20260401122243",
+    "date": "2026-04-01",
+    "source": "wayback",
+    "prevTs": "20260301135011",
+    "kind": "price",
+    "score": 34,
+    "counts": {
+      "price": 10,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Better Stack: 10 prices, 2 limits changed (added “5,000 session replays”)",
+    "pairs": [],
+    "added": [
+      "5,000 session replays",
+      "$0.001 per GB scanned",
+      "5,000 session replays",
+      "$0.00225 per session replay",
+      "$0.00150 per session replay",
+      "$0.00525 per session replay",
+      "90 days",
+      "3 GB per month retained for 3 days",
+      "$0.15 per GB",
+      "$0.10 per GB",
+      "$0.35 per GB",
+      "$0.08 per GB per month",
+      "$0.05 per GB per month",
+      "$0.18 per GB per month"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 58,
+      "materialRemoved": 0,
+      "materialAdded": 14
+    }
+  },
+  {
+    "id": "betterstack-com-pricing-20260505143910",
+    "url": "https://betterstack.com/pricing",
+    "ts": "20260505143910",
+    "date": "2026-05-05",
+    "source": "wayback",
+    "prevTs": "20260401122243",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Better Stack: 1 price changed (added “$0.00003 per token”)",
+    "pairs": [],
+    "added": [
+      "$0.00003 per token"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 18,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "betterstack-com-pricing-20260618003631",
+    "url": "https://betterstack.com/pricing",
+    "ts": "20260618003631",
+    "date": "2026-06-18",
+    "source": "wayback",
+    "prevTs": "20260505143910",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Better Stack: 1 limit changed (removed “3 GB warehouse events stored for 30 days”; added “3 GB traces retained for 3 days”)",
+    "pairs": [],
+    "added": [
+      "3 GB traces retained for 3 days"
+    ],
+    "removed": [
+      "3 GB warehouse events stored for 30 days"
+    ],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "betterstack-com-pricing-20260707205340",
+    "url": "https://betterstack.com/pricing",
+    "ts": "20260707205340",
+    "date": "2026-07-07",
+    "source": "wayback",
+    "prevTs": "20260618003631",
+    "kind": "price",
+    "score": 142,
+    "counts": {
+      "price": 36,
+      "limit": 17,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Better Stack: 36 prices, 17 limits changed (removed “3 GB per month retained for 30 days”; added “< 1k minutes / month”)",
+    "pairs": [],
+    "added": [
+      "< 1k minutes / month",
+      "< 5k minutes / month",
+      "< 500k minutes / month",
+      "more than 1M minutes / month",
+      "< 300 GB / month",
+      "< 3 TB / month",
+      "< 10 TB / month",
+      "< 30 TB / month",
+      "< 50 TB / month",
+      "< 100 TB / month",
+      "more than 100 TB / month",
+      "< 1 week",
+      "< 2 weeks",
+      "< 4 weeks",
+      "< 12 weeks",
+      "< 52 weeks",
+      "52 weeks+",
+      "< 300 GB / month",
+      "< 500 GB / month",
+      "< 1 TB / month",
+      "< 3 TB / month",
+      "< 10 TB / month",
+      "< 30 TB / month",
+      "< 50 TB / month",
+      "< 100 TB / month",
+      "more than 100 TB / month",
+      "< 100k / month",
+      "< 500k / month",
+      "< 1M / month",
+      "< 5M / month",
+      "more than 5M / month"
+    ],
+    "removed": [
+      "3 GB per month retained for 30 days",
+      "$0.15 per GB",
+      "$0.10 per GB",
+      "$0.35 per GB",
+      "$0.08 per GB per month",
+      "$0.05 per GB per month",
+      "$0.18 per GB per month",
+      "$1.50 per GB per month",
+      "$1.00 per GB per month",
+      "$3.50 per GB per month",
+      "$2,000 per month",
+      "$1,660 per month",
+      "$3,000 per month",
+      "$2,490 per month",
+      "$3,000 per month",
+      "$2,490 per month",
+      "$7,000 per month",
+      "$5,810 per month",
+      "$4,000 per month",
+      "$3,330 per month",
+      "$6,000 per month",
+      "$4,995 per month",
+      "$6,000 per month",
+      "$4,995 per month",
+      "$14,000 per month",
+      "$11,655 per month",
+      "$6,000 per month",
+      "$5,000 per month",
+      "$9,000 per month",
+      "$7,500 per month",
+      "$9,000 per month",
+      "$7,500 per month",
+      "$21,000 per month",
+      "$17,500 per month",
+      "$250 per month",
+      "$208 per month",
+      "Embedding with embeddinggemma:300m",
+      "$0.20 per million tokens",
+      "< 100 GB"
+    ],
+    "totals": {
+      "removed": 106,
+      "added": 77,
+      "materialRemoved": 49,
+      "materialAdded": 41
+    }
+  },
+  {
+    "id": "betterstack-com-pricing-20260802154213",
+    "url": "https://betterstack.com/pricing",
+    "ts": "20260802154213",
+    "date": "2026-08-02",
+    "source": "wayback",
+    "prevTs": "20260707205340",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Better Stack: 1 price changed (removed “$40 per page per month”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$40 per page per month"
+    ],
+    "totals": {
+      "removed": 9,
+      "added": 8,
+      "materialRemoved": 6,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "betterstack-com-pricing-20260902202107",
+    "url": "https://betterstack.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260802154213",
+    "kind": "price",
+    "score": 66,
+    "counts": {
+      "price": 10,
+      "limit": 18,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Better Stack: 10 prices, 18 limits changed (removed “$0.00003 per token”; added “$5 per million tokens”)",
+    "pairs": [],
+    "added": [
+      "$5 per million tokens",
+      "< 10k replays / month",
+      "< 50k replays / month",
+      "< 100k replays / month",
+      "< 500k replays / month",
+      "500k+ replays / month",
+      "< 1M events / month",
+      "< 10M events / month",
+      "< 50M events / month",
+      "< 100M events / month",
+      "< 500M events / month",
+      "< 1B events / month",
+      "1B+ events / month"
+    ],
+    "removed": [
+      "$0.00003 per token",
+      "$38 22% OFF",
+      "$45 6% OFF",
+      "40 GB",
+      "40 GB",
+      "40 GB",
+      "40 GB",
+      "40 GB",
+      "40 GB",
+      "$150 22% OFF",
+      "$180 6% OFF",
+      "160 GB",
+      "160 GB",
+      "160 GB",
+      "160 GB",
+      "160 GB",
+      "160 GB",
+      "$315 23% OFF",
+      "$375 8% OFF",
+      "340 GB",
+      "340 GB",
+      "340 GB",
+      "340 GB",
+      "340 GB",
+      "340 GB",
+      "$630 25% OFF",
+      "$750 11% OFF",
+      "700 GB",
+      "700 GB",
+      "700 GB",
+      "700 GB",
+      "700 GB",
+      "700 GB"
+    ],
+    "totals": {
+      "removed": 69,
+      "added": 19,
+      "materialRemoved": 33,
+      "materialAdded": 13
+    },
+    "transition": true
+  }
+]

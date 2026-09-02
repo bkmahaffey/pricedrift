@@ -1,0 +1,195 @@
+Flexible Pricing
+Get started with Checkly synthetic monitoring for your hobby projects, business sites, and crucial enterprise applications.
+Monthly Annually
+Save up to 20 % with an Annual Plan
+Starter
+Hobby
+Ideal for small projects, offering essential monitoring tools and alerting features.
+$0
+per month
+Start for free
+*Hobby plan comes with access to Team plan features for 14 days. No credit card required – jump in!
+What’s included:
+10k API / 1.5k browser check runs
+Single-user
+Email, Slack, Webhook alerts
+30 days of aggregated data retention
+Monitor your small projects and hobby sites with JavaScript-based API and Browser checks.
+Most Popular
+Team
+Designed for modern development teams of up to 20 users, providing advanced monitoring, alerting, and advanced features.
+$80
+per month
+Try for free
++ $2.00 for 10,000 extra API check runs
++ $5.00 for 1,000 extra browser check runs
+All features in the Hobby plan plus:
+100k API / 12k browser check runs
+Up to 20 users
+All alerting channels
+12 months of aggregated data retention
+Plus:
+Private locations, Prometheus endpoint, visual regression testing, pro support, and more.
+Use an innovative workflow across your modern development team to achieve essential monitoring and alerting for your applications and sites.
+Custom
+Enterprise
+Custom-built for large-scale teams to build, run, and scale synthetic monitoring with extensive flexibility.
+Custom
+Priced for your organization
+Contact sales
+All features in the Team plan plus:
+Custom amount of check runs
+Custom number of users
+99.9% SLA!
+25 months of aggregated data retention
+Plus:
+SSO/SAML, Client certificates, premium support, and more.
+Build and run synthetic monitoring across distributed teams and systems with an advanced MaC workflow delivering programmability, speed, resilience.
+Feature Overview
+Category
+Hobby
+Team
+Enterprise
+Monitoring
+Users
+1
+20
+Custom
+API checks
+Unlimited
+API check runs
+10k / month
+100k / month (additional 10k cost $2)
+Custom
+Multistep API checks
+Unlimited
+Multistep API check requests
+10k / month*
+Multistep requests are shared with API check runs. 1 request in a multistep API check equals one API check run. See FAQ for more information
+100k / month (additional 10k cost $2)*
+Multistep requests are shared with API check runs. 1 request in a multistep API check equals one API check run. See FAQ for more information
+Custom
+Browser checks
+Unlimited
+Browser check runs
+1.5k / month
+12k / month (additional 1k cost $5)
+Custom
+Heartbeat checks
+0
+15
+Custom
+SSL monitoring
+Visual regression testing
+Track and alert on unexpected visual changes like layout issues and 3rd party elements.
+Private locations
+High-frequency intervals
+10 sec / 60 sec
+API checks up to every 10s and Browser checks every 60s.
+10 sec / 60 sec
+API checks up to every 10s and Browser checks every 60s.
+Custom
+Data center locations
+22
+Insights
+Dashboards
+1
+10
+Custom
+Private dashboards
+Enable password protection for your dashboards.
+Custom dashboard CSS
+Adjust the look and feel of your dashboards.
+Aggregated data retention
+30 days
+1 year
+25 months
+Incident management
+Maintenance windows
+Raw data retention
+7 days
+30 days
+180 days
+Alerting
+Email
+Slack
+Webhooks
+Opsgenie, PagerDuty and more
+SMS
+0
+200 / month
+Custom
+Phone calls
+0
+100 / month
+Custom
+Threshold based alerting
+Configure when and how often your are alerted and how many reminders you should get.
+Integrations
+Checkly CLI
+Terraform provider
+Pulumi provider
+Prometheus endpoint
+Security & Privacy
+SOC 2 Type II-compliant
+SAML/SSO login
+SLA for 99.9% Uptime
+Client Certificates
+Service API keys
+Customer Support
+Premium support
+Onboarding support
+Dedicated Customer Success Engineer
+24x7 Escalation Phone Number
+Custom contracts & invoicing
+Security & compliance review
+Prepay
+Customize your own plan and get a discount for your commitment.
+Monthly
+$2.00
+for 10k API check runs
+$5.00
+for 1k Browser check runs
+Annual
+$1.50
+for 10k API check runs
+$4.00
+for 1k Browser check runs
+How many check runs do I need?
+Build your plan! Use our spreadsheet.
+Create your own plan
+Pay upfront, get a discount
+All Team Plan features, up to 20 users
+FAQs
+Transform your development workflow with a code-based monitoring process that's programmable, fast, and reliable.
+What’s an API check run?
+API checks are monitors that do POST, GET, and other typical HTTP requests. You have full control over the payload, headers, etc. You can also create assertions to check if the response from your API is valid and performant. For billing, we count any HTTP request as a check run. API check runs have a timeout threshold of 30 seconds.
+What is a browser check run?
+Browser checks are monitors based on Node.js scripts using frameworks like Mocha, Puppeteer, and Playwright. Each browser check uses an actual Chrome browser to execute clicks, fill out forms and validate if these interactions have the correct results. This is also commonly called “synthetic monitoring”. For billing we count every executed script as a check run. Browser check runs have a timeout threshold of 120 seconds.
+How does the hobby plan work?
+By signing up for the hobby plan, you get access to almost all of Checkly’s features. You do not need a credit card to get started. You can execute up to 10,000 API and 1,500 browser check runs per month.
+How can I run more checks than included in my pricing plan?
+The hobby plan is hard-capped at 10k API and 1.5k browser check runs. If you need more, upgrade to the team plan. The team plan includes 50k API and 6k browser check runs with the possibility of prepaying for additional check runs ($0,005 for each browser and $0,0002 for each API check). If you still need more, consider the enterprise plan—the sky is the limit!
+Overages apply at $6 for 1k browser and $2.5 for 1k API checks if no prepaid check runs are left.
+What happens when I run more checks than included in my pricing plan?
+If there are no prepaid checks left, we bill $0.00025 for every API and $0.006 for every additionally run browser check.
+Can I upgrade or downgrade my plan?
+For the Hobby plan upgrades and downgrades don’t apply.
+Downgrade Team plan: You can reduce the number of prepaid checks from account settings. The changes will apply after your current subscription cycle automatically.
+Can I change plans?
+When you are on a Hobby plan or Team plan, you can switch to all plans anytime, and the changes will apply immediately.
+How do you bill?
+Prepaid plans, like the Team plan, are paid upfront at the beginning of the subscription cycle. Overages will be added to the invoice of the next subscription cycle.
+What payment types do you accept?
+We accept Visa, Mastercard, and American Express credit card payments. Stripe handles all payments. For custom plans, we also accept invoice payments.
+Do you support early startups or nonprofits?
+Yes! We do support early-stage startups that are younger than two years by providing a 30% discount on all plans. Nonprofits qualify for a 50% discount. Apply here
+How are Multistep API checks billed during beta?
+Multistep requests are drawn from a shared pool with API check runs - 1 request in a multistep API check equals one API check run. See the multistep API check documentation for more details.
+What happens if the price of my subscribed plan changes? Will my subscription price also change?
+If you subscribed to a specific plan, like our Team Plan, at a lower price, e.g., $40 per month, you'll remain at that rate for as long as you're on that plan. Even if the advertised price increases to $80 per month, your subscription remains unaffected. However, if you upgrade or downgrade your plan in the future and opt for the Team Plan again, you'll then be charged the current price of $80 per month. Any plan changes may adjust your subscription price, but we'll always notify you beforehand,
+Trusted By Engineering Teams At
+Try out Checkly for free
+Start monitoring your API endpoints and your vital site transactions.
+Get started
+*No credit card required

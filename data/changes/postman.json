@@ -1,0 +1,1046 @@
+[
+  {
+    "id": "postman-com-pricing-20230408152409",
+    "url": "https://www.postman.com/pricing/",
+    "ts": "20230408152409",
+    "date": "2023-04-08",
+    "source": "wayback",
+    "prevTs": "20230214184724",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 2,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Postman: 2 prices, 3 limits changed (added “Access is available as a $20 per person add-o…”)",
+    "pairs": [],
+    "added": [
+      "Flows is currently available on our Free and annual Professional plans. It will eventually be available on our Enterprise plan.",
+      "Our Free plan allows for up to three Flows users",
+      "Access is available as a $20 per person add-on, per month, in our annual Professional plan",
+      "When executed locally, Flows can run an unlimited number of times",
+      "Limits apply to how many requests can be sent when deployed Flows are executed on Postman Cloud: Free plan: 5,000 Flow requests/month",
+      "Professional plan: 100,000 requests/month",
+      "Each plan includes a set amount of payload data for executing Flows on Postman Cloud: 10MB per execution for Free plan",
+      "100MB per execution for Professional plan",
+      "A single Flow can run for up to 30 minutes",
+      "What if I upgrade from Free to the Basic plan?",
+      "If you require greater usage than the Free plan allows, we recommend upgrading to Professional",
+      "Thanks for trying out Flows and sharing your feedback! The creators of the Flows in your team can continue using Flows for free until your plan renews. Here's what's included:",
+      "If you're on the Basic or Professional plan, you'll have 10,000 Flow requests/month and 10MB per payload execution on the Postman Cloud until your plan renews",
+      "If you're on the Enterprise plan, you'll have 50,000 Flow requests/month and 50MB per payload execution on the Postman Cloud until your plan renews",
+      "Flows can be purchased by buying add-on licenses for $20 per user, per month, billed annually on our Professional plan"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 39,
+      "materialRemoved": 0,
+      "materialAdded": 15
+    }
+  },
+  {
+    "id": "postman-com-pricing-20230602153653",
+    "url": "https://www.postman.com/pricing/",
+    "ts": "20230602153653",
+    "date": "2023-06-02",
+    "source": "wayback",
+    "prevTs": "20230408152409",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Postman: 2 prices changed (removed “$ 99”; added “$20”)",
+    "pairs": [],
+    "added": [
+      "$20"
+    ],
+    "removed": [
+      "$ 99"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 19,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "postman-com-pricing-20230806062156",
+    "url": "https://www.postman.com/pricing/",
+    "ts": "20230806062156",
+    "date": "2023-08-06",
+    "source": "wayback",
+    "prevTs": "20230602153653",
+    "kind": "price",
+    "score": 66,
+    "counts": {
+      "price": 15,
+      "limit": 8,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Postman: 15 prices, 8 limits, 3 plan names changed (1 → 30; 30 → 90)",
+    "pairs": [
+      {
+        "before": "1 day",
+        "after": "30 day",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1",
+            "after": "30"
+          }
+        ]
+      },
+      {
+        "before": "30 days",
+        "after": "90 days",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "30",
+            "after": "90"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 19",
+      "Soon, the Basic annual plan price will change to $14 per user/month. Get full details, including how to lock in the current rate here",
+      "$ 39",
+      "Check out our Free plan to start designing, developing, and testing APIs.",
+      "$ 49",
+      "+ $ 49",
+      "Unlimited Collection Runs",
+      "+ $ 49",
+      "$ 19",
+      "$ 12",
+      "$ 39",
+      "$ 29",
+      "$ 49",
+      "Unlimited",
+      "Unlimited Local Collection Runs",
+      "1 day",
+      "14 days",
+      "Unlimited Local Collection Runs",
+      "Unlimited Local Collection Runs",
+      "1 day",
+      "Unlimited Local Collection Runs",
+      "14 days",
+      "Unlimited",
+      "Unlimited Local Collection Runs",
+      "14 days"
+    ],
+    "removed": [
+      "Free",
+      "$ 0",
+      "All core tooling and collaboration for up to 3 users",
+      "$15 Per user/month, billed monthly",
+      "Everything in Free, plus:",
+      "$36 Per user/month, billed monthly",
+      "Forrester Consulting found that for every $1 spent with Postman, enterprise customers get back $4.39 in benefits, adding up to a net present value of $8.17 million over three years.",
+      "Free",
+      "Unlimited",
+      "100MB",
+      "Free",
+      "100MB",
+      "100MB",
+      "100MB",
+      "Unlimited",
+      "100MB"
+    ],
+    "totals": {
+      "removed": 284,
+      "added": 316,
+      "materialRemoved": 19,
+      "materialAdded": 28
+    }
+  },
+  {
+    "id": "postman-com-pricing-20231001152001",
+    "url": "https://www.postman.com/pricing/",
+    "ts": "20231001152001",
+    "date": "2023-10-01",
+    "source": "wayback",
+    "prevTs": "20230806062156",
+    "kind": "price",
+    "score": 31,
+    "counts": {
+      "price": 7,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Postman: 7 prices, 5 limits changed (removed “Limits apply to how many requests can be sent…”; added “$ 14”)",
+    "pairs": [],
+    "added": [
+      "$ 14",
+      "$12-25",
+      "$15 per user/month",
+      "$25 per user/month",
+      "1 MB/call",
+      "5 MB/call",
+      "$15 per user/month",
+      "1 MB/call",
+      "$25 per user/month",
+      "5 MB/call",
+      "Flows is currently available on our Free, Basic, and Professional plans. It is available on our Enterprise plan by invitation-only at this time. Contact your sales representative to learn more."
+    ],
+    "removed": [
+      "Flows is currently available on our Free and annual Professional plans. It will eventually be available on our Enterprise plan.",
+      "Our Free plan allows for up to three Flows users",
+      "When executed locally, Flows can run an unlimited number of times",
+      "Limits apply to how many requests can be sent when deployed Flows are executed on Postman Cloud: Free plan: 5,000 Flow requests/month",
+      "Professional plan: 100,000 requests/month",
+      "Each plan includes a set amount of payload data for executing Flows on Postman Cloud: 10MB per execution for Free plan",
+      "100MB per execution for Professional plan",
+      "A single Flow can run for up to 30 minutes",
+      "What if I upgrade from Free to the Basic plan?",
+      "If you require greater usage than the Free plan allows, we recommend upgrading to Professional",
+      "Thanks for trying out Flows and sharing your feedback! The creators of the Flows in your team can continue using Flows for free until your plan renews. Here's what's included:",
+      "If you're on the Basic or Professional plan, you'll have 10,000 Flow requests/month and 10MB per payload execution on the Postman Cloud until your plan renews",
+      "If you're on the Enterprise plan, you'll have 50,000 Flow requests/month and 50MB per payload execution on the Postman Cloud until your plan renews",
+      "Flows can be purchased by buying add-on licenses for $20 per user, per month, billed annually on our Professional plan"
+    ],
+    "totals": {
+      "removed": 48,
+      "added": 68,
+      "materialRemoved": 21,
+      "materialAdded": 18
+    }
+  },
+  {
+    "id": "postman-com-pricing-20231203142836",
+    "url": "https://www.postman.com/pricing/",
+    "ts": "20231203142836",
+    "date": "2023-12-03",
+    "source": "wayback",
+    "prevTs": "20231001152001",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 1,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Postman: 1 price, 3 limits changed (removed “1 day”; added “$9”)",
+    "pairs": [],
+    "added": [
+      "$9",
+      "Postbot is currently available on our Free, Basic, and Professional plans. It is not available on our Enterprise plan at this time."
+    ],
+    "removed": [
+      "1 day",
+      "14 days",
+      "1 day",
+      "1 day",
+      "14 days",
+      "14 days"
+    ],
+    "totals": {
+      "removed": 12,
+      "added": 9,
+      "materialRemoved": 6,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "postman-com-pricing-20240201031618",
+    "url": "https://www.postman.com/pricing/",
+    "ts": "20240201031618",
+    "date": "2024-02-01",
+    "source": "wayback",
+    "prevTs": "20231203142836",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Postman: 1 price changed (added “$ 9 Per user/month”)",
+    "pairs": [],
+    "added": [
+      "Now available as an add-on to the free tier, too",
+      "$ 9 Per user/month"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 16,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "postman-com-pricing-20240402064536",
+    "url": "https://www.postman.com/pricing/",
+    "ts": "20240402064536",
+    "date": "2024-04-02",
+    "source": "wayback",
+    "prevTs": "20240201031618",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Postman: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 4,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "postman-com-pricing-20240601204315",
+    "url": "https://www.postman.com/pricing/",
+    "ts": "20240601204315",
+    "date": "2024-06-01",
+    "source": "wayback",
+    "prevTs": "20240402064536",
+    "kind": "price",
+    "score": 158,
+    "counts": {
+      "price": 33,
+      "limit": 12,
+      "plan": 18
+    },
+    "material": true,
+    "headline": "Postman: 33 prices, 12 limits, 18 plan names changed ($12 → $14; $20 → $29)",
+    "pairs": [
+      {
+        "before": "$12 per user/month, billed annually",
+        "after": "$14 per user/month, billed annually",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$12",
+            "after": "$14"
+          }
+        ]
+      },
+      {
+        "before": "$20 per user/month, billed annually",
+        "after": "$29 per user/month, billed annually",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$20",
+            "after": "$29"
+          }
+        ]
+      },
+      {
+        "before": "$12 per user/month, billed annually",
+        "after": "$49 per user/month, billed annually",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$12",
+            "after": "$49"
+          }
+        ]
+      },
+      {
+        "before": "$20 per user/month, billed annually",
+        "after": "$14 per user/month, billed annually",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$20",
+            "after": "$14"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free",
+      "$0",
+      "Up to 3 collaborators",
+      "50 free activities in Postbot",
+      "Everything in Free, plus:",
+      "Unlimited collaborators",
+      "10,000 Monitor requests",
+      "10,000 Monitor requests",
+      "Free",
+      "$0",
+      "1,000 requests",
+      "10,000 requests",
+      "100,000 requests",
+      "$0.75 / 1000 calls",
+      "1,000 requests",
+      "10,000 requests",
+      "$0.75 / 1000 calls",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "1,000 requests",
+      "1,000 requests",
+      "Free",
+      "Free",
+      "Free",
+      "30 days",
+      "10,000 requests",
+      "$0.75 / 1000 calls",
+      "10,000 requests",
+      "$0.75 / 1000 calls",
+      "Free",
+      "Free",
+      "Free",
+      "10,000 requests",
+      "$0.75 / 1000 calls",
+      "10,000 requests",
+      "$0.75 / 1000 calls",
+      "Starting at $29/seat/month",
+      "Free"
+    ],
+    "removed": [
+      "$ 14",
+      "Unlimited collaboration for plan members",
+      "Check out our Free plan to start designing, developing, and testing APIs.",
+      "Unlimited Collection Runs",
+      "Now available as an add-on to the free tier, too",
+      "$ 14",
+      "Unlimited",
+      "Unlimited Local Collection Runs",
+      "Unlimited Local Collection Runs",
+      "Unlimited Local Collection Runs",
+      "Unlimited Local Collection Runs",
+      "Unlimited",
+      "Unlimited Local Collection Runs",
+      "90 days",
+      "$0.75",
+      "$0.75",
+      "$12-25",
+      "$9",
+      "$15 per user/month",
+      "$25 per user/month",
+      "$15 per user/month",
+      "1 MB/call",
+      "$25 per user/month",
+      "5 MB/call",
+      "Postbot is currently available on our Free, Basic, and Professional plans. It is not available on our Enterprise plan at this time."
+    ],
+    "totals": {
+      "removed": 397,
+      "added": 747,
+      "materialRemoved": 50,
+      "materialAdded": 94
+    }
+  },
+  {
+    "id": "postman-com-pricing-20241204023924",
+    "url": "https://www.postman.com/pricing/",
+    "ts": "20241204023924",
+    "date": "2024-12-04",
+    "source": "wayback",
+    "prevTs": "20240601204315",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Postman: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "ⓘ Available on Free, Basic, Professional, and Enterprise plans."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 13,
+      "added": 18,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "postman-com-pricing-20250112162453",
+    "url": "https://www.postman.com/pricing/",
+    "ts": "20250112162453",
+    "date": "2025-01-12",
+    "source": "wayback",
+    "prevTs": "20241204023924",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Postman: 2 limits changed (30 → 1)",
+    "pairs": [
+      {
+        "before": "30 day collection recovery",
+        "after": "1 day collection recovery",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "30",
+            "after": "1"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "1 day",
+      "1 day"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 4,
+      "materialRemoved": 2,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "postman-com-pricing-20250201212925",
+    "url": "https://www.postman.com/pricing/",
+    "ts": "20250201212925",
+    "date": "2025-02-01",
+    "source": "wayback",
+    "prevTs": "20250112162453",
+    "kind": "price",
+    "score": 4,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Postman: 1 price, 1 limit changed (added “3 MB/call”)",
+    "pairs": [],
+    "added": [
+      "Flows for Free Plan",
+      "Unlimited",
+      "3 MB/call",
+      "Starting at $9 per seat/month"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 13,
+      "materialRemoved": 0,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "postman-com-pricing-20250503084804",
+    "url": "https://www.postman.com/pricing/",
+    "ts": "20250503084804",
+    "date": "2025-05-03",
+    "source": "wayback",
+    "prevTs": "20250201212925",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Postman: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Spec Hub: 1 private API, unlimited public API",
+      "Spec Hub: 3 private APIs, unlimited public APIs",
+      "Spec Hub: 10 private APIs, unlimited public APIs",
+      "Spec Hub: Unlimited private & public APIs"
+    ],
+    "removed": [
+      "10,000 Monitor requests"
+    ],
+    "totals": {
+      "removed": 32,
+      "added": 34,
+      "materialRemoved": 2,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "postman-com-pricing-20250601230250",
+    "url": "https://www.postman.com/pricing/",
+    "ts": "20250601230250",
+    "date": "2025-06-01",
+    "source": "wayback",
+    "prevTs": "20250503084804",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Postman: 1 limit changed (30M → 40M)",
+    "pairs": [
+      {
+        "before": "30M users are collaborating on Postman",
+        "after": "40M users are collaborating on Postman",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "30M",
+            "after": "40M"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 21,
+      "added": 63,
+      "materialRemoved": 1,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "postman-com-pricing-20250701075607",
+    "url": "https://www.postman.com/pricing/",
+    "ts": "20250701075607",
+    "date": "2025-07-01",
+    "source": "wayback",
+    "prevTs": "20250601230250",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Postman: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "postman-com-pricing-20250816021620",
+    "url": "https://www.postman.com/pricing/",
+    "ts": "20250816021620",
+    "date": "2025-08-16",
+    "source": "wayback",
+    "prevTs": "20250701075607",
+    "kind": "price",
+    "score": 15,
+    "counts": {
+      "price": 5,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Postman: 5 prices changed (50,000 → $20; 50,000 → $20)",
+    "pairs": [
+      {
+        "before": "per 50,000 requests/month",
+        "after": "$20 per 50,000 requests/month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50,000",
+            "after": "$20"
+          },
+          {
+            "before": null,
+            "after": "50,000"
+          }
+        ]
+      },
+      {
+        "before": "per 50,000 requests/month",
+        "after": "$20 per 50,000 requests/month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50,000",
+            "after": "$20"
+          },
+          {
+            "before": null,
+            "after": "50,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Additional credits for Flows executions that exceed the plan are charged at $1/1,000 credits."
+    ],
+    "removed": [
+      "Unlimited collaborators",
+      "Collection Runner Get unlimited monthly Collection Runs to test your APIs. Schedule runs, log tests results and reuse scripts.",
+      "$20",
+      "$20"
+    ],
+    "totals": {
+      "removed": 62,
+      "added": 337,
+      "materialRemoved": 20,
+      "materialAdded": 17
+    }
+  },
+  {
+    "id": "postman-com-pricing-20251101230026",
+    "url": "https://www.postman.com/pricing/",
+    "ts": "20251101230026",
+    "date": "2025-11-01",
+    "source": "wayback",
+    "prevTs": "20250816021620",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Postman: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Flows is currently available on our Free, Basic, and Professional plans. It is available on our Enterprise plan by invitation-only at this time. Contact your sales representative to learn more."
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "postman-com-pricing-20251204232857",
+    "url": "https://www.postman.com/pricing/",
+    "ts": "20251204232857",
+    "date": "2025-12-04",
+    "source": "wayback",
+    "prevTs": "20251101230026",
+    "kind": "price",
+    "score": 96,
+    "counts": {
+      "price": 16,
+      "limit": 9,
+      "plan": 15
+    },
+    "material": true,
+    "headline": "Postman: 16 prices, 9 limits, 15 plan names changed (removed “1 day collection recovery”; added “for $5/user per month”)",
+    "pairs": [],
+    "added": [
+      "for $5/user per month",
+      "400 credits per user/month",
+      "Pay-as-you-go at $0.035/credit",
+      "Full-team collaboration (unlimited invites)",
+      "400 credits per user/month",
+      "Pay-as-you-go at $0.030/credit",
+      "Full-team collaboration (unlimited invites)",
+      "Unlimited teammates (billed per user)",
+      "Full-team collaboration (unlimited invites)",
+      "Full-team collaboration (unlimited invites)",
+      "Unlimited teammates (billed per user)",
+      "Full-team collaboration (unlimited invites)",
+      "Unlimited teammates (billed per user)",
+      "Full-team collaboration (unlimited invites)",
+      "Unlimited teammates (billed per user)",
+      "FREE PLAN ONLY Supercharge your API development with Postman AI. Use natural language to generate, debug, and automate your workflows. Learn more →",
+      "400 credits",
+      "Includes the option to transition to pay-as-you-go ($0.04 per credit) if exceeded.",
+      "$5 per user/month",
+      "Who can access the trial? Any team on the Free plan with 3 or fewer users. The trial automatically starts when you invite or approve a 4th team member. Learn more here",
+      "Yes. The Enterprise plan supports purchase orders, invoicing, and custom payment terms. The Free, Basic, and Professional plans are available by credit card only.",
+      "that reset monthly. Credits are used when you generate tests, create collections, or automate documentation. Free plan users can upgrade once credits run out.",
+      "Sign up for free at postman.com",
+      "You can explore most core features on the Free plan and upgrade anytime for more collaboration, automation, and governance as your team grows."
+    ],
+    "removed": [
+      "1 day collection recovery",
+      "30 day collection recovery",
+      "Spec Hub: 10 private APIs, unlimited public APIs",
+      "90 days collection recovery",
+      "Unlimited",
+      "Unlimited",
+      "1,000 requests",
+      "100,000 requests",
+      "$0.75 / 1000 calls",
+      "1,000 requests",
+      "10,000 requests",
+      "$0.75 / 1000 calls",
+      "Free",
+      "Free",
+      "Free",
+      "Unlimited",
+      "1,000 requests",
+      "1,000 requests",
+      "Free",
+      "Free",
+      "Free",
+      "Unlimited",
+      "10,000 requests",
+      "$0.75 / 1000 calls",
+      "10,000 requests",
+      "$0.75 / 1000 calls",
+      "Free",
+      "Free",
+      "Free",
+      "Unlimited",
+      "10,000 requests",
+      "$0.75 / 1000 calls",
+      "10,000 requests",
+      "$0.75 / 1000 calls",
+      "Free",
+      "Free",
+      "Free",
+      "Unlimited",
+      "Unlimited",
+      "100,000 requests"
+    ],
+    "totals": {
+      "removed": 923,
+      "added": 489,
+      "materialRemoved": 79,
+      "materialAdded": 49
+    }
+  },
+  {
+    "id": "postman-com-pricing-20260111144836",
+    "url": "https://www.postman.com/pricing/",
+    "ts": "20260111144836",
+    "date": "2026-01-11",
+    "source": "wayback",
+    "prevTs": "20251204232857",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Postman: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "postman-com-pricing-20260402032126",
+    "url": "https://www.postman.com/pricing/",
+    "ts": "20260402032126",
+    "date": "2026-04-02",
+    "source": "wayback",
+    "prevTs": "20260111144836",
+    "kind": "price",
+    "score": 106,
+    "counts": {
+      "price": 28,
+      "limit": 11,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Postman: 28 prices, 11 limits changed ($5 → $6)",
+    "pairs": [
+      {
+        "before": "$5 per user/month",
+        "after": "$6 per user/month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$5",
+            "after": "$6"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Unlimited specs & mock servers",
+      "Unlimited Collection Runner & Performance Testing runs",
+      "Unlimited manual Flows",
+      "Everything in Free, and:",
+      "Unlimited private NPM packages & library",
+      "Unlimited custom domains",
+      "Unlimited workspace & collection viewers",
+      "Unlimited private and Partner workspaces",
+      "$9",
+      "800 / user / month",
+      "$0.05 / credit",
+      "Unlimited cloud & local mock servers",
+      "Unlimited manual Flows",
+      "Automated API testing (Unlimited, Collection Runner)",
+      "Performance testing (unlimited runs)",
+      "25 credits / month",
+      "50 credits / month",
+      "100 credits / team / month",
+      "500 credits / team / month",
+      "1,000 requests",
+      "Custom domains (unlimited)",
+      "Unlimited",
+      "Unlimited",
+      "50 / month",
+      "Unlimited cloud & local mock servers",
+      "Unlimited manual Flows",
+      "Automated API testing (Unlimited, Collection Runner)",
+      "Performance testing (unlimited runs)",
+      "25 credits / month",
+      "1,000 requests",
+      "Custom domains (unlimited)",
+      "1 day",
+      "$0.05 / credit",
+      "Unlimited cloud & local mock servers",
+      "Unlimited manual Flows",
+      "Automated API testing (Unlimited, Collection Runner)",
+      "Performance testing (unlimited runs)",
+      "50 credits / month",
+      "Custom domains (unlimited)",
+      "1 user"
+    ],
+    "removed": [
+      "for $5/user per month",
+      "Up to 3 free users",
+      "$14",
+      "Everything in Free, plus:",
+      "Full-team collaboration (unlimited invites)",
+      "$39",
+      "$29",
+      "Pay-as-you-go at $0.030/credit",
+      "Spec Hub: unlimited private & public APIs",
+      "$14",
+      "$39",
+      "$29",
+      "Full-team collaboration (unlimited invites)",
+      "Up to 3 free users",
+      "Unlimited teammates (billed per user)",
+      "Starting at $29/user/month",
+      "$49/user/month",
+      "Full-team collaboration (unlimited invites)",
+      "Up to 3 free users",
+      "Full-team collaboration (unlimited invites)",
+      "Unlimited teammates (billed per user)",
+      "Full-team collaboration (unlimited invites)",
+      "Unlimited teammates (billed per user)",
+      "Starting at $29/user/month",
+      "Full-team collaboration (unlimited invites)",
+      "Unlimited teammates (billed per user)",
+      "$49/user/month",
+      "FREE PLAN ONLY Supercharge your API development with Postman AI. Use natural language to generate, debug, and automate your workflows. Learn more →",
+      "Get unlimited monthly collection runs to test your APIs.",
+      "$49 per user/month",
+      "ⓘ Available on Free, Basic, Professional, and Enterprise plans.",
+      "$49 per user/month",
+      "$29 per user/month",
+      "Design and build unlimited APIs with the API Builder.",
+      "$49 per user/month",
+      "Flows for Free Plan",
+      "Unlimited",
+      "1 MB/call",
+      "3 MB/call",
+      "5 MB/call"
+    ],
+    "totals": {
+      "removed": 666,
+      "added": 619,
+      "materialRemoved": 70,
+      "materialAdded": 89
+    }
+  },
+  {
+    "id": "postman-com-pricing-20260801035631",
+    "url": "https://www.postman.com/pricing/",
+    "ts": "20260801035631",
+    "date": "2026-08-01",
+    "source": "wayback",
+    "prevTs": "20260402032126",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Postman: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Unlimited specs & mock servers",
+      "Unlimited Collection Runner & Performance Testing runs",
+      "Unlimited manual Flows"
+    ],
+    "totals": {
+      "removed": 16,
+      "added": 43,
+      "materialRemoved": 3,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "postman-com-pricing-20260902202107",
+    "url": "https://www.postman.com/pricing/",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260801035631",
+    "kind": "price",
+    "score": 15,
+    "counts": {
+      "price": 5,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Postman: 5 prices changed (added “$0.04 / VuH”)",
+    "pairs": [],
+    "added": [
+      "$0.04 / VuH",
+      "$0.04 / VuH",
+      "$0.04 / VuH",
+      "$0.04 / VuH",
+      "$0.04 per virtual user hour"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 38,
+      "materialRemoved": 5,
+      "materialAdded": 10
+    },
+    "transition": true
+  }
+]

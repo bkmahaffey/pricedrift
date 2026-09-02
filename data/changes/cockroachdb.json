@@ -1,0 +1,358 @@
+[
+  {
+    "id": "cockroachlabs-com-pricing-20230530011314",
+    "url": "https://www.cockroachlabs.com/pricing/",
+    "ts": "20230530011314",
+    "date": "2023-05-30",
+    "source": "wayback",
+    "prevTs": "20230216150644",
+    "kind": "price",
+    "score": 83,
+    "counts": {
+      "price": 18,
+      "limit": 9,
+      "plan": 6
+    },
+    "material": true,
+    "headline": "CockroachDB Cloud: 18 prices, 9 limits, 6 plan names changed ($1 → $0.50; 5GB → 10GiB)",
+    "pairs": [
+      {
+        "before": "$1 per additional 1GiB storage",
+        "after": "$0.50 per additional GiB storage",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "$1",
+            "after": "$0.50"
+          },
+          {
+            "before": "1GiB",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "For use up to 5GB of storage and 250M RUs per month!",
+        "after": "Free for use up to 10 GiB of storage and 50M RUs per organization per month.",
+        "confidence": 0.64,
+        "deltas": [
+          {
+            "before": "5GB",
+            "after": "10GiB"
+          },
+          {
+            "before": "250M",
+            "after": "50M"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "From $0 / month",
+      "10 GiB storage & 50M Request Units for free per month for each organization,",
+      "$0.20 per additional 1M request Units",
+      "From $295 / month",
+      "15 GiB to 10,000 GiB storage per node available",
+      "2 vCPU to 32 vCPU per node available",
+      "Our open-source cloud database software with fundamental capabilities, available for free.",
+      "Start for free and set upper limits for storage and transactional volume per month to fit your budget.",
+      "Free"
+    ],
+    "removed": [
+      "Forever Free",
+      "5GiB Storage*",
+      "250M Request Units/month*",
+      "No credit card required",
+      "$1 per additional 10M RUs",
+      "START FOR FREE",
+      "START FOR FREE",
+      "2 vCPU",
+      "$0.51 /hr",
+      "4 vCPU",
+      "$0.90 /hr",
+      "8 vCPU",
+      "$1.60 /hr",
+      "16 vCPU",
+      "$3.11 /hr",
+      "32 vCPU",
+      "$5.34 /hr",
+      "$0.0005088 /hr",
+      "$0.0000196 /hr",
+      "START FOR FREE",
+      "2 vCPU",
+      "$0.43 /hr",
+      "4 vCPU",
+      "$0.71 /hr",
+      "8 vCPU",
+      "$1.18 /hr",
+      "16 vCPU",
+      "$2.30 /hr",
+      "32 vCPU",
+      "$4.20 /hr",
+      "$0.0011986 /hr",
+      "CockroachDB serverless presents a forever free database with upper limits for storage and transactional volume per month.",
+      "Free Forever",
+      "Yes, it is free forever."
+    ],
+    "totals": {
+      "removed": 82,
+      "added": 53,
+      "materialRemoved": 36,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "cockroachlabs-com-pricing-20231001225753",
+    "url": "https://www.cockroachlabs.com/pricing/",
+    "ts": "20231001225753",
+    "date": "2023-10-01",
+    "source": "wayback",
+    "prevTs": "20230530011314",
+    "kind": "price",
+    "score": 65,
+    "counts": {
+      "price": 15,
+      "limit": 10,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "CockroachDB Cloud: 15 prices, 10 limits changed (added “Storage is the disk space for storing your da…”)",
+    "pairs": [],
+    "added": [
+      "Storage is the disk space for storing your data in the cluster. The price of storage is $0.50 per additional GiB storage above the 10 GiB free storage given to each organization per month.",
+      "Reading 1 Row",
+      "Price per 1M queries",
+      "Read 1 row of 64 bytes",
+      "$0.21",
+      "Read 1 row of 1024 bytes",
+      "$0.40",
+      "Read 1 row of 2048 bytes",
+      "$0.60",
+      "Writing 1 Row",
+      "Price per 1M queries",
+      "Write 1 row of 64 bytes",
+      "$1.34",
+      "Write 1 row of 1024 bytes",
+      "$1.92",
+      "Write 1 row of 2048 bytes",
+      "$2.52",
+      "Writing 1 row with added complexity",
+      "Price per 1M queries",
+      "Write 1 row of 1024 bytes, with 0 indexes",
+      "$1.92",
+      "Write 1 row of 1024 bytes, with 1 indexes",
+      "$3.74",
+      "Write 1 row of 1024 bytes, with 2 indexes",
+      "$5.56",
+      "Price per 1M queries",
+      "Scan 1K rows of 64 bytes, return 1",
+      "$0.65",
+      "Scan 1K rows of 128 bytes, return 1",
+      "$4.48",
+      "Scan 1K rows of 2048 bytes, return 1",
+      "$39.21",
+      "Price per 1M queries",
+      "$0.87",
+      "$0.03"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 105,
+      "materialRemoved": 1,
+      "materialAdded": 36
+    }
+  },
+  {
+    "id": "cockroachlabs-com-pricing-20240204004807",
+    "url": "https://www.cockroachlabs.com/pricing/",
+    "ts": "20240204004807",
+    "date": "2024-02-04",
+    "source": "wayback",
+    "prevTs": "20231001225753",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 2,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "CockroachDB Cloud: 2 prices, 2 limits changed (removed “10 GiB storage & 50M Request Units for free p…”)",
+    "pairs": [],
+    "added": [
+      "No Credit Card Required to Start"
+    ],
+    "removed": [
+      "10 GiB storage & 50M Request Units for free per month for each organization",
+      "$0.50 per additional GiB storage",
+      "$0.20 per additional 1M request Units",
+      "15 GiB to 10,000 GiB storage per node available",
+      "2 vCPU to 32 vCPU per node available",
+      "Our open-source cloud database software with fundamental capabilities, available for free.",
+      "No Credit Card"
+    ],
+    "totals": {
+      "removed": 39,
+      "added": 89,
+      "materialRemoved": 9,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "cockroachlabs-com-pricing-20240407083250",
+    "url": "https://www.cockroachlabs.com/pricing/",
+    "ts": "20240407083250",
+    "date": "2024-04-07",
+    "source": "wayback",
+    "prevTs": "20240204004807",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "CockroachDB Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "cockroachlabs-com-pricing-20260404022032",
+    "url": "https://www.cockroachlabs.com/pricing/",
+    "ts": "20260404022032",
+    "date": "2026-04-04",
+    "source": "wayback",
+    "prevTs": "20240407083250",
+    "kind": "price",
+    "score": 105,
+    "counts": {
+      "price": 22,
+      "limit": 15,
+      "plan": 5
+    },
+    "material": true,
+    "headline": "CockroachDB Cloud: 22 prices, 15 limits, 5 plan names changed (10GiB → 50)",
+    "pairs": [
+      {
+        "before": "Free for use up to 10 GiB of storage and 50M RUs per organization per month.",
+        "after": "50 million RUs and 10 GiB storage free per month",
+        "confidence": 0.64,
+        "deltas": [
+          {
+            "before": "10GiB",
+            "after": "50"
+          },
+          {
+            "before": "50M",
+            "after": "10GiB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Get started free",
+      "For smaller, bursty workloads up to 30K RU/sec (~60 vCPUs).",
+      "2 vCPUs start at $0.18 / hr",
+      "Get started free",
+      "For steady workloads at scale, up to 200 vCPUs.",
+      "Provisioned compute with instant scaling up to 200 vCPUs, and on-demand storage",
+      "4 vCPUs start at $0.60 / hr",
+      "Provisioned compute and storage with unlimited scaling",
+      "Try free with $400 in credits. No credit card required for Basic and Standard plans.",
+      "Starts at $0 / month",
+      "Get started free",
+      "2 vCPUs start at $0.18 / hr",
+      "Get started free",
+      "4 vCPUs start at $0.60 / hr",
+      "Request units based, first 50 million RUs free per month",
+      "vCPU based, up to 200 vCPUs",
+      "vCPU based, unlimited scaling",
+      "Up to 3 TiB, first 10 GiB free per month",
+      "Up to 3 TiB",
+      "Unlimited up to 10 TiB per node",
+      "Provisioned compute with unlimited scaling."
+    ],
+    "removed": [
+      "Start for free and set upper limits for storage and transactional volume per month to fit your budget.",
+      "Free",
+      "No Credit Card Required to Start",
+      "Storage is the disk space for storing your data in the cluster. The price of storage is $0.50 per additional GiB storage above the 10 GiB free storage given to each organization per month.",
+      "Reading 1 Row",
+      "Price per 1M queries",
+      "Read 1 row of 64 bytes",
+      "$0.21",
+      "Read 1 row of 1024 bytes",
+      "$0.40",
+      "Read 1 row of 2048 bytes",
+      "$0.60",
+      "Writing 1 Row",
+      "Price per 1M queries",
+      "Write 1 row of 64 bytes",
+      "$1.34",
+      "Write 1 row of 1024 bytes",
+      "$1.92",
+      "Write 1 row of 2048 bytes",
+      "$2.52",
+      "Writing 1 row with added complexity",
+      "Price per 1M queries",
+      "Write 1 row of 1024 bytes, with 0 indexes",
+      "$1.92",
+      "Write 1 row of 1024 bytes, with 1 indexes",
+      "$3.74",
+      "Write 1 row of 1024 bytes, with 2 indexes",
+      "$5.56",
+      "Price per 1M queries",
+      "Scan 1K rows of 64 bytes, return 1",
+      "$0.65",
+      "Scan 1K rows of 128 bytes, return 1",
+      "$4.48",
+      "Scan 1K rows of 2048 bytes, return 1",
+      "$39.21",
+      "Price per 1M queries",
+      "$0.87",
+      "$0.03",
+      "From $295 / month"
+    ],
+    "totals": {
+      "removed": 204,
+      "added": 112,
+      "materialRemoved": 41,
+      "materialAdded": 23
+    }
+  },
+  {
+    "id": "cockroachlabs-com-pricing-20260506233121",
+    "url": "https://www.cockroachlabs.com/pricing/",
+    "ts": "20260506233121",
+    "date": "2026-05-06",
+    "source": "wayback",
+    "prevTs": "20260404022032",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "CockroachDB Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  }
+]

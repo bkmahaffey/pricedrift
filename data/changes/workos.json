@@ -1,0 +1,398 @@
+[
+  {
+    "id": "workos-com-pricing-20230315050235",
+    "url": "https://workos.com/pricing",
+    "ts": "20230315050235",
+    "date": "2023-03-15",
+    "source": "wayback",
+    "prevTs": "20230113012635",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "WorkOS: 1 price changed (removed “Definitely! The $499 fee is only applied for …”)",
+    "pairs": [],
+    "added": [
+      "Free Google and Microsoft OAuth"
+    ],
+    "removed": [
+      "Definitely! The $499 fee is only applied for those who want to customize the Admin Portal branding. You can use it for free with the WorkOS branding."
+    ],
+    "totals": {
+      "removed": 31,
+      "added": 41,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "workos-com-pricing-20231030092141",
+    "url": "https://workos.com/pricing",
+    "ts": "20231030092141",
+    "date": "2023-10-30",
+    "source": "wayback",
+    "prevTs": "20230315050235",
+    "kind": "price",
+    "score": 47,
+    "counts": {
+      "price": 13,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "WorkOS: 13 prices, 4 limits changed (100 removed)",
+    "pairs": [
+      {
+        "before": "Yes, there's no catch here. We provide unlimited magic link email authentication and OAuth sign in (from Google and Microsoft) 100% free of charge.",
+        "after": "Yes, there's no catch here. We provide unlimited magic link email authentication and OAuth sign in (from Google and Microsoft) for all WorkOS accounts free of charge.",
+        "confidence": 0.82,
+        "deltas": [
+          {
+            "before": "100",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$125 / month",
+      "$100 / month",
+      "$80 / month",
+      "$65 / month",
+      "More than 100 connections? Contact us",
+      "Single Sign-On is free to try in a Sandbox environment",
+      "$125 / month",
+      "$100 / month",
+      "$80 / month",
+      "$65 / month",
+      "More than 100 connections? Contact us",
+      "Directory Sync is free to try in a Sandbox environment",
+      "1 month (default)",
+      "12 months",
+      "$5 / month",
+      "$50 / month",
+      "(requires 12 month data retention)",
+      "$75 / month",
+      "Audit Logs is free to try in a Sandbox environment",
+      "$499 / month",
+      "Custom branding is free to try in the Sandbox environment",
+      "1 month data retention",
+      "-$ 2,250 volume discount",
+      "Try all WorkOS products in a Sandbox environment, no credit card required."
+    ],
+    "removed": [
+      "Get started for free",
+      "Free Google and Microsoft OAuth"
+    ],
+    "totals": {
+      "removed": 19,
+      "added": 138,
+      "materialRemoved": 3,
+      "materialAdded": 25
+    }
+  },
+  {
+    "id": "workos-com-pricing-20231208230417",
+    "url": "https://workos.com/pricing",
+    "ts": "20231208230417",
+    "date": "2023-12-08",
+    "source": "wayback",
+    "prevTs": "20231030092141",
+    "kind": "price",
+    "score": 5,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "WorkOS: 1 price, 1 plan name changed (removed “$499 / month”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "Get started for free in a staging environment"
+    ],
+    "removed": [
+      "$499 / month",
+      "Custom branding is free to try in the Sandbox environment"
+    ],
+    "totals": {
+      "removed": 32,
+      "added": 18,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "workos-com-pricing-20240221161914",
+    "url": "https://workos.com/pricing",
+    "ts": "20240221161914",
+    "date": "2024-02-21",
+    "source": "wayback",
+    "prevTs": "20231208230417",
+    "kind": "plans",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "WorkOS: 1 limit, 1 plan name changed (added “How do you count the 1 million free users?”)",
+    "pairs": [],
+    "added": [
+      "How do you count the 1 million free users?",
+      "WorkOS User Management is free for up to 1 million monthly active users. A user is considered active if they perform any user action (for example: sign up, sign in, or profile update) within the calendar month. Contact us to learn more about volume pricing.",
+      "Free",
+      "1,000,000 monthly active users (MAU) included",
+      "Start for free in a fully functional staging environment"
+    ],
+    "removed": [
+      "Are Magic Link and OAuth really free?",
+      "Yes, there's no catch here. We provide unlimited magic link email authentication and OAuth sign in (from Google and Microsoft) for all WorkOS accounts free of charge."
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 18,
+      "materialRemoved": 2,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "workos-com-pricing-20250120060950",
+    "url": "https://workos.com/pricing",
+    "ts": "20250120060950",
+    "date": "2025-01-20",
+    "source": "wayback",
+    "prevTs": "20240221161914",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "WorkOS: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "Free",
+      "Start for free in a fully functional staging environment"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 12,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "workos-com-pricing-20250704101059",
+    "url": "https://workos.com/pricing",
+    "ts": "20250704101059",
+    "date": "2025-07-04",
+    "source": "wayback",
+    "prevTs": "20250120060950",
+    "kind": "price",
+    "score": 21,
+    "counts": {
+      "price": 3,
+      "limit": 4,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "WorkOS: 3 prices, 4 limits, 2 plan names changed (removed “1 month (default)”; added “Up to 1,000 checks”)",
+    "pairs": [],
+    "added": [
+      "Get started for free in a staging environment",
+      "Get started for free in a staging environment",
+      "Get started for free in a staging environment",
+      "Get started for free in a staging environment",
+      "Get started for free in a staging environment",
+      "Up to 1,000 checks",
+      "Free",
+      "Free trial abuse prevention",
+      "After 1,000 checks",
+      "per 50k checks",
+      "Get started for free in a staging environment",
+      "Protection against AI bots, free trial abuse, and more.",
+      "Free",
+      "per 1M events",
+      "1M events"
+    ],
+    "removed": [
+      "Single Sign-On is free to try in a Sandbox environment",
+      "Directory Sync is free to try in a Sandbox environment",
+      "1 month (default)",
+      "$5 / month",
+      "$50 / month",
+      "(requires 12 month data retention)",
+      "$75 / month",
+      "Audit Logs is free to try in a Sandbox environment",
+      "Start for free in a fully functional staging environment",
+      "Start for free in a fully functional staging environment",
+      "1 month data retention"
+    ],
+    "totals": {
+      "removed": 26,
+      "added": 48,
+      "materialRemoved": 13,
+      "materialAdded": 17
+    }
+  },
+  {
+    "id": "workos-com-pricing-20250805004259",
+    "url": "https://workos.com/pricing",
+    "ts": "20250805004259",
+    "date": "2025-08-05",
+    "source": "wayback",
+    "prevTs": "20250704101059",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "WorkOS: 1 plan name changed",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Free",
+      "Get started for free in a staging environment"
+    ],
+    "totals": {
+      "removed": 12,
+      "added": 0,
+      "materialRemoved": 2,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "workos-com-pricing-20250905015116",
+    "url": "https://workos.com/pricing",
+    "ts": "20250905015116",
+    "date": "2025-09-05",
+    "source": "wayback",
+    "prevTs": "20250805004259",
+    "kind": "price",
+    "score": 63,
+    "counts": {
+      "price": 15,
+      "limit": 3,
+      "plan": 6
+    },
+    "material": true,
+    "headline": "WorkOS: 15 prices, 3 limits, 6 plan names changed (removed “More than 100 connections? Contact us”; added “First 1 million active users free”)",
+    "pairs": [],
+    "added": [
+      "First 1 million active users free",
+      "$0 / month Free",
+      "Free",
+      "$2,500 / mo",
+      "$0 / month vs $100 to build it yourself",
+      "$50 / ea",
+      "$125",
+      "$0 / month vs $100 to build it yourself",
+      "$125 / ea",
+      "$50 / ea",
+      "$0 / month",
+      "$125 / mo",
+      "$99 / mo",
+      "$0 / month Free",
+      "Free",
+      "$100 / mo",
+      "$99 / mo"
+    ],
+    "removed": [
+      "No credit card required",
+      "More than 100 connections? Contact us",
+      "Get started for free in a staging environment",
+      "More than 100 connections? Contact us",
+      "Get started for free in a staging environment",
+      "Retain events for up to 12 months",
+      "Get started for free in a staging environment",
+      "Free",
+      "Get started for free in a staging environment",
+      "Free",
+      "Get started for free in a staging environment",
+      "Free",
+      "Free trial abuse prevention",
+      "After 1,000 checks",
+      "Get started for free in a staging environment",
+      "Protection against AI bots, free trial abuse, and more.",
+      "Free",
+      "per 1M events",
+      "1M events",
+      "-$ 2,250 volume discount",
+      "Try all WorkOS products in a staging environment, no credit card required."
+    ],
+    "totals": {
+      "removed": 180,
+      "added": 143,
+      "materialRemoved": 33,
+      "materialAdded": 29
+    }
+  },
+  {
+    "id": "workos-com-pricing-20260606034411",
+    "url": "https://workos.com/pricing",
+    "ts": "20260606034411",
+    "date": "2026-06-06",
+    "source": "wayback",
+    "prevTs": "20250905015116",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "WorkOS: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "workos-com-pricing-20260803150101",
+    "url": "https://workos.com/pricing",
+    "ts": "20260803150101",
+    "date": "2026-08-03",
+    "source": "wayback",
+    "prevTs": "20260606034411",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "WorkOS: 2 prices changed (removed “$50 / ea”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$50 / ea",
+      "$50 / ea"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 0,
+      "materialRemoved": 2,
+      "materialAdded": 0
+    }
+  }
+]

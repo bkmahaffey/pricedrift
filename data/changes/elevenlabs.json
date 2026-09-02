@@ -1,0 +1,1168 @@
+[
+  {
+    "id": "elevenlabs-io-pricing-20241107004339",
+    "url": "https://elevenlabs.io/pricing",
+    "ts": "20241107004339",
+    "date": "2024-11-07",
+    "source": "wayback",
+    "prevTs": "20240902015652",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "ElevenLabs: 2 limits changed (10 → 0; 10 → 0)",
+    "pairs": [
+      {
+        "before": "10 minutes",
+        "after": "0 minutes",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10",
+            "after": "0"
+          }
+        ]
+      },
+      {
+        "before": "10 minutes",
+        "after": "0 minutes",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10",
+            "after": "0"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "Unlimited concurrency"
+    ],
+    "totals": {
+      "removed": 20,
+      "added": 20,
+      "materialRemoved": 10,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "elevenlabs-io-pricing-20250103013919",
+    "url": "https://elevenlabs.io/pricing",
+    "ts": "20250103013919",
+    "date": "2025-01-03",
+    "source": "wayback",
+    "prevTs": "20241107004339",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "ElevenLabs: 1 price changed (removed “Turbo model as low as $0.015/1000 characters …”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Turbo model as low as $0.015/1000 characters for ultra-high volumes"
+    ],
+    "totals": {
+      "removed": 17,
+      "added": 16,
+      "materialRemoved": 10,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "elevenlabs-io-pricing-20250201051544",
+    "url": "https://elevenlabs.io/pricing",
+    "ts": "20250201051544",
+    "date": "2025-02-01",
+    "source": "wayback",
+    "prevTs": "20250103013919",
+    "kind": "limits",
+    "score": 20,
+    "counts": {
+      "price": 0,
+      "limit": 10,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "ElevenLabs: 10 limits changed (removed “10 minutes”; added “10 minutes of Conversational AI with up to 4 …”)",
+    "pairs": [],
+    "added": [
+      "10 minutes of Conversational AI with up to 4 concurrent requests",
+      "30 minutes of Conversational AI with up to 6 concurrent requests",
+      "100 minutes of Conversational AI with up to 10 concurrent requests",
+      "500 minutes of Conversational AI with up to 20 concurrent requests",
+      "2,000 minutes of Conversational AI with up to 30 concurrent requests",
+      "11,000 minutes of Conversational AI with up to 30 concurrent requests"
+    ],
+    "removed": [
+      "10 minutes",
+      "0 minutes",
+      "10 minutes",
+      "0 minutes",
+      "30 minutes",
+      "30 minutes",
+      "100 minutes",
+      "100 minutes",
+      "500 minutes",
+      "500 minutes",
+      "2,000 minutes",
+      "2,000 minutes",
+      "11,000 minutes",
+      "11,000 minutes"
+    ],
+    "totals": {
+      "removed": 15,
+      "added": 10,
+      "materialRemoved": 14,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "elevenlabs-io-pricing-20250305165623",
+    "url": "https://elevenlabs.io/pricing",
+    "ts": "20250305165623",
+    "date": "2025-03-05",
+    "source": "wayback",
+    "prevTs": "20250201051544",
+    "kind": "price",
+    "score": 32,
+    "counts": {
+      "price": 4,
+      "limit": 10,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "ElevenLabs: 4 prices, 10 limits changed (10 → 15; 30 → 50)",
+    "pairs": [
+      {
+        "before": "10 minutes of Conversational AI with up to 4 concurrent requests",
+        "after": "15 minutes of Conversational AI with up to 4 concurrent requests",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10",
+            "after": "15"
+          }
+        ]
+      },
+      {
+        "before": "30 minutes of Conversational AI with up to 6 concurrent requests",
+        "after": "50 minutes of Conversational AI with up to 6 concurrent requests",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "30",
+            "after": "50"
+          }
+        ]
+      },
+      {
+        "before": "100 minutes of Conversational AI with up to 10 concurrent requests",
+        "after": "250 minutes of Conversational AI with up to 10 concurrent requests",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100",
+            "after": "250"
+          }
+        ]
+      },
+      {
+        "before": "500 minutes of Conversational AI with up to 20 concurrent requests",
+        "after": "1100 minutes of Conversational AI with up to 20 concurrent requests",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "500",
+            "after": "1100"
+          }
+        ]
+      },
+      {
+        "before": "2,000 minutes of Conversational AI with up to 30 concurrent requests",
+        "after": "3,600 minutes of Conversational AI with up to 30 concurrent requests",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2,000",
+            "after": "3,600"
+          }
+        ]
+      },
+      {
+        "before": "11,000 minutes of Conversational AI with up to 30 concurrent requests",
+        "after": "13,750 minutes of Conversational AI with up to 30 concurrent requests",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "11,000",
+            "after": "13,750"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "2.5 hours of speech to text in 99 languages via API per month",
+      "Access to Studio to create long form content (3 projects)",
+      "12.5 hours of speech to text via API per month",
+      "Up to 20 projects in Studio",
+      "63 hours of speech to text in 99 languages via API per month",
+      "320 hours of speech to text in 99 languages via API per month",
+      "1220 hours of speech to text via API per month",
+      "6000 hours of speech to text via API",
+      "~$0.12",
+      "~$0.11",
+      "~$0.10",
+      "$0.08 (annual), $0.096 (monthly)"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 35,
+      "added": 54,
+      "materialRemoved": 6,
+      "materialAdded": 18
+    }
+  },
+  {
+    "id": "elevenlabs-io-pricing-20250401174425",
+    "url": "https://elevenlabs.io/pricing",
+    "ts": "20250401174425",
+    "date": "2025-04-01",
+    "source": "wayback",
+    "prevTs": "20250305165623",
+    "kind": "price",
+    "score": 121,
+    "counts": {
+      "price": 23,
+      "limit": 24,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "ElevenLabs: 23 prices, 24 limits, 2 plan names changed (removed “2.5 hours of speech to text in 99 languages v…”; added “15 minutes of Conversational AI”)",
+    "pairs": [],
+    "added": [
+      "15 minutes of Conversational AI",
+      "50 minutes of Conversational AI",
+      "250 minutes of Conversational AI",
+      "1,100 minutes of Conversational AI",
+      "3,600 minutes of Conversational AI",
+      "13,750 minutes of Conversational AI",
+      "Free",
+      "$0 / mo",
+      "$0 / mo",
+      "Free tier requires attribution and does not have commercial licensing",
+      "Free",
+      "$0 / mo",
+      "$5 / mo",
+      "$11 / mo $22",
+      "$99 / mo",
+      "$330 / mo",
+      "$1,320 / mo",
+      "$0.06/1000",
+      "Free tier requires attribution and does not have commercial licensing"
+    ],
+    "removed": [
+      "2.5 hours of speech to text in 99 languages via API per month",
+      "15 minutes of Conversational AI with up to 4 concurrent requests",
+      "Access to Studio to create long form content (3 projects)",
+      "12.5 hours of speech to text via API per month",
+      "50 minutes of Conversational AI with up to 6 concurrent requests",
+      "Clone your voice with as little as 1 minute of audio",
+      "63 hours of speech to text in 99 languages via API per month",
+      "250 minutes of Conversational AI with up to 10 concurrent requests",
+      "320 hours of speech to text in 99 languages via API per month",
+      "1100 minutes of Conversational AI with up to 20 concurrent requests",
+      "1220 hours of speech to text via API per month",
+      "3,600 minutes of Conversational AI with up to 30 concurrent requests",
+      "11,000 minutes of ultra-high quality text to speech per month or 22,000 minutes of Flash/Turbo text to speech",
+      "6000 hours of speech to text via API",
+      "13,750 minutes of Conversational AI with up to 30 concurrent requests",
+      "Flash/Turbo models at $50/million characters (when paying annually)",
+      "10,000 characters",
+      "(~10 minutes)",
+      "20,000 characters",
+      "(~20 minutes)",
+      "10,000 characters",
+      "(~10 minutes)",
+      "20,000 characters",
+      "(~20 minutes)",
+      "30,000 characters",
+      "(~30 minutes)",
+      "60,000 characters",
+      "(~60 minutes)",
+      "$0.30/1000",
+      "100,000 characters",
+      "(~100 minutes)",
+      "$0.30/1000",
+      "200,000 characters",
+      "(~200 minutes)",
+      "~$0.12",
+      "$0.24/1000",
+      "500,000 characters",
+      "(~500 minutes)",
+      "$0.24/1000",
+      "1,000,000 characters"
+    ],
+    "totals": {
+      "removed": 229,
+      "added": 130,
+      "materialRemoved": 76,
+      "materialAdded": 39
+    }
+  },
+  {
+    "id": "elevenlabs-io-pricing-20250507153225",
+    "url": "https://elevenlabs.io/pricing",
+    "ts": "20250507153225",
+    "date": "2025-05-07",
+    "source": "wayback",
+    "prevTs": "20250401174425",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "ElevenLabs: 1 plan name changed",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Try for free"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 4,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "elevenlabs-io-pricing-20250601011609",
+    "url": "https://elevenlabs.io/pricing",
+    "ts": "20250601011609",
+    "date": "2025-06-01",
+    "source": "wayback",
+    "prevTs": "20250507153225",
+    "kind": "limits",
+    "score": 5,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "ElevenLabs: 3 limits changed (removed “2M credits/month”; added “2M credits/month + 3 seats”)",
+    "pairs": [],
+    "added": [
+      "2M credits/month + 3 seats",
+      "11M credits/month + 5 seats",
+      "Usage-based billing offers a fixed price for each additional 1,000 credits used over your limit.",
+      "It's not possible to pause your paid subscription, but when you cancel your paid subscription, your account will be transferred to the free plan at the end of your current billing cycle."
+    ],
+    "removed": [
+      "2M credits/month",
+      "11M credits/month"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 7,
+      "materialRemoved": 2,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "elevenlabs-io-pricing-20250713175525",
+    "url": "https://elevenlabs.io/pricing",
+    "ts": "20250713175525",
+    "date": "2025-07-13",
+    "source": "wayback",
+    "prevTs": "20250601011609",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "ElevenLabs: 1 plan name changed",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Get started free"
+    ],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "elevenlabs-io-pricing-20250802181250",
+    "url": "https://elevenlabs.io/pricing",
+    "ts": "20250802181250",
+    "date": "2025-08-02",
+    "source": "wayback",
+    "prevTs": "20250713175525",
+    "kind": "price",
+    "score": 39,
+    "counts": {
+      "price": 13,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "ElevenLabs: 13 prices changed (removed “$0.15/1000”; added “$0.004”)",
+    "pairs": [],
+    "added": [
+      "$0.004",
+      "~$0.12",
+      "$0.004",
+      "~$0.11",
+      "$0.003",
+      "~$0.10",
+      "$0.003",
+      "$0.096",
+      "$0.003"
+    ],
+    "removed": [
+      "$0.15/1000",
+      "$0.12/1000",
+      "$0.09/1000",
+      "$0.06/1000"
+    ],
+    "totals": {
+      "removed": 34,
+      "added": 17,
+      "materialRemoved": 4,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "elevenlabs-io-pricing-20250908124940",
+    "url": "https://elevenlabs.io/pricing",
+    "ts": "20250908124940",
+    "date": "2025-09-08",
+    "source": "wayback",
+    "prevTs": "20250802181250",
+    "kind": "price",
+    "score": 33,
+    "counts": {
+      "price": 11,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "ElevenLabs: 11 prices changed (removed “$0.004”; added “~$0.15/minute”)",
+    "pairs": [],
+    "added": [
+      "~$0.15/minute",
+      "~$0.09/minute",
+      "~$0.06/minute"
+    ],
+    "removed": [
+      "$0.004",
+      "$0.004",
+      "~$0.11",
+      "$0.003",
+      "~$0.10",
+      "$0.003",
+      "$0.096",
+      "$0.003"
+    ],
+    "totals": {
+      "removed": 23,
+      "added": 51,
+      "materialRemoved": 15,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "elevenlabs-io-pricing-20251002154428",
+    "url": "https://elevenlabs.io/pricing",
+    "ts": "20251002154428",
+    "date": "2025-10-02",
+    "source": "wayback",
+    "prevTs": "20250908124940",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "ElevenLabs: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "elevenlabs-io-pricing-20251202222214",
+    "url": "https://elevenlabs.io/pricing",
+    "ts": "20251202222214",
+    "date": "2025-12-02",
+    "source": "wayback",
+    "prevTs": "20251002154428",
+    "kind": "price",
+    "score": 43,
+    "counts": {
+      "price": 7,
+      "limit": 10,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "ElevenLabs: 7 prices, 10 limits, 1 plan name changed (removed “Annual billing 2 months free”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Annual billing 2 months free",
+      "Free",
+      "10k credits/month",
+      "$0 per month",
+      "10 minutes of high-quality Text to Speech",
+      "15 minutes of Agents",
+      "30k credits/month",
+      "$5 per month",
+      "Everything in free, plus",
+      "20 projects in Studio",
+      "30 minutes of high-quality Text to Speech",
+      "50 minutes of Agents",
+      "100k credits/month",
+      "$22",
+      "$11 per month",
+      "100 minutes of high-quality Text to Speech",
+      "250 minutes of Agents",
+      "500k credits/month",
+      "$99 per month",
+      "500 minutes of high-quality Text to Speech",
+      "1,100 minutes of Agents",
+      "2M credits/month + 3 seats",
+      "$330 per month",
+      "2,000 minutes of high-quality Text to Speech",
+      "3,600 minutes of Agents",
+      "11M credits/month + 5 seats",
+      "$1,320 per month",
+      "11,000 minutes of high-quality Text to Speech",
+      "13,750 minutes of Agents"
+    ],
+    "totals": {
+      "removed": 97,
+      "added": 13,
+      "materialRemoved": 29,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "elevenlabs-io-pricing-20260114224739",
+    "url": "https://elevenlabs.io/pricing",
+    "ts": "20260114224739",
+    "date": "2026-01-14",
+    "source": "wayback",
+    "prevTs": "20251202222214",
+    "kind": "price",
+    "score": 342,
+    "counts": {
+      "price": 90,
+      "limit": 20,
+      "plan": 16
+    },
+    "material": true,
+    "headline": "ElevenLabs: 90 prices, 20 limits, 16 plan names changed (removed “$0 / mo”; added “3 Projects in Studio”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "Build for free",
+      "3 Projects in Studio",
+      "10k credits per month",
+      "Everything in Free, plus",
+      "20 Projects in Studio",
+      "30k credits per month",
+      "$22 first month 50% off",
+      "$11 per month",
+      "100k credits per month",
+      "500k credits per month",
+      "2M credits per month",
+      "3 seats",
+      "11M credits per month",
+      "5 seats",
+      "Build intelligent, real-time conversational AI agents into your new product or startup for free with an ElevenLabs Grant.",
+      "12 Months free",
+      "33M Characters",
+      "~$0.30/minute",
+      "~$0.24/minute",
+      "~$0.18/minute",
+      "~$0.12/minute",
+      "Free",
+      "2 hours 30 minutes",
+      "12 hours 30 minutes",
+      "$0.4",
+      "$0.08/h",
+      "$0.12/h",
+      "62 hours 51 minutes",
+      "$0.35",
+      "$0.48",
+      "$0.07/h",
+      "$0.11/h",
+      "300 hours",
+      "$0.33",
+      "$0.4",
+      "$0.07/h",
+      "$0.1/h",
+      "1100 hours",
+      "$0.3"
+    ],
+    "removed": [
+      "Free",
+      "$0 / mo",
+      "Free tier requires attribution and does not have commercial licensing",
+      "Free",
+      "$0 / mo",
+      "$11 / mo $22",
+      "Free tier requires attribution and does not have commercial licensing",
+      "It's not possible to pause your paid subscription, but when you cancel your paid subscription, your account will be transferred to the free plan at the end of your current billing cycle.",
+      "Get started free"
+    ],
+    "totals": {
+      "removed": 91,
+      "added": 396,
+      "materialRemoved": 15,
+      "materialAdded": 151
+    }
+  },
+  {
+    "id": "elevenlabs-io-pricing-20260305154627",
+    "url": "https://elevenlabs.io/pricing",
+    "ts": "20260305154627",
+    "date": "2026-03-05",
+    "source": "wayback",
+    "prevTs": "20260114224739",
+    "kind": "price",
+    "score": 303,
+    "counts": {
+      "price": 82,
+      "limit": 20,
+      "plan": 9
+    },
+    "material": true,
+    "headline": "ElevenLabs: 82 prices, 20 limits, 9 plan names changed (removed “2 hours 30 minutes”; added “$0 per month”)",
+    "pairs": [],
+    "added": [
+      "Yes. There is a maximum number of credits that can be used in a single generation request. The limit depends on whether you are on the Free tier or a paid subscription.",
+      "Credits are charged per generation request, not per download. If you are not satisfied with the output, a limited number of free regenerations may be available as long as the content and certain settings do not change. Whether a regeneration is free is indicated before generating.",
+      "You can cancel your subscription at any time. Your subscription will remain active until the end of your current billing cycle, after which it will not renew and your account will be downgraded to the Free plan.",
+      "$0 per month",
+      "Build for free",
+      "3 Projects in Studio",
+      "10k credits per month",
+      "$5 per month",
+      "Everything in free, plus",
+      "20 Projects in Studio",
+      "30k credits per month",
+      "$22 First month 50% off",
+      "$11 per month",
+      "100k credits per month",
+      "$99 per month",
+      "500k credits per month",
+      "$330 per month",
+      "2M credits per month",
+      "3 seats",
+      "$1,320 per month",
+      "11M credits per month",
+      "5 seats",
+      "Build intelligent, real-time conversational AI agents into your new product or startup for free with an ElevenLabs Grant.",
+      "33M Characters",
+      "~$0.15/minute"
+    ],
+    "removed": [
+      "2 hours 30 minutes",
+      "12 hours 30 minutes",
+      "$0.4",
+      "$0.08/h",
+      "62 hours 51 minutes",
+      "$0.35",
+      "$0.48",
+      "$0.07/h",
+      "$0.11/h",
+      "300 hours",
+      "$0.33",
+      "$0.4",
+      "$0.07/h",
+      "$0.1/h",
+      "1100 hours",
+      "$0.33",
+      "6000 hours",
+      "$0.22",
+      "$0.04/h",
+      "$0.07/h",
+      "1 hour",
+      "4 hours 53 minutes",
+      "$4.5",
+      "24 hours 45 minutes",
+      "$4",
+      "94 hours 17 minutes",
+      "$3.5",
+      "440 hours",
+      "$3",
+      "10 hours",
+      "$0.48",
+      "48 hours",
+      "$0.46",
+      "$0.63",
+      "225 hours",
+      "$0.44",
+      "$0.53",
+      "786 hours",
+      "$0.42",
+      "$0.46"
+    ],
+    "totals": {
+      "removed": 290,
+      "added": 188,
+      "materialRemoved": 120,
+      "materialAdded": 35
+    }
+  },
+  {
+    "id": "elevenlabs-io-pricing-20260404142301",
+    "url": "https://elevenlabs.io/pricing",
+    "ts": "20260404142301",
+    "date": "2026-04-04",
+    "source": "wayback",
+    "prevTs": "20260305154627",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "ElevenLabs: 2 limits changed (added “12 Months free”)",
+    "pairs": [],
+    "added": [
+      "Build intelligent, real-time conversational AI agents into your new product or startup for free with an ElevenLabs Grant.",
+      "12 Months free",
+      "33M Characters",
+      "Yes. There is a maximum number of credits that can be used in a single generation request. The limit depends on whether you are on the Free tier or a paid subscription.",
+      "Credits are charged per generation request, not per download. If you are not satisfied with the output, a limited number of free regenerations may be available as long as the content and certain settings do not change. Whether a regeneration is free is indicated before generating.",
+      "You can cancel your subscription at any time. Your subscription will remain active until the end of your current billing cycle, after which it will not renew and your account will be downgraded to the Free plan.",
+      "Build intelligent, real-time conversational AI agents into your new product or startup for free with an ElevenLabs Grant.",
+      "12 Months free",
+      "33M Characters",
+      "Yes. There is a maximum number of credits that can be used in a single generation request. The limit depends on whether you are on the Free tier or a paid subscription.",
+      "Credits are charged per generation request, not per download. If you are not satisfied with the output, a limited number of free regenerations may be available as long as the content and certain settings do not change. Whether a regeneration is free is indicated before generating.",
+      "You can cancel your subscription at any time. Your subscription will remain active until the end of your current billing cycle, after which it will not renew and your account will be downgraded to the Free plan."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 22,
+      "added": 85,
+      "materialRemoved": 16,
+      "materialAdded": 28
+    }
+  },
+  {
+    "id": "elevenlabs-io-pricing-20260501175701",
+    "url": "https://elevenlabs.io/pricing",
+    "ts": "20260501175701",
+    "date": "2026-05-01",
+    "source": "wayback",
+    "prevTs": "20260404142301",
+    "kind": "price",
+    "score": 114,
+    "counts": {
+      "price": 30,
+      "limit": 12,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "ElevenLabs: 30 prices, 12 limits changed ($5 → $6; 100k → 121k)",
+    "pairs": [
+      {
+        "before": "$5 per month",
+        "after": "$6 per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$5",
+            "after": "$6"
+          }
+        ]
+      },
+      {
+        "before": "100k credits per month",
+        "after": "121k credits per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100k",
+            "after": "121k"
+          }
+        ]
+      },
+      {
+        "before": "500k credits per month",
+        "after": "600k credits per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "500k",
+            "after": "600k"
+          }
+        ]
+      },
+      {
+        "before": "$330 per month",
+        "after": "$299 per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$330",
+            "after": "$299"
+          }
+        ]
+      },
+      {
+        "before": "2M credits per month",
+        "after": "1.8M credits per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2M",
+            "after": "1.8M"
+          }
+        ]
+      },
+      {
+        "before": "$1,320 per month",
+        "after": "$990 per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1,320",
+            "after": "$990"
+          }
+        ]
+      },
+      {
+        "before": "11M credits per month",
+        "after": "6M credits per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "11M",
+            "after": "6M"
+          }
+        ]
+      },
+      {
+        "before": "5 seats",
+        "after": "10 seats",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "5",
+            "after": "10"
+          }
+        ]
+      },
+      {
+        "before": "$5 per month",
+        "after": "$6 per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$5",
+            "after": "$6"
+          }
+        ]
+      },
+      {
+        "before": "100k credits per month",
+        "after": "121k credits per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100k",
+            "after": "121k"
+          }
+        ]
+      },
+      {
+        "before": "500k credits per month",
+        "after": "600k credits per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "500k",
+            "after": "600k"
+          }
+        ]
+      },
+      {
+        "before": "$330 per month",
+        "after": "$299 per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$330",
+            "after": "$299"
+          }
+        ]
+      },
+      {
+        "before": "2M credits per month",
+        "after": "1.8M credits per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2M",
+            "after": "1.8M"
+          }
+        ]
+      },
+      {
+        "before": "$1,320 per month",
+        "after": "$990 per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1,320",
+            "after": "$990"
+          }
+        ]
+      },
+      {
+        "before": "11M credits per month",
+        "after": "6M credits per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "11M",
+            "after": "6M"
+          }
+        ]
+      },
+      {
+        "before": "5 seats",
+        "after": "10 seats",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "5",
+            "after": "10"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "~ $0.36",
+      "~ $0.20",
+      "~ $0.17",
+      "~ $0.17",
+      "~ $0.17",
+      "~ $0.36",
+      "~ $0.20",
+      "~ $0.17",
+      "~ $0.17",
+      "~ $0.17"
+    ],
+    "removed": [
+      "~ $0.30",
+      "~ $0.24",
+      "~ $0.12",
+      "~ $0.15",
+      "~ $0.12",
+      "~ $0.09",
+      "~ $0.06",
+      "Build intelligent, real-time conversational AI agents into your new product or startup for free with an ElevenLabs Grant.",
+      "12 Months free",
+      "33M Characters",
+      "Yes. There is a maximum number of credits that can be used in a single generation request. The limit depends on whether you are on the Free tier or a paid subscription.",
+      "Credits are charged per generation request, not per download. If you are not satisfied with the output, a limited number of free regenerations may be available as long as the content and certain settings do not change. Whether a regeneration is free is indicated before generating.",
+      "You can cancel your subscription at any time. Your subscription will remain active until the end of your current billing cycle, after which it will not renew and your account will be downgraded to the Free plan.",
+      "~ $0.30",
+      "~ $0.24",
+      "~ $0.12",
+      "~ $0.15",
+      "~ $0.12",
+      "~ $0.09",
+      "~ $0.06",
+      "Build intelligent, real-time conversational AI agents into your new product or startup for free with an ElevenLabs Grant.",
+      "12 Months free",
+      "33M Characters",
+      "Yes. There is a maximum number of credits that can be used in a single generation request. The limit depends on whether you are on the Free tier or a paid subscription.",
+      "Credits are charged per generation request, not per download. If you are not satisfied with the output, a limited number of free regenerations may be available as long as the content and certain settings do not change. Whether a regeneration is free is indicated before generating.",
+      "You can cancel your subscription at any time. Your subscription will remain active until the end of your current billing cycle, after which it will not renew and your account will be downgraded to the Free plan."
+    ],
+    "totals": {
+      "removed": 145,
+      "added": 47,
+      "materialRemoved": 42,
+      "materialAdded": 26
+    }
+  },
+  {
+    "id": "elevenlabs-io-pricing-20260608114443",
+    "url": "https://elevenlabs.io/pricing",
+    "ts": "20260608114443",
+    "date": "2026-06-08",
+    "source": "wayback",
+    "prevTs": "20260501175701",
+    "kind": "price",
+    "score": 59,
+    "counts": {
+      "price": 13,
+      "limit": 6,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "ElevenLabs: 13 prices, 6 limits, 4 plan names changed (removed “$0 per month”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Free",
+      "$0 per month",
+      "Build for free",
+      "3 Projects in Studio",
+      "10k credits per month",
+      "$6 per month",
+      "Everything in free, plus",
+      "20 Projects in Studio",
+      "30k credits per month",
+      "$22 First month 50% off",
+      "$11 per month",
+      "121k credits per month",
+      "$99 per month",
+      "600k credits per month",
+      "$299 per month",
+      "1.8M credits per month",
+      "3 seats",
+      "$990 per month",
+      "6M credits per month",
+      "10 seats",
+      "Build intelligent, real-time conversational AI agents into your new product or startup for free with an ElevenLabs Grant.",
+      "12 Months free",
+      "33M Characters",
+      "Free",
+      "Free",
+      "~ $0.36",
+      "~ $0.20",
+      "~ $0.18",
+      "~ $0.17",
+      "~ $0.17",
+      "~ $0.17",
+      "Yes. There is a maximum number of credits that can be used in a single generation request. The limit depends on whether you are on the Free tier or a paid subscription.",
+      "Credits are charged per generation request, not per download. If you are not satisfied with the output, a limited number of free regenerations may be available as long as the content and certain settings do not change. Whether a regeneration is free is indicated before generating.",
+      "You can cancel your subscription at any time. Your subscription will remain active until the end of your current billing cycle, after which it will not renew and your account will be downgraded to the Free plan."
+    ],
+    "totals": {
+      "removed": 148,
+      "added": 2,
+      "materialRemoved": 34,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "elevenlabs-io-pricing-20260704140043",
+    "url": "https://elevenlabs.io/pricing",
+    "ts": "20260704140043",
+    "date": "2026-07-04",
+    "source": "wayback",
+    "prevTs": "20260608114443",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "ElevenLabs: 1 price changed (added “Yes. Annual billing works out to two months f…”)",
+    "pairs": [],
+    "added": [
+      "Yes. Annual billing works out to two months free — you pay for 10 months (annual price = monthly price × 10). The equivalent monthly price on an annual plan is $5 for Starter, $18.33 for Creator, $82.50 for Pro, $249.17 for Scale, and $825 for Business."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 10,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "elevenlabs-io-pricing-20260802100530",
+    "url": "https://elevenlabs.io/pricing",
+    "ts": "20260802100530",
+    "date": "2026-08-02",
+    "source": "wayback",
+    "prevTs": "20260704140043",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "ElevenLabs: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Each text character you generate consumes credits, with the exact cost depending on the model used. For V2 Multilingual models, 1 text character equals 1 credit. For V2 Flash/Turbo English and V2.5 Flash/Turbo Multilingual models, discounted pricing applies for API usage, costing between 0.5 and 1 credit per character."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 15,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "elevenlabs-io-pricing-20260902202107",
+    "url": "https://elevenlabs.io/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260802100530",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "ElevenLabs: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 13,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

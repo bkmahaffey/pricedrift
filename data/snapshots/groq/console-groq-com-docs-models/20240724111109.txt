@@ -1,0 +1,90 @@
+0.0.2
+Documentation
+Get Started
+Quickstart
+Models
+Errors
+Changelog
+Examples and Demos
+Examples
+Showcase Applications
+Features
+Chat Completions
+OpenAI Compatibility
+Speech to Text
+Tool Use
+Integrations
+Groq Libraries
+Vercel AI SDK
+LangChain
+LlamaIndex
+Accounts
+API Keys
+Rate Limits
+Legal
+Policies & Notices
+Supported Models
+GroqCloud currently supports the following models:
+Llama 3.1 405B (Preview)
+Model ID: llama-3.1-405b-reasoning
+Developer: Meta
+Context Window: 131,072 tokens
+Model Card
+Llama 3.1 70B (Preview)
+Model ID: llama-3.1-70b-versatile
+Developer: Meta
+Context Window: 131,072 tokens
+Model Card
+Llama 3.1 8B (Preview)
+Model ID: llama-3.1-8b-instant
+Developer: Meta
+Context Window: 131,072 tokens
+Model Card
+Early API access to Llama 3.1 405B is currently only available to paying customers - stay tuned for general availability. During preview launch, we are limiting all 3.1 models to max_tokens of 8k and 405b to 16k input tokens.
+Llama 3 Groq 70B Tool Use (Preview)
+Model ID: llama3-groq-70b-8192-tool-use-preview
+Developer: Groq
+Context Window: 8,192 tokens
+Model Card
+Llama 3 Groq 8B Tool Use (Preview)
+Model ID: llama3-groq-8b-8192-tool-use-preview
+Developer: Groq
+Context Window: 8,192 tokens
+Model Card
+Meta Llama 3 70B
+Model ID: llama3-70b-8192
+Developer: Meta
+Context Window: 8,192 tokens
+Model Card
+Meta Llama 3 8B
+Model ID: llama3-8b-8192
+Developer: Meta
+Context Window: 8,192 tokens
+Model Card
+Mixtral 8x7B
+Model ID: mixtral-8x7b-32768
+Developer: Mistral
+Context Window: 32,768 tokens
+Model Card
+Gemma 7B
+Model ID: gemma-7b-it
+Developer: Google
+Context Window: 8,192 tokens
+Model Card
+Gemma 2 9B
+Model ID: gemma2-9b-it
+Developer: Google
+Context Window: 8,192 tokens
+Model Card
+Whisper
+Model ID: whisper-large-v3
+Developer: OpenAI
+File Size: 25 MB
+Model Card
+These are chat and audio type models and are directly accessible through the GroqCloud Models API endpoint using the model IDs mentioned above. You can use the https://api.groq.com/openai/v1/models endpoint to return a JSON list of all active models:
+curl
+JavaScript
+Python
+JSON
+Copy
+import requests import os api_key = os. environ. get ( "GROQ_API_KEY") url = "https://api.groq.com/openai/v1/models" headers = { "Authorization": f"Bearer { api_key } ", "Content-Type": "application/json" } response = requests. get ( url, headers = headers) print ( response. json ())

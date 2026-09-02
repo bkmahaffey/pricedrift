@@ -1,0 +1,140 @@
+Build
+Start for free - no card details needed
+Free
+Get started
+Up to 10k search requests / month
+1m records included
+AI features to test
+Grow
+Scale search flexibly in line with your needs
+Free/pay-as-you-go
+Get started
+Free up to 10k search requests / month
+$0.50 per additional 1k search requests
+Free up to 100k records
+$0.40 per additional 1k records/month
+Premium
+Enhance your search experience with AI features
+Annual plan
+Request pricing
+AI features and Keyword search
+Merchandising Studio for business users
+Volume discounts
+Elevate
+Grow further, get full AI offering
+Annual plan
+Request pricing
+Everything on 'Premium' and...
+Full AI offering including NeuralSearch
+Volume discounts
+Detailed feature comparison
+Build
+Free
+Get started
+Grow
+Free/pay-as-you-go
+Get started
+Premium
+Annual plan
+Request pricing
+Elevate
+Annual plan
+Request pricing
+AI Search
+NeuralSearch
+Keyword only
+Keyword + Semantic
+Dynamic Re-Ranking
+Query Categorization
+Personalization
+AI Synonyms
+Manual Synonyms
+1,000/index
+10,000/index
+See more
+Available with all plans: AI Recommendations
+Starting from $0.60/1,000 requests/mo. Our AI Recommendations API will enable you to refine your users’ needs, maximize the order average value, contextualize and merchandise your recommendations, and much more.
+Get started
+AI Recommendations API
+Pre-built libraries
+Trending items
+Trending facets
+Related products
+Frequently bought together
+Looking Similar
+Events Analytics (Insights API)
+90 days Analytics retention
+Recommendations Merchandising
+Personalized recommendations
+NEW: Crawler
+A fast, low-code and east way to crawl your data and index in Algolia. Simplify the data ingestion process and eliminate the need to build and maintain indexing pipeline.
+Get started
+10k free crawls per month
+Crawl HTML & non-HTML sources
+Crawl password protected pages
+Automate and schedule crawls
+Troubleshoot and monitor crawls
+Low-code solution
+Advanced config options via code editor
+Equipped with helper functions
+Available with Premium & Elevate plans: Professional Services
+Algolia offers professional services for Premium & Elevate plans.
+Request pricing
+Algolia Blueprint
+Algolia Kickstart
+Algolia Guided Onboarding
+Algolia Quick Start for Shopify
+Algolia Quick Start for Crawler
+Algolia Quick Start for Sending Events
+Algolia Pulse
+Algolia Advisory 25
+Algolia Platform Accelerator
+Add-ons to your Algolia subscription
+Additional paid features available with annual commit.
+Distributed Search Network
+Easily distribute your search engine on up to 17 regions worldwide
+Dedicated infrastructure & vault
+Protect your data with customizable IP restrictions and encryption at rest
+HIPAA
+Environment ready for your projects in the healthcare and wellness sector
+Extended Analytics Retention
+365 days of search analytics history
+Premier Platform Availability SLA
+Highest level 99.999% uptime guarantee
+Extended Support
+Targeted response times for support requests
+Request pricing
+Algolia pricing FAQs
+What is a search request?
+A search request is a group of one or more search operations sent in a single exchange. Search operations are triggered when a search is performed. In autocomplete and search-as-you-type implementations, a new search request is performed on every keystroke.
+In past Algolia plans, a single search would be counted per active search index. So Algolia would count a single search applied to 3 active indexes as 3 search “operations”. With the current pricing, in this example Algolia would count this as one search “request”. This greatly simplifies our pricing model for customers using federated search and for customers with multiple sorts (e.g. newest products, lowest cost, highest cost, etc.).
+What is a record? How do you count records?
+Simply put, a record is an item or object that contains data that someone would search (or get recommendations) for. The total number of records is equal to the sum of records that you have in all of your indices. Note that each pre-sort of your records creates a copy of the relevant pre-sorted records and as a result, increases your total record count.
+Each Search plan allows you to store a certain number of records at any given time. You can update, delete, or add as many records as you want as long as the total number of the indexed records does not exceed the inclusion of the plan. If you go over the inclusion, you’ll be charged an over-quota based on the maximum number of records you’ve reached. Depending on your plan, there may be an opportunity to pre-purchase additional records at the beginning of your contract period at a discounted pr
+Note: To offer flexibility, Algolia ignores the 3 days with the most records in each month before calculating the total number of records.
+Is there a free plan?
+Yes! Algolia Build offers 1 Million Records for free, and 10,000 Requests every month for both our Search and Recommend products. It's your playground to try all things Algolia while you ‘re developing, and there’s no credit card required to get started. When you’re ready to share your project with the world, Algolia Grow also includes a generous monthly free tier worth up to $50 every month.
+Who is the Algolia Build plan intended for?
+The Algolia Build plan is your Search & Discovery playground to try Algolia’s full product offering. When you’re ready to move to production and share your project with the world, you’ll need to upgrade to Algolia Grow, which includes a generous monthly free tier to host hobby and commercial projects alike in production.
+Why does the Algolia Build plan include more free records than Grow?
+At Algolia, we believe in charging only for data in motion; data which is being searched and accessed by your end users. When you’re ready to release, upgrade to Algolia’s Grow plan to share your project with the world.
+To help you develop, test and experiment with your full data set risk-free, the Algolia Build plan permits up to 1 Million records when you’re in development, with API rate limiting and a limited number of Search Requests per month.
+Who is the Algolia Grow plan intended for?
+The Algolia Grow plan is intended for projects in production, and data which is being used by end users. Within Algolia Grow, you’ll have access to Algolia’s core Search & Discovery features to release a best-in-class experience, with room to grow. Usage above your free tier is billed in arrears at the end of each month and according to consumption. There is no upfront commitment, and you cancel anytime.
+What is the free tier of Algolia Grow?
+The Algolia Grow plan includes $51 worth of free usage every month. You’ll only be billed for usage which exceeds each product’s free tier, and only if you choose to use them:
+10,000 Search Requests (equivalent to $5 per month)
+10,000 Recommend Requests (equivalent to $6 per month)
+100,000 Records (equivalent to $40 per month)
+What is the difference between Grow & Premium?
+Premium includes AI features, expanded global hosting options, Merchandising Studio and access to professional services and add-ons. Contact our team to learn more about which plan is right for you.
+What is the difference between Premium and Elevate?
+Elevate includes Algolia NeuralSearch. It's the only search engine in the world that processes both vector and keyword results in parallel and at scale in a single API using the same index.
+Do you offer volume discounts?
+Yes. The Premium and Elevate plans include volume discounts. Contact us for a quote.
+Does Algolia require an annual contract?
+Grow is a pay-as-you-go plan, billed monthly with no contract required. Premium and Elevate require an annual contract, contact us to learn more.
+Does Algolia offer special pricing for start-ups?
+Learn more about the Algolia Startup program
+and our free offer for open source and non-profit projects
+.

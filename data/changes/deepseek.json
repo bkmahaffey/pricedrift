@@ -1,0 +1,692 @@
+[
+  {
+    "id": "api-docs-deepseek-com-quick-start-pricing-20250103234807",
+    "url": "https://api-docs.deepseek.com/quick_start/pricing",
+    "ts": "20250103234807",
+    "date": "2025-01-03",
+    "source": "wayback",
+    "prevTs": "20241107075055",
+    "kind": "price",
+    "score": 23,
+    "counts": {
+      "price": 6,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "DeepSeek API: 6 prices, 3 limits changed (removed “4K (8K Beta)”; added “$0.07/ 1M tokens (4)”)",
+    "pairs": [],
+    "added": [
+      "$0.07/ 1M tokens (4)",
+      "$0.27/ 1M tokens (4)",
+      "$1.10/ 1M tokens (4)",
+      "¥0.5 / 1M tokens (4)",
+      "¥2 / 1M tokens (4)",
+      "¥8 / 1M tokens (4)",
+      "(2) If max_tokens is not specified, the default maximum output length is 4K. Please adjust max_tokens to support longer outputs."
+    ],
+    "removed": [
+      "4K (8K Beta)",
+      "4K (8K Beta)",
+      "(2) The 8K output tokens limit of the Chat Completion API",
+      "is in Beta and requires user to set base_url=\"https://api.deepseek.com/beta\". If the base_url is not set to the Beta url, or max_tokens parameter is not set, the limit is 4K tokens."
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 8,
+      "materialRemoved": 4,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "api-docs-deepseek-com-quick-start-pricing-20250207125601",
+    "url": "https://api-docs.deepseek.com/quick_start/pricing",
+    "ts": "20250207125601",
+    "date": "2025-02-07",
+    "source": "wayback",
+    "prevTs": "20250103234807",
+    "kind": "price",
+    "score": 98,
+    "counts": {
+      "price": 30,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "DeepSeek API: 30 prices, 4 limits changed (2 → 3)",
+    "pairs": [
+      {
+        "before": "(2) If max_tokens is not specified, the default maximum output length is 4K. Please adjust max_tokens to support longer outputs.",
+        "after": "(3) If max_tokens is not specified, the default maximum output length is 4K. Please adjust max_tokens to support longer outputs.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2",
+            "after": "3"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "1M TOKENS",
+      "1M TOKENS",
+      "1M TOKENS",
+      "$0.07 (5)",
+      "$0.014",
+      "$0.27 (5)",
+      "$0.14",
+      "$1.10 (5)",
+      "$0.28",
+      "$0.14",
+      "$0.55",
+      "$2.19 (6)",
+      "1M TOKENS",
+      "1M TOKENS",
+      "1M TOKENS",
+      "¥0.5 (5)",
+      "¥0.1",
+      "¥2 (5)",
+      "¥1",
+      "¥8 (5)",
+      "¥2",
+      "¥1",
+      "¥4",
+      "¥16 (6)"
+    ],
+    "removed": [
+      "$0.07/ 1M tokens (4)",
+      "$0.014 / 1M tokens",
+      "$0.27/ 1M tokens (4)",
+      "$0.14 / 1M tokens",
+      "$1.10/ 1M tokens (4)",
+      "$0.28/1M tokens",
+      "¥0.5 / 1M tokens (4)",
+      "¥0.1 / 1M tokens",
+      "¥2 / 1M tokens (4)",
+      "¥1 / 1M tokens",
+      "¥8 / 1M tokens (4)",
+      "¥2 / 1M tokens"
+    ],
+    "totals": {
+      "removed": 21,
+      "added": 46,
+      "materialRemoved": 13,
+      "materialAdded": 25
+    }
+  },
+  {
+    "id": "api-docs-deepseek-com-quick-start-pricing-20250306121853",
+    "url": "https://api-docs.deepseek.com/quick_start/pricing",
+    "ts": "20250306121853",
+    "date": "2025-03-06",
+    "source": "wayback",
+    "prevTs": "20250207125601",
+    "kind": "price",
+    "score": 82,
+    "counts": {
+      "price": 26,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "DeepSeek API: 26 prices, 2 limits changed (removed “$0.07 (5)”; added “1M TOKENS INPUT (CACHE HIT) (4)”)",
+    "pairs": [],
+    "added": [
+      "1M TOKENS INPUT (CACHE HIT) (4)",
+      "$0.07",
+      "$0.27",
+      "1M TOKENS OUTPUT (5)",
+      "$1.10",
+      "$2.19",
+      "$0.035（50% OFF）",
+      "$0.035（75% OFF）",
+      "$0.135（50% OFF）",
+      "$0.135（75% OFF）",
+      "$0.550（50% OFF）",
+      "$0.550（75% OFF）"
+    ],
+    "removed": [
+      "$0.07 (5)",
+      "$0.014",
+      "$0.27 (5)",
+      "$1.10 (5)",
+      "$0.28",
+      "$0.14",
+      "$2.19 (6)",
+      "1M TOKENS",
+      "1M TOKENS",
+      "¥0.5 (5)",
+      "¥0.1",
+      "¥2 (5)",
+      "¥1",
+      "¥8 (5)",
+      "¥2",
+      "¥1",
+      "¥4",
+      "¥16 (6)"
+    ],
+    "totals": {
+      "removed": 46,
+      "added": 23,
+      "materialRemoved": 24,
+      "materialAdded": 18
+    }
+  },
+  {
+    "id": "api-docs-deepseek-com-quick-start-pricing-20250603053730",
+    "url": "https://api-docs.deepseek.com/quick_start/pricing",
+    "ts": "20250603053730",
+    "date": "2025-06-03",
+    "source": "wayback",
+    "prevTs": "20250306121853",
+    "kind": "limits",
+    "score": 9,
+    "counts": {
+      "price": 0,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "DeepSeek API: 5 limits changed (4 → 3; 5 → 4)",
+    "pairs": [
+      {
+        "before": "1M TOKENS INPUT (CACHE HIT) (4)",
+        "after": "1M TOKENS INPUT (CACHE HIT) (3)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4",
+            "after": "3"
+          }
+        ]
+      },
+      {
+        "before": "1M TOKENS OUTPUT (5)",
+        "after": "1M TOKENS OUTPUT (4)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "5",
+            "after": "4"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "DEFAULT: 4K",
+      "MAXIMUM: 8K",
+      "DEFAULT: 32K",
+      "MAXIMUM: 64K"
+    ],
+    "removed": [
+      "(3) If max_tokens is not specified, the default maximum output length is 4K. Please adjust max_tokens to support longer outputs."
+    ],
+    "totals": {
+      "removed": 12,
+      "added": 22,
+      "materialRemoved": 3,
+      "materialAdded": 6
+    },
+    "flap": true
+  },
+  {
+    "id": "api-docs-deepseek-com-quick-start-pricing-20250705171533",
+    "url": "https://api-docs.deepseek.com/quick_start/pricing",
+    "ts": "20250705171533",
+    "date": "2025-07-05",
+    "source": "wayback",
+    "prevTs": "20250603053730",
+    "kind": "limits",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "DeepSeek API: 3 limits changed (3 → 4; 4 → 5)",
+    "pairs": [
+      {
+        "before": "1M TOKENS INPUT (CACHE HIT) (3)",
+        "after": "1M TOKENS INPUT (CACHE HIT) (4)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3",
+            "after": "4"
+          }
+        ]
+      },
+      {
+        "before": "1M TOKENS OUTPUT (4)",
+        "after": "1M TOKENS OUTPUT (5)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4",
+            "after": "5"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "64K (2)",
+      "(2) The maximum input length for deepseek-reasoner is 64K, and the output length is not counted toward the context limit."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 9,
+      "materialRemoved": 2,
+      "materialAdded": 4
+    },
+    "flap": true
+  },
+  {
+    "id": "api-docs-deepseek-com-quick-start-pricing-20250901020532",
+    "url": "https://api-docs.deepseek.com/quick_start/pricing",
+    "ts": "20250901020532",
+    "date": "2025-09-01",
+    "source": "wayback",
+    "prevTs": "20250705171533",
+    "kind": "price",
+    "score": 45,
+    "counts": {
+      "price": 12,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "DeepSeek API: 12 prices, 5 limits changed (4 removed)",
+    "pairs": [
+      {
+        "before": "1M TOKENS INPUT (CACHE HIT) (4)",
+        "after": "1M INPUT TOKENS (CACHE HIT)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0.07",
+      "1M INPUT TOKENS (CACHE MISS)",
+      "$0.56",
+      "1M OUTPUT TOKENS",
+      "$1.68",
+      "1M OUTPUT TOKENS",
+      "$0.035",
+      "$0.135",
+      "1M OUTPUT TOKENS",
+      "$0.550"
+    ],
+    "removed": [
+      "64K (2)",
+      "1M TOKENS OUTPUT (5)",
+      "$0.035（50% OFF）",
+      "$0.035（75% OFF）",
+      "$0.135（50% OFF）",
+      "$0.135（75% OFF）",
+      "$0.550（50% OFF）",
+      "$0.550（75% OFF）",
+      "(2) The maximum input length for deepseek-reasoner is 64K, and the output length is not counted toward the context limit."
+    ],
+    "totals": {
+      "removed": 23,
+      "added": 32,
+      "materialRemoved": 14,
+      "materialAdded": 15
+    }
+  },
+  {
+    "id": "api-docs-deepseek-com-quick-start-pricing-20251004112357",
+    "url": "https://api-docs.deepseek.com/quick_start/pricing",
+    "ts": "20251004112357",
+    "date": "2025-10-04",
+    "source": "wayback",
+    "prevTs": "20250901020532",
+    "kind": "price",
+    "score": 51,
+    "counts": {
+      "price": 15,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "DeepSeek API: 15 prices, 3 limits changed (removed “$0.07”; added “$0.028”)",
+    "pairs": [],
+    "added": [
+      "$0.028",
+      "$0.28",
+      "$0.42"
+    ],
+    "removed": [
+      "$0.07",
+      "$0.56",
+      "$1.68",
+      "1M INPUT TOKENS (CACHE HIT)",
+      "$0.07",
+      "$0.14",
+      "1M INPUT TOKENS (CACHE MISS)",
+      "$0.27",
+      "$0.55",
+      "1M OUTPUT TOKENS",
+      "$1.10",
+      "$2.19",
+      "1M INPUT TOKENS (CACHE HIT)",
+      "$0.035",
+      "1M INPUT TOKENS (CACHE MISS)",
+      "$0.135",
+      "1M OUTPUT TOKENS",
+      "$0.550"
+    ],
+    "totals": {
+      "removed": 33,
+      "added": 12,
+      "materialRemoved": 18,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "api-docs-deepseek-com-quick-start-pricing-20251112001900",
+    "url": "https://api-docs.deepseek.com/quick_start/pricing",
+    "ts": "20251112001900",
+    "date": "2025-11-12",
+    "source": "wayback",
+    "prevTs": "20251004112357",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "DeepSeek API: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "api-docs-deepseek-com-quick-start-pricing-20251201114852",
+    "url": "https://api-docs.deepseek.com/quick_start/pricing",
+    "ts": "20251201114852",
+    "date": "2025-12-01",
+    "source": "wayback",
+    "prevTs": "20251112001900",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "DeepSeek API: 1 limit changed (added “DEFAULT: 128K”)",
+    "pairs": [],
+    "added": [
+      "DEFAULT: 128K",
+      "MAXIMUM: 128K"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 16,
+      "materialRemoved": 1,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "api-docs-deepseek-com-quick-start-pricing-20260101121941",
+    "url": "https://api-docs.deepseek.com/quick_start/pricing",
+    "ts": "20260101121941",
+    "date": "2026-01-01",
+    "source": "wayback",
+    "prevTs": "20251201114852",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "DeepSeek API: 1 limit changed (removed “DEFAULT: 128K”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "DEFAULT: 128K",
+      "MAXIMUM: 128K"
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 0,
+      "materialRemoved": 2,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "api-docs-deepseek-com-quick-start-pricing-20260301152905",
+    "url": "https://api-docs.deepseek.com/quick_start/pricing",
+    "ts": "20260301152905",
+    "date": "2026-03-01",
+    "source": "wayback",
+    "prevTs": "20260101121941",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "DeepSeek API: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "NOTE: The deepseek-chat and deepseek-reasoner correspond to the model version DeepSeek-V3.2 (128K context limit), which differs from the APP/WEB version."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "api-docs-deepseek-com-quick-start-pricing-20260501050639",
+    "url": "https://api-docs.deepseek.com/quick_start/pricing",
+    "ts": "20260501050639",
+    "date": "2026-05-01",
+    "source": "wayback",
+    "prevTs": "20260301152905",
+    "kind": "price",
+    "score": 29,
+    "counts": {
+      "price": 7,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "DeepSeek API: 7 prices, 4 limits changed (8K → 384K; 2 added)",
+    "pairs": [
+      {
+        "before": "MAXIMUM: 8K",
+        "after": "MAXIMUM: 384K",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8K",
+            "after": "384K"
+          }
+        ]
+      },
+      {
+        "before": "1M INPUT TOKENS (CACHE HIT)",
+        "after": "1M INPUT TOKENS (CACHE HIT) (2)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "2"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0.0028",
+      "$0.003625 (75% off (3)) $0.0145",
+      "$0.14",
+      "$0.435 (75% off (3)) $1.74",
+      "$0.87 (75% off (3)) $3.48"
+    ],
+    "removed": [
+      "NOTE: The deepseek-chat and deepseek-reasoner correspond to the model version DeepSeek-V3.2 (128K context limit), which differs from the APP/WEB version.",
+      "DEFAULT: 4K",
+      "DEFAULT: 32K",
+      "MAXIMUM: 64K",
+      "$0.028",
+      "$0.42"
+    ],
+    "totals": {
+      "removed": 18,
+      "added": 21,
+      "materialRemoved": 9,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "api-docs-deepseek-com-quick-start-pricing-20260602230941",
+    "url": "https://api-docs.deepseek.com/quick_start/pricing",
+    "ts": "20260602230941",
+    "date": "2026-06-02",
+    "source": "wayback",
+    "prevTs": "20260501050639",
+    "kind": "price",
+    "score": 20,
+    "counts": {
+      "price": 6,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "DeepSeek API: 6 prices, 1 limit changed (2 removed)",
+    "pairs": [
+      {
+        "before": "1M INPUT TOKENS (CACHE HIT) (2)",
+        "after": "1M INPUT TOKENS (CACHE HIT)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0.003625",
+      "$0.435",
+      "$0.87"
+    ],
+    "removed": [
+      "$0.003625 (75% off (3)) $0.0145",
+      "$0.435 (75% off (3)) $1.74",
+      "$0.87 (75% off (3)) $3.48"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 6,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "api-docs-deepseek-com-quick-start-pricing-20260801170952",
+    "url": "https://api-docs.deepseek.com/quick_start/pricing",
+    "ts": "20260801170952",
+    "date": "2026-08-01",
+    "source": "wayback",
+    "prevTs": "20260602230941",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "DeepSeek API: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 12,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "api-docs-deepseek-com-quick-start-pricing-20260902202107",
+    "url": "https://api-docs.deepseek.com/quick_start/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "browser",
+    "prevTs": "20260801170952",
+    "kind": "price",
+    "score": 72,
+    "counts": {
+      "price": 24,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "DeepSeek API: 24 prices changed (removed “$0.0028”; added “$0.007”)",
+    "pairs": [],
+    "added": [
+      "$0.007",
+      "$0.022",
+      "$0.007",
+      "$0.014",
+      "$0.044",
+      "$0.014",
+      "$0.22",
+      "$0.66",
+      "$0.22",
+      "$0.44",
+      "$1.32",
+      "$0.44",
+      "$0.66",
+      "$1.98",
+      "$0.66",
+      "$1.32",
+      "$3.96",
+      "$1.32"
+    ],
+    "removed": [
+      "$0.0028",
+      "$0.003625",
+      "$0.14",
+      "$0.435",
+      "$0.28",
+      "$0.87"
+    ],
+    "totals": {
+      "removed": 13,
+      "added": 35,
+      "materialRemoved": 8,
+      "materialAdded": 20
+    },
+    "transition": true
+  }
+]

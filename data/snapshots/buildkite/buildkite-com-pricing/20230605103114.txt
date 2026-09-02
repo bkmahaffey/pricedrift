@@ -1,0 +1,212 @@
+New Enterprise-grade CI/CD for everyone. See the latest release
+Blog
+Support
+Pricing: Get Started for Free
+All plans include unlimited concurrency
+Developer Free up to 3 users
+5k Job minutes/month
+100k Test executions/month
+Get started free
+Team $ 9 /user per month
+20k Job minutes/month + 5k per user
+250k Test executions/month + 50k per user
+Business $ 19 /user per month
+40k Job minutes/month + 12.5k per user
+500k Test executions/month + 50k per user
+Start business trial
+Enterprise $ 35 /user per month (minimum 30 users)
+100k Job minutes/month + 25k per user
+1M Test executions/month + 50k per user
+Contact sales
+Open source
+Buildkite is free for open source projects. Sign up for our Developer plan, if you need additional usage or inclusions, contact us
+and we’ll be happy to help.
+Non-profits & charities
+We offer heavy discounts for non-profit and charity organizations using Buildkite. Contact us
+to see how we can help you.
+Plan comparison
+Developer
+Team
+Business
+Enterprise
+Price
+Free
+$ 9 /user
+per month
+$ 19 /user
+per month
+$ 35 /user
+per month
+Job minutes
+5k/month
+20k/month + 5k per user
+40k/month + 12.5k per user
+100k/month + 25k per user
+Test Executions
+100k/month
+250k/month + 50k per user
+500k/month + 50k per user
+1M/month + 50k per user
+User limit
+Maximum 3
+Unlimited
+Minimum 30
+Build retention
+90 days
+1 year
+Single sign on
+✓
+Teams permissions
+✓
+GitHub Enterprise support
+✓
+Bitbucket Server support
+✓
+Job Retries report
+✓
+Priority email support
+✓
+Member permissions
+✓
+SCIM, custom SAML & ADFS
+✓
+Historical build exports
+✓
+Private log storage
+✓
+Audit logging
+✓
+API access audit
+✓
+User activity audit
+✓
+Invoice payment
+✓
+Consolidated billing
+✓
+Plan comparison
+Developer
+Price
+Free
+Job minutes
+5k/month
+Test executions
+100k/month
+User limit
+Maximum 3
+Build retention
+90 days
+Single sign on
+✓
+Team
+Price
+$ 9 /user
+per month
+Job minutes
+20k/month + 5k per user
+Test executions
+250k/month + 50k per user
+User limit
+Unlimited
+Build retention
+1 year
+Single sign on
+✓
+Business
+Price
+$ 19 /user
+per month
+Job minutes
+40k/month + 12.5k per user
+Test executions
+500k/month + 50k per user
+User limit
+Unlimited
+Build retention
+1 year
+Single sign on
+✓
+Teams permissions
+✓
+GitHub Enterprise support
+✓
+Bitbucket Server support
+✓
+Job Retries report
+✓
+Priority email support
+✓
+Member permissions
+✓
+Enterprise
+Price
+$ 35 /user
+per month
+Job minutes
+100k/month + 25k per user
+Test executions
+1M/month + 50k per user
+User limit
+Minimum 30
+Build retention
+1 year
+Single sign on
+✓
+Teams permissions
+✓
+GitHub Enterprise support
+✓
+Bitbucket Server support
+✓
+Job Retries report
+✓
+Priority email support
+✓
+Member permissions
+✓
+SCIM, custom SAML & ADFS
+✓
+Historical build exports
+✓
+Private log storage
+✓
+Audit logging
+✓
+API access audit
+✓
+User activity audit
+✓
+Invoice payment
+✓
+Consolidated billing
+✓
+Enterprise Premium Support: Prioritize your support needs
+Our enterprise plan options are available for companies that require the highest level of features and support.
+Speak with our team →
+Premium Support inclusions
+24/7 on-call emergencies
+Quarterly roadmap review
+99.95% Uptime SLA
+Technical Account Manager
+And more...
+Frequently Asked Questions
+What is an agent?
+A build agent runs on your infrastructure, and runs one build job at a time. You can run as many agents as you want, in the same or separate queues, and Buildkite will coordinate the work between them. Agents can be securely and reliably deployed across different networks and environments.
+How are job minutes calculated?
+Job minutes are calculated per-second, starting from when an agent starts running a command step until the step completes. They are calculated the same way regardless of the CPU or memory on the agent running the job, so you can run powerful agents at no extra cost. Each paid user includes additional job minutes for the entire organization. You can see your total daily job minutes on your organization’s Usage page.
+Will I be charged for artifact storage?
+Build artifact storage is free of charge, and build artifacts are retained for six months.
+What happens after I sign up?
+When you sign up, you start on a 30-day trial of the Business plan. After 30 days, you’ll be automatically switched to a Free account. You can also upgrade or switch plans at any time on your billing page.
+How are test executions tracked?
+Every time a test is run within your suite, its result is recorded as a test execution for further investigation and analysis. You can see your total count for test executions on your Usage page. Test executions are tracked in the same way regardless of the time they take to complete, or any annotations, so you can include as much detail as needed.
+How much do you charge for parallelism?
+There is no extra charge for running builds in parallel, or parallelism within a build (such as parallelizing tests across 100 jobs). For example, distributing a one hour test suite into 60 one-minute-long parallel jobs costs the same as running a single one hour job.
+Will I be charged for log retention?
+Job logs are retained for 30 days on the Developer plan, and can be retained indefinitely on Enterprise plans.
+Can existing customers switch to the new plans?
+If you’d like to discuss transitioning to the new pricing plans, or have any questions at all, please email support@buildkite.com
+or talk to your Enterprise Customer Success Manager.
+Have a question?
+Contact our friendly team and get a prompt answer!
+Contact us

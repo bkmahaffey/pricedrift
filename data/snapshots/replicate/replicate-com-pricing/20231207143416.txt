@@ -1,0 +1,76 @@
+Pricing
+You only pay for what you use on Replicate, billed by the second. When you don’t run anything, it scales to zero and you don’t pay a thing.
+Hardware
+Price
+GPU
+CPU
+GPU RAM
+RAM
+CPU
+$0.000100/sec
+($0.36/hr)
+-
+4x
+-
+8GB
+Nvidia T4 GPU
+$0.000225/sec
+($0.81/hr)
+1x
+4x
+16GB
+8GB
+Nvidia A40 GPU
+$0.000575/sec
+($2.07/hr)
+1x
+4x
+48GB
+16GB
+Nvidia A40 (Large) GPU
+$0.000725/sec
+($2.61/hr)
+1x
+10x
+48GB
+72GB
+Nvidia A100 (40GB) GPU
+$0.001150/sec
+($4.14/hr)
+1x
+10x
+40GB
+72GB
+Nvidia A100 (80GB) GPU
+$0.001400/sec
+($5.04/hr)
+1x
+10x
+80GB
+144GB
+8x Nvidia A40 (Large) GPU
+$0.005800/sec
+($20.88/hr)
+8x
+48x
+8x 48GB
+680GB
+If you’re new to Replicate, you can try us out for free, but eventually you’ll need to enter a credit card.
+Public models
+Thousands of open-source machine learning models have been contributed by our community and more are added every day. When running or training one of these models, you only pay for time it takes to process your request.
+Each model runs on different hardware and takes a different amount of time to run. You’ll find estimates for how much they cost under "Run time and cost" on the model’s page. For example, for stability-ai/sdxl
+:
+This model costs approximately $0.012 to run on Replicate, but this varies depending on your inputs.
+Predictions run on Nvidia A40 (Large) GPU hardware, which costs $0.000725 per second. Predictions typically complete within 17 seconds.
+Private models
+You aren’t limited to the public models on Replicate: you can deploy your own custom models using Cog
+our open-source tool for packaging machine learning models.
+We automatically generate an API server for your model and deploy it on a big cluster of GPUs. If you get a ton of traffic, we automatically scale to handle the demand. If you don’t get any traffic, we scale down to zero and don’t charge you a thing.
+Unlike public models, you’ll pay for boot and idle time in addition to the time it spends processing your requests.
+Learn more
+For a deeper dive, check out how billing works on Replicate
+.
+🚀 Ready to use Replicate for real?
+Explore models to run
+or learn how to deploy a custom model
+.

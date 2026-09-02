@@ -1,0 +1,2229 @@
+[
+  {
+    "id": "console-groq-com-docs-models-20240525054609",
+    "url": "https://console.groq.com/docs/models",
+    "ts": "20240525054609",
+    "date": "2024-05-25",
+    "source": "wayback",
+    "prevTs": "20240301024447",
+    "kind": "limits",
+    "score": 14,
+    "counts": {
+      "price": 0,
+      "limit": 7,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 7 limits changed (2 → 3; 4,096 → 8,192)",
+    "pairs": [
+      {
+        "before": "LLaMA2-70b",
+        "after": "LLaMA3 8b",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2",
+            "after": "3"
+          },
+          {
+            "before": "70b",
+            "after": "8b"
+          }
+        ]
+      },
+      {
+        "before": "Context Window: 4,096 tokens",
+        "after": "Context Window: 8,192 tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4,096",
+            "after": "8,192"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Model ID: llama3-8b-8192",
+      "LLaMA3 70b",
+      "Model ID: llama3-70b-8192",
+      "Context Window: 8,192 tokens",
+      "Gemma 7b",
+      "Model ID: gemma-7b-it",
+      "Context Window: 8,192 tokens",
+      "File Size: 25 MB"
+    ],
+    "removed": [
+      "Model Name: LLaMA2-70b-chat",
+      "API String: llama2-70b-4096"
+    ],
+    "totals": {
+      "removed": 9,
+      "added": 33,
+      "materialRemoved": 4,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "console-groq-com-docs-models-20240724111109",
+    "url": "https://console.groq.com/docs/models",
+    "ts": "20240724111109",
+    "date": "2024-07-24",
+    "source": "wayback",
+    "prevTs": "20240525054609",
+    "kind": "limits",
+    "score": 19,
+    "counts": {
+      "price": 0,
+      "limit": 10,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 10 limits changed (added “Llama 3.1 405B (Preview)”)",
+    "pairs": [],
+    "added": [
+      "Llama 3.1 405B (Preview)",
+      "Model ID: llama-3.1-405b-reasoning",
+      "Context Window: 131,072 tokens",
+      "Llama 3.1 70B (Preview)",
+      "Model ID: llama-3.1-70b-versatile",
+      "Context Window: 131,072 tokens",
+      "Llama 3.1 8B (Preview)",
+      "Model ID: llama-3.1-8b-instant",
+      "Context Window: 131,072 tokens",
+      "Early API access to Llama 3.1 405B is currently only available to paying customers - stay tuned for general availability. During preview launch, we are limiting all 3.1 models to max_tokens of 8k and 405b to 16k input tokens.",
+      "Model ID: llama3-groq-70b-8192-tool-use-preview",
+      "Model ID: llama3-groq-8b-8192-tool-use-preview",
+      "Context Window: 8,192 tokens",
+      "Meta Llama 3 70B",
+      "Meta Llama 3 8B",
+      "Context Window: 8,192 tokens",
+      "Gemma 2 9B",
+      "Model ID: gemma2-9b-it",
+      "Context Window: 8,192 tokens"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 37,
+      "materialRemoved": 4,
+      "materialAdded": 23
+    }
+  },
+  {
+    "id": "console-groq-com-docs-models-20240907072510",
+    "url": "https://console.groq.com/docs/models",
+    "ts": "20240907072510",
+    "date": "2024-09-07",
+    "source": "wayback",
+    "prevTs": "20240724111109",
+    "kind": "limits",
+    "score": 13,
+    "counts": {
+      "price": 0,
+      "limit": 7,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 7 limits changed (8,192 → 4,096; 131,072 → 8,192)",
+    "pairs": [
+      {
+        "before": "Context Window: 8,192 tokens",
+        "after": "Context Window: 4,096 tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8,192",
+            "after": "4,096"
+          }
+        ]
+      },
+      {
+        "before": "Context Window: 131,072 tokens",
+        "after": "Context Window: 8,192 tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "131,072",
+            "after": "8,192"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Max File Size: 25 MB",
+      "Context Window: 8,192 tokens",
+      "During preview launch, we are limiting 3.1 models to max_tokens of 8k.",
+      "Llama Guard 3 8B",
+      "Model ID: llama-guard-3-8b",
+      "LLaVA 1.5 7B",
+      "Model ID: llava-v1.5-7b-4096-preview"
+    ],
+    "removed": [
+      "Model ID: llama-3.1-405b-reasoning",
+      "Early API access to Llama 3.1 405B is currently only available to paying customers - stay tuned for general availability. During preview launch, we are limiting all 3.1 models to max_tokens of 8k and 405b to 16k input tokens."
+    ],
+    "totals": {
+      "removed": 23,
+      "added": 39,
+      "materialRemoved": 15,
+      "materialAdded": 20
+    }
+  },
+  {
+    "id": "console-groq-com-docs-models-20241201162200",
+    "url": "https://console.groq.com/docs/models",
+    "ts": "20241201162200",
+    "date": "2024-12-01",
+    "source": "wayback",
+    "prevTs": "20240907072510",
+    "kind": "limits",
+    "score": 35,
+    "counts": {
+      "price": 0,
+      "limit": 18,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 18 limits changed (3.1 → 3.2; 3.1 → 3.2)",
+    "pairs": [
+      {
+        "before": "Llama 3.1 70B (Preview)",
+        "after": "llama-3.2-1b-preview",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3.1",
+            "after": "3.2"
+          },
+          {
+            "before": "70B",
+            "after": "1b"
+          }
+        ]
+      },
+      {
+        "before": "Llama 3.1 8B (Preview)",
+        "after": "llama-3.2-3b-preview",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3.1",
+            "after": "3.2"
+          },
+          {
+            "before": "8B",
+            "after": "3b"
+          }
+        ]
+      },
+      {
+        "before": "Llama 3 Groq 70B Tool Use (Preview)",
+        "after": "llama3-groq-70b-8192-tool-use-preview",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": null,
+            "after": "8192"
+          }
+        ]
+      },
+      {
+        "before": "Model ID: llama3-groq-70b-8192-tool-use-preview",
+        "after": "llama3-groq-8b-8192-tool-use-preview",
+        "confidence": 0.83,
+        "deltas": [
+          {
+            "before": "70b",
+            "after": "8b"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "llama-3.1-70b-specdec",
+      "llama-3.2-11b-vision-preview",
+      "llama-3.2-90b-vision-preview",
+      "25 MB",
+      "Note: Models with a context window of 128K tokens are currently limited to 8,192 max tokens in preview. Models without a context window or max tokens are denoted with a dash (\"-\")."
+    ],
+    "removed": [
+      "Model ID: gemma2-9b-it",
+      "Context Window: 8,192 tokens",
+      "Model ID: gemma-7b-it",
+      "Context Window: 8,192 tokens",
+      "Context Window: 8,192 tokens",
+      "Llama 3 Groq 8B Tool Use (Preview)",
+      "Context Window: 8,192 tokens",
+      "Llama 3.1 405B",
+      "Context Window: 131,072 tokens",
+      "Context Window: 131,072 tokens",
+      "During preview launch, we are limiting 3.1 models to max_tokens of 8k.",
+      "Model ID: llama-guard-3-8b",
+      "Context Window: 8,192 tokens",
+      "LLaVA 1.5 7B",
+      "Model ID: llava-v1.5-7b-4096-preview",
+      "Context Window: 4,096 tokens",
+      "Meta Llama 3 70B",
+      "Context Window: 8,192 tokens",
+      "Meta Llama 3 8B",
+      "Model ID: llama3-8b-8192",
+      "Context Window: 8,192 tokens",
+      "Context Window: 32,768 tokens"
+    ],
+    "totals": {
+      "removed": 75,
+      "added": 97,
+      "materialRemoved": 35,
+      "materialAdded": 18
+    }
+  },
+  {
+    "id": "groq-com-pricing-20241204172635",
+    "url": "https://groq.com/pricing",
+    "ts": "20241204172635",
+    "date": "2024-12-04",
+    "source": "wayback",
+    "prevTs": "20240901121211",
+    "kind": "price",
+    "score": 50,
+    "counts": {
+      "price": 15,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 15 prices, 3 limits changed (added “Llama 3.2 1B (Preview) 8k”)",
+    "pairs": [],
+    "added": [
+      "Llama 3.2 1B (Preview) 8k",
+      "$0.04",
+      "(25M / $1)*",
+      "$0.04",
+      "(25M / $1)*",
+      "Llama 3.2 3B (Preview) 8k",
+      "$0.06",
+      "(17M / $1)*",
+      "$0.06",
+      "(17M / $1)*",
+      "Llama 3.1 70B Speculative Decoding 8k",
+      "$0.59",
+      "(1.69M / $1)*",
+      "$0.99",
+      "(1.01M / $1)*",
+      "$0.04*",
+      "Llama 3.2 11B Vision 8k (Preview)",
+      "$0.18",
+      "Llama 3.2 90B Vision 8k (Preview)",
+      "$0.90"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 33,
+      "materialRemoved": 4,
+      "materialAdded": 24
+    }
+  },
+  {
+    "id": "console-groq-com-docs-models-20250104081216",
+    "url": "https://console.groq.com/docs/models",
+    "ts": "20250104081216",
+    "date": "2025-01-04",
+    "source": "wayback",
+    "prevTs": "20241201162200",
+    "kind": "limits",
+    "score": 7,
+    "counts": {
+      "price": 0,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 4 limits changed (3.1 → 3.3; 3.1 → 3.3)",
+    "pairs": [
+      {
+        "before": "llama-3.1-70b-versatile",
+        "after": "llama-3.3-70b-versatile",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3.1",
+            "after": "3.3"
+          }
+        ]
+      },
+      {
+        "before": "llama-3.1-70b-specdec",
+        "after": "llama-3.3-70b-specdec",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3.1",
+            "after": "3.3"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "llama-3.1-70b-versatile (DEPRECATED)",
+      "llama-3.1-70b-specdec"
+    ],
+    "removed": [
+      "Note: Models with a context window of 128K tokens are currently limited to 8,192 max tokens in preview. Models without a context window or max tokens are denoted with a dash (\"-\")."
+    ],
+    "totals": {
+      "removed": 39,
+      "added": 60,
+      "materialRemoved": 16,
+      "materialAdded": 17
+    }
+  },
+  {
+    "id": "groq-com-pricing-20250111170501",
+    "url": "https://groq.com/pricing",
+    "ts": "20250111170501",
+    "date": "2025-01-11",
+    "source": "wayback",
+    "prevTs": "20241204172635",
+    "kind": "limits",
+    "score": 5,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 3 limits changed (3.1 → 3.3)",
+    "pairs": [
+      {
+        "before": "Llama 3.1 70B Versatile 128k",
+        "after": "Llama 3.3 70B Versatile 128k",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3.1",
+            "after": "3.3"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Llama 3.3 70B SpecDec 8k",
+      "*For vision models, images are billed at 6,400 tokens per image."
+    ],
+    "removed": [
+      "Llama 3.1 70B Speculative Decoding 8k"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 5,
+      "materialRemoved": 4,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "groq-com-pricing-20250204174247",
+    "url": "https://groq.com/pricing",
+    "ts": "20250204174247",
+    "date": "2025-02-04",
+    "source": "wayback",
+    "prevTs": "20250111170501",
+    "kind": "price",
+    "score": 39,
+    "counts": {
+      "price": 12,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 12 prices, 2 limits changed (removed “Gemma 7B 8k Instruct”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Gemma 7B 8k Instruct",
+      "$0.07",
+      "(14.29M / $1)*",
+      "$0.07",
+      "(14.29M / $1)*",
+      "Llama 3 Groq 70B Tool Use Preview 8k",
+      "$0.89",
+      "(1.12M / $1)*",
+      "$0.89",
+      "(1.12M / $1)*",
+      "Llama 3 Groq 8B Tool Use Preview 8k",
+      "$0.19",
+      "(5.26M / $1)*",
+      "$0.19",
+      "(5.26M / $1)*"
+    ],
+    "totals": {
+      "removed": 22,
+      "added": 34,
+      "materialRemoved": 15,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "console-groq-com-docs-models-20250204225711",
+    "url": "https://console.groq.com/docs/models",
+    "ts": "20250204225711",
+    "date": "2025-02-04",
+    "source": "wayback",
+    "prevTs": "20250104081216",
+    "kind": "limits",
+    "score": 7,
+    "counts": {
+      "price": 0,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 4 limits changed (removed “gemma-7b-it (DEPRECATED)”; added “deepseek-r1-distill-llama-70b-specdec”)",
+    "pairs": [],
+    "added": [
+      "deepseek-r1-distill-llama-70b-specdec",
+      "deepseek-r1-distill-llama-70b"
+    ],
+    "removed": [
+      "gemma-7b-it (DEPRECATED)",
+      "llama-3.1-70b-versatile (DEPRECATED)",
+      "llama3-groq-70b-8192-tool-use-preview (DEPRECATED)",
+      "llama3-groq-8b-8192-tool-use-preview (DEPRECATED)",
+      "llama-3.1-70b-specdec"
+    ],
+    "totals": {
+      "removed": 32,
+      "added": 20,
+      "materialRemoved": 5,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "console-groq-com-docs-rate-limits-20250206191620",
+    "url": "https://console.groq.com/docs/rate-limits",
+    "ts": "20250206191620",
+    "date": "2025-02-06",
+    "source": "wayback",
+    "prevTs": "20250127085451",
+    "kind": "limits",
+    "score": 15,
+    "counts": {
+      "price": 0,
+      "limit": 7,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Groq: 7 limits, 1 plan name changed (added “Example: Let's say your RPM = 50 and your TPM…”)",
+    "pairs": [],
+    "added": [
+      "Example: Let's say your RPM = 50 and your TPM = 200K. If you were to send 50 requests with only 100 tokens within a minute, you would reach your limit even though you did not send 200K tokens within those 50 requests.",
+      "Free Tier",
+      "deepseek-r1-distill-llama-70b",
+      "llama-3.3-70b-versatile",
+      "llama-3.3-70b-specdec",
+      "llama-3.2-1b-preview",
+      "llama-3.2-3b-preview",
+      "llama-3.1-8b-instant",
+      "llama3-70b-8192",
+      "llama3-8b-8192",
+      "llama-guard-3-8b",
+      "gemma2-9b-it",
+      "llama-3.2-11b-vision-preview",
+      "llama-3.2-90b-vision-preview"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 17,
+      "added": 72,
+      "materialRemoved": 0,
+      "materialAdded": 14
+    }
+  },
+  {
+    "id": "console-groq-com-docs-models-20250305060112",
+    "url": "https://console.groq.com/docs/models",
+    "ts": "20250305060112",
+    "date": "2025-03-05",
+    "source": "wayback",
+    "prevTs": "20250204225711",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 2 limits changed (added “mistral-saba-24b”)",
+    "pairs": [],
+    "added": [
+      "mistral-saba-24b",
+      "qwen-2.5-coder-32b",
+      "qwen-2.5-32b",
+      "deepseek-r1-distill-qwen-32b"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 40,
+      "added": 18,
+      "materialRemoved": 0,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "console-groq-com-docs-rate-limits-20250311004040",
+    "url": "https://console.groq.com/docs/rate-limits",
+    "ts": "20250311004040",
+    "date": "2025-03-11",
+    "source": "wayback",
+    "prevTs": "20250206191620",
+    "kind": "limits",
+    "score": 5,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 3 limits changed (added “deepseek-r1-distill-qwen-32b”)",
+    "pairs": [],
+    "added": [
+      "deepseek-r1-distill-qwen-32b",
+      "mistral-saba-24b",
+      "qwen-2.5-32b",
+      "qwen-2.5-coder-32b",
+      "qwen-qwq-32b"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 56,
+      "added": 22,
+      "materialRemoved": 8,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "groq-com-pricing-20250311055709",
+    "url": "https://groq.com/pricing",
+    "ts": "20250311055709",
+    "date": "2025-03-11",
+    "source": "wayback",
+    "prevTs": "20250204174247",
+    "kind": "price",
+    "score": 78,
+    "counts": {
+      "price": 24,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 24 prices, 3 limits changed (added “DeepSeek R1 Distill Llama 70B”)",
+    "pairs": [],
+    "added": [
+      "DeepSeek R1 Distill Llama 70B",
+      "$0.75",
+      "(1.33M / $1)*",
+      "$0.99",
+      "(1.01M / $1)*",
+      "DeepSeek R1 Distill Qwen 32B 128k",
+      "$0.69",
+      "(1.45M / $1)*",
+      "$0.69",
+      "(1.45M / $1)*",
+      "Qwen 2.5 32B Instruct 128k",
+      "$0.79",
+      "(1.27M / $1)*",
+      "$0.79",
+      "(1.27M / $1)*",
+      "Qwen 2.5 Coder 32B Instruct 128k",
+      "$0.79",
+      "(1.27M / $1)*",
+      "$0.79",
+      "(1.27M / $1)*",
+      "Qwen QwQ 32B (Preview) 128k",
+      "$0.29",
+      "(3.44M / $1)*",
+      "$0.39",
+      "(2.56M / $1)*",
+      "Mistral Saba 24B",
+      "$0.79",
+      "(1.27M / $1)*",
+      "$0.79",
+      "(1.27M / $1)*"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 41,
+      "materialRemoved": 0,
+      "materialAdded": 30
+    }
+  },
+  {
+    "id": "groq-com-pricing-20250405230317",
+    "url": "https://groq.com/pricing",
+    "ts": "20250405230317",
+    "date": "2025-04-05",
+    "source": "wayback",
+    "prevTs": "20250311055709",
+    "kind": "price",
+    "score": 40,
+    "counts": {
+      "price": 13,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 13 prices, 1 limit changed (removed “Mixtral 8x7B Instruct 32k”; added “$0.11”)",
+    "pairs": [],
+    "added": [
+      "$0.11",
+      "(9.09M / $1)*",
+      "$0.34",
+      "(2.94M / $1)*",
+      "$0.50",
+      "(2M / $1)*",
+      "$0.77",
+      "(1.3M / $1)*",
+      "$50.00"
+    ],
+    "removed": [
+      "Mixtral 8x7B Instruct 32k",
+      "$0.24",
+      "(4.17M / $1)*",
+      "$0.24",
+      "(4.17M / $1)*"
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 24,
+      "materialRemoved": 5,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "console-groq-com-docs-models-20250407115718",
+    "url": "https://console.groq.com/docs/models",
+    "ts": "20250407115718",
+    "date": "2025-04-07",
+    "source": "wayback",
+    "prevTs": "20250305060112",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 2 limits changed (removed “deepseek-r1-distill-llama-70b-specdec”; added “meta-llama/llama-4-scout-17b-16e-instruct”)",
+    "pairs": [],
+    "added": [
+      "meta-llama/llama-4-scout-17b-16e-instruct",
+      "meta-llama/llama-4-maverick-17b-128e-instruct",
+      "qwen-qwq-32b"
+    ],
+    "removed": [
+      "deepseek-r1-distill-llama-70b-specdec"
+    ],
+    "totals": {
+      "removed": 13,
+      "added": 25,
+      "materialRemoved": 1,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "console-groq-com-docs-rate-limits-20250410123258",
+    "url": "https://console.groq.com/docs/rate-limits",
+    "ts": "20250410123258",
+    "date": "2025-04-10",
+    "source": "wayback",
+    "prevTs": "20250311004040",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Groq: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "meta-llama/llama-4-scout-17b-16e-instruct"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 6,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "groq-com-pricing-20250503095534",
+    "url": "https://groq.com/pricing",
+    "ts": "20250503095534",
+    "date": "2025-05-03",
+    "source": "wayback",
+    "prevTs": "20250405230317",
+    "kind": "price",
+    "score": 111,
+    "counts": {
+      "price": 34,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 34 prices, 5 limits changed (removed “$0.50”; added “$0.20”)",
+    "pairs": [],
+    "added": [
+      "$0.20",
+      "(5M / $1)*",
+      "$0.60",
+      "(1.6M / $1)*"
+    ],
+    "removed": [
+      "$0.50",
+      "(2M / $1)*",
+      "$0.77",
+      "(1.3M / $1)*",
+      "DeepSeek R1 Distill Qwen 32B 128k",
+      "$0.69",
+      "(1.45M / $1)*",
+      "$0.69",
+      "(1.45M / $1)*",
+      "Qwen 2.5 32B Instruct 128k",
+      "$0.79",
+      "(1.27M / $1)*",
+      "$0.79",
+      "(1.27M / $1)*",
+      "Qwen 2.5 Coder 32B Instruct 128k",
+      "$0.79",
+      "(1.27M / $1)*",
+      "$0.79",
+      "(1.27M / $1)*",
+      "Llama 3.2 1B (Preview) 8k",
+      "$0.04",
+      "(25M / $1)*",
+      "$0.04",
+      "(25M / $1)*",
+      "Llama 3.2 3B (Preview) 8k",
+      "$0.06",
+      "(17M / $1)*",
+      "$0.06",
+      "(17M / $1)*",
+      "Llama 3.3 70B SpecDec 8k",
+      "$0.59",
+      "(1.69M / $1)*",
+      "$0.99",
+      "(1.01M / $1)*",
+      "Llama 3.2 11B Vision 8k (Preview)",
+      "$0.18*",
+      "Llama 3.2 90B Vision 8k (Preview)",
+      "$0.90*",
+      "*For vision models, images are billed at 6,400 tokens per image."
+    ],
+    "totals": {
+      "removed": 61,
+      "added": 5,
+      "materialRemoved": 39,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "console-groq-com-docs-models-20250505035126",
+    "url": "https://console.groq.com/docs/models",
+    "ts": "20250505035126",
+    "date": "2025-05-05",
+    "source": "wayback",
+    "prevTs": "20250407115718",
+    "kind": "limits",
+    "score": 9,
+    "counts": {
+      "price": 0,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 5 limits changed (removed “qwen-2.5-coder-32b”; added “allam-2-7b”)",
+    "pairs": [],
+    "added": [
+      "allam-2-7b"
+    ],
+    "removed": [
+      "qwen-2.5-coder-32b",
+      "qwen-2.5-32b",
+      "deepseek-r1-distill-qwen-32b",
+      "llama-3.3-70b-specdec",
+      "llama-3.2-1b-preview",
+      "llama-3.2-3b-preview",
+      "llama-3.2-11b-vision-preview",
+      "llama-3.2-90b-vision-preview"
+    ],
+    "totals": {
+      "removed": 63,
+      "added": 87,
+      "materialRemoved": 12,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "console-groq-com-docs-rate-limits-20250515212719",
+    "url": "https://console.groq.com/docs/rate-limits",
+    "ts": "20250515212719",
+    "date": "2025-05-15",
+    "source": "wayback",
+    "prevTs": "20250410123258",
+    "kind": "limits",
+    "score": 18,
+    "counts": {
+      "price": 0,
+      "limit": 9,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 9 limits changed (removed “deepseek-r1-distill-llama-70b”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "deepseek-r1-distill-llama-70b",
+      "deepseek-r1-distill-qwen-32b",
+      "gemma2-9b-it",
+      "llama-3.1-8b-instant",
+      "llama-3.2-1b-preview",
+      "llama-3.2-3b-preview",
+      "llama-3.2-11b-vision-preview",
+      "llama-3.2-90b-vision-preview",
+      "llama-3.3-70b-specdec",
+      "llama-3.3-70b-versatile",
+      "meta-llama/llama-4-scout-17b-16e-instruct",
+      "llama-guard-3-8b",
+      "llama3-8b-8192",
+      "llama3-70b-8192",
+      "mistral-saba-24b",
+      "qwen-2.5-32b",
+      "qwen-2.5-coder-32b",
+      "qwen-qwq-32b"
+    ],
+    "totals": {
+      "removed": 47,
+      "added": 37,
+      "materialRemoved": 18,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "console-groq-com-docs-models-20250602232805",
+    "url": "https://console.groq.com/docs/models",
+    "ts": "20250602232805",
+    "date": "2025-06-02",
+    "source": "wayback",
+    "prevTs": "20250505035126",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 2 limits changed (removed “llama-guard-3-8b”; added “meta-llama/llama-guard-4-12b”)",
+    "pairs": [],
+    "added": [
+      "meta-llama/llama-guard-4-12b",
+      "meta-llama/llama-prompt-guard-2-22m",
+      "meta-llama/llama-prompt-guard-2-86m"
+    ],
+    "removed": [
+      "llama-guard-3-8b"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 19,
+      "materialRemoved": 3,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "groq-com-pricing-20250603031950",
+    "url": "https://groq.com/pricing",
+    "ts": "20250603031950",
+    "date": "2025-06-03",
+    "source": "wayback",
+    "prevTs": "20250503095534",
+    "kind": "price",
+    "score": 13,
+    "counts": {
+      "price": 4,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 4 prices, 1 limit changed (added “Llama Guard 4 12B 128k”)",
+    "pairs": [],
+    "added": [
+      "Llama Guard 4 12B 128k",
+      "$0.20",
+      "(5M / $1)*",
+      "$0.20",
+      "(5M / $1)*"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 7,
+      "materialRemoved": 0,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "console-groq-com-docs-rate-limits-20250604145712",
+    "url": "https://console.groq.com/docs/rate-limits",
+    "ts": "20250604145712",
+    "date": "2025-06-04",
+    "source": "wayback",
+    "prevTs": "20250515212719",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Groq: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 8,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "console-groq-com-docs-models-20250703234428",
+    "url": "https://console.groq.com/docs/models",
+    "ts": "20250703234428",
+    "date": "2025-07-03",
+    "source": "wayback",
+    "prevTs": "20250602232805",
+    "kind": "limits",
+    "score": 14,
+    "counts": {
+      "price": 0,
+      "limit": 7,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 7 limits changed (removed “llama3-70b-8192”; added “100 MB”)",
+    "pairs": [],
+    "added": [
+      "100 MB",
+      "20 MB",
+      "100 MB",
+      "100 MB",
+      "20 MB",
+      "20 MB",
+      "qwen/qwen3-32b"
+    ],
+    "removed": [
+      "llama3-70b-8192",
+      "llama3-8b-8192",
+      "25 MB",
+      "25 MB",
+      "25 MB",
+      "allam-2-7b",
+      "qwen-qwq-32b"
+    ],
+    "totals": {
+      "removed": 35,
+      "added": 25,
+      "materialRemoved": 9,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "groq-com-pricing-20250707155115",
+    "url": "https://groq.com/pricing",
+    "ts": "20250707155115",
+    "date": "2025-07-07",
+    "source": "wayback",
+    "prevTs": "20250603031950",
+    "kind": "price",
+    "score": 217,
+    "counts": {
+      "price": 70,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 70 prices, 4 limits changed (128k added)",
+    "pairs": [
+      {
+        "before": "DeepSeek R1 Distill Llama 70B",
+        "after": "DeepSeek R1 Distill Llama 70B 128k",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "128k"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Get started for free",
+      "Llama 4 Scout (17Bx16E) 128k",
+      "$0.11 (9.09M / $1)*",
+      "$0.34 (2.94M / $1)*",
+      "Llama 4 Maverick (17Bx128E) 128k",
+      "$0.20 (5M / $1)*",
+      "$0.60 (1.6M / $1)*",
+      "$0.20 (5M / $1)*",
+      "$0.75 (1.33M / $1)*",
+      "$0.99 (1.01M / $1)*",
+      "Qwen3 32B 131k",
+      "$0.29 (3.44M / $1)*",
+      "$0.59 (1.69M / $1)*",
+      "$0.29 (3.44M / $1)*",
+      "$0.39 (2.56M / $1)*",
+      "Mistral Saba 24B 32k",
+      "$0.79 (1.27M / $1)*",
+      "$0.59 (1.69M / $1)*",
+      "$0.79 (1.27M / $1)*",
+      "$0.05 (20M / $1)*",
+      "$0.08 (12.5M / $1)*",
+      "$0.59 (1.69M / $1)*",
+      "$0.79 (1.27M / $1)*",
+      "$0.05 (20M / $1)*",
+      "$0.08 (12.5M / $1)*",
+      "$0.20 (5M / $1)*",
+      "$0.20 (5M / $1)*"
+    ],
+    "removed": [
+      "$0.11",
+      "(9.09M / $1)*",
+      "$0.34",
+      "(2.94M / $1)*",
+      "$0.20",
+      "(5M / $1)*",
+      "$0.60",
+      "(1.6M / $1)*",
+      "$0.20",
+      "(5M / $1)*",
+      "$0.20",
+      "(5M / $1)*",
+      "$0.75",
+      "(1.33M / $1)*",
+      "$0.99",
+      "(1.01M / $1)*",
+      "$0.29",
+      "(3.44M / $1)*",
+      "$0.39",
+      "(2.56M / $1)*",
+      "Mistral Saba 24B",
+      "$0.79",
+      "(1.27M / $1)*",
+      "$0.79",
+      "(1.27M / $1)*",
+      "$0.59",
+      "(1.69M / $1)*",
+      "$0.79",
+      "(1.27M / $1)*",
+      "$0.05",
+      "(20M / $1)*",
+      "$0.08",
+      "(12.5M / $1)*",
+      "$0.59",
+      "(1.69M / $1)*",
+      "$0.79",
+      "(1.27M / $1)*",
+      "$0.05",
+      "(20M / $1)*",
+      "$0.08"
+    ],
+    "totals": {
+      "removed": 67,
+      "added": 37,
+      "materialRemoved": 50,
+      "materialAdded": 28
+    }
+  },
+  {
+    "id": "console-groq-com-docs-rate-limits-20250708194243",
+    "url": "https://console.groq.com/docs/rate-limits",
+    "ts": "20250708194243",
+    "date": "2025-07-08",
+    "source": "wayback",
+    "prevTs": "20250604145712",
+    "kind": "plans",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Groq: 2 plan names changed",
+    "pairs": [],
+    "added": [
+      "Free"
+    ],
+    "removed": [
+      "Free Tier"
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 15,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "console-groq-com-docs-models-20250806195338",
+    "url": "https://console.groq.com/docs/models",
+    "ts": "20250806195338",
+    "date": "2025-08-06",
+    "source": "wayback",
+    "prevTs": "20250703234428",
+    "kind": "limits",
+    "score": 9,
+    "counts": {
+      "price": 0,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 5 limits changed (removed “100 MB”; added “OpenAI GPT-OSS 20B”)",
+    "pairs": [],
+    "added": [
+      "OpenAI GPT-OSS 20B",
+      "OpenAI GPT-OSS 20B is a state-of-the-art language model with 20 billion parameters, built in browser search and code execution, and reasoning capabilities.",
+      "OpenAI GPT-OSS 120B",
+      "OpenAI GPT-OSS 120B is a state-of-the-art language model with 120 billion parameters, built in browser search and code execution, and reasoning capabilities.",
+      "openai/gpt-oss-120b",
+      "openai/gpt-oss-20b"
+    ],
+    "removed": [
+      "100 MB",
+      "20 MB",
+      "mistral-saba-24b"
+    ],
+    "totals": {
+      "removed": 11,
+      "added": 45,
+      "materialRemoved": 3,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "groq-com-pricing-20250809062447",
+    "url": "https://groq.com/pricing",
+    "ts": "20250809062447",
+    "date": "2025-08-09",
+    "source": "wayback",
+    "prevTs": "20250707155115",
+    "kind": "price",
+    "score": 36,
+    "counts": {
+      "price": 10,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 10 prices, 3 limits changed (removed “Qwen QwQ 32B (Preview) 128k”; added “GPT OSS 20B 128k”)",
+    "pairs": [],
+    "added": [
+      "GPT OSS 20B 128k",
+      "$0.10 (10M / $1)*",
+      "$0.50 (2M / $1)*",
+      "GPT OSS 120B 128k",
+      "$0.15 (6.67M / $1)*",
+      "$0.75 (1.33M / $1)*",
+      "Kimi K2 1T 128k",
+      "$1.00 (1M / $1)*",
+      "$3.00 (333,333 / $1)*",
+      "*Audio is billed at a minimum of 10s per request. AI Model",
+      "$5 / 1K queries",
+      "$0.00005 / second",
+      "Batch processing lets you run thousands of API requests at scale by submitting your workload as an asynchronous batch of requests to Groq with 50% lower cost, no impact to your standard rate limits, and 24-hour to 7 day processing window."
+    ],
+    "removed": [
+      "Qwen QwQ 32B (Preview) 128k",
+      "$0.29 (3.44M / $1)*",
+      "$0.39 (2.56M / $1)*"
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 29,
+      "materialRemoved": 3,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "console-groq-com-docs-models-20250901034011",
+    "url": "https://console.groq.com/docs/models",
+    "ts": "20250901034011",
+    "date": "2025-09-01",
+    "source": "wayback",
+    "prevTs": "20250806195338",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 1 limit changed (removed “gemma2-9b-it”; added “20 MB”)",
+    "pairs": [],
+    "added": [
+      "20 MB"
+    ],
+    "removed": [
+      "gemma2-9b-it"
+    ],
+    "totals": {
+      "removed": 14,
+      "added": 13,
+      "materialRemoved": 5,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "groq-com-pricing-20250905114231",
+    "url": "https://groq.com/pricing",
+    "ts": "20250905114231",
+    "date": "2025-09-05",
+    "source": "wayback",
+    "prevTs": "20250809062447",
+    "kind": "price",
+    "score": 38,
+    "counts": {
+      "price": 12,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 12 prices, 1 limit changed (removed “Kimi K2 1T 128k”; added “Kimi K2-0905 1T 256k”)",
+    "pairs": [],
+    "added": [
+      "Kimi K2-0905 1T 256k",
+      "$1.00",
+      "$0.50",
+      "$3.00",
+      "$8 / 1000 requests",
+      "$1 / 1000 requests",
+      "$0.18 / hour",
+      "$0.08 / hour",
+      "$5 / 1000 requests",
+      "$1 / 1000 requests",
+      "$0.18 / hour"
+    ],
+    "removed": [
+      "Kimi K2 1T 128k",
+      "$0.02*",
+      "$0.00005 / second"
+    ],
+    "totals": {
+      "removed": 17,
+      "added": 44,
+      "materialRemoved": 4,
+      "materialAdded": 12
+    }
+  },
+  {
+    "id": "console-groq-com-docs-models-20251002090059",
+    "url": "https://console.groq.com/docs/models",
+    "ts": "20251002090059",
+    "date": "2025-10-02",
+    "source": "wayback",
+    "prevTs": "20250901034011",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 2 limits changed (removed “OpenAI GPT-OSS 20B”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "OpenAI GPT-OSS 20B",
+      "GPT-OSS 20B is OpenAI's compact open-weight language model with 20 billion parameters, built in browser search and code execution, and reasoning capabilities.",
+      "deepseek-r1-distill-llama-70b"
+    ],
+    "totals": {
+      "removed": 35,
+      "added": 38,
+      "materialRemoved": 3,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "groq-com-pricing-20251002231814",
+    "url": "https://groq.com/pricing",
+    "ts": "20251002231814",
+    "date": "2025-10-02",
+    "source": "wayback",
+    "prevTs": "20250905114231",
+    "kind": "price",
+    "score": 50,
+    "counts": {
+      "price": 14,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 14 prices, 4 limits changed (removed “DeepSeek R1 Distill Llama 70B 128k”; added “openai/gpt-oss-120b”)",
+    "pairs": [],
+    "added": [
+      "openai/gpt-oss-120b",
+      "$0.15",
+      "$0.075",
+      "$0.75",
+      "openai/gpt-oss-20b",
+      "$0.10",
+      "$0.05",
+      "$0.50",
+      "Try Groq for Free"
+    ],
+    "removed": [
+      "DeepSeek R1 Distill Llama 70B 128k",
+      "$0.75 (1.33M / $1)*",
+      "$0.99 (1.01M / $1)*",
+      "Mistral Saba 24B 32k",
+      "$0.79 (1.27M / $1)*",
+      "Llama 3 70B 8k",
+      "$0.59 (1.69M / $1)*",
+      "$0.79 (1.27M / $1)*",
+      "Llama 3 8B 8k",
+      "$0.05 (20M / $1)*",
+      "$0.08 (12.5M / $1)*",
+      "Gemma 2 9B 8k",
+      "Llama Guard 3 8B 8k",
+      "$0.20 (5M / $1)*"
+    ],
+    "totals": {
+      "removed": 35,
+      "added": 119,
+      "materialRemoved": 16,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "console-groq-com-docs-rate-limits-20251003152731",
+    "url": "https://console.groq.com/docs/rate-limits",
+    "ts": "20251003152731",
+    "date": "2025-10-03",
+    "source": "wayback",
+    "prevTs": "20250708194243",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Groq: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 34,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "console-groq-com-docs-models-20251103012149",
+    "url": "https://console.groq.com/docs/models",
+    "ts": "20251103012149",
+    "date": "2025-11-03",
+    "source": "wayback",
+    "prevTs": "20251002090059",
+    "kind": "price",
+    "score": 81,
+    "counts": {
+      "price": 16,
+      "limit": 17,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 16 prices, 17 limits changed (added “PRICE PER 1M TOKENS”)",
+    "pairs": [],
+    "added": [
+      "PRICE PER 1M TOKENS",
+      "Llama 3.1 8B",
+      "$0.05 input $0.08 output",
+      "250K TPM 1K RPM",
+      "Llama 3.3 70B",
+      "$0.59 input $0.79 output",
+      "300K TPM 1K RPM",
+      "Llama Guard 4 12B",
+      "$0.20 input $0.20 output",
+      "30K TPM 100 RPM",
+      "GPT OSS 120B",
+      "$0.15 input $0.60 output",
+      "250K TPM 1K RPM",
+      "GPT OSS 20B",
+      "$0.075 input $0.30 output",
+      "250K TPM 1K RPM",
+      "$0.111 per hour",
+      "200K ASH 300 RPM",
+      "$0.04 per hour",
+      "400K ASH 400 RPM",
+      "PRICE PER 1M TOKENS",
+      "200K TPM 200 RPM",
+      "200K TPM 200 RPM",
+      "PRICE PER 1M TOKENS",
+      "Llama 4 Maverick 17B 128E",
+      "$0.20 input $0.60 output",
+      "300K TPM 1K RPM",
+      "Llama 4 Scout 17B 16E",
+      "$0.11 input $0.34 output",
+      "300K TPM 1K RPM",
+      "Llama Prompt Guard 2 22M",
+      "$0.03 input $0.03 output",
+      "30K TPM 100 RPM",
+      "Prompt Guard 2 86M",
+      "$0.04 input $0.04 output",
+      "30K TPM 100 RPM",
+      "$1.00 input $3.00 output",
+      "250K TPM 1K RPM",
+      "Safety GPT OSS 20B",
+      "openai/gpt-oss-safeguard-20b"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 40,
+      "added": 80,
+      "materialRemoved": 0,
+      "materialAdded": 49
+    }
+  },
+  {
+    "id": "console-groq-com-docs-rate-limits-20251103012516",
+    "url": "https://console.groq.com/docs/rate-limits",
+    "ts": "20251103012516",
+    "date": "2025-11-03",
+    "source": "wayback",
+    "prevTs": "20251003152731",
+    "kind": "limits",
+    "score": 24,
+    "counts": {
+      "price": 0,
+      "limit": 12,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 12 limits changed (added “allam-2-7b”)",
+    "pairs": [],
+    "added": [
+      "allam-2-7b",
+      "llama-3.1-8b-instant",
+      "llama-3.3-70b-versatile",
+      "meta-llama/llama-4-maverick-17b-128e-instruct",
+      "meta-llama/llama-4-scout-17b-16e-instruct",
+      "meta-llama/llama-guard-4-12b",
+      "meta-llama/llama-prompt-guard-2-22m",
+      "meta-llama/llama-prompt-guard-2-86m",
+      "openai/gpt-oss-120b",
+      "openai/gpt-oss-20b",
+      "openai/gpt-oss-safeguard-20b",
+      "qwen/qwen3-32b",
+      "allam-2-7b",
+      "llama-3.1-8b-instant",
+      "llama-3.3-70b-versatile",
+      "meta-llama/llama-4-maverick-17b-128e-instruct",
+      "meta-llama/llama-4-scout-17b-16e-instruct",
+      "meta-llama/llama-guard-4-12b",
+      "meta-llama/llama-prompt-guard-2-22m",
+      "meta-llama/llama-prompt-guard-2-86m",
+      "openai/gpt-oss-120b",
+      "openai/gpt-oss-20b",
+      "openai/gpt-oss-safeguard-20b",
+      "qwen/qwen3-32b"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 96,
+      "materialRemoved": 0,
+      "materialAdded": 24
+    }
+  },
+  {
+    "id": "groq-com-pricing-20251106035823",
+    "url": "https://groq.com/pricing",
+    "ts": "20251106035823",
+    "date": "2025-11-06",
+    "source": "wayback",
+    "prevTs": "20251002231814",
+    "kind": "price",
+    "score": 49,
+    "counts": {
+      "price": 16,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 16 prices, 1 limit changed (removed “$0.10 (10M / $1)*”; added “$0.075 (13.3M / $1)*”)",
+    "pairs": [],
+    "added": [
+      "$0.075 (13.3M / $1)*",
+      "$0.30 (3.33M / $1)*",
+      "GPT OSS Safeguard 20B",
+      "$0.075 (13.3M / $1)*",
+      "$0.30 (3.33M / $1)*",
+      "$0.60 (1.66M / $1)*",
+      "$0.60",
+      "$0.075",
+      "$0.0375",
+      "$0.30"
+    ],
+    "removed": [
+      "$0.10 (10M / $1)*",
+      "$0.50 (2M / $1)*",
+      "$0.75 (1.33M / $1)*",
+      "$0.75",
+      "$0.10",
+      "$0.05",
+      "$0.50"
+    ],
+    "totals": {
+      "removed": 9,
+      "added": 19,
+      "materialRemoved": 7,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "console-groq-com-docs-models-20251203031234",
+    "url": "https://console.groq.com/docs/models",
+    "ts": "20251203031234",
+    "date": "2025-12-03",
+    "source": "wayback",
+    "prevTs": "20251103012149",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Groq: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 34,
+      "added": 40,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "console-groq-com-docs-rate-limits-20251208170026",
+    "url": "https://console.groq.com/docs/rate-limits",
+    "ts": "20251208170026",
+    "date": "2025-12-08",
+    "source": "wayback",
+    "prevTs": "20251103012516",
+    "kind": "limits",
+    "score": 14,
+    "counts": {
+      "price": 0,
+      "limit": 6,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Groq: 6 limits, 1 plan name changed (removed “allam-2-7b”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Free",
+      "allam-2-7b",
+      "llama-3.1-8b-instant",
+      "llama-3.3-70b-versatile",
+      "meta-llama/llama-4-maverick-17b-128e-instruct",
+      "meta-llama/llama-4-scout-17b-16e-instruct",
+      "meta-llama/llama-guard-4-12b",
+      "meta-llama/llama-prompt-guard-2-22m",
+      "meta-llama/llama-prompt-guard-2-86m",
+      "openai/gpt-oss-120b",
+      "openai/gpt-oss-20b",
+      "openai/gpt-oss-safeguard-20b",
+      "qwen/qwen3-32b"
+    ],
+    "totals": {
+      "removed": 82,
+      "added": 41,
+      "materialRemoved": 13,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "console-groq-com-docs-rate-limits-20260105234006",
+    "url": "https://console.groq.com/docs/rate-limits",
+    "ts": "20260105234006",
+    "date": "2026-01-05",
+    "source": "wayback",
+    "prevTs": "20251208170026",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Groq: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 11,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "groq-com-pricing-20260108061255",
+    "url": "https://groq.com/pricing",
+    "ts": "20260108061255",
+    "date": "2026-01-08",
+    "source": "wayback",
+    "prevTs": "20251106035823",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 3 prices changed (removed “$50.00”; added “$22.00”)",
+    "pairs": [],
+    "added": [
+      "$22.00",
+      "$40.00"
+    ],
+    "removed": [
+      "$50.00"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 9,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "console-groq-com-docs-models-20260108070550",
+    "url": "https://console.groq.com/docs/models",
+    "ts": "20260108070550",
+    "date": "2026-01-08",
+    "source": "wayback",
+    "prevTs": "20251203031234",
+    "kind": "price",
+    "score": 7,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 2 prices, 1 limit changed ($50.00 → $40.00; $50.00 → $22.00)",
+    "pairs": [
+      {
+        "before": "$50.00 per 1M characters",
+        "after": "$40.00 per 1M characters",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$50.00",
+            "after": "$40.00"
+          }
+        ]
+      },
+      {
+        "before": "$50.00 per 1M characters",
+        "after": "$22.00 per 1M characters",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$50.00",
+            "after": "$22.00"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "100 MB"
+    ],
+    "totals": {
+      "removed": 13,
+      "added": 19,
+      "materialRemoved": 5,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "groq-com-pricing-20260304081141",
+    "url": "https://groq.com/pricing",
+    "ts": "20260304081141",
+    "date": "2026-03-04",
+    "source": "wayback",
+    "prevTs": "20260108061255",
+    "kind": "price",
+    "score": 7,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 2 prices, 1 limit changed (removed “Llama Guard 4 12B 128k”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Llama Guard 4 12B 128k",
+      "$0.20 (5M / $1)*",
+      "$0.20 (5M / $1)*"
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 0,
+      "materialRemoved": 3,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "console-groq-com-docs-models-20260304092009",
+    "url": "https://console.groq.com/docs/models",
+    "ts": "20260304092009",
+    "date": "2026-03-04",
+    "source": "wayback",
+    "prevTs": "20260108070550",
+    "kind": "price",
+    "score": 14,
+    "counts": {
+      "price": 2,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 2 prices, 4 limits changed (removed “Llama Guard 4 12B”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Llama Guard 4 12B",
+      "meta-llama/llama-guard-4-12b",
+      "$0.20 input $0.20 output",
+      "30K TPM 100 RPM",
+      "20 MB",
+      "Llama 4 Maverick 17B 128E",
+      "meta-llama/llama-4-maverick-17b-128e-instruct",
+      "$0.20 input $0.60 output",
+      "300K TPM 1K RPM",
+      "20 MB"
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 0,
+      "materialRemoved": 10,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "console-groq-com-docs-models-20260401024903",
+    "url": "https://console.groq.com/docs/models",
+    "ts": "20260401024903",
+    "date": "2026-04-01",
+    "source": "wayback",
+    "prevTs": "20260304092009",
+    "kind": "price",
+    "score": 4,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 1 price, 1 limit changed (removed “$1.00 input $3.00 output”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$1.00 input $3.00 output",
+      "250K TPM 1K RPM"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 0,
+      "materialRemoved": 2,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "groq-com-pricing-20260404044226",
+    "url": "https://groq.com/pricing",
+    "ts": "20260404044226",
+    "date": "2026-04-04",
+    "source": "wayback",
+    "prevTs": "20260304081141",
+    "kind": "price",
+    "score": 14,
+    "counts": {
+      "price": 4,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 4 prices, 1 limit changed (removed “Kimi K2-0905 1T 256k”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Kimi K2-0905 1T 256k",
+      "$1.00 (1M / $1)*",
+      "$3.00 (333,333 / $1)*",
+      "Llama 4 Maverick (17Bx128E) 128k",
+      "$0.20 (5M / $1)*",
+      "$0.60 (1.6M / $1)*"
+    ],
+    "totals": {
+      "removed": 20,
+      "added": 0,
+      "materialRemoved": 6,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "console-groq-com-docs-rate-limits-20260406094222",
+    "url": "https://console.groq.com/docs/rate-limits",
+    "ts": "20260406094222",
+    "date": "2026-04-06",
+    "source": "wayback",
+    "prevTs": "20260105234006",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 1 limit changed (removed “meta-llama/llama-4-maverick-17b-128e-instruct”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "meta-llama/llama-4-maverick-17b-128e-instruct",
+      "meta-llama/llama-guard-4-12b"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 0,
+      "materialRemoved": 2,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "groq-com-pricing-20260503004240",
+    "url": "https://groq.com/pricing",
+    "ts": "20260503004240",
+    "date": "2026-05-03",
+    "source": "wayback",
+    "prevTs": "20260404044226",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Groq: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Qwen3-VL 32B"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 7,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "groq-com-pricing-20260704083153",
+    "url": "https://groq.com/pricing",
+    "ts": "20260704083153",
+    "date": "2026-07-04",
+    "source": "wayback",
+    "prevTs": "20260503004240",
+    "kind": "price",
+    "score": 7,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 2 prices, 1 limit changed (added “Qwen 3.6 27B 131k”)",
+    "pairs": [],
+    "added": [
+      "Qwen 3.6 27B 131k",
+      "$0.60 (1.7M / $1)*",
+      "$3.00 (0.33M / $1)*"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 10,
+      "materialRemoved": 0,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "console-groq-com-docs-rate-limits-20260704083836",
+    "url": "https://console.groq.com/docs/rate-limits",
+    "ts": "20260704083836",
+    "date": "2026-07-04",
+    "source": "wayback",
+    "prevTs": "20260406094222",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Groq: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "qwen/qwen3.6-27b"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 8,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "console-groq-com-docs-models-20260706141751",
+    "url": "https://console.groq.com/docs/models",
+    "ts": "20260706141751",
+    "date": "2026-07-06",
+    "source": "wayback",
+    "prevTs": "20260401024903",
+    "kind": "price",
+    "score": 7,
+    "counts": {
+      "price": 1,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 1 price, 2 limits changed (added “Qwen/Qwen3.6-27B”)",
+    "pairs": [],
+    "added": [
+      "Qwen/Qwen3.6-27B",
+      "qwen/qwen3.6-27b",
+      "$0.60 input $3.00 output",
+      "250K TPM 1K RPM",
+      "20 MB"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "groq-com-pricing-20260802131607",
+    "url": "https://groq.com/pricing",
+    "ts": "20260802131607",
+    "date": "2026-08-02",
+    "source": "wayback",
+    "prevTs": "20260704083153",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 5,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 5 prices, 2 limits changed (removed “Llama 4 Scout (17Bx16E) 128k”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Llama 4 Scout (17Bx16E) 128k",
+      "$0.11 (9.09M / $1)*",
+      "$0.34 (2.94M / $1)*",
+      "Qwen3 32B 131k",
+      "$0.29 (3.44M / $1)*",
+      "$0.59 (1.69M / $1)*",
+      "Qwen3-VL 32B",
+      "$0.08 / hour"
+    ],
+    "totals": {
+      "removed": 30,
+      "added": 1,
+      "materialRemoved": 8,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "console-groq-com-docs-models-20260806141113",
+    "url": "https://console.groq.com/docs/models",
+    "ts": "20260806141113",
+    "date": "2026-08-06",
+    "source": "wayback",
+    "prevTs": "20260706141751",
+    "kind": "price",
+    "score": 13,
+    "counts": {
+      "price": 2,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 2 prices, 4 limits changed (removed “Llama 4 Scout 17B 16E”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Llama 4 Scout 17B 16E",
+      "meta-llama/llama-4-scout-17b-16e-instruct",
+      "$0.11 input $0.34 output",
+      "300K TPM 1K RPM",
+      "20 MB",
+      "Qwen3-32B",
+      "qwen/qwen3-32b",
+      "$0.29 input $0.59 output",
+      "300K TPM 1K RPM"
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 5,
+      "materialRemoved": 9,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "console-groq-com-docs-rate-limits-20260815063304",
+    "url": "https://console.groq.com/docs/rate-limits",
+    "ts": "20260815063304",
+    "date": "2026-08-15",
+    "source": "wayback",
+    "prevTs": "20260704083836",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 2 limits changed (removed “allam-2-7b”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "allam-2-7b",
+      "meta-llama/llama-4-scout-17b-16e-instruct",
+      "qwen/qwen3-32b"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 0,
+      "materialRemoved": 3,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "console-groq-com-docs-models-20260902202107",
+    "url": "https://console.groq.com/docs/models",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260806141113",
+    "kind": "price",
+    "score": 13,
+    "counts": {
+      "price": 3,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 3 prices, 2 limits changed (removed “$0.05 input $0.08 output”; added “Qwen/Qwen3.8-27B”)",
+    "pairs": [],
+    "added": [
+      "Qwen/Qwen3.8-27B",
+      "qwen/qwen3.8-27b",
+      "$0.80 input $4.00 output",
+      "20 MB"
+    ],
+    "removed": [
+      "$0.05 input $0.08 output",
+      "$0.59 input $0.79 output",
+      "300K TPM 1K RPM"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 9,
+      "materialRemoved": 4,
+      "materialAdded": 5
+    },
+    "transition": true
+  },
+  {
+    "id": "console-groq-com-docs-rate-limits-20260902202107",
+    "url": "https://console.groq.com/docs/rate-limits",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260815063304",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 2 limits changed (removed “llama-3.1-8b-instant”; added “qwen/qwen3.8-27b”)",
+    "pairs": [],
+    "added": [
+      "qwen/qwen3.8-27b"
+    ],
+    "removed": [
+      "llama-3.1-8b-instant",
+      "llama-3.3-70b-versatile"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 2,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    },
+    "transition": true
+  }
+]

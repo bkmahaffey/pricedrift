@@ -1,0 +1,916 @@
+[
+  {
+    "id": "depot-dev-pricing-20230930100743",
+    "url": "https://depot.dev/pricing",
+    "ts": "20230930100743",
+    "date": "2023-09-30",
+    "source": "wayback",
+    "prevTs": "20230323204549",
+    "kind": "price",
+    "score": 31,
+    "counts": {
+      "price": 7,
+      "limit": 2,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Depot: 7 prices, 2 limits, 3 plan names changed (removed “$49”; added “$ 0.12”)",
+    "pairs": [],
+    "added": [
+      "$ 0.12",
+      "$ 0.20",
+      "First 60 minutes and 50GB of build cache are free per month, then pay for what you use.",
+      "Free usage tier",
+      "then $0.20 per GB",
+      "Each plan includes a free tier of 60 build minutes and 50GB cache storage per month. Any usage above the free tier build minutes is billed monthly."
+    ],
+    "removed": [
+      "Free tier",
+      "Includes one user and community support. Free credits renew every month.",
+      "$49",
+      "Up to 10 users, standard support, and increased machine resources. $0.05 per build minute after free tier.",
+      "$499",
+      "Unlimited users, priority support, custom machine resources, and region selection. $0.05 per build minute after free tier.",
+      "Free tier",
+      "after free tier",
+      "after free tier",
+      "8GB",
+      "Unlimited",
+      "The free tier includes 60 build minutes, 1 project, and 1 user. For the team and business plans, any usage above the free tier build minutes is billed monthly."
+    ],
+    "totals": {
+      "removed": 78,
+      "added": 52,
+      "materialRemoved": 17,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "depot-dev-pricing-20231214193354",
+    "url": "https://depot.dev/pricing",
+    "ts": "20231214193354",
+    "date": "2023-12-14",
+    "source": "wayback",
+    "prevTs": "20230930100743",
+    "kind": "price",
+    "score": 76,
+    "counts": {
+      "price": 15,
+      "limit": 15,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Depot: 15 prices, 15 limits, 1 plan name changed (removed “$ 0.12”; added “$ 20 per month”)",
+    "pairs": [],
+    "added": [
+      "Start for free, collaborate with your team, scale to any size.",
+      "$ 20 per month",
+      "1000 build minutes included",
+      "then $0.02/min after",
+      "then $0.10/GB/mo after",
+      "Unlimited builds",
+      "1 user",
+      "1 project",
+      "No credit card required",
+      "$ 100 per month",
+      "1000 build minutes included",
+      "then $0.02/min after",
+      "50 GB cache included",
+      "then $0.10/GB/mo after",
+      "Up to 5 users",
+      "Up to 5 projects",
+      "No credit card required",
+      "$ 350 per month",
+      "5000 build minutes included",
+      "then $0.02/min after",
+      "250 GB cache included",
+      "then $0.10/GB/mo after",
+      "Up to 50 users",
+      "Up to 50 projects",
+      "No credit card required",
+      "Unlimited users",
+      "Unlimited projects",
+      "Each build runs with 16 vCPUs, 32GB memory",
+      "$ 20",
+      "$ 100",
+      "$ 350",
+      "Unlimited",
+      "1 user",
+      "5 users",
+      "50 users",
+      "1 project",
+      "5 projects",
+      "50 projects",
+      "Unlimited",
+      "7 days"
+    ],
+    "removed": [
+      "$ 0.12",
+      "$ 0.20",
+      "First 60 minutes and 50GB of build cache are free per month, then pay for what you use.",
+      "Free usage tier",
+      "60 build minutes",
+      "60 build minutes",
+      "then $0.20 per GB",
+      "32GB",
+      "What is the free tier?",
+      "Each plan includes a free tier of 60 build minutes and 50GB cache storage per month. Any usage above the free tier build minutes is billed monthly."
+    ],
+    "totals": {
+      "removed": 60,
+      "added": 167,
+      "materialRemoved": 11,
+      "materialAdded": 47
+    }
+  },
+  {
+    "id": "depot-dev-pricing-20240415161522",
+    "url": "https://depot.dev/pricing",
+    "ts": "20240415161522",
+    "date": "2024-04-15",
+    "source": "wayback",
+    "prevTs": "20231214193354",
+    "kind": "price",
+    "score": 92,
+    "counts": {
+      "price": 20,
+      "limit": 16,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Depot: 20 prices, 16 limits changed (5 → 10; 5 → 10)",
+    "pairs": [
+      {
+        "before": "Up to 5 users",
+        "after": "Up to 10 users",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "5",
+            "after": "10"
+          }
+        ]
+      },
+      {
+        "before": "Up to 5 projects",
+        "after": "Up to 10 projects",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "5",
+            "after": "10"
+          }
+        ]
+      },
+      {
+        "before": "5 users",
+        "after": "10 users",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "5",
+            "after": "10"
+          }
+        ]
+      },
+      {
+        "before": "5 projects",
+        "after": "10 projects",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "5",
+            "after": "10"
+          }
+        ]
+      },
+      {
+        "before": "The Starter plan is perfect for solo developers, side-projects, and experiments. It includes 1 user, 1 project, and 7-day data retention.",
+        "after": "The Developer plan is perfect for solo developers, side-projects, and experiments. It includes up to 500 build minutes, 1 user, 1 project, and 7-day data retention.",
+        "confidence": 0.8,
+        "deltas": [
+          {
+            "before": "1",
+            "after": "500"
+          },
+          {
+            "before": "7",
+            "after": "1"
+          },
+          {
+            "before": null,
+            "after": "7"
+          }
+        ]
+      },
+      {
+        "before": "The Team plan is great for teams building production applications. It includes up to 5 users, 5 projects, and 30-day data retention.",
+        "after": "The Startup plan is great for teams building production applications. It includes 5,000 Docker build minutes, 20,000 GitHub Actions minutes, up to 10 users, 10 projects, and 30-day data retention.",
+        "confidence": 0.68,
+        "deltas": [
+          {
+            "before": "5",
+            "after": "5,000"
+          },
+          {
+            "before": "5",
+            "after": "20,000"
+          },
+          {
+            "before": "30",
+            "after": "10"
+          },
+          {
+            "before": null,
+            "after": "10"
+          },
+          {
+            "before": null,
+            "after": "30"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Unlimited concurrency",
+      "$200",
+      "25 GB cache storage",
+      "$0.04 / minute",
+      "$0.004 / minute",
+      "$0.20 / GB / month",
+      "GitHub Actions builds can use from 2 vCPUs and 8 GB of memory up to 32 vCPUs and 128 GB.",
+      "8 GB",
+      "$0.004",
+      "16 GB",
+      "$0.008",
+      "32 GB",
+      "$0.016",
+      "64 GB",
+      "$0.032",
+      "128 GB",
+      "$0.064",
+      "Unlimited",
+      "25 GB",
+      "250 GB"
+    ],
+    "removed": [
+      "1000 build minutes included",
+      "then $0.02/min after",
+      "50 GB cache included",
+      "then $0.10/GB/mo after",
+      "Unlimited builds",
+      "No credit card required",
+      "$ 100 per month",
+      "1000 build minutes included",
+      "then $0.02/min after",
+      "50 GB cache included",
+      "then $0.10/GB/mo after",
+      "No credit card required",
+      "$ 350 per month",
+      "5000 build minutes included",
+      "then $0.02/min after",
+      "then $0.10/GB/mo after",
+      "Up to 50 users",
+      "Up to 50 projects",
+      "No credit card required",
+      "Unlimited users",
+      "Unlimited projects",
+      "$ 20",
+      "$ 100",
+      "$ 350",
+      "Unlimited",
+      "50 users",
+      "Unlimited",
+      "50 projects",
+      "Unlimited",
+      "90 days",
+      "The Business plan is for dev teams looking to scale, and includes additional security controls such as Google Workspace SSO. It includes up to 50 users, 50 projects, and 90-day data retention.",
+      "The Enterprise plan is for businesses looking for custom infrastructure and compliance controls. It includes unlimited users and projects, and custom data retention."
+    ],
+    "totals": {
+      "removed": 115,
+      "added": 120,
+      "materialRemoved": 41,
+      "materialAdded": 29
+    }
+  },
+  {
+    "id": "depot-dev-pricing-20240720071440",
+    "url": "https://depot.dev/pricing",
+    "ts": "20240720071440",
+    "date": "2024-07-20",
+    "source": "wayback",
+    "prevTs": "20240415161522",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 2,
+      "limit": 5,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Depot: 2 prices, 5 limits, 1 plan name changed (32 → 64; 10 → 30)",
+    "pairs": [
+      {
+        "before": "GitHub Actions builds can use from 2 vCPUs and 8 GB of memory up to 32 vCPUs and 128 GB.",
+        "after": "GitHub Actions builds can use from 2 vCPUs and 8 GB of memory up to 64 vCPUs and 256 GB.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "32",
+            "after": "64"
+          },
+          {
+            "before": "128GB",
+            "after": "256GB"
+          }
+        ]
+      },
+      {
+        "before": "The Startup plan is great for teams building production applications. It includes 5,000 Docker build minutes, 20,000 GitHub Actions minutes, up to 10 users, 10 projects, and 30-day data retention.",
+        "after": "The Startup plan is great for teams building production applications. It includes 5,000 Docker build minutes, 20,000 GitHub Actions minutes, unlimited users, unlimited projects, and 30-day data retention.",
+        "confidence": 0.95,
+        "deltas": [
+          {
+            "before": "10",
+            "after": "30"
+          },
+          {
+            "before": "10",
+            "after": null
+          },
+          {
+            "before": "30",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Start for free",
+      "Unlimited users",
+      "Unlimited projects",
+      "2 GB",
+      "$0.002",
+      "258 GB",
+      "$0.128",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "removed": [
+      "Up to 10 users",
+      "Up to 10 projects",
+      "10 users",
+      "10 projects",
+      "Get started for free →"
+    ],
+    "totals": {
+      "removed": 13,
+      "added": 23,
+      "materialRemoved": 7,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "depot-dev-pricing-20241127023254",
+    "url": "https://depot.dev/pricing",
+    "ts": "20241127023254",
+    "date": "2024-11-27",
+    "source": "wayback",
+    "prevTs": "20240720071440",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Depot: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 10,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "depot-dev-pricing-20250109051726",
+    "url": "https://depot.dev/pricing",
+    "ts": "20250109051726",
+    "date": "2025-01-09",
+    "source": "wayback",
+    "prevTs": "20241127023254",
+    "kind": "price",
+    "score": 7,
+    "counts": {
+      "price": 1,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Depot: 1 price, 2 limits changed (removed “258 GB”; added “256 GB”)",
+    "pairs": [],
+    "added": [
+      "256 GB",
+      "$0.20 / GB / month"
+    ],
+    "removed": [
+      "258 GB",
+      "7 days",
+      "30 days"
+    ],
+    "totals": {
+      "removed": 13,
+      "added": 18,
+      "materialRemoved": 5,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "depot-dev-pricing-20250208141829",
+    "url": "https://depot.dev/pricing",
+    "ts": "20250208141829",
+    "date": "2025-02-08",
+    "source": "wayback",
+    "prevTs": "20250109051726",
+    "kind": "price",
+    "score": 17,
+    "counts": {
+      "price": 4,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Depot: 4 prices, 3 limits changed (64 added)",
+    "pairs": [
+      {
+        "before": "Docker builds use 16 vCPUs and 32 GB of memory for efficient, parallel computation of the Dockerfile graph.",
+        "after": "Docker builds can use from 16 vCPUs and 32 GB of memory up to 64 vCPUs and 128 GB of memory, allowing for efficient, parallel computation of the Dockerfile graph.",
+        "confidence": 0.81,
+        "deltas": [
+          {
+            "before": null,
+            "after": "64"
+          },
+          {
+            "before": null,
+            "after": "128GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "32 GB",
+      "$0.04",
+      "64 GB",
+      "$0.08",
+      "128 GB",
+      "$0.16",
+      "Optional ($500/mo)"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 25,
+      "materialRemoved": 1,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "depot-dev-pricing-20250304134320",
+    "url": "https://depot.dev/pricing",
+    "ts": "20250304134320",
+    "date": "2025-03-04",
+    "source": "wayback",
+    "prevTs": "20250208141829",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Depot: 2 limits changed (1 → 7)",
+    "pairs": [
+      {
+        "before": "The Developer plan is perfect for solo developers, side-projects, and experiments. It includes up to 500 build minutes, 1 user, 1 project, and 7-day data retention.",
+        "after": "The Developer plan is perfect for solo developers, side-projects, and experiments. It includes up to 500 build minutes, 1 user, and 7-day data retention.",
+        "confidence": 0.95,
+        "deltas": [
+          {
+            "before": "1",
+            "after": "7"
+          },
+          {
+            "before": "7",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "1 project",
+      "Unlimited projects",
+      "1 project",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 15,
+      "added": 7,
+      "materialRemoved": 6,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "depot-dev-pricing-20250519021935",
+    "url": "https://depot.dev/pricing",
+    "ts": "20250519021935",
+    "date": "2025-05-19",
+    "source": "wayback",
+    "prevTs": "20250304134320",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Depot: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "No credit card required",
+      "No credit card required"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 11,
+      "added": 15,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "depot-dev-pricing-20250722221312",
+    "url": "https://depot.dev/pricing",
+    "ts": "20250722221312",
+    "date": "2025-07-22",
+    "source": "wayback",
+    "prevTs": "20250519021935",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Depot: 1 price, 1 limit, 1 plan name changed (removed “2 GB”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Start for free",
+      "2 GB",
+      "$0.002"
+    ],
+    "totals": {
+      "removed": 12,
+      "added": 9,
+      "materialRemoved": 3,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "depot-dev-pricing-20250813012128",
+    "url": "https://depot.dev/pricing",
+    "ts": "20250813012128",
+    "date": "2025-08-13",
+    "source": "wayback",
+    "prevTs": "20250722221312",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Depot: 3 prices changed (added “$0.20 / GB / month”)",
+    "pairs": [],
+    "added": [
+      "$0.20 / GB / month",
+      "$0.01 / minute",
+      "$0.01 / minute"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 10,
+      "materialRemoved": 0,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "depot-dev-pricing-20251212192221",
+    "url": "https://depot.dev/pricing",
+    "ts": "20251212192221",
+    "date": "2025-12-12",
+    "source": "wayback",
+    "prevTs": "20250813012128",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Depot: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "depot-dev-pricing-20260312080241",
+    "url": "https://depot.dev/pricing",
+    "ts": "20260312080241",
+    "date": "2026-03-12",
+    "source": "wayback",
+    "prevTs": "20251212192221",
+    "kind": "price",
+    "score": 8,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Depot: 2 prices, 1 limit changed (added “🚀 Depot raises a $10M Series A from Felicis,…”)",
+    "pairs": [],
+    "added": [
+      "🚀 Depot raises a $10M Series A from Felicis, Y Combinator, and Pioneer Fund",
+      "🚀 Depot raises a $10M Series A",
+      "\"Around here, we say PostHog ships weirdly fast, and you can't say PostHog ships weirdly fast if you're waiting for an hour and 45 minutes.\"",
+      "193 → 3 min"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 10,
+      "added": 24,
+      "materialRemoved": 0,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "depot-dev-pricing-20260417062401",
+    "url": "https://depot.dev/pricing",
+    "ts": "20260417062401",
+    "date": "2026-04-17",
+    "source": "wayback",
+    "prevTs": "20260312080241",
+    "kind": "price",
+    "score": 44,
+    "counts": {
+      "price": 11,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Depot: 11 prices, 6 limits changed (1 → 2,000; 30 → 20,000)",
+    "pairs": [
+      {
+        "before": "The Developer plan is perfect for solo developers, side-projects, and experiments. It includes up to 500 build minutes, 1 user, and 7-day data retention.",
+        "after": "The Developer plan is perfect for solo developers, side-projects, and experiments. It includes 500 Docker build minutes, 2,000 GitHub Actions minutes, 2,000 Depot CI minutes, 1 user, and 7-day data retention, with additional usage billed monthly.",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "1",
+            "after": "2,000"
+          },
+          {
+            "before": "7",
+            "after": "2,000"
+          },
+          {
+            "before": null,
+            "after": "1"
+          },
+          {
+            "before": null,
+            "after": "7"
+          }
+        ]
+      },
+      {
+        "before": "The Startup plan is great for teams building production applications. It includes 5,000 Docker build minutes, 20,000 GitHub Actions minutes, unlimited users, and 30-day data retention.",
+        "after": "The Startup plan is great for teams building production applications. It includes 5,000 Docker build minutes, 20,000 GitHub Actions minutes, 20,000 Depot CI minutes, unlimited users, and 30-day data retention, with additional usage billed monthly.",
+        "confidence": 0.78,
+        "deltas": [
+          {
+            "before": "30",
+            "after": "20,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0.00005 / second / vCPU",
+      "Depot CI sandboxes can use from 2 vCPUs and 8 GB of memory up to 64 vCPUs and 256 GB. Billed per second per vCPU with no one minute minimum.",
+      "8 GB",
+      "$0.0001",
+      "16 GB",
+      "$0.0002",
+      "32 GB",
+      "$0.0004",
+      "64 GB",
+      "$0.0008",
+      "128 GB",
+      "$0.0016",
+      "256 GB",
+      "$0.0032"
+    ],
+    "removed": [
+      "🚀 Depot raises a $10M Series A from Felicis, Y Combinator, and Pioneer Fund",
+      "🚀 Depot raises a $10M Series A",
+      "$0.20 / GB / month",
+      "$0.01 / minute"
+    ],
+    "totals": {
+      "removed": 29,
+      "added": 65,
+      "materialRemoved": 9,
+      "materialAdded": 19
+    }
+  },
+  {
+    "id": "depot-dev-pricing-20260622131428",
+    "url": "https://depot.dev/pricing",
+    "ts": "20260622131428",
+    "date": "2026-06-22",
+    "source": "wayback",
+    "prevTs": "20260417062401",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Depot: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "depot-dev-pricing-20260717095347",
+    "url": "https://depot.dev/pricing",
+    "ts": "20260717095347",
+    "date": "2026-07-17",
+    "source": "wayback",
+    "prevTs": "20260622131428",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Depot: 1 price changed (added “$0.20 / GB / month, free transfer”)",
+    "pairs": [],
+    "added": [
+      "$0.20 / GB / month, free transfer"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "depot-dev-pricing-20260808014332",
+    "url": "https://depot.dev/pricing",
+    "ts": "20260808014332",
+    "date": "2026-08-08",
+    "source": "wayback",
+    "prevTs": "20260717095347",
+    "kind": "price",
+    "score": 19,
+    "counts": {
+      "price": 5,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Depot: 5 prices, 1 limit, 1 plan name changed (7 removed)",
+    "pairs": [
+      {
+        "before": "The Developer plan is perfect for solo developers, side-projects, and experiments. It includes 500 Docker build minutes, 2,000 GitHub Actions minutes, 2,000 Depot CI minutes, 1 user, and 7-day data retention, with additional usage billed monthly.",
+        "after": "The Developer plan is perfect for solo developers, side-projects, and experiments. It includes 500 Docker build minutes, 2,000 GitHub Actions minutes, 2,000 Depot CI minutes, and 1 user, with additional usage billed monthly.",
+        "confidence": 0.89,
+        "deltas": [
+          {
+            "before": "7",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0.000001 / passing test",
+      "$0.000001 each",
+      "Free",
+      "The Developer and Startup plans each include 1,000,000 passing test results per month at no charge. After that, it's $0.000001 per passing test, or $1 per 1 million tests. Failed, errored, and skipped tests are free.",
+      "receive a partner code worth $5,000 in Depot credits. See our PostHog for Startups documentation"
+    ],
+    "removed": [
+      "$0.20 / GB / month"
+    ],
+    "totals": {
+      "removed": 17,
+      "added": 38,
+      "materialRemoved": 7,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "depot-dev-pricing-20260901171821",
+    "url": "https://depot.dev/pricing",
+    "ts": "20260901171821",
+    "date": "2026-09-01",
+    "source": "wayback",
+    "prevTs": "20260808014332",
+    "kind": "price",
+    "score": 53,
+    "counts": {
+      "price": 13,
+      "limit": 7,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Depot: 13 prices, 7 limits changed (removed “$0.004 / minute”; added “$0.006 / minute”)",
+    "pairs": [],
+    "added": [
+      "$0.006 / minute",
+      "Get started for free"
+    ],
+    "removed": [
+      "No credit card required",
+      "No credit card required",
+      "$0.004 / minute",
+      "\"Around here, we say PostHog ships weirdly fast, and you can't say PostHog ships weirdly fast if you're waiting for an hour and 45 minutes.\"",
+      "193 → 3 min",
+      "GitHub Actions builds can use from 2 vCPUs and 8 GB of memory up to 64 vCPUs and 256 GB. With support for Intel, Arm, and macOS runners. Billed per minute, tracked per second.",
+      "8 GB",
+      "$0.004",
+      "16 GB",
+      "$0.008",
+      "32 GB",
+      "$0.016",
+      "64 GB",
+      "$0.032",
+      "128 GB",
+      "$0.064",
+      "256 GB",
+      "$0.128",
+      "Docker builds can use from 16 vCPUs and 32 GB of memory up to 64 vCPUs and 128 GB, allowing for efficient, parallel computation of the Dockerfile graph. Billed per minute, tracked per second.",
+      "32 GB",
+      "$0.04",
+      "64 GB",
+      "$0.08",
+      "128 GB",
+      "$0.16",
+      "The Developer plan is perfect for solo developers, side-projects, and experiments. It includes 500 Docker build minutes, 2,000 GitHub Actions minutes, 2,000 Depot CI minutes, and 1 user, with additional usage billed monthly.",
+      "The Startup plan is great for teams building production applications. It includes 5,000 Docker build minutes, 20,000 GitHub Actions minutes, 20,000 Depot CI minutes, and unlimited users, with additional usage billed monthly.",
+      "The Developer and Startup plans each include 1,000,000 passing test results per month at no charge. After that, it's $0.000001 per passing test, or $1 per 1 million tests. Failed, errored, and skipped tests are free.",
+      "receive a partner code worth $5,000 in Depot credits. See our PostHog for Startups documentation"
+    ],
+    "totals": {
+      "removed": 152,
+      "added": 47,
+      "materialRemoved": 34,
+      "materialAdded": 7
+    }
+  }
+]

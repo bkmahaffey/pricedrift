@@ -1,0 +1,303 @@
+Reliability starts with a plan
+Choose yours. Then scale it up.
+Detect
+Communicate
+Test & Monitor your APIs and websites with comprehensive Uptime and Synthetic monitoring.
+Annual
+Hobby
+Perfect for personal projects and learning
+$ 0
+per month
+Get Started
+Uptime Monitors
+10
+Maximum Frequency
+2 Min.
+Locations
+4
+Synthetic Monitoring
+Browser/Playwright Checks
+1,000
+API Checks
+10,000
+Round Robin
+Automatic retries
+Locations
+4
+Private Locations
+Plus Access To:
+Email, Slack, Webhooks for Alerting
+Starter
+Great for startups and growing projects
+$ 24
+per month
+Try for Free
+Uptime Monitors
+50
+Maximum Frequency
+1 Min.
+Locations
+4
+Synthetic Monitoring
+Browser/Playwright Checks
+3k
+API Checks
+25k
+Round Robin
+Automatic retries
+Locations
+4
+Private Locations
+Plus Access To:
+Email, Slack, SMS, Webhooks for Alerting
+Most Popular
+Team
+Ideal for growing teams and businesses
+$ 64
+per month
+Try for Free
+Uptime Monitors
+75
+Maximum Frequency
+30 Sec.
+Locations
+22
+Synthetic Monitoring
+Browser/Playwright Checks
+12k
+API Checks
+100k
+Round Robin
+Automatic retries
+Locations
+22
+Private Locations
+Plus Access To:
+All Alerting Channels
+Enterprise
+Custom solutions for large organizations
+Custom
+Contact Sales
+Uptime Monitors
+Custom
+Maximum Frequency
+1 Sec.
+Locations
+22
+Synthetic Monitoring
+RR & Parallel Scheduling
+Automatic retries
+Locations
+22
+Private Locations
+Plus Access To:
+All Alerting Channels
+World-class engineering and SRE teams depend on Checkly to deliver reliable digital experiences
+Plan Details
+Swipe left to see all plans
+Select your billing cycle
+Monthly
+Annually
+Detect
+Monitor your APIs and websites with comprehensive uptime and synthetic monitoring
+Hobby
+$ 0 per month, billed annually
+Get Started
+Starter
+$ 24 per month, billed annually
+Try for Free
+Team
+$ 64 per month, billed annually
+Try for Free
+Enterprise
+Get a custom quote
+Contact Sales
+Uptime Monitoring
+Protocol Support
+HTTPS, TCP, DNS, Heartbeat
+Uptime Monitors
+10
+50
+75
+Custom
+Additional Monitors (25)
+—
+$8
+Custom
+Scheduling
+Round Robin
+Round Robin & Parallel
+Public Locations
+4 eu-central-1, us-east-1, ap-southeast-1, ap-southeast-2
+All 22 Locations
+Private Locations
+Automatic Retries
+Synthetic Monitoring
+Browser Checks
+Playwright Check Suites
+Browser Check / Playwright Check Suite Runs
+1,000 per month
+3,000 per month
+12,000 per month
+Custom
+Additional Browser Check / Playwright Check Suite Runs
+—
+$4.00 per 1k
+Custom
+Browser Check / Playwright Check Suite Overages (1k)
+—
+$6.50
+$6.25
+Custom
+API & Multistep Checks
+API Check Runs
+10,000 per month
+25,000 per month
+100,000 per month
+Custom
+Additional API Check Runs
+—
+$1.80 per 10k
+Custom
+API Check Overages (10k)
+N/A
+$2.60
+$2.50
+Custom
+Automatic Retries
+Scheduling
+Round Robin & Parallel
+Public Locations
+4 eu-central-1, us-east-1, ap-southeast-1, ap-southeast-2
+All 22 Locations
+Private Locations
+SSL Monitoring
+10 Second Frequency
+Visual Regression Testing
+Alerting
+Email Alerts
+Slack Alerts
+Webhook Alerts
+Incident.io, Rootly & more
+SMS Alerts
+0
+100/month
+200/month
+Custom
+Phone Alerts
+0
+200/month
+Custom
+Communicate
+Keep your team and users informed with fast, beautiful status pages and dashboards.
+Hobby
+$ 0 per month, billed annually
+Get Started
+Starter
+$ 9 per month, billed annually
+Try for Free
+Team
+$ 30 per month, billed annually
+Try for Free
+Enterprise
+Get a custom quote
+Contact Sales
+Status Pages
+Services
+20
+25
+50
+100
+Subscribers
+250
+500
+1000
+2000
+Custom Domain
+Custom CSS
+Password Protection
+White Labeled
+Incident Management
+Dashboards
+1
+10
+Custom
+Platform
+Developer tools, support, and enterprise-grade security features
+Hobby
+$ 0 per month, billed annually
+Get Started
+Starter
+$ 24 per month, billed annually
+Try for Free
+Team
+$ 64 per month, billed annually
+Try for Free
+Enterprise
+Get a custom quote
+Contact Sales
+General
+Users
+1
+3
+10
+Custom
+Data
+Raw data retention
+7 days
+30 days
+180 days
+Aggregated data retention
+30 days
+1 year
+25 months
+Integrations
+Checkly CLI
+Terraform provider
+Pulumi Provider
+Prometheus Endpoint
+Customer Support
+Premium Support
+Onboarding Support
+Dedicated Customer Success Engineer
+24x7 Phone Escalation
+Contracts & Invoicing
+Security Review
+Security & Privacy
+SOC 2 Type II Compliant
+Multi-Factor Auth
+SAML/SSO
+99.9% Uptime SLA
+Client Certificates
+Service API Keys
+Frequently Asked Questions
+Transform your development workflow with a code-based monitoring process that's programmable, fast, and reliable.
+Platform
+General
+Billing
+What is an Uptime Monitor?
+Uptime Monitors are simple monitors that measure availability and performance of URLs, TCP connections, and Heartbeats from passive processes like Cron Jobs.
+What is an API Check?
+API Checks are monitors that do POST, GET, and other typical HTTP requests. You have full control over the payload, headers, etc. You can also create assertions to check if the response from your API is valid and performant. They can be scheduled to run as often as every 10 seconds, while a 1-second interval is available upon request.
+What is a Browser Check?
+Browser Checks are monitors based on Node.js scripts using the open-source Playwright testing framework. Each Browser Check uses an actual browser to execute navigation, fill out forms and validate if these interactions have the correct results. This is also commonly called “synthetic monitoring”. For billing, we count every executed script as a check run. Browser check runs have a timeout threshold of 2 minutes.
+What is a Playwright Check Suite
+Playwright Check Suites are similar to Browser Checks, but are able to run your Playwright Test suites completely natively, with custom dependencies, share storage state, and more.
+Playwright Check Suites are equal to a single Browser Check running for 30 seconds. For each 30 seconds they run, it will consume one more check run, i.e. a 45 second Playwright Check Suite will consume 2 runs.
+What is a Status Page
+Status pages provide transparent communication about your service health and incidents to customers, users, and stakeholders. Checkly’s status pages automatically reflect your monitoring results and create a professional interface for incident communication.
+Are Traces in any plan?
+On our Enterprise plan, these are available as add-ons and can be purchased separately.
+Traces are not officially available on our other plans yet. If you'd like early access, please reach out to support
+.
+Learn more about Traces
+and Status Pages
+on their product pages.
+How can I add features like private locations or visual regression testing?
+These are available in Team and Enterprise plans.
+What is the difference between Round Robin and Parallel scheduling?
+Round Robin scheduling runs checks sequentially across locations. Parallel allows them to run simultaneously for faster feedback.
+Try out Checkly for free
+Start monitoring your API endpoints and your vital site transactions.
+Get started
+*No credit card required

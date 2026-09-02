@@ -1,0 +1,353 @@
+[
+  {
+    "id": "back4app-com-pricing-backend-as-a-service-20230922013418",
+    "url": "https://www.back4app.com/pricing/backend-as-a-service",
+    "ts": "20230922013418",
+    "date": "2023-09-22",
+    "source": "wayback",
+    "prevTs": "20230324123618",
+    "kind": "price",
+    "score": 28,
+    "counts": {
+      "price": 8,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Back4app: 8 prices, 1 limit, 1 plan name changed ($25 → $15; $100 → $80)",
+    "pairs": [
+      {
+        "before": "$25/month per app",
+        "after": "$15/month per app",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$25",
+            "after": "$15"
+          }
+        ]
+      },
+      {
+        "before": "$100/month per app",
+        "after": "$80/month per app",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$100",
+            "after": "$80"
+          }
+        ]
+      },
+      {
+        "before": "$500/month per app",
+        "after": "$400/month per app",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$500",
+            "after": "$400"
+          }
+        ]
+      },
+      {
+        "before": "$25/month per app",
+        "after": "$15/month per app",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$25",
+            "after": "$15"
+          }
+        ]
+      },
+      {
+        "before": "$100/month per app",
+        "after": "$80/month per app",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$100",
+            "after": "$80"
+          }
+        ]
+      },
+      {
+        "before": "$500/month per app",
+        "after": "$400/month per app",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$500",
+            "after": "$400"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "After exceeding your quota, additional data transfer is billed at $0.1 per each 1 gigabyte of transfer.",
+      "Does the Dedicated Plan offer unlimited requests?",
+      "The Dedicated Plan operates on a fixed resource structure, a cluster with 8 CPUs/16GB, processing as many requests as the hardware can handle. However, it's important to emphasize that it doesn't imply unlimited capacity and does not mean it can support any workload, regardless of size and volume.",
+      "The thresholds specified on the Dedicated Plan apply to the cluster and not to each individual application. For instance, the total file storage will be 1TB for all applications, not for each one."
+    ],
+    "removed": [
+      "Start for Free",
+      "Once you reach your limit, extra requests cost $0.1 per Gigabyte."
+    ],
+    "totals": {
+      "removed": 24,
+      "added": 28,
+      "materialRemoved": 14,
+      "materialAdded": 16
+    }
+  },
+  {
+    "id": "back4app-com-pricing-backend-as-a-service-20250220135452",
+    "url": "https://www.back4app.com/pricing/backend-as-a-service",
+    "ts": "20250220135452",
+    "date": "2025-02-20",
+    "source": "wayback",
+    "prevTs": "20230922013418",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Back4app: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 5,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "back4app-com-pricing-backend-as-a-service-20250816223455",
+    "url": "https://www.back4app.com/pricing/backend-as-a-service",
+    "ts": "20250816223455",
+    "date": "2025-08-16",
+    "source": "wayback",
+    "prevTs": "20250220135452",
+    "kind": "limits",
+    "score": 51,
+    "counts": {
+      "price": 0,
+      "limit": 26,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Back4app: 26 limits changed (25K added; 2GB → 1GB)",
+    "pairs": [
+      {
+        "before": "with free monthly capacity of",
+        "after": "Free monthly capacity of 25 K requests,",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": null,
+            "after": "25K"
+          }
+        ]
+      },
+      {
+        "before": "2GB Data Storage",
+        "after": "1 GB Data Storage",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "2GB",
+            "after": "1GB"
+          }
+        ]
+      },
+      {
+        "before": "4 GB Data Storage",
+        "after": "3 GB Data Storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4GB",
+            "after": "3GB"
+          }
+        ]
+      },
+      {
+        "before": "80 GB Data Storage",
+        "after": "8 GB Data Storage",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "80GB",
+            "after": "8GB"
+          }
+        ]
+      },
+      {
+        "before": "The Dedicated Plan operates on a fixed resource structure, a cluster with 8 CPUs/16GB, processing as many requests as the hardware can handle. However, it's important to emphasize that it doesn't imply unlimited capacity and does not mean it can support any workload, regardless of size and volume.",
+        "after": "The Dedicated Plan operates on a fixed resource structure, a cluster with 10 CPUs / 14 GB, processing as many requests as the hardware can handle. However, it's important to emphasize that it doesn't imply unlimited capacity and does not mean it can support any workload, regardless of size and volume.",
+        "confidence": 0.97,
+        "deltas": [
+          {
+            "before": "8",
+            "after": "10"
+          },
+          {
+            "before": "16GB",
+            "after": "14GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "250 MB data storage, 1 GB transfer, 1 GB file storage.",
+      "10 CPUs / 14 GB",
+      "25 K",
+      "500 K",
+      "5 M",
+      "3 GB",
+      "8 GB",
+      "1 day",
+      "7 days",
+      "14 days",
+      "28 days",
+      "7 days",
+      "28 days",
+      "Point-in-time — 3 days",
+      "Daily — 7 days",
+      "Weekly — 28 days",
+      "Unlimited",
+      "25 K",
+      "1 GB",
+      "1 day",
+      "500 K",
+      "1 GB",
+      "7 days",
+      "7 days",
+      "5 M",
+      "3 GB",
+      "14 days",
+      "7 days",
+      "8 GB",
+      "28 days",
+      "28 days",
+      "Point-in-time 3 days",
+      "Daily 7 days",
+      "Weekly 28 days",
+      "Unlimited"
+    ],
+    "removed": [
+      "25k requests, 250MB data storage, 1GB transfer, and 1GB file storage.",
+      "8 CPUs / 16 GB",
+      "2GB",
+      "4GB",
+      "80GB",
+      "2GB",
+      "4GB",
+      "80GB"
+    ],
+    "totals": {
+      "removed": 154,
+      "added": 346,
+      "materialRemoved": 40,
+      "materialAdded": 67
+    }
+  },
+  {
+    "id": "back4app-com-pricing-backend-as-a-service-20251112002325",
+    "url": "https://www.back4app.com/pricing/backend-as-a-service",
+    "ts": "20251112002325",
+    "date": "2025-11-12",
+    "source": "wayback",
+    "prevTs": "20250816223455",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Back4app: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "back4app-com-pricing-backend-as-a-service-20260113130700",
+    "url": "https://www.back4app.com/pricing/backend-as-a-service",
+    "ts": "20260113130700",
+    "date": "2026-01-13",
+    "source": "wayback",
+    "prevTs": "20251112002325",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Back4app: 2 limits changed (removed “250 MB data storage, 1 GB transfer, 1 GB file…”; added “250MB Database”)",
+    "pairs": [],
+    "added": [
+      "250MB Database",
+      "1GB Transfer",
+      "1GB Files",
+      "No credit card required"
+    ],
+    "removed": [
+      "free plan",
+      "250 MB data storage, 1 GB transfer, 1 GB file storage."
+    ],
+    "totals": {
+      "removed": 20,
+      "added": 20,
+      "materialRemoved": 3,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "back4app-com-pricing-backend-as-a-service-20260625223608",
+    "url": "https://www.back4app.com/pricing/backend-as-a-service",
+    "ts": "20260625223608",
+    "date": "2026-06-25",
+    "source": "wayback",
+    "prevTs": "20260113130700",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 2,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Back4app: 2 prices, 2 limits changed (removed “Point-in-time 3 days”; added “Point-in-time — add on ($100/month)”)",
+    "pairs": [],
+    "added": [
+      "Point-in-time — add on ($100/month)",
+      "Point-in-time (add on $100/month)"
+    ],
+    "removed": [
+      "Point-in-time 3 days",
+      "Daily 7 days",
+      "Weekly 28 days"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 3,
+      "materialRemoved": 4,
+      "materialAdded": 3
+    }
+  }
+]

@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "replicate-com-pricing-20230304185423",
+    "url": "https://replicate.com/pricing",
+    "ts": "20230304185423",
+    "date": "2023-03-04",
+    "source": "wayback",
+    "prevTs": "20230110151534",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Replicate: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 10,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "replicate-com-pricing-20230506115101",
+    "url": "https://replicate.com/pricing",
+    "ts": "20230506115101",
+    "date": "2023-05-06",
+    "source": "wayback",
+    "prevTs": "20230304185423",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Replicate: 2 limits changed (40GB → 72GB)",
+    "pairs": [
+      {
+        "before": "40GB RAM",
+        "after": "72GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "40GB",
+            "after": "72GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Nvidia A100 40GB GPU"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 4,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "replicate-com-pricing-20230701215541",
+    "url": "https://replicate.com/pricing",
+    "ts": "20230701215541",
+    "date": "2023-07-01",
+    "source": "wayback",
+    "prevTs": "20230506115101",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 2,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Replicate: 2 prices, 2 limits changed (added “Nvidia A100 (80GB) GPU”)",
+    "pairs": [],
+    "added": [
+      "Nvidia A100 (80GB) GPU",
+      "$0.0032 per second",
+      "(or, $0.192 per minute)",
+      "80GB GPU RAM",
+      "144GB RAM"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 8,
+      "materialRemoved": 1,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "replicate-com-pricing-20231002211425",
+    "url": "https://replicate.com/pricing",
+    "ts": "20231002211425",
+    "date": "2023-10-02",
+    "source": "wayback",
+    "prevTs": "20230701215541",
+    "kind": "price",
+    "score": 66,
+    "counts": {
+      "price": 20,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Replicate: 20 prices, 3 limits changed (added “$0.000100 / sec”)",
+    "pairs": [],
+    "added": [
+      "$0.000100 / sec",
+      "($0.0060 / min)",
+      "$0.000225 / sec",
+      "($0.0135 / min)",
+      "$0.000575 / sec",
+      "($0.0345 / min)",
+      "$0.001300 / sec",
+      "($0.0780 / min)",
+      "48GB",
+      "16GB",
+      "$0.000725 / sec",
+      "($0.0435 / min)",
+      "$0.001600 / sec",
+      "($0.0960 / min)",
+      "48GB",
+      "$0.001150 / sec",
+      "($0.0690 / min)",
+      "72GB",
+      "$0.001400 / sec",
+      "($0.0840 / min)",
+      "$0.005800 / sec",
+      "($0.3480 / min)",
+      "$0.005800 / sec",
+      "($0.3480 / min)",
+      "8x 48GB",
+      "680GB"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 22,
+      "added": 72,
+      "materialRemoved": 16,
+      "materialAdded": 42
+    }
+  },
+  {
+    "id": "replicate-com-pricing-20231207143416",
+    "url": "https://replicate.com/pricing",
+    "ts": "20231207143416",
+    "date": "2023-12-07",
+    "source": "wayback",
+    "prevTs": "20231002211425",
+    "kind": "price",
+    "score": 84,
+    "counts": {
+      "price": 28,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Replicate: 28 prices changed (removed “($0.0060 / min)”; added “($0.36/hr)”)",
+    "pairs": [],
+    "added": [
+      "($0.36/hr)",
+      "($0.81/hr)",
+      "($2.07/hr)",
+      "($2.61/hr)",
+      "($4.14/hr)",
+      "($5.04/hr)",
+      "($20.88/hr)",
+      "If you’re new to Replicate, you can try us out for free, but eventually you’ll need to enter a credit card.",
+      "Predictions run on Nvidia A40 (Large) GPU hardware, which costs $0.000725 per second. Predictions typically complete within 17 seconds."
+    ],
+    "removed": [
+      "You can use Replicate for free, but after a bit you'll be asked to enter your credit card. You pay by the second for the predictions you run.",
+      "($0.0060 / min)",
+      "$0.000200 / sec",
+      "($0.0135 / min)",
+      "$0.000550 / sec",
+      "($0.0330 / min)",
+      "($0.0345 / min)",
+      "$0.001300 / sec",
+      "($0.0780 / min)",
+      "($0.0435 / min)",
+      "$0.001600 / sec",
+      "($0.0960 / min)",
+      "($0.0690 / min)",
+      "$0.002300 / sec",
+      "($0.1380 / min)",
+      "($0.0840 / min)",
+      "$0.003200 / sec",
+      "($0.1920 / min)",
+      "($0.3480 / min)",
+      "$0.005800 / sec",
+      "($0.3480 / min)"
+    ],
+    "totals": {
+      "removed": 42,
+      "added": 32,
+      "materialRemoved": 29,
+      "materialAdded": 17
+    }
+  },
+  {
+    "id": "replicate-com-pricing-20240409165923",
+    "url": "https://replicate.com/pricing",
+    "ts": "20240409165923",
+    "date": "2024-04-09",
+    "source": "wayback",
+    "prevTs": "20231207143416",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Replicate: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 7,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "replicate-com-pricing-20240604014717",
+    "url": "https://replicate.com/pricing",
+    "ts": "20240604014717",
+    "date": "2024-06-04",
+    "source": "wayback",
+    "prevTs": "20240409165923",
+    "kind": "price",
+    "score": 64,
+    "counts": {
+      "price": 14,
+      "limit": 11,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Replicate: 14 prices, 11 limits changed (removed “8GB”; added “2x Nvidia A100 (40GB) GPU”)",
+    "pairs": [],
+    "added": [
+      "2x Nvidia A100 (40GB) GPU",
+      "$0.002300/sec",
+      "$8.28/hr",
+      "80GB",
+      "144GB",
+      "4x Nvidia A100 (40GB) GPU",
+      "$0.004600/sec",
+      "$16.56/hr",
+      "160GB",
+      "288GB",
+      "2x Nvidia A100 (80GB) GPU",
+      "$0.002800/sec",
+      "$10.08/hr",
+      "160GB",
+      "288GB",
+      "4x Nvidia A100 (80GB) GPU",
+      "$0.005600/sec",
+      "$20.16/hr",
+      "320GB",
+      "576GB",
+      "8x Nvidia A100 (80GB) GPU",
+      "$0.011200/sec",
+      "$40.32/hr",
+      "640GB",
+      "960GB",
+      "$0.001450/sec",
+      "$5.22/hr",
+      "96GB",
+      "144GB",
+      "$0.002900/sec",
+      "$10.44/hr",
+      "192GB",
+      "288GB",
+      "384GB"
+    ],
+    "removed": [
+      "8GB",
+      "8x 48GB"
+    ],
+    "totals": {
+      "removed": 27,
+      "added": 89,
+      "materialRemoved": 17,
+      "materialAdded": 49
+    }
+  },
+  {
+    "id": "replicate-com-pricing-20240801000417",
+    "url": "https://replicate.com/pricing",
+    "ts": "20240801000417",
+    "date": "2024-08-01",
+    "source": "wayback",
+    "prevTs": "20240604014717",
+    "kind": "price",
+    "score": 27,
+    "counts": {
+      "price": 6,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Replicate: 6 prices, 5 limits changed (removed “Nvidia A100 (40GB) GPU”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Nvidia A100 (40GB) GPU",
+      "$0.001150/sec",
+      "$4.14/hr",
+      "40GB",
+      "72GB",
+      "2x Nvidia A100 (40GB) GPU",
+      "$0.002300/sec",
+      "$8.28/hr",
+      "80GB",
+      "144GB",
+      "4x Nvidia A100 (40GB) GPU",
+      "$0.004600/sec",
+      "$16.56/hr",
+      "160GB",
+      "288GB"
+    ],
+    "totals": {
+      "removed": 24,
+      "added": 1,
+      "materialRemoved": 15,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "replicate-com-pricing-20241006091729",
+    "url": "https://replicate.com/pricing",
+    "ts": "20241006091729",
+    "date": "2024-10-06",
+    "source": "wayback",
+    "prevTs": "20240801000417",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Replicate: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 4,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "replicate-com-pricing-20241207214942",
+    "url": "https://replicate.com/pricing",
+    "ts": "20241207214942",
+    "date": "2024-12-07",
+    "source": "wayback",
+    "prevTs": "20241006091729",
+    "kind": "price",
+    "score": 56,
+    "counts": {
+      "price": 16,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Replicate: 16 prices, 4 limits changed (added “$0.000975/sec”)",
+    "pairs": [],
+    "added": [
+      "$0.000975/sec",
+      "$3.51/hr",
+      "48GB",
+      "65GB",
+      "$0.001950/sec",
+      "$7.02/hr",
+      "96GB",
+      "144GB",
+      "$0.003900/sec",
+      "$14.04/hr",
+      "192GB",
+      "288GB",
+      "$0.007800/sec",
+      "$28.08/hr",
+      "384GB",
+      "576GB",
+      "$0.001525/sec",
+      "$5.49/hr",
+      "$0.003050/sec",
+      "$10.98/hr",
+      "$0.006100/sec",
+      "$21.96/hr",
+      "$0.012200/sec",
+      "$43.92/hr"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 59,
+      "materialRemoved": 0,
+      "materialAdded": 24
+    }
+  },
+  {
+    "id": "replicate-com-pricing-20250111170347",
+    "url": "https://replicate.com/pricing",
+    "ts": "20250111170347",
+    "date": "2025-01-11",
+    "source": "wayback",
+    "prevTs": "20241207214942",
+    "kind": "price",
+    "score": 40,
+    "counts": {
+      "price": 10,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Replicate: 10 prices, 5 limits changed (removed “$0.000725/sec”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$0.000725/sec",
+      "$2.61/hr",
+      "48GB",
+      "72GB",
+      "$0.001450/sec",
+      "$5.22/hr",
+      "96GB",
+      "144GB",
+      "$0.002900/sec",
+      "$10.44/hr",
+      "192GB",
+      "288GB",
+      "$0.005800/sec",
+      "$20.88/hr",
+      "384GB",
+      "680GB",
+      "$0.000575/sec",
+      "$2.07/hr",
+      "48GB",
+      "16GB"
+    ],
+    "totals": {
+      "removed": 43,
+      "added": 5,
+      "materialRemoved": 20,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "replicate-com-pricing-20250212203643",
+    "url": "https://replicate.com/pricing",
+    "ts": "20250212203643",
+    "date": "2025-02-12",
+    "source": "wayback",
+    "prevTs": "20250111170347",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Replicate: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 13,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "replicate-com-pricing-20250307182703",
+    "url": "https://replicate.com/pricing",
+    "ts": "20250307182703",
+    "date": "2025-03-07",
+    "source": "wayback",
+    "prevTs": "20250212203643",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Replicate: 2 prices changed ($0.012 → $0.0036)",
+    "pairs": [
+      {
+        "before": "This model costs approximately $0.012 to run on Replicate, but this varies depending on your inputs.",
+        "after": "This model costs approximately $0.0036 to run on Replicate, or 277 runs per $1, but this varies depending on your inputs.",
+        "confidence": 0.85,
+        "deltas": [
+          {
+            "before": "$0.012",
+            "after": "$0.0036"
+          },
+          {
+            "before": null,
+            "after": "277"
+          },
+          {
+            "before": null,
+            "after": "$1,"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "Predictions run on Nvidia A40 (Large) GPU hardware, which costs $0.000725 per second. Predictions typically complete within 17 seconds."
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "replicate-com-pricing-20250504003611",
+    "url": "https://replicate.com/pricing",
+    "ts": "20250504003611",
+    "date": "2025-05-04",
+    "source": "wayback",
+    "prevTs": "20250307182703",
+    "kind": "price",
+    "score": 388,
+    "counts": {
+      "price": 122,
+      "limit": 11,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Replicate: 122 prices, 11 limits changed (added “Show images / $1”)",
+    "pairs": [],
+    "added": [
+      "Show images / $1",
+      "$0.040 / image",
+      "$0.060 / image",
+      "$0.070 / image",
+      "$0.025 / image",
+      "$0.050 / image",
+      "$0.025 / image",
+      "$0.050 / image",
+      "$0.025 / image",
+      "$0.032 / image",
+      "$0.040 / image",
+      "$0.050 / image",
+      "$0.055 / image",
+      "$0.025 / image",
+      "$0.003 / image",
+      "$0.003 / image",
+      "$0.020 / image",
+      "$0.040 / image",
+      "$0.050 / image",
+      "$0.050 / image",
+      "$0.025 / image",
+      "$0.080 / image",
+      "$0.040 / image",
+      "$0.025 / image",
+      "$0.050 / image",
+      "$0.070 / image",
+      "$0.100 / image",
+      "$0.040 / image",
+      "$0.030 / image",
+      "$0.010 / image",
+      "$0.010 / image",
+      "recraft-ai / recraft-20b",
+      "$0.022 / image",
+      "recraft-ai / recraft-20b-svg",
+      "$0.044 / image",
+      "$0.300 / image",
+      "$0.006 / image",
+      "$0.040 / image",
+      "$0.080 / image",
+      "$0.035 / image"
+    ],
+    "removed": [
+      "If you’re new to Replicate you can try featured models for free, but eventually you’ll need to enter a credit card."
+    ],
+    "totals": {
+      "removed": 36,
+      "added": 261,
+      "materialRemoved": 29,
+      "materialAdded": 172
+    }
+  },
+  {
+    "id": "replicate-com-docs-topics-billing-20250602035246",
+    "url": "https://replicate.com/docs/topics/billing",
+    "ts": "20250602035246",
+    "date": "2025-06-02",
+    "source": "wayback",
+    "prevTs": "20250123180447",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Replicate: 1 limit changed (removed “The minimum billable unit for an individual r…”; added “Talk to images with Llava 13B”)",
+    "pairs": [],
+    "added": [
+      "Talk to images with Llava 13B"
+    ],
+    "removed": [
+      "The minimum billable unit for an individual run of a public model is 1 second or 1 token."
+    ],
+    "totals": {
+      "removed": 59,
+      "added": 110,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "replicate-com-pricing-20250603171158",
+    "url": "https://replicate.com/pricing",
+    "ts": "20250603171158",
+    "date": "2025-06-03",
+    "source": "wayback",
+    "prevTs": "20250504003611",
+    "kind": "price",
+    "score": 494,
+    "counts": {
+      "price": 149,
+      "limit": 24,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Replicate: 149 prices, 24 limits changed ($0.050 → $0.09; $0.098 → $0.25)",
+    "pairs": [
+      {
+        "before": "$0.050 / second of video",
+        "after": "$0.09 / second of video",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.050",
+            "after": "$0.09"
+          }
+        ]
+      },
+      {
+        "before": "$0.098 / second of video",
+        "after": "$0.25 / second of video",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.098",
+            "after": "$0.25"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$3 / million tokens",
+      "$15 / million tokens",
+      "$3.75 / million tokens",
+      "$10 / million tokens",
+      "Accelerated inference for Wan 2.1 14B image to video, a comprehensive and open suite of video foundation models that pushes the boundaries of video generation.",
+      "Accelerated inference for Wan 2.1 14B image to video with high resolution, a comprehensive and open suite of video foundation models that pushes the boundaries of video generation.",
+      "$ 0.000100 /sec",
+      "$ 0.36 /hr",
+      "8GB",
+      "Nvidia A100 (80GB) GPU",
+      "$ 0.001400 /sec",
+      "$ 5.04 /hr",
+      "80GB",
+      "144GB",
+      "2x Nvidia A100 (80GB) GPU",
+      "$ 0.002800 /sec",
+      "$ 10.08 /hr",
+      "160GB",
+      "4x Nvidia A100 (80GB) GPU",
+      "$ 0.005600 /sec",
+      "$ 20.16 /hr",
+      "320GB",
+      "8x Nvidia A100 (80GB) GPU",
+      "$ 0.011200 /sec",
+      "$ 40.32 /hr",
+      "640GB",
+      "960GB",
+      "80GB",
+      "72GB",
+      "$ 0.000975 /sec",
+      "$ 3.51 /hr",
+      "48GB",
+      "65GB",
+      "$ 0.001950 /sec",
+      "$ 7.02 /hr",
+      "96GB",
+      "144GB",
+      "$ 0.000225 /sec",
+      "$ 0.81 /hr",
+      "16GB"
+    ],
+    "removed": [
+      "$ 0.003900 /sec",
+      "$ 14.04 /hr",
+      "192GB",
+      "$ 0.007800 /sec",
+      "$ 28.08 /hr",
+      "384GB",
+      "This model costs approximately $0.0036 to run on Replicate, or 277 runs per $1, but this varies depending on your inputs.",
+      "Show images / $1",
+      "$0.060 / image",
+      "$0.070 / image",
+      "$0.050 / image",
+      "$0.025 / image",
+      "$0.050 / image",
+      "$0.025 / image",
+      "$0.032 / image",
+      "$0.050 / image",
+      "$0.055 / image",
+      "$0.025 / image",
+      "$0.003 / image",
+      "$0.020 / image",
+      "$0.040 / image",
+      "$0.050 / image",
+      "$0.050 / image",
+      "$0.025 / image",
+      "$0.080 / image",
+      "$0.040 / image",
+      "$0.025 / image",
+      "$0.050 / image",
+      "$0.070 / image",
+      "$0.040 / image",
+      "$0.030 / image",
+      "$0.010 / image",
+      "$0.010 / image",
+      "recraft-ai / recraft-20b",
+      "$0.022 / image",
+      "recraft-ai / recraft-20b-svg",
+      "$0.044 / image",
+      "$0.300 / image",
+      "$0.006 / image",
+      "$0.040 / image"
+    ],
+    "totals": {
+      "removed": 276,
+      "added": 194,
+      "materialRemoved": 155,
+      "materialAdded": 63
+    }
+  },
+  {
+    "id": "replicate-com-pricing-20250702112309",
+    "url": "https://replicate.com/pricing",
+    "ts": "20250702112309",
+    "date": "2025-07-02",
+    "source": "wayback",
+    "prevTs": "20250603171158",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 8,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Replicate: 8 prices changed (removed “$15 / million tokens”; added “$0.015 / thousand output tokens”)",
+    "pairs": [],
+    "added": [
+      "$0.015 / thousand output tokens",
+      "$3.00 / thousand output images",
+      "$0.01 / thousand output tokens",
+      "$0.09 / second of output video"
+    ],
+    "removed": [
+      "$15 / million tokens",
+      "$0.003 / image",
+      "$10 / million tokens",
+      "$0.1 / image"
+    ],
+    "totals": {
+      "removed": 24,
+      "added": 12,
+      "materialRemoved": 12,
+      "materialAdded": 12
+    }
+  },
+  {
+    "id": "replicate-com-pricing-20250803051412",
+    "url": "https://replicate.com/pricing",
+    "ts": "20250803051412",
+    "date": "2025-08-03",
+    "source": "wayback",
+    "prevTs": "20250702112309",
+    "kind": "price",
+    "score": 46,
+    "counts": {
+      "price": 12,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Replicate: 12 prices, 5 limits changed (removed “320GB”; added “$ 0.000025 /sec”)",
+    "pairs": [],
+    "added": [
+      "$ 0.000025 /sec",
+      "$ 0.09 /hr",
+      "2GB",
+      "$ 0.003900 /sec",
+      "$ 14.04 /hr",
+      "$ 0.007800 /sec",
+      "$ 28.08 /hr",
+      "$ 0.000025 /sec",
+      "$ 0.09 /hr",
+      "2GB",
+      "$ 0.003900 /sec",
+      "$ 14.04 /hr",
+      "$ 0.007800 /sec",
+      "$ 28.08 /hr"
+    ],
+    "removed": [
+      "320GB",
+      "576GB",
+      "640GB",
+      "960GB",
+      "320GB",
+      "576GB",
+      "640GB",
+      "960GB"
+    ],
+    "totals": {
+      "removed": 40,
+      "added": 60,
+      "materialRemoved": 20,
+      "materialAdded": 26
+    }
+  },
+  {
+    "id": "replicate-com-pricing-20250909003906",
+    "url": "https://replicate.com/pricing",
+    "ts": "20250909003906",
+    "date": "2025-09-09",
+    "source": "wayback",
+    "prevTs": "20250803051412",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Replicate: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 7,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "replicate-com-docs-topics-billing-20251109091659",
+    "url": "https://replicate.com/docs/topics/billing",
+    "ts": "20251109091659",
+    "date": "2025-11-09",
+    "source": "wayback",
+    "prevTs": "20250602035246",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Replicate: 1 limit changed (removed “Talk to images with Llava 13B”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Talk to images with Llava 13B",
+      "Talk to images with Llava 13B"
+    ],
+    "totals": {
+      "removed": 42,
+      "added": 65,
+      "materialRemoved": 3,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "replicate-com-pricing-20251201142958",
+    "url": "https://replicate.com/pricing",
+    "ts": "20251201142958",
+    "date": "2025-12-01",
+    "source": "wayback",
+    "prevTs": "20250909003906",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Replicate: 1 price changed (removed “$0.50 / second of output video”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$0.50 / second of output video"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "replicate-com-docs-topics-billing-20260517115816",
+    "url": "https://replicate.com/docs/topics/billing",
+    "ts": "20260517115816",
+    "date": "2026-05-17",
+    "source": "wayback",
+    "prevTs": "20251109091659",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Replicate: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 8,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "replicate-com-pricing-20260804172024",
+    "url": "https://replicate.com/pricing",
+    "ts": "20260804172024",
+    "date": "2026-08-04",
+    "source": "wayback",
+    "prevTs": "20251201142958",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Replicate: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "replicate-com-pricing-20260902165710",
+    "url": "https://replicate.com/pricing",
+    "ts": "20260902165710",
+    "date": "2026-09-02",
+    "source": "wayback",
+    "prevTs": "20260804172024",
+    "kind": "price",
+    "score": 58,
+    "counts": {
+      "price": 18,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Replicate: 18 prices, 2 limits changed (removed “$0.015 / thousand output tokens”; added “144GB”)",
+    "pairs": [],
+    "added": [
+      "144GB",
+      "$ 0.001525 /sec",
+      "$ 5.49 /hr",
+      "$ 0.003050 /sec",
+      "$ 10.98 /hr",
+      "$ 0.006100 /sec",
+      "$ 21.96 /hr",
+      "$ 0.012200 /sec",
+      "$ 43.92 /hr",
+      "144GB",
+      "$ 0.001525 /sec",
+      "$ 5.49 /hr",
+      "$ 0.003050 /sec",
+      "$ 10.98 /hr",
+      "$ 0.006100 /sec",
+      "$ 21.96 /hr",
+      "$ 0.012200 /sec",
+      "$ 43.92 /hr"
+    ],
+    "removed": [
+      "$0.015 / thousand output tokens",
+      "$3.00 / million input tokens",
+      "72GB",
+      "72GB"
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 43,
+      "materialRemoved": 4,
+      "materialAdded": 18
+    }
+  }
+]

@@ -1,0 +1,777 @@
+Pricing
+Everything you need for best-in-class software delivery
+Personal
+$ 0
+Try the software delivery platform used by the world’s top engineering teams
+Get started
+Pipelines
+3 concurrent jobs (hosted+self-hosted) per org/mo
+Max concurrent jobs across both
+Test Engine
+50k test executions/mo
+Package Registries
+1GB storage & bandwidth (combined)/mo
+Hosted Agents
+500 minutes/month
+Plus
+Community support
+Featured Pro
+$ 30 USD, per active user/mo
+Leverage the software delivery platform used by the world’s top engineering teams
+Start a 30 day free trial
+Pipelines
+10 concurrent self-hosted agents per org/mo
+Then $2.50 USD per concurrent agent/mo
+Test Engine
+Unlimited test executions
+250 managed tests per org/mo
+Then $0.10 USD per managed test/mo
+Package Registries
+20GB storage & bandwidth (combined) per org/mo
+Then $1.25 USD per GB/mo
+Hosted Agents
+2,000 minutes/month
+Plus
+SSO
+Priority email support
+Enterprise
+Custom
+Build the perfect plan for your business
+Contact us
+Flexible billing & payment options available
+Pipelines
+Unlimited
+Test Engine
+Volume discounts
+Package Registries
+Volume discounts
+Hosted Agents
+Volume discounts
+Plus
+Advanced governance & control
+Custom SCIM, SAML, ADFS
+User & API activity audit logs
+Build exports
+Add-on: Premium support with SLA
+Prices exclusive of taxes
+Plan comparison
+Personal
+$ 0
+Get started
+Pro
+$ 30 USD, per active user/mo
+Start a 30 day free trial
+Enterprise
+Custom Build your perfect plan
+Contact us
+Pipelines
+Self-hosted agents
+3 Max 3 conc. jobs (hosted+self-hosted)
+Unlimited 10 included, then $2.50 USD/agent/mo
+Unlimited Volume discounts
+The maximum number of Buildkite agents connected simultaneously.
+Active users
+1
+Unlimited
+Build retention
+90 days
+1 year
+Automatically remove your finished builds after a set period.
+Waterfall view
+✓ ✓ ✓
+See a timeline of your build in a Gantt chart, broken down by job with metrics like duration and dispatch time.
+Pause queues
+✓ ✓ ✓
+Get more control over when queues dispatch jobs to agents—for example, pausing dispatch for an incident or infrastructure upgrade.
+Job retries report
+✓ ✓ ✓
+Analyze job retries to understand flakiness and instability across your pipelines.
+GitHub Enterprise support
+— ✓ ✓
+Connect to an on-premise GitHub Enterprise instance.
+Bitbucket Server support
+— ✓ ✓
+Connect to an on-premise Bitbucket Server instance.
+Historical build exports
+— — ✓
+Automatically export historical builds that are older than a year into your own S3 or GCS bucket in JSON format.
+Pipeline templates
+— — ✓
+Define standard pipeline step configurations to use across your organization.
+Test Engine
+Managed tests
+N/A
+250 included Then $0.10 USD/managed test/mo
+Volume discounts
+Number of unique tests being tracked and analysed in Test Engine.
+Test executions
+50k/mo
+Unlimited
+Real-time flaky test identification
+✓ ✓ ✓
+Test suite insights
+✓ ✓ ✓
+Test ownership
+✓ ✓ ✓
+Auto assignment
+✓ ✓ ✓
+Team reporting
+✓ ✓ ✓
+Test splitting
+✓ ✓ ✓
+Effortlessly bin pack your test suite across multiple nodes without having to manually rebalance your test plan.
+Test state management
+— ✓ ✓
+Auto-quarantine
+— ✓ ✓
+Data warehouse export (Coming soon)
+— — ✓
+Package Registries
+Storage & bandwidth
+1GB included
+20GB included Then $1.25 USD/GB/month
+Volume discounts
+Amount of storage and bandwidth (combined) being managed by Package Registries.
+Registries
+✓ ✓ ✓
+Private registries
+✓ ✓ ✓
+Remote dependency mirroring
+— ✓ ✓
+Arbitrary files
+— ✓ ✓
+Large packages
+— ✓ ✓
+Branded endpoints
+— — ✓
+Virtual registries
+— — ✓
+Software provenance
+— — ✓
+License checks
+— — ✓
+Threat scanning
+— — ✓
+Hosted Agents
+Linux Small
+500 minutes/month included Upgrade to Pro for more
+2,000 minutes/month included Then $0.013 USD/minute
+Volume discounts
+2 vCPU, 4 GB RAM
+Linux Medium
+—
+$0.026 USD/minute
+Volume discounts
+4 vCPU, 16 GB RAM
+Linux Large
+—
+$0.052 USD/minute
+Volume discounts
+8 vCPU, 32 GB RAM
+M4 Mac Medium
+—
+$0.18 USD/minute
+Volume discounts
+6 vCPU, 28 GB RAM
+M4 Mac Large
+—
+$0.36 USD/minute
+Volume discounts
+12 vCPU, 56 GB RAM
+Linux Concurrency
+Up to 6 vCPU Max 3 concurrent jobs
+Up to 48 vCPU
+Custom
+The maximum combined Linux vCPUs your jobs can utilize at once across all agent sizes.
+Mac M4 Concurrency
+—
+Up to 24 vCPU
+Custom
+The maximum combined M4 Mac vCPUs your jobs can utilize at once across all agent sizes.
+Git mirror caching
+✓ ✓ ✓
+Custom image support
+✓ ✓ ✓
+Cache volumes
+— ✓ ✓
+Internal container registry
+— — ✓
+Remote Docker builds
+— — ✓
+Team management
+Team permissions
+✓ ✓ ✓
+Manage permissions across multiple teams.
+Member permissions
+— — ✓
+Manage default member permissions, such as disabling pipeline creation.
+System banners
+— — ✓
+Communicate important messages and alerts to your entire organization, as you need.
+Security & audit
+GitHub auth
+✓ ✓ ✓
+Signed pipelines
+— ✓ ✓
+Prevent unauthorized pipeline modifications by signing step definitions and verifying signatures before running jobs.
+Single sign on
+— ✓ ✓
+Connect an SSO provider to simplify and protect access to your organization’s data.
+API access overview
+— ✓ ✓
+Inspect your users’ API tokens, and see how those tokens are being used.
+SCIM, custom SAML & ADFS
+— — ✓
+SCIM support for automatic user management, and advanced SSO providers.
+Private log storage
+— — ✓
+Store your job logs in a private S3 bucket.
+Activity log
+— — ✓
+Track all user activity within your organization.
+Inactive user list
+— — ✓
+Audit inactive users and easily remove them.
+API token expiry policies
+— — ✓
+Prevent potential security risks created by unused API tokens.
+Session IP address pinning
+— — ✓
+Prompt your users to re-authorize when their origin changes.
+Support & billing
+Priority email support
+— ✓ ✓
+Priority status for all email support requests.
+Invoice payment
+— — ✓
+Pay annually or via invoice.
+Consolidated billing
+— — ✓
+Consolidated billing & invoicing across multiple accounts.
+Personal
+$ 0
+Get started
+Pipelines
+Self-hosted agents
+3 Max 3 conc. jobs (hosted+self-hosted)
+The maximum number of Buildkite agents connected simultaneously.
+Active users
+1
+Build retention
+90 days
+Automatically remove your finished builds after a set period.
+Waterfall view
+✓
+See a timeline of your build in a Gantt chart, broken down by job with metrics like duration and dispatch time.
+Pause queues
+✓
+Get more control over when queues dispatch jobs to agents—for example, pausing dispatch for an incident or infrastructure upgrade.
+Job retries report
+✓
+Analyze job retries to understand flakiness and instability across your pipelines.
+Test Engine
+Test executions
+50k/mo
+Real-time flaky test identification
+✓
+Test suite insights
+✓
+Test ownership
+✓
+Auto assignment
+✓
+Team reporting
+✓
+Test splitting
+✓
+Effortlessly bin pack your test suite across multiple nodes without having to manually rebalance your test plan.
+Package Registries
+Storage & bandwidth
+1GB included
+Amount of storage and bandwidth (combined) being managed by Package Registries.
+Registries
+✓
+Private registries
+✓
+Hosted Agents
+Linux Small
+500 minutes/month included Upgrade to Pro for more
+2 vCPU, 4 GB RAM
+Linux Medium
+—
+4 vCPU, 16 GB RAM
+Linux Large
+—
+8 vCPU, 32 GB RAM
+M4 Mac Medium
+—
+6 vCPU, 28 GB RAM
+M4 Mac Large
+—
+12 vCPU, 56 GB RAM
+Linux Concurrency
+Up to 6 vCPU Max 3 concurrent jobs
+The maximum combined Linux vCPUs your jobs can utilize at once across all agent sizes.
+Mac M4 Concurrency
+—
+The maximum combined M4 Mac vCPUs your jobs can utilize at once across all agent sizes.
+Git mirror caching
+✓
+Custom image support
+✓
+Team management
+Team permissions
+✓
+Manage permissions across multiple teams.
+Security & audit
+GitHub auth
+✓
+Pro
+$ 30 USD, per active user/mo
+Start a 30 day free trial
+Pipelines
+Self-hosted agents
+Unlimited 10 included, then $2.50 USD/agent/mo
+The maximum number of Buildkite agents connected simultaneously.
+Active users
+Unlimited
+Build retention
+1 year
+Automatically remove your finished builds after a set period.
+Waterfall view
+✓
+See a timeline of your build in a Gantt chart, broken down by job with metrics like duration and dispatch time.
+Pause queues
+✓
+Get more control over when queues dispatch jobs to agents—for example, pausing dispatch for an incident or infrastructure upgrade.
+Job retries report
+✓
+Analyze job retries to understand flakiness and instability across your pipelines.
+GitHub Enterprise support
+✓
+Connect to an on-premise GitHub Enterprise instance.
+Bitbucket Server support
+✓
+Connect to an on-premise Bitbucket Server instance.
+Test Engine
+Managed tests
+250 included Then $0.10 USD/managed test/mo
+Number of unique tests being tracked and analysed in Test Engine.
+Test executions
+Unlimited
+Real-time flaky test identification
+✓
+Test suite insights
+✓
+Test ownership
+✓
+Auto assignment
+✓
+Team reporting
+✓
+Test splitting
+✓
+Effortlessly bin pack your test suite across multiple nodes without having to manually rebalance your test plan.
+Test state management
+✓
+Auto-quarantine
+✓
+Package Registries
+Storage & bandwidth
+20GB included Then $1.25 USD/GB/month
+Amount of storage and bandwidth (combined) being managed by Package Registries.
+Registries
+✓
+Private registries
+✓
+Remote dependency mirroring
+✓
+Arbitrary files
+✓
+Large packages
+✓
+Hosted Agents
+Linux Small
+2,000 minutes/month included Then $0.013 USD/minute
+2 vCPU, 4 GB RAM
+Linux Medium
+$0.026 USD/minute
+4 vCPU, 16 GB RAM
+Linux Large
+$0.052 USD/minute
+8 vCPU, 32 GB RAM
+M4 Mac Medium
+$0.18 USD/minute
+6 vCPU, 28 GB RAM
+M4 Mac Large
+$0.36 USD/minute
+12 vCPU, 56 GB RAM
+Linux Concurrency
+Up to 48 vCPU
+The maximum combined Linux vCPUs your jobs can utilize at once across all agent sizes.
+Mac M4 Concurrency
+Up to 24 vCPU
+The maximum combined M4 Mac vCPUs your jobs can utilize at once across all agent sizes.
+Git mirror caching
+✓
+Custom image support
+✓
+Cache volumes
+✓
+Team management
+Team permissions
+✓
+Manage permissions across multiple teams.
+Security & audit
+GitHub auth
+✓
+Signed pipelines
+✓
+Prevent unauthorized pipeline modifications by signing step definitions and verifying signatures before running jobs.
+Single sign on
+✓
+Connect an SSO provider to simplify and protect access to your organization’s data.
+API access overview
+✓
+Inspect your users’ API tokens, and see how those tokens are being used.
+Support & billing
+Priority email support
+✓
+Priority status for all email support requests.
+Enterprise
+Custom Build your perfect plan
+Contact us
+Pipelines
+Self-hosted agents
+Unlimited Volume discounts
+The maximum number of Buildkite agents connected simultaneously.
+Active users
+Unlimited
+Build retention
+1 year
+Automatically remove your finished builds after a set period.
+Waterfall view
+✓
+See a timeline of your build in a Gantt chart, broken down by job with metrics like duration and dispatch time.
+Pause queues
+✓
+Get more control over when queues dispatch jobs to agents—for example, pausing dispatch for an incident or infrastructure upgrade.
+Job retries report
+✓
+Analyze job retries to understand flakiness and instability across your pipelines.
+GitHub Enterprise support
+✓
+Connect to an on-premise GitHub Enterprise instance.
+Bitbucket Server support
+✓
+Connect to an on-premise Bitbucket Server instance.
+Historical build exports
+✓
+Automatically export historical builds that are older than a year into your own S3 or GCS bucket in JSON format.
+Pipeline templates
+✓
+Define standard pipeline step configurations to use across your organization.
+Test Engine
+Managed tests
+Volume discounts
+Number of unique tests being tracked and analysed in Test Engine.
+Test executions
+Unlimited
+Real-time flaky test identification
+✓
+Test suite insights
+✓
+Test ownership
+✓
+Auto assignment
+✓
+Team reporting
+✓
+Test splitting
+✓
+Effortlessly bin pack your test suite across multiple nodes without having to manually rebalance your test plan.
+Test state management
+✓
+Auto-quarantine
+✓
+Data warehouse export (Coming soon)
+✓
+Package Registries
+Storage & bandwidth
+Volume discounts
+Amount of storage and bandwidth (combined) being managed by Package Registries.
+Registries
+✓
+Private registries
+✓
+Remote dependency mirroring
+✓
+Arbitrary files
+✓
+Large packages
+✓
+Branded endpoints
+✓
+Virtual registries
+✓
+Software provenance
+✓
+License checks
+✓
+Threat scanning
+✓
+Hosted Agents
+Linux Small
+Volume discounts
+2 vCPU, 4 GB RAM
+Linux Medium
+Volume discounts
+4 vCPU, 16 GB RAM
+Linux Large
+Volume discounts
+8 vCPU, 32 GB RAM
+M4 Mac Medium
+Volume discounts
+6 vCPU, 28 GB RAM
+M4 Mac Large
+Volume discounts
+12 vCPU, 56 GB RAM
+Linux Concurrency
+Custom
+The maximum combined Linux vCPUs your jobs can utilize at once across all agent sizes.
+Mac M4 Concurrency
+Custom
+The maximum combined M4 Mac vCPUs your jobs can utilize at once across all agent sizes.
+Git mirror caching
+✓
+Custom image support
+✓
+Cache volumes
+✓
+Internal container registry
+✓
+Remote Docker builds
+✓
+Team management
+Team permissions
+✓
+Manage permissions across multiple teams.
+Member permissions
+✓
+Manage default member permissions, such as disabling pipeline creation.
+System banners
+✓
+Communicate important messages and alerts to your entire organization, as you need.
+Security & audit
+GitHub auth
+✓
+Signed pipelines
+✓
+Prevent unauthorized pipeline modifications by signing step definitions and verifying signatures before running jobs.
+Single sign on
+✓
+Connect an SSO provider to simplify and protect access to your organization’s data.
+API access overview
+✓
+Inspect your users’ API tokens, and see how those tokens are being used.
+SCIM, custom SAML & ADFS
+✓
+SCIM support for automatic user management, and advanced SSO providers.
+Private log storage
+✓
+Store your job logs in a private S3 bucket.
+Activity log
+✓
+Track all user activity within your organization.
+Inactive user list
+✓
+Audit inactive users and easily remove them.
+API token expiry policies
+✓
+Prevent potential security risks created by unused API tokens.
+Session IP address pinning
+✓
+Prompt your users to re-authorize when their origin changes.
+Support & billing
+Priority email support
+✓
+Priority status for all email support requests.
+Invoice payment
+✓
+Pay annually or via invoice.
+Consolidated billing
+✓
+Consolidated billing & invoicing across multiple accounts.
+Compute options
+Self-host
+or take advantage of Buildkite's managed CI/CD solution with hosted Mac
+or Linux
+agents. Pricing below.
+Open Source
+Buildkite is free for open source projects. Sign up for our Pro plan, and contact us
+to discuss usage and inclusions.
+Non-profits & charities
+We offer heavy discounts for non-profit and charity organizations using Buildkite. Contact us
+to see how we can help you.
+Buildkite Hosted Agents
+Choose the Buildkite platform plan that works best for you, and then pay-as-you-go for a fully managed CI/CD environment.
+Each new signup gets a free two-week trial to test hosted agents before paying.
+Linux Hosted Agents
+Machine size Price
+Small
+2 vCPU, 4GB RAM
+$0.013 USD
+per minute
+Medium
+4 vCPU, 16GB RAM
+$0.026 USD
+per minute
+Large
+8 vCPU, 32GB RAM
+$0.052 USD
+per minute
+Mac Hosted Agents
+Machine size Price
+M4 Medium
+6 vCPU, 28GB RAM
+$0.18 USD
+per minute
+M4 Large
+12 vCPU, 56GB RAM
+$0.36 USD
+per minute
+Model Providers
+Proxy LLM model requests to providers and pay for usage. We're starting with Anthropic and offering the same pricing they provide.
+Anthropic Models
+Model Price per MTok
+Opus 4.5
+Most intelligent model
+Input
+$5.00 / MTok
+Output
+$25.00 / MTok
+Cache Write
+$6.25 / MTok
+Cache Read
+$0.50 / MTok
+Sonnet 4.5
+Optimal balance
+Input
+$3.00 / MTok
+Output
+$15.00 / MTok
+Cache Write
+$3.75 / MTok
+Cache Read
+$0.30 / MTok
+Haiku 4.5
+Fastest, most cost-efficient
+Input
+$1.00 / MTok
+Output
+$5.00 / MTok
+Cache Write
+$1.25 / MTok
+Cache Read
+$0.10 / MTok
+Enterprise Premium Support
+Prioritize your support needs
+Our enterprise plan options are available for companies that require the highest level of features and support.
+Learn more
+24/7 emergency pager
+Support SLA
+Professional services
+Training
+Live chat support
+Technical account manager
+99.95% uptime SLA
+Priority support
+Frequently asked questions
+Got a question that’s not on our list? Want a demo? Just want to chat? Get in touch
+.
+What is an agent?
+A build agent runs on your infrastructure or on Buildkite-hosted compute, and runs one build job at a time. You can run as many agents as you want, in the same or separate queues, and Buildkite will coordinate the work between them. Agents can be securely and reliably deployed across different networks and environments.
+Who counts as an active user?
+Active users are unique users that access the Buildkite system in any given month. Accessing the system includes logging into Buildkite.com, interacting with the Buildkite API, or triggering a build.
+How does Buildkite bill for concurrent agent usage?
+We use a 95th percentile (P95) billing method for self-hosted agent usage. This approach ensures fair billing by focusing on your typical usage while disregarding occasional spikes.
+To accomplish this, we measure your self-hosted agent usage daily, and at month's end, ignore the top 5%. This provides a more stable and predictable billing experience, and reflects your consistent usage patterns rather than rare peak events.
+Buildkite hosted agents are not subject to concurrent agent usage fees.
+How does Buildkite track and bill for managed tests?
+Buildkite Test Engine uniquely identifies each test by its combination of test suite, scope, and name. These “managed tests” are used to power Test Engine’s analytics, as well as to provide a stable basis for billing purposes.
+We use a 90th percentile (P90) billing method for managed tests. This approach encourages continuous improvement of your testing practices while maintaining predictable costs.
+To accomplish this, Buildkite measures usage by calculating the number of managed tests that have executed (run) at least once each day, and at month's end, disregard the top 10%. By disregarding the highest usage days, you can freely add new tests, experiment with different testing strategies, or temporarily increase test coverage without worrying about billing spikes.
+What are the pricing tiers for Buildkite Package Registries?
+For Package Registries
+cost per GB for storage and bandwidth decreases with increasing usage volume.
+50GB of storage and bandwidth (combined) per month is always included with Buildkite platform access. Then, additional usage is billed at:
+Tier 1: 1,000GB @ US$1.25 per GB
+Tier 2: 2,500GB @ US$1.00 per GB
+Tier 3: 5,000GB @ US$0.75 per GB
+Tier 4: 20,000GB @ US$0.50 per GB
+Tier 5: 50,000GB @ US$0.25 per GB
+Additional volume-based discounts are available to Enterprise customers. Contact us
+to learn more.
+Will I be charged for artifact storage?
+Buildkite Pipelines
+includes free storage for small, short-lived artifacts—up to 5GB per artifact, retained for six months. Buildkite Package Registries
+is a paid solution for longer-lived artifacts with more advanced features to support greater scaling, security, and distribution needs.
+Are there any limits to scale or concurrency with Buildkite?
+There are no limits when using self-hosted agents and the Buildkite SaaS platform. Buildkite handles upwards of 100,000 concurrent agents from some customers.
+Concurrency limits will apply by default for all organizations using Buildkite hosted compute. Contact us
+for custom limits.
+Can existing customers switch to the new plans?
+If you’d like to discuss transitioning to the new pricing plans, or have any questions at all, please email support@buildkite.com
+or talk to your Enterprise Customer Success Manager.
+Start turning complexity into an advantage
+Create an account to get started for free.
+Get started
+View pricing
+Platform
+Pipelines
+Public pipelines
+Test Engine
+Package Registries
+Mobile Delivery Cloud
+Pricing
+Hosting options
+Self-hosted agents
+Mac hosted agents
+Linux hosted agents
+Resources
+Docs
+Blog
+Changelog
+Example pipelines
+Plugins
+Webinars
+Case studies
+Events
+Migration Services
+CI/CD perspectives
+Company
+About
+Careers
+Press
+Security
+Brand assets
+Contact
+Solutions
+Replace Jenkins
+Workflows for MLOps
+Testing at scale
+Monorepo mojo
+Bazel orchestration
+Legal
+Terms of Service
+Acceptable Use Policy
+Privacy Policy
+Subprocessors
+Service Level Agreement
+Supplier Code of Conduct
+Modern Slavery Statement
+Support
+System status
+Forum
+Theme: System
+© Buildkite Pty Ltd 2026

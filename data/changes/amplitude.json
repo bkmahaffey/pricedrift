@@ -1,0 +1,813 @@
+[
+  {
+    "id": "amplitude-com-pricing-20230307225733",
+    "url": "https://amplitude.com/pricing",
+    "ts": "20230307225733",
+    "date": "2023-03-07",
+    "source": "wayback",
+    "prevTs": "20230118000843",
+    "kind": "limits",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Amplitude: 3 limits changed (10 → 100K)",
+    "pairs": [
+      {
+        "before": "If you continue to exceed 10 million events per month and do not upgrade to one of our paid plans, your account will be deleted 6 months after your account was first blocked.",
+        "after": "If you continue to exceed 100K MTUs per month and do not upgrade to one of our paid plans, your account will be deleted 6 months after your account was first blocked.",
+        "confidence": 0.88,
+        "deltas": [
+          {
+            "before": "10",
+            "after": "100K"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Up to 100K MTUs included with unlimited events",
+      "Up to 1MM MTUs available with unlimited events",
+      "4. What happens if I exceed 100K MTUs on the Starter plan?"
+    ],
+    "removed": [
+      "10M events per month",
+      "10M events streamed per month",
+      "Unlimited data destinations"
+    ],
+    "totals": {
+      "removed": 82,
+      "added": 74,
+      "materialRemoved": 5,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "amplitude-com-pricing-20230609013756",
+    "url": "https://amplitude.com/pricing",
+    "ts": "20230609013756",
+    "date": "2023-06-09",
+    "source": "wayback",
+    "prevTs": "20230307225733",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Amplitude: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "amplitude-com-pricing-20231022030236",
+    "url": "https://amplitude.com/pricing",
+    "ts": "20231022030236",
+    "date": "2023-10-22",
+    "source": "wayback",
+    "prevTs": "20230609013756",
+    "kind": "price",
+    "score": 45,
+    "counts": {
+      "price": 10,
+      "limit": 5,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Amplitude: 10 prices, 5 limits, 3 plan names changed (removed “Up to 100K MTUs included with unlimited events”; added “From $49 /mo”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "Unlimited feature flags",
+      "From $49 /mo",
+      "1k MTUs $49/mo",
+      "5k MTUs $99/mo",
+      "10k MTUs $149/mo",
+      "25k MTUs $249/mo",
+      "50k MTUs $449/mo",
+      "100k MTUs $849/mo",
+      "200k MTUs $1,680/mo",
+      "300k MTUs $2,520/mo",
+      "Unlimited product analytics",
+      "Unlimited Behavioral Cohorts",
+      "Unlimited feature flags",
+      "Free",
+      "From $49/mo",
+      "Unlimited feature flags",
+      "Unlimited sources & destinations",
+      "500k per month",
+      "5M per month",
+      "Up to 50K",
+      "Up to 300K",
+      "1 year",
+      "2 years"
+    ],
+    "removed": [
+      "Unlimited users",
+      "Up to 100K MTUs included with unlimited events",
+      "Up to 1MM MTUs available with unlimited events",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Start for free",
+      "4. What happens if I exceed 100K MTUs on the Starter plan?",
+      "If you continue to exceed 100K MTUs per month and do not upgrade to one of our paid plans, your account will be deleted 6 months after your account was first blocked."
+    ],
+    "totals": {
+      "removed": 416,
+      "added": 186,
+      "materialRemoved": 13,
+      "materialAdded": 28
+    }
+  },
+  {
+    "id": "amplitude-com-pricing-20231204054403",
+    "url": "https://amplitude.com/pricing",
+    "ts": "20231204054403",
+    "date": "2023-12-04",
+    "source": "wayback",
+    "prevTs": "20231022030236",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Amplitude: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "amplitude-com-pricing-20240416194150",
+    "url": "https://amplitude.com/pricing",
+    "ts": "20240416194150",
+    "date": "2024-04-16",
+    "source": "wayback",
+    "prevTs": "20231204054403",
+    "kind": "price",
+    "score": 5,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Amplitude: 1 price, 1 limit changed (removed “US-based startups with a Black co-founder, un…”; added “1 month”)",
+    "pairs": [],
+    "added": [
+      "1 month",
+      "3 months",
+      "Unlimited"
+    ],
+    "removed": [
+      "Unlimited Behavioral Cohorts",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "US-based startups with a Black co-founder, under $30M in funding, and fewer than 150 employees receive our Growth plan for free."
+    ],
+    "totals": {
+      "removed": 63,
+      "added": 55,
+      "materialRemoved": 5,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "amplitude-com-pricing-20240718173409",
+    "url": "https://amplitude.com/pricing",
+    "ts": "20240718173409",
+    "date": "2024-07-18",
+    "source": "wayback",
+    "prevTs": "20240416194150",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Amplitude: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Yes! The Amplitude Startup Scholarship provides one year of our paid Growth plan features for free. Learn more and apply here"
+    ],
+    "totals": {
+      "removed": 16,
+      "added": 9,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "amplitude-com-pricing-20240912120244",
+    "url": "https://amplitude.com/pricing",
+    "ts": "20240912120244",
+    "date": "2024-09-12",
+    "source": "wayback",
+    "prevTs": "20240718173409",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Amplitude: 2 limits changed (added “Up to 50K MTUs”)",
+    "pairs": [],
+    "added": [
+      "Up to 50K MTUs",
+      "1K - 300K MTUs",
+      "300K+ MTUs",
+      "Yes! The Amplitude Startup Scholarship provides one year of our paid Growth plan features for free. Learn more and apply here"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 8,
+      "added": 37,
+      "materialRemoved": 0,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "amplitude-com-pricing-20241104005728",
+    "url": "https://amplitude.com/pricing",
+    "ts": "20241104005728",
+    "date": "2024-11-04",
+    "source": "wayback",
+    "prevTs": "20240912120244",
+    "kind": "price",
+    "score": 36,
+    "counts": {
+      "price": 9,
+      "limit": 4,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Amplitude: 9 prices, 4 limits, 1 plan name changed ($5 → $10)",
+    "pairs": [
+      {
+        "before": "Startups with under $5M in funding and fewer than 20 employees receive one free year on our Growth plan.",
+        "after": "Startups with under $10M in funding and fewer than 20 employees receive one free year on our Growth plan.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$5",
+            "after": "$10"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Track up to 50K users a month, for free. Our plans match your growth: add features as needed, or get all the tools you want at once.",
+      "Free up to 50k MTU",
+      "3–12 months"
+    ],
+    "removed": [
+      "1k MTUs $49/mo",
+      "5k MTUs $99/mo",
+      "10k MTUs $149/mo",
+      "25k MTUs $249/mo",
+      "50k MTUs $449/mo",
+      "100k MTUs $849/mo",
+      "200k MTUs $1,680/mo",
+      "300k MTUs $2,520/mo",
+      "1K - 300K MTUs",
+      "Free",
+      "3 months",
+      "1 year",
+      "2 years",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 122,
+      "added": 103,
+      "materialRemoved": 20,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "amplitude-com-pricing-20250113155215",
+    "url": "https://amplitude.com/pricing",
+    "ts": "20250113155215",
+    "date": "2025-01-13",
+    "source": "wayback",
+    "prevTs": "20241104005728",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Amplitude: 1 limit changed (added “1 year”)",
+    "pairs": [],
+    "added": [
+      "1 year",
+      "2 years",
+      "Unlimited"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 9,
+      "materialRemoved": 1,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "amplitude-com-pricing-20250506200736",
+    "url": "https://amplitude.com/pricing",
+    "ts": "20250506200736",
+    "date": "2025-05-06",
+    "source": "wayback",
+    "prevTs": "20250113155215",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Amplitude: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Unlimited"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 20,
+      "added": 45,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "amplitude-com-pricing-20250729185759",
+    "url": "https://amplitude.com/pricing",
+    "ts": "20250729185759",
+    "date": "2025-07-29",
+    "source": "wayback",
+    "prevTs": "20250506200736",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Amplitude: 2 prices changed (added “$ 0.049”)",
+    "pairs": [],
+    "added": [
+      "$ 0.049",
+      "$ 49"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 18,
+      "materialRemoved": 1,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "amplitude-com-pricing-20250808152015",
+    "url": "https://amplitude.com/pricing",
+    "ts": "20250808152015",
+    "date": "2025-08-08",
+    "source": "wayback",
+    "prevTs": "20250729185759",
+    "kind": "limits",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Amplitude: 3 limits changed (10M added)",
+    "pairs": [
+      {
+        "before": "Track up to 50K users a month, for free. Our plans match your growth: add features as needed, or get all the tools you want at once.",
+        "after": "Track 50K users or up to 10M events a month, for free. Our plans match your growth: add features as needed, or get all the tools you want at once.",
+        "confidence": 0.95,
+        "deltas": [
+          {
+            "before": null,
+            "after": "10M"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Up to 50K MTUs, up to 10M events",
+      "Free for 50K MTU or up to 10M Event Volume"
+    ],
+    "removed": [
+      "Up to 50K MTUs",
+      "Free up to 50K MTUs"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "amplitude-com-pricing-20250904214645",
+    "url": "https://amplitude.com/pricing",
+    "ts": "20250904214645",
+    "date": "2025-09-04",
+    "source": "wayback",
+    "prevTs": "20250808152015",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Amplitude: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "amplitude-com-pricing-20251004075357",
+    "url": "https://amplitude.com/pricing",
+    "ts": "20251004075357",
+    "date": "2025-10-04",
+    "source": "wayback",
+    "prevTs": "20250904214645",
+    "kind": "limits",
+    "score": 8,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Amplitude: 1 limit, 3 plan names changed (removed “Up to 50K MTUs, up to 10M events”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "Free"
+    ],
+    "removed": [
+      "Free",
+      "Our free Starter plan includes:",
+      "Up to 50K MTUs, up to 10M events",
+      "Free for 50K MTU or up to 10M Event Volume"
+    ],
+    "totals": {
+      "removed": 46,
+      "added": 64,
+      "materialRemoved": 7,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "amplitude-com-pricing-20251115135324",
+    "url": "https://amplitude.com/pricing",
+    "ts": "20251115135324",
+    "date": "2025-11-15",
+    "source": "wayback",
+    "prevTs": "20251004075357",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Amplitude: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 12,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "amplitude-com-pricing-20260113081825",
+    "url": "https://amplitude.com/pricing",
+    "ts": "20260113081825",
+    "date": "2026-01-13",
+    "source": "wayback",
+    "prevTs": "20251115135324",
+    "kind": "price",
+    "score": 8,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Amplitude: 2 prices, 1 limit changed (removed “Up to 300K MTUs”; added “Up to 300K MTUs or 25M events”)",
+    "pairs": [],
+    "added": [
+      "Up to 300K MTUs or 25M events",
+      "$ 582"
+    ],
+    "removed": [
+      "Up to 300K MTUs",
+      "$ 49"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 9,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "amplitude-com-pricing-20260217024856",
+    "url": "https://amplitude.com/pricing",
+    "ts": "20260217024856",
+    "date": "2026-02-17",
+    "source": "wayback",
+    "prevTs": "20260113081825",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Amplitude: 1 limit changed (50K → 10K)",
+    "pairs": [
+      {
+        "before": "50K MTUs, up to 10M events",
+        "after": "10K MTUs, up to 10M events",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50K",
+            "after": "10K"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 5,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "amplitude-com-pricing-20260420055130",
+    "url": "https://amplitude.com/pricing",
+    "ts": "20260420055130",
+    "date": "2026-04-20",
+    "source": "wayback",
+    "prevTs": "20260217024856",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Amplitude: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "amplitude-com-pricing-20260608115128",
+    "url": "https://amplitude.com/pricing",
+    "ts": "20260608115128",
+    "date": "2026-06-08",
+    "source": "wayback",
+    "prevTs": "20260420055130",
+    "kind": "limits",
+    "score": 12,
+    "counts": {
+      "price": 0,
+      "limit": 5,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Amplitude: 5 limits, 1 plan name changed (10M → 2M; 50K → 10K)",
+    "pairs": [
+      {
+        "before": "10K MTUs, up to 10M events",
+        "after": "10K MTUs, up to 2M events",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10M",
+            "after": "2M"
+          }
+        ]
+      },
+      {
+        "before": "Up to 50K",
+        "after": "Up to 10K",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50K",
+            "after": "10K"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Start for free",
+      "1 month / Add-on for more",
+      "Unlimited",
+      "Up to 300K / 25M EV",
+      "Unlimited"
+    ],
+    "removed": [
+      "3–12 months",
+      "Unlimited",
+      "Unlimited feature flags",
+      "500K per month",
+      "5M per month",
+      "Up to 300K",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 106,
+      "added": 153,
+      "materialRemoved": 9,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "amplitude-com-pricing-20260804172056",
+    "url": "https://amplitude.com/pricing",
+    "ts": "20260804172056",
+    "date": "2026-08-04",
+    "source": "wayback",
+    "prevTs": "20260608115128",
+    "kind": "price",
+    "score": 36,
+    "counts": {
+      "price": 5,
+      "limit": 7,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Amplitude: 5 prices, 7 limits, 4 plan names changed (removed “10K MTUs, up to 2M events”; added “2M Events/month forever.”)",
+    "pairs": [],
+    "added": [
+      "Free analytics with AI built in. Every plan includes the full platform and unlimited seats.",
+      "Free",
+      "2M Events/month forever.",
+      "No Credit Card required.",
+      "Starts at $0",
+      "First 2M Events/month free.",
+      "Everything in Free, and:",
+      "Scale up to 70M Events",
+      "20K monthly session replays",
+      "Unlimited projects per portfolio",
+      "Unlimited Monitoring and Alerts",
+      "50K monthly session replays",
+      "Base Plus Plan, by event volume tier (up to 20M)",
+      "Unlock advanced features and unlimited usage for the products driving your growth.",
+      "Unlimited active experiments",
+      "Unlimited active experiments",
+      "Unlimited live guides & surveys",
+      "Unlimited scheduled syncs",
+      "Extended Retention (3-12 months)",
+      "Does Amplitude have a free plan?",
+      "An event in Amplitude is any action a user takes in your product: a button click, a page view, a signup, a purchase. Every time a user does something you want to track, that's one event. The Free plan includes up to 2 million events per month, which is more than enough for most teams getting started.",
+      "Does Amplitude's free plan require a credit card?",
+      "You don't need a credit card to get started in Amplitude. The Free plan requires no credit card at all. You only need to add one when you upgrade to Plus and start growing beyond the free limits.",
+      "What's the difference between Free and Plus?",
+      "Yes, Amplitude connects to Claude, Cursor, Lovable, Figma Make, and any tool that supports MCP (Model Context Protocol). You can ask questions about your product data, build features informed by real usage, or generate reports without leaving the tools you already use. This works on every plan, including the Free plan.",
+      "Does Amplitude offer a free trial?",
+      "Amplitude offers something better than a trial: a free plan with no time limit. The Free plan gives you 2 million events per month, with access to core analytics, session replay, feature flags, and more. There's no credit card required to get started. Use it for as long as you need."
+    ],
+    "removed": [
+      "10K MTUs, up to 2M events",
+      "Unlimited feature flags",
+      "Unlimited sources and destinations",
+      "$49 /mo",
+      "Up to 300K MTUs or 25M events",
+      "Unlimited product analytics",
+      "$ 0.049",
+      "$ 582",
+      "Unlimited feature flags",
+      "Start for free",
+      "Free",
+      "Start for free",
+      "Starting at $49/mo",
+      "1 month",
+      "1 month / Add-on for more",
+      "Unlimited",
+      "Unlimited sources and destinations",
+      "Unlimited",
+      "Up to 300K / 25M EV",
+      "Unlimited",
+      "Unlimited",
+      "1 year",
+      "Unlimited",
+      "Yes! The Amplitude Startup Scholarship provides one year of our paid Growth plan features for free. Learn more and apply here"
+    ],
+    "totals": {
+      "removed": 305,
+      "added": 123,
+      "materialRemoved": 26,
+      "materialAdded": 29
+    }
+  },
+  {
+    "id": "amplitude-com-pricing-20260902202107",
+    "url": "https://amplitude.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260804172056",
+    "kind": "limits",
+    "score": 9,
+    "counts": {
+      "price": 0,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Amplitude: 5 limits changed (added “1 month”)",
+    "pairs": [],
+    "added": [
+      "1 month",
+      "1 month",
+      "14 days",
+      "30 days",
+      "Add on for 90 days",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited sources and destinations",
+      "Unlimited",
+      "Up to 2M EV",
+      "Up to 700K MTU / 70M EV",
+      "Unlimited",
+      "Unlimited",
+      "1 year",
+      "2 years",
+      "Unlimited"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 198,
+      "materialRemoved": 0,
+      "materialAdded": 17
+    },
+    "transition": true
+  }
+]

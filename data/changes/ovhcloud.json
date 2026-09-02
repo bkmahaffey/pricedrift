@@ -1,0 +1,5727 @@
+[
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20230305212209",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20230305212209",
+    "date": "2023-03-05",
+    "source": "wayback",
+    "prevTs": "20230104184537",
+    "kind": "price",
+    "score": 31,
+    "counts": {
+      "price": 6,
+      "limit": 7,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OVHcloud: 6 prices, 7 limits changed (added “32 GiB”)",
+    "pairs": [],
+    "added": [
+      "32 GiB",
+      "960 GB SSD + 960 GB SSD",
+      "$0.545 /hour",
+      "64 GiB",
+      "960 GB SSD + 960 GB SSD",
+      "$0.927 /hour",
+      "128 GiB",
+      "960 GB SSD + 960 GB SSD",
+      "$1.58 /hour",
+      "$0.0014 /month/GB",
+      "$0.005 /GB",
+      "Cold Archive is FREE** throughout the Beta phase.",
+      "*A 7% discount is applied for data volumes greater than 3PB.",
+      "The Cold Archive solution is billed according to the archive space (on magnetic tapes) and Object Storage space used, with a granularity of 1GB.",
+      "For optimal readability, the price is displayed per GB/month — but since there are 720 hours in an average month, the billing granularity is per GB/hour.",
+      "The minimum archive duration is 180 days. If an archive is deleted before this commitment period (with ‘date’ being between 0 and 180 days), the customer will be charged an additional fee, calculated as follows: (180 days - date) x storage class price.",
+      "It is possible to launch a container archive with less than 1TB of data, but the archiving action will be billed at the price of 1TB.",
+      "$0.0122 /month/GB",
+      "Volume Backups are charged according to the space used, with a granularity of 1GB.",
+      "To ensure optimal readability, the price is displayed per GB/month. However, the granularity of billing is per GB/hour, since each month has an average of 720 hours."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 59,
+      "materialRemoved": 0,
+      "materialAdded": 20
+    }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20230602092006",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20230602092006",
+    "date": "2023-06-02",
+    "source": "wayback",
+    "prevTs": "20230305212209",
+    "kind": "price",
+    "score": 207,
+    "counts": {
+      "price": 3,
+      "limit": 99,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OVHcloud: 3 prices, 99 limits changed ($0.0122 → $0.048)",
+    "pairs": [
+      {
+        "before": "$0.0122 /month/GB",
+        "after": "$0.048 /month/GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.0122",
+            "after": "$0.048"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "45 GB",
+      "Tesla V100 16 GB",
+      "300 GB SSD",
+      "$0.77 /hour",
+      "45 GB",
+      "Tesla V100S 32 GB",
+      "300 GB SSD",
+      "$0.88 /hour",
+      "From 80 GB to 240 GB",
+      "From 160 GB to 480 GB",
+      "From 320 GB to 960 GB",
+      "From 640 GB to 1.92 TB",
+      "From 80 GB to 240 GB",
+      "From 160 GB to 480 GB",
+      "From 320 GB to 960 GB",
+      "From 640 GB to 1.92 TB",
+      "From 1.28 TB to 3.84 TB",
+      "From 2.56 TB to 7.68 TB",
+      "From 80 GB to 240 GB",
+      "From 160 GB to 480 GB",
+      "From 320 GB to 960 GB",
+      "From 640 GB to 1.92 TB",
+      "From 1.28 TB to 3.84 TB",
+      "From 2.56 TB to 7.68 TB",
+      "From 80 GB to 240 GB",
+      "From 160 GB to 480 GB",
+      "From 320 GB to 960 GB",
+      "From 640 GB to 1.92 TB",
+      "From 80 GB to 240 GB",
+      "From 160 GB to 480 GB",
+      "From 320 GB to 960 GB",
+      "From 640 GB to 1.92 TB",
+      "From 1.28 TB to 3.84 TB",
+      "From 2.56 TB to 7.68 TB",
+      "From 80 GB to 240 GB",
+      "From 160 GB to 480 GB",
+      "From 320 GB to 960 GB",
+      "From 640 GB to 1.92 TB",
+      "From 1.28 TB to 3.84 TB",
+      "From 2.56 TB to 7.68 TB"
+    ],
+    "removed": [
+      "960 GB SSD + 960 GB SSD",
+      "960 GB SSD + 960 GB SSD",
+      "960 GB SSD + 960 GB SSD",
+      "250 IOPS guaranteed, 4 TB max.",
+      "Up to 3000 IOPS, 4 TB max.",
+      "Cold Archive is FREE** throughout the Beta phase.",
+      "80 GB",
+      "160 GB",
+      "320 GB",
+      "640 GB",
+      "80 GB",
+      "160 GB",
+      "320 GB",
+      "640 GB",
+      "1.28 TB",
+      "2.56 TB",
+      "80 GB",
+      "160 GB",
+      "320 GB",
+      "640 GB",
+      "1.28 TB",
+      "2.56 TB",
+      "80 GB",
+      "160 GB",
+      "320 GB",
+      "640 GB",
+      "80 GB",
+      "160 GB",
+      "320 GB",
+      "640 GB",
+      "1.28 TB",
+      "2.56 TB",
+      "80 GB",
+      "160 GB",
+      "320 GB",
+      "640 GB",
+      "1.28 TB",
+      "2.56 TB",
+      "25 GB",
+      "50 GB"
+    ],
+    "totals": {
+      "removed": 120,
+      "added": 130,
+      "materialRemoved": 108,
+      "materialAdded": 112
+    }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20230817233116",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20230817233116",
+    "date": "2023-08-17",
+    "source": "wayback",
+    "prevTs": "20230602092006",
+    "kind": "price",
+    "score": 45,
+    "counts": {
+      "price": 11,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OVHcloud: 11 prices, 6 limits changed ($0.03 → $0.02)",
+    "pairs": [
+      {
+        "before": "$0.03 /month/GB",
+        "after": "$0.02 /month/GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.03",
+            "after": "$0.02"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Talk to an expert and take our services for a spin, free of charge with our cloud credits¹",
+      "90 GB",
+      "2×Tesla V100 16 GB",
+      "400 GB SSD",
+      "$1.55 /hour",
+      "180 GB",
+      "4×Tesla V100 16 GB",
+      "400 GB SSD",
+      "$3.10 /hour",
+      "90 GB",
+      "2×Tesla V100S 32 GB",
+      "500 GB SSD",
+      "$1.76 /hour",
+      "180 GB",
+      "4×Tesla V100S 32 GB",
+      "500 GB SSD",
+      "$3.53 /hour",
+      "Unlimited",
+      "$1.65 /hour",
+      "Unlimited",
+      "$2.76 /hour",
+      "Unlimited",
+      "$1.65 /hour",
+      "Unlimited",
+      "$2.76 /hour",
+      "Unlimited",
+      "$1.65 /hour",
+      "Unlimited",
+      "$2.76 /hour"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 587,
+      "added": 739,
+      "materialRemoved": 233,
+      "materialAdded": 262
+    }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20231106203356",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20231106203356",
+    "date": "2023-11-06",
+    "source": "wayback",
+    "prevTs": "20230817233116",
+    "kind": "price",
+    "score": 119,
+    "counts": {
+      "price": 26,
+      "limit": 21,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OVHcloud: 26 prices, 21 limits changed (added “Get started with $200 free credit”)",
+    "pairs": [],
+    "added": [
+      "Get started with $200 free credit",
+      "You can find out if our solutions meet your needs by trying them out for free.",
+      "180 GB",
+      "A100 80 GB",
+      "300 GB NVMe",
+      "$3.07 /hour",
+      "360 GB",
+      "2×A100 80 GB",
+      "500 GB NVMe",
+      "$6.15 /hour",
+      "720 GB",
+      "4×A100 80 GB",
+      "500 GB NVMe",
+      "$12.29 /hour",
+      "160 GiB",
+      "NVIDIA Ampere A100 80 GiB 19.5 TFLOPS",
+      "80 GiB",
+      "$3.35 /hour",
+      "40 GiB",
+      "NVIDIA Tesla V100S 32 GiB 16.4 TFLOPS",
+      "500 GiB",
+      "$1.01 /hour",
+      "160 GiB",
+      "NVIDIA Ampere A100 80 GiB 19.5 TFLOPS",
+      "80 GiB",
+      "$3.35 /hour",
+      "40 GiB",
+      "NVIDIA Tesla V100S 32 GiB 16.4 TFLOPS",
+      "500 GiB",
+      "$1.01 /hour",
+      "160 GiB",
+      "80 GiB",
+      "$3.35 /hour",
+      "40 GiB",
+      "500 GiB",
+      "$1.01 /hour",
+      "From 1 to 100 000 minutes",
+      "Unlimited",
+      "$0.97 /hour",
+      "From 100 001 to 500 000 minutes"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 181,
+      "materialRemoved": 3,
+      "materialAdded": 81
+    }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20240116223509",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20240116223509",
+    "date": "2024-01-16",
+    "source": "wayback",
+    "prevTs": "20231106203356",
+    "kind": "price",
+    "score": 204,
+    "counts": {
+      "price": 40,
+      "limit": 40,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "OVHcloud: 40 prices, 40 limits, 2 plan names changed (2TB → 3.84TB)",
+    "pairs": [
+      {
+        "before": "50 GB SSD + 2 TB NVMe",
+        "after": "50 GB SSD + 3.84 TB NVMe",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2TB",
+            "after": "3.84TB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "50 GB NVMe",
+      "$0.0508 /hour",
+      "100 GB NVMe",
+      "$0.1016 /hour",
+      "200 GB NVMe",
+      "$0.2033 /hour",
+      "64 GB",
+      "400 GB NVMe",
+      "$0.4065 /hour",
+      "128 GB",
+      "400 GB NVMe",
+      "$0.8131 /hour",
+      "256 GB",
+      "400 GB NVMe",
+      "$1.6262 /hour",
+      "50 GB NVMe",
+      "$0.0453 /hour",
+      "8 GB",
+      "100 GB NVMe",
+      "$0.0907 /hour",
+      "16 GB",
+      "200 GB NVMe",
+      "$0.1813 /hour",
+      "32 GB",
+      "400 GB NVMe",
+      "$0.3627 /hour",
+      "64 GB",
+      "400 GB NVMe",
+      "$0.7254 /hour",
+      "128 GB",
+      "400 GB NVMe",
+      "$1.4508 /hour",
+      "16 GB",
+      "50 GB NVMe",
+      "$0.0658 /hour",
+      "32 GB",
+      "100 GB NVMe",
+      "$0.1315 /hour",
+      "64 GB",
+      "200 GB NVMe"
+    ],
+    "removed": [
+      "50 GB SSD + 2 TB",
+      "960 GB SSD",
+      "960 GB SSD",
+      "960 GB SSD",
+      "1 GB",
+      "$0.01 /hour",
+      "$0.02 /hour",
+      "$0.04 /hour",
+      "$0.08 /hour",
+      "$0.15 /hour",
+      "$0.25 /hour"
+    ],
+    "totals": {
+      "removed": 152,
+      "added": 375,
+      "materialRemoved": 39,
+      "materialAdded": 139
+    }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20240404051730",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20240404051730",
+    "date": "2024-04-04",
+    "source": "wayback",
+    "prevTs": "20240116223509",
+    "kind": "price",
+    "score": 57,
+    "counts": {
+      "price": 10,
+      "limit": 12,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "OVHcloud: 10 prices, 12 limits, 2 plan names changed (50GB → 200GB; 50GB → 200GB)",
+    "pairs": [
+      {
+        "before": "50 GB SSD + 3.84 TB NVMe",
+        "after": "200 GB SSD + 3.84 TB NVMe",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50GB",
+            "after": "200GB"
+          }
+        ]
+      },
+      {
+        "before": "50 GB SSD + 2 x 3.84 TB NVMe",
+        "after": "200 GB SSD + 2 x 3.84 TB NVMe",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50GB",
+            "after": "200GB"
+          }
+        ]
+      },
+      {
+        "before": "50 GB SSD + 4 x 3.84 TB NVMe",
+        "after": "200 GB SSD + 4 x 3.84 TB NVMe",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50GB",
+            "after": "200GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "8 GB",
+      "50 GB NVMe",
+      "$0.0514 /hour",
+      "16 GB",
+      "100 GB NVMe",
+      "$0.1029 /hour",
+      "32 GB",
+      "200 GB NVMe",
+      "$0.2057 /hour",
+      "64 GB",
+      "400 GB NVMe",
+      "$0.4114 /hour",
+      "Instances include an IPv4 address by default, except for Local Zone instances, where you need to pay for any additional IP addresses: $0.0028 /hour.",
+      "8 GB",
+      "50 GB NVMe",
+      "$0.0514 /hour",
+      "16 GB",
+      "100 GB NVMe",
+      "$0.1029 /hour",
+      "32 GB",
+      "200 GB NVMe",
+      "$0.2057 /hour",
+      "64 GB",
+      "400 GB NVMe",
+      "$0.4114 /hour",
+      "Instances include an IPv4 address by default, except for Local Zone instances, where you need to pay for any additional IP addresses: $0.0028 /hour.",
+      "Free",
+      "Free",
+      "In accordance with our special Terms and Conditions, the price will be communicated to beta users at least 30 days before billing starts."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 33,
+      "added": 117,
+      "materialRemoved": 14,
+      "materialAdded": 43
+    }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20240619181906",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20240619181906",
+    "date": "2024-06-19",
+    "source": "wayback",
+    "prevTs": "20240404051730",
+    "kind": "price",
+    "score": 210,
+    "counts": {
+      "price": 39,
+      "limit": 47,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OVHcloud: 39 prices, 47 limits changed (removed “8 GB”; added “90 GB”)",
+    "pairs": [],
+    "added": [
+      "90 GB",
+      "L4 24 GB",
+      "$1 /hour",
+      "180 GB",
+      "2×L4 24 GB",
+      "$2 /hour",
+      "360 GB",
+      "4×L4 24 GB",
+      "$4 /hour",
+      "90 GB",
+      "L40S 48 GB",
+      "$1.80 /hour",
+      "180 GB",
+      "2×L40S 48 GB",
+      "$3.60 /hour",
+      "360 GB",
+      "4×L40S 48 GB",
+      "$7.20 /hour",
+      "400 GB NVMe",
+      "400 GB NVMe",
+      "400 GB NVMe",
+      "400 GB NVMe",
+      "2 x 960 GB SSD + 2 x 960 GB SSD",
+      "2 x 960 GB SSD + 2 x 960 GB SSD",
+      "2 x 960 GB SSD + 2 x 960 GB SSD",
+      "The beta offer is currently only available to users with an account in Europe (including the UK), Africa or the Middle East. In accordance with our Terms and Conditions, beta pricing will be communicated to them at least 30 days before the GA and billing begin",
+      "The beta offer is currently only available to users with an account in Europe (including the UK), Africa or the Middle East. In accordance with our Terms and Conditions, beta pricing will be communicated to them at least 30 days before the GA and billing begin",
+      "The beta offer is currently only available to users with an account in Europe (including the UK), Africa or the Middle East. In accordance with our Terms and Conditions, beta pricing will be communicated to them at least 30 days before the GA and billing begin",
+      "The beta offer is currently only available to users with an account in Europe (including the UK), Africa or the Middle East. In accordance with our Terms and Conditions, beta pricing will be communicated to them at least 30 days before the GA and billing begin",
+      "The beta offer is currently only available to users with an account in Europe (including the UK), Africa or the Middle East. In accordance with our Terms and Conditions, beta pricing will be communicated to them at least 30 days before the GA and billing begin",
+      "80 GiB",
+      "NVIDIA Ada Lovelace L4 24 GiB 30.3 TFLOPS",
+      "500 GiB",
+      "$0.91 /hour",
+      "80 GiB",
+      "NVIDIA Ada Lovelace L40S 48 GiB 91.6 TFLOPS",
+      "1536 GiB",
+      "$1.69 /hour",
+      "80 GiB",
+      "NVIDIA Ada Lovelace L4 24 GiB 30.3 TFLOPS"
+    ],
+    "removed": [
+      "8 GB",
+      "50 GB NVMe",
+      "$0.0514 /hour",
+      "16 GB",
+      "100 GB NVMe",
+      "$0.1029 /hour",
+      "32 GB",
+      "200 GB NVMe",
+      "$0.2057 /hour",
+      "64 GB",
+      "$0.4114 /hour",
+      "8 GB",
+      "50 GB NVMe",
+      "$0.0514 /hour",
+      "16 GB",
+      "100 GB NVMe",
+      "$0.1029 /hour",
+      "32 GB",
+      "200 GB NVMe",
+      "$0.2057 /hour",
+      "64 GB",
+      "$0.4114 /hour",
+      "Instances include an IPv4 address by default, except for Local Zone instances, where you need to pay for any additional IP addresses: $0.0028 /hour.",
+      "2 x 960 GB SSD",
+      "2 x 960 GB SSD",
+      "2 x 960 GB SSD",
+      "From 40 GB to 120 GB",
+      "2 GB",
+      "$0.0302 /hour/node i.e.",
+      "From 80 GB to 240 GB",
+      "4 GB",
+      "$0.0597 /hour/node i.e.",
+      "From 160 GB to 480 GB",
+      "7 GB",
+      "$0.1187 /hour/node i.e.",
+      "From 320 GB to 960 GB",
+      "15 GB",
+      "$0.236 /hour/node i.e.",
+      "From 640 GB to 1.92 TB",
+      "30 GB"
+    ],
+    "totals": {
+      "removed": 230,
+      "added": 127,
+      "materialRemoved": 97,
+      "materialAdded": 69
+    }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20240821140915",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20240821140915",
+    "date": "2024-08-21",
+    "source": "wayback",
+    "prevTs": "20240619181906",
+    "kind": "price",
+    "score": 31,
+    "counts": {
+      "price": 1,
+      "limit": 6,
+      "plan": 8
+    },
+    "material": true,
+    "headline": "OVHcloud: 1 price, 6 limits, 8 plan names changed (removed “2 x 960 GB SSD + 2 x 960 GB SSD”; added “2 x 960 GB SSD”)",
+    "pairs": [],
+    "added": [
+      "Try our Local Zones for free*",
+      "2 x 960 GB SSD",
+      "2 x 960 GB SSD",
+      "2 x 960 GB SSD",
+      "Private networks are free to create and use. Resources within the Local Zone",
+      "$0.1843 /hour",
+      "Free",
+      "Free Tiers",
+      "100 GB/m",
+      "Free",
+      "100 GB/m",
+      "Free",
+      "Free Tiers",
+      "3 GB/m",
+      "Free",
+      "4 GB",
+      "Free",
+      "4 GB",
+      "Free",
+      "The beta offer is currently only available to users with an account in Europe (including the UK), Africa or the Middle East. In accordance with our Terms and Conditions, beta pricing will be communicated to them at least 30 days before the GA and billing begin"
+    ],
+    "removed": [
+      "Talk to an expert and take our services for a spin, free of charge with our cloud credits¹",
+      "2 x 960 GB SSD + 2 x 960 GB SSD",
+      "2 x 960 GB SSD + 2 x 960 GB SSD",
+      "2 x 960 GB SSD + 2 x 960 GB SSD",
+      "Private networks are free to create and use."
+    ],
+    "totals": {
+      "removed": 46,
+      "added": 95,
+      "materialRemoved": 11,
+      "materialAdded": 26
+    }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20241003034000",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20241003034000",
+    "date": "2024-10-03",
+    "source": "wayback",
+    "prevTs": "20240821140915",
+    "kind": "price",
+    "score": 26,
+    "counts": {
+      "price": 3,
+      "limit": 3,
+      "plan": 6
+    },
+    "material": true,
+    "headline": "OVHcloud: 3 prices, 3 limits, 6 plan names changed (removed “In accordance with our special Terms and Cond…”; added “$0.4608 /hour”)",
+    "pairs": [],
+    "added": [
+      "Talk to an expert and take our services for a spin, free of charge with our cloud credits¹",
+      "$0.4608 /hour",
+      "$0.0076 /hour",
+      "$0.019 /hour",
+      "Free Tier",
+      "Free Tier",
+      "3 users"
+    ],
+    "removed": [
+      "Try our Local Zones for free*",
+      "Free",
+      "Free",
+      "In accordance with our special Terms and Conditions, the price will be communicated to beta users at least 30 days before billing starts.",
+      "Free Tiers",
+      "100 GB/m",
+      "Free Tiers",
+      "3 GB/m",
+      "4 GB"
+    ],
+    "totals": {
+      "removed": 19,
+      "added": 23,
+      "materialRemoved": 10,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20241213042103",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20241213042103",
+    "date": "2024-12-13",
+    "source": "wayback",
+    "prevTs": "20241003034000",
+    "kind": "price",
+    "score": 364,
+    "counts": {
+      "price": 90,
+      "limit": 47,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OVHcloud: 90 prices, 47 limits changed (720 → 730; 720 → 730)",
+    "pairs": [
+      {
+        "before": "For optimal readability, the price is displayed per GB/month — but since there are 720 hours in an average month, the billing granularity is per GB/hour.",
+        "after": "For optimal readability, the price is displayed per GB/month — but since there are 730 hours in an average month, the billing granularity is per GB/hour.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "720",
+            "after": "730"
+          }
+        ]
+      },
+      {
+        "before": "For optimal readability, the price is displayed per GB/month — but since there are 720 hours in an average month, the billing granularity is per GB/hour.",
+        "after": "For optimal readability, the price is displayed per GB/month — but since there are 730 hours in an average month, the billing granularity is per GB/hour.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "720",
+            "after": "730"
+          }
+        ]
+      },
+      {
+        "before": "For optimal readability, the price is displayed per GB/month — but since there are 720 hours in an average month, the billing granularity is per GB/hour.",
+        "after": "For optimal readability, the price is displayed per GB/month — but since there are 730 hours in an average month, the billing granularity is per GB/hour.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "720",
+            "after": "730"
+          }
+        ]
+      },
+      {
+        "before": "For optimal readability, the price is displayed per GB/month — but since there are 720 hours in an average month, the billing granularity is per GB/hour.",
+        "after": "For optimal readability, the price is displayed per GB/month — but since there are 730 hours in an average month, the billing granularity is per GB/hour.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "720",
+            "after": "730"
+          }
+        ]
+      },
+      {
+        "before": "From 40 GB to 120 GB",
+        "after": "From 240 GB to 720 GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "40GB",
+            "after": "240GB"
+          },
+          {
+            "before": "120GB",
+            "after": "720GB"
+          }
+        ]
+      },
+      {
+        "before": "$0.0777 /hour/node i.e.",
+        "after": "$0.1266 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.0777",
+            "after": "$0.1266"
+          }
+        ]
+      },
+      {
+        "before": "$0.1569 /hour/node i.e.",
+        "after": "$0.1971 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.1569",
+            "after": "$0.1971"
+          }
+        ]
+      },
+      {
+        "before": "From 480 GB to 1.44 TB",
+        "after": "From 960 GB to 2.88 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "480GB",
+            "after": "960GB"
+          },
+          {
+            "before": "1.44TB",
+            "after": "2.88TB"
+          }
+        ]
+      },
+      {
+        "before": "$0.3367 /hour/node i.e.",
+        "after": "$0.3784 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.3367",
+            "after": "$0.3784"
+          }
+        ]
+      },
+      {
+        "before": "$0.6791 /hour/node i.e.",
+        "after": "$0.6963 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.6791",
+            "after": "$0.6963"
+          }
+        ]
+      },
+      {
+        "before": "From 1.92 TB to 5.76 TB",
+        "after": "From 3.84 TB to 11.52 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1.92TB",
+            "after": "3.84TB"
+          },
+          {
+            "before": "5.76TB",
+            "after": "11.52TB"
+          }
+        ]
+      },
+      {
+        "before": "$1.3595 /hour/node i.e.",
+        "after": "$1.3653 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.3595",
+            "after": "$1.3653"
+          }
+        ]
+      },
+      {
+        "before": "From 3.84 TB to 11.52 TB",
+        "after": "From 7.68 TB to 23.04 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3.84TB",
+            "after": "7.68TB"
+          },
+          {
+            "before": "11.52TB",
+            "after": "23.04TB"
+          }
+        ]
+      },
+      {
+        "before": "$2.7261 /hour/node i.e.",
+        "after": "$2.729 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.7261",
+            "after": "$2.729"
+          }
+        ]
+      },
+      {
+        "before": "$0.341 /hour/node i.e.",
+        "after": "$0.3784 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.341",
+            "after": "$0.3784"
+          }
+        ]
+      },
+      {
+        "before": "From 1.92 TB to 5.76 TB",
+        "after": "From 3.84 TB to 11.52 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1.92TB",
+            "after": "3.84TB"
+          },
+          {
+            "before": "5.76TB",
+            "after": "11.52TB"
+          }
+        ]
+      },
+      {
+        "before": "$0.6834 /hour/node i.e.",
+        "after": "$0.6963 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.6834",
+            "after": "$0.6963"
+          }
+        ]
+      },
+      {
+        "before": "From 3.84 TB to 11.52 TB",
+        "after": "From 7.68 TB to 23.04 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3.84TB",
+            "after": "7.68TB"
+          },
+          {
+            "before": "11.52TB",
+            "after": "23.04TB"
+          }
+        ]
+      },
+      {
+        "before": "$1.3638 /hour/node i.e.",
+        "after": "$1.3653 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.3638",
+            "after": "$1.3653"
+          }
+        ]
+      },
+      {
+        "before": "From 7.68 TB to 23.04 TB",
+        "after": "From 15.36 TB to 46.08 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "7.68TB",
+            "after": "15.36TB"
+          },
+          {
+            "before": "23.04TB",
+            "after": "46.08TB"
+          }
+        ]
+      },
+      {
+        "before": "$2.7276 /hour/node i.e.",
+        "after": "$2.729 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.7276",
+            "after": "$2.729"
+          }
+        ]
+      },
+      {
+        "before": "$0.2202 /hour/node i.e.",
+        "after": "$0.2043 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.2202",
+            "after": "$0.2043"
+          }
+        ]
+      },
+      {
+        "before": "$0.41 /hour/node i.e.",
+        "after": "$0.3784 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.41",
+            "after": "$0.3784"
+          }
+        ]
+      },
+      {
+        "before": "$0.7424 /hour/node i.e.",
+        "after": "$0.7107 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.7424",
+            "after": "$0.7107"
+          }
+        ]
+      },
+      {
+        "before": "$0.2202 /hour/node i.e.",
+        "after": "$0.236 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.2202",
+            "after": "$0.236"
+          }
+        ]
+      },
+      {
+        "before": "$0.4216 /hour/node i.e.",
+        "after": "$0.4057 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.4216",
+            "after": "$0.4057"
+          }
+        ]
+      },
+      {
+        "before": "$0.7424 /hour/node i.e.",
+        "after": "$0.8114 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.7424",
+            "after": "$0.8114"
+          }
+        ]
+      },
+      {
+        "before": "$0.4216 /hour/node i.e.",
+        "after": "$0.4618 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.4216",
+            "after": "$0.4618"
+          }
+        ]
+      },
+      {
+        "before": "$0.7424 /hour/node i.e.",
+        "after": "$0.9481 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.7424",
+            "after": "$0.9481"
+          }
+        ]
+      },
+      {
+        "before": "$0.2202 /hour/node i.e.",
+        "after": "$0.1266 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.2202",
+            "after": "$0.1266"
+          }
+        ]
+      },
+      {
+        "before": "$0.41 /hour/node i.e.",
+        "after": "$0.236 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.41",
+            "after": "$0.236"
+          }
+        ]
+      },
+      {
+        "before": "$0.7424 /hour/node i.e.",
+        "after": "$0.4733 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.7424",
+            "after": "$0.4733"
+          }
+        ]
+      },
+      {
+        "before": "$0.4216 /hour/node i.e.",
+        "after": "$0.236 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.4216",
+            "after": "$0.236"
+          }
+        ]
+      },
+      {
+        "before": "$0.7424 /hour/node i.e.",
+        "after": "$0.4733 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.7424",
+            "after": "$0.4733"
+          }
+        ]
+      },
+      {
+        "before": "$0.2202 /hour/node i.e.",
+        "after": "$0.305 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.2202",
+            "after": "$0.305"
+          }
+        ]
+      },
+      {
+        "before": "$0.4216 /hour/node i.e.",
+        "after": "$0.5798 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.4216",
+            "after": "$0.5798"
+          }
+        ]
+      },
+      {
+        "before": "$0.7424 /hour/node i.e.",
+        "after": "$1.1221 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.7424",
+            "after": "$1.1221"
+          }
+        ]
+      },
+      {
+        "before": "$0.1252 /hour/node i.e.",
+        "after": "$0.3065 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.1252",
+            "after": "$0.3065"
+          }
+        ]
+      },
+      {
+        "before": "From 240 GB to 720 GB",
+        "after": "From 40 GB to 120 GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "240GB",
+            "after": "40GB"
+          },
+          {
+            "before": "720GB",
+            "after": "120GB"
+          }
+        ]
+      },
+      {
+        "before": "$0.1266 /hour/node i.e.",
+        "after": "$0.0777 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.1266",
+            "after": "$0.0777"
+          }
+        ]
+      },
+      {
+        "before": "$0.1971 /hour/node i.e.",
+        "after": "$0.1569 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.1971",
+            "after": "$0.1569"
+          }
+        ]
+      },
+      {
+        "before": "From 960 GB to 2.88 TB",
+        "after": "From 480 GB to 1.44 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "960GB",
+            "after": "480GB"
+          },
+          {
+            "before": "2.88TB",
+            "after": "1.44TB"
+          }
+        ]
+      },
+      {
+        "before": "$0.3784 /hour/node i.e.",
+        "after": "$0.3367 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.3784",
+            "after": "$0.3367"
+          }
+        ]
+      },
+      {
+        "before": "$0.6963 /hour/node i.e.",
+        "after": "$0.6791 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.6963",
+            "after": "$0.6791"
+          }
+        ]
+      },
+      {
+        "before": "From 3.84 TB to 11.52 TB",
+        "after": "From 1.92 TB to 5.76 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3.84TB",
+            "after": "1.92TB"
+          },
+          {
+            "before": "11.52TB",
+            "after": "5.76TB"
+          }
+        ]
+      },
+      {
+        "before": "$1.3653 /hour/node i.e.",
+        "after": "$1.3595 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.3653",
+            "after": "$1.3595"
+          }
+        ]
+      },
+      {
+        "before": "From 7.68 TB to 23.04 TB",
+        "after": "From 3.84 TB to 11.52 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "7.68TB",
+            "after": "3.84TB"
+          },
+          {
+            "before": "23.04TB",
+            "after": "11.52TB"
+          }
+        ]
+      },
+      {
+        "before": "$2.729 /hour/node i.e.",
+        "after": "$2.7261 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.729",
+            "after": "$2.7261"
+          }
+        ]
+      },
+      {
+        "before": "$0.3784 /hour/node i.e.",
+        "after": "$0.341 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.3784",
+            "after": "$0.341"
+          }
+        ]
+      },
+      {
+        "before": "From 3.84 TB to 11.52 TB",
+        "after": "From 1.92 TB to 5.76 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3.84TB",
+            "after": "1.92TB"
+          },
+          {
+            "before": "11.52TB",
+            "after": "5.76TB"
+          }
+        ]
+      },
+      {
+        "before": "$0.6963 /hour/node i.e.",
+        "after": "$0.6834 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.6963",
+            "after": "$0.6834"
+          }
+        ]
+      },
+      {
+        "before": "From 7.68 TB to 23.04 TB",
+        "after": "From 3.84 TB to 11.52 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "7.68TB",
+            "after": "3.84TB"
+          },
+          {
+            "before": "23.04TB",
+            "after": "11.52TB"
+          }
+        ]
+      },
+      {
+        "before": "$1.3653 /hour/node i.e.",
+        "after": "$1.3638 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.3653",
+            "after": "$1.3638"
+          }
+        ]
+      },
+      {
+        "before": "From 15.36 TB to 46.08 TB",
+        "after": "From 7.68 TB to 23.04 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "15.36TB",
+            "after": "7.68TB"
+          },
+          {
+            "before": "46.08TB",
+            "after": "23.04TB"
+          }
+        ]
+      },
+      {
+        "before": "$2.729 /hour/node i.e.",
+        "after": "$2.7276 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.729",
+            "after": "$2.7276"
+          }
+        ]
+      },
+      {
+        "before": "$0.2043 /hour/node i.e.",
+        "after": "$0.2202 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.2043",
+            "after": "$0.2202"
+          }
+        ]
+      },
+      {
+        "before": "$0.3784 /hour/node i.e.",
+        "after": "$0.41 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.3784",
+            "after": "$0.41"
+          }
+        ]
+      },
+      {
+        "before": "$0.7107 /hour/node i.e.",
+        "after": "$0.7424 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.7107",
+            "after": "$0.7424"
+          }
+        ]
+      },
+      {
+        "before": "$0.236 /hour/node i.e.",
+        "after": "$0.2202 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.236",
+            "after": "$0.2202"
+          }
+        ]
+      },
+      {
+        "before": "$0.4057 /hour/node i.e.",
+        "after": "$0.4216 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.4057",
+            "after": "$0.4216"
+          }
+        ]
+      },
+      {
+        "before": "$0.8114 /hour/node i.e.",
+        "after": "$0.7424 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.8114",
+            "after": "$0.7424"
+          }
+        ]
+      },
+      {
+        "before": "$0.4618 /hour/node i.e.",
+        "after": "$0.4216 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.4618",
+            "after": "$0.4216"
+          }
+        ]
+      },
+      {
+        "before": "$0.9481 /hour/node i.e.",
+        "after": "$0.7424 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.9481",
+            "after": "$0.7424"
+          }
+        ]
+      },
+      {
+        "before": "$0.1266 /hour/node i.e.",
+        "after": "$0.2202 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.1266",
+            "after": "$0.2202"
+          }
+        ]
+      },
+      {
+        "before": "$0.236 /hour/node i.e.",
+        "after": "$0.4216 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.236",
+            "after": "$0.4216"
+          }
+        ]
+      },
+      {
+        "before": "$0.4733 /hour/node i.e.",
+        "after": "$0.7424 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.4733",
+            "after": "$0.7424"
+          }
+        ]
+      },
+      {
+        "before": "$0.236 /hour/node i.e.",
+        "after": "$0.4216 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.236",
+            "after": "$0.4216"
+          }
+        ]
+      },
+      {
+        "before": "$0.4733 /hour/node i.e.",
+        "after": "$0.7424 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.4733",
+            "after": "$0.7424"
+          }
+        ]
+      },
+      {
+        "before": "For optimal readability, the price is displayed per GB/month — but since there are 720 hours in an average month, the billing granularity is per GB/hour.",
+        "after": "For optimal readability, the price is displayed per GB/month — but since there are 730 hours in an average month, the billing granularity is per GB/hour.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "720",
+            "after": "730"
+          }
+        ]
+      },
+      {
+        "before": "For optimal readability, the price is displayed per GB/month — but since there are 720 hours in an average month, the billing granularity is per GB/hour.",
+        "after": "For optimal readability, the price is displayed per GB/month — but since there are 730 hours in an average month, the billing granularity is per GB/hour.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "720",
+            "after": "730"
+          }
+        ]
+      },
+      {
+        "before": "To ensure optimal readability, the price is displayed per GB/month. However, the granularity of billing is per GB/hour, since each month has an average of 720 hours.",
+        "after": "To ensure optimal readability, the price is displayed per GB/month. However, the granularity of billing is per GB/hour, since each month has an average of 730 hours.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "720",
+            "after": "730"
+          }
+        ]
+      },
+      {
+        "before": "For optimal readability, the price is displayed per GB/month — but since there are 720 hours in an average month, the billing granularity is per GB/hour.",
+        "after": "For optimal readability, the price is displayed per GB/month — but since there are 730 hours in an average month, the billing granularity is per GB/hour.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "720",
+            "after": "730"
+          }
+        ]
+      },
+      {
+        "before": "From 960 GB to 2.88 TB",
+        "after": "From 640 GB to 1.92 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "960GB",
+            "after": "640GB"
+          },
+          {
+            "before": "2.88TB",
+            "after": "1.92TB"
+          }
+        ]
+      },
+      {
+        "before": "From 3.84 TB to 11.52 TB",
+        "after": "From 1.92 TB to 5.76 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3.84TB",
+            "after": "1.92TB"
+          },
+          {
+            "before": "11.52TB",
+            "after": "5.76TB"
+          }
+        ]
+      },
+      {
+        "before": "From 7.68 TB to 23.04 TB",
+        "after": "From 1.28 TB to 3.84 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "7.68TB",
+            "after": "1.28TB"
+          },
+          {
+            "before": "23.04TB",
+            "after": "3.84TB"
+          }
+        ]
+      },
+      {
+        "before": "From 15.36 TB to 46.08 TB",
+        "after": "From 1.92 TB to 5.76 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "15.36TB",
+            "after": "1.92TB"
+          },
+          {
+            "before": "46.08TB",
+            "after": "5.76TB"
+          }
+        ]
+      },
+      {
+        "before": "From 80 GB to 240 GB",
+        "after": "From 160 GB to 480 GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "80GB",
+            "after": "160GB"
+          },
+          {
+            "before": "240GB",
+            "after": "480GB"
+          }
+        ]
+      },
+      {
+        "before": "From 160 GB to 480 GB",
+        "after": "From 320 GB to 960 GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "160GB",
+            "after": "320GB"
+          },
+          {
+            "before": "480GB",
+            "after": "960GB"
+          }
+        ]
+      },
+      {
+        "before": "From 240 GB to 720 GB",
+        "after": "From 80 GB to 240 GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "240GB",
+            "after": "80GB"
+          },
+          {
+            "before": "720GB",
+            "after": "240GB"
+          }
+        ]
+      },
+      {
+        "before": "From 960 GB to 2.88 TB",
+        "after": "From 480 GB to 1.44 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "960GB",
+            "after": "480GB"
+          },
+          {
+            "before": "2.88TB",
+            "after": "1.44TB"
+          }
+        ]
+      },
+      {
+        "before": "From 480 GB to 1.44 TB",
+        "after": "From 960 GB to 2.88 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "480GB",
+            "after": "960GB"
+          },
+          {
+            "before": "1.44TB",
+            "after": "2.88TB"
+          }
+        ]
+      },
+      {
+        "before": "From 960 GB to 2.88 TB",
+        "after": "From 480 GB to 1.44 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "960GB",
+            "after": "480GB"
+          },
+          {
+            "before": "2.88TB",
+            "after": "1.44TB"
+          }
+        ]
+      },
+      {
+        "before": "From 480 GB to 1.44 TB",
+        "after": "From 960 GB to 2.88 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "480GB",
+            "after": "960GB"
+          },
+          {
+            "before": "1.44TB",
+            "after": "2.88TB"
+          }
+        ]
+      },
+      {
+        "before": "From 1.92 TB to 5.76 TB",
+        "after": "From 3.84 TB to 11.52 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1.92TB",
+            "after": "3.84TB"
+          },
+          {
+            "before": "5.76TB",
+            "after": "11.52TB"
+          }
+        ]
+      },
+      {
+        "before": "From 1.92 TB to 5.76 TB",
+        "after": "From 7.68 TB to 23.04 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1.92TB",
+            "after": "7.68TB"
+          },
+          {
+            "before": "5.76TB",
+            "after": "23.04TB"
+          }
+        ]
+      },
+      {
+        "before": "From 320 GB to 960 GB",
+        "after": "From 240 GB to 720 GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "320GB",
+            "after": "240GB"
+          },
+          {
+            "before": "960GB",
+            "after": "720GB"
+          }
+        ]
+      },
+      {
+        "before": "From 640 GB to 1.92 TB",
+        "after": "From 960 GB to 2.88 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "640GB",
+            "after": "960GB"
+          },
+          {
+            "before": "1.92TB",
+            "after": "2.88TB"
+          }
+        ]
+      },
+      {
+        "before": "From 1.28 TB to 3.84 TB",
+        "after": "From 15.36 TB to 46.08 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1.28TB",
+            "after": "15.36TB"
+          },
+          {
+            "before": "3.84TB",
+            "after": "46.08TB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "45 GB",
+      "A10 24 GB",
+      "2×A10 24 GB",
+      "4×A10 180 GB",
+      "90 GB",
+      "400 GB NVMe",
+      "$1 /hour",
+      "180 GB",
+      "400 GB NVMe",
+      "$2 /hour",
+      "400 GB NVMe",
+      "$4 /hour",
+      "$0.000017 /GB/hour",
+      "$0.000017 /GB/hour",
+      "$0.000066 /GB/hour",
+      "$0.000132 /GB/hour",
+      "$0.000132 /GB/hour",
+      "$0.000066 /GB/hour",
+      "$0.000017 /GB/hour",
+      "$0.00001111 /GB/hour",
+      "First 50 TiB / Month",
+      "$0.00002152 /GiB/hour",
+      "Next 450 TiB / Month",
+      "$0.00001921 /GiB/hour",
+      "Over 500 TiB / Month",
+      "$0.0000169 /GiB/hour",
+      "$0.0111 /GB",
+      "1 TiB = 1024 GiB.",
+      "Object Storage is billed based on the storage space used, with a granularity of 1 GB.",
+      "$0.00002778 /GB/hour",
+      "$0.000017 /GB/hour",
+      "$0.0000033 /GB/hour",
+      "$0.00000189 /GB/hour",
+      "Even if you have less than 1 TB of data, archiving a container will still be charged as if you had 1 TB of stored data. Simply put, the minimum amount billed for archiving is the 1 TB rate. The archiving operation is free.",
+      "If you archive a 500 GB bucket, you’ll be charged the 1 TB rate.",
+      "If you archive a 1500 GB bucket, you’ll be charged the 1 TB + 500 GB rate",
+      "$0.41 /hour/node i.e.",
+      "$0.7424 /hour/node i.e.",
+      "$0.2202 /hour/node i.e.",
+      "$0.1252 /hour/node i.e."
+    ],
+    "removed": [
+      "Instances include an IPv4 address by default, except for Local Zone instances, where you need to pay for any additional IP addresses: $0.0028 /hour.",
+      "$0.048 /month/GB",
+      "$0.095 /month/GB",
+      "$0.095 /month/GB",
+      "$0.008 /month/GB",
+      "$0.0123 /month/GB",
+      "$0.0024 /month/GB",
+      "$0.0014 /month/GB",
+      "It is possible to launch a container archive with less than 1TB of data, but the archiving action will be billed at the price of 1TB.",
+      "$0.048 /month/GB",
+      "$0.0122 /month/GB",
+      "$0.0122 /month/GB",
+      "$0.305 /hour/node i.e.",
+      "$0.3065 /hour/node i.e.",
+      "$0.5798 /hour/node i.e.",
+      "$1.1221 /hour/node i.e.",
+      "$0.0123 /month/GB",
+      "Workflows and executions are free. Only the cloud resources generated (instances, volumes, etc.) are billed at their standard pricing.",
+      "Heat recipes and their deployments are free.",
+      "$0.02 /hour/GB",
+      "User creation is free and unlimited.",
+      "Generating threshold alerts for your billing is free.",
+      "Access to the OpenStack Horizon management console is free.",
+      "Access to the KVM console for instances is free."
+    ],
+    "totals": {
+      "removed": 627,
+      "added": 620,
+      "materialRemoved": 246,
+      "materialAdded": 262
+    }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20250115004218",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20250115004218",
+    "date": "2025-01-15",
+    "source": "wayback",
+    "prevTs": "20241213042103",
+    "kind": "price",
+    "score": 19,
+    "counts": {
+      "price": 4,
+      "limit": 2,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "OVHcloud: 4 prices, 2 limits, 2 plan names changed (removed “1 TiB = 1024 GiB.”; added “For 3 rd -generation instances that are compa…”)",
+    "pairs": [],
+    "added": [
+      "For 3 rd -generation instances that are compatible with Windows Server (B3,C3,R3), Windows Server licences are billed separately from the instance. Its cost is: $0.039 /vCore/hour.",
+      "For 3 rd -generation instances that are compatible with Windows Server (B3,C3,R3), Windows Server licences are billed separately from the instance. Its cost is: $0.039 /vCore/hour.",
+      "For 3 rd -generation instances that are compatible with Windows Server (B3,C3,R3), Windows Server licences are billed separately from the instance. Its cost is: $0.039 /vCore/hour.",
+      "80000 req/s",
+      "$0.2304 /hour"
+    ],
+    "removed": [
+      "1 TiB = 1024 GiB.",
+      "Free Tier",
+      "3 users",
+      "Free"
+    ],
+    "totals": {
+      "removed": 18,
+      "added": 23,
+      "materialRemoved": 8,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20250224100113",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20250224100113",
+    "date": "2025-02-24",
+    "source": "wayback",
+    "prevTs": "20250115004218",
+    "kind": "price",
+    "score": 52,
+    "counts": {
+      "price": 10,
+      "limit": 6,
+      "plan": 5
+    },
+    "material": true,
+    "headline": "OVHcloud: 10 prices, 6 limits, 5 plan names changed (removed “4 GB”; added “512 GB”)",
+    "pairs": [],
+    "added": [
+      "512 GB",
+      "$3.2911 /hour",
+      "640 GB",
+      "$4.1138 /hour",
+      "256 GB",
+      "$2.9362 /hour",
+      "320 GB",
+      "400 GB NVMe",
+      "$3.6702 /hour",
+      "1.024 TB",
+      "400 GB NVMe",
+      "$4.259 /hour",
+      "400 GB SSD",
+      "400 GB SSD",
+      "400 GB SSD",
+      "Replicate your buckets in one click with the Offsite Replication option from $0.0044 /GiB/month.",
+      "$0.0838 /hour",
+      "$5.1562 /GB/month",
+      "$0.02 /TB",
+      "$0.0838 /hour"
+    ],
+    "removed": [
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "4 GB",
+      "Free",
+      "The beta offer is currently only available to users with an account in Europe (including the UK), Africa or the Middle East. In accordance with our Terms and Conditions, beta pricing will be communicated to them at least 30 days before the GA and billing begin."
+    ],
+    "totals": {
+      "removed": 112,
+      "added": 137,
+      "materialRemoved": 39,
+      "materialAdded": 52
+    }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20250310040851",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20250310040851",
+    "date": "2025-03-10",
+    "source": "wayback",
+    "prevTs": "20250224100113",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "OVHcloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 7,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20250409172048",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20250409172048",
+    "date": "2025-04-09",
+    "source": "wayback",
+    "prevTs": "20250310040851",
+    "kind": "price",
+    "score": 66,
+    "counts": {
+      "price": 18,
+      "limit": 5,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "OVHcloud: 18 prices, 5 limits, 1 plan name changed (180GB → 24GB; $0.00001921 → $0.00000603)",
+    "pairs": [
+      {
+        "before": "4×A10 180 GB",
+        "after": "4×A10 24 GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "180GB",
+            "after": "24GB"
+          }
+        ]
+      },
+      {
+        "before": "$0.00001921 /GiB/hour",
+        "after": "$0.00000603 /GiB/hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.00001921",
+            "after": "$0.00000603"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "*Price for a one-month Savings Plan. The Windows instance rate displayed covers the licence price ( $0.039 /vCore/hour). The Savings Plans page",
+      "*Price for a one-month Savings Plan. The Windows instance rate displayed covers the licence price ( $0.039 /vCore/hour). The Savings Plans page",
+      "*Price for a one-month Savings Plan. The Windows instance rate displayed covers the licence price ( $0.039 /vCore/hour). The Savings Plans page",
+      "$0.00001921 /GiB/hour",
+      "Managed Rancher Service comes in two plans: ‘OVHcloud Edition’ and ‘Standard’, available on a pay-as-you-go basis. You will be billed based on the total number of vCPUs used in your downstream clusters. Keep in mind, a minimum of 20 vCPUs will be billed, even if you don’t end up using that many in your clusters.",
+      "The computing power unit used to perform data processing and host applications is the Data Platform Unit (DPU), corresponding to 1 vCPU and 4 GB RAM.",
+      "$0.08 /DPU/hour",
+      "$5.73 /TB",
+      "$0.021 /GB/month",
+      "$0.08 /DPU/hour",
+      "The monthly rate is the price for a one-month Savings Plan. The monthly Windows rate covers a Windows licence ( $0.039 /vCore/hour)."
+    ],
+    "removed": [
+      "For 3 rd -generation instances that are compatible with Windows Server (B3,C3,R3), Windows Server licences are billed separately from the instance. Its cost is: $0.039 /vCore/hour. For enhanced readability, the price is listed in total hourly price, including the instance and licence.",
+      "For 3 rd -generation instances that are compatible with Windows Server (B3,C3,R3), Windows Server licences are billed separately from the instance. Its cost is: $0.039 /vCore/hour. For enhanced readability, the price is listed in total hourly price, including the instance and licence.",
+      "For 3 rd -generation instances that are compatible with Windows Server (B3,C3,R3), Windows Server licences are billed separately from the instance. Its cost is: $0.039 /vCore/hour. For enhanced readability, the price is listed in total hourly price, including the instance and licence.",
+      "Replicate your buckets in one click with the Offsite Replication option from $0.0044 /GiB/month.",
+      "The beta offer is currently only available to users with an account in Europe (including the UK), Africa or the Middle East. In accordance with our Terms and Conditions, beta pricing will be communicated to them at least 30 days before the GA and billing begin",
+      "$0.0838 /hour",
+      "The beta offer is currently only available to users with an account in Europe (including the UK), Africa or the Middle East. In accordance with our Terms and Conditions, beta pricing will be communicated to them at least 30 days before the GA and billing begin",
+      "Free Tier",
+      "100 GB/month",
+      "$5.1562 /GB/month",
+      "$0.02 /TB",
+      "The beta offer is currently only available to users with an account in Europe (including the UK), Africa or the Middle East. In accordance with our Terms and Conditions, beta pricing will be communicated to them at least 30 days before the GA and billing begin",
+      "The beta offer is currently only available to users with an account in Europe (including the UK), Africa or the Middle East. In accordance with our Terms and Conditions, beta pricing will be communicated to them at least 30 days before the GA and billing begin",
+      "$0.0838 /hour",
+      "The beta offer is currently only available to users with an account in Europe (including the UK), Africa or the Middle East. In accordance with our Terms and Conditions, beta pricing will be communicated to them at least 30 days before the GA and billing begin."
+    ],
+    "totals": {
+      "removed": 67,
+      "added": 63,
+      "materialRemoved": 20,
+      "materialAdded": 16
+    }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20250507135548",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20250507135548",
+    "date": "2025-05-07",
+    "source": "wayback",
+    "prevTs": "20250409172048",
+    "kind": "price",
+    "score": 217,
+    "counts": {
+      "price": 47,
+      "limit": 33,
+      "plan": 5
+    },
+    "material": true,
+    "headline": "OVHcloud: 47 prices, 33 limits, 5 plan names changed ($0.00000603 → $0.00000597)",
+    "pairs": [
+      {
+        "before": "$0.00000603 /GiB/hour",
+        "after": "$0.00000597 /GiB/hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.00000603",
+            "after": "$0.00000597"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "28 GB",
+      "Quadro-RTX5000 16 GB",
+      "400 GB SSD",
+      "$0.60 /hour",
+      "56 GB",
+      "2×Quadro-RTX5000 16 GB",
+      "400 GB SSD",
+      "$1.20 /hour",
+      "84 GB",
+      "3×Quadro-RTX5000 16 GB",
+      "400 GB SSD",
+      "$1.80 /hour",
+      "/1M token",
+      "DeepSeek-R1-Distill-Llama-70B",
+      "$0.74",
+      "DeepSeek-R1-Distill-Llama-70B",
+      "$0.74",
+      "Llama-3.1-8B-Instruct",
+      "$0.11",
+      "Llama-3.1-8B-Instruct",
+      "$0.11",
+      "Llama-3.1-70B-Instruct",
+      "$0.74",
+      "Llama-3.1-70B-Instruct",
+      "$0.74",
+      "Llama-3.3-70B-Instruct",
+      "$0.74",
+      "Llama-3.3-70B-Instruct",
+      "$0.74",
+      "$0.14",
+      "$0.14",
+      "/1M token",
+      "Llava-Next-Mistral-7b",
+      "$0.32",
+      "Llava-Next-Mistral-7b",
+      "$0.32",
+      "Qwen2.5-VL-72B-Instruct",
+      "$1.01",
+      "Qwen2.5-VL-72B-Instruct",
+      "$1.01"
+    ],
+    "removed": [
+      "From 160 GB to 480 GB",
+      "7 GB",
+      "$0.2043 /hour/node i.e.",
+      "From 320 GB to 960 GB",
+      "15 GB",
+      "$0.3784 /hour/node i.e.",
+      "From 640 GB to 1.92 TB",
+      "30 GB",
+      "$0.7107 /hour/node i.e.",
+      "From 1.28 TB to 3.84 TB",
+      "60 GB",
+      "$1.3911 /hour/node i.e.",
+      "From 480 GB to 1.44 TB",
+      "7 GB",
+      "$0.236 /hour/node i.e.",
+      "From 960 GB to 2.88 TB",
+      "15 GB",
+      "$0.4057 /hour/node i.e.",
+      "From 1.92 TB to 5.76 TB",
+      "30 GB",
+      "$0.8114 /hour/node i.e.",
+      "From 3.84 TB to 11.52 TB",
+      "60 GB",
+      "$1.5451 /hour/node i.e.",
+      "From 7.68 TB to 23.04 TB",
+      "120 GB",
+      "$3.0901 /hour/node i.e.",
+      "From 1.92 TB to 5.76 TB",
+      "15 GB",
+      "$0.4618 /hour/node i.e.",
+      "From 3.84 TB to 11.52 TB",
+      "30 GB",
+      "$0.9481 /hour/node i.e.",
+      "From 7.68 TB to 23.04 TB",
+      "60 GB",
+      "$1.9364 /hour/node i.e.",
+      "From 15.36 TB to 46.08 TB",
+      "120 GB",
+      "$3.3807 /hour/node i.e.",
+      "7 GB"
+    ],
+    "totals": {
+      "removed": 195,
+      "added": 184,
+      "materialRemoved": 58,
+      "materialAdded": 61
+    }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20250602021424",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20250602021424",
+    "date": "2025-06-02",
+    "source": "wayback",
+    "prevTs": "20250507135548",
+    "kind": "price",
+    "score": 32,
+    "counts": {
+      "price": 8,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OVHcloud: 8 prices, 4 limits changed (added “4 GB”)",
+    "pairs": [],
+    "added": [
+      "4 GB",
+      "$0.0619 /hour/node i.e.",
+      "7 GB",
+      "$0.1252 /hour/node i.e.",
+      "4 GB",
+      "$0.0712 /hour/node i.e.",
+      "7 GB",
+      "$0.1583 /hour/node i.e.",
+      "15 GB",
+      "$0.236 /hour/node i.e.",
+      "30 GB",
+      "$0.4661 /hour/node i.e.",
+      "60 GB",
+      "$0.9322 /hour/node i.e.",
+      "120 GB",
+      "$1.8587 /hour/node i.e."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 201,
+      "materialRemoved": 0,
+      "materialAdded": 16
+    }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20250707141142",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20250707141142",
+    "date": "2025-07-07",
+    "source": "wayback",
+    "prevTs": "20250602021424",
+    "kind": "price",
+    "score": 135,
+    "counts": {
+      "price": 38,
+      "limit": 11,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OVHcloud: 38 prices, 11 limits changed ($0.0508 → $0.0566; $0.1016 → $0.1132)",
+    "pairs": [
+      {
+        "before": "$0.0508 /hour",
+        "after": "$0.0566 /hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.0508",
+            "after": "$0.0566"
+          }
+        ]
+      },
+      {
+        "before": "$0.1016 /hour",
+        "after": "$0.1132 /hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.1016",
+            "after": "$0.1132"
+          }
+        ]
+      },
+      {
+        "before": "$0.2033 /hour",
+        "after": "$0.2263 /hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.2033",
+            "after": "$0.2263"
+          }
+        ]
+      },
+      {
+        "before": "$0.4065 /hour",
+        "after": "$0.4526 /hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.4065",
+            "after": "$0.4526"
+          }
+        ]
+      },
+      {
+        "before": "$0.000017 /GB/hour",
+        "after": "$0.00003 /GB/hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.000017",
+            "after": "$0.00003"
+          }
+        ]
+      },
+      {
+        "before": "$0.000132 /GB/hour",
+        "after": "$0.000145 /GB/hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.000132",
+            "after": "$0.000145"
+          }
+        ]
+      },
+      {
+        "before": "$0.000132 /GB/hour",
+        "after": "$0.000145 /GB/hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.000132",
+            "after": "$0.000145"
+          }
+        ]
+      },
+      {
+        "before": "$0.000066 /GB/hour",
+        "after": "$0.000072 /GB/hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.000066",
+            "after": "$0.000072"
+          }
+        ]
+      },
+      {
+        "before": "$0.000017 /GB/hour",
+        "after": "$0.00003 /GB/hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.000017",
+            "after": "$0.00003"
+          }
+        ]
+      },
+      {
+        "before": "$0.00001111 /GB/hour",
+        "after": "$0.00003042 /GB/hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.00001111",
+            "after": "$0.00003042"
+          }
+        ]
+      },
+      {
+        "before": "$0.0777 /hour/node i.e.",
+        "after": "$0.1094 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.0777",
+            "after": "$0.1094"
+          }
+        ]
+      },
+      {
+        "before": "$0.1569 /hour/node i.e.",
+        "after": "$0.2202 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.1569",
+            "after": "$0.2202"
+          }
+        ]
+      },
+      {
+        "before": "$0.3151 /hour/node i.e.",
+        "after": "$0.41 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.3151",
+            "after": "$0.41"
+          }
+        ]
+      },
+      {
+        "before": "$0.1684 /hour/node i.e.",
+        "after": "$0.2202 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.1684",
+            "after": "$0.2202"
+          }
+        ]
+      },
+      {
+        "before": "$0.3367 /hour/node i.e.",
+        "after": "$0.4216 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.3367",
+            "after": "$0.4216"
+          }
+        ]
+      },
+      {
+        "before": "$0.6791 /hour/node i.e.",
+        "after": "$0.7424 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.6791",
+            "after": "$0.7424"
+          }
+        ]
+      },
+      {
+        "before": "$0.1698 /hour/node i.e.",
+        "after": "$0.2202 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.1698",
+            "after": "$0.2202"
+          }
+        ]
+      },
+      {
+        "before": "$0.341 /hour/node i.e.",
+        "after": "$0.4216 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.341",
+            "after": "$0.4216"
+          }
+        ]
+      },
+      {
+        "before": "$0.6834 /hour/node i.e.",
+        "after": "$0.7424 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.6834",
+            "after": "$0.7424"
+          }
+        ]
+      },
+      {
+        "before": "$0.1094 /hour/node i.e.",
+        "after": "$0.0777 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.1094",
+            "after": "$0.0777"
+          }
+        ]
+      },
+      {
+        "before": "$0.2202 /hour/node i.e.",
+        "after": "$0.1569 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.2202",
+            "after": "$0.1569"
+          }
+        ]
+      },
+      {
+        "before": "$0.41 /hour/node i.e.",
+        "after": "$0.3151 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.41",
+            "after": "$0.3151"
+          }
+        ]
+      },
+      {
+        "before": "$0.2202 /hour/node i.e.",
+        "after": "$0.1684 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.2202",
+            "after": "$0.1684"
+          }
+        ]
+      },
+      {
+        "before": "$0.4216 /hour/node i.e.",
+        "after": "$0.3367 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.4216",
+            "after": "$0.3367"
+          }
+        ]
+      },
+      {
+        "before": "$0.7424 /hour/node i.e.",
+        "after": "$0.6791 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.7424",
+            "after": "$0.6791"
+          }
+        ]
+      },
+      {
+        "before": "$0.2202 /hour/node i.e.",
+        "after": "$0.1698 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.2202",
+            "after": "$0.1698"
+          }
+        ]
+      },
+      {
+        "before": "$0.4216 /hour/node i.e.",
+        "after": "$0.341 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.4216",
+            "after": "$0.341"
+          }
+        ]
+      },
+      {
+        "before": "$0.7424 /hour/node i.e.",
+        "after": "$0.6834 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.7424",
+            "after": "$0.6834"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0.000071 /GB/hour",
+      "$0.0122 /GB",
+      "$0.0109 /GB",
+      "$0.0044 /GB",
+      "The minimum storage time is 730 hours (30 days). If an object is deleted during this period, an additional charge will be applied and calculated using the following formula: [730h - # of hours of storage of the object] x price per hour of storage class.",
+      "40 GiB",
+      "NVIDIA Ampere A10 24 GiB 31.2 TFLOPS",
+      "1536 GiB",
+      "$1 /hour",
+      "40 GiB",
+      "NVIDIA Ampere A10 24 GiB 31.2 TFLOPS",
+      "1536 GiB",
+      "$1 /hour",
+      "40 GiB",
+      "1536 GiB",
+      "$1 /hour",
+      "Meta-Llama-3_1-70B-Instruct",
+      "Meta-Llama-3_1-70B-Instruct",
+      "Meta-Llama-3_3-70B-Instruct",
+      "Meta-Llama-3_3-70B-Instruct",
+      "$0.70",
+      "$0.70",
+      "mamba-codestral-7B-v0.1",
+      "mamba-codestral-7B-v0.1"
+    ],
+    "removed": [
+      "$0.011 /GB",
+      "Llama-3.1-70B-Instruct",
+      "Llama-3.1-70B-Instruct",
+      "Llama-3.3-70B-Instruct",
+      "Llama-3.3-70B-Instruct",
+      "mamba-codestral-7b-v0-1",
+      "mamba-codestral-7b-v0-1"
+    ],
+    "totals": {
+      "removed": 217,
+      "added": 256,
+      "materialRemoved": 67,
+      "materialAdded": 84
+    }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20250811083654",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20250811083654",
+    "date": "2025-08-11",
+    "source": "wayback",
+    "prevTs": "20250707141142",
+    "kind": "price",
+    "score": 357,
+    "counts": {
+      "price": 76,
+      "limit": 65,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OVHcloud: 76 prices, 65 limits changed ($0.0619 → $0.1477; $0.236 → $0.3298)",
+    "pairs": [
+      {
+        "before": "$0.0619 /hour/node i.e.",
+        "after": "$0.1477 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.0619",
+            "after": "$0.1477"
+          }
+        ]
+      },
+      {
+        "before": "$0.236 /hour/node i.e.",
+        "after": "$0.3298 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.236",
+            "after": "$0.3298"
+          }
+        ]
+      },
+      {
+        "before": "$0.9322 /hour/node i.e.",
+        "after": "$0.6597 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.9322",
+            "after": "$0.6597"
+          }
+        ]
+      },
+      {
+        "before": "$1.8587 /hour/node i.e.",
+        "after": "$1.3192 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.8587",
+            "after": "$1.3192"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "From 160 GB to 480 GB",
+      "8 GB",
+      "$0.2231 /hour/node i.e.",
+      "From 320 GB to 960 GB",
+      "16 GB",
+      "$0.4462 /hour/node i.e.",
+      "From 640 GB to 1.92 TB",
+      "32 GB",
+      "$0.8924 /hour/node i.e.",
+      "From 1.28 TB to 3.84 TB",
+      "64 GB",
+      "$1.7847 /hour/node i.e.",
+      "From 2.56 TB to 7.68 TB",
+      "128 GB",
+      "$3.5694 /hour/node i.e.",
+      "From 5.12 TB to 8 TB",
+      "256 GB",
+      "$7.1388 /hour/node i.e.",
+      "From 160 GB to 480 GB",
+      "8 GB",
+      "$0.2405 /hour/node i.e.",
+      "From 320 GB to 960 GB",
+      "16 GB",
+      "$0.4809 /hour/node i.e.",
+      "From 640 GB to 1.92 TB",
+      "32 GB",
+      "$0.9618 /hour/node i.e.",
+      "From 1.28 TB to 3.84 TB",
+      "64 GB",
+      "$1.9235 /hour/node i.e.",
+      "From 2.56 TB to 7.68 TB",
+      "128 GB",
+      "$3.847 /hour/node i.e.",
+      "From 5.12 TB to 8 TB",
+      "256 GB",
+      "$7.694 /hour/node i.e.",
+      "From 160 GB to 480 GB",
+      "8 GB",
+      "$0.2231 /hour/node i.e.",
+      "From 320 GB to 960 GB"
+    ],
+    "removed": [
+      "4 GB",
+      "7 GB",
+      "4 GB",
+      "$0.0712 /hour/node i.e.",
+      "7 GB",
+      "$0.1583 /hour/node i.e.",
+      "15 GB",
+      "30 GB",
+      "$0.4661 /hour/node i.e.",
+      "60 GB",
+      "120 GB"
+    ],
+    "totals": {
+      "removed": 85,
+      "added": 491,
+      "materialRemoved": 16,
+      "materialAdded": 195
+    }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20250905012332",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20250905012332",
+    "date": "2025-09-05",
+    "source": "wayback",
+    "prevTs": "20250811083654",
+    "kind": "price",
+    "score": 82,
+    "counts": {
+      "price": 2,
+      "limit": 38,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OVHcloud: 2 prices, 38 limits changed (480GB → 800GB; 1.92TB → 3.2TB)",
+    "pairs": [
+      {
+        "before": "From 160 GB to 480 GB",
+        "after": "From 160 GB to 800 GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "480GB",
+            "after": "800GB"
+          }
+        ]
+      },
+      {
+        "before": "From 640 GB to 1.92 TB",
+        "after": "From 640 GB to 3.2 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1.92TB",
+            "after": "3.2TB"
+          }
+        ]
+      },
+      {
+        "before": "From 1.28 TB to 3.84 TB",
+        "after": "From 1.28 TB to 6.4 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3.84TB",
+            "after": "6.4TB"
+          }
+        ]
+      },
+      {
+        "before": "From 2.56 TB to 7.68 TB",
+        "after": "From 2.56 TB to 12.8 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "7.68TB",
+            "after": "12.8TB"
+          }
+        ]
+      },
+      {
+        "before": "From 5.12 TB to 8 TB",
+        "after": "From 5.12 TB to 25.6 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8TB",
+            "after": "25.6TB"
+          }
+        ]
+      },
+      {
+        "before": "From 160 GB to 480 GB",
+        "after": "From 160 GB to 800 GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "480GB",
+            "after": "800GB"
+          }
+        ]
+      },
+      {
+        "before": "From 640 GB to 1.92 TB",
+        "after": "From 640 GB to 3.2 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1.92TB",
+            "after": "3.2TB"
+          }
+        ]
+      },
+      {
+        "before": "From 1.28 TB to 3.84 TB",
+        "after": "From 1.28 TB to 6.4 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3.84TB",
+            "after": "6.4TB"
+          }
+        ]
+      },
+      {
+        "before": "From 2.56 TB to 7.68 TB",
+        "after": "From 2.56 TB to 12.8 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "7.68TB",
+            "after": "12.8TB"
+          }
+        ]
+      },
+      {
+        "before": "From 5.12 TB to 8 TB",
+        "after": "From 5.12 TB to 25.6 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8TB",
+            "after": "25.6TB"
+          }
+        ]
+      },
+      {
+        "before": "From 160 GB to 480 GB",
+        "after": "From 160 GB to 800 GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "480GB",
+            "after": "800GB"
+          }
+        ]
+      },
+      {
+        "before": "From 640 GB to 1.92 TB",
+        "after": "From 640 GB to 3.2 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1.92TB",
+            "after": "3.2TB"
+          }
+        ]
+      },
+      {
+        "before": "From 1.28 TB to 3.84 TB",
+        "after": "From 1.28 TB to 6.4 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3.84TB",
+            "after": "6.4TB"
+          }
+        ]
+      },
+      {
+        "before": "From 2.56 TB to 7.68 TB",
+        "after": "From 2.56 TB to 12.8 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "7.68TB",
+            "after": "12.8TB"
+          }
+        ]
+      },
+      {
+        "before": "From 5.12 TB to 8 TB",
+        "after": "From 5.12 TB to 25.6 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8TB",
+            "after": "25.6TB"
+          }
+        ]
+      },
+      {
+        "before": "From 160 GB to 480 GB",
+        "after": "From 160 GB to 800 GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "480GB",
+            "after": "800GB"
+          }
+        ]
+      },
+      {
+        "before": "From 640 GB to 1.92 TB",
+        "after": "From 640 GB to 3.2 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1.92TB",
+            "after": "3.2TB"
+          }
+        ]
+      },
+      {
+        "before": "From 1.28 TB to 3.84 TB",
+        "after": "From 1.28 TB to 6.4 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3.84TB",
+            "after": "6.4TB"
+          }
+        ]
+      },
+      {
+        "before": "From 2.56 TB to 7.68 TB",
+        "after": "From 2.56 TB to 12.8 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "7.68TB",
+            "after": "12.8TB"
+          }
+        ]
+      },
+      {
+        "before": "From 5.12 TB to 8 TB",
+        "after": "From 5.12 TB to 25.6 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8TB",
+            "after": "25.6TB"
+          }
+        ]
+      },
+      {
+        "before": "From 640 GB to 1.92 TB",
+        "after": "From 640 GB to 3.2 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1.92TB",
+            "after": "3.2TB"
+          }
+        ]
+      },
+      {
+        "before": "From 1.28 TB to 3.84 TB",
+        "after": "From 1.28 TB to 6.4 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3.84TB",
+            "after": "6.4TB"
+          }
+        ]
+      },
+      {
+        "before": "From 640 GB to 1.92 TB",
+        "after": "From 640 GB to 3.2 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1.92TB",
+            "after": "3.2TB"
+          }
+        ]
+      },
+      {
+        "before": "From 1.28 TB to 3.84 TB",
+        "after": "From 1.28 TB to 6.4 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3.84TB",
+            "after": "6.4TB"
+          }
+        ]
+      },
+      {
+        "before": "From 80 GB to 240 GB",
+        "after": "From 80 GB to 400 GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "240GB",
+            "after": "400GB"
+          }
+        ]
+      },
+      {
+        "before": "From 160 GB to 480 GB",
+        "after": "From 160 GB to 800 GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "480GB",
+            "after": "800GB"
+          }
+        ]
+      },
+      {
+        "before": "From 640 GB to 1.92 TB",
+        "after": "From 640 GB to 3.2 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1.92TB",
+            "after": "3.2TB"
+          }
+        ]
+      },
+      {
+        "before": "From 80 GB to 240 GB",
+        "after": "From 80 GB to 400 GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "240GB",
+            "after": "400GB"
+          }
+        ]
+      },
+      {
+        "before": "From 160 GB to 480 GB",
+        "after": "From 160 GB to 800 GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "480GB",
+            "after": "800GB"
+          }
+        ]
+      },
+      {
+        "before": "From 640 GB to 1.92 TB",
+        "after": "From 640 GB to 3.2 TB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1.92TB",
+            "after": "3.2TB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "From 320 GB to 1.6 TB",
+      "From 320 GB to 1.6 TB",
+      "From 320 GB to 1.6 TB",
+      "From 320 GB to 1.6 TB",
+      "From 320 GB to 1.6 TB",
+      "From 320 GB to 1.6 TB",
+      "From 320 GB to 1.6 TB",
+      "From 320 GB to 1.6 TB"
+    ],
+    "removed": [
+      "From 320 GB to 960 GB",
+      "From 320 GB to 960 GB",
+      "From 320 GB to 960 GB",
+      "From 320 GB to 960 GB",
+      "From 320 GB to 960 GB",
+      "From 320 GB to 960 GB",
+      "From 320 GB to 960 GB",
+      "From 320 GB to 960 GB",
+      "$0.02 /hour/GB",
+      "$0.0741 /hour/vCore"
+    ],
+    "totals": {
+      "removed": 64,
+      "added": 48,
+      "materialRemoved": 42,
+      "materialAdded": 40
+    }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20251016083424",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20251016083424",
+    "date": "2025-10-16",
+    "source": "wayback",
+    "prevTs": "20250905012332",
+    "kind": "limits",
+    "score": 13,
+    "counts": {
+      "price": 0,
+      "limit": 5,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "OVHcloud: 5 limits, 2 plan names changed (added “400 MiB”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "400 MiB",
+      "Free",
+      "8 GiB",
+      "NVIDIA Ampere A10 24 GiB 31.2 TFLOPS",
+      "NVIDIA Ampere A100 80 GiB 19.5 TFLOPS",
+      "NVIDIA Tesla V100S 32 GiB 16.4 TFLOPS",
+      "NVIDIA Tesla V100S 32 GiB 16.4 TFLOPS",
+      "NVIDIA Hopper H100 80 GiB 51 TFLOPS",
+      "NVIDIA Ada Lovelace L4 24 GiB 30.3 TFLOPS",
+      "NVIDIA Ada Lovelace L40S 48 GiB 91.6 TFLOPS"
+    ],
+    "removed": [
+      "The Managed Kubernetes® service is free."
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 21,
+      "materialRemoved": 1,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20251103154105",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20251103154105",
+    "date": "2025-11-03",
+    "source": "wayback",
+    "prevTs": "20251016083424",
+    "kind": "limits",
+    "score": 8,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "OVHcloud: 3 limits, 1 plan name changed (50TiB → 3TiB)",
+    "pairs": [
+      {
+        "before": "First 50 TiB / Month",
+        "after": "First 3 TiB / Month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50TiB",
+            "after": "3TiB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "3-AZ Object Storage (Standard): 3 TB free*",
+      "From 1st November 2025 to 31st January 2026, the first 3 TiB are offered in all our 3-AZ regions! [2]",
+      "Free",
+      "Next 47 TiB / Month",
+      "1 TiB = 1024 GiB."
+    ],
+    "removed": [
+      "Talk to an expert and take our services for a spin, free of charge with our cloud credits¹"
+    ],
+    "totals": {
+      "removed": 19,
+      "added": 24,
+      "materialRemoved": 16,
+      "materialAdded": 20
+    }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20251205011109",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20251205011109",
+    "date": "2025-12-05",
+    "source": "wayback",
+    "prevTs": "20251103154105",
+    "kind": "price",
+    "score": 165,
+    "counts": {
+      "price": 38,
+      "limit": 26,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OVHcloud: 38 prices, 26 limits changed ($0.00000189 → $0.0000027; $0.005 → $0.011)",
+    "pairs": [
+      {
+        "before": "$0.00000189 /GiB/hour",
+        "after": "$0.0000027 /GiB/hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.00000189",
+            "after": "$0.0000027"
+          }
+        ]
+      },
+      {
+        "before": "$0.005 /GiB",
+        "after": "$0.011 /GiB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.005",
+            "after": "$0.011"
+          }
+        ]
+      },
+      {
+        "before": "$0.6089 /hour/node i.e.",
+        "after": "$0.2325 /hour/node i.e.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.6089",
+            "after": "$0.2325"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Purpose-built for long-term data archiving, the Object Storage class combines security, resilience, and unlimited scalability.",
+      "The minimum storage duration is 180 days. If an object is deleted during this period, an additional charge will be applied and calculated using the following formula: [24h*180 - # of hours of storage of the object] x price per hour of storage class.",
+      "$0.1168 /hour/node i.e.",
+      "$0.2315 /hour/node i.e.",
+      "$0.4508 /hour/node i.e.",
+      "$0.8994 /hour/node i.e.",
+      "$1.817 /hour/node i.e.",
+      "$3.634 /hour/node i.e.",
+      "$0.4527 /hour/node i.e.",
+      "$0.9034 /hour/node i.e.",
+      "$1.825 /hour/node i.e.",
+      "$3.6499 /hour/node i.e.",
+      "OVHcloud offers 10 GB of workspace. After 30 consecutive days of storage and/or exceeding this quota by 10 GB, the prices applied will be the same as the Public Cloud Object Storage prices.",
+      "Get guaranteed CPU resources for your test, pre-production or quantum simulation phases. You can deploy up to 12 computing units per emulator, with unlimited storage via Object Storage.",
+      "4 GiB",
+      "40 GiB",
+      "$0.04 /hour",
+      "Up to 4 GPU units per emulator can be deployed, with unlimited storage on Object Storage.",
+      "40 GiB",
+      "NVIDIA Ampere A10 24 GiB 31.2 TFLOPS",
+      "1536 GiB",
+      "$1 /hour",
+      "160 GiB",
+      "NVIDIA Ampere A100 80 GiB 19.5 TFLOPS",
+      "80 GiB",
+      "$3.35 /hour",
+      "40 GiB",
+      "NVIDIA Tesla V100S 32 GiB 16.4 TFLOPS",
+      "750 GiB",
+      "$2.16 /hour",
+      "40 GiB",
+      "NVIDIA Tesla V100S 32 GiB 16.4 TFLOPS",
+      "500 GiB",
+      "$1.01 /hour",
+      "350 GiB",
+      "NVIDIA Hopper H100 80 GiB 51 TFLOPS",
+      "3072 GiB",
+      "$3.39 /hour",
+      "80 GiB",
+      "NVIDIA Ada Lovelace L4 24 GiB 30.3 TFLOPS"
+    ],
+    "removed": [
+      "45 GB",
+      "Tesla V100 16 GB",
+      "400 GB NVMe",
+      "$1.97 /hour",
+      "90 GB",
+      "2×Tesla V100 16 GB",
+      "800 GB NVMe",
+      "$3.94 /hour",
+      "180 GB",
+      "4×Tesla V100 16 GB",
+      "50 GB + 2 x 2 TB NVMe Passthrough",
+      "$7.89 /hour",
+      "45 GB",
+      "400 GB NVMe",
+      "$2.19 /hour",
+      "90 GB",
+      "2×Tesla V100S 32 GB",
+      "800 GB NVMe",
+      "$4.38 /hour",
+      "180 GB",
+      "4×Tesla V100S 32 GB",
+      "50 GB + 2 x 2 TB NVMe Passthrough",
+      "$8.76 /hour",
+      "*A 7% discount is applied for data volumes greater than 3 PB.",
+      "The Cold Archive solution is billed according to the archive space (on magnetic tapes) and Object Storage space used, with a granularity of 1 GB.",
+      "For optimal readability, the price is displayed per GB/month — but since there are 730 hours in an average month, the billing granularity is per GB/hour.",
+      "The minimum archive duration is 180 days. If an archive is deleted before this commitment period (with ‘date’ being between 0 and 180 days), the customer will be charged an additional fee, calculated as follows: (180 days — date) x storage class price.",
+      "Even if you have less than 1 TB of data, archiving a container will still be charged as if you had 1 TB of stored data. Simply put, the minimum amount billed for archiving is the 1 TB rate. The archiving operation is free.",
+      "If you archive a 500 GB bucket, you’ll be charged the 1 TB rate.",
+      "If you archive a 1500 GB bucket, you’ll be charged the 1 TB + 500 GB rate",
+      "$0.1297 /hour/node i.e.",
+      "$0.2572 /hour/node i.e.",
+      "$0.5008 /hour/node i.e.",
+      "$0.9994 /hour/node i.e.",
+      "$2.0189 /hour/node i.e.",
+      "$4.0377 /hour/node i.e.",
+      "$1.2178 /hour/node i.e.",
+      "$2.4355 /hour/node i.e.",
+      "$4.8708 /hour/node i.e.",
+      "$9.7415 /hour/node i.e."
+    ],
+    "totals": {
+      "removed": 291,
+      "added": 344,
+      "materialRemoved": 152,
+      "materialAdded": 158
+    }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20260105063909",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20260105063909",
+    "date": "2026-01-05",
+    "source": "wayback",
+    "prevTs": "20251205011109",
+    "kind": "price",
+    "score": 52,
+    "counts": {
+      "price": 10,
+      "limit": 11,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OVHcloud: 10 prices, 11 limits changed (1GB → 512MB)",
+    "pairs": [
+      {
+        "before": "0.5 MB/s/GB and 1 GB/s max per volume",
+        "after": "0.5 MB/s/GB and 512 MB/s max per volume",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1GB",
+            "after": "512MB"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "From 240 GB to 720 GB",
+      "4 GB",
+      "$0.1266 /hour/node i.e.",
+      "From 480 GB to 1.44 TB",
+      "7 GB",
+      "$0.1971 /hour/node i.e.",
+      "From 960 GB to 2.88 TB",
+      "15 GB",
+      "$0.3784 /hour/node i.e.",
+      "From 1.92 TB to 5.76 TB",
+      "30 GB",
+      "$0.6963 /hour/node i.e.",
+      "From 3.84 TB to 11.52 TB",
+      "60 GB",
+      "$1.3653 /hour/node i.e.",
+      "From 7.68 TB to 23.04 TB",
+      "120 GB",
+      "$2.729 /hour/node i.e.",
+      "From 1.92 TB to 5.76 TB",
+      "15 GB",
+      "$0.3784 /hour/node i.e.",
+      "From 3.84 TB to 11.52 TB",
+      "30 GB",
+      "$0.6963 /hour/node i.e.",
+      "From 7.68 TB to 23.04 TB",
+      "60 GB",
+      "$1.3653 /hour/node i.e.",
+      "From 15.36 TB to 46.08 TB",
+      "120 GB",
+      "$2.729 /hour/node i.e."
+    ],
+    "totals": {
+      "removed": 193,
+      "added": 74,
+      "materialRemoved": 32,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20260201032132",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20260201032132",
+    "date": "2026-02-01",
+    "source": "wayback",
+    "prevTs": "20260105063909",
+    "kind": "price",
+    "score": 62,
+    "counts": {
+      "price": 16,
+      "limit": 7,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OVHcloud: 16 prices, 7 limits changed (2025 → 1)",
+    "pairs": [
+      {
+        "before": "From 1st November 2025 to 31st January 2026, the first 3 TiB are offered in all our 3-AZ regions! [2]",
+        "after": "From 1 November 2025 to 31 January 2026, the first 3 Tios are free in all our 3-AZ regions! [2]",
+        "confidence": 0.64,
+        "deltas": [
+          {
+            "before": "2025",
+            "after": "1"
+          },
+          {
+            "before": "2026,",
+            "after": "2025"
+          },
+          {
+            "before": "3TiB",
+            "after": "31"
+          },
+          {
+            "before": "3",
+            "after": "2026,"
+          },
+          {
+            "before": "2",
+            "after": "3"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Talk to an expert and take our services for a spin, free of charge with our cloud credits¹",
+      "Mistral-7B-Instruct-v0.3",
+      "$0.11",
+      "Mistral-7B-Instruct-v0.3",
+      "$0.11",
+      "gpt-oss-20b",
+      "$0.18",
+      "gpt-oss-20b",
+      "$0.05",
+      "gpt-oss-120b",
+      "$0.09",
+      "gpt-oss-120b",
+      "$0.47",
+      "Qwen3-Coder-30B-A3B-Instruct",
+      "$0.26",
+      "Qwen3-Coder-30B-A3B-Instruct",
+      "$0.07"
+    ],
+    "removed": [
+      "3-AZ Object Storage (Standard): 3 TB free*",
+      "$0.0122 /GiB",
+      "$0.0111 /GiB",
+      "1 TiB = 1024 GiB.",
+      "$0.011 /GiB",
+      "$0.0109 /GiB",
+      "$0.011 /GiB",
+      "$0.011 /GiB",
+      "mamba-codestral-7B-v0.1",
+      "$0.21",
+      "mamba-codestral-7B-v0.1",
+      "$0.21"
+    ],
+    "totals": {
+      "removed": 35,
+      "added": 61,
+      "materialRemoved": 24,
+      "materialAdded": 29
+    }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20260301191742",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20260301191742",
+    "date": "2026-03-01",
+    "source": "wayback",
+    "prevTs": "20260201032132",
+    "kind": "price",
+    "score": 47,
+    "counts": {
+      "price": 9,
+      "limit": 8,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "OVHcloud: 9 prices, 8 limits, 2 plan names changed (3TiB → 50TiB)",
+    "pairs": [
+      {
+        "before": "First 3 TiB / Month",
+        "after": "First 50 TiB / Month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3TiB",
+            "after": "50TiB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "0.25 MB/s/GB and 128 MB/s max per volume",
+      "Free",
+      "$0.00000729 /GiB/hour",
+      "$0.0212 /GiB",
+      "From 100 GB to 40 TB",
+      "8 GB",
+      "$0.2668 /hour/node i.e.",
+      "From 100 GB to 40 TB",
+      "16 GB",
+      "$0.4941 /hour/node i.e.",
+      "From 100 GB to 40 TB",
+      "32 GB",
+      "$0.8907 /hour/node i.e.",
+      "From 100 GB to 40 TB",
+      "64 GB",
+      "$1.6062 /hour/node i.e.",
+      "From 100 GB to 40 TB",
+      "128 GB",
+      "$3.0526 /hour/node i.e.",
+      "From 100 GB to 40 TB",
+      "256 GB",
+      "$6.06 /hour/node i.e.",
+      "Price per additional GB of storage: $0.0003 /hour/node"
+    ],
+    "removed": [
+      "From 1 November 2025 to 31 January 2026, the first 3 Tios are free in all our 3-AZ regions! [2]",
+      "Free",
+      "Next 47 TiB / Month"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 91,
+      "materialRemoved": 4,
+      "materialAdded": 24
+    }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20260401002122",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20260401002122",
+    "date": "2026-04-01",
+    "source": "wayback",
+    "prevTs": "20260301191742",
+    "kind": "price",
+    "score": 734,
+    "counts": {
+      "price": 224,
+      "limit": 24,
+      "plan": 7
+    },
+    "material": true,
+    "headline": "OVHcloud: 224 prices, 24 limits, 7 plan names changed (added “$0.967 /hour”)",
+    "pairs": [],
+    "added": [
+      "$0.967 /hour",
+      "$1.932 /hour",
+      "$3.864 /hour",
+      "$4.829 /hour",
+      "$0.0837 /hour",
+      "$0.1584 /hour",
+      "$0.3204 /hour",
+      "$0.621 /hour",
+      "$1.219 /hour",
+      "$0.054 /hour",
+      "$0.1078 /hour",
+      "$0.2154 /hour",
+      "$0.4307 /hour",
+      "$0.8616 /hour",
+      "$1.724 /hour",
+      "$3.447 /hour",
+      "$4.309 /hour",
+      "$0.1202 /hour",
+      "$0.2332 /hour",
+      "$0.4702 /hour",
+      "$0.92 /hour",
+      "$1.818 /hour",
+      "$0.0783 /hour",
+      "$0.1563 /hour",
+      "$0.3125 /hour",
+      "$0.626 /hour",
+      "$1.25 /hour",
+      "$2.50 /hour",
+      "$4.999 /hour",
+      "$0.1202 /hour",
+      "$0.1388 /hour",
+      "$0.27 /hour",
+      "$0.544 /hour",
+      "$1.07 /hour",
+      "$0.0123 /hour",
+      "$0.0244 /hour",
+      "$0.0439 /hour",
+      "$0.0032 /hour",
+      "$0.088 /hour",
+      "$0.1742 /hour"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 357,
+      "added": 758,
+      "materialRemoved": 170,
+      "materialAdded": 449
+    }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20260501173817",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20260501173817",
+    "date": "2026-05-01",
+    "source": "wayback",
+    "prevTs": "20260401002122",
+    "kind": "price",
+    "score": 1145,
+    "counts": {
+      "price": 359,
+      "limit": 33,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "OVHcloud: 359 prices, 33 limits, 1 plan name changed ($0.0712 → $0.088; $0.141 → $0.1742)",
+    "pairs": [
+      {
+        "before": "$0.0712 /hour/node",
+        "after": "$0.088 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.0712",
+            "after": "$0.088"
+          }
+        ]
+      },
+      {
+        "before": "$0.141 /hour/node",
+        "after": "$0.1742 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.141",
+            "after": "$0.1742"
+          }
+        ]
+      },
+      {
+        "before": "$0.2834 /hour/node",
+        "after": "$0.3503 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.2834",
+            "after": "$0.3503"
+          }
+        ]
+      },
+      {
+        "before": "$0.5697 /hour/node",
+        "after": "$0.7041 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.5697",
+            "after": "$0.7041"
+          }
+        ]
+      },
+      {
+        "before": "$0.2231 /hour/node",
+        "after": "$0.2632 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.2231",
+            "after": "$0.2632"
+          }
+        ]
+      },
+      {
+        "before": "$0.4462 /hour/node",
+        "after": "$0.5264 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.4462",
+            "after": "$0.5264"
+          }
+        ]
+      },
+      {
+        "before": "$0.8924 /hour/node",
+        "after": "$1.0528 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.8924",
+            "after": "$1.0528"
+          }
+        ]
+      },
+      {
+        "before": "$1.7847 /hour/node",
+        "after": "$2.1056 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.7847",
+            "after": "$2.1056"
+          }
+        ]
+      },
+      {
+        "before": "$3.5694 /hour/node",
+        "after": "$4.2112 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.5694",
+            "after": "$4.2112"
+          }
+        ]
+      },
+      {
+        "before": "$7.1388 /hour/node",
+        "after": "$8.4225 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$7.1388",
+            "after": "$8.4225"
+          }
+        ]
+      },
+      {
+        "before": "$0.0907 /hour/node",
+        "after": "$0.112 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.0907",
+            "after": "$0.112"
+          }
+        ]
+      },
+      {
+        "before": "$0.1813 /hour/node",
+        "after": "$0.224 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.1813",
+            "after": "$0.224"
+          }
+        ]
+      },
+      {
+        "before": "$0.3626 /hour/node",
+        "after": "$0.4481 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.3626",
+            "after": "$0.4481"
+          }
+        ]
+      },
+      {
+        "before": "$0.7265 /hour/node",
+        "after": "$0.8979 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.7265",
+            "after": "$0.8979"
+          }
+        ]
+      },
+      {
+        "before": "$1.4544 /hour/node",
+        "after": "$1.7976 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.4544",
+            "after": "$1.7976"
+          }
+        ]
+      },
+      {
+        "before": "$2.9103 /hour/node",
+        "after": "$3.5971 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.9103",
+            "after": "$3.5971"
+          }
+        ]
+      },
+      {
+        "before": "$0.2405 /hour/node",
+        "after": "$0.2837 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.2405",
+            "after": "$0.2837"
+          }
+        ]
+      },
+      {
+        "before": "$0.4809 /hour/node",
+        "after": "$0.5673 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.4809",
+            "after": "$0.5673"
+          }
+        ]
+      },
+      {
+        "before": "$0.9618 /hour/node",
+        "after": "$1.1347 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.9618",
+            "after": "$1.1347"
+          }
+        ]
+      },
+      {
+        "before": "$1.9235 /hour/node",
+        "after": "$2.2694 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.9235",
+            "after": "$2.2694"
+          }
+        ]
+      },
+      {
+        "before": "$3.847 /hour/node",
+        "after": "$4.5388 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.847",
+            "after": "$4.5388"
+          }
+        ]
+      },
+      {
+        "before": "$7.694 /hour/node",
+        "after": "$9.0775 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$7.694",
+            "after": "$9.0775"
+          }
+        ]
+      },
+      {
+        "before": "$0.0921 /hour/node",
+        "after": "$0.1138 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.0921",
+            "after": "$0.1138"
+          }
+        ]
+      },
+      {
+        "before": "$0.1813 /hour/node",
+        "after": "$0.224 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.1813",
+            "after": "$0.224"
+          }
+        ]
+      },
+      {
+        "before": "$0.3626 /hour/node",
+        "after": "$0.4481 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.3626",
+            "after": "$0.4481"
+          }
+        ]
+      },
+      {
+        "before": "$0.7265 /hour/node",
+        "after": "$0.8979 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.7265",
+            "after": "$0.8979"
+          }
+        ]
+      },
+      {
+        "before": "$1.4544 /hour/node",
+        "after": "$1.7976 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.4544",
+            "after": "$1.7976"
+          }
+        ]
+      },
+      {
+        "before": "$2.9103 /hour/node",
+        "after": "$3.5971 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.9103",
+            "after": "$3.5971"
+          }
+        ]
+      },
+      {
+        "before": "$0.0712 /hour/node",
+        "after": "$0.088 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.0712",
+            "after": "$0.088"
+          }
+        ]
+      },
+      {
+        "before": "$0.141 /hour/node",
+        "after": "$0.1742 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.141",
+            "after": "$0.1742"
+          }
+        ]
+      },
+      {
+        "before": "$0.2834 /hour/node",
+        "after": "$0.3503 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.2834",
+            "after": "$0.3503"
+          }
+        ]
+      },
+      {
+        "before": "$0.5697 /hour/node",
+        "after": "$0.7041 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.5697",
+            "after": "$0.7041"
+          }
+        ]
+      },
+      {
+        "before": "$0.2231 /hour/node",
+        "after": "$0.2632 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.2231",
+            "after": "$0.2632"
+          }
+        ]
+      },
+      {
+        "before": "$0.4462 /hour/node",
+        "after": "$0.5264 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.4462",
+            "after": "$0.5264"
+          }
+        ]
+      },
+      {
+        "before": "$0.8924 /hour/node",
+        "after": "$1.0528 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.8924",
+            "after": "$1.0528"
+          }
+        ]
+      },
+      {
+        "before": "$1.7847 /hour/node",
+        "after": "$2.1056 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.7847",
+            "after": "$2.1056"
+          }
+        ]
+      },
+      {
+        "before": "$3.5694 /hour/node",
+        "after": "$4.2112 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.5694",
+            "after": "$4.2112"
+          }
+        ]
+      },
+      {
+        "before": "$7.1388 /hour/node",
+        "after": "$8.4225 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$7.1388",
+            "after": "$8.4225"
+          }
+        ]
+      },
+      {
+        "before": "$0.0907 /hour/node",
+        "after": "$0.112 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.0907",
+            "after": "$0.112"
+          }
+        ]
+      },
+      {
+        "before": "$0.1813 /hour/node",
+        "after": "$0.224 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.1813",
+            "after": "$0.224"
+          }
+        ]
+      },
+      {
+        "before": "$0.3626 /hour/node",
+        "after": "$0.4481 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.3626",
+            "after": "$0.4481"
+          }
+        ]
+      },
+      {
+        "before": "$0.7265 /hour/node",
+        "after": "$0.8979 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.7265",
+            "after": "$0.8979"
+          }
+        ]
+      },
+      {
+        "before": "$1.4544 /hour/node",
+        "after": "$1.7976 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.4544",
+            "after": "$1.7976"
+          }
+        ]
+      },
+      {
+        "before": "$2.9103 /hour/node",
+        "after": "$3.5971 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.9103",
+            "after": "$3.5971"
+          }
+        ]
+      },
+      {
+        "before": "$0.2405 /hour/node",
+        "after": "$0.2837 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.2405",
+            "after": "$0.2837"
+          }
+        ]
+      },
+      {
+        "before": "$0.4809 /hour/node",
+        "after": "$0.5673 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.4809",
+            "after": "$0.5673"
+          }
+        ]
+      },
+      {
+        "before": "$0.9618 /hour/node",
+        "after": "$1.1347 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.9618",
+            "after": "$1.1347"
+          }
+        ]
+      },
+      {
+        "before": "$1.9235 /hour/node",
+        "after": "$2.2694 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.9235",
+            "after": "$2.2694"
+          }
+        ]
+      },
+      {
+        "before": "$3.847 /hour/node",
+        "after": "$4.5388 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.847",
+            "after": "$4.5388"
+          }
+        ]
+      },
+      {
+        "before": "$7.694 /hour/node",
+        "after": "$9.0775 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$7.694",
+            "after": "$9.0775"
+          }
+        ]
+      },
+      {
+        "before": "$0.0921 /hour/node",
+        "after": "$0.1138 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.0921",
+            "after": "$0.1138"
+          }
+        ]
+      },
+      {
+        "before": "$0.1813 /hour/node",
+        "after": "$0.224 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.1813",
+            "after": "$0.224"
+          }
+        ]
+      },
+      {
+        "before": "$0.3626 /hour/node",
+        "after": "$0.4481 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.3626",
+            "after": "$0.4481"
+          }
+        ]
+      },
+      {
+        "before": "$0.7265 /hour/node",
+        "after": "$0.8979 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.7265",
+            "after": "$0.8979"
+          }
+        ]
+      },
+      {
+        "before": "$1.4544 /hour/node",
+        "after": "$1.7976 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.4544",
+            "after": "$1.7976"
+          }
+        ]
+      },
+      {
+        "before": "$2.9103 /hour/node",
+        "after": "$3.5971 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.9103",
+            "after": "$3.5971"
+          }
+        ]
+      },
+      {
+        "before": "$0.0619 /hour/node",
+        "after": "$0.0764 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.0619",
+            "after": "$0.0764"
+          }
+        ]
+      },
+      {
+        "before": "$0.1252 /hour/node",
+        "after": "$0.1547 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.1252",
+            "after": "$0.1547"
+          }
+        ]
+      },
+      {
+        "before": "$0.1477 /hour/node",
+        "after": "$0.1742 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.1477",
+            "after": "$0.1742"
+          }
+        ]
+      },
+      {
+        "before": "$0.3298 /hour/node",
+        "after": "$0.3891 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.3298",
+            "after": "$0.3891"
+          }
+        ]
+      },
+      {
+        "before": "$0.6597 /hour/node",
+        "after": "$0.7783 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.6597",
+            "after": "$0.7783"
+          }
+        ]
+      },
+      {
+        "before": "$1.3192 /hour/node",
+        "after": "$1.5564 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.3192",
+            "after": "$1.5564"
+          }
+        ]
+      },
+      {
+        "before": "$2.6384 /hour/node",
+        "after": "$3.1127 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.6384",
+            "after": "$3.1127"
+          }
+        ]
+      },
+      {
+        "before": "$5.2766 /hour/node",
+        "after": "$6.2254 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$5.2766",
+            "after": "$6.2254"
+          }
+        ]
+      },
+      {
+        "before": "$0.0712 /hour/node",
+        "after": "$0.088 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.0712",
+            "after": "$0.088"
+          }
+        ]
+      },
+      {
+        "before": "$0.1583 /hour/node",
+        "after": "$0.1956 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.1583",
+            "after": "$0.1956"
+          }
+        ]
+      },
+      {
+        "before": "$0.236 /hour/node",
+        "after": "$0.2916 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.236",
+            "after": "$0.2916"
+          }
+        ]
+      },
+      {
+        "before": "$0.4661 /hour/node",
+        "after": "$0.5761 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.4661",
+            "after": "$0.5761"
+          }
+        ]
+      },
+      {
+        "before": "$0.9322 /hour/node",
+        "after": "$1.1522 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.9322",
+            "after": "$1.1522"
+          }
+        ]
+      },
+      {
+        "before": "$1.8587 /hour/node",
+        "after": "$2.2973 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.8587",
+            "after": "$2.2973"
+          }
+        ]
+      },
+      {
+        "before": "$0.2783 /hour/node",
+        "after": "$0.3283 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.2783",
+            "after": "$0.3283"
+          }
+        ]
+      },
+      {
+        "before": "$0.5566 /hour/node",
+        "after": "$0.6567 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.5566",
+            "after": "$0.6567"
+          }
+        ]
+      },
+      {
+        "before": "$1.1132 /hour/node",
+        "after": "$1.3133 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.1132",
+            "after": "$1.3133"
+          }
+        ]
+      },
+      {
+        "before": "$0.154 /hour/node",
+        "after": "$0.1903 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.154",
+            "after": "$0.1903"
+          }
+        ]
+      },
+      {
+        "before": "$0.305 /hour/node",
+        "after": "$0.377 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.305",
+            "after": "$0.377"
+          }
+        ]
+      },
+      {
+        "before": "$0.5798 /hour/node",
+        "after": "$0.7166 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.5798",
+            "after": "$0.7166"
+          }
+        ]
+      },
+      {
+        "before": "$1.1221 /hour/node",
+        "after": "$1.3869 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.1221",
+            "after": "$1.3869"
+          }
+        ]
+      },
+      {
+        "before": "$2.2457 /hour/node",
+        "after": "$2.7756 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.2457",
+            "after": "$2.7756"
+          }
+        ]
+      },
+      {
+        "before": "$0.2783 /hour/node",
+        "after": "$0.3283 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.2783",
+            "after": "$0.3283"
+          }
+        ]
+      },
+      {
+        "before": "$0.5566 /hour/node",
+        "after": "$0.6567 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.5566",
+            "after": "$0.6567"
+          }
+        ]
+      },
+      {
+        "before": "$1.1132 /hour/node",
+        "after": "$1.3133 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.1132",
+            "after": "$1.3133"
+          }
+        ]
+      },
+      {
+        "before": "$0.3065 /hour/node",
+        "after": "$0.3787 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.3065",
+            "after": "$0.3787"
+          }
+        ]
+      },
+      {
+        "before": "$0.5798 /hour/node",
+        "after": "$0.7166 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.5798",
+            "after": "$0.7166"
+          }
+        ]
+      },
+      {
+        "before": "$1.1221 /hour/node",
+        "after": "$1.3869 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.1221",
+            "after": "$1.3869"
+          }
+        ]
+      },
+      {
+        "before": "$2.2457 /hour/node",
+        "after": "$2.7756 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.2457",
+            "after": "$2.7756"
+          }
+        ]
+      },
+      {
+        "before": "$0.1094 /hour/node",
+        "after": "$0.1351 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.1094",
+            "after": "$0.1351"
+          }
+        ]
+      },
+      {
+        "before": "$0.2202 /hour/node",
+        "after": "$0.272 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.2202",
+            "after": "$0.272"
+          }
+        ]
+      },
+      {
+        "before": "$0.41 /hour/node",
+        "after": "$0.5068 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.41",
+            "after": "$0.5068"
+          }
+        ]
+      },
+      {
+        "before": "$0.7424 /hour/node",
+        "after": "$0.9175 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.7424",
+            "after": "$0.9175"
+          }
+        ]
+      },
+      {
+        "before": "$0.2009 /hour/node",
+        "after": "$0.237 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.2009",
+            "after": "$0.237"
+          }
+        ]
+      },
+      {
+        "before": "$0.4047 /hour/node",
+        "after": "$0.4774 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.4047",
+            "after": "$0.4774"
+          }
+        ]
+      },
+      {
+        "before": "$0.7365 /hour/node",
+        "after": "$0.8688 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.7365",
+            "after": "$0.8688"
+          }
+        ]
+      },
+      {
+        "before": "$0.2202 /hour/node",
+        "after": "$0.272 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.2202",
+            "after": "$0.272"
+          }
+        ]
+      },
+      {
+        "before": "$0.4216 /hour/node",
+        "after": "$0.521 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.4216",
+            "after": "$0.521"
+          }
+        ]
+      },
+      {
+        "before": "$0.7424 /hour/node",
+        "after": "$0.9175 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.7424",
+            "after": "$0.9175"
+          }
+        ]
+      },
+      {
+        "before": "$0.20 /hour/node",
+        "after": "$0.2359 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.20",
+            "after": "$0.2359"
+          }
+        ]
+      },
+      {
+        "before": "$0.4047 /hour/node",
+        "after": "$0.4774 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.4047",
+            "after": "$0.4774"
+          }
+        ]
+      },
+      {
+        "before": "$0.7365 /hour/node",
+        "after": "$0.8688 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.7365",
+            "after": "$0.8688"
+          }
+        ]
+      },
+      {
+        "before": "$0.2202 /hour/node",
+        "after": "$0.272 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.2202",
+            "after": "$0.272"
+          }
+        ]
+      },
+      {
+        "before": "$0.4216 /hour/node",
+        "after": "$0.521 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.4216",
+            "after": "$0.521"
+          }
+        ]
+      },
+      {
+        "before": "$0.7424 /hour/node",
+        "after": "$0.9175 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.7424",
+            "after": "$0.9175"
+          }
+        ]
+      },
+      {
+        "before": "$0.1094 /hour/node",
+        "after": "$0.1351 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.1094",
+            "after": "$0.1351"
+          }
+        ]
+      },
+      {
+        "before": "$0.2202 /hour/node",
+        "after": "$0.272 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.2202",
+            "after": "$0.272"
+          }
+        ]
+      },
+      {
+        "before": "$0.41 /hour/node",
+        "after": "$0.5068 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.41",
+            "after": "$0.5068"
+          }
+        ]
+      },
+      {
+        "before": "$0.7424 /hour/node",
+        "after": "$0.9175 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.7424",
+            "after": "$0.9175"
+          }
+        ]
+      },
+      {
+        "before": "$0.2009 /hour/node",
+        "after": "$0.237 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.2009",
+            "after": "$0.237"
+          }
+        ]
+      },
+      {
+        "before": "$0.4047 /hour/node",
+        "after": "$0.4774 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.4047",
+            "after": "$0.4774"
+          }
+        ]
+      },
+      {
+        "before": "$0.7365 /hour/node",
+        "after": "$0.8688 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.7365",
+            "after": "$0.8688"
+          }
+        ]
+      },
+      {
+        "before": "$0.1108 /hour/node",
+        "after": "$0.1369 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.1108",
+            "after": "$0.1369"
+          }
+        ]
+      },
+      {
+        "before": "$0.2202 /hour/node",
+        "after": "$0.272 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.2202",
+            "after": "$0.272"
+          }
+        ]
+      },
+      {
+        "before": "$0.4216 /hour/node",
+        "after": "$0.521 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.4216",
+            "after": "$0.521"
+          }
+        ]
+      },
+      {
+        "before": "$0.7424 /hour/node",
+        "after": "$0.9175 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.7424",
+            "after": "$0.9175"
+          }
+        ]
+      },
+      {
+        "before": "$0.20 /hour/node",
+        "after": "$0.2359 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.20",
+            "after": "$0.2359"
+          }
+        ]
+      },
+      {
+        "before": "$0.4047 /hour/node",
+        "after": "$0.4774 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.4047",
+            "after": "$0.4774"
+          }
+        ]
+      },
+      {
+        "before": "$0.7365 /hour/node",
+        "after": "$0.8688 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.7365",
+            "after": "$0.8688"
+          }
+        ]
+      },
+      {
+        "before": "$0.2202 /hour/node",
+        "after": "$0.272 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.2202",
+            "after": "$0.272"
+          }
+        ]
+      },
+      {
+        "before": "$0.4216 /hour/node",
+        "after": "$0.521 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.4216",
+            "after": "$0.521"
+          }
+        ]
+      },
+      {
+        "before": "$0.7424 /hour/node",
+        "after": "$0.9175 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.7424",
+            "after": "$0.9175"
+          }
+        ]
+      },
+      {
+        "before": "$0.0777 /hour/node",
+        "after": "$0.096 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.0777",
+            "after": "$0.096"
+          }
+        ]
+      },
+      {
+        "before": "$0.1569 /hour/node",
+        "after": "$0.1938 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.1569",
+            "after": "$0.1938"
+          }
+        ]
+      },
+      {
+        "before": "$0.3151 /hour/node",
+        "after": "$0.3894 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.3151",
+            "after": "$0.3894"
+          }
+        ]
+      },
+      {
+        "before": "$0.1802 /hour/node",
+        "after": "$0.2126 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.1802",
+            "after": "$0.2126"
+          }
+        ]
+      },
+      {
+        "before": "$0.3604 /hour/node",
+        "after": "$0.4251 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.3604",
+            "after": "$0.4251"
+          }
+        ]
+      },
+      {
+        "before": "$0.7207 /hour/node",
+        "after": "$0.8502 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.7207",
+            "after": "$0.8502"
+          }
+        ]
+      },
+      {
+        "before": "$1.4414 /hour/node",
+        "after": "$1.7005 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.4414",
+            "after": "$1.7005"
+          }
+        ]
+      },
+      {
+        "before": "$0.1684 /hour/node",
+        "after": "$0.208 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.1684",
+            "after": "$0.208"
+          }
+        ]
+      },
+      {
+        "before": "$0.3367 /hour/node",
+        "after": "$0.4161 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.3367",
+            "after": "$0.4161"
+          }
+        ]
+      },
+      {
+        "before": "$0.6791 /hour/node",
+        "after": "$0.8393 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.6791",
+            "after": "$0.8393"
+          }
+        ]
+      },
+      {
+        "before": "$1.3595 /hour/node",
+        "after": "$1.6803 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.3595",
+            "after": "$1.6803"
+          }
+        ]
+      },
+      {
+        "before": "$2.7261 /hour/node",
+        "after": "$3.3695 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.7261",
+            "after": "$3.3695"
+          }
+        ]
+      },
+      {
+        "before": "$0.1928 /hour/node",
+        "after": "$0.2274 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.1928",
+            "after": "$0.2274"
+          }
+        ]
+      },
+      {
+        "before": "$0.3855 /hour/node",
+        "after": "$0.4548 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.3855",
+            "after": "$0.4548"
+          }
+        ]
+      },
+      {
+        "before": "$0.771 /hour/node",
+        "after": "$0.9095 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.771",
+            "after": "$0.9095"
+          }
+        ]
+      },
+      {
+        "before": "$1.5419 /hour/node",
+        "after": "$1.8191 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.5419",
+            "after": "$1.8191"
+          }
+        ]
+      },
+      {
+        "before": "$0.1698 /hour/node",
+        "after": "$0.2098 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.1698",
+            "after": "$0.2098"
+          }
+        ]
+      },
+      {
+        "before": "$0.341 /hour/node",
+        "after": "$0.4214 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.341",
+            "after": "$0.4214"
+          }
+        ]
+      },
+      {
+        "before": "$0.6834 /hour/node",
+        "after": "$0.8446 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.6834",
+            "after": "$0.8446"
+          }
+        ]
+      },
+      {
+        "before": "$1.3638 /hour/node",
+        "after": "$1.6856 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.3638",
+            "after": "$1.6856"
+          }
+        ]
+      },
+      {
+        "before": "$2.7276 /hour/node",
+        "after": "$3.3712 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.7276",
+            "after": "$3.3712"
+          }
+        ]
+      },
+      {
+        "before": "$0.0619 /hour/node",
+        "after": "$0.0764 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.0619",
+            "after": "$0.0764"
+          }
+        ]
+      },
+      {
+        "before": "$0.1252 /hour/node",
+        "after": "$0.1547 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.1252",
+            "after": "$0.1547"
+          }
+        ]
+      },
+      {
+        "before": "$0.1252 /hour/node",
+        "after": "$0.1476 /hour/node",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.1252",
+            "after": "$0.1476"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "42 GB",
+      "85 GB",
+      "170 GB",
+      "1.92 TB",
+      "8×H200 141 GB",
+      "400 GB NVMe + 4 x 7.68 TB NVMe Passthrough",
+      "$0.000234 /GB/hour",
+      "From 160 GB to 800 GB",
+      "8 GB",
+      "$0.2315 /hour/node",
+      "From 320 GB to 1.6 TB",
+      "16 GB",
+      "$0.4629 /hour/node",
+      "From 640 GB to 3.2 TB",
+      "32 GB",
+      "$0.9258 /hour/node",
+      "From 1.28 TB to 6.4 TB",
+      "64 GB",
+      "$1.8515 /hour/node",
+      "From 2.56 TB to 12.8 TB",
+      "128 GB",
+      "$3.703 /hour/node",
+      "From 5.12 TB to 25.6 TB",
+      "256 GB",
+      "$7.406 /hour/node",
+      "From 160 GB to 800 GB",
+      "8 GB",
+      "$0.2315 /hour/node",
+      "From 320 GB to 1.6 TB",
+      "16 GB",
+      "$0.4629 /hour/node",
+      "From 640 GB to 3.2 TB",
+      "32 GB",
+      "$0.9258 /hour/node",
+      "From 1.28 TB to 6.4 TB",
+      "64 GB",
+      "$1.8515 /hour/node",
+      "From 2.56 TB to 12.8 TB",
+      "128 GB",
+      "$3.703 /hour/node"
+    ],
+    "removed": [
+      "$0.8131 /hour",
+      "$1.6262 /hour",
+      "$3.2911 /hour",
+      "$4.1138 /hour",
+      "$0.0813 /hour",
+      "$0.154 /hour",
+      "$0.312 /hour",
+      "$0.606 /hour",
+      "$1.19 /hour",
+      "$0.0453 /hour",
+      "$0.0907 /hour",
+      "$0.1813 /hour",
+      "$0.3627 /hour",
+      "$0.7254 /hour",
+      "$1.4508 /hour",
+      "$2.9362 /hour",
+      "$3.6702 /hour",
+      "$0.118 /hour",
+      "$0.228 /hour",
+      "$0.459 /hour",
+      "$0.899 /hour",
+      "$1.78 /hour",
+      "$0.0658 /hour",
+      "$0.1315 /hour",
+      "$0.2631 /hour",
+      "$0.5261 /hour",
+      "$1.0522 /hour",
+      "$2.1045 /hour",
+      "$4.259 /hour",
+      "$0.118 /hour",
+      "$0.136 /hour",
+      "$0.264 /hour",
+      "$0.532 /hour",
+      "$1.05 /hour",
+      "$0.0119 /hour",
+      "$0.0237 /hour",
+      "$0.0427 /hour",
+      "45 GB",
+      "90 GB",
+      "180 GB"
+    ],
+    "totals": {
+      "removed": 362,
+      "added": 376,
+      "materialRemoved": 336,
+      "materialAdded": 234
+    }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20260602011151",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20260602011151",
+    "date": "2026-06-02",
+    "source": "wayback",
+    "prevTs": "20260501173817",
+    "kind": "price",
+    "score": 71,
+    "counts": {
+      "price": 19,
+      "limit": 7,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OVHcloud: 19 prices, 7 limits changed (removed “DeepSeek-R1-Distill-Llama-70B”; added “$0.000066 /GB/hour”)",
+    "pairs": [],
+    "added": [
+      "$0.000066 /GB/hour",
+      "Volume snapshots are billed according to the space used, with a granularity of 1 GB.",
+      "To clarify, the price is displayed in GB/month, using an hourly billing rate (GB/hour), based on a monthly average of 730 hours."
+    ],
+    "removed": [
+      "DeepSeek-R1-Distill-Llama-70B",
+      "$0.74",
+      "DeepSeek-R1-Distill-Llama-70B",
+      "$0.74",
+      "Meta-Llama-3_1-70B-Instruct",
+      "$0.74",
+      "Meta-Llama-3_1-70B-Instruct",
+      "$0.74",
+      "$0.70",
+      "$0.70",
+      "DeepSeek-R1-Distill-Llama-70B",
+      "$0.74",
+      "DeepSeek-R1-Distill-Llama-70B",
+      "$0.74",
+      "Meta-Llama-3_1-70B-Instruct",
+      "$0.74",
+      "Meta-Llama-3_1-70B-Instruct",
+      "$0.74",
+      "$0.70",
+      "$0.70",
+      "DeepSeek-R1-Distill-Llama-70B",
+      "$0.74",
+      "DeepSeek-R1-Distill-Llama-70B",
+      "$0.74",
+      "Meta-Llama-3_1-70B-Instruct",
+      "$0.74",
+      "Meta-Llama-3_1-70B-Instruct",
+      "$0.74",
+      "$0.70",
+      "$0.70"
+    ],
+    "totals": {
+      "removed": 78,
+      "added": 17,
+      "materialRemoved": 30,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20260702025612",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20260702025612",
+    "date": "2026-07-02",
+    "source": "wayback",
+    "prevTs": "20260602011151",
+    "kind": "price",
+    "score": 98,
+    "counts": {
+      "price": 22,
+      "limit": 16,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OVHcloud: 22 prices, 16 limits changed (added “* Base of 50 MiB/s between 10 GB and 100 GB”)",
+    "pairs": [],
+    "added": [
+      "* Base of 50 MiB/s between 10 GB and 100 GB",
+      "** Base of 3000 IOPS between 10 GB and 100 GB",
+      "900 GiB",
+      "4×NVIDIA Hopper H200 nvlink 525 GiB 240 TFLOPS",
+      "12500 GiB",
+      "$27.28 /hour",
+      "900 GiB",
+      "4×NVIDIA Hopper H200 nvlink 525 GiB 240 TFLOPS",
+      "12500 GiB",
+      "$27.28 /hour",
+      "900 GiB",
+      "4×NVIDIA Hopper H200 nvlink 525 GiB 240 TFLOPS",
+      "12500 GiB",
+      "$27.28 /hour",
+      "Qwen3.5-9B",
+      "$0.12",
+      "Qwen3.5-9B",
+      "$0.18",
+      "Qwen3.5-397B-A17B",
+      "$0.71",
+      "Qwen3.5-397B-A17B",
+      "$4.25",
+      "Qwen3.6-27B",
+      "$0.47",
+      "Qwen3.6-27B",
+      "$3.19",
+      "Qwen3.5-9B",
+      "$0.12",
+      "Qwen3.5-9B",
+      "$0.18",
+      "Qwen3.5-397B-A17B",
+      "$0.71",
+      "Qwen3.5-397B-A17B",
+      "$4.25",
+      "Qwen3.6-27B",
+      "$0.47",
+      "Qwen3.6-27B",
+      "$3.19",
+      "Qwen3.5-9B",
+      "$0.12"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 103,
+      "materialRemoved": 3,
+      "materialAdded": 57
+    }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20260802041518",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20260802041518",
+    "date": "2026-08-02",
+    "source": "wayback",
+    "prevTs": "20260702025612",
+    "kind": "price",
+    "score": 31,
+    "counts": {
+      "price": 8,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OVHcloud: 8 prices, 4 limits changed (removed “$0.016 /hour”; added “8 GB”)",
+    "pairs": [],
+    "added": [
+      "8 GB",
+      "$0.1477 /hour/node"
+    ],
+    "removed": [
+      "$0.016 /hour",
+      "Llama-3.1-8B-Instruct",
+      "$0.11",
+      "Llama-3.1-8B-Instruct",
+      "$0.11",
+      "Llama-3.1-8B-Instruct",
+      "$0.11",
+      "Llama-3.1-8B-Instruct",
+      "$0.11",
+      "Llama-3.1-8B-Instruct",
+      "$0.11",
+      "Llama-3.1-8B-Instruct",
+      "$0.11"
+    ],
+    "totals": {
+      "removed": 38,
+      "added": 7,
+      "materialRemoved": 13,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20260902202107",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260802041518",
+    "kind": "price",
+    "score": 2487,
+    "counts": {
+      "price": 635,
+      "limit": 262,
+      "plan": 29
+    },
+    "material": true,
+    "headline": "OVHcloud: 635 prices, 262 limits, 29 plan names changed ($0.039 → 12; $0.039 → 12)",
+    "pairs": [
+      {
+        "before": "*Price for a one-month Savings Plan. The Windows instance rate displayed covers the licence price ( $0.039 /vCore/hour). The Savings Plans page",
+        "after": "*Price for a 12 months Savings Plan. The Windows instance rate displayed covers the licence price (-). The Savings Plans page",
+        "confidence": 0.72,
+        "deltas": [
+          {
+            "before": "$0.039",
+            "after": "12"
+          }
+        ]
+      },
+      {
+        "before": "*Price for a one-month Savings Plan. The Windows instance rate displayed covers the licence price ( $0.039 /vCore/hour). The Savings Plans page",
+        "after": "*Price for a 12 months Savings Plan. The Windows instance rate displayed covers the licence price (-). The Savings Plans page",
+        "confidence": 0.72,
+        "deltas": [
+          {
+            "before": "$0.039",
+            "after": "12"
+          }
+        ]
+      },
+      {
+        "before": "*Price for a one-month Savings Plan. The Windows instance rate displayed covers the licence price ( $0.039 /vCore/hour). The Savings Plans page",
+        "after": "*Price for a 12 months Savings Plan. The Windows instance rate displayed covers the licence price (-). The Savings Plans page",
+        "confidence": 0.72,
+        "deltas": [
+          {
+            "before": "$0.039",
+            "after": "12"
+          }
+        ]
+      },
+      {
+        "before": "Object Storage is billed based on the storage space used, with a granularity of 1 GB.",
+        "after": "1 Tio = 1024 Gio. Object Storage is billed based on the storage space used, with a granularity of 1 GB.",
+        "confidence": 0.82,
+        "deltas": [
+          {
+            "before": "1GB",
+            "after": "1024"
+          },
+          {
+            "before": null,
+            "after": "1GB"
+          }
+        ]
+      },
+      {
+        "before": "4×NVIDIA Hopper H200 nvlink 525 GiB 240 TFLOPS",
+        "after": "NVIDIA Hopper H 200 nvlink 525 GiB 240 TFLOPS",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4",
+            "after": "200"
+          },
+          {
+            "before": "200",
+            "after": "525GiB"
+          },
+          {
+            "before": "525GiB",
+            "after": "240"
+          },
+          {
+            "before": "240",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "4×NVIDIA Hopper H200 nvlink 525 GiB 240 TFLOPS",
+        "after": "NVIDIA Hopper H 200 nvlink 525 GiB 240 TFLOPS",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4",
+            "after": "200"
+          },
+          {
+            "before": "200",
+            "after": "525GiB"
+          },
+          {
+            "before": "525GiB",
+            "after": "240"
+          },
+          {
+            "before": "240",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "4×NVIDIA Hopper H200 nvlink 525 GiB 240 TFLOPS",
+        "after": "NVIDIA Hopper H 200 nvlink 525 GiB 240 TFLOPS",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4",
+            "after": "200"
+          },
+          {
+            "before": "200",
+            "after": "525GiB"
+          },
+          {
+            "before": "525GiB",
+            "after": "240"
+          },
+          {
+            "before": "240",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "750 GiB",
+        "after": "500 GiB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "750GiB",
+            "after": "500GiB"
+          }
+        ]
+      },
+      {
+        "before": "500 GiB",
+        "after": "750 GiB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "500GiB",
+            "after": "750GiB"
+          }
+        ]
+      },
+      {
+        "before": "4×NVIDIA Hopper H200 nvlink 525 GiB 240 TFLOPS",
+        "after": "NVIDIA Hopper H 200 nvlink 525 GiB 240 TFLOPS",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4",
+            "after": "200"
+          },
+          {
+            "before": "200",
+            "after": "525GiB"
+          },
+          {
+            "before": "525GiB",
+            "after": "240"
+          },
+          {
+            "before": "240",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Public Cloud free trial: Launch your first project today with US$ 200 free credit [1]",
+      "Savings Plan 12 months -15%",
+      "$0.0605",
+      "~$44.165",
+      "$0.1208",
+      "~$88.184",
+      "$0.2415",
+      "~$176.295",
+      "$0.4829",
+      "~$352.517",
+      "~$705.91",
+      "~$1,410.36",
+      "~$2,820.72",
+      "~$3,525.17",
+      "$29.71",
+      "$56.7",
+      "$114.75",
+      "$223.4",
+      "$439.5",
+      "The monthly price is estimated based on 730 hours per month for Gen 3 instances (B3, C3, R3).",
+      "*Price for a 36 months Savings Plan. The Windows instance rate displayed covers the licence price (-). The Savings Plans page",
+      "~$39.42",
+      "~$78.694",
+      "~$157.242",
+      "~$314.411",
+      "~$628.968",
+      "~$1,258.52",
+      "~$2,516.31",
+      "~$3,145.57",
+      "$43.2",
+      "$83.7",
+      "$169.36",
+      "$331.4",
+      "$655.4",
+      "The monthly price is estimated based on 730 hours per month for Gen 3 instances (B3, C3, R3).",
+      "*Price for a 36 months Savings Plan. The Windows instance rate displayed covers the licence price (-). The Savings Plans page",
+      "~$57.159",
+      "~$114.099",
+      "~$228.125",
+      "~$456.98"
+    ],
+    "removed": [
+      "Talk to an expert and take our services for a spin, free of charge with our cloud credits¹",
+      "OVHcloud provides cloud services with simple billing and no hidden costs. Usually, market players bill network traffic for instances, or API calls for Object Storage. These are free with OVHcloud (excluding the Asia-Pacific region).",
+      "$0.0566 /hour",
+      "$0.1132 /hour",
+      "$0.2263 /hour",
+      "$0.4526 /hour",
+      "1.024 TB",
+      "1.9 TB",
+      "2 x 1.9 TB",
+      "4 x 1.9 TB",
+      "L40S 48 GB",
+      "4×L40S 48 GB",
+      "A10 24 GB",
+      "4×A10 24 GB",
+      "A100 80 GB",
+      "4×A100 80 GB",
+      "H100 80 GB",
+      "1.52 TB",
+      "4×H100 80 GB",
+      "1.92 TB",
+      "8×H200 141 GB",
+      "L4 24 GB",
+      "4×L4 24 GB",
+      "Quadro-RTX5000 16 GB",
+      "3×Quadro-RTX5000 16 GB",
+      "Tesla V100 16 GB",
+      "4×Tesla V100 16 GB",
+      "4×Tesla V100S 32 GB",
+      "32 GiB",
+      "64 GiB",
+      "128 GiB",
+      "$0.00003 /GB/hour",
+      "$0.000145 /GB/hour",
+      "$0.000145 /GB/hour",
+      "$0.000072 /GB/hour",
+      "$0.00003 /GB/hour",
+      "$0.00003042 /GiB/hour",
+      "Next 450 TiB / Month",
+      "$0.0044 /GiB",
+      "$0.011 /GiB"
+    ],
+    "totals": {
+      "removed": 2216,
+      "added": 2337,
+      "materialRemoved": 780,
+      "materialAdded": 1204
+    },
+    "transition": true
+  }
+]

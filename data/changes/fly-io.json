@@ -1,0 +1,469 @@
+[
+  {
+    "id": "fly-io-docs-about-pricing-20250505004854",
+    "url": "https://fly.io/docs/about/pricing/",
+    "ts": "20250505004854",
+    "date": "2025-05-05",
+    "source": "wayback",
+    "prevTs": "20250104170030",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Fly.io: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "fly-io-docs-about-pricing-20250804042017",
+    "url": "https://fly.io/docs/about/pricing/",
+    "ts": "20250804042017",
+    "date": "2025-08-04",
+    "source": "wayback",
+    "prevTs": "20250505004854",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fly.io: 2 prices changed (removed “Static IPs for Machines are $0.005 per hour. …”; added “$0.005 per hour (~$3.60/month)”)",
+    "pairs": [],
+    "added": [
+      "$0.005 per hour (~$3.60/month)",
+      "Legacy (Free) Hobby plan"
+    ],
+    "removed": [
+      "Static IPs for Machines are $0.005 per hour. Machines do not have a static IP by default."
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 8,
+      "materialRemoved": 2,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "fly-io-docs-about-pricing-20250903163848",
+    "url": "https://fly.io/docs/about/pricing/",
+    "ts": "20250903163848",
+    "date": "2025-09-03",
+    "source": "wayback",
+    "prevTs": "20250804042017",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Fly.io: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "fly-io-docs-about-pricing-20251104161242",
+    "url": "https://fly.io/docs/about/pricing/",
+    "ts": "20251104161242",
+    "date": "2025-11-04",
+    "source": "wayback",
+    "prevTs": "20250903163848",
+    "kind": "price",
+    "score": 5278,
+    "counts": {
+      "price": 1582,
+      "limit": 265,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Fly.io: 1582 prices, 265 limits, 1 plan name changed (removed “$0.00000082”; added “First 10GB free each month”)",
+    "pairs": [],
+    "added": [
+      "First 10GB free each month",
+      "Automatic daily snapshots with 5 days retention are enabled by default on new volumes. This can be adjusted",
+      "Usage is calculated based on the total stored size of the snapshots, not the provisioned volume size. You’re only charged for the actual data stored - if you’ve written 1GB to a 10GB volume, you’ll be charged for around 1GB of snapshot storage.",
+      "Free Trial",
+      "What the Fly.io Free trial gives you and when billing begins."
+    ],
+    "removed": [
+      "$0.00000082",
+      "$2.13",
+      "$0.00000135",
+      "$0.0049",
+      "$3.50",
+      "$0.00000241",
+      "$6.24",
+      "$0.00000452",
+      "$0.0163",
+      "$11.73",
+      "$0.00000164",
+      "$0.0059",
+      "$4.26",
+      "$0.00000270",
+      "$0.0097",
+      "$7.00",
+      "$0.00000482",
+      "$0.0173",
+      "$12.49",
+      "$0.00000905",
+      "$0.0326",
+      "$23.45",
+      "$0.00000329",
+      "$0.0118",
+      "$8.52",
+      "$0.00000540",
+      "$0.0195",
+      "$14.01",
+      "$0.00000963",
+      "$0.0347",
+      "$24.97",
+      "$0.00001810",
+      "$0.0651",
+      "$46.91",
+      "$0.00000658",
+      "$0.0237",
+      "$17.05",
+      "$0.00001081",
+      "$0.0389",
+      "$28.01"
+    ],
+    "totals": {
+      "removed": 3711,
+      "added": 1224,
+      "materialRemoved": 3254,
+      "materialAdded": 1150
+    }
+  },
+  {
+    "id": "fly-io-docs-about-pricing-20251203003828",
+    "url": "https://fly.io/docs/about/pricing/",
+    "ts": "20251203003828",
+    "date": "2025-12-03",
+    "source": "wayback",
+    "prevTs": "20251104161242",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Fly.io: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "fly-io-docs-about-pricing-20260110122553",
+    "url": "https://fly.io/docs/about/pricing/",
+    "ts": "20260110122553",
+    "date": "2026-01-10",
+    "source": "wayback",
+    "prevTs": "20251203003828",
+    "kind": "price",
+    "score": 2880,
+    "counts": {
+      "price": 864,
+      "limit": 144,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fly.io: 864 prices, 144 limits changed (added “1.5GB”)",
+    "pairs": [],
+    "added": [
+      "1.5GB",
+      "$0.00000467",
+      "$0.0168",
+      "$12.11",
+      "3GB",
+      "$0.00000768",
+      "$0.0276",
+      "$19.90",
+      "6GB",
+      "$0.00001369",
+      "$0.0493",
+      "$35.49",
+      "12GB",
+      "$0.00002572",
+      "$0.0926",
+      "$66.66",
+      "12GB",
+      "$0.00007452",
+      "$0.2683",
+      "$193.16",
+      "24GB",
+      "$0.00009857",
+      "$0.3549",
+      "$255.50",
+      "48GB",
+      "$0.00014667",
+      "$0.5280",
+      "$380.17",
+      "20GB",
+      "$0.00012420",
+      "$0.4471",
+      "$321.93",
+      "40GB",
+      "$0.00016428",
+      "$0.5914",
+      "$425.83",
+      "80GB",
+      "$0.00024445",
+      "$0.8800",
+      "$633.62"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 1333,
+      "materialRemoved": 0,
+      "materialAdded": 1153
+    }
+  },
+  {
+    "id": "fly-io-docs-about-free-trial-20260207143552",
+    "url": "https://fly.io/docs/about/free-trial/",
+    "ts": "20260207143552",
+    "date": "2026-02-07",
+    "source": "wayback",
+    "prevTs": "20251108012440",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Fly.io: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "fly-io-docs-about-pricing-20260302005603",
+    "url": "https://fly.io/docs/about/pricing/",
+    "ts": "20260302005603",
+    "date": "2026-03-02",
+    "source": "wayback",
+    "prevTs": "20260110122553",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 4,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fly.io: 4 prices changed ($1.50 → $0.75; $1.25 → $0.70)",
+    "pairs": [
+      {
+        "before": "A10: $1.50/hr per GPU",
+        "after": "A10: $0.75/hr per GPU",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.50",
+            "after": "$0.75"
+          }
+        ]
+      },
+      {
+        "before": "L40S: $1.25/hr per GPU",
+        "after": "L40S: $0.70/hr per GPU",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.25",
+            "after": "$0.70"
+          }
+        ]
+      },
+      {
+        "before": "A100 40G PCIe: $2.50/hr per GPU",
+        "after": "A100 40G PCIe: $1.25/hr per GPU",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.50",
+            "after": "$1.25"
+          }
+        ]
+      },
+      {
+        "before": "A100 80G SXM: $3.50/hr per GPU",
+        "after": "A100 80G SXM: $1.50/hr per GPU",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.50",
+            "after": "$1.50"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 12,
+      "added": 13,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "fly-io-docs-about-pricing-20260511092258",
+    "url": "https://fly.io/docs/about/pricing/",
+    "ts": "20260511092258",
+    "date": "2026-05-11",
+    "source": "wayback",
+    "prevTs": "20260302005603",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Fly.io: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "fly-io-pricing-20260612142707",
+    "url": "https://fly.io/pricing/",
+    "ts": "20260612142707",
+    "date": "2026-06-12",
+    "source": "wayback",
+    "prevTs": "20241007223931",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Fly.io: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "fly-io-docs-about-pricing-20260902202107",
+    "url": "https://fly.io/docs/about/pricing/",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260511092258",
+    "kind": "price",
+    "score": 19,
+    "counts": {
+      "price": 4,
+      "limit": 3,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Fly.io: 4 prices, 3 limits, 1 plan name changed (removed “A10: $0.75/hr per GPU”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "A10: $0.75/hr per GPU",
+      "L40S: $0.70/hr per GPU",
+      "A100 40G PCIe: $1.25/hr per GPU",
+      "A100 80G SXM: $1.50/hr per GPU",
+      "Legacy Free allowances",
+      "The following resources were included for free on the Hobby (deprecated), Launch, and Scale plans, and are still honored for any organizations that were on these plans before we sunset them:",
+      "Up to 3 shared-cpu-1x 256mb VMs",
+      "3GB persistent volume storage (total)",
+      "100 GB North America & Europe",
+      "30 GB Asia Pacific, Oceania & South America",
+      "30 GB Africa & India",
+      "Paid Hobby plan with Free Trial credit",
+      "Legacy (Free) Hobby plan",
+      "If you were on the free Hobby plan at the time that the paid Hobby plan became the default for new organizations, your plan is now called the Legacy Hobby plan. Your costs stay the same as they were, with no monthly subscription fee, and no included usage beyond the free resource allowances."
+    ],
+    "totals": {
+      "removed": 33,
+      "added": 4,
+      "materialRemoved": 14,
+      "materialAdded": 0
+    },
+    "transition": true
+  },
+  {
+    "id": "fly-io-docs-about-free-trial-20260902202628",
+    "url": "https://fly.io/docs/about/free-trial/",
+    "ts": "20260902202628",
+    "date": "2026-09-02",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260207143552",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Fly.io: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  }
+]

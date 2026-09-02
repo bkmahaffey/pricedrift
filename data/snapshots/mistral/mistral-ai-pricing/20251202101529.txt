@@ -1,0 +1,555 @@
+1:"$Sreact.fragment" 2:I[725525,["/_next/static/chunks/29e1c3efe7a84f96.js?dpl=dpl_3xRJhAHFvrwa8S7mWxpD1dndFjaZ"],"default"] 3:I[457465,["/_next/static/chunks/29e1c3efe7a84f96.js?dpl=dpl_3xRJhAHFvrwa8S7mWxpD1dndFjaZ"],"default"] 7:I[716779,["/_next/static/chunks/29e1c3efe7a84f96.js?dpl=dpl_3xRJhAHFvrwa8S7mWxpD1dndFjaZ"],"OutletBoundary"] 9:I[473055,["/_next/static/chunks/29e1c3efe7a84f96.js?dpl=dpl_3xRJhAHFvrwa8S7mWxpD1dndFjaZ"],"AsyncMetadataOutlet"] b:I[716779,["/_next/static/chunks/29e1c3efe7
+"," Login
+to chat with support","Join our Discord
+for community support"]},"press":{"type":"support","title":"Press and events","description":"Email us at","email":"press@mistral.ai","mailto":"press@mistral.ai","icon":"/img/press.svg"},"legal":{"type":"legal","title":"Privacy requests","description":"You have rights regarding your data management. Contact us via our platform:","icon":"/img/legal.svg","email":"privacy@mistral.ai","label":"Submit here","platformLink":"https://api.dastra.eu/v1/client/data-subject-request/page?id=1200&key=dcObLjNDO
+"}}],null,["$","div",null,{"className":"flex flex-wrap items-center justify-center gap-4 md:gap-x-8","children":[["$","$L3b","Try Le Chat0",{"button":{"id":70,"sort":1,"user_created":"dee2cf63-e9a7-4cf5-a96d-22950254f7db","date_created":"2025-01-13T14:33:21.628Z","user_updated":"b8985631-f376-45b7-8ac9-69864091a006","date_updated":"2025-11-17T23:06:28.086Z","type":"external","external_url":"https://chat.mistral.ai/","button_group":23,"open_in_new_tab":true,"name":"Try le Chat","visible":true,"gr
+"}],["$","$L45","1",{"question":"Which model should I use?","answer":" For most tasks: Mistral Large (best overall performance). For coding: Codestral. For vision tasks: Pixtral Large. For cost-sensitive projects: Ministral 8B. Learn more about our models
+.
+"}],["$","$L45","2",{"question":"How is API pricing calculated?","answer":" We charge per million tokens processed - both input (your prompts) and output (responses) count. For example, Mistral Large costs $2 /M tokens in and $6 /M tokens out. Batch processing gets a 50% discount.
+"}],["$","$L45","3",{"question":"How can I track my API usage and spending?","answer":" Our AI Studio dashboard offers detailed tracking of API usage, including metrics for calls, endpoints, and user activity. It breaks down costs for services like completion, OCR, and fine-tuning, helping you monitor and optimize API consumption efficiently.
+"}],["$","$L45","4",{"question":"What’s the difference between Le Chat Free and Pro plans?","answer":" Le Chat Free is ideal for getting started and trying out Mistral AI. Le Chat Pro offers 6x more messages, 40x more images, and advanced features like AI agents plus chatbot support.
+"}],["$","$L45","5",{"question":"Does Le Chat have any usage limits?","answer":" Pro has higher ceilings compared to Free (e.g. up to 40x more image generations). Team and Enterprise plans have even higher allowances on certain features. For example, Flash answers: 200 / day on Team vs. 150 / day on Pro.
+"}],["$","$L45","6",{"question":"Can I self-host Mistral’s models?","answer":" Yes, you can self-host our models anywhere. Open-weight models (e.g., Mistral 7B) are Apache 2.0 licensed for research/individual use; while commercial deployments require a Mistral license with separate terms for derivatives and production use.
+"}],["$","$L45","7",{"question":"Are there discounts for students?","answer":" Verified students can get Le Chat Pro for $5.99 / month (normally $14.99).
+"}],["$","$L45","8",{"question":"Do you offer enterprise solutions and support?","answer":" Yes, the Le Chat Enterprise plan includes custom SLAs, dedicated support, and private deployments. Contact us
+for more details.
+"}]]}]]}] 2e:["$","section","undefinedblock_faq4",{"className":"container mx-auto grid grid-cols-1 gap-16 py-20 md:grid-cols-8","children":[["$","div",null,{"className":"md:col-span-2","children":["$","div",null,{"className":"sticky top-[123px]","children":[["$","h2",null,{"className":"mb-2 text-xl","children":null}],["$","p",null,{"className":" text-4xl","children":"FAQs"}]]}]}],["$","div",null,{"className":"md:col-span-6","children":[["$","$L45","0",{"question":"Does Mistral have a free plan?"
+"}],["$","$L45","1",{"question":"Which model should I use?","answer":" For most tasks: Mistral Large (best overall performance). For coding: Codestral. For vision tasks: Pixtral Large. For cost-sensitive projects: Ministral 8B. Learn more about our models
+.
+"}],["$","$L45","2",{"question":"How is API pricing calculated?","answer":" We charge per million tokens processed - both input (your prompts) and output (responses) count. For example, Mistral Large costs $2 /M tokens in and $6 /M tokens out. Batch processing gets a 50% discount.
+"}],["$","$L45","3",{"question":"How can I track my API usage and spending?","answer":" Our AI Studio dashboard offers detailed tracking of API usage, including metrics for calls, endpoints, and user activity. It breaks down costs for services like completion, OCR, and fine-tuning, helping you monitor and optimize API consumption efficiently.
+"}],["$","$L45","4",{"question":"What’s the difference between Le Chat Free and Pro plans?","answer":" Le Chat Free is ideal for getting started and trying out Mistral AI. Le Chat Pro offers 6x more messages, 40x more images, and advanced features like AI agents plus chatbot support.
+"}],["$","$L45","5",{"question":"Does Le Chat have any usage limits?","answer":" Pro has higher ceilings compared to Free (e.g. up to 40x more image generations). Team and Enterprise plans have even higher allowances on certain features. For example, Flash answers: 200 / day on Team vs. 150 / day on Pro.
+"}],["$","$L45","6",{"question":"Can I self-host Mistral’s models?","answer":" Yes, you can self-host our models anywhere. Open-weight models (e.g., Mistral 7B) are Apache 2.0 licensed for research/individual use; while commercial deployments require a Mistral license with separate terms for derivatives and production use.
+"}],["$","$L45","7",{"question":"Are there discounts for students?","answer":" Verified students can get Le Chat Pro for $5.99 / month (normally $14.99).
+"}],["$","$L45","8",{"question":"Do you offer enterprise solutions and support?","answer":" Yes, the Le Chat Enterprise plan includes custom SLAs, dedicated support, and private deployments. Contact us
+for more details.
+"}]]}]]}] 30:["$","section","undefinedblock_faq2",{"className":"container mx-auto grid grid-cols-1 gap-16 py-20 md:grid-cols-8","children":[["$","div",null,{"className":"md:col-span-2","children":["$","div",null,{"className":"sticky top-[123px]","children":[["$","h2",null,{"className":"mb-2 text-xl","children":null}],["$","p",null,{"className":" text-4xl","children":"FAQs"}]]}]}],["$","div",null,{"className":"md:col-span-6","children":[["$","$L45","0",{"question":"Does Mistral have a free plan?"
+"}],["$","$L45","1",{"question":"Which model should I use?","answer":" For most tasks: Mistral Large (best overall performance). For coding: Codestral. For vision tasks: Pixtral Large. For cost-sensitive projects: Ministral 8B. Learn more about our models
+.
+"}],["$","$L45","2",{"question":"How is API pricing calculated?","answer":" We charge per million tokens processed - both input (your prompts) and output (responses) count. For example, Mistral Large costs $2 /M tokens in and $6 /M tokens out. Batch processing gets a 50% discount.
+"}],["$","$L45","3",{"question":"How can I track my API usage and spending?","answer":" Our AI Studio dashboard offers detailed tracking of API usage, including metrics for calls, endpoints, and user activity. It breaks down costs for services like completion, OCR, and fine-tuning, helping you monitor and optimize API consumption efficiently.
+"}],["$","$L45","4",{"question":"What’s the difference between Le Chat Free and Pro plans?","answer":" Le Chat Free is ideal for getting started and trying out Mistral AI. Le Chat Pro offers 6x more messages, 40x more images, and advanced features like AI agents plus chatbot support.
+"}],["$","$L45","5",{"question":"Does Le Chat have any usage limits?","answer":" Pro has higher ceilings compared to Free (e.g. up to 40x more image generations). Team and Enterprise plans have even higher allowances on certain features. For example, Flash answers: 200 / day on Team vs. 150 / day on Pro.
+"}],["$","$L45","6",{"question":"Can I self-host Mistral’s models?","answer":" Yes, you can self-host our models anywhere. Open-weight models (e.g., Mistral 7B) are Apache 2.0 licensed for research/individual use; while commercial deployments require a Mistral license with separate terms for derivatives and production use.
+"}],["$","$L45","7",{"question":"Are there discounts for students?","answer":" Verified students can get Le Chat Pro for $5.99 / month (normally $14.99).
+"}],["$","$L45","8",{"question":"Do you offer enterprise solutions and support?","answer":" Yes, the Le Chat Enterprise plan includes custom SLAs, dedicated support, and private deployments. Contact us
+for more details.
+"}]]}]]}] 32:["$","section","undefinedblock_faq2",{"className":"container mx-auto grid grid-cols-1 gap-16 py-20 md:grid-cols-8","children":[["$","div",null,{"className":"md:col-span-2","children":["$","div",null,{"className":"sticky top-[123px]","children":[["$","h2",null,{"className":"mb-2 text-xl","children":null}],["$","p",null,{"className":" text-4xl","children":"FAQs"}]]}]}],["$","div",null,{"className":"md:col-span-6","children":[["$","$L45","0",{"question":"Does Mistral have a free plan?"
+"}],["$","$L45","1",{"question":"Which model should I use?","answer":" For most tasks: Mistral Large (best overall performance). For coding: Codestral. For vision tasks: Pixtral Large. For cost-sensitive projects: Ministral 8B. Learn more about our models
+.
+"}],["$","$L45","2",{"question":"How is API pricing calculated?","answer":" We charge per million tokens processed - both input (your prompts) and output (responses) count. For example, Mistral Large costs $2 /M tokens in and $6 /M tokens out. Batch processing gets a 50% discount.
+"}],["$","$L45","3",{"question":"How can I track my API usage and spending?","answer":" Our AI Studio dashboard offers detailed tracking of API usage, including metrics for calls, endpoints, and user activity. It breaks down costs for services like completion, OCR, and fine-tuning, helping you monitor and optimize API consumption efficiently.
+"}],["$","$L45","4",{"question":"What’s the difference between Le Chat Free and Pro plans?","answer":" Le Chat Free is ideal for getting started and trying out Mistral AI. Le Chat Pro offers 6x more messages, 40x more images, and advanced features like AI agents plus chatbot support.
+"}],["$","$L45","5",{"question":"Does Le Chat have any usage limits?","answer":" Pro has higher ceilings compared to Free (e.g. up to 40x more image generations). Team and Enterprise plans have even higher allowances on certain features. For example, Flash answers: 200 / day on Team vs. 150 / day on Pro.
+"}],["$","$L45","6",{"question":"Can I self-host Mistral’s models?","answer":" Yes, you can self-host our models anywhere. Open-weight models (e.g., Mistral 7B) are Apache 2.0 licensed for research/individual use; while commercial deployments require a Mistral license with separate terms for derivatives and production use.
+"}],["$","$L45","7",{"question":"Are there discounts for students?","answer":" Verified students can get Le Chat Pro for $5.99 / month (normally $14.99).
+"}],["$","$L45","8",{"question":"Do you offer enterprise solutions and support?","answer":" Yes, the Le Chat Enterprise plan includes custom SLAs, dedicated support, and private deployments. Contact us
+for more details.
+"}]]}]]}] 46:I[926608,["/_next/static/chunks/bf48ef6951720bfc.js?dpl=dpl_3xRJhAHFvrwa8S7mWxpD1dndFjaZ","/_next/static/chunks/490e20691f6b44ed.js?dpl=dpl_3xRJhAHFvrwa8S7mWxpD1dndFjaZ","/_next/static/chunks/782ae6640552456a.js?dpl=dpl_3xRJhAHFvrwa8S7mWxpD1dndFjaZ","/_next/static/chunks/a0afa4c7a3dd421d.js?dpl=dpl_3xRJhAHFvrwa8S7mWxpD1dndFjaZ","/_next/static/chunks/604674317d2ef69f.js?dpl=dpl_3xRJhAHFvrwa8S7mWxpD1dndFjaZ","/_next/static/chunks/5ee779d96363248c.js?dpl=dpl_3xRJhAHFvrwa8S7mWxpD1dndFja
+\n
+","api":"mistral-medium-latest","price":[{"value":"Input (/M tokens)","price_dollar":"$$0.4","price_euro":"0.4€","locale":"en"},{"value":"Output (/M tokens)","price_dollar":"$$2","price_euro":"2€","locale":"en"}],"locale":"en"},{"id":2,"sort":null,"grid_id":"1","name":"Document AI & OCR","icon":"f7fbfc4b-1f1b-424e-b274-6b3849ba2f3e","description":" \n \n Introducing the world’s best document understanding API.
+\n
+","api":"mistral-ocr-latest","price":[{"value":"OCR","price_dollar":"$$1 / 1000 pages","price_euro":"1€ / 1000 pages","locale":"en"},{"value":"Annotations","price_dollar":"$$3 / 1000 pages","price_euro":"3€ / 1000 pages","locale":"en"}],"locale":"en"},{"id":3,"sort":null,"grid_id":"1","name":"Voxtral Small","icon":"c29ca011-87ff-45b0-8236-08d629812732","description":" \n \n \n State-of-the-art performance on speech and audio understanding.
+\n
+","api":"voxtral-small-latest","price":[{"value":"Input (per min / per M tok)","price_dollar":"$$0.004 / $0.1 (text)","price_euro":"0.004€ / 0.1€ (text)","locale":"en"},{"value":"Output (/M tokens)","price_dollar":"$$0.3","price_euro":"0.3€","locale":"en"}],"locale":"en"}]}]]}] 48:I[385722,["/_next/static/chunks/bf48ef6951720bfc.js?dpl=dpl_3xRJhAHFvrwa8S7mWxpD1dndFjaZ","/_next/static/chunks/490e20691f6b44ed.js?dpl=dpl_3xRJhAHFvrwa8S7mWxpD1dndFjaZ","/_next/static/chunks/782ae6640552456a.js?dpl=dp
+\n
+Our sales experts are here to provide all the details you need. Fill out the form, and we’ll reach out to discuss how Mistral AI can meet your needs.
+"}}]]}]}],["$","div",null,{"className":"relative flex w-full flex-col items-center justify-center bg-secondary p-12 lg:min-w-[630px] lg:max-w-[630px]","children":[["$","div",null,{"id":"form-container","className":"p-1 pr-4","children":["$","$L48",null,{"form":{"id":12,"sort":null,"method":null,"action_url":null,"name":"New Contact Form","note_is_important":true,"hubspot_form_id":"3356a9d3-2c26-4c92-aa64-2043d42ffe0c","fields":[{"id":85,"forms_id":12,"sort":1,"form_fields_id":{"id":25,"sort":nul
+","locale":"en"},"locale":"en"},{"id":88,"forms_id":12,"sort":6,"form_fields_id":{"id":11,"sort":null,"name":"i_want_to_receive_updates_about_new_features_and_products_from_mistral_ai","type":"checkbox","required":false,"width":"100","is_multi_choices":true,"show_label":null,"value":null,"choices":[],"label":"I want to receive updates about new features and products from Mistral AI.","placeholder":null,"label_rich":null,"locale":"en"},"locale":"en"}],"submit_cta":{"id":1,"sort":null,"name":"Subm
+","success_submission_subheadline":" Thank you for your submission. We’ve received it and will review it shortly.
+","submission_consent_msg":null,"locale":"en"},"success_form_headline":" Thank you!
+","success_form_subheadline":" We’ll get back to you shortly.
+","submission_consent_msg":" By submitting this form, you agree with our Terms of Service
+We process your data to respond to your contact request in accordance with our Privacy Policy.
+"}]}],"$L49"]}]]}] 49:["$","div",null,{"className":"absolute bottom-0 right-3 size-[98px] lg:right-6","children":["$","$L3a",null,{"src":"https://cms.mistral.ai/assets/49d39b27-0e9b-4227-bdc2-fb0ca9570a18","sizes":"(max-width: 768px) 90vw, (max-width: 1200px) 50vw, 75vw","alt":"","width":"$undefined","height":"$undefined","placeholder":"empty","priority":"$undefined","className":"object-contain","fill":true}]}] 4a:T865, 23:["$","footer","undefinedblock_nav_footer5",{"id":"footer","className":"re
+\n Contact our team to get started.
+"}}]]}]}],["$","div",null,{"className":"relative flex w-full flex-col items-center justify-center bg-secondary p-12 lg:min-w-[630px] lg:max-w-[630px]","children":[["$","div",null,{"id":"form-container","className":"p-1 pr-4","children":["$","$L48",null,{"form":{"id":12,"sort":null,"method":null,"action_url":null,"name":"New Contact Form","note_is_important":true,"hubspot_form_id":"3356a9d3-2c26-4c92-aa64-2043d42ffe0c","fields":[{"id":85,"forms_id":12,"sort":1,"form_fields_id":{"id":25,"sort":nul
+","locale":"en"},"locale":"en"},{"id":88,"forms_id":12,"sort":6,"form_fields_id":{"id":11,"sort":null,"name":"i_want_to_receive_updates_about_new_features_and_products_from_mistral_ai","type":"checkbox","required":false,"width":"100","is_multi_choices":true,"show_label":null,"value":null,"choices":[],"label":"I want to receive updates about new features and products from Mistral AI.","placeholder":null,"label_rich":null,"locale":"en"},"locale":"en"}],"submit_cta":{"id":1,"sort":null,"name":"Subm
+","success_submission_subheadline":" Thank you for your submission. We’ve received it and will review it shortly.
+","submission_consent_msg":null,"locale":"en"},"success_form_headline":" Thank you!
+","success_form_subheadline":null,"submission_consent_msg":" By submitting this form, you agree with our Terms of Service
+We process your data to respond to your contact request in accordance with our Privacy Policy.
+"}]}],"$L51"]}]]}] 51:["$","div",null,{"className":"absolute bottom-0 right-3 size-[98px] lg:right-6","children":"$undefined"}] 52:I[63093,["/_next/static/chunks/bf48ef6951720bfc.js?dpl=dpl_3xRJhAHFvrwa8S7mWxpD1dndFjaZ","/_next/static/chunks/490e20691f6b44ed.js?dpl=dpl_3xRJhAHFvrwa8S7mWxpD1dndFjaZ","/_next/static/chunks/782ae6640552456a.js?dpl=dpl_3xRJhAHFvrwa8S7mWxpD1dndFjaZ","/_next/static/chunks/a0afa4c7a3dd421d.js?dpl=dpl_3xRJhAHFvrwa8S7mWxpD1dndFjaZ","/_next/static/chunks/604674317d2ef69f.j
+","price_dollar":"$$0","price_euro":"0€","button_label":"Start now","button_url":"https://chat.mistral.ai/","is_team_plan":false,"color":"#FFFAEA","popular":false,"features":[{"value":" true
+","type":"Features","name":"Messages","locale":"en"},{"value":" true
+","type":"Features","name":"Voice mode","locale":"en"},{"value":" true
+","type":"Features","name":"Flash answers","locale":"en"},{"value":" true
+","type":"Features","name":"Agents","locale":"en"},{"value":" true
+","type":"Features","name":"Web searches","locale":"en"},{"value":" true
+","type":"Features","name":"Think mode","locale":"en"},{"value":" true
+","type":"Features","name":"Deep research","locale":"en"},{"value":" 500
+","type":"Features","name":"Memories (beta)","locale":"en"},{"value":" Limited
+","type":"Features","name":"Libraries","locale":"en"},{"value":" true
+","type":"Features","name":"Document upload ","locale":"en"},{"value":" true
+","type":"Features","name":"Verified news","locale":"en"},{"value":" true
+","type":"Features","name":"Connectors directory (beta)","locale":"en"},{"value":" true
+","type":"Features","name":"Custom MCP connectors (beta)","locale":"en"},{"value":" true
+","type":"Features","name":"Projects","locale":"en"},{"value":" true
+","type":"Features","name":"Image generation","locale":"en"},{"value":" true
+","type":"Features","name":"Code interpreter","locale":"en"},{"value":" true
+","type":"Features","name":"Canvas mode","locale":"en"},{"value":" true
+","type":"Customer service","name":"Help center","locale":"en"},{"value":" true
+","type":"Customer service","name":"Knowledge base","locale":"en"},{"value":" false
+","type":"Customer service","name":"Chatbot","locale":"en"},{"value":" false
+","type":"Team and enterprise features","name":"Domain name verification","locale":"en"},{"value":" false
+","type":"Team and enterprise features","name":"SCIM provisioning","locale":"en"},{"value":" false
+","type":"Team and enterprise features","name":"Data export","locale":"en"},{"value":" false
+","type":"Team and enterprise features","name":"Audit logs","locale":"en"},{"value":" false
+","type":"Team and enterprise features","name":"SAML SSO","locale":"en"},{"value":" false
+","type":"Team and enterprise features","name":"White label","locale":"en"}],"dark":false,"button_sticky_label":"Start","unit":"/mo","conditions":null,"student_plan":false,"student_price_dollar":null,"student_price_euro":null,"student_unit":null,"icon":"ae2c3853-f091-43d0-ad96-8f10f48f4244","is_chat":true,"background_color":"#F3EDD9","feature_sumup":[{"feature":" Chat. Search. Learn. Code. Create.
+","locale":"en"},{"feature":" Access to Mistral’s SOTA AI models.
+","locale":"en"},{"feature":" Save and recall up to 500 memories.
+","locale":"en"},{"feature":" Group chats into projects.
+","locale":"en"},{"feature":" Full access to Connectors directory.
+","locale":"en"}],"is_standalone_plan":false,"locale":"en"},"i":0}],["$","$L52","2",{"plan":{"id":2,"sort":null,"pricing_plans_id":"1","title":"Pro","description":" Unlock enhanced productivity with extended AI and agentic capabilities.
+","price_dollar":"$$14.99","price_euro":"14.99 €","button_label":"Start now","button_url":"https://chat.mistral.ai/upgrade","is_team_plan":false,"color":"#FFF0C3","popular":true,"features":[{"value":" Up to 6x Free
+","type":"Features","name":"Messages","locale":"en"},{"value":" true
+","type":"Features","name":"Voice mode","locale":"en"},{"value":" Up to 150 / day
+","type":"Features","name":"Flash answers","locale":"en"},{"value":" true
+","type":"Features","name":"Agents","locale":"en"},{"value":" Up to 5x Free
+","type":"Features","name":"Web searches","locale":"en"},{"value":" Up to 30x Free
+","type":"Features","name":"Think mode","locale":"en"},{"value":" Up to 5x Free
+","type":"Features","name":"Deep research","locale":"en"},{"value":" 1,000
+","type":"Features","name":"Memories (beta)","locale":"en"},{"value":" Up to 15GB
+","type":"Features","name":"Libraries","locale":"en"},{"value":" Up to 20x Free
+","type":"Features","name":"Document upload ","locale":"en"},{"value":" true
+","type":"Features","name":"Verified news","locale":"en"},{"value":" true
+","type":"Features","name":"Connectors directory (beta)","locale":"en"},{"value":" true
+","type":"Features","name":"Custom MCP connectors (beta)","locale":"en"},{"value":" Unlimited
+","type":"Features","name":"Projects","locale":"en"},{"value":" Up to 40x Free
+","type":"Features","name":"Image generation","locale":"en"},{"value":" Up to 5x Free
+","type":"Features","name":"Code interpreter","locale":"en"},{"value":" true
+","type":"Features","name":"Canvas mode","locale":"en"},{"value":" true
+","type":"Customer service","name":"Help center","locale":"en"},{"value":" true
+","type":"Customer service","name":"Knowledge base","locale":"en"},{"value":" true
+","type":"Customer service","name":"Chatbot","locale":"en"},{"value":" false
+","type":"Team and enterprise features","name":"Domain name verification","locale":"en"},{"value":" false
+","type":"Team and enterprise features","name":"SCIM provisioning","locale":"en"},{"value":" false
+","type":"Team and enterprise features","name":"Data export","locale":"en"},{"value":" false
+","type":"Team and enterprise features","name":"Audit logs","locale":"en"},{"value":" false
+","type":"Team and enterprise features","name":"SAML SSO","locale":"en"},{"value":" false
+","type":"Team and enterprise features","name":"White label","locale":"en"}],"dark":false,"button_sticky_label":"Start for free","unit":"/mo*","conditions":" Excluding taxes
+","student_plan":true,"student_price_dollar":"$$5.99","student_price_euro":"5.99€","student_unit":"/mo*","icon":"8f96c9e2-03f4-49e2-97e9-08dd3208986f","is_chat":null,"background_color":"#F2F2F2","feature_sumup":[{"feature":" More messages and web searches.
+","locale":"en"},{"feature":" 30x more extended thinking.
+","locale":"en"},{"feature":" 5x more Deep Research reports.
+","locale":"en"},{"feature":" Up to 15GB of document storage.
+","locale":"en"},{"feature":" Unlimited projects.
+","locale":"en"},{"feature":" Chat support.
+","locale":"en"}],"is_standalone_plan":false,"locale":"en"},"i":1}],"$L53",null]}],"$L54"]}],"$L55","$L56","$L57"]}] 58:I[118669,["/_next/static/chunks/bf48ef6951720bfc.js?dpl=dpl_3xRJhAHFvrwa8S7mWxpD1dndFjaZ","/_next/static/chunks/490e20691f6b44ed.js?dpl=dpl_3xRJhAHFvrwa8S7mWxpD1dndFjaZ","/_next/static/chunks/782ae6640552456a.js?dpl=dpl_3xRJhAHFvrwa8S7mWxpD1dndFjaZ","/_next/static/chunks/a0afa4c7a3dd421d.js?dpl=dpl_3xRJhAHFvrwa8S7mWxpD1dndFjaZ","/_next/static/chunks/604674317d2ef69f.js?dpl=dpl_
+","price_dollar":"$$24.99","price_euro":"24.99€","button_label":"Start now","button_url":"https://chat.mistral.ai/upgrade","is_team_plan":true,"color":"#FFE8AA","popular":false,"features":[{"value":" Up to 6x Free
+","type":"Features","name":"Messages","locale":"en"},{"value":" true
+","type":"Features","name":"Voice mode","locale":"en"},{"value":" Up to 200 / day
+","type":"Features","name":"Flash answers","locale":"en"},{"value":" true
+","type":"Features","name":"Agents","locale":"en"},{"value":" Up to 5x Free
+","type":"Features","name":"Web searches","locale":"en"},{"value":" Up to 30x Free
+","type":"Features","name":"Think mode","locale":"en"},{"value":" Up to 5x Free
+","type":"Features","name":"Deep research","locale":"en"},{"value":" 1,000
+","type":"Features","name":"Memories (beta)","locale":"en"},{"value":" Up to 30GB / user
+","type":"Features","name":"Libraries","locale":"en"},{"value":" Up to 20x Free
+","type":"Features","name":"Document upload ","locale":"en"},{"value":" true
+","type":"Features","name":"Verified news","locale":"en"},{"value":" true
+","type":"Features","name":"Connectors directory (beta)","locale":"en"},{"value":" true
+","type":"Features","name":"Custom MCP connectors (beta)","locale":"en"},{"value":" Unlimited
+","type":"Features","name":"Projects","locale":"en"},{"value":" Up to 40x Free
+","type":"Features","name":"Image generation","locale":"en"},{"value":" Up to 5x Free
+","type":"Features","name":"Code interpreter","locale":"en"},{"value":" true
+","type":"Features","name":"Canvas mode","locale":"en"},{"value":" true
+","type":"Customer service","name":"Help center","locale":"en"},{"value":" true
+","type":"Customer service","name":"Knowledge base","locale":"en"},{"value":" true
+","type":"Customer service","name":"Chatbot","locale":"en"},{"value":" true
+","type":"Team and enterprise features","name":"Domain name verification","locale":"en"},{"value":" true
+","type":"Team and enterprise features","name":"SCIM provisioning","locale":"en"},{"value":" true
+","type":"Team and enterprise features","name":"Data export","locale":"en"},{"value":" false
+","type":"Team and enterprise features","name":"Audit logs","locale":"en"},{"value":" false
+","type":"Team and enterprise features","name":"SAML SSO","locale":"en"},{"value":" false
+","type":"Team and enterprise features","name":"White label","locale":"en"}],"dark":false,"button_sticky_label":"Start now","unit":"/user/mo*","conditions":" Excluding taxes
+","student_plan":false,"student_price_dollar":null,"student_price_euro":null,"student_unit":null,"icon":"8bf1fb9e-d179-49bf-8343-44867062c109","is_chat":null,"background_color":"#F3DCA0","feature_sumup":[{"feature":" Up to 200 flash answers /user/day.
+","locale":"en"},{"feature":" Up to 30GB of storage /user.
+","locale":"en"},{"feature":" Domain name verification.
+","locale":"en"},{"feature":" SCIM provisioning.
+","locale":"en"},{"feature":" Data export.
+","locale":"en"}],"is_standalone_plan":false,"locale":"en"},"i":2}] 54:["$","div",null,{"className":"w-full pb-4","children":[["$","$L58","4",{"plan":{"id":4,"sort":null,"pricing_plans_id":"1","title":"Enterprise","description":" Private deployments powered by custom models, UI, and tools.
+","price_dollar":"Custom","price_euro":"Custom","button_label":"Contact us","button_url":"/contact","is_team_plan":false,"color":"#262626","popular":false,"features":[{"value":" Custom
+","type":"Features","name":"Messages","locale":"en"},{"value":" Custom
+","type":"Features","name":"Voice mode","locale":"en"},{"value":" Custom
+","type":"Features","name":"Flash answers","locale":"en"},{"value":" Custom
+","type":"Features","name":"Agents","locale":"en"},{"value":" Custom
+","type":"Features","name":"Web searches","locale":"en"},{"value":" Custom
+","type":"Features","name":"Think mode","locale":"en"},{"value":" Custom
+","type":"Features","name":"Deep research","locale":"en"},{"value":" 1,000
+","type":"Features","name":"Memories (beta)","locale":"en"},{"value":" Custom
+","type":"Features","name":"Libraries","locale":"en"},{"value":" Custom
+","type":"Features","name":"Document upload ","locale":"en"},{"value":" Custom
+","type":"Features","name":"Verified news","locale":"en"},{"value":" Custom
+","type":"Features","name":"Connectors directory (beta)","locale":"en"},{"value":" Custom
+","type":"Features","name":"Custom MCP connectors (beta)","locale":"en"},{"value":" Custom
+","type":"Features","name":"Projects","locale":"en"},{"value":" Custom
+","type":"Features","name":"Image generation","locale":"en"},{"value":" Custom
+","type":"Features","name":"Code interpreter","locale":"en"},{"value":" Custom
+","type":"Features","name":"Canvas mode","locale":"en"},{"value":" Custom
+","type":"Customer service","name":"Help center","locale":"en"},{"value":" Custom
+","type":"Customer service","name":"Knowledge base","locale":"en"},{"value":" Custom
+","type":"Customer service","name":"Chatbot","locale":"en"},{"value":" Custom
+","type":"Team and enterprise features","name":"Domain name verification","locale":"en"},{"value":" Custom
+","type":"Team and enterprise features","name":"SCIM provisioning","locale":"en"},{"value":" Custom
+","type":"Team and enterprise features","name":"Data export","locale":"en"},{"value":" Custom
+","type":"Team and enterprise features","name":"Audit logs","locale":"en"},{"value":" Custom
+","type":"Team and enterprise features","name":"SAML SSO","locale":"en"},{"value":" Custom
+","type":"Team and enterprise features","name":"White label","locale":"en"}],"dark":true,"button_sticky_label":"Contact us","unit":null,"conditions":null,"student_plan":false,"student_price_dollar":null,"student_price_euro":null,"student_unit":null,"icon":"0b2cf819-f009-4bd9-8d90-4fea68a245d0","is_chat":null,"background_color":"#2D2D2D","feature_sumup":null,"is_standalone_plan":true,"locale":"en"}}]]}] 55:["$","$L59",null,{"plans":["$2a:props:children:0:props:children:0:props:children:0:props:pl
+","category":"Features","description":" Chat with our most powerful, SOTA models.
+","free_value":" true
+","pro_value":" Up to 6x free
+","team_value":" Up to 6x free
+","enterprise_value":" custom
+","locale":"en"},{"id":2,"sort":2,"pricing_plans_id":1,"name":" Voice mode
+","category":"Features","description":" Record or upload audio, get transcriptions, ask questions, or generate summaries.
+","free_value":" true
+","pro_value":" true
+","team_value":" true
+","enterprise_value":" custom
+","locale":"en"},{"id":3,"sort":3,"pricing_plans_id":1,"name":" Flash answers
+","category":"Features","description":" Get ultra-fast responses, up to 1,000 words per second, powered by the fastest inference engines for text-based requests.
+","free_value":" true
+","pro_value":" Up to 150 / day
+","team_value":" Up to 200 / day
+","enterprise_value":" custom
+","locale":"en"},{"id":4,"sort":4,"pricing_plans_id":1,"name":" Agents
+","category":"Features","description":" Create and deploy tailored agents for automating tasks and boosting productivity.
+","free_value":" true
+","pro_value":" true
+","team_value":" true
+","enterprise_value":" custom
+","locale":"en"},{"id":5,"sort":5,"pricing_plans_id":1,"name":" Web searches
+","category":"Features","description":null,"free_value":" true
+","pro_value":" Up to 5x Free
+","team_value":" Up to 5x Free
+","enterprise_value":" custom
+","locale":"en"},{"id":6,"sort":6,"pricing_plans_id":1,"name":" Think mode
+","category":"Features","description":" Extended, multilingual reasoning powered by our Magistral model.
+","free_value":" true
+","pro_value":" Up to 30x Free
+","team_value":" Up to 30x Free
+","enterprise_value":" custom
+","locale":"en"},{"id":7,"sort":7,"pricing_plans_id":1,"name":" Deep research (Preview)
+","category":"Features","description":" Deep-dive into complex topics and get detailed, reference-backed reports.
+\n
+","free_value":" true
+","pro_value":" Up to 5x Free
+","team_value":" Up to 5x Free
+","enterprise_value":" custom
+","locale":"en"},{"id":26,"sort":8,"pricing_plans_id":1,"name":" Memories (beta)
+","category":"Features","description":" Highly-personalized responses based on your preferences and facts, with careful and reliable memory handling.
+","free_value":" 500
+","pro_value":" 1,000
+","team_value":" 1,000
+","enterprise_value":" 1,000
+","locale":"en"},{"id":8,"sort":9,"pricing_plans_id":1,"name":" Libraries
+","category":"Features","description":" Organize and include information for your chats.
+","free_value":" Limited
+","pro_value":" Up to 15GB
+","team_value":" Up to 30GB / user
+","enterprise_value":" custom
+","locale":"en"},{"id":9,"sort":10,"pricing_plans_id":1,"name":" Document upload
+","category":"Features","description":" Supported file formats: PDF, images, CSV, all text files (.json...), Office Suite (ppt, xls, docx).
+","free_value":" true
+","pro_value":" Up to 20x Free
+","team_value":" Up to 20x Free
+","enterprise_value":" custom
+","locale":"en"},{"id":10,"sort":11,"pricing_plans_id":1,"name":" Verified news
+","category":"Features","description":" Fetch reliable and verified news content in responses.
+","free_value":" true
+","pro_value":" true
+","team_value":" true
+","enterprise_value":" custom
+","locale":"en"},{"id":11,"sort":12,"pricing_plans_id":1,"name":" Connectors directory (beta)
+","category":"Features","description":" Up to 1 data connector per organization on Team plan.
+","free_value":" true
+","pro_value":" true
+","team_value":" true
+","enterprise_value":" custom
+","locale":"en"},{"id":22,"sort":13,"pricing_plans_id":1,"name":" Custom MCP connectors (beta)
+","category":"Features","description":null,"free_value":" true
+","pro_value":" true
+","team_value":" true
+","enterprise_value":" custom
+","locale":"en"},{"id":12,"sort":14,"pricing_plans_id":1,"name":" Projects
+","category":"Features","description":" Group chats into organized, context-rich workspaces.
+","free_value":" true
+","pro_value":" Unlimited
+","team_value":" Unlimited
+","enterprise_value":" custom
+","locale":"en"},{"id":13,"sort":15,"pricing_plans_id":1,"name":" Image generation
+","category":"Features","description":" Generate high-quality AI images, turning ideas into visuals with just a few words.
+","free_value":" true
+","pro_value":" Up to 40x Free
+","team_value":" Up to 40x Free
+","enterprise_value":" custom
+","locale":"en"},{"id":14,"sort":16,"pricing_plans_id":1,"name":" Code interpreter
+","category":"Features","description":" Execute code in a sandbox, run scientific analysis, generate visualizations, and perform simulations.
+","free_value":" true
+","pro_value":" Up to 5x Free
+","team_value":" Up to 5x Free
+","enterprise_value":" custom
+","locale":"en"},{"id":15,"sort":17,"pricing_plans_id":1,"name":" Canvas mode
+","category":"Features","description":" Create documents, presentations, code, mockups, and more.
+","free_value":" true
+","pro_value":" true
+","team_value":" true
+","enterprise_value":" custom
+","locale":"en"},{"id":16,"sort":18,"pricing_plans_id":1,"name":" Help center
+","category":"Customer service","description":null,"free_value":" true
+","pro_value":" true
+","team_value":" true
+","enterprise_value":" custom
+","locale":"en"},{"id":17,"sort":19,"pricing_plans_id":1,"name":" Knowledge base
+","category":"Customer service","description":null,"free_value":" true
+","pro_value":" true
+","team_value":" true
+","enterprise_value":" custom
+","locale":"en"},{"id":18,"sort":20,"pricing_plans_id":1,"name":" Chat and email support
+","category":"Customer service","description":null,"free_value":" false
+","pro_value":" true
+","team_value":" true
+","enterprise_value":" custom
+","locale":"en"},{"id":19,"sort":21,"pricing_plans_id":1,"name":" Domain name verification
+","category":"Team and enterprise features","description":null,"free_value":" false
+","pro_value":" false
+","team_value":" true
+","enterprise_value":" custom
+","locale":"en"},{"id":20,"sort":22,"pricing_plans_id":1,"name":" SCIM provisioning
+","category":"Team and enterprise features","description":" Automated user provisioning and management.
+","free_value":" false
+","pro_value":" false
+","team_value":" true
+","enterprise_value":" custom
+","locale":"en"},{"id":21,"sort":23,"pricing_plans_id":1,"name":" Data export
+","category":"Team and enterprise features","description":null,"free_value":" false
+","pro_value":" false
+","team_value":" true
+","enterprise_value":" custom
+","locale":"en"},{"id":23,"sort":24,"pricing_plans_id":1,"name":" Audit logs
+","category":"Team and enterprise features","description":null,"free_value":" false
+","pro_value":" false
+","team_value":" false
+","enterprise_value":" custom
+","locale":"en"},{"id":24,"sort":25,"pricing_plans_id":1,"name":" SAML SSO
+","category":"Team and enterprise features","description":null,"free_value":" false
+","pro_value":" false
+","team_value":" false
+","enterprise_value":" custom
+","locale":"en"},{"id":25,"sort":26,"pricing_plans_id":1,"name":" White label
+","category":"Team and enterprise features","description":" Dedicated hostname, custom logo.
+","free_value":" false
+","pro_value":" false
+","team_value":" false
+","enterprise_value":" custom
+","locale":"en"}]}] 57:["$","$L5b",null,{}] 5c:I[656735,["/_next/static/chunks/bf48ef6951720bfc.js?dpl=dpl_3xRJhAHFvrwa8S7mWxpD1dndFjaZ","/_next/static/chunks/490e20691f6b44ed.js?dpl=dpl_3xRJhAHFvrwa8S7mWxpD1dndFjaZ","/_next/static/chunks/782ae6640552456a.js?dpl=dpl_3xRJhAHFvrwa8S7mWxpD1dndFjaZ","/_next/static/chunks/a0afa4c7a3dd421d.js?dpl=dpl_3xRJhAHFvrwa8S7mWxpD1dndFjaZ","/_next/static/chunks/604674317d2ef69f.js?dpl=dpl_3xRJhAHFvrwa8S7mWxpD1dndFjaZ","/_next/static/chunks/5ee779d96363248c.js?d
+","type":"Premier Model","api_endpoint":"mistral-medium-latest","price":[{"value":"Input (/M tokens)","price_dollar":" $0.4
+","price_euro":" 0.4€
+","locale":"en"},{"value":"Output (/M tokens)","price_dollar":" $2
+","price_euro":" 2€
+","locale":"en"}],"api_model_id":1,"usage":"API","licence":"Premier model","fine_tunable":false,"fine_tuning":null,"background":"#E1E7FD","speed":2,"performance":4,"context":"128k","content":" Mistral Medium 3 delivers frontier performance while being an order of magnitude less expensive. For instance, the model performs at or above 90% of Claude Sonnet 3.7 on benchmarks across the board at a significantly lower cost ($0.4 input / $2 output per M token).
+\n On performance, Mistral Medium 3 also surpasses leading open models such as Llama 4 Maverick and enterprise models such as Cohere Command A. On pricing, the model beats cost leaders such as DeepSeek v3, both in API and self-deployed systems.
+\n Additionally, Mistral Medium 3 can also be deployed on any cloud, including self-hosted environments of four GPUs and above.
+","capabilities":[{"api_capability_id":{"sort":5,"value":"Multimodal","icon":"65b17135-5113-443a-8a5d-d10ce5341b44","locale":"en"},"locale":"en"},{"api_capability_id":{"sort":1,"value":"Text-to-text","icon":"9201fe9b-6130-4cfd-8f50-ee8a757ce553","locale":"en"},"locale":"en"},{"api_capability_id":{"sort":2,"value":"Agentic","icon":"d24971b4-d9f3-499b-a83d-79ce56450a0f","locale":"en"},"locale":"en"}],"locale":"en"},{"id":2,"sort":2,"name":"Magistral Medium","icon":"0a773b7c-15bb-40ed-98f5-622d85f9
+","type":"Premier Model","api_endpoint":"magistral-medium-latest","price":[{"value":"Input (/M tokens)","price_dollar":" $2
+","price_euro":" 2€
+","locale":"en"},{"value":"Output (/M tokens)","price_dollar":" $5
+","price_euro":" 5€
+","locale":"en"}],"api_model_id":1,"usage":"API","licence":"Premier model","fine_tunable":false,"fine_tuning":null,"background":"#FBF5D1","speed":null,"performance":null,"context":null,"content":null,"capabilities":[{"api_capability_id":{"sort":3,"value":"Reasoning","icon":"69179d5f-a651-4b7d-acff-237f2963366c","locale":"en"},"locale":"en"},{"api_capability_id":{"sort":1,"value":"Text-to-text","icon":"9201fe9b-6130-4cfd-8f50-ee8a757ce553","locale":"en"},"locale":"en"}],"locale":"en"},{"id":4,"so
+","type":"Premier Model","api_endpoint":"devstral-medium-2507","price":[{"value":"Input (/M tokens)","price_dollar":" $0.4
+","price_euro":" 0.4€
+","locale":"en"},{"value":"Output (/M tokens)","price_dollar":" $2
+","price_euro":" 2€
+","locale":"en"}],"api_model_id":1,"usage":"API","licence":"Premier model","fine_tunable":false,"fine_tuning":null,"background":"#E3F2FD","speed":null,"performance":null,"context":null,"content":null,"capabilities":[{"api_capability_id":{"sort":4,"value":"Coding","icon":"a9ad3428-0efc-4f27-a157-14c551c79fd2","locale":"en"},"locale":"en"},{"api_capability_id":{"sort":2,"value":"Agentic","icon":"d24971b4-d9f3-499b-a83d-79ce56450a0f","locale":"en"},"locale":"en"},{"api_capability_id":{"sort":1,"val
+","type":"Premier Model","api_endpoint":"codestral-latest","price":[{"value":"Input (/M tokens)","price_dollar":" \n $0.3
+\n
+","price_euro":" 0.3€
+","locale":"en"},{"value":"Output (/M tokens)","price_dollar":" $0.9
+","price_euro":" 0.9€
+","locale":"en"}],"api_model_id":1,"usage":"API","licence":"Premier model","fine_tunable":true,"fine_tuning":[{"value":"Training Cost (/M tokens)","price_dollar":" $3
+","price_euro":" 2.7€
+","locale":"en"},{"value":"Storage Cost","price_dollar":" $2 / month per model
+","price_euro":" 2€ / month per model
+","locale":"en"},{"value":"Input (/M tokens)","price_dollar":" $0.2
+","price_euro":" 0.18€
+","locale":"en"},{"value":"Output (/M tokens)","price_dollar":" $0.6
+","price_euro":" 0.54€
+","locale":"en"}],"background":"#FEE5F6","speed":null,"performance":null,"context":null,"content":null,"capabilities":[{"api_capability_id":{"sort":4,"value":"Coding","icon":"a9ad3428-0efc-4f27-a157-14c551c79fd2","locale":"en"},"locale":"en"},{"api_capability_id":{"sort":1,"value":"Text-to-text","icon":"9201fe9b-6130-4cfd-8f50-ee8a757ce553","locale":"en"},"locale":"en"}],"locale":"en"},{"id":5,"sort":5,"name":"Document AI & OCR","icon":"f7fbfc4b-1f1b-424e-b274-6b3849ba2f3e","description":" Intro
+","type":"Premier Model","api_endpoint":"mistral-ocr-latest","price":[{"value":"OCR","price_dollar":" $1 / 1000 pages
+","price_euro":" 1€ / 1000 pages
+","locale":"en"},{"value":"Annotations","price_dollar":" $3 / 1000 pages
+","price_euro":" 3€ / 1000 pages
+","locale":"en"}],"api_model_id":1,"usage":"API","licence":"Premier model","fine_tunable":false,"fine_tuning":null,"background":"#D1F9FB","speed":null,"performance":null,"context":null,"content":null,"capabilities":[{"api_capability_id":{"sort":6,"value":"OCR","icon":"f4b624db-bf6c-4201-91c7-6ce77f80f0bf","locale":"en"},"locale":"en"},{"api_capability_id":{"sort":5,"value":"Multimodal","icon":"65b17135-5113-443a-8a5d-d10ce5341b44","locale":"en"},"locale":"en"},{"api_capability_id":{"sort":1,"val
+","type":"Premier Model","api_endpoint":"voxtral-mini-latest","price":[{"value":"Audio Input/min","price_dollar":" $0.002
+","price_euro":" 0.002€
+","locale":"en"},{"value":"Available on","price_dollar":" /v1/audio/transcriptions
+","price_euro":" /v1/audio/transcriptions
+","locale":"en"}],"api_model_id":1,"usage":"API","licence":"Premier model","fine_tunable":false,"fine_tuning":null,"background":"#F0EAFD","speed":null,"performance":null,"context":null,"content":null,"capabilities":[{"api_capability_id":{"sort":7,"value":"Voice","icon":"6434b0e1-e8cc-4d58-a945-822a595db9ae","locale":"en"},"locale":"en"},{"api_capability_id":{"sort":1,"value":"Text-to-text","icon":"9201fe9b-6130-4cfd-8f50-ee8a757ce553","locale":"en"},"locale":"en"}],"locale":"en"},{"id":15,"sort"
+","type":"Open models","api_endpoint":"mistral-small-latest","price":[{"value":"Input (/M tokens)","price_dollar":" $0.1
+","price_euro":" 0.1€
+","locale":"en"},{"value":"Output (/M tokens)","price_dollar":" $0.3
+","price_euro":" 0.3€
+","locale":"en"}],"api_model_id":1,"usage":"API","licence":"Open model","fine_tunable":true,"fine_tuning":[{"value":"Training Cost (/M tokens)","price_dollar":" $4
+","price_euro":" 3.8€
+","locale":"en"},{"value":"Storage Cost","price_dollar":" $2 / month per model
+","price_euro":" 2€ / month per model
+","locale":"en"},{"value":"Input (/M tokens)","price_dollar":" $0.1
+","price_euro":" 0.1€
+","locale":"en"},{"value":"Output (/M tokens)","price_dollar":" $0.3
+","price_euro":" 0.3€
+","locale":"en"}],"background":"#FBECFA","speed":null,"performance":null,"context":null,"content":null,"capabilities":[{"api_capability_id":{"sort":5,"value":"Multimodal","icon":"65b17135-5113-443a-8a5d-d10ce5341b44","locale":"en"},"locale":"en"},{"api_capability_id":{"sort":8,"value":"Lightweight","icon":"3abddda1-b834-49cc-81f0-8285166869bb","locale":"en"},"locale":"en"},{"api_capability_id":{"sort":1,"value":"Text-to-text","icon":"9201fe9b-6130-4cfd-8f50-ee8a757ce553","locale":"en"},"locale":
+","type":"Open models","api_endpoint":"magistral-small-latest","price":[{"value":"Input (/M tokens)","price_dollar":" $0.5
+","price_euro":" 0.5€
+","locale":"en"},{"value":"Output (/M tokens)","price_dollar":" $1.5
+","price_euro":" 1.5€
+","locale":"en"}],"api_model_id":1,"usage":"API","licence":"Premier model","fine_tunable":false,"fine_tuning":null,"background":null,"speed":null,"performance":null,"context":null,"content":null,"capabilities":[{"api_capability_id":{"sort":3,"value":"Reasoning","icon":"69179d5f-a651-4b7d-acff-237f2963366c","locale":"en"},"locale":"en"},{"api_capability_id":{"sort":1,"value":"Text-to-text","icon":"9201fe9b-6130-4cfd-8f50-ee8a757ce553","locale":"en"},"locale":"en"},{"api_capability_id":{"sort":8,"
+","type":"Open models","api_endpoint":"devstral-small-2507","price":[{"value":"Input (/M tokens)","price_dollar":" $0.1
+","price_euro":" 0.1€
+","locale":"en"},{"value":"Output (/M tokens)","price_dollar":" $0.3
+","price_euro":" 0.3€
+","locale":"en"}],"api_model_id":1,"usage":"API","licence":"Open model","fine_tunable":false,"fine_tuning":null,"background":null,"speed":null,"performance":null,"context":null,"content":null,"capabilities":[{"api_capability_id":{"sort":4,"value":"Coding","icon":"a9ad3428-0efc-4f27-a157-14c551c79fd2","locale":"en"},"locale":"en"},{"api_capability_id":{"sort":2,"value":"Agentic","icon":"d24971b4-d9f3-499b-a83d-79ce56450a0f","locale":"en"},"locale":"en"},{"api_capability_id":{"sort":8,"value":"Lig
+","type":"Open models","api_endpoint":"voxtral-small-latest","price":[{"value":"Input (per min / per M tok)","price_dollar":" $0.004 (audio) / $0.1 (text)
+","price_euro":" 0.004€ (audio) / 0.1€ (text)
+","locale":"en"},{"value":"Output (/M tokens)","price_dollar":" $0.3
+","price_euro":" 0.3€
+","locale":"en"},{"value":"Available on","price_dollar":" /v1/chat/completions
+","price_euro":" /v1/chat/completions
+","locale":"en"}],"api_model_id":1,"usage":"API","licence":"Open model","fine_tunable":false,"fine_tuning":null,"background":null,"speed":null,"performance":null,"context":null,"content":null,"capabilities":[{"api_capability_id":{"sort":8,"value":"Lightweight","icon":"3abddda1-b834-49cc-81f0-8285166869bb","locale":"en"},"locale":"en"},{"api_capability_id":{"sort":7,"value":"Voice","icon":"6434b0e1-e8cc-4d58-a945-822a595db9ae","locale":"en"},"locale":"en"},{"api_capability_id":{"sort":1,"value":"
+","type":"Open models","api_endpoint":"voxtral-mini-latest","price":[{"value":"Input (per min / per M tok)","price_dollar":" $0.001 (audio) / $0.04 (text)
+","price_euro":" 0.001€ (audio) / 0.04€ (text)
+","locale":"en"},{"value":"Output (/M tokens)","price_dollar":" $0.04
+","price_euro":" 0.04€
+","locale":"en"},{"value":"Available on","price_dollar":" /v1/chat/completions
+","price_euro":" /v1/chat/completions
+","locale":"en"}],"api_model_id":1,"usage":"API","licence":"Open model","fine_tunable":false,"fine_tuning":null,"background":null,"speed":null,"performance":null,"context":null,"content":null,"capabilities":[{"api_capability_id":{"sort":8,"value":"Lightweight","icon":"3abddda1-b834-49cc-81f0-8285166869bb","locale":"en"},"locale":"en"},{"api_capability_id":{"sort":7,"value":"Voice","icon":"6434b0e1-e8cc-4d58-a945-822a595db9ae","locale":"en"},"locale":"en"},{"api_capability_id":{"sort":1,"value":"
+","type":"Classifier models","api_endpoint":null,"price":[{"value":"Training Cost (/M tokens)","price_dollar":" 1$
+","price_euro":" 1€
+","detail":" One-off training
+\n Price per M token on the data you want to fine-tune our standard models on; minimum fee per fine-tuning job of $4.
+","locale":"en"},{"value":"Storage Cost","price_dollar":" $2 / month per model
+","price_euro":" 2€ / month per model
+","detail":" Storage
+\n Price per month per model for storage (irrespective of model usage; models can be deleted any time).
+","locale":"en"},{"value":"Input (/M tokens)","price_dollar":" $0.1
+","price_euro":" 0.1€
+","locale":"en"},{"value":"Output (/M tokens)","price_dollar":" $0.1
+","price_euro":" 0.1€
+","locale":"en"}],"api_model_id":1,"usage":"API","licence":"Open model","fine_tunable":false,"fine_tuning":null,"background":null,"speed":null,"performance":null,"context":null,"content":null,"capabilities":[{"api_capability_id":{"sort":10,"value":"Classifier APIs","icon":"765fb8dd-dc72-45e6-a4dd-18b4d4c214ef","locale":"en"},"locale":"en"}],"locale":"en"},{"id":31,"sort":13,"name":"Classifier API model 3B","icon":"bb3752bc-77d4-4201-86e4-d4dc11c3e9a8","description":" Fine-tune Ministral 3B for c
+","type":"Classifier models","api_endpoint":null,"price":[{"value":"Training Cost (/M tokens)","price_dollar":" $1
+","price_euro":" 1€
+","detail":" One-off training
+\n Price per M token on the data you want to fine-tune our standard models on; minimum fee per fine-tuning job of $4.
+","locale":"en"},{"value":"Storage Cost","price_dollar":" $2 / month per model
+","price_euro":" 2€ / month per model
+","detail":" Storage
+\n Price per month per model for storage (irrespective of model usage; models can be deleted any time).
+","locale":"en"},{"value":"Input (/M tokens)","price_dollar":" $0.04
+","price_euro":" 0.04€
+","locale":"en"},{"value":"Output (/M tokens)","price_dollar":" $0.04
+","price_euro":" 0.04€
+","locale":"en"}],"api_model_id":1,"usage":"API","licence":"Open model","fine_tunable":false,"fine_tuning":null,"background":null,"speed":null,"performance":null,"context":null,"content":null,"capabilities":[{"api_capability_id":{"sort":10,"value":"Classifier APIs","icon":"765fb8dd-dc72-45e6-a4dd-18b4d4c214ef","locale":"en"},"locale":"en"}],"locale":"en"},{"id":14,"sort":14,"name":"Mistral Moderation 24.11","icon":"e83c009b-ba7b-42e9-89fb-370f4a2350ef","description":" A classifier service for te
+","type":"Classifier models","api_endpoint":"mistral-moderation-latest","price":[{"value":"Input (/M tokens)","price_dollar":" $0.1
+","price_euro":" 0.09€
+","locale":"en"}],"api_model_id":1,"usage":"API","licence":"Premier model","fine_tunable":false,"fine_tuning":null,"background":null,"speed":null,"performance":null,"context":null,"content":null,"capabilities":[{"api_capability_id":{"sort":10,"value":"Classifier APIs","icon":"765fb8dd-dc72-45e6-a4dd-18b4d4c214ef","locale":"en"},"locale":"en"}],"locale":"en"},{"id":12,"sort":15,"name":"Codestral Embed","icon":"6791c85a-1556-4304-8f0c-b9998ed07fe9","description":" State-of-the-art embedding model 
+","type":"Embedding models","api_endpoint":"codestral-embed-2505","price":[{"value":"Input (/M tokens)","price_dollar":" $0.15
+","price_euro":" 0.15€
+","locale":"en"}],"api_model_id":1,"usage":"API","licence":"Premier model","fine_tunable":false,"fine_tuning":null,"background":"#E1FFC7","speed":null,"performance":null,"context":null,"content":null,"capabilities":[{"api_capability_id":{"sort":4,"value":"Coding","icon":"a9ad3428-0efc-4f27-a157-14c551c79fd2","locale":"en"},"locale":"en"},{"api_capability_id":{"sort":9,"value":"Embedding","icon":"534a9917-53a2-4728-b21c-de206bc26d43","locale":"en"},"locale":"en"}],"locale":"en"},{"id":13,"sort":1
+","type":"Embedding models","api_endpoint":"mistral-embed","price":[{"value":"Input (/M tokens)","price_dollar":" $0.1
+","price_euro":" 0.09€
+","locale":"en"}],"api_model_id":1,"usage":"API","licence":"Premier model","fine_tunable":false,"fine_tuning":null,"background":null,"speed":null,"performance":null,"context":null,"content":null,"capabilities":[{"api_capability_id":{"sort":1,"value":"Text-to-text","icon":"9201fe9b-6130-4cfd-8f50-ee8a757ce553","locale":"en"},"locale":"en"},{"api_capability_id":{"sort":9,"value":"Embedding","icon":"534a9917-53a2-4728-b21c-de206bc26d43","locale":"en"},"locale":"en"}],"locale":"en"},{"id":34,"sort":
+","type":"Tools","api_endpoint":null,"price":[{"value":"Price","price_dollar":" Model cost per M token + Tool call
+","price_euro":" Model cost per M token + Tool call
+","locale":"en"}],"api_model_id":1,"usage":null,"licence":null,"fine_tunable":false,"fine_tuning":null,"background":null,"speed":null,"performance":null,"context":null,"content":null,"capabilities":[{"api_capability_id":{"sort":11,"value":"Tools","icon":"3e1c6d98-dab9-4311-a860-1eca14120895","locale":"en"},"locale":"en"}],"locale":"en"},{"id":40,"sort":18,"name":"Libraries","icon":"2a0aa841-9259-4d89-8f37-caf064acbe35","description":" Upload and manage documents, enabling agents to access your e
+","type":"Tools","api_endpoint":null,"price":[{"value":"OCR","price_dollar":" $3/1K pages
+","price_euro":" 3€/1K pages
+","locale":"en"},{"value":"Indexing","price_dollar":" $1/per M tokens
+","price_euro":" 1€/per M tokens
+","locale":"en"},{"value":"Call","price_dollar":" $0.01 /per call
+","price_euro":" 0.01€ /per call
+","locale":"en"}],"api_model_id":1,"usage":"API","licence":null,"fine_tunable":false,"fine_tuning":null,"background":null,"speed":null,"performance":null,"context":null,"content":null,"capabilities":[{"api_capability_id":{"sort":11,"value":"Tools","icon":"3e1c6d98-dab9-4311-a860-1eca14120895","locale":"en"},"locale":"en"}],"locale":"en"},{"id":36,"sort":19,"name":"Code execution","icon":"a9ad3428-0efc-4f27-a157-14c551c79fd2","description":" Execute and interpret code snippets within the chat int
+","type":"Tools","api_endpoint":null,"price":[{"value":"Price","price_dollar":" $30 / 1000 calls
+","price_euro":" 30€ / 1000 calls
+","locale":"en"}],"api_model_id":1,"usage":null,"licence":null,"fine_tunable":false,"fine_tuning":null,"background":null,"speed":null,"performance":null,"context":null,"content":null,"capabilities":[{"api_capability_id":{"sort":11,"value":"Tools","icon":"3e1c6d98-dab9-4311-a860-1eca14120895","locale":"en"},"locale":"en"}],"locale":"en"},{"id":35,"sort":20,"name":"Web search","icon":"ecdac1ed-522e-4a58-a3cc-23d03c40ba6e","description":" Enhance your work, research, and learning with web search, c
+","type":"Tools","api_endpoint":null,"price":[{"value":"Price","price_dollar":" $30 / 1000 calls
+","price_euro":" 30€ / 1000 calls
+","locale":"en"}],"api_model_id":1,"usage":null,"licence":null,"fine_tunable":false,"fine_tuning":null,"background":null,"speed":null,"performance":null,"context":null,"content":null,"capabilities":[{"api_capability_id":{"sort":11,"value":"Tools","icon":"3e1c6d98-dab9-4311-a860-1eca14120895","locale":"en"},"locale":"en"}],"locale":"en"},{"id":37,"sort":21,"name":"Images","icon":"0b872505-b5d9-40a5-b0da-ecdedf43cb62","description":" Generate images based on user prompts and preferences.
+","type":"Tools","api_endpoint":null,"price":[{"value":"Price","price_dollar":" $100 / 1000 images
+","price_euro":" 100€ / 1000 images
+","locale":"en"}],"api_model_id":1,"usage":null,"licence":null,"fine_tunable":false,"fine_tuning":null,"background":null,"speed":null,"performance":null,"context":null,"content":null,"capabilities":[{"api_capability_id":{"sort":11,"value":"Tools","icon":"3e1c6d98-dab9-4311-a860-1eca14120895","locale":"en"},"locale":"en"}],"locale":"en"},{"id":38,"sort":22,"name":"Premium news","icon":"6deb35df-15f8-4b23-ac23-092db548d14f","description":" Access to news articles via integrated news provider verif
+","type":"Tools","api_endpoint":null,"price":[{"value":"Price","price_dollar":" $50 / 1000 calls
+","price_euro":" 50€ / 1000 calls
+","locale":"en"}],"api_model_id":1,"usage":null,"licence":null,"fine_tunable":false,"fine_tuning":null,"background":null,"speed":null,"performance":null,"context":null,"content":null,"capabilities":[{"api_capability_id":{"sort":11,"value":"Tools","icon":"3e1c6d98-dab9-4311-a860-1eca14120895","locale":"en"},"locale":"en"}],"locale":"en"},{"id":39,"sort":23,"name":"Data capture","icon":"66f140a3-3862-43a7-b7ab-a010db5947fc","description":" Easily record and access API call data for debugging and c
+","type":"Tools","api_endpoint":null,"price":[{"value":"Price","price_dollar":" $0.04 /M tokens
+","price_euro":" 0.04€ /M tokens
+","locale":"en"}],"api_model_id":1,"usage":null,"licence":null,"fine_tunable":false,"fine_tuning":null,"background":null,"speed":null,"performance":null,"context":null,"content":null,"capabilities":[{"api_capability_id":{"sort":11,"value":"Tools","icon":"3e1c6d98-dab9-4311-a860-1eca14120895","locale":"en"},"locale":"en"}],"locale":"en"},{"id":8,"sort":24,"name":"Mistral Large","icon":"36b79fb8-85ba-4696-96cf-5c5c217fd0a9","description":" For complex tasks and sophisticated problems.
+","type":"Premier Model","api_endpoint":"mistral-large-latest","price":[{"value":"Input (/M tokens)","price_dollar":" 2$
+","price_euro":" 1.8€
+","locale":"en"},{"value":"Output (/M tokens)","price_dollar":" $6
+","price_euro":" 5.4€
+","locale":"en"}],"api_model_id":1,"usage":"API","licence":"Premier model","fine_tunable":true,"fine_tuning":[{"value":"Training Cost (/M tokens)","price_dollar":" $9
+","price_euro":" 8.2€
+","locale":"en"},{"value":"Storage Cost","price_dollar":" $4 / month per model
+","price_euro":" 4€ / month per model
+","locale":"en"},{"value":"Input (/M tokens)","price_dollar":" $2
+","price_euro":" 1.8€
+","locale":"en"},{"value":"Output (/M tokens)","price_dollar":" $6
+","price_euro":" 5.4€
+","locale":"en"}],"background":"#FBF5D1","speed":null,"performance":null,"context":null,"content":null,"capabilities":[{"api_capability_id":{"sort":1,"value":"Text-to-text","icon":"9201fe9b-6130-4cfd-8f50-ee8a757ce553","locale":"en"},"locale":"en"},{"api_capability_id":{"sort":2,"value":"Agentic","icon":"d24971b4-d9f3-499b-a83d-79ce56450a0f","locale":"en"},"locale":"en"},{"api_capability_id":{"sort":5,"value":"Multimodal","icon":"65b17135-5113-443a-8a5d-d10ce5341b44","locale":"en"},"locale":"en"
+","type":"Other models","api_endpoint":"pixtral-large-latest","price":[{"value":"Input (/M tokens)","price_dollar":" $2
+","price_euro":" Input (/M tokens)
+","locale":"en"},{"value":"Output (/M tokens)","price_dollar":" $6
+","price_euro":" 5.4€
+","locale":"en"}],"api_model_id":1,"usage":"API","licence":"Open model","fine_tunable":false,"fine_tuning":null,"background":null,"speed":null,"performance":null,"context":null,"content":null,"capabilities":[{"api_capability_id":{"sort":5,"value":"Multimodal","icon":"65b17135-5113-443a-8a5d-d10ce5341b44","locale":"en"},"locale":"en"},{"api_capability_id":{"sort":1,"value":"Text-to-text","icon":"9201fe9b-6130-4cfd-8f50-ee8a757ce553","locale":"en"},"locale":"en"}],"locale":"en"},{"id":20,"sort":26
+","type":"Other models","api_endpoint":"pixtral-12b","price":[{"value":"Input (/M tokens)","price_dollar":" $0.15
+","price_euro":" 0.13€
+","locale":"en"},{"value":"Output (/M tokens)","price_dollar":" $0.15
+","price_euro":" 0.13€
+","locale":"en"}],"api_model_id":1,"usage":"API","licence":"Open model","fine_tunable":true,"fine_tuning":[{"value":"Training Cost (/M tokens)","price_dollar":" $2
+","price_euro":" 1.8€
+","locale":"en"},{"value":"Storage Cost","price_dollar":" $2
+","price_euro":" 2€
+","locale":"en"},{"value":"Input (/M tokens)","price_dollar":" $0.15
+","price_euro":" 0.14€
+","locale":"en"},{"value":"Output (/M tokens)","price_dollar":" $0.15
+","price_euro":" 0.14€
+","locale":"en"}],"background":null,"speed":null,"performance":null,"context":null,"content":null,"capabilities":[{"api_capability_id":{"sort":8,"value":"Lightweight","icon":"3abddda1-b834-49cc-81f0-8285166869bb","locale":"en"},"locale":"en"},{"api_capability_id":{"sort":5,"value":"Multimodal","icon":"65b17135-5113-443a-8a5d-d10ce5341b44","locale":"en"},"locale":"en"},{"api_capability_id":{"sort":1,"value":"Text-to-text","icon":"9201fe9b-6130-4cfd-8f50-ee8a757ce553","locale":"en"},"locale":"en"}
+","type":"Other models","api_endpoint":"open-mistral-nemo","price":[{"value":"Input (/M tokens)","price_dollar":" $0.15
+","price_euro":" 0.13€
+","locale":"en"},{"value":"Output (/M tokens)","price_dollar":" $0.15
+","price_euro":" 0.13€
+","locale":"en"}],"api_model_id":1,"usage":"API","licence":"Open model","fine_tunable":true,"fine_tuning":[{"value":"Training Cost (/M tokens)","price_dollar":" $1
+","price_euro":" €0.9
+","locale":"en"},{"value":"Storage Cost","price_dollar":" $2 per month per model
+","price_euro":" €2 per month per model
+","locale":"en"},{"value":"Input (/M tokens)","price_dollar":" $0.15
+","price_euro":" 0.13€
+","locale":"en"},{"value":"Output (/M tokens)","price_dollar":" $0.15
+","price_euro":" 0.13€
+","locale":"en"}],"background":"#D6EFFF","speed":3,"performance":2,"context":null,"content":null,"capabilities":[{"api_capability_id":{"sort":4,"value":"Coding","icon":"a9ad3428-0efc-4f27-a157-14c551c79fd2","locale":"en"},"locale":"en"},{"api_capability_id":{"sort":8,"value":"Lightweight","icon":"3abddda1-b834-49cc-81f0-8285166869bb","locale":"en"},"locale":"en"}],"locale":"en"},{"id":22,"sort":28,"name":"Mistral 7B","icon":"3463396a-596a-42f4-8d3f-a1b153d2361b","description":" A 7B transformer 
+","type":"Other models","api_endpoint":"open-mistral-7b","price":[{"value":"Input (/M tokens)","price_dollar":" $0.25
+","price_euro":" 0.2€
+","locale":"en"},{"value":"Output (/M tokens)","price_dollar":" $0.25
+","price_euro":" 0.2€
+","locale":"en"}],"api_model_id":1,"usage":"API","licence":"Open model","fine_tunable":false,"fine_tuning":null,"background":null,"speed":null,"performance":null,"context":null,"content":null,"capabilities":[{"api_capability_id":{"sort":8,"value":"Lightweight","icon":"3abddda1-b834-49cc-81f0-8285166869bb","locale":"en"},"locale":"en"},{"api_capability_id":{"sort":1,"value":"Text-to-text","icon":"9201fe9b-6130-4cfd-8f50-ee8a757ce553","locale":"en"},"locale":"en"}],"locale":"en"},{"id":23,"sort":2
+","type":"Other models","api_endpoint":"open-mixtral-8x7b","price":[{"value":"Input (/M tokens)","price_dollar":" $0.7
+","price_euro":" 0.65€
+","locale":"en"},{"value":"Output (/M tokens)","price_dollar":" $0.7
+","price_euro":" 0.65€
+","locale":"en"}],"api_model_id":1,"usage":"API","licence":"Open model","fine_tunable":false,"fine_tuning":null,"background":null,"speed":null,"performance":null,"context":null,"content":null,"capabilities":[{"api_capability_id":{"sort":1,"value":"Text-to-text","icon":"9201fe9b-6130-4cfd-8f50-ee8a757ce553","locale":"en"},"locale":"en"}],"locale":"en"},{"id":24,"sort":30,"name":"Mixtral 8x22B","icon":"fbb679fe-e5df-44e2-adc4-c589c931e16f","description":" Mixtral 8x22B is currently the most perfor
+","type":"Other models","api_endpoint":"open-mixtral-8x22b","price":[{"value":"Input (/M tokens)","price_dollar":" $2
+","price_euro":" 1.9€
+","locale":"en"},{"value":"Output (/M tokens)","price_dollar":" $6
+","price_euro":" 5.6€
+","locale":"en"}],"api_model_id":1,"usage":"API","licence":"Open model","fine_tunable":false,"fine_tuning":null,"background":null,"speed":null,"performance":null,"context":null,"content":null,"capabilities":[{"api_capability_id":{"sort":1,"value":"Text-to-text","icon":"9201fe9b-6130-4cfd-8f50-ee8a757ce553","locale":"en"},"locale":"en"}],"locale":"en"},{"id":10,"sort":31,"name":"Ministral 8B 24.10","icon":"da69e070-cddd-4271-85fc-e6d67311b8c4","description":" Powerful model for on-device use case
+","type":"Other models","api_endpoint":"ministral-8b-latest","price":[{"value":"Input (/M tokens)","price_dollar":" $0.1
+","price_euro":" 0.09€
+","locale":"en"},{"value":"Output (/M tokens)","price_dollar":" $0.1
+","price_euro":" 0.09€
+","locale":"en"}],"api_model_id":1,"usage":"API","licence":"Open model","fine_tunable":false,"fine_tuning":null,"background":"#FFDEDD","speed":4,"performance":1,"context":null,"content":null,"capabilities":[{"api_capability_id":{"sort":8,"value":"Lightweight","icon":"3abddda1-b834-49cc-81f0-8285166869bb","locale":"en"},"locale":"en"},{"api_capability_id":{"sort":1,"value":"Text-to-text","icon":"9201fe9b-6130-4cfd-8f50-ee8a757ce553","locale":"en"},"locale":"en"}],"locale":"en"},{"id":11,"sort":32
+","type":"Other models","api_endpoint":"ministral-3b-latest","price":[{"value":"Input (/M tokens)","price_dollar":" $0.04
+","price_euro":" 0.04€
+","locale":"en"},{"value":"Output (/M tokens)","price_dollar":" $0.04
+","price_euro":" 0.04€
+","locale":"en"}],"api_model_id":1,"usage":"API","licence":"Open model","fine_tunable":false,"fine_tuning":null,"background":"#FFDEDD","speed":4,"performance":1,"context":null,"content":null,"capabilities":[{"api_capability_id":{"sort":8,"value":"Lightweight","icon":"3abddda1-b834-49cc-81f0-8285166869bb","locale":"en"},"locale":"en"},{"api_capability_id":{"sort":1,"value":"Text-to-text","icon":"9201fe9b-6130-4cfd-8f50-ee8a757ce553","locale":"en"},"locale":"en"}],"locale":"en"}]}]

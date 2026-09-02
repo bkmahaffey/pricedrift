@@ -1,0 +1,773 @@
+[
+  {
+    "id": "uptimerobot-com-pricing-20230304014241",
+    "url": "https://uptimerobot.com/pricing/",
+    "ts": "20230304014241",
+    "date": "2023-03-04",
+    "source": "wayback",
+    "prevTs": "20230123160601",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "UptimeRobot: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 10,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "uptimerobot-com-pricing-20230529162159",
+    "url": "https://uptimerobot.com/pricing/",
+    "ts": "20230529162159",
+    "date": "2023-05-29",
+    "source": "wayback",
+    "prevTs": "20230304014241",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "UptimeRobot: 1 limit changed (60 → 30)",
+    "pairs": [
+      {
+        "before": "60 sec. monitoring interval",
+        "after": "30 sec. monitoring interval",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "60",
+            "after": "30"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 2,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "uptimerobot-com-pricing-20230823152320",
+    "url": "https://uptimerobot.com/pricing/",
+    "ts": "20230823152320",
+    "date": "2023-08-23",
+    "source": "wayback",
+    "prevTs": "20230529162159",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "UptimeRobot: 1 limit changed (removed “3 seats incl.”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "3 seats incl.",
+      "5 seats incl."
+    ],
+    "totals": {
+      "removed": 24,
+      "added": 71,
+      "materialRemoved": 7,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "uptimerobot-com-pricing-20231201160644",
+    "url": "https://uptimerobot.com/pricing/",
+    "ts": "20231201160644",
+    "date": "2023-12-01",
+    "source": "wayback",
+    "prevTs": "20230823152320",
+    "kind": "price",
+    "score": 19,
+    "counts": {
+      "price": 4,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "UptimeRobot: 4 prices, 4 limits changed (removed “$ 8 7 8 / month”; added “$ 8 7 8 19 15 19 / month”)",
+    "pairs": [],
+    "added": [
+      "$ 8 7 8 19 15 19 / month",
+      "10 monitors",
+      "50 monitors",
+      "$ 64 54 64 149 124 149 289 222 289 / month",
+      "200 monitors",
+      "500 monitors",
+      "1,000 monitors"
+    ],
+    "removed": [
+      "$ 8 7 8 / month",
+      "10-50 monitors",
+      "$ 64 54 64 / month",
+      "200-1,000 monitors"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 7,
+      "materialRemoved": 4,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "uptimerobot-com-pricing-20240613143140",
+    "url": "https://uptimerobot.com/pricing/",
+    "ts": "20240613143140",
+    "date": "2024-06-13",
+    "source": "wayback",
+    "prevTs": "20231201160644",
+    "kind": "price",
+    "score": 4,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "UptimeRobot: 1 price, 1 limit changed (added “10 credits”)",
+    "pairs": [],
+    "added": [
+      "10 credits",
+      "$ 3.00/one-time"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 10,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "uptimerobot-com-pricing-20250502211540",
+    "url": "https://uptimerobot.com/pricing/",
+    "ts": "20250502211540",
+    "date": "2025-05-02",
+    "source": "wayback",
+    "prevTs": "20240613143140",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "UptimeRobot: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Straightforward to use and setup. Alerting is also great and beneficial for both free and premium users. The app is very user friendly and no need to click through different screens to view the status. Offers also available during free trial."
+    ],
+    "removed": [
+      "1,000 monitors"
+    ],
+    "totals": {
+      "removed": 9,
+      "added": 35,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "uptimerobot-com-pricing-20250708191534",
+    "url": "https://uptimerobot.com/pricing/",
+    "ts": "20250708191534",
+    "date": "2025-07-08",
+    "source": "wayback",
+    "prevTs": "20250502211540",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "UptimeRobot: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "Free tools"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 13,
+      "added": 42,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "uptimerobot-com-pricing-20250804101619",
+    "url": "https://uptimerobot.com/pricing/",
+    "ts": "20250804101619",
+    "date": "2025-08-04",
+    "source": "wayback",
+    "prevTs": "20250708191534",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "UptimeRobot: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 11,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "uptimerobot-com-pricing-20251105133139",
+    "url": "https://uptimerobot.com/pricing/",
+    "ts": "20251105133139",
+    "date": "2025-11-05",
+    "source": "wayback",
+    "prevTs": "20250804101619",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "UptimeRobot: 1 limit changed (289 → 376)",
+    "pairs": [
+      {
+        "before": "$ 64 54 64 149 124 149 289 222 289 / month",
+        "after": "$ 64 54 64 149 124 149 376 289 376 / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "289",
+            "after": "376"
+          },
+          {
+            "before": "222",
+            "after": "289"
+          },
+          {
+            "before": "289",
+            "after": "376"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "uptimerobot-com-pricing-20260303005054",
+    "url": "https://uptimerobot.com/pricing/",
+    "ts": "20260303005054",
+    "date": "2026-03-03",
+    "source": "wayback",
+    "prevTs": "20251105133139",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "UptimeRobot: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 20,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "uptimerobot-com-pricing-20260406030917",
+    "url": "https://uptimerobot.com/pricing/",
+    "ts": "20260406030917",
+    "date": "2026-04-06",
+    "source": "wayback",
+    "prevTs": "20260303005054",
+    "kind": "price",
+    "score": 38,
+    "counts": {
+      "price": 12,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "UptimeRobot: 12 prices, 1 limit changed (removed “$ 8 7 8 19 15 19 / month”; added “$ 8 7 8 10 9 10 19 15 19 22 19 22 / month”)",
+    "pairs": [],
+    "added": [
+      "$ 8 7 8 10 9 10 19 15 19 22 19 22 / month",
+      "$ 34 29 34 45 38 45 / month",
+      "$ 64 54 64 82 69 82 149 124 149 190 160 190 376 289 376 450 375 450 / month",
+      "Starts at $ 84 / y 8 / mo 108 / y 10 / mo",
+      "$ 348 / y 34 / mo. 456 / y 45 / mo.",
+      "Starts at $ 648 / y 64 / mo. 828 / y 82 / mo.",
+      "Yes. Both free and paid users can buy SMS or voice call credits separately. They're one-time purchases, not recurring add-ons. For SMS and voice call credit package pricing, click here",
+      "UptimeRobot offers a 14-day money-back guarantee for new subscriptions and upgrades. To request a refund, contact support within 14 days of the payment. You can cancel at any time to stop future renewals.",
+      "What's the difference between the Free and Solo plans?"
+    ],
+    "removed": [
+      "$ 8 7 8 19 15 19 / month",
+      "$ 34 29 34 / month",
+      "$ 64 54 64 149 124 149 376 289 376 / month",
+      "Starts at $ 84 / y 8 / mo",
+      "$ 348 / y 34 / mo.",
+      "Starts at $ 648 / y 64 / mo.",
+      "You can order extra SMS / voice call credits with your free plan, or any paid plan. Pay with a credit card. Please note, that confirmation SMS for adding/changing alert contact will also consume credit(s). For SMS package pricing click here",
+      "You can cancel your subscription any time in your account settings and let it expire back to the Free Plan.",
+      "If you're not satisfied with the service or features, you can request a refund within 10 days of your last payment."
+    ],
+    "totals": {
+      "removed": 17,
+      "added": 26,
+      "materialRemoved": 9,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "uptimerobot-com-pricing-20260513075041",
+    "url": "https://uptimerobot.com/pricing/",
+    "ts": "20260513075041",
+    "date": "2026-05-13",
+    "source": "wayback",
+    "prevTs": "20260406030917",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "UptimeRobot: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 9,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "uptimerobot-com-pricing-20260618003631",
+    "url": "https://uptimerobot.com/pricing/",
+    "ts": "20260618003631",
+    "date": "2026-06-18",
+    "source": "wayback",
+    "prevTs": "20260513075041",
+    "kind": "price",
+    "score": 49,
+    "counts": {
+      "price": 12,
+      "limit": 5,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "UptimeRobot: 12 prices, 5 limits, 2 plan names changed (removed “$ 8 7 8 10 9 10 19 15 19 22 19 22 / month”; added “Monitor tier 10 monitors”)",
+    "pairs": [],
+    "added": [
+      "Monitor tier 10 monitors",
+      "$ 8 $ 7 /month",
+      "$ 34 $ 29 /month",
+      "3 notify seats incl. You can create up to 3 alert contacts with e-mail and phone number. More extra seats can be purchased separately.",
+      "Monitor tier 200 monitors",
+      "$ 64 $ 54 /month",
+      "5 notify seats incl. You can create up to 5 alert contacts with e-mail and phone number. More extra seats can be purchased separately.",
+      "Need more than 1,000 monitors?",
+      "Unlimited status pages",
+      "Starts at $ 84 /y",
+      "$ 348 /y",
+      "Starts at $ 648 /y",
+      "Set a threshold between 50 ms and 5000 ms, and receive alerts when performance dips or returns to normal.",
+      "Alerts you 30/14/7 days before your SSL certificate expires or when there is any problem with your certificate and visitors can't access the page.",
+      "Alerts you 30/14/7 days before your domain expires.",
+      "1k 5k 15k 25k+"
+    ],
+    "removed": [
+      "$ 8 7 8 10 9 10 19 15 19 22 19 22 / month",
+      "$ 34 29 34 45 38 45 / month",
+      "$ 64 54 64 82 69 82 149 124 149 190 160 190 376 289 376 450 375 450 / month",
+      "Starts at $ 84 / y 8 / mo 108 / y 10 / mo",
+      "$ 348 / y 34 / mo. 456 / y 45 / mo.",
+      "Starts at $ 648 / y 64 / mo. 828 / y 82 / mo.",
+      "Free tools",
+      "Register for FREE"
+    ],
+    "totals": {
+      "removed": 148,
+      "added": 143,
+      "materialRemoved": 24,
+      "materialAdded": 32
+    }
+  },
+  {
+    "id": "uptimerobot-com-pricing-20260709065806",
+    "url": "https://uptimerobot.com/pricing/",
+    "ts": "20260709065806",
+    "date": "2026-07-09",
+    "source": "wayback",
+    "prevTs": "20260618003631",
+    "kind": "price",
+    "score": 25,
+    "counts": {
+      "price": 7,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "UptimeRobot: 7 prices, 2 limits changed ($8 → $10; $34 → $38)",
+    "pairs": [
+      {
+        "before": "$ 8 $ 7 /month",
+        "after": "$ 10 $ 9 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$8",
+            "after": "$10"
+          },
+          {
+            "before": "$7",
+            "after": "$9"
+          }
+        ]
+      },
+      {
+        "before": "$ 34 $ 29 /month",
+        "after": "$ 38 $ 33 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$34",
+            "after": "$38"
+          },
+          {
+            "before": "$29",
+            "after": "$33"
+          }
+        ]
+      },
+      {
+        "before": "$ 64 $ 54 /month",
+        "after": "$ 82 $ 69 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$64",
+            "after": "$82"
+          },
+          {
+            "before": "$54",
+            "after": "$69"
+          }
+        ]
+      },
+      {
+        "before": "Need more than 1,000 monitors?",
+        "after": "Need more than 500 monitors?",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1,000",
+            "after": "500"
+          }
+        ]
+      },
+      {
+        "before": "Starts at $ 84 /y",
+        "after": "Starts at $ 108 /y",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$84",
+            "after": "$108"
+          }
+        ]
+      },
+      {
+        "before": "Starts at $ 648 /y",
+        "after": "Starts at $ 828 /y",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$648",
+            "after": "$828"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 396 /y",
+      "500 1k 5k 15k+"
+    ],
+    "removed": [
+      "$ 348 /y",
+      "1k 5k 15k 25k+"
+    ],
+    "totals": {
+      "removed": 8,
+      "added": 8,
+      "materialRemoved": 8,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "uptimerobot-com-pricing-20260810092715",
+    "url": "https://uptimerobot.com/pricing/",
+    "ts": "20260810092715",
+    "date": "2026-08-10",
+    "source": "wayback",
+    "prevTs": "20260709065806",
+    "kind": "price",
+    "score": 36,
+    "counts": {
+      "price": 7,
+      "limit": 6,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "UptimeRobot: 7 prices, 6 limits, 2 plan names changed ($10 → $13; $38 → $46)",
+    "pairs": [
+      {
+        "before": "$ 10 $ 9 /month",
+        "after": "$ 13 $ 11 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$10",
+            "after": "$13"
+          },
+          {
+            "before": "$9",
+            "after": "$11"
+          }
+        ]
+      },
+      {
+        "before": "$ 38 $ 33 /month",
+        "after": "$ 46 $ 40 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$38",
+            "after": "$46"
+          },
+          {
+            "before": "$33",
+            "after": "$40"
+          }
+        ]
+      },
+      {
+        "before": "60 sec. monitoring interval",
+        "after": "30 sec. monitoring interval",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "60",
+            "after": "30"
+          }
+        ]
+      },
+      {
+        "before": "$ 82 $ 69 /month",
+        "after": "$ 98 $ 83 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$82",
+            "after": "$98"
+          },
+          {
+            "before": "$69",
+            "after": "$83"
+          }
+        ]
+      },
+      {
+        "before": "30 sec. monitoring interval",
+        "after": "15 sec. monitoring interval",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "30",
+            "after": "15"
+          }
+        ]
+      },
+      {
+        "before": "Starts at $ 108 /y",
+        "after": "Starts at $ 132 /y",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$108",
+            "after": "$132"
+          }
+        ]
+      },
+      {
+        "before": "Starts at $ 828 /y",
+        "after": "Starts at $ 996 /y",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$828",
+            "after": "$996"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Everything in Free, plus",
+      "3 seats included",
+      "200 or 500 monitors",
+      "5 seats included",
+      "Free",
+      "Good for hobby and non-profit projects. No credit card required!",
+      "$ 480 /y"
+    ],
+    "removed": [
+      "Free",
+      "Good for hobby projects. No credit card required!",
+      "60 sec. monitoring interval",
+      "3 notify seats incl. You can create up to 3 alert contacts with e-mail and phone number. More extra seats can be purchased separately.",
+      "5 notify seats incl. You can create up to 5 alert contacts with e-mail and phone number. More extra seats can be purchased separately.",
+      "Need more than 500 monitors?",
+      "$ 396 /y"
+    ],
+    "totals": {
+      "removed": 72,
+      "added": 62,
+      "materialRemoved": 18,
+      "materialAdded": 18
+    }
+  },
+  {
+    "id": "uptimerobot-com-pricing-20260902202107",
+    "url": "https://uptimerobot.com/pricing/",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260810092715",
+    "kind": "price",
+    "score": 21,
+    "counts": {
+      "price": 7,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "UptimeRobot: 7 prices changed ($11 → $12; $40 → $39)",
+    "pairs": [
+      {
+        "before": "$ 13 $ 11 /month",
+        "after": "$ 13 $ 12 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$11",
+            "after": "$12"
+          }
+        ]
+      },
+      {
+        "before": "$ 46 $ 40 /month",
+        "after": "$ 46 $ 39 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$40",
+            "after": "$39"
+          }
+        ]
+      },
+      {
+        "before": "$ 98 $ 83 /month",
+        "after": "$ 98 $ 79 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$83",
+            "after": "$79"
+          }
+        ]
+      },
+      {
+        "before": "Starts at $ 132 /y",
+        "after": "Starts at $ 144 /y",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$132",
+            "after": "$144"
+          }
+        ]
+      },
+      {
+        "before": "Starts at $ 996 /y",
+        "after": "Starts at $ 948 /y",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$996",
+            "after": "$948"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 468 /y"
+    ],
+    "removed": [
+      "$ 480 /y"
+    ],
+    "totals": {
+      "removed": 16,
+      "added": 18,
+      "materialRemoved": 6,
+      "materialAdded": 6
+    },
+    "transition": true
+  }
+]

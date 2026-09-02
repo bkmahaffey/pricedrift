@@ -1,0 +1,203 @@
+[
+  {
+    "id": "paddle-com-pricing-20230301123548",
+    "url": "https://www.paddle.com/pricing",
+    "ts": "20230301123548",
+    "date": "2023-03-01",
+    "source": "wayback",
+    "prevTs": "20230104000856",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Paddle: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "paddle-com-pricing-20250116181319",
+    "url": "https://www.paddle.com/pricing",
+    "ts": "20250116181319",
+    "date": "2025-01-16",
+    "source": "wayback",
+    "prevTs": "20230301123548",
+    "kind": "price",
+    "score": 15,
+    "counts": {
+      "price": 5,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Paddle: 5 prices changed (removed “Tax filing products per market $200 - $5000 /…”; added “Webinar 5 AI Founders, 6 minutes each, $20k c…”)",
+    "pairs": [],
+    "added": [
+      "Webinar 5 AI Founders, 6 minutes each, $20k cash prize"
+    ],
+    "removed": [
+      "Tax filing products per market $200 - $5000 /month",
+      "Customer billing support ~$60,000 per person per year",
+      "Administrative and operational headcount (Finance, Engineering) + $1000s / month",
+      "Advisory services + up to $100,000 / year"
+    ],
+    "totals": {
+      "removed": 34,
+      "added": 15,
+      "materialRemoved": 5,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "paddle-com-pricing-20250209145602",
+    "url": "https://www.paddle.com/pricing",
+    "ts": "20250209145602",
+    "date": "2025-02-09",
+    "source": "wayback",
+    "prevTs": "20250116181319",
+    "kind": "price",
+    "score": 4,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Paddle: 1 price, 1 limit changed (removed “Webinar 5 AI Founders, 6 minutes each, $20k c…”; added “We’ve got you covered in 48 hours”)",
+    "pairs": [],
+    "added": [
+      "We’ve got you covered in 48 hours"
+    ],
+    "removed": [
+      "Webinar 5 AI Founders, 6 minutes each, $20k cash prize"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "paddle-com-pricing-20250805063615",
+    "url": "https://www.paddle.com/pricing",
+    "ts": "20250805063615",
+    "date": "2025-08-05",
+    "source": "wayback",
+    "prevTs": "20250209145602",
+    "kind": "price",
+    "score": 4,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Paddle: 1 price, 1 limit changed (removed “We’ve got you covered in 48 hours”; added “Launchpad Demo Day Watch top SaaS start-ups b…”)",
+    "pairs": [],
+    "added": [
+      "Launchpad Demo Day Watch top SaaS start-ups battle it out for the $10k prize"
+    ],
+    "removed": [
+      "We’ve got you covered in 48 hours"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "paddle-com-pricing-20260215051640",
+    "url": "https://www.paddle.com/pricing",
+    "ts": "20260215051640",
+    "date": "2026-02-15",
+    "source": "wayback",
+    "prevTs": "20250805063615",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Paddle: 1 price changed (added “* If you’re selling products under $10 or req…”)",
+    "pairs": [],
+    "added": [
+      "* If you’re selling products under $10 or require invoicing contact us"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 125,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "paddle-com-pricing-20260425205222",
+    "url": "https://www.paddle.com/pricing",
+    "ts": "20260425205222",
+    "date": "2026-04-25",
+    "source": "wayback",
+    "prevTs": "20260215051640",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Paddle: 1 price changed (added “Add-on $0.02 to $0.07”)",
+    "pairs": [],
+    "added": [
+      "Add-on $0.02 to $0.07"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 19,
+      "added": 42,
+      "materialRemoved": 2,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "paddle-com-pricing-20260804171912",
+    "url": "https://www.paddle.com/pricing",
+    "ts": "20260804171912",
+    "date": "2026-08-04",
+    "source": "wayback",
+    "prevTs": "20260425205222",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Paddle: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 15,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  }
+]

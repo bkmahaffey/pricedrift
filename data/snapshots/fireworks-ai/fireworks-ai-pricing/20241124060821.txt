@@ -1,0 +1,134 @@
+Skip to main content
+Fireworks f1
+and f1-mini
+compound AI models are now available in preview. Read more
+Models
+Pricing
+Blog
+Partners
+Docs
+Team
+Careers
+Contact
+Pricing to seamlessly scale from idea to enterprise
+Developer
+Powerful speed and reliability to start your project
+$1 free credits
+Fully pay-as-you-go
+600 serverless inference RPM
+Deploy up to 16 GPUs on-demand (no rate limits)
+Team collaboration features
+Up to 100 deployed models
+No extra cost for running fine-tuned models
+Sign up →
+Enterprise
+Personalized configurations for serving at scale
+Everything from the Developer plan
+Custom pricing
+Unlimited rate limits
+Dedicated and self-hosted deployments
+Guaranteed uptime SLAs
+Unlimited deployed models
+Support w/ guaranteed response times
+Contact us →
+Pricing overview
+Fireworks is fully pay-as-you-go (postpaid), besides enterprise deals. We have multiple pay-as-you-go product offerings, including serverless text model inference, image generation, fine-tuning and on-demand, private GPU inference. Spending on all offerings contribute to spending limits (including credits-based spending) based on past historical usage.
+Serverless text models
+Base model parameter count
+$/1M tokens (Applies to both input and output tokens)
+0B - 4B
+$0.10
+4B - 16B
+$0.20
+16.1B+
+$0.90
+MoE 0B - 56B (e.g. Mixtral 8x7B)
+$0.50
+MoE 56.1B - 176B (e.g. DBRX, Mixtral 8x22B)
+$1.20
+Yi Large
+$3.00
+Meta Llama 3.1 405B
+$3.00
+Per-token pricing is applied only for serverless inference. See below
+for on-demand deployment pricing.
+LoRA models deployed to our serverless inference service are charged at the same rate as the underlying base model. There is no additional cost for serving LoRA models.
+Image models
+Image model name
+$/step
+Image model w/ ControlNet, $/step
+All Non-Flux Models (SDXL, Playground, etc)
+$0.00013 ($0.0039 per 30 step image)
+$0.0002 ($0.006 per 30 step image)
+FLUX.1 [dev]
+$0.0005 ($0.014 per 28 step image)
+N/A on serverless
+FLUX.1 [schnell]
+$0.00035 ($0.0014 per 4 step image)
+N/A on serverless
+For image generation models, like SDXL, we charge based on the number of inference steps (denoising iterations). All image generation models besides models from the SD3 and FLUX family are priced identically. SD3 uses pricing from Stability AI
+.
+Multi-modal models
+For multi-modal (vision understanding) models, images are billed as prompt tokens. The exact number of prompt tokens depends on the image resolution and the model. For Phi 3.5, an image is typically billed as 576 prompt tokens. For the Llama 3.2 vision models, an image is typically billed as 6400 prompt tokens.
+Speech-to-text
+Model
+$/audio min (billed per sec)
+Whisper-v3-large
+$0.0015
+Whisper-v3-large-turbo
+$0.0009
+For speech-to-text models, we charge per second of audio input.
+Embedding models
+Base model parameter count
+$/1M input tokens
+up to 150M
+$0.008
+150M - 350M
+$0.016
+Embedding model pricing is based on the number of input tokens processed by the model.
+Fine-tuning
+Model
+$ / 1M tokens in training
+Models up to 16B parameters
+$0.50
+Models 16.1B - 80B
+$3.00
+MoE 0B - 56B (e.g. Mixtral 8x7B)
+$2.00
+MoE 56.1B - 176B (e.g. DBRX, Mixtral 8x22B)
+$6.00
+Fireworks charges based on the total number of tokens in your fine-tuning dataset (dataset size * number of epochs). Fireworks only charges for the costs of tuning - there's no additional cost to deploy fine-tuned models and inference costs are the same as the base model.
+On-demand deployments
+GPU Type
+$/hour
+A100 80 GB GPU
+$2.90
+H100 80 GB GPU
+$5.80
+AMD MI300X
+$4.99
+On-demand deployments are billed by GPU-second using the above rates. For estimates of per-token prices, see this blog
+Results vary by use case, but we often observe improvements like ~250% improved throughput and 50% improved latency when GPUs run Fireworks software compared to vLLM.
+Pricing scales linearly when using multiple GPUs. Users do not pay for start-up times.
+Spending limits
+Spending limits restrict how much you can spend on the Fireworks platform per calendar month. The spending limit is determined by your total historical Fireworks spend. You can purchase prepaid credits
+to immediately increase your historical spend. Visit our FAQ
+for answers to common billing questions.
+Note: Credits are counted against your spending limit, so it is possible to hit the spending limit before all of your current credits are depleted.
+Tier
+Spending Limit
+Qualification
+Tier 1
+$50 / month
+Default with valid payment method added
+Tier 2
+$500 / month
+Total historical spend of $100+
+Tier 3
+$5,000 / month
+Total historical spend of $1,000+
+Tier 4
+$50,000 / month
+Total historical spend of $10,000+
+Custom
+Contact us at [email protected]

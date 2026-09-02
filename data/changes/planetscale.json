@@ -1,0 +1,977 @@
+[
+  {
+    "id": "planetscale-com-pricing-20230524154258",
+    "url": "https://planetscale.com/pricing",
+    "ts": "20230524154258",
+    "date": "2023-05-24",
+    "source": "wayback",
+    "prevTs": "20230121161622",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 8,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "PlanetScale: 8 prices changed (removed “Starts at $ 2999 /mo”; added “+ $ 2.50 per additional GB”)",
+    "pairs": [],
+    "added": [
+      "+ $ 2.50 per additional GB",
+      "+ $ 1 per additional billion",
+      "+ $ 1.50 per additional million",
+      "+ $ 2.50 per additional GB",
+      "+ $ 1 per additional billion",
+      "+ $ 1.50 per additional million"
+    ],
+    "removed": [
+      "Starts at $ 2999 /mo",
+      "Additional fees apply to Scaler and Team plans for usage and storage beyond quota: $2.50 per GB thereafter, $1 per billion reads thereafter, $1.50 per 1 million writes thereafter."
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 12,
+      "materialRemoved": 4,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "planetscale-com-pricing-20230806181252",
+    "url": "https://planetscale.com/pricing",
+    "ts": "20230806181252",
+    "date": "2023-08-06",
+    "source": "wayback",
+    "prevTs": "20230524154258",
+    "kind": "price",
+    "score": 76,
+    "counts": {
+      "price": 22,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "PlanetScale: 22 prices, 5 limits changed (100GB → 10GB)",
+    "pairs": [
+      {
+        "before": "100 GB storage included",
+        "after": "10 GB storage included",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100GB",
+            "after": "10GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free forever for hobby use",
+      "$0 per month $0 / month Sign up for free",
+      "1 billion row reads per month ($1 per additional billion) 1B row reads/ month",
+      "10 million row reads per month ($1.50 per additional million) 10M row writes/ month",
+      "$ 29 per month $ 29 / month Get started",
+      "100 billion row reads per month ($1 per additional billion reads) 100B row reads/ month",
+      "50 million row writes per month ($1.50 per additional million writes) 50M row writes/ month",
+      "Starts at $ 39 per month Starts at From $ 39 / month",
+      "PS-10 1/8 vCPU and 1 GB RAM in AWS us-east-1",
+      "∞ Unlimited row reads and writes",
+      "$699 / month",
+      "Amazon RDS 4 vCPU and 32 GB RAM",
+      "$1,217 / month",
+      "Amazon Aurora 4 vCPU and 32 GB RAM",
+      "$731 / month",
+      "Unlimited"
+    ],
+    "removed": [
+      "per organization Free",
+      "with low traffic Starts at $ 29 /mo",
+      "+ $ 2.50 per additional GB",
+      "+ $ 1 per additional billion",
+      "+ $ 1.50 per additional million",
+      "15 days audit log",
+      "higher performance Starts at $ 599 /mo",
+      "+ $ 2.50 per additional GB",
+      "+ $ 1 per additional billion",
+      "+ $ 1.50 per additional million",
+      "60 days audit log",
+      "Unlimited production branches",
+      "Unlimited development branches",
+      "10GB - 250GB",
+      "250GB - 500GB",
+      "Larger than 500GB",
+      "$2.50/mo per GB",
+      "$1/mo per 1 billion rows read",
+      "$1.50/mo per 1 million rows written",
+      "Storage for the automatic daily backups we run for every branch is free, while storage for additional manual or user-scheduled backups is currently billed at $0.023 per GB per month. Learn more"
+    ],
+    "totals": {
+      "removed": 101,
+      "added": 69,
+      "materialRemoved": 23,
+      "materialAdded": 19
+    }
+  },
+  {
+    "id": "planetscale-com-pricing-20231010193753",
+    "url": "https://planetscale.com/pricing",
+    "ts": "20231010193753",
+    "date": "2023-10-10",
+    "source": "wayback",
+    "prevTs": "20230806181252",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "PlanetScale: 1 limit changed (1 → 0.125)",
+    "pairs": [
+      {
+        "before": "PS-10 1/8 vCPU and 1 GB RAM in AWS us-east-1",
+        "after": "PS-10 0.125 vCPU and 1 GB RAM in AWS us-east-1",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1",
+            "after": "0.125"
+          },
+          {
+            "before": "8",
+            "after": "1GB"
+          },
+          {
+            "before": "1GB",
+            "after": "1"
+          },
+          {
+            "before": "1",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 7,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "planetscale-com-pricing-20231205205107",
+    "url": "https://planetscale.com/pricing",
+    "ts": "20231205205107",
+    "date": "2023-12-05",
+    "source": "wayback",
+    "prevTs": "20231010193753",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "PlanetScale: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "planetscale-com-pricing-20240203102244",
+    "url": "https://planetscale.com/pricing",
+    "ts": "20240203102244",
+    "date": "2024-02-03",
+    "source": "wayback",
+    "prevTs": "20231205205107",
+    "kind": "price",
+    "score": 8,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "PlanetScale: 2 prices, 1 limit changed (removed “10 GB storage included”; added “$1.50 per GB, 10 GB storage included”)",
+    "pairs": [],
+    "added": [
+      "$1.50 per GB, 10 GB storage included",
+      "Enable sharding and clusters with up to 64 cores and 256 GB RAM per shard",
+      "Starts at $3,000 /month"
+    ],
+    "removed": [
+      "10 GB storage included"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 7,
+      "materialRemoved": 5,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "planetscale-com-pricing-20240416132540",
+    "url": "https://planetscale.com/pricing",
+    "ts": "20240416132540",
+    "date": "2024-04-16",
+    "source": "wayback",
+    "prevTs": "20240203102244",
+    "kind": "price",
+    "score": 40,
+    "counts": {
+      "price": 11,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "PlanetScale: 11 prices, 4 limits changed (10 → 1)",
+    "pairs": [
+      {
+        "before": "PS-10 0.125 vCPU and 1 GB RAM in AWS us-east-1",
+        "after": "1/8 vCPU and 1 GB RAM",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "10",
+            "after": "1"
+          },
+          {
+            "before": "0.125",
+            "after": "8"
+          },
+          {
+            "before": "1",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Estimated total: $39 /month",
+      "Automatic backups every 12 hours, 2 days retention included",
+      "Free for hobby use",
+      "Sign up for free"
+    ],
+    "removed": [
+      "Free forever for hobby use",
+      "1 billion row reads per month ($1 per additional billion) 1B row reads/month",
+      "10 million row reads per month ($1.50 per additional million) 10M row writes/month",
+      "$ 29 per month $ 29 / month Get started",
+      "10 GB storage included",
+      "100 billion row reads per month ($1 per additional billion reads) 100B row reads/month",
+      "50 million row writes per month ($1.50 per additional million writes) 50M row writes/month",
+      "Starts at $ 39 per month Starts at From $ 39 / month",
+      "$1.50 per GB, 10 GB storage included",
+      "∞ Unlimited row reads and writes",
+      "Unlimited connections",
+      "$699 / month",
+      "Amazon RDS 4 vCPU and 32 GB RAM",
+      "$1,217 / month",
+      "Amazon Aurora 4 vCPU and 32 GB RAM",
+      "$731 / month",
+      "Unlimited",
+      "10 GB"
+    ],
+    "totals": {
+      "removed": 58,
+      "added": 54,
+      "materialRemoved": 22,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "planetscale-com-pricing-20240605194410",
+    "url": "https://planetscale.com/pricing",
+    "ts": "20240605194410",
+    "date": "2024-06-05",
+    "source": "wayback",
+    "prevTs": "20240416132540",
+    "kind": "price",
+    "score": 39,
+    "counts": {
+      "price": 5,
+      "limit": 12,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "PlanetScale: 5 prices, 12 limits changed (removed “Automatic backups every 12 hours, 2 days rete…”; added “PS-10 ( 1/8 vCPU · 1 GB memory)”)",
+    "pairs": [],
+    "added": [
+      "PS-10 ( 1/8 vCPU · 1 GB memory)",
+      "PS-20 ( 1/4 vCPU · 2 GB memory)",
+      "PS-40 ( 1/2 vCPU · 4 GB memory)",
+      "PS-80 ( 1 vCPU · 8 GB memory)",
+      "PS-160 ( 2 vCPU · 16 GB memory)",
+      "PS-320 ( 4 vCPU · 32 GB memory)",
+      "PS-400 ( 8 vCPU · 32 GB memory)",
+      "PS-640 ( 8 vCPU · 64 GB memory)",
+      "PS-700 ( 16 vCPU · 32 GB memory)",
+      "PS-900 ( 16 vCPU · 64 GB memory)",
+      "PS-1280 ( 16 vCPU · 128 GB memory)",
+      "PS-1400 ( 32 vCPU · 64 GB memory)",
+      "PS-1800 ( 32 vCPU · 128 GB memory)",
+      "PS-2100 ( 48 vCPU · 96 GB memory)",
+      "PS-2560 ( 32 vCPU · 256 GB memory)",
+      "PS-2700 ( 48 vCPU · 192 GB memory)",
+      "PS-2800 ( 64 vCPU · 128 GB memory)",
+      "1/8 vCPU · 1 GB memory (each)",
+      "Get started with a $10 usage credit",
+      "10 GB included Autoscales at $0.50 per instance per additional GB.",
+      "(1 primary + 2 replicas = $1.50 / GB)",
+      "∞ Unlimited",
+      "7 days",
+      "6 months",
+      "∞ Unlimited",
+      "Every 12 hours Additional backups can be configured",
+      "Business Support Enterprise Support with 15 minute SLA available",
+      "Get started with a $10 usage credit"
+    ],
+    "removed": [
+      "Automatic backups every 12 hours, 2 days retention included",
+      "Free for hobby use",
+      "$0 per month $0 /month",
+      "5 GB storage included",
+      "Sign up for free"
+    ],
+    "totals": {
+      "removed": 58,
+      "added": 90,
+      "materialRemoved": 9,
+      "materialAdded": 32
+    }
+  },
+  {
+    "id": "planetscale-com-pricing-20240906155406",
+    "url": "https://planetscale.com/pricing",
+    "ts": "20240906155406",
+    "date": "2024-09-06",
+    "source": "wayback",
+    "prevTs": "20240605194410",
+    "kind": "price",
+    "score": 11,
+    "counts": {
+      "price": 3,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "PlanetScale: 3 prices, 1 limit changed (removed “Get started with a $10 usage credit”; added “Available for $199 / month”)",
+    "pairs": [],
+    "added": [
+      "Available for $199 / month"
+    ],
+    "removed": [
+      "Get started with a $10 usage credit",
+      "∞ Unlimited",
+      "7 days",
+      "6 months",
+      "∞ Unlimited",
+      "Get started with a $10 usage credit"
+    ],
+    "totals": {
+      "removed": 20,
+      "added": 14,
+      "materialRemoved": 8,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "planetscale-com-pricing-20241104041116",
+    "url": "https://planetscale.com/pricing",
+    "ts": "20241104041116",
+    "date": "2024-11-04",
+    "source": "wayback",
+    "prevTs": "20240906155406",
+    "kind": "price",
+    "score": 19,
+    "counts": {
+      "price": 4,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "PlanetScale: 4 prices, 4 limits changed (1 → 2)",
+    "pairs": [
+      {
+        "before": "1/8 vCPU · 1 GB memory (each)",
+        "after": "2 replicas ( 1/8 vCPU · 1 GB memory each)",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "1",
+            "after": "2"
+          },
+          {
+            "before": "8",
+            "after": "1"
+          },
+          {
+            "before": "1GB",
+            "after": "8"
+          },
+          {
+            "before": null,
+            "after": "1GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "1 primary database ( 1/8 vCPU · 1 GB memory)"
+    ],
+    "removed": [
+      "1/8 vCPU · 1 GB memory",
+      "Enterprise Starting at $3,000 / mo",
+      "Up to 64 cores and 256 GB memory per shard",
+      "10 GB included Autoscales at $0.50 per instance per additional GB.",
+      "(1 primary + 2 replicas = $1.50 / GB)",
+      "Available for $199 / month",
+      "Every 12 hours Additional backups can be configured",
+      "Enterprise Support available as an add-on (15 minute SLA)"
+    ],
+    "totals": {
+      "removed": 59,
+      "added": 28,
+      "materialRemoved": 10,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "planetscale-com-pricing-20250216011808",
+    "url": "https://planetscale.com/pricing",
+    "ts": "20250216011808",
+    "date": "2025-02-16",
+    "source": "wayback",
+    "prevTs": "20241104041116",
+    "kind": "price",
+    "score": 33,
+    "counts": {
+      "price": 1,
+      "limit": 15,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "PlanetScale: 1 price, 15 limits changed (removed “PS-10 ( 1/8 vCPU · 1 GB memory)”; added “PS-10 1/8 vCPU”)",
+    "pairs": [],
+    "added": [
+      "PS-10 1/8 vCPU",
+      "· 1 GB memory",
+      "· 10 GB storage",
+      "$39",
+      "1/8 vCPU",
+      "1 GB",
+      "1/8 vCPU",
+      "1 GB",
+      "1/8 vCPU",
+      "1 GB",
+      "3/8 vCPU",
+      "3 GB"
+    ],
+    "removed": [
+      "PS-10 ( 1/8 vCPU · 1 GB memory)",
+      "PS-20 ( 1/4 vCPU · 2 GB memory)",
+      "PS-40 ( 1/2 vCPU · 4 GB memory)",
+      "PS-80 ( 1 vCPU · 8 GB memory)",
+      "PS-160 ( 2 vCPU · 16 GB memory)",
+      "PS-320 ( 4 vCPU · 32 GB memory)",
+      "PS-400 ( 8 vCPU · 32 GB memory)",
+      "PS-640 ( 8 vCPU · 64 GB memory)",
+      "PS-700 ( 16 vCPU · 32 GB memory)",
+      "PS-900 ( 16 vCPU · 64 GB memory)",
+      "PS-1280 ( 16 vCPU · 128 GB memory)",
+      "PS-1400 ( 32 vCPU · 64 GB memory)",
+      "PS-1800 ( 32 vCPU · 128 GB memory)",
+      "PS-2100 ( 48 vCPU · 96 GB memory)",
+      "PS-2560 ( 32 vCPU · 256 GB memory)",
+      "PS-2700 ( 48 vCPU · 192 GB memory)",
+      "PS-2800 ( 64 vCPU · 128 GB memory)",
+      "1 primary database ( 1/8 vCPU · 1 GB memory)",
+      "2 replicas ( 1/8 vCPU · 1 GB memory each)"
+    ],
+    "totals": {
+      "removed": 26,
+      "added": 24,
+      "materialRemoved": 19,
+      "materialAdded": 12
+    }
+  },
+  {
+    "id": "planetscale-com-pricing-20250311091158",
+    "url": "https://planetscale.com/pricing",
+    "ts": "20250311091158",
+    "date": "2025-03-11",
+    "source": "wayback",
+    "prevTs": "20250216011808",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "PlanetScale: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 15,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "planetscale-com-pricing-20250506125036",
+    "url": "https://planetscale.com/pricing",
+    "ts": "20250506125036",
+    "date": "2025-05-06",
+    "source": "wayback",
+    "prevTs": "20250311091158",
+    "kind": "price",
+    "score": 4,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "PlanetScale: 1 price, 1 limit changed (added “Storage amount — First 10 GB included, and th…”)",
+    "pairs": [],
+    "added": [
+      "⚡ Blazing fast NVMe drives with unlimited IOPS now available. Read about PlanetScale Metal",
+      "Ultra-fast NVMe drives and unlimited IOPS make high-availablity Metal clusters the fastest nodes available in the cloud.",
+      "Storage amount — First 10 GB included, and then $1.50 per GB per instance. We require a minimum of 3 instances for production branches to ensure high availability. Storage costs are included for Metal instances.",
+      "and the option to upgrade to Enterprise support. The Enterprise support option is only available on Enterprise plans and gives you access to our team’s sharding/Vitess expertise through a shared Slack channel and bi-weekly meetings. Additionally, 15 minute response time for P1 tickets."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 48,
+      "materialRemoved": 0,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "planetscale-com-pricing-20250705140525",
+    "url": "https://planetscale.com/pricing",
+    "ts": "20250705140525",
+    "date": "2025-07-05",
+    "source": "wayback",
+    "prevTs": "20250506125036",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "PlanetScale: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "⚡ Blazing fast NVMe drives with unlimited IOPS now available. Read about PlanetScale Metal"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "planetscale-com-pricing-20250806020312",
+    "url": "https://planetscale.com/pricing",
+    "ts": "20250806020312",
+    "date": "2025-08-06",
+    "source": "wayback",
+    "prevTs": "20250705140525",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "PlanetScale: 1 price changed ($1.50 → $0.50)",
+    "pairs": [
+      {
+        "before": "Storage amount — First 10 GB included, and then $1.50 per GB per instance. We require a minimum of 3 instances for production branches to ensure high availability. Storage costs are included for Metal instances.",
+        "after": "Storage amount — First 10 GB included, and then $0.50 per GB per instance. We require a minimum of 3 instances for production branches to ensure high availability. Storage costs are included for Metal instances.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.50",
+            "after": "$0.50"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "planetscale-com-pricing-20251003171052",
+    "url": "https://planetscale.com/pricing",
+    "ts": "20251003171052",
+    "date": "2025-10-03",
+    "source": "wayback",
+    "prevTs": "20250806020312",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 4,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "PlanetScale: 4 prices changed (removed “$39”; added “$34”)",
+    "pairs": [],
+    "added": [
+      "$34",
+      "$34"
+    ],
+    "removed": [
+      "$39",
+      "$39"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 13,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "planetscale-com-pricing-20251117032216",
+    "url": "https://planetscale.com/pricing",
+    "ts": "20251117032216",
+    "date": "2025-11-17",
+    "source": "wayback",
+    "prevTs": "20251003171052",
+    "kind": "price",
+    "score": 38,
+    "counts": {
+      "price": 6,
+      "limit": 10,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "PlanetScale: 6 prices, 10 limits changed (10 → 5; 8 → 16)",
+    "pairs": [
+      {
+        "before": "PS-10 1/8 vCPU",
+        "after": "PS-5 1/16 vCPU",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10",
+            "after": "5"
+          },
+          {
+            "before": "8",
+            "after": "16"
+          }
+        ]
+      },
+      {
+        "before": "1/8 vCPU",
+        "after": "1/16 vCPU",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8",
+            "after": "16"
+          }
+        ]
+      },
+      {
+        "before": "1/8 vCPU",
+        "after": "1/16 vCPU",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8",
+            "after": "16"
+          }
+        ]
+      },
+      {
+        "before": "1/8 vCPU",
+        "after": "1/16 vCPU",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8",
+            "after": "16"
+          }
+        ]
+      },
+      {
+        "before": "3/8 vCPU",
+        "after": "3/16 vCPU",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8",
+            "after": "16"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$5 single node Postgres databases are here. Learn more",
+      "· 512 MB memory",
+      "$15",
+      "512 MB",
+      "512 MB",
+      "512 MB",
+      "1.5 GB",
+      "100 GB of egress bandwidth is included. Additional usage: $0.06 / GB.",
+      "$15"
+    ],
+    "removed": [
+      "· 1 GB memory",
+      "$34",
+      "1 GB",
+      "1 GB",
+      "1 GB",
+      "3 GB",
+      "$34"
+    ],
+    "totals": {
+      "removed": 18,
+      "added": 25,
+      "materialRemoved": 13,
+      "materialAdded": 15
+    }
+  },
+  {
+    "id": "planetscale-com-pricing-20260104144610",
+    "url": "https://planetscale.com/pricing",
+    "ts": "20260104144610",
+    "date": "2026-01-04",
+    "source": "wayback",
+    "prevTs": "20251117032216",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "PlanetScale: 1 price changed ($5 → $50)",
+    "pairs": [
+      {
+        "before": "$5 single node Postgres databases are here. Learn more",
+        "after": "$50 Metal Postgres databases are here. Learn more",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$5",
+            "after": "$50"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "planetscale-com-pricing-20260203033437",
+    "url": "https://planetscale.com/pricing",
+    "ts": "20260203033437",
+    "date": "2026-02-03",
+    "source": "wayback",
+    "prevTs": "20260104144610",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 4,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "PlanetScale: 4 prices changed (added “Development and low-traffic production worklo…”)",
+    "pairs": [],
+    "added": [
+      "Development and low-traffic production workloads. Starting at $5/month.",
+      "High-performance local NVMe storage. Starting at $50/month.",
+      "Single node — Starting at $5/month for development and low-traffic workloads",
+      "Metal — Starting at $50/month with local NVMe storage for high-performance needs"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 19,
+      "added": 31,
+      "materialRemoved": 1,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "planetscale-com-pricing-20260307114112",
+    "url": "https://planetscale.com/pricing",
+    "ts": "20260307114112",
+    "date": "2026-03-07",
+    "source": "wayback",
+    "prevTs": "20260203033437",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "PlanetScale: 2 prices changed (removed “$50 Metal Postgres databases are here. Learn …”; added “Get started with PlanetScale Postgres for jus…”)",
+    "pairs": [],
+    "added": [
+      "Get started with PlanetScale Postgres for just $5/month. Learn more"
+    ],
+    "removed": [
+      "$50 Metal Postgres databases are here. Learn more"
+    ],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "planetscale-com-pricing-20260402163529",
+    "url": "https://planetscale.com/pricing",
+    "ts": "20260402163529",
+    "date": "2026-04-02",
+    "source": "wayback",
+    "prevTs": "20260307114112",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "PlanetScale: 1 price changed (removed “Get started with PlanetScale Postgres for jus…”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Get started with PlanetScale Postgres for just $5/month. Learn more"
+    ],
+    "totals": {
+      "removed": 1,
+      "added": 3,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "planetscale-com-pricing-20260704170019",
+    "url": "https://planetscale.com/pricing",
+    "ts": "20260704170019",
+    "date": "2026-07-04",
+    "source": "wayback",
+    "prevTs": "20260402163529",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "PlanetScale: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "planetscale-com-pricing-20260809055707",
+    "url": "https://planetscale.com/pricing",
+    "ts": "20260809055707",
+    "date": "2026-08-09",
+    "source": "wayback",
+    "prevTs": "20260704170019",
+    "kind": "price",
+    "score": 4,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "PlanetScale: 1 price, 1 limit changed (removed “Storage amount — First 10 GB included, and th…”; added “Storage amount — Included for Metal databases…”)",
+    "pairs": [],
+    "added": [
+      "Storage amount — Included for Metal databases. For network-attached storage databases, the first 10 GB is free, with per-GB pricing beyond that. See the pricing calculator for details."
+    ],
+    "removed": [
+      "Storage amount — First 10 GB included, and then $0.50 per GB per instance. We require a minimum of 3 instances for production branches to ensure high availability. Storage costs are included for Metal instances."
+    ],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "planetscale-com-pricing-20260902202107",
+    "url": "https://planetscale.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260809055707",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "PlanetScale: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 6,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

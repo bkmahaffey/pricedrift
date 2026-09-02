@@ -1,0 +1,624 @@
+[
+  {
+    "id": "plausible-io-20230303071806",
+    "url": "https://plausible.io/#pricing",
+    "ts": "20230303071806",
+    "date": "2023-03-03",
+    "source": "wayback",
+    "prevTs": "20230101023546",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Plausible: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 8,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "plausible-io-20230501020806",
+    "url": "https://plausible.io/#pricing",
+    "ts": "20230501020806",
+    "date": "2023-05-01",
+    "source": "wayback",
+    "prevTs": "20230303071806",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Plausible: 2 limits changed (removed “21.9B”; added “39.1B”)",
+    "pairs": [],
+    "added": [
+      "39.1B"
+    ],
+    "removed": [
+      "21.9B",
+      "Uptime (Last 90 days)"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 5,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "plausible-io-20230701051921",
+    "url": "https://plausible.io/#pricing",
+    "ts": "20230701051921",
+    "date": "2023-07-01",
+    "source": "wayback",
+    "prevTs": "20230501020806",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Plausible: 1 limit changed (removed “39.1B”; added “44B”)",
+    "pairs": [],
+    "added": [
+      "44B"
+    ],
+    "removed": [
+      "39.1B"
+    ],
+    "totals": {
+      "removed": 9,
+      "added": 7,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "plausible-io-20231101032340",
+    "url": "https://plausible.io/#pricing",
+    "ts": "20231101032340",
+    "date": "2023-11-01",
+    "source": "wayback",
+    "prevTs": "20230701051921",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Plausible: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "plausible-io-20240101001246",
+    "url": "https://plausible.io/#pricing",
+    "ts": "20240101001246",
+    "date": "2024-01-01",
+    "source": "wayback",
+    "prevTs": "20231101032340",
+    "kind": "price",
+    "score": 13,
+    "counts": {
+      "price": 2,
+      "limit": 3,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Plausible: 2 prices, 3 limits, 1 plan name changed (removed “$ 9 / mo 90 / yr”; added “Not free/not a ton of bells and whistles, but…”)",
+    "pairs": [],
+    "added": [
+      "Not free/not a ton of bells and whistles, but SOOOO easy to use (for clients too) and the data is near real-time. Good solution for ~70% of websites that have trouble with GA4.",
+      "Check out Plausible if you haven't yet — fantastic product, $190/mo for 5M views, or less when paid annually. We switched over everything from GA.",
+      "Up to 10 sites",
+      "3 years of data retention",
+      "Up to 50 sites",
+      "5 years of data retention",
+      "Stats API (600 requests per hour)"
+    ],
+    "removed": [
+      "$ 9 / mo 90 / yr",
+      "Unlimited data retention",
+      "Unlimited team members",
+      "Start your free trial"
+    ],
+    "totals": {
+      "removed": 33,
+      "added": 48,
+      "materialRemoved": 6,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "plausible-io-20240301002253",
+    "url": "https://plausible.io/#pricing",
+    "ts": "20240301002253",
+    "date": "2024-03-01",
+    "source": "wayback",
+    "prevTs": "20240101001246",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Plausible: 1 limit changed (removed “44B”; added “73B”)",
+    "pairs": [],
+    "added": [
+      "73B"
+    ],
+    "removed": [
+      "44B"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "plausible-io-20240701051258",
+    "url": "https://plausible.io/#pricing",
+    "ts": "20240701051258",
+    "date": "2024-07-01",
+    "source": "wayback",
+    "prevTs": "20240301002253",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Plausible: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 8,
+      "added": 9,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "plausible-io-20240901085104",
+    "url": "https://plausible.io/#pricing",
+    "ts": "20240901085104",
+    "date": "2024-09-01",
+    "source": "wayback",
+    "prevTs": "20240701051258",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Plausible: 2 limits changed (removed “73B”; added “103B”)",
+    "pairs": [],
+    "added": [
+      "103B",
+      "Uptime (Last 90 days)"
+    ],
+    "removed": [
+      "73B"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 4,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "plausible-io-20250101003425",
+    "url": "https://plausible.io/#pricing",
+    "ts": "20250101003425",
+    "date": "2025-01-01",
+    "source": "wayback",
+    "prevTs": "20240901085104",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Plausible: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Google Analytics is frustrating to use, difficult to understand, slow to load and privacy-invasive. That's why we built Plausible Analytics, a simple but powerful, lightweight (< 1 KB), open source and privacy-friendly alternative."
+    ],
+    "totals": {
+      "removed": 9,
+      "added": 10,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "plausible-io-20250201004246",
+    "url": "https://plausible.io/#pricing",
+    "ts": "20250201004246",
+    "date": "2025-02-01",
+    "source": "wayback",
+    "prevTs": "20250101003425",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Plausible: 1 limit changed (removed “103B”; added “136B”)",
+    "pairs": [],
+    "added": [
+      "136B"
+    ],
+    "removed": [
+      "103B"
+    ],
+    "totals": {
+      "removed": 1,
+      "added": 2,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "plausible-io-20250401024817",
+    "url": "https://plausible.io/#pricing",
+    "ts": "20250401024817",
+    "date": "2025-04-01",
+    "source": "wayback",
+    "prevTs": "20250201004246",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Plausible: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 22,
+      "added": 24,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "plausible-io-20250601061350",
+    "url": "https://plausible.io/#pricing",
+    "ts": "20250601061350",
+    "date": "2025-06-01",
+    "source": "wayback",
+    "prevTs": "20250401024817",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Plausible: 1 limit changed (removed “136B”; added “173B”)",
+    "pairs": [],
+    "added": [
+      "173B"
+    ],
+    "removed": [
+      "136B"
+    ],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "plausible-io-20250701111927",
+    "url": "https://plausible.io/#pricing",
+    "ts": "20250701111927",
+    "date": "2025-07-01",
+    "source": "wayback",
+    "prevTs": "20250601061350",
+    "kind": "price",
+    "score": 15,
+    "counts": {
+      "price": 3,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Plausible: 3 prices, 3 limits changed (10 → 3; 50 → 10)",
+    "pairs": [
+      {
+        "before": "Up to 10 sites",
+        "after": "Up to 3 sites",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10",
+            "after": "3"
+          }
+        ]
+      },
+      {
+        "before": "Up to 50 sites",
+        "after": "Up to 10 sites",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50",
+            "after": "10"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Up to 10k monthly pageviews",
+      "10k 10k",
+      "$9 /month",
+      "Start your free trial",
+      "$14 /month",
+      "Start your free trial",
+      "$19 /month",
+      "Start your free trial"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 19,
+      "added": 33,
+      "materialRemoved": 2,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "plausible-io-20260101065553",
+    "url": "https://plausible.io/#pricing",
+    "ts": "20260101065553",
+    "date": "2026-01-01",
+    "source": "wayback",
+    "prevTs": "20250701111927",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Plausible: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 9,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "plausible-io-20260201081259",
+    "url": "https://plausible.io/#pricing",
+    "ts": "20260201081259",
+    "date": "2026-02-01",
+    "source": "wayback",
+    "prevTs": "20260101065553",
+    "kind": "limits",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Plausible: 1 limit, 2 plan names changed (removed “173B”; added “260B”)",
+    "pairs": [],
+    "added": [
+      "Start free trial",
+      "260B",
+      "for free. We'd be honored to have you as a customer. Thank you.",
+      "Start free trial"
+    ],
+    "removed": [
+      "173B"
+    ],
+    "totals": {
+      "removed": 45,
+      "added": 42,
+      "materialRemoved": 1,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "plausible-io-20260302112903",
+    "url": "https://plausible.io/#pricing",
+    "ts": "20260302112903",
+    "date": "2026-03-02",
+    "source": "wayback",
+    "prevTs": "20260201081259",
+    "kind": "price",
+    "score": 5,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Plausible: 1 price, 1 limit changed (70 → 100)",
+    "pairs": [
+      {
+        "before": "Not free/not a ton of bells and whistles, but SOOOO easy to use (for clients too) and the data is near real-time. Good solution for ~70% of websites that have trouble with GA4.",
+        "after": "My 100% favorite GA4 alternative so far is Plausible. Not free and not a ton of bells and whistles, but SOOOO easy to use (for clients too) and the data is near real-time. A good solution for ~70% of websites struggling with GA4.",
+        "confidence": 0.74,
+        "deltas": [
+          {
+            "before": "70",
+            "after": "100"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "Check out Plausible if you haven't yet — fantastic product, $190/mo for 5M views, or less when paid annually. We switched over everything from GA."
+    ],
+    "totals": {
+      "removed": 19,
+      "added": 18,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "plausible-io-20260602215637",
+    "url": "https://plausible.io/#pricing",
+    "ts": "20260602215637",
+    "date": "2026-06-02",
+    "source": "wayback",
+    "prevTs": "20260302112903",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Plausible: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Our script is 54 times smaller than Google Analytics. Every visitor that loads your site downloads 135KB less JavaScript. Less data transferred means less energy used and less carbon emitted, for every visitor, every day. A site with 100,000 monthly visitors saves around 4 kg of CO2 per year by switching."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 21,
+      "added": 36,
+      "materialRemoved": 4,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "plausible-io-20260702034529",
+    "url": "https://plausible.io/#pricing",
+    "ts": "20260702034529",
+    "date": "2026-07-02",
+    "source": "wayback",
+    "prevTs": "20260602215637",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Plausible: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "Paid vs free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 6,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "plausible-io-20260802175320",
+    "url": "https://plausible.io/#pricing",
+    "ts": "20260802175320",
+    "date": "2026-08-02",
+    "source": "wayback",
+    "prevTs": "20260702034529",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Plausible: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 6,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "plausible-io-20260901092255",
+    "url": "https://plausible.io/#pricing",
+    "ts": "20260901092255",
+    "date": "2026-09-01",
+    "source": "wayback",
+    "prevTs": "20260802175320",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Plausible: 1 limit changed (removed “260B”; added “313B”)",
+    "pairs": [],
+    "added": [
+      "313B"
+    ],
+    "removed": [
+      "260B"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  }
+]

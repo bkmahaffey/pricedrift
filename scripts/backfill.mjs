@@ -15,6 +15,7 @@ const ONLY = args.only ? String(args.only).split(',') : null;
 const LIMIT = args.limit ? Number(args.limit) : Infinity;
 const PACE_MS = Number(args.pace || 1100);
 const PRIMARY = !!args.primary;
+const SPARSE = !!args.sparse; // before 2025: every other monthly capture
 const LOG = path.join(ROOT, 'data', 'runs', 'backfill.log');
 const PROGRESS = path.join(ROOT, 'data', 'runs', 'backfill-progress.json');
 
@@ -47,7 +48,8 @@ async function ia(url, { json = false } = {}) {
 async function captures(url) {
   const q = new URLSearchParams({ url, output: 'json', from: FROM, to: TO, filter: 'statuscode:200', collapse: 'timestamp:6', fl: 'timestamp,digest' });
   const rows = await ia(`https://web.archive.org/cdx/search/cdx?${q}`, { json: true });
-  return rows.slice(1).map(([timestamp, digest]) => ({ timestamp, digest }));
+  const caps = rows.slice(1).map(([timestamp, digest]) => ({ timestamp, digest }));
+  return SPARSE ? caps.filter((c, i) => c.timestamp >= '20250101' || i % 2 === 0 || i === caps.length - 1) : caps;
 }
 
 async function main() {

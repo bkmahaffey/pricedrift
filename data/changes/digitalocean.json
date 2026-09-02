@@ -1,0 +1,620 @@
+[
+  {
+    "id": "digitalocean-com-pricing-droplets-20230506100602",
+    "url": "https://www.digitalocean.com/pricing/droplets",
+    "ts": "20230506100602",
+    "date": "2023-05-06",
+    "source": "wayback",
+    "prevTs": "20230102002909",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "DigitalOcean: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "digitalocean-com-pricing-droplets-20230710063434",
+    "url": "https://www.digitalocean.com/pricing/droplets",
+    "ts": "20230710063434",
+    "date": "2023-07-10",
+    "source": "wayback",
+    "prevTs": "20230506100602",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "DigitalOcean: 1 price changed (added “Enter your email to get $200 in credit for yo…”)",
+    "pairs": [],
+    "added": [
+      "Get started for free",
+      "Enter your email to get $200 in credit for your first 60 days with DigitalOcean."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 127,
+      "added": 7,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "digitalocean-com-pricing-droplets-20240107211858",
+    "url": "https://www.digitalocean.com/pricing/droplets",
+    "ts": "20240107211858",
+    "date": "2024-01-07",
+    "source": "wayback",
+    "prevTs": "20230710063434",
+    "kind": "price",
+    "score": 334,
+    "counts": {
+      "price": 61,
+      "limit": 76,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "DigitalOcean: 61 prices, 76 limits changed (8GiB → 4GiB; 500GiB → 400GiB)",
+    "pairs": [
+      {
+        "before": "8 GiB",
+        "after": "4 GiB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8GiB",
+            "after": "4GiB"
+          }
+        ]
+      },
+      {
+        "before": "500 GiB",
+        "after": "400 GiB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "500GiB",
+            "after": "400GiB"
+          }
+        ]
+      },
+      {
+        "before": "160 GiB",
+        "after": "96 GiB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "160GiB",
+            "after": "96GiB"
+          }
+        ]
+      },
+      {
+        "before": "40 vCPUs",
+        "after": "48 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "40",
+            "after": "48"
+          }
+        ]
+      },
+      {
+        "before": "9,000 GiB",
+        "after": "11,000 GiB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "9,000GiB",
+            "after": "11,000GiB"
+          }
+        ]
+      },
+      {
+        "before": "1,000 GiB",
+        "after": "600 GiB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1,000GiB",
+            "after": "600GiB"
+          }
+        ]
+      },
+      {
+        "before": "4 GiB",
+        "after": "8 GiB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4GiB",
+            "after": "8GiB"
+          }
+        ]
+      },
+      {
+        "before": "4 GiB",
+        "after": "16 GiB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4GiB",
+            "after": "16GiB"
+          }
+        ]
+      },
+      {
+        "before": "8 GiB",
+        "after": "32 GiB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8GiB",
+            "after": "32GiB"
+          }
+        ]
+      },
+      {
+        "before": "16 GiB",
+        "after": "64 GiB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "16GiB",
+            "after": "64GiB"
+          }
+        ]
+      },
+      {
+        "before": "32 GiB",
+        "after": "128 GiB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "32GiB",
+            "after": "128GiB"
+          }
+        ]
+      },
+      {
+        "before": "9,000 GiB",
+        "after": "8,000 GiB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "9,000GiB",
+            "after": "8,000GiB"
+          }
+        ]
+      },
+      {
+        "before": "64 GiB",
+        "after": "160 GiB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "64GiB",
+            "after": "160GiB"
+          }
+        ]
+      },
+      {
+        "before": "32 vCPUs",
+        "after": "40 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "32",
+            "after": "40"
+          }
+        ]
+      },
+      {
+        "before": "800 GiB",
+        "after": "500 GiB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "800GiB",
+            "after": "500GiB"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "2 vCPUs",
+      "4,000 GiB",
+      "50 GiB",
+      "$ 0.10119",
+      "$ 68.00",
+      "16 GiB",
+      "4 vCPUs",
+      "5,000 GiB",
+      "100 GiB",
+      "$ 0.20238",
+      "$ 136.00",
+      "32 GiB",
+      "8 vCPUs",
+      "6,000 GiB",
+      "200 GiB",
+      "$ 0.40476",
+      "$ 272.00",
+      "64 GiB",
+      "16 vCPUs",
+      "7,000 GiB",
+      "400 GiB",
+      "$ 0.80952",
+      "$ 544.00",
+      "128 GiB",
+      "8,000 GiB",
+      "400 GiB",
+      "128 GiB",
+      "32 vCPUs",
+      "8,000 GiB",
+      "800 GiB",
+      "$ 1.61905",
+      "$ 1,088.00",
+      "160 GiB",
+      "40 vCPUs",
+      "$ 2.02381",
+      "$ 1,360.00",
+      "2 vCPUs",
+      "4,000 GiB",
+      "50 GiB",
+      "$ 0.06994"
+    ],
+    "totals": {
+      "removed": 422,
+      "added": 165,
+      "materialRemoved": 261,
+      "materialAdded": 78
+    }
+  },
+  {
+    "id": "digitalocean-com-pricing-droplets-20240502183226",
+    "url": "https://www.digitalocean.com/pricing/droplets",
+    "ts": "20240502183226",
+    "date": "2024-05-02",
+    "source": "wayback",
+    "prevTs": "20240107211858",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "DigitalOcean: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "digitalocean-com-pricing-droplets-20240706011541",
+    "url": "https://www.digitalocean.com/pricing/droplets",
+    "ts": "20240706011541",
+    "date": "2024-07-06",
+    "source": "wayback",
+    "prevTs": "20240502183226",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "DigitalOcean: 1 price changed (added “Sign up and get $200 in credit for your first…”)",
+    "pairs": [],
+    "added": [
+      "Get started for free",
+      "Sign up and get $200 in credit for your first 60 days with DigitalOcean.*"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "digitalocean-com-pricing-droplets-20240901194619",
+    "url": "https://www.digitalocean.com/pricing/droplets",
+    "ts": "20240901194619",
+    "date": "2024-09-01",
+    "source": "wayback",
+    "prevTs": "20240706011541",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "DigitalOcean: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "digitalocean-com-pricing-droplets-20241104160722",
+    "url": "https://www.digitalocean.com/pricing/droplets",
+    "ts": "20241104160722",
+    "date": "2024-11-04",
+    "source": "wayback",
+    "prevTs": "20240901194619",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "DigitalOcean: 1 price changed (added “Each Droplet includes free outbound data tran…”)",
+    "pairs": [],
+    "added": [
+      "Each Droplet includes free outbound data transfer, starting at 500 GiB/month and scaling up to meet your needs. For users with multiple droplets, outbound data transfer is shared between all Droplets each billing cycle. Additional transfer is billed at $ 0.01 per GiB. Please refer to our Product Docs"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 27,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "digitalocean-com-pricing-droplets-20250910064449",
+    "url": "https://www.digitalocean.com/pricing/droplets",
+    "ts": "20250910064449",
+    "date": "2025-09-10",
+    "source": "wayback",
+    "prevTs": "20241104160722",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "DigitalOcean: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "digitalocean-com-pricing-droplets-20251104212911",
+    "url": "https://www.digitalocean.com/pricing/droplets",
+    "ts": "20251104212911",
+    "date": "2025-11-04",
+    "source": "wayback",
+    "prevTs": "20250910064449",
+    "kind": "price",
+    "score": 10,
+    "counts": {
+      "price": 3,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "DigitalOcean: 3 prices, 1 limit changed (removed “Each Droplet includes free outbound data tran…”; added “Each Droplet includes a generous amount of fr…”)",
+    "pairs": [],
+    "added": [
+      "Each Droplet includes a generous amount of free outbound data transfer. The specific amount depends on the Droplet plan you choose, starting from 500 GiB/month. Inbound bandwidth is always free.",
+      "DigitalOcean Droplets are available at a variety of price points, starting from as low as $ 4 per month. Pricing is based on the amount of RAM, CPU, SSD storage, and bandwidth included in your plan.",
+      "Is there a free trial for DigitalOcean Droplets?",
+      "DigitalOcean often provides promotional credits for new users, which can be used to try out Droplets and other services for free. Check the DigitalOcean website for the latest offers."
+    ],
+    "removed": [
+      "Each Droplet includes free outbound data transfer, starting at 500 GiB/month and scaling up to meet your needs. For users with multiple droplets, outbound data transfer is shared between all Droplets each billing cycle. Additional transfer is billed at $ 0.01 per GiB. Please refer to our Product Docs",
+      "I spun up a $4 Droplet, but my monthly bill is more than $4. Why is that?"
+    ],
+    "totals": {
+      "removed": 24,
+      "added": 47,
+      "materialRemoved": 2,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "digitalocean-com-pricing-droplets-20260111125829",
+    "url": "https://www.digitalocean.com/pricing/droplets",
+    "ts": "20260111125829",
+    "date": "2026-01-11",
+    "source": "wayback",
+    "prevTs": "20251104212911",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "DigitalOcean: 1 price changed (added “Percentage-based Backups, set at 20 % (Weekly…”)",
+    "pairs": [],
+    "added": [
+      "Percentage-based Backups, set at 20 % (Weekly) or 30 % (Daily) of Droplet cost. Usage-based plans start at $ 0.01 /GiB per month and offer highly flexible frequencies (up to every 4 hours) and custom retention periods (3 days to 6 months). View complete pricing details for our Backups plans."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 64,
+      "added": 35,
+      "materialRemoved": 31,
+      "materialAdded": 32
+    }
+  },
+  {
+    "id": "digitalocean-com-pricing-droplets-20260403234848",
+    "url": "https://www.digitalocean.com/pricing/droplets",
+    "ts": "20260403234848",
+    "date": "2026-04-03",
+    "source": "wayback",
+    "prevTs": "20260111125829",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "DigitalOcean: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "digitalocean-com-pricing-droplets-20260503015709",
+    "url": "https://www.digitalocean.com/pricing/droplets",
+    "ts": "20260503015709",
+    "date": "2026-05-03",
+    "source": "wayback",
+    "prevTs": "20260403234848",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "DigitalOcean: 3 prices changed (removed “I got a $200 credit when I opened an account.…”; added “How does the $5 free credit work?”)",
+    "pairs": [],
+    "added": [
+      "How does the $5 free credit work?"
+    ],
+    "removed": [
+      "I got a $200 credit when I opened an account. When will my card be charged?",
+      "Get started for free",
+      "Sign up and get $200 in credit for your first 60 days with DigitalOcean.*"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 5,
+      "materialRemoved": 3,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "digitalocean-com-pricing-droplets-20260708132019",
+    "url": "https://www.digitalocean.com/pricing/droplets",
+    "ts": "20260708132019",
+    "date": "2026-07-08",
+    "source": "wayback",
+    "prevTs": "20260503015709",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "DigitalOcean: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "digitalocean-com-pricing-droplets-20260901103025",
+    "url": "https://www.digitalocean.com/pricing/droplets",
+    "ts": "20260901103025",
+    "date": "2026-09-01",
+    "source": "wayback",
+    "prevTs": "20260708132019",
+    "kind": "price",
+    "score": 20,
+    "counts": {
+      "price": 4,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "DigitalOcean: 4 prices, 4 limits changed (5 added)",
+    "pairs": [
+      {
+        "before": "DigitalOcean Droplets are available at a variety of price points, starting from as low as $ 4 per month. Pricing is based on the amount of RAM, CPU, SSD storage, and bandwidth included in your plan.",
+        "after": "DigitalOcean Droplets are available at a variety of price points. Bundled Plans start from as low as $ 4 per month, with pricing based on the amount of RAM, CPU, SSD storage, and bandwidth included in your plan. v5 Droplets are priced hourly based on the resources you configure.",
+        "confidence": 0.71,
+        "deltas": [
+          {
+            "before": null,
+            "after": "5"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0.181 /hour General Purpose • Dedicated CPU:",
+      "(selected: 4 vCPU, 16 GB RAM)",
+      "$0.052 /hour Shared • Shared CPU:",
+      "(selected: 2 vCPU, 4 GB RAM)",
+      "$0.024 /hour Shared • Shared CPU:",
+      "(selected: 1 vCPU, 1 GB RAM)",
+      "$0.36 /hour General Purpose • Dedicated CPU:",
+      "(selected: 8 vCPU, 32 GB RAM)",
+      "Scale up to 64 vCPUs and 512GB RAM in one Droplet",
+      "Bundled Plan and v5 Droplets are both billed on a per-second basis, with a 60-second minimum. Bundled Plans have a monthly cap, so you'll never pay more than the flat monthly price for that plan. v5 Droplets are billed on actual hours used each month and are not capped at 672 hours. Learn more about v5 Droplet pricing"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 44,
+      "materialRemoved": 1,
+      "materialAdded": 11
+    }
+  }
+]

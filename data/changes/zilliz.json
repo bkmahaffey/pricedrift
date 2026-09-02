@@ -1,0 +1,703 @@
+[
+  {
+    "id": "zilliz-com-pricing-20230614190351",
+    "url": "https://zilliz.com/pricing",
+    "ts": "20230614190351",
+    "date": "2023-06-14",
+    "source": "wayback",
+    "prevTs": "20230324035558",
+    "kind": "price",
+    "score": 49,
+    "counts": {
+      "price": 11,
+      "limit": 5,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Zilliz Cloud: 11 prices, 5 limits, 3 plan names changed (7 → 24)",
+    "pairs": [
+      {
+        "before": "Backups every 24h, retained for 7 days",
+        "after": "Data backups every 24 hours, retained for 7 days",
+        "confidence": 0.71,
+        "deltas": [
+          {
+            "before": "7",
+            "after": "24"
+          },
+          {
+            "before": null,
+            "after": "7"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "From $0/month",
+      "Up to 2 free collections",
+      "No credit card required to start",
+      "From $65/month",
+      "Try Free",
+      "No credit card required to start",
+      "(Urgent: 4 hours; High: 1 business day; Normal: 2 business days)",
+      "From $99/month",
+      "24/7/365 Email and Slack support with response time SLAs",
+      "(Urgent: 1 hour; High: 4 hours; Normal: 1 business day)",
+      "CU Size 0 CU",
+      "Storage Size 0.000 GB",
+      "CU Cost $0.00/mo.",
+      "Storage Cost $0.00/mo.",
+      "Total Cost $0.00 /mo."
+    ],
+    "removed": [
+      "Free trial",
+      "30-days free trial with $400 worth of credits",
+      "No credit card required",
+      "Up to 100 GB storage",
+      "$0.259 / hour",
+      "$0.215 / hour",
+      "$0.02 / GB per month",
+      "Unlimited storage",
+      "Configurable snapshot and retention policies ($0.025/GB)",
+      "1 hour response time for urgent issues",
+      "Can I apply for more than 4 CUs for PoC in my free trial?",
+      "Yes. By default, the upper limit of resource usage in the free trial is 4 CUs per database. However, If you need to test a large dataset that requires more resources, please contact us at support@zilliz.com",
+      "We will reply you within 24 hours.",
+      "Start Free Trial"
+    ],
+    "totals": {
+      "removed": 50,
+      "added": 93,
+      "materialRemoved": 16,
+      "materialAdded": 17
+    }
+  },
+  {
+    "id": "zilliz-com-pricing-20240204154133",
+    "url": "https://zilliz.com/pricing",
+    "ts": "20240204154133",
+    "date": "2024-02-04",
+    "source": "wayback",
+    "prevTs": "20230614190351",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Zilliz Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Our pricing calculator is built around vectors. The calculation result may differ if your dataset includes non-vector fields (such as int, string, json, etc.). If your application is capacity-sensitive, we suggest you conduct a proof of concept (PoC) test during the free trial period."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 22,
+      "added": 30,
+      "materialRemoved": 4,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "zilliz-com-pricing-20240416113904",
+    "url": "https://zilliz.com/pricing",
+    "ts": "20240416113904",
+    "date": "2024-04-16",
+    "source": "wayback",
+    "prevTs": "20240204154133",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Zilliz Cloud: 2 prices changed ($65 → $99; $99 → $155)",
+    "pairs": [
+      {
+        "before": "From $65/month",
+        "after": "From $99/month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$65",
+            "after": "$99"
+          }
+        ]
+      },
+      {
+        "before": "From $99/month",
+        "after": "From $155/month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$99",
+            "after": "$155"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 18,
+      "added": 16,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "zilliz-com-pricing-20240715160310",
+    "url": "https://zilliz.com/pricing",
+    "ts": "20240715160310",
+    "date": "2024-07-15",
+    "source": "wayback",
+    "prevTs": "20240416113904",
+    "kind": "price",
+    "score": 29,
+    "counts": {
+      "price": 2,
+      "limit": 5,
+      "plan": 7
+    },
+    "material": true,
+    "headline": "Zilliz Cloud: 2 prices, 5 limits, 7 plan names changed (removed “Up to 2 free collections”; added “Up to 2 free collections, each can hold appro…”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "No credit card required.",
+      "Up to 2 free collections, each can hold approximately 0.5M 768-dim vectors",
+      "Free",
+      "Try Free",
+      "Try Free",
+      "Try Free",
+      "4 hours",
+      "1 hour",
+      "4 hours",
+      "Easy migration from Free tier, Serverless, and Standard.",
+      "From Free tier",
+      "From Free tier and Serverless",
+      "From Free tier, Serverless & Standard",
+      "Dropped collections will be retained for 30 days to facilitate easy recovery.",
+      "Try Free"
+    ],
+    "removed": [
+      "Up to 2 free collections",
+      "No credit card required to start",
+      "No credit card required to start",
+      "Persistent data storage, configurable snapshots, and flexible retention policies ($0.025/GB)",
+      "(Urgent: 4 hours; High: 1 business day; Normal: 2 business days)",
+      "From $155/month",
+      "Data backups every 24 hours, retained for 7 days",
+      "24/7/365 Email and Discord support with response time SLAs",
+      "(Urgent: 1 hour; High: 4 hours; Normal: 1 business day)",
+      "Our pricing calculator is built around vectors. The calculation result may differ if your dataset includes non-vector fields (such as int, string, json, etc.). If your application is capacity-sensitive, we suggest you conduct a proof of concept (PoC) test during the free trial period."
+    ],
+    "totals": {
+      "removed": 101,
+      "added": 176,
+      "materialRemoved": 17,
+      "materialAdded": 23
+    }
+  },
+  {
+    "id": "zilliz-com-pricing-20241005041030",
+    "url": "https://zilliz.com/pricing",
+    "ts": "20241005041030",
+    "date": "2024-10-05",
+    "source": "wayback",
+    "prevTs": "20240715160310",
+    "kind": "price",
+    "score": 19,
+    "counts": {
+      "price": 5,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Zilliz Cloud: 5 prices, 2 limits changed (removed “$0”; added “5 GB storage”)",
+    "pairs": [],
+    "added": [
+      "5 GB storage",
+      "Enough for 1M 768 dim vectors.",
+      "2.5M vCUs",
+      "$4 / Million vCUs",
+      "$65 /mo. (Up to 30-day free trial)"
+    ],
+    "removed": [
+      "No credit card required.",
+      "$0",
+      "Up to 2 free collections, each can hold approximately 0.5M 768-dim vectors",
+      "$0/month",
+      "$99/month"
+    ],
+    "totals": {
+      "removed": 42,
+      "added": 43,
+      "materialRemoved": 5,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "zilliz-com-pricing-20241211165121",
+    "url": "https://zilliz.com/pricing",
+    "ts": "20241211165121",
+    "date": "2024-12-11",
+    "source": "wayback",
+    "prevTs": "20241005041030",
+    "kind": "price",
+    "score": 20,
+    "counts": {
+      "price": 5,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Zilliz Cloud: 5 prices, 3 limits changed ($65 → $99)",
+    "pairs": [
+      {
+        "before": "$65 /mo. (Up to 30-day free trial)",
+        "after": "$99 /mo. (Up to 30-day free trial)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$65",
+            "after": "$99"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0 /mo.",
+      "sub-10 ms",
+      "from $65/mo.",
+      "from $20/mo.",
+      "from $10/mo.",
+      "From Free tier, Serverless & Dedicated(Standard)",
+      "Up to 10 projects",
+      "Up to 10 projects",
+      "Up to 10 projects",
+      "1 hour"
+    ],
+    "removed": [
+      "From Free tier, Serverless & Standard"
+    ],
+    "totals": {
+      "removed": 57,
+      "added": 108,
+      "materialRemoved": 9,
+      "materialAdded": 18
+    }
+  },
+  {
+    "id": "zilliz-com-pricing-20250122092907",
+    "url": "https://zilliz.com/pricing",
+    "ts": "20250122092907",
+    "date": "2025-01-22",
+    "source": "wayback",
+    "prevTs": "20241211165121",
+    "kind": "price",
+    "score": 8,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Zilliz Cloud: 2 prices, 1 limit changed (removed “$4 / Million vCUs”; added “$0.3 /GB per month”)",
+    "pairs": [],
+    "added": [
+      "$0.3 /GB per month"
+    ],
+    "removed": [
+      "$4 / Million vCUs",
+      "CU Usage 0 CU",
+      "Storage Usage 0 GB"
+    ],
+    "totals": {
+      "removed": 30,
+      "added": 29,
+      "materialRemoved": 5,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "zilliz-com-pricing-20250711051951",
+    "url": "https://zilliz.com/pricing",
+    "ts": "20250711051951",
+    "date": "2025-07-11",
+    "source": "wayback",
+    "prevTs": "20250122092907",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Zilliz Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 13,
+      "added": 33,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "zilliz-com-pricing-20250910211159",
+    "url": "https://zilliz.com/pricing",
+    "ts": "20250910211159",
+    "date": "2025-09-10",
+    "source": "wayback",
+    "prevTs": "20250711051951",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Zilliz Cloud: 1 limit changed (added “50-100 ms”)",
+    "pairs": [],
+    "added": [
+      "50-100 ms",
+      "50-500 ms"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 34,
+      "added": 38,
+      "materialRemoved": 1,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "zilliz-com-pricing-20251011105754",
+    "url": "https://zilliz.com/pricing",
+    "ts": "20251011105754",
+    "date": "2025-10-11",
+    "source": "wayback",
+    "prevTs": "20250910211159",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Zilliz Cloud: 1 price changed (added “Evaluate your cost with $200 free credits”)",
+    "pairs": [],
+    "added": [
+      "Evaluate your cost with $200 free credits",
+      "Prices are estimates and may differ from actual costs. We recommend running a Proof of Concept (PoC) using the free credits to validate costs and performance, or contacting us for a tailored cost-optimization plan and additional PoC resources."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 8,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "zilliz-com-pricing-20251101082913",
+    "url": "https://zilliz.com/pricing",
+    "ts": "20251101082913",
+    "date": "2025-11-01",
+    "source": "wayback",
+    "prevTs": "20251011105754",
+    "kind": "price",
+    "score": 39,
+    "counts": {
+      "price": 7,
+      "limit": 3,
+      "plan": 6
+    },
+    "material": true,
+    "headline": "Zilliz Cloud: 7 prices, 3 limits, 6 plan names changed ($99 → 30)",
+    "pairs": [
+      {
+        "before": "$99 /mo. (Up to 30-day free trial)",
+        "after": "Start 30-day Free Trial",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "$99",
+            "after": "30"
+          },
+          {
+            "before": "30",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Start for Free",
+      "From $99 /month (Dedicated)",
+      "From $155 /month (Dedicated)",
+      "20-40 ms",
+      "200-1000 ms",
+      "From $7",
+      "Start for Free",
+      "From free cluster",
+      "Up to 10 projects",
+      "30 min on-call"
+    ],
+    "removed": [
+      "Enough for 1M 768 dim vectors.",
+      "Try Free",
+      "Try Free",
+      "50-500 ms",
+      "from $10/mo.",
+      "Easy migration from Free tier, Serverless, and Standard.",
+      "From Free tier",
+      "From Free tier and Serverless",
+      "From Free tier, Serverless & Dedicated(Standard)",
+      "$0/CU",
+      "$0/GB"
+    ],
+    "totals": {
+      "removed": 120,
+      "added": 138,
+      "materialRemoved": 18,
+      "materialAdded": 17
+    }
+  },
+  {
+    "id": "zilliz-com-pricing-20260221010537",
+    "url": "https://zilliz.com/pricing",
+    "ts": "20260221010537",
+    "date": "2026-02-21",
+    "source": "wayback",
+    "prevTs": "20251101082913",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Zilliz Cloud: 1 price changed ($0.3 → $0)",
+    "pairs": [
+      {
+        "before": "From $0.3 /GB/month (Serverless)",
+        "after": "From $0 /month (Serverless)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.3",
+            "after": "$0"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 9,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "zilliz-com-pricing-20260605023314",
+    "url": "https://zilliz.com/pricing",
+    "ts": "20260605023314",
+    "date": "2026-06-05",
+    "source": "wayback",
+    "prevTs": "20260221010537",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 5,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Zilliz Cloud: 5 prices, 2 limits changed ($99 → $126; $155 → $197)",
+    "pairs": [
+      {
+        "before": "From $99 /GB/month (Dedicated)",
+        "after": "From $126 /GB/month (Dedicated)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$99",
+            "after": "$126"
+          }
+        ]
+      },
+      {
+        "before": "From $155 /month (Dedicated)",
+        "after": "From $197 /month (Dedicated)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$155",
+            "after": "$197"
+          }
+        ]
+      },
+      {
+        "before": "From $65",
+        "after": "From $63",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$65",
+            "after": "$63"
+          }
+        ]
+      },
+      {
+        "before": "From $20",
+        "after": "From $16",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$20",
+            "after": "$16"
+          }
+        ]
+      },
+      {
+        "before": "From $7",
+        "after": "From $5",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$7",
+            "after": "$5"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "100-1000ms"
+    ],
+    "removed": [
+      "20-40 ms",
+      "200-1000 ms"
+    ],
+    "totals": {
+      "removed": 27,
+      "added": 31,
+      "materialRemoved": 7,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "zilliz-com-pricing-20260804172411",
+    "url": "https://zilliz.com/pricing",
+    "ts": "20260804172411",
+    "date": "2026-08-04",
+    "source": "wayback",
+    "prevTs": "20260605023314",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Zilliz Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "zilliz-com-pricing-20260902202107",
+    "url": "https://zilliz.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260804172411",
+    "kind": "limits",
+    "score": 10,
+    "counts": {
+      "price": 0,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Zilliz Cloud: 5 limits changed (10 → 100; 10 → 100)",
+    "pairs": [
+      {
+        "before": "Up to 10 projects",
+        "after": "Up to 100 projects",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10",
+            "after": "100"
+          }
+        ]
+      },
+      {
+        "before": "Up to 10 projects",
+        "after": "Up to 100 projects",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10",
+            "after": "100"
+          }
+        ]
+      },
+      {
+        "before": "Up to 10 projects",
+        "after": "Up to 100 projects",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10",
+            "after": "100"
+          }
+        ]
+      },
+      {
+        "before": "Up to 10 projects",
+        "after": "Up to 100 projects",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10",
+            "after": "100"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Up to 100 projects"
+    ],
+    "removed": [
+      "1 project"
+    ],
+    "totals": {
+      "removed": 17,
+      "added": 20,
+      "materialRemoved": 6,
+      "materialAdded": 6
+    },
+    "transition": true
+  }
+]

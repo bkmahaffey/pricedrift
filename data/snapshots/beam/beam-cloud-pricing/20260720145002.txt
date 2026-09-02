@@ -1,0 +1,242 @@
+$30 Free Credit, Every Month
+Pricing that scales with you
+Flexible pricing for every workload. Choose serverless or on-demand GPUs, pay-as-you-go sandboxes, or BYOC.
+Sandboxes from $0.319 /hr
+· H100s from $1.74 /hr
+Get Started
+Book a Call
+Serverless
+Only pay when your code is running, by the millisecond.
+Get started
+GPU Tasks
+Per hour
+Per second
+Start instantly
+RTX 4090 PCIE
+24 GB VRAM
+24 GB $0.000191667 /sec
+With committed spend
+Book a call →
+B200 SXM6
+180 GB VRAM
+180 GB $0.001561 /sec
+H200 SXM5
+141 GB VRAM
+141 GB $0.001136 /sec
+H100 PCIE
+80 GB VRAM
+80 GB $0.000986 /sec
+RTX PRO 6000 PCIE
+96 GB VRAM
+96 GB $0.000758 /sec
+A100 80GB SXM4
+80 GB VRAM
+80 GB $0.000625 /sec
+L40S PCIE
+48 GB VRAM
+48 GB $0.000486 /sec
+RTX 5090 PCIE
+32 GB VRAM
+32 GB $0.000303 /sec
+A6000 PCIE
+48 GB VRAM
+48 GB $0.000227778 /sec
+CPU and memory
+CPU Physical core (2 vCPU equivalent)
+$0.0000125 /sec · per core
+RAM
+$0.0000021 /sec · per GiB
+Example An endpoint on an RTX 4090 with 2 physical cores ( 4 vCPU) and 16 GiB RAM costs $1.77 /hr. Billed by the millisecond, only while your code is running.
+Sandboxes
+Isolated, secure environments for running untrusted code at scale.
+Get started
+Resource
+Per hour
+Per second
+CPU Physical core (2 vCPU equivalent)
+$0.0000375 /sec · per core
+RAM
+$0.0000064 /sec · per GiB
+Pay by the millisecond, only when the sandbox is running.
+Example A 1 -core ( 2 vCPU) / 8 GiB sandbox costs $0.319 /hr, or $0.0000887 per second.
+On-demand
+One flat price per machine. Includes vCPU, RAM, and NVMe drives.
+Get started
+Machine
+One price per machine · Bare-metal or VMs · Need infiniband? See Clusters
+B200 SXM6
+180 GB VRAM · 28 vCPU · 256 GB RAM · 2 TB NVMe
+from $ 3.93 /hr
+H200 SXM5
+141 GB VRAM · 24 vCPU · 192 GB RAM · 2 TB NVMe
+from $ 1.99 /hr
+H100 PCIE
+80 GB VRAM · 26 vCPU · 200 GB RAM · 1 TB NVMe
+from $ 1.74 /hr
+A100 80GB SXM4
+80 GB VRAM · 16 vCPU · 128 GB RAM · 1 TB NVMe
+from $ 1.30 /hr
+RTX PRO 6000 PCIE
+96 GB VRAM · 16 vCPU · 128 GB RAM · 1 TB NVMe
+from $ 1.04 /hr
+L40S PCIE
+48 GB VRAM · 12 vCPU · 96 GB RAM · 1 TB NVMe
+from $ 0.72 /hr
+RTX 5090 PCIE
+32 GB VRAM · 12 vCPU · 64 GB RAM · 500 GB NVMe
+from $ 0.68 /hr
+A6000 PCIE
+48 GB VRAM · 8 vCPU · 64 GB RAM · 500 GB NVMe
+from $ 0.51 /hr
+RTX 4090 PCIE
+24 GB VRAM · 8 vCPU · 64 GB RAM · 500 GB NVMe
+from $ 0.42 /hr
+Example 8 hours on an H100 machine is $ 13.92. That price already includes the 26 vCPU, 200 GB RAM, and 1 TB NVMe drive.
+Clusters
+Multi-node GPU clusters with InfiniBand, reserved monthly or yearly. Every cluster connects to Beam, so one SDK runs your cluster, serverless workloads, and your own cloud.
+Talk to us
+Cluster
+Reserved · Multi-node · InfiniBand
+H100 SXM
+8 GPU nodes · InfiniBand
+Contact us
+H200 SXM
+8 GPU nodes · InfiniBand
+Contact us
+B200 SXM
+8 GPU nodes · InfiniBand
+Contact us
+B300 SXM
+8 GPU nodes · InfiniBand
+Contact us
+Storage
+Persistent volumes for models, weights, and any data stored.
+Tier
+Up to 1 TB
+Included
+Over 1 TB
+$0.021 per GB / month
+Snapshots
+Included
+Bring your own cloud
+Run workloads in your own cloud, including AWS, GCP, and Azure. Beam manages compute orchestration and the control plane. Pay for the compute using your cloud credits.
+Book a call
+Management Fee
+vCPU
+$0.019/hr per vCPU
+RAM
+$0.009/hr per GB
+Egress & bandwidth
+Free
+Example A g5.2xlarge instance on AWS ( 8 vCPU · 32 GB RAM) costs $ 0.44 /hr in Beam fees. The instance itself is billed directly from your AWS account using your credits.
+Cost calculator
+Pick a GPU (or not), add CPU cores and RAM, and set your monthly usage.
+GPU
+No GPU — CPU only
+RTX 4090 — $ 0.69 /hr
+A6000 — $ 0.82 /hr
+RTX 5090 — $ 1.09 /hr
+L40S — $ 1.75 /hr
+A100 80GB — $ 2.25 /hr
+RTX PRO 6000 — $ 2.73 /hr
+H100 — $ 3.55 /hr
+H200 — $ 4.09 /hr
+B200 — $ 5.62 /hr
+CPU
+2 cores (4 vCPU)
+RAM
+8 GiB
+Usage
+160 hrs/mo
+Your cost GPU $ 0.00
+2 cores (4 vCPU) $ 0.09
+8 GiB RAM $ 0.06
+Rate $ 0.15 /hr
+$0.0000418 /sec × 160 hrs $24.08 /mo
+Usage Tiers
+Developer
+$0
+Per month, plus usage
+Team
+$89
+Per month, plus usage
+Growth
+Contact Us
+Usage
+Monthly Credits
+$30
+Apps
+Unlimited apps
+Cloud Storage Volumes
+Unlimited storage volumes
+Custom Images
+Unlimited custom images
+GPU Concurrency
+5 Containers
+50 Containers
+1,000+ Containers
+CPU Concurrency
+30 Containers
+1000 Containers
+Unlimited Containers
+API Requests
+Unlimited requests
+Log Retention
+30 Days
+1 Year
+Seats
+1 seat
+3 seats included, $25 per additional seat
+Unlimited seats
+Log Export
+Included
+Bandwidth
+Included
+Features
+Cloud Storage Volumes
+Secrets Manager
+Deployment Logs
+Export Your Code
+Keep Warm
+Autoscaling
+Compliance
+SOC2 Compliance
+HIPAA Compliance
+Support
+Community Support
+Live Chat Support
+Private Slack Channel
+Get Started
+Includes $30 Free
+Get Started
+Includes $30 Free
+Get Started
+Includes $30 Free
+Running more than $10K/mo? Volume discounts available — book a call
+Beam is powering hands-down the best developer experience to run models on GPUs easily at scale. Best decision on the infra side for us this year so far.
+Louis Morgner Co-founder, AI lead @ Jamie
+Frase is running language models exclusively on Beam and it was surprisingly easy to migrate, less maintenance, and is saving us money.
+Frankie L. CTO at Frase
+TRUSTED BY THE BEST AI COMPANIES
+Case study
+Frequently asked questions
+How much does storage cost?
+Storage is included up to 1TB, free of charge. Beyond that, it costs $0.021 per GB per month. Snapshots are included.
+I don't want serverless. Can I use Beam while keeping the server running 24/7?
+Yes. By default, apps will spin down automatically after each request, but you can control how long your apps are active. Many customers with latency-sensitive workloads choose to keep their servers running 24/7 on Beam.
+Am I billed for cold start?
+No. We only charge for the time to load your application code. We don’t charge for the time to spin up a server or load your container image.
+I have an existing Docker image. Can I use it on Beam?
+Yes. You can import any base image from a third-party image registry onto Beam.
+How secure is Beam?
+Workloads are isolated from one another and run in non-root containers. We also offer a self-hosted product which runs entirely in your own environment, ensuring that no data leaves your VPC.
+Can I run Beam in my own cloud account?
+Yes. With Bring Your Own Cloud, Beam manages workloads directly on instances in your AWS or GCP account, so you can use your existing cloud credits and negotiated rates. You pay Beam a flat management fee of $0.019/hr per vCPU and $0.009/hr per GB of RAM — the compute itself is billed to your cloud account.
+Do you charge for egress or bandwidth?
+No. There are no egress or bandwidth fees on any plan.
+$30 free credit refreshed monthly
+Start shipping on infra
+you won’t outgrow.
+Run sandboxes and GPU workloads on your cloud, and scale out to ours when you need to. No infra to manage.
+Start Building
+Read the docs

@@ -1,0 +1,1637 @@
+[
+  {
+    "id": "assemblyai-com-pricing-20230712110047",
+    "url": "https://www.assemblyai.com/pricing",
+    "ts": "20230712110047",
+    "date": "2023-07-12",
+    "source": "wayback",
+    "prevTs": "20230315151454",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 5,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "AssemblyAI: 5 prices, 1 limit, 1 plan name changed (removed “Core Transcription $0.00025/second”; added “$0.000118”)",
+    "pairs": [],
+    "added": [
+      "$0.000118",
+      "$0.000036 LeMUR BASIC *in addition to Core Transcription pricing",
+      "Audio files up to 10 hours long"
+    ],
+    "removed": [
+      "Try the API for free",
+      "Try the API for free",
+      "Core Transcription $0.00025/second",
+      "Audio Intelligence $0.000583/second",
+      "$900 /mo"
+    ],
+    "totals": {
+      "removed": 36,
+      "added": 56,
+      "materialRemoved": 5,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "assemblyai-com-pricing-20230908161024",
+    "url": "https://www.assemblyai.com/pricing",
+    "ts": "20230908161024",
+    "date": "2023-09-08",
+    "source": "wayback",
+    "prevTs": "20230712110047",
+    "kind": "price",
+    "score": 66,
+    "counts": {
+      "price": 19,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "AssemblyAI: 19 prices, 5 limits changed (removed “$0.00025”; added “$0.650016”)",
+    "pairs": [],
+    "added": [
+      "$0.650016",
+      "$0.75024",
+      "Speech recognition with <600 ms of latency",
+      "$0.30 / hour",
+      "$0.25 / hour",
+      "$0.15 / hour",
+      "$0.06 / hour",
+      "$0.20 / hour",
+      "$0.05 / hour",
+      "$0.12 / hour",
+      "$0.06 / hour",
+      "$0.20 / hour",
+      "$ 0.017 / 1K tokens",
+      "$ 0.049 / 1K tokens",
+      "$ 0.004 / 1K tokens",
+      "$ 0.008 / 1K tokens",
+      "7,500 tokens (30m audio file)",
+      "15,000 tokens (60m audio file)",
+      "30,000 tokens (120m audio file)",
+      "500 tokens (375 words)",
+      "1,000 tokens (750 words)",
+      "2,000 tokens (1500 words)",
+      "In the context of a Large Language Model (LLM), a \"token\" is the smallest unit of text processed by the model. 100 tokens roughly maps to ~75 words.",
+      "Try the API for free"
+    ],
+    "removed": [
+      "$0.00025",
+      "$0.000583",
+      "$0.000118",
+      "$0.000036 LeMUR BASIC *in addition to Core Transcription pricing",
+      "Audio files up to 10 hours long"
+    ],
+    "totals": {
+      "removed": 48,
+      "added": 112,
+      "materialRemoved": 5,
+      "materialAdded": 24
+    }
+  },
+  {
+    "id": "assemblyai-com-pricing-20231209082554",
+    "url": "https://www.assemblyai.com/pricing",
+    "ts": "20231209082554",
+    "date": "2023-12-09",
+    "source": "wayback",
+    "prevTs": "20230908161024",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "AssemblyAI: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "assemblyai-com-pricing-20240408223502",
+    "url": "https://www.assemblyai.com/pricing",
+    "ts": "20240408223502",
+    "date": "2024-04-08",
+    "source": "wayback",
+    "prevTs": "20231209082554",
+    "kind": "price",
+    "score": 119,
+    "counts": {
+      "price": 25,
+      "limit": 7,
+      "plan": 15
+    },
+    "material": true,
+    "headline": "AssemblyAI: 25 prices, 7 limits, 15 plan names changed ($0.30 → $0.37; $0.25 → $0.12)",
+    "pairs": [
+      {
+        "before": "$0.30 / hour",
+        "after": "$0.37 / hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.30",
+            "after": "$0.37"
+          }
+        ]
+      },
+      {
+        "before": "$0.25 / hour",
+        "after": "$0.12 / hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.25",
+            "after": "$0.12"
+          }
+        ]
+      },
+      {
+        "before": "$0.06 / hour",
+        "after": "$0.01 / hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.06",
+            "after": "$0.01"
+          }
+        ]
+      },
+      {
+        "before": "$0.12 / hour",
+        "after": "$0.02 / hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.12",
+            "after": "$0.02"
+          }
+        ]
+      },
+      {
+        "before": "$0.06 / hour",
+        "after": "$0.03 / hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.06",
+            "after": "$0.03"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free",
+      "Transcribe up to 100 hours of audio",
+      "Start building for free",
+      "Start as low as $0.12/hr for Speech-to-Text",
+      "Unlimited access to Speech-to-Text, Audio Intelligence, and LeMUR",
+      "Concurrency starting at 200 files and 100 streams",
+      "Free",
+      "Free",
+      "Start for free",
+      "Free",
+      "Free",
+      "$0.47 / hour",
+      "$0.015 / 1K tokens (Input)",
+      "$0.043 / 1K tokens (Output)",
+      "$0.015 / 1K tokens (Input)",
+      "$0.043 / 1K tokens (Output)",
+      "$0.002 / 1K tokens (Input)",
+      "$0.005 / 1K tokens (Output)",
+      "Free",
+      "$0.08 / hour",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "$0.08 / hour",
+      "Free",
+      "Free",
+      "$0.15 / hour",
+      "Free",
+      "$0.08 / hour",
+      "Free",
+      "Up to 100 hours",
+      "Unlimited",
+      "5 files",
+      "Starting at 200 files",
+      "Can I sign up for free?"
+    ],
+    "removed": [
+      "$0.650016",
+      "$0.75024",
+      "Speech recognition with <600 ms of latency",
+      "$0.20 / hour",
+      "$0.20 / hour",
+      "$ 0.017 / 1K tokens",
+      "$ 0.049 / 1K tokens",
+      "$ 0.004 / 1K tokens",
+      "$ 0.008 / 1K tokens",
+      "7,500 tokens (30m audio file)",
+      "15,000 tokens (60m audio file)",
+      "30,000 tokens (120m audio file)",
+      "500 tokens (375 words)",
+      "1,000 tokens (750 words)",
+      "2,000 tokens (1500 words)",
+      "Yes! You can use the API for free on a limited trial. Simply add a credit card to your account at any time to upgrade from the trial.",
+      "Files take around 25% of their duration to process. For example, a 20 minute audio or video file would take 5 minutes to process.",
+      "Feel free to email us at support@assemblyai.com, or click the chat button in the bottom right corner of your browser to chat live with our API Support team!",
+      "In the context of a Large Language Model (LLM), a \"token\" is the smallest unit of text processed by the model. 100 tokens roughly maps to ~75 words.",
+      "Try the API for free"
+    ],
+    "totals": {
+      "removed": 131,
+      "added": 142,
+      "materialRemoved": 25,
+      "materialAdded": 41
+    }
+  },
+  {
+    "id": "assemblyai-com-pricing-20240913125918",
+    "url": "https://www.assemblyai.com/pricing",
+    "ts": "20240913125918",
+    "date": "2024-09-13",
+    "source": "wayback",
+    "prevTs": "20240408223502",
+    "kind": "price",
+    "score": 54,
+    "counts": {
+      "price": 17,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "AssemblyAI: 17 prices, 2 limits changed (100 → 416)",
+    "pairs": [
+      {
+        "before": "Up to 100 hours",
+        "after": "Up to 416 hours",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100",
+            "after": "416"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Get started with $50 in free credits",
+      "$0.003 / 1K tokens (Input)",
+      "$0.015 / 1K tokens (Output)",
+      "$0.003 / 1K tokens (Input)",
+      "$0.015 / 1K tokens (Output)",
+      "$0.075 / 1K tokens (Output)",
+      "$0.015 / 1K tokens (Input)",
+      "$0.075 / 1K tokens (Output)",
+      "$0.00025 / 1K tokens (Input)",
+      "$0.00125 / 1K tokens (Output)",
+      "$0.00025 / 1K tokens (Input)",
+      "$0.00125 / 1K tokens (Output)",
+      "$0.003 / 1K tokens (Input)",
+      "$0.015 / 1K tokens (Output)",
+      "$0.003 / 1K tokens (Input)",
+      "$0.015 / 1K tokens (Output)",
+      "$0.015 / 1K tokens (Input)"
+    ],
+    "removed": [
+      "Transcribe up to 100 hours of audio"
+    ],
+    "totals": {
+      "removed": 8,
+      "added": 31,
+      "materialRemoved": 2,
+      "materialAdded": 18
+    }
+  },
+  {
+    "id": "assemblyai-com-pricing-20241126232946",
+    "url": "https://www.assemblyai.com/pricing",
+    "ts": "20241126232946",
+    "date": "2024-11-26",
+    "source": "wayback",
+    "prevTs": "20240913125918",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "AssemblyAI: 2 prices changed (removed “$0.002 / 1K tokens (Input)”)",
+    "pairs": [],
+    "added": [
+      "Try our API for free"
+    ],
+    "removed": [
+      "$0.002 / 1K tokens (Input)",
+      "$0.005 / 1K tokens (Output)"
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 6,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "assemblyai-com-pricing-20250211075315",
+    "url": "https://www.assemblyai.com/pricing",
+    "ts": "20250211075315",
+    "date": "2025-02-11",
+    "source": "wayback",
+    "prevTs": "20241126232946",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 4,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "AssemblyAI: 4 prices changed (removed “$0.015 / 1K tokens (Input)”)",
+    "pairs": [],
+    "added": [
+      "Includes all features of the Free plan"
+    ],
+    "removed": [
+      "$0.015 / 1K tokens (Input)",
+      "$0.043 / 1K tokens (Output)",
+      "$0.015 / 1K tokens (Input)",
+      "$0.043 / 1K tokens (Output)"
+    ],
+    "totals": {
+      "removed": 12,
+      "added": 4,
+      "materialRemoved": 4,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "assemblyai-com-pricing-20250311091953",
+    "url": "https://www.assemblyai.com/pricing",
+    "ts": "20250311091953",
+    "date": "2025-03-11",
+    "source": "wayback",
+    "prevTs": "20250211075315",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "AssemblyAI: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Includes all features of the Free plan"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 7,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "assemblyai-com-pricing-20250407203633",
+    "url": "https://www.assemblyai.com/pricing",
+    "ts": "20250407203633",
+    "date": "2025-04-07",
+    "source": "wayback",
+    "prevTs": "20250311091953",
+    "kind": "price",
+    "score": 55,
+    "counts": {
+      "price": 4,
+      "limit": 2,
+      "plan": 20
+    },
+    "material": true,
+    "headline": "AssemblyAI: 4 prices, 2 limits, 20 plan names changed (added “Transcribe up to 416 hours of audio for free”)",
+    "pairs": [],
+    "added": [
+      "Transcribe up to 416 hours of audio for free",
+      "Start building with $50 of free credit",
+      "Free up to $50",
+      "Free up to $50",
+      "Free",
+      "Start for free",
+      "Free",
+      "Start for free",
+      "Included in free credits",
+      "Included in free credits",
+      "Included in free credits",
+      "Included in free credits",
+      "Included in free credits",
+      "Included in free credits",
+      "Included in free credits",
+      "Included in free credits",
+      "Included in free credits",
+      "Free",
+      "Start for free",
+      "Free",
+      "Start for free",
+      "Yes! With the free offer, you get $50 in credits to use towards AssemblyAI’s Speech-to-Text APIs. To add more credits and gain access to Streaming and LeMUR, simply add a credit card to your account.",
+      "For example, if you sent a 5-minute recording with three channels, you would be billed for the 5 minutes of audio multiplied by the standard rate, with that total multiplied by three channels. This is equivalent to being billed for 15 minutes of audio.",
+      "Feel free to email us at support@assemblyai.com",
+      "In the context of a Large Language Model (LLM), a “token” is the smallest unit of text processed by the model. 100 tokens roughly maps to ~75 words."
+    ],
+    "removed": [
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free"
+    ],
+    "totals": {
+      "removed": 69,
+      "added": 142,
+      "materialRemoved": 41,
+      "materialAdded": 54
+    }
+  },
+  {
+    "id": "assemblyai-com-pricing-20250514105438",
+    "url": "https://www.assemblyai.com/pricing",
+    "ts": "20250514105438",
+    "date": "2025-05-14",
+    "source": "wayback",
+    "prevTs": "20250407203633",
+    "kind": "price",
+    "score": 28,
+    "counts": {
+      "price": 9,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "AssemblyAI: 9 prices, 1 limit changed (added “$0.37 /hr”)",
+    "pairs": [],
+    "added": [
+      "$0.37 /hr",
+      "Only available in our Slam-1 model. Provide up to 1000 domain-specific words or phrases that may appear in your audio.",
+      "$0.003 / 1k tokens (Input)",
+      "$0.015 / 1k tokens (Output)",
+      "$0.003 / 1k tokens (Input)",
+      "$0.015 / 1k tokens (Output)",
+      "$0.0008 / 1k tokens (Input)",
+      "$0.004 / 1k tokens (Output)",
+      "$0.0008 / 1k tokens (Input)",
+      "$0.004 / 1k tokens (Output)"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 20,
+      "added": 44,
+      "materialRemoved": 3,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "assemblyai-com-pricing-20250617192902",
+    "url": "https://www.assemblyai.com/pricing",
+    "ts": "20250617192902",
+    "date": "2025-06-17",
+    "source": "wayback",
+    "prevTs": "20250514105438",
+    "kind": "price",
+    "score": 33,
+    "counts": {
+      "price": 8,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "AssemblyAI: 8 prices, 5 limits changed (416 → 333; $0.12 → $0.15)",
+    "pairs": [
+      {
+        "before": "Transcribe up to 416 hours of prerecorded audio for free",
+        "after": "Transcribe up to 333 hours of streaming audio for free",
+        "confidence": 0.71,
+        "deltas": [
+          {
+            "before": "416",
+            "after": "333"
+          }
+        ]
+      },
+      {
+        "before": "Start as low as $0.12/hr for Speech-to-Text",
+        "after": "Start as low as $0.15/hr for Streaming Speech-to-Text",
+        "confidence": 0.83,
+        "deltas": [
+          {
+            "before": "$0.12",
+            "after": "$0.15"
+          }
+        ]
+      },
+      {
+        "before": "Up to 416 hours",
+        "after": "Up to 185 hours",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "416",
+            "after": "185"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Transcribe up to 185 hours of pre-recorded audio for free",
+      "Unlimited concurrent streams",
+      "$0.27 /hr",
+      "$0.27 /hr",
+      "Ultra-fast, ultra-accurate, built-in turn detection, and unlimited concurrency",
+      "$0.15 /hr",
+      "Up to 333 hours",
+      "Unlimited",
+      "Starts at 200 files",
+      "Unlimited",
+      "Unlimited",
+      "We don't limit how many streams you can run simultaneously - only how quickly you can start new ones, giving you unlimited scale while ensuring reliable performance.",
+      "Most audio files sent to AssemblyAI's API can be processed in less than 60 seconds. For example, you ca process a 30 minute pre-recorded audio file in 23 seconds with Universal speech-to-text model."
+    ],
+    "removed": [
+      "Concurrency starting at 200 files and 100 streams",
+      "$0.37 /hr",
+      "$0.37 /hr",
+      "$0.12 /hr",
+      "$0.47 /hr"
+    ],
+    "totals": {
+      "removed": 36,
+      "added": 43,
+      "materialRemoved": 11,
+      "materialAdded": 19
+    }
+  },
+  {
+    "id": "assemblyai-com-pricing-20250730152036",
+    "url": "https://www.assemblyai.com/pricing",
+    "ts": "20250730152036",
+    "date": "2025-07-30",
+    "source": "wayback",
+    "prevTs": "20250617192902",
+    "kind": "price",
+    "score": 118,
+    "counts": {
+      "price": 30,
+      "limit": 4,
+      "plan": 10
+    },
+    "material": true,
+    "headline": "AssemblyAI: 30 prices, 4 limits, 10 plan names changed ($0.003 → $0.015; $0.015 → $0.075)",
+    "pairs": [
+      {
+        "before": "$0.003 / 1k tokens (Input)",
+        "after": "$0.015 / 1k tokens (Input)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.003",
+            "after": "$0.015"
+          }
+        ]
+      },
+      {
+        "before": "$0.015 / 1k tokens (Output)",
+        "after": "$0.075 / 1k tokens (output)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.015",
+            "after": "$0.075"
+          }
+        ]
+      },
+      {
+        "before": "$0.003 / 1k tokens (Input)",
+        "after": "$0.015 / 1k tokens (Input)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.003",
+            "after": "$0.015"
+          }
+        ]
+      },
+      {
+        "before": "$0.015 / 1k tokens (Output)",
+        "after": "$0.075 / 1k tokens (output)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.015",
+            "after": "$0.075"
+          }
+        ]
+      },
+      {
+        "before": "$0.0008 / 1k tokens (Input)",
+        "after": "$0.003 / 1k tokens (Input)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.0008",
+            "after": "$0.003"
+          }
+        ]
+      },
+      {
+        "before": "$0.004 / 1k tokens (Output)",
+        "after": "$0.015 / 1k tokens (output)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.004",
+            "after": "$0.015"
+          }
+        ]
+      },
+      {
+        "before": "$0.0008 / 1k tokens (Input)",
+        "after": "$0.003 / 1k tokens (Input)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.0008",
+            "after": "$0.003"
+          }
+        ]
+      },
+      {
+        "before": "$0.004 / 1k tokens (Output)",
+        "after": "$0.015 / 1k tokens (output)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.004",
+            "after": "$0.015"
+          }
+        ]
+      },
+      {
+        "before": "$0.015 / 1k tokens (Input)",
+        "after": "$0.003 / 1k tokens (Input)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.015",
+            "after": "$0.003"
+          }
+        ]
+      },
+      {
+        "before": "$0.075 / 1k tokens (Output)",
+        "after": "$0.015 / 1k tokens (output)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.075",
+            "after": "$0.015"
+          }
+        ]
+      },
+      {
+        "before": "$0.015 / 1k tokens (Input)",
+        "after": "$0.003 / 1k tokens (Input)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.015",
+            "after": "$0.003"
+          }
+        ]
+      },
+      {
+        "before": "$0.075 / 1k tokens (Output)",
+        "after": "$0.015 / 1k tokens (output)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.075",
+            "after": "$0.015"
+          }
+        ]
+      },
+      {
+        "before": "$0.00025 / 1k tokens (Input)",
+        "after": "$0.0008 / 1k tokens (Input)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.00025",
+            "after": "$0.0008"
+          }
+        ]
+      },
+      {
+        "before": "$0.00125 / 1k tokens (Output)",
+        "after": "$0.004 / 1k tokens (output)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.00125",
+            "after": "$0.004"
+          }
+        ]
+      },
+      {
+        "before": "$0.00025 / 1k tokens (Input)",
+        "after": "$0.0008 / 1k tokens (Input)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.00025",
+            "after": "$0.0008"
+          }
+        ]
+      },
+      {
+        "before": "$0.00125 / 1k tokens (Output)",
+        "after": "$0.004 / 1k tokens (output)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.00125",
+            "after": "$0.004"
+          }
+        ]
+      },
+      {
+        "before": "$0.003 / 1k tokens (Input)",
+        "after": "$0.015 / 1k tokens (Input)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.003",
+            "after": "$0.015"
+          }
+        ]
+      },
+      {
+        "before": "$0.015 / 1k tokens (Output)",
+        "after": "$0.075 / 1k tokens (output)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.015",
+            "after": "$0.075"
+          }
+        ]
+      },
+      {
+        "before": "$0.003 / 1k tokens (Input)",
+        "after": "$0.015 / 1k tokens (Input)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.003",
+            "after": "$0.015"
+          }
+        ]
+      },
+      {
+        "before": "$0.015 / 1k tokens (Output)",
+        "after": "$0.075 / 1k tokens (output)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.015",
+            "after": "$0.075"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Start for free, pay as you go",
+      "$50 in free credits, good for up to 185 hours of pre-recorded audio or 333 hours of streaming audio transcription",
+      "Scalable processing with unlimited concurrency available and customizable rate limits for any workload",
+      "$0.00025 / 1k tokens (Input)",
+      "$0.00125 / 1k tokens (output)",
+      "$0.00025 / 1k tokens (Input)",
+      "$0.00125 / 1k tokens (output)"
+    ],
+    "removed": [
+      "Start building with $50 of free credits",
+      "Transcribe up to 185 hours of pre-recorded audio for free",
+      "Transcribe up to 333 hours of streaming audio for free",
+      "Start building for free",
+      "Start as low as $0.15/hr for Streaming Speech-to-Text",
+      "Unlimited access to Speech-to-Text, Audio Intelligence, and LeMUR",
+      "Pre-recorded concurrency starting at 200 files",
+      "Unlimited concurrent streams",
+      "Free",
+      "Start for free",
+      "Free up to $50",
+      "Free up to $50",
+      "Only available in our Slam-1 model. Provide up to 1000 domain-specific words or phrases that may appear in your audio.",
+      "Free",
+      "Start for free",
+      "Free up to $50",
+      "Free",
+      "Start for free",
+      "Included in free credits",
+      "Included in free credits",
+      "Included in free credits",
+      "Included in free credits",
+      "Included in free credits",
+      "Included in free credits",
+      "Included in free credits",
+      "Included in free credits",
+      "Included in free credits",
+      "Free",
+      "Start for free",
+      "Up to 185 hours",
+      "Unlimited",
+      "Up to 333 hours",
+      "Unlimited",
+      "5 files",
+      "Starts at 200 files",
+      "Unlimited",
+      "Unlimited",
+      "Free",
+      "Start for free"
+    ],
+    "totals": {
+      "removed": 185,
+      "added": 84,
+      "materialRemoved": 64,
+      "materialAdded": 32
+    }
+  },
+  {
+    "id": "assemblyai-com-pricing-20250907045850",
+    "url": "https://www.assemblyai.com/pricing",
+    "ts": "20250907045850",
+    "date": "2025-09-07",
+    "source": "wayback",
+    "prevTs": "20250730152036",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "AssemblyAI: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 6,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "assemblyai-com-pricing-20251115221119",
+    "url": "https://www.assemblyai.com/pricing",
+    "ts": "20251115221119",
+    "date": "2025-11-15",
+    "source": "wayback",
+    "prevTs": "20250907045850",
+    "kind": "price",
+    "score": 221,
+    "counts": {
+      "price": 72,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "AssemblyAI: 72 prices, 3 limits changed (removed “$50 in free credits, good for up to 185 hours…”; added “Transcribe up to 185 hours of pre-recorded au…”)",
+    "pairs": [],
+    "added": [
+      "Start for free, scale seamlessly, and only pay for what you use. AssemblyAI's usage-based pricing has no up-front commits or contracts and decreasing rates as you scale.",
+      "Transcribe up to 185 hours of pre-recorded audio for free",
+      "Transcribe up to 333 hours of streaming audio for free",
+      "Get started for free",
+      "Unlimited access to Speech-to-Text, Audio Intelligence, and LeMUR",
+      "Unlimited concurrent streams and pre-recorded concurrency starting at 200 files",
+      "$0.15 /hr 1",
+      "$0.27 /hr 1",
+      "$0.15 /hr 1",
+      "Ultra-fast, ultra-accurate real-time transcription in six languages. Built-in turn detection, and unlimited concurrency.",
+      "$0.15 /hr 1",
+      "$0.04 /hr",
+      "$0.06 /hr",
+      "$0.02 /hr",
+      "$0.01 /hr",
+      "$0.03 /hr",
+      "$1.25 / 1m tokens (Input)",
+      "$10.00 / 1m tokens (output)",
+      "$0.25 / 1m tokens (Input)",
+      "$2.00 / 1m tokens (output)",
+      "$0.05 / 1m tokens (Input)",
+      "$0.40 / 1m tokens (output)",
+      "$2.00 / 1m tokens (Input)",
+      "$8.00 / 1m tokens (output)",
+      "gpt-oss-20b",
+      "$0.07 / 1m tokens (Input)",
+      "$0.30 / 1m tokens (output)",
+      "gpt-oss-120b",
+      "$0.15 / 1m tokens (Input)",
+      "$0.60 / 1m tokens (output)",
+      "$5.00 / 1m tokens (Input)",
+      "$15.00 / 1m tokens (output)",
+      "$0.10 / 1m tokens (Input)",
+      "$0.40 / 1m tokens (output)",
+      "$0.30 / 1m tokens (Input)",
+      "$2.50 / 1m tokens (output)",
+      "$1.25 / 1m tokens (Input)",
+      "$10.00 / 1m tokens (output)",
+      "$3.00 / 1m tokens (Input)",
+      "$15.00 / 1m tokens (output)"
+    ],
+    "removed": [
+      "Start for free, pay as you go",
+      "$50 in free credits, good for up to 185 hours of pre-recorded audio or 333 hours of streaming audio transcription",
+      "Scalable processing with unlimited concurrency available and customizable rate limits for any workload",
+      "$0.27 /hr",
+      "$0.27 /hr",
+      "$0.015 / 1k tokens (Input)",
+      "$0.075 / 1k tokens (output)",
+      "$0.015 / 1k tokens (Input)",
+      "$0.075 / 1k tokens (output)",
+      "$0.003 / 1k tokens (Input)",
+      "$0.015 / 1k tokens (output)",
+      "$0.003 / 1k tokens (Input)",
+      "$0.015 / 1k tokens (output)",
+      "$0.003 / 1k tokens (Input)",
+      "$0.015 / 1k tokens (output)",
+      "$0.003 / 1k tokens (Input)",
+      "$0.015 / 1k tokens (output)",
+      "$0.003 / 1k tokens (Input)",
+      "$0.015 / 1k tokens (output)",
+      "$0.003 / 1k tokens (Input)",
+      "$0.015 / 1k tokens (output)",
+      "$0.0008 / 1k tokens (Input)",
+      "$0.004 / 1k tokens (output)",
+      "$0.0008 / 1k tokens (Input)",
+      "$0.004 / 1k tokens (output)",
+      "$0.015 / 1k tokens (Input)",
+      "$0.075 / 1k tokens (output)",
+      "$0.015 / 1k tokens (Input)",
+      "$0.075 / 1k tokens (output)",
+      "$0.00025 / 1k tokens (Input)",
+      "$0.00125 / 1k tokens (output)",
+      "$0.00025 / 1k tokens (Input)",
+      "$0.00125 / 1k tokens (output)"
+    ],
+    "totals": {
+      "removed": 78,
+      "added": 140,
+      "materialRemoved": 37,
+      "materialAdded": 54
+    }
+  },
+  {
+    "id": "assemblyai-com-pricing-20251230144857",
+    "url": "https://www.assemblyai.com/pricing",
+    "ts": "20251230144857",
+    "date": "2025-12-30",
+    "source": "wayback",
+    "prevTs": "20251115221119",
+    "kind": "price",
+    "score": 30,
+    "counts": {
+      "price": 10,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "AssemblyAI: 10 prices changed ($0.10 → $2.00; $0.40 → $12.00)",
+    "pairs": [
+      {
+        "before": "$0.10 / 1m tokens (Input)",
+        "after": "$2.00 / 1m tokens (Input)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.10",
+            "after": "$2.00"
+          }
+        ]
+      },
+      {
+        "before": "$0.40 / 1m tokens (output)",
+        "after": "$12.00 / 1m tokens (output)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.40",
+            "after": "$12.00"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$1.75 / 1m tokens (Input)",
+      "$14.00 / 1m tokens (output)",
+      "$1.25 / 1m tokens (Input)",
+      "$10.00 / 1m tokens (output)",
+      "$0.50 / 1m tokens (Input)",
+      "$3.00 / 1m tokens (output)",
+      "$1.25 / 1m tokens (Input)",
+      "$10.00 / 1m tokens (output)"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 25,
+      "materialRemoved": 3,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "assemblyai-com-pricing-20260110055547",
+    "url": "https://www.assemblyai.com/pricing",
+    "ts": "20260110055547",
+    "date": "2026-01-10",
+    "source": "wayback",
+    "prevTs": "20251230144857",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "AssemblyAI: 1 price changed (added “$0.02 /hr”)",
+    "pairs": [],
+    "added": [
+      "$0.02 /hr"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 6,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "assemblyai-com-pricing-20260217051352",
+    "url": "https://www.assemblyai.com/pricing",
+    "ts": "20260217051352",
+    "date": "2026-02-17",
+    "source": "wayback",
+    "prevTs": "20260110055547",
+    "kind": "price",
+    "score": 16,
+    "counts": {
+      "price": 5,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "AssemblyAI: 5 prices, 1 limit changed ($1.25 → $0.10; $10.00 → $0.40)",
+    "pairs": [
+      {
+        "before": "$1.25 / 1m tokens (Input)",
+        "after": "$0.10 / 1m tokens (Input)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.25",
+            "after": "$0.10"
+          }
+        ]
+      },
+      {
+        "before": "$10.00 / 1m tokens (output)",
+        "after": "$0.40 / 1m tokens (output)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$10.00",
+            "after": "$0.40"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Unlimited access to Speech-to-Text, Speech Understanding, and LLM Gateway",
+      "Provide up to 1,000 words or phrases (maximum 6 words per phrase) to improve transcription accuracy.",
+      "$0.21 /hr 1",
+      "$0.05 /hr"
+    ],
+    "removed": [
+      "Unlimited access to Speech-to-Text, Audio Intelligence, and LeMUR",
+      "$0.27 /hr 1"
+    ],
+    "totals": {
+      "removed": 16,
+      "added": 26,
+      "materialRemoved": 5,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "assemblyai-com-pricing-20260310115824",
+    "url": "https://www.assemblyai.com/pricing",
+    "ts": "20260310115824",
+    "date": "2026-03-10",
+    "source": "wayback",
+    "prevTs": "20260217051352",
+    "kind": "price",
+    "score": 37,
+    "counts": {
+      "price": 12,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "AssemblyAI: 12 prices, 1 limit changed (removed “$0.21 /hr 1”; added “$0.21 /hr”)",
+    "pairs": [],
+    "added": [
+      "$0.21 /hr",
+      "$0.15 /hr",
+      "Provide up to 100 words or phrases (maximum 6 words per phrase) to improve transcription accuracy.",
+      "$0.45 /hr",
+      "$0.05 /hr",
+      "$0.15 /hr",
+      "$0.15 /hr",
+      "Open-source Whisper model enhanced with AssemblyAI's reliable infrastructure and unlimited scale. Supports 99+ languages at an accessible price point.",
+      "$0.30 /hr",
+      "$0.12 /hr"
+    ],
+    "removed": [
+      "$0.21 /hr 1",
+      "$0.15 /hr 1",
+      "Ultra-fast, ultra-accurate real-time transcription. Built-in turn detection, and unlimited concurrency.",
+      "$0.15 /hr 1",
+      "Ultra-fast, ultra-accurate real-time transcription in English, Spanish, French, German, Italian, and Portuguese. Built-in turn detection, and unlimited concurrency.",
+      "$0.15 /hr 1"
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 35,
+      "materialRemoved": 6,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "assemblyai-com-pricing-20260410183610",
+    "url": "https://www.assemblyai.com/pricing",
+    "ts": "20260410183610",
+    "date": "2026-04-10",
+    "source": "wayback",
+    "prevTs": "20260310115824",
+    "kind": "price",
+    "score": 47,
+    "counts": {
+      "price": 14,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "AssemblyAI: 14 prices, 3 limits changed (185 → 333)",
+    "pairs": [
+      {
+        "before": "Transcribe up to 185 hours of pre-recorded audio for free",
+        "after": "Transcribe up to 333 hours of pre-recorded or streaming audio for free",
+        "confidence": 0.88,
+        "deltas": [
+          {
+            "before": "185",
+            "after": "333"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0.15 /hr",
+      "$0.15 /hr",
+      "$3.00 / 1m tokens (Input)",
+      "$15.00 / 1m tokens (Output)",
+      "$5.00 / 1m tokens (Input)",
+      "$25.00 / 1m tokens (Output)",
+      "$5.00 / 1m tokens (Input)",
+      "$25.00 / 1m tokens (Output)",
+      "Qwen3 Next 80B A3B",
+      "$0.15 / 1m tokens (Input)",
+      "$1.20 / 1m tokens (Output)",
+      "Qwen3 32B",
+      "$0.15 / 1m tokens (Input)",
+      "$0.60 / 1m tokens (Output)",
+      "$0.60 / 1m tokens (Input)",
+      "$3.00 / 1m tokens (Output)"
+    ],
+    "removed": [
+      "Transcribe up to 333 hours of streaming audio for free"
+    ],
+    "totals": {
+      "removed": 24,
+      "added": 59,
+      "materialRemoved": 22,
+      "materialAdded": 37
+    }
+  },
+  {
+    "id": "assemblyai-com-pricing-20260522000553",
+    "url": "https://www.assemblyai.com/pricing",
+    "ts": "20260522000553",
+    "date": "2026-05-22",
+    "source": "wayback",
+    "prevTs": "20260410183610",
+    "kind": "price",
+    "score": 332,
+    "counts": {
+      "price": 105,
+      "limit": 8,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "AssemblyAI: 105 prices, 8 limits, 1 plan name changed (100 → 1000)",
+    "pairs": [
+      {
+        "before": "Provide up to 100 words or phrases (maximum 6 words per phrase) to improve transcription accuracy.",
+        "after": "Provide up to 1000 words or phrases (maximum 6 words per phrase) to improve transcription accuracy.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100",
+            "after": "1000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Start free, pay-as-you-go after that – no commitments required.",
+      "$0.21 /hr",
+      "Universal-3 Pro $0.05 /hr",
+      "Universal-3 Pro $0.05 /hr",
+      "Universal-3 Pro $0.02 /hr",
+      "Universal-2 $0.02 /hr",
+      "Universal-3 Pro $0.15 /hr",
+      "Universal-2 $0.15 /hr",
+      "$0.45 /hr",
+      "$0.15 /hr",
+      "Open-source Whisper model enhanced with AssemblyAI's reliable infrastructure and unlimited scale. Supports 99+ languages at an accessible price point.",
+      "$0.30 /hr",
+      "Provide up to 100 words or phrases (maximum 6 words per phrase) to improve transcription accuracy.",
+      "$0.05 /hr",
+      "$0.15 /hr",
+      "Provide up to 100 words or phrases (maximum 6 words per phrase) to improve transcription accuracy.",
+      "Universal-3 Pro Streaming $0.04 /hr",
+      "Universal-Streaming $0.04 /hr",
+      "Universal-3 Pro Streaming $0.12 /hr",
+      "Universal-Streaming $0.12 /hr",
+      "Universal-3 Pro Streaming $0.05 /hr",
+      "Universal-3 Pro Streaming $0.15 /hr",
+      "Universal-Streaming $0.15 /hr",
+      "$4.50/hr ($0.075/min)",
+      "$4.50/hr ($0.075/min)",
+      "$0.02 /hr",
+      "$0.06 /hr",
+      "$0.03 /hr",
+      "$0.08 /hr",
+      "$0.02 /hr",
+      "$0.08 /hr",
+      "$0.01 /hr",
+      "$0.15 /hr",
+      "$0.03 /hr",
+      "$0.01 /hr",
+      "$0.05 /hr",
+      "$0.08 /hr",
+      "$0.15 /hr",
+      "$30.00 / 1M",
+      "$5.50 / 1M"
+    ],
+    "removed": [
+      "Start for free, scale seamlessly, and only pay for what you use. AssemblyAI's usage-based pricing has no up-front commits or contracts and decreasing rates as you scale.",
+      "Free",
+      "Transcribe up to 333 hours of pre-recorded or streaming audio for free",
+      "Get started for free",
+      "Unlimited access to Speech-to-Text, Speech Understanding, and LLM Gateway",
+      "Unlimited concurrent streams and pre-recorded concurrency starting at 200 files",
+      "$12.00 / 1m tokens (Output)",
+      "$0.80 / 1m tokens (Input)",
+      "$4.00 / 1m tokens (Output)",
+      "Yes! With the free offer, you get $50 in credits to use towards AssemblyAI’s Speech-to-Text APIs. To add more credits, simply add a credit card to your account.",
+      "We don't limit how many streams you can run simultaneously - only how quickly you can start new ones, giving you unlimited scale while ensuring reliable performance.",
+      "Most audio files sent to AssemblyAI's API can be processed in less than 60 seconds. For example, you ca process a 30 minute pre-recorded audio file in 23 seconds with Universal speech-to-text model.",
+      "For example, if you sent a 5-minute recording with three channels, you would be billed for the 5 minutes of audio multiplied by the standard rate, with that total multiplied by three channels. This is equivalent to being billed for 15 minutes of audio.",
+      "Feel free to email us at support@assemblyai.com",
+      "In the context of a Large Language Model (LLM), a “token” is the smallest unit of text processed by the model. 100 tokens roughly maps to ~75 words."
+    ],
+    "totals": {
+      "removed": 229,
+      "added": 536,
+      "materialRemoved": 73,
+      "materialAdded": 173
+    }
+  },
+  {
+    "id": "assemblyai-com-pricing-20260606133025",
+    "url": "https://www.assemblyai.com/pricing",
+    "ts": "20260606133025",
+    "date": "2026-06-06",
+    "source": "wayback",
+    "prevTs": "20260522000553",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "AssemblyAI: 2 prices changed (removed “Open-source Whisper model enhanced with Assem…”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Open-source Whisper model enhanced with AssemblyAI's reliable infrastructure and unlimited scale. Supports 99+ languages at an accessible price point.",
+      "$0.30 /hr",
+      "Open-source Whisper model enhanced with AssemblyAI's reliable infrastructure and unlimited scale. Supports 99+ languages at an accessible price point.",
+      "$0.30 /hr"
+    ],
+    "totals": {
+      "removed": 17,
+      "added": 11,
+      "materialRemoved": 4,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "assemblyai-com-pricing-20260804171824",
+    "url": "https://www.assemblyai.com/pricing",
+    "ts": "20260804171824",
+    "date": "2026-08-04",
+    "source": "wayback",
+    "prevTs": "20260606133025",
+    "kind": "price",
+    "score": 157,
+    "counts": {
+      "price": 49,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "AssemblyAI: 49 prices, 5 limits changed (3 → 3.5; 3 → 3.5)",
+    "pairs": [
+      {
+        "before": "Universal-3 Pro $0.05 /hr",
+        "after": "Universal-3.5 Pro $0.05 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3",
+            "after": "3.5"
+          }
+        ]
+      },
+      {
+        "before": "Universal-3 Pro $0.05 /hr",
+        "after": "Universal-3.5 Pro $0.05 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3",
+            "after": "3.5"
+          }
+        ]
+      },
+      {
+        "before": "Universal-3 Pro $0.02 /hr",
+        "after": "Universal-3.5 Pro $0.02 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3",
+            "after": "3.5"
+          }
+        ]
+      },
+      {
+        "before": "Universal-3 Pro $0.15 /hr",
+        "after": "Universal-3.5 Pro $0.15 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3",
+            "after": "3.5"
+          }
+        ]
+      },
+      {
+        "before": "Input $5.50 / 1M",
+        "after": "Input $5.00 / 1M",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$5.50",
+            "after": "$5.00"
+          }
+        ]
+      },
+      {
+        "before": "Output $27.50 / 1M",
+        "after": "Output $25.00 / 1M",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$27.50",
+            "after": "$25.00"
+          }
+        ]
+      },
+      {
+        "before": "Input $15.00 / 1M",
+        "after": "Input $5.00 / 1M",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$15.00",
+            "after": "$5.00"
+          }
+        ]
+      },
+      {
+        "before": "Output $75.00 / 1M",
+        "after": "Output $25.00 / 1M",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$75.00",
+            "after": "$25.00"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0.10 /hr",
+      "Universal-3.5 Pro Realtime $0.12 /hr",
+      "Universal-3.5 Pro Realtime $0.05 /hr",
+      "Universal-3.5 Pro Realtime $0.15 /hr",
+      "Universal-3.5 Pro Realtime $0.10 /hr",
+      "Universal-3.5 Pro accuracy delivered in a single call. Process up to 2 minutes per request, get results back in ~134 ms (p50). Includes per-word timing and confidence across 18 languages.",
+      "$0.45 /hr",
+      "Universal-3.5 Pro accuracy delivered in a single call. Process up to 2 minutes per request, get results back in ~134 ms (p50). Includes per-word timing and confidence across 18 languages.",
+      "$0.45 /hr",
+      "$0.05 /hr",
+      "$0.05 /hr",
+      "$5.00 / 1M",
+      "$25.00 / 1M",
+      "$5.00 / 1M",
+      "$25.00 / 1M",
+      "$5.00 / 1M",
+      "$25.00 / 1M",
+      "Input $5.00 / 1M",
+      "Output $25.00 / 1M",
+      "$1.50 / 1M",
+      "$9.00 / 1M",
+      "$0.25 / 1M",
+      "$1.50 / 1M",
+      "Input $1.50 / 1M",
+      "Output $9.00 / 1M",
+      "Input $0.25 / 1M",
+      "Output $1.50 / 1M"
+    ],
+    "removed": [
+      "Universal-3 Pro Streaming $0.04 /hr",
+      "Universal-3 Pro Streaming $0.12 /hr",
+      "Universal-3 Pro Streaming $0.05 /hr",
+      "Universal-3 Pro Streaming $0.15 /hr",
+      "$5.50 / 1M",
+      "$27.50 / 1M",
+      "$15.00 / 1M",
+      "$5.50 / 1M",
+      "$27.50 / 1M",
+      "$15.00 / 1M",
+      "$75.00 / 1M",
+      "Input $3.00 / 1M",
+      "Output $15.00 / 1M",
+      "Input $5.50 / 1M",
+      "Output $27.50 / 1M",
+      "$3.00 / 1M",
+      "$0.60 / 1M",
+      "$3.00 / 1M",
+      "Input $0.60 / 1M",
+      "Output $3.00 / 1M",
+      "increase in free-to-paid conversion rate",
+      "“We needed a provider that could scale with us — offering unlimited concurrent streams, fair pricing, and responsive support.”",
+      "increase in free-to-paid conversion rate",
+      "“We needed a provider that could scale with us — offering unlimited concurrent streams, fair pricing, and responsive support.”"
+    ],
+    "totals": {
+      "removed": 140,
+      "added": 235,
+      "materialRemoved": 38,
+      "materialAdded": 41
+    }
+  },
+  {
+    "id": "assemblyai-com-pricing-20260902202107",
+    "url": "https://www.assemblyai.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260804171824",
+    "kind": "price",
+    "score": 219,
+    "counts": {
+      "price": 71,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "AssemblyAI: 71 prices, 3 limits changed (removed “Input $5.00 / 1M”; added “Every feature is included in the $4.50/hr rat…”)",
+    "pairs": [],
+    "added": [
+      "Every feature is included in the $4.50/hr rate. There are no per-layer add-ons, concurrency fees, or per-agent subscriptions.",
+      "Under $1 / 1M in 13",
+      "$1–$5 / 1M in 14",
+      "$5+ / 1M in 6",
+      "Qwen3.5 4B Fast",
+      "gemma-4-31b",
+      "$0.14 / 1M",
+      "$0.75 / 1M",
+      "$3.75 / 1M",
+      "$6.00 / 1M",
+      "$7.50 / 1M",
+      "$2.50 / 1M",
+      "$4.00 / 1M",
+      "$20.00 / 1M",
+      "What is included in the $4.50/hr Voice Agent API price? expand_more"
+    ],
+    "removed": [
+      "Input $5.00 / 1M",
+      "Output $30.00 / 1M",
+      "Input $1.75 / 1M",
+      "Output $14.00 / 1M",
+      "Output $10.00 / 1M",
+      "Input $5.00 / 1M",
+      "Output $25.00 / 1M",
+      "Input $3.00 / 1M",
+      "$5.00 / 1M",
+      "$30.00 / 1M",
+      "$1.75 / 1M",
+      "$14.00 / 1M",
+      "Input $5.00 / 1M",
+      "Output $30.00 / 1M",
+      "Input $1.75 / 1M",
+      "Output $14.00 / 1M",
+      "Input $1.25 / 1M",
+      "Output $10.00 / 1M",
+      "Input $1.25 / 1M",
+      "Output $10.00 / 1M",
+      "Output $2.00 / 1M",
+      "Input $0.05 / 1M",
+      "Input $2.00 / 1M",
+      "Output $8.00 / 1M",
+      "gpt-oss-20b*",
+      "Input $0.07 / 1M",
+      "gpt-oss-120b*",
+      "Input $3.00 / 1M",
+      "Output $15.00 / 1M",
+      "Input $3.00 / 1M",
+      "Output $15.00 / 1M",
+      "Output $5.00 / 1M",
+      "Input $5.00 / 1M",
+      "Output $25.00 / 1M",
+      "Input $5.00 / 1M",
+      "Output $25.00 / 1M",
+      "Input $5.00 / 1M",
+      "Output $25.00 / 1M",
+      "Input $5.00 / 1M",
+      "Output $25.00 / 1M"
+    ],
+    "totals": {
+      "removed": 211,
+      "added": 173,
+      "materialRemoved": 102,
+      "materialAdded": 55
+    },
+    "transition": true
+  }
+]

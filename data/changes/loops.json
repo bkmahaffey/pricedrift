@@ -1,0 +1,251 @@
+[
+  {
+    "id": "loops-so-pricing-20240929133225",
+    "url": "https://loops.so/pricing",
+    "ts": "20240929133225",
+    "date": "2024-09-29",
+    "source": "wayback",
+    "prevTs": "20231109144125",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Loops: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "What does the free plan include?"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 19,
+      "added": 9,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "loops-so-pricing-20241203140430",
+    "url": "https://loops.so/pricing",
+    "ts": "20241203140430",
+    "date": "2024-12-03",
+    "source": "wayback",
+    "prevTs": "20240929133225",
+    "kind": "price",
+    "score": 10,
+    "counts": {
+      "price": 1,
+      "limit": 2,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Loops: 1 price, 2 limits, 2 plan names changed (removed “Up to 1,000 contacts”)",
+    "pairs": [],
+    "added": [
+      "What does the free plan include?",
+      "What does the free plan include?"
+    ],
+    "removed": [
+      "Free",
+      "Up to 1,000 contacts",
+      "$49 /month",
+      "Up to 5,000 contacts",
+      "Unlimited sends to your audience",
+      "Over 100,000 contacts",
+      "Unlimited sends",
+      "Start for free"
+    ],
+    "totals": {
+      "removed": 26,
+      "added": 16,
+      "materialRemoved": 9,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "loops-so-pricing-20250327230638",
+    "url": "https://loops.so/pricing",
+    "ts": "20250327230638",
+    "date": "2025-03-27",
+    "source": "wayback",
+    "prevTs": "20241203140430",
+    "kind": "plans",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Loops: 3 plan names changed",
+    "pairs": [],
+    "added": [
+      "Free",
+      "Start free"
+    ],
+    "removed": [
+      "Free Start free"
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 26,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "loops-so-pricing-20251110130751",
+    "url": "https://loops.so/pricing",
+    "ts": "20251110130751",
+    "date": "2025-11-10",
+    "source": "wayback",
+    "prevTs": "20250327230638",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Loops: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "100 subscribers",
+      "Our free allows up to 4,000 sends a month, enough to email your audience every week. All features are included. A small \"Powered by Loops\" footer will be attached."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 102,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "loops-so-pricing-20260420055601",
+    "url": "https://loops.so/pricing",
+    "ts": "20260420055601",
+    "date": "2026-04-20",
+    "source": "wayback",
+    "prevTs": "20251110130751",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Loops: 1 limit, 1 plan name changed (removed “100 subscribers”; added “100 1.5m+”)",
+    "pairs": [],
+    "added": [
+      "100 1.5m+",
+      "The free plan is for early products and smaller audiences.",
+      "The free plan includes up to 4,000 sends a month to 1,000 stored subscribed contacts. We do not charge for additional stored contacts. It also includes Loops branding at the bottom of your emails. Any paid plan will remove these limitations.",
+      "Loops is free to start, with no credit card required and you can invite your entire team to help you make a decision. We believe we've built the best tool in our class. If you need to send email for your SaaS, we can confidently say Loops is likely the right choice."
+    ],
+    "removed": [
+      "100 subscribers",
+      "Our free allows up to 4,000 sends a month, enough to email your audience every week. All features are included. A small \"Powered by Loops\" footer will be attached.",
+      "What does the free plan include?",
+      "What does the free plan include?",
+      "What does the free plan include?",
+      "Start free"
+    ],
+    "totals": {
+      "removed": 107,
+      "added": 62,
+      "materialRemoved": 6,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "loops-so-pricing-20260706175322",
+    "url": "https://loops.so/pricing",
+    "ts": "20260706175322",
+    "date": "2026-07-06",
+    "source": "wayback",
+    "prevTs": "20260420055601",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Loops: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Loops pricing is based on subscribed contacts. Transactional email sending is included at no additional charge on paid plans, and the free plan includes monthly sends for getting started."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 35,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "loops-so-pricing-20260805203144",
+    "url": "https://loops.so/pricing",
+    "ts": "20260805203144",
+    "date": "2026-08-05",
+    "source": "wayback",
+    "prevTs": "20260706175322",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Loops: 1 limit changed (added “Up to 10 emails per second”)",
+    "pairs": [],
+    "added": [
+      "Up to 10 emails per second",
+      "What does “unlimited sends” mean?",
+      "Paid plans don’t cap the total number of emails you can send. Each team can send up to 1,000 emails per second. Free accounts can send up to 10 emails per second. Emails over the rate limit are enqueued until they can be sent."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 6,
+      "materialRemoved": 0,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "loops-so-pricing-20260902202107",
+    "url": "https://loops.so/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260805203144",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Loops: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

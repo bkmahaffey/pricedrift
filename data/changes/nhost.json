@@ -1,0 +1,351 @@
+[
+  {
+    "id": "nhost-io-pricing-20230528153704",
+    "url": "https://nhost.io/pricing",
+    "ts": "20230528153704",
+    "date": "2023-05-28",
+    "source": "wayback",
+    "prevTs": "20230202172120",
+    "kind": "price",
+    "score": 45,
+    "counts": {
+      "price": 6,
+      "limit": 12,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Nhost: 6 prices, 12 limits, 2 plan names changed (removed “500 MB”; added “Size 500 MB 10 GB Up to 5 TB”)",
+    "pairs": [],
+    "added": [
+      "Free forever",
+      "Size 500 MB 10 GB Up to 5 TB",
+      "Per extra 10 GB $20 Custom",
+      "Size 1 GB 25 GB Custom",
+      "Per extra 10 GB $1 Custom",
+      "Execution 1 GB-hours 10 GB-hours Custom",
+      "Execution time 10 sec 60 sec 900 sec",
+      "Max per deployment 10 functions 50 functions Custom",
+      "Transfer available 5 GB 50 GB Custom",
+      "Per extra 100 GB $20 Custom",
+      "How many free Starter projects can I have?"
+    ],
+    "removed": [
+      "Free",
+      "500 MB",
+      "10 GB",
+      "Up to 5TB",
+      "Per extra 10 GB",
+      "$20",
+      "1 GB",
+      "25 GB",
+      "Per extra 10 GB",
+      "$1",
+      "1 GB-hours",
+      "10 GB-hours",
+      "10 sec",
+      "60 sec",
+      "900 sec",
+      "10 functions",
+      "50 functions",
+      "5 GB",
+      "50 GB",
+      "Per extra 100 GB",
+      "$20"
+    ],
+    "totals": {
+      "removed": 65,
+      "added": 32,
+      "materialRemoved": 26,
+      "materialAdded": 16
+    }
+  },
+  {
+    "id": "nhost-io-pricing-20231130003134",
+    "url": "https://nhost.io/pricing",
+    "ts": "20231130003134",
+    "date": "2023-11-30",
+    "source": "wayback",
+    "prevTs": "20230528153704",
+    "kind": "price",
+    "score": 50,
+    "counts": {
+      "price": 10,
+      "limit": 9,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Nhost: 10 prices, 9 limits, 1 plan name changed (removed “Size 500 MB 10 GB Up to 5 TB”; added “$0”)",
+    "pairs": [],
+    "added": [
+      "$0",
+      "Get your idea off the ground for free. Limited to 1 project.",
+      "1 GB included",
+      "10,000 users",
+      "1 GB included",
+      "1 hour of execution time included",
+      "10 sec timeout",
+      "5 GB included",
+      "10 GB included, then $0.20 per GB",
+      "100,000 users",
+      "50 GB included, then $0.05 per GB",
+      "50 included, then $5 per additional 50",
+      "10 hours of execution time included, then $0.18 per additional hour (billed per second)",
+      "60 sec timeout",
+      "50 GB included, then $0.10 per GB",
+      "Custom domains ($10 add-on)",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "600 sec timeout",
+      "Unlimited"
+    ],
+    "removed": [
+      "Free forever",
+      "Size 500 MB 10 GB Up to 5 TB",
+      "Per extra 10 GB $20 Custom",
+      "Backups 7 days Custom",
+      "Size 1 GB 25 GB Custom",
+      "Per extra 10 GB $1 Custom",
+      "Execution 1 GB-hours 10 GB-hours Custom",
+      "Execution time 10 sec 60 sec 900 sec",
+      "Max per deployment 10 functions 50 functions Custom",
+      "Transfer available 5 GB 50 GB Custom",
+      "Per extra 100 GB $20 Custom",
+      "99.5 uptime SLA Coming soon"
+    ],
+    "totals": {
+      "removed": 35,
+      "added": 70,
+      "materialRemoved": 14,
+      "materialAdded": 24
+    }
+  },
+  {
+    "id": "nhost-io-pricing-20240324171153",
+    "url": "https://nhost.io/pricing",
+    "ts": "20240324171153",
+    "date": "2024-03-24",
+    "source": "wayback",
+    "prevTs": "20231130003134",
+    "kind": "price",
+    "score": 63,
+    "counts": {
+      "price": 16,
+      "limit": 7,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Nhost: 16 prices, 7 limits, 1 plan name changed (removed “10,000 users”; added “10 GB database”)",
+    "pairs": [],
+    "added": [
+      "Get your idea off the ground for free.",
+      "Unlimited users",
+      "10 GB database",
+      "50 GB storage",
+      "50 GB egress",
+      "$599",
+      "Free forever",
+      "$25/mo",
+      "$599/mo",
+      "1 GB 10 GB included, then $0.20 per GB 10 GB included, then $0.20 per GB Custom",
+      "7 days of backups 7 days of backups Custom",
+      "Unlimited Unlimited Unlimited Unlimited",
+      "1 GB included 50 GB included, then $0.05 per GB 50 GB included, then $0.05 per GB Custom",
+      "10 included 50 included, then $5 per 50 50 included, then $5 per 50 Custom",
+      "1 GB-hours included 10 GB-hours included, then $0.18 per GB-hour (billed per second) 10 GB-hours included, then $0.18 per GB-hour (billed per second) Custom",
+      "10 sec 60 sec 60 sec Custom",
+      "5 GB included 50 GB included, then $0.10 per GB 50 GB included, then $0.10 per GB Custom",
+      "1 member Unlimited Unlimited Unlimited",
+      "$10 per project / month $10 per project / month $10 per project / month",
+      "For each vCPU core you get 2 GB of memory.",
+      "$0.0012 / vCPU / minute",
+      "You can have as many free projects as you want, as long as only 1 is active at any given time. You can pause and unpause free projects as needed."
+    ],
+    "removed": [
+      "10,000 users",
+      "10 sec timeout",
+      "10 GB included, then $0.20 per GB",
+      "7 days Backups",
+      "100,000 users",
+      "50 GB included, then $0.05 per GB",
+      "50 included, then $5 per additional 50",
+      "10 hours of execution time included, then $0.18 per additional hour (billed per second)",
+      "60 sec timeout",
+      "50 GB included, then $0.10 per GB",
+      "Custom domains ($10 add-on)",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "600 sec timeout",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 80,
+      "added": 140,
+      "materialRemoved": 24,
+      "materialAdded": 29
+    }
+  },
+  {
+    "id": "nhost-io-pricing-20240508035402",
+    "url": "https://nhost.io/pricing",
+    "ts": "20240508035402",
+    "date": "2024-05-08",
+    "source": "wayback",
+    "prevTs": "20240324171153",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Nhost: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "nhost-io-pricing-20241001132605",
+    "url": "https://nhost.io/pricing",
+    "ts": "20241001132605",
+    "date": "2024-10-01",
+    "source": "wayback",
+    "prevTs": "20240508035402",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Nhost: 1 limit changed (removed “10 sec 60 sec 60 sec Custom”; added “10 sec 60 sec 10 min Custom”)",
+    "pairs": [],
+    "added": [
+      "10 sec 60 sec 10 min Custom"
+    ],
+    "removed": [
+      "10 sec 60 sec 60 sec Custom"
+    ],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "nhost-io-pricing-20241206100543",
+    "url": "https://nhost.io/pricing",
+    "ts": "20241206100543",
+    "date": "2024-12-06",
+    "source": "wayback",
+    "prevTs": "20241001132605",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 3,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Nhost: 3 prices, 2 limits changed (removed “Limit of 1 project”; added “Limit of 1 project. Project paused after 1 we…”)",
+    "pairs": [],
+    "added": [
+      "Limit of 1 project. Project paused after 1 week of inactivity.",
+      "$15 in compute credits included",
+      "$15 in compute credits included",
+      "$0.00034 / vCPU / minute",
+      "2 GB of memory for each vCPU"
+    ],
+    "removed": [
+      "Limit of 1 project"
+    ],
+    "totals": {
+      "removed": 16,
+      "added": 22,
+      "materialRemoved": 3,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "nhost-io-pricing-20250409222321",
+    "url": "https://nhost.io/pricing",
+    "ts": "20250409222321",
+    "date": "2025-04-09",
+    "source": "wayback",
+    "prevTs": "20241206100543",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Nhost: 1 price changed (added “Starts at $100 with 7 days retention Starts a…”)",
+    "pairs": [],
+    "added": [
+      "Starts at $100 with 7 days retention Starts at $100 with 7 days retention Custom"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "nhost-io-pricing-20250726082557",
+    "url": "https://nhost.io/pricing",
+    "ts": "20250726082557",
+    "date": "2025-07-26",
+    "source": "wayback",
+    "prevTs": "20250409222321",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Nhost: 1 limit changed (60 → 180)",
+    "pairs": [
+      {
+        "before": "10 sec 60 sec 10 min Custom",
+        "after": "10 sec 180 sec 600 sec Custom",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "60",
+            "after": "180"
+          },
+          {
+            "before": "10",
+            "after": "600"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 3,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  }
+]

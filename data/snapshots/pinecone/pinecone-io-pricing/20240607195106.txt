@@ -1,0 +1,144 @@
+Announcement Pinecone serverless on AWS is now generally available Learn more
+Start free, scale effortlessly
+Pinecone runs on fully managed infrastructure that scales with you.
+Get Started
+Contact us with questions
+Starter FREE
+For trying out and for small applications.
+Serverless
+Up to 2GB storage
+Enough for 300k 1,536-dim vectors
+Up to 2M Write Units
+per month
+Up to 1M Read Units
+per month
+1 Project
+Up to 5 indexes
+Up to 100 namespaces per index
+Support
+Community Support
+Standard
+For production applications at any scale.
+Features
+Multiple projects and users
+Choose your region
+Serverless Indexes
+Unlimited storage
+$0.33 per GB/Month
+Unlimited writes
+Starting at $2.00 per 1M Write Units
+Unlimited reads
+Starting at $8.25 per 1M Read Units
+Up to 20 projects
+Up to 20 indexes per project
+Up to 10,000 namespaces per index
+Pod-Based Indexes
+Unlimited Pods
+Starting at $0.096/hr
+Standard Support
+Up to 2 technical contacts
+Email support during business hours
+Cloud Availability and Pricing
+Enterprise
+For mission-critical production applications.
+Features
+Everything in Standard
+Single sign-on
+Prometheus metrics
+Private Link
+PUBLIC PREVIEW
+Serverless Indexes
+Unlimited storage
+$0.33 per GB/Month
+Unlimited writes
+Starting at $4.00 per 1M Write Units
+Unlimited reads
+Starting at $16.50 per 1M Read Units
+Up to 100 projects
+Up to 20 indexes per project
+Up to 100,000 namespaces per index
+Pod-Based Indexes
+Unlimited Pods
+Starting at $0.144/hr
+Premium Support
+24/7/365 dedicated support
+Up to 4 technical contacts
+Response time SLA
+Uptime SLA (99.9%)
+Cloud Availability and Pricing
+Start for free, upgrade any time.
+Also available through AWS Marketplace
+GCP Marketplace
+and Azure Marketplace
+Get Started
+Enterprise Dedicated: Everything in Enterprise, deployed in a single-tenant VPC environment in the region of your choice. Contact us
+for details and pricing.
+10x
+cost reduction
+Pinecone serverless isn't just a cost-cutting move for us; it is a strategic shift towards a more efficient, scalable, and resource-effective solution.
+Jacob Eckel
+VP, R&D Division Manager, Gong
+Read Customer Story
+FAQs
+What’s the difference between pod-based or serverless indexes?
+Pod-based indexes let you decide up front how much storage capacity and compute resources to use. Choose pod-based indexes if you’re certain about your workload and require throughput of more than 5 Queries Per Second (QPS) on a single namespace. Recommender systems typically fit this description. Pod-based indexes are billed hourly based on the number and type of pods used.
+Serverless indexes let you start and scale with ultimate ease and flexibility, without provisioning resources. They use our next-generation architecture, algorithms, and API to provide the best developer experience, scalability, and cost efficiency, especially for larger indexes with lower throughputs per namespace. Multi-tenant RAG and labeling/classification workloads typically fit this description. Serverless indexes are billed for the usage of reads, writes, and storage.
+View documentation on index types
+How can I estimate the cost of serverless indexes?
+Usage information in API responses and in your dashboard will help you monitor and plan for costs. View documentation on how usage is calculated
+then start testing
+with your own data and workloads. Contact us
+for help estimating costs for large or complex workloads.
+Example 1: Multi-tenant RAG workload with 5M total documents across 100,000 users (namespaces)
+Inputs
+Cost
+Initial writes
+$280, one-time
+Storage
+5M documents chunked into 10M vectors (1,536-dimension) with 200 bytes of metadata each
+$21/month
+Reads
+1M total queries per month or 10 per user per month
+$83/month
+Writes
+Initial upload of 10M vectors, then update 25% of all data each month
+$70/month
+Total cost
+$174/month, $280 one-time
+Example 2: Semantic search for enterprise knowledgebase with 10M vectors:
+Inputs
+Cost
+Initial writes
+$280, one-time
+Storage
+10M vectors (1,536-dimension) with 200 bytes metadata each
+$21/month
+Reads
+2.5M queries answered each month or 1 QPS
+$2,310/month
+Writes
+50k items added each month
+$1/month
+Total cost
+$2,332/month, $280 one-time
+Example 3: Offline data labeling using similarity search over 1B vectors
+Inputs
+Cost
+Initial writes
+$8,000, one-time
+Storage
+1B vectors (768-dimension) with 200 bytes metadata each
+$1,085/month
+Write Units (WUs)
+50M items added each month
+$400/month
+Read Units (RUs)
+50k similarity searches each month
+$130/month
+Total cost
+$1615/month, $8,000 one-time
+When will serverless be generally available on AWS, on GCP, and Azure?
+Pinecone serverless will soon be generally available in AWS regions, followed by public-preview availability for Azure and GCP regions.
+Pod-based indexes are generally available across multiple regions in AWS, Azure, and GCP.
+What regions are currently supported, and will additional regions be added in the future?
+Pinecone serverless is currently available on AWS regions ‘us-east-1’, ‘us-west-2’, and ‘eu-west-1’. Support for additional regions is coming soon.

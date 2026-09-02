@@ -1,0 +1,734 @@
+Simple, predictable pricing
+Always know what you'll pay with monthly caps and flat pricing.
+Sign up with Google
+Sign up with GitHub
+Sign up with email
+<- Back to Overview
+Basic
+General Purpose
+CPU-Optimized
+Memory-Optimized
+Storage-Optimized
+Additional product pricing
+FAQ
+Droplets
+Deploy Droplets (cloud VMs) in seconds. Run any workload, from mission critical CPU, memory, and storage intensive apps to low traffic sites.
+Help me choose
+Basic Droplets
+Basic Droplets have the most efficient CPU usage at a lower cost for workloads that underuse dedicated threads. They’re ideal for bursty applications that can handle variable levels of CPU.
+CPU Options
+Regular
+Premium Intel
+Premium AMD
+Memory
+vCPUs
+Transfer
+SSD
+$/HR
+$/MO
+512 MiB
+1 vCPU
+500 GiB
+10 GiB
+$ 0.00595
+$ 4.00
+->
+1 GiB
+1 vCPU
+1,000 GiB
+25 GiB
+$ 0.00893
+$ 6.00
+->
+2 GiB
+1 vCPU
+2,000 GiB
+50 GiB
+$ 0.01786
+$ 12.00
+->
+2 GiB
+2 vCPUs
+3,000 GiB
+60 GiB
+$ 0.02679
+$ 18.00
+->
+4 GiB
+2 vCPUs
+4,000 GiB
+80 GiB
+$ 0.03571
+$ 24.00
+->
+8 GiB
+4 vCPUs
+5,000 GiB
+160 GiB
+$ 0.07143
+$ 48.00
+->
+16 GiB
+8 vCPUs
+6,000 GiB
+320 GiB
+$ 0.14286
+$ 96.00
+->
+General Purpose Droplets
+General Purpose Droplets have a balanced ratio of memory to dedicated CPU, suitable for a wide variety of production workloads. They’re best for general purpose workloads that require dedicated computer power.
+Memory
+vCPUs
+Transfer
+SSD Variant
+SSD
+$/HR
+$/MO
+8 GiB
+2 vCPUs
+4,000 GiB
+1 x
+25 GiB
+$ 0.09375
+$ 63.00
+->
+8 GiB
+2 vCPUs
+4,000 GiB
+2 x
+50 GiB
+$ 0.10119
+$ 68.00
+->
+16 GiB
+4 vCPUs
+5,000 GiB
+1 x
+50 GiB
+$ 0.18750
+$ 126.00
+->
+16 GiB
+4 vCPUs
+5,000 GiB
+2 x
+100 GiB
+$ 0.20238
+$ 136.00
+->
+32 GiB
+8 vCPUs
+6,000 GiB
+1 x
+100 GiB
+$ 0.37500
+$ 252.00
+->
+32 GiB
+8 vCPUs
+6,000 GiB
+2 x
+200 GiB
+$ 0.40476
+$ 272.00
+->
+64 GiB
+16 vCPUs
+7,000 GiB
+1 x
+200 GiB
+$ 0.75000
+$ 504.00
+->
+64 GiB
+16 vCPUs
+7,000 GiB
+2 x
+400 GiB
+$ 0.80952
+$ 544.00
+->
+128 GiB
+32 vCPUs
+8,000 GiB
+1 x
+400 GiB
+$ 1.50000
+$ 1,008.00
+->
+128 GiB
+32 vCPUs
+8,000 GiB
+2 x
+800 GiB
+$ 1.61905
+$ 1,088.00
+->
+160 GiB
+40 vCPUs
+9,000 GiB
+1 x
+500 GiB
+$ 1.87500
+$ 1,260.00
+->
+160 GiB
+40 vCPUs
+9,000 GiB
+2 x
+1,000 GiB
+$ 2.02381
+$ 1,360.00
+->
+CPU-Optimized Droplets
+CPU-Optimized Droplets provide a 2:1 ratio of memory to CPU. This configuration is optimal for applications that demand fast, consistent performance from dedicated vCPUs, but are not so memory-intensive that they require the additional RAM provided by General Purpose Droplets.
+Memory
+vCPUs
+Transfer
+SSD Variant
+SSD
+$/HR
+$/MO
+4 GiB
+2 vCPUs
+4,000 GiB
+1 x
+25 GiB
+$ 0.06250
+$ 42.00
+->
+4 GiB
+2 vCPUs
+4,000 GiB
+2 x
+50 GiB
+$ 0.06994
+$ 47.00
+->
+8 GiB
+4 vCPUs
+5,000 GiB
+1 x
+50 GiB
+$ 0.12500
+$ 84.00
+->
+8 GiB
+4 vCPUs
+5,000 GiB
+2 x
+100 GiB
+$ 0.13988
+$ 94.00
+->
+16 GiB
+8 vCPUs
+6,000 GiB
+1 x
+100 GiB
+$ 0.25000
+$ 168.00
+->
+16 GiB
+8 vCPUs
+6,000 GiB
+2 x
+200 GiB
+$ 0.27976
+$ 188.00
+->
+32 GiB
+16 vCPUs
+7,000 GiB
+1 x
+200 GiB
+$ 0.50000
+$ 336.00
+->
+32 GiB
+16 vCPUs
+7,000 GiB
+2 x
+400 GiB
+$ 0.55952
+$ 376.00
+->
+64 GiB
+32 vCPUs
+9,000 GiB
+1 x
+400 GiB
+$ 1.00000
+$ 672.00
+->
+64 GiB
+32 vCPUs
+9,000 GiB
+2 x
+800 GiB
+$ 1.11905
+$ 752.00
+->
+96 GiB
+48 vCPUs
+11,000 GiB
+1 x
+600 GiB
+$ 1.50000
+$ 1,008.00
+->
+96 GiB
+48 vCPUs
+11,000 GiB
+2 x
+1,200 GiB
+$ 1.67857
+$ 1,128.00
+->
+Memory-Optimized Droplets
+Memory-optimized Droplets provide 8GB RAM for each vCPU. The additional memory can help you avoid excessively swapping to disk or getting out-of-memory errors, both of which significantly impact your application's performance and stability.
+Memory
+vCPUs
+Transfer
+SSD Variant
+SSD
+$/HR
+$/MO
+16 GiB
+2 vCPUs
+4,000 GiB
+1 x
+50 GiB
+$ 0.12500
+$ 84.00
+->
+16 GiB
+2 vCPUs
+4,000 GiB
+3 x
+150 GiB
+$ 0.15476
+$ 104.00
+->
+16 GiB
+2 vCPUs
+4,000 GiB
+6 x
+300 GiB
+$ 0.19494
+$ 131.00
+->
+32 GiB
+4 vCPUs
+6,000 GiB
+1 x
+100 GiB
+$ 0.25000
+$ 168.00
+->
+32 GiB
+4 vCPUs
+6,000 GiB
+3 x
+300 GiB
+$ 0.30952
+$ 208.00
+->
+32 GiB
+4 vCPUs
+6,000 GiB
+6 x
+600 GiB
+$ 0.38988
+$ 262.00
+->
+64 GiB
+8 vCPUs
+7,000 GiB
+1 x
+200 GiB
+$ 0.50000
+$ 336.00
+->
+64 GiB
+8 vCPUs
+7,000 GiB
+3 x
+600 GiB
+$ 0.61905
+$ 416.00
+->
+64 GiB
+8 vCPUs
+7,000 GiB
+6 x
+1,170 GiB
+$ 0.77976
+$ 524.00
+->
+128 GiB
+16 vCPUs
+8,000 GiB
+1 x
+400 GiB
+$ 1.00000
+$ 672.00
+->
+128 GiB
+16 vCPUs
+8,000 GiB
+3 x
+1,170 GiB
+$ 1.23810
+$ 832.00
+->
+128 GiB
+16 vCPUs
+8,000 GiB
+6 x
+2,340 GiB
+$ 1.55952
+$ 1,048.00
+->
+192 GiB
+24 vCPUs
+9,000 GiB
+1 x
+600 GiB
+$ 1.50000
+$ 1,008.00
+->
+192 GiB
+24 vCPUs
+9,000 GiB
+3 x
+1,760 GiB
+$ 1.85714
+$ 1,248.00
+->
+192 GiB
+24 vCPUs
+9,000 GiB
+6 x
+3,520 GiB
+$ 2.33929
+$ 1,572.00
+->
+256 GiB
+32 vCPUs
+10,000 GiB
+1 x
+800 GiB
+$ 2.00000
+$ 1,344.00
+->
+256 GiB
+32 vCPUs
+10,000 GiB
+3 x
+2,340 GiB
+$ 2.47619
+$ 1,664.00
+->
+256 GiB
+32 vCPUs
+10,000 GiB
+6 x
+4,690 GiB
+$ 3.11905
+$ 2,096.00
+->
+Storage-Optimized Droplets
+Storage-Optimized Droplets use NVMe (non-volatile memory express), which is an interface protocol explicitly built for modern SSDs. It takes advantage of parallelism to deliver disk performance that can be order of magnitude faster than our regular SSDs.
+Memory
+vCPUs
+Transfer
+SSD Variant
+SSD
+$/HR
+$/MO
+16 GiB
+2 vCPUs
+4,000 GiB
+1 x
+300 GiB
+$ 0.19494
+$ 131.00
+->
+16 GiB
+2 vCPUs
+4,000 GiB
+1.5 x
+450 GiB
+$ 0.24256
+$ 163.00
+->
+32 GiB
+4 vCPUs
+6,000 GiB
+1 x
+600 GiB
+$ 0.38988
+$ 262.00
+->
+32 GiB
+4 vCPUs
+6,000 GiB
+1.5 x
+900 GiB
+$ 0.48512
+$ 326.00
+->
+64 GiB
+8 vCPUs
+7,000 GiB
+1 x
+1,170 GiB
+$ 0.77976
+$ 524.00
+->
+64 GiB
+8 vCPUs
+7,000 GiB
+1.5 x
+1,760 GiB
+$ 0.97024
+$ 652.00
+->
+128 GiB
+16 vCPUs
+8,000 GiB
+1 x
+2,340 GiB
+$ 1.55952
+$ 1,048.00
+->
+128 GiB
+16 vCPUs
+8,000 GiB
+1.5 x
+3,520 GiB
+$ 1.94048
+$ 1,304.00
+->
+192 GiB
+24 vCPUs
+9,000 GiB
+1 x
+3,520 GiB
+$ 2.33929
+$ 1,572.00
+->
+192 GiB
+24 vCPUs
+9,000 GiB
+1.5 x
+5,270 GiB
+$ 2.91071
+$ 1,956.00
+->
+256 GiB
+32 vCPUs
+10,000 GiB
+1 x
+4,690 GiB
+$ 3.11905
+$ 2,096.00
+->
+256 GiB
+32 vCPUs
+10,000 GiB
+1.5 x
+7,030 GiB
+$ 3.88095
+$ 2,608.00
+->
+Additional product pricing
+Product
+Cost
+Backup
+5 % Droplet cost per backup ( 4 backups per month)
+Droplet Snapshots
+$ 0.06 /GB per month
+Volume Snapshots
+Varies
+->
+Frequently Asked Questions
+What forms of payment do you accept?
+We accept Visa, Mastercard, American Express, Discover, PayPal, Google Pay, and Apple Pay. Apple pay requires a Safari browser. For additional payment options, including wire transfer, purchase orders, and ACH, please contact us
+Note that when you add a card, we may send a temporary pre-authorization request to the issuing bank. This pre-authorization charge is immediately released by DigitalOcean but may take a few days to clear from your card depending on the bank.
+When will my card be charged?
+DigtalOcean billing cycles are monthly. Typically, on the first day of each month we invoice and automatically charge your account’s primary payment method for the previous month’s usage. In some cases, we might charge if your usage exceeds a threshold
+You can also login and self pay the balance at any time.
+Am I charged when I enter my credit card?
+No. Your card is only charged at the end of the billing cycle or upon exceeding a usage threshold. Pre-authorization charge: When you add a card, we may send a preauthorization request to the issuing bank. This is to verify that the card being added has been issued by the bank and that they will authorize any charges in future. These temporary pre-authorizations are typically $1 but can vary in range and are immediately canceled by us. Depending on your bank, it might take a few days for the cha
+Will taxes be included in my monthly invoice?
+We’re required by law to apply taxes in some countries. Click here
+to learn whether we collect taxes in your country, what the tax rate is, etc.
+Why am I billed for powered off Droplets?
+When you power off your Droplet, you are still billed for it. This is because your disk space, CPU, RAM, and IP address are all reserved, even while powered off. Therefore, charges are made until you destroy the instance.
+How do I destroy my resources?
+Check out the docs to learn how to destroy Droplets
+Kubernetes clusters
+Managed Databases clusters ( PostgreSQL
+MySQL
+Redis
+), Spaces
+Volumes
+Firewalls
+and Load Balancers
+.
+Can I be notified if my bill exceeds a threshold?
+Yes, you can set up billing alerts
+and we will email you if the monthly spending exceeds an amount you specify.
+What if I use my Droplet for less than a month, would I still be charged for the whole month?
+You will never be billed more than the monthly cost of your Droplet. All Droplets are billed hourly up to a monthly cap of 672 hours (the number of hours in 4 weeks). If you use your server for fewer than 672 hours during the month, you will be billed for each hour that you used it. If you use your server for more than 672 hours that month, you will be billed at the monthly cost. For example, if you spin up a $10/mo Droplet and use it for 336 hours, then you would be charged $5 (going by the hou
+I spun up a $4 Droplet, but my monthly bill is more than $4. Why is that?
+Our pricing is based on a single Droplet. You may have created additional resources and this could be the reason for the higher bill. You can check your bill in the control panel to get details on the various resources you are using. If you need help, please contact support.
+I got a $200 credit when I opened an account. When will my card be charged?
+Your card will be charged only after you have utilized the free credits. For example, if you received a $200 credit for 60 days, then that $200 credit is automatically applied to your account. If you spend $25 in that timeframe, then your card will not be charged. If you spend $300, then the $200 credit would be fully utilized and your card will be charged only $100. Since the credit is valid for 60 days, you won’t be able to use any remaining credit after 60 days.
+What’s the price for the Marketplace 1-Click Apps?
+We charge you for the underlying compute on which the 1-Click Apps runs.
+How do I remove my card from the account?
+To remove a saved payment method, visit the products billing page
+and click the … menu of the payment method, then click Delete. In the Confirm Delete Card window that opens, click Delete to remove the card. You cannot remove the default payment method on the account.
+Can I prepay for my resources?
+We charge you for the underlying compute on which the 1-Click Apps runs.
+Can I have a refund?
+We do not offer refunds. If there are extenuating circumstances, contact support.
+How do you calculate costs in the pricing calculator?
+Our pricing calculator
+uses 672 hours (hours in a 28-day month month) to calculate the monthly cost for each provider. On-demand prices are shown. Prices are drawn from the following data centers: DigitalOcean: Prices consistent throughout all data centers GCP: US East (Iowa) AWS: US East (Ohio) Azure: US East (no state specified) The configurations we’ve used from other providers for this comparison are as follows: AWS- t3.micro, t3.small, t3.medium, t3.large, t3.xlarge, t3.2xlarge, m5.4xlarge, m5.4xlarge, m5.12xlarg
+Still have questions?
+Have a complex setup or additional questions around pricing? Contact our sales team to get more information on DigitalOcean pricing.
+Contact sales
+Start building today
+Sign up now and you'll be up and running on DigitalOcean in just minutes.
+Sign up to get started
+Company
+About
+Leadership
+Blog
+Careers
+Customers
+Partners
+Channel Partners
+Referral Program
+Affiliate Program
+Press
+Legal
+Security
+Investor Relations
+DO Impact
+Products
+Products Overview
+Droplets
+Kubernetes
+App Platform
+Functions
+Cloudways
+Managed Databases
+Spaces
+Marketplace
+Load Balancers
+Block Storage
+Tools & Integrations
+API
+Pricing
+Documentation
+Release Notes
+Uptime
+Community
+Tutorials
+Q&A
+CSS-Tricks
+Write for DOnations
+Currents Research
+Hatch Startup Program
+deploy by DigitalOcean
+Shop Swag
+Research Program
+Open Source
+Code of Conduct
+Newsletter Signup
+Meetups
+Solutions
+Website Hosting
+VPS Hosting
+Web & Mobile Apps
+Game Development
+Streaming
+VPN
+SaaS Platforms
+Cloud Hosting for Blockchain
+Startup Resources
+Contact
+Support
+Sales
+Report Abuse
+System Status
+Share your ideas
+Company
+About
+Leadership
+Blog
+Careers
+Customers
+Partners
+Channel Partners
+Referral Program
+Affiliate Program
+Press
+Legal
+Security
+Investor Relations
+DO Impact
+Products
+Products Overview
+Droplets
+Kubernetes
+App Platform
+Functions
+Cloudways
+Managed Databases
+Spaces
+Marketplace
+Load Balancers
+Block Storage
+Tools & Integrations
+API
+Pricing
+Documentation
+Release Notes
+Uptime
+Community
+Tutorials
+Q&A
+CSS-Tricks
+Write for DOnations
+Currents Research
+Hatch Startup Program
+deploy by DigitalOcean
+Shop Swag
+Research Program
+Open Source
+Code of Conduct
+Newsletter Signup
+Meetups
+Solutions
+Website Hosting
+VPS Hosting
+Web & Mobile Apps
+Game Development
+Streaming
+VPN
+SaaS Platforms
+Cloud Hosting for Blockchain
+Startup Resources
+Contact
+Support
+Sales
+Report Abuse
+System Status
+Share your ideas
+© 2022 DigitalOcean, LLC. All rights reserved.

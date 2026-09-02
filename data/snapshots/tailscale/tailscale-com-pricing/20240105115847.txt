@@ -1,0 +1,221 @@
+Product
+Meet Tailscale
+How it works
+Learn about Tailscale mesh networking, built on Wireguard®
+Why Tailscale
+Networking that just works. Trusted by hundreds of thousands of devs
+Meet Tailscale
+Integrations
+Features
+Compare Tailscale
+Use Cases
+Business VPN
+Replace your legacy VPN
+Remote Access
+Securely access shared resources
+Site-to-site Networking
+Connect internal resources and environments
+Homelab
+Create your own personal Internet
+Zero Trust Networking
+Identity-based access controls
+Meet Tailscale
+Integrations
+Features
+Compare Tailscale
+Docs
+Enterprise
+Customers
+Resources
+Blog
+Find the latest Tailscale updates, and other networking-related topics.
+Events & Webinars
+Connect with us at an upcoming event.
+Pricing
+Download
+Get started
+Login
+WireGuard is a registered trademark of Jason A. Donenfeld.
+Terms of Service
+Privacy Policy
+Cookie Policy
+© 2024 Tailscale Inc. All rights reserved. Tailscale is a registered trademark of Tailscale Inc.
+Plans that work for everyone
+Free
+For individuals or small teams who want all that Tailscale has to offer, for free.
+$0
+Per active user/month
+Get started free
+Users and devices
+Up to 3 users w/Custom Domain
+Up to 100 devices
+Features
+Peer-To-Peer Connections
+MagicDNS
+Network, Resource-level, and Attribute-based Access Policies (ACLs)
+User Approval
+SSO with standard IdP
+Starter
+For teams or organizations looking for an easy-to-use, secure, legacy VPN replacement.
+$6
+Per active user/month
+Get started free
+Users and devices
+First 3 users free
+Unlimited Users
+100 devices + 10 devices per user
+Features
+Limited ACLs
+ACL tags
+Auth Keys
+SSO with standard IdP
+Configuration Audit Logging
+Webhooks
+Premium
+For companies who need service and resource level authentication and access control.
+$18
+Per active user/month
+Get started free
+Users and devices
+First 3 users free
+Unlimited Users
+100 devices + 20 devices per user
+Features
+ACLs
+SSO with advanced IdP
+Network flow logging
+Tailscale SSH
+Tailscale Funnel
+GitOps for ACLs
+Admin user roles
+Priority support
+Enterprise
+For companies who need advanced integrations, compliance and support for access control at scale.
+Custom
+Purpose-built for business
+Contact Sales
+Users and devices
+Unlimited Users
+Custom Devices
+Features
+User & Group provisioning (SCIM)
+Network flow logging with log streaming
+Tailscale SSH session recording
+Annual Billing
+Pay By Invoice
+Tailnet Lock
+Advanced Device Posture Management
+Additional Support Options
+Add-ons
+Get more out of Tailscale with optional add-ons. Available on all plans. Head to the settings page
+to configure your add-ons.
+Securely and privately browse the web with Tailscale + Mullvad. Learn more
+$5
+Per month for 5 devices
+Get started
+Have any questions? Check out our product FAQ
+licensing FAQ
+or contact sales
+team.
+Compare plans and features
+Compare plans
+Free
+Starter
+Premium
+Enterprise
+Pricing per active user/month
+$0
+$6
+$18
+Custom
+Users & Devices
+Users A user is any distinct email address in your account. You get 3 users for free in Starter and Premium.
+3
+Unlimited
+Desktop & mobile apps
+Devices A device is any computer, phone, or server with Tailscale installed that's connected to your network. Device limits are pooled across your network.
+100
+100 + 10/user
+100 + 20/user
+Custom
+Virtual Private Networking
+Peer-to-peer connections Establish direct connections between nodes in your tailnet, to minimize latency.
+End-to-end encryption Encrypt all traffic end-to-end with WireGuard&reg;.
+IPv4 and IPv6 Route both IPv4 and IPv6 traffic.
+Split tunnelling Split DNS traffic so only traffic to your internal network goes over Tailscale, and everything else goes directly to the internet.
+Short DNS host names (MagicDNS) Automatically register human readable DNS names with MagicDNS to make it even easier to access devices and services on your network.
+Exit nodes Route Internet traffic through a designated egress point on your tailnet, like a traditional VPN.
+Subnet routers Relay traffic from your tailnet through a gateway to a subnet of VPCs, corporate LANs, physical networks, and more.
+App connectors Control access to software as a service (SaaS) applications available over your tailnet.
+HA failover Expose the same subnet routers and app connectors on multiple routers to ensure availability even if one router goes offline.
+IP space collision resolution (4via6 subnet routers) Route traffic to overlapping IPv4 subnets without renumbering with 4via6 subnet routers, by assigning unique IPv6 addresses for each subnet.
+Regional routing Route your traffic across distributed HA subnet routers or app connectors based on region.
+Access control
+Network-level access policies (ACLs) Precisely define access in your tailnet based on IP address, subnet, or port.
+ACL tests Test ACLs to make sure they're properly scoped to avoid unnecessary exposure of critical systems on your network.
+GitOps for ACLs Use a GitOps workflow to centralize management and version-control of your ACLs.
+On-demand access Use partner integrations to grant elevated privileges (e.g. on-call), including temporary access, using an approval workflow.
+Resource-level access policies Use ACL tags to assign identity to a device in order to enforce access based on roles and groups.
+Restrict based on purpose (ACL tags) Assign an identity to a device that is separate from human users, and use that identity as part of an ACL to restrict access.
+Restrict based on group Allow specific ACL-defined groups to access tagged nodes.
+autogroups only
+Restrict based on individual user Allow specific ACL-defined users to access tagged nodes.
+Separation of administrative duties (User roles) Assign admin roles to appropriately manage permissions, including IT admin, Network admin, Billing admin, and Auditor roles.
+Application Networking
+Service accounts Pre-authenticate services or nodes (e.g., servers and ephemeral containers) added to your network.
+Service provisioning Assign an identity to a service or node and restrict access on your tailnet, using ACL tags.
+Tailscale Kubernetes operator Provide full ingress and egress connectivity from Kubernetes clusters to non-Kubernetes resources, as well as cross-cluster peering, via Tailscale.
+Tailscale SSH Authenticate and encrypt SSH connections between devices in your tailnet, using Tailscale instead of SSH basic auth, keys, certs, or a bastion.
+Tailscale Funnel Route traffic from the Internet to a node in your tailnet to publicly share it with anyone, even if they aren’t using Tailscale.
+User Management
+User approval Prevent new users in your organization from joining a tailnet until they’ve been approved by an admin
+Standard user roles Standard user roles include owner, admin, and member
+Advanced user roles Advanced user roles include billing admin, IT admin, network admin, and auditor
+SSO with standard IdP (e.g., Google, Microsoft, GitHub, Keycloak, custom) Log in to Tailscale and manage users with any free native and/or custom OIDC identity provider.
+SSO with advanced IdP (e.g., Okta, OneLogin, JumpCloud, custom) Log in to Tailscale and manage users with any paid and/or custom OIDC identity provider.
+Custom authentication periods Enforce that users re-authenticate with your identity provider at an interval you choose. By default, this is every 6 months
+User & group provisioning (Azure AD + SCIM) Sync group membership and new or deactivated users from Azure AD.
+User & group provisioning (Okta + SCIM) Sync group membership and new or deactivated users from Okta.
+Endpoint & Posture Management
+Device approval Review and approve new devices and nodes before adding them to your tailnet.
+Tailnet lock Prevent new, and potentially malicious, nodes from joining your tailnet without first being signed by an already trusted node.
+Device posture management Use posture conditions to more granularly control access in your network policies.
+Postures based on custom attributes Attach custom posture attributes to your devices and use them as part of posture conditions.
+up to 2
+Device posture integrations Automatically synchronize device trust information from third-party posture checking tools and use it as part of posture conditions.
+Monitoring & Compliance
+Webhooks Subscribe to events on your tailnet, and forward those events to any integration or app — like Slack or Microsoft Teams.
+Configuration audit logging Record actions that modify a tailnet's configuration, including type of action, actor, target resource, and time.
+Network flow logging Record network traffic between nodes on your tailnet.
+Tailscale SSH session recording Capture and stream terminal sessions over Tailscale SSH for analysis or storage.
+Log streaming Send real-time network traffic information to any SIEM or observability tool for analysis, or to a bucket for long-term storage.
+configuration logs only
+Interfaces
+UI Log in to the tailscale.com admin console to manage users, nodes, and their permissions, on your tailnet.
+CLI Quickly access information, manage devices or troubleshoot issues with a built-in command-line interface.
+API Use the API to manage your network's devices, ACLs, DNS settings, and more.
+IaC Configure your tailnet using Terraform or Pulumi.
+Support
+Customer support Use the knowledge base or email us to get help with using Tailscale.
+Priority support Get support with a response SLA.
+Additional support options
+Payment Options
+Pay by credit card
+Pay by invoice
+Annual billing
+Pricing FAQs
+Does Tailscale have a free trial?
+Tailscale has a Free plan that includes nearly everything Tailscale has to offer for up to 100 devices, and up to 3 provisioned users.
+How does monthly active user billing work?
+Tailscale will charge you at the end of each month for all active users on your account during that time period. Tailscale will automatically apply a credit for 3 monthly active users to the Starter and Premium plan. For example, if you have 10 active users in a month then you will only be billed for 7 of them.
+How do device limits work?
+Our Free plan offers the ability to add a maximum of 100 devices. However for our Starter and Premium plans the total number of allowed devices increases as the number of provisioned users on the network increases. Please note that device limits are pooled.
+For example, if you’re on the Starter plan and have a 150 device limit, one user can have 30 provisioned devices and the remaining four users can each have five provisioned devices, leaving a pool of 100 devices for future users. Devices shared with you as a user don’t count towards your limit.
+What's the benefit of Access Control Lists (ACLs)?
+ACLs allow your organization to adopt one of the core tenets of Zero Trust networking: least privileged access. Before joining your tailnet every user is authenticated using an identity provider (IdP) such as Okta, Azure AD, or Github. Organizations on certain plans can choose to segment their users into roles and groups (e.g. developer and engineering org) to apply policies at scale. ACL tags, the last piece to this puzzle, allow you to assign an identity to your devices. Once these pieces are 
+Do you offer discounts for non-profits or educational institutions?
+Not-for-profit organizations, and educational institutions are eligible for a 50% discount off of listed prices. Choose your billing plan in the admin console, and contact us to have the discount applied.
+Try Tailscale for free
+Get started
+Schedule a demo
+Contact sales

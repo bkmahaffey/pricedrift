@@ -1,0 +1,300 @@
+[
+  {
+    "id": "knock-app-pricing-20230602194935",
+    "url": "https://knock.app/pricing",
+    "ts": "20230602194935",
+    "date": "2023-06-02",
+    "source": "wayback",
+    "prevTs": "20230207121602",
+    "kind": "price",
+    "score": 33,
+    "counts": {
+      "price": 8,
+      "limit": 1,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Knock: 8 prices, 1 limit, 4 plan names changed ($5 → 50k; $5 → 100k)",
+    "pairs": [
+      {
+        "before": "$5 per 1,000 additional notifications",
+        "after": "Includes 50k notifications / mo $5 per 1,000 additional notifications.",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "$5",
+            "after": "50k"
+          },
+          {
+            "before": "1,000",
+            "after": "$5"
+          },
+          {
+            "before": null,
+            "after": "1,000"
+          }
+        ]
+      },
+      {
+        "before": "$5 per 1,000 additional notifications",
+        "after": "Includes 100k notifications / mo $5 per 1,000 additional notifications.",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "$5",
+            "after": "100k"
+          },
+          {
+            "before": "1,000",
+            "after": "$5"
+          },
+          {
+            "before": null,
+            "after": "1,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "From independent developers to Fortune 500 companies, Knock scales for any organization. Start powering your notifications today for free.",
+      "Up to 10k notifications / mo Upgrade for additional usage.",
+      "Features: Unlimited channels",
+      "Unlimited team members",
+      "Get started for free",
+      "Get started for free",
+      "Developer $0/mo",
+      "Starter $250/mo",
+      "Growth $800/mo",
+      "Unlimited",
+      "50,000 $5 per 1,000 additional notifications.",
+      "Unlimited",
+      "100,000 $5 per 1,000 additional notifications.",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "removed": [
+      "Try Knock for free",
+      "Unlimited channels to get started 30-day log retention Features: Unlimited team members",
+      "Unlimited channels 90-day log retention Everything in Starter plus... Per-customer branding",
+      "$ 2500 / mo",
+      "Unlimited channels Unlimited log retention Everything in Growth plus... Volume-based pricing",
+      "No credit card required"
+    ],
+    "totals": {
+      "removed": 46,
+      "added": 104,
+      "materialRemoved": 12,
+      "materialAdded": 31
+    }
+  },
+  {
+    "id": "knock-app-pricing-20231212132356",
+    "url": "https://knock.app/pricing",
+    "ts": "20231212132356",
+    "date": "2023-12-12",
+    "source": "wayback",
+    "prevTs": "20230602194935",
+    "kind": "price",
+    "score": 14,
+    "counts": {
+      "price": 4,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Knock: 4 prices, 1 plan name changed (removed “For businesses managing notifications across …”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "For businesses managing notifications across teams. $ 800 / mo",
+      "Includes 100k notifications / mo $5 per 1,000 additional notifications.",
+      "Get started for free",
+      "Growth $800/mo",
+      "100,000 $5 per 1,000 additional notifications.",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 34,
+      "added": 12,
+      "materialRemoved": 11,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "knock-app-pricing-20240224232203",
+    "url": "https://knock.app/pricing",
+    "ts": "20240224232203",
+    "date": "2024-02-24",
+    "source": "wayback",
+    "prevTs": "20231212132356",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Knock: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "knock-app-pricing-20240404035411",
+    "url": "https://knock.app/pricing",
+    "ts": "20240404035411",
+    "date": "2024-04-04",
+    "source": "wayback",
+    "prevTs": "20240224232203",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Knock: 1 price changed (added “$5 per 1,000 additional notifications”)",
+    "pairs": [],
+    "added": [
+      "$5 per 1,000 additional notifications"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "knock-app-pricing-20250915163649",
+    "url": "https://knock.app/pricing",
+    "ts": "20250915163649",
+    "date": "2025-09-15",
+    "source": "wayback",
+    "prevTs": "20240404035411",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Knock: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Unlimited users Store unlimited contacts to send messages to without per-user fees",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "removed": [
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Batching, cross-channel delivery, and preference management - all on one platform. Send 10k notifications per month for free.",
+      "Get started for free →"
+    ],
+    "totals": {
+      "removed": 35,
+      "added": 41,
+      "materialRemoved": 11,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "knock-app-pricing-20251117101320",
+    "url": "https://knock.app/pricing",
+    "ts": "20251117101320",
+    "date": "2025-11-17",
+    "source": "wayback",
+    "prevTs": "20250915163649",
+    "kind": "price",
+    "score": 11,
+    "counts": {
+      "price": 3,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Knock: 3 prices, 1 limit changed (removed “Includes 50k notifications / mo $5 per 1,000 …”; added “50K messages Includes messages sent from work…”)",
+    "pairs": [],
+    "added": [
+      "Unlimited broadcasts",
+      "Unlimited delivery channels",
+      "50K messages Includes messages sent from workflows and broadcasts. Prepaid usage, then $.005 per message.",
+      "2.5K guide active users A user that sees at least one guide in the month. Prepaid usage, then $.05 per user.",
+      "Unlimited guides Create as many guides as you need.",
+      "Unlimited"
+    ],
+    "removed": [
+      "Unlimited users Store unlimited contacts to send messages to without per-user fees",
+      "Unlimited channels",
+      "Includes 50k notifications / mo $5 per 1,000 additional notifications.",
+      "$5 per 1,000 additional notifications",
+      "50,000 $5 per 1,000 additional notifications."
+    ],
+    "totals": {
+      "removed": 19,
+      "added": 42,
+      "materialRemoved": 8,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "knock-app-pricing-20260828131049",
+    "url": "https://knock.app/pricing",
+    "ts": "20260828131049",
+    "date": "2026-08-28",
+    "source": "wayback",
+    "prevTs": "20251117101320",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Knock: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 14,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  }
+]

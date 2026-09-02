@@ -1,0 +1,159 @@
+Find the plan that’s right for your team
+Get started for free. Change anytime.
+Have Questions? Request a Demo
+What is your error event volume?
+5K /mo
+Yearly
+(get 2 months free)
+Free
+$ 0 /mo
+Event limit exceeded
+All the basic features that help you discover, predict, and remediate errors
+Get Started
+5,000 error events monthly
+Real-time feed and alerts
+Intelligent error grouping
+Stack traces and telemetry
+Deploy and version tracking
+Data retention - 30 days
+Unlimited - custom fields
+Essentials
+$ 15.83 /mo
+for 25K event volume Event limit exceeded
+Everything you need to find and fix production errors without relying on user reports and logs
+Start Free Trial
+Everything in Free plus: On-demand Events
+Data retention - Custom up to 90 days
+Fine grained rate limiting
+Unlimited - custom fields
+Advanced
+$ 32.15 /mo
+for 25K event volume Event limit exceeded
+For larger teams and microservices architectures requiring advanced capabilities
+Start Free Trial
+Everything in Essentials plus: Adaptive Alerts
+Cross-project search + feed
+Rollbar Analyze: RQL + Metrics API
+SCIM provisioning
+Data retention - Custom up to 180 days
+Unlimited - custom fields
+Enterprise
+Starts at $25K
+For enterprise teams requiring more than 80M events
+Get in Touch
+Tailor to your needs: Core features included
+Rollbar Analyze: RQL + Metrics API (add-on)
+Direct Slack channel
+Priority support and SLAs
+SCIM provisioning
+High volume
+Data retention - Custom
+Unlimited - custom fields
+Compare plans
+Free Free
+Essentials Ess
+Advanced Adv
+Enterprise Ent
+Platform and data access
+SDKs for server, client, & mobile? Open source, lightweight, and agentless SDKs for all major languages and frameworks.
+Unlimited projects? A project in Rollbar typically maps to a single deployable app/microservice or code repo.
+Custom
+Unlimited users? Everyone in your team should have access to Rollbar.
+Custom
+Included event volume? The number of error, warning, info and debug events included each month.
+5,000 / month
+25K - 50M / month
+Custom
+Maximum data retention? We don't sample your data. Your full error data is securely stored with us.
+30 days
+90 days
+180 days
+Custom
+Customizable data retention? Set a custom retention period for your Rollbar data to any length between 7 to 180 days.
+Custom
+Overage budgets with on-demand events? On a paid plan, the option to set an overage budget to continue to capture error, warning, debug and info events beyond your included event volume
+Custom
+Customizable rate limits? Set granular rate limits to keep costs in check.
+REST API + Terraform provider? You can use Rollbar via REST API, Terraform provider alongside or instead of the web UI.
+Rollbar Analyze: RQL + Metrics API? You can add-on Rollbar Analyze: RQL + Metrics API. *Additional Cost Applies
+Add-on
+Monitoring and alerting
+Account dashboard? See a consolidated view of all projects in your account.
+Real-time error feed? A real-time feed of errors for your project that comes with powerful search and filters.
+Cross-project error feed? A real-time feed of errors from all your projects (apps/services) on a single screen.
+Intelligent error grouping? Rollbar groups similar errors automatically to reduce noise, using our ML-powered grouping engine. Add your own custom rules to make it perfect.
+Real-time alerts via Slack, email, webhook, & more? Get instant notifications when errors occur in collaboration tools you're using.
+Real-time alerts via on-call tools like PagerDuty, VictorOps, OpsGenie? Get instant notifications when errors occur in on-call incident management tools.
+Forward Rollbar data to Datadog? Syndicate Rollbar data to Datadog for centralized visibility.
+Adaptive Alerts? Reliable, informative, and actionable notifications about unexpected issues in monitored applications and services. Adaptive Alerts notify you about atypical exception rates.
+Service Links Per Project? Service links allow you to link out to external data related to the error data sent to Rollbar.
+1
+5
+Unlimited
+Snooze Items? Snooze items for set period to avoid alerts.
+Saved Views? Save predefined filters as a view on the Item list.
+Impact analysis & issue tracking
+Contextual metadata: impacted users, regions, browsers, & more? All the data you need to understand the impact of an error.
+Rollbar Analyze: RQL + Metrics API for custom data analysis? Use a rich SQL-like interface to perform data analysis and build custom reports.
+Add-on
+Watch and assign errors? Triage an error directly in Rollbar: assign it to a developer and get status updates.
+Auto-create issue tickets in Jira, Asana, Pivotal Tracker, & more? Automatically create an issue ticket in issue tracking tools.
+Auto-resolve tickets when the error is resolved in Rollbar? Automatically resolve an issue ticket when the error is marked resolved in Rollbar.
+Resolve errors via commit? Use Git commit messages to automatically resolve errors in Rollbar when you deploy the commit.
+Team Assignments? Assign Items to a Individual or Team
+Data and context for debugging
+Stack traces, request and custom params, local var values, & more? Rollbar captures and organizes all the detailed data you need to debug an error.
+Telemetry? Telemetry shows you a timeline of all the events that happened leading to the error. It's like a black box recorder, but for errors.
+Source maps, symbolication, and ProGuard support? Rollbar works with minified JavaScript, iOS dSYMs, and Android/Java ProGuard.
+View source code via GitHub, GitLab, and Bitbucket integration? Get links to the offending line of code directly inside the stack trace.
+Track deploys via integration with GitHub Actions, CircleCI, & more? Notify Rollbar every time you deploy to get deploy-related metadata on errors.
+Versions: track the impact of all deployed code versions? See new and reactivated errors across all projects, by deployed code version. Great for frequent deployments.
+Similar and co-occurring errors? See similar and co-occurring errors for any particular error.
+Unlimited custom fields / tags? Add unlimited custom data to your payload, sometimes called tags or custom fields to improve debugging.
+Security & administration
+Two-factor authentication
+Disk-based encryption at rest? All your data is protected by encryption both at rest and in transit.
+GDPR compliance
+Basic SSO via Google and GitHub? Allow users to log in to Rollbar using Google or GitHub credentials.
+SAML SSO via Okta, Azure, and more
+SCIM User provisioning? Manage and provision Rollbar users directly from Okta, OneLogin, Azure AD, and more
+Enterprise security controls
+Audit controls
+Standard BAA for HIPAA? Rollbar is HIPAA-compliant and will sign a Business Associate Agreement with you.
+4M Annual Plan Minimum
+Custom BAA for HIPAA? For customers needing a custom BAA
+Support & services
+Email and chat support? Email and chat support for all. We generally respond in 24 hours or less.
+Priority support
+Top Priority support
+Direct Slack channel
+Dedicated customer success manager
+Onboarding concierge
+Custom SLAs
+$ 0 /mo
+Get Started
+Starting at $ 12.5 /mo
+Start Free Trial
+Starting at $ 29 /mo
+Start Free Trial
+Chat with us
+Get in Touch
+What's an event?
+An event in Rollbar is a single exception, message, error, warning, debug, info, or crash report sent to the Rollbar API. Events that are dropped because of a specified rate limit or account limits, don’t count toward your event volume.
+How does the free trial work?
+The trial includes all Advanced features as well as unlimited events. Your 14-day trial starts when you send your first event. After the trial ends, you can subscribe to a paid plan that best fits your needs, or downgrade to the Free plan.
+What if I exceed my plan's included event volume?
+We’ll continue to process your events and charge you a per event fee based on your plan level. Learn more about billing.
+What if I decide to cancel?
+You can upgrade, downgrade to another plan, or cancel at any time in the settings panel. Once cancelled, you will no longer be charged.
+I have specific needs. Do you have a custom plan?
+Absolutely. Contact our sales team
+to learn more about our custom plans and enterprise features.
+Educational institutions discount
+Rollbar offers a discount of 50% for any self-serve paid plan to educational institutions. Please contact [ [email protected]
+](mailto: [email protected]
+) to request the discount for your account.
+Nonprofit discount
+Rollbar offers a discount of 50% for any self-serve paid plan to nonprofit 501(c)(3) organizations. Please contact [ [email protected]
+](mailto: [email protected]
+) to request the discount for your account.

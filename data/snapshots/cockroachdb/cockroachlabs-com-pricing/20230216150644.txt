@@ -1,0 +1,94 @@
+Pricing
+/* Deploy CockroachDB your way */
+CockroachDB
+serverless
+Fully-managed, auto-scale
+CockroachDB cluster
+Great for starter projects and
+evaluation
+Forever Free
+5GiB Storage*
+250M Request Units/month*
+No credit card required
+..and pay as you grow
+$1 per additional 1GiB storage
+$1 per additional 10M RUs
+*descriptions below
+START FOR FREE
+CockroachDB
+dedicated
+Fully-managed, reserved CockroachDB cluster
+Ideal deployment for a cloud database
+Choose your cloud provider
+START FOR FREE
+AWS
+2 vCPU
+$0.51 /hr
+4 vCPU
+$0.90 /hr
+8 vCPU
+$1.60 /hr
+16 vCPU
+$3.11 /hr
+32 vCPU
+$5.34 /hr
+Per provisioned GB
+$0.0005088 /hr
+Per provisioned IOPS
+$0.0000196 /hr
+START FOR FREE
+GCP
+2 vCPU
+$0.43 /hr
+4 vCPU
+$0.71 /hr
+8 vCPU
+$1.18 /hr
+16 vCPU
+$2.30 /hr
+32 vCPU
+$4.20 /hr
+Per provisioned GB
+$0.0011986 /hr
+CockroachDB
+self-hosted
+Self-managed CockroachDB clusters that will run on any hardware and
+across any cloud.
+Direct control and ability to run anywhere
+CONTACT US
+CockroachDB
+core
+Open-source with
+foundational features.
+GET STARTED
+CockroachDB serverless
+Pricing Concepts Explained
+CockroachDB serverless presents a forever free database with upper limits for storage and transactional volume per month.
+Below we describe how this works.
+Free Forever
+Yes, it is free forever.
+For use up to 5GB of storage and 250M RUs per month!
+No Credit Card
+Required
+Sign up with an email address or use your github account to get started.
+Storage
+Storage is the disk space for storing your data in the cluster. Note: We do not charge you for the replicas of data we store to provide high availability and resilience.
+Request Units
+A request unit measures the amount of compute and IOPs each query will incur. Every query has varying requirements for resources and we rate them on the backend.
+These amounts are reset each month.
+Never Overspend
+When you configure your cluster you define a “Spend Limit”, which we use to regulate your usage of RUs and storage over the month. We will ensure that you have at least about 8M RUs to use per day (this is actually 100RU/second) and then some additional capacity so you can handle burst activity from day one of the month.
+Here are three scenarios that might help explain.
+SCENARIO 1
+Steady usage every moment
+across the entire month
+SCENARIO 2
+Heavy weekend usage but
+steady across the month
+SCENARIO 3
+Heavy use early & cluster ensures at
+least 100RUs/sec for remainder of month
+Start instantly
+/* Sign up, and in just a few seconds you’ll have a CockroachDB instance */
+START INSTANTLY
+See CockroachDB in action and ask questions of our product experts

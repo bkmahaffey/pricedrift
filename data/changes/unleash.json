@@ -1,0 +1,361 @@
+[
+  {
+    "id": "getunleash-io-pricing-20240407014055",
+    "url": "https://www.getunleash.io/pricing",
+    "ts": "20240407014055",
+    "date": "2024-04-07",
+    "source": "wayback",
+    "prevTs": "20230915151411",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Unleash: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 8,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "getunleash-io-pricing-20240623203311",
+    "url": "https://www.getunleash.io/pricing",
+    "ts": "20240623203311",
+    "date": "2024-06-23",
+    "source": "wayback",
+    "prevTs": "20240407014055",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Unleash: 2 limits changed (added “2 years”)",
+    "pairs": [],
+    "added": [
+      "2 years",
+      "14 days",
+      "90 days"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 13,
+      "materialRemoved": 0,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "getunleash-io-pricing-20250112234651",
+    "url": "https://www.getunleash.io/pricing",
+    "ts": "20250112234651",
+    "date": "2025-01-12",
+    "source": "wayback",
+    "prevTs": "20240623203311",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Unleash: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Unlimited",
+      "Unlimited"
+    ],
+    "removed": [
+      "Security, compliance, and development controls that scale along with you. Custom unlimited team members Contact Sales",
+      "Unlimited environments",
+      "Unlimited projects"
+    ],
+    "totals": {
+      "removed": 23,
+      "added": 27,
+      "materialRemoved": 4,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "getunleash-io-pricing-20250208072351",
+    "url": "https://www.getunleash.io/pricing",
+    "ts": "20250208072351",
+    "date": "2025-02-08",
+    "source": "wayback",
+    "prevTs": "20250112234651",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Unleash: 1 price changed (added “53 million requests per month for Pay-as-you-…”)",
+    "pairs": [],
+    "added": [
+      "53 million requests per month for Pay-as-you-go. $5 per million thereafter. Request quote for annual contract."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "getunleash-io-pricing-20250308121251",
+    "url": "https://www.getunleash.io/pricing",
+    "ts": "20250308121251",
+    "date": "2025-03-08",
+    "source": "wayback",
+    "prevTs": "20250208072351",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 1,
+      "limit": 2,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Unleash: 1 price, 2 limits, 1 plan name changed (removed “53 million requests per month for Pay-as-you-…”; added “Run Unleash in your own environment 75$ / per…”)",
+    "pairs": [],
+    "added": [
+      "Run Unleash in your own environment 75$ / per seat/month billed annually 5 seat minimum GET LICENSE",
+      "Unlimited feature flags",
+      "Unlimited projects and environments",
+      "Unlimited experiments",
+      "Feature flags metrics retained for 90 days",
+      "14-day free trial",
+      "75$ / per seat/month 5 seat minimum",
+      "14-day free trial",
+      "START FREE",
+      "75$ / per seat/month 5 seat minimum",
+      "14-days free trial"
+    ],
+    "removed": [
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "53 million requests per month for Pay-as-you-go. $5 per million thereafter. Request quote for annual contract.",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 149,
+      "added": 109,
+      "materialRemoved": 8,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "getunleash-io-pricing-20250409182145",
+    "url": "https://www.getunleash.io/pricing",
+    "ts": "20250409182145",
+    "date": "2025-04-09",
+    "source": "wayback",
+    "prevTs": "20250308121251",
+    "kind": "plans",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Unleash: 1 limit, 1 plan name changed (removed “Run Unleash in your own environment 75$ / per…”)",
+    "pairs": [],
+    "added": [
+      "Run Unleash Enterprise in your own environment Free Download",
+      "FREE DOWNLOAD"
+    ],
+    "removed": [
+      "Run Unleash in your own environment 75$ / per seat/month billed annually 5 seat minimum GET LICENSE"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "getunleash-io-pricing-20250520115851",
+    "url": "https://www.getunleash.io/pricing",
+    "ts": "20250520115851",
+    "date": "2025-05-20",
+    "source": "wayback",
+    "prevTs": "20250409182145",
+    "kind": "limits",
+    "score": 10,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Unleash: 1 limit, 4 plan names changed (removed “75$ / per seat/month 5 seat minimum”)",
+    "pairs": [],
+    "added": [
+      "FREE DOWNLOAD",
+      "START FREE",
+      "Unlimited"
+    ],
+    "removed": [
+      "Run Unleash Enterprise in your own environment Free Download",
+      "FREE DOWNLOAD",
+      "75$ / per seat/month 5 seat minimum",
+      "14-day free trial",
+      "START FREE",
+      "75$ / per seat/month 5 seat minimum"
+    ],
+    "totals": {
+      "removed": 42,
+      "added": 40,
+      "materialRemoved": 7,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "getunleash-io-pricing-20260413202700",
+    "url": "https://www.getunleash.io/pricing",
+    "ts": "20260413202700",
+    "date": "2026-04-13",
+    "source": "wayback",
+    "prevTs": "20250520115851",
+    "kind": "price",
+    "score": 11,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Unleash: 2 prices, 1 limit, 2 plan names changed (removed “14-day free trial”; added “We host Unleash Enterprise for you. 14-day tr…”)",
+    "pairs": [],
+    "added": [
+      "We host Unleash Enterprise for you. 14-day trial, no credit card required 75$ /seat/month START FREE TRIAL",
+      "53M API requests per month",
+      "($5 per million thereafter) for Cloud",
+      "$75/seat/month. Billed via credit card. 5 seat minimum for self-hosted."
+    ],
+    "removed": [
+      "14-day free trial",
+      "FREE DOWNLOAD",
+      "14-day free trial",
+      "START FREE"
+    ],
+    "totals": {
+      "removed": 43,
+      "added": 38,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "getunleash-io-pricing-20260514010523",
+    "url": "https://www.getunleash.io/pricing",
+    "ts": "20260514010523",
+    "date": "2026-05-14",
+    "source": "wayback",
+    "prevTs": "20260413202700",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Unleash: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "START FREE TRIAL"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 14,
+      "added": 21,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "getunleash-io-pricing-20260816061532",
+    "url": "https://www.getunleash.io/pricing",
+    "ts": "20260816061532",
+    "date": "2026-08-16",
+    "source": "wayback",
+    "prevTs": "20260514010523",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Unleash: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "14-days free trial"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "getunleash-io-pricing-20260902202107",
+    "url": "https://www.getunleash.io/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260816061532",
+    "kind": "price",
+    "score": 16,
+    "counts": {
+      "price": 5,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Unleash: 5 prices, 1 limit changed (added “Unleash Enterprise Pay-As-You-Go costs $75 pe…”)",
+    "pairs": [],
+    "added": [
+      "Unleash Enterprise Pay-As-You-Go costs $75 per seat per month, billed monthly by credit card, with no contract. A seat is a user of Unleash, not a user of your application. You can start a 14-day trial with no credit card required.",
+      "Unleash Open Source is free and has no seat limit. Enterprise annual contracts are quoted per customer and invoiced.",
+      "Is there a free version of Unleash?",
+      "Yes. Unleash Open Source is free, self-hosted, and has no limit on seats. It covers the core feature set, with a limit of 1 project, 2 environments, and 5,000 feature flags per instance. Thousands of teams run it in production.",
+      "It does not include single sign-on, SCIM provisioning, granular role-based access control, change request approvals, or a support SLA. If you need those, or you would rather not operate the service yourself, Pay-As-You-Go starts at $75 per seat per month with a 14-day free trial.",
+      "No. Client-side monthly active users are unlimited on every paid plan, and flag evaluations are never billed.",
+      "The Pay-As-You-Go plan on Unleash Cloud includes 53 million API requests per month. Additional requests are billed at $5 per million.",
+      "Pay-As-You-Go is self-service: $75 per seat per month, monthly credit card billing, no contract, standard support with a one business day response target, and a 99.9% uptime commitment. Best for teams that want to start immediately without procurement.",
+      "For example, Wayfair migrated more than 15,000 feature flags and 1,000 developers onto Unleash, replacing an in-house system that had contributed to holiday-season downtime at $3.4 million per hour. They"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 8,
+      "added": 63,
+      "materialRemoved": 0,
+      "materialAdded": 9
+    },
+    "transition": true
+  }
+]

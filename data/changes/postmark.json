@@ -7,14 +7,14 @@
     "source": "wayback",
     "prevTs": "20230107201234",
     "kind": "price",
-    "score": 37,
+    "score": 59,
     "counts": {
-      "price": 10,
-      "limit": 4,
+      "price": 18,
+      "limit": 3,
       "plan": 0
     },
     "material": true,
-    "headline": "Postmark: 10 prices, 4 limits changed (removed “$15 per month”; added “$0”)",
+    "headline": "Postmark: 18 prices, 3 limits changed (removed “$15 per month”; added “$0”)",
     "pairs": [],
     "added": [
       "$0",
@@ -23,8 +23,6 @@
       "Start with 100 emails per month for free",
       "Full message retention (45 days)",
       "No credit card required",
-      "Starts at $50 /month per IP",
-      "Our fully managed dedicated IPs are available to customers sending 300,000 emails per month or more.",
       "Starts at $10 /month per domain",
       "Do you have a tier smaller than 10,000 emails/month?",
       "We do not offer a tier between 100 emails/month (our free developer plan) and 10,000 emails/month."
@@ -46,8 +44,6 @@
       "+ $0.40 per 1,000",
       "$1,295 per month",
       "+ $0.30 per 1,000",
-      "Our fully managed dedicated IPs are available to customers sending 300,000 emails per month or more. Learn more",
-      "$50 per month",
       "We’ll start you off with our free developer plan."
     ],
     "totals": {
@@ -56,5 +52,499 @@
       "materialRemoved": 20,
       "materialAdded": 12
     }
+  },
+  {
+    "id": "postmarkapp-com-pricing-20230528144644",
+    "url": "https://postmarkapp.com/pricing",
+    "ts": "20230528144644",
+    "date": "2023-05-28",
+    "source": "wayback",
+    "prevTs": "20230316073217",
+    "kind": "price",
+    "score": 5,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Postmark: 1 price, 1 limit changed (7 added)",
+    "pairs": [
+      {
+        "before": "45 days worth of full content history to help you troubleshoot.",
+        "after": "45 days worth of full content history by default to help you troubleshoot (customizable from 7 to 365 days if needed).",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": null,
+            "after": "7"
+          },
+          {
+            "before": null,
+            "after": "365"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Starts at $5 /month"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 8,
+      "materialRemoved": 2,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "postmarkapp-com-pricing-20240217195933",
+    "url": "https://postmarkapp.com/pricing",
+    "ts": "20240217195933",
+    "date": "2024-02-17",
+    "source": "wayback",
+    "prevTs": "20230528144644",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Postmark: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "postmarkapp-com-pricing-20240512002211",
+    "url": "https://postmarkapp.com/pricing",
+    "ts": "20240512002211",
+    "date": "2024-05-12",
+    "source": "wayback",
+    "prevTs": "20240217195933",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Postmark: 1 price changed ($10 → $14)",
+    "pairs": [
+      {
+        "before": "Starts at $10 /month per domain",
+        "after": "Starts at $14 /month per domain",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$10",
+            "after": "$14"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "postmarkapp-com-pricing-20240908130228",
+    "url": "https://postmarkapp.com/pricing",
+    "ts": "20240908130228",
+    "date": "2024-09-08",
+    "source": "wayback",
+    "prevTs": "20240512002211",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Postmark: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "postmarkapp-com-pricing-20250117134017",
+    "url": "https://postmarkapp.com/pricing",
+    "ts": "20250117134017",
+    "date": "2025-01-17",
+    "source": "wayback",
+    "prevTs": "20240908130228",
+    "kind": "price",
+    "score": 45,
+    "counts": {
+      "price": 10,
+      "limit": 8,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Postmark: 10 prices, 8 limits changed (removed “$0”; added “10,000 emails”)",
+    "pairs": [],
+    "added": [
+      "10,000 emails",
+      "$15.00 /mo",
+      "Starting at 10,000 emails/month.",
+      "Extra emails @ $ 1.80 / 1,000",
+      "Up to 4 users",
+      "$60.50 /mo",
+      "Starting at 50,000 emails/month.",
+      "Extra emails @ $ 1.30 / 1,000",
+      "Up to 6 users",
+      "$138.00 /mo",
+      "Starting at 125,000 emails/month.",
+      "Extra emails @ $ 1.10 / 1,000",
+      "Unlimited users",
+      "Unlimited servers",
+      "Unlimited streams",
+      "Unlimited signature domains",
+      "Get started risk-free, for free",
+      "$15.00 /mo",
+      "$60.50 /mo",
+      "$138.00 /mo",
+      "Send Amounts Starts at 10K",
+      "Starts at 50K",
+      "Starts at 125K",
+      "Number of Users Up to 4 users",
+      "Up to 6 users",
+      "Unlimited users",
+      "Unlimited",
+      "Unlimited",
+      "Custom sending domains Up to 5 domains",
+      "Up to 10 domains",
+      "Unlimited",
+      "45 Days"
+    ],
+    "removed": [
+      "$0",
+      "Start free trial No credit card required",
+      "Start free trial No credit card required",
+      "Start with 100 emails per month for free",
+      "We’ll start you off with our free developer plan (100 test emails per month)",
+      "No credit card required"
+    ],
+    "totals": {
+      "removed": 90,
+      "added": 170,
+      "materialRemoved": 15,
+      "materialAdded": 41
+    }
+  },
+  {
+    "id": "postmarkapp-com-pricing-20250406151742",
+    "url": "https://postmarkapp.com/pricing",
+    "ts": "20250406151742",
+    "date": "2025-04-06",
+    "source": "wayback",
+    "prevTs": "20250117134017",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Postmark: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Postmark Pricing and Free Trial How many emails do you send and receive each month?"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 13,
+      "added": 13,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "postmarkapp-com-pricing-20250502183148",
+    "url": "https://postmarkapp.com/pricing",
+    "ts": "20250502183148",
+    "date": "2025-05-02",
+    "source": "wayback",
+    "prevTs": "20250406151742",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Postmark: 1 price changed ($1.10 → $1.20)",
+    "pairs": [
+      {
+        "before": "Extra emails @ $ 1.10 / 1,000",
+        "after": "Extra emails @ $ 1.20 / 1,000",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.10",
+            "after": "$1.20"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 7,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "postmarkapp-com-pricing-20250710021008",
+    "url": "https://postmarkapp.com/pricing",
+    "ts": "20250710021008",
+    "date": "2025-07-10",
+    "source": "wayback",
+    "prevTs": "20250502183148",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Postmark: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "postmarkapp-com-pricing-20250912231351",
+    "url": "https://postmarkapp.com/pricing",
+    "ts": "20250912231351",
+    "date": "2025-09-12",
+    "source": "wayback",
+    "prevTs": "20250710021008",
+    "kind": "price",
+    "score": 31,
+    "counts": {
+      "price": 8,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Postmark: 8 prices, 4 limits changed (50,000 → 10,000; 125,000 → 10,000)",
+    "pairs": [
+      {
+        "before": "Starting at 50,000 emails/month.",
+        "after": "Starting at 10,000 emails/month.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50,000",
+            "after": "10,000"
+          }
+        ]
+      },
+      {
+        "before": "Starting at 125,000 emails/month.",
+        "after": "Starting at 10,000 emails/month.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "125,000",
+            "after": "10,000"
+          }
+        ]
+      },
+      {
+        "before": "Starts at 50K",
+        "after": "Starts at 10K",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50K",
+            "after": "10K"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$16.50 /mo",
+      "$18.00 /mo",
+      "$16.50 /mo",
+      "$18.00 /mo"
+    ],
+    "removed": [
+      "$60.50 /mo",
+      "$138.00 /mo",
+      "$60.50 /mo",
+      "$138.00 /mo",
+      "Starts at 125K"
+    ],
+    "totals": {
+      "removed": 9,
+      "added": 8,
+      "materialRemoved": 8,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "postmarkapp-com-pricing-20260207083405",
+    "url": "https://postmarkapp.com/pricing",
+    "ts": "20260207083405",
+    "date": "2026-02-07",
+    "source": "wayback",
+    "prevTs": "20250912231351",
+    "kind": "price",
+    "score": 28,
+    "counts": {
+      "price": 2,
+      "limit": 6,
+      "plan": 5
+    },
+    "material": true,
+    "headline": "Postmark: 2 prices, 6 limits, 5 plan names changed (5 → 10; 4 → 6)",
+    "pairs": [
+      {
+        "before": "Custom sending domains Up to 5 domains",
+        "after": "Custom sending domains Up to 10 domains",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "5",
+            "after": "10"
+          }
+        ]
+      },
+      {
+        "before": "Number of Users Up to 4 users",
+        "after": "Number of Users Up to 6 users",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4",
+            "after": "6"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free",
+      "$0.00 /mo",
+      "Test your integration with 100 emails/month",
+      "100 emails/month.",
+      "Start Free Trial",
+      "Unlimited emails/day",
+      "Customizable data retention up to 365 days (45-day default)",
+      "Unlimited emails/day",
+      "Customizable data retention up to 365 days (45-day default)",
+      "Unlimited Custom sending domains",
+      "Unlimited emails/day",
+      "Free",
+      "Free",
+      "$0.00 /mo",
+      "Start Free Trial",
+      "Daily email limit Unlimited",
+      "Unlimited",
+      "Up to 5 domains",
+      "Unlimited users"
+    ],
+    "removed": [
+      "Unlimited users",
+      "Unlimited servers",
+      "Unlimited streams",
+      "Unlimited signature domains",
+      "Send Amounts Starts at 10K",
+      "Starts at 10K",
+      "Up to 6 users",
+      "Unlimited users"
+    ],
+    "totals": {
+      "removed": 33,
+      "added": 70,
+      "materialRemoved": 12,
+      "materialAdded": 23
+    }
+  },
+  {
+    "id": "postmarkapp-com-pricing-20260518101443",
+    "url": "https://postmarkapp.com/pricing",
+    "ts": "20260518101443",
+    "date": "2026-05-18",
+    "source": "wayback",
+    "prevTs": "20260207083405",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Postmark: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "postmarkapp-com-pricing-20260902202107",
+    "url": "https://postmarkapp.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260518101443",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Postmark: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
   }
 ]

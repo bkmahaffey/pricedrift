@@ -1,0 +1,967 @@
+[
+  {
+    "id": "atlassian-com-software-jira-pricing-20230322163904",
+    "url": "https://www.atlassian.com/software/jira/pricing",
+    "ts": "20230322163904",
+    "date": "2023-03-22",
+    "source": "wayback",
+    "prevTs": "20230104210935",
+    "kind": "price",
+    "score": 132,
+    "counts": {
+      "price": 38,
+      "limit": 0,
+      "plan": 9
+    },
+    "material": true,
+    "headline": "Jira: 38 prices, 9 plan names changed (removed “$128,000”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "Free Basic",
+      "Free Basic",
+      "Unlimited project boards?",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Unlimited project boards"
+    ],
+    "removed": [
+      "Atlassian Presents: Unleash. Hear our vision for the future of agile & DevOps and learn about the latest solutions. Register for free",
+      "Free For small teams to plan and track work more efficiently",
+      "Free Basic",
+      "Free Basic",
+      "$128,000",
+      "$149,500",
+      "$170,500",
+      "$192,000",
+      "$213,000",
+      "$234,500",
+      "$261,000",
+      "$288,000",
+      "$313,000",
+      "$339,000",
+      "$364,000",
+      "$390,000",
+      "$416,000",
+      "$441,000",
+      "$467,000",
+      "$492,000",
+      "$518,000",
+      "$543,000",
+      "$591,000",
+      "$638,000",
+      "$685,000",
+      "$732,000",
+      "$780,000",
+      "$825,000",
+      "$870,000",
+      "$916,000",
+      "$961,000",
+      "$1,006,000",
+      "$1,089,000",
+      "$1,172,000",
+      "$1,254,000",
+      "$1,337,000",
+      "$1,420,000",
+      "$1,498,000",
+      "$1,577,000",
+      "$1,656,000"
+    ],
+    "totals": {
+      "removed": 171,
+      "added": 81,
+      "materialRemoved": 45,
+      "materialAdded": 12
+    }
+  },
+  {
+    "id": "atlassian-com-software-jira-pricing-20230517141134",
+    "url": "https://www.atlassian.com/software/jira/pricing",
+    "ts": "20230517141134",
+    "date": "2023-05-17",
+    "source": "wayback",
+    "prevTs": "20230322163904",
+    "kind": "limits",
+    "score": 8,
+    "counts": {
+      "price": 0,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Jira: 4 limits changed (2GB → 7)",
+    "pairs": [
+      {
+        "before": "Of course! We offer a Free plan for Jira Software for up to 10 users, 2GB of storage, and Community Support. If you'd like to add more than 10 users or get access to more support and storage, you can sign up for a 7-day free trial of our Standard or Premium plan.",
+        "after": "If you'd like to add more than 10 users or get access to more support and storage, you can sign up for a 7-day free trial of our Standard or Premium plan. If you’re on the Free plan and exceed the user limit, we’ll automatically upgrade you to a 7-day free trial of the Standard plan.",
+        "confidence": 0.64,
+        "deltas": [
+          {
+            "before": "2GB",
+            "after": "7"
+          },
+          {
+            "before": "10",
+            "after": "7"
+          },
+          {
+            "before": "7",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Catch the ultimate event for modern teamwork from the comfort of your own desk. Team ‘23 sessions now available on demand. Watch now →",
+      "Free trial period, refunds, & subscription plan details",
+      "Our Free plan lets you try Jira Software for up to 10 users with 2GB of storage and Community Support.",
+      "Free trial & subscription info",
+      "If you want to keep using Jira Software after your 30-day free trial, update your existing subscription with a purchased license key. If you need a license key, purchase your subscription.",
+      "In the Free plan, every user is a project admin.",
+      "The Free plan comes with 100 global and multi-project rules per month while the Standard plan has 500 and Premium has 1,000. For example, 200 users on the Premium plan would have 200,000 global and multi-project rules per month, pooled across all Jira tools and users.",
+      "The Enterprise plan lets you set unlimited automation rules across as many Jira projects as you like."
+    ],
+    "removed": [
+      "to determine your exact price. For more than 35,000 users, explore our self-managed",
+      "Can I try Jira Software for free? Copy link to heading Copied! show +",
+      "What happens if I exceed the Free plan's user limit? Copy link to heading Copied! show +",
+      "When you exceed the Free plan's user limit, we'll automatically upgrade you to a free trial of the Standard plan. No payment information is required and you can cancel any time.",
+      "Can I try Jira Software Data Center for free? Copy link to heading Copied! show +",
+      "Project roles allow you to assign roles to different users, for example administrator or end-user. You can assign different permissions to users based on their role. In the Free plan, every user is considered a project admin.",
+      "Customers on Free and Standard plans have access to a limited monthly trial allotment of global and multi project rule executions (100 and 500 per month, respectively).",
+      "Premium users have 1000 global and multi-project rule executions per paid user per month. Ex: 200 users in Jira Cloud Premium will have 200,000 monthly global/multi-project rule executions per month. This is pooled across all Jira tools and all users. Enterprise users have access to unlimited automation executions."
+    ],
+    "totals": {
+      "removed": 104,
+      "added": 146,
+      "materialRemoved": 14,
+      "materialAdded": 14
+    }
+  },
+  {
+    "id": "atlassian-com-software-jira-pricing-20230714074655",
+    "url": "https://www.atlassian.com/software/jira/pricing",
+    "ts": "20230714074655",
+    "date": "2023-07-14",
+    "source": "wayback",
+    "prevTs": "20230517141134",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Jira: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 8,
+      "added": 15,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "atlassian-com-software-jira-pricing-20230902081455",
+    "url": "https://www.atlassian.com/software/jira/pricing",
+    "ts": "20230902081455",
+    "date": "2023-09-02",
+    "source": "wayback",
+    "prevTs": "20230714074655",
+    "kind": "plans",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Jira: 1 limit, 1 plan name changed (removed “Catch the ultimate event for modern teamwork …”; added “Free Unlimited single project, 100 global and…”)",
+    "pairs": [],
+    "added": [
+      "Free Unlimited single project, 100 global and multi-project",
+      "Standard Unlimited single project, 500 global and multi-project",
+      "Premium Unlimited single project, 1,000 global and multi-project",
+      "Enterprise Unlimited single project, unlimited global and multi-project"
+    ],
+    "removed": [
+      "Catch the ultimate event for modern teamwork from the comfort of your own desk. Team ‘23 sessions now available on demand. Watch now →",
+      "Free Single project"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 4,
+      "materialRemoved": 2,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "atlassian-com-software-jira-pricing-20231117124744",
+    "url": "https://www.atlassian.com/software/jira/pricing",
+    "ts": "20231117124744",
+    "date": "2023-11-17",
+    "source": "wayback",
+    "prevTs": "20230902081455",
+    "kind": "limits",
+    "score": 18,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 8
+    },
+    "material": true,
+    "headline": "Jira: 1 limit, 8 plan names changed (500 → 1700)",
+    "pairs": [
+      {
+        "before": "The Free plan comes with 100 global and multi-project rules per month while the Standard plan has 500 and Premium has 1,000. For example, 200 users on the Premium plan would have 200,000 global and multi-project rules per month, pooled across all Jira tools and users.",
+        "after": "Free plan comes with 100 rule runs per month while Standard plan has 1700. Premium has 1000 rule runs per paid user per month. For example, 200 users on Premium plan would have 200,000 rules per month for for Jira Software pooled across users.",
+        "confidence": 0.61,
+        "deltas": [
+          {
+            "before": "500",
+            "after": "1700"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Enterprise Unlimited",
+      "Free ✓",
+      "Free -",
+      "Free -",
+      "Free -",
+      "Free -",
+      "Free -",
+      "The Enterprise plan allows unlimited rule runs on Jira Software"
+    ],
+    "removed": [
+      "Enterprise Unlimited",
+      "Standard Unlimited single project, 500 global and multi-project",
+      "Premium Unlimited single project, 1,000 global and multi-project",
+      "Enterprise Unlimited single project, unlimited global and multi-project",
+      "The Enterprise plan lets you set unlimited automation rules across as many Jira projects as you like."
+    ],
+    "totals": {
+      "removed": 20,
+      "added": 67,
+      "materialRemoved": 7,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "atlassian-com-software-jira-pricing-20240108190815",
+    "url": "https://www.atlassian.com/software/jira/pricing",
+    "ts": "20240108190815",
+    "date": "2024-01-08",
+    "source": "wayback",
+    "prevTs": "20231117124744",
+    "kind": "limits",
+    "score": 12,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 5
+    },
+    "material": true,
+    "headline": "Jira: 1 limit, 5 plan names changed (added “Free 100 emails per day”)",
+    "pairs": [],
+    "added": [
+      "Free -",
+      "Free -",
+      "Free 100 emails per day",
+      "Standard Unlimited",
+      "Premium Unlimited",
+      "Enterprise Unlimited",
+      "Our Free plan for Jira Software lets you send a maximum of 100 emails each day. After 100 emails, your notifications will be paused until the following day. See more about email notification limits for our Free plan."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 26,
+      "materialRemoved": 0,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "atlassian-com-software-jira-pricing-20240515205524",
+    "url": "https://www.atlassian.com/software/jira/pricing",
+    "ts": "20240515205524",
+    "date": "2024-05-15",
+    "source": "wayback",
+    "prevTs": "20240108190815",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Jira: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "atlassian-com-software-jira-pricing-20240708154430",
+    "url": "https://www.atlassian.com/software/jira/pricing",
+    "ts": "20240708154430",
+    "date": "2024-07-08",
+    "source": "wayback",
+    "prevTs": "20240515205524",
+    "kind": "price",
+    "score": 233,
+    "counts": {
+      "price": 4,
+      "limit": 10,
+      "plan": 101
+    },
+    "material": true,
+    "headline": "Jira: 4 prices, 10 limits, 101 plan names changed (35,000 → 50,000; 35,000 → 50,000)",
+    "pairs": [
+      {
+        "before": "Standard 35,000 users",
+        "after": "Standard 50,000 users",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "35,000",
+            "after": "50,000"
+          }
+        ]
+      },
+      {
+        "before": "Premium 35,000 users",
+        "after": "Premium 50,000 users",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "35,000",
+            "after": "50,000"
+          }
+        ]
+      },
+      {
+        "before": "Enterprise 35,000 users",
+        "after": "Enterprise 50,000 users",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "35,000",
+            "after": "50,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Get it free",
+      "Get it free",
+      "Get it free",
+      "$12.48",
+      "Free",
+      "Free forever for 10 users",
+      "$0",
+      "Unlimited goals, projects, tasks, and forms",
+      "2 GB of storage",
+      "Up to 10 users",
+      "$7.16",
+      "Start free trial",
+      "Everything from Free plus:",
+      "250 GB of storage",
+      "Unlimited users",
+      "Connect the dots across your teams by inviting as many people as you need, anywhere from 11 to 50,000 users.",
+      "$12.48",
+      "Start free trial",
+      "Per user automation limits (1000 per month)",
+      "Unlimited storage",
+      "Unlimited automations",
+      "Project management essentials Everything teams need to get started. Always free, no use limits and no fuss. Feature",
+      "Unlimited goals",
+      "Unlimited Issues",
+      "Free",
+      "Unlimited projects",
+      "Free",
+      "Unlimited forms",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free"
+    ],
+    "removed": [
+      "Free One",
+      "Enterprise Unlimited",
+      "Free Basic",
+      "Free Basic",
+      "Free -",
+      "Unlimited project boards?",
+      "Free ✓",
+      "Free ✓",
+      "Free ✓",
+      "Free ✓",
+      "Free ✓",
+      "Free ✓",
+      "Free -",
+      "Free -",
+      "Free -",
+      "Free -",
+      "Free -",
+      "Free -",
+      "Free ✓",
+      "Free ✓",
+      "Free -",
+      "Free -",
+      "Free -",
+      "Free -",
+      "Free -",
+      "Free -",
+      "Free -",
+      "Free Requires Access subscription",
+      "Free ✓",
+      "Free ✓",
+      "Free ✓",
+      "Free ✓",
+      "Free -",
+      "Free -",
+      "Free -",
+      "Free -",
+      "Free -",
+      "Free -",
+      "Free -",
+      "Premium Unlimited storage"
+    ],
+    "totals": {
+      "removed": 473,
+      "added": 483,
+      "materialRemoved": 64,
+      "materialAdded": 96
+    }
+  },
+  {
+    "id": "atlassian-com-software-jira-pricing-20241117212817",
+    "url": "https://www.atlassian.com/software/jira/pricing",
+    "ts": "20241117212817",
+    "date": "2024-11-17",
+    "source": "wayback",
+    "prevTs": "20240708154430",
+    "kind": "price",
+    "score": 38,
+    "counts": {
+      "price": 4,
+      "limit": 4,
+      "plan": 9
+    },
+    "material": true,
+    "headline": "Jira: 4 prices, 4 limits, 9 plan names changed (removed “$12.48”; added “Our Free plan for Jira lets you send a maximu…”)",
+    "pairs": [],
+    "added": [
+      "Unlimited goals Beta",
+      "Our Free plan for Jira lets you send a maximum of 100 email notifications each day. After 100 emails, your notifications will be paused until the following day. Upgrade to a paid plan to send unlimited email notifications.",
+      "Free plan comes with 100 rule runs per month while Standard plan has 1700. Premium has 1000 rule runs per paid user per month. For example, 200 users on Premium plan would have 200,000 rules per month for Jira pooled across users.",
+      "The Enterprise plan allows unlimited rule runs on Jira"
+    ],
+    "removed": [
+      "$12.48",
+      "Free",
+      "Free forever for 10 users",
+      "$0",
+      "Unlimited goals, projects, tasks, and forms",
+      "2 GB of storage",
+      "Up to 10 users",
+      "$7.16",
+      "Start free trial",
+      "Everything from Free plus:",
+      "250 GB of storage",
+      "Unlimited users",
+      "Connect the dots across your teams by inviting as many people as you need, anywhere from 11 to 50,000 users.",
+      "$12.48",
+      "Start free trial",
+      "Per user automation limits (1000 per month)",
+      "Unlimited storage",
+      "Unlimited automations",
+      "Try it Free",
+      "Project management essentials Everything teams need to get started. Always free, no use limits and no fuss. Feature",
+      "Unlimited goals",
+      "Bring all your teams into Jira Give your teams space to grow with unlimited users, more storage, and flexible permissions. Feature",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free"
+    ],
+    "totals": {
+      "removed": 187,
+      "added": 126,
+      "materialRemoved": 28,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "support-atlassian-com-jira-cloud-administration-docs-explore-jira-cloud-plans-20250520141932",
+    "url": "https://support.atlassian.com/jira-cloud-administration/docs/explore-jira-cloud-plans/",
+    "ts": "20250520141932",
+    "date": "2025-05-20",
+    "source": "wayback",
+    "prevTs": "20250114205159",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Jira: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 51,
+      "added": 62,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "support-atlassian-com-jira-cloud-administration-docs-explore-jira-cloud-plans-20250702123934",
+    "url": "https://support.atlassian.com/jira-cloud-administration/docs/explore-jira-cloud-plans/",
+    "ts": "20250702123934",
+    "date": "2025-07-02",
+    "source": "wayback",
+    "prevTs": "20250520141932",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Jira: 2 limits changed (50,000 → 100,000; 50,000 → 100,000)",
+    "pairs": [
+      {
+        "before": "Up to 50,000 users",
+        "after": "Up to 100,000 users",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50,000",
+            "after": "100,000"
+          }
+        ]
+      },
+      {
+        "before": "Up to 50,000 users for Jira (10,000 for Jira Work Management and 20,000 agents in Jira Service Management)",
+        "after": "Up to 100,000 users for Jira (10,000 for Jira Work Management and 20,000 agents in Jira Service Management)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50,000",
+            "after": "100,000"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 13,
+      "added": 16,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "support-atlassian-com-jira-cloud-administration-docs-explore-jira-cloud-plans-20250808213438",
+    "url": "https://support.atlassian.com/jira-cloud-administration/docs/explore-jira-cloud-plans/",
+    "ts": "20250808213438",
+    "date": "2025-08-08",
+    "source": "wayback",
+    "prevTs": "20250702123934",
+    "kind": "limits",
+    "score": 8,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Jira: 3 limits, 1 plan name changed (removed “Up to 10 users”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Free",
+      "Up to 10 users",
+      "Up to 35,000 users",
+      "2 GB",
+      "250 GB",
+      "Unlimited",
+      "Unlimited (for a limited time)",
+      "Unlimited tasks and projects",
+      "2 GB file storage",
+      "250 GB file storage",
+      "Unlimited storage"
+    ],
+    "totals": {
+      "removed": 113,
+      "added": 44,
+      "materialRemoved": 11,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "atlassian-com-software-jira-pricing-20251105173759",
+    "url": "https://www.atlassian.com/software/jira/pricing",
+    "ts": "20251105173759",
+    "date": "2025-11-05",
+    "source": "wayback",
+    "prevTs": "20241117212817",
+    "kind": "price",
+    "score": 38,
+    "counts": {
+      "price": 3,
+      "limit": 6,
+      "plan": 9
+    },
+    "material": true,
+    "headline": "Jira: 3 prices, 6 limits, 9 plan names changed (50,000 → 100,000; 50,000 → 100,000)",
+    "pairs": [
+      {
+        "before": "Standard 50,000 users",
+        "after": "Standard 100,000 users",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50,000",
+            "after": "100,000"
+          }
+        ]
+      },
+      {
+        "before": "Premium 50,000 users",
+        "after": "Premium 100,000 users",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50,000",
+            "after": "100,000"
+          }
+        ]
+      },
+      {
+        "before": "Enterprise 50,000 users",
+        "after": "Enterprise 100,000 users",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50,000",
+            "after": "100,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free",
+      "Free forever for 10 users",
+      "$0",
+      "Unlimited goals, projects, tasks, and forms",
+      "2 GB of storage",
+      "Up to 10 users",
+      "$7.91",
+      "Start free trial",
+      "Everything from Free plus:",
+      "250 GB of storage",
+      "Up to 100,000 users per site",
+      "$14.54",
+      "Start free trial",
+      "Unlimited storage",
+      "Unlimited automation rule runs",
+      "Free",
+      "Assign roles to different users, like administrator or end-user. In the Free plan, every user is a project admin. Different permissions apply to users depending on their role.",
+      "Free"
+    ],
+    "removed": [
+      "Get it free",
+      "Get it free",
+      "Get it free",
+      "Free"
+    ],
+    "totals": {
+      "removed": 67,
+      "added": 156,
+      "materialRemoved": 9,
+      "materialAdded": 23
+    }
+  },
+  {
+    "id": "support-atlassian-com-jira-cloud-administration-docs-explore-jira-cloud-plans-20251114141732",
+    "url": "https://support.atlassian.com/jira-cloud-administration/docs/explore-jira-cloud-plans/",
+    "ts": "20251114141732",
+    "date": "2025-11-14",
+    "source": "wayback",
+    "prevTs": "20250808213438",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Jira: 2 limits changed (50,000 → 500,000)",
+    "pairs": [
+      {
+        "before": "Up to 50,000 objects ( more available via add-ons",
+        "after": "Up to 500,000 objects ( more available via add-ons",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50,000",
+            "after": "500,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Atlassian reserves the right to deactivate Free Jira Cloud sites due to inactivity.",
+      "Up to 500,000 objects for Assets ( more available via add-ons"
+    ],
+    "removed": [
+      "If all of your Jira Cloud products are on the Free plan, those products will be deactivated after 120 days of inactivity."
+    ],
+    "totals": {
+      "removed": 90,
+      "added": 95,
+      "materialRemoved": 6,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "atlassian-com-software-jira-pricing-20260201095125",
+    "url": "https://www.atlassian.com/software/jira/pricing",
+    "ts": "20260201095125",
+    "date": "2026-02-01",
+    "source": "wayback",
+    "prevTs": "20251105173759",
+    "kind": "plans",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Jira: 3 plan names changed",
+    "pairs": [],
+    "added": [
+      "Free",
+      "Free"
+    ],
+    "removed": [
+      "Free"
+    ],
+    "totals": {
+      "removed": 8,
+      "added": 17,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "support-atlassian-com-jira-cloud-administration-docs-explore-jira-cloud-plans-20260308212528",
+    "url": "https://support.atlassian.com/jira-cloud-administration/docs/explore-jira-cloud-plans/",
+    "ts": "20260308212528",
+    "date": "2026-03-08",
+    "source": "wayback",
+    "prevTs": "20251114141732",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Jira: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Permissions limitations in Free Jira sites"
+    ],
+    "removed": [
+      "Permissions and work-level security in Free plans"
+    ],
+    "totals": {
+      "removed": 27,
+      "added": 42,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "support-atlassian-com-jira-cloud-administration-docs-explore-jira-cloud-plans-20260423101226",
+    "url": "https://support.atlassian.com/jira-cloud-administration/docs/explore-jira-cloud-plans/",
+    "ts": "20260423101226",
+    "date": "2026-04-23",
+    "source": "wayback",
+    "prevTs": "20260308212528",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Jira: 1 limit changed (20,000 removed)",
+    "pairs": [
+      {
+        "before": "Up to 100,000 users for Jira (10,000 for Jira Work Management and 20,000 agents in Jira Service Management)",
+        "after": "Up to 100,000 users for Jira & Jira Service Management (10,000 for Jira Work Management)",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "20,000",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 5,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "support-atlassian-com-jira-cloud-administration-docs-explore-jira-cloud-plans-20260614094827",
+    "url": "https://support.atlassian.com/jira-cloud-administration/docs/explore-jira-cloud-plans/",
+    "ts": "20260614094827",
+    "date": "2026-06-14",
+    "source": "wayback",
+    "prevTs": "20260423101226",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Jira: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 8,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "support-atlassian-com-jira-cloud-administration-docs-explore-jira-cloud-plans-20260902202107",
+    "url": "https://support.atlassian.com/jira-cloud-administration/docs/explore-jira-cloud-plans/",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260614094827",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Jira: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 8,
+      "added": 21,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
+  },
+  {
+    "id": "atlassian-com-software-jira-pricing-20260902202107",
+    "url": "https://www.atlassian.com/software/jira/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "browser",
+    "prevTs": "20260201095125",
+    "kind": "limits",
+    "score": 32,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 13
+    },
+    "material": true,
+    "headline": "Jira: 3 limits, 13 plan names changed (removed “Our Free plan for Jira lets you send a maximu…”; added “Free 150 automation steps per subscription pe…”)",
+    "pairs": [],
+    "added": [
+      "Unlimited work items",
+      "Unlimited spaces",
+      "Free 150 automation steps per subscription per month",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free guest access",
+      "Free",
+      "Free 150 automation steps per subscription per month",
+      "Free",
+      "1,000 objects per month*",
+      "1,000 objects per month*",
+      "1,000 objects per month*",
+      "Free",
+      "Free plan comes with 150 steps per subscription per month, while Standard plan has 400 steps per user per month. Premium has 750 steps per user per month, and Enterprise has 1,000 steps per user per month.",
+      "Rovo Search, Chat, and Agents are included on every paid Jira plan (Standard, Premium, and Enterprise). The plans differ by how much Rovo usage is included each month, not whether you get AI. The Free plan does not include Rovo."
+    ],
+    "removed": [
+      "Unlimited automation rule runs",
+      "Unlimited Issues",
+      "Unlimited projects",
+      "Our Free plan for Jira lets you send a maximum of 100 email notifications each day. After 100 emails, your notifications will be paused until the following day. Upgrade to a paid plan to send unlimited email notifications.",
+      "Free plan comes with 100 rule runs per month while Standard plan has 1700. Premium has 1000 rule runs per paid user per month. For example, 200 users on Premium plan would have 200,000 rules per month for Jira pooled across users.",
+      "The Enterprise plan allows unlimited rule runs on Jira.",
+      "Enterprise Unlimited",
+      "Session duration management allows an organization admin to set a session timeout value different from the default policy of 30 days. This means admins can control how long a team member can stay signed in without interacting with Atlassian.com"
+    ],
+    "totals": {
+      "removed": 113,
+      "added": 170,
+      "materialRemoved": 14,
+      "materialAdded": 27
+    },
+    "transition": true
+  }
+]

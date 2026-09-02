@@ -1,0 +1,653 @@
+[
+  {
+    "id": "backblaze-com-cloud-storage-pricing-20230904051646",
+    "url": "https://www.backblaze.com/cloud-storage/pricing",
+    "ts": "20230904051646",
+    "date": "2023-09-04",
+    "source": "wayback",
+    "prevTs": "20230717172503",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Backblaze B2: 2 prices changed (removed “$0”; added “New pay-as-you-go pricing and free egress sta…”)",
+    "pairs": [],
+    "added": [
+      "New pay-as-you-go pricing and free egress starting Oct 3, 2023.",
+      "$0.05"
+    ],
+    "removed": [
+      "$0"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 5,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "backblaze-com-cloud-storage-pricing-20231101120420",
+    "url": "https://www.backblaze.com/cloud-storage/pricing",
+    "ts": "20231101120420",
+    "date": "2023-11-01",
+    "source": "wayback",
+    "prevTs": "20230904051646",
+    "kind": "price",
+    "score": 62,
+    "counts": {
+      "price": 18,
+      "limit": 2,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Backblaze B2: 18 prices, 2 limits, 2 plan names changed ($5 → $6)",
+    "pairs": [
+      {
+        "before": "Compare how $5/TB/month stacks up.",
+        "after": "Compare how $6/TB/month stacks up.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$5",
+            "after": "$6"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 6",
+      "$26",
+      "$20",
+      "$23",
+      "Free*",
+      "Starts at 20TB",
+      "(250TB/year)",
+      "$52,392",
+      "$0.06",
+      "$ 6 /TB/Month",
+      "Free",
+      "Up to 3x of data stored and unlimited through many CDN and Compute partners.",
+      "Backblaze B2 Cloud Storage pricing is flexible, scalable, on-demand cloud storage at $ 6 /TB/month with no tiers and variance by region, no minimum file size or minimum storage duration, and egress free up to 3X of data stored and unlimited to many CDN and compute partners."
+    ],
+    "removed": [
+      "New pay-as-you-go pricing and free egress starting Oct 3, 2023.",
+      "$0.005",
+      "$0.01*",
+      "$0.026",
+      "$0.0208",
+      "$0.023",
+      "*Download fees for cloud replication of files across regions is free.",
+      "(MSRP for 250TB–1 Year)",
+      "$52,395",
+      "$0.05",
+      "*All costs included—no additional cost for egress or transaction fees, no delete penalties, initial migration to B2 Reserve free, plus Tera Support included.",
+      "$0.005/GB/Month",
+      "$0.01/GB",
+      "Charged when you download files. Charged for any portion of a GB. The first 1GB of data downloaded each day is free. Cloud replication download of files across regions is free. Downloads through most CDN and Compute partners are also free."
+    ],
+    "totals": {
+      "removed": 62,
+      "added": 49,
+      "materialRemoved": 18,
+      "materialAdded": 17
+    }
+  },
+  {
+    "id": "backblaze-com-cloud-storage-pricing-20240103131603",
+    "url": "https://www.backblaze.com/cloud-storage/pricing",
+    "ts": "20240103131603",
+    "date": "2024-01-03",
+    "source": "wayback",
+    "prevTs": "20231101120420",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Backblaze B2: 2 prices, 3 plan names changed (added “*Up to 3x of average monthly data stored, the…”)",
+    "pairs": [],
+    "added": [
+      "Start Free",
+      "Try for Free",
+      "*Up to 3x of average monthly data stored, then $0.01/GB for additional egress.",
+      "*Up to 3x of average monthly data stored, then $0.01/GB for additional egress."
+    ],
+    "removed": [
+      "Try It Free"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 6,
+      "materialRemoved": 1,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "backblaze-com-cloud-storage-pricing-20240305103654",
+    "url": "https://www.backblaze.com/cloud-storage/pricing",
+    "ts": "20240305103654",
+    "date": "2024-03-05",
+    "source": "wayback",
+    "prevTs": "20240103131603",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Backblaze B2: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "backblaze-com-cloud-storage-pricing-20240509190938",
+    "url": "https://www.backblaze.com/cloud-storage/pricing",
+    "ts": "20240509190938",
+    "date": "2024-05-09",
+    "source": "wayback",
+    "prevTs": "20240305103654",
+    "kind": "price",
+    "score": 47,
+    "counts": {
+      "price": 10,
+      "limit": 2,
+      "plan": 7
+    },
+    "material": true,
+    "headline": "Backblaze B2: 10 prices, 2 limits, 7 plan names changed (removed “Data stored with Backblaze is calculated hour…”; added “Stop paying for slow-downs, egress limits, an…”)",
+    "pairs": [],
+    "added": [
+      "Stop paying for slow-downs, egress limits, and storage duration minimums. Backblaze B2 gives you performance with predictable pricing and 3x egress free.",
+      "Start Free",
+      "$1,560",
+      "per 20TB/yr.",
+      "Start Free",
+      "Free 3x monthly egress",
+      "Egress above 3x monthly average storage is also free through many CDN and compute partners; otherwise, overage is billed at $0.01 per GB.",
+      "Free API calls",
+      "Class A calls incl. PutObject and DeleteBucket are free. Class B calls incl. GetObject and HeadObject are free up to 2,500 calls/day; additional are $0.0004 per 1,000 calls/day. Class C calls incl. CopyObject and ListBuckets are free up to 2,500 calls/day; additional are $0.004 per 1,000 calls/day. More details",
+      "Annual from 1-5 years",
+      "$15K",
+      "Start Free",
+      "How can I get unlimited free egress?",
+      "Want more than 3x free egress? You’ll be pleased to know that you can enjoy unlimited free egress when downloading from Backblaze B2 to/through many of our CDN and compute partners. Partners supported for unlimited free egress: Fastly, Cloudflare, Bunny.net, CacheFly, Coreweave, Equinix Metal, Vultr, and phoenixNAP.",
+      "How does Backblaze's 3x free egress work?",
+      "All Backblaze B2 Cloud Storage users enjoy free data egress (also known as download) up to 3x their average monthly storage amount. The monthly average is determined based on byte hours over the billing cycle, with total egress up to 3x the average provided free; any monthly egress overage is priced at $0.01/GB."
+    ],
+    "removed": [
+      "Try for Free",
+      "Data stored with Backblaze is calculated hourly, with no minimum retention requirement, and billed monthly. The first 10GB of storage is free.",
+      "Free",
+      "Up to 3x of data stored and unlimited through many CDN and Compute partners.",
+      "Class “A” transactions: Free.",
+      "Class “B” transactions: $0.004 per 10,000 with 2,500 free per day.",
+      "Class “C” transactions: $0.004 per 1,000 with 2,500 free per day.",
+      "$550.",
+      "USB Hard Drive – up to 8TB of data: $189.",
+      "where they will also find a free-to-use knowledge base of B2 Cloud Storage advice, guides, and more. In addition, a Backblaze B2 user can pay to upgrade their support plan",
+      "Free",
+      "Backblaze B2 Cloud Storage pricing is flexible, scalable, on-demand cloud storage at $ 6 /TB/month with no tiers and variance by region, no minimum file size or minimum storage duration, and egress free up to 3X of data stored and unlimited to many CDN and compute partners.",
+      "Backblaze provides all customers with free email support by real humans during Pacific Time business hours (9 a.m. to 5 p.m. Pacific). We also offer premium support options"
+    ],
+    "totals": {
+      "removed": 50,
+      "added": 93,
+      "materialRemoved": 16,
+      "materialAdded": 19
+    }
+  },
+  {
+    "id": "backblaze-com-cloud-storage-pricing-20240704201356",
+    "url": "https://www.backblaze.com/cloud-storage/pricing",
+    "ts": "20240704201356",
+    "date": "2024-07-04",
+    "source": "wayback",
+    "prevTs": "20240509190938",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 6,
+      "limit": 0,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Backblaze B2: 6 prices, 3 plan names changed (removed “Compare how $6/TB/month stacks up.”; added “$52,395”)",
+    "pairs": [],
+    "added": [
+      "$52,395",
+      "$25,000/yr",
+      "Start Free"
+    ],
+    "removed": [
+      "Start Free",
+      "Compare how $6/TB/month stacks up.",
+      "I want $0 downloads with CDN and Compute partners",
+      "$50,000/yr",
+      "Start Free",
+      "$52,392"
+    ],
+    "totals": {
+      "removed": 36,
+      "added": 20,
+      "materialRemoved": 8,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "backblaze-com-cloud-storage-pricing-20240904011347",
+    "url": "https://www.backblaze.com/cloud-storage/pricing",
+    "ts": "20240904011347",
+    "date": "2024-09-04",
+    "source": "wayback",
+    "prevTs": "20240704201356",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Backblaze B2: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "Register Free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "backblaze-com-cloud-storage-pricing-20241101123226",
+    "url": "https://www.backblaze.com/cloud-storage/pricing",
+    "ts": "20241101123226",
+    "date": "2024-11-01",
+    "source": "wayback",
+    "prevTs": "20240904011347",
+    "kind": "price",
+    "score": 16,
+    "counts": {
+      "price": 3,
+      "limit": 1,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Backblaze B2: 3 prices, 1 limit, 3 plan names changed (removed “Starts at 20TB”; added “Free 3x monthly egress”)",
+    "pairs": [],
+    "added": [
+      "Start Free",
+      "Free 3x monthly egress",
+      "API calls are free for B2 Reserve customers. For pay-as-you-go customers, Class A calls are free, and Class B and C calls are free for the first 2,500/day/class, after which they are charged at $0.0004/1,000 calls/day and $0.004/1,000 calls/day, respectively. Click the link for details."
+    ],
+    "removed": [
+      "Register Free",
+      "Start Free",
+      "Always-hot storage free of complicated pricing tiers.",
+      "Starts at 20TB",
+      "*Up to 3x of average monthly data stored, then $0.01/GB for additional egress",
+      "Class A calls incl. PutObject and DeleteBucket are free. Class B calls incl. GetObject and HeadObject are free up to 2,500 calls/day; additional are $0.0004 per 1,000 calls/day. Class C calls incl. CopyObject and ListBuckets are free up to 2,500 calls/day; additional are $0.004 per 1,000 calls/day. More details"
+    ],
+    "totals": {
+      "removed": 57,
+      "added": 53,
+      "materialRemoved": 10,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "backblaze-com-cloud-storage-pricing-20250108152502",
+    "url": "https://www.backblaze.com/cloud-storage/pricing",
+    "ts": "20250108152502",
+    "date": "2025-01-08",
+    "source": "wayback",
+    "prevTs": "20241101123226",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Backblaze B2: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "backblaze-com-cloud-storage-pricing-20250301181911",
+    "url": "https://www.backblaze.com/cloud-storage/pricing",
+    "ts": "20250301181911",
+    "date": "2025-03-01",
+    "source": "wayback",
+    "prevTs": "20250108152502",
+    "kind": "price",
+    "score": 4,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Backblaze B2: 1 price, 1 limit changed (removed “50TB+ committed contracts”; added “Service is billed monthly, based on the amoun…”)",
+    "pairs": [],
+    "added": [
+      "Service is billed monthly, based on the amount of data stored per byte-hour over the last month at a rate of $6/TB/30-day."
+    ],
+    "removed": [
+      "50TB+ committed contracts"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 3,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "backblaze-com-cloud-storage-pricing-20250401090426",
+    "url": "https://www.backblaze.com/cloud-storage/pricing",
+    "ts": "20250401090426",
+    "date": "2025-04-01",
+    "source": "wayback",
+    "prevTs": "20250301181911",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Backblaze B2: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 14,
+      "added": 14,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "backblaze-com-cloud-storage-pricing-20250501145943",
+    "url": "https://www.backblaze.com/cloud-storage/pricing",
+    "ts": "20250501145943",
+    "date": "2025-05-01",
+    "source": "wayback",
+    "prevTs": "20250401090426",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Backblaze B2: 2 prices, 1 limit, 1 plan name changed (removed “Stop paying for slowdowns, egress limits, and…”; added “Free egress up to 3x storage”)",
+    "pairs": [],
+    "added": [
+      "Free egress up to 3x storage",
+      "$15",
+      "Unlimited free egress"
+    ],
+    "removed": [
+      "Stop paying for slowdowns, egress limits, and storage duration minimums. Backblaze B2 gives you high-performance cloud storage with predictable pricing and 3x free egress.",
+      "$1,560",
+      "/20TB/year",
+      "Backblaze B2 offers unlimited free egress when downloading to or through partner CDNs and compute services, including Fastly, Cloudflare, Bunny.net, CacheFly, Coreweave, Equinix Metal, Vultr, and phoenixNAP."
+    ],
+    "totals": {
+      "removed": 16,
+      "added": 26,
+      "materialRemoved": 4,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "backblaze-com-cloud-storage-pricing-20250905102653",
+    "url": "https://www.backblaze.com/cloud-storage/pricing",
+    "ts": "20250905102653",
+    "date": "2025-09-05",
+    "source": "wayback",
+    "prevTs": "20250501145943",
+    "kind": "price",
+    "score": 17,
+    "counts": {
+      "price": 5,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Backblaze B2: 5 prices, 1 plan name changed (removed “$0*”; added “$0.09”)",
+    "pairs": [],
+    "added": [
+      "Free*",
+      "$0.09",
+      "$0.11"
+    ],
+    "removed": [
+      "$0*",
+      "$0.06",
+      "$0.05"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "backblaze-com-cloud-storage-pricing-20260201025522",
+    "url": "https://www.backblaze.com/cloud-storage/pricing",
+    "ts": "20260201025522",
+    "date": "2026-02-01",
+    "source": "wayback",
+    "prevTs": "20250905102653",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Backblaze B2: 2 prices changed (removed “All Backblaze B2 Cloud Storage users enjoy fr…”; added “All B2 Cloud Storage users get free egress up…”)",
+    "pairs": [],
+    "added": [
+      "All B2 Cloud Storage users get free egress up to 3x their average monthly storage. Your monthly average is calculated based on byte hours over the billing cycle. Egress beyond 3x is just $0.01/GB—no surprise fees, no penalties. B2 Overdrive",
+      "also provides unlimited free egress to any destination in the world."
+    ],
+    "removed": [
+      "All Backblaze B2 Cloud Storage users enjoy free data egress (also known as download) up to 3x their average monthly storage amount. The monthly average is determined based on byte hours over the billing cycle, with total egress up to 3x the average provided free.; Egress exceeding this amount is priced at $0.01/GB."
+    ],
+    "totals": {
+      "removed": 1,
+      "added": 2,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "backblaze-com-cloud-storage-pricing-20260504155827",
+    "url": "https://www.backblaze.com/cloud-storage/pricing",
+    "ts": "20260504155827",
+    "date": "2026-05-04",
+    "source": "wayback",
+    "prevTs": "20260201025522",
+    "kind": "price",
+    "score": 23,
+    "counts": {
+      "price": 7,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Backblaze B2: 7 prices, 1 plan name changed ($6 → $6.95)",
+    "pairs": [
+      {
+        "before": "Service is billed monthly, based on the amount of data stored per byte-hour over the last month at a rate of $6/TB/30-day.",
+        "after": "Service is billed monthly, based on the amount of data stored per byte-hour over the last month at a rate of $ 6.95 /TB/30-day.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$6",
+            "after": "$6.95"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 6.95 / TB / mo",
+      "Free transactions",
+      "$ 6.95",
+      "Class A, B, and C API calls are free for pay-as-you-go customers. Class D transactions cost $0.004 per 10,000 calls plus the first 2,500 calls per day are free."
+    ],
+    "removed": [
+      "$6",
+      "$ 6",
+      "API calls are free for B2 Reserve customers. For pay-as-you-go customers, Class A calls are free, and Class B and C calls are free for the first 2,500/day/class, after which they are charged at $0.0004/1,000 calls/day and $0.004/1,000 calls/day, respectively. Click the link for details."
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 6,
+      "materialRemoved": 5,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "backblaze-com-cloud-storage-pricing-20260701071317",
+    "url": "https://www.backblaze.com/cloud-storage/pricing",
+    "ts": "20260701071317",
+    "date": "2026-07-01",
+    "source": "wayback",
+    "prevTs": "20260504155827",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Backblaze B2: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Free 3x monthly egress"
+    ],
+    "totals": {
+      "removed": 13,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "backblaze-com-cloud-storage-pricing-20260807231530",
+    "url": "https://www.backblaze.com/cloud-storage/pricing",
+    "ts": "20260807231530",
+    "date": "2026-08-07",
+    "source": "wayback",
+    "prevTs": "20260701071317",
+    "kind": "price",
+    "score": 57,
+    "counts": {
+      "price": 17,
+      "limit": 1,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Backblaze B2: 17 prices, 1 limit, 2 plan names changed (removed “$ 6.95”; added “3× free”)",
+    "pairs": [],
+    "added": [
+      "3× free",
+      "$0",
+      "You save $0",
+      "Free egress included this month 0 TB"
+    ],
+    "removed": [
+      "$ 6.95",
+      "$26",
+      "$20",
+      "$23",
+      "Free*",
+      "$0.09",
+      "$0.08",
+      "$0.11",
+      "(250TB/year)",
+      "$19,500",
+      "$75,600",
+      "$52,395",
+      "$69,000",
+      "Free*",
+      "$0.09",
+      "$0.08",
+      "$0.11",
+      "$25,000/yr"
+    ],
+    "totals": {
+      "removed": 38,
+      "added": 25,
+      "materialRemoved": 18,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "backblaze-com-cloud-storage-pricing-20260901043342",
+    "url": "https://www.backblaze.com/cloud-storage/pricing",
+    "ts": "20260901043342",
+    "date": "2026-09-01",
+    "source": "wayback",
+    "prevTs": "20260807231530",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Backblaze B2: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "Start Free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 38,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  }
+]

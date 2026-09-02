@@ -1,0 +1,599 @@
+[
+  {
+    "id": "rollbar-com-pricing-20230608114301",
+    "url": "https://rollbar.com/pricing/",
+    "ts": "20230608114301",
+    "date": "2023-06-08",
+    "source": "wayback",
+    "prevTs": "20230128004955",
+    "kind": "price",
+    "score": 14,
+    "counts": {
+      "price": 3,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Rollbar: 3 prices, 3 limits changed (100K → 25K; 100K → 25K)",
+    "pairs": [
+      {
+        "before": "for 100K event volume Event limit exceeded",
+        "after": "for 25K event volume Event limit exceeded",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100K",
+            "after": "25K"
+          }
+        ]
+      },
+      {
+        "before": "100K - 10M / month",
+        "after": "25K - 10M / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100K",
+            "after": "25K"
+          }
+        ]
+      },
+      {
+        "before": "Starting at $ 82 /mo",
+        "after": "Starting at $ 29 /mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$82",
+            "after": "$29"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 24.17 /mo",
+      "For organizations with enterprise requirements and 50M events or more per month"
+    ],
+    "removed": [
+      "$ 82 /mo"
+    ],
+    "totals": {
+      "removed": 16,
+      "added": 14,
+      "materialRemoved": 4,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "rollbar-com-pricing-20231011171427",
+    "url": "https://rollbar.com/pricing/",
+    "ts": "20231011171427",
+    "date": "2023-10-11",
+    "source": "wayback",
+    "prevTs": "20230608114301",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Rollbar: 2 limits changed (4M → 50M)",
+    "pairs": [
+      {
+        "before": "25K - 4M / month",
+        "after": "25K - 50M / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4M",
+            "after": "50M"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "25K - 10M / month"
+    ],
+    "totals": {
+      "removed": 8,
+      "added": 10,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "rollbar-com-pricing-20240329051721",
+    "url": "https://rollbar.com/pricing/",
+    "ts": "20240329051721",
+    "date": "2024-03-29",
+    "source": "wayback",
+    "prevTs": "20231011171427",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 4,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Rollbar: 4 prices changed (removed “$ 12.50 /mo”; added “$ 15.83 /mo”)",
+    "pairs": [],
+    "added": [
+      "$ 15.83 /mo",
+      "$ 32.15 /mo"
+    ],
+    "removed": [
+      "$ 12.50 /mo",
+      "$ 24.17 /mo"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 9,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "rollbar-com-pricing-20241004204730",
+    "url": "https://rollbar.com/pricing/",
+    "ts": "20241004204730",
+    "date": "2024-10-04",
+    "source": "wayback",
+    "prevTs": "20240329051721",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Rollbar: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 8,
+      "added": 13,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "rollbar-com-pricing-20250117233452",
+    "url": "https://rollbar.com/pricing/",
+    "ts": "20250117233452",
+    "date": "2025-01-17",
+    "source": "wayback",
+    "prevTs": "20241004204730",
+    "kind": "price",
+    "score": 5,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Rollbar: 1 price, 1 limit changed (removed “For organizations with enterprise requirement…”; added “Starts at $25K”)",
+    "pairs": [],
+    "added": [
+      "Starts at $25K",
+      "For enterprise teams requiring more than 80M events"
+    ],
+    "removed": [
+      "For organizations with enterprise requirements and 50M events or more per month"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "rollbar-com-pricing-20250804112130",
+    "url": "https://rollbar.com/pricing/",
+    "ts": "20250804112130",
+    "date": "2025-08-04",
+    "source": "wayback",
+    "prevTs": "20250117233452",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Rollbar: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Unlimited - custom fields",
+      "Unlimited - custom fields",
+      "Unlimited - custom fields",
+      "Unlimited - custom fields",
+      "Unlimited custom fields / tags? Add unlimited custom data to your payload, sometimes called tags or custom fields to improve debugging.",
+      "4M Annual Plan Minimum"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 7,
+      "materialRemoved": 0,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "rollbar-com-pricing-20251016084523",
+    "url": "https://rollbar.com/pricing/",
+    "ts": "20251016084523",
+    "date": "2025-10-16",
+    "source": "wayback",
+    "prevTs": "20250804112130",
+    "kind": "price",
+    "score": 131,
+    "counts": {
+      "price": 19,
+      "limit": 18,
+      "plan": 19
+    },
+    "material": true,
+    "headline": "Rollbar: 19 prices, 18 limits, 19 plan names changed (removed “$ 15.83 /mo”; added “5K 50M”)",
+    "pairs": [],
+    "added": [
+      "Elevate your error monitoring with Rollbar. Get started for free. Change anytime.",
+      "5K 50M",
+      "1K 10M",
+      "5K occurrences + 1K sessions",
+      "Free",
+      "5K occurrences + 1K sessions",
+      "Start Free Trial",
+      "Free",
+      "$0",
+      "5K occurrences + 1K sessions",
+      "Start Free Trial",
+      "$15",
+      "Everything in Free, plus",
+      "Data retention up to 90 days",
+      "$15",
+      "Start Free Trial",
+      "$15",
+      "Everything in Free, plus",
+      "Data retention up to 90 days",
+      "Start Free Trial",
+      "$32",
+      "Data retention up to 180 days",
+      "$32",
+      "Start Free Trial",
+      "$32",
+      "Data retention up to 180 days",
+      "Start Free Trial",
+      "For enterprise teams requiring more than 80M events",
+      "For enterprise teams requiring more than 80M events",
+      "Evaluate the complete Advanced feature-set with 200K occurrences and 1K sessions.",
+      "Free",
+      "Free",
+      "Free",
+      "Unlimited projects",
+      "Unlimited users",
+      "10K - 50M / month",
+      "25K - 50M / month",
+      "5,000 / month",
+      "10K - 50M / month",
+      "25K - 50M / month"
+    ],
+    "removed": [
+      "Get started for free. Change anytime.",
+      "Unlimited - custom fields",
+      "$ 15.83 /mo",
+      "for 25K event volume Event limit exceeded",
+      "Unlimited - custom fields",
+      "$ 32.15 /mo",
+      "for 25K event volume Event limit exceeded",
+      "Unlimited - custom fields",
+      "Starts at $25K",
+      "Unlimited - custom fields",
+      "Free Free",
+      "Unlimited projects? A project in Rollbar typically maps to a single deployable app/microservice or code repo.",
+      "Unlimited users? Everyone in your team should have access to Rollbar.",
+      "Customizable data retention? Set a custom retention period for your Rollbar data to any length between 7 to 180 days.",
+      "Unlimited custom fields / tags? Add unlimited custom data to your payload, sometimes called tags or custom fields to improve debugging.",
+      "Email and chat support? Email and chat support for all. We generally respond in 24 hours or less.",
+      "Starting at $ 12.5 /mo",
+      "Starting at $ 29 /mo"
+    ],
+    "totals": {
+      "removed": 103,
+      "added": 390,
+      "materialRemoved": 29,
+      "materialAdded": 85
+    }
+  },
+  {
+    "id": "rollbar-com-pricing-20251210050201",
+    "url": "https://rollbar.com/pricing/",
+    "ts": "20251210050201",
+    "date": "2025-12-10",
+    "source": "wayback",
+    "prevTs": "20251016084523",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Rollbar: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "rollbar-com-pricing-20260307061134",
+    "url": "https://rollbar.com/pricing/",
+    "ts": "20260307061134",
+    "date": "2026-03-07",
+    "source": "wayback",
+    "prevTs": "20251210050201",
+    "kind": "plans",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Rollbar: 2 plan names changed",
+    "pairs": [],
+    "added": [
+      "Free"
+    ],
+    "removed": [
+      "Free"
+    ],
+    "totals": {
+      "removed": 51,
+      "added": 19,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "rollbar-com-pricing-20260401120404",
+    "url": "https://rollbar.com/pricing/",
+    "ts": "20260401120404",
+    "date": "2026-04-01",
+    "source": "wayback",
+    "prevTs": "20260307061134",
+    "kind": "price",
+    "score": 19,
+    "counts": {
+      "price": 3,
+      "limit": 1,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Rollbar: 3 prices, 1 limit, 4 plan names changed (1K → 10K)",
+    "pairs": [
+      {
+        "before": "Evaluate the complete Advanced feature-set with 200K occurrences and 1K sessions.",
+        "after": "Evaluate the complete Advanced feature-set with 200K occurrences and 10K sessions.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1K",
+            "after": "10K"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "$0",
+      "$0",
+      "$0",
+      "Free",
+      "Free",
+      "Free",
+      "Try free"
+    ],
+    "totals": {
+      "removed": 100,
+      "added": 15,
+      "materialRemoved": 8,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "rollbar-com-pricing-20260501033219",
+    "url": "https://rollbar.com/pricing/",
+    "ts": "20260501033219",
+    "date": "2026-05-01",
+    "source": "wayback",
+    "prevTs": "20260401120404",
+    "kind": "price",
+    "score": 69,
+    "counts": {
+      "price": 13,
+      "limit": 12,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Rollbar: 13 prices, 12 limits, 3 plan names changed (15K added; 5K → 1K)",
+    "pairs": [
+      {
+        "before": "Evaluate the complete Advanced feature-set with 200K occurrences and 10K sessions.",
+        "after": "Evaluate the complete Advanced feature-set with 200K occurrences, 10K replays, and 15K credits.",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": null,
+            "after": "15K"
+          }
+        ]
+      },
+      {
+        "before": "5K - 25M / month",
+        "after": "1K - 10M / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "5K",
+            "after": "1K"
+          },
+          {
+            "before": "25M",
+            "after": "10M"
+          }
+        ]
+      },
+      {
+        "before": "5K - 25M / month",
+        "after": "1K - 10M / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "5K",
+            "after": "1K"
+          },
+          {
+            "before": "25M",
+            "after": "10M"
+          }
+        ]
+      },
+      {
+        "before": "5K - 25M / month",
+        "after": "1K - 10M / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "5K",
+            "after": "1K"
+          },
+          {
+            "before": "25M",
+            "after": "10M"
+          }
+        ]
+      },
+      {
+        "before": "25K - 50M / month",
+        "after": "4K - 10M / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "25K",
+            "after": "4K"
+          },
+          {
+            "before": "50M",
+            "after": "10M"
+          }
+        ]
+      },
+      {
+        "before": "25K - 50M / month",
+        "after": "8K - 10M / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "25K",
+            "after": "8K"
+          },
+          {
+            "before": "50M",
+            "after": "10M"
+          }
+        ]
+      },
+      {
+        "before": "25K - 50M / month",
+        "after": "4K - 10M / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "25K",
+            "after": "4K"
+          },
+          {
+            "before": "50M",
+            "after": "10M"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "0 10M",
+      "$0",
+      "$0",
+      "$0",
+      "4K credits, included",
+      "4K credits, included",
+      "4K credits, included",
+      "8K credits, included",
+      "8K credits, included",
+      "8K credits, included",
+      "Free",
+      "Free",
+      "Free",
+      "8K - 10M / month",
+      "4K - 10M / month",
+      "8K - 10M / month"
+    ],
+    "removed": [
+      "$15",
+      "$15",
+      "$15",
+      "$32",
+      "$32",
+      "$32",
+      "$15",
+      "$32",
+      "$15",
+      "$32"
+    ],
+    "totals": {
+      "removed": 44,
+      "added": 70,
+      "materialRemoved": 18,
+      "materialAdded": 24
+    }
+  },
+  {
+    "id": "rollbar-com-pricing-20260801195913",
+    "url": "https://rollbar.com/pricing/",
+    "ts": "20260801195913",
+    "date": "2026-08-01",
+    "source": "wayback",
+    "prevTs": "20260501033219",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Rollbar: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  }
+]

@@ -1,0 +1,54 @@
+Documentation Index
+Fetch the complete documentation index at: /llms.txt
+Use this file to discover all available pages before exploring further.
+Skip to main content
+When using Serverless, you may experience 429 Too Many Requests or 503 Service Overloaded. To avoid 429s, you need to stay below our adaptive rate limits. To reduce the likelihood of 503s, you can upgrade to Priority tier
+What are your rate limits?
+There are three metrics we use to rate limit accounts: Total Prompt TPM — input tokens per minute (cached + uncached).
+Uncached Prompt TPM — uncached input tokens per minute.
+Generated TPM — output tokens per minute.
+Enforcement uses TPM, not TPS. Adaptive rate limit ceilings depend on the model’s total parameter count. Smaller models get higher ceilings:
+Tier
+Total parameters
+Total Prompt TPM
+Uncached Prompt TPM
+Generated TPM
+Small
+< 400B
+64.8M
+16.2M
+648k
+Medium
+400B – < 1.6T
+43.2M
+10.8M
+432k
+Large
+≥ 1.6T
+21.6M
+5.4M
+216k
+Fast, Priority, and US-only variants of a model share the same tier and ceilings as the base model. Models without a known parameter count use Large ceilings. Based on your usage, your adaptive limits will grow and shrink within these ceilings. If your traffic ramps up too quickly, you will get 429s.
+Your current effective rate limits (described in tokens per second) are in the response headers X-Ratelimit-Limit-Tokens-Prompt, X-Ratelimit-Limit-Tokens-Cache-Adjusted-Prompt, and X-Ratelimit-Limit-Tokens-Generated. Adaptive rate limits have an upper and lower bound. A higher account Spending Tier
+correlates with higher upper bound rate limits; enterprise accounts get higher upper bounds automatically.
+FAQ
+Am I guaranteed successful responses up to my rate limit?
+No. Staying within your rate limits does not guarantee that every request succeeds. When a deployment is busy, your traffic can still be load shed, and those responses are 503 Service Overloaded. To decrease the chance of being load shed, you can use Priority tier
+which is prioritized during high load.
+How are rate limits scoped?
+Rate limits are scoped per account and per model. Fast and regular model variants have separate limits. Priority tier and regular requests share the same rate limits for a given model.
+How is my model's ceiling tier determined?
+Ceiling tiers are based on the model’s total parameter count: Small (< 400B), Medium (400B – < 1.6T), or Large (≥ 1.6T). See Model size tiers
+for the ceiling values.
+What should I do first when I see 429s?
+First, try exponential backoff when retrying.
+How do I get higher limits sooner?
+Reach out to inquiries@fireworks.ai
+for a custom solution if either of these applies: You need higher than the defaults from day one. Your launch traffic exceeds the starting limit and you can’t wait for the adaptive ramp.
+You’re ramping past the highest upper bound. You are already at the highest account Spending Tier and the adaptive rate limits are not growing.
+Was this page helpful?
+Yes
+No
+⌘ I
+Assistant
+Responses are generated using AI and may contain mistakes.

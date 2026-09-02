@@ -1,0 +1,364 @@
+Simple, predictable pricing
+Always know what you'll pay with monthly caps and flat pricing.
+Get Started
+<- Back to overview
+Droplets
+Deploy Droplets (cloud VMs) in seconds. Run any workload, from mission critical CPU, memory, and storage intensive apps to low traffic sites.
+View our DigitalOcean Droplet product documentation
+to learn which Droplet plan is right for you or talk to an expert.
+Basic Droplets
+Basic Droplets have the most efficient CPU usage at a lower cost for workloads that underuse dedicated threads. They’re ideal for bursty applications that can handle variable levels of CPU.
+CPU Options Regular
+Premium Intel
+Premium AMD
+Memory
+vCPU
+Transfer
+SSD
+$/hr
+$/mo
+512 MiB
+1 vCPU
+500 GiB
+10 GiB
+$0.00595
+$4.00
+Get Started
+1 GiB
+1 vCPU
+1,000 GiB
+25 GiB
+$0.00893
+$6.00
+Get Started
+2 GiB
+1 vCPU
+2,000 GiB
+50 GiB
+$0.01786
+$12.00
+Get Started
+2 GiB
+2 vCPUs
+3,000 GiB
+60 GiB
+$0.02679
+$18.00
+Get Started
+4 GiB
+2 vCPUs
+4,000 GiB
+80 GiB
+$0.03571
+$24.00
+Get Started
+8 GiB
+4 vCPUs
+5,000 GiB
+160 GiB
+$0.07143
+$48.00
+Get Started
+16 GiB
+8 vCPUs
+6,000 GiB
+320 GiB
+$0.14286
+$96.00
+Get Started
+CPU-Optimized Droplets
+CPU-Optimized Droplets provide a 2:1 ratio of memory to CPU. This configuration with fast (2.6GHz+), dedicated vCPUs is optimal for applications that demand fast, consistent performance such as media streaming, gaming and data analytics. The Premium variant of CPU-Optimized Droplets also provides up to 10Gbps outbound network speeds and NVMe SSDs.
+CPU Options Regular
+Premium Intel
+Memory
+vCPU
+Transfer
+SSD Variant
+SSD
+$/hr
+$/mo
+4 GiB
+2 vCPUs
+4,000 GiB
+1x
+25 GiB
+$0.06250
+$42.00
+Get Started
+8 GiB
+4 vCPUs
+5,000 GiB
+1x
+50 GiB
+$0.12500
+$84.00
+Get Started
+16 GiB
+8 vCPUs
+6,000 GiB
+1x
+100 GiB
+$0.25000
+$168.00
+Get Started
+32 GiB
+16 vCPUs
+7,000 GiB
+1x
+200 GiB
+$0.50000
+$336.00
+Get Started
+64 GiB
+32 vCPUs
+9,000 GiB
+1x
+400 GiB
+$1.00000
+$672.00
+Get Started
+96 GiB
+48 vCPUs
+11,000 GiB
+1x
+600 GiB
+$1.50000
+$1,008.00
+Get Started
+General Purpose Droplets
+General Purpose Droplets have a balanced ratio of memory to dedicated CPU, suitable for a wide variety of production workloads. They’re best for general purpose workloads that require dedicated computer power. The Premium variant of General Purpose Droplets also provides up to 10Gbps outbound network speeds and NVMe SSDs.
+CPU Options Regular
+Premium Intel
+Memory
+vCPU
+Transfer
+SSD Variant
+SSD
+$/hr
+$/mo
+8 GiB
+2 vCPUs
+4,000 GiB
+1x
+25 GiB
+$0.09375
+$63.00
+Get Started
+16 GiB
+4 vCPUs
+5,000 GiB
+1x
+50 GiB
+$0.18750
+$126.00
+Get Started
+32 GiB
+8 vCPUs
+6,000 GiB
+1x
+100 GiB
+$0.37500
+$252.00
+Get Started
+64 GiB
+16 vCPUs
+7,000 GiB
+1x
+200 GiB
+$0.75000
+$504.00
+Get Started
+128 GiB
+32 vCPUs
+8,000 GiB
+1x
+400 GiB
+$1.50000
+$1,008.00
+Get Started
+160 GiB
+40 vCPUs
+9,000 GiB
+1x
+500 GiB
+$1.87500
+$1,260.00
+Get Started
+Memory-Optimized Droplets
+Memory-optimized Droplets provide 8 GiB RAM for each vCPU. The additional memory can help you avoid excessively swapping to disk or getting out-of-memory errors, both of which significantly impact your application's performance and stability. Memory-Optimized Droplets use NVMe SSDs which deliver better disk performance for workloads that involve a large number of transactions
+CPU Options Regular
+Premium Intel
+Memory
+vCPU
+Transfer
+SSD Variant
+SSD
+$/hr
+$/mo
+16 GiB
+2 vCPUs
+4,000 GiB
+1x
+50 GiB
+$0.12500
+$84.00
+Get Started
+32 GiB
+4 vCPUs
+6,000 GiB
+1x
+100 GiB
+$0.25000
+$168.00
+Get Started
+64 GiB
+8 vCPUs
+7,000 GiB
+1x
+200 GiB
+$0.50000
+$336.00
+Get Started
+128 GiB
+16 vCPUs
+8,000 GiB
+1x
+400 GiB
+$1.00000
+$672.00
+Get Started
+192 GiB
+24 vCPUs
+9,000 GiB
+1x
+600 GiB
+$1.50000
+$1,008.00
+Get Started
+256 GiB
+32 vCPUs
+10,000 GiB
+1x
+800 GiB
+$2.00000
+$1,344.00
+Get Started
+Storage-Optimized Droplets
+Storage-Optimized Droplets use NVMe (non-volatile memory express), which is an interface protocol explicitly built for modern SSDs. It takes advantage of parallelism to deliver disk performance that can be order of magnitude faster than our regular SSDs.
+CPU Options Regular
+Premium Intel
+Memory
+vCPU
+Transfer
+SSD Variant
+SSD
+$/hr
+$/mo
+16 GiB
+2 vCPUs
+4,000 GiB
+1x
+300 GiB
+$0.19494
+$131.00
+Get Started
+32 GiB
+4 vCPUs
+6,000 GiB
+1x
+600 GiB
+$0.38988
+$262.00
+Get Started
+64 GiB
+8 vCPUs
+7,000 GiB
+1x
+1,170 GiB
+$0.77976
+$524.00
+Get Started
+128 GiB
+16 vCPUs
+8,000 GiB
+1x
+2,340 GiB
+$1.55952
+$1,048.00
+Get Started
+192 GiB
+24 vCPUs
+9,000 GiB
+1x
+3,520 GiB
+$2.33929
+$1,572.00
+Get Started
+256 GiB
+32 vCPUs
+10,000 GiB
+1x
+4,690 GiB
+$3.11905
+$2,096.00
+Get Started
+Additional product pricing
+Product
+Cost
+Backup
+Weekly backups are 20 % of Droplet cost. Daily backups are 30 % of Droplet cost. View complete pricing details for our Backups plans.
+Droplet Snapshots
+$0.06/GB per month
+Frequently asked questions
+What forms of payment do you accept?
+We accept Visa, Mastercard, American Express, Discover, PayPal, Google Pay, and Apple Pay. Apple pay requires a Safari browser. For additional payment options, including wire transfer, purchase orders, and ACH, please contact us
+Note that when you add a card, we may send a temporary pre-authorization request to the issuing bank. This pre-authorization charge is immediately released by DigitalOcean but may take a few days to clear from your card depending on the bank.
+When will my card be charged?
+DigitalOcean billing cycles are monthly. Typically, on the first day of each month we invoice and automatically charge your account's primary payment method for the previous month's usage. In some cases, we might charge if your usage exceeds a threshold
+You can also login and self pay the balance at any time.
+Am I charged when I enter my credit card?
+No. Your card is only charged at the end of the billing cycle or upon exceeding a usage threshold. Pre-authorization charge: When you add a card, we may send a preauthorization request to the issuing bank. This is to verify that the card being added has been issued by the bank and that they will authorize any charges in future. These temporary pre-authorizations are typically $1 but can vary in range and are immediately canceled by us. Depending on your bank, it might take a few days for the cha
+Will taxes be included in my monthly invoice?
+We're required by law to apply taxes in some countries. Click here
+to learn whether we collect taxes in your country, what the tax rate is, etc.
+Why am I billed for powered off Droplets?
+When you power off your Droplet, you are still billed for it. This is because your disk space, CPU, RAM, and IP address are all reserved, even while powered off. Therefore, charges are made until you destroy the instance.
+How do I destroy my resources?
+Check out the docs to learn how to destroy Droplets
+Kubernetes clusters
+Managed Databases clusters ( PostgreSQL
+MySQL
+Caching
+), Spaces
+Volumes
+Firewalls
+and Load Balancers
+.
+Can I be notified if my bill exceeds a threshold?
+Yes, you can set up billing alerts
+and we will email you if the monthly spending exceeds an amount you specify.
+What if I use my Droplet for less than a month, would I still be charged for the whole month?
+You will never be billed more than the monthly cost of your Droplet. All Droplets are billed hourly up to a monthly cap of 672 hours (the number of hours in 4 weeks). If you use your server for fewer than 672 hours during the month, you will be billed for each hour that you used it. If you use your server for more than 672 hours that month, you will be billed at the monthly cost. For example, if you spin up a $10/mo Droplet and use it for 336 hours, then you would be charged $5 (going by the hou
+I spun up a $4 Droplet, but my monthly bill is more than $4. Why is that?
+Our pricing is based on a single Droplet. You may have created additional resources and this could be the reason for the higher bill. You can check your bill in the control panel to get details on the various resources you are using. If you need help, please contact support.
+I got a $200 credit when I opened an account. When will my card be charged?
+Your card will be charged only after you have utilized the free credits. For example, if you received a $200 credit for 60 days, then that $200 credit is automatically applied to your account. If you spend $25 in that timeframe, then your card will not be charged. If you spend $300, then the $200 credit would be fully utilized and your card will be charged only $100. Since the credit is valid for 60 days, you won't be able to use any remaining credit after 60 days.
+What's the price for the Marketplace 1-Click Apps?
+We charge you for the underlying compute on which the 1-Click Apps runs.
+How do I remove my card from the account?
+To remove a saved payment method, visit the products billing page
+and click the … menu of the payment method, then click Delete. In the Confirm Delete Card window that opens, click Delete to remove the card. You cannot remove the default payment method on the account.
+Can I prepay for my resources?
+If you are interested in prepayment for resources, contact our experts
+.
+Can I have a refund?
+We do not offer refunds. If there are extenuating circumstances, contact support.
+Still have questions?
+Have a complex setup or additional questions around pricing? Contact our sales team to get more information on DigitalOcean pricing.
+Contact sales
+Get started for free
+Sign up and get $200 in credit for your first 60 days with DigitalOcean.*
+Get started
+*This promotional offer applies to new accounts only.
+© 2024 DigitalOcean, LLC. Sitemap
+.

@@ -1,0 +1,92 @@
+Pricing that scales with you
+We designed our pricing to be simple and transparent so you can focus on what matters to your customers.
+Try Knock for free
+Request a demo →
+Developer
+$ 0 / mo
+Up to 10,000 notifications per month
+Unlimited channels to get started 30-day log retention Features: Unlimited team members
+Unlimited notification workflows
+Batch and delay notifications
+SSO via Google
+Get started
+Starter
+$ 250 / mo
+Includes 50,000 notifications per month
+$5 per 1,000 additional notifications
+Up to 3 channels 30-day log retention Everything in Developer plus... Remove Knock branding
+Get started
+Growth
+$ 800 / mo
+Includes 50,000 notifications per month
+$5 per 1,000 additional notifications
+Unlimited channels 90-day log retention Everything in Starter plus... Per-customer branding
+Per-customer preferences
+SAML 2.0 SSO
+Get started
+Enterprise
+$ 2500 / mo
+Volume-based discounts so you can grow with Knock for the long-term
+Unlimited channels Unlimited log retention Everything in Growth plus... Volume-based pricing
+Enterprise SLAs
+Shared Slack channel and priority support
+SCIM user provisioning
+HIPAA compliance / BAA
+Contact sales
+What's included
+All Knock plans come with a flexible notification engine and the developer tools you need to send great notifications.
+Get started for free
+No credit card required
+Notification engine
+Composable functions: batching, digests, delays, and data fetching
+Intelligent routing
+Powerful trigger conditions
+Automatic preference handling
+Multi-channel support
+Send to email, push, and SMS
+In-app: inboxes, feeds, and toasts
+Notify in Slack, Discord, and Microsoft Teams
+Developer toolkit
+Isolated environments
+Git-like versioning
+SDKs in all major languages
+Best-in-class observability
+Unified analytics
+End-to-end debugger
+Per-provider delivery logs
+TRUSTED BY DEVELOPERS AT
+Frequently asked questions
+What counts as a notification sent for usage billing purposes?
+A notification sent is a single notification delivered to a single user on a single channel.
+As an example, if you trigger a notification workflow that results in a user receiving an in-app message and an email, that counts as two notifications sent. If the same trigger resulted in zero notifications being sent (say because of a given user's notification preferences,) you wouldn't be charged.
+We only charge for notifications sent, not notification workflows triggered within Knock.
+What happens if I go over the free plan limit and don't have a billing method in place?
+We don't hard cap your notifications. Our priority is making sure the service continues to work as you'd expect. If you go over your limit, we'll get in touch with you about making sure you have a billing method in place next month. 👍
+Do you offer volume discounts?
+We do! But only on our enterprise plan. You can get in touch with us if you're interested.
+How will I be charged and billed for my use of Knock?
+There are no setup fees to begin using Knock. At the end of the month, your credit card will automatically be charged for that month’s usage.
+What is a channel?
+In Knock a channel represents a single destination you send notifications to from our platform.
+Here are a few examples of individual channels:
+A SendGrid account you use to send your transactional emails
+A Slack channel powering your customer-facing Slack bot
+A Knock in-app channel used for a notification feed
+A Knock in-app channel used for toast messages
+Note: Knock channel groups
+do not count towards your billing channel limit.
+When does billing of my Knock usage begin and end?
+Your Knock billing cycle starts when you upgrade to a paid plan. The day of the month you upgrade will be your billing cycle anchor every month moving forward.
+Here's an example: you upgrade to a paid plan on the 15th of the month. You'll immediately be invoiced for the platform fee of that plan. Your next invoice will be due on the 15th of the next month. If your billing cycle anchor starts on a day that doesn't exist in a given month (e.g. the 31st of September,) we'll use the last day of the month instead.
+We bill usage overages in arrears, so any usage you incur in a month will show up on your next month's invoice.
+If I use Knock, do I still pay for downstream messaging services such as Postmark and Twilio?
+Yes. We do not currently manage billing for the downstream platform providers that deliver your notifications.
+Does Knock sign BAAs for HIPAA-compliant customers?
+Yes. Knock is HIPAA compliant. We will sign BAAs for enterprise plan customers.
+Build and ship delightful notifications in minutes
+Batching, cross-channel delivery, and preference management - all on one platform. Send 10k notifications per month for free.
+Get started for free →
+This site uses cookies to measure and improve your experience.
+Opt-out
+Details
+Accept

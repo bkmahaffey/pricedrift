@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "pinecone-io-pricing-20230314211743",
+    "url": "https://www.pinecone.io/pricing/",
+    "ts": "20230314211743",
+    "date": "2023-03-14",
+    "source": "wayback",
+    "prevTs": "20230109032453",
+    "kind": "plans",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Pinecone: 3 plan names changed",
+    "pairs": [],
+    "added": [
+      "Free",
+      "Free",
+      "Free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 19,
+      "materialRemoved": 0,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "pinecone-io-pricing-20230505125411",
+    "url": "https://www.pinecone.io/pricing/",
+    "ts": "20230505125411",
+    "date": "2023-05-05",
+    "source": "wayback",
+    "prevTs": "20230314211743",
+    "kind": "price",
+    "score": 159,
+    "counts": {
+      "price": 45,
+      "limit": 4,
+      "plan": 8
+    },
+    "material": true,
+    "headline": "Pinecone: 45 prices, 4 limits, 8 plan names changed (removed “Save vector data in Collections ($0.025/GB/mo…”; added “ANNOUNCEMENT We raised $100M in Series B fund…”)",
+    "pairs": [],
+    "added": [
+      "ANNOUNCEMENT We raised $100M in Series B funding to provide the long-term memory for AI! Learn More ×",
+      "starting at $70/month",
+      "Estimated for one index on one s1 pod running for 30 days at $0.096/hour",
+      "Single free index",
+      "starting at $104/month",
+      "Estimated for one index on one s1 pod running for 30 days at $0.144/hour",
+      "Single free index",
+      "$0.1920/hour",
+      "$0.3840/hour",
+      "$0.7680/hour",
+      "$0.1920/hour",
+      "$0.3840/hour",
+      "$0.7680/hour",
+      "$0.2880/hour",
+      "$0.5760/hour",
+      "$1.1520/hour",
+      "$0.2220/hour",
+      "$0.4440/hour",
+      "$0.8880/hour",
+      "$0.2220/hour",
+      "$0.4440/hour",
+      "$0.8880/hour",
+      "$0.3330/hour",
+      "$0.6660/hour",
+      "$1.3320/hour",
+      "$0.2880/hour",
+      "$0.5760/hour",
+      "$1.1520/hour",
+      "$0.2880/hour",
+      "$0.5760/hour",
+      "$1.1520/hour",
+      "$0.4320/hour",
+      "$0.8640/hour",
+      "$1.7280/hour",
+      "$0.3330/hour",
+      "$0.6660/hour",
+      "$1.3320/hour",
+      "$0.3330/hour",
+      "$0.6660/hour",
+      "$1.3320/hour"
+    ],
+    "removed": [
+      "Save vector data in Collections ($0.025/GB/month)",
+      "Free",
+      "Free",
+      "$0.0960",
+      "Free",
+      "$0.1440",
+      "Free",
+      "Free",
+      "Free"
+    ],
+    "totals": {
+      "removed": 108,
+      "added": 304,
+      "materialRemoved": 22,
+      "materialAdded": 73
+    }
+  },
+  {
+    "id": "pinecone-io-pricing-20240607195106",
+    "url": "https://www.pinecone.io/pricing/",
+    "ts": "20240607195106",
+    "date": "2024-06-07",
+    "source": "wayback",
+    "prevTs": "20230505125411",
+    "kind": "price",
+    "score": 250,
+    "counts": {
+      "price": 72,
+      "limit": 13,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Pinecone: 72 prices, 13 limits, 4 plan names changed (removed “ANNOUNCEMENT We raised $100M in Series B fund…”; added “Up to 2GB storage”)",
+    "pairs": [],
+    "added": [
+      "Starter FREE",
+      "Up to 2GB storage",
+      "Enough for 300k 1,536-dim vectors",
+      "Up to 2M Write Units",
+      "Up to 1M Read Units",
+      "Unlimited storage",
+      "$0.33 per GB/Month",
+      "Unlimited writes",
+      "Starting at $2.00 per 1M Write Units",
+      "Unlimited reads",
+      "Starting at $8.25 per 1M Read Units",
+      "Up to 20 projects",
+      "Unlimited Pods",
+      "Unlimited storage",
+      "$0.33 per GB/Month",
+      "Unlimited writes",
+      "Starting at $4.00 per 1M Write Units",
+      "Unlimited reads",
+      "Starting at $16.50 per 1M Read Units",
+      "Up to 100 projects",
+      "Unlimited Pods",
+      "Start for free, upgrade any time.",
+      "Example 1: Multi-tenant RAG workload with 5M total documents across 100,000 users (namespaces)",
+      "$280, one-time",
+      "5M documents chunked into 10M vectors (1,536-dimension) with 200 bytes of metadata each",
+      "$21/month",
+      "1M total queries per month or 10 per user per month",
+      "$83/month",
+      "Initial upload of 10M vectors, then update 25% of all data each month",
+      "$174/month, $280 one-time",
+      "Example 2: Semantic search for enterprise knowledgebase with 10M vectors:",
+      "$280, one-time",
+      "10M vectors (1,536-dimension) with 200 bytes metadata each",
+      "$21/month",
+      "2.5M queries answered each month or 1 QPS",
+      "$2,310/month",
+      "50k items added each month",
+      "$1/month",
+      "$2,332/month, $280 one-time",
+      "Example 3: Offline data labeling using similarity search over 1B vectors"
+    ],
+    "removed": [
+      "ANNOUNCEMENT We raised $100M in Series B funding to provide the long-term memory for AI! Learn More ×",
+      "Free",
+      "No credit card required.",
+      "Estimated for one index on one s1 pod running for 30 days at $0.096/hour",
+      "Save vector data in Collections ($0.025/GB/month)",
+      "Single free index",
+      "starting at $104/month",
+      "Estimated for one index on one s1 pod running for 30 days at $0.144/hour",
+      "Single free index",
+      "$0.1920/hour",
+      "$0.3840/hour",
+      "$0.7680/hour",
+      "$0.0960/hour",
+      "$0.1920/hour",
+      "$0.3840/hour",
+      "$0.7680/hour",
+      "$0.2880/hour",
+      "$0.5760/hour",
+      "$1.1520/hour",
+      "$0.1110/hour",
+      "$0.2220/hour",
+      "$0.4440/hour",
+      "$0.8880/hour",
+      "$0.1110/hour",
+      "$0.2220/hour",
+      "$0.4440/hour",
+      "$0.8880/hour",
+      "$0.1665/hour",
+      "$0.3330/hour",
+      "$0.6660/hour",
+      "$1.3320/hour",
+      "$0.1440/hour",
+      "$0.2880/hour",
+      "$0.5760/hour",
+      "$1.1520/hour",
+      "$0.1440/hour",
+      "$0.2880/hour",
+      "$0.5760/hour",
+      "$1.1520/hour",
+      "$0.2160/hour"
+    ],
+    "totals": {
+      "removed": 332,
+      "added": 126,
+      "materialRemoved": 78,
+      "materialAdded": 53
+    }
+  },
+  {
+    "id": "pinecone-io-pricing-20240803014311",
+    "url": "https://www.pinecone.io/pricing/",
+    "ts": "20240803014311",
+    "date": "2024-08-03",
+    "source": "wayback",
+    "prevTs": "20240607195106",
+    "kind": "price",
+    "score": 25,
+    "counts": {
+      "price": 8,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Pinecone: 8 prices, 1 limit changed (removed “$0.33 per GB/Month”; added “Up to 5M tokens/mo.”)",
+    "pairs": [],
+    "added": [
+      "Up to 5M tokens/mo.",
+      "$0.00045 per GB/Hour.",
+      "$0.08/M tokens",
+      "$0.08/M tokens"
+    ],
+    "removed": [
+      "$0.33 per GB/Month",
+      "$0.33 per GB/Month",
+      "Starting at $4.00 per 1M Write Units",
+      "Starting at $16.50 per 1M Read Units",
+      "Starting at $0.144/hr"
+    ],
+    "totals": {
+      "removed": 16,
+      "added": 18,
+      "materialRemoved": 5,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "pinecone-io-pricing-20241001135522",
+    "url": "https://www.pinecone.io/pricing/",
+    "ts": "20241001135522",
+    "date": "2024-10-01",
+    "source": "wayback",
+    "prevTs": "20240803014311",
+    "kind": "price",
+    "score": 118,
+    "counts": {
+      "price": 31,
+      "limit": 10,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Pinecone: 31 prices, 10 limits, 3 plan names changed (removed “Enough for 300k 1,536-dim vectors”; added “$0.33/GB/mo.”)",
+    "pairs": [],
+    "added": [
+      "Start for Free",
+      "Free",
+      "Unlimited Serverless, Inference, and Assistant usage",
+      "$0.33/GB/mo.",
+      "Starting at $4/M",
+      "Starting at $6/M",
+      "Starting at $16/M",
+      "Starting at $24/M",
+      "Unlimited",
+      "Starting at $0.12/GB/mo.",
+      "Starting at $0.50/GB",
+      "$2/1k requests",
+      "1GB Storage included",
+      "$3 per GB/mo.",
+      "1.5M included",
+      "$8 per 1M",
+      "200k included",
+      "$15 per 1M",
+      "$0.20/Assistant per day"
+    ],
+    "removed": [
+      "Starter FREE",
+      "Enough for 300k 1,536-dim vectors",
+      "1 Project",
+      "Unlimited storage",
+      "$0.00045 per GB/Hour.",
+      "Unlimited writes",
+      "Starting at $2.00 per 1M Write Units",
+      "Unlimited reads",
+      "Starting at $8.25 per 1M Read Units",
+      "Up to 20 projects",
+      "Unlimited Pods",
+      "Starting at $0.096/hr",
+      "$0.08/M tokens",
+      "Unlimited storage",
+      "Unlimited writes",
+      "Unlimited reads",
+      "Up to 100 projects",
+      "Unlimited Pods",
+      "Example 1: Multi-tenant RAG workload with 5M total documents across 100,000 users (namespaces)",
+      "$280, one-time",
+      "5M documents chunked into 10M vectors (1,536-dimension) with 200 bytes of metadata each",
+      "$21/month",
+      "1M total queries per month or 10 per user per month",
+      "$83/month",
+      "Initial upload of 10M vectors, then update 25% of all data each month",
+      "$70/month",
+      "$174/month, $280 one-time",
+      "Example 2: Semantic search for enterprise knowledgebase with 10M vectors:",
+      "$280, one-time",
+      "10M vectors (1,536-dimension) with 200 bytes metadata each",
+      "$21/month",
+      "2.5M queries answered each month or 1 QPS",
+      "$2,310/month",
+      "50k items added each month",
+      "$2,332/month, $280 one-time",
+      "Example 3: Offline data labeling using similarity search over 1B vectors",
+      "$8,000, one-time",
+      "1B vectors (768-dimension) with 200 bytes metadata each",
+      "$1,085/month",
+      "50M items added each month"
+    ],
+    "totals": {
+      "removed": 130,
+      "added": 90,
+      "materialRemoved": 50,
+      "materialAdded": 25
+    }
+  },
+  {
+    "id": "pinecone-io-pricing-20241230042816",
+    "url": "https://www.pinecone.io/pricing/",
+    "ts": "20241230042816",
+    "date": "2024-12-30",
+    "source": "wayback",
+    "prevTs": "20241001135522",
+    "kind": "price",
+    "score": 21,
+    "counts": {
+      "price": 5,
+      "limit": 2,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Pinecone: 5 prices, 2 limits, 1 plan name changed (added “Launch Week 5 days. 9 features. Learn more”)",
+    "pairs": [],
+    "added": [
+      "Launch Week 5 days. 9 features. Learn more",
+      "5M tokens/mo. included",
+      "$0.08/M tokens",
+      "$0.08/M tokens",
+      "500 requests/mo. included",
+      "$2/1k requests",
+      "$2/1k requests",
+      "500 requests/mo. included",
+      "$2/1k requests",
+      "Free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 12,
+      "added": 25,
+      "materialRemoved": 0,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "pinecone-io-pricing-20250113042343",
+    "url": "https://www.pinecone.io/pricing/",
+    "ts": "20250113042343",
+    "date": "2025-01-13",
+    "source": "wayback",
+    "prevTs": "20241230042816",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Pinecone: 2 prices changed (removed “$0.08/M tokens”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$0.08/M tokens",
+      "$2/1k requests"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 0,
+      "materialRemoved": 2,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "pinecone-io-pricing-20250317142939",
+    "url": "https://www.pinecone.io/pricing/",
+    "ts": "20250317142939",
+    "date": "2025-03-17",
+    "source": "wayback",
+    "prevTs": "20250113042343",
+    "kind": "price",
+    "score": 72,
+    "counts": {
+      "price": 19,
+      "limit": 5,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Pinecone: 19 prices, 5 limits, 3 plan names changed (removed “Launch Week 5 days. 9 features. Learn more”; added “from $25 / month”)",
+    "pairs": [],
+    "added": [
+      "from $25 / month",
+      "Includes $15 / mo usage credits",
+      "Includes free support",
+      "from $500 / month",
+      "Including $150 / mo usage credits",
+      "Unlimited",
+      "Unlimited",
+      "$0.33/GB/mo",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "After 3 weeks of inactivity",
+      "500 per project. $0.10/GB/mo.",
+      "1000 per project. $0.10/GB/mo.",
+      "$0.15 per GB",
+      "Free support included",
+      "Create your first index for free, then pay as you go when you're ready to scale."
+    ],
+    "removed": [
+      "Launch Week 5 days. 9 features. Learn more",
+      "Starting at $0.12/GB/mo.",
+      "Starting at $0.50/GB",
+      "5M tokens/mo. included",
+      "$0.08/M tokens",
+      "5M tokens/mo. included",
+      "$0.08/M tokens",
+      "500 requests/mo. included",
+      "$2/1k requests",
+      "500 requests/mo. included",
+      "$2/1k requests",
+      "$2/1k requests",
+      "1GB Storage included",
+      "$3 per GB/mo.",
+      "1.5M included",
+      "$8 per 1M",
+      "200k included",
+      "$15 per 1M",
+      "Free",
+      "$0.20/Assistant per day",
+      "GET STARTED TODAY Start for free, upgrade any time."
+    ],
+    "totals": {
+      "removed": 79,
+      "added": 135,
+      "materialRemoved": 31,
+      "materialAdded": 28
+    }
+  },
+  {
+    "id": "pinecone-io-pricing-20250403063227",
+    "url": "https://www.pinecone.io/pricing/",
+    "ts": "20250403063227",
+    "date": "2025-04-03",
+    "source": "wayback",
+    "prevTs": "20250317142939",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 4,
+      "limit": 0,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Pinecone: 4 prices, 3 plan names changed (added “from $25 / month”)",
+    "pairs": [],
+    "added": [
+      "Start for Free",
+      "Free",
+      "from $25 / month",
+      "Includes $15 / mo usage credits",
+      "Unlimited Serverless, Inference, and Assistant usage",
+      "Includes Free support",
+      "from $500 / month",
+      "Includes $150 / mo usage credits"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 15,
+      "added": 60,
+      "materialRemoved": 2,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "pinecone-io-pricing-20250610051749",
+    "url": "https://www.pinecone.io/pricing/",
+    "ts": "20250610051749",
+    "date": "2025-06-10",
+    "source": "wayback",
+    "prevTs": "20250403063227",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Pinecone: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Unlimited Serverless, Inference, and Assistant usage",
+      "Unlimited Serverless, Inference, and Assistant usage"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 4,
+      "materialRemoved": 2,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "pinecone-io-pricing-20250710112455",
+    "url": "https://www.pinecone.io/pricing/",
+    "ts": "20250710112455",
+    "date": "2025-07-10",
+    "source": "wayback",
+    "prevTs": "20250610051749",
+    "kind": "price",
+    "score": 36,
+    "counts": {
+      "price": 12,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Pinecone: 12 prices changed (removed “from $25 / month”; added “$50/month”)",
+    "pairs": [],
+    "added": [
+      "$50/month",
+      "Minimum usage You'll be charged a minimum of $50/month. Once your usage exceeds this amount, you'll pay as you go.",
+      "$50/month",
+      "Minimum usage You'll be charged a minimum of $50/month. Once your usage exceeds this amount, you'll pay as you go.",
+      "$500/month",
+      "Minimum usage You'll be charged a minimum of $500/month. Once your usage exceeds this amount, you'll pay as you go."
+    ],
+    "removed": [
+      "from $25 / month",
+      "Includes $15 / mo usage credits",
+      "Includes $150 / mo usage credits",
+      "from $25 / month",
+      "Includes $15 / mo usage credits",
+      "Includes $150 / mo usage credits"
+    ],
+    "totals": {
+      "removed": 9,
+      "added": 9,
+      "materialRemoved": 8,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "pinecone-io-pricing-20250811200917",
+    "url": "https://www.pinecone.io/pricing/",
+    "ts": "20250811200917",
+    "date": "2025-08-11",
+    "source": "wayback",
+    "prevTs": "20250710112455",
+    "kind": "limits",
+    "score": 12,
+    "counts": {
+      "price": 0,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Pinecone: 6 limits changed (removed “After 3 weeks of inactivity”; added “50K products”)",
+    "pairs": [],
+    "added": [
+      "50K products",
+      "10KB metadata per product",
+      "~ 44K recommendations per day",
+      "~ 2K product updates per day",
+      "~ 30K documents",
+      "20KB document size on average",
+      "~ 15k searches per day",
+      "~ 660 document updates per day",
+      "5KB post size on average",
+      "~ 130K category-scoped chats per day",
+      "~ 3K messages indexed per day"
+    ],
+    "removed": [
+      "After 3 weeks of inactivity"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 33,
+      "materialRemoved": 1,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "pinecone-io-pricing-20250910225521",
+    "url": "https://www.pinecone.io/pricing/",
+    "ts": "20250910225521",
+    "date": "2025-09-10",
+    "source": "wayback",
+    "prevTs": "20250811200917",
+    "kind": "price",
+    "score": 92,
+    "counts": {
+      "price": 27,
+      "limit": 5,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Pinecone: 27 prices, 5 limits, 1 plan name changed ($50 added; $50 added)",
+    "pairs": [
+      {
+        "before": "Minimum usage You'll be charged a minimum of $50/month. Once your usage exceeds this amount, you'll pay as you go.",
+        "after": "$50/month minimum usage after You'll be charged a minimum of $50/month. Once your usage exceeds this amount, you'll pay as you go.",
+        "confidence": 0.92,
+        "deltas": [
+          {
+            "before": null,
+            "after": "$50"
+          }
+        ]
+      },
+      {
+        "before": "Minimum usage You'll be charged a minimum of $50/month. Once your usage exceeds this amount, you'll pay as you go.",
+        "after": "$50/month minimum usage after You'll be charged a minimum of $50/month. Once your usage exceeds this amount, you'll pay as you go.",
+        "confidence": 0.92,
+        "deltas": [
+          {
+            "before": null,
+            "after": "$50"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "3 week trial, $300 credit",
+      "3 week trial, $300 credit",
+      "1GB Storage included",
+      "Unlimited",
+      "$3/GB/mo",
+      "Unlimited",
+      "$3/GB/mo",
+      "1.5M included",
+      "Unlimited",
+      "$8 per million",
+      "Unlimited",
+      "$8 per million",
+      "200k included",
+      "Unlimited",
+      "$15 per million",
+      "Unlimited",
+      "$15 per million",
+      "500k included",
+      "Unlimited",
+      "$5 per million",
+      "Unlimited",
+      "$5 per million",
+      "Free",
+      "$0.05/Assistant per hour",
+      "5M tokens/mo. included",
+      "Unlimited",
+      "$0.16/M tokens",
+      "Unlimited",
+      "$0.16/M tokens",
+      "5M tokens/mo. included",
+      "Unlimited",
+      "$0.08/M tokens",
+      "Unlimited",
+      "$0.08/M tokens",
+      "5M tokens/mo. included",
+      "Unlimited",
+      "$0.08/M tokens",
+      "Unlimited",
+      "$0.08/M tokens",
+      "500 requests/mo. included"
+    ],
+    "removed": [
+      "$50/month",
+      "$50/month"
+    ],
+    "totals": {
+      "removed": 25,
+      "added": 95,
+      "materialRemoved": 4,
+      "materialAdded": 55
+    }
+  },
+  {
+    "id": "pinecone-io-pricing-20251030172840",
+    "url": "https://www.pinecone.io/pricing/",
+    "ts": "20251030172840",
+    "date": "2025-10-30",
+    "source": "wayback",
+    "prevTs": "20250910225521",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Pinecone: 1 price changed (added “$50 monthly minimum that's applied to your us…”)",
+    "pairs": [],
+    "added": [
+      "$50 monthly minimum that's applied to your usage. Anything over $50 is billed pay-as-you-go."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "pinecone-io-pricing-20251203055430",
+    "url": "https://www.pinecone.io/pricing/",
+    "ts": "20251203055430",
+    "date": "2025-12-03",
+    "source": "wayback",
+    "prevTs": "20251030172840",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Pinecone: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 10,
+      "added": 21,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "pinecone-io-pricing-20260212055609",
+    "url": "https://www.pinecone.io/pricing/",
+    "ts": "20260212055609",
+    "date": "2026-02-12",
+    "source": "wayback",
+    "prevTs": "20251203055430",
+    "kind": "price",
+    "score": 16,
+    "counts": {
+      "price": 4,
+      "limit": 0,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Pinecone: 4 prices, 2 plan names changed ($500 added; $500 added)",
+    "pairs": [
+      {
+        "before": "Minimum usage You'll be charged a minimum of $500/month. Once your usage exceeds this amount, you'll pay as you go.",
+        "after": "$500/month min. usage You'll be charged a minimum of $500/month. Once your usage exceeds this amount, you'll pay as you go.",
+        "confidence": 0.92,
+        "deltas": [
+          {
+            "before": null,
+            "after": "$500"
+          }
+        ]
+      },
+      {
+        "before": "Minimum usage You'll be charged a minimum of $500/month. Once your usage exceeds this amount, you'll pay as you go.",
+        "after": "$500/month min. usage You'll be charged a minimum of $500/month. Once your usage exceeds this amount, you'll pay as you go.",
+        "confidence": 0.92,
+        "deltas": [
+          {
+            "before": null,
+            "after": "$500"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Start Free Trial",
+      "Start Free Trial"
+    ],
+    "removed": [
+      "$500/month",
+      "$500/month"
+    ],
+    "totals": {
+      "removed": 13,
+      "added": 11,
+      "materialRemoved": 8,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "pinecone-io-pricing-20260310163835",
+    "url": "https://www.pinecone.io/pricing/",
+    "ts": "20260310163835",
+    "date": "2026-03-10",
+    "source": "wayback",
+    "prevTs": "20260212055609",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Pinecone: 1 price changed (added “$190/mo”)",
+    "pairs": [],
+    "added": [
+      "$190/mo"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 14,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "pinecone-io-pricing-20260407071113",
+    "url": "https://www.pinecone.io/pricing/",
+    "ts": "20260407071113",
+    "date": "2026-04-07",
+    "source": "wayback",
+    "prevTs": "20260310163835",
+    "kind": "price",
+    "score": 45,
+    "counts": {
+      "price": 12,
+      "limit": 4,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Pinecone: 12 prices, 4 limits, 1 plan name changed (removed “500 per project. $0.10/GB/mo.”; added “$0.10/GB/mo”)",
+    "pairs": [],
+    "added": [
+      "$0.10/GB/mo",
+      "Unlimited",
+      "300k/mo included",
+      "500k/mo included",
+      "Unlimited",
+      "$8 per million",
+      "Unlimited",
+      "$8 per million",
+      "Unlimited",
+      "$15 per million",
+      "Unlimited",
+      "$15 per million",
+      "1,000/mo included",
+      "$0.0005/ingestion unit",
+      "$0.001/ingestion unit for multi-modal",
+      "400 tokens/~300 words per ingestion unit",
+      "$0.0005/ingestion unit",
+      "$0.001/ingestion unit for multi-modal",
+      "400 tokens/~300 words per ingestion unit"
+    ],
+    "removed": [
+      "500 per project. $0.10/GB/mo.",
+      "1000 per project. $0.10/GB/mo.",
+      "1.5M included",
+      "200k included",
+      "Free",
+      "$0.05/Assistant per hour"
+    ],
+    "totals": {
+      "removed": 17,
+      "added": 29,
+      "materialRemoved": 12,
+      "materialAdded": 25
+    }
+  },
+  {
+    "id": "pinecone-io-pricing-20260502212828",
+    "url": "https://www.pinecone.io/pricing/",
+    "ts": "20260502212828",
+    "date": "2026-05-02",
+    "source": "wayback",
+    "prevTs": "20260407071113",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 8,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Pinecone: 8 prices changed (removed “$4 per million”; added “$4-$4.50 per million (varies by cloud and reg…”)",
+    "pairs": [],
+    "added": [
+      "$4-$4.50 per million (varies by cloud and region)",
+      "$6-$6.75 per million (varies by cloud and region)",
+      "$16-$18 per million (varies by cloud and region)",
+      "$24-$27 per million (varies by cloud and region)"
+    ],
+    "removed": [
+      "$4 per million",
+      "$6 per million",
+      "$16 per million",
+      "$24 per million"
+    ],
+    "totals": {
+      "removed": 28,
+      "added": 5,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "pinecone-io-pricing-20260603233152",
+    "url": "https://www.pinecone.io/pricing/",
+    "ts": "20260603233152",
+    "date": "2026-06-03",
+    "source": "wayback",
+    "prevTs": "20260502212828",
+    "kind": "price",
+    "score": 28,
+    "counts": {
+      "price": 3,
+      "limit": 7,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Pinecone: 3 prices, 7 limits, 3 plan names changed ($1 → $0.25; 500 → 1,000)",
+    "pairs": [
+      {
+        "before": "$1 per GB",
+        "after": "$0.25 per GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1",
+            "after": "$0.25"
+          }
+        ]
+      },
+      {
+        "before": "500 requests/mo included",
+        "after": "1,000 requests/mo included",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "500",
+            "after": "1,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$20/month flat",
+      "Includes Free support",
+      "$20/month flat",
+      "Includes Free support",
+      "Up to 10 GB",
+      "Up to 5M/mo",
+      "Up to 2M/mo",
+      "3GB Storage included",
+      "2M/mo included",
+      "1M/mo included",
+      "2M/mo included",
+      "10k/mo included",
+      "10M tokens/mo included",
+      "10M tokens/mo included",
+      "10M tokens/mo included",
+      "Free support included"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 23,
+      "added": 67,
+      "materialRemoved": 2,
+      "materialAdded": 18
+    }
+  },
+  {
+    "id": "pinecone-io-pricing-20260701220421",
+    "url": "https://www.pinecone.io/pricing/",
+    "ts": "20260701220421",
+    "date": "2026-07-01",
+    "source": "wayback",
+    "prevTs": "20260603233152",
+    "kind": "price",
+    "score": 11,
+    "counts": {
+      "price": 2,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Pinecone: 2 prices, 3 limits changed (added “Up to 1GB/mo”)",
+    "pairs": [],
+    "added": [
+      "Up to 1GB/mo",
+      "Up to 10GB/mo",
+      "Unlimited",
+      "$0.10/GB",
+      "100GB/mo included",
+      "Unlimited",
+      "$0.10/GB",
+      "100GB/mo included",
+      "Promo: 1M/mo, try Pinecone Marketplace"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 11,
+      "materialRemoved": 0,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "pinecone-io-pricing-20260802021213",
+    "url": "https://www.pinecone.io/pricing/",
+    "ts": "20260802021213",
+    "date": "2026-08-02",
+    "source": "wayback",
+    "prevTs": "20260701220421",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Pinecone: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 12,
+      "added": 17,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "pinecone-io-pricing-20260902202107",
+    "url": "https://www.pinecone.io/pricing/",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260802021213",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Pinecone: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    },
+    "transition": true
+  }
+]

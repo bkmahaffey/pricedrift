@@ -1,0 +1,157 @@
+Pricing
+Pricing based on your success
+Starter
+Free Up to 100 MCUs
+WebSocket edge infrastructure
+WebSocket connection engine
+Community support
+Schemas
+Get started for free
+Most popular Pro
+$99 / month 250 MCUs included
+Then $0.40 for each additional MCU
+WebSocket edge infrastructure
+WebSocket connection engine
+Email support
+Schemas
+Webhooks
+Get started
+Enterprise
+Custom Custom MCUs
+Volume discounts after 2,500 MCUs
+WebSocket edge infrastructure
+WebSocket connection engine
+Premium support
+Schemas
+Webhooks
+Volume discounts
+99.9% Uptime SLA
+Private dedicated servers
+Contact us
+All plans are subject to our Fair Use Policy
+.
+Companies of all sizes and industries use Liveblocks
+Add-on Comments
+Enable your users to share feedback in your product. Add to any Pro plan for $199/month.
+Try it for free
+Base price
+Free
+$99/month
+Custom
+Monthly collaborative users included
+100
+250
+Custom
+Monthly collaborative user overage rate
+Not included
+$0.40 per user
+Custom
+Monthly collaborative users cap
+100
+10,000
+Unlimited
+Monthly active users cap
+5,000
+Unlimited
+Simultaneous connections per room
+20
+50
+Custom
+Team members per account
+1
+10
+Custom
+Products
+Presence
+Included
+Broadcast
+Included
+Document data stores
+Included
+Comments
+Not included
+$199/month
+Custom
+Platform
+WebSocket infrastructure
+Included
+Dashboard
+Included
+Analytics
+Included
+REST API
+Included
+Webhooks
+Not included
+Included
+Schemas
+Not included
+Included
+Tools
+DevTools
+Included
+Starter Kit
+Included
+Support
+Community support
+Included
+Email support
+Not included
+Included
+Premium support
+Not included
+Included
+Shared Slack channel
+Not included
+Included
+Platform Security and Compliance
+SSO
+G Suite, GitHub
+SOC 2 Report
+Not included
+Included
+Security questionnaires
+Not included
+Included
+99.9% Uptime SLA
+Not included
+Included
+Data Processing Agreement
+Not included
+Included
+Private dedicated servers
+Not included
+Included
+Frequently
+Asked
+Questions
+Do you offer discounts for non-commercial projects?
+Yes, we can offer a significant discount on Liveblocks for non-commercial projects. In most cases, we’ll offer a discount that allows us to cover a portion of the costs related to onboarding and customer service. Please contact us
+with information and we’ll get back to you.
+How are MCUs calculated?
+Monthly Collaborating Users (MCUs) is the number of users that connect to Liveblocks rooms in a given month where at least another user connected to in the last 30 days.
+Users are identified by the userId property you provide when they join a room
+This userId generally comes from your database or your authentification provider. One unique userId corresponds to one user, whether they connected to a room 1 day for 5 minutes or kept coming back every day for 8 hours.
+If you can’t identify them with a unique userId, Liveblocks will generate a unique userId for that user and save it in a cookie, which means that as long as they remain on the same browser, they’ll always count for one user, whether they reloaded the page multiple times or opened numerous tabs.
+It doesn’t matter how many rooms a user connects to, or how frequently Liveblocks APIs are used.
+How are MAUs calculated?
+Monthly Active Users (MAUs) is the number of users that connect to Liveblocks rooms in a given month. Users connected on localhost,.local,.localhost, and.test domains are not included in your billing.
+Users are identified by the userId property you provide when they join a room
+This userId generally comes from your database or your authentification provider. One unique userId corresponds to one user, whether they connected to a room 1 day for 5 minutes or kept coming back every day for 8 hours.
+If you can’t identify them with a unique userId, Liveblocks will generate a unique userId for that user and save it in a cookie, which means that as long as they remain on the same browser, they’ll always count for one user, whether they reloaded the page multiple times or opened numerous tabs.
+It doesn’t matter how many rooms a user connects to, or how frequently Liveblocks APIs are used.
+What’s a room?
+A room is the virtual space where people collaborate. For most products, a room corresponds to a document or a page.
+What’s a connection?
+A connection is when a user initially connects to a Liveblocks room. If a user connects to your product on two different browsers and their phone, that would be three connections.
+What’s a simultaneous connection per room?
+A simultaneous connection is when a user or multiple users are connected to the same Liveblocks room.
+Do you have a yearly pricing option?
+Yes, we can offer a discount if you pay yearly.
+What happens when limits are reached?
+Liveblocks returns a different error for each limit that a user might reach. That way, you can decide how to best handle those cases in your product. Learn more about limits.
+How can I monitor my usage and billing?
+You can track your usage in the Liveblocks dashboard.
+How secure and reliable is Liveblocks?
+Security and reliablity are one of our top concerns when building Liveblocks. We’ve designed our back-end infrastructure to be deployed on the edge using Cloudflare Workers — giving us exceptional performance, reliability, and scale. And we’ve baked authentication into the platform, so that you can set custom permissions for your users. Liveblocks is also SOC 2 compliant. Make sure to check out our Security page
+.

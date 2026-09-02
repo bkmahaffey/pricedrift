@@ -1,0 +1,109 @@
+[
+  {
+    "id": "developers-cloudflare-com-stream-pricing-20250802185340",
+    "url": "https://developers.cloudflare.com/stream/pricing/",
+    "ts": "20250802185340",
+    "date": "2025-08-02",
+    "source": "wayback",
+    "prevTs": "20240917130558",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Stream: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 14,
+      "added": 48,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-stream-pricing-20251007234551",
+    "url": "https://developers.cloudflare.com/stream/pricing/",
+    "ts": "20251007234551",
+    "date": "2025-10-07",
+    "source": "wayback",
+    "prevTs": "20250802185340",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare Stream: 1 price changed (added “All Media and Image Transformations cost $0.5…”)",
+    "pairs": [],
+    "added": [
+      "All Media and Image Transformations cost $0.50 per 1,000 monthly unique transformation operations, with a free monthly allocation of 5,000."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 16,
+      "materialRemoved": 2,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-stream-pricing-20260727041829",
+    "url": "https://developers.cloudflare.com/stream/pricing/",
+    "ts": "20260727041829",
+    "date": "2026-07-27",
+    "source": "wayback",
+    "prevTs": "20251007234551",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Stream: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 38,
+      "added": 18,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-stream-pricing-20260902202107",
+    "url": "https://developers.cloudflare.com/stream/pricing/",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260727041829",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Stream: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 7,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

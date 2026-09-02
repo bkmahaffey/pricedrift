@@ -1,0 +1,476 @@
+[
+  {
+    "id": "onesignal-com-pricing-20240117011253",
+    "url": "https://onesignal.com/pricing",
+    "ts": "20240117011253",
+    "date": "2024-01-17",
+    "source": "wayback",
+    "prevTs": "20230123141240",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "OneSignal: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Free trial. Talk to sales to discuss pricing.",
+      "Free trial. Talk to Sales",
+      "Free trial. Talk to Sales"
+    ],
+    "totals": {
+      "removed": 26,
+      "added": 39,
+      "materialRemoved": 3,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "onesignal-com-pricing-20240301220401",
+    "url": "https://onesignal.com/pricing",
+    "ts": "20240301220401",
+    "date": "2024-03-01",
+    "source": "wayback",
+    "prevTs": "20240117011253",
+    "kind": "price",
+    "score": 53,
+    "counts": {
+      "price": 15,
+      "limit": 1,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "OneSignal: 15 prices, 1 limit, 3 plan names changed ($99 → $999; 5,000 → 10,000)",
+    "pairs": [
+      {
+        "before": "Starts at $ 99 / Month",
+        "after": "Starts at $ 999 / Month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$99",
+            "after": "$999"
+          }
+        ]
+      },
+      {
+        "before": "Up to 5,000 email sends",
+        "after": "Up to 10,000 email sends",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "5,000",
+            "after": "10,000"
+          }
+        ]
+      },
+      {
+        "before": "$3 / 1,000 sends",
+        "after": "$2 / 1,000 sends",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3",
+            "after": "$2"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free access to: 10,000 Free Email Sends",
+      "Unlimited Mobile Push Sends",
+      "All features from Free + 20,000 Free Email Sends",
+      "Starts at $999 / Month Contact Sales",
+      "20,000 free sends, then $2 / 1,000 sends"
+    ],
+    "removed": [
+      "Free access to: Limited Personalization",
+      "Unlimited API Sends",
+      "All features from Free + Standard Personalization",
+      "Starts at $99 / Month Get Started Now",
+      "Free",
+      "Unlimited mobile push subscribers",
+      "Currently in a free trial",
+      "Free Plan",
+      "$0",
+      "$0",
+      "$0",
+      "$0",
+      "Free trial",
+      "$0",
+      "$99",
+      "$0",
+      "$0",
+      "$0",
+      "$99"
+    ],
+    "totals": {
+      "removed": 137,
+      "added": 63,
+      "materialRemoved": 22,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "onesignal-com-pricing-20240511025901",
+    "url": "https://onesignal.com/pricing",
+    "ts": "20240511025901",
+    "date": "2024-05-11",
+    "source": "wayback",
+    "prevTs": "20240301220401",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OneSignal: 1 price changed (added “$3 / 1,000 subscribers”)",
+    "pairs": [],
+    "added": [
+      "$3 / 1,000 subscribers",
+      "Unlimited"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 15,
+      "materialRemoved": 4,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "onesignal-com-pricing-20240702154803",
+    "url": "https://onesignal.com/pricing",
+    "ts": "20240702154803",
+    "date": "2024-07-02",
+    "source": "wayback",
+    "prevTs": "20240511025901",
+    "kind": "price",
+    "score": 25,
+    "counts": {
+      "price": 8,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OneSignal: 8 prices, 1 limit changed (removed “Starts at $ 999 / Month”; added “$0.012 per monthly active user”)",
+    "pairs": [],
+    "added": [
+      "$0.012 per monthly active user",
+      "$0.004 per web push subscriber",
+      "Unlimited, included with mobile push",
+      "10,000 free sends / month",
+      "Free and unlimited w/ Mobile Push",
+      "For mobile push notifications, we charge based on monthly active mobile users, and you get an unlimited volume of sends as well as an unlimited volume of in-app messages.",
+      "For web push notifications, we charge based on subscribers, and you get an unlimited volume of sends.",
+      "A monthly active user is a mobile subscription record that has been active in your mobile app within the last 30 days, regardless of whether it has opted in for mobile push notifications."
+    ],
+    "removed": [
+      "Starts at $ 999 / Month",
+      "Starts at $999 / Month Contact Sales",
+      "$3 / 1,000 subscribers",
+      "$3 / 1,000 subscribers",
+      "$3 / 1,000 impressions",
+      "$2 / 1,000 sends",
+      "For mobile push and web push notifications, we charge based on subscribers, and you get an unlimited volume of sends. For In-App Messages, we charge based on impressions, since messages can be delivered to all app users regardless of whether they have subscribed."
+    ],
+    "totals": {
+      "removed": 37,
+      "added": 43,
+      "materialRemoved": 9,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "onesignal-com-pricing-20241214194028",
+    "url": "https://onesignal.com/pricing",
+    "ts": "20241214194028",
+    "date": "2024-12-14",
+    "source": "wayback",
+    "prevTs": "20240702154803",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "OneSignal: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Mobile users active in the last 30 days"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 43,
+      "added": 52,
+      "materialRemoved": 7,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "onesignal-com-pricing-20250525170332",
+    "url": "https://onesignal.com/pricing",
+    "ts": "20250525170332",
+    "date": "2025-05-25",
+    "source": "wayback",
+    "prevTs": "20241214194028",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OneSignal: 2 limits changed (added “Up to 30 days”)",
+    "pairs": [],
+    "added": [
+      "Up to 30 days",
+      "Up to 90 days",
+      "Up to 1 year",
+      "Up to 2 years"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 11,
+      "added": 13,
+      "materialRemoved": 2,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "onesignal-com-pricing-20250701225334",
+    "url": "https://onesignal.com/pricing",
+    "ts": "20250701225334",
+    "date": "2025-07-01",
+    "source": "wayback",
+    "prevTs": "20250525170332",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "OneSignal: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "onesignal-com-pricing-20250809050338",
+    "url": "https://onesignal.com/pricing",
+    "ts": "20250809050338",
+    "date": "2025-08-09",
+    "source": "wayback",
+    "prevTs": "20250701225334",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 8,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OneSignal: 8 prices changed ($9 → $19; $2 → $1.50)",
+    "pairs": [
+      {
+        "before": "Starts at $9 / Month Get started now",
+        "after": "Starts at $19/mo Get started now",
+        "confidence": 0.8,
+        "deltas": [
+          {
+            "before": "$9",
+            "after": "$19"
+          }
+        ]
+      },
+      {
+        "before": "20,000 free sends / month, then $2 / 1,000 sends",
+        "after": "20,000 free sends / month, then $1.50 / 1,000 sends",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2",
+            "after": "$1.50"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Starts at $19/mo",
+      "$19.00",
+      "$19.00"
+    ],
+    "removed": [
+      "Starts at $ 9 / Month",
+      "$9.00",
+      "$9.00"
+    ],
+    "totals": {
+      "removed": 17,
+      "added": 11,
+      "materialRemoved": 9,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "onesignal-com-pricing-20260428004241",
+    "url": "https://onesignal.com/pricing",
+    "ts": "20260428004241",
+    "date": "2026-04-28",
+    "source": "wayback",
+    "prevTs": "20250809050338",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "OneSignal: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Push, email, SMS/RCS, and in-app messaging in one platform. Free to start, built to scale."
+    ],
+    "removed": [
+      "Get started today for free with our platform"
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 10,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "onesignal-com-pricing-20260705061837",
+    "url": "https://onesignal.com/pricing",
+    "ts": "20260705061837",
+    "date": "2026-07-05",
+    "source": "wayback",
+    "prevTs": "20260428004241",
+    "kind": "limits",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OneSignal: 3 limits changed (added “30 days”)",
+    "pairs": [],
+    "added": [
+      "30 days",
+      "60 days",
+      "90 days",
+      "48 hrs",
+      "48 hrs *",
+      "90 days"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 14,
+      "materialRemoved": 0,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "onesignal-com-pricing-20260804172328",
+    "url": "https://onesignal.com/pricing",
+    "ts": "20260804172328",
+    "date": "2026-08-04",
+    "source": "wayback",
+    "prevTs": "20260705061837",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "OneSignal: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "All features from Free + Unlimited In-App Messaging",
+      "All features from Professional + Unlimited Personalization & Automation"
+    ],
+    "removed": [
+      "All features from Free + 20,000/mo Free Email Sends"
+    ],
+    "totals": {
+      "removed": 16,
+      "added": 16,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "onesignal-com-pricing-20260902202107",
+    "url": "https://onesignal.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260804172328",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OneSignal: 2 limits changed (removed “Free access to: 10,000/mo Free Email Sends”; added “For organizations with up to 1,000 monthly ac…”)",
+    "pairs": [],
+    "added": [
+      "Start for free and scale as you grow",
+      "Everything in Free, and: Increased automation",
+      "Everything in Professional, and: Unlimited personalization",
+      "For organizations with up to 1,000 monthly active users",
+      "Unlimited In-App Messaging",
+      "For organizations with up to 1,000 monthly active users",
+      "Unlimited Live Activities Sessions",
+      "For organizations with up to 1,000 monthly active users",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "removed": [
+      "Free access to all channels",
+      "Free access to: 10,000/mo Free Email Sends",
+      "Unlimited Mobile Push Sends",
+      "All features from Free + Unlimited In-App Messaging",
+      "All features from Professional + Unlimited Personalization & Automation",
+      "Unlimited, included with mobile push",
+      "10,000 free sends / month",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 104,
+      "added": 101,
+      "materialRemoved": 11,
+      "materialAdded": 16
+    },
+    "transition": true
+  }
+]

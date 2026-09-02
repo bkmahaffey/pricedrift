@@ -1,0 +1,222 @@
+If you encounter issues, please disable your ad blocker.
+Copy wordmark as SVG
+Brand guidelines
+Product
+Analysis
+Scale
+Developer
+Integrations
+Security & Privacy
+Dev Docs
+Help Docs
+Community
+Customers
+Events
+Slack
+Expert Directory
+Company
+Blog
+Become a Partner
+We're Hiring!
+Pricing
+Log In
+Get Started
+Starter
+Essentials to find product-market fit
+It's free
+Up to 20M monthly events
+Get Started
+Access to:
+All core reports for user journey analysis
+Templates to get started quickly
+Unlimited integrations
+Unlimited collaborators
+Growth
+More answers for more people
+$20+ per month
+Up to 100M monthly events
+Build Your Plan
+All features in Starter, plus:
+Unlimited saved reports to monitor, update & iterate on KPIs
+Mixpanel Modeling Layer
+Group Analytics & Data Pipelines add-ons
+Enterprise
+Empower teams in large organizations
+$833+ per month
+5M-100M+ monthly events
+Build Your Plan
+Everything in Growth, plus:
+Advanced access controls
+Shared Data Views for collaboration
+Automated provisioning & SSO
+Prioritized support
+View all Features
+Grow your early stage startup
+Startups that are less than 5 years old with up to $8M USD in total funding receive $50,000 in credits towards the Mixpanel Growth or Enterprise plans
+Learn More
+It's free Starter
+Get Started
+Starting at $20/mo Growth
+Build Your Plan
+Starting at $833/mo Enterprise
+Build Your Plan
+Analytics
+Core reports
+Insights View event frequencies as trend lines or bars and apply formulas
+Flows Identify top user paths and drop-off points
+Funnels Understand user conversion across any funnel
+Retention Analyze user retention and usage frequency
+Cohorts Create cohorts and inspect user profiles
+Limited You can create cohorts but not save them
+Advanced analysis
+Limited
+Impact Determine the impact of a new feature by comparing behavior before and after launch
+Find interesting segments Automatically surface statistically significant user groups and their impact on your conversion and retention rates
+Experiments Analyze how experiments affect metrics across your key dashboards
+Signal Uncover insights by finding correlations between user actions
+Query-time data modeling Transform and enrich data at query time without engineering resources
+Limited
+Statistical operators for events and properties Find averages, medians, or sums of properties on a total or per user basis
+Behavioral frequency analysis Bucket users based on their in-product behavior
+Custom sessions Customize your session definition based on user inactivity
+Custom events Combine multiple events and filters to query them at once
+Custom properties Transform data with Excel-like formulas to power ad-hoc analysis
+Limited You can create custom properties but not reuse them across reports
+Lookup tables Enrich data in seconds by uploading a CSV list of properties
+Limited Mapped properties won't be saved outside your report
+Monitoring and alerts
+Live events Monitor a real-time event stream of user activity
+Custom dashboards for web and TV Have your metrics up on a big screen in your office to share data with colleagues across your company
+Email digests Schedule email updates on core metrics with key internal and external stakeholders
+Alerts Create alerts to get immediate notifications when metrics spike or dip unexpectedly
+Group Analytics Measure KPIs at the account or
+company level. B2B companies can
+use this add-on to prevent churn and
+discover upsell opportunities based
+on the group-level product usage.
+Add-on Add-ons are available for an extra
+fee with paid plans.
+Add-on Add-ons are available for an extra
+fee with paid plans.
+Data Collection, Exports and Integrations
+Data collection/tracking
+Mixpanel SDKs for real-time tracking
+Identity management Merge across sessions, devices and platforms
+Data imports
+Import API Import historical data
+Schemas API Import metadata like event and property definitions
+Cloud ingestion Import from warehouses like GCP, AWS, and Snowflake
+Data exports
+Limited
+Report exports Download reports as CSV, PNG, or PDF files
+Raw data export API
+Formatted API export Export report results to JSON or CSV
+Automated data export (via data pipelines add-on)
+GCP, AWS, Snowflake
+Integrations
+A/B testing and experimentation tools Analyze the effect of experiments on product usage by merging data using tools like Optimizely, Apptimize, and VWO
+Advertising platforms Send targeted advertising with tools like Facebook Ads and Google Adwords
+Attribution Sync your attribution data from tools like Appsflyer, Adjust, and Branch
+Customer data platforms Unify data across all your platforms with CDPs like Segment, Mparticle, and Tealium
+Data governance Stick to your tracking plan and ensure data accuracy with tools like Avo and Iteratively
+Product tours and onboarding Create effective product guides using tools like Chameleon and Appcues
+Messaging Send tailored multi-channel messages using tools like Braze, Airship, and Iterable
+Data pipeline With this add-on, you can spend less time
+cleaning and preparing your data, and
+export events and user profiles created in
+Mixpanel to your cloud storage for custom
+analysis.
+Add-on Add-ons are available for an extra
+fee with paid plans.
+Add-on Add-ons are available for an extra
+fee with paid plans.
+Data Governance
+Lexicon Define, manage, and update your data dictionary
+Data dictionary Add definitions to share context throughout Mixpanel
+Data management Hide events and properties
+Access controls and permissions
+Limited
+Project roles & permissions Manage project level roles and permissions
+Entity sharing and permissions controls Share and manage permissions for reports, custom events, cohorts, and more
+Private reports Create reports that are visible only to you
+Data views Apply global filters to create data subsets that exclude irrelevant data points from analysis
+Sensitive data classification Mark events and properties as sensitive and manage who can query them
+Security and Privacy
+Two-factor authentication
+Support for US or EU data residency Can be enabled during project creation; not enabled by default
+Free
+SAML-based single sign-on (SSO)
+Compliance
+GDPR compliant Data deletion and export tooling, GDPR compliant Data Processing Addendum; GDPR compliant data transfers
+Native SOC 2 type II compliant
+CCPA compliant processing
+Customizable data retention policy Automatic delayed deletion of data after ingestion
+Default 5 years
+Custom
+Tools to help with HIPAA compliant processing Including BAAs
+Pricing and Usage
+Saved reports
+5 per seat
+Unlimited
+Data history
+Unlimited
+Unlimited Customizable
+Custom pricing
+Limited
+Accommodations for seasonal traffic Mixpanel will smooth out your annual event count to soften the impact of seasonal increase
+Limited
+MTU based pricing
+Limited
+Customer Support and Success
+Mixpanel community membership Share your ideas with the Mixpanel team, and ask questions to other data professionals on the Mixpanel community Slack channel
+Email support
+Weekdays 12am-5pm PT
+Customer Success Manager (CSM)
+Onboarding and Adoption assistance
+Early access to betas
+Live chat and faster response SLAs
+Available as add-on
+What is an event?
+Events represent interactions between a user and your product. Think about events that you want to measure and understand. Is it a purchase? Video views? Friend requests? The first step is to send that data to Mixpanel. Our flexible data model lets you bring in events easily by connecting Mixpanel to your CDP, data warehouse, or in-house data pipelines. You can also install a Mixpanel SDK.
+Events-based pricing calculates the cost based on the number of events across all projects in each period. For eligible plans, you can choose to purchase monthly or annually.
+How can I estimate my event volume?
+It depends on your number of active users and the number of events (interactions) a typical active user performs in your product every month (or year). These interactions include client-side engagement events (e.g., search, purchase, video view), server-side events (e.g., sign up, account upgrade), and messaging events (e.g., email sent, email opened, etc.). We encourage new customers to get started on the Starter plan and then upgrade once they have an estimate of their volume.
+What if I go over my prepaid amount?
+Once you’ve finished using your prepaid amount of events, you’ll be charged our regular monthly rate for each additional event tracked that month.
+Volume discounts are baked in. You can save money by giving your company room to grow!
+We’re a startup. Do you have any discounts?
+We have the most generous Starter plan in the market (20M events) and extensive additional benefits for eligible startups, including up to $50,000 in credits towards any paid plan and exclusive access to our startup community. Learn more
+Ready to get started?
+Simple and powerful analytics that helps everyone make better decisions.
+Contact Sales
+Product
+Analysis
+Scale
+Developer
+Integrations
+Security & Privacy
+Dev Docs
+Help Docs
+Pricing
+Community
+Customers
+Events
+Slack
+Expert Directory
+Company
+Blog
+Become a Partner
+Contact Sales
+Contact Support
+👋 We’re Hiring
+©2023 Mixpanel. All rights reserved
+Privacy Program
+Legal
+Security
+Your Privacy Rights
+Make the switch to the new Free Plan
+Our new Free Plan offers up to 20 million events, all our core analytics features, and unlimited data history.
+However, you will no longer have access to the Signal, Impact, or Experiments reports. Additionally, you will only be able to create temporary cohorts and will be limited to 5 saved reports per user.
+Learn more about the new Free Plan!
+Our new Free Plan offers up to 100,000 monthly tracked users (up to 100,000,000 events), all our core analytics features, and unlimited data history.
+However, you will no longer have access to the Signal, Impact, or Experiments reports. Additionally, you will only be able to create temporary cohorts and will be limited to 5 saved reports per user.

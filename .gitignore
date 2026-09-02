@@ -1,6 +1,5 @@
 node_modules/
 dist/
-data/pending/
 .DS_Store
 issue.md
 n.txt
@@ -12,3 +11,6 @@ scripts/seed/slice-*.json
 scripts/seed/AGENT_TASK.md
 data/runs/group-*.txt
 data/runs/backfill-w*.stdout
+data/runs/backfill-x*.stdout
+data/runs/backfill-y*.stdout
+data/runs/group2-*.txt

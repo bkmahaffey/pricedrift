@@ -1,0 +1,108 @@
+[
+  {
+    "id": "polar-sh-resources-pricing-20260518003401",
+    "url": "https://polar.sh/resources/pricing",
+    "ts": "20260518003401",
+    "date": "2026-05-18",
+    "source": "wayback",
+    "prevTs": "20250905183015",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Polar: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 21,
+      "added": 33,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "polar-sh-resources-pricing-20260608021919",
+    "url": "https://polar.sh/resources/pricing",
+    "ts": "20260608021919",
+    "date": "2026-06-08",
+    "source": "wayback",
+    "prevTs": "20260518003401",
+    "kind": "price",
+    "score": 70,
+    "counts": {
+      "price": 22,
+      "limit": 0,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Polar: 22 prices, 2 plan names changed (removed “$1.9”; added “$20 /mo”)",
+    "pairs": [],
+    "added": [
+      "Polar offers a free Starter plan plus three optional paid plans – Pro, Growth, and Scale – that lower your variable rate and prioritize your support inquiries. You can switch between plans anytime, and your rate adjusts immediately.",
+      "Free",
+      "$20 /mo",
+      "$100 /mo",
+      "$400 /mo",
+      "~$1,379 /mo in sales",
+      "~$5,634 /mo in sales",
+      "~$19,048 /mo in sales",
+      "Free",
+      "Here's how the fees on that $37.5 transaction compare across plans.",
+      "$2.38",
+      "$2.94",
+      "$1.83",
+      "$0.56",
+      "$2.39",
+      "$1.70",
+      "$0.56",
+      "$2.26",
+      "$1.58",
+      "$0.56",
+      "$2.14"
+    ],
+    "removed": [
+      "$1.9",
+      "$0.19",
+      "$2.65",
+      "Polar reserves the right to issue refunds at our own discretion up to 60 days after the purchase as part of our efforts to continuously and proactively reduce disputes & chargebacks which costs you $15/dispute. We only leverage this right for this purpose and in the interest of reducing chargebacks and fees for you."
+    ],
+    "totals": {
+      "removed": 37,
+      "added": 85,
+      "materialRemoved": 8,
+      "materialAdded": 25
+    }
+  },
+  {
+    "id": "polar-sh-resources-pricing-20260902202107",
+    "url": "https://polar.sh/resources/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260608021919",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Polar: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 34,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

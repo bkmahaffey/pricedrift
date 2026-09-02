@@ -1,0 +1,402 @@
+[
+  {
+    "id": "cloudflare-com-plans-20231103220118",
+    "url": "https://www.cloudflare.com/plans/",
+    "ts": "20231103220118",
+    "date": "2023-11-03",
+    "source": "wayback",
+    "prevTs": "20230102041536",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$.05 per 10k good requests"
+    ],
+    "totals": {
+      "removed": 8,
+      "added": 13,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "cloudflare-com-plans-20240101042135",
+    "url": "https://www.cloudflare.com/plans/",
+    "ts": "20240101042135",
+    "date": "2024-01-01",
+    "source": "wayback",
+    "prevTs": "20231103220118",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Cloudflare: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "Free plans"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 27,
+      "added": 35,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "cloudflare-com-plans-20240301133339",
+    "url": "https://www.cloudflare.com/plans/",
+    "ts": "20240301133339",
+    "date": "2024-03-01",
+    "source": "wayback",
+    "prevTs": "20240101042135",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Cloudflare Stream makes video storage, encoding, and playback easy. With the Business Plan, you get 100 free minutes of video storage and can deliver 10,000 minutes every month for free. Use it for background/hero videos, e-commerce product videos, how-to guides, and customer testimonials."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 13,
+      "added": 8,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "cloudflare-com-plans-20240502182134",
+    "url": "https://www.cloudflare.com/plans/",
+    "ts": "20240502182134",
+    "date": "2024-05-02",
+    "source": "wayback",
+    "prevTs": "20240301133339",
+    "kind": "price",
+    "score": 10,
+    "counts": {
+      "price": 3,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare: 3 prices, 1 limit changed (removed “Cloudflare Stream makes video storage, encodi…”; added “Cloudflare Stream makes video storage, encodi…”)",
+    "pairs": [],
+    "added": [
+      "Cloudflare Stream makes video storage, encoding, and playback easy. Start for $5 per month for 1,000 minutes of video stored. Or, with a Pro or Business Plan, you get 100 free minutes of video storage and 10,000 minutes of video delivery every month included with your plan.",
+      "Starting at $5 per month. 100 minutes of video stored included with Pro and Business plans"
+    ],
+    "removed": [
+      "Cloudflare Stream makes video storage, encoding, and playback easy. With the Business Plan, you get 100 free minutes of video storage and can deliver 10,000 minutes every month for free. Use it for background/hero videos, e-commerce product videos, how-to guides, and customer testimonials.",
+      "50,000 monthly resizing requests included with Pro, Business. $9 per additional 50,000 resizing requests."
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "cloudflare-com-plans-20240701184239",
+    "url": "https://www.cloudflare.com/plans/",
+    "ts": "20240701184239",
+    "date": "2024-07-01",
+    "source": "wayback",
+    "prevTs": "20240502182134",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare: 1 price changed (removed “$5 for 5 rules”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$5 for 5 rules",
+      "Free for all plans"
+    ],
+    "totals": {
+      "removed": 11,
+      "added": 1,
+      "materialRemoved": 2,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "cloudflare-com-plans-20250801160122",
+    "url": "https://www.cloudflare.com/plans/",
+    "ts": "20250801160122",
+    "date": "2025-08-01",
+    "source": "wayback",
+    "prevTs": "20240701184239",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 37,
+      "added": 26,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "cloudflare-com-plans-20250904205112",
+    "url": "https://www.cloudflare.com/plans/",
+    "ts": "20250904205112",
+    "date": "2025-09-04",
+    "source": "wayback",
+    "prevTs": "20250801160122",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare: 2 prices changed (added “$1 per GB ingested; first 10 GB are free”)",
+    "pairs": [],
+    "added": [
+      "$1 per GB ingested; first 10 GB are free",
+      "$1 per GB ingested; first 10 GB are free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 11,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "cloudflare-com-plans-20260402214408",
+    "url": "https://www.cloudflare.com/plans/",
+    "ts": "20260402214408",
+    "date": "2026-04-02",
+    "source": "wayback",
+    "prevTs": "20250904205112",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "cloudflare-com-plans-20260501234847",
+    "url": "https://www.cloudflare.com/plans/",
+    "ts": "20260501234847",
+    "date": "2026-05-01",
+    "source": "wayback",
+    "prevTs": "20260402214408",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare: 2 prices changed (removed “Starting at $3 per month”; added “$0.099 per 1k requests”)",
+    "pairs": [],
+    "added": [
+      "$0.099 per 1k requests"
+    ],
+    "removed": [
+      "Starting at $3 per month"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "cloudflare-com-plans-20260601005457",
+    "url": "https://www.cloudflare.com/plans/",
+    "ts": "20260601005457",
+    "date": "2026-06-01",
+    "source": "wayback",
+    "prevTs": "20260501234847",
+    "kind": "price",
+    "score": 624,
+    "counts": {
+      "price": 127,
+      "limit": 42,
+      "plan": 80
+    },
+    "material": true,
+    "headline": "Cloudflare: 127 prices, 42 limits, 80 plan names changed (removed “Cloudflare Stream makes video storage, encodi…”; added “$0”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "$0",
+      "$20",
+      "/mo billed annually, or $25/mo billed monthly",
+      "$200",
+      "/mo billed annually, or $250/mo billed monthly",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free Managed Ruleset",
+      "Free",
+      "Free",
+      "Free —",
+      "Free —",
+      "Free —",
+      "Free —",
+      "Free —",
+      "Free",
+      "Free —",
+      "Free",
+      "Free",
+      "Teams under 50 users or enterprise proof-of-concept tests.",
+      "$0",
+      "$7",
+      "Free",
+      "50 users",
+      "Free 50 users",
+      "Free —",
+      "Free Community forums + Discord",
+      "Up to 24 hours",
+      "Up to 30 days",
+      "Up to 6 months; Logpush to SIEM/cloud storage",
+      "Free Up to 24 hours",
+      "Pay-as-you-go Up to 30 days",
+      "Contract Up to 6 months; Logpush to SIEM/cloud storage",
+      "Free",
+      "100k / day",
+      "$0.30 / million requests"
+    ],
+    "removed": [
+      "Take your performance and security even further with Cloudflare’s paid add-ons for Free, Pro, and Business plans.",
+      "Cloudflare Stream makes video storage, encoding, and playback easy. Start for $5 per month for 1,000 minutes of video stored. Or, with a Pro or Business Plan, you get 100 free minutes of video storage and 10,000 minutes of video delivery every month included with your plan.",
+      "Starting at $5 per month. 100 minutes of video stored included with Pro and Business plans",
+      "Try for free",
+      "$1 per GB ingested; first 10 GB are free",
+      "$1 per GB ingested; first 10 GB are free",
+      "Get started free in just 5 minutes. Try Cloudflare today.",
+      "Free plans"
+    ],
+    "totals": {
+      "removed": 139,
+      "added": 702,
+      "materialRemoved": 17,
+      "materialAdded": 295
+    }
+  },
+  {
+    "id": "cloudflare-com-plans-20260701100537",
+    "url": "https://www.cloudflare.com/plans/",
+    "ts": "20260701100537",
+    "date": "2026-07-01",
+    "source": "wayback",
+    "prevTs": "20260601005457",
+    "kind": "limits",
+    "score": 16,
+    "counts": {
+      "price": 0,
+      "limit": 4,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Cloudflare: 4 limits, 4 plan names changed (removed “100,000 requests / day”)",
+    "pairs": [],
+    "added": [
+      "Free —",
+      "Free —",
+      "Free —",
+      "Free —"
+    ],
+    "removed": [
+      "100,000 requests / day",
+      "13,000 GB-s / day",
+      "Free 100,000 requests / day",
+      "Free 13,000 GB-s / day",
+      "100,000 / day",
+      "10,000 / day",
+      "Free 100,000 / day",
+      "Free 10,000 / day"
+    ],
+    "totals": {
+      "removed": 13,
+      "added": 14,
+      "materialRemoved": 8,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "cloudflare-com-plans-20260801043949",
+    "url": "https://www.cloudflare.com/plans/",
+    "ts": "20260801043949",
+    "date": "2026-08-01",
+    "source": "wayback",
+    "prevTs": "20260701100537",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Cloudflare: 1 plan name changed",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Free —"
+    ],
+    "totals": {
+      "removed": 9,
+      "added": 2,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  }
+]

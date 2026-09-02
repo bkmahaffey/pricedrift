@@ -1,0 +1,659 @@
+[
+  {
+    "id": "trigger-dev-pricing-20230415105547",
+    "url": "https://trigger.dev/pricing",
+    "ts": "20230415105547",
+    "date": "2023-04-15",
+    "source": "wayback",
+    "prevTs": "20230201152057",
+    "kind": "price",
+    "score": 11,
+    "counts": {
+      "price": 1,
+      "limit": 2,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Trigger.dev: 1 price, 2 limits, 2 plan names changed (1,000 → 5,000)",
+    "pairs": [
+      {
+        "before": "1,000 runs per month",
+        "after": "5,000 free runs per month",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "1,000",
+            "after": "5,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "We offer a variety of plans to fit your needs. Get started for free.",
+      "Start for free",
+      "$25/mo",
+      "Try Team for free",
+      "7 day log retention",
+      "+ All features in Free",
+      "Try Pro for free",
+      "75,000 runs per month",
+      "Unlimited workflows, Unlimited runs, Unlimited team members, Unlimited log retention, 99.999% uptime SLA, SSO, DPA, + All features in Pro"
+    ],
+    "removed": [
+      "Get started for free",
+      "Get started for free",
+      "Unlimited workflows",
+      "Unlimited runs",
+      "Unlimited team members",
+      "Unlimited log retention"
+    ],
+    "totals": {
+      "removed": 22,
+      "added": 25,
+      "materialRemoved": 9,
+      "materialAdded": 12
+    }
+  },
+  {
+    "id": "trigger-dev-pricing-20230812113504",
+    "url": "https://trigger.dev/pricing",
+    "ts": "20230812113504",
+    "date": "2023-08-12",
+    "source": "wayback",
+    "prevTs": "20230415105547",
+    "kind": "price",
+    "score": 17,
+    "counts": {
+      "price": 2,
+      "limit": 4,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Trigger.dev: 2 prices, 4 limits, 2 plan names changed (25,000 → 50,000)",
+    "pairs": [
+      {
+        "before": "25,000 runs per month",
+        "after": "Up to 50,000 Runs / month",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "25,000",
+            "after": "50,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0 / month",
+      "Up to 10,000 Runs / month",
+      "Up to 10 Jobs",
+      "Start for free",
+      "Up to 50 Jobs"
+    ],
+    "removed": [
+      "We offer a variety of plans to fit your needs. Get started for free.",
+      "Free",
+      "5,000 free runs per month",
+      "Try Team for free",
+      "+ All features in Free",
+      "$49/mo",
+      "Try Pro for free",
+      "75,000 runs per month",
+      "30 day log retention",
+      "Unlimited workflows, Unlimited runs, Unlimited team members, Unlimited log retention, 99.999% uptime SLA, SSO, DPA, + All features in Pro"
+    ],
+    "totals": {
+      "removed": 34,
+      "added": 28,
+      "materialRemoved": 12,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "trigger-dev-pricing-20231107014600",
+    "url": "https://trigger.dev/pricing",
+    "ts": "20231107014600",
+    "date": "2023-11-07",
+    "source": "wayback",
+    "prevTs": "20230812113504",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 1,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Trigger.dev: 1 price, 3 limits changed (10,000 → 5,000; 50,000 → 25,000)",
+    "pairs": [
+      {
+        "before": "Up to 10,000 Runs / month",
+        "after": "Up to 5,000 Runs / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10,000",
+            "after": "5,000"
+          }
+        ]
+      },
+      {
+        "before": "Up to 50,000 Runs / month",
+        "after": "Up to 25,000 Runs / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50,000",
+            "after": "25,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Get started with our generous free tier, and scale up as your business grows. We also offer custom plans for high volume projects.",
+      "1 Project",
+      "Up to 5 Projects",
+      "$ 1.00 /1000 Runs over the limit"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 11,
+      "added": 16,
+      "materialRemoved": 2,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "trigger-dev-pricing-20240225141914",
+    "url": "https://trigger.dev/pricing",
+    "ts": "20240225141914",
+    "date": "2024-02-25",
+    "source": "wayback",
+    "prevTs": "20231107014600",
+    "kind": "price",
+    "score": 70,
+    "counts": {
+      "price": 13,
+      "limit": 9,
+      "plan": 7
+    },
+    "material": true,
+    "headline": "Trigger.dev: 13 prices, 9 limits, 7 plan names changed ($25 → $30)",
+    "pairs": [
+      {
+        "before": "$25 / month",
+        "after": "$ 30 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$25",
+            "after": "$30"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free",
+      "Up to 10K job runs",
+      "Unlimited jobs",
+      "Unlimited tasks",
+      "Unlimited events",
+      "Unlimited team members",
+      "Includes 10K job runs",
+      "then < $ 1.25 /1K runs",
+      "Unlimited jobs",
+      "Unlimited tasks",
+      "Unlimited events",
+      "Unlimited team members",
+      "Unlimited jobs",
+      "Unlimited tasks",
+      "Unlimited events",
+      "Unlimited team members",
+      "30 day log retention",
+      "= $0",
+      "= $0",
+      "$0",
+      "First 10K/mo",
+      "Free",
+      "10K–20K",
+      "$1.25/1,000",
+      "20K–150K",
+      "$0.87/1,000",
+      "150K–500K",
+      "$0.61/1,000",
+      "500K–1M",
+      "$0.43/1,000",
+      "1M–2.5M",
+      "$0.30/1,000",
+      "2.5M–6.3M",
+      "$0.21/1,000",
+      "6.3M +",
+      "$0.15/1,000"
+    ],
+    "removed": [
+      "Up to 5,000 Runs / month",
+      "Start for free",
+      "Up to 10 Jobs",
+      "1 Project",
+      "Up to 25,000 Runs / month",
+      "Start for free",
+      "Up to 50 Jobs",
+      "Up to 5 Projects",
+      "$ 1.00 /1000 Runs over the limit"
+    ],
+    "totals": {
+      "removed": 29,
+      "added": 68,
+      "materialRemoved": 11,
+      "materialAdded": 38
+    }
+  },
+  {
+    "id": "trigger-dev-pricing-20241112185459",
+    "url": "https://trigger.dev/pricing",
+    "ts": "20241112185459",
+    "date": "2024-11-12",
+    "source": "wayback",
+    "prevTs": "20240225141914",
+    "kind": "price",
+    "score": 109,
+    "counts": {
+      "price": 28,
+      "limit": 9,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Trigger.dev: 28 prices, 9 limits, 4 plan names changed ($30 → $10)",
+    "pairs": [
+      {
+        "before": "$ 30 /month",
+        "after": "$10 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$30",
+            "after": "$10"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 5 free monthly usage",
+      "1 day log retention",
+      "1 alert destination",
+      "$ 10 monthly usage included",
+      "3 alert destinations",
+      "$50 /month",
+      "$ 50 monthly usage included",
+      "$0.0000169",
+      "$0.0000338",
+      "$0.0000675",
+      "$0.0000850",
+      "$0.0001700",
+      "$0.0003400",
+      "$0.0006800",
+      "$ 0.000025",
+      "($ 0.25 per 10,000 runs)",
+      "A 10s task that does 100 runs per day on the small-1x machine:",
+      "1 run = (10s × $0.0000338) + $0.000025 = $0.000363",
+      "1 day = 100 × $0.000363 = $0.0363",
+      "1 month = $0.0363 × 30 = $1.09",
+      "Yes. The free plan is limited to 60 API requests per minute while paid plans are limited to 1,500 API requests per minute. You can trigger more tasks than this by using batchTrigger().",
+      "Yes. Concurrency is limited on our Free plan but you can increase your concurrency limit by upgrading to a paid plan. If your tasks require more than the paid plan limits, get in touch",
+      "A simple task triggering using APIs will take about 5 minutes to create.",
+      "Build and deploy your first task in 3 mins with no timeouts and no infrastructure to manage.",
+      "Get started for free"
+    ],
+    "removed": [
+      "Get started with our generous free tier, and scale up as your business grows. We also offer custom plans for high volume projects.",
+      "Up to 10K job runs",
+      "Unlimited jobs",
+      "Unlimited events",
+      "Unlimited team members",
+      "24 hour log retention",
+      "Includes 10K job runs",
+      "then < $ 1.25 /1K runs",
+      "Unlimited jobs",
+      "Unlimited events",
+      "Unlimited team members",
+      "Unlimited jobs",
+      "Unlimited events",
+      "Unlimited team members",
+      "= $0",
+      "= $0",
+      "$0",
+      "First 10K/mo",
+      "Free",
+      "10K–20K",
+      "$1.25/1,000",
+      "20K–150K",
+      "$0.87/1,000",
+      "150K–500K",
+      "$0.61/1,000",
+      "500K–1M",
+      "$0.43/1,000",
+      "1M–2.5M",
+      "$0.30/1,000",
+      "2.5M–6.3M",
+      "$0.21/1,000",
+      "6.3M +",
+      "$0.15/1,000"
+    ],
+    "totals": {
+      "removed": 72,
+      "added": 108,
+      "materialRemoved": 35,
+      "materialAdded": 27
+    }
+  },
+  {
+    "id": "trigger-dev-pricing-20250123230936",
+    "url": "https://trigger.dev/pricing",
+    "ts": "20250123230936",
+    "date": "2025-01-23",
+    "source": "wayback",
+    "prevTs": "20241112185459",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Trigger.dev: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "trigger-dev-pricing-20250327225124",
+    "url": "https://trigger.dev/pricing",
+    "ts": "20250327225124",
+    "date": "2025-03-27",
+    "source": "wayback",
+    "prevTs": "20250123230936",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Trigger.dev: 1 price changed (100 added)",
+    "pairs": [
+      {
+        "before": "Yes. Concurrency is limited on our Free plan but you can increase your concurrency limit by upgrading to a paid plan. If your tasks require more than the paid plan limits, get in touch",
+        "after": "Yes. Concurrency is limited on our Free plan but you can increase your concurrency limit by upgrading to a paid plan. If your tasks require more than the Pro plan limit (100), you can purchase bundles of 50 additional concurrency for $50/month.",
+        "confidence": 0.68,
+        "deltas": [
+          {
+            "before": null,
+            "after": "100"
+          },
+          {
+            "before": null,
+            "after": "50"
+          },
+          {
+            "before": null,
+            "after": "$50"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 5,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "trigger-dev-pricing-20250505014728",
+    "url": "https://trigger.dev/pricing",
+    "ts": "20250505014728",
+    "date": "2025-05-05",
+    "source": "wayback",
+    "prevTs": "20250327225124",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 4,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Trigger.dev: 4 prices changed (added “Then $50/month per 50”)",
+    "pairs": [],
+    "added": [
+      "Begin for free, invite your team, and scale without limits.",
+      "Then $50/month per 50",
+      "Then $20/month per seat",
+      "Then $10/month per 1,000",
+      "Then $10/month per 100"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 12,
+      "materialRemoved": 0,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "trigger-dev-pricing-20250711015844",
+    "url": "https://trigger.dev/pricing",
+    "ts": "20250711015844",
+    "date": "2025-07-11",
+    "source": "wayback",
+    "prevTs": "20250505014728",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Trigger.dev: 1 price changed (added “Then $10/month per branch”)",
+    "pairs": [],
+    "added": [
+      "Then $10/month per branch"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "trigger-dev-pricing-20250804183615",
+    "url": "https://trigger.dev/pricing",
+    "ts": "20250804183615",
+    "date": "2025-08-04",
+    "source": "wayback",
+    "prevTs": "20250711015844",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Trigger.dev: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "trigger-dev-pricing-20251209111736",
+    "url": "https://trigger.dev/pricing",
+    "ts": "20251209111736",
+    "date": "2025-12-09",
+    "source": "wayback",
+    "prevTs": "20250804183615",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Trigger.dev: 2 prices changed ($50 → $10; 100 → 200)",
+    "pairs": [
+      {
+        "before": "Then $50/month per 50",
+        "after": "Then $10/month per 50",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$50",
+            "after": "$10"
+          }
+        ]
+      },
+      {
+        "before": "Yes. Concurrency is limited on our Free plan but you can increase your concurrency limit by upgrading to a paid plan. If your tasks require more than the Pro plan limit (100), you can purchase bundles of 50 additional concurrency for $50/month.",
+        "after": "Yes. Concurrency is limited on our Free plan but you can increase your concurrency limit by upgrading to a paid plan. If your tasks require more than the Pro plan limit ( 200), you can purchase bundles of 50 for $10 per month.",
+        "confidence": 0.92,
+        "deltas": [
+          {
+            "before": "100",
+            "after": "200"
+          },
+          {
+            "before": "$50",
+            "after": "$10"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 5,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "trigger-dev-pricing-20260307192416",
+    "url": "https://trigger.dev/pricing",
+    "ts": "20260307192416",
+    "date": "2026-03-07",
+    "source": "wayback",
+    "prevTs": "20251209111736",
+    "kind": "price",
+    "score": 8,
+    "counts": {
+      "price": 1,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Trigger.dev: 1 price, 3 limits changed (100 → 1,000)",
+    "pairs": [
+      {
+        "before": "Then $10/month per 100",
+        "after": "Then $10/month per 1,000",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100",
+            "after": "1,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "1 day query period",
+      "7 days query period",
+      "Then $10/month per dashboard",
+      "30 days query period"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 10,
+      "materialRemoved": 1,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "trigger-dev-pricing-20260623182205",
+    "url": "https://trigger.dev/pricing",
+    "ts": "20260623182205",
+    "date": "2026-06-23",
+    "source": "wayback",
+    "prevTs": "20260307192416",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Trigger.dev: 1 price changed (removed “Yes. The free plan is limited to 60 API reque…”; added “On the Free plan, you'll need to upgrade to k…”)",
+    "pairs": [],
+    "added": [
+      "On the Free plan, you'll need to upgrade to keep running tasks once the included $5 of credits is used."
+    ],
+    "removed": [
+      "Yes. The free plan is limited to 60 API requests per minute while paid plans are limited to 1,500 API requests per minute. You can trigger more tasks than this by using batchTrigger()."
+    ],
+    "totals": {
+      "removed": 8,
+      "added": 32,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "trigger-dev-pricing-20260729221813",
+    "url": "https://trigger.dev/pricing",
+    "ts": "20260729221813",
+    "date": "2026-07-29",
+    "source": "wayback",
+    "prevTs": "20260623182205",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Trigger.dev: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  }
+]

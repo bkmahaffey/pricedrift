@@ -1,0 +1,1387 @@
+[
+  {
+    "id": "koyeb-com-pricing-20230602080621",
+    "url": "https://www.koyeb.com/pricing",
+    "ts": "20230602080621",
+    "date": "2023-06-02",
+    "source": "wayback",
+    "prevTs": "20230131043145",
+    "kind": "price",
+    "score": 4,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Koyeb: 1 price, 1 limit changed (added “6 users included”)",
+    "pairs": [],
+    "added": [
+      "6 users included",
+      "Application services are charged depending on the effective usage, starting at $0.00001/second. You define the price you want to pay when you choose the contaner size and the scale. If your app requires a $5.40 container and you want to launch 10 containers, you'll pay $54 per month."
+    ],
+    "removed": [
+      "Flexible monthly plans with unlimited apps for projects and organizations of all sizes."
+    ],
+    "totals": {
+      "removed": 18,
+      "added": 20,
+      "materialRemoved": 3,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "koyeb-com-pricing-20230921182945",
+    "url": "https://www.koyeb.com/pricing",
+    "ts": "20230921182945",
+    "date": "2023-09-21",
+    "source": "wayback",
+    "prevTs": "20230602080621",
+    "kind": "price",
+    "score": 54,
+    "counts": {
+      "price": 14,
+      "limit": 5,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Koyeb: 14 prices, 5 limits, 1 plan name changed (16GB → 64GB)",
+    "pairs": [
+      {
+        "before": "Up to 16GB RAM and 16 vCPU per service",
+        "after": "Up to 64GB of RAM & 64 vCPU per service",
+        "confidence": 0.83,
+        "deltas": [
+          {
+            "before": "16GB",
+            "after": "64GB"
+          },
+          {
+            "before": "16",
+            "after": "64"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Start for free. Pay only for what you use. Add support and capacity.",
+      "3 users included",
+      "Up to 16GB of RAM & 16 vCPU per service",
+      "6 core locations",
+      "Supercharged security and support features, starting at $1000/mo with committed usage",
+      "Unlimited users",
+      "Free inbound bandwidth",
+      "100GB of free outbound transfer",
+      "16GB",
+      "32GB",
+      "160GB SSD",
+      "320GB SSD",
+      "$0.000001/s",
+      "$0.000002/s",
+      "$0.000004/s",
+      "$0.000008/s",
+      "$0.000016/s",
+      "$86/mo",
+      "$0.000032/s",
+      "$172/mo",
+      "$0.000064/s",
+      "$343/mo",
+      "$0.000128/s"
+    ],
+    "removed": [
+      "$85.7/mo",
+      "Free with global edge acceleration and built-in DDoS Mitigation",
+      "100GB of free transfer, $0.04/GB afterwards. Global CDN included.",
+      "We're happy to sponsor open source projects with free or discounted resources."
+    ],
+    "totals": {
+      "removed": 46,
+      "added": 69,
+      "materialRemoved": 10,
+      "materialAdded": 29
+    }
+  },
+  {
+    "id": "koyeb-com-pricing-20231022005823",
+    "url": "https://www.koyeb.com/pricing",
+    "ts": "20231022005823",
+    "date": "2023-10-22",
+    "source": "wayback",
+    "prevTs": "20230921182945",
+    "kind": "price",
+    "score": 19,
+    "counts": {
+      "price": 3,
+      "limit": 2,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Koyeb: 3 prices, 2 limits, 3 plan names changed (3 → 2)",
+    "pairs": [
+      {
+        "before": "3 users included",
+        "after": "2 users included",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3",
+            "after": "2"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free",
+      "2GB SSD",
+      "Free",
+      "Start for free",
+      "1x free service offered, pay-per-use by the second for more, perfect for hobbyists",
+      "Yes, the Starter plan is completely free! We provide one instance for free which you can use as you wish. Other instances are charged according to your usage, by the second. The starter plan requires a credit card. You might be eligible for our Hobby plan which doesn't require any card."
+    ],
+    "removed": [
+      "Pay-per-use by the second, $5.50 of free monthly usage",
+      "6 users included",
+      "Yes, it's completely free! We provide $5.5 of monthly usage credit for free which you can use with any container size up to 2GB of RAM and 100GB of bandwidth. This is equivalent to 1388 hours of nano usage so around 2 full-time nano services!",
+      "The free plan is designed to let you get started quickly and to deploy non-critical applications. The $79/mo startup plan is designed for small production apps. If you're deploying large, mission-critical applications, require high RAM and CPU configurations, or specific locations please contact us!"
+    ],
+    "totals": {
+      "removed": 53,
+      "added": 56,
+      "materialRemoved": 39,
+      "materialAdded": 41
+    }
+  },
+  {
+    "id": "koyeb-com-pricing-20240406062331",
+    "url": "https://www.koyeb.com/pricing",
+    "ts": "20240406062331",
+    "date": "2024-04-06",
+    "source": "wayback",
+    "prevTs": "20231022005823",
+    "kind": "price",
+    "score": 131,
+    "counts": {
+      "price": 34,
+      "limit": 12,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Koyeb: 34 prices, 12 limits, 3 plan names changed (2 → 3; $0.00001 → $0.000006)",
+    "pairs": [
+      {
+        "before": "2 users included",
+        "after": "3 users included",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2",
+            "after": "3"
+          }
+        ]
+      },
+      {
+        "before": "Application services are charged depending on the effective usage, starting at $0.00001/second. You define the price you want to pay when you choose the container size and the scale. If your app requires a $5.40 container and you want to launch 10 containers, you'll pay $54 per month.",
+        "after": "Services are charged depending on the effective usage, starting at $0.000006/second. You define the price you want to pay when you choose the Instance size and the scale. If your app requires a $5.40 Instance and you want to launch 10 Instances, you'll pay $54 per month.",
+        "confidence": 0.83,
+        "deltas": [
+          {
+            "before": "$0.00001",
+            "after": "$0.000006"
+          }
+        ]
+      },
+      {
+        "before": "Yes! You can use your own domain and we automatically provide SSL. We provide one custom domain for free and each subsequent domain is $1/month.",
+        "after": "Yes! You can use your own domain and we automatically provide SSL. We provide ten custom domain for free and each subsequent domain is $0.20/month.",
+        "confidence": 0.89,
+        "deltas": [
+          {
+            "before": "$1",
+            "after": "$0.20"
+          }
+        ]
+      },
+      {
+        "before": "Up to 16GB of RAM & 16 vCPU per service",
+        "after": "Up to 128GB of RAM & 40 vCPU per service",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "16GB",
+            "after": "128GB"
+          },
+          {
+            "before": "16",
+            "after": "40"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "1x free Web service",
+      "1x free Postgres database (50h)",
+      "SSL and 10 free custom domains",
+      "Unlimited users",
+      "Start building for free with Koyeb",
+      "No credit card required",
+      "Free Forever RAM 512 MB e CPU 0.1 $0 /mo",
+      "eNano RAM 256 MB e CPU 0.1 $1.61 /mo",
+      "eMicro RAM 512 MB e CPU 0.25 $2.68 /mo",
+      "eSmall RAM 1 GB e CPU 0.5 $5.36 /mo",
+      "eMedium RAM 2 GB e CPU 1 $10.71 /mo",
+      "eLarge RAM 4 GB e CPU 2 $21.43 /mo",
+      "eXLarge RAM 8 GB e CPU 4 $42.85 /mo",
+      "e2XLarge RAM 16 GB e CPU 8 $85.71 /mo",
+      "$0 /mo No credit card required Deploy now",
+      "More than 20 apps in one click",
+      "Free 50h RAM 1 GB CPU 0.25 $0 /mo",
+      "Small RAM 1 GB CPU 0.25 $21 /mo",
+      "Medium RAM 2 GB CPU 0.5 $42 /mo",
+      "Large RAM 4 GB CPU 1 $95 /mo",
+      "$21 /mo $0.000008/s Sign up",
+      "$0.10 per 1 GB",
+      "$2/mo per 10 GiB",
+      "No, you can start using Koyeb without adding a payment method on the Hobby plan. With the Hobby plan, you can run one Web Service and Database for free.",
+      "The free Web Service comes with 512MB memory and can be deployed in Europe or US. The free database Service includes 50 hours of usage every month and can be deployed in Europe, US, or Asia.",
+      "Yes, the Starter plan is free and includes a free tier composed of one Web Service, one Database services, and 10 custom domains.",
+      "Start for free"
+    ],
+    "removed": [
+      "Free",
+      "256MB",
+      "512MB",
+      "2GB",
+      "4GB",
+      "8GB",
+      "16GB",
+      "32GB",
+      "2GB SSD",
+      "2.5GB SSD",
+      "5GB SSD",
+      "10GB SSD",
+      "20GB SSD",
+      "40GB SSD",
+      "80GB SSD",
+      "160GB SSD",
+      "320GB SSD",
+      "Free",
+      "$2.7/mo",
+      "$0.000001/s",
+      "$5.4/mo",
+      "$0.000002/s",
+      "$10.7/mo",
+      "$0.000004/s",
+      "$21.4/mo",
+      "$0.000008/s",
+      "$42.9/mo",
+      "$0.000016/s",
+      "$86/mo",
+      "$0.000032/s",
+      "$172/mo",
+      "$0.000064/s",
+      "$343/mo",
+      "$0.000128/s",
+      "1x free service offered, pay-per-use by the second for more, perfect for hobbyists",
+      "Get started for free",
+      "Up to 64GB of RAM & 64 vCPU per service",
+      "Unlimited users",
+      "Yes, the Starter plan is completely free! We provide one instance for free which you can use as you wish. Other instances are charged according to your usage, by the second. The starter plan requires a credit card. You might be eligible for our Hobby plan which doesn't require any card.",
+      "Get started for free"
+    ],
+    "totals": {
+      "removed": 83,
+      "added": 81,
+      "materialRemoved": 50,
+      "materialAdded": 37
+    }
+  },
+  {
+    "id": "koyeb-com-pricing-20240718080555",
+    "url": "https://www.koyeb.com/pricing",
+    "ts": "20240718080555",
+    "date": "2024-07-18",
+    "source": "wayback",
+    "prevTs": "20240406062331",
+    "kind": "price",
+    "score": 55,
+    "counts": {
+      "price": 16,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Koyeb: 16 prices, 4 limits changed (removed “Free Forever RAM 512 MB e CPU 0.1 $0 /mo”; added “RTX-4000-SFF-ADA VRAM 20 GB 6 CPU / 44 GB RAM”)",
+    "pairs": [],
+    "added": [
+      "RTX-4000-SFF-ADA VRAM 20 GB 6 CPU / 44 GB RAM",
+      "$375 /mo",
+      "V100-SXM2 VRAM 16 GB 8 CPU / 44 GB RAM",
+      "$632 /mo",
+      "L4 VRAM 24 GB 15 CPU / 44 GB RAM",
+      "$744 /mo",
+      "L40S VRAM 48 GB 30 vCPUs / 92 GB RAM",
+      "$1488 /mo",
+      "A100 VRAM 80 GB 15 vCPUs / 180 GB RAM",
+      "$2009 /mo",
+      "H100 VRAM 80 GB 15 vCPUs / 180 GB RAM",
+      "$2454 /mo",
+      "$375 /mo $0.00014/s Deploy now"
+    ],
+    "removed": [
+      "Free Forever RAM 512 MB e CPU 0.1 $0 /mo",
+      "eNano RAM 256 MB e CPU 0.1 $1.61 /mo",
+      "eMicro RAM 512 MB e CPU 0.25 $2.68 /mo",
+      "eSmall RAM 1 GB e CPU 0.5 $5.36 /mo",
+      "eMedium RAM 2 GB e CPU 1 $10.71 /mo",
+      "eLarge RAM 4 GB e CPU 2 $21.43 /mo",
+      "eXLarge RAM 8 GB e CPU 4 $42.85 /mo",
+      "e2XLarge RAM 16 GB e CPU 8 $85.71 /mo",
+      "$0 /mo No credit card required Deploy now",
+      "More than 20 apps in one click"
+    ],
+    "totals": {
+      "removed": 17,
+      "added": 23,
+      "materialRemoved": 12,
+      "materialAdded": 15
+    }
+  },
+  {
+    "id": "koyeb-com-pricing-20241107120802",
+    "url": "https://www.koyeb.com/pricing",
+    "ts": "20241107120802",
+    "date": "2024-11-07",
+    "source": "wayback",
+    "prevTs": "20240718080555",
+    "kind": "price",
+    "score": 69,
+    "counts": {
+      "price": 18,
+      "limit": 8,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Koyeb: 18 prices, 8 limits changed ($21 → $0.0288; $42 → $0.0576)",
+    "pairs": [
+      {
+        "before": "Small RAM 1 GB CPU 0.25 $21 /mo",
+        "after": "Small RAM 1 GB CPU 0.25 $0.0288 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$21",
+            "after": "$0.0288"
+          }
+        ]
+      },
+      {
+        "before": "Medium RAM 2 GB CPU 0.5 $42 /mo",
+        "after": "Medium RAM 2 GB CPU 0.5 $0.0576 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$42",
+            "after": "$0.0576"
+          }
+        ]
+      },
+      {
+        "before": "Large RAM 4 GB CPU 1 $95 /mo",
+        "after": "Large RAM 4 GB CPU 1 $0.128 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$95",
+            "after": "$0.128"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "VRAM 20 GB ( 6 vCPUs / 44 GB RAM)",
+      "$0.50 /hr",
+      "VRAM 48 GB ( 10 vCPUs / 100 GB RAM)",
+      "$0.73 /hr",
+      "VRAM 24 GB ( 15 vCPUs / 44 GB RAM)",
+      "$1 /hr",
+      "VRAM 48 GB ( 15 vCPUs / 180 GB RAM)",
+      "$1.55 /hr",
+      "VRAM 80 GB ( 15 vCPUs / 180 GB RAM)",
+      "$2 /hr",
+      "VRAM 80 GB ( 15 vCPUs / 180 GB RAM)",
+      "$3.30 /hr",
+      "$0.50 /hr $375 /mo, billed per second. Save up to 50% more with plans. Deploy now",
+      "1000 CPU services with scale-to-zero",
+      "6 users included $5 per user after this",
+      "Unlimited users"
+    ],
+    "removed": [
+      "6 users included more as an add-on",
+      "Up to 128GB of RAM & 40 vCPU per service",
+      "Unlimited users",
+      "RTX-4000-SFF-ADA VRAM 20 GB 6 CPU / 44 GB RAM",
+      "$375 /mo",
+      "V100-SXM2 VRAM 16 GB 8 CPU / 44 GB RAM",
+      "$632 /mo",
+      "L4 VRAM 24 GB 15 CPU / 44 GB RAM",
+      "$744 /mo",
+      "L40S VRAM 48 GB 30 vCPUs / 92 GB RAM",
+      "$1488 /mo",
+      "A100 VRAM 80 GB 15 vCPUs / 180 GB RAM",
+      "$2009 /mo",
+      "H100 VRAM 80 GB 15 vCPUs / 180 GB RAM",
+      "$2454 /mo",
+      "$375 /mo $0.00014/s Deploy now"
+    ],
+    "totals": {
+      "removed": 63,
+      "added": 70,
+      "materialRemoved": 30,
+      "materialAdded": 30
+    }
+  },
+  {
+    "id": "koyeb-com-pricing-20241206194748",
+    "url": "https://www.koyeb.com/pricing",
+    "ts": "20241206194748",
+    "date": "2024-12-06",
+    "source": "wayback",
+    "prevTs": "20241107120802",
+    "kind": "price",
+    "score": 243,
+    "counts": {
+      "price": 52,
+      "limit": 40,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Koyeb: 52 prices, 40 limits, 4 plan names changed (removed “VRAM 20 GB ( 6 vCPUs / 44 GB RAM)”; added “vRAM 48GB”)",
+    "pairs": [],
+    "added": [
+      "vRAM 48GB",
+      "$ 0.000202 /sec",
+      "vRAM 48GB",
+      "$ 0.000430 /sec",
+      "vRAM 80GB",
+      "$ 0.000555 /sec",
+      "6 users included",
+      "Get up to $30k in credits to accelerate your go-to-market with high-performance cloud infrastructure.",
+      "44GB",
+      "240GB",
+      "$ 0.73 /hr",
+      "160GB",
+      "V100 SXM2 16GB",
+      "$ 0.85 /hr",
+      "44GB",
+      "160GB",
+      "44GB",
+      "160GB",
+      "$ 1.55 /hr",
+      "180GB",
+      "160GB",
+      "$ 2.0 /hr",
+      "180GB",
+      "320GB",
+      "180GB",
+      "320GB",
+      "$ 4.0 /hr",
+      "360GB",
+      "640GB",
+      "$ 8.0 /hr",
+      "720GB",
+      "1280GB",
+      "$ 16.0 /hr",
+      "1440GB",
+      "2560GB",
+      "20GB VRAM",
+      "44GB",
+      "240GB",
+      "$ 0.50 /hr",
+      "48GB VRAM"
+    ],
+    "removed": [
+      "VRAM 20 GB ( 6 vCPUs / 44 GB RAM)",
+      "VRAM 48 GB ( 10 vCPUs / 100 GB RAM)",
+      "VRAM 24 GB ( 15 vCPUs / 44 GB RAM)",
+      "VRAM 48 GB ( 15 vCPUs / 180 GB RAM)",
+      "VRAM 80 GB ( 15 vCPUs / 180 GB RAM)",
+      "VRAM 80 GB ( 15 vCPUs / 180 GB RAM)",
+      "$0.50 /hr $375 /mo, billed per second. Save up to 50% more with plans. Deploy now",
+      "Free inbound bandwidth",
+      "Start building for free with Koyeb",
+      "No credit card required",
+      "Free 50h RAM 1 GB CPU 0.25 $0 /hr",
+      "Small RAM 1 GB CPU 0.25 $0.0288 /hr",
+      "Medium RAM 2 GB CPU 0.5 $0.0576 /hr",
+      "Large RAM 4 GB CPU 1 $0.128 /hr",
+      "$21 /mo $0.000008 /sec Sign up",
+      "$2/mo per 10 GiB",
+      "3 users included",
+      "6 users included $5 per user after this",
+      "Start for free"
+    ],
+    "totals": {
+      "removed": 95,
+      "added": 381,
+      "materialRemoved": 35,
+      "materialAdded": 135
+    }
+  },
+  {
+    "id": "koyeb-com-pricing-20250106120551",
+    "url": "https://www.koyeb.com/pricing",
+    "ts": "20250106120551",
+    "date": "2025-01-06",
+    "source": "wayback",
+    "prevTs": "20241206194748",
+    "kind": "price",
+    "score": 99,
+    "counts": {
+      "price": 24,
+      "limit": 13,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Koyeb: 24 prices, 13 limits, 1 plan name changed ($0.73 → $0.75; $0.000202 → $0.000208)",
+    "pairs": [
+      {
+        "before": "$ 0.73 /hour",
+        "after": "$ 0.75 /hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.73",
+            "after": "$0.75"
+          }
+        ]
+      },
+      {
+        "before": "$ 0.000202 /sec",
+        "after": "$ 0.000208 /sec",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.000202",
+            "after": "$0.000208"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "For individuals. Pay-per-use by the second after the free tier, perfect for small apps.",
+      "Generous Free Tier",
+      "$ 29 /mo",
+      "$10 included compute",
+      "10 users",
+      "$ 299 /mo",
+      "$100 included compute",
+      "50 users",
+      "$ 0.70 /hr",
+      "32GB",
+      "$ 0.75 /hr",
+      "64GB",
+      "64GB",
+      "32GB",
+      "$ 0.70 /hr",
+      "64GB",
+      "$ 0.75 /hr",
+      "64GB",
+      "$ 29 /mo",
+      "$ 299 /mo",
+      "$10",
+      "$100",
+      "$500",
+      "$0.04/GB",
+      "Unlimited",
+      "Unlimited",
+      "7 days"
+    ],
+    "removed": [
+      "1x free Web service",
+      "1x free Postgres database (50h)",
+      "SSL and 5 free custom domains",
+      "$ 79 /mo",
+      "Up to 1000 CPU services",
+      "6 users included",
+      "$ 0.73 /hr",
+      "100GB",
+      "V100 SXM2 16GB",
+      "$ 0.85 /hr",
+      "44GB",
+      "44GB",
+      "180GB",
+      "100GB",
+      "160GB",
+      "$ 0.73 /hr",
+      "V100 SXM2 16GB",
+      "16GB VRAM",
+      "44GB",
+      "160GB",
+      "$ 0.85 /hr",
+      "44GB",
+      "$ 1.00 /hr",
+      "180GB",
+      "$ 79 /mo",
+      "100GB/mo",
+      "then $0.02/GB"
+    ],
+    "totals": {
+      "removed": 57,
+      "added": 69,
+      "materialRemoved": 36,
+      "materialAdded": 36
+    }
+  },
+  {
+    "id": "koyeb-com-pricing-20250308184328",
+    "url": "https://www.koyeb.com/pricing",
+    "ts": "20250308184328",
+    "date": "2025-03-08",
+    "source": "wayback",
+    "prevTs": "20250106120551",
+    "kind": "price",
+    "score": 43,
+    "counts": {
+      "price": 6,
+      "limit": 13,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Koyeb: 6 prices, 13 limits changed (added “$ 6.60 /hr”)",
+    "pairs": [],
+    "added": [
+      "$ 6.60 /hr",
+      "360GB",
+      "640GB",
+      "$ 13.20 /hr",
+      "720GB",
+      "1280GB",
+      "$ 26.4 /hr",
+      "1440GB",
+      "2560GB",
+      "64GB",
+      "320GB",
+      "256GB",
+      "320GB",
+      "160GB VRAM",
+      "360GB",
+      "640GB",
+      "$ 6.60 /hr",
+      "320GB VRAM",
+      "720GB",
+      "1280GB",
+      "$ 13.20 /hr",
+      "640GB VRAM",
+      "1440GB",
+      "2560GB",
+      "$ 26.4 /hr",
+      "24GB VRAM",
+      "64GB",
+      "320GB",
+      "96GB VRAM",
+      "256GB",
+      "320GB"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 61,
+      "materialRemoved": 0,
+      "materialAdded": 31
+    }
+  },
+  {
+    "id": "koyeb-com-docs-faqs-pricing-20250327005521",
+    "url": "https://www.koyeb.com/docs/faqs/pricing",
+    "ts": "20250327005521",
+    "date": "2025-03-27",
+    "source": "wayback",
+    "prevTs": "20250118103622",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Koyeb: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "koyeb-com-pricing-20250402110417",
+    "url": "https://www.koyeb.com/pricing",
+    "ts": "20250402110417",
+    "date": "2025-04-02",
+    "source": "wayback",
+    "prevTs": "20250308184328",
+    "kind": "price",
+    "score": 44,
+    "counts": {
+      "price": 8,
+      "limit": 10,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Koyeb: 8 prices, 10 limits changed (added “$ 2.15 /hr”)",
+    "pairs": [],
+    "added": [
+      "$ 2.15 /hr",
+      "180GB",
+      "320GB",
+      "$ 4.30 /hr",
+      "360GB",
+      "640GB",
+      "$ 8.6 /hr",
+      "720GB",
+      "1280GB",
+      "$ 17.2 /hr",
+      "1440GB",
+      "2560GB",
+      "80GB VRAM",
+      "180GB",
+      "320GB",
+      "$ 2.15 /hr",
+      "160GB VRAM",
+      "360GB",
+      "640GB",
+      "$ 4.30 /hr",
+      "320GB VRAM",
+      "720GB",
+      "1280GB",
+      "$ 8.6 /hr",
+      "640GB VRAM",
+      "1440GB",
+      "2560GB",
+      "$ 17.2 /hr"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 49,
+      "materialRemoved": 0,
+      "materialAdded": 28
+    }
+  },
+  {
+    "id": "koyeb-com-pricing-20250506184137",
+    "url": "https://www.koyeb.com/pricing",
+    "ts": "20250506184137",
+    "date": "2025-05-06",
+    "source": "wayback",
+    "prevTs": "20250402110417",
+    "kind": "price",
+    "score": 133,
+    "counts": {
+      "price": 42,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Koyeb: 42 prices, 4 limits changed (removed “$0.10 per 1 GB”; added “$0.50/mo per GB”)",
+    "pairs": [],
+    "added": [
+      "$0.50/mo per GB",
+      "$0.50/mo per GB",
+      "$ 0.04 /hr",
+      "$ 29.76 /mo",
+      "$ 0.08 /hr",
+      "$ 59.52 /mo",
+      "$ 0.16 /hr",
+      "$ 119.04 /mo",
+      "$ 0.32 /hr",
+      "$ 238.08 /mo",
+      "8 GB",
+      "$ 0.64 /hr",
+      "$ 476.16 /mo",
+      "16 GB",
+      "$ 1.28 /hr",
+      "$ 952.32 /mo",
+      "32 GB",
+      "$ 0.04 /hr",
+      "$ 29.76 /mo",
+      "$ 0.08 /hr",
+      "$ 59.52 /mo",
+      "$ 0.16 /hr",
+      "$ 119.04 /mo",
+      "8 GB",
+      "$ 0.32 /hr",
+      "$ 238.08 /mo",
+      "16 GB",
+      "$ 0.64 /hr",
+      "$ 476.16 /mo",
+      "32 GB",
+      "$ 1.28 /hr",
+      "$ 952.32 /mo"
+    ],
+    "removed": [
+      "$0.10 per 1 GB",
+      "$2/mo per 10 GB",
+      "1 GB storage included",
+      "$0.10 per 1 GB",
+      "$2/mo per 10 GB",
+      "$ 0.0288 /hr",
+      "$ 20.89 /mo",
+      "$ 0.0576 /hr",
+      "$ 42.85 /mo",
+      "$ 0.1296 /hr",
+      "$ 96.42 /mo",
+      "$ 0.0288 /hr",
+      "$ 20.89 /mo",
+      "$ 0.0576 /hr",
+      "$ 42.85 /mo",
+      "$ 0.1296 /hr",
+      "$ 96.42 /mo"
+    ],
+    "totals": {
+      "removed": 28,
+      "added": 62,
+      "materialRemoved": 19,
+      "materialAdded": 34
+    }
+  },
+  {
+    "id": "koyeb-com-pricing-20250813085732",
+    "url": "https://www.koyeb.com/pricing",
+    "ts": "20250813085732",
+    "date": "2025-08-13",
+    "source": "wayback",
+    "prevTs": "20250506184137",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 4,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Koyeb: 4 prices changed (added “$ 0.504 /hr”)",
+    "pairs": [],
+    "added": [
+      "$ 0.504 /hr",
+      "$ 2.016 /hr",
+      "$ 0.504 /hr",
+      "$ 2.016 /hr"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 6,
+      "materialRemoved": 0,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "koyeb-com-docs-faqs-pricing-20250824081222",
+    "url": "https://www.koyeb.com/docs/faqs/pricing",
+    "ts": "20250824081222",
+    "date": "2025-08-24",
+    "source": "wayback",
+    "prevTs": "20250327005521",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Koyeb: 1 limit changed (50 → 5)",
+    "pairs": [
+      {
+        "before": "limited to 50 active hours, 1GB of storage, 1GB of reads, and 1GB of writes.",
+        "after": "limited to 5 hours of active time and 1GB of storage.",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "50",
+            "after": "5"
+          },
+          {
+            "before": "1GB",
+            "after": null
+          },
+          {
+            "before": "1GB",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "You can join the Hobby plan without adding a credit card. The Hobby plan can deploy a single web Service and database for free with the specifications mentioned above. You can add payment information (and continue to enjoy the free Service and database) to access the full platform experience."
+    ],
+    "totals": {
+      "removed": 12,
+      "added": 13,
+      "materialRemoved": 5,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "koyeb-com-pricing-20250908102509",
+    "url": "https://www.koyeb.com/pricing",
+    "ts": "20250908102509",
+    "date": "2025-09-08",
+    "source": "wayback",
+    "prevTs": "20250813085732",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Koyeb: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "koyeb-com-pricing-20251004063829",
+    "url": "https://www.koyeb.com/pricing",
+    "ts": "20251004063829",
+    "date": "2025-10-04",
+    "source": "wayback",
+    "prevTs": "20250908102509",
+    "kind": "price",
+    "score": 20,
+    "counts": {
+      "price": 4,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Koyeb: 4 prices, 4 limits changed (removed “$ 0.504 /hr”; added “32GB”)",
+    "pairs": [],
+    "added": [
+      "32GB",
+      "128GB",
+      "32GB",
+      "128GB"
+    ],
+    "removed": [
+      "$ 0.504 /hr",
+      "64GB",
+      "$ 2.016 /hr",
+      "256GB",
+      "64GB",
+      "$ 0.504 /hr",
+      "256GB",
+      "$ 2.016 /hr"
+    ],
+    "totals": {
+      "removed": 8,
+      "added": 8,
+      "materialRemoved": 8,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "koyeb-com-pricing-20251213191456",
+    "url": "https://www.koyeb.com/pricing",
+    "ts": "20251213191456",
+    "date": "2025-12-13",
+    "source": "wayback",
+    "prevTs": "20251004063829",
+    "kind": "price",
+    "score": 120,
+    "counts": {
+      "price": 40,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Koyeb: 40 prices changed ($1.55 → $1.20; $0.000430 → $0.000333)",
+    "pairs": [
+      {
+        "before": "$ 1.55 /hour",
+        "after": "$ 1.20 /hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.55",
+            "after": "$1.20"
+          }
+        ]
+      },
+      {
+        "before": "$ 0.000430 /sec",
+        "after": "$ 0.000333 /sec",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.000430",
+            "after": "$0.000333"
+          }
+        ]
+      },
+      {
+        "before": "$ 2.0 /hour",
+        "after": "$ 1.60 /hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.0",
+            "after": "$1.60"
+          }
+        ]
+      },
+      {
+        "before": "$ 0.000555 /sec",
+        "after": "$ 0.000444 /sec",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.000555",
+            "after": "$0.000444"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 1.20 /hr",
+      "$ 1.60 /hr",
+      "$ 2.50 /hr",
+      "$ 3.2 /hr",
+      "$ 5.0 /hr",
+      "$ 6.4 /hr",
+      "$ 10.0 /hr",
+      "$ 12.8 /hr",
+      "$ 20.0 /hr",
+      "$ 1.20 /hr",
+      "$ 1.60 /hr",
+      "$ 2.50 /hr",
+      "$ 3.2 /hr",
+      "$ 5.0 /hr",
+      "$ 6.4 /hr",
+      "$ 10.0 /hr",
+      "$ 12.8 /hr",
+      "$ 20.0 /hr"
+    ],
+    "removed": [
+      "$ 1.55 /hr",
+      "$ 2.0 /hr",
+      "$ 3.30 /hr",
+      "$ 4.0 /hr",
+      "$ 6.60 /hr",
+      "$ 8.0 /hr",
+      "$ 13.20 /hr",
+      "$ 16.0 /hr",
+      "$ 26.4 /hr",
+      "$ 1.55 /hr",
+      "$ 2.0 /hr",
+      "$ 3.30 /hr",
+      "$ 4.0 /hr",
+      "$ 6.60 /hr",
+      "$ 8.0 /hr",
+      "$ 13.20 /hr",
+      "$ 16.0 /hr",
+      "$ 26.4 /hr"
+    ],
+    "totals": {
+      "removed": 22,
+      "added": 22,
+      "materialRemoved": 22,
+      "materialAdded": 22
+    }
+  },
+  {
+    "id": "koyeb-com-pricing-20260119183438",
+    "url": "https://www.koyeb.com/pricing",
+    "ts": "20260119183438",
+    "date": "2026-01-19",
+    "source": "wayback",
+    "prevTs": "20251213191456",
+    "kind": "price",
+    "score": 66,
+    "counts": {
+      "price": 12,
+      "limit": 15,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Koyeb: 12 prices, 15 limits changed (added “$ 2.20 /hr”)",
+    "pairs": [],
+    "added": [
+      "$ 2.20 /hr",
+      "220GB",
+      "240GB",
+      "$ 3.00 /hr",
+      "240GB",
+      "320GB",
+      "$ 5.50 /hr",
+      "240GB",
+      "320GB",
+      "$ 6.0 /hr",
+      "480GB",
+      "640GB",
+      "$ 12.0 /hr",
+      "960GB",
+      "1280GB",
+      "$ 24.0 /hr",
+      "1920GB",
+      "2560GB",
+      "96GB VRAM",
+      "220GB",
+      "240GB",
+      "$ 2.20 /hr",
+      "141GB VRAM",
+      "240GB",
+      "320GB",
+      "$ 3.00 /hr",
+      "180GB VRAM",
+      "240GB",
+      "320GB",
+      "$ 5.50 /hr",
+      "282GB VRAM",
+      "480GB",
+      "640GB",
+      "$ 6.0 /hr",
+      "564GB VRAM",
+      "960GB",
+      "1280GB",
+      "$ 12.0 /hr",
+      "1128GB VRAM",
+      "1920GB"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 72,
+      "materialRemoved": 0,
+      "materialAdded": 42
+    }
+  },
+  {
+    "id": "koyeb-com-pricing-20260204140112",
+    "url": "https://www.koyeb.com/pricing",
+    "ts": "20260204140112",
+    "date": "2026-02-04",
+    "source": "wayback",
+    "prevTs": "20260119183438",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Koyeb: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "koyeb-com-docs-faqs-pricing-20260208003057",
+    "url": "https://www.koyeb.com/docs/faqs/pricing",
+    "ts": "20260208003057",
+    "date": "2026-02-08",
+    "source": "wayback",
+    "prevTs": "20250824081222",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Koyeb: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 15,
+      "added": 30,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "koyeb-com-docs-faqs-pricing-20260308193009",
+    "url": "https://www.koyeb.com/docs/faqs/pricing",
+    "ts": "20260308193009",
+    "date": "2026-03-08",
+    "source": "wayback",
+    "prevTs": "20260208003057",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Koyeb: 2 prices changed (5 → 100)",
+    "pairs": [
+      {
+        "before": "We let you use 5 custom domains for free on the Starter plan, 100 custom domains for free in the Pro plan, and up to 500 custom domains in the Scale plan. Additional custom domains are not charged yet, but will be $0.20/month. We will notify you ahead of time once we begin charging for additional custom domains.",
+        "after": "We let you use 100 custom domains for free in the Pro plan and up to 500 custom domains in the Scale plan. Additional custom domains are not charged yet, but will be $0.20/month. We will notify you ahead of time once we begin charging for additional custom domains.",
+        "confidence": 0.96,
+        "deltas": [
+          {
+            "before": "5",
+            "after": "100"
+          },
+          {
+            "before": "100",
+            "after": "500"
+          },
+          {
+            "before": "500",
+            "after": "$0.20"
+          },
+          {
+            "before": "$0.20",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "Larger instances are available through the paid plans, starting from the Starter plan that has a pay-per-use cost, with $1 of compute usage included each month.",
+      "We require a credit card to prevent fraud and abuse. You will not be charged as long as you only use the free resources and do not switch to a paid plan."
+    ],
+    "totals": {
+      "removed": 32,
+      "added": 153,
+      "materialRemoved": 6,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "koyeb-com-pricing-20260310040000",
+    "url": "https://www.koyeb.com/pricing",
+    "ts": "20260310040000",
+    "date": "2026-03-10",
+    "source": "wayback",
+    "prevTs": "20260204140112",
+    "kind": "price",
+    "score": 17,
+    "counts": {
+      "price": 3,
+      "limit": 2,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Koyeb: 3 prices, 2 limits, 2 plan names changed (removed “$ 0 /mo”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Start for free. Pay only for what you use. Add support plans and capacity.",
+      "$ 0 /mo",
+      "For individuals. Pay-per-use by the second after the free tier, perfect for small apps.",
+      "Generous Free Tier",
+      "Start for free",
+      "$ 0 /mo",
+      "$1",
+      "100GB/mo",
+      "1 day",
+      "1 day",
+      "No, you can start using Koyeb without adding a payment method on the Hobby plan. With the Hobby plan, you can run one Web Service and Database for free.",
+      "The free Web Service comes with 512MB memory and can be deployed in Europe or US. The free database Service includes 50 hours of usage every month and can be deployed in Europe, US, or Asia.",
+      "Is the Starter plan really free?",
+      "Yes, the Starter plan is free and includes a free tier composed of one Web Service, one Database services, and 5 custom domains."
+    ],
+    "totals": {
+      "removed": 32,
+      "added": 4,
+      "materialRemoved": 15,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "koyeb-com-pricing-20260611162152",
+    "url": "https://www.koyeb.com/pricing",
+    "ts": "20260611162152",
+    "date": "2026-06-11",
+    "source": "wayback",
+    "prevTs": "20260310040000",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Koyeb: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "koyeb-com-docs-faqs-pricing-20260614195253",
+    "url": "https://www.koyeb.com/docs/faqs/pricing",
+    "ts": "20260614195253",
+    "date": "2026-06-14",
+    "source": "wayback",
+    "prevTs": "20260308193009",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Koyeb: 3 prices changed ($1 → $29)",
+    "pairs": [
+      {
+        "before": "We verify the card you enter by placing a $1 hold and immediately canceling the hold. Depending on your card issuer, the original charge will disappear immediately, or after between 7 and 21 days. We have no control over the release speed here as it depends on your card and bank.",
+        "after": "We verify the card you enter by placing a $29 pre-authorization hold and immediately canceling it. Depending on your card issuer, the hold will disappear immediately, or after between 7 and 21 days. We have no control over the release speed here as it depends on your card and bank.",
+        "confidence": 0.87,
+        "deltas": [
+          {
+            "before": "$1",
+            "after": "$29"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Yes. Right after we place the $29 pre-authorization hold"
+    ],
+    "removed": [
+      "When you enter your credit card, we place a $1 USD transaction hold to verify your card and ensure funds are available. We immediately cancel this hold after this verification is complete.",
+      "Once your card has passed this payment authorization process, you will be ready to access the platform and its resources. You start accruing charges after your resource usage surpasses the free allowances."
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 6,
+      "materialRemoved": 3,
+      "materialAdded": 2
+    }
+  }
+]

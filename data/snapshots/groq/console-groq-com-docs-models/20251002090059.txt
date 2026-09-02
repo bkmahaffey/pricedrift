@@ -1,0 +1,218 @@
+Docs
+Login
+Log In
+Documentation
+Search
+Docs
+Get Started
+Overview
+Quickstart
+OpenAI Compatibility
+Responses API
+Models
+Rate Limits
+Examples
+Features
+Text Generation
+Speech to Text
+Text to Speech
+Images and Vision
+Reasoning
+Structured Outputs
+Built-In Tools
+Web Search
+Browser Search
+Visit Website
+Browser Automation
+Code Execution
+Wolfram Alpha
+Compound
+Overview
+Systems
+Compound
+Compound Mini
+Built-In Tools
+Use Cases
+Advanced Features
+Batch Processing
+Flex Processing
+Content Moderation
+Prefilling
+Tool Use
+Remote MCP
+LoRA Inference
+Prompting Guide
+Prompt Basics
+Prompt Patterns
+Model Migration
+Prompt Caching
+Production Readiness
+Optimizing Latency
+Production Checklist
+Developer Resources
+Groq Libraries
+Groq Badge
+Integrations Catalog
+Console
+Spend Limits
+Projects
+Model Permissions
+Billing FAQs
+Your Data
+Support & Guidelines
+Developer Community
+Errors
+Changelog
+Compound Systems
+Policies & Notices
+Search
+Supported Models
+Explore all available models on GroqCloud.
+Featured Models and Systems
+Groq Compound
+Groq Compound is an AI system powered by openly available models that intelligently and selectively uses built-in tools to answer user queries, including web search and code execution.
+Token Speed
+~450 tps
+Modalities
+Capabilities
+OpenAI GPT-OSS 120B
+GPT-OSS 120B is OpenAI's flagship open-weight language model with 120 billion parameters, built in browser search and code execution, and reasoning capabilities.
+Token Speed
+~500 tps
+Modalities
+Capabilities
+Production Models
+Note: Production models are intended for use in your production environments. They meet or exceed our high standards for speed, quality, and reliability. Read more here
+.
+MODEL ID
+DEVELOPER
+CONTEXT WINDOW (TOKENS)
+MAX COMPLETION TOKENS
+MAX FILE SIZE
+DETAILS
+llama-3.1-8b-instant
+Meta
+131,072
+-
+Details
+llama-3.3-70b-versatile
+Meta
+131,072
+32,768
+-
+Details
+meta-llama/llama-guard-4-12b
+Meta
+131,072
+1,024
+20 MB
+Details
+openai/gpt-oss-120b
+OpenAI
+131,072
+65,536
+-
+Details
+openai/gpt-oss-20b
+OpenAI
+131,072
+65,536
+-
+Details
+whisper-large-v3
+OpenAI
+-
+100 MB
+Details
+whisper-large-v3-turbo
+OpenAI
+-
+100 MB
+Details
+Production Systems
+Systems are a collection of models and tools that work together to answer a user query.
+MODEL ID
+DEVELOPER
+CONTEXT WINDOW (TOKENS)
+MAX COMPLETION TOKENS
+MAX FILE SIZE
+DETAILS
+groq/compound
+Groq
+131,072
+8,192
+-
+Details
+groq/compound-mini
+Groq
+131,072
+8,192
+-
+Details
+Learn More About Agentic Tooling
+Discover how to build powerful applications with real-time web search and code execution
+Preview Models
+Note: Preview models are intended for evaluation purposes only and should not be used in production environments as they may be discontinued at short notice. Read more about deprecations here
+.
+MODEL ID
+DEVELOPER
+CONTEXT WINDOW (TOKENS)
+MAX COMPLETION TOKENS
+MAX FILE SIZE
+DETAILS
+meta-llama/llama-4-maverick-17b-128e-instruct
+Meta
+131,072
+8,192
+20 MB
+Details
+meta-llama/llama-4-scout-17b-16e-instruct
+Meta
+131,072
+8,192
+20 MB
+Details
+meta-llama/llama-prompt-guard-2-22m
+Meta
+512
+-
+Details
+meta-llama/llama-prompt-guard-2-86m
+Meta
+512
+-
+Details
+moonshotai/kimi-k2-instruct-0905
+Moonshot AI
+262,144
+16,384
+-
+Details
+playai-tts
+PlayAI
+8,192
+-
+Details
+playai-tts-arabic
+PlayAI
+8,192
+-
+Details
+qwen/qwen3-32b
+Alibaba Cloud
+131,072
+40,960
+-
+Details
+Deprecated Models
+Deprecated models are models that are no longer supported or will no longer be supported in the future. See our deprecation guidelines and deprecated models here
+.
+Get All Available Models
+Hosted models are directly accessible through the GroqCloud Models API endpoint using the model IDs mentioned above. You can use the https://api.groq.com/openai/v1/models endpoint to return a JSON list of all active models:
+shell
+curl -X GET "https://api.groq.com/openai/v1/models" \ -H "Authorization: Bearer $GROQ_API_KEY " \ -H "Content-Type: application/json"
+Was this page helpful?
+Yes
+No
+Suggest Edits
+On this page

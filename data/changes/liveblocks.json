@@ -1,0 +1,807 @@
+[
+  {
+    "id": "liveblocks-io-pricing-20230330171339",
+    "url": "https://liveblocks.io/pricing",
+    "ts": "20230330171339",
+    "date": "2023-03-30",
+    "source": "wayback",
+    "prevTs": "20230127184104",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Liveblocks: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 11,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "liveblocks-io-pricing-20230602043919",
+    "url": "https://liveblocks.io/pricing",
+    "ts": "20230602043919",
+    "date": "2023-06-02",
+    "source": "wayback",
+    "prevTs": "20230330171339",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Liveblocks: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "Conflict-free data types"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 35,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "liveblocks-io-pricing-20231125145203",
+    "url": "https://liveblocks.io/pricing",
+    "ts": "20231125145203",
+    "date": "2023-11-25",
+    "source": "wayback",
+    "prevTs": "20230602043919",
+    "kind": "price",
+    "score": 33,
+    "counts": {
+      "price": 8,
+      "limit": 3,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Liveblocks: 8 prices, 3 limits, 2 plan names changed (removed “1 seat”; added “$99 / month 250 MCUs included”)",
+    "pairs": [],
+    "added": [
+      "$99 / month 250 MCUs included",
+      "Then $0.40 for each additional MCU",
+      "Enable your users to share feedback in your product. Add to any Pro plan for $199/month.",
+      "Try it for free",
+      "Free",
+      "$99/month",
+      "$0.40 per user",
+      "Unlimited",
+      "$199/month",
+      "Monthly Collaborating Users (MCUs) is the number of users that connect to Liveblocks rooms in a given month where at least another user connected to in the last 30 days.",
+      "This userId generally comes from your database or your authentification provider. One unique userId corresponds to one user, whether they connected to a room 1 day for 5 minutes or kept coming back every day for 8 hours."
+    ],
+    "removed": [
+      "Free no credit card required",
+      "1 seat",
+      "$ 2 0 1 2 3 4 5 6 7 8 9,",
+      "200 MAUs",
+      "Unlimited seats",
+      "$ 2 0 1 2 3 4 5 6 7 8 9,",
+      "2,000 MAUs",
+      "Unlimited seats",
+      "Unlimited",
+      "Conflict-free data types"
+    ],
+    "totals": {
+      "removed": 68,
+      "added": 77,
+      "materialRemoved": 12,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "liveblocks-io-pricing-20240225180651",
+    "url": "https://liveblocks.io/pricing",
+    "ts": "20240225180651",
+    "date": "2024-02-25",
+    "source": "wayback",
+    "prevTs": "20231125145203",
+    "kind": "price",
+    "score": 10,
+    "counts": {
+      "price": 3,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Liveblocks: 3 prices, 1 limit changed (removed “Enable your users to share feedback in your p…”; added “Get 10,000 comments per month on the Pro plan…”)",
+    "pairs": [],
+    "added": [
+      "Get 10,000 comments per month on the Pro plan for $199/month."
+    ],
+    "removed": [
+      "Enable your users to share feedback in your product. Add to any Pro plan for $199/month.",
+      "Try it for free",
+      "$199/month",
+      "Monthly Collaborating Users (MCUs) is the number of users that connect to Liveblocks rooms in a given month where at least another user connected to in the last 30 days."
+    ],
+    "totals": {
+      "removed": 17,
+      "added": 12,
+      "materialRemoved": 4,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "liveblocks-io-pricing-20240625014253",
+    "url": "https://liveblocks.io/pricing",
+    "ts": "20240625014253",
+    "date": "2024-06-25",
+    "source": "wayback",
+    "prevTs": "20240225180651",
+    "kind": "price",
+    "score": 42,
+    "counts": {
+      "price": 11,
+      "limit": 4,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Liveblocks: 11 prices, 4 limits, 1 plan name changed ($0.40 → $0.23; $99 → $230)",
+    "pairs": [
+      {
+        "before": "Then $0.40 for each additional MCU",
+        "after": "Then $0.23 for each additional MAU",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$0.40",
+            "after": "$0.23"
+          }
+        ]
+      },
+      {
+        "before": "$99/month",
+        "after": "$230/month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$99",
+            "after": "$230"
+          }
+        ]
+      },
+      {
+        "before": "$0.40 per user",
+        "after": "$0.23 per user",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.40",
+            "after": "$0.23"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Start building for free",
+      "$ 2 0 1 2 3 4 5 6 7 8 9,",
+      "/ month 1,000 MAU included",
+      "$ 30 / mo",
+      "$ 20 / mo",
+      "$ 80 / mo",
+      "$ 80 / mo",
+      "$ 2 0 1 2 3 4 5 6 7 8 9,",
+      "/ month For 1,000 MAU",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "256 MB",
+      "8 GB",
+      "Conflict-free data store",
+      "256 MB",
+      "8 GB"
+    ],
+    "removed": [
+      "Get started for free",
+      "$99 / month 250 MCUs included",
+      "Get 10,000 comments per month on the Pro plan for $199/month.",
+      "Unlimited",
+      "This userId generally comes from your database or your authentification provider. One unique userId corresponds to one user, whether they connected to a room 1 day for 5 minutes or kept coming back every day for 8 hours."
+    ],
+    "totals": {
+      "removed": 55,
+      "added": 134,
+      "materialRemoved": 9,
+      "materialAdded": 22
+    }
+  },
+  {
+    "id": "liveblocks-io-pricing-20240909044932",
+    "url": "https://liveblocks.io/pricing",
+    "ts": "20240909044932",
+    "date": "2024-09-09",
+    "source": "wayback",
+    "prevTs": "20240625014253",
+    "kind": "price",
+    "score": 23,
+    "counts": {
+      "price": 6,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Liveblocks: 6 prices, 3 limits changed ($0.23 → 1,000; $230 → $200)",
+    "pairs": [
+      {
+        "before": "Then $0.23 for each additional MAU",
+        "after": "1,000 MAU included, then $0.20 for each",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "$0.23",
+            "after": "1,000"
+          },
+          {
+            "before": null,
+            "after": "$0.20"
+          }
+        ]
+      },
+      {
+        "before": "$230/month",
+        "after": "$200/month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$230",
+            "after": "$200"
+          }
+        ]
+      },
+      {
+        "before": "$0.23 per user",
+        "after": "$0.2 per user",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.23",
+            "after": "$0.2"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Companies of all types and sizes use Liveblocks. Pricing scales to support your usage, whether you have 100 or 100M users.",
+      "$ 60 / mo",
+      "Custom Up to 100M MAU",
+      "Volume discounts starts at 25,000 MAU"
+    ],
+    "removed": [
+      "$ 20 / mo",
+      "$ 2 0 1 2 3 4 5 6 7 8 9,",
+      "/ month For 1,000 MAU",
+      "8 GB"
+    ],
+    "totals": {
+      "removed": 29,
+      "added": 14,
+      "materialRemoved": 9,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "liveblocks-io-pricing-20241127003116",
+    "url": "https://liveblocks.io/pricing",
+    "ts": "20241127003116",
+    "date": "2024-11-27",
+    "source": "wayback",
+    "prevTs": "20240909044932",
+    "kind": "price",
+    "score": 54,
+    "counts": {
+      "price": 13,
+      "limit": 7,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Liveblocks: 13 prices, 7 limits, 1 plan name changed (100 → 50; 1,000 → 6,000)",
+    "pairs": [
+      {
+        "before": "Companies of all types and sizes use Liveblocks. Pricing scales to support your usage, whether you have 100 or 100M users.",
+        "after": "Companies of all types and sizes use Liveblocks. Pricing scales to support your usage, whether you have 50 or 100M users.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100",
+            "after": "50"
+          }
+        ]
+      },
+      {
+        "before": "/ month 1,000 MAU",
+        "after": "/ month 6,000 MAU",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1,000",
+            "after": "6,000"
+          }
+        ]
+      },
+      {
+        "before": "$200/month",
+        "after": "$720/month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$200",
+            "after": "$720"
+          }
+        ]
+      },
+      {
+        "before": "$0.2 per user",
+        "after": "$0.12 per user",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.2",
+            "after": "$0.12"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free 50 MAU",
+      "$ 7 0 1 2 3 4 5 6 7 8 9,",
+      "$ 360 / mo",
+      "$ 180 / mo",
+      "$ 480 / mo",
+      "$ 480 / mo",
+      "100 MB",
+      "10 GB",
+      "Unlimited",
+      "5 MB",
+      "50 MB"
+    ],
+    "removed": [
+      "Free Up to 100 MAU",
+      "$ 2 0 1 2 3 4 5 6 7 8 9,",
+      "1,000 MAU included, then $0.20 for each",
+      "$ 60 / mo",
+      "$ 30 / mo",
+      "$ 80 / mo",
+      "$ 80 / mo",
+      "Volume discounts starts at 25,000 MAU",
+      "Unlimited",
+      "8 GB",
+      "This userId generally comes from your database or your authentification provider. One unique userId corresponds to one user, whether they connected to a room 1 day for 5 minutes or kept coming back every day for 8 hours."
+    ],
+    "totals": {
+      "removed": 40,
+      "added": 36,
+      "materialRemoved": 15,
+      "materialAdded": 15
+    }
+  },
+  {
+    "id": "liveblocks-io-pricing-20250108144445",
+    "url": "https://liveblocks.io/pricing",
+    "ts": "20250108144445",
+    "date": "2025-01-08",
+    "source": "wayback",
+    "prevTs": "20241127003116",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Liveblocks: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 15,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "liveblocks-io-pricing-20250207110058",
+    "url": "https://liveblocks.io/pricing",
+    "ts": "20250207110058",
+    "date": "2025-02-07",
+    "source": "wayback",
+    "prevTs": "20250108144445",
+    "kind": "price",
+    "score": 5,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Liveblocks: 1 price, 1 limit changed (6,000 → 1,000; $0.12 → $0.24)",
+    "pairs": [
+      {
+        "before": "/ month 6,000 MAU",
+        "after": "/ month 1,000 MAU",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "6,000",
+            "after": "1,000"
+          }
+        ]
+      },
+      {
+        "before": "$0.12 per user",
+        "after": "$0.24 per user",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.12",
+            "after": "$0.24"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "liveblocks-io-pricing-20250521235051",
+    "url": "https://liveblocks.io/pricing",
+    "ts": "20250521235051",
+    "date": "2025-05-21",
+    "source": "wayback",
+    "prevTs": "20250207110058",
+    "kind": "price",
+    "score": 31,
+    "counts": {
+      "price": 7,
+      "limit": 1,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Liveblocks: 7 prices, 1 limit, 4 plan names changed (removed “$ 7 0 1 2 3 4 5 6 7 8 9,”; added “$0 No credit card required”)",
+    "pairs": [],
+    "added": [
+      "Free forever",
+      "$0 No credit card required",
+      "First day free",
+      "Only pay for returning users. New users are free, and you’re only charged if they come back on a different day.",
+      "First day free",
+      "8 GB",
+      "8 GB",
+      "What is “first day free”?"
+    ],
+    "removed": [
+      "$ 7 0 1 2 3 4 5 6 7 8 9,",
+      "$ 360 / mo",
+      "$ 480 / mo",
+      "$ 480 / mo",
+      "Free",
+      "$720/month",
+      "$0.24 per user",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 62,
+      "added": 53,
+      "materialRemoved": 15,
+      "materialAdded": 12
+    }
+  },
+  {
+    "id": "liveblocks-io-pricing-20250621104659",
+    "url": "https://liveblocks.io/pricing",
+    "ts": "20250621104659",
+    "date": "2025-06-21",
+    "source": "wayback",
+    "prevTs": "20250521235051",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Liveblocks: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Unlimited"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 22,
+      "added": 52,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "liveblocks-io-pricing-20260124080643",
+    "url": "https://liveblocks.io/pricing",
+    "ts": "20260124080643",
+    "date": "2026-01-24",
+    "source": "wayback",
+    "prevTs": "20250621104659",
+    "kind": "price",
+    "score": 63,
+    "counts": {
+      "price": 12,
+      "limit": 8,
+      "plan": 6
+    },
+    "material": true,
+    "headline": "Liveblocks: 12 prices, 8 limits, 6 plan names changed (removed “Companies of all types and sizes use Livebloc…”; added “$ 30 / month + usage”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "Get started for free",
+      "$ 30 / month + usage",
+      "Everything in Free, plus:",
+      "Unlimited version history add-on",
+      "then $0.03 per room",
+      "$ 600 / month + usage",
+      "then $0.03 per room",
+      "500 included then $0.03 per room",
+      "Unlimited",
+      "Unlimited",
+      "Conflict-free data (CRDT)",
+      "8 GB included then $0.15 per GB",
+      "Unlimited version history Add-on",
+      "$100/month",
+      "Unlimited",
+      "Unlimited",
+      "30,000 events included then $0.001 per event",
+      "3 included then $10 per additional seat",
+      "512 MB included",
+      "100 GB included then $0.021 per GB",
+      "1 GB",
+      "500 GB",
+      "24 hours",
+      "7 days",
+      "30 days",
+      "$350/month"
+    ],
+    "removed": [
+      "Companies of all types and sizes use Liveblocks. Pricing scales to support your usage, whether you have 50 or 100M users.",
+      "Free forever",
+      "Start today for free",
+      "Up to 50 MAU",
+      "$180 per month/product",
+      "Up to 100M MAU",
+      "First day free",
+      "Only pay for returning users. New users are free, and you’re only charged if they come back.",
+      "First day free",
+      "Unlimited",
+      "100 MB",
+      "10 GB",
+      "5 MB",
+      "8 GB",
+      "Conflict-free data store",
+      "256 MB",
+      "8 GB",
+      "Unlimited",
+      "What is “first day free”?"
+    ],
+    "totals": {
+      "removed": 151,
+      "added": 230,
+      "materialRemoved": 23,
+      "materialAdded": 31
+    }
+  },
+  {
+    "id": "liveblocks-io-pricing-20260411202240",
+    "url": "https://liveblocks.io/pricing",
+    "ts": "20260411202240",
+    "date": "2026-04-11",
+    "source": "wayback",
+    "prevTs": "20260124080643",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Liveblocks: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 13,
+      "added": 15,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "liveblocks-io-pricing-20260514010353",
+    "url": "https://liveblocks.io/pricing",
+    "ts": "20260514010353",
+    "date": "2026-05-14",
+    "source": "wayback",
+    "prevTs": "20260411202240",
+    "kind": "price",
+    "score": 55,
+    "counts": {
+      "price": 16,
+      "limit": 3,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Liveblocks: 16 prices, 3 limits, 1 plan name changed ($0 removed)",
+    "pairs": [
+      {
+        "before": "$ 0 / month no credit card required",
+        "after": "Free No credit card required",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "$0",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Annual 2 months free",
+      "Free monthly credits",
+      "$ 25 per month billed annually",
+      "$ 500 per month billed annually",
+      "$600 credits Save $100",
+      "$0.002 per minute",
+      "3M included",
+      "$1 per 1M updates",
+      "1 GB included",
+      "$0.15 per GB",
+      "$0.01 per comment",
+      "Unlimited",
+      "$0.01 per event",
+      "$0.15 per GB"
+    ],
+    "removed": [
+      "then $0.03 per room",
+      "then $0.03 per room",
+      "500 included then $0.03 per room",
+      "256 MB included",
+      "8 GB included then $0.15 per GB",
+      "Unlimited",
+      "1,000 events included",
+      "30,000 events included then $0.001 per event",
+      "100 GB included then $0.021 per GB"
+    ],
+    "totals": {
+      "removed": 73,
+      "added": 85,
+      "materialRemoved": 12,
+      "materialAdded": 17
+    }
+  },
+  {
+    "id": "liveblocks-io-pricing-20260601045720",
+    "url": "https://liveblocks.io/pricing",
+    "ts": "20260601045720",
+    "date": "2026-06-01",
+    "source": "wayback",
+    "prevTs": "20260514010353",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Liveblocks: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "liveblocks-io-pricing-20260708174358",
+    "url": "https://liveblocks.io/pricing",
+    "ts": "20260708174358",
+    "date": "2026-07-08",
+    "source": "wayback",
+    "prevTs": "20260601045720",
+    "kind": "price",
+    "score": 11,
+    "counts": {
+      "price": 2,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Liveblocks: 2 prices, 3 limits changed ($0.01 → $0.005)",
+    "pairs": [
+      {
+        "before": "$0.01 per event",
+        "after": "$0.005 per event",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.01",
+            "after": "$0.005"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "10 MB",
+      "50 MB",
+      "24 hours",
+      "30 days",
+      "90 days"
+    ],
+    "removed": [
+      "Unlimited version history add-on",
+      "Unlimited version history Add-on",
+      "$100/month",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 28,
+      "added": 31,
+      "materialRemoved": 5,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "liveblocks-io-pricing-20260902202107",
+    "url": "https://liveblocks.io/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260708174358",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Liveblocks: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 10,
+      "added": 10,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

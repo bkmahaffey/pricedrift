@@ -1,0 +1,846 @@
+[
+  {
+    "id": "stripe-com-pricing-20230305225510",
+    "url": "https://stripe.com/pricing",
+    "ts": "20230305225510",
+    "date": "2023-03-05",
+    "source": "wayback",
+    "prevTs": "20230101181851",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Stripe: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "stripe-com-pricing-20230505003706",
+    "url": "https://stripe.com/pricing",
+    "ts": "20230505003706",
+    "date": "2023-05-05",
+    "source": "wayback",
+    "prevTs": "20230305225510",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Stripe: 1 price changed ($249 → $349)",
+    "pairs": [
+      {
+        "before": "$59 Stripe Reader M2 $249 BBPOS WisePOS E",
+        "after": "$59 Stripe Reader M2 $349 Stripe Reader S700 $249 BBPOS WisePOS E",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$249",
+            "after": "$349"
+          },
+          {
+            "before": null,
+            "after": "700"
+          },
+          {
+            "before": null,
+            "after": "$249"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 52,
+      "added": 63,
+      "materialRemoved": 7,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "stripe-com-pricing-20230712190307",
+    "url": "https://stripe.com/pricing",
+    "ts": "20230712190307",
+    "date": "2023-07-12",
+    "source": "wayback",
+    "prevTs": "20230505003706",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Stripe: 3 prices changed (removed “10¢ per virtual card $3 per physical card”; added “$10 per month Learn more”)",
+    "pairs": [],
+    "added": [
+      "$10 per month Learn more",
+      "10¢ per virtual card $3.50 per standard, physical card* *Custom cards subject to additional pricing. Shipping rates not included. Learn more"
+    ],
+    "removed": [
+      "10¢ per virtual card $3 per physical card"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 8,
+      "materialRemoved": 3,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "stripe-com-pricing-20230901123842",
+    "url": "https://stripe.com/pricing",
+    "ts": "20230901123842",
+    "date": "2023-09-01",
+    "source": "wayback",
+    "prevTs": "20230712190307",
+    "kind": "price",
+    "score": 49,
+    "counts": {
+      "price": 16,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Stripe: 16 prices, 1 limit changed (removed “Accept payments and get sellers and contracto…”; added “$5.00 cap”)",
+    "pairs": [],
+    "added": [
+      "$5.00 cap",
+      "$2.00 cap per invoice",
+      "$2.00 cap per invoice",
+      "Micro-deposit verifications are free",
+      "$59.00 Stripe Reader M2",
+      "$349.00 Stripe Reader S700",
+      "$249.00 BBPOS WisePOS E",
+      "$3.50 per standard, physical card",
+      "From startups to Fortune 500s, explore how millions of businesses use Stripe to start and scale their companies."
+    ],
+    "removed": [
+      "Accept payments and get sellers and contractors paid in 30+ countries with a single platform. Use Standard Connect to add payments to your platform for free.",
+      "Radar helps detect and block fraud for any type of business by training with hundreds of billions of data points. Included for free as part of our integrated pricing.",
+      "ACH Direct Debit 0.8% $5.00 cap See more payment methods",
+      "0.4% on transaction total $2 cap per invoice See pricing details",
+      "0.4% on transaction total $2 cap per invoice See pricing details",
+      "$0.03 per transaction See pricing details",
+      "$0.50 per lookup",
+      "$0.10 Per successful API call",
+      "$0.30 Per institution per account holder per month",
+      "$59 Stripe Reader M2 $349 Stripe Reader S700 $249 BBPOS WisePOS E",
+      "10¢ per virtual card $3.50 per standard, physical card* *Custom cards subject to additional pricing. Shipping rates not included. Learn more"
+    ],
+    "totals": {
+      "removed": 166,
+      "added": 104,
+      "materialRemoved": 20,
+      "materialAdded": 18
+    }
+  },
+  {
+    "id": "stripe-com-pricing-20240303155932",
+    "url": "https://stripe.com/pricing",
+    "ts": "20240303155932",
+    "date": "2024-03-03",
+    "source": "wayback",
+    "prevTs": "20230901123842",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Stripe: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 22,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "stripe-com-pricing-20240502190354",
+    "url": "https://stripe.com/pricing",
+    "ts": "20240502190354",
+    "date": "2024-05-02",
+    "source": "wayback",
+    "prevTs": "20240303155932",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Stripe: 1 price changed (added “Starting at $10.00 per month, infrastructure fee”)",
+    "pairs": [],
+    "added": [
+      "Starting at $10.00 per month, infrastructure fee"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 12,
+      "added": 18,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "stripe-com-pricing-20240701011116",
+    "url": "https://stripe.com/pricing",
+    "ts": "20240701011116",
+    "date": "2024-07-01",
+    "source": "wayback",
+    "prevTs": "20240502190354",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Stripe: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 7,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "stripe-com-pricing-20240903232115",
+    "url": "https://stripe.com/pricing",
+    "ts": "20240903232115",
+    "date": "2024-09-03",
+    "source": "wayback",
+    "prevTs": "20240701011116",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 4,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Stripe: 4 prices changed (removed “$10.00 per month”; added “Pay monthly Starting at $620.00 per month, 1-…”)",
+    "pairs": [],
+    "added": [
+      "Pay monthly Starting at $620.00 per month, 1-year contract",
+      "Pay monthly Starting at $90.00 per month, 1-year contract"
+    ],
+    "removed": [
+      "$10.00 per month",
+      "$10.00 per month"
+    ],
+    "totals": {
+      "removed": 40,
+      "added": 37,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "stripe-com-pricing-20250205224001",
+    "url": "https://stripe.com/pricing",
+    "ts": "20250205224001",
+    "date": "2025-02-05",
+    "source": "wayback",
+    "prevTs": "20240903232115",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Stripe: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 21,
+      "added": 23,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "stripe-com-pricing-20250302123930",
+    "url": "https://stripe.com/pricing",
+    "ts": "20250302123930",
+    "date": "2025-03-02",
+    "source": "wayback",
+    "prevTs": "20250205224001",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Stripe: 1 price changed (added “$10.00 per month”)",
+    "pairs": [],
+    "added": [
+      "$10.00 per month"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 15,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "stripe-com-pricing-20250401060007",
+    "url": "https://stripe.com/pricing",
+    "ts": "20250401060007",
+    "date": "2025-04-01",
+    "source": "wayback",
+    "prevTs": "20250302123930",
+    "kind": "price",
+    "score": 10,
+    "counts": {
+      "price": 2,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Stripe: 2 prices, 2 limits changed (added “Try for free for 30 days”)",
+    "pairs": [],
+    "added": [
+      "for free.",
+      "Try for free for 30 days",
+      "$15.00 per dispute*",
+      "Try for free for 30 days",
+      "Try for free for 30 days",
+      "Try for free for 30 days",
+      "Get over $50K in discounts and perks."
+    ],
+    "removed": [
+      "In addition to our standard free payout options"
+    ],
+    "totals": {
+      "removed": 226,
+      "added": 312,
+      "materialRemoved": 12,
+      "materialAdded": 18
+    }
+  },
+  {
+    "id": "stripe-com-pricing-20250501003838",
+    "url": "https://stripe.com/pricing",
+    "ts": "20250501003838",
+    "date": "2025-05-01",
+    "source": "wayback",
+    "prevTs": "20250401060007",
+    "kind": "price",
+    "score": 8,
+    "counts": {
+      "price": 1,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Stripe: 1 price, 3 limits changed (removed “Try for free for 30 days”; added “Set and manage prices in multiple currencies …”)",
+    "pairs": [],
+    "added": [
+      "for free.",
+      "Set and manage prices in multiple currencies with rate locking for up to 24 hours."
+    ],
+    "removed": [
+      "for free.",
+      "Try for free for 30 days",
+      "Try for free for 30 days",
+      "Try for free for 30 days",
+      "Try for free for 30 days",
+      "Get over $50K in discounts and perks."
+    ],
+    "totals": {
+      "removed": 255,
+      "added": 215,
+      "materialRemoved": 15,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "stripe-com-pricing-20250602194159",
+    "url": "https://stripe.com/pricing",
+    "ts": "20250602194159",
+    "date": "2025-06-02",
+    "source": "wayback",
+    "prevTs": "20250501003838",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 6,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Stripe: 6 prices changed (added “Local bank payout $1.50 per payout”)",
+    "pairs": [],
+    "added": [
+      "Local bank payout $1.50 per payout",
+      "Debit card payout $1.50 per payout",
+      "$1.50 per payout",
+      "$15.00 per Visa resolution",
+      "$15.00 per Visa Compelling Evidence 3.0 block",
+      "$29.00 per Mastercard resolution"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 20,
+      "materialRemoved": 0,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "stripe-com-pricing-20250708053944",
+    "url": "https://stripe.com/pricing",
+    "ts": "20250708053944",
+    "date": "2025-07-08",
+    "source": "wayback",
+    "prevTs": "20250602194159",
+    "kind": "price",
+    "score": 7,
+    "counts": {
+      "price": 1,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Stripe: 1 price, 2 limits changed (added “Try for free for 30 days”)",
+    "pairs": [],
+    "added": [
+      "for free.",
+      "Try for free for 30 days",
+      "Try for free for 30 days",
+      "Try for free for 30 days",
+      "Try for free for 30 days",
+      "Get over $50K in discounts and perks."
+    ],
+    "removed": [
+      "for free."
+    ],
+    "totals": {
+      "removed": 210,
+      "added": 251,
+      "materialRemoved": 15,
+      "materialAdded": 20
+    }
+  },
+  {
+    "id": "stripe-com-pricing-20250801163500",
+    "url": "https://stripe.com/pricing",
+    "ts": "20250801163500",
+    "date": "2025-08-01",
+    "source": "wayback",
+    "prevTs": "20250708053944",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Stripe: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "stripe-com-pricing-20250901082437",
+    "url": "https://stripe.com/pricing",
+    "ts": "20250901082437",
+    "date": "2025-09-01",
+    "source": "wayback",
+    "prevTs": "20250801163500",
+    "kind": "price",
+    "score": 7,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Stripe: 2 prices, 1 limit changed (added “$25.00 per month”)",
+    "pairs": [],
+    "added": [
+      "$25.00 per month",
+      "Try for free for 30 days",
+      "Starting at $190.00 per month, 1-year contract"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 8,
+      "added": 15,
+      "materialRemoved": 0,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "stripe-com-pricing-20251001081758",
+    "url": "https://stripe.com/pricing",
+    "ts": "20251001081758",
+    "date": "2025-10-01",
+    "source": "wayback",
+    "prevTs": "20250901082437",
+    "kind": "price",
+    "score": 29,
+    "counts": {
+      "price": 9,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Stripe: 9 prices, 1 limit changed (removed “Starting at $10.00 per month, infrastructure fee”; added “$2.00 per wire”)",
+    "pairs": [],
+    "added": [
+      "$2.00 per wire",
+      "Local bank payout $1.50 per payout",
+      "Debit card payout $1.50 per payout",
+      "$1.50 per payout",
+      "$15.00 per month",
+      "Try for free for 30 days",
+      "Starting at $10.00 per month, 1-year contract",
+      "$65.00 per month",
+      "Try for free for 30 days",
+      "Starting at $50.00 per month, 1-year contract"
+    ],
+    "removed": [
+      "Starting at $10.00 per month, infrastructure fee"
+    ],
+    "totals": {
+      "removed": 39,
+      "added": 77,
+      "materialRemoved": 1,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "stripe-com-pricing-20251202170710",
+    "url": "https://stripe.com/pricing",
+    "ts": "20251202170710",
+    "date": "2025-12-02",
+    "source": "wayback",
+    "prevTs": "20251001081758",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Stripe: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 16,
+      "added": 8,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "stripe-com-pricing-20260202015303",
+    "url": "https://stripe.com/pricing",
+    "ts": "20260202015303",
+    "date": "2026-02-02",
+    "source": "wayback",
+    "prevTs": "20251202170710",
+    "kind": "price",
+    "score": 33,
+    "counts": {
+      "price": 11,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Stripe: 11 prices changed (added “$0.03 per 3D Secure attempt for accounts with…”)",
+    "pairs": [],
+    "added": [
+      "$0.03 per 3D Secure attempt for accounts with custom pricing.",
+      "+ $0.10 per authorization for Tap to Pay",
+      "+ $0.05 per authorization for optional point-to-point-encryption",
+      "$0.05 per screened transaction for accounts with custom pricing for any payment method",
+      "$0.02 per screened transaction for accounts with all payment methods on standard pricing",
+      "$0.07 per screened transaction for accounts with custom pricing for any payment method",
+      "$0.10 per virtual card",
+      "API integration $0.50 per transaction, where you’re registered to collect taxes",
+      "$0.10 per successful API call",
+      "$0.30 per institution per account holder per month",
+      "$0.50 per lookup"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 11,
+      "added": 11,
+      "materialRemoved": 0,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "stripe-com-pricing-20260301013903",
+    "url": "https://stripe.com/pricing",
+    "ts": "20260301013903",
+    "date": "2026-03-01",
+    "source": "wayback",
+    "prevTs": "20260202015303",
+    "kind": "price",
+    "score": 13,
+    "counts": {
+      "price": 4,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Stripe: 4 prices, 1 limit changed ($349.00 → $299.00)",
+    "pairs": [
+      {
+        "before": "$349.00 Stripe Reader S700",
+        "after": "$299.00 Stripe Reader S710",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$349.00",
+            "after": "$299.00"
+          },
+          {
+            "before": "700",
+            "after": "710"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$299.00 Stripe Reader S700",
+      "Unlimited cellular data usage on enabled readers. Apps on Device data usage limited to 10 GB per reader per month.",
+      "$10.00 per reader per month"
+    ],
+    "removed": [
+      "$249.00 BBPOS WisePOS E"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 15,
+      "materialRemoved": 2,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "stripe-com-pricing-20260401203216",
+    "url": "https://stripe.com/pricing",
+    "ts": "20260401203216",
+    "date": "2026-04-01",
+    "source": "wayback",
+    "prevTs": "20260301013903",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Stripe: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "stripe-com-pricing-20260501221426",
+    "url": "https://stripe.com/pricing",
+    "ts": "20260501221426",
+    "date": "2026-05-01",
+    "source": "wayback",
+    "prevTs": "20260401203216",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Stripe: 2 prices changed (added “$0.15 per SPT issued”)",
+    "pairs": [],
+    "added": [
+      "$0.15 per SPT issued",
+      "$0.018 per additional step"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 18,
+      "added": 32,
+      "materialRemoved": 2,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "stripe-com-pricing-20260701134229",
+    "url": "https://stripe.com/pricing",
+    "ts": "20260701134229",
+    "date": "2026-07-01",
+    "source": "wayback",
+    "prevTs": "20260501221426",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Stripe: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 20,
+      "added": 22,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "stripe-com-pricing-20260801121109",
+    "url": "https://stripe.com/pricing",
+    "ts": "20260801121109",
+    "date": "2026-08-01",
+    "source": "wayback",
+    "prevTs": "20260701134229",
+    "kind": "price",
+    "score": 14,
+    "counts": {
+      "price": 4,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Stripe: 4 prices, 1 limit changed (removed “Try for free for 30 days”; added “Included $100,000.00 billing allotment”)",
+    "pairs": [],
+    "added": [
+      "Included $100,000.00 billing allotment",
+      "Starting at $10.00 per month, cancel any time",
+      "features will continue to be available via Stripe's Meters API as part of Billing pricing, with up to 100M events per month included."
+    ],
+    "removed": [
+      "Try for free for 30 days",
+      "$0.02 per screened transaction for accounts with all payment methods on standard pricing",
+      "$0.07 per screened transaction for accounts with custom pricing for any payment method"
+    ],
+    "totals": {
+      "removed": 55,
+      "added": 62,
+      "materialRemoved": 14,
+      "materialAdded": 14
+    }
+  },
+  {
+    "id": "stripe-com-pricing-20260901172432",
+    "url": "https://stripe.com/pricing",
+    "ts": "20260901172432",
+    "date": "2026-09-01",
+    "source": "wayback",
+    "prevTs": "20260801121109",
+    "kind": "price",
+    "score": 22,
+    "counts": {
+      "price": 7,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Stripe: 7 prices, 1 limit changed (removed “Included $100,000.00 billing allotment”; added “2.9% + $0.30”)",
+    "pairs": [],
+    "added": [
+      "2.9% + $0.30",
+      "Standalone 3DS $0.12 per standalone 3DS attempt",
+      "Reach over 300M consumers worldwide.",
+      "$329.00 Stripe Reader T600",
+      "$0.04 per 1K ingest events",
+      "$0.03 per 1K standard data export",
+      "$0.05 per 1K premium data export"
+    ],
+    "removed": [
+      "Included $100,000.00 billing allotment"
+    ],
+    "totals": {
+      "removed": 32,
+      "added": 54,
+      "materialRemoved": 1,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "stripe-com-pricing-20260902202107",
+    "url": "https://stripe.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260901172432",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Stripe: 1 price changed (removed “2.9% + $0.30”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "2.9% + $0.30"
+    ],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

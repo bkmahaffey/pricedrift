@@ -1,0 +1,122 @@
+Pricing
+You only pay for what you use on Replicate, billed by the second. When you don’t run anything, it scales to zero and you don’t pay a thing.
+Hardware
+Price
+GPU
+CPU
+GPU RAM
+RAM
+CPU
+cpu
+$0.000100/sec
+$0.36/hr
+-
+4x
+-
+8GB
+Nvidia A100 (80GB) GPU
+gpu-a100-large
+$0.001400/sec
+$5.04/hr
+1x
+10x
+80GB
+144GB
+2x Nvidia A100 (80GB) GPU
+gpu-a100-large-2x
+$0.002800/sec
+$10.08/hr
+2x
+20x
+160GB
+288GB
+4x Nvidia A100 (80GB) GPU
+gpu-a100-large-4x
+$0.005600/sec
+$20.16/hr
+4x
+40x
+320GB
+576GB
+8x Nvidia A100 (80GB) GPU
+gpu-a100-large-8x
+$0.011200/sec
+$40.32/hr
+8x
+80x
+640GB
+960GB
+Nvidia A40 (Large) GPU
+gpu-a40-large
+$0.000725/sec
+$2.61/hr
+1x
+10x
+48GB
+72GB
+2x Nvidia A40 (Large) GPU
+gpu-a40-large-2x
+$0.001450/sec
+$5.22/hr
+2x
+20x
+96GB
+144GB
+4x Nvidia A40 (Large) GPU
+gpu-a40-large-4x
+$0.002900/sec
+$10.44/hr
+4x
+40x
+192GB
+288GB
+8x Nvidia A40 (Large) GPU
+gpu-a40-large-8x
+$0.005800/sec
+$20.88/hr
+8x
+48x
+384GB
+680GB
+Nvidia A40 GPU
+gpu-a40-small
+$0.000575/sec
+$2.07/hr
+1x
+4x
+48GB
+16GB
+Nvidia T4 GPU
+gpu-t4
+$0.000225/sec
+$0.81/hr
+1x
+4x
+16GB
+If you’re new to Replicate you can try featured models for free, but eventually you’ll need to enter a credit card.
+Public models
+Thousands of open-source machine learning models have been contributed by our community and more are added every day. When running or training one of these models, you only pay for time it takes to process your request.
+Each model runs on different hardware and takes a different amount of time to run. You’ll find estimates for how much they cost under "Run time and cost" on the model’s page. For example, for stability-ai/sdxl
+:
+This model costs approximately $0.012 to run on Replicate, but this varies depending on your inputs.
+Predictions run on Nvidia A40 (Large) GPU hardware, which costs $0.000725 per second. Predictions typically complete within 17 seconds.
+Image models
+Language models
+Replicate hosts a selection of language models, including Llama 3
+and Mistral
+which are priced per token.
+A language model processes text by breaking it into tokens, or pieces of words. Replicate uses the Llama tokenizer
+to calculate the number of tokens in text inputs and outputs once it's finished.
+Learn more about how language model pricing works.
+Private models
+You aren’t limited to the public models on Replicate: you can deploy your own custom models using Cog
+our open-source tool for packaging machine learning models.
+We automatically generate an API server for your model and deploy it on a big cluster of GPUs. If you get a ton of traffic, we automatically scale to handle the demand. If you don’t get any traffic, we scale down to zero and don’t charge you a thing.
+Unlike public models, you’ll pay for setup and idle time in addition to the time it spends processing your requests.
+Learn more
+For a deeper dive, check out how billing works on Replicate
+.
+🚀 Ready to use Replicate for real?
+Explore models to run
+or learn how to deploy a custom model
+.

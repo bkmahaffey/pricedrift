@@ -1,0 +1,390 @@
+#LAUNCHED Reimagining pricing: Axiom's new approach. Learn more →
+Event data pricing
+that grows with you,
+not against you
+Transparent, usage-based pricing with automatic discounts as you scale. Enable enterprise features instantly—no sales calls required.
+Sign up for free
+Compare plans ↓
+Powering event intelligence for 25,000+ engineering teams
+Pay-as-you-go pricing
+Pay only for what you consume—compute and storage align precisely with your actual usage, eliminating waste and unpredictable costs.
+Automatic volume discounts
+Your costs scale efficiently as data volumes grow, with automatic discounts that trigger at each tier—no negotiations or commitments required.
+Flexible deployment options
+Choose your path: Axiom Cloud for instant setup with usage-based pricing, or Bring Your Own Cloud for complete control with predictable annual costs.
+Axiom Cloud
+Get started
+Scale seamlessly from first
+deployment to enterprise scale,
+with no infrastructure to manage.
+Zero infrastructure management with
+instant setup and on-demand scaling
+Usage-based pricing after generous
+Always Free allowances
+Built-in optimizations that maximize
+performance while minimizing costs
+Enterprise features available on-
+demand—enable with a single click
+Starts at $25 per month
+with no minimum commitment
+Get started
+Data loading
+The process that prepares your data for fast queries, using compute credits based on volume. On Axiom Cloud, higher volumes lower the per-unit cost.
+Learn more ↓
+GB/mo
+0
+500GB
+1TB
+50TB
+500TB
+1PB
+Storage retention
+Determines how long data is stored. Billed monthly per GB of compressed data, with pricing based on your provider and region. Longer retention costs more, but 95% avg compression keeps it efficient. Learn more ↓
+mo
+0
+3 mo
+1 yr
+2 yr
+5 yr
+10 yr
+Enterprise add-ons
+Optional features like SSO, RBAC, and Audit Logs that enhance Axiom Cloud by adding security and control. Services and training are also available to maximize value. Learn more ↓
+Access Control (RBAC)
+Directory Sync
+Single Sign-On (SSO)
+Audit Log
+Pricing breakdown
+ITEM
+QUANTITY
+COST
+Platform fee
+$25
+Data loading
+1,000 GB
+1,000 GB FREE ┘
+$0
+Query compute
+For this estimate, we calculate query compute at 20% of your data loading volume. This ratio is typical for log management workloads, though your actual usage may vary based on query patterns and complexity.
+200 GB-hrs
+100 GB-hrs FREE ┘
+$0
+Storage
+This calculation assumes 'steady state' storage—the maximum cost scenario where you've reached your full retention period and older data expires at the same rate new data arrives. Your actual costs will gradually increase until reaching this level.
+50 GB
+100 GB FREE ┘
+$0
+Add-ons
+0
+$ 0
+RBAC: $50/mo
+SSO: $100/mo
+DirSync: $100/mo
+AuditLog: $50/mo
+EST. TOTAL
+$25
+/mo
+VIEW DETAILED BREAKDOWN ↓
+Personal
+Use free forever
+Experience Axiom's core capabilities with generous allowances. Perfect for developers, small projects, and evaluation. All with zero financial commitment and immediate access to powerful event intelligence features.
+Query, stream, monitor, and dashboard
+30-day data retention included
+No credit card needed, free forever
+Up to 500GB monthly data ingest
+Get started for free
+Bring Your Own Cloud
+Talk to sales
+Deploy Axiom in your own AWS account with full operational support from our cloud. Enjoy complete data ownership, predictable annual pricing, and leverage your existing cloud service provider.
+Transparent annual platform fee
+All enterprise features included
+Fully managed cloud infrastructure
+Direct cloud billing—no usage markup
+Talk to sales
+Compare pricing plans
+Find the perfect fit for your data needs, cloud size, and deployment preferences
+Personal
+Sign up for free →
+Axiom Cloud
+Start monitoring →
+Bring Your Own Cloud
+Talk to sales →
+Platform
+Billing cycle and commitment
+-
+Monthly
+Annual
+Always Free storage
+25 GB
+100 GB
+-
+Always Free data loading
+500 GB/mo
+1,000 GB/mo
+-
+Always Free query compute
+10 GB-hrs/mo
+100 GB-hrs/mo
+-
+Storage pricing
+-
+$0.030/GB
+Pay cloud provider directly
+Data loading compute
+-
+0.096 - 0.12 credits/GB *
+Pay cloud provider directly
+Query compute
+-
+0.12 - 0.2 credits/GB-hour *
+Pay cloud provider directly
+Configurable retention
+30 days maximum
+Datasets
+2
+100 - soft limit *
+2,500 - soft limit *
+Fields per dataset
+256
+1,024 - soft limit *
+4,096 - soft limit *
+Users
+1
+100 - soft limit *
+50,000 - soft limit *
+Monitors
+3
+500 - soft limit *
+20,000 - soft limit *
+Notifiers
+Email, Discord
+All
+Enterprise
+SAML Single Sign-On
+-
+Add-on ($100/mo)
+Included
+Directory Sync
+-
+Add-on ($100/mo)
+Included
+Role-Based Access Control
+-
+Add-on ($50/mo)
+Included
+Audit Logs
+-
+Add-on ($50/mo)
+Included
+Cost controls
+-
+Spend alerts
+-
+Support & Compliance
+Email support
+Email support SLA
+-
+Add-on
+Training
+-
+Add-on
+Named support engineer
+-
+Add-on
+Dedicated support engineer
+-
+Add-on
+SOC-2 & HIPAA reports
+-
+With NDA
+Axiom Cloud
+Start monitoring →
+Switch plan
+Platform
+Billing cycle and commitment
+Monthly
+Always Free storage
+100 GB
+Always Free data loading
+1,000 GB/mo
+Always Free query compute
+100 GB-hrs/mo
+Storage pricing
+$0.030/GB
+Data loading compute
+0.096 - 0.12 credits/GB *
+Query compute
+0.12 - 0.2 credits/GB-hour *
+Configurable retention
+Datasets
+100 - soft limit *
+Fields per dataset
+1,024 - soft limit *
+Users
+100 - soft limit *
+Monitors
+500 - soft limit *
+Notifiers
+All
+Enterprise
+SAML Single Sign-On
+Add-on ($100/mo)
+Directory Sync
+Add-on ($100/mo)
+Role-Based Access Control
+Add-on ($50/mo)
+Audit Logs
+Add-on ($50/mo)
+Cost controls
+Spend alerts
+Support & Compliance
+Email support
+Email support SLA
+Add-on
+Training
+Add-on
+Named support engineer
+Add-on
+Dedicated support engineer
+Add-on
+SOC-2 & HIPAA reports
+With NDA
+* Soft limits are in place to satisfy most organizations while protecting system integrity.
+They can be lifted on request.
+Automatic discounts
+as you scale
+Pay less per unit as usage grows—no negotiations, contracts, or complex commitments
+Data Loading Compute (GB/mo)
+All logs, traces, and events you ingest—priced in credits
+Volume Tier
+Usage @ Credit Rate
+Total Cost
+1 credit = $1 by default, lower with commitments
+$0
+/mo
+Query Compute (GB-hr/mo)
+Based on your data loading, we recommend 200 GB-hrs
+Query compute is the amount of compute used to query your data. Typical orgs use about 20% of Data Loading. Learn more ↓
+Volume Tier
+Usage @ Credit Rate
+Total Cost
+1 credit = $1 by default, lower with commitments
+$0
+/mo
+Storage (GB/mo)
+Based on data loading & retention, est usage:
+50 GB
+This estimate assumes 12 months of retention with Axiom's industry-leading 95% compression ratio, reducing your storage footprint by 20x compared to raw data volume.
+1 credit = $1 by default, lower with commitments
+Volume Tier
+Usage @ Credit Rate
+Total Cost
+1 credit = $1 by default, lower with commitments
+$0
+/mo
+Enterprise features available on-demand
+Role-Based
+Access Control
+$50 /mo
+Define granular permissions that control who can access what data and perform specific actions. Essential for organizations with multiple teams accessing shared resources.
+Audit Log
+$50 /mo
+Track and review all actions taken within your Axiom organization. Provides complete visibility for compliance requirements, security investigations, and operational monitoring.
+Single Sign-On
+(SAML SSO)
+$100 /mo
+Seamlessly authenticate users through your existing identity provider (IdP). Simplifies access management, enhances security, and streamlines the user experience for your entire organization.
+Directory Sync
+$100 /mo
+Automatically provision and manage users from your organizational directory. Ensures access stays in sync with your team changes, reducing manual user management and improving security.
+Common pricing questions
+Everything you need to know about Axiom pricing and plans
+General
+Plans & Deployment
+Compute & Storage
+Add-ons
+Cost Control
+Technical Limits
+Support & Services
+Does Axiom offer a free plan?
+Yes, Axiom Cloud offers a Personal plan with no charge. This includes an "Always Free" allowance of 500 GB of data loading per month, 10 GB-hours of query compute per month, and 25 GB of storage. This is ideal for hobbyists or small-scale usage.
+What are Axiom's deployment options?
+Axiom offers two primary deployment options:
+Axiom Cloud: A fully managed cloud service with usage-based pricing
+Bring Your Own Cloud (BYOC): Deploy Axiom in your own cloud environment with a predictable annual platform fee
+How is Axiom's pricing structured?
+Axiom's pricing has four main components:
+Platform fee: A base charge for using Axiom (monthly for Axiom Cloud, annually for BYOC)
+Compute: Charges for data loading and query operations (measured in compute credits)
+Storage: Charges for the compressed data you store
+Add-ons: Optional enterprise features available as additional purchases
+What happens if I exceed my included usage limits?
+For Axiom Cloud deployments, usage beyond your included allowances is billed at the rates specified in the pricing table. Axiom provides usage dashboards, alerts, and caps to help you monitor and control your spending.
+Can I upgrade or downgrade my plan?
+Yes, with Axiom Cloud you can adjust your usage and add-ons at any time. For BYOC deployments, platform fees are committed annually.
+How do I choose between Axiom Cloud and BYOC?
+Choose Axiom Cloud if you prefer quick setup, usage-based pricing, and don't need to keep data in your own cloud environment
+Choose BYOC if you require data isolation, have compliance requirements necessitating data storage in your environment, can benefit from your cloud provider's volume discounts, or have very large-scale workloads
+What cloud providers does Axiom support for BYOC deployments?
+Currently, BYOC deployments are exclusively available on Amazon Web Services (AWS). Support for other cloud providers is planned for H2 2025.
+What regions are available for Axiom Cloud deployments?
+Axiom Cloud offers deployments in both US and EU regions.
+Can I migrate from Axiom Cloud to BYOC later?
+Yes, Axiom can support migration between deployment options. The Axiom team can assist with this process. If you expect to require a migration, we recommend reaching out to our team in advance.
+What are compute credits?
+Compute credits are Axiom's consistent unit of measurement for compute resources. They apply to various operations including data loading and querying. You can purchase compute credits on demand or pre-purchase them at a discount.
+How does data loading compute work?
+When you send data to Axiom, it's processed and optimized. This processing is measured in compute credits based on the volume of data loaded. In Axiom Cloud, rates decrease as your volume grows. In BYOC, there is no charge by Axiom for data loading compute.
+How does query compute work?
+Queries in Axiom consume resources based on the memory allocated and the duration of the query. Axiom multiplies memory (in GB) by duration (in hours) to calculate usage. As with data loading, higher volumes qualify for reduced rates in Axiom Cloud, while BYOC has no charge by Axiom for query compute.
+How does storage pricing work?
+Axiom charges for storage based on the compressed size of your data, measured in gigabytes per month. Thanks to Axiom's industry-leading compression, customers typically enjoy a 95% reduction in storage footprint. With BYOC deployments, there's no charge by Axiom for storage (you pay your cloud provider directly).
+What is the "Always Free" allowance?
+The "Always Free" allowance for Axiom Cloud includes:
+1,000 GB/month of data loading compute
+100 GB-hours/month of query compute
+100 GB/month of storage
+The Personal plan includes a smaller allowance of 500 GB/month of data loading, 10 GB-hours/month of query compute, and 25 GB/month of storage.
+Do pre-purchased compute credits expire?
+No, pre-purchased compute credits do not expire as long as you remain an active Axiom customer. This policy ensures fairness if your usage patterns change or if you've pre-purchased more credits than initially needed. Credits remain associated with your organization and can be used at any time during your active subscription. However, credits cannot be transferred or refunded, and would be forfeited if your Axiom organization is terminated.
+What enterprise features are available as add-ons?
+For Axiom Cloud, the following enterprise features are available as add-ons:
+AML Single Sign-On (SSO): $100/month
+Directory Sync: $100/month
+Role-Based Access Control (RBAC): $50/month
+Audit Log: $50/month
+Are enterprise features included in BYOC deployments?
+Yes, all enterprise features (SAML SSO, Directory Sync, RBAC, Audit Log) are included in the platform fee for BYOC deployments.
+Can I access SOC-2 and HIPAA compliance reports?
+Yes, with an NDA. For Axiom Cloud, this requires a minimum annual spend. For BYOC deployments, these reports are available with an NDA regardless of spend.
+How can I monitor and control my Axiom costs?
+Axiom provides several tools to help you manage costs:
+Real-time usage information in your organization settings
+Custom alerts and notifications through Axiom's audit log dataset
+Usage caps and controls
+Billing thresholds that trigger invoices before the end of a billing cycle
+What is the Compute Credit Pre-Purchase Program?
+This program allows you to pre-purchase compute credits at a discount based on volume. Axiom Cloud includes automatic volume discounts—this program allows your organization to receive additional discounts for commitment. Pre-purchased credits do not expire and offer significant savings for predictable workloads:
+25,000-99,999 credits: $0.90 per credit (10% discount)
+100,000-249,999 credits: $0.85 per credit (15% discount)
+250,000-499,999 credits: $0.80 per credit (20% discount)
+500,000-999,999 credits: $0.75 per credit (25% discount)
+1,000,000+ credits: $0.70 per credit (30% discount)
+What are billing thresholds?
+Billing thresholds trigger invoices when your accrued usage reaches a specific monetary amount within a monthly billing cycle. For Axiom Cloud, this threshold is $1,000. This helps prevent unexpected costs at the end of the month.
+Are there limits to the number of datasets, users, or monitors I can create?
+Yes, Axiom has soft limits that can be increased upon request:
+Axiom Cloud: 1,000 users, 100 datasets, 1,024 fields per dataset, 500 monitors
+BYOC: 50,000 users, 2,500 datasets, 4,096 fields per dataset, 20,000 monitors
+What is the maximum retention period for my data?
+Retention is configurable based on your needs. You're billed for the actual storage consumed, so longer retention periods will increase your storage costs proportionally.
+What support options are available?
+All Axiom customers receive email support. BYOC deployments also include an email support SLA. Additional support options available for purchase include:
+Named support engineer
+Dedicated support engineer
+Training and professional services
+Does Axiom offer professional services?
+Yes, Axiom offers professional services to help with implementation, optimization, and training. These services are available at an additional cost. BYOC deployments include some training as part of the platform fee.
+Get started with Axiom
+Learn how to start ingesting, streaming, and querying data into Axiom in less than 10 minutes.
+Read the docs
+Launch playground →

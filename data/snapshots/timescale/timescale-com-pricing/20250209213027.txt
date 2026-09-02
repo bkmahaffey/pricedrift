@@ -1,0 +1,249 @@
+Timescale Pricing
+Discover the perfect plan to fuel your projects. Whether you're an early-stage startup or a growing enterprise, we've got the solution for you.
+Performance
+30-day free trial
+Best for cost-focused, smaller projects. No credit card required to start.
+Pay as you go, hourly
+Compute starts at
+$30 / month
+Storage priced at
+$0.177 / GB-month
+Effective storage price is
+based on 5x compression
+(average customer savings).
+Get started with:
+4 database services
+Up to 8 CPU and 32 GB memory per service
+Up to 16 TB disk storage per service
+High-availability replica
+Point-in-time-recovery to 3 days
+Performance Insights
+Basic support (9-5 ET)
+And more...
+Scale
+Most popular
+Best for developers handling critical applications. *
+Pay as you go, hourly
+Compute starts at
+$36 / month
+Storage priced at
+$0.212 / GB-month
+Effective storage price is
+based on 5x compression
+(average customer savings).
+Everything in Performance, plus:
+Unlimited database services
+Up to 32 CPU and 128 GB memory
+Tiered storage
+I/O Boost
+Read replicas
+Point-in-time-recovery up to 14 days
+Advanced monitoring
+And more...
+* Signups start with a free trial to Performance, but you can upgrade to Scale whenever you're ready.
+Enterprise
+Best for enterprises with mission-critical applications.
+Everything in Scale, plus:
+Production support included (24x7)
+Federated authentication
+Advanced compliance and security
+Integration and migration services
+Enterprise SLAs
+And more...
+Our view on pricing
+Compute
+Pay only for the compute resources you run, metered per hour. Scale compute up and down whenever you want, and scale out via replicas as your application grows. We even provide services to help you lower your compute needs while improving query performance.
+Storage
+Pay only for the storage you consume, metered as GB-hours. You have high-performance storage for more-accessed data, and tiered storage for low-cost, bottomless storage. And we can help you compress your data up to 10x (or more) so you pay even less.
+It’s that Simple
+You don't pay for backups or networking costs, such as data ingest or egress. There are no per-query fees, nor additional costs to read or write data. It's all completely transparent, easily understood, and up to you.
+Features
+Performance
+Pay as you go hourly
+Compute starts at $30/month
+Storage priced at $0.177/GB-month
+Effective storage price is
+based on 5x compression
+(average customer savings).
+Most popular Scale
+Pay as you go hourly
+Compute starts at $36/month
+Storage priced at $0.212/GB-month
+Effective storage price is
+based on 5x compression
+(average customer savings).
+Enterprise
+Contact us
+Number of database services
+Up to 4
+Unlimited
+CPU per service
+Up to 8 CPU
+Up to 32 CPU
+Memory per service
+Up to 32 GB
+Up to 128 GB
+Storage per service
+Up to 16 TB
+Tiered storage on S3
+Unlimited
+$0.021/GB-month
+Unlimited
+$0.021/GB-month
+Independently scale compute and storage
+Data services and workloads View less
+Relational
+Time-series
+Vector search
+AI workflows
+Cloud SQL editor
+3 seats included
+10 seats included
+20 seats included
+Charts
+Dashboards
+2
+Unlimited
+Storage performance View less
+IOPS (autoscales)
+3,000 - 5,000
+5,000 - 8,000
+Bandwidth (autoscales)
+125 - 250 Mbps
+250 - 500 Mbps
+I/O Boost
+Add-on:
+16K IOPS
+1000 Mbps BW
+Add-on:
+16K IOPS
+1000 Mbps BW
+Availability and monitoring View less
+High-availability replicas
+(Automated multi-AZ failover)
+1 HA replica
+Up to 2 HA replicas
+Read replicas
+Point-in-time recovery and forking
+3 days
+14 days
+Performance insights
+Metrics and log exporters
+Security and compliance View more
+End-to-end encryption
+Private Networking (VPC)
+1 multi-attach
+VPC
+Unlimited multi-attach
+VPCs
+Unlimited multi-attach
+VPCs
+Multi-factor authentication
+Federated authentication (SAML)
+SOC 2 Type 2 report
+HIPAA compliance
+Penetration testing report
+Security questionnaire and review
+Pay by invoice
+Available at
+minimum
+spend
+Available at minimum
+spend
+Standard
+Enterprise
+Support and technical services View more
+Community support
+Basic support (email)
+(24x7)
+Add-on
+Named account manager
+JOIN services (Jumpstart Onboarding and Integration)
+Available at minimum
+spend
+Performance
+Number of database services
+Up to 4
+CPU per service
+Up to 8 CPU
+Memory per service
+Up to 32 GB
+Storage per service
+Up to 16 TB
+Tiered storage on S3
+Independently scale compute and storage
+Data services and workloads
+Relational
+Time-series
+Vector search
+AI workflows
+Cloud SQL editor
+3 seats included
+Charts
+Dashboards
+2
+Storage performance
+IOPS (autoscales)
+3,000 - 5,000
+Bandwidth (autoscales)
+125 - 250 Mbps
+I/O Boost
+Availability and monitoring
+High-availability replicas
+(Automated multi-AZ failover)
+1 HA replica
+Read replicas
+Point-in-time recovery and forking
+3 days
+Performance insights
+Metrics and log exporters
+Security and compliance
+End-to-end encryption
+Private Networking (VPC)
+1 multi-attach
+VPC
+Multi-factor authentication
+Federated authentication (SAML)
+SOC 2 Type 2 report
+HIPAA compliance
+Penetration testing report
+Security questionnaire and review
+Pay by invoice
+Available at
+minimum
+spend
+Standard
+Support and technical services
+Community support
+Basic support (email)
+(24x7)
+Add-on
+Named account manager
+JOIN services (Jumpstart Onboarding and Integration)
+Frequently Asked Questions
+What do I get billed for?
+Timescale Cloud charges based on consumption. Compute is metered on an hourly basis, and you can scale it up and down at any time. Storage is metered based on your average GB consumption per hour; it grows and shrinks automatically with your data.
+So if at the end of the month, your database service has been running for 500 hours, of which 375 are with 2 CPU and 125 with 4 CPU, then your compute cost is (375 x hourly price for 2 CPU) + (125 * hourly price for 4 CPU). Your monthly price for storage is computed similarly. Certain add-on features may incur additional charges to increase functionality – such as HA replicas, IO Boost, Tiered Storage and Production Support.
+When will I be billed?
+You’ll be billed at the end of each month in arrears, based on your actual usage that month. Your monthly invoice will include an itemized cost accounting for each database service (compute and storage) and any additional charges (e.g., VPC peering, tiered storage, production support).
+Can I upgrade or downgrade my plan at any time?
+You can easily upgrade or downgrade or downgrade between the Performance and Scale plans whenever you want. If you switch your plan mid-month, your prices are pro-rated to when you switch. And your services won’t be interrupted if you switch, so you can keep working without any hassle.
+Is there a free trial of Timescale and its different tiers?
+Yes! We offer new users a free, 30-day trial period (no credit card required) of our Performance plan. During your trial, you can request more information about, and access to, our Scale plan to determine how it fits your needs. And once you become a paying user, we can make certain features of higher plans available to you for testing without upgrading your entire plan.
+How do I monitor my usage and costs?
+Your account console shows your resource usage and dashboards with performance insights, which allows you to closely monitor your services’ performance and any need to scale your services or upgrade your plan.
+Your console also shows your month-to-date accrued charges, as well as a forecast of your expected month-end bill. Your previous invoices are also available as PDFs for download in the console.
+How should I size my services?
+Compute requirements are highly dependent on the workload. TimescaleDB is very efficient and generally needs less compute than other databases to deliver the same performance (see our). The best way to size your needs is to signup for a free trial and to test with a realistic workload.
+You don’t need to worry about sizing storage. Timescale just charges by the actual storage used, unlike Amazon RDS or self-managed infrastructure where you pre-provision disk and pay for its allocation. As your data volume grows, we also autoscale its IOPS and storage bandwidth to meet those needs (at no additional cost within your plan’s range).
+Is there a limit on how much I can store?
+We make it easy for you to store unlimited amounts of data using Tiered Storage, which is comprised of a high-performance storage tier and a low-cost bottomless storage tier. You can keep up to 16 TB compressed (typically 80-100 TBs uncompressed) in the high-performance storage tier, and configure less-frequently accessed data to be moved to our low-cost storage tier built on S3.
+Do you charge differently between regions?
+Storage is priced the same across all regions, but compute prices will vary depending on the region. We do so because our cloud provider (AWS) prices infrastructure differently based on region.
+How much more does it cost to add database replicas?
+HA and read replicas are both charged at the same rate as your primary service, based on the compute and primary storage consumed by your replicas. Data tiered to our bottomless storage tier is shared by all database replicas; replicas accessing tiered storage will not add to your bill.
+Do all plans get support?
+Yes! We run a global support organization that covers all timezones, and is even fully staffed for weekend hours. Customer Satisfaction (CSAT) scores above 99%.
+All plans have free Developer Support, via email and with a target response time of 1 business day (although often faster). But if you need 24x7 responsiveness,
+Get started in seconds
+No credit card required • Free for 30 days

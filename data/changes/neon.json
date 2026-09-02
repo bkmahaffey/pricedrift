@@ -1,0 +1,776 @@
+[
+  {
+    "id": "neon-com-pricing-20250801183642",
+    "url": "https://neon.com/pricing",
+    "ts": "20250801183642",
+    "date": "2025-08-01",
+    "source": "wayback",
+    "prevTs": "20250530062614",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Neon: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Calling all startups: Apply to the Neon Startup program and get up to 100k in credits"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "neon-com-pricing-20250909204033",
+    "url": "https://neon.com/pricing",
+    "ts": "20250909204033",
+    "date": "2025-09-09",
+    "source": "wayback",
+    "prevTs": "20250801183642",
+    "kind": "price",
+    "score": 145,
+    "counts": {
+      "price": 31,
+      "limit": 21,
+      "plan": 5
+    },
+    "material": true,
+    "headline": "Neon: 31 prices, 21 limits, 5 plan names changed (10 → 20)",
+    "pairs": [
+      {
+        "before": "10 projects",
+        "after": "20 projects",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10",
+            "after": "20"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Get started for free. Pay per usage as you grow.",
+      "Free",
+      "50 CU-hours per project",
+      "Autoscaling up to 2 CU (2 vCPU, 8 GB RAM)",
+      "$5/month minimum",
+      "$0.14 per CU-hour compute",
+      "$0.35 per GB-month storage",
+      "Autoscaling up to 16 CU (16 vCPU, 64 GB RAM)",
+      "$5/month minimum",
+      "$0.26 per CU-hour compute",
+      "$0.35 per GB-month storage",
+      "Autoscaling up to 16 CU+ (56 vCPU, 224 GB RAM)",
+      "Get custom resource limits and credits for your free tier with our Agent Plan, for platforms provisioning thousands of databases.",
+      "Free",
+      "50 CU-hours Per Project",
+      "Up to 2 vCPU, 8 GB RAM",
+      "After 5 minutes when inactive",
+      "Free with limited window/size",
+      "Up to 6 hours or 1 GB of data changes",
+      "5 GB included",
+      "1 day",
+      "Usage-based, $5/mo min. Get started",
+      "$0.002 per branch-hour",
+      "$0.14 per CU-hour",
+      "Up to 16 vCPU, 64 GB RAM",
+      "After 5 minutes can be disabled",
+      "$0.35 per GB-month",
+      "$0.20 per GB-month based on volume of data changes during your selected restore window",
+      "Up to 7 days",
+      "100 GB included then $0.10 per GB",
+      "3 days",
+      "Usage-based, $5/mo min. Get started",
+      "$0.002 per branch-hour",
+      "$0.26 per CU-hour",
+      "Up to 56 vCPU, 224 GB RAM",
+      "$0.35 per GB-month",
+      "$0.20 per GB-month based on volume of data changes during your selected restore window",
+      "100 GB included then $0.10 per GB",
+      "$0.01 per GB",
+      "14 days"
+    ],
+    "removed": [
+      "Calling all startups: Apply to the Neon Startup program and get up to 100k in credits",
+      "Free Plan",
+      "Start for free",
+      "To kickstart your projects, no credit card required.",
+      "190 compute hours",
+      "Autoscaling up to 2 CU",
+      "From $ 19 /month",
+      "10 GB storage",
+      "300 compute hours",
+      "Autoscaling up to 4 CU",
+      "From $ 69 /month",
+      "50 GB storage",
+      "750 compute hours",
+      "Autoscaling up to 8 CU",
+      "From $ 700 /month",
+      "5,000 projects",
+      "500 GB storage",
+      "1000 compute hours",
+      "Growing your own startup? We offer special pricing and up to $100K in credits for startups and venture backed companies. Let us worry about scaling your database, so you can focus on growing your business.",
+      "Storage (monthly) GB-month = 1GB of storage for 1 month",
+      "Free Plan",
+      "From $19 /month Get started",
+      "10 GB-month",
+      "From $69 /month Get started",
+      "50 GB-month",
+      "From $700 /month Get started",
+      "500 GB-month",
+      "You can get a good idea by estimating how many hours your databases run, and at which compute size. For example: imagine you’re running a 2 CPU, 8 GB RAM database for 2 hours a day (or 62 hours per month). This equals [2 CU * 62 hours] = 124 compute hours per month.",
+      "you will set a maximum autoscaling limit (e.g. 2 CU) that will act as a de-facto cost limit.",
+      "Yes! Startups that have received venture funding can apply for up to $100K in credits to help them get started with Neon. Learn more and apply here"
+    ],
+    "totals": {
+      "removed": 107,
+      "added": 159,
+      "materialRemoved": 37,
+      "materialAdded": 57
+    }
+  },
+  {
+    "id": "neon-com-pricing-20251011110131",
+    "url": "https://neon.com/pricing",
+    "ts": "20251011110131",
+    "date": "2025-10-11",
+    "source": "wayback",
+    "prevTs": "20250909204033",
+    "kind": "limits",
+    "score": 7,
+    "counts": {
+      "price": 0,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Neon: 4 limits changed (50 → 100; 50 → 100)",
+    "pairs": [
+      {
+        "before": "50 CU-hours per project",
+        "after": "100 CU-hours per project",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50",
+            "after": "100"
+          }
+        ]
+      },
+      {
+        "before": "50 CU-hours Per Project",
+        "after": "100 CU-hours Per Project",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50",
+            "after": "100"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Sizes up to 56 CU (56 vCPU, 224 GB RAM)"
+    ],
+    "removed": [
+      "1,000 projects",
+      "Autoscaling up to 16 CU+ (56 vCPU, 224 GB RAM)"
+    ],
+    "totals": {
+      "removed": 13,
+      "added": 17,
+      "materialRemoved": 6,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "neon-com-pricing-20251104071032",
+    "url": "https://neon.com/pricing",
+    "ts": "20251104071032",
+    "date": "2025-11-04",
+    "source": "wayback",
+    "prevTs": "20251011110131",
+    "kind": "price",
+    "score": 14,
+    "counts": {
+      "price": 4,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Neon: 4 prices, 1 limit changed (20 → 30; $0.14 → $0.106)",
+    "pairs": [
+      {
+        "before": "20 projects",
+        "after": "30 projects",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "20",
+            "after": "30"
+          }
+        ]
+      },
+      {
+        "before": "$0.14 per CU-hour compute",
+        "after": "$0.106 per CU-hour compute",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.14",
+            "after": "$0.106"
+          }
+        ]
+      },
+      {
+        "before": "$0.26 per CU-hour compute",
+        "after": "$0.222 per CU-hour compute",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.26",
+            "after": "$0.222"
+          }
+        ]
+      },
+      {
+        "before": "$0.14 per CU-hour",
+        "after": "$0.106 per CU-hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.14",
+            "after": "$0.106"
+          }
+        ]
+      },
+      {
+        "before": "$0.26 per CU-hour",
+        "after": "$0.222 per CU-hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.26",
+            "after": "$0.222"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "All features in Free, plus"
+    ],
+    "removed": [
+      "Everything in Free, plus..."
+    ],
+    "totals": {
+      "removed": 8,
+      "added": 9,
+      "materialRemoved": 6,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "neon-com-pricing-20251203011011",
+    "url": "https://neon.com/pricing",
+    "ts": "20251203011011",
+    "date": "2025-12-03",
+    "source": "wayback",
+    "prevTs": "20251104071032",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 3,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Neon: 3 prices, 2 limits changed (30 → 70)",
+    "pairs": [
+      {
+        "before": "30 projects",
+        "after": "70 projects",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "30",
+            "after": "70"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Each paid Neon plan includes a number of branches per project at no extra cost. For example, the Launch plan includes 10 branches.",
+      "$1.50 per extra branch-month (≈ $0.002 per hour) billed only for branches that exceed your included allowance For example: The Launch plan includes 10 branches per project. You create 2 extra branches for 5 hours each → 10 extra branch-hours × $0.002/hour = $0.02 total."
+    ],
+    "removed": [
+      "1 additional branch × 1 hour of lifetime For example: if your plan includes 10 branches and you briefly run 2 extra branches for 5 hours each, that’s 10 branch-hours, billed at $0.002 per branch-hour, or a total of $0.02 added to your bill.",
+      "To be exact: we bill extra branches at $1.50/month each, prorated to hours based on the month’s length. The effective hourly rate varies slightly, but rounds to $0.002/hour in most cases — which is what we show for simplicity."
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 5,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "neon-com-pricing-20260104223042",
+    "url": "https://neon.com/pricing",
+    "ts": "20260104223042",
+    "date": "2026-01-04",
+    "source": "wayback",
+    "prevTs": "20251203011011",
+    "kind": "price",
+    "score": 25,
+    "counts": {
+      "price": 4,
+      "limit": 7,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Neon: 4 prices, 7 limits changed (70 → 100; 2 → 8GB)",
+    "pairs": [
+      {
+        "before": "70 projects",
+        "after": "100 projects",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "70",
+            "after": "100"
+          }
+        ]
+      },
+      {
+        "before": "Sizes to 2 CU (2 vCPU, 8 GB RAM)",
+        "after": "Sizes to 2 CU (8 GB RAM)",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "2",
+            "after": "8GB"
+          },
+          {
+            "before": "8GB",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "Sizes up to 16 CU (16 vCPU, 64 GB RAM)",
+        "after": "Sizes up to 16 CU (64 GB RAM)",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "16",
+            "after": "64GB"
+          },
+          {
+            "before": "64GB",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "Sizes up to 56 CU (56 vCPU, 224 GB RAM)",
+        "after": "Sizes up to 56 CU (224 GB RAM)",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "56",
+            "after": "224GB"
+          },
+          {
+            "before": "224GB",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "A CU (short for Compute Unit) is Neon's way of representing instance size. It defines how much CPU and memory your database is using at any moment. At Neon, 1 CU = 1 vCPU + 4 GB RAM.",
+        "after": "A CU (short for Compute Unit) is Neon's way of representing instance size. It defines how much CPU and memory your database is using at any moment. Each CU allocates approximately 4 GB of RAM, along with associated CPU and local SSD resources.",
+        "confidence": 0.68,
+        "deltas": [
+          {
+            "before": "1",
+            "after": "4GB"
+          },
+          {
+            "before": "1",
+            "after": null
+          },
+          {
+            "before": "4GB",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Up to 60k",
+      "Up to 1M If you're planning to go",
+      "Up to 1M If you're planning to go"
+    ],
+    "removed": [
+      "$5/month minimum",
+      "$5/month minimum",
+      "Usage-based, $5/mo min. Get started",
+      "Usage-based, $5/mo min. Get started"
+    ],
+    "totals": {
+      "removed": 13,
+      "added": 24,
+      "materialRemoved": 12,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "neon-com-pricing-20260208162429",
+    "url": "https://neon.com/pricing",
+    "ts": "20260208162429",
+    "date": "2026-02-08",
+    "source": "wayback",
+    "prevTs": "20260104223042",
+    "kind": "price",
+    "score": 7,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Neon: 1 price, 2 plan names changed (added “Launch faster with up to $100k in credits.”)",
+    "pairs": [],
+    "added": [
+      "Free Plan",
+      "Launch faster with up to $100k in credits.",
+      "are provided free of charge during their beta, and will be charged based on GB-month storage at a rate lower than standard project storage after GA."
+    ],
+    "removed": [
+      "Free",
+      "Get custom resource limits and credits for your free tier with our Agent Plan, for platforms provisioning thousands of databases."
+    ],
+    "totals": {
+      "removed": 44,
+      "added": 47,
+      "materialRemoved": 7,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "neon-com-pricing-20260306135249",
+    "url": "https://neon.com/pricing",
+    "ts": "20260306135249",
+    "date": "2026-03-06",
+    "source": "wayback",
+    "prevTs": "20260208162429",
+    "kind": "price",
+    "score": 64,
+    "counts": {
+      "price": 11,
+      "limit": 14,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Neon: 11 prices, 14 limits, 2 plan names changed (4GB → 1)",
+    "pairs": [
+      {
+        "before": "A CU (short for Compute Unit) is Neon's way of representing instance size. It defines how much CPU and memory your database is using at any moment. Each CU allocates approximately 4 GB of RAM, along with associated CPU and local SSD resources.",
+        "after": "A CU (short for Compute Unit) is Neon's way of representing compute size. It defines how much CPU and memory your database is using at any moment. Each CU allocates approximately 1 vCPU and 4 GB of RAM. Learn more about compute sizing on Neon.",
+        "confidence": 0.66,
+        "deltas": [
+          {
+            "before": "4GB",
+            "after": "1"
+          },
+          {
+            "before": null,
+            "after": "4GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free",
+      "Build and learn free with no time limits and no credit card required.",
+      "Auth: 60k MAU",
+      "Typical spend: $ 15 /mo",
+      "Based on: Intermittent load, 1 GB",
+      "Auth: 1M MAU",
+      "Data API: 1B requests",
+      "Typical spend: $ 701 /mo",
+      "Based on: High load, 100 GB",
+      "Auth: 1M MAU",
+      "Data API: 1B requests",
+      "and storage based on demand, including on the Free plan.",
+      "Launch plan: $0.106 per CU-hour",
+      "Scale plan: $0.222 per CU-hour",
+      "What does 100 CU-hours per project give me on the Free plan?",
+      "On the Free plan, each project gets 100 CU-hours per month, and compute automatically scales down to zero when idle. What this means in practice:",
+      "You can create up to 100 projects, each with its own independent 100 CU-hour allowance",
+      "The database runs at an average of 1 CU for ~3 hours per day. It scales down to zero the rest of the time",
+      "Over a month, this uses roughly 90 CU-hours, staying within the Free plan limits for that project",
+      "This model is designed to make it practical to have many small or intermittent databases (for development, demos, previews, or experiments) without being forced into an upgrade. Learn more about our Free Plan philosophy.",
+      "140 CU-hours compute, 1 GB-month of storage. Typical of a small database that doesn't need to run 24/7. A databse using 140 CU-hours compute per month can scale to zero when idle, and start back up in 350ms when it's needed. When it's running it is set to a minimum size of 0.25 CU but can scale up to 2CU when needed.",
+      "720 CU-hours compute, 10 GB-month of storage. Representative of a constant-load application database. As you can see from the autoscaling chart above, 720 CU hours translates to a database that scales between 0.5 and 4 CU based on load.",
+      "3,000 CU-hours compute, 100 GB-month of storage. As an example, a database that is scaling between 3 CU and 7 CU will often use around 3000 CU hours in a month. This level represents production applications with sustained traffic, higher data volumes, and more complex queries requiring consistent compute resources.",
+      "6,000 CU-hours compute, 1,000 GB-month of storage. A database scaling between 6 and 14 CU can use in the range of 6,000 CU hours in a month. This is representative of large-scale production workloads with high traffic volumes, extensive datasets, and applications requiring significant compute capacity and storage.",
+      "Are the Free Plan quotas included in the paid plans?",
+      "No. Neon's paid plans work independently of the Free plan.",
+      "When you're on a paid plan, usage starts metering from zero for both compute and storage. Free plan quotas don't apply once you upgrade. Instead, you're billed purely based on actual usage, at the rates of your paid plan.",
+      "You expect higher or more sustained usage than what's included per project on the Free plan",
+      "If your usage fits comfortably within the Free plan and you're not running a production workload, there's no reason to upgrade. The Free plan is designed to be genuinely useful for development and prototyping. Learn more about our Free Plan philosophy.",
+      "which is configurable per project (1 day by default in paid plans).",
+      "History storage is billed based on the amount of Write-Ahead Log (WAL) history retained within your restore window, at $0.20 per GB-month on paid plans. This is billed separately from your regular database storage.",
+      "Root branches are billed based on their actual data size (for example, 5 GB)",
+      "The SUM of both components will be billed as your database storage at $0.35 per GB-month.",
+      "Each Neon plan includes a set number of branches per project at no additional cost (10 branches per project in Launch, 25 branches per project in Scale) but you can create and delete branches freely within your plan's included allowance:",
+      "The price is $1.50 per extra branch-month (≈ $0.002 per hour)",
+      "Example: The Launch plan includes 10 branches per project. If you already have 10 branches but create 2 additional branches and keep them for 5 hours each, that'd be 10 extra branch-hours total: 10 × $0.002/hour = $0.02",
+      "On the Free plan, Neon Auth is included for up to 60,000 MAU."
+    ],
+    "removed": [
+      "Free Plan",
+      "CU-hours = CU size of your compute × number of hours it runs For example: if a 2 CU machine runs for 3 hours, that’s 6 CU-hours of usage.",
+      "1 GB-month = 1 GB stored for 1 full month Storage is metered hourly and summed over the month, so you only pay for what you actually use, not for the maximum size your database reaches.",
+      "The Free plan gives you up to 6 hours of restore history, or 1 GB of data changes - whichever comes first. If your app writes a lot of data, you may get less than 6 hours of coverage.",
+      "In the Launch plan, you can choose any restore window from 0 to 7 days. You're charged $0.20 per GB-month, based on how much data changes during that window. Setting it to 0 disables Instant Restores, and implies $0 additional costs.",
+      "In the Enterprise plan, you can set a restore window up to 30 days, billed at $0.20 per GB-month for the changed data (same logic as Launch).",
+      "Each paid Neon plan includes a number of branches per project at no extra cost. For example, the Launch plan includes 10 branches.",
+      "$1.50 per extra branch-month (≈ $0.002 per hour) billed only for branches that exceed your included allowance For example: The Launch plan includes 10 branches per project. You create 2 extra branches for 5 hours each → 10 extra branch-hours × $0.002/hour = $0.02 total.",
+      "are provided free of charge during their beta, and will be charged based on GB-month storage at a rate lower than standard project storage after GA.",
+      "For example, if you set a limit of 1 CU, your usage will never exceed 1 CU-hour per hour, regardless of demand. Learn how to configure autoscaling limits."
+    ],
+    "totals": {
+      "removed": 95,
+      "added": 168,
+      "materialRemoved": 20,
+      "materialAdded": 47
+    }
+  },
+  {
+    "id": "neon-com-pricing-20260411184702",
+    "url": "https://neon.com/pricing",
+    "ts": "20260411184702",
+    "date": "2026-04-11",
+    "source": "wayback",
+    "prevTs": "20260306135249",
+    "kind": "limits",
+    "score": 5,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Neon: 2 limits, 1 plan name changed (removed “Data API: 1B requests”)",
+    "pairs": [],
+    "added": [
+      "Team accounts with unlimited members now available to everyone! Invite your teammates and ship faster together, even on the Free Plan.",
+      "Unlimited team members",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "removed": [
+      "Data API: 1B requests",
+      "Auth: 1M MAU",
+      "Data API: 1B requests"
+    ],
+    "totals": {
+      "removed": 15,
+      "added": 12,
+      "materialRemoved": 5,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "neon-com-pricing-20260506210817",
+    "url": "https://neon.com/pricing",
+    "ts": "20260506210817",
+    "date": "2026-05-06",
+    "source": "wayback",
+    "prevTs": "20260411184702",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Neon: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "neon-com-pricing-20260614222646",
+    "url": "https://neon.com/pricing",
+    "ts": "20260614222646",
+    "date": "2026-06-14",
+    "source": "wayback",
+    "prevTs": "20260506210817",
+    "kind": "price",
+    "score": 16,
+    "counts": {
+      "price": 4,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Neon: 4 prices, 2 limits changed (100GB → 500GB; 100GB → 500GB)",
+    "pairs": [
+      {
+        "before": "100 GB included then $0.10 per GB",
+        "after": "500 GB included then $0.10 per GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100GB",
+            "after": "500GB"
+          }
+        ]
+      },
+      {
+        "before": "100 GB included then $0.10 per GB",
+        "after": "500 GB included then $0.10 per GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100GB",
+            "after": "500GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "100 snapshots $0.09/GB-month",
+      "Daily/Weekly/Monthly $0.09/GB-month",
+      "100 snapshots $0.09/GB-month",
+      "Daily/Weekly/Monthly $0.09/GB-month"
+    ],
+    "removed": [
+      "Team accounts with unlimited members now available to everyone! Invite your teammates and ship faster together, even on the Free Plan."
+    ],
+    "totals": {
+      "removed": 16,
+      "added": 23,
+      "materialRemoved": 7,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "neon-com-pricing-20260702100446",
+    "url": "https://neon.com/pricing",
+    "ts": "20260702100446",
+    "date": "2026-07-02",
+    "source": "wayback",
+    "prevTs": "20260614222646",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Neon: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "neon-com-pricing-20260801062708",
+    "url": "https://neon.com/pricing",
+    "ts": "20260801062708",
+    "date": "2026-08-01",
+    "source": "wayback",
+    "prevTs": "20260702100446",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Neon: 1 limit changed (removed “Neon Auth: 1M MAUs”)",
+    "pairs": [],
+    "added": [
+      "Is Object Storage, Functions, or AI Gateway usage included in my Free plan CU-hours?",
+      "No. CU-hours are specific to Postgres database compute. Object Storage, Functions, and AI Gateway will have their own usage limits that will be published before GA. During the beta phase, they are free to use within the guardrails we've set to prevent abuse.",
+      "They aren't billed yet. Usage is free of charge for all three during beta, with rate and usage guardrails in place. Public pricing for Object Storage and Functions will be announced before general availability (GA).",
+      "AI Gateway requires a paid Neon plan (Launch or Scale) to access, and while it's also free of charge during beta, its pricing model is already public - Neon will charge the same per-token rate as the underlying model provider, with zero markup. Exact per-model rates will be published before billing begins."
+    ],
+    "removed": [
+      "All features in free, plus...",
+      "Neon Auth: 1M MAUs",
+      "Up to 60k",
+      "No. Neon's paid plans work independently of the Free plan."
+    ],
+    "totals": {
+      "removed": 52,
+      "added": 68,
+      "materialRemoved": 14,
+      "materialAdded": 14
+    }
+  },
+  {
+    "id": "neon-com-pricing-20260902202107",
+    "url": "https://neon.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260801062708",
+    "kind": "price",
+    "score": 21,
+    "counts": {
+      "price": 6,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Neon: 6 prices, 2 limits changed (added “5 GB of Object Storage Beta”)",
+    "pairs": [],
+    "added": [
+      "5 GB of Object Storage Beta",
+      "Invocations 1M invocations",
+      "5 GB included",
+      "$0.023 per GB-month No charges during beta",
+      "Compute $0.10 per active capacity-hour $0.025 per waiting capacity-hour",
+      "Invocations $0.60 per 1M invocations",
+      "$0.023 per GB-month No charges during beta",
+      "Compute $0.12 per active capacity-hour $0.03 per waiting capacity-hour",
+      "Invocations $0.60 per 1M invocations"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 10,
+      "added": 19,
+      "materialRemoved": 0,
+      "materialAdded": 9
+    },
+    "transition": true
+  }
+]

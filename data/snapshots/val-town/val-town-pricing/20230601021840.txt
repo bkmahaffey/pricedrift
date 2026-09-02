@@ -1,0 +1,70 @@
+- Vals are JavaScript & TypeScript code run on our servers
+- Vals can be scheduled (like a cron job)
+or accessed via API
+- Email yourself:
+console.email("message", "Subject Line")
+- Store state:
+@me.fizz += "buzz"
+- Reference your vals:
+@me.fizz.split('buzz').length
+- Reference others' vals:
+@stevekrouse.moreBuzz()
+- Reference personal secrets:
+@me.secrets.openai
+- Import npm:
+const _ = await import("npm:lodash-es")
+- Import Deno:
+const { DOMParser } = await import("https://deno.land/x/deno_dom@v0.1.38/deno-dom-wasm.ts")
+- Run keyboard shortcut:
+cmd +enter
+Pricing
+Free always. Pro when you need it.
+Free
+Wall clock time / run 2
+1 min
+CPU time / run 2
+5 ms
+runs / minute 2
+10 ms
+HTTP calls / run 2
+10
+Log retention
+3 days
+Total storage 3
+10 mb
+How often scheduled vals can run 2
+15 min
+Private vals
+100
+Public vals
+Unlimited
+Free
+Sign up for free
+Pro
+Beta
+Wall clock time / run 2
+5 min
+CPU time / run 2
+100 ms
+runs / minute 2
+100 ms
+HTTP calls / run 2
+100
+Log retention
+10 days
+Total storage 3
+1 gb
+How often scheduled vals can run 2
+1 minute
+Private vals
+Unlimited
+Public vals
+Unlimited
+$10.00 / month *
+Subscribe to Pro
+We appreciate your patience as we iterate on our pricing. It is designed around what we can confidently support today and in the near future. We honestly don’t know what we will be able to provide at scale — certain limitations might increase while others decrease. It depends on what kind of usage patterns we see, how much abuse we have to fight, and what efficiencies we can win. If you would like to inquire about additional features and custom pricing please email steve@val.town
+.
+Footnotes
+Bear with us as we upgrade your account manually. Hopefully it takes just a couple of minutes, but it might take a couple of hours if we’re sleeping. If you subscribe with the same email address in your Val Town account, we will upgrade that account. If not, we will email you to confirm which account you would like to upgrade.
+A “run” is any evaluation of code on Val Town. It can be triggered in the app, on a schedule, or via API. These limitations only apply to runs on your account, and do not include when others use your vals as libraries. It does count when others hit your API.
+Total storage represents your storage usage across the whole platform, including all versions of vals and their associated tracing.

@@ -1,0 +1,742 @@
+Blog
+{Blog} MongoDB to release new Vector Search and Stream Processing capabilities. Learn more >
+MongoDB Pricing
+The data platform built by - and for - developers
+Atlas
+Developer Data Platform
+Enterprise Advanced
+Self-Managed Database & Services
+MongoDB Atlas
+The multi-cloud developer data platform available on AWS, Azure, and Google Cloud
+Serverless
+from $0.10/million reads
+Sign Up
+(i) Per 1 million reads
+For serverless applications with variable or infrequent traffic. Minimal configuration required.
+Up to 1TB of storage Resources scale seamlessly to meet your workload Pay only for the operations you run Always-on security and backups View pricing
+Dedicated
+from $57/month
+Sign Up
+(i) Estimated based on $0.08 per hour
+For production applications with sophisticated workload requirements. Advanced configuration controls.
+10GB to 4TB of storage
+2GB to 768GB RAM
+Network isolation and fine-grained access controls Multi-region and multi-cloud options available View pricing
+Shared
+from $0/month
+Try for Free
+(i) Free forever for free clusters
+For learning and exploring MongoDB in a cloud environment. Basic configuration options.
+512MB to 5GB of storage Shared RAM Upgrade to dedicated clusters for full functionality No credit card required to start View pricing
+View all plan features
+Questions about pricing?
+Talk to us for more information about features, sizing, support plans, and consulting.
+Contact Us
+Customize your deployment with tools & services
+Atlas Data Federation
+Easily query, combine, or move data across Atlas and cloud object storage.
+See pricing →
+Charts
+Easily create, share, and embed visualizations from MongoDB Atlas.
+See pricing →
+Atlas SQL Interface
+MongoDB Atlas SQL Interface, Connectors, and Drivers make it easy to natively query, analyze, and visualize Atlas data with SQL-based tools.
+See pricing →
+Online Archive
+Automate the cost optimization process — without sacrificing data accessibility.
+See pricing →
+App Services
+Fully-managed backend services including managed APIs, database triggers, serverless functions, and device-to-cloud synchronization.
+See pricing →
+Atlas Data Lake
+Unlock analytical insights with zero impact on application workloads.
+See pricing →
+Support
+Get access to expert technical advice for optimizing performance, managing risk, and lowering costs.
+See pricing →
+MongoDB Enterprise Advanced
+The best way to run MongoDB on-premises or in your private cloud
+Featured Highlights
+MongoDB Enterprise Server
+Ops Manager
+the management platform for MongoDB
+Kubernetes Operator
+Enterprise security features
+Business intelligence integration and visualization
+Commercial license
+Self-serve training content
+Rich onboarding and regular check-ins
+Consultative support with fast initial response goals
+MongoDB Enterprise Server
+Ops Manager
+the management platform for MongoDB
+Kubernetes Operator
+Enterprise security features
+Business intelligence integration and visualization
+Commercial license
+Self-serve training content
+Rich onboarding and regular check-ins
+Consultative support with fast initial response goals
+Learn More
+Contact Sales
+Questions about pricing?
+Talk to us for more information about features, sizing, support plans, and consulting.
+Contact Us
+Customize your deployment with tools & services
+BI Connector
+Extract insights (and value) by making MongoDB a data source for your business intelligence and analytics platforms.
+Learn More →
+Support
+Get access to expert technical advice for optimizing performance, managing risk, and lowering costs.
+Learn More →
+Serverless Database
+Pay only for the operations you run.
+Item
+Description
+Pricing
+Read Processing Unit (RPU)
+Number of read operations* to the database
+*Sum of documents read divided by 4KB and index bytes read divided by 256 bytes
+$0.10 / million for the first 50 million per day*
+*Daily RPU tiers:
+Next 500 million: $0.05/ million
+Reads thereafter: $0.01/ million
+Write Processing Unit (WPU)
+Number of write operations* to the database
+*Sum of documents and index bytes written, divided by 1KB
+$1.00/million
+Storage
+Data and indexes stored on the database
+$0.25/GB-month
+Standard Backup
+Download and restore of backup snapshots*
+*2 free daily snapshots included per serverless instance
+$2.50/hour*
+*To download or restore the data
+Serverless Continuous Backup
+35 day backup retention for daily snapshots
+$0.20/GB-month
+Data Transfer
+Inbound/outbound data to/from the database
+$0.015 - $0.10/GB*
+*Depending on traffic source and destination
+(i)Regional: $0.01 per GB for all cloud providers and regions. Cross-Region: range from $0.02 to $0.20 per GB.
+Public Internet: range from $0.09 to $0.20 per GB.
+Item
+Description
+Read Processing Unit (RPU)
+Number of read operations* to the database
+*Sum of documents read divided by 4KB and index bytes read divided by 256 bytes
+Write Processing Unit (WPU)
+Number of write operations* to the database
+*Sum of documents and index bytes written, divided by 1KB
+Storage
+Data and indexes stored on the database
+Standard Backup
+Download and restore of backup snapshots*
+*2 free daily snapshots included per serverless instance
+Serverless Continuous Backup
+35 day backup retention for daily snapshots
+Data Transfer
+Inbound/outbound data to/from the database
+Pricing
+Read Processing Unit (RPU)
+$0.10 / million for the first 50 million per day*
+*Daily RPU tiers:
+Next 500 million: $0.05/ million
+Reads thereafter: $0.01/ million
+Write Processing Unit (WPU)
+$1.00/million
+Storage
+$0.25/GB-month
+Standard Backup
+$2.50/hour*
+*To download or restore the data
+Serverless Continuous Backup
+$0.20/GB-month
+Data Transfer
+$0.015 - $0.10/GB*
+*Depending on traffic source and destination
+(i)Regional: $0.01 per GB for all cloud providers and regions. Cross-Region: range from $0.02 to $0.20 per GB.
+Public Internet: range from $0.09 to $0.20 per GB.
+Dedicated Cluster
+Pay-as-you-go! Clusters are billed hourly with monthly invoices.
+Amazon Web Services
+Microsoft Azure
+Google Cloud Platform
+Cluster Tier
+Storage
+RAM
+vCPUs
+Base Price
+M10
+10 GB
+2 GB
+2 vCPUs
+$0.08/hr
+M20
+20 GB
+4 GB
+2 vCPUs
+$0.20/hr
+M30
+40 GB
+8 GB
+2 vCPUs
+$0.54/hr
+M40
+80 GB
+16 GB
+4 vCPUs
+$1.04/hr
+M50
+160 GB
+32 GB
+8 vCPUs
+$2.00/hr
+M60
+320 GB
+64 GB
+16 vCPUs
+$3.95/hr
+M80
+750 GB
+128 GB
+32 vCPUs
+$7.30/hr
+M140
+1000 GB
+192 GB
+48 vCPUs
+$10.99/hr
+M200
+1500 GB
+256 GB
+64 vCPUs
+$14.59/hr
+M300
+2000 GB
+384 GB
+96 vCPUs
+$21.85/hr
+M400
+3000 GB
+488 GB
+64 vCPUs
+$22.40/hr
+M700
+4000 GB
+768 GB
+96 vCPUs
+$33.26/hr
+Additional hardware configurations available for specialized workloads including Low-CPU and Local NVMe SSD. Sharded clusters offer additional compute and storage through horizontal scaling.
+Shared Cluster
+Pay-as-you-go! Clusters are billed hourly with monthly invoices.
+Amazon Web Services
+Microsoft Azure
+Google Cloud Platform
+Cluster Tier
+Storage
+RAM
+vCPUs
+Base Price
+M0
+512 MB
+Shared
+Free forever
+M2
+2 GB
+Shared
+$9/mo
+M5
+5 GB
+Shared
+$25/mo
+Atlas SQL Interface
+Atlas SQL Interface leverages Atlas Data Federation as its query engine, making it easy and fast to analyze your application and cloud data together using a single API. Pricing is based on data processed, transferred, and returned.
+Data Processed
+Data Transferred and returned
+$5 per TB with a 10MB minimum per query
+Data transfer costs are based on the rates set by your cloud service provider
+Data Processed
+Data Transferred and returned
+$5 per TB with a 10MB minimum per query
+Data transfer costs are based on the rates set by your cloud service provider
+Atlas Data Lake
+Atlas Data Lake is a fully managed storage solution optimized for analytical queries at the cost of cloud object storage. The pricing for storing and accessing data varies based on the AWS region. The prices are as follows:
+Data Lake Regions
+AWS Regions
+Price per GB per Month
+Per 1,000 Partition Accesses
+Virginia, USA
+us-east-1
+0.048
+0.0010
+Oregon, USA
+us-west-2
+0.048
+0.0010
+Sao Paulo, Brazil
+sa-east-1
+0.0845
+0.0015
+Ireland
+eu-west-1
+0.048
+0.0010
+London, England
+eu-west-2
+0.0501
+0.0011
+Frankfurt, Germany
+eu-central-1
+0.0511
+0.0011
+Mumbai, India
+ap-south-1
+0.0522
+0.0010
+Singapore
+ap-southeast-1
+0.0522
+0.0010
+Sydney, Australia
+ap-southeast-2
+0.0522
+0.0011
+Data Lake Regions
+Virginia, USA
+Oregon, USA
+Sao Paulo, Brazil
+Ireland
+London, England
+Frankfurt, Germany
+Mumbai, India
+Singapore
+Sydney, Australia
+AWS Regions
+us-east-1
+us-west-2
+sa-east-1
+eu-west-1
+eu-west-2
+eu-central-1
+ap-south-1
+ap-southeast-1
+ap-southeast-2
+Price per GB per Month
+0.048
+0.0845
+0.048
+0.0501
+0.0511
+0.0522
+Per 1,000 Partition Accesses
+0.0010
+0.0015
+0.0010
+0.0011
+0.0010
+0.0011
+Ready to get started?
+Launch a new cluster or migrate to MongoDB Atlas with zero downtime.
+Get Started
+Americas
+Asia Pacific
+Europe & Middle East
+Region
+Data Storage (per GB per day)
+Archival Seek (per 1000 Partitions Accessed)
+Archival Access (per 1000 Partitions Accessed)
+Data Transfer
+Data Process
+US East (N. Virginia)
+0.001578
+0.0125000
+0.0010000
+Standard AWS Transfer Rates
+$5 per TB Processed
+US East (Ohio)
+0.001578
+0.0125000
+0.0010000
+"
+US West (N. California)
+0.001784
+0.0137500
+0.0011000
+"
+US West (Oregon)
+0.001578
+0.0125000
+0.0010000
+"
+Canada (Central)
+0.001715
+0.0137500
+0.0011000
+"
+South America (Sao Paulo)
+0.002779
+0.0175000
+0.0014000
+"
+Region
+Data Storage (per GB per day)
+US East (N. Virginia)
+0.001578
+US East (Ohio)
+0.001578
+US West (N. California)
+0.001784
+US West (Oregon)
+0.001578
+Canada (Central)
+0.001715
+South America (Sao Paulo)
+0.002779
+Archival Seek (per 1000 Partitions Accessed)
+US East (N. Virginia)
+0.0125000
+US East (Ohio)
+0.0125000
+US West (N. California)
+0.0137500
+US West (Oregon)
+0.0125000
+Canada (Central)
+0.0137500
+South America (Sao Paulo)
+0.0175000
+Archival Access (per 1000 Partitions Accessed)
+US East (N. Virginia)
+0.0010000
+US East (Ohio)
+0.0010000
+US West (N. California)
+0.0011000
+US West (Oregon)
+0.0010000
+Canada (Central)
+0.0011000
+South America (Sao Paulo)
+0.0014000
+Data Transfer
+US East (N. Virginia)
+Standard AWS Transfer Rates
+US East (Ohio)
+"
+US West (N. California)
+"
+US West (Oregon)
+"
+Canada (Central)
+"
+South America (Sao Paulo)
+"
+Data Process
+US East (N. Virginia)
+$5 per TB Processed
+US East (Ohio)
+"
+US West (N. California)
+"
+US West (Oregon)
+"
+Canada (Central)
+"
+South America (Sao Paulo)
+"
+Region
+Data Storage (per GB per day)
+Archival Seek (per 1000 Partitions Accessed)
+Archival Access (per 1000 Partitions Accessed)
+Data Transfer
+Data Process
+Asia Pacific (Hong Kong)
+0.001715
+0.0125000
+0.0010000
+Standard AWS Transfer Rates
+$5 per TB Processed
+Asia Pacific (Mumbai)
+0.001715
+0.0125000
+0.0010000
+"
+Asia Pacific (Osaka-Local)
+0.001715
+0.0117500
+0.0009250
+"
+Asia Pacific (Seoul)
+0.001715
+0.0112500
+0.0008750
+"
+Asia Pacific (Singapore)
+0.001715
+0.0125000
+0.0010000
+"
+Asia Pacific (Sydney)
+0.001715
+0.0137500
+0.0011000
+"
+Asia Pacific (Tokyo)
+0.001715
+0.0117500
+0.0009250
+"
+Region
+Data Storage (per GB per day)
+Asia Pacific (Hong Kong)
+0.001715
+Asia Pacific (Mumbai)
+0.001715
+Asia Pacific (Osaka-Local)
+0.001715
+Asia Pacific (Seoul)
+0.001715
+Asia Pacific (Singapore)
+0.001715
+Asia Pacific (Sydney)
+0.001715
+Asia Pacific (Tokyo)
+0.001715
+Archival Seek (per 1000 Partitions Accessed)
+Asia Pacific (Hong Kong)
+0.0125000
+Asia Pacific (Mumbai)
+0.0125000
+Asia Pacific (Osaka-Local)
+0.0117500
+Asia Pacific (Seoul)
+0.0112500
+Asia Pacific (Singapore)
+0.0125000
+Asia Pacific (Sydney)
+0.0137500
+Asia Pacific (Tokyo)
+0.0117500
+Archival Access (per 1000 Partitions Accessed)
+Asia Pacific (Hong Kong)
+0.0010000
+Asia Pacific (Mumbai)
+0.0010000
+Asia Pacific (Osaka-Local)
+0.0009250
+Asia Pacific (Seoul)
+0.0008750
+Asia Pacific (Singapore)
+0.0010000
+Asia Pacific (Sydney)
+0.0011000
+Asia Pacific (Tokyo)
+0.0009250
+Data Transfer
+Asia Pacific (Hong Kong)
+Standard AWS Transfer Rates
+Asia Pacific (Mumbai)
+"
+Asia Pacific (Osaka-Local)
+"
+Asia Pacific (Seoul)
+"
+Asia Pacific (Singapore)
+"
+Asia Pacific (Sydney)
+"
+Asia Pacific (Tokyo)
+"
+Data Process
+Asia Pacific (Hong Kong)
+$5 per TB Processed
+Asia Pacific (Mumbai)
+"
+Asia Pacific (Osaka-Local)
+"
+Asia Pacific (Seoul)
+"
+Asia Pacific (Singapore)
+"
+Asia Pacific (Sydney)
+"
+Asia Pacific (Tokyo)
+"
+Region
+Data Storage (per GB per day)
+Archival Seek (per 1000 Partitions Accessed)
+Archival Access (per 1000 Partitions Accessed)
+Data Transfer
+Data Process
+Europe (Frankfurt)
+0.001681
+0.0135000
+0.0010750
+Standard AWS Transfer Rates
+$5 per TB Processed
+Europe (Ireland)
+0.001578
+0.0125000
+0.0010000
+"
+Europe (London)
+0.001647
+0.0132500
+0.0010500
+"
+Europe (Paris)
+0.001647
+0.0132500
+0.0010500
+"
+Europe (Stockholm)
+0.001578
+0.0125000
+0.0010000
+"
+Europe (Milan)
+0.001647
+0.0132500
+0.0010000
+"
+Middle East (Bahrain)
+0.001715
+0.0137500
+0.0011000
+"
+Region
+Data Storage (per GB per day)
+Europe (Frankfurt)
+0.001681
+Europe (Ireland)
+0.001578
+Europe (London)
+0.001647
+Europe (Paris)
+0.001647
+Europe (Stockholm)
+0.001578
+Europe (Milan)
+0.001647
+Middle East (Bahrain)
+0.001715
+Archival Seek (per 1000 Partitions Accessed)
+Europe (Frankfurt)
+0.0135000
+Europe (Ireland)
+0.0125000
+Europe (London)
+0.0132500
+Europe (Paris)
+0.0132500
+Europe (Stockholm)
+0.0125000
+Europe (Milan)
+0.0132500
+Middle East (Bahrain)
+0.0137500
+Archival Access (per 1000 Partitions Accessed)
+Europe (Frankfurt)
+0.0010750
+Europe (Ireland)
+0.0010000
+Europe (London)
+0.0010500
+Europe (Paris)
+0.0010500
+Europe (Stockholm)
+0.0010000
+Europe (Milan)
+0.0010000
+Middle East (Bahrain)
+0.0011000
+Data Transfer
+Europe (Frankfurt)
+Standard AWS Transfer Rates
+Europe (Ireland)
+"
+Europe (London)
+"
+Europe (Paris)
+"
+Europe (Stockholm)
+"
+Europe (Milan)
+"
+Middle East (Bahrain)
+"
+Data Process
+Europe (Frankfurt)
+$5 per TB Processed
+Europe (Ireland)
+"
+Europe (London)
+"
+Europe (Paris)
+"
+Europe (Stockholm)
+"
+Europe (Milan)
+"
+Middle East (Bahrain)
+"
+Atlas Charts
+With Charts, you can quickly spot trends, discover important insights, and understand your data at a deeper level. Charts is available to all users free for up to approximately 500,000 chart renders per month.
+Monthly Charts Usage (Data Transfered)
+Cost per GB (USD)
+First 1GB
+Free
+Beyond 1GB
+$1.00
+Monthly Charts Usage (Data Transfered)
+First 1GB
+Beyond 1GB
+Cost per GB (USD)
+Free
+$1.00
+For more information on Charts pricing, please visit our documentation
+Atlas usage is additional and not included in the above pricing. Atlas Charts is available with all Atlas cluster sizes including Atlas Free Tier (M0) clusters.
+Atlas Data Federation
+Atlas Data Federation is a serverless, scalable query engine that makes it simple and fast to analyze your application and cloud data together using a single API. Pricing is based on data processed, transferred, and returned.
+Data Processed
+Data transferred and returned
+$5 per TB with a 10MB minimum per query
+Data transfer costs are based on the rates set by your cloud service provider
+Data Processed
+$5 per TB with a 10MB minimum per query
+Data transferred and returned
+Data transfer costs are based on the rates set by your cloud service provider
+App Services
+All App Services in an Atlas project share a monthly free tier: 1 million requests or 500 hours of compute, or 10,000 hours of sync runtime (whichever occurs first), plus 10 GB of data transfer. Usage below these thresholds in a given month is not billed. Once the sum of all application usage in a project exceeds the free-tier threshold, Atlas begins billing for additional usage.
+Compute
+Sync
+Request
+Transfer
+$10/500 hours of request runtime Excluding Sync
+$0.08/1M minutes of Sync runtime
+$2.00/1M application requests
+$0.12/GB for egress
+$0.000000005/ms
+$0.00000008/min
+$0.000002/request
+$0.12/GB for egress
+Compute
+Sync
+$10/500 hours of request runtime Excluding Sync
+$0.08/1M minutes of Sync runtime
+$0.000000005/ms
+$0.00000008/min
+Request
+$10/500 hours of request runtime Excluding Sync
+$2.00/1M application requests
+$0.000000005/ms
+$0.000002/request
+Transfer
+$10/500 hours of request runtime Excluding Sync
+$0.12/GB for egress
+$0.000000005/ms
+$0.12/GB for egress
+Applicable services include Triggers, Functions, HTTPS Endpoints, Data API, GraphQL API, and Device Sync.

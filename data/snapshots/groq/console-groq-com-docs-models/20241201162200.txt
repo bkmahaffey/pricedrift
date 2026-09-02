@@ -1,0 +1,150 @@
+0.0.2
+Documentation
+Get Started
+Overview
+Quickstart
+Models
+Errors
+Changelog
+Features
+Chat Completions
+OpenAI Compatibility
+Speech
+Vision
+Tool Use
+Content Moderation
+Prompting
+Prefilling
+Examples and Demos
+Groq Badge
+Examples
+Showcase Applications
+Integrations
+Groq Libraries
+Arize
+Composio
+E2B
+JigsawStack
+LangChain
+LlamaIndex
+LiteLLM
+Toolhouse
+Vercel
+xRx
+Accounts
+API Keys
+Rate Limits
+Legal
+Policies & Notices
+Supported Models
+GroqCloud currently supports the following models:
+Model ID
+Developer
+Context Window (tokens)
+Max Tokens
+Max File Size
+Model Card Link
+distil-whisper-large-v3-en
+HuggingFace
+-
+25 MB
+Card
+gemma2-9b-it
+Google
+8,192
+-
+Card
+gemma-7b-it
+Google
+8,192
+-
+Card
+llama3-groq-70b-8192-tool-use-preview
+Groq
+8,192
+-
+Card
+llama3-groq-8b-8192-tool-use-preview
+Groq
+8,192
+-
+Card
+llama-3.1-70b-versatile
+Meta
+128k
+32,768
+-
+Card
+llama-3.1-70b-specdec
+Meta
+128k
+8,192
+Card
+llama-3.1-8b-instant
+Meta
+128k
+8,192
+-
+Card
+llama-3.2-1b-preview
+Meta
+128k
+8,192
+-
+Card
+llama-3.2-3b-preview
+Meta
+128k
+8,192
+-
+Card
+llama-3.2-11b-vision-preview
+Meta
+128k
+8,192
+-
+Card
+llama-3.2-90b-vision-preview
+Meta
+128k
+8,192
+-
+Card
+llama-guard-3-8b
+Meta
+8,192
+-
+Card
+llama3-70b-8192
+Meta
+8,192
+-
+Card
+llama3-8b-8192
+Meta
+8,192
+-
+Card
+mixtral-8x7b-32768
+Mistral
+32,768
+-
+Card
+whisper-large-v3
+OpenAI
+-
+25 MB
+Card
+whisper-large-v3-turbo
+OpenAI
+-
+25 MB
+Card
+Deprecated Models
+Note: Models with a context window of 128K tokens are currently limited to 8,192 max tokens in preview. Models without a context window or max tokens are denoted with a dash ("-").
+Hosted models are directly accessible through the GroqCloud Models API endpoint using the model IDs mentioned above. You can use the https://api.groq.com/openai/v1/models endpoint to return a JSON list of all active models:
+curl
+JavaScript
+Python
+JSON
+1 import requests 2 import os 3 4 api_key = os. environ. get ( "GROQ_API_KEY") 5 url = "https://api.groq.com/openai/v1/models" 6 7 headers = { 8 "Authorization": f"Bearer { api_key } ", 9 "Content-Type": "application/json" 10 } 11 12 response = requests. get ( url, headers = headers) 13 14 print ( response. json ())

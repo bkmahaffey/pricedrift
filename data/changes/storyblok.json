@@ -1,0 +1,1235 @@
+[
+  {
+    "id": "storyblok-com-pricing-20230528190839",
+    "url": "https://www.storyblok.com/pricing",
+    "ts": "20230528190839",
+    "date": "2023-05-28",
+    "source": "wayback",
+    "prevTs": "20230208205433",
+    "kind": "limits",
+    "score": 5,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Storyblok: 3 limits changed (24TB removed; 36TB removed)",
+    "pairs": [
+      {
+        "before": "2TB Traffic/month included (Cumulative 24TB/year)",
+        "after": "2TB Traffic/month included",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "24TB",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "3TB Traffic/month included (Cumulative 36TB/year)",
+        "after": "3TB Traffic/month included",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "36TB",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Unlimited"
+    ],
+    "removed": [
+      "30 Users included"
+    ],
+    "totals": {
+      "removed": 41,
+      "added": 54,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "storyblok-com-pricing-20230719234434",
+    "url": "https://www.storyblok.com/pricing",
+    "ts": "20230719234434",
+    "date": "2023-07-19",
+    "source": "wayback",
+    "prevTs": "20230528190839",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Storyblok: 1 limit changed (removed “15MB”)",
+    "pairs": [],
+    "added": [
+      "Unlimited"
+    ],
+    "removed": [
+      "15MB",
+      "25MB"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "storyblok-com-pricing-20240107195835",
+    "url": "https://www.storyblok.com/pricing",
+    "ts": "20240107195835",
+    "date": "2024-01-07",
+    "source": "wayback",
+    "prevTs": "20230719234434",
+    "kind": "price",
+    "score": 93,
+    "counts": {
+      "price": 18,
+      "limit": 10,
+      "plan": 10
+    },
+    "material": true,
+    "headline": "Storyblok: 18 prices, 10 limits, 10 plan names changed (9.00 → $9.00; 10 → 20)",
+    "pairs": [
+      {
+        "before": "add new members at 9.00/mo",
+        "after": "add new members at $9.00 /mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "9.00",
+            "after": "$9.00"
+          }
+        ]
+      },
+      {
+        "before": "10 Users included",
+        "after": "20 Users included",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10",
+            "after": "20"
+          }
+        ]
+      },
+      {
+        "before": "60/month for 250GB of additional traffic",
+        "after": "$60.00 /month for 250GB of additional traffic",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "60",
+            "after": "$60.00"
+          }
+        ]
+      },
+      {
+        "before": "add new members at 9.00/mo",
+        "after": "add new members at $9.00 /mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "9.00",
+            "after": "$9.00"
+          }
+        ]
+      },
+      {
+        "before": "60/month for 250GB of additional traffic",
+        "after": "$60.00 /month for 250GB of additional traffic",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "60",
+            "after": "$60.00"
+          }
+        ]
+      },
+      {
+        "before": "190/month for 1TB of additional traffic",
+        "after": "$190.00 /month for 1TB of additional traffic",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "190",
+            "after": "$190.00"
+          }
+        ]
+      },
+      {
+        "before": "3TB Traffic/month included",
+        "after": "5TB Traffic/month included",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3TB",
+            "after": "5TB"
+          }
+        ]
+      },
+      {
+        "before": "190/month for 1TB of additional traffic",
+        "after": "$190.00 /month for 1TB of additional traffic",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "190",
+            "after": "$190.00"
+          }
+        ]
+      },
+      {
+        "before": "30 days",
+        "after": "60 days",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "30",
+            "after": "60"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Built for any project. Start for free, or subscribe to one of our paid plans, where pricing is always transparent and predictable.",
+      "Free /1 user included.",
+      "$9.00 /mo per additional seat",
+      "Get Started for Free",
+      "Unlimited Locales",
+      "250GB Traffic/month included ( $60.00 /month for 250GB of additional traffic)",
+      "Monthly price if billed monthly: $99.00 /mo",
+      "Monthly price if billed annually: $90.75 /mo",
+      "Try for free",
+      "Monthly price if billed monthly: $849.00 /mo",
+      "Monthly price if billed annually: $778.25 /mo",
+      "Try for free",
+      "Monthly price if billed monthly: $3,299.00 /mo",
+      "Monthly price if billed annually: $3,299.00 /mo",
+      "100 Users included",
+      "Community Free",
+      "Get Started for Free",
+      "Entry $99.00",
+      "Try for Free",
+      "Business $849.00",
+      "Try for Free",
+      "Enterprise $3,299.00",
+      "$9.00",
+      "5TB",
+      "500MB",
+      "1GB",
+      "5GB",
+      "Unlimited Languages",
+      "Assets upload: Max size of 500MB per asset on Community and Entry, 1GB for Business, and 5GB on Enterprise and Enterprise Plus. (more can be requested for Enterprise Plus).",
+      "Sign up for a 14-day free trial or take a tour with us to see how you can build better content experiences, faster with Storyblok.",
+      "Try for Free"
+    ],
+    "removed": [
+      "0 Free forever, 1 seat included. Additional user seat for 9.00/mo.",
+      "Create Free Account",
+      "Unlimited Languages",
+      "Unlimited Locales",
+      "250GB Traffic/month included ( 60/month for 250GB of additional traffic)",
+      "free",
+      "3TB",
+      "Unlimited",
+      "75MB",
+      "250MB",
+      "250MB+",
+      "Unlimited",
+      "Unlimited",
+      "Start for Free",
+      "Best for developers, start for free"
+    ],
+    "totals": {
+      "removed": 165,
+      "added": 212,
+      "materialRemoved": 26,
+      "materialAdded": 42
+    }
+  },
+  {
+    "id": "storyblok-com-pricing-20240522023606",
+    "url": "https://www.storyblok.com/pricing",
+    "ts": "20240522023606",
+    "date": "2024-05-22",
+    "source": "wayback",
+    "prevTs": "20240107195835",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Storyblok: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 38,
+      "added": 63,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "storyblok-com-pricing-20240816195310",
+    "url": "https://www.storyblok.com/pricing",
+    "ts": "20240816195310",
+    "date": "2024-08-16",
+    "source": "wayback",
+    "prevTs": "20240522023606",
+    "kind": "price",
+    "score": 30,
+    "counts": {
+      "price": 6,
+      "limit": 3,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Storyblok: 6 prices, 3 limits, 3 plan names changed (removed “250GB Traffic/month included ( $60.00 /month …”; added “Storyblok Raises $80M Series C - Read News”)",
+    "pairs": [],
+    "added": [
+      "Storyblok Raises $80M Series C - Read News",
+      "Monthly price if billed monthly: Free",
+      "Monthly price if billed annually: Free",
+      "Unlimited",
+      "Unlimited Locales",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Create Free Account",
+      "Discover the full potential of our platform by scheduling your free demo today!"
+    ],
+    "removed": [
+      "Unlimited Locales",
+      "250GB Traffic/month included ( $60.00 /month for 250GB of additional traffic)",
+      "Monthly price if billed monthly: $3,299.00 /mo",
+      "Monthly price if billed annually: $3,299.00 /mo",
+      "30 Users included",
+      "2TB Traffic/month included",
+      "100 Users included",
+      "5TB Traffic/month included",
+      "$190.00 /month for 1TB of additional traffic",
+      "Enterprise $3,299.00",
+      "2TB",
+      "5TB",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Try for Free"
+    ],
+    "totals": {
+      "removed": 79,
+      "added": 82,
+      "materialRemoved": 32,
+      "materialAdded": 18
+    }
+  },
+  {
+    "id": "storyblok-com-pricing-20241202145943",
+    "url": "https://www.storyblok.com/pricing",
+    "ts": "20241202145943",
+    "date": "2024-12-02",
+    "source": "wayback",
+    "prevTs": "20240816195310",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Storyblok: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 10,
+      "added": 20,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "storyblok-com-pricing-20250117020258",
+    "url": "https://www.storyblok.com/pricing",
+    "ts": "20250117020258",
+    "date": "2025-01-17",
+    "source": "wayback",
+    "prevTs": "20241202145943",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Storyblok: 1 price changed (removed “Storyblok Raises $80M Series C - Read News”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Storyblok Raises $80M Series C - Read News"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "storyblok-com-pricing-20250207102414",
+    "url": "https://www.storyblok.com/pricing",
+    "ts": "20250207102414",
+    "date": "2025-02-07",
+    "source": "wayback",
+    "prevTs": "20250117020258",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Storyblok: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 15,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "storyblok-com-pricing-20250408222330",
+    "url": "https://www.storyblok.com/pricing",
+    "ts": "20250408222330",
+    "date": "2025-04-08",
+    "source": "wayback",
+    "prevTs": "20250207102414",
+    "kind": "price",
+    "score": 60,
+    "counts": {
+      "price": 11,
+      "limit": 10,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Storyblok: 11 prices, 10 limits, 4 plan names changed ($9.00 → $15.00; 30 → 10)",
+    "pairs": [
+      {
+        "before": "add new members at $9.00 /mo",
+        "after": "add new members at $15.00 /mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$9.00",
+            "after": "$15.00"
+          }
+        ]
+      },
+      {
+        "before": "Up to 30 user seats",
+        "after": "Up to 10 user seats",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "30",
+            "after": "10"
+          }
+        ]
+      },
+      {
+        "before": "Monthly price if billed monthly: $849.00 /mo",
+        "after": "Monthly price if billed monthly: $349.00 /mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$849.00",
+            "after": "$349.00"
+          }
+        ]
+      },
+      {
+        "before": "Monthly price if billed annually: $778.25 /mo",
+        "after": "Monthly price if billed annually: $319.91 /mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$778.25",
+            "after": "$319.91"
+          }
+        ]
+      },
+      {
+        "before": "add new members at $9.00 /mo",
+        "after": "add new members at $15.00 /mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$9.00",
+            "after": "$15.00"
+          }
+        ]
+      },
+      {
+        "before": "20 Users included",
+        "after": "15 Users included",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "20",
+            "after": "15"
+          }
+        ]
+      },
+      {
+        "before": "Up to 40 user seats",
+        "after": "Up to 20 user seats",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "40",
+            "after": "20"
+          }
+        ]
+      },
+      {
+        "before": "$60.00 /month for 250GB of additional traffic",
+        "after": "$75.00 /month for 250GB of additional traffic",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$60.00",
+            "after": "$75.00"
+          }
+        ]
+      },
+      {
+        "before": "3 days",
+        "after": "30 days",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3",
+            "after": "30"
+          }
+        ]
+      },
+      {
+        "before": "add new members at $9.00 /mo",
+        "after": "add new members at $15.00 /mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$9.00",
+            "after": "$15.00"
+          }
+        ]
+      },
+      {
+        "before": "Up to 10 user seats",
+        "after": "Up to 2 user seats",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10",
+            "after": "2"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Built for any project. Try Storyblok free for 14 days, then upgrade to a paid plan to add more team members and access premium features.",
+      "Pay Annually and get one month free",
+      "Unlimited Stories",
+      "Unlimited Assets",
+      "Unlimited Version Retention",
+      "Get Started for Free (opens in a new window)",
+      "Starter Free",
+      "Growth Plus $349.00",
+      "$15.00",
+      "100GB",
+      "400GB",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "1 day",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited Languages",
+      "Unlimited Locales",
+      "Starter, Growth & Growth Plus: 75/month for 250GB of additional traffic"
+    ],
+    "removed": [
+      "Built for any project. Start for free, or subscribe to one of our paid plans, where pricing is always transparent and predictable.",
+      "Monthly price if billed monthly: Free",
+      "Monthly price if billed annually: Free",
+      "Get Started for Free",
+      "$190.00 /month for 1TB of additional traffic",
+      "Community Free",
+      "Business $849.00",
+      "$9.00",
+      "250GB",
+      "500GB",
+      "60 days",
+      "Unlimited Languages",
+      "Unlimited Locales",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Community, Entry, Business: 60/month for 250GB of additional traffic"
+    ],
+    "totals": {
+      "removed": 160,
+      "added": 166,
+      "materialRemoved": 37,
+      "materialAdded": 43
+    }
+  },
+  {
+    "id": "storyblok-com-pricing-20250530154800",
+    "url": "https://www.storyblok.com/pricing",
+    "ts": "20250530154800",
+    "date": "2025-05-30",
+    "source": "wayback",
+    "prevTs": "20250408222330",
+    "kind": "price",
+    "score": 32,
+    "counts": {
+      "price": 6,
+      "limit": 7,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Storyblok: 6 prices, 7 limits changed (500GB → 400GB; $60.00 → $75.00)",
+    "pairs": [
+      {
+        "before": "500GB Traffic/month included",
+        "after": "400GB Traffic/month included",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "500GB",
+            "after": "400GB"
+          }
+        ]
+      },
+      {
+        "before": "$60.00 /month for 250GB of additional traffic",
+        "after": "$75.00 /month for 250GB of additional traffic",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$60.00",
+            "after": "$75.00"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "100GB",
+      "1TB",
+      "2TB",
+      "Price per additional volume of traffic (250GB)",
+      "$75.00",
+      "Price per additional API requests (1M)",
+      "$10.00",
+      "Unlimited",
+      "Price per additional stories (1k)",
+      "$5.00",
+      "Unlimited",
+      "$20.00",
+      "Unlimited",
+      "Price per additional assets (10k)",
+      "$5.00",
+      "1,000MB",
+      "5,000MB",
+      "Unlimited",
+      "Weekly, 180 days",
+      "Unlimited"
+    ],
+    "removed": [
+      "Unlimited",
+      "Unlimited",
+      "1GB",
+      "5GB",
+      "Unlimited Languages",
+      "Unlimited Locales"
+    ],
+    "totals": {
+      "removed": 68,
+      "added": 95,
+      "materialRemoved": 10,
+      "materialAdded": 24
+    }
+  },
+  {
+    "id": "storyblok-com-pricing-20250609201843",
+    "url": "https://www.storyblok.com/pricing",
+    "ts": "20250609201843",
+    "date": "2025-06-09",
+    "source": "wayback",
+    "prevTs": "20250530154800",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Storyblok: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 6,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "storyblok-com-pricing-20250815064429",
+    "url": "https://www.storyblok.com/pricing",
+    "ts": "20250815064429",
+    "date": "2025-08-15",
+    "source": "wayback",
+    "prevTs": "20250609201843",
+    "kind": "limits",
+    "score": 8,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Storyblok: 1 limit, 3 plan names changed (removed “Built for any project. Try Storyblok free for…”; added “Create your free account to start building in…”)",
+    "pairs": [],
+    "added": [
+      "The Starter plan is always free with no credit card required. Upgrade at any time for premium features.",
+      "Get Started Free",
+      "Try for Free",
+      "Create your free account to start building in just 5 minutes.",
+      "Schedule a free personalized walkthrough to discuss your goals."
+    ],
+    "removed": [
+      "Built for any project. Try Storyblok free for 14 days, then upgrade to a paid plan to add more team members and access premium features.",
+      "Unlimited Assets",
+      "Create Free Account",
+      "Start your 14-day free trial now and start creating stand out digital experiences with content today!",
+      "Discover the full potential of our platform by scheduling your free demo today!"
+    ],
+    "totals": {
+      "removed": 9,
+      "added": 11,
+      "materialRemoved": 5,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "storyblok-com-pricing-20251121083121",
+    "url": "https://www.storyblok.com/pricing",
+    "ts": "20251121083121",
+    "date": "2025-11-21",
+    "source": "wayback",
+    "prevTs": "20250815064429",
+    "kind": "price",
+    "score": 45,
+    "counts": {
+      "price": 9,
+      "limit": 7,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Storyblok: 9 prices, 7 limits, 2 plan names changed (removed “Enterprise: 190/month for 1TB of additional t…”; added “add 1 more user at $15.00 /mo”)",
+    "pairs": [],
+    "added": [
+      "Monthly price if billed monthly: Free",
+      "Monthly price if billed annually: Free",
+      "add 1 more user at $15.00 /mo",
+      "Get Started for Free",
+      "100k API requests/month",
+      "100k AI tokens",
+      "Free for 14 Days",
+      "$15.00 /month each additional user",
+      "1M API requests/month included",
+      "Up to 5M API requests",
+      "$10.00 /month per 1M API requests",
+      "Unlimited locales available",
+      "$20.00 /month per additional locale",
+      "250k AI tokens",
+      "Free for 14 Days",
+      "$15.00 /month each additional user",
+      "Up to 2TB traffic / month",
+      "4M API requests/month included",
+      "Up to 15M API requests",
+      "$10.00 /month per 1M API requests",
+      "Unlimited locales available",
+      "$20.00 /month per additional locale",
+      "250K AI tokens",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "100GB",
+      "1TB",
+      "Unlimited",
+      "Unlimited",
+      "$20.00 per 200.000",
+      "Unlimited",
+      "Headless users spent an average of nearly $88,500 less than businesses with monolithic legacy systems."
+    ],
+    "removed": [
+      "Try for Free",
+      "Try for Free",
+      "Unlimited Stories",
+      "Unlimited Version Retention",
+      "Get Started for Free (opens in a new window)",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Enterprise: 190/month for 1TB of additional traffic"
+    ],
+    "totals": {
+      "removed": 246,
+      "added": 282,
+      "materialRemoved": 39,
+      "materialAdded": 60
+    }
+  },
+  {
+    "id": "storyblok-com-pricing-20260218213051",
+    "url": "https://www.storyblok.com/pricing",
+    "ts": "20260218213051",
+    "date": "2026-02-18",
+    "source": "wayback",
+    "prevTs": "20251121083121",
+    "kind": "price",
+    "score": 32,
+    "counts": {
+      "price": 4,
+      "limit": 6,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Storyblok: 4 prices, 6 limits, 4 plan names changed (5GB removed)",
+    "pairs": [
+      {
+        "before": "Assets upload: Max size of 500MB per asset on Starter, 1GB for Growth & Growth Plus, and 5GB on Enterprise.",
+        "after": "Assets upload: Max size of 500MB per asset on Starter, 1GB for Growth & Growth Plus.",
+        "confidence": 0.86,
+        "deltas": [
+          {
+            "before": "5GB",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free to go live.",
+      "Publish your project with a 45-day free trial of our Growth Plus plan, then continue on the plan of your choice.",
+      "Start 45-Day Free Trial",
+      "Start Free Trial",
+      "Start Free Trial",
+      "100k AI credits / month included",
+      "Up to 500k AI credits",
+      "$20.00 /month per 200k AI credits",
+      "Start Free Trial",
+      "200k AI credits / month included",
+      "Up to 1M AI credits",
+      "$20.00 /month per 200k AI credits",
+      "Price per additional AI credits (200k)",
+      "$20.00",
+      "start building, and publish, all for free.",
+      "No! Every space comes with a 45-day free trial on our Growth Plus plan. At any time you can provide payment for a plan with the features you want, or continue building on the Starter plan, which is always free and requires no credit card."
+    ],
+    "removed": [
+      "The Starter plan is always free with no credit card required. Upgrade at any time for premium features.",
+      "Get Started Free",
+      "Get Started for Free",
+      "Free for 14 Days",
+      "250k AI tokens",
+      "Free for 14 Days",
+      "250K AI tokens",
+      "$20.00 per 200.000",
+      "Starter, Growth & Growth Plus: 75/month for 250GB of additional traffic"
+    ],
+    "totals": {
+      "removed": 30,
+      "added": 36,
+      "materialRemoved": 14,
+      "materialAdded": 21
+    }
+  },
+  {
+    "id": "storyblok-com-pricing-20260317174427",
+    "url": "https://www.storyblok.com/pricing",
+    "ts": "20260317174427",
+    "date": "2026-03-17",
+    "source": "wayback",
+    "prevTs": "20260218213051",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Storyblok: 1 limit changed (100k → 25k)",
+    "pairs": [
+      {
+        "before": "100k AI credits",
+        "after": "25k AI credits",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100k",
+            "after": "25k"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 11,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "storyblok-com-pricing-20260508011720",
+    "url": "https://www.storyblok.com/pricing",
+    "ts": "20260508011720",
+    "date": "2026-05-08",
+    "source": "wayback",
+    "prevTs": "20260317174427",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Storyblok: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "365 days"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 42,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "storyblok-com-pricing-20260617212102",
+    "url": "https://www.storyblok.com/pricing",
+    "ts": "20260617212102",
+    "date": "2026-06-17",
+    "source": "wayback",
+    "prevTs": "20260508011720",
+    "kind": "price",
+    "score": 54,
+    "counts": {
+      "price": 15,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Storyblok: 15 prices, 5 limits changed ($15.00 → 2; $15.00 → 10)",
+    "pairs": [
+      {
+        "before": "$15.00 /month for additional seats",
+        "after": "Up to 2 user seats $15.00 /month for additional seats",
+        "confidence": 0.8,
+        "deltas": [
+          {
+            "before": "$15.00",
+            "after": "2"
+          },
+          {
+            "before": null,
+            "after": "$15.00"
+          }
+        ]
+      },
+      {
+        "before": "$15.00 /month each additional user",
+        "after": "Up to 10 user seats $15.00 /month each additional user",
+        "confidence": 0.8,
+        "deltas": [
+          {
+            "before": "$15.00",
+            "after": "10"
+          },
+          {
+            "before": null,
+            "after": "$15.00"
+          }
+        ]
+      },
+      {
+        "before": "$75.00 /month for each 250GB extra",
+        "after": "Up to 1TB traffic / month $75.00 /month for each 250GB extra",
+        "confidence": 0.71,
+        "deltas": [
+          {
+            "before": "$75.00",
+            "after": "1TB"
+          },
+          {
+            "before": "250GB",
+            "after": "$75.00"
+          },
+          {
+            "before": null,
+            "after": "250GB"
+          }
+        ]
+      },
+      {
+        "before": "$10.00 /month per 1M API requests",
+        "after": "Up to 5M API requests $10.00 /month per 1M API requests",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$10.00",
+            "after": "5M"
+          },
+          {
+            "before": "1M",
+            "after": "$10.00"
+          },
+          {
+            "before": null,
+            "after": "1M"
+          }
+        ]
+      },
+      {
+        "before": "$20.00 /month per 200k AI credits",
+        "after": "Up to 500k AI credits $20.00 /month per 200k AI credits",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$20.00",
+            "after": "500k"
+          },
+          {
+            "before": "200k",
+            "after": "$20.00"
+          },
+          {
+            "before": null,
+            "after": "200k"
+          }
+        ]
+      },
+      {
+        "before": "$15.00 /month each additional user",
+        "after": "Up to 20 user seats $15.00 /month each additional user",
+        "confidence": 0.8,
+        "deltas": [
+          {
+            "before": "$15.00",
+            "after": "20"
+          },
+          {
+            "before": null,
+            "after": "$15.00"
+          }
+        ]
+      },
+      {
+        "before": "$75.00 /month for each 250GB extra",
+        "after": "Up to 2TB traffic / month $75.00 /month for each 250GB extra",
+        "confidence": 0.71,
+        "deltas": [
+          {
+            "before": "$75.00",
+            "after": "2TB"
+          },
+          {
+            "before": "250GB",
+            "after": "$75.00"
+          },
+          {
+            "before": null,
+            "after": "250GB"
+          }
+        ]
+      },
+      {
+        "before": "$10.00 /month per 1M API requests",
+        "after": "Up to 15M API requests $10.00 /month per 1M API requests",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$10.00",
+            "after": "15M"
+          },
+          {
+            "before": "1M",
+            "after": "$10.00"
+          },
+          {
+            "before": null,
+            "after": "1M"
+          }
+        ]
+      },
+      {
+        "before": "$20.00 /month per 200k AI credits",
+        "after": "Up to 1M AI credits $20.00 /month per 200k AI credits",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$20.00",
+            "after": "1M"
+          },
+          {
+            "before": "200k",
+            "after": "$20.00"
+          },
+          {
+            "before": null,
+            "after": "200k"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Includes 1 team member seat, add 1 more user at $15.00 /month",
+      "Includes 5 team member seats, add more users at $15.00 /month",
+      "Includes 15 team member seats, add new members at $15.00 /month"
+    ],
+    "removed": [
+      "add 1 more user at $15.00 /month",
+      "Up to 2 user seats",
+      "add more users at $15.00 /month",
+      "Up to 10 user seats",
+      "Up to 1TB traffic / month",
+      "Up to 5M API requests",
+      "Unlimited locales available",
+      "Up to 500k AI credits",
+      "add new members at $15.00 /month",
+      "Up to 20 user seats",
+      "Up to 2TB traffic / month",
+      "Up to 15M API requests",
+      "Unlimited locales available",
+      "Up to 1M AI credits"
+    ],
+    "totals": {
+      "removed": 36,
+      "added": 30,
+      "materialRemoved": 27,
+      "materialAdded": 16
+    }
+  },
+  {
+    "id": "storyblok-com-pricing-20260723160749",
+    "url": "https://www.storyblok.com/pricing",
+    "ts": "20260723160749",
+    "date": "2026-07-23",
+    "source": "wayback",
+    "prevTs": "20260617212102",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Storyblok: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "storyblok-com-pricing-20260822044148",
+    "url": "https://www.storyblok.com/pricing",
+    "ts": "20260822044148",
+    "date": "2026-08-22",
+    "source": "wayback",
+    "prevTs": "20260723160749",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Storyblok: 1 price changed (added “Exclusive new data reveals that content debt …”)",
+    "pairs": [],
+    "added": [
+      "Exclusive new data reveals that content debt costs $4.63 trillion globally. Read the full report",
+      "Unlimited"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 21,
+      "added": 23,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  }
+]

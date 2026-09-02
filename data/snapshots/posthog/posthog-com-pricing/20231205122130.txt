@@ -1,0 +1,362 @@
+Pricing
+Use PostHog free forever (with generous usage limits).
+Or pay per use and get unrestricted access to everything.
+Each product is priced separately.
+Get started - free
+Product analytics
+Free
+No credit card required
+Unlimited
+All features, no limitations
+Events
+1,000,000 /mo
+Unlimited
+Features
+Dashboards
+Included
+Funnels
+Included
+Graphs & trends
+Included
+Paths
+Limited
+Included
+Insight & dashboard subscriptions
+Not included
+Included
+Advanced paths
+Not included
+Included
+Dashboard permissions
+Not included
+Included
+Tags & text cards
+Not included
+Included
+Ingestion taxonomy
+Not included
+Included
+Correlation analysis
+Not included
+Included
+Dashboard tags
+Not included
+Included
+Lifecycle cohorts
+Not included
+Included
+Data retention
+1 year
+7 years
+Group analytics
+Addon
+Available
+Monthly pricing
+First 1 million events
+Free
+1-2 million
+-
+$0.0003100
+2-15 million
+-
+$0.0001300
+15-50 million
+-
+$0.0000819
+50-100 million
+-
+$0.0000455
+100-250 million
+-
+$0.0000234
+250 million +
+-
+$0.0000052
+Get started - free
+Session replay
+Free
+No credit card required
+Unlimited
+All features, no limitations
+Recordings
+15,000 /mo
+Unlimited
+Features
+Console logs
+Included
+Recording playlists
+5 playlists
+Included
+Network performance on recordings
+Not included
+Included
+Recordings file export
+Not included
+Included
+Data retention
+1 month
+3 months
+Monthly pricing
+First 15k recordings
+Free
+15-50k
+-
+$0.0050
+50-150k
+-
+$0.0045
+150-500k
+-
+$0.0040
+500k +
+-
+$0.0035
+Get started - free
+Feature flags & A/B testing
+Free
+No credit card required
+Unlimited
+All features, no limitations
+Requests
+1,000,000 /mo
+Unlimited
+Features
+Boolean feature flags
+Included
+Multivariate feature flags & experiments
+Not included
+Included
+Persist flags across authentication
+Included
+Payloads
+Included
+Multiple release conditions
+Included
+Release condition overrides
+Included
+Flag targeting by groups
+Included
+Local evaluation & bootstrapping
+Included
+Flag usage stats
+Included
+A/B testing
+Not included
+Included
+Group experiments
+Not included
+Included
+Funnel & trend experiments
+Not included
+Included
+Secondary experiment metrics
+Not included
+Included
+Statistical analysis
+Not included
+Included
+Data retention
+1 year
+7 years
+Monthly pricing
+First 1 million requests
+Free
+1-2 million
+-
+$0.000100
+2-10 million
+-
+$0.000045
+10-50 million
+-
+$0.000025
+50 million +
+-
+$0.000010
+Get started - free
+Surveys
+Free
+No credit card required
+Unlimited
+All features, no limitations
+Survey responses
+250 /mo
+Unlimited
+Features
+Unlimited surveys
+Included
+All question types
+Included
+Multiple questions
+Not included
+Included
+User property targeting
+Included
+User sampling
+Included
+Custom colors & positioning
+Not included
+Included
+Custom HTML text
+Not included
+Included
+API mode
+Included
+Results analysis
+Included
+Templates
+Included
+Data retention
+1 year
+7 years
+Monthly pricing
+First 250 survey responses
+Free
+250-500
+-
+$0.200
+500-1k
+-
+$0.100
+1-10k
+-
+$0.035
+10-20k
+-
+$0.015
+20k +
+-
+$0.010
+Get started - free
+Features
+Zapier
+Included
+Slack
+Included
+Microsoft Teams
+Included
+Discord
+Included
+CDP + Apps library
+Included
+App metrics
+Not included
+Included
+Monthly pricing
+Free
+Paid
+Get started - free
+Features
+Tracked users
+Unlimited
+Team members
+Unlimited
+Projects
+1 project
+Unlimited
+API access
+Included
+SSO via Google, Github, or Gitlab
+Included
+Project permissions
+Not included
+Included
+White labeling
+Not included
+Included
+Community support
+Included
+Slack (dedicated channel)
+Not included
+$2k/month spend or above
+Direct access to engineers
+Not included
+Included
+Terms and conditions
+Standard
+Security assessment
+Not included
+Included
+Monthly pricing
+Free
+Paid
+Get started - free
+Pricing calculator
+How do I estimate my usage?
+Product
+Subtotal
+Product analytics + data stack 1,000,000 events
+1M 10M 100M 1B
+$ 0
+Session replay 15,000 recordings
+15k 50k 150k 500k
+$ 0
+Feature flags 1,000,000 requests
+1M 10M 100M 1B
+$ 0
+Surveys 250 responses
+250 2k 15k 100k
+$ 0
+Monthly estimate
+Cost with billing limits set at your selections
+$ 0 /mo
+Discounts
+Non-profits
+50% off in most cases. Get in touch after signing up.
+Startups
+If your startup is under two years old and has raised less than $5m, check out our startup program
+.
+More options
+Enterprise
+SSO enforcement and SAML SSO
+Compliance and advanced permissioning features
+Dedicated support, training, and custom pricing
+Get in touch
+Open-Source
+Deploy with Docker on your own server.
+Great for internal tools or evaluating without vendor approvals.
+MIT licensed, no support provided - BYOEngineers!
+Read the docs
+Questions
+How do I know what my volume is?
+Tim Glaser
+The easiest way is to sign up for the Free plan. You'll get an accurate volume projection after just a few days.
+Do I pay anything for stored events?
+Simon Fisher
+No, you only pay the fee per captured event in a given month (i.e. you only pay when each event is first received). There are no additional costs or fees.
+How long do you retain data?
+Tiina Turban
+Data (except recordings, see below) is guaranteed to be retained for 7 years on any paid plan and 1 year on a free plan. After 1 year, data may be moved into cold storage so queries may run more slowly.
+How long do you retain recordings?
+Rick Marron
+Recordings are kept on Clickhouse-based installations for 1 month. For paid customers on PostHog cloud, recordings are kept for 3 months.
+What happens after the data retention period elapses?
+Marius Andra
+Any event or user data stored for more than the retention period may be permanently deleted from our systems.
+Is there a free trial on paid plans?
+Michael Matloka
+We have a generous free tier on every paid plan so you can try out the features before paying any money (though you will need to enter your credit card info). If you have additional needs, such as enterprise features, please get in touch.
+What currency are your prices in?
+James Hawkins
+All prices are in US Dollars (USD), excluding taxes.
+Do you offer a discount for non-profits?
+Eric Duong
+Yes in most cases - 50% off any plan. Create your account, then email sales@posthog.com from the same email address with some basic details on your organization. We will then apply a discount.
+Are there any minimums or annual commitments?
+Cameron DeLeone
+Nope. We can, however, offer annual commitments (for example, to maintain pricing) if you need them as part of an enterprise agreement.
+PostHog is the first analytics platform where I can be 100% confident in the data. I've finally got the data insight platform I've always wanted as a Product person.
+Looking for the signup button?
+(I’ll take you there.)
+Beam me up!
+All products
+Product Analytics
+Session Replay
+Feature Flags
+A/B Testing
+Surveys
+Products
+Pricing
+Docs
+Community
+Company

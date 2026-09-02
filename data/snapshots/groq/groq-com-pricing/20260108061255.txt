@@ -1,0 +1,254 @@
+Smart, Fast, and Affordable
+Unmatched Price Performance
+Fast responses, scalable performance, and costs you can plan for.
+Start Building
+Large Language Models
+*Approximate number of tokens per $ AI Model
+Current Speed (Tokens per Second)
+Input Token Price (Per Million Tokens)
+Output Token Price (Per Million Tokens)
+AI Model
+GPT OSS 20B 128k
+Current Speed
+1,000 TPS
+Input Token Price (Per Million Tokens)
+$0.075 (13.3M / $1)*
+Output Token Price (Per Million Tokens)
+$0.30 (3.33M / $1)*
+Try Now
+Model Card
+AI Model
+GPT OSS Safeguard 20B
+Current Speed
+1,000 TPS
+Input Token Price (Per Million Tokens)
+$0.075 (13.3M / $1)*
+Output Token Price (Per Million Tokens)
+$0.30 (3.33M / $1)*
+Try Now
+Model Card
+AI Model
+GPT OSS 120B 128k
+Current Speed
+500 TPS
+Input Token Price (Per Million Tokens)
+$0.15 (6.67M / $1)*
+Output Token Price (Per Million Tokens)
+$0.60 (1.66M / $1)*
+Try Now
+Model Card
+AI Model
+Kimi K2-0905 1T 256k
+Current Speed
+200 TPS
+Input Token Price (Per Million Tokens)
+$1.00 (1M / $1)*
+Output Token Price (Per Million Tokens)
+$3.00 (333,333 / $1)*
+Try Now
+Model Card
+AI Model
+Llama 4 Scout (17Bx16E) 128k
+Current Speed
+594 TPS
+Input Token Price (Per Million Tokens)
+$0.11 (9.09M / $1)*
+Output Token Price (Per Million Tokens)
+$0.34 (2.94M / $1)*
+Try Now
+Model Card
+AI Model
+Llama 4 Maverick (17Bx128E) 128k
+Current Speed
+562 TPS
+Input Token Price (Per Million Tokens)
+$0.20 (5M / $1)*
+Output Token Price (Per Million Tokens)
+$0.60 (1.6M / $1)*
+Try Now
+Model Card
+AI Model
+Llama Guard 4 12B 128k
+Current Speed
+325 TPS
+Input Token Price (Per Million Tokens)
+$0.20 (5M / $1)*
+Output Token Price (Per Million Tokens)
+$0.20 (5M / $1)*
+Try Now
+Model Card
+AI Model
+Qwen3 32B 131k
+Current Speed
+662 TPS
+Input Token Price (Per Million Tokens)
+$0.29 (3.44M / $1)*
+Output Token Price (Per Million Tokens)
+$0.59 (1.69M / $1)*
+Try Now
+Model Card
+AI Model
+Llama 3.3 70B Versatile 128k
+Current Speed
+394 TPS
+Input Token Price (Per Million Tokens)
+$0.59 (1.69M / $1)*
+Output Token Price (Per Million Tokens)
+$0.79 (1.27M / $1)*
+Try Now
+Model Card
+AI Model
+Llama 3.1 8B Instant 128k
+Current Speed
+840 TPS
+Input Token Price (Per Million Tokens)
+$0.05 (20M / $1)*
+Output Token Price (Per Million Tokens)
+$0.08 (12.5M / $1)*
+Try Now
+Model Card
+Text-to-Speech Models
+AI Model
+Characters /s
+Price Price (Per M Characters)
+AI Model
+Canopy Labs Orpheus English
+Characters /s
+100
+Price
+$22.00
+Try Now
+Model Card
+AI Model
+Canopy Labs Orpheus Arabic Saudi
+Characters /s
+100
+Price
+$40.00
+Try Now
+Model Card
+Automatic Speech Recognition (ASR) Models
+*Audio is billed at a minimum of 10s per request. AI Model
+Speed Factor
+Price (Per Hour Transcribed)
+AI Model
+Whisper V3 Large
+Speed Factor
+217x
+Price
+$0.111*
+Try Now
+Model Card
+AI Model
+Whisper Large v3 Turbo
+Speed Factor
+228x
+Price
+$0.04*
+Try Now
+Model Card
+Prompt Caching
+Note: No extra fee for the caching feature itself. The discount only applies when a cache hit occurs. Model
+Uncached Input Tokens (Per M Tokens)
+Cached Input Tokens (Per M Tokens)
+Output Tokens (Per M Tokens)
+Model
+moonshotai/kimi-k2-instruct-0905
+Uncached Input Tokens (Per M Tokens)
+$1.00
+Cached Input Tokens (Per M Tokens)
+$0.50
+Output Tokens (Per M Tokens)
+$3.00
+Model
+openai/gpt-oss-120b
+Uncached Input Tokens (Per M Tokens)
+$0.15
+Cached Input Tokens (Per M Tokens)
+$0.075
+Output Tokens (Per M Tokens)
+$0.60
+Model
+openai/gpt-oss-20b
+Uncached Input Tokens (Per M Tokens)
+$0.075
+Cached Input Tokens (Per M Tokens)
+$0.0375
+Output Tokens (Per M Tokens)
+$0.30
+Built-In Tools (Compound)
+Tool
+Price
+Parameter
+Tool
+Basic Search
+Price
+$5 / 1000 requests
+Parameter
+web_search
+Tool
+Advanced Search
+Price
+$8 / 1000 requests
+Parameter
+web_search
+Tool
+Visit Website
+Price
+$1 / 1000 requests
+Parameter
+visit_website
+Tool
+Code Execution
+Price
+$0.18 / hour
+Parameter
+code_interpreter
+Tool
+Browser Automation
+Price
+$0.08 / hour
+Parameter
+browser_automation
+Built-In Tools (GPT-OSS)
+Tool
+Price
+Parameter
+Tool
+Browser Search - Basic Search
+Price
+$5 / 1000 requests
+Parameter
+browser_search - browser.search
+Tool
+Browser Search - Visit Website
+Price
+$1 / 1000 requests
+Parameter
+browser_search - browser.open
+Tool
+Code Execution - Python
+Price
+$0.18 / hour
+Parameter
+code_interpreter - python
+About Our Pricing
+No Surprise Inference Bills
+Other inference providers spike costs without warning. Some hide behind elastic pricing. Groq pricing is linear and predictable, with no hidden costs or idle infrastructure. Every new user is growth, not risk, and you can keep margins secure.
+Get started for free
+and upgrade as your needs grow. View the pricing of our core models above and note all prices are in USD. Other models are available for specific customer requests including fine tuned models. Send us your inquiries here
+.
+Get Started
+Compound Systems
+Intelligent Tool Selection Across Multiple Models
+Compound AI systems are powered by multiple openly-available models already supported in GroqCloud to intelligently and selectively use tools to answer user queries, starting first with web search and code execution.Pricing is passed through to the underlying models and server side tools that are part of the compound AI system.
+Read Documentation
+Batch API
+Process Large-Scale Workloads Asynchronously
+Batch processing lets you run thousands of API requests at scale by submitting your workload as an asynchronous batch of requests to Groq with 50% lower cost, no impact to your standard rate limits, and 24-hour to 7 day processing window.
+For enterprise API solutions or on-prem deployments, please fill out the form on our Enterprise Access Page
+.
+Learn More
+Build Fast
+Seamlessly integrate Groq starting with just a few lines of code
+Try Groq for Free

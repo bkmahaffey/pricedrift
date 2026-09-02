@@ -1,0 +1,367 @@
+[
+  {
+    "id": "buttondown-com-pricing-20250503182154",
+    "url": "https://buttondown.com/pricing",
+    "ts": "20250503182154",
+    "date": "2025-05-03",
+    "source": "wayback",
+    "prevTs": "20240809173601",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Buttondown: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "No credit card required. Only pay for what you use. Cancel anytime."
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 18,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "buttondown-com-pricing-20250613033131",
+    "url": "https://buttondown.com/pricing",
+    "ts": "20250613033131",
+    "date": "2025-06-13",
+    "source": "wayback",
+    "prevTs": "20250503182154",
+    "kind": "price",
+    "score": 21,
+    "counts": {
+      "price": 7,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Buttondown: 7 prices changed ($29 → $9; $50 → $70)",
+    "pairs": [
+      {
+        "before": "$ 29 /month or $ 290 /year (18% off!)",
+        "after": "$ 9 /month or $ 90 /year (18% off!)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$29",
+            "after": "$9"
+          },
+          {
+            "before": "$290",
+            "after": "$90"
+          }
+        ]
+      },
+      {
+        "before": "+$ 50 /month",
+        "after": "+$ 70 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$50",
+            "after": "$70"
+          }
+        ]
+      },
+      {
+        "before": "+$ 50 /month",
+        "after": "+$ 70 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$50",
+            "after": "$70"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "+$ 20 /month",
+      "+$ 20 /month",
+      "+$ 20 /month",
+      "Our pricing used to be a lot simpler, because the product was simpler. We charged $25/month for smaller lists and $75/month for larger lists. The latter plan got you a few extra features."
+    ],
+    "removed": [
+      "We only charge for what you use. Many email providers charge for your unused subscribers or services that won’t be relevant to your work. We charge only for active subscribers, let you use features à la carte, and add features to larger lists for free, because we’re nice."
+    ],
+    "totals": {
+      "removed": 22,
+      "added": 34,
+      "materialRemoved": 4,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "buttondown-com-pricing-20250810190217",
+    "url": "https://buttondown.com/pricing",
+    "ts": "20250810190217",
+    "date": "2025-08-10",
+    "source": "wayback",
+    "prevTs": "20250613033131",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Buttondown: 1 price changed (removed “Our pricing used to be a lot simpler, because…”)",
+    "pairs": [],
+    "added": [
+      "Finally had enough with your current provider? We'll migrate your list, free of charge."
+    ],
+    "removed": [
+      "Get started for free",
+      "No credit card required. Only pay for what you use. Cancel anytime.",
+      "Our pricing used to be a lot simpler, because the product was simpler. We charged $25/month for smaller lists and $75/month for larger lists. The latter plan got you a few extra features."
+    ],
+    "totals": {
+      "removed": 34,
+      "added": 6,
+      "materialRemoved": 3,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "buttondown-com-pricing-20251209042737",
+    "url": "https://buttondown.com/pricing",
+    "ts": "20251209042737",
+    "date": "2025-12-09",
+    "source": "wayback",
+    "prevTs": "20250810190217",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Buttondown: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "We only charge for what you use. Many email providers charge for your unused subscribers or services that won’t be relevant to your work. We charge only for active subscribers, let you use features à la carte, and add features to larger lists for free, because we’re nice."
+    ],
+    "removed": [
+      "Finally had enough with your current provider? We'll migrate your list, free of charge."
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 27,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "buttondown-com-pricing-20260114002850",
+    "url": "https://buttondown.com/pricing",
+    "ts": "20260114002850",
+    "date": "2026-01-14",
+    "source": "wayback",
+    "prevTs": "20251209042737",
+    "kind": "price",
+    "score": 39,
+    "counts": {
+      "price": 12,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Buttondown: 12 prices, 1 limit, 1 plan name changed ($20 → $29; $20 → $29)",
+    "pairs": [
+      {
+        "before": "+$ 20 /month",
+        "after": "+$ 29 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$20",
+            "after": "$29"
+          }
+        ]
+      },
+      {
+        "before": "+$ 20 /month",
+        "after": "+$ 29 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$20",
+            "after": "$29"
+          }
+        ]
+      },
+      {
+        "before": "+$ 20 /month",
+        "after": "+$ 29 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$20",
+            "after": "$29"
+          }
+        ]
+      },
+      {
+        "before": "+$ 70 /month",
+        "after": "+$ 79 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$70",
+            "after": "$79"
+          }
+        ]
+      },
+      {
+        "before": "+$ 70 /month",
+        "after": "+$ 79 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$70",
+            "after": "$79"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Absolutely nothing for your first 100 subscribers.",
+      "+$ 9 /month",
+      "+$ 9 /month",
+      "+$ 9 /month",
+      "+$ 9 /month",
+      "+$ 9 /month",
+      "+$ 9 /month"
+    ],
+    "removed": [
+      "$ 9 /month or $ 90 /year (18% off!)",
+      "Free migration"
+    ],
+    "totals": {
+      "removed": 14,
+      "added": 17,
+      "materialRemoved": 7,
+      "materialAdded": 12
+    }
+  },
+  {
+    "id": "buttondown-com-pricing-20260512191738",
+    "url": "https://buttondown.com/pricing",
+    "ts": "20260512191738",
+    "date": "2026-05-12",
+    "source": "wayback",
+    "prevTs": "20260114002850",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Buttondown: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Start a new list for free"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 5,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "buttondown-com-pricing-20260617041417",
+    "url": "https://buttondown.com/pricing",
+    "ts": "20260617041417",
+    "date": "2026-06-17",
+    "source": "wayback",
+    "prevTs": "20260512191738",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Buttondown: 1 price changed (added “+$ 9 /month”)",
+    "pairs": [],
+    "added": [
+      "+$ 9 /month"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "buttondown-com-pricing-20260809143603",
+    "url": "https://buttondown.com/pricing",
+    "ts": "20260809143603",
+    "date": "2026-08-09",
+    "source": "wayback",
+    "prevTs": "20260617041417",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Buttondown: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Get started for free"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 6,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "buttondown-com-pricing-20260902202107",
+    "url": "https://buttondown.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260809143603",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Buttondown: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

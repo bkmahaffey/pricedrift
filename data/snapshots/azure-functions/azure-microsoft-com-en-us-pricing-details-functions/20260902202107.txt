@@ -1,0 +1,287 @@
+This browser is no longer supported.
+Upgrade to Microsoft Edge to take advantage of the latest features, security updates, and technical support.
+Download Microsoft Edge
+More information
+Skip to main content
+Home
+Azure pricing
+Azure Functions pricing
+Request a pricing quote
+Try Azure for free
+Execute event-driven serverless code functions with an end-to-end development experience
+Azure Functions provide a serverless development experience supporting a robust set of event triggers and data bindings.
+Explore pricing options
+Pay as you go
+Pay for compute capacity by the second, with no long-term commitments or upfront payments. Increase or decrease consumption on demand.
+Learn more
+Azure savings plan for compute
+Save money across select compute services globally by committing to spend a fixed hourly amount for 1 or 3 years, unlocking lower prices until you reach your hourly commitment. Suited for dynamic workloads while accommodating for planned or unplanned changes.
+Learn more
+Apply filters to customize pricing options to your needs.
+Prices are estimates only and are not intended as actual price quotes. Actual pricing may vary depending on the type of agreement entered with Microsoft, date of purchase, and the currency exchange rate. Prices are calculated based on US dollars and converted using London closing spot rates that are captured in the two business days prior to the last business day of the previous month end. If the two business days prior to the end of the month fall on a bank holiday in major markets, the rate se
+to see pricing based on your current program/offer with Microsoft. Contact an Azure sales specialist
+for more information on pricing or to request a price quote. See frequently asked questions
+about Azure pricing.
+Region:
+Central US
+East US
+East US 2
+North Central US
+South Central US
+West Central US
+West US
+West US 2
+West US 3
+UK South
+UK West
+UAE Central
+UAE North
+Switzerland North
+Switzerland West
+Sweden Central
+Sweden South
+Spain Central
+Qatar Central
+Poland Central
+Norway East
+Norway West
+New Zealand North
+Mexico Central
+Malaysia West
+Korea Central
+Korea South
+Japan East
+Japan West
+Italy North
+Israel Central
+Indonesia Central
+Central India
+India South Central
+South India
+West India
+Germany North
+Germany West Central
+France Central
+France South
+North Europe
+West Europe
+Denmark East
+Chile Central
+Canada Central
+Canada East
+Brazil South
+Brazil Southeast
+Belgium Central
+US Gov Arizona
+US Gov Texas
+US Gov Virginia
+Austria East
+Australia Central
+Australia Central 2
+Australia East
+Australia Southeast
+East Asia
+Southeast Asia
+South Africa North
+South Africa West
+Currency:
+United States – Dollar ($) USD
+Australia – Dollar ($) AUD
+Brazil – Real (R$) BRL
+Canada – Dollar ($) CAD
+Denmark – Krone (kr) DKK
+Euro Zone – Euro (€) EUR
+India – Rupee (₹) INR
+Japan – Yen (¥) JPY
+Korea – Won (₩) KRW
+New Zealand – Dollar ($) NZD
+Norway – Krone (kr) NOK
+Russia – Ruble (руб) RUB
+Sweden – Krona (kr) SEK
+Switzerland – Franc (chf) CHF
+Taiwan – Dollar (NT$) TWD
+United Kingdom – Pound (£) GBP
+Display pricing by:
+Hour
+Month
+US government entities are eligible to purchase Azure Government services from a licensing solution provider with no upfront financial commitment, or directly through a pay-as-you-go online subscription.
+Learn more
+Important—The price in R$ is merely a reference; this is an international transaction and the final price is subject to exchange rates and the inclusion of IOF taxes. An eNF will not be issued.
+US government entities are eligible to purchase Azure Government services from a licensing solution provider with no upfront financial commitment, or directly through a pay-as-you-go online subscription.
+Learn more
+Important—The price in R$ is merely a reference; this is an international transaction and the final price is subject to exchange rates and the inclusion of IOF taxes. An eNF will not be issued.
+Flex Consumption
+When creating your plan you can choose from a list of memory instance sizes. Azure Functions flex consumption plan is billed based on two modes:
+On Demand – event driven instances scaled based on configured per instance concurrency. Billed only when instances are executing functions, with no minimum instance count required. You will be billed for the total amount of memory provisioned while each On-Demand instance is executing functions, and for the total number of executions.
+Always Ready – an optional number of instances that can be configured to be always enabled and assigned to different triggers and functions of the app. You will be billed for the total amount of memory provisioned for a baseline while each Always Ready instance is idle; for the total amount of memory provisioned for the execution time each Always Ready instance is executing functions; and for the total number of executions.
+Flex consumption plan pricing includes a monthly free grant of 250,000 executions and 100,000 GB-s of resource consumption per month per subscription in pay-as-you-go on-demand pricing across all function apps in that subscription.
+Meter
+Free Grant (Per Month)
+Pay as you go
+1 year savings plan
+3 year savings plan
+On Demand Execution Time 1
+100,000 GB-s
+$- /GB-s
+On Demand Total Executions 1
+250,000 executions
+$- per million executions
+Always Ready Baseline
+$- /GB-s
+Always Ready Execution Time
+$- /GB-s
+Always Ready Total Executions
+$- per million executions
+1 Free grants apply to the on-demand meters on paid, consumption subscriptions only.
+Consumption
+Azure Functions consumption plan is billed based on per-second resource consumption and executions. Consumption plan pricing includes a monthly free grant of 1 million requests and 400,000 GB-s of resource consumption per month per subscription in pay-as-you-go pricing across all function apps in that subscription. Azure Functions Premium plan provides enhanced performance and is billed on a per second basis based on the number of vCPU-s and GB-s your Premium Functions consume. Customers can als
+.
+Meter
+Free Grant (Per Month)
+Pay as you go
+Execution Time 2
+400,000 GB-s
+$- /GB-s
+Total Executions 2
+1 million executions
+$- per million executions
+2 Free grants apply to paid, consumption subscriptions only.
+Note —A storage account is created by default with each Functions app. The storage account is not included in the free grant. Standard storage rates
+and networking rates
+charged separately as applicable.
+View details on regional availability
+Premium plan
+Azure Functions Premium plan provides the same features and scaling mechanism used on the Consumption plan (based on number of events) with no cold start, enhanced performance and VNET access. Billing for the Premium plan is based on the number of core seconds and memory allocated across instances. There is no execution charge with the Premium plan. At least one instance must be allocated at all times per plan. To learn more, see Azure Premium Plan details.
+When creating or scaling your plan, you can choose between three instance sizes. You will be billed for the total number of cores and memory provisioned, per second that each instance is allocated to you. Your app can automatically scale out to multiple instances as needed.
+Meter
+Pay as you go
+1 year savings plan
+3 year savings plan
+vCPU duration
+vCPU: $-
+Memory duration
+Memory: $-
+Durable task scheduler
+Durable task scheduler provides a managed backend for durable execution. As a feature of Azure Functions, it provides high performance, reliability, and an easy monitoring experience for stateful orchestrations.
+Dedicated Plan:
+Single tenant with dedicated resources
+Up to 2,000 actions * dispatched per second
+50 GB of orchestration data storage per capacity unit
+SLA of 99.95%
+90-day max retention of orchestration data storage
+Dedicated Plan Meter
+Price
+1 Capacity Unit(CU)*
+$- 1
+* Capacity Unit (CU) is a measure of resources allocated to your durable task scheduler. Each CU represents a pre-allocated amount of CPU, memory, and storage resources. A single CU guarantees the dispatch of a certain number of actions and provides a defined amount of storage. If additional performance and storage are needed, more CUs can be purchased. For high availability, 3 CUs are required to distribute workloads across multiple scheduler instances.
++ Action is a message dispatched by the durable task scheduler to your application, triggering the execution of orchestrator, activity, or entity functions. The number of actions that can be dispatched per second in Dedicated Plan is determined by the Capacity Units (CUs) allocated to the durable task scheduler.
+Consumption Plan:
+Pay per use with no upfront cost
+Up to 500 actions* dispatched per second
+SLA of 99.9%
+30-day max retention of orchestration data storage
+Consumption Plan Meter
+Price
+1 action dispatched
+$- per action
++ Action is a message dispatched by the durable task scheduler to your application, triggering the execution of orchestrator, activity, or entity functions.
+Please see https://aka.ms/dts-billing
+for detailed Durable Task Scheduler billing information
+Functions on Azure Arc-enabled Kubernetes (In Preview)
+Now in Preview, Functions can run on pre-provisioned Kubernetes clusters in Azure Kubernetes Service or on Arc-enabled clusters on-premises and in other clouds. This capability is currently free* during Preview.
+* Note customers will still pay for the underlying Kubernetes infrastructure and are responsible for managing and scaling their own node pools. Learn more about the capabilities of Functions on Azure Arc.
+Executions
+Functions are billed based on total number of requested executions each month for all functions. Executions are counted each time a function is executed in response to an event, triggered by a binding. The first million executions are included free each month.
+Resource consumption
+In the Consumption plan, functions are billed based on observed resource consumption measured in gigabyte seconds (GB-s). Observed resource consumption is calculated by multiplying average memory size in gigabytes by the time in milliseconds it takes to execute the function. Memory used by a function is measured by rounding up to the nearest 128 MB, up to the maximum memory size of 1,536 MB, with execution time calculated by rounding up to the nearest 1 ms. The minimum execution time and memory 
+To learn more about Flex Consumption resource consumption billing model see Azure Functions Flex Consumption
+.
+Azure Functions can be used with Azure IoT Edge
+at no charge.
+Functions Proxies
+The same pricing applies to Functions Proxies. A proxy is a function that is triggered by an HTTP request. Memory used by a proxy is less than 128 MB. Proxy execution time is the round-trip time (request to response), because the proxy needs to stay up to keep the HTTP connection alive. If a proxy triggers a function, the function execution and memory usage is counted separately.
+Consumption pricing example
+A function with observed memory consumption of 512 MB executes 3,000,000 times during the month and has an execution duration of one second. Monthly billing would be calculated as follows:
+Resource Consumption Billing Calculation
+Resource consumption (seconds)
+Executions
+3 million executions
+Execution duration (seconds)
+1 second
+Resource consumption Total
+3 million seconds
+Resource consumption (GB-s)
+Resource consumption converted to GBs
+512 MB / 1,024 MB
+Execution time (seconds)
+3 million seconds
+Total GB-s
+1.5 million GB-s
+Billable resource consumption
+Resource consumption
+1.5 million GB-s
+Monthly free grant
+400,000 GB-s
+Total billable consumption
+1.1 million GB-s
+Monthly resource consumption cost
+Billable resource consumption
+1.1 million GB-s
+Resource consumption price
+$- /GB-s
+Total cost
+$17.6
+Executions billing calculation
+Billable executions
+Total monthly executions
+3 million executions
+Monthly free executions
+1 million executions
+Monthly billable executions
+2 million executions
+Monthly executions cost
+Monthly billable executions
+2 million executions
+Price per million executions
+$-
+Monthly execution cost
+$-
+Total consumption billing calculation
+Total monthly cost
+Monthly resource consumption cost
+$17.6
+Monthly executions cost
+$-
+Total monthly cost
+$-
+More information
+Functions can also be hosted on Azure App Service
+Azure Container Apps
+Check out Azure Functions documentation
+for the latest information
+Azure Functions developer reference
+Azure pricing and purchasing options
+Connect with us directly
+Get a walkthrough of Azure pricing. Understand pricing for your cloud solution, learn about cost optimization and request a custom proposal.
+Talk to a sales specialist
+See ways to purchase
+Purchase Azure services through the Azure website, a Microsoft representative, or an Azure partner.
+Explore your options
+Additional resources
+Azure Functions
+Learn more about Azure Functions features and capabilities.
+Pricing calculator
+Estimate your expected monthly costs for using any combination of Azure products.
+SLA
+Review the Service Level Agreement for Azure Functions.
+Documentation
+Review technical tutorials, videos, and more Azure Functions resources.
+Talk to a sales specialist for a walk-through of Azure pricing. Understand pricing for your cloud solution.
+Request a pricing quote
+Get free cloud services and a $200 credit to explore Azure for 30 days.
+Try Azure for free
+Added to estimate. Press 'v' to view on calculator View on calculator
+Chat with Sales
+Can we help you?
+Chat Now
+No thanks

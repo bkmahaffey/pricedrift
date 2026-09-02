@@ -1,0 +1,117 @@
+Log in
+Models
+Docs
+Pricing
+Blog
+Careers
+Contact
+Team
+Log in
+Choose the plan that's right for you
+Developer
+Powerful speed and reliability to start your project
+600 requests/min rate limit
+Up to 100 deployed models
+Custom PEFT add-ons
+Pay per usage
+Free initial credits
+Get Started →
+Business
+A plan that scales with your production usage
+Everything from the Developer plan
+Custom rate limits
+Team collaboration features
+API telemetry and metrics
+Dedicated email support
+Request Access →
+Enterprise
+Personalized configurations for serving at scale
+Everything from the Business plan
+Custom pricing
+Unlimited rate limits
+Unlimited deployed models
+Custom base models
+Dedicated and self-hosted deployments
+Specialized enterprise support
+Contact us →
+Text Models
+Base model parameter count
+$/1M tokens
+0B - 16B
+$0.20
+16.1B - 80B
+$0.90
+MoE 0B - 56B (Mixtral 8x7B)
+$0.50
+MoE 56.1B - 176B (DBRX, Mixtral 8x22B)
+$1.20
+Per-token pricing is applied only for serverless inference. See below
+for dedicated deployment pricing.
+LoRA models deployed to our serverless inference service are charged at the same rate as the underlying base model. There is no additional cost for serving LoRA models.
+Image Models
+SDXL, $/step
+SDXL w/ ControlNet, $/step
+$0.0002
+$0.0003
+For image generation models like SDXL we charge based on the number of inference steps (denoising iterations).
+Multi-modal
+For multi-modal models like LLaVA, each image is billed as 576 prompt tokens.
+Embedding Models
+Base model parameter count
+$/1M input tokens
+up to 150M
+$0.008
+150M - 350M
+$0.016
+Embedding model pricing is based on the number of input tokens processed by the model.
+Fine-tuning
+Model
+$ / 1M tokens in training
+Models up to 16B parameters
+$0.50
+Models 16.1B - 80B
+$3.00
+Mixtral 8x7B
+$2.00
+Fireworks charges based on the total number of tokens in your fine-tuning dataset (dataset size * number of epochs).
+Usage limits
+Monthly usage quota is based on past spending. Adding prepaid credits will increase your total historical spend.
+Tier
+Usage Limit
+Qualification
+Tier 1
+$50 / month
+Default (payment method required to use more than available credits)
+Tier 2
+$500 / month
+Total historical spend of $100+
+Tier 3
+$5,000 / month
+Total historical spend of $1,000+
+Tier 4
+$50,000 / month
+Total historical spend of $10,000+
+Custom
+Contact us at [email protected]
+If you do not have a payment method on file, your account will be suspended after your credits are depleted. Failure to pay a past invoice may also result in account suspension. Your usage limit will be set to $0/month in both cases.
+API requests will be rejected when your account's usage limit is exceeded. Visit https://fireworks.ai/billing to add your payment method and monitor your usage and invoices.
+Dedicated Deployments
+Dedicated deployments are billed by GPU-second. We charge $3.89 per hour for one NVIDIA A100 80 GB GPU. Pricing scales linearly when using multiple A100 GPUs. NVIDIA H100 80 GB GPUs are available to Enterprise accounts - contact us for details.
+Frequently asked questions
+What support options exist?
+How much does FireFunction cost?
+What would my enterprise pricing be?
+© 2024 Fireworks AI All rights reserved.
+Toggle theme
+Dark Theme m
+Pages
+Home
+Pricing
+Models
+Docs
+Company
+Blog
+Careers
+Legal
+Terms of Service
+Privacy Policy

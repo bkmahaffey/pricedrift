@@ -1,0 +1,476 @@
+Skip to main content
+/
+Console
+English
+Deutsch
+Español
+Español – América Latina
+Français
+Indonesia
+Italiano
+Português
+Português – Brasil
+中文 – 简体
+中文 – 繁體
+日本語
+한국어
+Sign in
+Google Cloud Free Program
+Start free
+Home
+Technology areas
+Google Cloud Free Program
+Send feedback
+Free cloud features and trial offer Stay organized with collections Save and categorize content based on your preferences.
+Whether you're new to Google Cloud and are looking to learn the basics or you are an established customer exploring new product innovations, the Google Cloud Free Program has you covered. This document describes the components of the Google Cloud Free Program.
+The Google Cloud Free Program comprises the following:
+90-day, $300 Free Trial
+New Google Cloud and Google Maps Platform users can take advantage of a 90-day trial period that includes $300 in free Cloud Billing credits to explore and evaluate Google Cloud and Google Maps Platform products and services. You can use these credits toward one or a combination of products.
+Free Tier
+All Google Cloud customers can use select Google Cloud products—like Compute Engine, Cloud Storage, and BigQuery—free of charge, within specified monthly usage limits. When you stay within the Free Tier limits
+these resources are not charged against your Free Trial credits or to your Cloud Billing account's payment method after your trial ends.
+Google Maps Platform free usage caps
+Google Maps Platform offers key pricing incentives, including free usage caps and volume discounts. For more information, see the billing and pricing overview
+For more information about Google Maps Platform pay-as-you-go pricing, see the Google Maps Platform pricing page
+which includes a monthly cost calculator for Maps, Routes, Places, and Environment.
+Get started for free
+Start your proof of concept with $300 in free credit
+Develop with our latest Generative AI models and tools.
+Get free usage of 20+ popular products, including Compute Engine and AI APIs.
+No automatic charges, no commitment.
+View free product offers
+Keep exploring with 20+ always-free products.
+Access 20+ free products for common use cases, including AI APIs, VMs, data warehouses, and more.
+90-day, $300 Free Trial offer
+The Free Trial provides you with free Cloud Billing credits to pay for resources used while you learn about Google Cloud.
+Program eligibility
+You're eligible for the Free Trial if you meet the following conditions:
+You've never been a paying customer of Google Cloud, Google Maps Platform, or Firebase.
+You haven't previously signed up for the Free Trial.
+If you're in India, you must have an INR-based Cloud Billing account before creating Firebase billing accounts to sign up for the Free Trial.
+To complete your Free Trial signup, you must provide a credit card or other payment method
+which is used to set up a Free Trial Cloud Billing account and to verify your identity. Be assured, when a Cloud Billing account has the status of a Free trial account
+Google won't charge you.
+Program initiation
+When you complete the Start free signup, the 90-day, $300 Free Trial period starts automatically. The Free Trial period
+can't be paused or extended.
+After you initiate the Free Trial, Google uses the information you provided at signup to create a limited Google Cloud account called a Free trial account. This account has the following features:
+A new Google Cloud project
+named "My First Project": Use this project to create and manage Google Cloud resources and services
+.
+This project is linked to the new Cloud Billing account
+described in the following information.
+To control project access, the username provided during the free trial signup is granted the legacy basic Owner role
+on the project, which provides admin-level permissions. Learn more about IAM permissions
+.
+A new Cloud Billing account
+named "My Billing Account": The billing account accrues Google Cloud usage costs that are generated in the Google Cloud project, and the available Free Trial credits pay for those usage costs.
+This Cloud Billing account is linked to the Google payments profile
+described in the following information.
+To control billing account access, the username provided during the free trial signup is granted the Billing Account Administrator
+role on the Cloud Billing account.
+Until you activate a full, paid account
+the billable status of the account
+is Free trial account, subject to the program coverage limitations
+and the Free Trial Terms and Conditions
+.
+A new Google payments profile
+configured with the information provided in the signup process: The payments profile stores information like name, address, and tax ID (when required legally) of who is responsible for the profile.
+The form of payment
+provided during Free Trial signup is stored and managed in the Google payments profile.
+To control access to the payments profile, the username provided during the free trial signup is designated the Admin and Primary Contact
+for this payments profile.
+Note: The credit card or other payment method
+you provided while signing up for the Free Trial is used to set up the new Google payments profile and Cloud Billing account, and to verify your identity. Don't worry, setting up a free trial Cloud Billing account doesn't allow Google to charge you. You're not charged unless you explicitly enable billing by activating a full, paid account
+Activating a full account converts your free trial Cloud Billing account to a paid account. You can activate a full, paid account at any time during the trial. After you activate your full, paid account, you can still use any remaining free trial credits (within the 90-day period).
+Program coverage
+Your Free Trial credits apply to all Google Cloud resources, including Google Maps Platform
+usage, but with the following exceptions:
+You can't add GPUs to your VM instances.
+You can't request a quota increase. For an overview of Compute Engine quotas, see Resource quotas
+.
+You can't access or use Free Trial credits for generative AI partner models offered as managed APIs (also known as model as a service
+).
+You can't create VM instances that are based on Windows Server images
+.
+You can't create Google Cloud VMware Engine resources.
+To perform any of the actions in the preceding list, you must activate a full Cloud Billing account.
+Restricted actions
+In addition to resource constraints, the Free Trial Terms and Conditions
+describe use cases that are prohibited during the Free Trial. For example, you may not use Google Cloud services to mine cryptocurrency during your Free Trial.
+Program duration
+Your Free Trial ends
+when one of the following occurs:
+You've spent the $300 in credits.
+90 days have elapsed since you signed up.
+Throughout your Free Trial period, your remaining credits and days
+are displayed on the Billing Account Overview page in the Google Cloud console.
+You are not billed during your Free Trial. When the Free Trial ends, all resources you created during the trial are stopped, and you won't be charged, unless you activate a full, paid Cloud Billing account.
+Please note: The Free Trial period can't be paused or extended. The Free Trial ends after all available credits are consumed, or at the end of the Free Trial period, whichever event occurs first.
+Terms of service
+You must accept the Free Trial Terms and Conditions
+and the Google Cloud Terms of Service
+.
+Service level agreement
+Service level agreements don't apply during the Free Trial. The Free Trial is intended to help you explore and evaluate Google Cloud. We don't recommend running production applications on Google Cloud during the Free Trial.
+Free Tier use
+During your Free Trial period, when you use resources covered by the Free Tier
+the Free Tier usage is not charged against your Free Trial credits.
+Billing verification
+When you sign up for the Free Trial, Google requires a credit card or other payment method. Google uses this payment information for the following purposes:
+To verify your identity.
+To distinguish actual people from robots.
+To create your Google payments profile.
+To create your Free Trial Cloud Billing account.
+For more information about payment methods, including which types of credit cards are accepted, see available payment methods
+.
+If your payment method expires or otherwise becomes invalid during the Free Trial, your Cloud Billing account may be suspended.
+After you submit your payment information, Google submits a one-time transaction for verification purposes only. No charges are made after this verification process, unless you activate a full, paid Cloud Billing account
+.
+The transaction has the following attributes:
+The transaction is an authorization request to validate your Cloud Billing account. It is not a permanent charge.
+The transaction appears on your statement as being from Google.
+The transaction is between $0.00 and $1.00 USD. Your bank might convert this amount to a local currency.
+If you provide bank account information, the transaction might take up to 3 days to appear on your statement.
+If you provide credit card information, this transaction might appear on your statement for up to one month before being automatically reversed.
+Depending on your country, you might need to verify your bank account to complete the signup process. For information about verifying bank accounts, see verify your bank account
+.
+Note: If you encounter issues during the verification process, contact Cloud Billing support
+.
+Get started for free
+Start your proof of concept with $300 in free credit
+Develop with our latest Generative AI models and tools.
+Get free usage of 20+ popular products, including Compute Engine and AI APIs.
+No automatic charges, no commitment.
+View free product offers
+Keep exploring with 20+ always-free products.
+Access 20+ free products for common use cases, including AI APIs, VMs, data warehouses, and more.
+Monitor your charges during the Free Trial
+You can access Cloud Billing reports in the Google Cloud console to monitor and analyze your usage costs and credits.
+During the Free Trial offer, you'll typically see bills with a net zero balance, but you can view the details of the charges and credits so you can better understand the costs of using Google Cloud after your Free Trial ends
+.
+Billing report: Analyze your usage costs
+Use the billing report
+to view and analyze your Google Cloud usage costs using many selectable settings and filters
+.
+Open Cloud Billing Reports
+To view the individual services that contribute to your usage costs and credits, group your costs by SKU
+.
+In the report, your usage costs calculated at the on-demand rate appear in the Usage cost column, and Free Trial credits and any credits for usage covered by Free Tier limits
+appear in the Other savings column.
+Example when viewing your Cloud Billing report grouped by SKU:
+SKU
+Usage cost
+Saving programs
+Other savings
+Subtotal
+N1 Predefined Instance Core running in Americas
+$33.75
+$0.00
+-$33.75
+$0.00
+Regional Kubernetes Clusters
+$55.80
+$0.00
+-$55.80
+$0.00
+Zonal Kubernetes Clusters
+$120.40
+$0.00
+$120.40
+$0.00
+Learn about other reports available to view and analyze your Google Cloud usage costs
+.
+When the Free Trial offer ends
+The Free Trial ends when you use all of your credit, or after 90 days, whichever happens first. At that time, the following conditions apply:
+To continue using Google Cloud, you must activate a full, paid Cloud Billing account
+.
+If you choose not to activate a full, paid account, when the Free Trial ends, billing becomes disabled on your projects.
+All resources you created during the trial are stopped.
+Any data you stored in Compute Engine is marked for deletion and might be lost. Learn more about data deletion on Google Cloud
+.
+Your Cloud Billing account enters a 30-day grace period, during which you can activate a full, paid Cloud Billing account
+to recover resources and data you stored in any Google Cloud services during the trial period.
+You might receive a message stating that your Cloud Billing account has been canceled, which indicates that your account has been suspended to prevent charges.
+Cancel the Free Trial offer
+There is no action you need to take to cancel your Free Trial, unless you have already activated a full, paid Cloud Billing account
+.
+If your Cloud Billing account is limited to a Free Trial status
+you aren't billed during the Free Trial period. When the Free Trial ends
+all resources you created during the trial are automatically stopped, your Free Trial billing account is suspended, and you aren't charged.
+If you activated
+a full, paid account, you can cancel your paid Cloud Billing account by closing the Cloud Billing account
+Closing a billing account stops all billable services and prevents your Cloud Billing account from incurring charges
+.
+Learn about additional methods to minimize or stop charges to your paid Cloud Billing account
+.
+Activate a full, paid Cloud Billing account
+You can activate a full, paid Cloud Billing account at any time after starting the Free Trial, to ensure that your resources keep running uninterrupted after the trial ends. You might also want to activate a full, paid account if you want to use features that aren't included in the Free Trial
+such as GPUs and Windows servers.
+When you activate a full, paid account, the following conditions apply:
+If you activate a full, paid account before the trial is over: Any remaining, unexpired Free Trial credits remain in your Cloud Billing account. You can continue to use the resources you created during the Free Trial without interruption.
+For resources you use in excess of what's covered by any remaining credit, your form of payment on file is charged (credit card or bank account).
+If you activate a full, paid account within 30 days after the end of the trial: Your resources are marked for deletion, but you might be able to recover them. Learn more about data deletion on Google Cloud
+.
+If you activate a full, paid account more than 30 days after the end of the trial, your Free Trial resources are lost.
+To activate your full, paid Cloud Billing account
+In the Google Cloud console, you can convert your Free Trial billing account to a full, paid Cloud Billing account using the Activate option. You must be a Billing Account Administrator
+on the Cloud Billing account to make this change.
+To activate your full, paid Cloud Billing account, complete the following steps:
+Sign in to the Google Cloud console.
+Sign in to the Google Cloud console
+Look for the Free trial status banner at the top of the page.
+Click Activate.
+If the Free trial banner with the Activate button is not visible, on the Google Cloud console menu bar, click the Free trial status icon to open the banner and access the Activate button.
+If you don't see an Activate button, the reasons could include the following:
+You don't have the permissions needed to convert this Free Trial Cloud Billing account to a full, paid account. You must be a Billing Account Administrator
+on the Cloud Billing account to activate to a full, paid account.
+This Cloud Billing account is already activated as a full, paid account. You can confirm the billing status
+of your Cloud Billing account by looking at the Billing Overview page.
+Confirm the billable status of your Cloud Billing account
+In the Cloud Billing console, you can confirm the free or paid (billable) status of your Cloud Billing account and the status of your free trial credits.
+In the Google Cloud console, go to your Cloud Billing account.
+Go to your Cloud Billing account
+If you have more than one billing account, at the prompt, choose the Cloud Billing account you want to view. The Billing Overview page opens for the selected billing account.
+On the Billing Overview page, your billing account status is displayed at the top of the page:
+Free trial account: The Cloud Billing account isn't billable and is subject to the program coverage limitations
+and the Free Trial Terms and Conditions
+The account might be suspended if it's more than 30 days after your Free Trial ends
+.
+Paid account: The Cloud Billing account is billable. If you upgraded to a paid Cloud Billing account before the Free Trial ends
+you can use any remaining, unexpired Free Trial credits. Your Cloud Billing account is charged for resources you use in excess of what's covered by any remaining credit.
+To learn the status of any remaining free trial credits, on the Billing Account Overview tab, look at the Credits info card.
+If the Cloud Billing account is still limited to a Free Trial Cloud Billing account, you will see a Free trial credit info card.
+This card displays the status of any remaining free trial credits, and provides an Activate button. If you want to convert your limited Free Trial billing account to a full, paid Cloud Billing account, click Activate.
+If the Cloud Billing account is a paid account, you will see a Credits info card.
+This card displays the status of any remaining free trial credits. To view the details of the free trial, click Credit details.
+Costs after the Free Trial
+When you activate a full, paid Cloud Billing account
+you'll incur charges after the end of the Free Trial
+You'll also incur charges during the free trial period if you use services that aren't covered by the Free Trial
+Google Cloud and Google Maps Platform services charge you only for resources you use. Each service has its own pricing model, which you can find in the pricing documentation for each individual service
+.
+Monitor and optimize your costs
+Cloud Billing offers several tools to help you monitor and optimize your Google Cloud and Google Maps Platform usage costs.
+Reports - Access Cloud Billing reports
+to monitor and analyze your usage costs and savings.
+Budgets - Create Cloud Billing budgets
+to help you stay informed about how your actual Google Cloud spend is tracking against your planned spend.
+Committed use discounts - When you have workloads with predictable resource needs, optimize your costs by purchasing committed use discounts (CUDs)
+CUDs provide discounted prices in exchange for your commitment to use a minimum level of resources for a specified term.
+Estimate your usage costs
+Several options are available to help you estimate your Google Cloud and Google Maps Platform usage costs.
+For Google Cloud, you can estimate the cost of using Google Cloud services by using the pricing calculator
+or by consulting the pricing page
+.
+For Google Maps Platform, you can estimate your monthly bill by consulting the pricing page
+.
+To understand your Google Maps Platform monthly bill, consult Google Maps Platform Billing
+.
+Sign up for Google Cloud Customer Care
+After you have activated your full, paid Cloud Billing account, sign up for Customer Care
+Choose the support service that best fits your organization's technical support needs.
+Minimize or stop charges to your paid Cloud Billing account
+To minimize costs or prevent your Cloud Billing account from incurring charges, you can take the following actions:
+Limit your usage of each service to the Free Tier limits
+.
+Shut down services in your projects. Follow the guidance in the Google Cloud docs
+for each of your services.
+Disable billing
+on the associated projects linked to your Cloud Billing account
+.
+Close your Cloud Billing account
+to stop all billable services and prevent your Cloud Billing account from incurring charges.
+Free Tier
+The Free Tier provides limited access to many common Google Cloud products and services at no cost. Unlike the Free Trial, the Free Tier is available to all Google Cloud users.
+Free Tier resources are provided at intervals, usually monthly. Free Tier resources are not credits; they don't accumulate or roll over from one interval to the next.
+Free Tier limits are calculated per billing account.
+Program eligibility
+You're eligible for the Free Tier program if you meet the following criteria:
+You don't have a negotiated pricing contract or a custom rate card with Google, except as described for certain services listed in the Free Tier usage limits
+table.
+You have a Cloud Billing account that is either an active **Free trial account** in the Free Trial
+period, or is a full, paid Cloud Billing account.
+Your Cloud Billing account is active and in good standing.
+If you are deemed ineligible, you are charged at the normal rates for the resources you use. If you think you are being incorrectly charged for Free Tier usage, contact Cloud Billing Support
+for assistance.
+Program initiation
+No special action is required by you before you can begin using resources that offer Free Tier usage (within Free Tier limits)
+.
+Program coverage
+Free Tier coverage varies by service
+Not all Google Cloud services offer resources as part of the Free Tier. Any usage that exceeds Free Tier usage limits
+is automatically billed at standard rates.
+Program duration
+The Free Tier has no end date, but Google reserves the right to change the offering, including changing or eliminating usage limits, subject to 30 days advance notice.
+Terms of service
+You must accept the Google Cloud Terms of Service
+.
+Use during Free Trial
+When you use resources covered by Free Tier during your Free Trial period, those resources are not charged against your Free Trial credits.
+Free Tier usage limits
+Free Tier resources are available for the Google Cloud services listed in the following table, subject to the listed limitations. For information about Google Maps Platform, see the pricing page
+.
+App Engine
+28 hours per day of F1 instances
+9 hours per day of B1 instances
+1 GB of outbound data transfer per day
+The Google Cloud Free Tier is available only for the Standard Environment.
+Learn more
+Application Integration
+Up to 400 integration executions
+Up to 20 GiB data processed per month
+First 2 connection nodes for Google services
+Learn more
+Artifact Registry
+0.5 GB storage per month
+Learn more
+AutoML Natural Language
+5000 units of prediction per month
+Learn more
+AutoML Tables
+6 node hours for training and prediction
+Learn more
+AutoML Translation
+500,000 translated characters per month
+Learn more
+BigQuery
+1 TB of querying per month
+10 GB of storage
+Learn more
+Cloud Build
+2,500 build-minutes per month for machine type
+e2-standard-2
+Learn more
+Cloud Deploy
+First active delivery pipeline (per billing account)
+Learn more
+Cloud Key Management Service
+100 free active key versions per month
+10,000 free cryptographic operations per month
+The monthly free usage only applies to key versions created using Cloud KMS Autokey.
+Learn more
+Cloud Logging and
+Cloud Monitoring
+Free monthly logging allotment
+Free monthly metrics allotment
+Learn more
+Cloud Natural Language API
+5,000 units per month
+Learn more
+Cloud Run
+2 million requests per month
+360,000 GB-seconds of memory, 180,000 vCPU-seconds of compute time
+1 GB of outbound data transfer from North America per month
+Learn more
+Cloud Run functions
+2 million invocations per month (includes both background and HTTP invocations)
+400,000 GB-seconds, 200,000 GHz-seconds of compute time
+5 GB of outbound data transfer per month
+Learn more
+Cloud Shell
+Free access to Cloud Shell, including 5 GB of persistent disk storage
+Learn more
+Cloud Source Repositories
+Up to 5 users
+50 GB of storage
+50 GB of outbound data transfer
+Learn more
+Cloud Storage
+5 GB-months of regional storage (US regions only) per month
+5,000 Class A Operations per month
+50,000 Class B Operations per month
+100 GB of outbound data transfer from North America to all region destinations (excluding China and Australia) per month
+Free Tier is only available in us-east1, us-west1, and us-central1 regions
+Usage calculations are combined across those regions.
+Learn more
+Cloud Vision
+1,000 units per month
+Learn more
+Compute Engine
+1 non-preemptible e2-micro VM instance per month in one of the following US regions: Oregon: us-west1
+Iowa: us-central1
+South Carolina: us-east1
+30 GB-months standard persistent disk
+1 GB of outbound data transfer from North America to all region destinations (excluding China and Australia) per month
+Your Free Tier e2-micro instance limit is by time, not by instance. Each month, eligible use of all of your e2-micro instances is free until you have used a number of hours equal to the total hours in the current month. Usage calculations are combined across the supported regions
+.
+GPUs and TPUs are not included in the Free Tier offer. You are always charged for GPUs and TPUs that you add to VM instances. Learn more
+Firestore
+1 GB storage per project
+50,000 reads, 20,000 writes, 20,000 deletes per day, per project
+Learn more
+Google Kubernetes Engine
+No cluster management fee for one Autopilot or Zonal cluster per Cloud Billing account. For clusters created in Autopilot mode, pods are billed per second for vCPU, memory and disk resource requests. For clusters created in Standard mode, each user node is charged at standard Compute Engine pricing.
+Learn more
+Google Maps Platform
+For more information, see the Pricing page
+.
+Pub/Sub
+10 GB of messages per month
+Learn more
+reCAPTCHA
+10,000 assessments.create or siteverify calls per month for SKU ID F553-86ED-15F4.
+1 million assessments.create or siteverify calls per month for SKU IDs A1ED-4B1C-A692 and 922B-4FA3-9210.
+Learn more
+Secret Manager
+6 active secret versions per month
+10,000 access operations per month
+3 secret rotation notifications per month
+Learn more
+Speech-to-Text
+60 minutes per month
+Learn more
+Video Intelligence API
+1,000 units per month
+Learn more
+Web Risk
+100,000 uris.search calls per month
+100 uris.submit calls per month
+This Free Tier usage is also available if you have a negotiated pricing contract for Web Risk.
+Learn more
+Workflows
+5,000 internal steps per month
+2,000 external HTTP calls per month
+Learn more
+Workload Manager
+5,000 resource evaluations per month
+Learn more
+Exceeding Free Tier usage limits
+Any usage that exceeds Free Tier usage limits is automatically billed at standard rates.
+You can help monitor and control costs by setting up budgets and alerts
+through the Google Cloud console.
+Google Cloud Marketplace products and Premium OS licenses
+You incur normal expenses for any Google Cloud Marketplace
+products and premium OS licenses
+you use, even if your Compute Engine use is covered by the Free Tier.
+Getting support
+Direct support
+Billing support
+is included with all Cloud Billing accounts. You must be a Billing Account Administrator to interact with billing support.
+Upgrade your support plan
+to access technical support for Google Cloud services.
+Documentation
+Google Cloud documentation
+describes how to use Google Cloud services.
+Google Maps Platform documentation
+describes how to use Google Maps Platform APIs and industry solutions.
+Cloud Billing documentation
+describes how to use Cloud Billing, a collection of tools that help you track and understand your Google Cloud spending, pay your bill, and optimize your costs.
+Google Cloud console Help
+answers common support questions.
+Google Cloud Free Trial Troubleshooter
+helps you find answers to questions about the Free Trial.
+Community support
+Find answers, ask questions, and connect with experts in the Google Cloud Community forums
+.
+Join the Innovators program
+which gives you the latest updates, access to technologies and expertise, and exclusive benefits to build your skills on Google Cloud.
+Join a community meetup
+of knowledgeable Google Cloud enthusiasts.
+Send feedback
+Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0 License
+and code samples are licensed under the Apache 2.0 License
+For details, see the Google Developers Site Policies
+Java is a registered trademark of Oracle and/or its affiliates.
+Last updated 2025-11-24 UTC.

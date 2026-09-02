@@ -1,0 +1,331 @@
+Skip to main content
+Amazon SES
+Overview
+Features
+Pricing
+Getting Started
+FAQs
+More
+Products
+›
+Amazon SES
+›
+Pricing
+Amazon SES pricing
+Get started for free
+Request a pricing quote
+Why Amazon Simple Email Service (SES)?
+Amazon Simple Email Service (SES) is a pay-as-you-go service based on the volume of emails sent and received. There are no subscriptions, no contract negotiations, and no minimum charges.
+AWS Pricing Calculator
+Calculate your Amazon SES and architecture cost in a single estimate.
+Create your custom estimate now »
+AWS Free Tier
+As part of AWS Free Tier
+SES offers a flexible free tier which enables you to try the SES email features you need, free of charge. Free tier customers receive up to 3,000 message charges free each month for the first 12 months after you start using SES.
+Starting July 15, 2025, new AWS customers will receive up to $200 in AWS Free Tier credits, which can be applied towards eligible AWS services, including Amazon Simple Email Service. At account sign-up, you can choose between a free plan and a paid plan. The free plan will be available for 6 months after account creation. If you upgrade to a paid plan, any remaining Free Tier credit balance will automatically apply to your AWS bills. All Free Tier credits must be used within 12 months of your ac
+and AWS Free Tier documentation
+.
+Message charges from these SES products are eligible for the SES free tier:
+Outbound emails
+Inbound emails
+Virtual Deliverability Manager outbound email processing
+Sending a single email equals one message charge; receiving a single email also counts as one message charge. If you enable Virtual Deliverability Manager for your account, each email sent counts as two message charges.
+For example: A customer could send 1,000 messages per month with Virtual Deliverability Manager enabled (2,000 message charges) and receive 1,000 emails (1,000 message charges) without exceeding the revised SES free tier limit of 3,000 message charges. You can read this blog post
+for more examples.
+Free tier messages charges will apply first to the more expensive charges (e.g. outbound messages) in situations where multiple products are in use.
+Any combination up to 3,000 message charges per month will be included in the free tier for 12 months after you start using SES. Customers who started using SES before August 1st, 2023, will have access to the SES free tier for one year (until August 2024).
+Note: You pay for outgoing mail data, incoming mail chunks, EC2 data transfer fees, and add-on features such as Dedicated IP Addresses (if applicable), even if your usage of Amazon SES qualifies for the AWS Free Usage Tier.
+Amazon SES Pricing
+With Amazon SES, you pay only for what you use with no minimum fees or mandatory service usage. You are billed separately for sending and receiving emails, data usage, and additional features. Amazon SES provides billing transparency and low prices because you only pay for the features you use.
+Service type
+Price
+Additional charges
+Outbound emai l
+$0.10/1000 emails
+$0.12 per gigabyte (GB) of data in the attachments you send*
+Global Endpoints
+$0.03/1000 emails
+On top of base sending price only when sent through multi-region endpoint ID****
+Inbound email
+$0.10/1000 emails
+$0.09 for every 1,000 incoming email chunks (see Pricing details
+for more information)
+Mail Manager
+-Open ingress endpoint**
+$50 per month per endpoint
+-Email processing***
+$0.15/1000 emails
+$0.09 for every 1,000 incoming email chunks (see Pricing details for more information)
+-Archiving
+$2 per GB of emails ingested
+$0.19 per GB per month for storing and searching the archive
+-Email add ons
+Varies based on the add on solution you choose
+Amazon Connect email
+$0.05 per email
+Learn more on the Connect Pricing page
+Deliverability Expert Services
+Contact us
+Learn more on the Deliverability Expert Services page
+* You might incur additional data transfer charges for using EC2
+** An open ingress endpoint offers exclusive resources, allowing customers to receive emails directly to their domain. Additionally, we provide a complimentary authenticated ingress endpoint that only accepts emails from credentialed senders.
+*** Email processing refers to emails processed by Mail Manager regardless of inbound receiving or outbound sending.
+**** You might incur additional data transfer charges for moving your sending workload to your second configured Global Endpoints Region.
+***** You can use the Amazon Web Services Monthly Calculator
+to estimate your monthly charges for using Amazon SES. Please note that the pricing calculator does not currently include SES Free Tier discounts.
+Add on Features
+Price
+Notes
+Tenants
+$0.005 per month per tenant
+$0.005/1000 emails
+Dedicated IPs
+- Standard
+$24.95 per month per IP
+- Managed
+$15 per month per account
+$0.08/1000 emails
+0-10M emails per month
+$0.04/1000 emails
+10M-50M emails per month
+$0.02/1000 emails
+50M-100M emails per month
+Contact us
+>100M emails per month
+Bring Your Own IP Addresses (BYOIP)*
+$24.95 per month*
+Inbox Deliverability: Virtual Deliverability Manager
+$0.07/1000 emails
+0-10M emails per month
+$0.05/1000 emails
+10M-100M emails per month
+$0.02/1000 emails
+>100M emails per month
+$0.0005/1000 queries
+First 5,000 queries each month are free
+* The minimum number of addresses you can bring is 256 which creates a minimum cost of $24.95 x 256 = $6,387.20 per month.
+** You can refer to
+Pricing details
+for more information.
+Pricing Examples
+Pricing Example 1
+You use Amazon SES to send about 250,000 email per month. You receive 1,000 emails per month. You don’t use dedicated IP addresses. You send your email using an application that isn’t hosted on Amazon EC2. Every message you send and receive is 32KB in sizes.
+Unit
+Price
+Calculation
+Cost
+Outgoing messages
+250,000
+$0.0001
+250,000 total messages × $.0001 per message - 3,000 free messages
+$24.70
+Outgoing mail data
+0.000032
+$0.12
+(.000032GB × 250,000 messages) × $0.12 per gigabyte of data
+$0.96
+Incoming messages
+1,000
+$0.0001
+1,000 total messages
+$ 0.10
+Incoming mail chunks
+32
+$0.00009
+(32KB × 1,000 messages) ÷ 256KB = 125 mail chunks × $0.00009 per mail chunk
+$0.01
+Total charges for using SES
+$25.77
+Pricing Example 2 – Adding Dedicated IPs
+You have 3 dedicated IP addresses (standard), and you use them to send 2,000,000 messages per month from an application hosted on an Amazon EC2 instance. You also receive 250,000 incoming messages. Every message you send and receive is 32KB in size.
+Unit
+Price
+Calculation
+Cost
+Outgoing messages
+2,000,000
+$0.0001
+(2,000,000 total messages - 3,000 free messages) × $.0001 per message
+$199.70
+Outgoing mail data
+0.000032
+$0.12
+(.000032GB × 2,000,000 - 3,000 messages) × $0.12 per gigabyte of data
+$7.67
+Incoming messages
+250,000
+$0.0001
+250,000 total messages
+$25.00
+Incoming mail chunks
+32
+$0.00009
+(32KB × 250,000 messages) ÷ 256KB = 31,250 mail chunks × $0.00009 per mail chunk
+$2.81
+Dedicated IPs (standard)
+3
+$24.95
+3 addresses × $24.95 per address
+$74.85
+Total charges for using SES
+$310.03
+Pricing Example 3 – Dedicated IPs (standard) vs. Dedicated IPs (managed)
+You use SES to send 80,000,000 messages per month for an application hosted on an Amazon EC2 instance. To support periodic peak sending volume, you choose to use 30 dedicated IPs to maintain good sending reputation and speed. By comparing the cost between dedicated IPs (standard) and dedicated IPs (managed), for your specific use case, using Dedicated IPs (standard) has lower total cost.
+Option 1: Dedicated IPs (standard)
+Unit
+Price
+Calculation
+Cost
+Outgoing messages
+80,000,000
+$0.0001
+(80,000,000 total messages – 3,000 free messages) × $0.0001 per message
+$7,999.70
+Outgoing mail data
+0.000032
+$0.12
+(.000032GB × 80,000,000 messages) × $0.12 per gigabyte of attachments
+$307.20
+Dedicated IPs (standard)
+30
+$24.95
+30 addresses × $24.95 per address
+$748.50
+Total charges for using SES (with Dedicated IP - standard)
+$9,055.40
+Option 2: Dedicated IPs (managed)
+Unit
+Price
+Calculation
+Cost
+Outgoing messages
+80,000,000
+$0.0001
+(80,000,000 total messages – 3,000 free messages) × $0.0001 per message
+$7,999.70
+Outgoing mail data
+0.000032
+$0.12
+(.000032GB × 80,000,000 messages) × $0.12 per gigabyte of attachments
+$307.20
+Dedicated IPs (managed)
+1 account
+$15.00
+1 account × $15
+$15.00
+10,000,000
+$0.00008
+10,000,000 total messages × $0.00008 per message
+$800.00
+40,000,000
+$0.00004
+40,000,000 total messages × $0.00004 per message
+$1600.00
+30,000,000
+$0.00002
+30,000,000 total messages × $0.00008 per message
+$600.00
+Total charges for using SES (with Dedicated IP - managed)
+$11,321.90
+Note: The preceding calculation only shows the costs for using Amazon SES. It doesn't include the charges for using Amazon EC2. For more information about the costs of using Amazon EC2, see Amazon EC2 Pricing
+.
+Pricing Example 4 – Mail Manager
+You use Amazon SES Mail Manager to receive about 300,000 emails per month for your organization. You use 1 Open Ingress Endpoint to receive external emails and set up an Authenticated Ingress Endpoint for internal emails. Every message you send and receive is 50KB in sizes.
+Unit
+Price
+Calculation
+Cost
+Open ingress endpoint
+1
+$50.0001
+1 open ingress endpoint × $50 per endpoint per month
+$50.00
+Messages processed
+300,000
+$0.00015
+300,000 total messages × $.00015 per message
+$45.00
+Mail chunks
+50
+$0.00009
+(50KB × 300,000 messages) ÷ 256KB × $0.00009 per mail chunk
+$5.27
+Total charges for using SES
+$100.27
+Pricing Example 5 – Mail Manager with Add-Ons
+You use Amazon SES Mail Manager to receive about 500,000 emails per month for your organization, and also send about 500,000 emails per month via SMTP. You use 2 Open Ingress Endpoints to receive external emails and set up 1 Authenticated Ingress Endpoint for outbound sending. Every message you send and receive is 50KB in sizes. For outbound emails, you want to keep record for future auditing, thus using Archiving Add-ons. You also use Trend Micro Add On to scan virus for incoming emails.
+Unit
+Price
+Calculation
+Cost
+Open ingress endpoint
+2
+$50.00
+1 open ingress endpoint × $50 per endpoint per month
+$100.00
+Messages processed
+1,000,000
+$0.00015
+1,000,000 total messages × $.00015 per message
+$150.00
+Mail chunks
+50
+$0.00009
+(50KB × 1,000,000 messages) ÷ 256KB × $0.00009 per mail chunk
+$17.58
+Archiving ingestion
+500,000
+$2 per GB
+(50KB × 1,000,000 messages) * 1e-6 × $2 per GB
+$50.00
+Archiving storage
+500,000
+$0.19 per GB
+(50KB × 1,000,000 messages) * 1e-6 × $.19 per GB
+$4.75
+Trend Micro Add on scanning
+500,000
+$0.0001875
+500,000 total messages × $.0001875 per message
+$93.75
+Total charges for using SES
+$416.08
+Pricing details
+Email messages
+Outgoing data charges
+Incoming mail chunks
+Dedicated IP addresses
+Standard:
+Managed:
+You can choose to use dedicated IPs based on your actual usage instead of per dedicated IP. The starting price for dedicated IPs managed is $15 per month per account fixed subscription fee, then $0.08 per 1000 emails. Your price will decrease once the sending volume meets certain threshold (see pricing table above).
+You can start using dedicated IPs managed any time during your billing cycle and will only be charged by the actual usage. If you no longer want to lease dedicated IPs, you won’t be charged anymore.
+Bring Your Own IP Addresses (BYOIP)
+Amazon SES includes an optional feature called Bring Your Own IP (BYOIP). This feature lets you use a range of IP addresses that you own to send email with Amazon SES. If you use BYOIP, you pay $24.95 per month for each IP address in the IP range. The minimum number of addresses you can bring is 256 which creates a minimum cost of $24.95 x 256 = $6,387.20 per month. To learn more, see the Amazon SES Developer Guide
+.
+Virtual Deliverability Manager
+Virtual Deliverability Manager costs $0.07 for each 1,000 email messages you send, in addition to other SES charges such as email sending charges. Your price will decrease once the sending volume meets certain thresholds (see pricing table above). Accessing Virtual Deliverability Manager information through the AWS console, CLI, or API costs $0.0005 for each 1,000 queries. Your first 5,000 queries each month are free.
+Deliverability Expert Services (DES)
+When emails consistently reach inboxes and drive recipient action, businesses see tangible returns on their marketing investments through increased conversions and sales. Strong delivery rates, supported by a positive sender reputation, keep communication channels open with customers and prospects – an essential foundation for any email marketing strategy. Deliverability Expert Services (DES) helps you improve your deliverability rates without deep knowledge about email sending. You get actionab
+DES experts are available today by request, just open a ticket with AWS Support requesting a DES engagement. You will start by meeting with DES experts to plan the engagement and discuss an overview of your current reputation performance, along with any initial recommendations. During the engagement, DES experts help you address gaps in sending configuration, troubleshoot deliverability challenges, and optimize deliverability metrics such as inbox placement. At the end of the engagement, you wil
+Fees for using other AWS Services
+Depending on how you set up and use Amazon SES, you may pay monthly fees for using other AWS Services. For example:
+If you send email by using an application hosted in Amazon EC2, you pay for your compute usage, as well as data transfer fees for the data you send out of EC2. For more information, see Amazon EC2 Pricing
+.
+If you transfer incoming messages to an Amazon Simple Storage Service (Amazon S3) bucket, you pay based on amount of data you store. For more information, see Amazon S3 Pricing
+.
+If you receive notifications by using Amazon Simple Notification Service (Amazon SNS), you pay based on the number of notifications you receive. For more information, see Amazon SNS Pricing
+.
+If you use custom dashboards or metrics in Amazon CloudWatch, you pay additional monthly fees based on the number of custom metrics and dashboards you create. For more information, see Amazon CloudWatch Pricing
+.
+You can estimate your monthly charges for all AWS Services by using the Billing Dashboard
+in the AWS Management Console.
+Additional pricing resources
+AWS Pricing Calculator
+Easily calculate your monthly costs with AWS.
+Get pricing assistance
+Contact AWS specialists to get a personalized quote.
+Next steps
+Find out how Amazon SES works
+Explore Amazon SES features
+Improve inbox placement
+Learn more

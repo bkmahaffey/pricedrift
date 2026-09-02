@@ -1,0 +1,1224 @@
+[
+  {
+    "id": "ngrok-com-pricing-20230312133820",
+    "url": "https://ngrok.com/pricing",
+    "ts": "20230312133820",
+    "date": "2023-03-12",
+    "source": "wayback",
+    "prevTs": "20230109071049",
+    "kind": "price",
+    "score": 7,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "ngrok: 2 prices, 1 limit changed (removed “3 MAUs included”; added “$8”)",
+    "pairs": [],
+    "added": [
+      "$8",
+      "billed annually ($10 billed monthly)",
+      "Unlimited webhook verification providers",
+      "We have just released a personal plan with an attractive price for personal projects and hobbies. It gives you all the goodies of ngrok free, plus the ability to set your own custom domains, and serve TCP traffic."
+    ],
+    "removed": [
+      "3 MAUs included"
+    ],
+    "totals": {
+      "removed": 38,
+      "added": 53,
+      "materialRemoved": 3,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "ngrok-com-pricing-20230501181702",
+    "url": "https://ngrok.com/pricing",
+    "ts": "20230501181702",
+    "date": "2023-05-01",
+    "source": "wayback",
+    "prevTs": "20230312133820",
+    "kind": "price",
+    "score": 116,
+    "counts": {
+      "price": 31,
+      "limit": 10,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "ngrok: 31 prices, 10 limits, 2 plan names changed (1 → $14; 1 → $45)",
+    "pairs": [
+      {
+        "before": "1 per License then $14/mo per addl agent",
+        "after": "then $14/mo per addl agent",
+        "confidence": 0.8,
+        "deltas": [
+          {
+            "before": "1",
+            "after": "$14"
+          },
+          {
+            "before": "$14",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "1 per License then $45/mo per addl agent",
+        "after": "then $45/mo per addl agent",
+        "confidence": 0.8,
+        "deltas": [
+          {
+            "before": "1",
+            "after": "$45"
+          },
+          {
+            "before": "$45",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "50 MAUs then $50/mo per 1000 MAUs",
+        "after": "then $50/mo per 1000 MAUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50",
+            "after": "$50"
+          },
+          {
+            "before": "$50",
+            "after": "1000"
+          },
+          {
+            "before": "1000",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "120/min then $0.01/conn/min",
+        "after": "then $0.01/conn/min",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "120",
+            "after": "$0.01"
+          },
+          {
+            "before": "$0.01",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "then $14/mo per addl agent",
+      "then $45/mo per addl agent",
+      "5 MAUs included",
+      "50 MAUs",
+      "50 MAUs",
+      "then $50/mo per 1000 MAUs",
+      "then $0.01/conn",
+      "then $0.01/conn",
+      "120/min",
+      "120/min",
+      "then $0.01/conn/min",
+      "1GB/mo",
+      "then $0.10/gb",
+      "1GB/mo",
+      "then $0.10/gb",
+      "FREE",
+      "Sign up for free",
+      "5 MAUs included",
+      "up to 120/min",
+      "up to 1GB/mo",
+      "then $14/mo per addl agent",
+      "then $14/mo per addl agent",
+      "50 MAUs included",
+      "up to 120/min",
+      "up to 1GB/mo",
+      "then $14/mo per addl agent",
+      "then $14/mo per addl agent",
+      "50 MAUs",
+      "then $50/mo per 1000 MAUs",
+      "then $0.01/conn",
+      "120/min",
+      "then $0.01/conn/min",
+      "1GB/mo",
+      "then $0.10/gb",
+      "then $14/mo per addl agent",
+      "then $14/mo per addl agent",
+      "unlimited origins",
+      "50 MAUs",
+      "then $50/mo per 1000 MAUs",
+      "$100/mo per 10 MAUs"
+    ],
+    "removed": [
+      "Free",
+      "1 per License then $14/mo per addl domain",
+      "1 per License then $45/mo per addl domain",
+      "100 then $0.01/conn",
+      "1GB/mo then $0.10/gb",
+      "We have just released a personal plan with an attractive price for personal projects and hobbies. It gives you all the goodies of ngrok free, plus the ability to set your own custom domains, and serve TCP traffic.",
+      "Get started for free"
+    ],
+    "totals": {
+      "removed": 129,
+      "added": 466,
+      "materialRemoved": 16,
+      "materialAdded": 54
+    }
+  },
+  {
+    "id": "ngrok-com-pricing-20230715150539",
+    "url": "https://ngrok.com/pricing",
+    "ts": "20230715150539",
+    "date": "2023-07-15",
+    "source": "wayback",
+    "prevTs": "20230501181702",
+    "kind": "price",
+    "score": 21,
+    "counts": {
+      "price": 7,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "ngrok: 7 prices changed ($75 → $47)",
+    "pairs": [
+      {
+        "before": "($75 billed monthly)",
+        "after": "($47 billed monthly)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$75",
+            "after": "$47"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$39",
+      "$14/mo per addl, enable overages in your account to purchase",
+      "$14/mo per addl, enable overages in your account to purchase"
+    ],
+    "removed": [
+      "$65",
+      "then $45/mo per addl agent",
+      "then $45/mo per addl agent"
+    ],
+    "totals": {
+      "removed": 17,
+      "added": 16,
+      "materialRemoved": 7,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "ngrok-com-pricing-20230905100001",
+    "url": "https://ngrok.com/pricing",
+    "ts": "20230905100001",
+    "date": "2023-09-05",
+    "source": "wayback",
+    "prevTs": "20230715150539",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "ngrok: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "🤯 Announcing free static domains for everyone! Learn How to Get One →"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "ngrok-com-pricing-20231113191637",
+    "url": "https://ngrok.com/pricing",
+    "ts": "20231113191637",
+    "date": "2023-11-13",
+    "source": "wayback",
+    "prevTs": "20230905100001",
+    "kind": "price",
+    "score": 144,
+    "counts": {
+      "price": 31,
+      "limit": 20,
+      "plan": 6
+    },
+    "material": true,
+    "headline": "ngrok: 31 prices, 20 limits, 6 plan names changed (removed “$0”; added “Verify webhook signatures for up to 500 reque…”)",
+    "pairs": [],
+    "added": [
+      "For developers bringing new projects to life, ngrok is always free.",
+      "Sign up Free",
+      "Free",
+      "Run your blog and side projects on ngrok free forever",
+      "Free",
+      "Serve HTTP apps, webhooks, and APIs with a free static domain",
+      "Verify webhook signatures for up to 500 requests/month",
+      "Restricted bandwidth and usage in free tier",
+      "from $15",
+      "Free",
+      "Run your blog and side projects on ngrok free forever",
+      "5 MAUs Included",
+      "10,000 events/month",
+      "2,500 requests/month",
+      "$15 per month per active distinct endpoint",
+      "Unlimited",
+      "5 MAU included then $.07 per MAU",
+      "5 MAU included then $5 per MAU",
+      "10,000 events/month",
+      "then $1 Per 10,000",
+      "2,500 requests/month",
+      "then $.10 per 1GB",
+      "$15 per month per active distinct endpoint",
+      "Unlimited",
+      "5 MAU included then $.07 per MAU",
+      "5 MAU included then $5 per MAU",
+      "10,000 events/month",
+      "then $1 Per 10,000",
+      "2,500 requests/month",
+      "then $.10 per 1GB",
+      "Front HTTP or HTTP/2 Sites, Apps, and APIs with edge availability, security, and performance.",
+      "ngrok gives organizations the power to control who accesses the dashboard with single sign on, SCIM, and can block provisioning of free accounts with domain controls",
+      "1 GB/month",
+      "500 Requests/Month",
+      "5 MAU",
+      "10,000 events/month",
+      "$15 per active endpoint per month",
+      "1 GB/month",
+      "then $.10 per 1GB",
+      "Unlimited"
+    ],
+    "removed": [
+      "🤯 Announcing free static domains for everyone! Learn How to Get One →",
+      "Sign up for free",
+      "$0",
+      "Sign up for free",
+      "unlimited origins",
+      "50 MAUs included",
+      "50 MAUs",
+      "then $50/mo per 1000 MAUs",
+      "50 MAUs",
+      "then $50/mo per 1000 MAUs",
+      "then $0.01/conn",
+      "then $0.01/conn",
+      "up to 120/min",
+      "120/min",
+      "then $0.01/conn/min",
+      "120/min",
+      "then $0.01/conn/min",
+      "then $0.10/gb",
+      "then $0.10/gb",
+      "FREE",
+      "Sign up for free",
+      "then $14/mo per addl agent",
+      "then $14/mo per addl agent",
+      "then $14/mo per addl agent",
+      "then $14/mo per addl agent",
+      "then $14/mo per addl agent",
+      "then $14/mo per addl agent",
+      "$100/mo per 10 MAUs"
+    ],
+    "totals": {
+      "removed": 467,
+      "added": 440,
+      "materialRemoved": 37,
+      "materialAdded": 74
+    }
+  },
+  {
+    "id": "ngrok-com-pricing-20240105214554",
+    "url": "https://ngrok.com/pricing",
+    "ts": "20240105214554",
+    "date": "2024-01-05",
+    "source": "wayback",
+    "prevTs": "20231113191637",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "ngrok: 2 prices changed (removed “$15 per month per active distinct endpoint”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$15 per month per active distinct endpoint",
+      "$15 per active endpoint per month"
+    ],
+    "totals": {
+      "removed": 37,
+      "added": 35,
+      "materialRemoved": 4,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "ngrok-com-pricing-20240301055849",
+    "url": "https://ngrok.com/pricing",
+    "ts": "20240301055849",
+    "date": "2024-03-01",
+    "source": "wayback",
+    "prevTs": "20240105214554",
+    "kind": "limits",
+    "score": 17,
+    "counts": {
+      "price": 0,
+      "limit": 9,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "ngrok: 9 limits changed (1GB → 10GB; 1GB → 10GB)",
+    "pairs": [
+      {
+        "before": "1 GB/month",
+        "after": "10 GB/month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1GB",
+            "after": "10GB"
+          }
+        ]
+      },
+      {
+        "before": "1 GB/month",
+        "after": "10 GB/month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1GB",
+            "after": "10GB"
+          }
+        ]
+      },
+      {
+        "before": "1 GB/month",
+        "after": "10 GB/month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1GB",
+            "after": "10GB"
+          }
+        ]
+      },
+      {
+        "before": "1 GB/month",
+        "after": "10 GB/month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1GB",
+            "after": "10GB"
+          }
+        ]
+      },
+      {
+        "before": "up to 1GB/mo",
+        "after": "up to 5GB/mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1GB",
+            "after": "5GB"
+          }
+        ]
+      },
+      {
+        "before": "1GB/mo",
+        "after": "15GB/mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1GB",
+            "after": "15GB"
+          }
+        ]
+      },
+      {
+        "before": "1GB/mo",
+        "after": "15GB/mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1GB",
+            "after": "15GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "5,000 requests/month",
+      "10,000 requests/month",
+      "10,000 requests/month"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 14,
+      "added": 26,
+      "materialRemoved": 8,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "ngrok-com-pricing-20240503060054",
+    "url": "https://ngrok.com/pricing",
+    "ts": "20240503060054",
+    "date": "2024-05-03",
+    "source": "wayback",
+    "prevTs": "20240301055849",
+    "kind": "price",
+    "score": 84,
+    "counts": {
+      "price": 12,
+      "limit": 20,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "ngrok: 12 prices, 20 limits, 4 plan names changed (removed “Verify webhook signatures for up to 500 reque…”; added “$18”)",
+    "pairs": [],
+    "added": [
+      "Sign up for free",
+      "$18",
+      "2,000 requests with basic, advanced, and enterprise policy actions each",
+      "Unlimited agents",
+      "3 day data retention",
+      "Unlimited teammates",
+      "$49",
+      "$199"
+    ],
+    "removed": [
+      "Sign up Free",
+      "Free",
+      "Run your blog and side projects on ngrok free forever",
+      "Free",
+      "Serve HTTP apps, webhooks, and APIs with a free static domain",
+      "Verify webhook signatures for up to 500 requests/month",
+      "Restricted data transfer and usage in free tier",
+      "Free",
+      "Run your blog and side projects on ngrok free forever",
+      "5 MAUs Included",
+      "10,000 events/month",
+      "2,500 requests/month",
+      "1GB/month",
+      "5,000 requests/month",
+      "$15 per month per active distinct endpoint",
+      "Unlimited",
+      "5 MAU included then $.07 per MAU",
+      "5 MAU included then $5 per MAU",
+      "10,000 events/month",
+      "then $1 Per 10,000",
+      "2,500 requests/month",
+      "then $.10 per 1GB",
+      "10,000 requests/month",
+      "Unlimited",
+      "5 MAU included then $.07 per MAU",
+      "5 MAU included then $5 per MAU",
+      "10,000 events/month",
+      "then $1 Per 10,000",
+      "2,500 requests/month",
+      "10 GB/month",
+      "then $.10 per 1GB",
+      "10,000 requests/month",
+      "Front HTTP or HTTP/2 Sites, Apps, and APIs with edge availability, security, and performance.",
+      "ngrok gives organizations the power to control who accesses the dashboard with single sign on, SCIM, and can block provisioning of free accounts with domain controls",
+      "1 GB/month",
+      "500 Requests/Month",
+      "5 MAU",
+      "10,000 events/month",
+      "$15 per active endpoint per month",
+      "10 GB/month"
+    ],
+    "totals": {
+      "removed": 327,
+      "added": 71,
+      "materialRemoved": 64,
+      "materialAdded": 12
+    }
+  },
+  {
+    "id": "ngrok-com-pricing-20240708070050",
+    "url": "https://ngrok.com/pricing",
+    "ts": "20240708070050",
+    "date": "2024-07-08",
+    "source": "wayback",
+    "prevTs": "20240503060054",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "ngrok: 2 prices changed (removed “$199”; added “$99”)",
+    "pairs": [],
+    "added": [
+      "$99"
+    ],
+    "removed": [
+      "$199"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 3,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "ngrok-com-pricing-20240905092616",
+    "url": "https://ngrok.com/pricing",
+    "ts": "20240905092616",
+    "date": "2024-09-05",
+    "source": "wayback",
+    "prevTs": "20240708070050",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "ngrok: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "ngrok-com-pricing-20241108154457",
+    "url": "https://ngrok.com/pricing",
+    "ts": "20241108154457",
+    "date": "2024-11-08",
+    "source": "wayback",
+    "prevTs": "20240905092616",
+    "kind": "price",
+    "score": 133,
+    "counts": {
+      "price": 24,
+      "limit": 7,
+      "plan": 24
+    },
+    "material": true,
+    "headline": "ngrok: 24 prices, 7 limits, 24 plan names changed ($50 → 50)",
+    "pairs": [
+      {
+        "before": "then $50/mo per 1000 MAUs",
+        "after": "up to 50 then $50/m per 1000 MAUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$50",
+            "after": "50"
+          },
+          {
+            "before": "1000",
+            "after": "$50"
+          },
+          {
+            "before": null,
+            "after": "1000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free",
+      "Free Static ngrok Domains",
+      "Free",
+      "Free",
+      "1 per license, then $14",
+      "1 per license, then $14",
+      "Free",
+      "1 per license, then $14",
+      "1 per license, then $14",
+      "Free",
+      "1 per license, then $14",
+      "1 per license, then $14",
+      "Free",
+      "20,000 per month",
+      "Free",
+      "Free",
+      "5,000 per month with verification",
+      "Free",
+      "Free",
+      "Free",
+      "10 GB per month",
+      "Free",
+      "Free",
+      "Free",
+      "1 per license then $14",
+      "1 per license then $14",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "up to 50 then $50/m per 1000 MAUs",
+      "Free",
+      "8 hours or contact us for specialized SLAs",
+      "Free",
+      "Free"
+    ],
+    "removed": [
+      "5 MAUs included",
+      "up to 120/min",
+      "50 MAUs included",
+      "up to 120/min",
+      "$25/mo per additional seat",
+      "$14/mo per additional agent",
+      "$14/mo per additional seat",
+      "50 MAUs",
+      "then $50/mo per 1000 MAUs",
+      "then $0.01/conn",
+      "120/min",
+      "then $0.01/conn/min",
+      "then $0.10/gb",
+      "$47/mo per additional seat",
+      "$14/mo per additional agent",
+      "$14/mo per additional seat",
+      "unlimited origins",
+      "50 MAUs",
+      "$100/mo per 10 Tunnel MAUs",
+      "then $0.01/conn",
+      "120/min",
+      "then $0.01/conn/min",
+      "15GB/mo",
+      "then $0.10/gb"
+    ],
+    "totals": {
+      "removed": 212,
+      "added": 166,
+      "materialRemoved": 28,
+      "materialAdded": 42
+    }
+  },
+  {
+    "id": "ngrok-com-pricing-20250915070535",
+    "url": "https://ngrok.com/pricing",
+    "ts": "20250915070535",
+    "date": "2025-09-15",
+    "source": "wayback",
+    "prevTs": "20241108154457",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "ngrok: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "ngrok-com-pricing-20251014080639",
+    "url": "https://ngrok.com/pricing",
+    "ts": "20251014080639",
+    "date": "2025-10-14",
+    "source": "wayback",
+    "prevTs": "20250915070535",
+    "kind": "price",
+    "score": 162,
+    "counts": {
+      "price": 35,
+      "limit": 12,
+      "plan": 17
+    },
+    "material": true,
+    "headline": "ngrok: 35 prices, 12 limits, 17 plan names changed (1 → $0.10; 1 → $0.10)",
+    "pairs": [
+      {
+        "before": "1 per license, then $14",
+        "after": "then $0.10 per GB",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "1",
+            "after": "$0.10"
+          },
+          {
+            "before": "$14",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "1 per license, then $14",
+        "after": "then $0.10 per GB",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "1",
+            "after": "$0.10"
+          },
+          {
+            "before": "$14",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Get it online fast and free",
+      "$0",
+      "100k HTTP/S reqs included (more w/ credit)",
+      "monthly, billed annually $10 billed monthly",
+      "Unlimited Usage",
+      "$20 monthly usage credit",
+      "Unlimited online endpoints",
+      "Unlimited bandwidth (5GB included)",
+      "Unlimited HTTP/S requests (100k included)",
+      "How does the one-time free trial credit work?",
+      "Unlimited",
+      "Unlimited",
+      "$0.02 per hour",
+      "Your development domain is specific to your account, and does not incur usage charges. You can use anything for free on your sandbox domain within your account’s limits.",
+      "744 hours included",
+      "then $0.0134 per hour",
+      "1 GB",
+      "5 GB",
+      "5 GB",
+      "then $1 per 100k",
+      "then $1 per 100k",
+      "then $2 per 100k",
+      "then $2 per 100k",
+      "120/min",
+      "360/min",
+      "1200/min",
+      "100/min",
+      "150/min",
+      "600/min",
+      "$200 per cert / month",
+      "$1 per 100k",
+      "3 monthly active users",
+      "then $1 each",
+      "24 hours retention",
+      "72 hours retention",
+      "$0.25 per 2k events",
+      "Unlimited",
+      "$900 per month per region",
+      "$250 per month per URL",
+      "then $5 per user"
+    ],
+    "removed": [
+      "For developers bringing new projects to life, ngrok is always free.",
+      "Sign up for free",
+      "$18",
+      "10GB data transfer out",
+      "2,000 requests with basic, advanced, and enterprise policy actions each",
+      "Unlimited agents",
+      "Unlimited teammates",
+      "$49",
+      "$99",
+      "FREE",
+      "Run your pre-release versions or internal apps on ngrok. Free forever.",
+      "Serve HTTP apps, webhooks, and APIs with a free static domain",
+      "Free email support",
+      "All free features",
+      "($25 billed monthly)",
+      "Unlimited webhook verification providers",
+      "$39",
+      "($47 billed monthly)",
+      "Free",
+      "Free Static ngrok Domains",
+      "1 per license, then $14",
+      "1 per license, then $14",
+      "Free",
+      "1 per license, then $14",
+      "1 per license, then $14",
+      "5,000 per month with verification",
+      "10 GB per month",
+      "15 GB per month",
+      "Free",
+      "1 per license then $14",
+      "1 per license then $14",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "up to 50 then $50/m per 1000 MAUs",
+      "up to 50 then $50/m per 1000 MAUs"
+    ],
+    "totals": {
+      "removed": 301,
+      "added": 243,
+      "materialRemoved": 55,
+      "materialAdded": 56
+    }
+  },
+  {
+    "id": "ngrok-com-pricing-20251103165606",
+    "url": "https://ngrok.com/pricing",
+    "ts": "20251103165606",
+    "date": "2025-11-03",
+    "source": "wayback",
+    "prevTs": "20251014080639",
+    "kind": "price",
+    "score": 8,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "ngrok: 2 prices, 1 limit changed ($0.0134 → $0.01; 1200 → 1800)",
+    "pairs": [
+      {
+        "before": "then $0.0134 per hour",
+        "after": "then $0.01 per hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.0134",
+            "after": "$0.01"
+          }
+        ]
+      },
+      {
+        "before": "1200/min",
+        "after": "1800/min",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1200",
+            "after": "1800"
+          }
+        ]
+      },
+      {
+        "before": "$199 per month",
+        "after": "$200 per month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$199",
+            "after": "$200"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 10,
+      "added": 8,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "ngrok-com-pricing-20260101135721",
+    "url": "https://ngrok.com/pricing",
+    "ts": "20260101135721",
+    "date": "2026-01-01",
+    "source": "wayback",
+    "prevTs": "20251103165606",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "ngrok: 1 limit changed (360 → 600)",
+    "pairs": [
+      {
+        "before": "360/min",
+        "after": "600/min",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "360",
+            "after": "600"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "ngrok-com-pricing-20260205222117",
+    "url": "https://ngrok.com/pricing",
+    "ts": "20260205222117",
+    "date": "2026-02-05",
+    "source": "wayback",
+    "prevTs": "20260101135721",
+    "kind": "limits",
+    "score": 5,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "ngrok: 3 limits changed (removed “120/min”; added “4k/min”)",
+    "pairs": [],
+    "added": [
+      "4k/min",
+      "20k/min"
+    ],
+    "removed": [
+      "120/min",
+      "600/min",
+      "1800/min",
+      "Get started for free"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 6,
+      "materialRemoved": 4,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "ngrok-com-pricing-20260307002514",
+    "url": "https://ngrok.com/pricing",
+    "ts": "20260307002514",
+    "date": "2026-03-07",
+    "source": "wayback",
+    "prevTs": "20260205222117",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "ngrok: 1 price changed (removed “$300 per month per region”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$300 per month per region"
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 8,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "ngrok-com-pricing-20260402022427",
+    "url": "https://ngrok.com/pricing",
+    "ts": "20260402022427",
+    "date": "2026-04-02",
+    "source": "wayback",
+    "prevTs": "20260307002514",
+    "kind": "price",
+    "score": 5,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "ngrok: 1 price, 1 plan name changed (added “$0.02 per hour”)",
+    "pairs": [],
+    "added": [
+      "Start for free",
+      "Most Popular Unlimited Usage",
+      "$0.02 per hour"
+    ],
+    "removed": [
+      "Unlimited Usage"
+    ],
+    "totals": {
+      "removed": 12,
+      "added": 14,
+      "materialRemoved": 7,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "ngrok-com-pricing-20260507091930",
+    "url": "https://ngrok.com/pricing",
+    "ts": "20260507091930",
+    "date": "2026-05-07",
+    "source": "wayback",
+    "prevTs": "20260402022427",
+    "kind": "price",
+    "score": 17,
+    "counts": {
+      "price": 5,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "ngrok: 5 prices, 1 limit changed (removed “Dedicated channel with 24 hour response SLA.”; added “or $2,400 per year”)",
+    "pairs": [],
+    "added": [
+      "or $2,400 per year",
+      "+ $200 per month",
+      "or + $2,400 per year",
+      "Page an on-call engineer for urgent incidents, with a 1 hour response SLA, 24×7. Requires Dedicated On-Call.",
+      "+ $1,000 per month",
+      "or + $12,000 per year"
+    ],
+    "removed": [
+      "Dedicated channel with 24 hour response SLA."
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 14,
+      "materialRemoved": 2,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "ngrok-com-pricing-20260708070854",
+    "url": "https://ngrok.com/pricing",
+    "ts": "20260708070854",
+    "date": "2026-07-08",
+    "source": "wayback",
+    "prevTs": "20260507091930",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "ngrok: 1 price changed ($1 → $0.10)",
+    "pairs": [
+      {
+        "before": "$1 per 100k",
+        "after": "$0.10 per 100k",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1",
+            "after": "$0.10"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "It can only be spent while you’re on the Free plan."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 15,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "ngrok-com-pricing-20260810124215",
+    "url": "https://ngrok.com/pricing",
+    "ts": "20260810124215",
+    "date": "2026-08-10",
+    "source": "wayback",
+    "prevTs": "20260708070854",
+    "kind": "price",
+    "score": 10,
+    "counts": {
+      "price": 3,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "ngrok: 3 prices, 1 limit changed (removed “744 hours included”; added “Yes, on contracts starting at $10,000 per yea…”)",
+    "pairs": [],
+    "added": [
+      "Unlimited Usage",
+      "Yes, on contracts starting at $10,000 per year. Below that, self-serve with a credit card is faster for everyone—including you.",
+      "Use any custom domain name that you already own with ngrok. Available on Pay-as-you-go and up, not on Free or Hobbyist. You only pay for hours when the domain is actively receiving traffic.",
+      "$0.27 per domain per active hour"
+    ],
+    "removed": [
+      "Most Popular Unlimited Usage",
+      "744 hours included",
+      "$200 per cert / month"
+    ],
+    "totals": {
+      "removed": 17,
+      "added": 45,
+      "materialRemoved": 4,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "ngrok-com-pricing-20260902202107",
+    "url": "https://ngrok.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260810124215",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 4,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "ngrok: 4 prices changed (removed “$8”; added “Save $24 with annual billing”)",
+    "pairs": [],
+    "added": [
+      "Save $24 with annual billing",
+      "$0.068 per endpoint hour"
+    ],
+    "removed": [
+      "$8",
+      "$250 per month per URL"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 6,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    },
+    "transition": true
+  }
+]

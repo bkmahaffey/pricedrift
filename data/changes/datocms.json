@@ -1,0 +1,735 @@
+[
+  {
+    "id": "datocms-com-pricing-20230315022431",
+    "url": "https://www.datocms.com/pricing",
+    "ts": "20230315022431",
+    "date": "2023-03-15",
+    "source": "wayback",
+    "prevTs": "20230131034829",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "DatoCMS: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "datocms-com-pricing-20230926152421",
+    "url": "https://www.datocms.com/pricing",
+    "ts": "20230926152421",
+    "date": "2023-09-26",
+    "source": "wayback",
+    "prevTs": "20230315022431",
+    "kind": "price",
+    "score": 45,
+    "counts": {
+      "price": 11,
+      "limit": 3,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "DatoCMS: 11 prices, 3 limits, 3 plan names changed (removed “Up to 3 projects with generous quota, but har…”; added “Free plan comes with 2 editors and 300 record…”)",
+    "pairs": [],
+    "added": [
+      "Just getting started? Try DatoCMS out for free, forever (yes really)",
+      "Free plan comes with 2 editors and 300 records, with 10GB of traffic and 100k API calls each month. No overages allowed. See all limits in detail",
+      "Sign up for free",
+      "Easy setup, no credit card required",
+      "From € 149 /month (billed annually)",
+      "10 included (up to 110) € 9 /mo per extra collaborator",
+      "1 included (up to 11) € 29 /mo per extra project",
+      "10 included (up to 20) € 15 /mo per extra locale",
+      "60 included (up to 160) € 10 /mo every 10 extra models",
+      "100k included (up to 200k) € 9 /mo every 10k extra records",
+      "500GB",
+      "1GB",
+      "60 days",
+      "1TB/mo included € 29 /mo every 150GB of extra traffic",
+      "1M/mo included € 9 /mo every 250k extra API calls",
+      "180 mins/mo included € 9 /mo every 180 mins of extra uploaded footage",
+      "150 hrs/mo included € 9 /mo every 150 hrs of extra video streaming time",
+      "The outcome depends on whether you are using a free or a paid plan. With the Free plan, it's not possible to exceed the permitted monthly limits. If you reach these limits, the service will cease to function as expected.",
+      "Under the free plan, you can have up to a maximum of 3 projects. However, if you opt for the Professional plan, you'll get the capacity for 11 projects (inclusive of one project in the regular price and the option to add 10 extra projects for €29/month each). If you need more projects, just contact us via our Support",
+      "To cancel your paying subscription, you have the option to switch to the free plan. However, please be aware that your current projects might exceed the limits allowed in the free plan. In order to proceed with the switch, you will need to take either of the following actions:",
+      "Delete the project(s) that exceed the free plan limits.",
+      "Reduce your project's resource usage to stay within the free plan limits.",
+      "By following these steps, you can successfully cancel your paying subscription and transition to the free plan.",
+      "The free plan provides access to all the functionalities of the Professional plan but with lower limits on resources. This should be sufficient for evaluating the product in most situations. However, if you still wish to try out the full Professional plan for any reason, you can contact us"
+    ],
+    "removed": [
+      "Try for free!",
+      "Free forever No credit card required",
+      "Try for free",
+      "Up to 3 projects with generous quota, but hard limits on resources (file storage, traffic, API calls)",
+      "Try for free",
+      "Unlimited image transformations",
+      "Every project starts with the free plan. If you exceed any of your current plan limits (for example, file storage), you will see a warning in the application with information on which threshold you surpassed. Nothing will happen to your site, but you won't be able to upload new files.",
+      "The free plan can hold a maximum of 3 projects, the Professional plan has a maximum of 10 projects, while the Scale plan supports up to 20 projects. These are all soft limits, so if you need more projects, just contact us via our Support",
+      "Nope! When you enroll in a monthly or annual plan, you pay up-front to access DatoCMS for the next month or year, respectively. However, you may cancel at any time during your billing cycle for free, and you'll retain full access to that plan until the end of the billing cycle.",
+      "You can either delete the project you're paying for, or reduce your site's usage below the free Developer plan limits and then switch back to the free plan.",
+      "The free plan has every functionality enabled, just with lower limits on resources, so it should be enough to evaluate the product in most of the situations. If for any reason you still need to try the full Professional plan, feel free to contact us at support@datocms.com"
+    ],
+    "totals": {
+      "removed": 77,
+      "added": 126,
+      "materialRemoved": 13,
+      "materialAdded": 26
+    }
+  },
+  {
+    "id": "datocms-com-pricing-20240229105127",
+    "url": "https://www.datocms.com/pricing",
+    "ts": "20240229105127",
+    "date": "2024-02-29",
+    "source": "wayback",
+    "prevTs": "20230926152421",
+    "kind": "price",
+    "score": 15,
+    "counts": {
+      "price": 5,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "DatoCMS: 5 prices changed (110 → €9; 11 → €29)",
+    "pairs": [
+      {
+        "before": "10 included (up to 110) € 9 /mo per extra collaborator",
+        "after": "10 included per project € 9 /mo per extra collaborator, up to 110",
+        "confidence": 0.8,
+        "deltas": [
+          {
+            "before": "110",
+            "after": "€9"
+          },
+          {
+            "before": "€9",
+            "after": "110"
+          }
+        ]
+      },
+      {
+        "before": "1 included (up to 11) € 29 /mo per extra project",
+        "after": "1 included € 29 /mo per extra project, up to 11",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "11",
+            "after": "€29"
+          },
+          {
+            "before": "€29",
+            "after": "11"
+          }
+        ]
+      },
+      {
+        "before": "10 included (up to 20) € 15 /mo per extra locale",
+        "after": "10 included per project € 15 /mo per extra locale, up to 20",
+        "confidence": 0.8,
+        "deltas": [
+          {
+            "before": "20",
+            "after": "€15"
+          },
+          {
+            "before": "€15",
+            "after": "20"
+          }
+        ]
+      },
+      {
+        "before": "60 included (up to 160) € 10 /mo every 10 extra models",
+        "after": "60 included per project € 10 /mo every 10 extra models, up to 160",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "160",
+            "after": "€10"
+          },
+          {
+            "before": "€10",
+            "after": "10"
+          },
+          {
+            "before": "10",
+            "after": "160"
+          }
+        ]
+      },
+      {
+        "before": "100k included (up to 200k) € 9 /mo every 10k extra records",
+        "after": "100k included € 9 /mo every 10k extra records, up to 200k",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "200k",
+            "after": "€9"
+          },
+          {
+            "before": "€9",
+            "after": "10k"
+          },
+          {
+            "before": "10k",
+            "after": "200k"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 18,
+      "added": 26,
+      "materialRemoved": 5,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "datocms-com-pricing-20240612210322",
+    "url": "https://www.datocms.com/pricing",
+    "ts": "20240612210322",
+    "date": "2024-06-12",
+    "source": "wayback",
+    "prevTs": "20240229105127",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "DatoCMS: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 18,
+      "added": 29,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "datocms-com-pricing-20240905164508",
+    "url": "https://www.datocms.com/pricing",
+    "ts": "20240905164508",
+    "date": "2024-09-05",
+    "source": "wayback",
+    "prevTs": "20240612210322",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "DatoCMS: 1 limit changed (removed “How Rotate built a 2M users a month e-commerce”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "How Rotate built a 2M users a month e-commerce",
+      "How to deliver an Emmy award-campaign in 4 weeks"
+    ],
+    "totals": {
+      "removed": 94,
+      "added": 3,
+      "materialRemoved": 2,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "datocms-com-pricing-20241130005433",
+    "url": "https://www.datocms.com/pricing",
+    "ts": "20241130005433",
+    "date": "2024-11-30",
+    "source": "wayback",
+    "prevTs": "20240905164508",
+    "kind": "price",
+    "score": 31,
+    "counts": {
+      "price": 6,
+      "limit": 5,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "DatoCMS: 6 prices, 5 limits, 2 plan names changed (added “10 €9/mo per extra collaborator”)",
+    "pairs": [],
+    "added": [
+      "Free vs Professional",
+      "⚠️ In the Free plan, you can't go over the allowed monthly limits. If you reach these limits, the service will stop responding as expected.",
+      "Free plan",
+      "10 €9/mo per extra collaborator",
+      "100k €9/mo every 10k extra records",
+      "200MB",
+      "500GB",
+      "3 days",
+      "60 days",
+      "10GB/mo",
+      "1TB/mo €29/mo every 150GB of extra traffic",
+      "100k/mo",
+      "1M/mo €9/mo every 250k extra API calls",
+      "30 mins/mo",
+      "180 mins/mo €9/mo every 180 mins of extra uploaded footage",
+      "120 mins/mo",
+      "150 hrs/mo €9/mo every 150 hrs of extra video streaming time",
+      "Video streaming in 4K"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 43,
+      "added": 303,
+      "materialRemoved": 12,
+      "materialAdded": 30
+    }
+  },
+  {
+    "id": "datocms-com-pricing-20250107094958",
+    "url": "https://www.datocms.com/pricing",
+    "ts": "20250107094958",
+    "date": "2025-01-07",
+    "source": "wayback",
+    "prevTs": "20241130005433",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "DatoCMS: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "datocms-com-pricing-20250309083322",
+    "url": "https://www.datocms.com/pricing",
+    "ts": "20250309083322",
+    "date": "2025-03-09",
+    "source": "wayback",
+    "prevTs": "20250107094958",
+    "kind": "plans",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "DatoCMS: 2 plan names changed",
+    "pairs": [],
+    "added": [
+      "Free plan"
+    ],
+    "removed": [
+      "Free plan"
+    ],
+    "totals": {
+      "removed": 37,
+      "added": 37,
+      "materialRemoved": 17,
+      "materialAdded": 17
+    }
+  },
+  {
+    "id": "datocms-com-pricing-20251210045443",
+    "url": "https://www.datocms.com/pricing",
+    "ts": "20251210045443",
+    "date": "2025-12-10",
+    "source": "wayback",
+    "prevTs": "20250309083322",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "DatoCMS: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 14,
+      "added": 25,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "datocms-com-pricing-20260107133237",
+    "url": "https://www.datocms.com/pricing",
+    "ts": "20260107133237",
+    "date": "2026-01-07",
+    "source": "wayback",
+    "prevTs": "20251210045443",
+    "kind": "price",
+    "score": 22,
+    "counts": {
+      "price": 7,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "DatoCMS: 7 prices, 1 limit changed (removed “1GB”; added “9k mins/mo included €9/mo every 9k mins of ex…”)",
+    "pairs": [],
+    "added": [
+      "9k mins/mo included €9/mo every 9k mins of extra video streaming time",
+      "We also offer a 100% free plan. No overages allowed. See all limits in detail",
+      "⚠️ In the Free plan, you can't go over the allowed monthly limits.",
+      "1 €29/mo per extra project",
+      "60 €10/mo every 10 extra models",
+      "10 €15/mo per extra locale",
+      "9k mins/mo €9/mo every 9k mins of extra video streaming time"
+    ],
+    "removed": [
+      "1GB",
+      "150 hrs/mo included €9/mo every 150 hrs of extra video streaming time",
+      "⚠️ In the Free plan, you can't go over the allowed monthly limits. If you reach these limits, the service will stop responding as expected.",
+      "150 hrs/mo €9/mo every 150 hrs of extra video streaming time"
+    ],
+    "totals": {
+      "removed": 148,
+      "added": 165,
+      "materialRemoved": 25,
+      "materialAdded": 28
+    }
+  },
+  {
+    "id": "datocms-com-pricing-20260309092619",
+    "url": "https://www.datocms.com/pricing",
+    "ts": "20260309092619",
+    "date": "2026-03-09",
+    "source": "wayback",
+    "prevTs": "20260107133237",
+    "kind": "price",
+    "score": 49,
+    "counts": {
+      "price": 11,
+      "limit": 8,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "DatoCMS: 11 prices, 8 limits changed (€29 → €39; €29 → €39)",
+    "pairs": [
+      {
+        "before": "Additional projects can be added for as low as €29/month",
+        "after": "Additional projects can be added for as low as €39/month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€29",
+            "after": "€39"
+          }
+        ]
+      },
+      {
+        "before": "1 included €29/mo per extra project, up to 11",
+        "after": "1 included €39/mo per extra project, up to 10",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€29",
+            "after": "€39"
+          },
+          {
+            "before": "11",
+            "after": "10"
+          }
+        ]
+      },
+      {
+        "before": "10 included per project €9/mo per extra collaborator, up to 110",
+        "after": "10 included per project €9/mo per extra collaborator, up to 100",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "110",
+            "after": "100"
+          }
+        ]
+      },
+      {
+        "before": "60 included per project €10/mo every 10 extra models, up to 160",
+        "after": "100 included per project €10/mo every 10 extra models, up to 200",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "60",
+            "after": "100"
+          },
+          {
+            "before": "160",
+            "after": "200"
+          }
+        ]
+      },
+      {
+        "before": "10 included per project €15/mo per extra locale, up to 20",
+        "after": "5 included per project €19/mo per extra locale, up to 10",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10",
+            "after": "5"
+          },
+          {
+            "before": "€15",
+            "after": "€19"
+          },
+          {
+            "before": "20",
+            "after": "10"
+          }
+        ]
+      },
+      {
+        "before": "1M/mo included €9/mo every 250k extra API calls",
+        "after": "1M/mo included €9/mo every 1M extra CDA API calls",
+        "confidence": 0.83,
+        "deltas": [
+          {
+            "before": "250k",
+            "after": "1M"
+          }
+        ]
+      },
+      {
+        "before": "9k mins/mo included €9/mo every 9k mins of extra video streaming time",
+        "after": "50k mins/mo included €9/mo every 12k mins of extra video streaming time",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "9k",
+            "after": "50k"
+          },
+          {
+            "before": "9k",
+            "after": "12k"
+          }
+        ]
+      },
+      {
+        "before": "1 €29/mo per extra project",
+        "after": "1 €39/mo per extra project",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "€29",
+            "after": "€39"
+          }
+        ]
+      },
+      {
+        "before": "60 €10/mo every 10 extra models",
+        "after": "100 €10/mo every 10 extra models",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "60",
+            "after": "100"
+          }
+        ]
+      },
+      {
+        "before": "10 €15/mo per extra locale",
+        "after": "5 €19/mo per extra locale",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10",
+            "after": "5"
+          },
+          {
+            "before": "€15",
+            "after": "€19"
+          }
+        ]
+      },
+      {
+        "before": "1M/mo €9/mo every 250k extra API calls",
+        "after": "1M/mo €9/mo every 1M extra CDA API calls",
+        "confidence": 0.8,
+        "deltas": [
+          {
+            "before": "250k",
+            "after": "1M"
+          }
+        ]
+      },
+      {
+        "before": "9k mins/mo €9/mo every 9k mins of extra video streaming time",
+        "after": "50k mins/mo €9/mo every 12k mins of extra video streaming time",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "9k",
+            "after": "50k"
+          },
+          {
+            "before": "9k",
+            "after": "12k"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "3 included per project €39/mo per extra sandbox environment, up to 8",
+      "100k/mo included €9/mo every 100k extra CMA API calls",
+      "3 €39/mo per extra sandbox environment",
+      "10k/mo",
+      "100k/mo €9/mo every 100k extra CMA API calls"
+    ],
+    "removed": [
+      "180 mins/mo included €9/mo every 180 mins of extra uploaded footage",
+      "30 mins/mo",
+      "180 mins/mo €9/mo every 180 mins of extra uploaded footage"
+    ],
+    "totals": {
+      "removed": 37,
+      "added": 39,
+      "materialRemoved": 15,
+      "materialAdded": 17
+    }
+  },
+  {
+    "id": "datocms-com-pricing-20260417020806",
+    "url": "https://www.datocms.com/pricing",
+    "ts": "20260417020806",
+    "date": "2026-04-17",
+    "source": "wayback",
+    "prevTs": "20260309092619",
+    "kind": "price",
+    "score": 5,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "DatoCMS: 1 price, 1 limit changed (10k → 25k)",
+    "pairs": [
+      {
+        "before": "10k/mo",
+        "after": "25k/mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10k",
+            "after": "25k"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Working on client projects? Our Agency Partner Program starts at €39/month »"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 3,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "datocms-com-pricing-20260604010509",
+    "url": "https://www.datocms.com/pricing",
+    "ts": "20260604010509",
+    "date": "2026-06-04",
+    "source": "wayback",
+    "prevTs": "20260417020806",
+    "kind": "plans",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "DatoCMS: 2 plan names changed",
+    "pairs": [],
+    "added": [
+      "Free plan"
+    ],
+    "removed": [
+      "Free plan"
+    ],
+    "totals": {
+      "removed": 63,
+      "added": 181,
+      "materialRemoved": 22,
+      "materialAdded": 22
+    }
+  },
+  {
+    "id": "datocms-com-pricing-20260731061759",
+    "url": "https://www.datocms.com/pricing",
+    "ts": "20260731061759",
+    "date": "2026-07-31",
+    "source": "wayback",
+    "prevTs": "20260604010509",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "DatoCMS: 1 price changed (11 → 10)",
+    "pairs": [
+      {
+        "before": "Under the free plan, you can have up to a maximum of 3 projects. However, if you opt for the Professional plan, you'll get the capacity for 11 projects (inclusive of one project in the regular price and the option to add 10 extra projects for €29/month each). If you need more projects, just contact us via our Support",
+        "after": "Under the free plan, you can have up to a maximum of 3 projects. However, if you opt for the Professional plan, you'll get the capacity for 10 projects (inclusive of one project in the regular price and the option to add 9 extra projects for €39/month each). If you need more projects, just contact us via our Support",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "11",
+            "after": "10"
+          },
+          {
+            "before": "10",
+            "after": "9"
+          },
+          {
+            "before": "€29",
+            "after": "€39"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  }
+]

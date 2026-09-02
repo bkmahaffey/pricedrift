@@ -1,0 +1,243 @@
+Platform
+STATSIG
+Product Observability
+Why Statsig
+How Statsig Works
+FEATURES
+Feature Gates
+Dynamic Configs
+Experiments
+Autotune
+Metrics
+Insights
+Holdouts
+CONNECTIONS
+SDKs
+Integrations
+Resources
+EXPLORE
+Documentation
+Code
+Testimonials
+CONTACT
+Careers
+Get a Live Demo
+Join Community
+Blog
+Pricing
+Sign In
+Get Your Demo
+Test Drive Now
+Create a free account
+Platform
+STATSIG
+Product Observability
+Why Statsig
+How Statsig Works
+FEATURES
+Feature Gates
+Dynamic Configs
+Experiments
+Autotune
+Metrics
+Insights
+Holdouts
+CONNECTIONS
+SDKs
+Integrations
+Resources
+EXPLORE
+Documentation
+Code
+Testimonials
+CONTACT
+Careers
+Get a Live Demo
+Join Community
+Blog
+Pricing
+Sign In
+Get Your Demo
+Test Drive Now
+Create a free account
+PRICING
+Serves everyone in the company
+Our pricing is simple, transparent and empowers everyone in your team/company to be data-driven.
+Get Your Demo
+Test Drive Now
+Or apply for our Startup program
+ON-DEMAND
+Free up to 5M events per month
+then as low as $0.03 per 1000 events with volume discounts
+Start for Free
+Unlimited Seats
+Bring your whole team over
+Unlimited Feature Gates
+Analyze feature rollouts with Pulse Results
+Unlimited Experiments
+Run A/B/n Tests
+Unlimited Layers
+Create configurable parameters to test & run mutually exclusive experiments
+Events Explorer
+Live event analysis with up to 14 day retention
+Unlimited Dynamic Configs
+Customize your application with minimal code changes
+Unlimited Holdouts
+Withhold features to measure total cumulative impact
+Unlimited Insights for Metrics
+Breakdown the impact of all experiments and features on a specific metric
+Unlimited Autotune Experiments
+Let Statsig pick the winning treatment using the multi-arm bandit algorithm
+Unlimited Custom Metrics
+Create custom metrics using events, in addition to autoderived and imported metrics
+Import from Data Warehouse
+Import your metrics and event data from your DW
+Change Logs, Reverts, Reviews
+Track every change and revert with ease
+Slack Community Support
+6 Months Data Retention
+ENTERPRISE
+Custom
+Annual, flexible pricing
+Contact Sales
+Everything in On-demand, plus
+Team-level Permissions
+Enforce team-level permissions for reviews and approval flows
+Organization & Project Management
+Consolidate and manage all projects across your organization
+Directory-based Authentication
+SSO, SAML, OAUTH
+Domain Assignment
+Enable authentication flows based on email domains
+Events Explorer
+Get 60 day retention for your live event analysis
+Export to Data Warehouse
+Export Statsig exposure, events, and results to your DW
+Export Data API
+Export your Statsig exposure, events, and results on request
+Premium Support with Private Slack Channel
+4 business hour response SLA
+Rapid technical onboarding sessions (up to 4 per year)
+Data science advisory and experiment reviews (up to 4 per year)
+Customer Success Manager
+Get a headstart with experts designated to your experimentation outcomes
+Tailored Integration
+Speak with Statsig engineering to address your unique business needs
+Flexible Payment Terms
+Speak with Statsig sales to customize your payment plan
+12 Months Data Retention
+We can work with you to suit your data retention needs
+99.9% Service SLA
+We guarantee 99.9% service uptime
+WHICH ONE IS RIGHT FOR YOU?
+Compare Plans
+ON-DEMAND
+ENTERPRISE
+Unlimited Seats
+Bring your whole team over
+Unlimited Feature Gates
+Analyze feature rollouts with Pulse Results
+Unlimited Experiments
+Run A/B/n Tests at scale
+Events Explorer
+Live event analysis with up to 14 day retention
+Unlimited Dynamic Configs
+Customize your application with minimal code changes
+Unlimited Holdouts
+Withhold features to measure cumulative impact
+Unlimited Insights for Metrics
+Breakdown the impact of all experiments and features on a specific metric
+Unlimited Autotune Experiments
+Let Statsig pick the winning treatment using the multi-arm bandit algorithm
+Unlimited Custom Metrics
+Create custom metrics using events
+Import from Data Warehouse
+Import your metrics and event data from your DW
+Change Logs, Reverts, Reviews
+Track every change and revert with ease
+Data Retention
+6 Months
+12 Months
+Support Response
+Slack + 1 business day
+Slack + 4 business hours
+99.9% Service SLA
+Team-level Permissions
+Enforce team-level permissions for reviews and approval flows
+Organization & Project Management
+Centrally manage all projects across your organization
+Directory-based Authentication
+SSO, SAML, OAUTH
+Domain Assignment
+Enable authentication flows based on your email domain
+Events Explorer
+Get extended 60 day retention for your live event analysis
+Export to Data Warehouse
+Export Statsig exposure, events, and results to your DW
+Export Data API
+Export your Statsig exposure, events, and results on request
+Private Slack Channel for Support
+Get personalized support with deep dives on your questions and cases
+Accelerated Onboarding Sessions
+Get in-depth technical support for rapid onboarding
+Data Science Advisory & Experiment Reviews
+Review your experiments with Statsig's data scientists
+Customer Success Manager
+Get a headstart with experts designated to your experimentation outcomes
+Tailored Integration
+Speak with Statsig engineering to solve your unique business needs
+Flexible Payment Terms
+Speak with Statsig sales to customize your payment plan
+Join our Product Experimentation Community on
+Connect with our data scientists and engineers, and ask questions or just hang out with other cool folks that believe in an experimentation culture!
+Join Community
+ANSWERS TO
+Frequently Asked Questions
+What is an event?
+Statsig records an event when your application calls the Statsig SDK to check whether a user should be exposed to a feature gate or experiment, to log an event for a custom metric, or to check a dynamic config.
+Statsig dedupes billable exposure events for the same user and feature/experiment on client (60m window; proxy for session duration) and server SDKs (1m window; proxy for user request handling).
+Experiment checks that result in no allocation (e.g. the experiment hasn’t started, or has finished) or Feature Gates that have been disabled (fully shipped or abandoned with no rule evaluation) do not generate billable exposure events.
+How do I get started with the Statsig?
+When you create a Statsig account, you automatically start with Statsig’s Always Free, On-demand tier where you can log up to 5 million events every calendar month for no charge.
+Can I roll over any free, unused events into the next month?
+No, if you don’t log up to 5 million events in a given calendar month, the remaining events balance doesn’t roll over to the next month. To maximize your On-demand benefits, we encourage you to log as many events as required to adequately capture the impact of the product improvements you’re testing.
+What happens if I exceed the free events limit?
+If you exceed the free events limit, you’ll start to accrue a charge at the On-demand rate with built-in volume discounts. For a given month, you accrue a charge only for events that exceed the free limit that month. Statsig alerts you via email when your usage exceeds the free limit using the email address that you used to create your Statsig account. You can also choose to lock down your account to never exceed the free limit by turning on “Automatically turn off event logging after 5 million 
+What are the On-demand pricing discounts?
+We like transparency and pricing should be no different. Our pricing is usage-based and the rate declines as the volume increases. The more you use, the lower the rate per event. Here’s how we calculate your price based on the number of events consumed per month.
+Per month usage
+On-demand $ / per 1000 events
+up to 5M events
+Free
+5-10M
+$0.075
+10-50M
+$0.05
+50-100M
+$0.03
+>100M
+Contact Us
+We also offer an additional discount if you choose to commit for 12 months of usage.
+When will Statsig charge me?
+Statsig generates an invoice for the previous month at the beginning of each new month. When you wish to submit a payment for a given invoice, we accept your payment method via Stripe and charge the amount listed in the invoice that you wish to pay.
+How do I monitor my On-demand usage?
+To monitor your On-demand usage, navigate to the Project Settings and click on the Usage & Billing tab on the Statsig console at https://console.statsig.com
+See our documentation for more details.
+Still have questions?
+DON'T TAKE OUR WORD
+What others say about us
+More Customer Stories
+Raymond Lou
+Product Director, Understood
+“The Understood team chose Statsig for its fast integration and quick setup, which allows us to run more experiments and gives us confidence in data informed decision making.”
+Bilal Quadri
+CTO & Cofounder, Zoya Finance
+“...There's no way to ship things fast, safely without feature flags.... The ability to conduct experiments, of course, is where feature flags shine the most. Statsig is a relatively new player in the space, but the team's responsiveness to feature requests and questions is what won us over.”
+Shannon Priem
+Lead PM, Headspace
+“Our experiments are at times nuanced and Statsig has enabled us to quickly understand the impact of the features we ship. This speed to understanding removes the need for guesswork in analyzing the data, and in the end helps us improve our customer's experience faster.”
+Try Statsig Today
+Explore Statsig’s smart feature gates with built-in A/B tests, or create an account instantly and start optimizing your web and mobile applications. You can also schedule a live demo or chat with us to design a custom package for your business.
+Get Your Demo
+Test Drive Now
+Create a free account

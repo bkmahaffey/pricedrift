@@ -1,0 +1,173 @@
+Menu
+Getting Started
+Overview
+Introduction
+The Hitchhiker's Guide to Grok
+Models and Pricing
+What's New?
+Key Information
+Manage Billing
+Consumption and Rate Limits
+Regional Endpoints
+new
+Usage Explorer
+Using Management API
+new
+Migrating to New Models
+Debugging Errors
+Guides
+Chat
+Chat with Reasoning
+Live Search
+new
+Image Understanding
+Image Generations
+Stream Response
+Deferred Chat Completions
+Asynchronous Requests
+Function Calling
+Structured Outputs
+Fingerprint
+Migration from Other Providers
+REST API Reference
+Chat completions
+Messages (Anthropic compatible)
+Image generations
+API key
+List models
+Get model
+List language models
+Get language model
+List image generation models
+Get image generation model
+Tokenize text
+Get deferred chat completions
+Completions (legacy)
+Completions (Anthropic compatible - legacy)
+Management API Reference
+Create an API key
+List API keys
+Update an API key
+Delete an API key
+Check API key propagation
+List models
+List possible endpoint ACL values
+Resources
+Community Integrations
+FAQ - General
+FAQ - xAI API
+FAQ - Grok Website / Apps
+Service status:
+Loading...
+xAI API Developer Discord
+Email xAI Support
+Key Information
+Models and Pricing
+An overview of our models' capabilities and their associated pricing.
+Grok 4 now available
+We're proud to bring you Grok 4 access on the API. Grok 4 currently supports text modality with vision, image gen and other capabilities coming soon.
+Modalities
+Context window
+256,000
+Features
+Function calling
+Structured outputs
+Reasoning
+View model
+Model Pricing
+Model
+Modalities
+Capabilities
+Context
+Rate limits
+Pricing
+Language models
+Per million tokens
+grok-4-0709
+256,000
+2M tpm
+480 rpm
+$3.00 $15.00
+grok-3
+131,072
+600 rpm
+$3.00 $15.00
+grok-3-mini
+131,072
+480 rpm
+$0.30 $0.50
+grok-3-fast us-east-1
+131,072
+600 rpm
+$5.00 $25.00
+grok-3-fast eu-west-1
+131,072
+600 rpm
+$5.00 $25.00
+grok-3-mini-fast
+131,072
+180 rpm
+$0.60 $4.00
+grok-2-vision-1212 us-east-1
+32,768
+600 rpm
+$2.00 $10.00
+grok-2-vision-1212 eu-west-1
+32,768
+50 rps
+$2.00 $10.00
+Image generation models
+Per image output
+grok-2-image-1212
+300 rpm
+$0.07
+Show deprecated models
+Grok 4 Information for Grok 3 Users
+When moving from grok-3 / grok-3-mini to grok-4, please note the following differences:
+• Grok 4 is a reasoning model. There are no non-reasoning mode when using Grok 4.
+• presencePenalty, frequencyPenalty and stop parameters are not supported by reasoning models. Adding them in the request would result in error.
+• Grok 4 does not have a reasoning_effort parameter. If a reasoning_effort is provided, the request will return error.
+Live Search Pricing
+Live Search costs $25 per 1,000 sources used. That means each source costs $0.025.
+The number of sources used can be found in the response object, which contains a field called response.usage.num_sources_used.
+For more information on using Live Search, visit our guide on Live Search
+or look for search_parameters parameter on API Reference - Chat Completions
+.
+Additional Information Regarding Models
+No access to realtime events without Live Search enabled Grok has no knowledge of current events or data beyond what was present in its training data.
+To incorporate realtime data with your request, please use Live Search
+function, or pass any realtime data as context in your system prompt.
+Chat models No role order limitation: You can mix system, user, or assistant roles in any sequence for your conversation context.
+Image input models Maximum image size: 20MiB
+Maximum number of images: No limit
+Supported image file types: jpg/jpeg or png.
+Any image/text input order is accepted (e.g. text prompt can precede image prompt)
+The knowledge cut-off date of Grok 3 and Grok 4 are November, 2024.
+Model Aliases
+Some models have aliases to help user automatically migrate to the next version of the same model. In general:
+<modelname> is aliased to the latest stable version.
+<modelname>-latest is aliased to the latest version. This is suitable for users who want to access the latest features.
+<modelname>-<date> refers directly to a specific model release. This will not be updated and is for workflows that demand consistency.
+For most users, the aliased <modelname> or <modelname>-latest are recommended, as you would receive the latest features automatically.
+Billing and Availability
+Your model access might vary depending on various factors such as geographical location, account limitations, etc.
+For how the bills are charged, visit Manage Billing
+for more information.
+For the most up-to-date information on your team's model availability, visit Models Page
+on xAI Console.
+Model Input and Output
+Each model can have one or multiple input and output capabilities. The input capabilities refer to which type(s) of prompt can the model accept in the request message body. The output capabilities refer to which type(s) of completion will the model generate in the response message body.
+This is a prompt example for models with text input capability:
+This is a prompt example for models with text and image input capabilities:
+This is a prompt example for models with text input and image output capabilities:
+Context Window
+The context window determines the maximum amount of token accepted by the model in the prompt.
+For more information on how token is counted, visit Consumption and Rate Limits
+.
+If you are sending the entire conversation history in the prompt for use cases like chat assistant, the sum of all the prompts in your conversation history must be no greater than the context window.
+Cached prompt tokens
+Trying to run the same prompt multiple times? You can now use cached prompt tokens to incur less cost on repeated prompts. By reusing stored prompt data, you save on processing expenses for identical requests. Enable caching in your settings and start saving today!
+The caching is automatically enabled for all requests without user input. You can view the cached prompt token consumption in the "usage" object
+.
+For details on the pricing, please refer to the pricing table above, or on xAI Console
+.

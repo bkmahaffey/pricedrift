@@ -1,0 +1,421 @@
+[
+  {
+    "id": "hasura-io-pricing-20230314223352",
+    "url": "https://hasura.io/pricing",
+    "ts": "20230314223352",
+    "date": "2023-03-14",
+    "source": "wayback",
+    "prevTs": "20230130143645",
+    "kind": "price",
+    "score": 79,
+    "counts": {
+      "price": 16,
+      "limit": 13,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Hasura: 16 prices, 13 limits, 3 plan names changed (removed “1 GB data pass-through”; added “Connect 2 databases per project”)",
+    "pairs": [],
+    "added": [
+      "Generous free plans and flexible usage-based pricing that scale with your needs – from early exploration to enterprise scale",
+      "Connect 2 databases per project",
+      "Up to 3M API requests/month",
+      "Try free",
+      "Starts at $1.50/hour",
+      "Unlimited databases per project",
+      "Unlimited data passthrough at $0.13/GB",
+      "Up to 6M API requests/month",
+      "Everything in Free, plus",
+      "Unlimited databases per project",
+      "Unlimited data passthrough at $0.13/GB",
+      "Unlimited API request/month",
+      "Unlimited query caching and read replicas",
+      "Connect 2 databases per project",
+      "Up to 100MB data passthrough/month",
+      "Up to 3M API requests/month",
+      "Data passthrough - Up to 100 MB / month",
+      "Starts at $1.50/hour",
+      "Unlimited databases per project",
+      "Unlimited data passthrough at $0.13/GB",
+      "Up to 6M API requests/month",
+      "Data passthrough - Unlimited at $0.13/GB",
+      "Query cache - (max 100 MB)",
+      "Unlimited databases per project",
+      "Unlimited data passthrough at $0.13/GB",
+      "Unlimited API request/month",
+      "Unlimited query caching and read replicas",
+      "Data passthrough - Unlimited at $0.13/GB",
+      "VPC peering - 1 included ($250/month per additional VPC)",
+      "Try free",
+      "Start on Free tier",
+      "Up to 100 MB / month",
+      "Unlimited at $0.13/GB",
+      "(max 100 MB)",
+      "1 included ($250/month per additional VPC)",
+      "Try free",
+      "You can downgrade to the Free plan at any time. You will be billed for the usage incurred until the hour of your downgrade.",
+      "No. A Free plan is free forever and you don’t need to enter credit card information. However, to use the Professional plan, a user must enter credit card information. Enterprise plan offers the ability to make a commitment to a minimum amount of spend. For more information about annual commitments, contact us"
+    ],
+    "removed": [
+      "1 GB data pass-through",
+      "60 requests/minute",
+      "Get Started for Free",
+      "$99/mo/project",
+      "20 GB data pass-through*",
+      "Unlimited requests",
+      "*$2 per additional GB",
+      "1 GB data pass-through",
+      "60 requests/minute",
+      "$99/mo/project",
+      "20 GB data pass-through*",
+      "Unlimited requests",
+      "*$2 per additional GB",
+      "Unlimited requests",
+      "Upto 1GB per month",
+      "20 GB data pass through ($2 per additional GB)",
+      "60 requests/minute",
+      "Unlimited",
+      "60s",
+      "Yes (1 day analytics)",
+      "Yes (1 MB cache)",
+      "Yes (Upto 10 collaborators)",
+      "free",
+      "Get Started for Free",
+      "Your project’s usage after you upgrade is more than 20GiB for that month: You will be charged the full 99$, plus 2$ for every additional GiB over 20 GiB.",
+      "If your project’s usage is above 20GiB for that calendar month, you'll be charged the full 99$ plus 2$ for every additional GiB over 20 GiB, irrespective of the number of days spent on the Standard Tier."
+    ],
+    "totals": {
+      "removed": 298,
+      "added": 408,
+      "materialRemoved": 33,
+      "materialAdded": 45
+    }
+  },
+  {
+    "id": "hasura-io-pricing-20230521075521",
+    "url": "https://hasura.io/pricing",
+    "ts": "20230521075521",
+    "date": "2023-05-21",
+    "source": "wayback",
+    "prevTs": "20230314223352",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Hasura: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 8,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "hasura-io-pricing-20230924073152",
+    "url": "https://hasura.io/pricing",
+    "ts": "20230924073152",
+    "date": "2023-09-24",
+    "source": "wayback",
+    "prevTs": "20230521075521",
+    "kind": "price",
+    "score": 39,
+    "counts": {
+      "price": 4,
+      "limit": 2,
+      "plan": 12
+    },
+    "material": true,
+    "headline": "Hasura: 4 prices, 2 limits, 12 plan names changed (100MB → 1GB; $0.13 removed)",
+    "pairs": [
+      {
+        "before": "Query cache - (max 100 MB)",
+        "after": "Query cache - (max 1 GB)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100MB",
+            "after": "1GB"
+          }
+        ]
+      },
+      {
+        "before": "Unlimited data passthrough at $0.13/GB",
+        "after": "Unlimited data passthrough",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.13",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Try free",
+      "Try free",
+      "Everything in Free, plus",
+      "Unlimited data passthrough",
+      "Unlimited",
+      "Free",
+      "Free",
+      "(max 1 GB)",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free"
+    ],
+    "removed": [
+      "Try free",
+      "Starts at $1.50/active hour",
+      "Unlimited data passthrough at $0.13/GB",
+      "Unlimited API request/month",
+      "Free",
+      "Forever $0",
+      "You can downgrade to the Free plan at any time. You will be billed for the usage incurred until the hour of your downgrade.",
+      "No. A Free plan is free forever and you don’t need to enter credit card information. However, to use the Professional plan, a user must enter credit card information. Enterprise plan offers the ability to make a commitment to a minimum amount of spend. For more information about annual commitments, contact us"
+    ],
+    "totals": {
+      "removed": 83,
+      "added": 125,
+      "materialRemoved": 26,
+      "materialAdded": 32
+    }
+  },
+  {
+    "id": "hasura-io-pricing-20240614002308",
+    "url": "https://hasura.io/pricing",
+    "ts": "20240614002308",
+    "date": "2024-06-14",
+    "source": "wayback",
+    "prevTs": "20230924073152",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Hasura: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Get started for free"
+    ],
+    "totals": {
+      "removed": 23,
+      "added": 30,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "hasura-io-pricing-20240811200625",
+    "url": "https://hasura.io/pricing",
+    "ts": "20240811200625",
+    "date": "2024-08-11",
+    "source": "wayback",
+    "prevTs": "20240614002308",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hasura: 2 limits changed (added “P1: < 1 hour”)",
+    "pairs": [],
+    "added": [
+      "Every Hasura user has access to free Community support. Business support is included with subscriptions to Hasura Enterprise.",
+      "P1: < 1 hour",
+      "P1: < 30 minutes",
+      "First response SLAs - P1: < 1 hour, P2: < 4 hour, P3: < 1 day, P4: < 2 business days",
+      "First response SLAs - P1: < 30 minutes, P2: < 2 hour, P3: < 4 hour, P4: < 1 business day"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 109,
+      "materialRemoved": 0,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "hasura-io-pricing-20241103133907",
+    "url": "https://hasura.io/pricing",
+    "ts": "20241103133907",
+    "date": "2024-11-03",
+    "source": "wayback",
+    "prevTs": "20240811200625",
+    "kind": "price",
+    "score": 186,
+    "counts": {
+      "price": 29,
+      "limit": 16,
+      "plan": 34
+    },
+    "material": true,
+    "headline": "Hasura: 29 prices, 16 limits, 34 plan names changed (removed “Connect 2 databases per project”; added “Optional hosting for third-party & code conne…”)",
+    "pairs": [],
+    "added": [
+      "DDN Free",
+      "Unlimited models, at any scale",
+      "Unlimited models, at any scale",
+      "Optional hosting for third-party & code connectors - $0.075/vCPU-hour, $0.0075/GiB-hour",
+      "Traces: retention time - Last 15 mins",
+      "API performance metrics - Last 15 mins",
+      "Unlimited models, at any scale",
+      "Optional hosting for third-party & code connectors - $0.075/vCPU-hour, $0.0075/GiB-hour",
+      "Traces: retention time - Last 15 mins",
+      "API performance metrics - Last 15 mins",
+      "$5/active model/month*",
+      "DDN Free, plus:",
+      "Unlimited supergraph developers",
+      "Start free trial",
+      "DDN Free, plus:",
+      "Unlimited supergraph developers",
+      "Optional hosting for third-party & code connectors - $0.075/vCPU-hour, $0.0075/GiB-hour",
+      "Traces: retention time - 30 days",
+      "API performance metrics - 30 days",
+      "Dedicated VPC - $1000/availability zone/month*",
+      "DDN Free, plus:",
+      "Unlimited supergraph developers",
+      "Optional hosting for third-party & code connectors - $0.075/vCPU-hour, $0.0075/GiB-hour",
+      "Traces: retention time - 30 days",
+      "API performance metrics - 30 days",
+      "Dedicated VPC - $1000/availability zone/month*",
+      "$30/active model/month*",
+      "Start free trial",
+      "Optional hosting for third-party & code connectors - $0.075/vCPU-hour, $0.0075/GiB-hour",
+      "Traces: retention time - 30 days",
+      "API performance metrics - 30 days",
+      "Dedicated VPC - $1000/availability zone/month*",
+      "Optional hosting for third-party & code connectors - $0.075/vCPU-hour, $0.0075/GiB-hour",
+      "Traces: retention time - 30 days",
+      "API performance metrics - 30 days",
+      "Dedicated VPC - $1000/availability zone/month*",
+      "Meet advanced security and compliance requirements by hosting the Hasura data plane on dedicated infrastructure. Add to Base or Advanced plans for $1000/Availability Zone/month.",
+      "DDN Free",
+      "Start free trial",
+      "Start free trial"
+    ],
+    "removed": [
+      "Generous free plans and flexible usage-based pricing that scale with your needs – from early exploration to enterprise scale.",
+      "Free",
+      "Try free",
+      "Connect 2 databases per project",
+      "Up to 100MB data passthrough/month",
+      "Up to 3M API requests/month",
+      "Connect 2 databases per project",
+      "Up to 100MB data passthrough/month",
+      "Up to 3M API requests/month",
+      "Data passthrough - Up to 100 MB / month",
+      "Query cache - (max 100 MB)",
+      "Try free",
+      "Starts at $1.50/active hour",
+      "Start on Free tier",
+      "Unlimited databases per project",
+      "Unlimited data passthrough at $0.13/GB",
+      "Up to 6M API requests/month",
+      "Everything in Free, plus",
+      "Everything in Free, plus",
+      "Unlimited databases per project",
+      "Unlimited data passthrough at $0.13/GB",
+      "Up to 6M API requests/month",
+      "Data passthrough - Unlimited at $0.13/GB",
+      "Query cache - (max 1 GB)",
+      "Start on Free tier",
+      "Unlimited databases per project",
+      "Unlimited data passthrough",
+      "Unlimited API request/month",
+      "Unlimited query caching and read replicas",
+      "Unlimited databases per project",
+      "Unlimited data passthrough",
+      "Unlimited query caching and read replicas",
+      "Data passthrough - Unlimited at $0.13/GB",
+      "VPC peering - 1 included ($250/month per additional VPC)",
+      "Free",
+      "Try Free",
+      "Start on free",
+      "Up to 100 MB/month",
+      "Unlimited at $0.13/GB",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 472,
+      "added": 534,
+      "materialRemoved": 57,
+      "materialAdded": 66
+    }
+  },
+  {
+    "id": "hasura-io-pricing-20250205022732",
+    "url": "https://hasura.io/pricing",
+    "ts": "20250205022732",
+    "date": "2025-02-05",
+    "source": "wayback",
+    "prevTs": "20241103133907",
+    "kind": "price",
+    "score": 21,
+    "counts": {
+      "price": 7,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hasura: 7 prices changed (removed “Dedicated VPC - $1000/availability zone/month*”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Dedicated VPC - $1000/availability zone/month*",
+      "Dedicated VPC - $1000/availability zone/month*",
+      "Dedicated VPC - $1000/availability zone/month*",
+      "Dedicated VPC - $1000/availability zone/month*",
+      "Meet advanced security and compliance requirements by hosting the Hasura data plane on dedicated infrastructure. Add to Base or Advanced plans for $1000/Availability Zone/month.",
+      "$1000/availability",
+      "$1000/availability"
+    ],
+    "totals": {
+      "removed": 12,
+      "added": 6,
+      "materialRemoved": 7,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "hasura-io-pricing-20260317050308",
+    "url": "https://hasura.io/pricing",
+    "ts": "20260317050308",
+    "date": "2026-03-17",
+    "source": "wayback",
+    "prevTs": "20250205022732",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Hasura: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 24,
+      "added": 19,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  }
+]

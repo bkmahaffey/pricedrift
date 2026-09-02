@@ -1,9 +1,9 @@
 [
   {
-    "id": "ory-sh-pricing-20230315055442",
+    "id": "ory-sh-pricing-20230604212714",
     "url": "https://www.ory.sh/pricing",
-    "ts": "20230315055442",
-    "date": "2023-03-15",
+    "ts": "20230604212714",
+    "date": "2023-06-04",
     "source": "wayback",
     "prevTs": "20230209032946",
     "kind": "copy",
@@ -20,33 +20,7 @@
     "removed": [],
     "totals": {
       "removed": 3,
-      "added": 3,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    }
-  },
-  {
-    "id": "ory-sh-pricing-20230604212714",
-    "url": "https://www.ory.sh/pricing",
-    "ts": "20230604212714",
-    "date": "2023-06-04",
-    "source": "wayback",
-    "prevTs": "20230315055442",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Ory: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 0,
-      "added": 3,
+      "added": 6,
       "materialRemoved": 0,
       "materialAdded": 0
     }
@@ -59,14 +33,14 @@
     "source": "wayback",
     "prevTs": "20230604212714",
     "kind": "price",
-    "score": 3,
+    "score": 6,
     "counts": {
-      "price": 1,
+      "price": 2,
       "limit": 0,
       "plan": 0
     },
     "material": true,
-    "headline": "Ory: 1 price changed (removed “from $ 3,000”)",
+    "headline": "Ory: 2 prices changed (removed “from $ 3,000”)",
     "pairs": [],
     "added": [],
     "removed": [
@@ -81,64 +55,12 @@
     }
   },
   {
-    "id": "ory-sh-pricing-20230927092243",
-    "url": "https://www.ory.sh/pricing",
-    "ts": "20230927092243",
-    "date": "2023-09-27",
-    "source": "wayback",
-    "prevTs": "20230812144848",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Ory: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 0,
-      "added": 2,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    }
-  },
-  {
-    "id": "ory-sh-pricing-20231203112741",
-    "url": "https://www.ory.sh/pricing",
-    "ts": "20231203112741",
-    "date": "2023-12-03",
-    "source": "wayback",
-    "prevTs": "20230927092243",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Ory: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 1,
-      "added": 1,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    }
-  },
-  {
     "id": "ory-sh-pricing-20240122025129",
     "url": "https://www.ory.sh/pricing",
     "ts": "20240122025129",
     "date": "2024-01-22",
     "source": "wayback",
-    "prevTs": "20231203112741",
+    "prevTs": "20230812144848",
     "kind": "copy",
     "score": 1,
     "counts": {
@@ -154,8 +76,8 @@
     ],
     "removed": [],
     "totals": {
-      "removed": 2,
-      "added": 5,
+      "removed": 1,
+      "added": 6,
       "materialRemoved": 0,
       "materialAdded": 1
     }
@@ -168,14 +90,14 @@
     "source": "wayback",
     "prevTs": "20240122025129",
     "kind": "price",
-    "score": 78,
+    "score": 135,
     "counts": {
-      "price": 21,
+      "price": 40,
       "limit": 7,
       "plan": 1
     },
     "material": true,
-    "headline": "Ory: 21 prices, 7 limits, 1 plan name changed (removed “Yearly Get 1 month free”; added “starting from $ 70”)",
+    "headline": "Ory: 40 prices, 7 limits, 1 plan name changed (removed “Yearly Get 1 month free”; added “starting from $ 70”)",
     "pairs": [],
     "added": [
       "starting from $ 70",
@@ -185,7 +107,6 @@
       "$255 of included credits for usage-based features",
       "Go live in 30 days with concierge onboarding",
       "total invoice $ 850",
-      "$ 0",
       "Unlimited",
       "$ 70",
       "$21.00",
@@ -217,7 +138,8 @@
       "$255.00",
       "$0.070",
       "$0.080",
-      "$0.002"
+      "$0.002",
+      "$0.003"
     ],
     "removed": [
       "Yearly Get 1 month free",
@@ -230,7 +152,6 @@
       "Essentials - from $29",
       "Scale - from $690",
       "free",
-      "$ 0 / month",
       "Get started for free",
       "24 hours",
       "1,000 / month",
@@ -244,90 +165,12 @@
     }
   },
   {
-    "id": "ory-sh-pricing-20240522052504",
+    "id": "ory-sh-pricing-20241104023012",
     "url": "https://www.ory.sh/pricing",
-    "ts": "20240522052504",
-    "date": "2024-05-22",
+    "ts": "20241104023012",
+    "date": "2024-11-04",
     "source": "wayback",
     "prevTs": "20240412222124",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Ory: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 12,
-      "added": 9,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    }
-  },
-  {
-    "id": "ory-sh-pricing-20240615144007",
-    "url": "https://www.ory.sh/pricing",
-    "ts": "20240615144007",
-    "date": "2024-06-15",
-    "source": "wayback",
-    "prevTs": "20240522052504",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Ory: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 1,
-      "added": 9,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    }
-  },
-  {
-    "id": "ory-sh-pricing-20240910050548",
-    "url": "https://www.ory.sh/pricing",
-    "ts": "20240910050548",
-    "date": "2024-09-10",
-    "source": "wayback",
-    "prevTs": "20240615144007",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Ory: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 98,
-      "added": 97,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    }
-  },
-  {
-    "id": "ory-sh-pricing-20241005040731",
-    "url": "https://www.ory.sh/pricing",
-    "ts": "20241005040731",
-    "date": "2024-10-05",
-    "source": "wayback",
-    "prevTs": "20240910050548",
     "kind": "copy",
     "score": 1,
     "counts": {
@@ -343,35 +186,9 @@
       "Go live in 30 days with concierge onboarding"
     ],
     "totals": {
-      "removed": 1,
-      "added": 1,
+      "removed": 118,
+      "added": 133,
       "materialRemoved": 1,
-      "materialAdded": 0
-    }
-  },
-  {
-    "id": "ory-sh-pricing-20241104023012",
-    "url": "https://www.ory.sh/pricing",
-    "ts": "20241104023012",
-    "date": "2024-11-04",
-    "source": "wayback",
-    "prevTs": "20241005040731",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Ory: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 7,
-      "added": 18,
-      "materialRemoved": 0,
       "materialAdded": 0
     }
   },
@@ -383,14 +200,14 @@
     "source": "wayback",
     "prevTs": "20241104023012",
     "kind": "price",
-    "score": 45,
+    "score": 81,
     "counts": {
-      "price": 15,
+      "price": 27,
       "limit": 0,
       "plan": 0
     },
     "material": true,
-    "headline": "Ory: 15 prices changed ($10.00 → $15.00; $10.00 → $15.00)",
+    "headline": "Ory: 27 prices changed ($10.00 → $15.00; $10.00 → $15.00)",
     "pairs": [
       {
         "before": "$10.00 / tenant",
@@ -462,64 +279,12 @@
     }
   },
   {
-    "id": "ory-sh-pricing-20250108223439",
-    "url": "https://www.ory.sh/pricing",
-    "ts": "20250108223439",
-    "date": "2025-01-08",
-    "source": "wayback",
-    "prevTs": "20241202083803",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Ory: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 42,
-      "added": 106,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    }
-  },
-  {
-    "id": "ory-sh-pricing-20250213101801",
-    "url": "https://www.ory.sh/pricing",
-    "ts": "20250213101801",
-    "date": "2025-02-13",
-    "source": "wayback",
-    "prevTs": "20250108223439",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Ory: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 5,
-      "added": 0,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    }
-  },
-  {
     "id": "ory-sh-pricing-20250316230124",
     "url": "https://www.ory.sh/pricing",
     "ts": "20250316230124",
     "date": "2025-03-16",
     "source": "wayback",
-    "prevTs": "20250213101801",
+    "prevTs": "20241202083803",
     "kind": "copy",
     "score": 0,
     "counts": {
@@ -538,10 +303,201 @@
     ],
     "removed": [],
     "totals": {
-      "removed": 8,
-      "added": 4,
+      "removed": 51,
+      "added": 106,
       "materialRemoved": 0,
       "materialAdded": 4
+    }
+  },
+  {
+    "id": "ory-com-pricing-20251112143513",
+    "url": "https://www.ory.com/pricing",
+    "ts": "20251112143513",
+    "date": "2025-11-12",
+    "source": "wayback",
+    "prevTs": "20251020115511",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Ory: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "ory-com-pricing-20251226012952",
+    "url": "https://www.ory.com/pricing",
+    "ts": "20251226012952",
+    "date": "2025-12-26",
+    "source": "wayback",
+    "prevTs": "20251112143513",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 8,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Ory: 8 prices changed (removed “$70 /month”; added “$770 /year”)",
+    "pairs": [],
+    "added": [
+      "$770 /year",
+      "Total invoice $770 /year",
+      "$0.14 / aDAU / month"
+    ],
+    "removed": [
+      "$70 /month",
+      "Total invoice $70 /month",
+      "$0.10",
+      "$500.00 / month",
+      "$0.0005 / event"
+    ],
+    "totals": {
+      "removed": 11,
+      "added": 9,
+      "materialRemoved": 10,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "ory-com-pricing-20260120061623",
+    "url": "https://www.ory.com/pricing",
+    "ts": "20260120061623",
+    "date": "2026-01-20",
+    "source": "wayback",
+    "prevTs": "20251226012952",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Ory: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "ory-com-pricing-20260207015107",
+    "url": "https://www.ory.com/pricing",
+    "ts": "20260207015107",
+    "date": "2026-02-07",
+    "source": "wayback",
+    "prevTs": "20260120061623",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Ory: 2 prices changed (removed “$70 / month”; added “$770 / year”)",
+    "pairs": [],
+    "added": [
+      "$770 / year"
+    ],
+    "removed": [
+      "$70 / month"
+    ],
+    "totals": {
+      "removed": 14,
+      "added": 13,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "ory-com-pricing-20260610093814",
+    "url": "https://www.ory.com/pricing",
+    "ts": "20260610093814",
+    "date": "2026-06-10",
+    "source": "wayback",
+    "prevTs": "20260207015107",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Ory: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Unlimited"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 16,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "ory-com-pricing-20260819030524",
+    "url": "https://www.ory.com/pricing",
+    "ts": "20260819030524",
+    "date": "2026-08-19",
+    "source": "wayback",
+    "prevTs": "20260610093814",
+    "kind": "plans",
+    "score": 13,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 6
+    },
+    "material": true,
+    "headline": "Ory: 1 limit, 6 plan names changed (added “Ory builds things to last. Ory Network is alw…”)",
+    "pairs": [],
+    "added": [
+      "Production: Unlimited",
+      "Growth: Unlimited",
+      "Enterprise: Unlimited",
+      "Developer: Unlimited",
+      "Production: Unlimited",
+      "Growth: Unlimited",
+      "Enterprise: Unlimited",
+      "Enterprise: Unlimited",
+      "Ory builds things to last. Ory Network is always up to date and backwards compatible. Security patches are merged and released within 48 hours after disclosure, see details in the Ory security policy here"
+    ],
+    "removed": [
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 35,
+      "added": 610,
+      "materialRemoved": 19,
+      "materialAdded": 20
     }
   }
 ]

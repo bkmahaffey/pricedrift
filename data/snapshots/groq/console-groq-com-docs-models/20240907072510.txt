@@ -1,0 +1,106 @@
+0.0.2
+Documentation
+Get Started
+Quickstart
+Models
+Errors
+Changelog
+Examples and Demos
+Examples
+Showcase Applications
+Features
+Chat Completions
+OpenAI Compatibility
+Speech
+Vision
+Tool Use
+Content Moderation
+Integrations
+Groq Libraries
+Vercel AI SDK
+LangChain
+LlamaIndex
+LiteLLM
+Toolhouse
+Accounts
+API Keys
+Rate Limits
+Legal
+Policies & Notices
+Supported Models
+GroqCloud currently supports the following models:
+Distil-Whisper English
+Model ID: distil-whisper-large-v3-en
+Developer: HuggingFace
+Max File Size: 25 MB
+Model Card
+Gemma 2 9B
+Model ID: gemma2-9b-it
+Developer: Google
+Context Window: 8,192 tokens
+Model Card
+Gemma 7B
+Model ID: gemma-7b-it
+Developer: Google
+Context Window: 8,192 tokens
+Model Card
+Llama 3 Groq 70B Tool Use (Preview)
+Model ID: llama3-groq-70b-8192-tool-use-preview
+Developer: Groq
+Context Window: 8,192 tokens
+Model Card
+Llama 3 Groq 8B Tool Use (Preview)
+Model ID: llama3-groq-8b-8192-tool-use-preview
+Developer: Groq
+Context Window: 8,192 tokens
+Model Card
+Llama 3.1 405B
+Offline due to overwhelming demand! Stay tuned for updates.
+Llama 3.1 70B (Preview)
+Model ID: llama-3.1-70b-versatile
+Developer: Meta
+Context Window: 131,072 tokens
+Model Card
+Llama 3.1 8B (Preview)
+Model ID: llama-3.1-8b-instant
+Developer: Meta
+Context Window: 131,072 tokens
+Model Card
+During preview launch, we are limiting 3.1 models to max_tokens of 8k.
+Llama Guard 3 8B
+Model ID: llama-guard-3-8b
+Developer: Meta
+Context Window: 8,192 tokens
+Model Card
+LLaVA 1.5 7B
+Model ID: llava-v1.5-7b-4096-preview
+Developer: Haotian Liu
+Context Window: 4,096 tokens
+Model Card
+Meta Llama 3 70B
+Model ID: llama3-70b-8192
+Developer: Meta
+Context Window: 8,192 tokens
+Model Card
+Meta Llama 3 8B
+Model ID: llama3-8b-8192
+Developer: Meta
+Context Window: 8,192 tokens
+Model Card
+Mixtral 8x7B
+Model ID: mixtral-8x7b-32768
+Developer: Mistral
+Context Window: 32,768 tokens
+Model Card
+Whisper
+Model ID: whisper-large-v3
+Developer: OpenAI
+File Size: 25 MB
+Model Card
+These are chat and audio type models and are directly accessible through the GroqCloud Models API endpoint using the model IDs mentioned above. You can use the https://api.groq.com/openai/v1/models endpoint to return a JSON list of all active models:
+curl
+JavaScript
+Python
+JSON
+Copy
+import requests import os api_key = os. environ. get ( "GROQ_API_KEY") url = "https://api.groq.com/openai/v1/models" headers = { "Authorization": f"Bearer { api_key } ", "Content-Type": "application/json" } response = requests. get ( url, headers = headers) print ( response. json ())

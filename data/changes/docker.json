@@ -1,0 +1,803 @@
+[
+  {
+    "id": "docker-com-pricing-20230314172047",
+    "url": "https://www.docker.com/pricing/",
+    "ts": "20230314172047",
+    "date": "2023-03-14",
+    "source": "wayback",
+    "prevTs": "20230101052256",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 3,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Docker: 3 prices, 1 limit, 1 plan name changed (removed “5 users for $35”)",
+    "pairs": [],
+    "added": [
+      "Unlimited users",
+      "Start for free"
+    ],
+    "removed": [
+      "5 users for $35",
+      "max 100 users",
+      "5 users for $120",
+      "*Commercial use of Docker Desktop at a company of more than 250 employees OR more than $10 million in annual revenue requires a paid subscription (Pro, Team, or Business) to use Docker Desktop. See our ** Docker Subscription Service Agreement"
+    ],
+    "totals": {
+      "removed": 39,
+      "added": 33,
+      "materialRemoved": 17,
+      "materialAdded": 15
+    }
+  },
+  {
+    "id": "docker-com-pricing-20230505175649",
+    "url": "https://www.docker.com/pricing/",
+    "ts": "20230505175649",
+    "date": "2023-05-05",
+    "source": "wayback",
+    "prevTs": "20230314172047",
+    "kind": "price",
+    "score": 26,
+    "counts": {
+      "price": 8,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Docker: 8 prices, 1 plan name changed (removed “Billed annually for $84”; added “* Minimum of 5 seats, starting at $35/user/mo…”)",
+    "pairs": [],
+    "added": [
+      "* Minimum of 5 seats, starting at $35/user/month.",
+      "$11/user/month for additional seats.",
+      "* Minimum of 5 seats, starting at $300/year.",
+      "$108/user/year for additional seats.",
+      "Start for free"
+    ],
+    "removed": [
+      "Billed annually for $84",
+      "* Start with minimum 5 users for $25",
+      "Billed annually $420",
+      "* Start with minimum 5 users for $120"
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 14,
+      "materialRemoved": 4,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "docker-com-pricing-20230704091456",
+    "url": "https://www.docker.com/pricing/",
+    "ts": "20230704091456",
+    "date": "2023-07-04",
+    "source": "wayback",
+    "prevTs": "20230505175649",
+    "kind": "price",
+    "score": 15,
+    "counts": {
+      "price": 5,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Docker: 5 prices changed (removed “Billed annually for $300”; added “*Minimum 5 seats, billed annually at $1,440/y…”)",
+    "pairs": [],
+    "added": [
+      "*Minimum 5 seats, billed annually at $1,440/year.",
+      "$288/user/year for additional seats.",
+      "*Minimum 5 seats, billed annually at $1,440/year.",
+      "$288/user/year for additional seats.",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "removed": [
+      "Billed annually for $300",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 57,
+      "added": 54,
+      "materialRemoved": 7,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "docker-com-pricing-20230901002818",
+    "url": "https://www.docker.com/pricing/",
+    "ts": "20230901002818",
+    "date": "2023-09-01",
+    "source": "wayback",
+    "prevTs": "20230704091456",
+    "kind": "price",
+    "score": 16,
+    "counts": {
+      "price": 4,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Docker: 4 prices, 1 limit, 1 plan name changed (removed “*Minimum 5 seats, billed annually at $1,440/y…”; added “*Minimum 5 seats”)",
+    "pairs": [],
+    "added": [
+      "*Minimum 5 seats",
+      "*Minimum 5 seats"
+    ],
+    "removed": [
+      "*Minimum 5 seats, billed annually at $1,440/year.",
+      "$288/user/year for additional seats.",
+      "*Minimum 5 seats, billed annually at $1,440/year.",
+      "$288/user/year for additional seats.",
+      "Start for free"
+    ],
+    "totals": {
+      "removed": 11,
+      "added": 3,
+      "materialRemoved": 5,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "docker-com-pricing-20231107140326",
+    "url": "https://www.docker.com/pricing/",
+    "ts": "20231107140326",
+    "date": "2023-11-07",
+    "source": "wayback",
+    "prevTs": "20230901002818",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Docker: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 8,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "docker-com-pricing-20240102011807",
+    "url": "https://www.docker.com/pricing/",
+    "ts": "20240102011807",
+    "date": "2024-01-02",
+    "source": "wayback",
+    "prevTs": "20231107140326",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Docker: 1 price changed (added “Commercial use of Docker Desktop at a company…”)",
+    "pairs": [],
+    "added": [
+      "Commercial use of Docker Desktop at a company of more than 250 employees OR more than $10 million in annual revenue requires a paid subscription (Pro, Team, or Business)."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "docker-com-pricing-20240308081353",
+    "url": "https://www.docker.com/pricing/",
+    "ts": "20240308081353",
+    "date": "2024-03-08",
+    "source": "wayback",
+    "prevTs": "20240102011807",
+    "kind": "price",
+    "score": 73,
+    "counts": {
+      "price": 17,
+      "limit": 9,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Docker: 17 prices, 9 limits, 2 plan names changed (100 → 200)",
+    "pairs": [
+      {
+        "before": "100 pulls per 6 hours",
+        "after": "200 pulls per 6 hours",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100",
+            "after": "200"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "2 day support response",
+      "Unlimited",
+      "Unlimited",
+      "Support for Docker Desktop versions up to 6 months older than the latest",
+      "50/month",
+      "100/month",
+      "400/month per org account",
+      "800/month per org account",
+      "$0",
+      "$5 per month",
+      "$9 per user per month",
+      "$24 per user per month",
+      "$0",
+      "$7 per month",
+      "$24 per user per month",
+      "$0",
+      "Public repositories Unlimited",
+      "Public Repository Collaborators Unlimited",
+      "Unlimited",
+      "Support for Docker Desktop versions up to 6 months older than the latest",
+      "50 min/month",
+      "$5 per month",
+      "$7 per month",
+      "Public repositories Unlimited",
+      "Public Repository Collaborators Unlimited",
+      "Private repositories Unlimited",
+      "Unlimited",
+      "100 min/month",
+      "$9 per user per month",
+      "$11 per user per month",
+      "Public repositories Unlimited",
+      "Public Repository Collaborators Unlimited",
+      "Private repositories Unlimited",
+      "Up to 5,000 per day",
+      "Unlimited",
+      "Teams Unlimited",
+      "Support for Docker Desktop versions up to 6 months older than the latest",
+      "400/month per org account",
+      "$24 per user per month",
+      "Public repositories Unlimited"
+    ],
+    "removed": [
+      "Unlimited scoped tokens",
+      "Billed annually for $60.",
+      "Unlimited Hub vulnerability scans",
+      "*Minimum of 5 seats, billed monthly for $35.",
+      "*Minimum of 5 seats, billed annually for $300.",
+      "$108/user/year for additional seats.",
+      "Unlimited users",
+      "*Minimum 5 seats",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 71,
+      "added": 405,
+      "materialRemoved": 21,
+      "materialAdded": 58
+    }
+  },
+  {
+    "id": "docker-com-pricing-20240503084636",
+    "url": "https://www.docker.com/pricing/",
+    "ts": "20240503084636",
+    "date": "2024-05-03",
+    "source": "wayback",
+    "prevTs": "20240308081353",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Docker: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 15,
+      "added": 23,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "docker-com-pricing-20240703042703",
+    "url": "https://www.docker.com/pricing/",
+    "ts": "20240703042703",
+    "date": "2024-07-03",
+    "source": "wayback",
+    "prevTs": "20240503084636",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Docker: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "Start for free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 18,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "docker-com-pricing-20240907221542",
+    "url": "https://www.docker.com/pricing/",
+    "ts": "20240907221542",
+    "date": "2024-09-07",
+    "source": "wayback",
+    "prevTs": "20240703042703",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Docker: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 38,
+      "added": 34,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "docker-com-pricing-20241108061817",
+    "url": "https://www.docker.com/pricing/",
+    "ts": "20241108061817",
+    "date": "2024-11-08",
+    "source": "wayback",
+    "prevTs": "20240907221542",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 8,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Docker: 8 prices changed (removed “$5 per month”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$5 per month",
+      "$9 per user per month",
+      "$24 per user per month",
+      "$0",
+      "$7 per month",
+      "$11 per user per month",
+      "$24 per user per month",
+      "$0"
+    ],
+    "totals": {
+      "removed": 21,
+      "added": 3,
+      "materialRemoved": 9,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "docker-com-pricing-20250101180727",
+    "url": "https://www.docker.com/pricing/",
+    "ts": "20250101180727",
+    "date": "2025-01-01",
+    "source": "wayback",
+    "prevTs": "20241108061817",
+    "kind": "price",
+    "score": 127,
+    "counts": {
+      "price": 27,
+      "limit": 16,
+      "plan": 7
+    },
+    "material": true,
+    "headline": "Docker: 27 prices, 16 limits, 7 plan names changed (200 → $2)",
+    "pairs": [
+      {
+        "before": "200 pulls per 6 hours",
+        "after": "$2 per 1000 pulls",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "200",
+            "after": "$2"
+          },
+          {
+            "before": "6",
+            "after": "1000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "1 user",
+      "1 private Hub repo with 2 GB storage*",
+      "Build Cloud and Testcontainers Cloud free trial",
+      "1 user",
+      "Unlimited Hub image pull rate",
+      "Unlimited private Hub repos with 5 GB storage**",
+      "200 Build Cloud minutes**",
+      "$16 per user/mo",
+      "$15 per user/mo",
+      "Unlimited Scout-enabled repos",
+      "Unlimited Hub image pull rate",
+      "Unlimited private Hub repos with 50 GB storage**",
+      "500 Build Cloud minutes**",
+      "Unlimited users",
+      "Unlimited Scout-enabled repos",
+      "Unlimited Hub image pull rate",
+      "Unlimited private Hub repos with 500 GB storage**",
+      "1,500 Build Cloud minutes**",
+      "Unlimited Hub organizations",
+      "$16 per user/mo",
+      "$15 per user/mo",
+      "$16",
+      "$15",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "$3 per 1000 pulls",
+      "Unlimited",
+      "$7 per 100 GB",
+      "$10 per 100 GB",
+      "Unlimited",
+      "Unlimited",
+      "Free Trial",
+      "500 minutes: $25",
+      "1,000 minutes: $50",
+      "5,000 minutes: $250",
+      "10,000 minutes: $500",
+      "20,000 minutes: $1,000",
+      "Free Trial"
+    ],
+    "removed": [
+      "Unlimited public repositories",
+      "200 image pulls per 6 hours",
+      "$7 per month",
+      "$5 per month",
+      "Unlimited private repositories",
+      "5,000 image pulls per day",
+      "Unlimited teams",
+      "2 day support response",
+      "Commercial use of Docker Desktop at a company of more than 250 employees OR more than $10 million in annual revenue requires a paid subscription (Pro, Team, or Business).",
+      "Start for free",
+      "Start for free",
+      "$5 per month",
+      "$7 per month",
+      "$24 per user per month",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "200 pulls per 6 hours",
+      "Up to 5,000 per day",
+      "Unlimited",
+      "50/month",
+      "100/month",
+      "400/month per org account",
+      "800/month per org account",
+      "$0",
+      "Public repositories Unlimited",
+      "Public Repository Collaborators Unlimited",
+      "Unlimited",
+      "Support for Docker Desktop versions up to 6 months older than the latest",
+      "50 min/month",
+      "$5 per month",
+      "$7 per month",
+      "Public repositories Unlimited",
+      "Public Repository Collaborators Unlimited",
+      "Private repositories Unlimited",
+      "Up to 5,000 per day",
+      "Support for Docker Desktop versions up to 6 months older than the latest",
+      "100 min/month",
+      "Public repositories Unlimited",
+      "Public Repository Collaborators Unlimited"
+    ],
+    "totals": {
+      "removed": 430,
+      "added": 222,
+      "materialRemoved": 70,
+      "materialAdded": 60
+    }
+  },
+  {
+    "id": "docker-com-pricing-20250201075916",
+    "url": "https://www.docker.com/pricing/",
+    "ts": "20250201075916",
+    "date": "2025-02-01",
+    "source": "wayback",
+    "prevTs": "20250101180727",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Docker: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "docker-com-pricing-20250309023454",
+    "url": "https://www.docker.com/pricing/",
+    "ts": "20250309023454",
+    "date": "2025-03-09",
+    "source": "wayback",
+    "prevTs": "20250201075916",
+    "kind": "price",
+    "score": 20,
+    "counts": {
+      "price": 4,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Docker: 4 prices, 4 limits changed (removed “1 private Hub repo with 2 GB storage*”)",
+    "pairs": [],
+    "added": [
+      "Unlimited private Docker Hub repos",
+      "Unlimited private Docker Hub repos",
+      "Unlimited private Docker Hub repos"
+    ],
+    "removed": [
+      "1 private Hub repo with 2 GB storage*",
+      "Unlimited private Hub repos with 5 GB storage**",
+      "200 Build Cloud minutes**",
+      "Unlimited private Hub repos with 50 GB storage**",
+      "500 Build Cloud minutes**",
+      "Unlimited private Hub repos with 500 GB storage**",
+      "1,500 Build Cloud minutes**",
+      "$2 per 1000 pulls",
+      "$3 per 1000 pulls",
+      "$7 per 100 GB",
+      "$10 per 100 GB",
+      "†Usage is calculated in binary Gigabytes (GB), where 1 GB = 2 30 bytes. This unit of measurement is also known as Gibibyte (GiB), defined by the International Electrotechnical Commission (IEC). Similarly, 1 TB is 2 40 bytes, i.e. 1,024 GBs."
+    ],
+    "totals": {
+      "removed": 52,
+      "added": 30,
+      "materialRemoved": 19,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "docker-com-pricing-20250906081108",
+    "url": "https://www.docker.com/pricing/",
+    "ts": "20250906081108",
+    "date": "2025-09-06",
+    "source": "wayback",
+    "prevTs": "20250309023454",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Docker: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Unlimited private Docker Hub repos",
+      "Unlimited users"
+    ],
+    "totals": {
+      "removed": 90,
+      "added": 92,
+      "materialRemoved": 14,
+      "materialAdded": 12
+    }
+  },
+  {
+    "id": "docker-com-pricing-20251002213417",
+    "url": "https://www.docker.com/pricing/",
+    "ts": "20251002213417",
+    "date": "2025-10-02",
+    "source": "wayback",
+    "prevTs": "20250906081108",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Docker: 1 limit changed (removed “72 hours”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "72 hours",
+      "Will provide 48 hour notification per request."
+    ],
+    "totals": {
+      "removed": 14,
+      "added": 21,
+      "materialRemoved": 2,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "docker-com-pricing-20251202163917",
+    "url": "https://www.docker.com/pricing/",
+    "ts": "20251202163917",
+    "date": "2025-12-02",
+    "source": "wayback",
+    "prevTs": "20251002213417",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Docker: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "5 day support response"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 10,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "docker-com-pricing-20260104114708",
+    "url": "https://www.docker.com/pricing/",
+    "ts": "20260104114708",
+    "date": "2026-01-04",
+    "source": "wayback",
+    "prevTs": "20251202163917",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Docker: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "Secure, minimal container images for every team, free with enterprise features, if needed.",
+      "Start free trial"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 41,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "docker-com-pricing-20260201233625",
+    "url": "https://www.docker.com/pricing/",
+    "ts": "20260201233625",
+    "date": "2026-02-01",
+    "source": "wayback",
+    "prevTs": "20260104114708",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Docker: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 6,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "docker-com-pricing-20260304154720",
+    "url": "https://www.docker.com/pricing/",
+    "ts": "20260304154720",
+    "date": "2026-03-04",
+    "source": "wayback",
+    "prevTs": "20260201233625",
+    "kind": "price",
+    "score": 8,
+    "counts": {
+      "price": 1,
+      "limit": 2,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Docker: 1 price, 2 limits, 1 plan name changed (added “Starting at $5k/repo”)",
+    "pairs": [],
+    "added": [
+      "Free for every developer",
+      "Starting at $5k/repo",
+      "Critical CVE fixes < 7 days with SLA-backed",
+      "Advanced security controls and unlimited customization",
+      "Critical CVE fixes < 7 days with SLA-backed continuous patching",
+      "Unlimited customizations, including system packages",
+      "+5 years of hardened updates"
+    ],
+    "removed": [
+      "Start free trial"
+    ],
+    "totals": {
+      "removed": 31,
+      "added": 33,
+      "materialRemoved": 1,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "docker-com-pricing-20260810095729",
+    "url": "https://www.docker.com/pricing/",
+    "ts": "20260810095729",
+    "date": "2026-08-10",
+    "source": "wayback",
+    "prevTs": "20260304154720",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Docker: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Critical CVE fixes < 7 days with SLA-backed continuous patching"
+    ],
+    "totals": {
+      "removed": 8,
+      "added": 7,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
+  }
+]

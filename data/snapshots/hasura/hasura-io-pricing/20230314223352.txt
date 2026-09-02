@@ -1,0 +1,435 @@
+Data + API Days. The smoothest path to becoming a data-first organization. Register Now
+Hasura Pricing
+Generous free plans and flexible usage-based pricing that scale with your needs – from early exploration to enterprise scale
+Hasura Cloud
+Self-hosted
+Free
+Forever $0
+For experimentation, learning, and early development.
+Usage limits
+Connect 2 databases per project
+Up to 100MB data passthrough/month
+Up to 3M API requests/month
+Feature highlights
+Instant GraphQL and REST APIs with role-based authorization
+Premium connectors, including Snowflake, SQL Server, and more
+Try free
+Professional
+Starts at $1.50/hour
+For low-scale production APIs.
+Usage limits
+Unlimited databases per project
+Unlimited data passthrough at $0.13/GB
+Up to 6M API requests/month
+Everything in Free, plus
+Performance tuning (query caching and read replicas)
+Observability data and integrations
+Core security features (for eg. role-based API limits and allow lists)
+Start on Free tier
+Enterprise
+Custom pricing
+For high-scale or mission-critical production APIs with security and compliance needs.
+Usage limits
+Unlimited databases per project
+Unlimited data passthrough at $0.13/GB
+Unlimited API request/month
+Everything in Professional, plus
+Dedicated infrastructure and VPC peering
+Unlimited query caching and read replicas
+Advanced security (eg. SSO) and compliance
+Expert 24x7 technical support, with customizable SLAs
+Contact us
+Free
+CLOUD
+Forever $0
+For experimentation, learning, and early development.
+Get Started for Free
+Connect 2 databases per project
+Up to 100MB data passthrough/month
+Up to 3M API requests/month
+Instant GraphQL and REST APIs with role-based authorization
+Premium connectors, including Snowflake, SQL Server, and more
+Data APIs
+Instant GraphQL APIs for CRUD operations
+RESTified endpoints
+GraphQL subscriptions
+Remote Schemas
+Remote joins
+Actions
+Event triggers & scheduled triggers
+Admin console
+GraphiQL query and mutation designer
+CLI
+Metadata APIs
+Schema migrations
+Apollo Federation v1 support
+Import Action from OpenAPI Specification (OAS)
+Connected databases per project - Up to 2
+Projects per account - Up to 3
+Data passthrough - Up to 100 MB / month
+API request count (includes websocket messages) - Up to 3 million / month
+API request duration - Up to 60 seconds
+Concurrent websocket connections - Up to 10
+Database connection pool idle timeout - Preset by Hasura
+Database connection pool size - Preset by Hasura
+DB connection pool minimum number of connections to keep-alive - Preset by Hasura
+Data connectors
+PostgreSQL
+Snowflake
+Google BigQuery
+Amazon Athena
+Microsoft SQL Server
+CockroachDB
+Google AlloyDB
+Citus / Hyperscale
+SQLite(self-hosted)
+Security
+Role-based authorization
+Collaborator management
+Role-based API timeout - Up to 60 secs
+Infrastructure
+Cloud providers: AWS, Google Cloud
+Region availability - 12 (AWS) 5 (Google Cloud)
+CI/CD integrations
+GitHub integration
+Preview apps
+Compliance
+SOC 2 Type 2
+Support
+Community support
+Email/ticketed support
+Professional
+CLOUD
+Starts at $1.50/hour
+For low-scale production APIs.
+Start on Free Tier
+Unlimited databases per project
+Unlimited data passthrough at $0.13/GB
+Up to 6M API requests/month
+Performance tuning (query caching and read replicas)
+Observability data and integrations
+Core security features (for eg. role-based API limits and allow lists)
+Data APIs
+Instant GraphQL APIs for CRUD operations
+RESTified endpoints
+GraphQL subscriptions
+Remote Schemas
+Remote joins
+Actions
+Event triggers & scheduled triggers
+Admin console
+GraphiQL query and mutation designer
+CLI
+Metadata APIs
+Schema migrations
+Apollo Federation v1 support
+Import Action from OpenAPI Specification (OAS)
+Connected databases per project - No limit
+Projects per account - No limit
+Data passthrough - Unlimited at $0.13/GB
+API request count (includes websocket messages) - No limit
+API request duration - Up to 120 seconds
+Concurrent websocket connections - Up to 100
+Database connection pool idle timeout - User-configured
+Database connection pool size - User-configured
+DB connection pool minimum number of connections to keep-alive - User-configured
+Data connectors
+PostgreSQL
+Snowflake
+Google BigQuery
+Amazon Athena
+Microsoft SQL Server
+CockroachDB
+Google AlloyDB
+Citus / Hyperscale
+SQLite(self-hosted)
+Performance
+Query cache - (max 100 MB)
+Read replicas - (max 3)
+Dynamic database connection routing - (max 1)
+Security
+Role-based authorization
+GraphQL operations allow list
+TLS allow list
+Role-based API depth limit
+Role-based API node limit
+Role-based API rate limit
+Role-based API timeout - Up to 120 secs
+Disable GraphQL introspection
+Multiple JWT secrets
+Multiple admin keys
+Collaborator management
+Observability
+Metrics, logs, and traces
+Observability integration (such as Datadog, New Relic, Azure Monitor, Prometheus and OpenTelemetry
+Metrics API access
+Infrastructure
+Cloud providers: AWS, Google Cloud
+Region availability - 12 (AWS) 5 (Google Cloud)
+Custom domain (DNS CNAME)
+Elastic connection pooling
+Uptime SLA - 99.90%
+CI/CD integrations
+GitHub integration
+Preview apps
+Compliance
+SOC 2 Type 2
+Support
+Community support
+Email/ticketed support
+Expert Hasura technical support
+Enterprise
+CLOUD
+Custom pricing
+For high-scale or mission-critical production APIs with security and compliance needs.
+Contact Sales
+Unlimited databases per project
+Unlimited data passthrough at $0.13/GB
+Unlimited API request/month
+Dedicated infrastructure and VPC peering
+Unlimited query caching and read replicas
+Advanced security (eg. SSO) and compliance
+Expert 24x7 technical support, with customizable SLAs
+Data APIs
+Instant GraphQL APIs for CRUD operations
+RESTified endpoints
+GraphQL subscriptions
+Remote Schemas
+Remote joins
+Actions
+Event triggers & scheduled triggers
+Admin console
+GraphiQL query and mutation designer
+CLI
+Metadata APIs
+Schema migrations
+Apollo Federation v1 support
+Import Action from OpenAPI Specification (OAS)
+Connected databases per project - No limit
+Projects per account - No limit
+Data passthrough - Unlimited at $0.13/GB
+API request count (includes websocket messages) - No limit
+API request duration - No limit
+Concurrent websocket connections - No limit
+Database connection pool idle timeout - User-configured
+Database connection pool size - User-configured
+DB connection pool minimum number of connections to keep-alive - User-configured
+Data connectors
+PostgreSQL
+Snowflake
+Google BigQuery
+Amazon Athena
+Microsoft SQL Server
+CockroachDB
+Google AlloyDB
+Citus / Hyperscale
+SQLite(self-hosted)
+Performance
+Query cache - (no limit)
+Read replicas - (no limit)
+Dynamic database connection routing - (no limit)
+Auto cleanup of event triggers
+Security
+Role-based authorization
+GraphQL operations allow list
+TLS allow list
+Role-based API depth limit
+Role-based API node limit
+Role-based API rate limit - (User- configured)
+Role-based API timeout - Configurable limit
+Disable GraphQL introspection
+Multiple JWT secrets
+Multiple admin keys
+Collaborator management
+SSO (SAML)
+Observability
+Metrics, logs, and traces
+Observability integration (such as Datadog, New Relic, Azure Monitor, Prometheus and OpenTelemetry
+Metrics API access
+Infrastructure
+Cloud providers: AWS, Google Cloud
+Region availability - 12 (AWS) 5 (Google Cloud) - Additional regions available on request.
+Custom domain (DNS CNAME)
+Elastic connection pooling
+Deployment autoscaling
+Dedicated cluster
+Uptime SLA - 99.95%
+Failover for high availability
+VPC peering - 1 included ($250/month per additional VPC)
+CI/CD integrations
+GitHub integration
+Preview apps
+Compliance
+SOC 2 Type 2
+Data Processing Agreement (GDPR)
+Business Associate Agreement (BAA)
+HIPAA compliance
+Support
+Community support
+Email/ticketed support
+Priority response SLAs
+Expert Hasura technical support
+Onboarding program
+Named customer success manager - Available
+Announcement
+Read the blogpost for more details
+The plans shown here reflect the new pricing and tiers that was announced on February 1, 2023.
+TRUSTED BY GLOBAL BRANDS
+Compare plans
+Free
+Try free
+Professional
+Start on Free tier
+Enterprise
+Contact us
+Data APIs
+Instant GraphQL APIs for CRUD operations
+RESTified endpoints
+GraphQL subscriptions
+Remote Schemas
+Remote joins
+Actions
+Event triggers & scheduled triggers
+Admin console
+GraphiQL query and mutation designer
+CLI
+Metadata APIs
+Schema Migrations
+Apollo Federation v1 support
+Import Action from OpenAPI Specification (OAS)
+Connected databases per project
+Up to 2
+No limit
+Projects per account
+Up to 3
+No limit
+Data passthrough
+Up to 100 MB / month
+Unlimited at $0.13/GB
+API request count (includes websocket messages)
+Up to 3 million / month
+Up to 6 million / month
+No limit
+API request duration
+Up to 60 seconds
+Up to 120 seconds
+No limit
+Concurrent websocket connections
+Up to 10
+Up to 100
+No limit
+Database connection pool idle timeout
+Preset by Hasura
+User-configured
+Database connection pool size
+Preset by Hasura
+User-configured
+DB connection pool minimum number of connections to keep-alive
+Preset by Hasura
+User-configured
+Data connectors
+PostgreSQL
+Snowflake
+Google BigQuery
+Amazon Athena
+Microsoft SQL Server
+CockroachDB
+Google AlloyDB
+Citus / Hyperscale
+SQLite
+(self-hosted)
+Performance
+Query cache
+(max 100 MB)
+(no limit)
+Read replicas
+(max 3)
+(no limit)
+Dynamic database connection routing
+(max 1)
+(no limit)
+Auto cleanup of event triggers
+Security
+Role-based authorization
+Collaborator management
+GraphQL operations allow list
+TLS allow list
+Role-based API depth limit
+Role-based API node limit
+Role-based API rate limit
+User-configured
+Role-based API timeout
+Up to 60 secs
+Up to 120 secs
+Configurable limit
+Disable GraphQL introspection
+Multiple JWT secrets
+Multiple admin keys
+SSO (SAML)
+Observability
+Metrics, logs, and traces
+Observability integration (such as Datadog, New Relic, Azure Monitor, Prometheus and OpenTelemetry)
+Metrics API access
+Infrastructure
+Cloud providers: AWS, Google Cloud
+Region availability
+12 (AWS)
+5 (Google Cloud)
+12 (AWS)
+5 (Google Cloud)
+12 (AWS)
+5 (Google Cloud)
+Additional regions available on request.
+Custom domain (DNS CNAME)
+Elastic connection pooling
+Deployment autoscaling
+Dedicated cluster
+Uptime SLA
+99.90%
+99.95%
+Failover for high availability
+VPC peering
+1 included ($250/month per additional VPC)
+CI/CD integrations
+GitHub integration
+Preview apps
+Compliance
+SOC 2 Type 2
+Data Processing Agreement (GDPR)
+Business Associate Agreement (BAA)
+HIPAA compliance
+Support
+Community support
+Email/ticketed support
+Expert Hasura technical support
+Priority response SLAs
+Onboarding program
+Named customer success manager
+Available
+Try free
+Start on Free tier
+Contact us
+Frequently Asked Questions
+Can’t find the answer you are looking for? Reach out to our team
+and we can help you select the Hasura plan that’s right for you.
+Contact Us
+Got more questions about pricing?
+Which regions is Hasura Cloud available on?
+Hasura Cloud is available in 12 regions on AWS and 5 regions on Google Cloud. You can see the full list of supported regions here
+In addition, Hasura Cloud customers on the Enterprise plan can request support for other cloud regions.
+What happens when I downgrade to the Free plan from the Professional plan?
+You can downgrade to the Free plan at any time. You will be billed for the usage incurred until the hour of your downgrade.
+Do I need to enter a credit card to use the product?
+No. A Free plan is free forever and you don’t need to enter credit card information. However, to use the Professional plan, a user must enter credit card information. Enterprise plan offers the ability to make a commitment to a minimum amount of spend. For more information about annual commitments, contact us
+.
+What is data passthrough?
+Hasura Cloud measures data passthrough as the data volume passing through it to external services, including request data that is sent to upstream services (eg: databases) and response data sent to downstream services (eg: web apps).
+You will be billed based on this volume of data that passes through Hasura every month.
+Can I migrate from a self-hosted Hasura Community deployment to Hasura Cloud?
+Yes, you can follow our migration guide
+to switch to Hasura Cloud from the Community plan.
+Do you offer discounts for startups, non-profits, and development agencies?
+Yes, in most cases. Please contact us
+for details and check if your organization is eligible.
+Monthly product updates in your inbox. No spam.
+Loading...

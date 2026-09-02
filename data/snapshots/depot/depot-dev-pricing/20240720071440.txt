@@ -1,0 +1,236 @@
+We use cookies
+to understand how people use Depot.
+Reject cookies
+Accept cookies
+Depot
+Sign In
+Start for free
+Menu
+Simple pricing for any team
+Start for free, collaborate with your team, scale to any size.
+Developer
+$20
+per month
+Perfect for solo devs, side-projects, and experiments.
+1 user
+1 project
+7-day data retention
+Community support
+Unlimited concurrency
+Docker builds
+GitHub Actions builds
+Start a 7-day trial
+Most popular
+Startup
+$200
+per month
+For teams building production applications.
+Unlimited users
+Unlimited projects
+30-day data retention
+Everything in developer, plus:
+Email support
+User RBAC
+Usage caps
+Ephemeral Registry
+Start a 7-day trial
+Business
+Custom
+Support and performance for businesses looking to scale.
+Ability to deploy in your AWS account
+Single-tenant infrastructure
+Static outbound IPs
+Network firewall rules
+AWS PrivateLink
+SSO with SAML, SCIM
+Advanced compliance controls
+Audit logging
+Slack Connect support
+Invoice, annual, or AWS Marketplace billing
+Contact us
+Included monthly compute & storage
+With the Developer plan:
+500 Docker build minutes
+2,000 GitHub Actions minutes
+25 GB cache storage
+With the Startup plan:
+5,000 Docker build minutes
+20,000 GitHub Actions minutes
+250 GB cache storage
+For additional usage:
+Docker builds
+$0.04 / minute
+GitHub Actions builds
+$0.004 / minute
+Cache storage
+$0.20 / GB / month
+With the Business plan:
+Custom Docker build minutes
+Custom GitHub Actions minutes
+Custom cache storage
+Compute sizes
+GitHub Actions builds can use from 2 vCPUs and 8 GB of memory up to 64 vCPUs and 256 GB.
+Docker builds use 16 vCPUs and 32 GB of memory for efficient, parallel computation of the Dockerfile graph.
+All builds are billed on a per-minute basis, tracked per second. We never enforce a one minute minimum.
+Label
+CPUs
+Memory
+Minute Multiple
+Price
+per minute
+depot-ubuntu-22.04-small
+2
+2 GB
+0.5x
+$0.002
+depot-ubuntu-22.04
+2
+8 GB
+1x
+$0.004
+depot-ubuntu-22.04-4
+4
+16 GB
+2x
+$0.008
+depot-ubuntu-22.04-8
+8
+32 GB
+4x
+$0.016
+depot-ubuntu-22.04-16
+16
+64 GB
+8x
+$0.032
+depot-ubuntu-22.04-32
+32
+128 GB
+16x
+$0.064
+depot-ubuntu-22.04-64
+64
+258 GB
+32x
+$0.128
+Minutes included with the base plan can be used for any machine type, consumed at the minute multiple rate.
+Trusted by the best engineering teams
+PostHog Logo
+Appsmith Logo
+Wistia Logo
+GridRival Logo
+RWX Logo
+Secoda Logo
+Semgrep Logo
+Developer
+Start a 7-day trial
+Startup
+Start a 7-day trial
+Business
+Contact us
+Features
+Developer
+Startup
+Business
+Users
+1 user
+Unlimited
+Projects
+1 project
+Unlimited
+Data Retention
+7 days
+30 days
+Custom
+Build concurrency
+Unlimited
+Docker build minutes
+500
+5,000
+Custom
+GitHub Actions minutes
+2,000
+20,000
+Custom
+Cache storage
+25 GB
+250 GB
+Custom
+Multi-platform builds
+Build Insights
+API Access
+Integrations
+Usage caps
+×
+Ephemeral Registry
+×
+Compute
+Depot Cloud
+US & EU regions
+Single-tenant infrastructure
+×
+Static outbound IPs
+×
+Network firewall rules
+×
+AWS PrivateLink
+×
+Deploy in your AWS account
+×
+Available
+Security and audit
+OIDC
+RBAC
+×
+SSO (SAML & Google Workspace)
+×
+SCIM
+×
+Audit Logging
+×
+Support and Billing
+Discord Community
+Email support
+×
+Slack Connect
+×
+AWS Marketplace
+×
+Invoice / ACH payment
+×
+Annual billing
+×
+Common questions
+Have any questions that aren't covered? Contact us
+.
+Which plan is right for me?
+The Developer plan is perfect for solo developers, side-projects, and experiments. It includes up to 500 build minutes, 1 user, 1 project, and 7-day data retention.
+The Startup plan is great for teams building production applications. It includes 5,000 Docker build minutes, 20,000 GitHub Actions minutes, unlimited users, unlimited projects, and 30-day data retention.
+The Business plan is for dev teams looking to scale, and includes additional security controls, deployment models, and custom data retention.
+What is Depot Cloud?
+Depot Cloud is fully-managed remote build infrastructure, including both compute and cache. With Depot Cloud, we handle the infrastructure and orchestration, with no need to manage your own build infrastructure. Depot Cloud runs on AWS, and is available in the us-east-1 and eu-central-1 regions.
+What is the build minute granularity?
+Docker build minutes and GitHub Actions minutes are billed on a per-minute basis, tracked per second. We don't enforce a one minute minimum, so if you run a build for 30 seconds, you'll only be billed for 30 seconds. We only bill for whole minutes used at the end of the month.
+Can I self-host Depot? What is bring-your-own-compute?
+You can connect an AWS account to your Depot account and Depot will use that account for build compute and cache storage. This ensures that your build data is entirely under your control and allows you to access any private services in your account during the build. Additionally you can customize the types of machines used for your builds.
+Bring your own compute is available on the Business plan.
+Read more in our Depot Managed documentation
+Am I charged for build minutes and cache storage?
+You are charged monthly for the build time and cache storage used by your builds. Build time is billed on a per-minute basis, tracked per second. We only bill for whole minutes used at the end of the month. Cache storage is billed as the average cache used at the end of the month, sampled per hour.
+When will I be billed?
+Your plan is billed monthly, starting on the day you sign up. If you sign up on the 15th of the month, you will be billed on the 15th of each month. Any additional usage-based charges will be billed at the end of the month.
+What is a project?
+A Depot project is a way of organizing build history, isolating cache, and managing permissions for your accelerated Docker image builds. Builds that use a single project share cache and compute resources. Builds that use separate projects are entirely isolated from each other.
+You can use a single project for as many builds as you want, including with multiple repositories, or you can choose to separate multiple repositories into different projects to isolate cache and permissions.
+Are there discounts for non-profits or open-source?
+Yes! Please contact us
+with more information about your project and for more details.
+Can I cap my usage so my bill doesn't run over?
+Yes, you can set a limit to the number of build minutes used per month. If you reach this limit, Depot will stop running builds until the next month. You can change this limit at any time.
+What payment methods are accepted?
+For the Developer and Startup plans, we support monthly payments via credit card using Stripe. For the Business plan, we additionally support invoice billing, ACH, and AWS Marketplace.
+Can I pay through the AWS Marketplace?
+Yes! We support AWS Marketplace billing on the Business plan. Contact us
+for more details.
+Your builds have never been this quick.
+Start building

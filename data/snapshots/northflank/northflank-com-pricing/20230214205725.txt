@@ -1,0 +1,280 @@
+Simple usage-based billing
+Pricing that scales alongside you
+Only pay for the resources your services consume during build and runtime. Scale both horizontally and vertically with no unexpected spend. Teams included at no extra cost.
+Developer
+Free
+Deploy your services, jobs and databases at zero cost. Perfect for experimenting.
+Get started for free
+Includes
+Get started deploying your apps, database and jobs for free
+GitHub, GitLab & Bitbucket workflow
+Buildpacks and custom Dockerfiles
+Free SSL and custom domains
+UI, API & CLI access
+Pay as you scale
+The ultimate PaaS experience. Resources hosted on Northflank's secure and scalable infrastructure.
+Get started
+Includes
+Everything in Developer
+Unlimited projects, teams, services, jobs and addons
+Instances starting at $2.71/mo
+Only pay for resources you consume
+Real-time collaboration with teammates
+On your cloud
+Connect Northflank with your preferred cloud provider and run your workloads in your own account.
+Schedule a call
+Includes
+Everything in Pay as you Scale
+Deploy to your own AWS, GCP, Azure or DO account
+Use your cloud credits and existing billing relationships
+Access and monitor Northflank via your K8s clusters
+Enterprise
+A Northflank setup completely tailored to your company. Everything you need to scale to infinity.
+Schedule a call
+Includes
+Multi-cloud and bare-metal
+Guaranteed response SLA available
+Contractual uptime guarantee
+Audit logging & organizational support
+Resource plans
+Our resource plans range from micro instances right the way up to powerful machines ready to run heavy production workloads. All plans can be scaled horizontally with multiple instances.
+Instances
+Builds & jobs
+Plan
+vCPU
+Memory
+Ephemeral storage
+Price
+nf-compute-10
+0.1 shared
+256 MB
+1 GB
+$ 2.71 /month
+$ 0.0038 /hr
+nf-compute-20
+0.2 shared
+512 MB
+1 GB
+$ 5.41 /month
+$ 0.0075 /hr
+nf-compute-50
+0.5 shared
+1024 MB
+1 GB
+$ 12.00 /month
+$ 0.0167 /hr
+nf-compute-100-1
+1 dedicated
+1024 MB
+1 GB
+$ 18.00 /month
+$ 0.0250 /hr
+nf-compute-100-2
+1 dedicated
+2048 MB
+1 GB
+$ 24.00 /month
+$ 0.0333 /hr
+nf-compute-100-4
+1 dedicated
+4096 MB
+1 GB
+$ 36.00 /month
+$ 0.0500 /hr
+nf-compute-200
+2 dedicated
+4096 MB
+1 GB
+$ 48.00 /month
+$ 0.0667 /hr
+nf-compute-200-8
+2 dedicated
+8192 MB
+1 GB
+$ 72.00 /month
+$ 0.1000 /hr
+nf-compute-400
+4 dedicated
+8192 MB
+1 GB
+$ 96.00 /month
+$ 0.1333 /hr
+nf-compute-200-16
+2 dedicated
+16384 MB
+1 GB
+$ 120.00 /month
+$ 0.1667 /hr
+nf-compute-400-16
+4 dedicated
+16384 MB
+1 GB
+$ 144.00 /month
+$ 0.2000 /hr
+nf-compute-800-8
+8 dedicated
+8192 MB
+1 GB
+$ 144.00 /month
+$ 0.2000 /hr
+nf-compute-800-24
+8 dedicated
+24576 MB
+1 GB
+$ 240.00 /month
+$ 0.3333 /hr
+nf-compute-2000-40
+20 dedicated
+40960 MB
+1 GB
+$ 480.00 /month
+$ 0.6667 /hr
+Custom
+If you need more resources, please get in touch
+with us. We are happy to work with you on custom plans, large numbers of replicas and more.
+Show more
+Other usage costs
+HTTP requests
+Free for the first million requests per month, then $0.50 per million after that.
+Logs
+Free for the first 10 GB per month, then $0.50 per 1 GB after that, retained for 30 days.
+Metrics
+Free for the first 10 GB per month, then $0.50 per 1 GB after that, retained for 30 days.
+Disk storage
+$0.30 / GB per month of persistent disk storage for databases and other addons.
+Backups and snapshots
+$0.08 / GB per month for backup and build image storage.
+Networking
+$0.15 / GB of network egress traffic to all regions. Internal traffic is free.
+Full feature comparison
+A detailed comparison of all of the features available across our different tiers. Decide which is right for you based on your project requirements.
+Developer
+Pay as you scale
+On your cloud
+Enterprise
+Resources
+Services
+Build and deploy your code and custom Docker images
+2
+∞
+Jobs
+Run your code on a cron schedule or as a one off
+2
+∞
+Addons
+Deploy databases and other stateful services
+1
+∞
+Secret groups
+Secure and inject environment variables and other secrets
+∞
+Pipelines
+Set up complex release and deployment pipelines
+∞
+Build
+Continuous integration
+Build all new commits or create branch & PR rules
+Build with Dockerfiles
+Build anything with a custom Dockerfile
+Build with Buildpacks
+Build with zero configuration using Buildpacks
+Version control
+GitHub, GitLab & Bitbucket integration
+Build and deploy from your preferred VCS
+Self-hosted GitLab integration
+Build and deploy from your self-hosted GitLab instance
+Deployment
+Continuous deployment
+Automatically deploy changes on build and merge
+Continuous delivery
+Release changes to staging and production environments
+Deploy container images built on Northflank
+Deploy any commit you've built on Northflank in seconds
+Deploy container images from external registries
+Deploy Docker images from public & private registries
+Rollback and select specific builds
+Rapidly rollback or switch between your stored builds
+Volumes and persistence
+Easily attach, scale and mount persistant disks to your workloads
+Projects
+Run in Northflank PaaS
+Run your workloads on our secure cloud infrastructure
+Run in your own cloud account
+Link and host in your GCP, AWS or DO accounts
+Teams
+Collaboration at no extra cost
+Create teams and invite as many members as you need
+Fine-grained RBAC
+Assign roles with detailed permissions to individual members
+Networking
+Custom domains
+Point your own domains at Northflank services
+Automatic TLS & DNS
+Free TLS and global DNS on the code.run domain
+Load balancing across instances
+Scale up to multiple instances and get auto load balancing
+Northflank proxy
+Access your private services & databases via our CLI proxy
+Service mesh and mTLS
+Cloud native service mesh with end-to-end encryption
+Network security
+Create IP policies and basic authentication rules
+Databases
+Datastores you know and love
+PostgreSQL, MySQL, MongoDB, Redis and more
+High availability
+Spin up multiple replicas of your stateful services
+Backups & restores
+Make and restore dumps & disk images of your databases
+Fork databases
+Create a new database from the existing state of another
+Scaling
+Vertical scaling
+Give your instances more CPU & RAM resources
+Limited
+Horizontal scaling
+Deploy multiple replicas of your services and addons
+Observability
+Real-time log tailing
+Stream your application logs in real time
+Real-time metrics
+View CPU usage, memory consumption and more
+Log manipulation
+Powerful log searching and filtering
+30 day retention
+Logs and metrics are retained for a month
+Platform
+UI / API / CLI access
+Use Northflank via the app, API, or command line
+Real-time platform
+Work in a fully reactive environment
+Billing
+To the second billing
+Resources are billed by usage down to the second
+Invoice history
+Detailed invoice breakdowns are available for every month
+Support
+We can support your onboarding and migration to Northflank
+Best effort
+Proactive
+Custom
+Get started for free
+Developer: Get started for free
+Get started
+Pay as you scale: Get started
+Schedule a call
+On your cloud: Schedule a call
+Schedule a call
+Enterprise: Schedule a call
+Frequently asked questions
+What forms of payment do you accept?
+Payments are handled by Stripe and we accept Visa, Mastercard, and American Express.
+How does consumption based pricing work?
+You’ll be billed at the end of your monthly billing cycle based on your configured resources and instances, prorated to the second of usage. Read our terms of service
+for more details. Estimates are exclusive of VAT and GST.
+Will taxes be included in my monthly invoice?
+We’re required by law to collect taxes in some countries.
+Am I charged when I enter my credit card?
+No — when you enter a card we only verify the card. Your card is only charged at the end of the billing cycle.
+What currency will I be charged in?
+You will be charged in US dollars.

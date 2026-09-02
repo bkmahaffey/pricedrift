@@ -1,0 +1,359 @@
+Cloudflare Access
+How it works
+Analyst reports
+Use cases
+Pricing
+Resources
+Cloudflare Access
+Fast, reliable zero trust network access (ZTNA)
+Provide granular, least privilege access to internal applications, infrastructure, and AI agents.
+Try it out
+Get product brief
+Benefits of Cloudflare Access
+Improve team productivity
+Make on-premises applications as easy to use as SaaS apps. ZTNA reduces remote access support tickets by 80%
+compared to a VPN.
+Simplify management
+Simplify the setup and operation of ZTNA with one-time integrations, composable software connectors, and unified Zero Trust
+policies.
+Eliminate lateral movement
+Shrink your attack surface by enforcing context-based, least-privilege access policies for every resource.
+Scale zero trust effortlessly
+Shield critical applications and high-risk user groups first — then expand cloud-native ZTNA to protect your infrastructure and MCP servers.
+How it works
+Manage access across your internal environment
+Cloudflare Access verifies and secures employee and third-party access across all of your self-hosted, SaaS, and non-web applications, including AI tools, helping mitigate risk and ensure a smooth user experience.
+It checks granular context like identity and device posture for every request to provide fast, reliable access across your business.
+Learn more in our ZTNA product overview
+Learn how Access works within Cloudflare’s SASE platform
+See reference architecture
+ANALYST RECOGNITION
+What top analysts say
+Cloudflare named a Visionary in 2025 Gartner® Magic Quadrant™ for SASE Platforms
+Read report
+Scored 2nd highest in ‘Strategy’ category in The Forrester Wave™: Zero Trust Platforms, Q3 2025
+Read report
+What our customers are saying
+“Cloudflare Access was a game-changer for Bitso. It made zero trust much easier. We now manage access to internal resources more efficiently, ensuring the right people have the right level of access to the right resources, regardless of their location device, or network.”
+Cybersecurity Lead, Bitso
+TOP ACCESS USE CASES
+Cloudflare Access provides simple, secure user access to your internal resources — without a VPN
+Augment / replace your VPN
+Offload critical applications for better security and an improved user experience.
+Manage third-party access
+Authenticate third-party users (like contractors) with clientless options, social identity providers, and more.
+Empower developers
+Ensure privileged technical users can access critical infrastructure
+— without performance trade-offs.
+Explore use cases
+Helping organizations worldwide advance toward zero trust
+See case studies
+Pricing
+Cloudflare Access control features available across the full zero trust platform
+Free Plan
+$0
+forever
+Best for teams under 50 users or enterprise proof-of-concept tests.
+Get started
+Pay-as-you-go
+$7
+per user/month (paid annually)
+Best for teams over 50 users solving narrow SSE use cases and that do not require enterprise support services.
+Get started
+Contract Plan
+Custom price
+per user/month (paid annually)
+Best for organizations building toward a full-featured SSE or SASE deployment that also desire maximum support.
+Talk to an expert
+Free Plan
+Pay-as-you-go
+Contract Plan
+Free Plan
+Get started
+Pay-as-you-go
+Get started
+Contract Plan
+Talk to an expert
+Compare plans Free Plan
+Get started
+Pay-as-you-go
+Get started
+Contract Plan
+Talk to an expert
+Access controls (included in zero trust platform)
+Usage
+No user limit
+Support and services
+Support
+options vary by plan type. Various professional advisory and hands-on implementation services
+available as add-ons to Contract plans.
+Chat and ticket support
+Phone, chat, and ticket support; professional services available (add-on)
+Customizable access policies
+Custom application and private network policies, plus policy tester. Supports temporary authentication, purpose justification, and any IdP-provided auth method.
+Protect access to all your apps and private networks
+Protect self-hosted, SaaS, and non-web (SSH, VNC, RDP) apps, internal IPs and hostnames, or any arbitrary L4–7 TCP or UDP traffic.
+Authentication via identity providers (IdPs)
+Authenticate via enterprise and social IdPs, including multiple IdPs concurrently. Can also use generic SAML and OIDC connectors.
+Identity-based context
+Configure contextual access based on IdP groups, geolocation, device posture, session duration, external APIs, etc.
+Device posture integration
+Verify device posture using third-party endpoint protection provider integrations.
+Clientless access option
+Clientless access for web apps and browser-based SSH or VNC.
+Browser-based SSH and VNC
+Privileged SSH and VNC access through in-browser terminal.
+Split tunneling
+Split tunneling for local or VPN connectivity.
+Application launcher
+Customizable app launcher for all apps, including bookmarks to apps outside of Access.
+Token authentication
+Service token support for automated services.
+Internal DNS support
+Configure local domain fallback. Define an internal DNS resolver to resolve private network requests.
+Infrastructure-as-code automation (via Terraform)
+Automate deployment of Cloudflare resources and connections.
+mTLS authentication
+Certificate-based auth for IoT and other mTLS use cases.
+Core capabilities
+Usage
+50 user limit
+No user limit
+Uptime
+Dependable service level agreements (SLA) for paid plans with 100% uptime and reliable service you can trust.
+Learn more >
+100% uptime guarantee (SLA)
+Support and services
+Support
+options vary by plan type. Various professional advisory and hands-on implementation services
+available as add-ons to Contract plans.
+Community forums and Discord server
+Chat and ticket support
+Phone, chat, and ticket support; professional services available (add-on)
+Standard log retention
+Zero Trust logs are stored for a varying period of time based on the plan type and service used. Contract users can export logs via Logpush.
+See tech docs >
+up to 24 hours
+up to 30 days
+Up to 6 months; Logpush to SIEM/cloud storage
+Application connector software
+Securely connects resources to Cloudflare without a publicly routable IP address. Does not require VM infrastructure and has no throughput limitations.
+See tech docs >
+Device client (agent) software
+Securely and privately sends traffic from end user devices to Cloudflare’s global network. Enables capabilities like building device posture rules or enforcing filtering policies anywhere. Self-enroll or deploy via MDM.
+See tech docs >
+Zero trust network access (ZTNA)
+ZTNA provides granular identity- and context-based access to all your internal self-hosted, SaaS, and non-web (e.g., SSH) resources.
+See tech docs >
+Secure web gateway (SWG)
+SWG protects against ransomware, phishing, and other threats using L4–7 network, DNS, and HTTP filtering policies for faster, safer Internet browsing.
+See tech docs >
+Digital experience monitoring (DEX)
+Provides user-centric visibility into device, network, and application performance across your zero trust organization.
+See tech docs >
+Network flow monitoring
+Provides network traffic visibility and real-time alerts for unified insights into network activity. Available for free to everyone.
+See tech docs >
+Cloud access security broker (CASB)
+CASB continuously monitors SaaS apps at rest to detect potential data exposure due to misconfigurations or weak posture findings.
+See tech docs >
+Up to 2 read-only API integrations
+Unlimited out-of-band integrations (add-on)
+Data loss prevention (DLP)
+DLP detects sensitive data in transit and at rest across web, SaaS and private apps with controls or remediation guides to stop leakage or exposure.
+See tech docs >
+Limited predefined profiles
+Full-featured (add-on)
+Log Explorer
+Free and pay-as-you-go plan: Free for the first 10 GB, $1 per GB per month after
+Enterprise: Custom pricing
+Add on
+Remote browser isolation (RBI)
+RBI layers additional threat defense and data protection controls across browsing activities by running all browser code on Cloudflare's global network.
+See tech docs >
+Add-on
+Email security
+Email security helps block and isolate multi-channel phishing threats, including malware and business email compromise.
+See tech docs >
+Add-on
+Network services for SASE
+Cloudflare One is our single-vendor SASE platform that converges zero trust security services from the plans above with network services — including Magic WAN and Firewall.
+See tech docs >
+Add-on (See next pricing tab)
+Access controls
+Customizable access policies
+Custom application and private network policies, plus policy tester. Supports temporary authentication, purpose justification, and any IdP-provided auth method.
+Protect access to all your apps and private networks
+Protect self-hosted, SaaS, and non-web (SSH, VNC, RDP) apps, internal IPs and hostnames, or any arbitrary L4-7 TCP or UDP traffic.
+Authentication via identity providers (IdPs)
+Authenticate via enterprise and social IdPs, including multiple IdPs concurrently. Can also use generic SAML and OIDC connectors.
+Identity-based context
+Configure contextual access based on IdP groups, geolocation, device posture, session duration, external APIs, etc.
+Device posture integration
+Verify device posture using third-party endpoint protection provider integrations.
+Clientless access option
+Clientless access for web apps and browser-based SSH or VNC
+Browser-based SSH and VNC
+Privileged SSH and VNC access through in-browser terminal
+Split tunneling
+Split tunneling for local or VPN connectivity
+Application launcher
+Customizable app launcher for all apps, including bookmarks to apps outside of Access
+Token authentication
+Service token support for automated services
+Internal DNS support
+Configure local domain fallback. Define an internal DNS resolver to resolve private network requests.
+Infrastructure-as-code automation (via Terraform)
+Automate deployment of Cloudflare resources and connections.
+mTLS authentication
+Certificate-based auth for IoT and other mTLS use cases
+Threat protection
+Comprehensive security categories
+Block by ransomware, phishing, DGA domains, DNS tunneling, C2 & botnet, and more.
+Recursive DNS filtering
+Filter by security or content category. Deploy via our device client or via routers for locations.
+HTTP(S) filtering
+Control traffic based on source, destination country, domains, hosts, HTTP methods, URLs, and more. Unlimited TLS 1.3 inspection.
+L4 firewall filtering
+Allow or block traffic based on ports, IPs, and TCP/UDP protocols.
+Antivirus inspection
+Scan uploaded / downloaded files across types (PDFs, ZIP, RAR, etc.)
+Integrated threat intelligence
+Detection via our own machine learning algorithms and third-party threat feeds.
+IPv6-only and dual stack support
+All functionality available for IPv4 and IPv6 connectivity.
+SSH proxying and command logging
+Create network policies to manage and monitor SSH access to your applications
+Network-level policies for physical locations
+Secure connectivity for DNS filtering directly from offices.
+Up to 3 locations
+Up to 50 locations
+Up to 250 locations
+Remote browser isolation (natively integrated)
+Render all browser code at the edge, instead of locally, to mitigate threats. Deploy with or without a device client. Selectively control what activity to isolate and when.
+Add-on
+Email Security
+Stop phishing and business email compromise.
+Add-on
+Proxy endpoints for PAC file support
+Apply HTTP policies at the browser level by configuring a PAC file. Apply filters without deploying client software on user devices.
+Dedicated egress IPs
+Dedicated range of IPs (IPv4 or IPv6) geolocated to one or more Cloudflare network locations.
+Add-on
+Data protection
+Zero trust access to mitigate data leakage (via ZTNA)
+Set least-privilege policies per application to ensure users only access data they need.
+File upload / download controls based on Mime type (via SWG)
+Allow or block uploads / downloads of files based on Mime type.
+Application and application type controls (via SWG)
+Allow or block traffic to specific apps or app types.
+CASB to detect risk of data leakage from SaaS apps
+Add Cloudflare CASB to detect if misconfigurations in SaaS applications leak sensitive data. View full list
+of supported integrations.
+Up to 2 read-only API integrations
+Unlimited out-of-band integrations
+Data loss prevention (DLP)
+Inspect HTTP(S) traffic and files for the presence of sensitive data. Free tier includes predefined profiles like financial info, while full-featured Contract plans also include custom profiles, custom datasets, OCR, DLP logs, and more
+.
+Limited predefined profiles
+Full-featured (add-on)
+Controls over data interactions within a browser (via RBI)
+Restrict download, upload, copy/paste, keyboard input, and printing actions within isolated web pages and applications. Prevent data leakage onto local devices, and control user inputs on suspicious websites. Deploy with or without a device client.
+Add-on
+SaaS app protection
+Inline access and traffic controls for every SaaS app
+All access controls, data controls, and threat protection capabilities (as outlined in prior sections) apply consistently across SaaS apps.
+SaaS app tenant controls
+Allow traffic only to corporate tenants of SaaS apps. Prevent leakage of sensitive data to personal or consumer tenants.
+Shadow IT discovery
+Review apps your end users visit. Set approval status for those apps.
+In-depth SaaS app integrations
+Integrate with your must used SaaS apps (e.g. Google Workspace, Microsoft 365) to scan, detect, and monitor for security issues. View full list
+of supported integrations.
+Up to 2 read-only API integrations
+Unlimited out-of-band integrations
+Continuous monitoring of data security risks and user activities
+API integrations continuously monitor SaaS apps for suspicious activities, data exfiltration, unauthorized access, and more.
+Up to 2 read-only API integrations
+Unlimited out-of-band integrations
+File sharing detection
+Identify inappropriate file sharing behaviors within your most used SaaS apps.
+Up to 2 read-only API integrations
+Unlimited out-of-band integrations
+SaaS app posture management and remediation
+Discover misconfigurations and incorrect user permissions within SaaS apps. Immediately action surfaced security findings with step-by-step remediation guides.
+Up to 2 read-only API integrations
+Unlimited out-of-band integrations
+Phishing detection for cloud-based email apps
+Stop phishing and business email compromise with Cloudflare’s email security.
+Add-on
+Visibility
+Standard activity log retention
+On Contract plans, DNS logs are stored 6 months, and HTTP and network logs for 30 days.
+24 hours
+30 days
+6 months
+Access and authentication logs
+Comprehensive details for all requests, users, and devices, including block reasons. Block policy decisions are stored for a week, and authentication logs for 6 months.
+App connector (tunnel) logs
+Audit logs for the connection status of tunnels and for when a new DNS record is registered for an app.
+Shadow IT visibility with categorized application groups
+Track usage and review approval status across applications end users visit.
+SSH command logging
+Full replay of all commands run during an SSH session. Provides SSH visibility at a network layer.
+Private network discovery
+Passively monitor private network traffic to catalog discovered apps and users who access them.
+Exclude personally identifiable information (PII)
+By default, logs will not store any employee PII (source IP, user email, user ID, etc.) and be unavailable to all roles in your organization.
+Digital experience monitoring (DEX)
+Provides predictive, historical, and real time intelligence around application outages, network issues, and performance slow-downs to keep users productive. View capabilities
+Network flow monitoring
+CASB findings
+Top-level findings only
+Detailed findings
+Redact PII
+Logpush to SIEM
+Log Explorer
+Add on
+Logpush to cloud storage
+Network performance and connectivity on-ramps
+Global Anycast network
+Anycast network spanning 330 cities in 125 countries with 405 Tbps of network edge capacity
+Global interconnects
+13,000 interconnects, including major ISPs, cloud services, & enterprises
+One control plane for all edge services
+Network architected so that every service operating at the edge is built to run in every data center and available to every customer.
+Single-pass inspection for L3 - L7 traffic
+All traffic is processed in a single pass at the data center closest to its source. No backhauling.
+Smart routing over virtual backbone
+Optimized routes to avoid congestion issues.
+Device client (agent) software
+Available across all major OSes (Win, Mac, iOS, Android, Linux, ChromeOS).
+Multiple modes for device client (agent)
+Default mode sends traffic through WireGuard tunnels to enable the full range of security functionality.
+Use DoH mode to only enforce DNS filtering policies, or use proxy mode to filter traffic only to specific apps.
+Managed deployment and self-enrollment options
+Deploy to your entire device fleet via MDM tools. Or, users can download the device client themselves to self-enroll.
+App connector (tunnels)
+Connect resources to Cloudflare without a publicly routable IP address. Deploy via UI, API, or CLI.
+Resources
+Blog
+See ZTNA in action
+Watch demos
+Blog
+Least privilege access for AI agents
+Read blog post
+White paper
+The path to VPN replacement
+Download whitepaper
+FAQs
+What is Cloudflare Access?
+Cloudflare Access is a zero trust network access (ZTNA) solution designed to secure access for employees and contractors across self-hosted, SaaS, and non-web applications, eliminating the need for a traditional VPN.
+How does Cloudflare Access improve productivity?
+Cloudflare Access makes on-premises applications as user-friendly as SaaS applications. It has been shown to reduce remote access support tickets by 80% compared to using a VPN, freeing up internal IT teams to focus on more productive tasks.
+How does ZTNA with Cloudflare Access enhance security?
+Cloudflare Access strengthens security by verifying user identity and device health for every request. It helps to minimize the attack surface by enforcing least-privilege access policies for all resources.
+Can Cloudflare Access help with third-party access management?
+Yes, Cloudflare Access simplifies managing third-party access by offering clientless options and integration with social identity providers for authenticating third-party users such as contractors.
+What are the benefits of using Cloudflare Access for developers?
+Cloudflare Access empowers developers by ensuring that privileged technical users can securely access critical infrastructure without experiencing performance bottlenecks.

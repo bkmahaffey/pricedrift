@@ -1,0 +1,216 @@
+[
+  {
+    "id": "brevo-com-pricing-20240508233424",
+    "url": "https://www.brevo.com/pricing/",
+    "ts": "20240508233424",
+    "date": "2024-05-08",
+    "source": "wayback",
+    "prevTs": "20230504181258",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Brevo: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "with unlimited contacts Get a demo"
+    ],
+    "removed": [
+      "with unlimited contacts Talk to sales"
+    ],
+    "totals": {
+      "removed": 20,
+      "added": 15,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "brevo-com-pricing-20240705215349",
+    "url": "https://www.brevo.com/pricing/",
+    "ts": "20240705215349",
+    "date": "2024-07-05",
+    "source": "wayback",
+    "prevTs": "20240508233424",
+    "kind": "limits",
+    "score": 5,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Brevo: 3 limits changed (20k → 5,000; 20k → 5,000)",
+    "pairs": [
+      {
+        "before": "Everything in Free, plus: From 20k emails/month",
+        "after": "Everything in Free, plus: From 5,000 emails/month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "20k",
+            "after": "5,000"
+          }
+        ]
+      },
+      {
+        "before": "Everything in Starter, plus: From 20k emails/month",
+        "after": "Everything in Starter, plus: From 5,000 emails/month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "20k",
+            "after": "5,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "24/7 email support",
+      "Everything in Business, plus: Unlimited contacts"
+    ],
+    "removed": [
+      "with unlimited contacts Sign Up",
+      "with unlimited contacts Sign Up",
+      "with unlimited contacts Sign Up",
+      "with unlimited contacts Get a demo"
+    ],
+    "totals": {
+      "removed": 11,
+      "added": 13,
+      "materialRemoved": 6,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "brevo-com-pricing-20250906104022",
+    "url": "https://www.brevo.com/pricing/",
+    "ts": "20250906104022",
+    "date": "2025-09-06",
+    "source": "wayback",
+    "prevTs": "20240705215349",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Brevo: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Yes! Our Marketing Platform plan gives you access to all transactional email features within Brevo, including RESTful APIs, SMTP, webhooks, unlimited log retention, and more. Brevo integrates with all major CMS and our API docs",
+      "Absolutely! When you create an account, you will automatically have a Free plan to upload unlimited contacts. Once we approve your account for sending, you can start sending up to 300 emails per day."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 35,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "brevo-com-pricing-20251008150349",
+    "url": "https://www.brevo.com/pricing/",
+    "ts": "20251008150349",
+    "date": "2025-10-08",
+    "source": "wayback",
+    "prevTs": "20250906104022",
+    "kind": "limits",
+    "score": 9,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Brevo: 3 limits, 2 plan names changed (removed “Everything in Free: 300 emails/day”; added “From 150,000 emails per month”)",
+    "pairs": [],
+    "added": [
+      "Free forever, no credit card needed",
+      "Sign up free",
+      "From 150,000 emails per month",
+      "10 seats included",
+      "3 hours per year included"
+    ],
+    "removed": [
+      "Free",
+      "Everything in Free: 300 emails/day",
+      "24/7 email support",
+      "Everything in Business, plus: Unlimited contacts"
+    ],
+    "totals": {
+      "removed": 41,
+      "added": 67,
+      "materialRemoved": 6,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "brevo-com-pricing-20251106125731",
+    "url": "https://www.brevo.com/pricing/",
+    "ts": "20251106125731",
+    "date": "2025-11-06",
+    "source": "wayback",
+    "prevTs": "20251008150349",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Brevo: 1 limit changed (removed “3 hours per year included”; added “Best for companies with 1M+ contacts needing …”)",
+    "pairs": [],
+    "added": [
+      "Best for companies with 1M+ contacts needing custom solutions & full data control."
+    ],
+    "removed": [
+      "3 hours per year included"
+    ],
+    "totals": {
+      "removed": 17,
+      "added": 15,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "brevo-com-pricing-20260803062235",
+    "url": "https://www.brevo.com/pricing/",
+    "ts": "20260803062235",
+    "date": "2026-08-03",
+    "source": "wayback",
+    "prevTs": "20251106125731",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Brevo: 1 limit changed (removed “From 5,000 emails per month”; added “Work with a specialist to improve email deliv…”)",
+    "pairs": [],
+    "added": [
+      "Create an unlimited number of automated, multi-step workflows to engage users at key moments along their journey.",
+      "Work with a specialist to improve email deliverability and inbox placement. 3 hours per year included."
+    ],
+    "removed": [
+      "From 5,000 emails per month"
+    ],
+    "totals": {
+      "removed": 12,
+      "added": 38,
+      "materialRemoved": 3,
+      "materialAdded": 4
+    }
+  }
+]

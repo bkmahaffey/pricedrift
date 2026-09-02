@@ -5,7 +5,7 @@ export const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/5
 const HEADERS = { 'User-Agent': UA, 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'Accept-Language': 'en-US,en;q=0.9', 'Cache-Control': 'no-cache' };
 export const sleep = ms => new Promise(r => setTimeout(r, ms));
 
-export function goodEnough(lines, minLines = 40, minMaterial = 3) {
+export function goodEnough(lines, minLines = 15, minMaterial = 1) {
   return lines.length >= minLines && lines.filter(isMaterialLine).length >= minMaterial;
 }
 
@@ -65,7 +65,7 @@ export async function waybackLatest(url) {
 
 // Returns {lines, source, status, note, waybackTs?}
 export async function fetchPage(url, opts = {}) {
-  const { minLines = 40, minMaterial = 3, allowBrowser = true, allowWayback = true } = opts;
+  const { minLines = 15, minMaterial = 1, allowBrowser = true, allowWayback = true } = opts;
   const notes = [];
   try {
     const r = await fetchPlain(url);

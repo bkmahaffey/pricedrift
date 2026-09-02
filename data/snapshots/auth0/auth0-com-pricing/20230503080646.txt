@@ -1,0 +1,103 @@
+Flexible pricing for companies and developers
+Free plan
+Get Auth0 for free with up to 7,000 active users and unlimited logins. No credit card required.
+Start building with Auth0 →
+Have a complex use case?
+We’ll ensure your company is set up for success from day one.
+Talk with an Expert →
+What is your use case?
+B2C
+B2B
+B2E
+Are you a nonprofit? See if you’re eligible →
+How many monthly active users?
+1000 10,000+
+1,000
+B2C - Essentials
+Best for simple projects or applications.
+$23/mo
+Up to 10,000 External MAU
+Unlimited Social Connections
+Custom Domains
+User Role Management
+5 Actions
+Start building for free
+No credit card required
+B2C - Professional
+Best for teams and projects that need added security.
+$240/mo
+Up to 10,000 External MAU
+Pro MFA
+External Databases
+Admin Roles
+10 Actions
+Consolidated User Stores
+M2M Add-ons
+Start building for free
+No credit card required
+Start building for free
+No credit card required
+Enterprise
+Best for production applications that need to scale.
+Custom Connection and User Tiers
+No Admin or Actions Limits
+99.99% SLA & Enterprise Support
+Advanced Deployment Options
+Enterprise Add-ons
+Contact us
+Talk with an expert to discuss your unique needs.
+Compare plans
+Build vs Buy: Guide to Evaluating Identity Management
+What is identity management and when should you build vs buy? Download this free comprehensive 22-page eBook.
+Download the Whitepaper
+Add-ons to fit your needs
+Machine to Machine Tokens
+Enable secure access to your API from other internal or external non-interactive third party-apps with minimal configuration.
+Starting at
+$20/mo
+Attack Protection
+Keep your users and services safe against password leaks, intruders, and scripted attacks from bots.
+Enterprise MFA
+Enterprise MFA allows one-time codes delivered via SMS/voice/email, alongside with WebAuthn and push notifications to the Auth0 Guardian app, or your white label app.
+HIPAA BAA & PCI
+Auth0 can provide compliance for several standards including HIPAA, via a Business Associate Agreement, and PCI compliant environments.
+Premier Success Plans
+Designed to align with the complexity of your environment in order to provide the expertise and support your needs from the right people, at the right time. 24/7 phone and engineering support available.
+Adaptive MFA
+Protect against malicious attacks with minimal impact to your users. Adaptive MFA is only triggered when a login is suspected to be risky.
+Private Cloud
+A low-friction, dedicated Auth0 deployment model for enhanced performance, security, and compliance over our standard public cloud offering.
+Frequently Asked Questions
+Why should I trust Auth0 with my users?
+Security is our utmost priority. For starters, we follow security best practices for storing user credentials: they are never stored in plain text, and all passwords are hashed and salted using the bcrypt
+algorithm, a state-of-the-art algorithm designed to prevent brute-force attacks even in case of a breach. Furthermore, our implementation of TLS has received an “A+” score in Qualsys’ SSL Labs SSL Server test
+We also implement proactive security measures for your projects such as password breach detection, using a huge database of leaked passwords, and brute-force attack detection. Automated rate-limiting checks and denial of service mitigation procedures are also in place. You can learn more about security at Auth0 at our security page
+.
+What happens if I stop using Auth0? How do I know my user's data is safe?
+Your data is safe as long as it’s stored in our servers. If you choose to stop using Auth0, exporting your data is a simple matter. Head over to the Auth0 Dashboard and go to the extensions page. Select “User Import/Export” and proceed to enable the extension. If you need help using the extension, check our docs
+If you feel the export extension does not fill your needs, the Auth0 management API
+lets you fully inspect all the data from your account. With it, you can export all data to any format.
+If I surpass the 7,000 users Free Plan do I need to select a Paid Plan with a higher MAU Quota?
+Yes, if you pass the 7,000 users mark, you need to select an applicable paid Plan and select the right amount of users for your use case. Paid plans let you pick a custom number of users, from 1,000 up to 100,000 or more. Several plans are available to best suit the needs of different use cases in addition to providing access to a greater amount of features that increases what you can do with Auth0.
+What are the different deployment models?
+Auth0 can run as a third-party service on the Auth0 public cloud or in an isolated private deployment. In particular, Auth0 supports four different types of deployments
+:
+Public Cloud: multi-tenant (shared-instance)
+Private Cloud Basic: Dedicated option that builds on Public Cloud performance and management that addresses specific data residency needs
+Private Cloud Performance: Includes all Private Cloud Basic capabilities and increases requests per second (RPS) to 500, and includes options for upgrade control, load testing, and a GEO-HA add-on.
+Private Cloud Performance Plus: Includes all Private Cloud Performance capabilities and increases RPS to 1,500
+What's Auth0's uptime and status?
+Auth0 systems have over 99.99% monthly uptime figures for most regions. You can check the current and past status and uptime figures at the status
+and uptime
+pages.
+How long does my trial last?
+The trial period lasts 22 days. After that, the Starter Plan gets activated automatically. If you wish to continue using some of the features from our paid plans, please choose one from above.
+Do you have any special offer for Startups?
+Yes, Auth0 and our network of partners want to see you succeed! We provide a special plan for Startups that includes 100K monthly external active users, Enterprise Identity Providers, Pro MFA & Password Protection and SSO for Auth0 Dashboard free for a whole year. You can also apply for $5,000 in AWS credits. Check the requirements and apply here
+!
+How do I get Special Pricing and Services for Nonprofits and Charitable Organizations?
+We are committed to Secure Access For Everyone and making the world a SAFEr place. With our Social Impact Program
+we want to make sure your technology is running alongside your ambitions from day one. All paid plans are eligible for a Social Impact discount. Request the Nonprofit and Social Good Benefits and Pricing Sheet here
+which includes the Criteria and Validation Steps.
+Not sure which plan is right for you?
+Talk to an expert

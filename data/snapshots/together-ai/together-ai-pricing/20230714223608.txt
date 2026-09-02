@@ -1,0 +1,734 @@
+0
+Together API pricing
+Pay for what you use. No usage caps. Elastic scaling.
+Fine-tuning
+Pricing for fine-tuning is based on model size, dataset size, and the number of epochs.
+Download checkpoints and final model weights.
+View job status and logs through CLI or Playgrounds.
+Deploy a model instantly once it’s fine-tuned.
+Pricing calculator
+Fine-tunning price is based on model size, dataset size, and # of epochs.
+Model
+RedPajama-INCITE Chat (3B)
+RedPajama-INCITE Instruct (3B)
+RedPajama-INCITE (3B)
+RedPajama-INCITE Chat (7B)
+RedPajama-INCITE Instruct (7B)
+RedPajama-INCITE (3B)
+Dataset (tokens)
+Epochs (# of iterations) 1
+Esimated Cost
+Inference
+Pricing for inference is distinct for each model.
+Chat Models
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A100 80GB
+RedPajama-INCITE Chat (7B)
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A100 80GB
+Chat model fine-tuned using data from Dolly 2.0 and Open Assistant over the RedPajama-INCITE-Base-7B-v1 base model.
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A100 80GB
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+RedPajama-INCITE Chat (3B)
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+Designed for few-shot prompts, fine-tuned over the RedPajama-INCITE-Base-3B-v1 base model.
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+$0.003 per 1k tokens used
+$0.33 per hour hosting
+A40 48GB
+GPT-NeoXT-Chat-Base (20B)
+$0.003 per 1k tokens used
+$0.33 per hour hosting
+A40 48GB
+Chat model fine-tuned from EleutherAI’s GPT-NeoX with over 40 million instructions on 100% carbon negative compute.
+$0.003 per 1k tokens used
+$0.33 per hour hosting
+A40 48GB
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+Pythia-Chat-Base (7B)
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+Chat model based on EleutherAI’s Pythia-7B model, and is fine-tuned with data focusing on dialog-style interactions.
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+$0.003 per 1k tokens used
+$0.40 per hour hosting
+A40 48GB
+StarCoderChat Alpha (16B)
+$0.003 per 1k tokens used
+$0.40 per hour hosting
+A40 48GB
+Fine-tuned from StarCoder to act as a helpful coding assistant. As an alpha release is only intended for educational or research purposes.
+$0.003 per 1k tokens used
+$0.40 per hour hosting
+A40 48GB
+$0.006 per 1k tokens used
+$1.44 per hour hosting
+A100 80GB
+Guanaco (33B)
+$0.006 per 1k tokens used
+$1.44 per hour hosting
+A100 80GB
+Instruction-following language model built on LLaMA. Expanding upon the initial 52K dataset from the Alpaca model, an additional 534,530 focused on multi-lingual tasks.
+$0.006 per 1k tokens used
+$1.44 per hour hosting
+A100 80GB
+$0.006 per 1k tokens used
+$0.80 per hour hosting
+A100 80GB
+Airoboros GPTQ (33B)
+$0.006 per 1k tokens used
+$0.80 per hour hosting
+A100 80GB
+QLoRA fine-tuned LLaMA model, using synthetic training data.
+$0.006 per 1k tokens used
+$0.80 per hour hosting
+A100 80GB
+$0.006 per 1k tokens used
+$1.44 per hour hosting
+A100 80GB
+MPT-Chat (30B)
+$0.006 per 1k tokens used
+$1.44 per hour hosting
+A100 80GB
+Chat model for dialogue generation finetuned on ShareGPT-Vicuna, Camel-AI, GPTeacher, Guanaco, Baize and some generated datasets.
+$0.006 per 1k tokens used
+$1.44 per hour hosting
+A100 80GB
+$0.006 per 1k tokens used
+$1.44 per hour hosting
+A100 80GB
+Open-Assistant LLaMA SFT-6 (30B)
+$0.006 per 1k tokens used
+$1.44 per hour hosting
+A100 80GB
+Chat-based and open-source assistant. The vision of the project is to make a large language model that can run on a single high-end consumer GPU.
+$0.006 per 1k tokens used
+$1.44 per hour hosting
+A100 80GB
+$0.003 per 1k tokens used
+$0.40 per hour hosting
+A40 48GB
+InstructCodeT5 (16B)
+$0.003 per 1k tokens used
+$0.40 per hour hosting
+A40 48GB
+Code large language model that can flexibly operate in different modes to support a wide range of code understanding and generation tasks.
+$0.003 per 1k tokens used
+$0.40 per hour hosting
+A40 48GB
+$0.003 per 1k tokens used
+$0.40 per hour hosting
+A40 48GB
+Koala (13B)
+$0.003 per 1k tokens used
+$0.40 per hour hosting
+A40 48GB
+Chatbot trained by fine-tuning LLaMA on dialogue data gathered from the web.
+$0.003 per 1k tokens used
+$0.40 per hour hosting
+A40 48GB
+$0.003 per 1K tokens used
+$0.20 per hour hosting
+A40 48GB
+Vicuna v1.3 (13B)
+$0.003 per 1K tokens used
+$0.20 per hour hosting
+A40 48GB
+Chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Auto-regressive model, based on the transformer architecture.
+$0.003 per 1K tokens used
+$0.20 per hour hosting
+A40 48GB
+$0.003 per 1k tokens used
+$0.40 per hour hosting
+A40 48GB
+Open-Assistant Pythia SFT-4 (12B)
+$0.003 per 1k tokens used
+$0.40 per hour hosting
+A40 48GB
+Chat-based and open-source assistant. The vision of the project is to make a large language model that can run on a single high-end consumer GPU.
+$0.003 per 1k tokens used
+$0.40 per hour hosting
+A40 48GB
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+Vicuna v1.3 (7B)
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+Chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Auto-regressive model, based on the transformer architecture.
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+Open-Assistant Pythia Reward Based (7B)
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+Chat model fine-tuned using data from Dolly 2.0 and Open Assistant over the RedPajama-INCITE-Base-3B-v1 base model.
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+Koala (7B)
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+Chatbot trained by fine-tuning LLaMA on dialogue data gathered from the web.
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+Alpaca (7B)
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+Fine-tuned from the LLaMA 7B model on 52K instruction-following demonstrations.
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+$0.001 per 1K tokens used
+$0.33 per hour hosting
+A40 48GB
+Falcon Instruct (7B)
+$0.001 per 1K tokens used
+$0.33 per hour hosting
+A40 48GB
+Causal decoder-only model built by TII based on Falcon-7B and finetuned on a mixture of chat/instruct datasets.
+$0.001 per 1K tokens used
+$0.33 per hour hosting
+A40 48GB
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+MPT-Chat (7B)
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+Chat model for dialogue generation finetuned on ShareGPT-Vicuna, Camel-AI, GPTeacher, Guanaco, Baize and some generated datasets.
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+Open-Assistant StableLM SFT-7 (7B)
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+Chat-based and open-source assistant. The vision of the project is to make a large language model that can run on a single high-end consumer GPU.
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+Guanaco (7B)
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+Instruction-following language model built on LLaMA. Expanding upon the initial 52K dataset from the Alpaca model, an additional 534,530 focused on multi-lingual tasks.
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+$0.003 per 1k tokens used
+$0.40 per hour hosting
+A40 48GB
+Vicuna v1.1 (13B)
+$0.003 per 1k tokens used
+$0.40 per hour hosting
+A40 48GB
+Chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Auto-regressive model, based on the transformer architecture.
+$0.003 per 1k tokens used
+$0.40 per hour hosting
+A40 48GB
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+Vicuna-FastChat-T5 (3B)
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+Chatbot trained by fine-tuning Flan-t5-xl on user-shared conversations collected from ShareGPT.
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+$0.015 per 1k tokens used
+$1.44 per hour hosting
+2x A100 80GB
+Guanaco (65B)
+$0.015 per 1k tokens used
+$1.44 per hour hosting
+2x A100 80GB
+Instruction-following language model built on LLaMA. Expanding upon the initial 52K dataset from the Alpaca model, an additional 534,530 focused on multi-lingual tasks.
+$0.015 per 1k tokens used
+$1.44 per hour hosting
+2x A100 80GB
+Language models
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+A100 80GB
+RedPajama-INCITE Instruct (7B)
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+A100 80GB
+Designed for few-shot prompts, fine-tuned over the RedPajama-INCITE-Base-7B-v1 base model.
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+A100 80GB
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+RedPajama-INCITE (7B)
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+An open-source, commercially usable model that aims to replicate the LLaMA recipe as closely as possible.
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+RedPajama-INCITE Instruct (3B)
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+Chat model fine-tuned using data from Dolly 2.0 and Open Assistant over the RedPajama-INCITE-Base-3B-v1 base model.
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+RedPajama-INCITE (3B)
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+An open-source, commercially usable model that aims to replicate the LLaMA recipe as closely as possible.
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+$0.015 per 1k tokens used
+$1.44 per hour hosting
+2x A100 80GB
+LLaMA (65B)
+$0.015 per 1k tokens used
+$1.44 per hour hosting
+2x A100 80GB
+An auto-regressive language model, based on the transformer architecture. The model comes in different sizes: 7B, 13B, 33B and 65B parameters.
+$0.015 per 1k tokens used
+$1.44 per hour hosting
+2x A100 80GB
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+Dolly v2 (3B)
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+An instruction-following LLM based on pythia-3b, and trained on ~15k instruction/response fine tuning records generated by Databricks employees.
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+RedPajama-INCITE (3B)
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+An open-source, commercially usable model that aims to replicate the LLaMA recipe as closely as possible.
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+GPT-JT-Moderation (6B)
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+This model can be used to moderate other chatbot models. Built using GPT-JT model fine-tuned on Ontocord.ai's OIG-moderation dataset v0.1.
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+$0.006 per 1k tokens used
+$0.80 per hour hosting
+2x A40 48GB
+Falcon (40B)
+$0.006 per 1k tokens used
+$0.80 per hour hosting
+2x A40 48GB
+Falcon-40B is a causal decoder-only model built by TII and trained on 1,000B tokens of RefinedWeb enhanced with curated corpora.
+$0.006 per 1k tokens used
+$0.80 per hour hosting
+2x A40 48GB
+$0.006 per 1k tokens used
+$1.44 per hour hosting
+A100 80GB
+LLaMA (33B)
+$0.006 per 1k tokens used
+$1.44 per hour hosting
+A100 80GB
+An auto-regressive language model, based on the transformer architecture. The model comes in different sizes: 7B, 13B, 33B and 65B parameters.
+$0.006 per 1k tokens used
+$1.44 per hour hosting
+A100 80GB
+$0.006 per 1k tokens used
+$1.44 per hour hosting
+A100 80GB
+MPT (30B)
+$0.006 per 1k tokens used
+$1.44 per hour hosting
+A100 80GB
+Decoder-style transformer pretrained from scratch on 1T tokens of English text and code.
+$0.006 per 1k tokens used
+$1.44 per hour hosting
+A100 80GB
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+GPT-J (6B)
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+Chat model fine-tuned using data from Dolly 2.0 and Open Assistant over the RedPajama-INCITE-Base-3B-v1 base model.
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+$0.006 per 1k tokens used
+$1.44 per hour hosting
+A100 80GB
+MPT-Instruct (30B)
+$0.006 per 1k tokens used
+$1.44 per hour hosting
+A100 80GB
+Designed for short-form instruction following, finetuned on Dolly and Anthropic HH-RLHF and other datasets
+$0.006 per 1k tokens used
+$1.44 per hour hosting
+A100 80GB
+$0.003 per 1k tokens used
+$0.40 per hour hosting
+A40 48GB
+GPT-NeoX (20B)
+$0.003 per 1k tokens used
+$0.40 per hour hosting
+A40 48GB
+Autoregressive language model trained on the Pile. Its architecture intentionally resembles that of GPT-3, and is almost identical to that of GPT-J 6B.
+$0.003 per 1k tokens used
+$0.40 per hour hosting
+A40 48GB
+$0.003 per 1k tokens used
+$0.72 per hour hosting
+A100 80GB
+LLaMA (13B)
+$0.003 per 1k tokens used
+$0.72 per hour hosting
+A100 80GB
+An auto-regressive language model, based on the transformer architecture. The model comes in different sizes: 7B, 13B, 33B and 65B parameters.
+$0.003 per 1k tokens used
+$0.72 per hour hosting
+A100 80GB
+$0.003 per 1k tokens used
+$0.40 per hour hosting
+A40 48GB
+Nous Hermes (13B)
+$0.003 per 1k tokens used
+$0.40 per hour hosting
+A40 48GB
+LLaMA 13B fine-tuned on over 300,000 instructions. Designed for long responses, low hallucination rate, and absence of censorship mechanisms.
+$0.003 per 1k tokens used
+$0.40 per hour hosting
+A40 48GB
+$0.003 per 1k tokens used
+$0.40 per hour hosting
+A40 48GB
+Flan T5 XXL (11B)
+$0.003 per 1k tokens used
+$0.40 per hour hosting
+A40 48GB
+T5 fine-tuned on more than 1000 additional tasks covering also more languages, making it better than T5 at majority of tasks.
+$0.003 per 1k tokens used
+$0.40 per hour hosting
+A40 48GB
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+MPT (7B)
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+Decoder-style transformer pretrained from scratch on 1T tokens of English text and code.
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+MPT-Instruct (7B)
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+Designed for short-form instruction following, finetuned on Dolly and Anthropic HH-RLHF and other datasets.
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+Pythia (7B)
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+The Pythia Scaling Suite is a collection of models developed to facilitate interpretability research.
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+$0.001 per 1K tokens used
+$0.33 per hour hosting
+A40 48GB
+Falcon (7B)
+$0.001 per 1K tokens used
+$0.33 per hour hosting
+A40 48GB
+Chat model fine-tuned using data from Dolly 2.0 and Open Assistant over the RedPajama-INCITE-Base-3B-v1 base model.
+$0.001 per 1K tokens used
+$0.33 per hour hosting
+A40 48GB
+$0.001 per 1K tokens used
+$0.14 per hour hosting
+A100 80GB
+LLaMA (7B)
+$0.001 per 1K tokens used
+$0.14 per hour hosting
+A100 80GB
+An auto-regressive language model, based on the transformer architecture. The model comes in different sizes: 7B, 13B, 33B and 65B parameters.
+$0.001 per 1K tokens used
+$0.14 per hour hosting
+A100 80GB
+$0.003 per 1k tokens used
+$0.11 per hour hosting
+A40 48GB
+Dolly v2 (7B)
+$0.003 per 1k tokens used
+$0.11 per hour hosting
+A40 48GB
+An instruction-following LLM based on pythia-7b, and trained on ~15k instruction/response fine tuning records generated by Databricks employees.
+$0.003 per 1k tokens used
+$0.11 per hour hosting
+A40 48GB
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+StableLM-Base-Alpha (7B)
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+Decoder-only language model pre-trained on a diverse collection of English and Code datasets with a sequence length of 4096.
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+GPT-JT (6B)
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+Fork of GPT-J instruction tuned to excel at few-shot prompts (blog post).
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+NSQL (6B)
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+Foundation model designed specifically for SQL generation tasks. Pre-trained for 3 epochs and fine-tuned for 10 epochs.
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+Flan T5 XL (3B)
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+T5 fine-tuned on more than 1000 additional tasks covering also more languages, making it better than T5 at majority of tasks.
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+Pythia (3B)
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+The Pythia Scaling Suite is a collection of models developed to facilitate interpretability research.
+$0.001 per 1K tokens used
+$0.13 per hour hosting
+A40 48GB
+$0.00025 per 1k tokens used
+$0.04 per hour hosting
+A40 48GB
+Pythia (1B)
+$0.00025 per 1k tokens used
+$0.04 per hour hosting
+A40 48GB
+The Pythia Scaling Suite is a collection of models developed to facilitate interpretability research.
+$0.00025 per 1k tokens used
+$0.04 per hour hosting
+A40 48GB
+Code models
+$0.003 per 1k tokens used
+$0.40 per hour hosting
+A40 48GB
+CodeGen2 (16B)
+$0.003 per 1k tokens used
+$0.40 per hour hosting
+A40 48GB
+An autoregressive language models for program synthesis.
+$0.003 per 1k tokens used
+$0.40 per hour hosting
+A40 48GB
+$0.003 per 1k tokens used
+$0.40 per hour hosting
+A40 48GB
+CodeGeeX (13B)
+$0.003 per 1k tokens used
+$0.40 per hour hosting
+A40 48GB
+Chat model fine-tuned using data from Dolly 2.0 and Open Assistant over the RedPajama-INCITE-Base-3B-v1 base model.
+$0.003 per 1k tokens used
+$0.40 per hour hosting
+A40 48GB
+$0.001 per 1K tokens used
+$0.40 per hour hosting
+A40 48GB
+CodeGen2 (7B)
+$0.001 per 1K tokens used
+$0.40 per hour hosting
+A40 48GB
+An autoregressive language models for program synthesis.
+$0.001 per 1K tokens used
+$0.40 per hour hosting
+A40 48GB
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+Replit-Code-v1 (3B)
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+replit-code-v1-3b is a 2.7B Causal Language Model focused on Code Completion. The model has been trained on a subset of the Stack Dedup v1.2 dataset.
+$0.001 per 1K tokens used
+$0.11 per hour hosting
+A40 48GB
+Image models
+$0.00025 per 1k tokens used
+$0.04 per hour hosting
+A100 80GB
+Stable Diffusion 2.1
+$0.00025 per 1k tokens used
+$0.04 per hour hosting
+A100 80GB
+Latent text-to-image diffusion model capable of generating photo-realistic images given any text input.
+$0.00025 per 1k tokens used
+$0.04 per hour hosting
+A100 80GB
+$0.00025 per 1k tokens used
+$0.04 per hour hosting
+A100 80GB
+Stable Diffusion 1.5
+$0.00025 per 1k tokens used
+$0.04 per hour hosting
+A100 80GB
+Latent text-to-image diffusion model capable of generating photo-realistic images given any text input.
+$0.00025 per 1k tokens used
+$0.04 per hour hosting
+A100 80GB
+$0.00025 per 1k tokens used
+$0.04 per hour hosting
+A40 48GB
+Openjourney v4
+$0.00025 per 1k tokens used
+$0.04 per hour hosting
+A40 48GB
+An open source Stable Diffusion model fine tuned model on Midjourney images.
+$0.00025 per 1k tokens used
+$0.04 per hour hosting
+A40 48GB
+$0.00025 per 1k tokens used
+$0.04 per hour hosting
+A100 80GB
+ControlNet
+$0.00025 per 1k tokens used
+$0.04 per hour hosting
+A100 80GB
+Controls diffusion models by adding extra conditions. Used with StableDiffusion it provides additional control for image to image generation.
+$0.00025 per 1k tokens used
+$0.04 per hour hosting
+A100 80GB
+$0.13 per hour hosting
+$0.04 per hour hosting
+A40 48GB
+Analog Diffusion
+$0.13 per hour hosting
+$0.04 per hour hosting
+A40 48GB
+Dreambooth model trained on a diverse set of analog photographs to provide an analog film effect.
+$0.13 per hour hosting
+$0.04 per hour hosting
+A40 48GB
+$0.00025 per 1k tokens used
+$0.04 per hour hosting
+A40 48GB
+Realistic Vision 3.0
+$0.00025 per 1k tokens used
+$0.04 per hour hosting
+A40 48GB
+Fine-tune version of Stable Diffusion focused on photorealism.
+$0.00025 per 1k tokens used
+$0.04 per hour hosting
+A40 48GB
+Fine-tuned models
+L40
+Your fine-tuned model (7B)
+L40
+Once you fine-tune a base model with your data, you can host in on our platform to test and deploy.
+L40
+Your fine-tuned model (3B)
+L40
+Once you fine-tune a base model with your data, you can host in on our platform to test and deploy.
+L40
+Ready to get started?
+Sign up now

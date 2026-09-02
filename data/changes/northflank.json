@@ -1,0 +1,626 @@
+[
+  {
+    "id": "northflank-com-pricing-20231103112052",
+    "url": "https://northflank.com/pricing",
+    "ts": "20231103112052",
+    "date": "2023-11-03",
+    "source": "wayback",
+    "prevTs": "20230214205725",
+    "kind": "price",
+    "score": 66,
+    "counts": {
+      "price": 15,
+      "limit": 7,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Northflank: 15 prices, 7 limits, 4 plan names changed (removed “Instances starting at $2.71/mo”; added “Included resources: 2 services, 2 jobs, and 1…”)",
+    "pairs": [],
+    "added": [
+      "Included resources: 2 services, 2 jobs, and 1 addon",
+      "Starting at $ 0 /mo",
+      "Unlimited projects",
+      "Up to 50 users",
+      "Up to 256 vCPU",
+      "Up to 1 TB memory",
+      "Starting at $ 1000 /mo",
+      "Unlimited compute",
+      "Up to 100 users",
+      "Unlimited org teams",
+      "25 users",
+      "$ 12.00 / vCPU / month",
+      "Scale compute from 0.1 vCPU to 32 vCPU. CPU based autoscaling supported.",
+      "$ 6.00 / GB / month",
+      "Scale memory from 256 MB to 256 GB. Memory based autoscaling supported.",
+      "$ 0.50 / 1M reqs",
+      "32768 MB",
+      "1 GB",
+      "$ 288.00 /month",
+      "$ 0.4000 /hr",
+      "40960 MB",
+      "1 GB",
+      "$ 336.00 /month",
+      "$ 0.4667 /hr",
+      "Up to 256 vCPU & 1 TB memory",
+      "Free users",
+      "25 free users, $20/user/month thereafter",
+      "Unlimited teams",
+      "Free",
+      "Starts at $0/mo",
+      "Starts at $1000/mo"
+    ],
+    "removed": [
+      "Get started deploying your apps, database and jobs for free",
+      "Unlimited projects, teams, services, jobs and addons",
+      "Instances starting at $2.71/mo",
+      "Free for the first 10 GB per month, then $0.50 per 1 GB after that, retained for 30 days.",
+      "Free for the first 10 GB per month, then $0.50 per 1 GB after that, retained for 30 days."
+    ],
+    "totals": {
+      "removed": 76,
+      "added": 205,
+      "materialRemoved": 10,
+      "materialAdded": 36
+    }
+  },
+  {
+    "id": "northflank-com-pricing-20240316224037",
+    "url": "https://northflank.com/pricing",
+    "ts": "20240316224037",
+    "date": "2024-03-16",
+    "source": "wayback",
+    "prevTs": "20231103112052",
+    "kind": "price",
+    "score": 151,
+    "counts": {
+      "price": 36,
+      "limit": 20,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Northflank: 36 prices, 20 limits, 2 plan names changed (removed “Up to 50 users”; added “0.1-32vCPU 512MB-256GB Plans”)",
+    "pairs": [],
+    "added": [
+      "Unlimited collaborators",
+      "Unlimited BYOC clusters",
+      "Unlimited vCPU & Memory",
+      "0.1-32vCPU 512MB-256GB Plans",
+      "Unlimited Services, Jobs and Databases",
+      "Total $ 0.00 /month"
+    ],
+    "removed": [
+      "Up to 50 users",
+      "Up to 256 vCPU",
+      "Up to 1 TB memory",
+      "Starting at $ 1000 /mo",
+      "Unlimited compute",
+      "Up to 100 users",
+      "25 users",
+      "256 MB",
+      "1 GB",
+      "$ 2.71 /month",
+      "$ 0.0038 /hr",
+      "512 MB",
+      "1 GB",
+      "$ 5.41 /month",
+      "$ 0.0075 /hr",
+      "1024 MB",
+      "1 GB",
+      "$ 12.00 /month",
+      "$ 0.0167 /hr",
+      "1024 MB",
+      "1 GB",
+      "$ 18.00 /month",
+      "$ 0.0250 /hr",
+      "2048 MB",
+      "1 GB",
+      "$ 24.00 /month",
+      "$ 0.0333 /hr",
+      "4096 MB",
+      "1 GB",
+      "$ 36.00 /month",
+      "$ 0.0500 /hr",
+      "4096 MB",
+      "1 GB",
+      "$ 48.00 /month",
+      "$ 0.0667 /hr",
+      "8192 MB",
+      "1 GB",
+      "$ 72.00 /month",
+      "$ 0.1000 /hr",
+      "8192 MB"
+    ],
+    "totals": {
+      "removed": 165,
+      "added": 77,
+      "materialRemoved": 78,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "northflank-com-pricing-20240406193811",
+    "url": "https://northflank.com/pricing",
+    "ts": "20240406193811",
+    "date": "2024-04-06",
+    "source": "wayback",
+    "prevTs": "20240316224037",
+    "kind": "price",
+    "score": 136,
+    "counts": {
+      "price": 34,
+      "limit": 17,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Northflank: 34 prices, 17 limits changed (added “256 MB”)",
+    "pairs": [],
+    "added": [
+      "256 MB",
+      "1 GB",
+      "$ 2.71 /month",
+      "$ 0.0038 /hr",
+      "512 MB",
+      "1 GB",
+      "$ 5.41 /month",
+      "$ 0.0075 /hr",
+      "1024 MB",
+      "1 GB",
+      "$ 12.00 /month",
+      "$ 0.0167 /hr",
+      "1024 MB",
+      "1 GB",
+      "$ 18.00 /month",
+      "$ 0.0250 /hr",
+      "2048 MB",
+      "1 GB",
+      "$ 24.00 /month",
+      "$ 0.0333 /hr",
+      "4096 MB",
+      "1 GB",
+      "$ 36.00 /month",
+      "$ 0.0500 /hr",
+      "4096 MB",
+      "1 GB",
+      "$ 48.00 /month",
+      "$ 0.0667 /hr",
+      "4096 MB",
+      "1 GB",
+      "$ 48.00 /month",
+      "$ 0.0667 /hr",
+      "8192 MB",
+      "1 GB",
+      "$ 72.00 /month",
+      "$ 0.1000 /hr",
+      "8192 MB",
+      "1 GB",
+      "$ 96.00 /month",
+      "$ 0.1333 /hr"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 119,
+      "materialRemoved": 0,
+      "materialAdded": 68
+    }
+  },
+  {
+    "id": "northflank-com-pricing-20240802095841",
+    "url": "https://northflank.com/pricing",
+    "ts": "20240802095841",
+    "date": "2024-08-02",
+    "source": "wayback",
+    "prevTs": "20240406193811",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Northflank: 3 prices changed ($336.00 → $480.00)",
+    "pairs": [
+      {
+        "before": "$ 336.00 /month",
+        "after": "$ 480.00 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$336.00",
+            "after": "$480.00"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 0.6667 /hr"
+    ],
+    "removed": [
+      "$ 0.4667 /hr"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 5,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "northflank-com-pricing-20250409104835",
+    "url": "https://northflank.com/pricing",
+    "ts": "20250409104835",
+    "date": "2025-04-09",
+    "source": "wayback",
+    "prevTs": "20240802095841",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Northflank: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "northflank-com-pricing-20250516054916",
+    "url": "https://northflank.com/pricing",
+    "ts": "20250516054916",
+    "date": "2025-05-16",
+    "source": "wayback",
+    "prevTs": "20250409104835",
+    "kind": "price",
+    "score": 8,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Northflank: 2 prices, 1 limit changed (added “16384 MB”)",
+    "pairs": [],
+    "added": [
+      "16384 MB",
+      "1 GB",
+      "$ 192.00 /month",
+      "$ 0.2667 /hr"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 8,
+      "materialRemoved": 0,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "northflank-com-pricing-20250805065036",
+    "url": "https://northflank.com/pricing",
+    "ts": "20250805065036",
+    "date": "2025-08-05",
+    "source": "wayback",
+    "prevTs": "20250516054916",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Northflank: 2 prices changed (removed “$ 0.50 / GB”; added “$ 0.20 / GB”)",
+    "pairs": [],
+    "added": [
+      "$ 0.20 / GB"
+    ],
+    "removed": [
+      "$ 0.50 / GB"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "northflank-com-pricing-20250918081015",
+    "url": "https://northflank.com/pricing",
+    "ts": "20250918081015",
+    "date": "2025-09-18",
+    "source": "wayback",
+    "prevTs": "20250805065036",
+    "kind": "price",
+    "score": 16,
+    "counts": {
+      "price": 4,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Northflank: 4 prices, 2 limits changed (added “24576 MB”)",
+    "pairs": [],
+    "added": [
+      "24576 MB",
+      "1 GB",
+      "$ 288.00 /month",
+      "$ 0.4000 /hr",
+      "32768 MB",
+      "1 GB",
+      "$ 384.00 /month",
+      "$ 0.5333 /hr"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 12,
+      "materialRemoved": 0,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "northflank-com-pricing-20251204223411",
+    "url": "https://northflank.com/pricing",
+    "ts": "20251204223411",
+    "date": "2025-12-04",
+    "source": "wayback",
+    "prevTs": "20250918081015",
+    "kind": "price",
+    "score": 244,
+    "counts": {
+      "price": 71,
+      "limit": 14,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Northflank: 71 prices, 14 limits, 2 plan names changed (removed “Includes 2 services, 2 jobs, and 1 addon”; added “$ 0.01667 / vCPU / hour”)",
+    "pairs": [],
+    "added": [
+      "$ 0.01667 / vCPU / hour",
+      "$ 0.00833 / GB / hour",
+      "NVIDIA A100 40GB",
+      "$ 1.42 / hour",
+      "NVIDIA A100 80GB",
+      "$ 1.76 / hour",
+      "$ 2.74 / hour",
+      "$ 3.14 / hour",
+      "$ 5.87 / hour",
+      "$ 0.15 / GB, $0.50 / 1M reqs",
+      "Transfer to a different zone or AZ costs $0.02 / GB when using Zonal Redundancy",
+      "First 10 GB / month included free. 30 days retention",
+      "$ 2.70 /month ($ 0.0038 /hr)",
+      "$ 5.40 /month ($ 0.0075 /hr)",
+      "$ 12.00 /month ($ 0.0167 /hr)",
+      "$ 18.00 /month ($ 0.0250 /hr)",
+      "$ 24.00 /month ($ 0.0333 /hr)",
+      "$ 36.00 /month ($ 0.0500 /hr)",
+      "$ 48.00 /month ($ 0.0667 /hr)",
+      "$ 48.00 /month ($ 0.0667 /hr)",
+      "$ 72.00 /month ($ 0.1000 /hr)",
+      "$ 96.00 /month ($ 0.1333 /hr)",
+      "$ 120.00 /month ($ 0.1667 /hr)",
+      "$ 144.00 /month ($ 0.2000 /hr)",
+      "$ 144.00 /month ($ 0.2000 /hr)",
+      "$ 192.00 /month ($ 0.2667 /hr)",
+      "$ 240.00 /month ($ 0.3333 /hr)",
+      "$ 288.00 /month ($ 0.4000 /hr)",
+      "$ 288.00 /month ($ 0.4000 /hr)",
+      "$ 336.00 /month ($ 0.4667 /hr)",
+      "$ 384.00 /month ($ 0.5333 /hr)",
+      "$ 480.00 /month ($ 0.6667 /hr)",
+      "130B+",
+      "2 x free service",
+      "2 x free databases",
+      "2 x free cron jobs",
+      "Teams included for free",
+      "50k+ devs per tenant",
+      "Try for free →"
+    ],
+    "removed": [
+      "Free",
+      "Includes 2 services, 2 jobs, and 1 addon",
+      "Unlimited projects",
+      "Unlimited collaborators",
+      "Unlimited BYOC clusters",
+      "Unlimited vCPU & Memory",
+      "0.1-32vCPU 512MB-256GB Plans",
+      "Unlimited Services, Jobs and Databases",
+      "Unlimited org teams",
+      "1 GB",
+      "$ 2.71 /month",
+      "$ 0.0038 /hr",
+      "1 GB",
+      "$ 5.41 /month",
+      "$ 0.0075 /hr",
+      "1 GB",
+      "$ 12.00 /month",
+      "$ 0.0167 /hr",
+      "1 GB",
+      "$ 18.00 /month",
+      "$ 0.0250 /hr",
+      "1 GB",
+      "$ 0.0333 /hr",
+      "1 GB",
+      "$ 36.00 /month",
+      "$ 0.0500 /hr",
+      "1 GB",
+      "$ 48.00 /month",
+      "$ 0.0667 /hr",
+      "1 GB",
+      "$ 48.00 /month",
+      "$ 0.0667 /hr",
+      "1 GB",
+      "$ 72.00 /month",
+      "$ 0.1000 /hr",
+      "1 GB",
+      "$ 96.00 /month",
+      "$ 0.1333 /hr",
+      "1 GB",
+      "$ 120.00 /month"
+    ],
+    "totals": {
+      "removed": 147,
+      "added": 262,
+      "materialRemoved": 82,
+      "materialAdded": 49
+    }
+  },
+  {
+    "id": "northflank-com-pricing-20260114221344",
+    "url": "https://northflank.com/pricing",
+    "ts": "20260114221344",
+    "date": "2026-01-14",
+    "source": "wayback",
+    "prevTs": "20251204223411",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Northflank: 3 prices changed ($0.30 → $0.15)",
+    "pairs": [
+      {
+        "before": "$ 0.30 / GB / month",
+        "after": "$ 0.15 / GB / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.30",
+            "after": "$0.15"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 0.06 / GB",
+      "1× free database"
+    ],
+    "removed": [
+      "$ 0.15 / GB, $0.50 / 1M reqs",
+      "2 x free databases"
+    ],
+    "totals": {
+      "removed": 13,
+      "added": 19,
+      "materialRemoved": 5,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "northflank-com-pricing-20260223182450",
+    "url": "https://northflank.com/pricing",
+    "ts": "20260223182450",
+    "date": "2026-02-23",
+    "source": "wayback",
+    "prevTs": "20260114221344",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 2,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Northflank: 2 prices, 2 limits changed (removed “$ 5.87 / hour”; added “NVIDIA L4 24GB”)",
+    "pairs": [],
+    "added": [
+      "NVIDIA L4 24GB",
+      "$ 0.80 / hour",
+      "NVIDIA H100 80GB",
+      "NVIDIA H200 141GB"
+    ],
+    "removed": [
+      "$ 5.87 / hour"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 6,
+      "materialRemoved": 1,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "northflank-com-pricing-20260311184527",
+    "url": "https://northflank.com/pricing",
+    "ts": "20260311184527",
+    "date": "2026-03-11",
+    "source": "wayback",
+    "prevTs": "20260223182450",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Northflank: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "northflank-com-pricing-20260627221124",
+    "url": "https://northflank.com/pricing",
+    "ts": "20260627221124",
+    "date": "2026-06-27",
+    "source": "wayback",
+    "prevTs": "20260311184527",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 3,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Northflank: 3 prices, 2 limits changed ($3.14 → $3.00)",
+    "pairs": [
+      {
+        "before": "$ 3.14 / hour",
+        "after": "$ 3.00 / hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.14",
+            "after": "$3.00"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "NVIDIA RTX PRO 6000 96GB"
+    ],
+    "removed": [
+      "NVIDIA H200 141GB",
+      "$ 0.08 / GB / month",
+      "$ 0.20 / GB",
+      "First 10 GB / month included free. 30 days retention"
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 2,
+      "materialRemoved": 5,
+      "materialAdded": 2
+    }
+  }
+]

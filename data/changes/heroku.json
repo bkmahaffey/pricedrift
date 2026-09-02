@@ -1,0 +1,592 @@
+[
+  {
+    "id": "heroku-com-pricing-20250402081337",
+    "url": "https://www.heroku.com/pricing",
+    "ts": "20250402081337",
+    "date": "2025-04-02",
+    "source": "wayback",
+    "prevTs": "20241110142302",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Heroku: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "heroku-com-pricing-20250510044923",
+    "url": "https://www.heroku.com/pricing",
+    "ts": "20250510044923",
+    "date": "2025-05-10",
+    "source": "wayback",
+    "prevTs": "20250402081337",
+    "kind": "price",
+    "score": 25,
+    "counts": {
+      "price": 8,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Heroku: 8 prices, 1 limit changed ($0.035 → $0.03; $0.347 → $0.34)",
+    "pairs": [
+      {
+        "before": "~$0.035 to $0.069/hour",
+        "after": "~$0.03 to $0.06/hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.035",
+            "after": "$0.03"
+          },
+          {
+            "before": "$0.069",
+            "after": "$0.06"
+          }
+        ]
+      },
+      {
+        "before": "~$0.347 to $2.082/hour",
+        "after": "~$0.34 to $2.08/hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.347",
+            "after": "$0.34"
+          },
+          {
+            "before": "$2.082",
+            "after": "$2.08"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "~$0.035 to $3.33/hour",
+      "(max of $25 to $2400/month) Prorated to the second",
+      "1/2 GB – 126 GB RAM",
+      "~$0.17 to $2.08/hour",
+      "(max of $125 to $1500/month) Prorated to the second",
+      "~$0.20 to $2.50/hour",
+      "(max of $150 to $1800/month) Prorated to the second"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 146,
+      "added": 165,
+      "materialRemoved": 28,
+      "materialAdded": 35
+    }
+  },
+  {
+    "id": "heroku-com-pricing-20250811014857",
+    "url": "https://www.heroku.com/pricing",
+    "ts": "20250811014857",
+    "date": "2025-08-11",
+    "source": "wayback",
+    "prevTs": "20250510044923",
+    "kind": "price",
+    "score": 832,
+    "counts": {
+      "price": 171,
+      "limit": 160,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Heroku: 171 prices, 160 limits changed (4 → 7)",
+    "pairs": [
+      {
+        "before": "Roll back up to 4 days",
+        "after": "Roll back up to 7 days",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4",
+            "after": "7"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "0.5 GB",
+      "0.5 GB",
+      "0.5 GB",
+      "Unlimited process types",
+      "Unlimited background workers",
+      "2.5 GB",
+      "$500",
+      "14 GB",
+      "$500",
+      "30 GB",
+      "62 GB",
+      "$1,500",
+      "126 GB",
+      "$125",
+      "1 GB",
+      "$250",
+      "2.5 GB",
+      "$500",
+      "14 GB",
+      "$500",
+      "30 GB",
+      "$750",
+      "62 GB",
+      "$1,500",
+      "126 GB",
+      "$150",
+      "1 GB",
+      "$300",
+      "2.5 GB",
+      "$600",
+      "14 GB",
+      "$600",
+      "30 GB",
+      "$900",
+      "62 GB",
+      "$1,800",
+      "126 GB",
+      "Classic 1CPU-0.5GB",
+      "$25",
+      "0.5GB"
+    ],
+    "removed": [
+      "~$0.035/hour and up",
+      "~$0.347/hour and up",
+      "The price per dyno per month listed for each dyno type is the maximum you’re charged if you run the dyno 24 hours a day, 7 days a week since your last billing cycle. Eco dynos are not prorated and are a flat-rate price for up to 1,000 hours of usage across apps.",
+      "~$0.005/hour",
+      "512 MB RAM",
+      "~$0.01 per hour",
+      "512 MB RAM",
+      "~$0.03 to $0.06/hour",
+      "(max of $25 to $50/month) Prorated to the second",
+      "512 MB or 1 GB RAM",
+      "~$0.34 to $2.08/hour",
+      "(max of $250 to $1500/month) Prorated to the second",
+      "2.5 GB – 126 GB RAM",
+      "~$0.035 to $3.33/hour",
+      "(max of $25 to $2400/month) Prorated to the second",
+      "1/2 GB – 126 GB RAM",
+      "~$0.17 to $2.08/hour",
+      "(max of $125 to $1500/month) Prorated to the second",
+      "1 GB – 126 GB RAM",
+      "~$0.20 to $2.50/hour",
+      "(max of $150 to $1800/month) Prorated to the second",
+      "1 GB – 126 GB RAM",
+      "The price per database per month is the maximum you’re charged if your database stays provisioned 24 hours a day, 7 days a week since your last billing cycle.",
+      "~$0.007/hour",
+      "(max of $5/month) Prorated to the second",
+      "20 Connections",
+      "~$0.012/hour",
+      "20 Connections",
+      "~$0.027/hour",
+      "40 Connections",
+      "Starts at ~$0.06 per hour",
+      "4 GB – 768 GB RAM",
+      "64 GB – 4 TB Storage",
+      "120 – 500 Connections",
+      "Starts at ~$0.27 per hour",
+      "4 GB – 768 GB RAM",
+      "64 GB – 4 TB Storage",
+      "120 – 500 Connections",
+      "~$0.004 per hour",
+      "20 connections"
+    ],
+    "totals": {
+      "removed": 425,
+      "added": 1856,
+      "materialRemoved": 75,
+      "materialAdded": 456
+    }
+  },
+  {
+    "id": "heroku-com-pricing-20250903012335",
+    "url": "https://www.heroku.com/pricing",
+    "ts": "20250903012335",
+    "date": "2025-09-03",
+    "source": "wayback",
+    "prevTs": "20250811014857",
+    "kind": "price",
+    "score": 32,
+    "counts": {
+      "price": 10,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Heroku: 10 prices, 1 limit changed (added “$0.80”)",
+    "pairs": [],
+    "added": [
+      "$0.80",
+      "gpt-oss-120b",
+      "$0.15",
+      "$0.60",
+      "gpt-oss-120b docs →",
+      "$0.30",
+      "$0.40",
+      "$0.30",
+      "$0.40",
+      "$1.60",
+      "$0.80",
+      "$1.60"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 22,
+      "added": 62,
+      "materialRemoved": 5,
+      "materialAdded": 17
+    }
+  },
+  {
+    "id": "heroku-com-pricing-20251204102830",
+    "url": "https://www.heroku.com/pricing",
+    "ts": "20251204102830",
+    "date": "2025-12-04",
+    "source": "wayback",
+    "prevTs": "20250903012335",
+    "kind": "price",
+    "score": 68,
+    "counts": {
+      "price": 22,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Heroku: 22 prices, 1 limit changed (removed “$0.30”; added “$1.10”)",
+    "pairs": [],
+    "added": [
+      "$1.10",
+      "$5.50",
+      "$1.10",
+      "$5.50",
+      "$3.30",
+      "$16.50",
+      "$3.30",
+      "$16.50",
+      "GPT-OSS-120B",
+      "$0.15",
+      "$0.60",
+      "GPT-OSS-120B docs →",
+      "$0.06",
+      "$0.24",
+      "$0.06",
+      "$0.24",
+      "$3.20",
+      "$3.20"
+    ],
+    "removed": [
+      "$0.30",
+      "$0.40",
+      "$0.30",
+      "$0.40",
+      "$1.60",
+      "$1.60"
+    ],
+    "totals": {
+      "removed": 24,
+      "added": 64,
+      "materialRemoved": 19,
+      "materialAdded": 31
+    }
+  },
+  {
+    "id": "heroku-com-pricing-20260117190714",
+    "url": "https://www.heroku.com/pricing",
+    "ts": "20260117190714",
+    "date": "2026-01-17",
+    "source": "wayback",
+    "prevTs": "20251204102830",
+    "kind": "price",
+    "score": 62,
+    "counts": {
+      "price": 19,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Heroku: 19 prices, 3 limits changed (added “$5.00”)",
+    "pairs": [],
+    "added": [
+      "$5.00",
+      "$25.00",
+      "$5.00",
+      "$25.00",
+      "$0.60",
+      "$2.50",
+      "$0.30",
+      "$1.20",
+      "$0.33",
+      "$2.75",
+      "qwen3-235b",
+      "$0.22",
+      "$0.88",
+      "Qwen3 235B docs →",
+      "qwen3-coder-480b",
+      "$0.45",
+      "$1.80",
+      "Qwen3 Coder 480B docs →",
+      "Price / 1,000 Queries",
+      "$1.00",
+      "$1.00",
+      "$2.00",
+      "$2.00",
+      "$0.14"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 17,
+      "added": 117,
+      "materialRemoved": 2,
+      "materialAdded": 26
+    }
+  },
+  {
+    "id": "heroku-com-pricing-20260302071012",
+    "url": "https://www.heroku.com/pricing",
+    "ts": "20260302071012",
+    "date": "2026-03-02",
+    "source": "wayback",
+    "prevTs": "20260117190714",
+    "kind": "price",
+    "score": 95,
+    "counts": {
+      "price": 31,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Heroku: 31 prices, 1 limit changed (removed “$0.80”; added “$27.50”)",
+    "pairs": [],
+    "added": [
+      "$27.50",
+      "$0.62",
+      "$1.85",
+      "$2.20",
+      "$0.07",
+      "$0.40",
+      "$0.60",
+      "$0.30",
+      "$1.20",
+      "$0.12"
+    ],
+    "removed": [
+      "$0.80",
+      "$4.00",
+      "$1.10",
+      "$5.00",
+      "$25.00",
+      "$15.00",
+      "$3.00",
+      "$15.00",
+      "$3.00",
+      "$15.00",
+      "$3.00",
+      "$15.00",
+      "gpt-oss-120b",
+      "$0.15",
+      "GPT-OSS-120B docs →",
+      "$0.06",
+      "$0.24",
+      "$0.80",
+      "$3.20",
+      "$1.00",
+      "$2.00",
+      "$0.10",
+      "$0.14"
+    ],
+    "totals": {
+      "removed": 117,
+      "added": 64,
+      "materialRemoved": 25,
+      "materialAdded": 12
+    }
+  },
+  {
+    "id": "heroku-com-pricing-20260401101514",
+    "url": "https://www.heroku.com/pricing",
+    "ts": "20260401101514",
+    "date": "2026-04-01",
+    "source": "wayback",
+    "prevTs": "20260302071012",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Heroku: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "heroku-com-pricing-20260513073236",
+    "url": "https://www.heroku.com/pricing",
+    "ts": "20260513073236",
+    "date": "2026-05-13",
+    "source": "wayback",
+    "prevTs": "20260401101514",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Heroku: 3 prices changed (added “$5.50”)",
+    "pairs": [],
+    "added": [
+      "$5.50",
+      "$27.50",
+      "$0.04"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 13,
+      "added": 28,
+      "materialRemoved": 0,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "heroku-com-pricing-20260601120237",
+    "url": "https://www.heroku.com/pricing",
+    "ts": "20260601120237",
+    "date": "2026-06-01",
+    "source": "wayback",
+    "prevTs": "20260513073236",
+    "kind": "price",
+    "score": 160,
+    "counts": {
+      "price": 35,
+      "limit": 28,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Heroku: 35 prices, 28 limits changed (added “$150”)",
+    "pairs": [],
+    "added": [
+      "$150",
+      "$180",
+      "$210",
+      "4 GB",
+      "2 vCPU",
+      "4 GB memory",
+      "400 connections",
+      "First 100GB-mo storage is included for every cluster)",
+      "$300",
+      "$360",
+      "$420",
+      "8 GB",
+      "2 vCPU",
+      "8 GB memory",
+      "800 connections",
+      "First 100GB-mo storage is included for every cluster)",
+      "$500",
+      "$600",
+      "$700",
+      "16 GB",
+      "2 vCPU",
+      "16 GB memory",
+      "1,600 connections",
+      "First 100GB-mo storage is included for every cluster)",
+      "$900",
+      "$1,080",
+      "$1,260",
+      "32 GB",
+      "4 vCPU",
+      "32 GB memory",
+      "3,200 connections",
+      "First 100GB-mo storage is included for every cluster)",
+      "$1,600",
+      "$1,920",
+      "$2,240",
+      "64 GB",
+      "8 vCPU",
+      "64 GB memory",
+      "5,000 connections",
+      "First 100GB-mo storage is included for every cluster)"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 11,
+      "added": 226,
+      "materialRemoved": 0,
+      "materialAdded": 90
+    }
+  },
+  {
+    "id": "heroku-com-pricing-20260709235849",
+    "url": "https://www.heroku.com/pricing",
+    "ts": "20260709235849",
+    "date": "2026-07-09",
+    "source": "wayback",
+    "prevTs": "20260601120237",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Heroku: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "heroku-com-pricing-20260902202107",
+    "url": "https://www.heroku.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260709235849",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Heroku: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 10,
+      "added": 10,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    },
+    "transition": true
+  }
+]

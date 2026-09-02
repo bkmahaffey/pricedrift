@@ -1,0 +1,86 @@
+[
+  {
+    "id": "pusher-com-channels-pricing-20230922021516",
+    "url": "https://pusher.com/channels/pricing/",
+    "ts": "20230922021516",
+    "date": "2023-09-22",
+    "source": "wayback",
+    "prevTs": "20230113125421",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Pusher: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 10,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "pusher-com-channels-pricing-20240806211157",
+    "url": "https://pusher.com/channels/pricing/",
+    "ts": "20240806211157",
+    "date": "2024-08-06",
+    "source": "wayback",
+    "prevTs": "20230922021516",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 2,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Pusher: 2 prices, 2 limits changed (removed “Best Effort / Target 48 hours”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Best Effort / Target 48 hours",
+      "From $500 /month",
+      "Target 1 Hours",
+      "From $500 /month",
+      "Best Effort / Target 48 hours"
+    ],
+    "totals": {
+      "removed": 55,
+      "added": 3,
+      "materialRemoved": 5,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "pusher-com-channels-pricing-20241101144828",
+    "url": "https://pusher.com/channels/pricing/",
+    "ts": "20241101144828",
+    "date": "2024-11-01",
+    "source": "wayback",
+    "prevTs": "20240806211157",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Pusher: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  }
+]

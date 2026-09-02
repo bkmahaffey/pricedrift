@@ -1,0 +1,95 @@
+[
+  {
+    "id": "uploadthing-com-pricing-20240805011833",
+    "url": "https://uploadthing.com/pricing",
+    "ts": "20240805011833",
+    "date": "2024-08-05",
+    "source": "wayback",
+    "prevTs": "20231026185629",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "UploadThing: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "uploadthing-com-pricing-20250115224458",
+    "url": "https://uploadthing.com/pricing",
+    "ts": "20250115224458",
+    "date": "2025-01-15",
+    "source": "wayback",
+    "prevTs": "20240805011833",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "UploadThing: 1 limit changed (added “7 days of audit log retention”)",
+    "pairs": [],
+    "added": [
+      "7 days of audit log retention",
+      "30 days of audit log retention"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "uploadthing-com-pricing-20260902202107",
+    "url": "https://uploadthing.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20250115224458",
+    "kind": "price",
+    "score": 14,
+    "counts": {
+      "price": 4,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "UploadThing: 4 prices, 1 limit changed (added “For those with teams or more than 2 gigs of f…”)",
+    "pairs": [],
+    "added": [
+      "Get Started for Free",
+      "For those with teams or more than 2 gigs of files. $10/mo",
+      "Usage based pricing, starting at $25/mo for 250GB of included storage",
+      "$25 /month",
+      "250GB of included storage",
+      "30 days of audit log retention",
+      "$0.08 per GB over 250GB"
+    ],
+    "removed": [
+      "Unlimited App(s)",
+      "Unlimited storage & devs"
+    ],
+    "totals": {
+      "removed": 14,
+      "added": 27,
+      "materialRemoved": 2,
+      "materialAdded": 7
+    },
+    "transition": true
+  }
+]

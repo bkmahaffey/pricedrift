@@ -1,0 +1,2086 @@
+[
+  {
+    "id": "runpod-io-pricing-20240925012453",
+    "url": "https://www.runpod.io/pricing",
+    "ts": "20240925012453",
+    "date": "2024-09-25",
+    "source": "wayback",
+    "prevTs": "20240727085500",
+    "kind": "price",
+    "score": 69,
+    "counts": {
+      "price": 17,
+      "limit": 9,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "RunPod: 17 prices, 9 limits changed (176GB → 188GB; $1.94 → $1.89)",
+    "pairs": [
+      {
+        "before": "176 GB RAM",
+        "after": "188 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "176GB",
+            "after": "188GB"
+          }
+        ]
+      },
+      {
+        "before": "Starting from $ 1.94 /hr",
+        "after": "Starting from $ 1.89 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.94",
+            "after": "$1.89"
+          }
+        ]
+      },
+      {
+        "before": "Starting from $ 0.35 /hr",
+        "after": "Starting from $ 0.39 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.35",
+            "after": "$0.39"
+          }
+        ]
+      },
+      {
+        "before": "Starting from $ 0.89 /hr",
+        "after": "Starting from $ 0.79 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.89",
+            "after": "$0.79"
+          }
+        ]
+      },
+      {
+        "before": "8 vCPUs",
+        "after": "4 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8",
+            "after": "4"
+          }
+        ]
+      },
+      {
+        "before": "6 vCPUs",
+        "after": "7 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "6",
+            "after": "7"
+          }
+        ]
+      },
+      {
+        "before": "54 GB RAM",
+        "after": "29 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "54GB",
+            "after": "29GB"
+          }
+        ]
+      },
+      {
+        "before": "12 vCPUs",
+        "after": "4 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "12",
+            "after": "4"
+          }
+        ]
+      },
+      {
+        "before": "17 GB RAM",
+        "after": "20 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "17GB",
+            "after": "20GB"
+          }
+        ]
+      },
+      {
+        "before": "30 GB RAM",
+        "after": "23 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "30GB",
+            "after": "23GB"
+          }
+        ]
+      },
+      {
+        "before": "7 vCPUs",
+        "after": "6 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "7",
+            "after": "6"
+          }
+        ]
+      },
+      {
+        "before": "26 GB RAM",
+        "after": "23 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "26GB",
+            "after": "23GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 2.89 /hr",
+      "$ 3.49 /hr",
+      "$ 1.64 /hr",
+      "$ 1.89 /hr",
+      "$ 0.39 /hr",
+      "$ 1.03 /hr",
+      "$ 0.79 /hr"
+    ],
+    "removed": [
+      "$ 3.29 /hr",
+      "$ 3.99 /hr",
+      "$ 1.69 /hr",
+      "$ 1.94 /hr",
+      "$ 0.35 /hr",
+      "$ 1.19 /hr",
+      "$ 0.89 /hr"
+    ],
+    "totals": {
+      "removed": 20,
+      "added": 21,
+      "materialRemoved": 19,
+      "materialAdded": 19
+    }
+  },
+  {
+    "id": "runpod-io-pricing-20241106084030",
+    "url": "https://www.runpod.io/pricing",
+    "ts": "20241106084030",
+    "date": "2024-11-06",
+    "source": "wayback",
+    "prevTs": "20240925012453",
+    "kind": "price",
+    "score": 93,
+    "counts": {
+      "price": 19,
+      "limit": 18,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "RunPod: 19 prices, 18 limits changed (192GB → 80GB; 16 → 32)",
+    "pairs": [
+      {
+        "before": "192GB VRAM",
+        "after": "80GB+ VRAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "192GB",
+            "after": "80GB"
+          }
+        ]
+      },
+      {
+        "before": "16 vCPUs",
+        "after": "32 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "16",
+            "after": "32"
+          }
+        ]
+      },
+      {
+        "before": "16 vCPUs",
+        "after": "24 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "16",
+            "after": "24"
+          }
+        ]
+      },
+      {
+        "before": "250 GB RAM",
+        "after": "125 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "250GB",
+            "after": "125GB"
+          }
+        ]
+      },
+      {
+        "before": "Starting from $ 0.79 /hr",
+        "after": "Starting from $ 0.74 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.79",
+            "after": "$0.74"
+          }
+        ]
+      },
+      {
+        "before": "24 GB RAM",
+        "after": "26 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "24GB",
+            "after": "26GB"
+          }
+        ]
+      },
+      {
+        "before": "7 vCPUs",
+        "after": "4 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "7",
+            "after": "4"
+          }
+        ]
+      },
+      {
+        "before": "31 GB RAM",
+        "after": "47 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "31GB",
+            "after": "47GB"
+          }
+        ]
+      },
+      {
+        "before": "4 vCPUs",
+        "after": "9 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4",
+            "after": "9"
+          }
+        ]
+      },
+      {
+        "before": "20 GB RAM",
+        "after": "17 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "20GB",
+            "after": "17GB"
+          }
+        ]
+      },
+      {
+        "before": "23 GB RAM",
+        "after": "15 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "23GB",
+            "after": "15GB"
+          }
+        ]
+      },
+      {
+        "before": "6 vCPUs",
+        "after": "8 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "6",
+            "after": "8"
+          }
+        ]
+      },
+      {
+        "before": "Starting from $ 0.00 /hr",
+        "after": "Starting from $ 2.79 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.00",
+            "after": "$2.79"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "94 GB VRAM",
+      "180 GB RAM",
+      "16 vCPUs",
+      "$ 2.79 /hr",
+      "$ 2.79 /hr",
+      "143 GB VRAM",
+      "$ 3.49 /hr",
+      "$ 2.69 /hr",
+      "$ 2.99 /hr",
+      "$ 0.99 /hr",
+      "$ 0.74 /hr",
+      "Starting from $ 0.43 /hr",
+      "24 GB VRAM",
+      "50 GB RAM",
+      "12 vCPUs",
+      "$ 0.43 /hr",
+      "16 GB VRAM",
+      "39 GB RAM",
+      "$ 0.19 /hr",
+      "Starting from $ 0.28 /hr",
+      "16 GB VRAM",
+      "31 GB RAM",
+      "6 vCPUs",
+      "$ 0.28 /hr",
+      "Starting from $ 0.00 /hr"
+    ],
+    "removed": [
+      "$ 2.89 /hr",
+      "$ 1.03 /hr",
+      "$ 0.79 /hr",
+      "8 GB VRAM",
+      "23 GB RAM",
+      "$ 0.13 /hr"
+    ],
+    "totals": {
+      "removed": 29,
+      "added": 57,
+      "materialRemoved": 22,
+      "materialAdded": 41
+    }
+  },
+  {
+    "id": "runpod-io-pricing-20250105052136",
+    "url": "https://www.runpod.io/pricing",
+    "ts": "20250105052136",
+    "date": "2025-01-05",
+    "source": "wayback",
+    "prevTs": "20241106084030",
+    "kind": "price",
+    "score": 84,
+    "counts": {
+      "price": 18,
+      "limit": 15,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "RunPod: 18 prices, 15 limits changed ($2.79 → $2.59; 180GB → 94GB)",
+    "pairs": [
+      {
+        "before": "Starting from $ 2.79 /hr",
+        "after": "Starting from $ 2.59 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.79",
+            "after": "$2.59"
+          }
+        ]
+      },
+      {
+        "before": "180 GB RAM",
+        "after": "94 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "180GB",
+            "after": "94GB"
+          }
+        ]
+      },
+      {
+        "before": "Starting from $ 3.49 /hr",
+        "after": "Starting from $ 2.99 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.49",
+            "after": "$2.99"
+          }
+        ]
+      },
+      {
+        "before": "Starting from $ 2.69 /hr",
+        "after": "Starting from $ 2.49 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.69",
+            "after": "$2.49"
+          }
+        ]
+      },
+      {
+        "before": "32 vCPUs",
+        "after": "16 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "32",
+            "after": "16"
+          }
+        ]
+      },
+      {
+        "before": "Starting from $ 2.99 /hr",
+        "after": "Starting from $ 2.69 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.99",
+            "after": "$2.69"
+          }
+        ]
+      },
+      {
+        "before": "125 GB RAM",
+        "after": "117 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "125GB",
+            "after": "117GB"
+          }
+        ]
+      },
+      {
+        "before": "24 vCPUs",
+        "after": "22 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "24",
+            "after": "22"
+          }
+        ]
+      },
+      {
+        "before": "83 GB RAM",
+        "after": "117 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "83GB",
+            "after": "117GB"
+          }
+        ]
+      },
+      {
+        "before": "125 GB RAM",
+        "after": "94 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "125GB",
+            "after": "94GB"
+          }
+        ]
+      },
+      {
+        "before": "16 vCPUs",
+        "after": "8 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "16",
+            "after": "8"
+          }
+        ]
+      },
+      {
+        "before": "Starting from $ 0.49 /hr",
+        "after": "Starting from $ 0.44 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.49",
+            "after": "$0.44"
+          }
+        ]
+      },
+      {
+        "before": "Starting from $ 0.44 /hr",
+        "after": "Starting from $ 0.34 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.44",
+            "after": "$0.34"
+          }
+        ]
+      },
+      {
+        "before": "26 GB RAM",
+        "after": "27 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "26GB",
+            "after": "27GB"
+          }
+        ]
+      },
+      {
+        "before": "4 vCPUs",
+        "after": "6 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4",
+            "after": "6"
+          }
+        ]
+      },
+      {
+        "before": "4 vCPUs",
+        "after": "5 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4",
+            "after": "5"
+          }
+        ]
+      },
+      {
+        "before": "47 GB RAM",
+        "after": "31 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "47GB",
+            "after": "31GB"
+          }
+        ]
+      },
+      {
+        "before": "9 vCPUs",
+        "after": "4 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "9",
+            "after": "4"
+          }
+        ]
+      },
+      {
+        "before": "17 GB RAM",
+        "after": "20 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "17GB",
+            "after": "20GB"
+          }
+        ]
+      },
+      {
+        "before": "39 GB RAM",
+        "after": "43 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "39GB",
+            "after": "43GB"
+          }
+        ]
+      },
+      {
+        "before": "8 vCPUs",
+        "after": "7 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8",
+            "after": "7"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 2.59 /hr",
+      "$ 2.49 /hr",
+      "$ 0.88 /hr",
+      "$ 0.36 /hr",
+      "$ 0.34 /hr",
+      "$ 0.34 /hr"
+    ],
+    "removed": [
+      "$ 2.79 /hr",
+      "$ 3.49 /hr",
+      "$ 0.49 /hr",
+      "$ 0.99 /hr",
+      "$ 0.43 /hr",
+      "$ 0.35 /hr"
+    ],
+    "totals": {
+      "removed": 30,
+      "added": 30,
+      "materialRemoved": 30,
+      "materialAdded": 30
+    }
+  },
+  {
+    "id": "runpod-io-pricing-20250203222908",
+    "url": "https://www.runpod.io/pricing",
+    "ts": "20250203222908",
+    "date": "2025-02-03",
+    "source": "wayback",
+    "prevTs": "20250105052136",
+    "kind": "price",
+    "score": 63,
+    "counts": {
+      "price": 13,
+      "limit": 12,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "RunPod: 13 prices, 12 limits changed ($2.99 → $2.49; $2.49 → $1.99)",
+    "pairs": [
+      {
+        "before": "Starting from $ 2.99 /hr",
+        "after": "Starting from $ 2.49 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.99",
+            "after": "$2.49"
+          }
+        ]
+      },
+      {
+        "before": "Starting from $ 2.49 /hr",
+        "after": "Starting from $ 1.99 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.49",
+            "after": "$1.99"
+          }
+        ]
+      },
+      {
+        "before": "16 vCPUs",
+        "after": "24 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "16",
+            "after": "24"
+          }
+        ]
+      },
+      {
+        "before": "117 GB RAM",
+        "after": "125 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "117GB",
+            "after": "125GB"
+          }
+        ]
+      },
+      {
+        "before": "22 vCPUs",
+        "after": "16 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "22",
+            "after": "16"
+          }
+        ]
+      },
+      {
+        "before": "Starting from $ 0.39 /hr",
+        "after": "Starting from $ 0.44 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.39",
+            "after": "$0.44"
+          }
+        ]
+      },
+      {
+        "before": "12 vCPUs",
+        "after": "16 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "12",
+            "after": "16"
+          }
+        ]
+      },
+      {
+        "before": "24 GB RAM",
+        "after": "25 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "24GB",
+            "after": "25GB"
+          }
+        ]
+      },
+      {
+        "before": "27 GB RAM",
+        "after": "29 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "27GB",
+            "after": "29GB"
+          }
+        ]
+      },
+      {
+        "before": "5 vCPUs",
+        "after": "8 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "5",
+            "after": "8"
+          }
+        ]
+      },
+      {
+        "before": "43 GB RAM",
+        "after": "47 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "43GB",
+            "after": "47GB"
+          }
+        ]
+      },
+      {
+        "before": "4 vCPUs",
+        "after": "6 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4",
+            "after": "6"
+          }
+        ]
+      },
+      {
+        "before": "7 vCPUs",
+        "after": "8 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "7",
+            "after": "8"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 2.39 /hr",
+      "$ 1.99 /hr",
+      "$ 0.44 /hr",
+      "$ 0.86 /hr",
+      "$ 0.77 /hr"
+    ],
+    "removed": [
+      "283 GB RAM",
+      "24 vCPUs",
+      "$ 2.99 /hr",
+      "$ 2.69 /hr",
+      "$ 0.39 /hr",
+      "$ 1.03 /hr",
+      "$ 0.88 /hr",
+      "31 GB RAM",
+      "8 vCPUs"
+    ],
+    "totals": {
+      "removed": 24,
+      "added": 24,
+      "materialRemoved": 23,
+      "materialAdded": 19
+    }
+  },
+  {
+    "id": "runpod-io-pricing-20250303172225",
+    "url": "https://www.runpod.io/pricing",
+    "ts": "20250303172225",
+    "date": "2025-03-03",
+    "source": "wayback",
+    "prevTs": "20250203222908",
+    "kind": "price",
+    "score": 31,
+    "counts": {
+      "price": 2,
+      "limit": 13,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "RunPod: 2 prices, 13 limits changed (143GB → 141GB; 24 → 16)",
+    "pairs": [
+      {
+        "before": "143 GB VRAM",
+        "after": "141 GB VRAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "143GB",
+            "after": "141GB"
+          }
+        ]
+      },
+      {
+        "before": "24 vCPUs",
+        "after": "16 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "24",
+            "after": "16"
+          }
+        ]
+      },
+      {
+        "before": "50 GB RAM",
+        "after": "48 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50GB",
+            "after": "48GB"
+          }
+        ]
+      },
+      {
+        "before": "62 GB RAM",
+        "after": "78 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "62GB",
+            "after": "78GB"
+          }
+        ]
+      },
+      {
+        "before": "14 vCPUs",
+        "after": "10 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "14",
+            "after": "10"
+          }
+        ]
+      },
+      {
+        "before": "4 vCPUs",
+        "after": "8 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4",
+            "after": "8"
+          }
+        ]
+      },
+      {
+        "before": "8 vCPUs",
+        "after": "4 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8",
+            "after": "4"
+          }
+        ]
+      },
+      {
+        "before": "47 GB RAM",
+        "after": "43 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "47GB",
+            "after": "43GB"
+          }
+        ]
+      },
+      {
+        "before": "6 vCPUs",
+        "after": "4 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "6",
+            "after": "4"
+          }
+        ]
+      },
+      {
+        "before": "15 GB RAM",
+        "after": "30 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "15GB",
+            "after": "30GB"
+          }
+        ]
+      },
+      {
+        "before": "8 vCPUs",
+        "after": "7 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8",
+            "after": "7"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "283 GB RAM",
+      "24 vCPUs",
+      "We're committed to enabling the next generation of AI products and research. A select few expectional companies can recieve over 1000 compute hours to accelerate groundbreaking work."
+    ],
+    "removed": [
+      "$ 0.47 /hr",
+      "Get up to $25K in free compute credits with Runpod. These can be used towards on-demand GPUs and Serverless endpoints."
+    ],
+    "totals": {
+      "removed": 19,
+      "added": 18,
+      "materialRemoved": 13,
+      "materialAdded": 14
+    }
+  },
+  {
+    "id": "runpod-io-pricing-20250405144116",
+    "url": "https://www.runpod.io/pricing",
+    "ts": "20250405144116",
+    "date": "2025-04-05",
+    "source": "wayback",
+    "prevTs": "20250303172225",
+    "kind": "price",
+    "score": 72,
+    "counts": {
+      "price": 16,
+      "limit": 12,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "RunPod: 16 prices, 12 limits changed ($3.99 → $3.59; 16 → 24)",
+    "pairs": [
+      {
+        "before": "Starting from $ 3.99 /hr",
+        "after": "Starting from $ 3.59 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.99",
+            "after": "$3.59"
+          }
+        ]
+      },
+      {
+        "before": "16 vCPUs",
+        "after": "24 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "16",
+            "after": "24"
+          }
+        ]
+      },
+      {
+        "before": "16 vCPUs",
+        "after": "12 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "16",
+            "after": "12"
+          }
+        ]
+      },
+      {
+        "before": "Starting from $ 0.44 /hr",
+        "after": "Starting from $ 0.33 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.44",
+            "after": "$0.33"
+          }
+        ]
+      },
+      {
+        "before": "78 GB RAM",
+        "after": "62 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "78GB",
+            "after": "62GB"
+          }
+        ]
+      },
+      {
+        "before": "Starting from $ 0.22 /hr",
+        "after": "Starting from $ 0.16 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.22",
+            "after": "$0.16"
+          }
+        ]
+      },
+      {
+        "before": "8 vCPUs",
+        "after": "3 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8",
+            "after": "3"
+          }
+        ]
+      },
+      {
+        "before": "6 vCPUs",
+        "after": "8 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "6",
+            "after": "8"
+          }
+        ]
+      },
+      {
+        "before": "29 GB RAM",
+        "after": "30 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "29GB",
+            "after": "30GB"
+          }
+        ]
+      },
+      {
+        "before": "4 vCPUs",
+        "after": "8 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4",
+            "after": "8"
+          }
+        ]
+      },
+      {
+        "before": "20 GB RAM",
+        "after": "31 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "20GB",
+            "after": "31GB"
+          }
+        ]
+      },
+      {
+        "before": "30 GB RAM",
+        "after": "31 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "30GB",
+            "after": "31GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 3.59 /hr",
+      "$ 0.59 /hr",
+      "$ 0.33 /hr",
+      "$ 0.29 /hr",
+      "$ 0.16 /hr",
+      "31 GB RAM",
+      "8 vCPUs",
+      "141 GB",
+      "$ 0.00116",
+      "$ 0.00093"
+    ],
+    "removed": [
+      "Starting from $ 2.49 /hr",
+      "192 GB VRAM",
+      "283 GB RAM",
+      "24 vCPUs",
+      "$ 2.49 /hr",
+      "$ 0.76 /hr",
+      "$ 0.44 /hr",
+      "$ 0.36 /hr",
+      "$ 0.22 /hr"
+    ],
+    "totals": {
+      "removed": 29,
+      "added": 32,
+      "materialRemoved": 23,
+      "materialAdded": 24
+    }
+  },
+  {
+    "id": "runpod-io-pricing-20250502180710",
+    "url": "https://www.runpod.io/pricing",
+    "ts": "20250502180710",
+    "date": "2025-05-02",
+    "source": "wayback",
+    "prevTs": "20250405144116",
+    "kind": "price",
+    "score": 69,
+    "counts": {
+      "price": 14,
+      "limit": 14,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "RunPod: 14 prices, 14 limits changed ($0.44 → $0.4; $0.99 → $0.69)",
+    "pairs": [
+      {
+        "before": "Starting from $ 0.44 /hr",
+        "after": "Starting from $ 0.4 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.44",
+            "after": "$0.4"
+          }
+        ]
+      },
+      {
+        "before": "Starting from $ 0.99 /hr",
+        "after": "Starting from $ 0.69 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.99",
+            "after": "$0.69"
+          }
+        ]
+      },
+      {
+        "before": "8 vCPUs",
+        "after": "9 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8",
+            "after": "9"
+          }
+        ]
+      },
+      {
+        "before": "62 GB RAM",
+        "after": "94 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "62GB",
+            "after": "94GB"
+          }
+        ]
+      },
+      {
+        "before": "10 vCPUs",
+        "after": "14 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10",
+            "after": "14"
+          }
+        ]
+      },
+      {
+        "before": "24GB VRAM AND UNDER",
+        "after": "32GB VRAM AND UNDER",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "24GB",
+            "after": "32GB"
+          }
+        ]
+      },
+      {
+        "before": "8 vCPUs",
+        "after": "6 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "8",
+            "after": "6"
+          }
+        ]
+      },
+      {
+        "before": "31 GB RAM",
+        "after": "47 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "31GB",
+            "after": "47GB"
+          }
+        ]
+      },
+      {
+        "before": "4 vCPUs",
+        "after": "9 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4",
+            "after": "9"
+          }
+        ]
+      },
+      {
+        "before": "31 GB RAM",
+        "after": "20 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "31GB",
+            "after": "20GB"
+          }
+        ]
+      },
+      {
+        "before": "4 vCPUs",
+        "after": "6 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4",
+            "after": "6"
+          }
+        ]
+      },
+      {
+        "before": "43 GB RAM",
+        "after": "47 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "43GB",
+            "after": "47GB"
+          }
+        ]
+      },
+      {
+        "before": "4 vCPUs",
+        "after": "6 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4",
+            "after": "6"
+          }
+        ]
+      },
+      {
+        "before": "31 GB RAM",
+        "after": "30 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "31GB",
+            "after": "30GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$ 0.40 /hr",
+      "$ 0.69 /hr",
+      "$ 0.49 /hr",
+      "Starting from $ 0.69 /hr",
+      "32 GB VRAM",
+      "62 GB RAM",
+      "14 vCPUs",
+      "$ 0.89 /hr",
+      "$ 0.69 /hr",
+      "$ 0.26 /hr",
+      "$ 0.34 /hr"
+    ],
+    "removed": [
+      "$ 0.44 /hr",
+      "$ 0.59 /hr",
+      "$ 0.38 /hr",
+      "$ 0.32 /hr"
+    ],
+    "totals": {
+      "removed": 24,
+      "added": 36,
+      "materialRemoved": 19,
+      "materialAdded": 26
+    }
+  },
+  {
+    "id": "runpod-io-pricing-20250609041325",
+    "url": "https://www.runpod.io/pricing",
+    "ts": "20250609041325",
+    "date": "2025-06-09",
+    "source": "wayback",
+    "prevTs": "20250502180710",
+    "kind": "price",
+    "score": 70,
+    "counts": {
+      "price": 13,
+      "limit": 16,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "RunPod: 13 prices, 16 limits changed (24 → 16; $1.89 → $1.39)",
+    "pairs": [
+      {
+        "before": "24 vCPUs",
+        "after": "16 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "24",
+            "after": "16"
+          }
+        ]
+      },
+      {
+        "before": "Starting from $ 1.89 /hr",
+        "after": "Starting from $ 1.39 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.89",
+            "after": "$1.39"
+          }
+        ]
+      },
+      {
+        "before": "48 GB RAM",
+        "after": "50 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "48GB",
+            "after": "50GB"
+          }
+        ]
+      },
+      {
+        "before": "9 vCPUs",
+        "after": "8 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "9",
+            "after": "8"
+          }
+        ]
+      },
+      {
+        "before": "94 GB RAM",
+        "after": "62 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "94GB",
+            "after": "62GB"
+          }
+        ]
+      },
+      {
+        "before": "14 vCPUs",
+        "after": "10 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "14",
+            "after": "10"
+          }
+        ]
+      },
+      {
+        "before": "62 GB RAM",
+        "after": "61 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "62GB",
+            "after": "61GB"
+          }
+        ]
+      },
+      {
+        "before": "25 GB RAM",
+        "after": "29 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "25GB",
+            "after": "29GB"
+          }
+        ]
+      },
+      {
+        "before": "3 vCPUs",
+        "after": "6 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3",
+            "after": "6"
+          }
+        ]
+      },
+      {
+        "before": "30 GB RAM",
+        "after": "31 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "30GB",
+            "after": "31GB"
+          }
+        ]
+      },
+      {
+        "before": "47 GB RAM",
+        "after": "50 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "47GB",
+            "after": "50GB"
+          }
+        ]
+      },
+      {
+        "before": "20 GB RAM",
+        "after": "31 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "20GB",
+            "after": "31GB"
+          }
+        ]
+      },
+      {
+        "before": "6 vCPUs",
+        "after": "4 vCPUs",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "6",
+            "after": "4"
+          }
+        ]
+      },
+      {
+        "before": "Starting from $ 0.28 /hr",
+        "after": "Starting from $ 0.23 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.28",
+            "after": "$0.23"
+          }
+        ]
+      },
+      {
+        "before": "30 GB RAM",
+        "after": "14 GB RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "30GB",
+            "after": "14GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Starting from $ 6.39 /hr",
+      "180 GB VRAM",
+      "283 GB RAM",
+      "28 vCPUs",
+      "$ 6.39 /hr",
+      "$ 1.39 /hr",
+      "$ 0.25 /hr",
+      "$ 0.26 /hr",
+      "$ 0.24 /hr",
+      "$ 0.23 /hr"
+    ],
+    "removed": [
+      "31 GB RAM",
+      "8 vCPUs",
+      "$ 0.34 /hr",
+      "$ 0.34 /hr",
+      "$ 0.29 /hr",
+      "$ 0.28 /hr"
+    ],
+    "totals": {
+      "removed": 21,
+      "added": 30,
+      "materialRemoved": 21,
+      "materialAdded": 25
+    }
+  },
+  {
+    "id": "runpod-io-pricing-20250701222317",
+    "url": "https://www.runpod.io/pricing",
+    "ts": "20250701222317",
+    "date": "2025-07-01",
+    "source": "wayback",
+    "prevTs": "20250609041325",
+    "kind": "price",
+    "score": 343,
+    "counts": {
+      "price": 90,
+      "limit": 37,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "RunPod: 90 prices, 37 limits changed (removed “$0.05/GB/month Network Storage”; added “Get up to $25K in free compute credits to use…”)",
+    "pairs": [],
+    "added": [
+      "Get up to $25K in free compute credits to use on demand GPUs and serverless endpoints."
+    ],
+    "removed": [
+      "$0.05/GB/month Network Storage",
+      "Starting from $ 6.39 /hr",
+      "180 GB VRAM",
+      "283 GB RAM",
+      "28 vCPUs",
+      "$ 6.39 /hr",
+      "Starting from $ 2.59 /hr",
+      "94 GB VRAM",
+      "94 GB RAM",
+      "16 vCPUs",
+      "$ 2.79 /hr",
+      "$ 2.59 /hr",
+      "Starting from $ 3.59 /hr",
+      "141 GB VRAM",
+      "$ 3.99 /hr",
+      "$ 3.59 /hr",
+      "Starting from $ 1.99 /hr",
+      "188 GB RAM",
+      "16 vCPUs",
+      "$ 2.39 /hr",
+      "$ 1.99 /hr",
+      "Starting from $ 2.69 /hr",
+      "125 GB RAM",
+      "16 vCPUs",
+      "$ 2.99 /hr",
+      "$ 2.69 /hr",
+      "Starting from $ 1.19 /hr",
+      "80 GB VRAM",
+      "117 GB RAM",
+      "8 vCPUs",
+      "$ 1.64 /hr",
+      "$ 1.19 /hr",
+      "Starting from $ 1.39 /hr",
+      "80 GB VRAM",
+      "125 GB RAM",
+      "16 vCPUs",
+      "$ 1.89 /hr",
+      "$ 1.39 /hr",
+      "Starting from $ 0.4 /hr",
+      "50 GB RAM"
+    ],
+    "totals": {
+      "removed": 325,
+      "added": 133,
+      "materialRemoved": 173,
+      "materialAdded": 12
+    }
+  },
+  {
+    "id": "runpod-io-pricing-20250802164952",
+    "url": "https://www.runpod.io/pricing",
+    "ts": "20250802164952",
+    "date": "2025-08-02",
+    "source": "wayback",
+    "prevTs": "20250701222317",
+    "kind": "price",
+    "score": 26,
+    "counts": {
+      "price": 7,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "RunPod: 7 prices, 3 limits changed (removed “Get up to $25K in free compute credits to use…”; added “180GB”)",
+    "pairs": [],
+    "added": [
+      "180GB",
+      "141GB",
+      "32GB",
+      "$0.10/GB/mo",
+      "$0.20/GB/mo",
+      "$0.10/GB/mo",
+      "Under 1TB",
+      "Over 1TB",
+      "$0.07/GB/mo",
+      "$0.05/GB/mo",
+      "Sign up today and you’ll get a random credit bonus between $5 and $500 when you spend your first $10 on Runpod."
+    ],
+    "removed": [
+      "Get up to $25K in free compute credits to use on demand GPUs and serverless endpoints."
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 61,
+      "materialRemoved": 1,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "runpod-io-pricing-20250909131230",
+    "url": "https://www.runpod.io/pricing",
+    "ts": "20250909131230",
+    "date": "2025-09-09",
+    "source": "wayback",
+    "prevTs": "20250802164952",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "RunPod: 1 price changed (removed “Choose pay-per-second GPUs from $0.00011 or a…”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Choose pay-per-second GPUs from $0.00011 or a predictable monthly subscription."
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 0,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "runpod-io-pricing-20260208082330",
+    "url": "https://www.runpod.io/pricing",
+    "ts": "20260208082330",
+    "date": "2026-02-08",
+    "source": "wayback",
+    "prevTs": "20250909131230",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "RunPod: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Launch multi-GPU clusters in minutes with no commitments—scale up to 64 GPUs, attach shared storage, and pay only for what you use."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 37,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "runpod-io-pricing-20260313111731",
+    "url": "https://www.runpod.io/pricing",
+    "ts": "20260313111731",
+    "date": "2026-03-13",
+    "source": "wayback",
+    "prevTs": "20260208082330",
+    "kind": "price",
+    "score": 110,
+    "counts": {
+      "price": 36,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "RunPod: 36 prices, 1 limit changed (added “Flexible and persisitent storage options star…”)",
+    "pairs": [],
+    "added": [
+      "Flexible and persisitent storage options starting at $0.05/GB/mo with standard and high-performance tiers.",
+      "$0.10/GB/mo",
+      "Running - $0.10/GB/mo",
+      "Idle - $0.20/GB/mo",
+      "Under 1TB - $0.07/GB/mo",
+      "Over 1TB - $0.05/GB/mo",
+      "$0.14/GB/mo",
+      "$0.05 per 1000 characters",
+      "$0.00 per 1000 characters.",
+      "$0.05 per 1000 characters",
+      "$0.05 per 1000 characters",
+      "$0.0270 per request",
+      "$0.0270 per request",
+      "$0.0380 per request",
+      "$0.14 per request",
+      "$0.0050 per request",
+      "$0.01 per request",
+      "$0.03 per request",
+      "$0.02 per request",
+      "$0.025 per request",
+      "$0.0050 per request.",
+      "deep-cogito / Deep Cogito v2 Llama 70B",
+      "$0.00001 per 1m tokens",
+      "qwen / Qwen3 32B AWQ",
+      "$10.00 per 1m tokens",
+      "$0.05 per 1000 characters",
+      "$0.05 per 1000 characters",
+      "$1.00 per 1m tokens",
+      "5s: $0.12(480p) per request",
+      "5s: $0.30 per request",
+      "5s: $0.30 per request",
+      "$0.30 per request",
+      "$0.30 per request",
+      "1-3s $0.21 per request",
+      "5s: $0.50 per request",
+      "$0.024 per second",
+      "$0.112 per second",
+      "5s: $0.50 per request"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 103,
+      "materialRemoved": 0,
+      "materialAdded": 38
+    }
+  },
+  {
+    "id": "runpod-io-pricing-20260509224042",
+    "url": "https://www.runpod.io/pricing",
+    "ts": "20260509224042",
+    "date": "2026-05-09",
+    "source": "wayback",
+    "prevTs": "20260313111731",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "RunPod: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "96GB"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 12,
+      "added": 8,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "runpod-io-pricing-20260611044548",
+    "url": "https://www.runpod.io/pricing",
+    "ts": "20260611044548",
+    "date": "2026-06-11",
+    "source": "wayback",
+    "prevTs": "20260509224042",
+    "kind": "price",
+    "score": 155,
+    "counts": {
+      "price": 37,
+      "limit": 22,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "RunPod: 37 prices, 22 limits changed (removed “16GB”; added “276 GB RAM”)",
+    "pairs": [],
+    "added": [
+      "276 GB RAM",
+      "$ 4.39 /hr",
+      "283 GB RAM",
+      "$ 5.89 /hr",
+      "188 GB RAM",
+      "$ 2.09 /hr",
+      "94 GB VRAM",
+      "94 GB RAM",
+      "$ 3.19 /hr",
+      "188 GB RAM",
+      "$ 2.89 /hr",
+      "125 GB RAM",
+      "$ 3.29 /hr",
+      "80 GB VRAM",
+      "117 GB RAM",
+      "$ 1.39 /hr",
+      "80 GB VRAM",
+      "125 GB RAM",
+      "$ 1.49 /hr",
+      "94 GB RAM",
+      "$ 0.86 /hr",
+      "167 GB RAM",
+      "$ 0.77 /hr",
+      "48 GB VRAM",
+      "50 GB RAM",
+      "$ 0.44 /hr",
+      "48 GB VRAM",
+      "94 GB RAM",
+      "$ 0.99 /hr",
+      "48 GB VRAM",
+      "50 GB RAM",
+      "$ 0.49 /hr",
+      "35 GB RAM",
+      "$ 0.99 /hr",
+      "50 GB RAM",
+      "$ 0.39 /hr",
+      "125 GB RAM",
+      "$ 0.46 /hr",
+      "24 GB VRAM",
+      "41 GB RAM"
+    ],
+    "removed": [
+      "16GB",
+      "$0.10/GB/mo",
+      "$0.20/GB/mo",
+      "$0.10/GB/mo",
+      "Under 1TB",
+      "Over 1TB",
+      "$0.07/GB/mo",
+      "$0.05/GB/mo",
+      "Sign up today and you’ll get a random credit bonus between $5 and $500 when you spend your first $10 on Runpod."
+    ],
+    "totals": {
+      "removed": 149,
+      "added": 220,
+      "materialRemoved": 20,
+      "materialAdded": 83
+    }
+  },
+  {
+    "id": "runpod-io-pricing-20260702131609",
+    "url": "https://www.runpod.io/pricing",
+    "ts": "20260702131609",
+    "date": "2026-07-02",
+    "source": "wayback",
+    "prevTs": "20260611044548",
+    "kind": "price",
+    "score": 11,
+    "counts": {
+      "price": 3,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "RunPod: 3 prices, 1 limit changed (removed “$ 0.86 /hr”; added “288 GB HBM3e”)",
+    "pairs": [],
+    "added": [
+      "288 GB HBM3e",
+      "251 GB RAM",
+      "$ 7.39 /hr",
+      "$ 0.82 /hr"
+    ],
+    "removed": [
+      "$ 0.86 /hr"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 8,
+      "materialRemoved": 2,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "runpod-io-pricing-20260803074336",
+    "url": "https://www.runpod.io/pricing",
+    "ts": "20260803074336",
+    "date": "2026-08-03",
+    "source": "wayback",
+    "prevTs": "20260702131609",
+    "kind": "price",
+    "score": 100,
+    "counts": {
+      "price": 10,
+      "limit": 35,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "RunPod: 10 prices, 35 limits changed (removed “$ 2.09 /hr”; added “288 GB HBM3e”)",
+    "pairs": [],
+    "added": [
+      "288 GB HBM3e",
+      "251 GB RAM",
+      "32 vCPUs",
+      "141 GB VRAM",
+      "276 GB RAM",
+      "24 vCPUs",
+      "180 GB VRAM",
+      "283 GB RAM",
+      "28 vCPUs",
+      "$ 1.99 /hr",
+      "96 GB VRAM",
+      "188 GB RAM",
+      "16 vCPUs",
+      "94 GB VRAM",
+      "94 GB RAM",
+      "16 vCPUs",
+      "80 GB VRAM",
+      "188 GB RAM",
+      "16 vCPUs",
+      "$ 2.99 /hr",
+      "80 GB VRAM",
+      "125 GB RAM",
+      "20 vCPUs",
+      "80 GB VRAM",
+      "117 GB RAM",
+      "8 vCPUs",
+      "80 GB VRAM",
+      "125 GB RAM",
+      "16 vCPUs",
+      "48 GB VRAM",
+      "94 GB RAM",
+      "16 vCPUs",
+      "$ 0.84 /hr",
+      "48 GB VRAM",
+      "167 GB RAM",
+      "10 vCPUs",
+      "48 GB VRAM",
+      "50 GB RAM",
+      "9 vCPUs",
+      "48 GB VRAM"
+    ],
+    "removed": [
+      "$ 2.09 /hr",
+      "$ 3.29 /hr",
+      "$ 0.77 /hr",
+      "$ 0.49 /hr",
+      "$ 0.46 /hr",
+      "5.58 /hr",
+      "4.00 /hr",
+      "4.18 /hr",
+      "1.90 /hr"
+    ],
+    "totals": {
+      "removed": 19,
+      "added": 85,
+      "materialRemoved": 10,
+      "materialAdded": 72
+    }
+  },
+  {
+    "id": "runpod-io-pricing-20260902122713",
+    "url": "https://www.runpod.io/pricing",
+    "ts": "20260902122713",
+    "date": "2026-09-02",
+    "source": "wayback",
+    "prevTs": "20260803074336",
+    "kind": "price",
+    "score": 68,
+    "counts": {
+      "price": 18,
+      "limit": 7,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "RunPod: 18 prices, 7 limits changed (removed “$ 7.39 /hr”; added “$ 7.89 /hr”)",
+    "pairs": [],
+    "added": [
+      "$ 7.89 /hr",
+      "$ 4.59 /hr",
+      "$ 6.79 /hr",
+      "$ 2.09 /hr",
+      "$ 3.29 /hr",
+      "$ 1.59 /hr",
+      "Pro 6000 MIG 48GB",
+      "48 GB VRAM",
+      "62 GB RAM",
+      "$ 1.09 /hr",
+      "48 GB VRAM",
+      "62 GB RAM",
+      "8 vCPUs",
+      "Pro 6000 MIG 24GB",
+      "24 GB VRAM",
+      "31 GB RAM",
+      "$ 0.59 /hr",
+      "24 GB VRAM",
+      "31 GB RAM",
+      "4 vCPUs",
+      "$ 0.49 /hr",
+      "$ 0.74 /hr",
+      "4.79 /hr"
+    ],
+    "removed": [
+      "$ 7.39 /hr",
+      "$ 4.39 /hr",
+      "$ 5.89 /hr",
+      "$ 1.99 /hr",
+      "$ 2.99 /hr",
+      "$ 1.49 /hr",
+      "$ 0.39 /hr",
+      "$ 0.69 /hr",
+      "4.55 /hr"
+    ],
+    "totals": {
+      "removed": 28,
+      "added": 46,
+      "materialRemoved": 9,
+      "materialAdded": 23
+    }
+  }
+]

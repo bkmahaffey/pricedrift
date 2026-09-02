@@ -7,14 +7,14 @@
     "source": "wayback",
     "prevTs": "20230217142414",
     "kind": "price",
-    "score": 13,
+    "score": 20,
     "counts": {
-      "price": 3,
+      "price": 5,
       "limit": 3,
       "plan": 0
     },
     "material": true,
-    "headline": "Descope: 3 prices, 3 limits changed (added “Yes. You move to the Pro tier if your app has…”)",
+    "headline": "Descope: 5 prices, 3 limits changed (added “Yes. You move to the Pro tier if your app has…”)",
     "pairs": [],
     "added": [
       "Yes. You move to the Pro tier if your app has either more than 7500 users or more than 50 tenants (or more than 5 SAML tenants). Here are a couple of examples:",
@@ -38,24 +38,24 @@
     }
   },
   {
-    "id": "descope-com-pricing-20230513201622",
+    "id": "descope-com-pricing-20230623231912",
     "url": "https://www.descope.com/pricing",
-    "ts": "20230513201622",
-    "date": "2023-05-13",
+    "ts": "20230623231912",
+    "date": "2023-06-23",
     "source": "wayback",
     "prevTs": "20230315022123",
-    "kind": "copy",
-    "score": 2,
+    "kind": "price",
+    "score": 6,
     "counts": {
-      "price": 1,
+      "price": 2,
       "limit": 0,
       "plan": 0
     },
-    "material": false,
-    "headline": "Descope: pricing page text changed (no price or limit change detected)",
+    "material": true,
+    "headline": "Descope: 2 prices changed (removed “Descope has raised $53M led by Lightspeed and…”; added “Minimum $250 per month”)",
     "pairs": [],
     "added": [
-      "Early stage startup? Get the Pro Tier of Descope free of charge for one year. Learn more >",
+      "Minimum $250 per month",
       "Are you part of an early-stage startup? Apply for our Hello World Startup Plan to get Descope's Pro Tier free of charge for one year."
     ],
     "removed": [
@@ -63,39 +63,9 @@
     ],
     "totals": {
       "removed": 1,
-      "added": 5,
+      "added": 6,
       "materialRemoved": 1,
       "materialAdded": 2
-    }
-  },
-  {
-    "id": "descope-com-pricing-20230623231912",
-    "url": "https://www.descope.com/pricing",
-    "ts": "20230623231912",
-    "date": "2023-06-23",
-    "source": "wayback",
-    "prevTs": "20230513201622",
-    "kind": "copy",
-    "score": 2,
-    "counts": {
-      "price": 1,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Descope: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [
-      "Minimum $250 per month"
-    ],
-    "removed": [
-      "Early stage startup? Get the Pro Tier of Descope free of charge for one year. Learn more >"
-    ],
-    "totals": {
-      "removed": 1,
-      "added": 2,
-      "materialRemoved": 1,
-      "materialAdded": 1
     }
   },
   {
@@ -106,14 +76,14 @@
     "source": "wayback",
     "prevTs": "20230623231912",
     "kind": "price",
-    "score": 15,
+    "score": 18,
     "counts": {
-      "price": 5,
+      "price": 6,
       "limit": 0,
       "plan": 0
     },
     "material": true,
-    "headline": "Descope: 5 prices changed ($1200 → $300; $20 → $5)",
+    "headline": "Descope: 6 prices changed ($1200 → $300; $20 → $5)",
     "pairs": [
       {
         "before": "If you exceed the tenant limit on the Free Forever tier, you will be charged for each tenant. For example, if your app has 60 tenants, you will be charged $1200 per month (60 tenants x $20 per tenant per month).",
@@ -193,14 +163,14 @@
     "source": "wayback",
     "prevTs": "20230720130102",
     "kind": "price",
-    "score": 17,
+    "score": 15,
     "counts": {
       "price": 5,
-      "limit": 1,
+      "limit": 0,
       "plan": 0
     },
     "material": true,
-    "headline": "Descope: 5 prices, 1 limit changed ($0.10 → $0.05; $800 → $400)",
+    "headline": "Descope: 5 prices changed ($0.10 → $0.05; $800 → $400)",
     "pairs": [
       {
         "before": "$0.10 per user, $5 per active tenant, $50 per SAML tenant",
@@ -270,12 +240,8 @@
         ]
       }
     ],
-    "added": [
-      "If you exceed 100 SMS deliveries per month while on the Free Forever or Pro tiers, sign-up and sign-in via SMS will return an error. That said, you can avail unlimited SMS delivery on any Descope tier if you bring your own SMS connector."
-    ],
-    "removed": [
-      "If you exceed 100 SMS deliveries per month while on the Free Forever tier, sign-up and sign-in via SMS will return an error."
-    ],
+    "added": [],
+    "removed": [],
     "totals": {
       "removed": 8,
       "added": 12,
@@ -284,10 +250,10 @@
     }
   },
   {
-    "id": "descope-com-pricing-20240228171124",
+    "id": "descope-com-pricing-20240407171412",
     "url": "https://www.descope.com/pricing",
-    "ts": "20240228171124",
-    "date": "2024-02-28",
+    "ts": "20240407171412",
+    "date": "2024-04-07",
     "source": "wayback",
     "prevTs": "20230923021251",
     "kind": "copy",
@@ -303,19 +269,19 @@
     "added": [],
     "removed": [],
     "totals": {
-      "removed": 5,
-      "added": 8,
+      "removed": 7,
+      "added": 10,
       "materialRemoved": 2,
       "materialAdded": 2
     }
   },
   {
-    "id": "descope-com-pricing-20240407171412",
+    "id": "descope-com-pricing-20240615225300",
     "url": "https://www.descope.com/pricing",
-    "ts": "20240407171412",
-    "date": "2024-04-07",
+    "ts": "20240615225300",
+    "date": "2024-06-15",
     "source": "wayback",
-    "prevTs": "20240228171124",
+    "prevTs": "20240407171412",
     "kind": "copy",
     "score": 0,
     "counts": {
@@ -327,37 +293,8 @@
     "headline": "Descope: pricing page text changed (no price or limit change detected)",
     "pairs": [],
     "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 3,
-      "added": 3,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    }
-  },
-  {
-    "id": "descope-com-pricing-20240615225300",
-    "url": "https://www.descope.com/pricing",
-    "ts": "20240615225300",
-    "date": "2024-06-15",
-    "source": "wayback",
-    "prevTs": "20240407171412",
-    "kind": "limits",
-    "score": 2,
-    "counts": {
-      "price": 0,
-      "limit": 1,
-      "plan": 0
-    },
-    "material": true,
-    "headline": "Descope: 1 limit changed (removed “If you exceed 100 SMS deliveries per month wh…”; added “If you exceed 100 SMS and voice call deliveri…”)",
-    "pairs": [],
-    "added": [
-      "If you exceed 100 SMS and voice call deliveries per month while using Descope connectors, end users will not be able to sign up or sign in using text messages or voice calls."
-    ],
     "removed": [
-      "What happens if I exceed the number of SMS deliveries per month on the Free Forever tier?",
-      "If you exceed 100 SMS deliveries per month while on the Free Forever or Pro tiers, sign-up and sign-in via SMS will return an error. That said, you can avail unlimited SMS delivery on any Descope tier if you bring your own SMS connector."
+      "What happens if I exceed the number of SMS deliveries per month on the Free Forever tier?"
     ],
     "totals": {
       "removed": 7,
@@ -399,23 +336,20 @@
     "date": "2024-12-09",
     "source": "wayback",
     "prevTs": "20240806213151",
-    "kind": "price",
-    "score": 5,
+    "kind": "plans",
+    "score": 2,
     "counts": {
-      "price": 1,
+      "price": 0,
       "limit": 0,
       "plan": 1
     },
     "material": true,
-    "headline": "Descope: 1 price, 1 plan name changed (removed “Minimum $250 per month (annual commit)”; added “Starts at $250 per month”)",
+    "headline": "Descope: 1 plan name changed",
     "pairs": [],
     "added": [
-      "Free",
-      "Starts at $250 per month"
+      "Free"
     ],
-    "removed": [
-      "Minimum $250 per month (annual commit)"
-    ],
+    "removed": [],
     "totals": {
       "removed": 25,
       "added": 28,
@@ -431,14 +365,14 @@
     "source": "wayback",
     "prevTs": "20241209204203",
     "kind": "price",
-    "score": 61,
+    "score": 88,
     "counts": {
-      "price": 11,
+      "price": 20,
       "limit": 12,
       "plan": 2
     },
     "material": true,
-    "headline": "Descope: 11 prices, 12 limits, 2 plan names changed (10 → 5; 50 → 10)",
+    "headline": "Descope: 20 prices, 12 limits, 2 plan names changed (10 → 5; 50 → 10)",
     "pairs": [
       {
         "before": "If your app has 10 tenants and 8000 MAUs, you will move to the Pro tier because your app has over 7500 MAUs.",
@@ -485,7 +419,6 @@
       "$50",
       "$50",
       "$250",
-      "$250",
       "Unlimited",
       "Up to 3 connections",
       "Up to 5 connections",
@@ -506,7 +439,6 @@
     "removed": [
       "Free",
       "Monthly price: free",
-      "Starts at $250 per month",
       "$0.05 per user, $5 per active tenant, $50 per SSO tenant",
       "Unlimited users",
       "Unlimited tenants",
@@ -537,10 +469,10 @@
     }
   },
   {
-    "id": "descope-com-pricing-20250426052323",
+    "id": "descope-com-pricing-20250821205747",
     "url": "https://www.descope.com/pricing",
-    "ts": "20250426052323",
-    "date": "2025-04-26",
+    "ts": "20250821205747",
+    "date": "2025-08-21",
     "source": "wayback",
     "prevTs": "20250327205925",
     "kind": "copy",
@@ -563,58 +495,6 @@
     }
   },
   {
-    "id": "descope-com-pricing-20250622031619",
-    "url": "https://www.descope.com/pricing",
-    "ts": "20250622031619",
-    "date": "2025-06-22",
-    "source": "wayback",
-    "prevTs": "20250426052323",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Descope: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 1,
-      "added": 1,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    }
-  },
-  {
-    "id": "descope-com-pricing-20250821205747",
-    "url": "https://www.descope.com/pricing",
-    "ts": "20250821205747",
-    "date": "2025-08-21",
-    "source": "wayback",
-    "prevTs": "20250622031619",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Descope: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 1,
-      "added": 1,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    }
-  },
-  {
     "id": "descope-com-pricing-20251018080503",
     "url": "https://www.descope.com/pricing",
     "ts": "20251018080503",
@@ -622,27 +502,15 @@
     "source": "wayback",
     "prevTs": "20250821205747",
     "kind": "price",
-    "score": 10,
+    "score": 15,
     "counts": {
-      "price": 3,
-      "limit": 1,
+      "price": 5,
+      "limit": 0,
       "plan": 0
     },
     "material": true,
-    "headline": "Descope: 3 prices, 1 limit changed (25,000 → 25000)",
-    "pairs": [
-      {
-        "before": "25,000 Monthly active users",
-        "after": "25000 Monthly active users (MAUs)",
-        "confidence": 0.75,
-        "deltas": [
-          {
-            "before": "25,000",
-            "after": "25000"
-          }
-        ]
-      }
-    ],
+    "headline": "Descope: 5 prices changed (added “We've extended and closed our seed funding ro…”)",
+    "pairs": [],
     "added": [
       "We've extended and closed our seed funding round with $88M in total funding! Read more >",
       "$0.05",
@@ -665,8 +533,8 @@
     "date": "2026-01-02",
     "source": "wayback",
     "prevTs": "20251018080503",
-    "kind": "limits",
-    "score": 4,
+    "kind": "price",
+    "score": 5,
     "counts": {
       "price": 1,
       "limit": 1,
@@ -697,49 +565,15 @@
     "source": "wayback",
     "prevTs": "20260102170008",
     "kind": "price",
-    "score": 21,
+    "score": 27,
     "counts": {
-      "price": 4,
-      "limit": 5,
+      "price": 8,
+      "limit": 2,
       "plan": 0
     },
     "material": true,
-    "headline": "Descope: 4 prices, 5 limits changed (7500 → 7,500; 10000 → 10,000)",
-    "pairs": [
-      {
-        "before": "7500 Monthly active users (MAUs)",
-        "after": "7,500 Monthly active users (MAUs)",
-        "confidence": 1,
-        "deltas": [
-          {
-            "before": "7500",
-            "after": "7,500"
-          }
-        ]
-      },
-      {
-        "before": "10000 Monthly active users (MAUs)",
-        "after": "10,000 Monthly active users (MAUs)",
-        "confidence": 1,
-        "deltas": [
-          {
-            "before": "10000",
-            "after": "10,000"
-          }
-        ]
-      },
-      {
-        "before": "25000 Monthly active users (MAUs)",
-        "after": "25,000 Monthly active users (MAUs)",
-        "confidence": 1,
-        "deltas": [
-          {
-            "before": "25000",
-            "after": "25,000"
-          }
-        ]
-      }
-    ],
+    "headline": "Descope: 8 prices, 2 limits changed (removed “$250”; added “$2 per 1000 exchanges”)",
+    "pairs": [],
     "added": [
       "Start for free and scale as you go. Scroll down for detailed plan comparisons.",
       "Unlimited Federated apps (SAML / OIDC)",
@@ -771,10 +605,10 @@
     }
   },
   {
-    "id": "descope-com-pricing-20260618003631",
+    "id": "descope-com-pricing-20260808184437",
     "url": "https://www.descope.com/pricing",
-    "ts": "20260618003631",
-    "date": "2026-06-18",
+    "ts": "20260808184437",
+    "date": "2026-08-08",
     "source": "wayback",
     "prevTs": "20260520015419",
     "kind": "copy",
@@ -792,19 +626,19 @@
       "Unlimited projects"
     ],
     "totals": {
-      "removed": 4,
-      "added": 3,
+      "removed": 5,
+      "added": 6,
       "materialRemoved": 1,
       "materialAdded": 0
     }
   },
   {
-    "id": "descope-com-pricing-20260808184437",
+    "id": "descope-com-pricing-20260902202107",
     "url": "https://www.descope.com/pricing",
-    "ts": "20260808184437",
-    "date": "2026-08-08",
-    "source": "wayback",
-    "prevTs": "20260618003631",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260808184437",
     "kind": "copy",
     "score": 0,
     "counts": {
@@ -819,9 +653,10 @@
     "removed": [],
     "totals": {
       "removed": 1,
-      "added": 3,
+      "added": 1,
       "materialRemoved": 0,
       "materialAdded": 0
-    }
+    },
+    "transition": true
   }
 ]

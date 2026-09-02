@@ -1,0 +1,68 @@
+Pricing
+Use PostHog free forever (with generous usage limits).
+Or pay per use and get unrestricted access to everything.
+Pricing calculator
+Product
+Subtotal
+Product analytics + data stack 1,000,000 events
+1M 10M 100M 1B
+$ 0
+Session recording 15,000 recordings
+15k 50k 150k 500k
+$ 0
+Monthly estimate
+Cost with billing limits set at your selections
+$ 0 /mo
+Discounts
+B2C with millions of users?
+Get in touch for volume discounts after signing up.
+Non-profits
+50% off in most cases. Get in touch after signing up.
+Startups
+If your startup is under two years old and has raised less than $5m, check out our startup program
+.
+More options
+Enterprise
+Extra security, compliance, and permissioning features.
+Dedicated support, training, and custom pricing.
+Get in touch
+Open-Source
+Deploy with Docker on your own server.
+Made for hobby projects with <100k events/month.
+MIT licensed without guarantee.
+Read the docs
+Questions
+How do I know what my volume is?
+Tim Glaser
+The easiest way is to sign up for the Free plan. If you go over your usage limit but have not set up billing, it will lock you out but it will count the event volumes. This allows you to get a sense of what your volume is.
+Do I pay anything for stored events?
+Simon Fisher
+No, you only pay the fee per captured event in a given month (i.e. you only pay when each event is first received). There are no additional costs or fees.
+Do feature flags and experiments impact costs?
+Rick Marron
+While you do need to be on a paid plan to get access, Feature flags and Experiments do not currently incur any extra costs. This may change in the future.
+How long do you retain data?
+Tiina Turban
+Data (except recordings, see below) is guaranteed to be retained for 7 years on any paid plan and 1 year on a free plan. After 1 year, data may be moved into cold storage so queries may run more slowly.
+How long do you retain recordings?
+Rick Marron
+Recordings are kept on Clickhouse-based installations for 3 weeks.
+What happens after the data retention period elapses?
+Marius Andra
+Any event or user data stored for more than the retention period may be permanently deleted from our systems.
+Is there a free trial on paid plans?
+Michael Matloka
+No - instead we offer a contract with no minimum length. In PostHog Scale and PostHog Cloud, the first 1 million events are free, every month.
+What currency are your prices in?
+James Hawkins
+All prices are in US Dollars (USD), excluding taxes.
+Do you offer a discount for non-profits?
+Eric Duong
+Yes in most cases - 50% off any plan. Create your account, then email sales@posthog.com from the same email address with some basic details on your organization. We will then apply a discount.
+Are there any minimums or annual commitments?
+Cameron DeLeone
+Nope. We can, however, offer annual commitments (for example, to maintain pricing) if you need them as part of PostHog Enterprise.
+PostHog is the first analytics platform where I can be 100% confident in the data. I've finally got the data insight platform I've always wanted as a Product person.
+Looking for the signup button?
+(I’ll take you there.)
+Beam me up!

@@ -1,0 +1,176 @@
+grog cloud
+Log In
+Documentation
+Docs
+Get Started
+Overview
+Quickstart
+OpenAI Compatibility
+Models
+Rate Limits
+Features
+Text Generation
+Speech to Text
+Text to Speech
+Images and Vision
+Reasoning
+Agentic Tooling
+Advanced Features
+Batch Processing
+Flex Processing
+Content Moderation
+Prefilling
+Tool Use
+Developer Resources
+Groq Libraries
+Groq Badge
+Examples
+Applications Showcase
+Resources
+Prompting Guide
+Integrations
+Integrations Catalog
+Support & Guidelines
+Errors
+Changelog
+Policies & Notices
+Supported Models
+GroqCloud currently supports the following models:
+Production Models
+Note: Production models are intended for use in your production environments. They meet or exceed our high standards for speed, quality, and reliability. Read more here
+.
+MODEL ID
+DEVELOPER
+CONTEXT WINDOW (TOKENS)
+MAX COMPLETION TOKENS
+MAX FILE SIZE
+DETAILS
+gemma2-9b-it
+Google
+8,192
+-
+Details
+llama-3.3-70b-versatile
+Meta
+128K
+32,768
+-
+Details
+llama-3.1-8b-instant
+Meta
+128K
+8,192
+-
+Details
+llama-guard-3-8b
+Meta
+8,192
+-
+Details
+llama3-70b-8192
+Meta
+8,192
+-
+Details
+llama3-8b-8192
+Meta
+8,192
+-
+Details
+whisper-large-v3
+OpenAI
+-
+25 MB
+Details
+whisper-large-v3-turbo
+OpenAI
+-
+25 MB
+Details
+distil-whisper-large-v3-en
+HuggingFace
+-
+25 MB
+Details
+Preview Models
+Note: Preview models are intended for evaluation purposes only and should not be used in production environments as they may be discontinued at short notice. Read more about deprecations here
+.
+MODEL ID
+DEVELOPER
+CONTEXT WINDOW (TOKENS)
+MAX COMPLETION TOKENS
+MAX FILE SIZE
+DETAILS
+allam-2-7b
+Saudi Data and AI Authority (SDAIA)
+4,096
+-
+Details
+deepseek-r1-distill-llama-70b
+DeepSeek
+128K
+-
+Details
+meta-llama/llama-4-maverick-17b-128e-instruct
+Meta
+131,072
+8192
+-
+Details
+meta-llama/llama-4-scout-17b-16e-instruct
+Meta
+131,072
+8192
+-
+Details
+mistral-saba-24b
+Mistral
+32K
+-
+Details
+playai-tts
+Playht, Inc
+10K
+-
+Details
+playai-tts-arabic
+Playht, Inc
+10K
+-
+Details
+qwen-qwq-32b
+Alibaba Cloud
+128K
+-
+Details
+Preview Systems
+Systems are a collection of models and tools that work together to answer a user query.
+Note: Preview systems are intended for evaluation purposes only and should not be used in production environments as they may be discontinued at short notice. Read more about deprecations here
+.
+MODEL ID
+DEVELOPER
+CONTEXT WINDOW (TOKENS)
+MAX COMPLETION TOKENS
+MAX FILE SIZE
+DETAILS
+compound-beta
+Groq
+128K
+8192
+-
+Details
+compound-beta-mini
+Groq
+128K
+8192
+-
+Details
+Learn More About Agentic Tooling
+Discover how to build powerful applications with real-time web search and code execution
+Deprecated models are models that are no longer supported or will no longer be supported in the future. See our deprecation guidelines and deprecated models here
+.
+Hosted models are directly accessible through the GroqCloud Models API endpoint using the model IDs mentioned above. You can use the https://api.groq.com/openai/v1/models endpoint to return a JSON list of all active models:
+curl
+JavaScript
+Python
+1 import requests 2 import os 3 4 api_key = os. environ. get ( "GROQ_API_KEY") 5 url = "https://api.groq.com/openai/v1/models" 6 7 headers = { 8 "Authorization": f"Bearer { api_key } ", 9 "Content-Type": "application/json" 10 } 11 12 response = requests. get ( url, headers = headers) 13 14 print ( response. json ())

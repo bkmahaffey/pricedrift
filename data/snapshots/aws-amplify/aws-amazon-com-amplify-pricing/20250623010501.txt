@@ -1,0 +1,105 @@
+Skip to main content
+AWS Amplify
+Overview
+Features
+Pricing
+Getting Started
+Customers
+Products
+›
+Front-End Web and Mobile
+›
+AWS Amplify
+›
+AWS Amplify pricing
+Ship enterprise-ready features on day one. Only pay for what you use.
+Get started for free
+AWS Pricing Calculator
+AWS Amplify pricing
+Use case
+Pricing
+Work with teams
+Always free - no pay-per-seat pricing.
+Deploy an app
+with AWS Free Tier
+without AWS Free Tier
+Free for 12 months.
+Pay for what you use. Includes multiple sites per project and public SSL certificates at no additional cost.
+Build and deploy
+Standard Instance (8 GB Memory; 4 vCPUs)
+No cost up to 1,000 build minutes per month
+$0.01 per minute
+Large Instance (16 GB Memory; 8 vCPUs)
+n/a
+$0.025 per minute
+XLarge Instance (72 GB Memory; 36 vCPUs)
+n/a
+$0.10 per minute
+Data storage
+No cost up to 5 GB stored on CDN per month
+$0.023 per GB per month (this charge recurs until the app is deleted)
+Data transfer out
+No cost up to 15 GB per month
+$0.15 per GB served
+Request count (SSR)
+No cost up to 500,000 requests per month
+$0.30 per 1 million requests
+Request duration (SSR)
+No cost up to 100 GB-hours per month
+$0.20 per hour (GB-hour)
+Web Application Firewall
+$15/month per Amplify app + WAF costs
+Build a backend
+Amplify app frontends are powered by fully-managed AWS services. Many offer generous Free Tiers to get started and pay as you go pricing thereafter. No monthly minimums - simply pay for what you use.
+AWS backend resource examples
+with AWS Free Tier
+without AWS Free Tier
+Auth powered by Amazon Cognito
+Cognito Free Tier
+See Cognito pricing details
+Real-time APIs powered by AWS AppSync
+AWS AppSync Free Tier
+See AWS AppSync pricing details
+Data powered by Amazon DynamoDB
+DynamoDB Free Tier
+See DynamoDB pricing details
+Functions powered by AWS Lambda
+Lambda Free Tier
+See Lambda pricing details
+Storage powered by Amazon Simple Storage Service (Amazon S3)
+Amazon S3 Free Tier
+See Amazon S3 pricing details
+Develop frontend UI
+Always free. Quickly develop production-ready UI with dozens of pre-built, themeable, and responsive cloud-connected React components and forms.
+Pricing examples (outside free tier)
+Example 1
+A startup team with 5 developers have an app that has 300 daily active users. The team commits code 2 times per day.
+Monthly build & deploy charges
+Assumptions: Average build time = 3 mins; Number of work days/month = 20
+Total build time per month = num of devs * num of commits/day * num of days * avg. build time = 5*2*20*3 = 600 build mins per month
+Monthly build & deploy charges = 600*.01 = $6
+Monthly hosting charges
+Assumptions: Web app size = 25 MB, average size of page requested = 1.5 MB
+Monthly GB served = Daily active users * average page size * days = 300 * (1.5/1024) * 30 = 13.18 GB
+Monthly GB stored = web app size * number of monthly builds = (25/1024)*(5*2*20) = 4.88 GB
+Monthly hosting charges = 13.18*$0.15 + 4.88*$0.023= $1.97 + $0.11 = $2.08
+Total monthly charges
+Total charges = Build & deploy charges + Hosting charges = $6+$2.08 = $8.08 per month
+Example 2
+A web app has 10,000 daily active users and is updated 2 times per month.
+Monthly build & deploy charges
+Assumptions: Average build time = 3 mins
+Total build time per month = num of updates/month * avg. build time = 2*3 = 6 build mins per month
+Monthly build & deploy charges = 6*.01 = $0.06
+Monthly hosting charges
+Assumptions: Web app size = 100 MB, average size of page requested = 1.5 MB
+Monthly GB served = Daily active users * average page size * days = 10,000 * (1.5/1024) * 30 = 439.45 GB
+Monthly GB stored = web app size * number of monthly builds = (100/1024)*2 = 0.19 GB
+Monthly hosting charges = 439.45*$0.15 + 0.19*$0.023= $65.92
+Total monthly charges
+Total charges = Build & deploy charges + Hosting charges = $0.06+$65.92 = $65.98 per month
+Get started with AWS Amplify
+Get started with Amplify Hosting
+Learn more
+Sign up for a free account
+Sign up

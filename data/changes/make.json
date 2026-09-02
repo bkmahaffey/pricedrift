@@ -1,0 +1,349 @@
+[
+  {
+    "id": "make-com-en-pricing-20230306055030",
+    "url": "https://www.make.com/en/pricing",
+    "ts": "20230306055030",
+    "date": "2023-03-06",
+    "source": "wayback",
+    "prevTs": "20230115203012",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Make: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "make-com-en-pricing-20230823130813",
+    "url": "https://www.make.com/en/pricing",
+    "ts": "20230823130813",
+    "date": "2023-08-23",
+    "source": "wayback",
+    "prevTs": "20230306055030",
+    "kind": "plans",
+    "score": 8,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Make: 4 plan names changed",
+    "pairs": [],
+    "added": [
+      "Free includes:",
+      "Everything in Free, plus:"
+    ],
+    "removed": [
+      "Free forever",
+      "Free plan features",
+      "Unlimited users",
+      "Additionally to Free"
+    ],
+    "totals": {
+      "removed": 38,
+      "added": 33,
+      "materialRemoved": 5,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "make-com-en-pricing-20231007030527",
+    "url": "https://www.make.com/en/pricing",
+    "ts": "20231007030527",
+    "date": "2023-10-07",
+    "source": "wayback",
+    "prevTs": "20230823130813",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Make: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "make-com-en-pricing-20250208192340",
+    "url": "https://www.make.com/en/pricing",
+    "ts": "20250208192340",
+    "date": "2025-02-08",
+    "source": "wayback",
+    "prevTs": "20231007030527",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Make: 2 limits changed (added “512MB”)",
+    "pairs": [],
+    "added": [
+      "512MB",
+      "5GB",
+      "512MB",
+      "5GB"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 52,
+      "added": 38,
+      "materialRemoved": 0,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "make-com-en-pricing-20250329230106",
+    "url": "https://www.make.com/en/pricing",
+    "ts": "20250329230106",
+    "date": "2025-03-29",
+    "source": "wayback",
+    "prevTs": "20250208192340",
+    "kind": "price",
+    "score": 20,
+    "counts": {
+      "price": 4,
+      "limit": 3,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Make: 4 prices, 3 limits, 1 plan name changed (removed “$ 0 /mo”; added “1,000 operations/month”)",
+    "pairs": [],
+    "added": [
+      "No time limit on the Free plan",
+      "1,000 operations/month",
+      "Price for 10,000 Ops/month",
+      "Data transfer Your allowed usage scales proportionally: 5 GB of data transfers per 10,000 monthly Ops.",
+      "Unlimited users Share access with users in your organization to collaborate on workflows.",
+      "Teams and team roles Manage unlimited team permissions for scenario apps, templates, and connections."
+    ],
+    "removed": [
+      "$ 0 /mo",
+      "Free but worth it",
+      "$ 9 /mo",
+      "Minimum 1 minute interval between scheduled scenario executions",
+      "$ 16 /mo",
+      "$ 29 /mo",
+      "Unlimited users",
+      "512MB",
+      "5GB",
+      "Free",
+      "Unlimited users",
+      "unlimited"
+    ],
+    "totals": {
+      "removed": 137,
+      "added": 103,
+      "materialRemoved": 16,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "make-com-en-pricing-20250905194354",
+    "url": "https://www.make.com/en/pricing",
+    "ts": "20250905194354",
+    "date": "2025-09-05",
+    "source": "wayback",
+    "prevTs": "20250329230106",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Make: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "unlimited",
+      "Support available for 90 days after signup"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 49,
+      "added": 50,
+      "materialRemoved": 7,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "make-com-en-pricing-20251009150214",
+    "url": "https://www.make.com/en/pricing",
+    "ts": "20251009150214",
+    "date": "2025-10-09",
+    "source": "wayback",
+    "prevTs": "20250905194354",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Make: 1 limit changed (added “2 credits per 1 sec of code execution time”)",
+    "pairs": [],
+    "added": [
+      "2 credits per 1 sec of code execution time",
+      "2 credits per 1 sec of code execution time. Extended resources"
+    ],
+    "removed": [
+      "unlimited"
+    ],
+    "totals": {
+      "removed": 8,
+      "added": 4,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "make-com-en-pricing-20251105213022",
+    "url": "https://www.make.com/en/pricing",
+    "ts": "20251105213022",
+    "date": "2025-11-05",
+    "source": "wayback",
+    "prevTs": "20251009150214",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Make: 1 limit changed (removed “Support available for 90 days after signup”; added “10k credits/mo”)",
+    "pairs": [],
+    "added": [
+      "10k credits/mo"
+    ],
+    "removed": [
+      "Support available for 90 days after signup"
+    ],
+    "totals": {
+      "removed": 16,
+      "added": 23,
+      "materialRemoved": 6,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "make-com-en-pricing-20260514164452",
+    "url": "https://www.make.com/en/pricing",
+    "ts": "20260514164452",
+    "date": "2026-05-14",
+    "source": "wayback",
+    "prevTs": "20251105213022",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Make: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 17,
+      "added": 17,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "make-com-en-pricing-20260702083023",
+    "url": "https://www.make.com/en/pricing",
+    "ts": "20260702083023",
+    "date": "2026-07-02",
+    "source": "wayback",
+    "prevTs": "20260514164452",
+    "kind": "limits",
+    "score": 14,
+    "counts": {
+      "price": 0,
+      "limit": 7,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Make: 7 limits changed (added “As of August 27, credits are the billing unit…”)",
+    "pairs": [],
+    "added": [
+      "As of August 27, credits are the billing unit in Make. Each action your scenario performs consumes a certain number of credits - most actions consume 1 credit, while some advanced features leveraging Make's AI Provider may use more. Learn more",
+      "Usage allowance is proportional to the number of credits that you purchase. For every 10,000 credits, you receive a set amount of the parameters detailed below.",
+      "Entitlement per 10k operations licensed per month:",
+      "Data transfer 5 GB",
+      "Data storage 10 MB",
+      "Incomplete executions store 10 MB (2 GB maximum)",
+      "For example, if you license 150,000 credits per month, you are entitled to:",
+      "75 GB of data transfer",
+      "150 MB of incomplete execution storage",
+      "150 MB of data storage",
+      "10,000 webhooks in the queue",
+      "Usage allowance calculation does not relate to the number of data stores. You can use up to 1,000 data stores per single organization, regardless of your plan. Note that the minimum size of one data store is 1 MB.",
+      "We calculate data storage based on the number of your credits. For every 1000 credits, you get 1 MB of data storage, which equals 1 data store.",
+      "If you are on the Free plan, you have 1000 credits per month, which equals 1 MB of data storage and 1 data store."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 42,
+      "materialRemoved": 0,
+      "materialAdded": 14
+    }
+  },
+  {
+    "id": "make-com-en-pricing-20260902202107",
+    "url": "https://www.make.com/en/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "browser",
+    "prevTs": "20260702083023",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Make: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

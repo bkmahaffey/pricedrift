@@ -1,0 +1,279 @@
+Skip to main content
+Products
+Storage
+Amazon S3
+Amazon S3 pricing
+Get started for free
+Request a pricing quote
+Pay only for what you use. There is no minimum charge. There are six Amazon S3 cost components to consider when storing and managing your data—storage pricing, request and data retrieval pricing, data transfer and transfer acceleration pricing, data management and analytics pricing, replication pricing, and the price to process your data with S3 Object Lambda.
+Storage
+Requests & data retrievals
+Data transfer
+Management & analytics
+Replication
+S3 Object Lambda
+Storage
+You pay for storing objects in your S3 buckets. The rate you’re charged depends on your objects' size, how long you stored the objects during the month, and the storage class—S3 Standard, S3 Intelligent-Tiering, S3 Standard-Infrequent Access, S3 One Zone-Infrequent Access, S3 Glacier Instant Retrieval, S3 Glacier Flexible Retrieval (Formerly S3 Glacier), and S3 Glacier Deep Archive. You pay a monthly monitoring and automation charge per object stored in the S3 Intelligent-Tiering storage class t
+There are per-request ingest charges when using PUT, COPY, or lifecycle rules to move data into any S3 storage class. Consider the ingest or transition cost before moving objects into any storage class. Estimate your costs using the AWS Pricing Calculator
+To find the best S3 storage class for your workload, learn more here
+.
+Except as otherwise noted, our prices are exclusive of applicable taxes and duties, including VAT and applicable sales tax. For customers with a Japanese billing address, use of AWS is subject to Japanese Consumption Tax. To learn more, visit our consumption tax FAQs
+.
+Amazon S3 storage usage is calculated in binary gigabytes (GB), where 1 GB is 2 30 bytes. This unit of measurement is also known as a gibibyte (GiB), defined by the International Electrotechnical Commission (IEC). Similarly, 1 TB is 2 40 bytes, i.e. 1024 GBs.
+For Reduced Redundancy Storage pricing please visit the S3 Reduced Redundancy detail page
+.
+For S3 pricing examples, go to the S3 billing FAQs
+or use the AWS Pricing Calculator
+.
+* S3 Intelligent-Tiering can store objects smaller than 128 KB, but auto-tiering has a minimum eligible object size of 128 KB. These smaller objects will not be monitored and will always be charged at the Frequent Access tier rates, with no monitoring and automation charge. For each object archived to the Archive Access tier or Deep Archive Access tier in S3 Intelligent-Tiering, Amazon S3 uses 8 KB of storage for the name of the object and other metadata (billed at S3 Standard storage rates) and
+** S3 Standard-IA and S3 One Zone-IA storage have a minimum billable object size of 128 KB. Smaller objects may be stored but will be charged for 128 KB of storage at the appropriate storage class rate. S3 Standard-IA, and S3 One Zone-IA storage are charged for a minimum storage duration of 30 days, and objects deleted before 30 days incur a pro-rated charge equal to the storage charge for the remaining days. Objects that are deleted, overwritten, or transitioned to a different storage class bef
+Objects stored for 30 days or longer will not incur a 30-day minimum charge.
+*** The S3 Glacier Flexible Retrieval and S3 Glacier Deep Archive storage classes require an additional 32 KB of data per object for S3 Glacier’s index and metadata charged at the appropriate storage class rate. Amazon S3 requires 8 KB per object to store and maintain the user-defined name and metadata for objects archived to S3 Glacier Flexible Retrieval and S3 Glacier Deep Archive. This allows you to get a real-time list of all of your S3 objects using the S3 LIST API or the S3 Inventory repor
+.
+Requests & data retrievals
+You pay for requests made against your S3 buckets and objects. S3 request costs are based on the request type, and are charged on the quantity of requests as listed in the table below. When you use the Amazon S3 console to browse your storage, you incur charges for GET, LIST, and other requests that are made to facilitate browsing. Charges are accrued at the same rate as requests that are made using the API/SDK. Reference the S3 developer guide for technical details on the following request type
+COPY
+POST
+LIST
+GET
+SELECT
+Lifecycle Transition
+and Data Retrievals
+DELETE and CANCEL requests are free. LIST requests for any storage class are charged at the same rate as S3 Standard PUT, COPY, and POST requests. You pay for retrieving objects that are stored in S3 Standard – Infrequent Access, S3 One Zone – Infrequent Access, S3 Glacier Instant Retrieval, S3 Glacier Flexible Retrieval, and S3 Glacier Deep Archive. Reference the S3 developer guide for technical details on Data Retrievals
+.
+S3 Lifecycle Transition request pricing below represents requests to that storage class. For example, transitioning data from S3 Standard to S3 Standard-Infrequent Access will be charged $0.01 per 1,000 requests.
+There are no retrieval charges in S3 Intelligent-Tiering. If an object in the infrequent access tier is accessed later, it is automatically moved back to the frequent access tier. No additional tiering charges apply when objects are moved between access tiers within the S3 Intelligent-Tiering storage class.
+desktop table (1/1)
+mobile table (1/2)
+mobile table (2/2)
+Except as otherwise noted, our prices are exclusive of applicable taxes and duties, including VAT and applicable sales tax. For customers with a Japanese billing address, use of AWS is subject to Japanese Consumption Tax. To learn more, visit our consumption tax FAQs
+.
+Amazon S3 storage usage is calculated in binary gigabytes (GB), where 1 GB is 2 30 bytes. This unit of measurement is also known as a gibibyte (GiB), defined by the International Electrotechnical Commission (IEC). Similarly, 1 TB is 2 40 bytes, i.e. 1024 GBs.
+For S3 pricing examples, go to the S3 billing FAQs
+or use the AWS Pricing Calculator
+.
+S3 Lifecycle Transition request pricing above represents requests to that storage class.
+* S3 Intelligent-Tiering standard and bulk data retrieval and restore requests are free of charge for all five access tiers: Frequent, Infrequent, Archive Instant, Archive, and Deep Archive access tiers. Subsequent restore requests called on objects already being restored will be billed as a GET request. Expedited retrievals are available for the S3 Intelligent-Tiering Archive Access Tier and are charged at the Expedited request and retrieval rate.
+** S3 Standard-IA and S3 One Zone-IA storage are charged for a minimum storage duration of 30 days. Objects that are deleted, overwritten, or transitioned to a different storage class before the minimum storage duration will incur the normal storage usage charge plus a pro-rated charge for the remainder of the minimum storage duration. Objects stored longer than the minimum storage duration will not incur a minimum charge.
+*** Objects that are archived to S3 Glacier Instant Retrieval and S3 Glacier Flexible Retrieval are charged for a minimum storage duration of 90 days, and S3 Glacier Deep Archive has a minimum storage duration of 180 days. Objects deleted prior to the minimum storage duration incur a pro-rated charge equal to the storage charge for the remaining days. Objects that are deleted, overwritten, or transitioned to a different storage class before the minimum storage duration will incur the normal stor
+**** Provisioned Capacity Units allow you to provision capacity for expedited retrievals from S3 Glacier for a given month. Each provisioned capacity unit can provide at least three expedited retrievals every five minutes and up to 150 MB/s of retrieval throughput.
+Data transfer
+You pay for all bandwidth into and out of Amazon S3, except for the following:
+Data transferred out to the internet for the first 100GB per month, aggregated across all AWS Services and Regions (except China and GovCloud)
+Data transferred in from the internet.
+Data transferred between S3 buckets in the same AWS Region.
+Data transferred from an Amazon S3 bucket to any AWS service(s) within the same AWS Region as the S3 bucket (including to a different account in the same AWS Region).
+Data transferred out to Amazon CloudFront (CloudFront).
+The pricing below is based on data transferred "in" and "out" of Amazon S3 (over the public internet)†††. Learn more about AWS Direct Connect pricing
+.
+For Data Transfers exceeding 500 TB/Month, please contact us
+.
+S3 Multi-Region Access Points pricing
+Amazon S3 Multi-Region Access Points accelerate performance by up to 60% when accessing data sets that are replicated across multiple AWS Regions. Based on AWS Global Accelerator, S3 Multi-Region Access Points consider factors like network congestion and the location of the requesting application to dynamically route your requests over the AWS network to the lowest latency copy of your data. This automatic routing allows you to take advantage of the global infrastructure of AWS while maintaining
+S3 Multi-Region Access Points data routing pricing
+When you use an S3 Multi-Region Access Point to route requests within AWS, you pay a data routing cost for each gigabyte (GB) processed, as well as standard charges for S3 requests, storage, data transfer, and replication.
+S3 Multi-Region Access Points data routing
+Pricing
+Data routing cost
+$0.0033 per GB
+S3 Multi-Region Access Points internet acceleration pricing
+If your application runs outside of AWS and accesses S3 over the internet, S3 Multi-Region Access Points increase performance by automatically routing your requests through an AWS edge location, over the global private AWS network, to the closest copy of your data based on access latency. When you accelerate requests made over the internet, you pay the data routing cost outlined above and an internet acceleration cost.
+S3 Multi-Region Access Points internet acceleration pricing varies based on whether the source client is in the same or in a different location as the destination AWS Region, and is in addition to standard S3 data transfer pricing.
+For S3 Multi-Region Access Points availability in AWS Regions, please visit the user guide
+.
+Internet acceleration pricing between locations
+North America
+Internet acceleration WITHIN North America
+Pricing
+Data transfer IN to Amazon S3 from the internet
+$0.0025 per GB
+Data transfer OUT from Amazon S3 to the internet
+$0.0050 per GB
+Internet acceleration BETWEEN North America AND any other location
+Data transfer IN to Amazon S3 from the internet
+$0.0500 per GB
+Data transfer OUT from Amazon S3 to the internet
+$0.0500 per GB
+Europe
+Internet acceleration WITHIN Europe
+Pricing
+Data transfer IN to Amazon S3 from the internet
+$0.0025 per GB
+Data transfer OUT from Amazon S3 to the internet
+$0.0050 per GB
+Internet acceleration BETWEEN Europe AND any other location
+Data transfer IN to Amazon S3 from the internet
+$0.0500 per GB
+Data transfer OUT from Amazon S3 to the internet
+$0.0500 per GB
+Asia Pacific
+Internet acceleration WITHIN Asia Pacific
+Pricing
+Data transfer IN to Amazon S3 from the internet
+$0.0100 per GB
+Data transfer OUT from Amazon S3 to the internet
+$0.0150 per GB
+Internet acceleration BETWEEN Asia Pacific AND any other location
+Data transfer IN to Amazon S3 from the internet
+$0.0600 per GB
+Data transfer OUT from Amazon S3 to the internet
+$0.0600 per GB
+South America
+Internet acceleration WITHIN South America
+Pricing
+Data transfer IN to Amazon S3 from the internet
+$0.0250 per GB
+Data transfer OUT from Amazon S3 to the internet
+$0.0400 per GB
+Internet acceleration BETWEEN South America AND any other location
+Data transfer IN to Amazon S3 from the internet
+$0.0600 per GB
+Data transfer OUT from Amazon S3 to the internet
+$0.0600 per GB
+S3 Multi-Region Access Points failover controls
+S3 Multi-Region Access Points failover controls let you shift S3 data access request traffic routed through an Amazon S3 Multi-Region Access Point within minutes to an alternate AWS Region to build highly available applications for business continuity. To use failover control
+you are only charged for S3 API costs to view the current routing control status of each Region and submit any routing control changes for initiating a failover.
+S3 Multi-Region Access Points pricing examples
+Example 1: Using S3 Multi-Region Access Points within an AWS Region
+You have an application in US East (N. Virginia), and an S3 Multi-Region Access Point that is configured to dynamically route requests to an S3 bucket in either US East (N. Virginia) or US West (Oregon). Your application sends a 10 GB file through an S3 Multi-Region Access Point. In this case, the lowest latency bucket to your application will be the bucket in US East (N. Virginia), so your requests will remain within that region. We calculate your cost as follows.
+S3 Multi-Region Access Point data routing cost: The S3 Multi-Region Access Point data routing cost is $0.0033 per GB. In this example, 10 GB of data was routed by your S3 Multi-Region Access Point.
+Total S3 Multi-Region Access Point data routing cost = $0.0033 * 10 GB = $0.033
+Total charges:
+S3 Multi-Region Access Point data routing = $0.033
+Total = $0.033
+Example 2: Using S3 Multi-Region Access Points across AWS Regions
+You have an application in US East (N. Virginia) and a S3 Multi-Region Access Point that is configured to dynamically route requests to an S3 bucket in either US East (Ohio) or US West (Oregon). Your application sends a 10 GB file through an S3 Multi-Region Access Point. In this case, the lowest latency bucket to your application will be the bucket in US East (Ohio).
+Since your application is in US East (N. Virginia) and your lowest latency bucket is in US East (Ohio), your requests will automatically traverse the private AWS network from one AWS Region to another AWS Region. As a result, you will incur standard AWS cross-region data transfer charges, in addition to a S3 Multi-Region Access Point data routing cost. We calculate your cost as follows.
+S3 Multi-Region Access Point data routing cost
+The S3 Multi-Region Access Point data routing cost is $0.0033 per GB. In this example, 10 GB of data was routed by your S3 Multi-Region Access Point.
+Total S3 Multi-Region Access Point data routing cost = $0.0033 * 10 GB = $0.033
+Data transfer charges from Amazon EC2 in US East (N. Virginia) to Amazon S3 in US East (Ohio)
+The data transfer charge from US East (N. Virginia) to US East (Ohio) is $0.01 per GB. In this example, 10 GB of data went through your S3 Multi-Region Access Point and was routed over the private AWS network from your application in US East (N. Virginia), to an S3 bucket in US East (Ohio).
+Total S3 data transfer cost = $0.01 * 10 GB = $0.10
+Total Charges:
+S3 Multi-Region Access Point data routing cost = $0.033
+S3 data transfer charges - US East (N. Virginia) to US East (Ohio) = $0.10
+Total = $0.133
+Example 3: Using S3 Multi-Region Access Points over the internet
+You have an application that supports customers in North America, Europe, and Asia. These customers send and receive data over the internet to and from an S3 bucket in either US East (N. Virginia), or Europe (Ireland). You created an S3 Multi-Region Access Point to accelerate your application by routing customer requests to the S3 bucket closest to them.
+One of your customers sends 10 GB over the internet into S3 from a client in North America. This request is automatically routed to the bucket in US East (N. Virginia). A second customer downloads 10 GB of data over the internet from S3 to a client in Europe. This request is automatically routed to the bucket in Europe (Ireland). A third customer downloads 10 GB of data over the internet from S3 to a client in Asia. This request is automatically routed to the bucket in Europe (Ireland) as well.
+Since two of your customers are transferring data out of S3 over the internet you will incur standard AWS data transfer out charges, in addition to a S3 Multi-Region Access Point data routing cost. We calculate your cost as follows.
+S3 Multi-Region Access Point data routing cost
+The S3 Multi-Region Access Point data routing cost is $0.0033 per GB. In this example, 30 GB of data was routed by your S3 Multi-Region Access Point to your buckets.
+Total S3 Multi-Region Access Point data routing cost = $0.0033 * 30 GB = $0.099
+S3 Multi-Region Access Point internet acceleration cost:
+The 10 GB uploaded from a client in North America, through an S3 Multi-Region Access Point, to a bucket in North America will incur a charge of $0.0025 per GB.
+The 10 GB downloaded from a bucket in Europe, through an S3 Multi-Region Access Point, to a client in Europe will incur a charge of $0.005 per GB.
+The 10 GB downloaded from a bucket in Europe, through an S3 Multi-Region Access Point, to a client in Asia will incur a charge of $0.05 per GB.
+Total S3 Multi-Region Access Point internet acceleration cost = $0.0025 * 10 GB + $0.005 * 10 GB + $0.05 * 10 GB = $0.575
+S3 data transfer OUT from Amazon S3 in Europe (Ireland) to internet
+The Data Transfer out charge from Amazon S3 in Europe (Ireland) to internet is $0.09 per GB. In this example, 20 GB were transferred out; one to a client in Europe, and one to a client in Asia.
+Total data transfer cost = $0.09 * 20 GB = $1.80
+Total Charges:
+S3 Multi-Region Access Point data routing cost = $0.099
+S3 Multi-Region Access Point internet acceleration cost = $0.575
+S3 data transfer charges - Europe (Ireland) data transfer OUT to internet = $1.80
+Total = $2.474
+S3 Transfer Acceleration pricing
+S3 Transfer Acceleration
+accelerates internet transfers between the client and a single S3 bucket. Pricing is based on the AWS edge location
+used to accelerate your transfer. S3 Transfer Acceleration pricing is in addition to Data Transfer pricing.
+Each time you use S3 Transfer Acceleration to upload an object, we will check whether the service is likely to be faster than a regular Amazon S3 transfer. If we determine that it is not likely to be faster than a regular Amazon S3 transfer of the same object to the same destination AWS Region, we will not charge for that use of S3 Transfer Acceleration for that transfer, and may bypass the S3 Transfer Acceleration system for that upload.
+Check your performance with the Amazon S3 Transfer Acceleration speed comparison tool
+.
+Data Transfer IN to Amazon S3 from the Internet:
+Accelerated by AWS Edge Locations in the United States, Europe, and Japan
+$0.04 per GB
+Accelerated by all other AWS Edge Locations
+$0.08 per GB
+Data Transfer OUT from Amazon S3 to the Internet:
+Accelerated by any AWS Edge Location
+$0.04 per GB
+Data Transfer between Amazon S3 and another AWS region:
+Accelerated by any AWS Edge Location
+$0.04 per GB
+Except as otherwise noted, our prices are exclusive of applicable taxes and duties, including VAT and applicable sales tax. For customers with a Japanese billing address, use of AWS is subject to Japanese Consumption Tax. To learn more, visit our consumption tax FAQs
+.
+For Data Transfers exceeding 500 TB/Month, please contact us
+.
+Storage and bandwidth size includes all file overhead.
+Amazon S3 storage usage is calculated in binary gigabytes (GB), where 1 GB is 2 30 bytes. This unit of measurement is also known as a gibibyte (GiB), defined by the International Electrotechnical Commission (IEC). Similarly, 1 TB is 2 40 bytes, i.e. 1024 GBs.
+Rate tiers take into account your aggregate usage for Data Transfer Out to the Internet across all AWS services.
+††† Data Transfer Out may be different from the data received by your application in case the connection is prematurely terminated by you, for example, if you make a request for a 10 GB object and terminate the connection after receiving the first 2 GB of data. Amazon S3 attempts to stop the streaming of data, but it does not happen instantaneously. In this example, the Data Transfer Out may be 3 GB (1 GB more than 2 GB you received). As a result, you will be billed for 3 GB of Data Transfer Out
+For S3 pricing examples, go to the S3 billing FAQs
+or use the AWS Pricing Calculator
+.
+Management & analytics
+You pay for the storage management features and analytics (Amazon S3 Inventory, S3 Storage Class Analysis, S3 Storage Lens, and S3 Object Tagging) that are enabled on your account’s buckets. S3 Storage management and analytics is priced per feature as detailed in the table below. For pricing on Amazon CloudWatch Metrics, visit the Amazon CloudWatch pricing page
+For pricing on S3 Data Events in AWS CloudTrail, visit the AWS CloudTrail pricing page
+.
+Storage analytics and insights pricing
+S3 Storage Lens pricing
+S3 Batch Operations pricing
+S3 Select & S3 Glacier Select pricing
+Except as otherwise noted, our prices are exclusive of applicable taxes and duties, including VAT and applicable sales tax. For customers with a Japanese billing address, use of AWS is subject to Japanese Consumption Tax. To learn more, visit our consumption tax FAQs »
+Amazon S3 storage usage is calculated in binary gigabytes (GB), where 1 GB is 2 30 bytes. This unit of measurement is also known as a gibibyte (GiB), defined by the International Electrotechnical Commission (IEC). Similarly, 1 TB is 2 40 bytes, i.e. 1024 GBs.
+For S3 pricing examples, go to the S3 billing FAQs
+or use the AWS Pricing Calculator
+.
+Replication
+S3 Cross-Region Replication, Same-Region Replication, and Replication Time Control
+S3 Batch Replication
+While live replication like CRR and SRR automatically replicates newly uploaded objects as they are written to your bucket, S3 Batch Replication
+allows you to replicate existing objects. S3 Batch Replication is built using S3 Batch Operations to replicate objects as fully managed Batch Operations jobs. Similar to SRR and CRR, you pay the S3 charges for storage in the selected destination S3 storage classes, for the primary copy, for replication PUT requests, and for applicable infrequent access storage retrieval charges. When replicating across AWS Regions, you also pay for inter-Region Data Transfer OUT from S3 to each destination Regio
+.
+In addition to these charges, you also pay the S3 Batch Operations charges for Batch Replication jobs. See the following table for details.
+Finally, when replicating existing objects, you need to indicate what objects to replicate. You can do this by providing a list of objects to S3 yourself, or use an AWS-generated manifest where you can specify filters such as object creation date and replication status. If you use the manifest, there is a charge based on the number of objects in the source bucket.
+S3 Object Lambda
+S3 Object Lambda pricing
+S3 Object Lambda pricing example
+You have 1,000,000 objects that contain historical log data, generated by many applications. Confidential log entries make up 50% of the data. These logs are stored in the S3 Standard storage class, and the average object size is 1000 KB. You are building an application that analyzes this data, but should not have access to confidential log entries.
+You can use S3 Object Lambda to filter out confidential log entries. This filtering occurs as your logs are retrieved from S3 with standard S3 GET requests. The Lambda function to filter your data is allocated 512MB of memory, has a 1 second runtime, and returns filtered objects that are 500 KB in size (on average) back to your application. This example assumes one retrieval per month for each object. This example uses the US East (N. Virginia) Region.
+Your charges would be calculated as follows:
+Amazon S3 GET request charge
+S3 GET requests from the S3 Standard storage class cost $0.0004 per 1,000 requests.
+S3 GET Request cost: 1,000,000 requests * $0.0004/1K requests = $0.40
+AWS Lambda Charges
+The Lambda compute cost is $0.0000167 per GB-second. GB-seconds are calculated based on the number of seconds that a Lambda function runs, adjusted by the amount of memory allocated to it.
+The Lambda request price is $0.20 per 1 million requests.
+Lambda compute charge: 1,000,000 requests * 1 second * 0.5 GB (512 MB/1024) memory allocated * $0.0000167 per GB-second = $8.35
+Lambda request charge = 1,000,000 requests * $0.20 per 1 million requests = $0.20
+Total Lambda cost = $8.35 + $0.20 = $8.55
+S3 Object Lambda Charge
+After the Lambda function filters the object, 500 KB is returned to the application at a cost of $0.005/GB of data returned.
+Data Return Charge: 1,000,000 * 500 KB * $0.005/GB = $2.50
+Total Charges:
+Amazon S3 GET request charges = $0.40
+AWS Lambda charges = $8.55
+Amazon S3 Object Lambda charges = $2.50
+Total = $11.45
+Except as otherwise noted, our prices are exclusive of applicable taxes and duties, including VAT and applicable sales tax. For customers with a Japanese billing address, use of AWS is subject to Japanese Consumption Tax. To learn more, visit our consumption tax FAQs »
+Amazon S3 storage usage is calculated in binary gigabytes (GB), where 1GB is 2 30 bytes. This unit of measurement is also known as a gibibyte (GiB), defined by the International Electrotechnical Commission (IEC). Similarly, 1 TB is 2 40 bytes, i.e. 1024 GBs.
+For S3 pricing examples, go to the S3 billing FAQs
+or use the AWS Pricing Calculator
+.
+AWS Free Tier
+As part of the AWS Free Tier
+you can get started with Amazon S3 for free. Upon sign-up, new AWS customers receive 5GB of Amazon S3 storage in the S3 Standard storage class; 20,000 GET Requests; 2,000 PUT, COPY, POST, or LIST Requests; and 100 GB of Data Transfer Out each month.
+Your usage for the free tier is calculated each month across all AWS Regions except the AWS GovCloud Region and automatically applied to your bill; unused monthly usage will not roll over. Restrictions apply; see offer terms
+for more details.
+AWS Pricing Calculator
+Estimate the cost for your storage solution. Configure a cost estimate that fits your unique business or personal needs with Amazon S3. Try out the AWS Pricing Calculator
+.
+Ready to get started?
+Check out Amazon S3 features
+Learn more about features for data management, security, access management, analytics, and more.
+Learn more
+Sign up for a free account
+Instantly get access to the AWS Free Tier and start experimenting with Amazon S3.
+Sign up
+Start building in the console
+Get started building with Amazon S3 in the AWS Console.
+Get started
+Get help getting started
+Contact AWS specialists to get a personalized quote
+Contact Us
+Ending Support for Internet Explorer
+Got it
+AWS support for Internet Explorer ends on 07/31/2022. Supported browsers are Chrome, Firefox, Edge, and Safari. Learn more »
+Got it

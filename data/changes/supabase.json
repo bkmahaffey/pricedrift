@@ -1,0 +1,1203 @@
+[
+  {
+    "id": "supabase-com-pricing-20230304052707",
+    "url": "https://supabase.com/pricing",
+    "ts": "20230304052707",
+    "date": "2023-03-04",
+    "source": "wayback",
+    "prevTs": "20230116213102",
+    "kind": "price",
+    "score": 82,
+    "counts": {
+      "price": 21,
+      "limit": 8,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Supabase: 21 prices, 8 limits, 2 plan names changed (removed “Paused after 1 week inactivity”; added “Starts from $5”)",
+    "pairs": [],
+    "added": [
+      "Everything in the Free plan, plus:",
+      "Starts from $5",
+      "Starts from $100",
+      "Free",
+      "Limit of 2 free projects",
+      "Info 8 GB",
+      "Info $100 per 7 days",
+      "Info 50GB",
+      "Info 100 GB",
+      "Info 200 GB"
+    ],
+    "removed": [
+      "Paused after 1 week inactivity",
+      "Up to 50,000 MAUs",
+      "Included in free",
+      "Unlimited API requests",
+      "8 GB included, then $0.125 per GB",
+      "7 days of backup* (* if > 1TB, contact enterprise)",
+      "50GB included per month, then $0.09 per GB",
+      "Unlimited",
+      "100,000 included, then $0.00325 per MAU",
+      "100 GB included, then $0.021 per GB",
+      "200 GB included, then $0.09 per GB",
+      "Unlimited transformations for 100 origin images, then 5$ per 1000 origin images",
+      "Up to 500, then $10 per 1000",
+      "2 Million per month, then $2 per 1 million invocations",
+      "100, then $10 per additional 100 functions",
+      "Unlimited",
+      "7 days",
+      "Unlimited API requests",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited concurrent connections and volume discount",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "90 days",
+      "$25 /project/month + usage costs",
+      "8 GB included, then $0.125 per GB",
+      "7 days of backup* (* if > 1TB, contact enterprise)",
+      "Paused after 1 week inactivity",
+      "50GB included per month, then $0.09 per GB",
+      "Up to 50,000 MAUs",
+      "100,000 included, then $0.00325 per MAU",
+      "100 GB included, then $0.021 per GB"
+    ],
+    "totals": {
+      "removed": 331,
+      "added": 90,
+      "materialRemoved": 78,
+      "materialAdded": 38
+    }
+  },
+  {
+    "id": "supabase-com-pricing-20230501000758",
+    "url": "https://supabase.com/pricing",
+    "ts": "20230501000758",
+    "date": "2023-05-01",
+    "source": "wayback",
+    "prevTs": "20230304052707",
+    "kind": "price",
+    "score": 39,
+    "counts": {
+      "price": 11,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Supabase: 11 prices, 3 limits changed (1 → 1,)",
+    "pairs": [
+      {
+        "before": "Info 1 included, additional $10/domain/month",
+        "after": "Info 1, additional $10/domain/month",
+        "confidence": 0.8,
+        "deltas": [
+          {
+            "before": "1",
+            "after": "1,"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Not included in free",
+      "8 GB, then $0.125 per GB",
+      "50 GB, then $0.09 per GB",
+      "100,000, then $0.00325 per MAU",
+      "50 free, then $0.015 per MAU",
+      "100 GB, then $0.021 per GB",
+      "200 GB, then $0.09 per GB",
+      "100 origin images, then $5 per 1000 origin images",
+      "500, then $10 per 1000",
+      "5 Million, then $2.50 per Million",
+      "2 Million, then $2 per 1 Million",
+      "100, then $10 per additional 100"
+    ],
+    "removed": [
+      "Info 8 GB",
+      "Info 50GB",
+      "Info 100 GB",
+      "Info 200 GB",
+      "Info Unlimited for 100 origin images"
+    ],
+    "totals": {
+      "removed": 13,
+      "added": 19,
+      "materialRemoved": 6,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "supabase-com-pricing-20230701201848",
+    "url": "https://supabase.com/pricing",
+    "ts": "20230701201848",
+    "date": "2023-07-01",
+    "source": "wayback",
+    "prevTs": "20230501000758",
+    "kind": "price",
+    "score": 27,
+    "counts": {
+      "price": 4,
+      "limit": 8,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Supabase: 4 prices, 8 limits changed (500MB → 1GB; 100,000, → 100,000)",
+    "pairs": [
+      {
+        "before": "Up to 500MB database & 1GB file storage",
+        "after": "Up to 1GB file storage",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "500MB",
+            "after": "1GB"
+          },
+          {
+            "before": "1GB",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "100,000, then $0.00325 per MAU",
+        "after": "100,000 included, then $0.00325 per MAU",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "100,000,",
+            "after": "100,000"
+          }
+        ]
+      },
+      {
+        "before": "100, then $10 per additional 100",
+        "after": "100 included, then $10 per additional 100",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "100,",
+            "after": "100"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Unlimited API requests",
+      "Daily backups stored for 7 days",
+      "8GB database space included",
+      "100GB file storage included",
+      "$ 599",
+      "Daily backups stored for 14 days",
+      "$ 599 per month",
+      "500 MB included",
+      "Info 14 days",
+      "28 days",
+      "Unlimited",
+      "500 included, then $10 per 1000",
+      "28 days"
+    ],
+    "removed": [
+      "8GB database & 100GB file storage",
+      "500, then $10 per 1000"
+    ],
+    "totals": {
+      "removed": 52,
+      "added": 85,
+      "materialRemoved": 29,
+      "materialAdded": 40
+    }
+  },
+  {
+    "id": "supabase-com-pricing-20230911073847",
+    "url": "https://supabase.com/pricing",
+    "ts": "20230911073847",
+    "date": "2023-09-11",
+    "source": "wayback",
+    "prevTs": "20230701201848",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 1,
+      "limit": 8,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Supabase: 1 price, 8 limits changed (2GB → 5GB; 50GB → 250GB)",
+    "pairs": [
+      {
+        "before": "Up to 2GB bandwidth",
+        "after": "Up to 5GB bandwidth",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2GB",
+            "after": "5GB"
+          }
+        ]
+      },
+      {
+        "before": "50GB bandwidth included",
+        "after": "250GB bandwidth included",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50GB",
+            "after": "250GB"
+          }
+        ]
+      },
+      {
+        "before": "2GB included",
+        "after": "5GB included",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2GB",
+            "after": "5GB"
+          }
+        ]
+      },
+      {
+        "before": "2GB included",
+        "after": "5GB included",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2GB",
+            "after": "5GB"
+          }
+        ]
+      },
+      {
+        "before": "50 GB included, then $0.09 per GB",
+        "after": "250 GB included, then $0.09 per GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50GB",
+            "after": "250GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Not included in free",
+      "Not included in free"
+    ],
+    "removed": [
+      "30 / hour",
+      "2 GB included",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "30 / hour",
+      "100 / hour",
+      "Unlimited",
+      "2 GB included",
+      "200 GB included, then $0.09 per GB",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited concurrent connections and volume discount",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 53,
+      "added": 53,
+      "materialRemoved": 30,
+      "materialAdded": 15
+    }
+  },
+  {
+    "id": "supabase-com-pricing-20231111041607",
+    "url": "https://supabase.com/pricing",
+    "ts": "20231111041607",
+    "date": "2023-11-11",
+    "source": "wayback",
+    "prevTs": "20230911073847",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Supabase: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "supabase-com-pricing-20240113044942",
+    "url": "https://supabase.com/pricing",
+    "ts": "20240113044942",
+    "date": "2024-01-13",
+    "source": "wayback",
+    "prevTs": "20231111041607",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 1,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Supabase: 1 price, 2 limits changed (removed “2 MB”; added “10 MB”)",
+    "pairs": [],
+    "added": [
+      "Not included in free",
+      "Not included in free",
+      "Not included in free",
+      "10 MB",
+      "$100 per 7 days, >28 days available"
+    ],
+    "removed": [
+      "2 MB",
+      "2 MB"
+    ],
+    "totals": {
+      "removed": 14,
+      "added": 32,
+      "materialRemoved": 3,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "supabase-com-pricing-20240301085208",
+    "url": "https://supabase.com/pricing",
+    "ts": "20240301085208",
+    "date": "2024-03-01",
+    "source": "wayback",
+    "prevTs": "20240113044942",
+    "kind": "price",
+    "score": 146,
+    "counts": {
+      "price": 35,
+      "limit": 18,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Supabase: 35 prices, 18 limits, 3 plan names changed (2 added)",
+    "pairs": [
+      {
+        "before": "Free projects are paused after 1 week of inactivity.",
+        "after": "Free projects are paused after 1 week of inactivity. Limit of 2 active projects.",
+        "confidence": 0.78,
+        "deltas": [
+          {
+            "before": null,
+            "after": "2"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Start for Free",
+      "2 Core shared CPU • 1 GB RAM",
+      "then $0.00325 per MAU",
+      "then $0.125 per GB",
+      "then $0.09 per GB",
+      "then $0.021 per GB",
+      "$10 in compute credits included Need more compute?",
+      "Starts from $10/month",
+      "64 cores and 256 GB RAM",
+      "Paid plans include $10/month in compute credits that can be spent on one or more instances. Additional compute power is available if you need extra performance when scaling up Supabase.",
+      "Total Compute $ 10",
+      "Compute Credits - $ 10",
+      "Total Estimate $ 25",
+      "$10",
+      "1 GB RAM / 2-core ARM CPU / Connections: Direct 60, Pooler 200",
+      "First instance is free on paid plans",
+      "$10",
+      "Not included in Free plan",
+      "1 GB",
+      "$15",
+      "Not included in Free plan",
+      "2 GB",
+      "$60",
+      "Not included in Free plan",
+      "4 GB",
+      "$110",
+      "8 GB",
+      "$210",
+      "16 GB",
+      "$410",
+      "32 GB",
+      "$960",
+      "64 GB",
+      "$1,870",
+      "128 GB",
+      "$2,800",
+      "192 GB",
+      "$3,730",
+      "256 GB",
+      "$10"
+    ],
+    "removed": [
+      "Limit of 2 free organizations",
+      "Up to 500K Edge Function invocations",
+      "2M Edge Function invocations included",
+      "Starts from $5",
+      "500K/month included",
+      "Limit of 2 free organizations",
+      "5GB included",
+      "50MB",
+      "5GB",
+      "500K/month included"
+    ],
+    "totals": {
+      "removed": 119,
+      "added": 342,
+      "materialRemoved": 39,
+      "materialAdded": 99
+    }
+  },
+  {
+    "id": "supabase-com-pricing-20240501013723",
+    "url": "https://supabase.com/pricing",
+    "ts": "20240501013723",
+    "date": "2024-05-01",
+    "source": "wayback",
+    "prevTs": "20240301085208",
+    "kind": "price",
+    "score": 5,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Supabase: 1 price, 1 plan name changed (added “$0.32 per branch, per day”)",
+    "pairs": [],
+    "added": [
+      "Not included in free",
+      "Included in free",
+      "$0.32 per branch, per day"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 59,
+      "added": 19,
+      "materialRemoved": 0,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "supabase-com-pricing-20240716125922",
+    "url": "https://supabase.com/pricing",
+    "ts": "20240716125922",
+    "date": "2024-07-16",
+    "source": "wayback",
+    "prevTs": "20240501013723",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Supabase: 1 limit changed (2 → 500MB)",
+    "pairs": [
+      {
+        "before": "2 Core shared CPU • 1 GB RAM",
+        "after": "Shared CPU • 500 MB RAM",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "2",
+            "after": "500MB"
+          },
+          {
+            "before": "1GB",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "supabase-com-pricing-20240902144959",
+    "url": "https://supabase.com/pricing",
+    "ts": "20240902144959",
+    "date": "2024-09-02",
+    "source": "wayback",
+    "prevTs": "20240716125922",
+    "kind": "price",
+    "score": 16,
+    "counts": {
+      "price": 4,
+      "limit": 0,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Supabase: 4 prices, 2 plan names changed (removed “100 included then $10 per additional 100”; added “$75 per month for first project then $10 per …”)",
+    "pairs": [],
+    "added": [
+      "Included in free",
+      "Included in free",
+      "$75 per month for first project then $10 per month per additional projects",
+      "50 included then $0.00325 per MAU",
+      "Unlimited",
+      "$60 per drain per month and $0.20 per Million processed"
+    ],
+    "removed": [
+      "100 included then $10 per additional 100"
+    ],
+    "totals": {
+      "removed": 58,
+      "added": 75,
+      "materialRemoved": 18,
+      "materialAdded": 23
+    }
+  },
+  {
+    "id": "supabase-com-pricing-20241108093703",
+    "url": "https://supabase.com/pricing",
+    "ts": "20241108093703",
+    "date": "2024-11-08",
+    "source": "wayback",
+    "prevTs": "20240902144959",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Supabase: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 4,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "supabase-com-pricing-20250114093447",
+    "url": "https://supabase.com/pricing",
+    "ts": "20250114093447",
+    "date": "2025-01-14",
+    "source": "wayback",
+    "prevTs": "20241108093703",
+    "kind": "price",
+    "score": 39,
+    "counts": {
+      "price": 10,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Supabase: 10 prices, 5 limits changed (removed “10 MB”; added “Scale database storage up to 60 TB and 80,000…”)",
+    "pairs": [],
+    "added": [
+      "Scale database storage up to 60 TB and 80,000 IOPS.",
+      "16 TB",
+      "8 GB included then $0.125 per GB",
+      "3,000 IOPS included then $0.024 per IOPS",
+      "125 Mbps included then $0.095 per Mbps",
+      "60 TB",
+      "$0.195 per GB",
+      "$0.119 per IOPS",
+      "16 TB",
+      "8 GB included then $0.125 per GB",
+      "3,000 IOPS included then $0.024 per IOPS",
+      "125 Mbps included then $0.095 per Mbps",
+      "60 TB",
+      "$0.195 per GB",
+      "$0.119 per IOPS",
+      "Not included in free",
+      "20 MB",
+      "20 MB"
+    ],
+    "removed": [
+      "10 MB",
+      "10 MB"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 53,
+      "materialRemoved": 2,
+      "materialAdded": 18
+    }
+  },
+  {
+    "id": "supabase-com-pricing-20250207204732",
+    "url": "https://supabase.com/pricing",
+    "ts": "20250207204732",
+    "date": "2025-02-07",
+    "source": "wayback",
+    "prevTs": "20250114093447",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Supabase: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 15,
+      "added": 12,
+      "materialRemoved": 7,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "supabase-com-pricing-20250301211234",
+    "url": "https://supabase.com/pricing",
+    "ts": "20250301211234",
+    "date": "2025-03-01",
+    "source": "wayback",
+    "prevTs": "20250207204732",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Supabase: 1 limit changed (50 → 100,000)",
+    "pairs": [
+      {
+        "before": "50 included then $0.00325 per MAU",
+        "after": "100,000 included then $0.00325 per MAU",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50",
+            "after": "100,000"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "supabase-com-pricing-20250402100248",
+    "url": "https://supabase.com/pricing",
+    "ts": "20250402100248",
+    "date": "2025-04-02",
+    "source": "wayback",
+    "prevTs": "20250301211234",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Supabase: 2 limits changed (125 → 125MB; 125 → 125MB)",
+    "pairs": [
+      {
+        "before": "125 Mbps included then $0.095 per Mbps",
+        "after": "125 MB/s included then $0.095 per MB/s",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "125",
+            "after": "125MB"
+          }
+        ]
+      },
+      {
+        "before": "125 Mbps included then $0.095 per Mbps",
+        "after": "125 MB/s included then $0.095 per MB/s",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "125",
+            "after": "125MB"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 12,
+      "added": 24,
+      "materialRemoved": 3,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "supabase-com-pricing-20250503061117",
+    "url": "https://supabase.com/pricing",
+    "ts": "20250503061117",
+    "date": "2025-05-03",
+    "source": "wayback",
+    "prevTs": "20250402100248",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Supabase: 1 limit changed (removed “20 MB”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "20 MB",
+      "20 MB"
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 2,
+      "materialRemoved": 2,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "supabase-com-pricing-20250611164621",
+    "url": "https://supabase.com/pricing",
+    "ts": "20250611164621",
+    "date": "2025-06-11",
+    "source": "wayback",
+    "prevTs": "20250503061117",
+    "kind": "price",
+    "score": 16,
+    "counts": {
+      "price": 2,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Supabase: 2 prices, 5 limits changed (removed “1 GB”; added “$60 per drain per month + $0.20 per million e…”)",
+    "pairs": [],
+    "added": [
+      "$60 per drain per month + $0.20 per million events + $0.09 per GB bandwidth"
+    ],
+    "removed": [
+      "1 GB",
+      "2 GB",
+      "4 GB",
+      "8 GB",
+      "16 GB",
+      "32 GB",
+      "64 GB",
+      "128 GB",
+      "192 GB",
+      "256 GB",
+      "$60 per drain per month and $0.20 per Million processed"
+    ],
+    "totals": {
+      "removed": 50,
+      "added": 70,
+      "materialRemoved": 24,
+      "materialAdded": 14
+    }
+  },
+  {
+    "id": "supabase-com-pricing-20250705185529",
+    "url": "https://supabase.com/pricing",
+    "ts": "20250705185529",
+    "date": "2025-07-05",
+    "source": "wayback",
+    "prevTs": "20250611164621",
+    "kind": "price",
+    "score": 16,
+    "counts": {
+      "price": 2,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Supabase: 2 prices, 5 limits changed (removed “$0.32 per branch, per day”; added “1 GB”)",
+    "pairs": [],
+    "added": [
+      "1 GB",
+      "2 GB",
+      "4 GB",
+      "8 GB",
+      "16 GB",
+      "32 GB",
+      "64 GB",
+      "128 GB",
+      "192 GB",
+      "256 GB",
+      "$0.01344 per branch, per hour"
+    ],
+    "removed": [
+      "$0.32 per branch, per day"
+    ],
+    "totals": {
+      "removed": 67,
+      "added": 47,
+      "materialRemoved": 11,
+      "materialAdded": 21
+    }
+  },
+  {
+    "id": "supabase-com-pricing-20250801051015",
+    "url": "https://supabase.com/pricing",
+    "ts": "20250801051015",
+    "date": "2025-08-01",
+    "source": "wayback",
+    "prevTs": "20250705185529",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Supabase: 1 limit changed (removed “50 GB”; added “500 GB”)",
+    "pairs": [],
+    "added": [
+      "500 GB"
+    ],
+    "removed": [
+      "50 GB"
+    ],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "supabase-com-pricing-20250911225230",
+    "url": "https://supabase.com/pricing",
+    "ts": "20250911225230",
+    "date": "2025-09-11",
+    "source": "wayback",
+    "prevTs": "20250801051015",
+    "kind": "price",
+    "score": 10,
+    "counts": {
+      "price": 2,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Supabase: 2 prices, 2 limits changed (added “5 GB cached egress”)",
+    "pairs": [],
+    "added": [
+      "5 GB cached egress",
+      "250 GB cached egress",
+      "then $0.03 per GB",
+      "5 GB included",
+      "5 GB included",
+      "250 GB included then $0.03 per GB"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 14,
+      "materialRemoved": 3,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "supabase-com-pricing-20251105163322",
+    "url": "https://supabase.com/pricing",
+    "ts": "20251105163322",
+    "date": "2025-11-05",
+    "source": "wayback",
+    "prevTs": "20250911225230",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Supabase: 1 price changed (added “additional $60 per drain, per project”)",
+    "pairs": [],
+    "added": [
+      "additional $60 per drain, per project"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "supabase-com-pricing-20260102024221",
+    "url": "https://supabase.com/pricing",
+    "ts": "20260102024221",
+    "date": "2026-01-02",
+    "source": "wayback",
+    "prevTs": "20251105163322",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Supabase: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Not included in free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 12,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "supabase-com-pricing-20260201111433",
+    "url": "https://supabase.com/pricing",
+    "ts": "20260201111433",
+    "date": "2026-02-01",
+    "source": "wayback",
+    "prevTs": "20260102024221",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Supabase: 2 limits changed (removed “250 KB”; added “256 KB”)",
+    "pairs": [],
+    "added": [
+      "256 KB",
+      "256 KB"
+    ],
+    "removed": [
+      "250 KB",
+      "250 KB"
+    ],
+    "totals": {
+      "removed": 8,
+      "added": 8,
+      "materialRemoved": 5,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "supabase-com-pricing-20260507002817",
+    "url": "https://supabase.com/pricing",
+    "ts": "20260507002817",
+    "date": "2026-05-07",
+    "source": "wayback",
+    "prevTs": "20260201111433",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 1,
+      "limit": 2,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Supabase: 1 price, 2 limits, 1 plan name changed (added “100K monthly active users”)",
+    "pairs": [],
+    "added": [
+      "Everything in the Free Plan, plus:",
+      "100K monthly active users",
+      "8 GB disk size per project",
+      "250 GB bandwidth",
+      "Daily backups (7 day retention)",
+      "Plan subscription $ 25",
+      "Not included in free"
+    ],
+    "removed": [
+      "Free"
+    ],
+    "totals": {
+      "removed": 18,
+      "added": 36,
+      "materialRemoved": 8,
+      "materialAdded": 14
+    }
+  },
+  {
+    "id": "supabase-com-pricing-20260602073302",
+    "url": "https://supabase.com/pricing",
+    "ts": "20260602073302",
+    "date": "2026-06-02",
+    "source": "wayback",
+    "prevTs": "20260507002817",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Supabase: 2 prices changed ($0.021 → $0.0213; $0.021 → $0.0213)",
+    "pairs": [
+      {
+        "before": "then $0.021 per GB",
+        "after": "then $0.0213 per GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.021",
+            "after": "$0.0213"
+          }
+        ]
+      },
+      {
+        "before": "100 GB included then $0.021 per GB",
+        "after": "100 GB included then $0.0213 per GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.021",
+            "after": "$0.0213"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "Not included in free"
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 2,
+      "materialRemoved": 3,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "supabase-com-pricing-20260709183136",
+    "url": "https://supabase.com/pricing",
+    "ts": "20260709183136",
+    "date": "2026-07-09",
+    "source": "wayback",
+    "prevTs": "20260602073302",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Supabase: 1 price changed (added “$39 per pipeline per month $3.00 per GB repli…”)",
+    "pairs": [],
+    "added": [
+      "Not included in free",
+      "$39 per pipeline per month $3.00 per GB replicated data $0.60 per GB backfill data"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 7,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "supabase-com-pricing-20260802042609",
+    "url": "https://supabase.com/pricing",
+    "ts": "20260802042609",
+    "date": "2026-08-02",
+    "source": "wayback",
+    "prevTs": "20260709183136",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Supabase: 2 prices changed (removed “$39 per pipeline per month $3.00 per GB repli…”; added “$0.053 per pipeline per hour $3.00 per GB pro…”)",
+    "pairs": [],
+    "added": [
+      "$0.053 per pipeline per hour $3.00 per GB processed during ongoing replication $0.60 per GB processed during initial sync"
+    ],
+    "removed": [
+      "$39 per pipeline per month $3.00 per GB replicated data $0.60 per GB backfill data"
+    ],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "supabase-com-pricing-20260902202107",
+    "url": "https://supabase.com/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260802042609",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Supabase: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Not included in free"
+    ],
+    "totals": {
+      "removed": 38,
+      "added": 39,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

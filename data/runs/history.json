@@ -1,0 +1,42 @@
+[
+  {
+    "ranAt": "2026-09-02T18:18:09.829Z",
+    "checked": 1,
+    "changed": 0,
+    "unreachable": 0,
+    "sources": {
+      "http": 1
+    }
+  },
+  {
+    "ranAt": "2026-09-02T20:21:07.867Z",
+    "checked": 267,
+    "changed": 132,
+    "unreachable": 17,
+    "sources": {
+      "http": 231,
+      "browser": 16,
+      "wayback": 3
+    }
+  },
+  {
+    "ranAt": "2026-09-02T20:26:28.314Z",
+    "checked": 26,
+    "changed": 2,
+    "unreachable": 7,
+    "sources": {
+      "http": 18,
+      "browser": 1
+    }
+  },
+  {
+    "ranAt": "2026-09-02T20:28:04.967Z",
+    "checked": 24,
+    "changed": 2,
+    "unreachable": 0,
+    "sources": {
+      "http": 23,
+      "browser": 1
+    }
+  }
+]

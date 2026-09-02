@@ -1,0 +1,129 @@
+Pricing
+Pricing that scales with you
+Flexible pricing for every workload. Choose serverless or on-demand pricing for GPUs, and pay-as-you-go for sandboxes.
+Get Started
+Book a Demo
+On-Demand
+Access a large fleet of GPUs across dozens of regions, running in the highest tier data centers.
+Get started
+GPU
+Per hour
+Per second
+B200 SXM6
+Starting from $3.93/hr
+H200 SXM5
+Starting from $1.99/hr
+H100 PCIE
+Starting from $1.74/hr
+A100 80GB SXM4
+Starting from $1.30/hr
+L40S PCIE
+Starting from $0.72/hr
+RTX PRO 6000 PCIE
+Starting from $1.04/hr
+A6000 PCIE
+Starting from $0.51/hr
+RTX 5090 PCIE
+Starting from $0.68/hr
+RTX 4090 PCIE
+Starting from $0.42/hr
+Serverless
+Pay only for what you use, billed by the second.
+Get started
+Resource
+Per hour
+Per second
+CPU
+$0.0000528 per core
+RAM
+$0.0000056 per GB
+RTX 4090
+$0.000192
+A10G
+$0.000292
+Sandboxes
+Isolated, secure environments for running untrusted code at scale. Spin up in milliseconds, pay only for active runtime.
+Get started
+Resource
+Per hour
+Per second
+CPU
+$0.0000528 per core
+RAM
+$0.0000056 per GB
+RTX 4090
+$0.000192
+A10G
+$0.000292
+Usage Tiers
+Developer
+$0
+Per month, plus usage
+Team
+$89
+Per month, plus usage
+Growth
+Contact Us
+Usage
+Monthly Credits
+$30
+Apps
+Unlimited apps
+Cloud Storage Volumes
+Unlimited storage volumes
+Custom Images
+Unlimited custom images
+GPU Concurrency
+5 Containers
+50 Containers
+Custom
+CPU Concurrency
+30 Containers
+1000 Containers
+Unlimited Containers
+API Requests
+Unlimited requests
+Log Retention
+30 Days
+1 Year
+Seats
+1 seat
+3 seats included, $25 per additional seat
+Unlimited seats
+Features
+Cloud Storage Volumes
+Secrets Manager
+Deployment Logs
+Export Your Code
+Keep Warm
+Autoscaling
+Support
+Community Support
+Live Chat Support
+Private Slack Channel
+Get Started
+Includes $30 Free
+Get Started
+Includes $30 Free
+Get Started
+Includes $30 Free
+Beam is powering hands-down the best developer experience to run models on GPUs easily at scale. Best decision on the infra side for us this year so far.
+Louis Morgner Co-founder, AI lead @ Jamie
+Frase is running language models exclusively on Beam and it was surprisingly easy to migrate, less maintenance, and is saving us money.
+Frankie L. CTO at Frase
+TRUSTED BY THE BEST AI COMPANIES
+Case study
+Frequently asked questions
+How much does storage cost?
+Storage is included, free of charge.
+I don't want serverless. Can I use Beam while keeping the server running 24/7?
+Yes. By default, apps will spin down automatically after each request, but you can control how long your apps are active. Many customers with latency-sensitive workloads choose to keep their servers running 24/7 on Beam.
+Am I billed for cold start?
+No. We only charge for the time to load your application code. We don’t charge for the time to spin up a server or load your container image.
+I have an existing Docker image. Can I use it on Beam?
+Yes. You can import any base image from a third-party image registry onto Beam.
+How secure is Beam?
+Workloads are isolated from one another and run in non-root containers. We also offer a self-hosted product which runs entirely in your own environment, ensuring that no data leaves your VPC.
+Deploy your app in minutes
+Get started with $30 of free credit, refreshed every month
+Start Building

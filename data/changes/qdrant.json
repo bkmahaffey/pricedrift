@@ -1,0 +1,228 @@
+[
+  {
+    "id": "qdrant-tech-pricing-20230610080549",
+    "url": "https://qdrant.tech/pricing/",
+    "ts": "20230610080549",
+    "date": "2023-06-10",
+    "source": "wayback",
+    "prevTs": "20230203072425",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Qdrant Cloud: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "Try for Free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 14,
+      "added": 17,
+      "materialRemoved": 3,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "qdrant-tech-pricing-20240604000311",
+    "url": "https://qdrant.tech/pricing/",
+    "ts": "20240604000311",
+    "date": "2024-06-04",
+    "source": "wayback",
+    "prevTs": "20230610080549",
+    "kind": "price",
+    "score": 19,
+    "counts": {
+      "price": 3,
+      "limit": 1,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Qdrant Cloud: 3 prices, 1 limit, 4 plan names changed (removed “Free Apache-2.0 license”; added “Starting at $0”)",
+    "pairs": [],
+    "added": [
+      "Start free, run anywhere.",
+      "Starting at $0",
+      "Starts with 1GB free cluster, no credit card required.",
+      "Start Free",
+      "1GB free forever cluster. No credit card required.",
+      "Unlimited users",
+      "$0.014"
+    ],
+    "removed": [
+      "Free Apache-2.0 license",
+      "Open Source & Free Forever",
+      "Starting from $25 Per node/month billed hourly",
+      "Try for Free",
+      "Free Tier Available"
+    ],
+    "totals": {
+      "removed": 37,
+      "added": 56,
+      "materialRemoved": 5,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "qdrant-tech-pricing-20241112140700",
+    "url": "https://qdrant.tech/pricing/",
+    "ts": "20241112140700",
+    "date": "2024-11-12",
+    "source": "wayback",
+    "prevTs": "20240604000311",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Qdrant Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Start free, run anywhere."
+    ],
+    "totals": {
+      "removed": 9,
+      "added": 8,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "qdrant-tech-pricing-20260121095436",
+    "url": "https://qdrant.tech/pricing/",
+    "ts": "20260121095436",
+    "date": "2026-01-21",
+    "source": "wayback",
+    "prevTs": "20241112140700",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Qdrant Cloud: 1 price changed (removed “$0.014”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$0.014"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "qdrant-tech-pricing-20260410130604",
+    "url": "https://qdrant.tech/pricing/",
+    "ts": "20260410130604",
+    "date": "2026-04-10",
+    "source": "wayback",
+    "prevTs": "20260121095436",
+    "kind": "price",
+    "score": 19,
+    "counts": {
+      "price": 1,
+      "limit": 3,
+      "plan": 5
+    },
+    "material": true,
+    "headline": "Qdrant Cloud: 1 price, 3 limits, 5 plan names changed (removed “Starting at $0”; added “0.5 vCPU / 1GB RAM/ 4 GB Disk.”)",
+    "pairs": [],
+    "added": [
+      "Start free. Scale to production with fully managed vector search. Meet all enterprise security and compliance requirements.",
+      "Free Tier",
+      "Free forever",
+      "0.5 vCPU / 1GB RAM/ 4 GB Disk.",
+      "Free Cloud Inference With Selected Models",
+      "Free Tokens for Paid Inference Models",
+      "Free Tier",
+      "Free Tier",
+      "Only free and external models",
+      "Start Free",
+      "What Happens if I Exceed Free Tier Limits?",
+      "If your data size growth exceeds the Free Tier limits (1GB RAM and 4GB disk), you can easily upgrade to a Standard Tier and scale up your cluster.",
+      "Qdrant Cloud pricing is based on resource usage, if you have a bigger cluster, you pay for more. The free tier includes 1GB RAM and 4GB disk storage, upgrading will get you a dedicated cluster.",
+      "How Do I Choose Between Free Tier and Standard Tier?",
+      "The Free Tier is ideal for testing, and prototypes being limited to 1GB RAM and 4GB disk without high availability. Choose the Standard Tier for workloads that require dedicated clusters, higher availability, and advanced features.",
+      "Start Building for Free"
+    ],
+    "removed": [
+      "Starting at $0",
+      "Starts with 1GB free cluster, no credit card required.",
+      "1GB free forever cluster. No credit card required.",
+      "Unlimited users"
+    ],
+    "totals": {
+      "removed": 53,
+      "added": 115,
+      "materialRemoved": 4,
+      "materialAdded": 16
+    }
+  },
+  {
+    "id": "qdrant-tech-pricing-20260513014848",
+    "url": "https://qdrant.tech/pricing/",
+    "ts": "20260513014848",
+    "date": "2026-05-13",
+    "source": "wayback",
+    "prevTs": "20260410130604",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Qdrant Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "qdrant-tech-pricing-20260723100619",
+    "url": "https://qdrant.tech/pricing/",
+    "ts": "20260723100619",
+    "date": "2026-07-23",
+    "source": "wayback",
+    "prevTs": "20260513014848",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Qdrant Cloud: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "Free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 45,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  }
+]

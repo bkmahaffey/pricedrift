@@ -1,0 +1,892 @@
+[
+  {
+    "id": "appwrite-io-pricing-20231005014445",
+    "url": "https://appwrite.io/pricing",
+    "ts": "20231005014445",
+    "date": "2023-10-05",
+    "source": "wayback",
+    "prevTs": "20230818180535",
+    "kind": "price",
+    "score": 63,
+    "counts": {
+      "price": 12,
+      "limit": 13,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Appwrite: 12 prices, 13 limits, 1 plan name changed (removed “$15, per month, per member”; added “100GB bandwidth”)",
+    "pairs": [],
+    "added": [
+      "100GB bandwidth",
+      "Unlimited projects",
+      "750K executions",
+      "50MB uploads",
+      "1 Database, 3 Buckets, 5 Functions",
+      "300GB bandwidth",
+      "Unlimited projects",
+      "150K Monthly active users",
+      "150GB Storage",
+      "3M executions",
+      "Unlimited Databases, Buckets and Functions",
+      "We support OSS maintainers with a free Pro Plan. Get in touch to find out more.",
+      "free",
+      "10GB",
+      "300GB",
+      "5TB",
+      "$40 per 100GB",
+      "2GB",
+      "150GB",
+      "500GB",
+      "$3 per 100GB",
+      "750K executions",
+      "3.5M executions",
+      "10M executions",
+      "Unlimited",
+      "Unlimited",
+      "$15 per member",
+      "$0",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "1 hour",
+      "7 days",
+      "14 days",
+      "Unlimited",
+      "75,000 Monthly active users",
+      "200,000 Monthly active users",
+      "500,000 Monthly active users",
+      "$3 per 1,000 users",
+      "Unlimited"
+    ],
+    "removed": [
+      "Starter Plan: a free tier for every developer working on a side project or SaaS product that can thrive on our starter plan limits.",
+      "Free",
+      "$15, per month, per member",
+      "$685, per month, per organization",
+      "We chose a model that differs from most in the industry, a business model that focuses on you as a developer instead of a plan around the number of projects you build. We see value in unlimited building, we see value in exploration and in learning. We never want to get in the way of your imagination or ideation.",
+      "This is a big step forward for Appwrite and the community and we are excited to see the response to our plans. The coming weeks we will work hard on making our pricing available, but until then developers can continue to build on Appwrite free of charge."
+    ],
+    "totals": {
+      "removed": 35,
+      "added": 173,
+      "materialRemoved": 6,
+      "materialAdded": 56
+    }
+  },
+  {
+    "id": "appwrite-io-pricing-20240208133116",
+    "url": "https://appwrite.io/pricing",
+    "ts": "20240208133116",
+    "date": "2024-02-08",
+    "source": "wayback",
+    "prevTs": "20231005014445",
+    "kind": "limits",
+    "score": 14,
+    "counts": {
+      "price": 0,
+      "limit": 7,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Appwrite: 7 limits changed (100GB → 10GB; 150K → 200K)",
+    "pairs": [
+      {
+        "before": "100GB bandwidth",
+        "after": "10GB bandwidth",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100GB",
+            "after": "10GB"
+          }
+        ]
+      },
+      {
+        "before": "150K Monthly active users",
+        "after": "200K monthly active users",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "150K",
+            "after": "200K"
+          }
+        ]
+      },
+      {
+        "before": "3M executions",
+        "after": "3.5M executions",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3M",
+            "after": "3.5M"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Unlimited projects (never paused)",
+      "2GB storage",
+      "75K monthly active users",
+      "Unlimited projects (never paused)",
+      "5TB bandwidth",
+      "500GB storage",
+      "10M executions",
+      "500K monthly active users",
+      "5GB"
+    ],
+    "removed": [
+      "Unlimited projects",
+      "50MB uploads",
+      "Unlimited projects",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 39,
+      "added": 58,
+      "materialRemoved": 16,
+      "materialAdded": 21
+    }
+  },
+  {
+    "id": "appwrite-io-pricing-20240414102135",
+    "url": "https://appwrite.io/pricing",
+    "ts": "20240414102135",
+    "date": "2024-04-14",
+    "source": "wayback",
+    "prevTs": "20240208133116",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Appwrite: 1 price changed (added “Why does Appwrite ask for payment verificatio…”)",
+    "pairs": [],
+    "added": [
+      "Why does Appwrite ask for payment verification for up to $150?"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "appwrite-io-pricing-20240606202518",
+    "url": "https://appwrite.io/pricing",
+    "ts": "20240606202518",
+    "date": "2024-06-06",
+    "source": "wayback",
+    "prevTs": "20240414102135",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 8,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Appwrite: 8 prices changed (removed “$40 per 100GB”; added “$0.4 per GB”)",
+    "pairs": [],
+    "added": [
+      "$0.4 per GB",
+      "$0.03 per GB",
+      "$0.003 per user",
+      "$0.005 per connection"
+    ],
+    "removed": [
+      "$40 per 100GB",
+      "$3 per 100GB",
+      "$3 per 1,000 users",
+      "$5 per 1,000"
+    ],
+    "totals": {
+      "removed": 9,
+      "added": 7,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "appwrite-io-pricing-20240913073232",
+    "url": "https://appwrite.io/pricing",
+    "ts": "20240913073232",
+    "date": "2024-09-13",
+    "source": "wayback",
+    "prevTs": "20240606202518",
+    "kind": "price",
+    "score": 46,
+    "counts": {
+      "price": 10,
+      "limit": 6,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Appwrite: 10 prices, 6 limits, 2 plan names changed (14 → 28)",
+    "pairs": [
+      {
+        "before": "14 days",
+        "after": "28 days",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "14",
+            "after": "28"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Unlimited projects",
+      "Everything in Free, plus:",
+      "Unlimited seats",
+      "Free",
+      "$40 per 100GB",
+      "$3 per 100GB",
+      "90 days",
+      "$3 per 1,000 users",
+      "$5 per 1,000",
+      "What happens if I reach a resource limit in my Free plan?",
+      "I have a Free plan account. How do I upgrade to a paid plan?",
+      "Free",
+      "$599"
+    ],
+    "removed": [
+      "Unlimited projects (never paused)",
+      "Unlimited projects (never paused)",
+      "5TB bandwidth",
+      "500GB storage",
+      "10M executions",
+      "500K monthly active users",
+      "5TB",
+      "$0.4 per GB",
+      "500GB",
+      "$0.03 per GB",
+      "10M executions",
+      "500,000 monthly active users",
+      "$0.003 per user",
+      "5TB",
+      "$0.005 per connection",
+      "$685"
+    ],
+    "totals": {
+      "removed": 35,
+      "added": 83,
+      "materialRemoved": 17,
+      "materialAdded": 14
+    }
+  },
+  {
+    "id": "appwrite-io-pricing-20241110172414",
+    "url": "https://appwrite.io/pricing",
+    "ts": "20241110172414",
+    "date": "2024-11-10",
+    "source": "wayback",
+    "prevTs": "20240913073232",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Appwrite: 2 limits changed (added “Daily backups stored for 7 days”)",
+    "pairs": [],
+    "added": [
+      "Daily backups stored for 7 days",
+      "7 days retention",
+      "750K / month",
+      "3.5M / month"
+    ],
+    "removed": [
+      "We support OSS maintainers with a free Pro Plan. Read our announcement blog to find out more."
+    ],
+    "totals": {
+      "removed": 15,
+      "added": 25,
+      "materialRemoved": 7,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "appwrite-io-pricing-20250124172933",
+    "url": "https://appwrite.io/pricing",
+    "ts": "20250124172933",
+    "date": "2025-01-24",
+    "source": "wayback",
+    "prevTs": "20241110172414",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 1,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Appwrite: 1 price, 5 limits changed (10GB → 5GB; 10GB → 5GB)",
+    "pairs": [
+      {
+        "before": "10GB bandwidth",
+        "after": "5GB bandwidth",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10GB",
+            "after": "5GB"
+          }
+        ]
+      },
+      {
+        "before": "10GB / month",
+        "after": "5GB / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10GB",
+            "after": "5GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "10 SMS / month",
+      "100 GB-hour / month",
+      "1,000 GB-hour / month",
+      "$0.09 per GB-hour",
+      "0.5 CPUs - 512MB RAM",
+      "Up to 4 CPUs - 4GB RAM"
+    ],
+    "removed": [
+      "Unlimited projects",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 16,
+      "added": 24,
+      "materialRemoved": 5,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "appwrite-io-pricing-20250218071810",
+    "url": "https://appwrite.io/pricing",
+    "ts": "20250218071810",
+    "date": "2025-02-18",
+    "source": "wayback",
+    "prevTs": "20250124172933",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Appwrite: 1 limit changed (3 → 1)",
+    "pairs": [
+      {
+        "before": "1 Database, 3 Buckets, 5 Functions per project",
+        "after": "1 Database, 1 Bucket, 3 Functions per project",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "3",
+            "after": "1"
+          },
+          {
+            "before": "5",
+            "after": "3"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "We support open-source teams with free access to Pro and Scale plans."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 11,
+      "added": 18,
+      "materialRemoved": 3,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "appwrite-io-pricing-20250404130711",
+    "url": "https://appwrite.io/pricing",
+    "ts": "20250404130711",
+    "date": "2025-04-04",
+    "source": "wayback",
+    "prevTs": "20250218071810",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 3,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Appwrite: 3 prices, 2 limits changed (3 → 5)",
+    "pairs": [
+      {
+        "before": "1 Database, 1 Bucket, 3 Functions per project",
+        "after": "1 Database, 1 Bucket, 5 Functions per project",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3",
+            "after": "5"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Start building for free and upgrade your plan as your project and team grows.",
+      "$0.060 per 100k reads",
+      "$0.10 per 100k writes",
+      "$5 per 1000 origin images"
+    ],
+    "removed": [
+      "90 days",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 8,
+      "added": 24,
+      "materialRemoved": 4,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "appwrite-io-pricing-20250503001639",
+    "url": "https://appwrite.io/pricing",
+    "ts": "20250503001639",
+    "date": "2025-05-03",
+    "source": "wayback",
+    "prevTs": "20250404130711",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Appwrite: 2 prices changed (removed “$2 per 1 Million”; added “$2 per 1m”)",
+    "pairs": [],
+    "added": [
+      "Unlimited",
+      "$2 per 1m"
+    ],
+    "removed": [
+      "$2 per 1 Million"
+    ],
+    "totals": {
+      "removed": 12,
+      "added": 26,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "appwrite-io-pricing-20250804214547",
+    "url": "https://appwrite.io/pricing",
+    "ts": "20250804214547",
+    "date": "2025-08-04",
+    "source": "wayback",
+    "prevTs": "20250503001639",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Appwrite: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Appwrite Sites is free during launch"
+    ],
+    "removed": [
+      "Start building for free and upgrade your plan as your project and team grows.",
+      "10 SMS / month"
+    ],
+    "totals": {
+      "removed": 13,
+      "added": 20,
+      "materialRemoved": 4,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "appwrite-io-pricing-20250906073654",
+    "url": "https://appwrite.io/pricing",
+    "ts": "20250906073654",
+    "date": "2025-09-06",
+    "source": "wayback",
+    "prevTs": "20250804214547",
+    "kind": "price",
+    "score": 20,
+    "counts": {
+      "price": 5,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Appwrite: 5 prices, 3 limits changed ($40 → $15; $3 → $2.8)",
+    "pairs": [
+      {
+        "before": "$40 per 100GB / month",
+        "after": "$15 per 100GB / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$40",
+            "after": "$15"
+          }
+        ]
+      },
+      {
+        "before": "$3 per 100GB",
+        "after": "$2.8 per 100GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3",
+            "after": "$2.8"
+          }
+        ]
+      },
+      {
+        "before": "$0.09 per GB-hour",
+        "after": "$0.06 per GB-hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.09",
+            "after": "$0.06"
+          }
+        ]
+      },
+      {
+        "before": "From $15",
+        "after": "From $25",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$15",
+            "after": "$25"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "2TB API bandwidth",
+      "2TB / month",
+      "Unlimited",
+      "1000 per month",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "removed": [
+      "Appwrite Sites is free during launch",
+      "Everything in Free, plus:",
+      "300GB API bandwidth",
+      "300GB / month",
+      "Unlimited",
+      "$0"
+    ],
+    "totals": {
+      "removed": 14,
+      "added": 40,
+      "materialRemoved": 11,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "appwrite-io-pricing-20251102051055",
+    "url": "https://appwrite.io/pricing",
+    "ts": "20251102051055",
+    "date": "2025-11-02",
+    "source": "wayback",
+    "prevTs": "20250906073654",
+    "kind": "price",
+    "score": 8,
+    "counts": {
+      "price": 1,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Appwrite: 1 price, 3 limits changed (removed “28 days”; added “500K / month”)",
+    "pairs": [],
+    "added": [
+      "Unlimited sites",
+      "500K / month",
+      "1750K / month",
+      "250K / month",
+      "750K / month"
+    ],
+    "removed": [
+      "Unlimited seats",
+      "28 days",
+      "From $599"
+    ],
+    "totals": {
+      "removed": 29,
+      "added": 15,
+      "materialRemoved": 6,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "appwrite-io-pricing-20251212090710",
+    "url": "https://appwrite.io/pricing",
+    "ts": "20251212090710",
+    "date": "2025-12-12",
+    "source": "wayback",
+    "prevTs": "20251102051055",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Appwrite: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "appwrite-io-pricing-20260129082126",
+    "url": "https://appwrite.io/pricing",
+    "ts": "20260129082126",
+    "date": "2026-01-29",
+    "source": "wayback",
+    "prevTs": "20251212090710",
+    "kind": "price",
+    "score": 7,
+    "counts": {
+      "price": 1,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Appwrite: 1 price, 2 limits changed (5 → 2)",
+    "pairs": [
+      {
+        "before": "1 Database, 1 Bucket, 5 Functions per project",
+        "after": "1 Database, 1 Bucket, 2 Functions per project",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "5",
+            "after": "2"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "50 / month",
+      "5,000 / month",
+      "$0.004 per screenshot"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 17,
+      "materialRemoved": 2,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "appwrite-io-pricing-20260308105343",
+    "url": "https://appwrite.io/pricing",
+    "ts": "20260308105343",
+    "date": "2026-03-08",
+    "source": "wayback",
+    "prevTs": "20260129082126",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Appwrite: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Free projects are paused after 1 week of inactivity. Limit of 2 projects."
+    ],
+    "removed": [
+      "Unlimited sites"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "appwrite-io-pricing-20260504135449",
+    "url": "https://appwrite.io/pricing",
+    "ts": "20260504135449",
+    "date": "2026-05-04",
+    "source": "wayback",
+    "prevTs": "20260308105343",
+    "kind": "price",
+    "score": 15,
+    "counts": {
+      "price": 3,
+      "limit": 2,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Appwrite: 3 prices, 2 limits, 1 plan name changed (removed “$0”; added “15 minutes”)",
+    "pairs": [],
+    "added": [
+      "Start building for free",
+      "Start building for free",
+      "Start building for free",
+      "15 minutes",
+      "45 minutes",
+      "$2.50 per 1m",
+      "256 KB",
+      "3 MB"
+    ],
+    "removed": [
+      "We support open-source teams with free access to Pro plans.",
+      "Unlimited",
+      "Can I self-host Appwrite for free?",
+      "Yes! Appwrite Self Hosted will always be Open Source and free for you to use, without any limits. You can find the latest version of Appwrite in our GitHub repository",
+      "Free",
+      "$0",
+      "From $25"
+    ],
+    "totals": {
+      "removed": 36,
+      "added": 38,
+      "materialRemoved": 7,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "appwrite-io-pricing-20260605224020",
+    "url": "https://appwrite.io/pricing",
+    "ts": "20260605224020",
+    "date": "2026-06-05",
+    "source": "wayback",
+    "prevTs": "20260504135449",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Appwrite: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Start building for free",
+      "Start building for free",
+      "Start building for free"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 3,
+      "materialRemoved": 3,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "appwrite-io-pricing-20260902202107",
+    "url": "https://appwrite.io/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260605224020",
+    "kind": "price",
+    "score": 158,
+    "counts": {
+      "price": 32,
+      "limit": 17,
+      "plan": 14
+    },
+    "material": true,
+    "headline": "Appwrite: 32 prices, 17 limits, 14 plan names changed (added “$0 fixed fee”)",
+    "pairs": [],
+    "added": [
+      "$0 fixed fee",
+      "From $10/mo per database",
+      "$10 of compute credits for database usage included every month. Serverless read/write quotas and overage rates are in Compare plans",
+      "1 GB",
+      "$10/mo",
+      "2 GB",
+      "$15/mo",
+      "4 GB",
+      "$60/mo",
+      "8 GB",
+      "$110/mo",
+      "16 GB",
+      "$210/mo",
+      "32 GB",
+      "$410/mo",
+      "64 GB",
+      "$960/mo",
+      "Free",
+      "2TB / month",
+      "$15 per 100GB / month",
+      "150GB",
+      "$2.8 per 100GB",
+      "3.5M / month",
+      "Free",
+      "$15",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "7 days",
+      "Free",
+      "200,000 monthly active users",
+      "$3 per 1,000 users",
+      "Unlimited",
+      "Free",
+      "1M tokens / month",
+      "10M tokens / month",
+      "$0.10 per 1M tokens",
+      "1M tokens / month",
+      "10M tokens / month",
+      "$0.05 per 1M tokens"
+    ],
+    "removed": [
+      "free"
+    ],
+    "totals": {
+      "removed": 37,
+      "added": 361,
+      "materialRemoved": 1,
+      "materialAdded": 91
+    },
+    "transition": true
+  }
+]

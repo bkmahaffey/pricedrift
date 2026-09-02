@@ -1,0 +1,586 @@
+[
+  {
+    "id": "prismic-io-pricing-20230505001204",
+    "url": "https://prismic.io/pricing",
+    "ts": "20230505001204",
+    "date": "2023-05-05",
+    "source": "wayback",
+    "prevTs": "20230131200422",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Prismic: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "We spent 9 months refreshing our website, learn from our experience Read the blog"
+    ],
+    "totals": {
+      "removed": 15,
+      "added": 27,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "prismic-io-pricing-20230820231238",
+    "url": "https://prismic.io/pricing",
+    "ts": "20230820231238",
+    "date": "2023-08-20",
+    "source": "wayback",
+    "prevTs": "20230505001204",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Prismic: 1 price changed (added “Complete a 10 minute brand concept test and g…”)",
+    "pairs": [],
+    "added": [
+      "Complete a 10 minute brand concept test and get a $20 gift card of your choice! Sign up here!"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "prismic-io-pricing-20231015160739",
+    "url": "https://prismic.io/pricing",
+    "ts": "20231015160739",
+    "date": "2023-10-15",
+    "source": "wayback",
+    "prevTs": "20230820231238",
+    "kind": "price",
+    "score": 13,
+    "counts": {
+      "price": 4,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Prismic: 4 prices, 1 limit changed (removed “Complete a 10 minute brand concept test and g…”; added “Paid overages allowed up to 500 GB at $0.20/GB”)",
+    "pairs": [],
+    "added": [
+      "Paid overages allowed up to 500 GB at $0.20/GB",
+      "Paid overages allowed up to 1 TB at $0.20/GB",
+      "Paid overages allowed up to 5 TB at $0.17/GB"
+    ],
+    "removed": [
+      "Complete a 10 minute brand concept test and get a $20 gift card of your choice! Sign up here!",
+      "Unlimited API Calls",
+      "Unlimited Locales",
+      "Everything in Free plus",
+      "Everything in Free plus:",
+      "3 TB of Built-in CDN"
+    ],
+    "totals": {
+      "removed": 36,
+      "added": 51,
+      "materialRemoved": 21,
+      "materialAdded": 18
+    }
+  },
+  {
+    "id": "prismic-io-pricing-20231208101047",
+    "url": "https://prismic.io/pricing",
+    "ts": "20231208101047",
+    "date": "2023-12-08",
+    "source": "wayback",
+    "prevTs": "20231015160739",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Prismic: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 8,
+      "added": 10,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "prismic-io-pricing-20240224131105",
+    "url": "https://prismic.io/pricing",
+    "ts": "20240224131105",
+    "date": "2024-02-24",
+    "source": "wayback",
+    "prevTs": "20231208101047",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 8,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Prismic: 8 prices changed ($7 → $10; $15 → $25)",
+    "pairs": [
+      {
+        "before": "$7 /month",
+        "after": "$10 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$7",
+            "after": "$10"
+          }
+        ]
+      },
+      {
+        "before": "$15 /month",
+        "after": "$25 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$15",
+            "after": "$25"
+          }
+        ]
+      },
+      {
+        "before": "$100 /month",
+        "after": "$150 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$100",
+            "after": "$150"
+          }
+        ]
+      },
+      {
+        "before": "$500 /month",
+        "after": "$675 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$500",
+            "after": "$675"
+          }
+        ]
+      },
+      {
+        "before": "$7 /month",
+        "after": "$10 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$7",
+            "after": "$10"
+          }
+        ]
+      },
+      {
+        "before": "$15 /month",
+        "after": "$25 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$15",
+            "after": "$25"
+          }
+        ]
+      },
+      {
+        "before": "$100 /month",
+        "after": "$150 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$100",
+            "after": "$150"
+          }
+        ]
+      },
+      {
+        "before": "$500 /month",
+        "after": "$675 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$500",
+            "after": "$675"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 26,
+      "added": 16,
+      "materialRemoved": 8,
+      "materialAdded": 8
+    }
+  },
+  {
+    "id": "prismic-io-pricing-20241203190835",
+    "url": "https://prismic.io/pricing",
+    "ts": "20241203190835",
+    "date": "2024-12-03",
+    "source": "wayback",
+    "prevTs": "20240224131105",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Prismic: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Unlimited documents",
+      "Unlimited types",
+      "Unlimited assets",
+      "Everything in Free and:"
+    ],
+    "removed": [
+      "Unlimited documents",
+      "Unlimited custom types",
+      "Unlimited assets",
+      "Unlimited image optimizations",
+      "Everything in Free plus:",
+      "Free starter plan for open-source"
+    ],
+    "totals": {
+      "removed": 26,
+      "added": 23,
+      "materialRemoved": 6,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "prismic-io-pricing-20250102100458",
+    "url": "https://prismic.io/pricing",
+    "ts": "20250102100458",
+    "date": "2025-01-02",
+    "source": "wayback",
+    "prevTs": "20241203190835",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Prismic: 1 price changed (added “Devs! Try out Prismic's new onboarding and ge…”)",
+    "pairs": [],
+    "added": [
+      "Devs! Try out Prismic's new onboarding and get $50 on us! 🎁 Apply Now"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "prismic-io-pricing-20250218125223",
+    "url": "https://prismic.io/pricing",
+    "ts": "20250218125223",
+    "date": "2025-02-18",
+    "source": "wayback",
+    "prevTs": "20250102100458",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Prismic: 1 price changed (removed “Devs! Try out Prismic's new onboarding and ge…”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Devs! Try out Prismic's new onboarding and get $50 on us! 🎁 Apply Now"
+    ],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "prismic-io-pricing-20250524034344",
+    "url": "https://prismic.io/pricing",
+    "ts": "20250524034344",
+    "date": "2025-05-24",
+    "source": "wayback",
+    "prevTs": "20250218125223",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Prismic: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "🚀 From 5 days to under 24 hours — how Unmind builds pages faster Check out their full success story"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "prismic-io-pricing-20250624142913",
+    "url": "https://prismic.io/pricing",
+    "ts": "20250624142913",
+    "date": "2025-06-24",
+    "source": "wayback",
+    "prevTs": "20250524034344",
+    "kind": "price",
+    "score": 40,
+    "counts": {
+      "price": 11,
+      "limit": 3,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Prismic: 11 prices, 3 limits, 1 plan name changed (removed “🚀 From 5 days to under 24 hours — how Unmind…”; added “$0 Free Get started”)",
+    "pairs": [],
+    "added": [
+      "$0 Free Get started",
+      "$10 Starter Get started",
+      "$25 Small Get started",
+      "$150 Medium Get started",
+      "$675 Platinum Get started",
+      "Unlimited essentials",
+      "Unlimited documents",
+      "Unlimited slices",
+      "Unlimited types",
+      "Unlimited assets",
+      "100 GB (no overages)",
+      "100 GB (paid overages allowed up to 500 GB)",
+      "500 GB (paid overages allowed up to 1 TB)",
+      "1 TB (paid overages allowed up to 5 TB)",
+      "$0.20/GB",
+      "$0.17/GB",
+      "Unlimited",
+      "$3000/year",
+      "$1/100 SKUs",
+      "$1/100 SKUs (paid overage up to 500)",
+      "$1/100 SKUs (paid overage up to 500 for monthly and 10,000 for yearly invoiced plan)"
+    ],
+    "removed": [
+      "🚀 From 5 days to under 24 hours — how Unmind builds pages faster Check out their full success story"
+    ],
+    "totals": {
+      "removed": 1,
+      "added": 120,
+      "materialRemoved": 1,
+      "materialAdded": 21
+    }
+  },
+  {
+    "id": "prismic-io-pricing-20250905142332",
+    "url": "https://prismic.io/pricing",
+    "ts": "20250905142332",
+    "date": "2025-09-05",
+    "source": "wayback",
+    "prevTs": "20250624142913",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 4,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Prismic: 4 prices changed ($1 → 100)",
+    "pairs": [
+      {
+        "before": "$1/100 SKUs (paid overage up to 500 for monthly and 10,000 for yearly invoiced plan)",
+        "after": "First 100 included, then $1/100 SKUs (paid overage up to 500 for monthly and 10,000 for yearly invoiced plan)",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "$1",
+            "after": "100"
+          },
+          {
+            "before": "100",
+            "after": "$1"
+          },
+          {
+            "before": "500",
+            "after": "100"
+          },
+          {
+            "before": "10,000",
+            "after": "500"
+          },
+          {
+            "before": null,
+            "after": "10,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "First 100 included, then $1/100 SKUs (paid overage up to 500)"
+    ],
+    "removed": [
+      "$1/100 SKUs",
+      "$1/100 SKUs (paid overage up to 500)"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 3,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "prismic-io-pricing-20251104201616",
+    "url": "https://prismic.io/pricing",
+    "ts": "20251104201616",
+    "date": "2025-11-04",
+    "source": "wayback",
+    "prevTs": "20250905142332",
+    "kind": "price",
+    "score": 21,
+    "counts": {
+      "price": 7,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Prismic: 7 prices changed ($0.20 → $0.30; $0.20 → $0.30)",
+    "pairs": [
+      {
+        "before": "Paid overages allowed up to 500 GB at $0.20/GB",
+        "after": "Paid overages allowed up to 500 GB at $0.30/GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.20",
+            "after": "$0.30"
+          }
+        ]
+      },
+      {
+        "before": "Paid overages allowed up to 1 TB at $0.20/GB",
+        "after": "Paid overages allowed up to 1 TB at $0.30/GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.20",
+            "after": "$0.30"
+          }
+        ]
+      },
+      {
+        "before": "Paid overages allowed up to 5 TB at $0.17/GB",
+        "after": "Paid overages allowed up to 5 TB at $0.25/GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.17",
+            "after": "$0.25"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0.30/GB",
+      "$0.25/GB"
+    ],
+    "removed": [
+      "$0.20/GB",
+      "$0.17/GB"
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 7,
+      "materialRemoved": 5,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "prismic-io-pricing-20260726194455",
+    "url": "https://prismic.io/pricing",
+    "ts": "20260726194455",
+    "date": "2026-07-26",
+    "source": "wayback",
+    "prevTs": "20251104201616",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Prismic: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 14,
+      "added": 47,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "prismic-io-pricing-20260902202107",
+    "url": "https://prismic.io/pricing",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "prevTs": "20260726194455",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Prismic: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    },
+    "transition": true
+  }
+]

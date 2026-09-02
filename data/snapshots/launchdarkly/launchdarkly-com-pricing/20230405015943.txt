@@ -1,0 +1,183 @@
+Pricing
+Flexible pricing for every team.
+Sign up now, upgrade anytime. Every new account gets a 14-day trial of our Pro features.
+Billed Annually
+Monthly
+Starter
+$ 8. 33
+Per seat
+Per month
+$10
+Per seat
+Per month
+Helps small teams reduce time spent building homegrown feature flags.
+Start trial
+Includes:
+Unlimited feature flags & Environments
+Feature flag dashboard
+Access to all 25+ SDKs
+Integrations with Microsoft Teams and Slack
+Pro
+$ 16. 67
+Per seat
+Per month
+$20
+Per seat
+Per month
+Scalable feature management and experimentation.
+Start trial
+Everything in Starter plus:
+Unlimited Projects
+API controls
+Reusable segments
+Flag reviews by peers
+Access to most integrations
+Enterprise
+Contact Sales
+Ensures consistent and safe software delivery practices for global teams.
+Get a quote
+Everything in Pro plus:
+Custom roles & teams
+SSO / SAML / SCIM
+Flag Scheduling
+Required Approvals
+Workflow Templates
+Bulk user targeting
+See all features
+Recent Forrester study proves LaunchDarkly’s impact on your bottom line.
+Learn more
+LaunchDarkly feature flags raise the bar
+245%
+ROI over 3 years
+9X
+increase in deployments
+75%
+decrease in time from commit to deploy
+90%
+improvement in MTTR
+Compare plans
+Starter
+Start trial
+Pro
+Start trial
+Enterprise
+Get a quote
+Core features
+Seat minimum
+1
+5
+25
+Unlimited feature flags
+Unlimited Environments
+Projects
+1
+Unlimited
+Access to all SDKs
+Server-side MAUs Monthly Active Users: Number of unique end users evaluating flags from server-side SDKs over a 30-day period.
+Unlimited
+Client-side MAUs Monthly Active Users: Number of unique end users evaluating flags from client-side SDKs over a 30-day period.
+1k
+10k
+Request quote
+Additional client-side MAUs
+Up to 300k
+No limit
+Experimentation Run feature-level A/B tests anywhere in your stack to make data-driven decisions. Assign metrics to a feature flag and precisely measure the changes in your users' behavior.
+Available
+Data Export Real-time export of raw analytics data, including feature flag requests, analytics events, custom events, experimentation events, and more.
+Available
+Targeting
+Individual targets Assign individual users to a particular flag variation.
+Targeting users by attribute Target segments of users by constructing rules.
+Reusable segments Target groups of users by attribute. Include or exclude individual users from a segment based on user attributes.
+Big Segments Import audiences of virtually any size from an external datastore for targeted feature delivery
+Bulk user management Perform edits on groups of users with Bulk Edit, or export all users a flag is targeting with Export as CSV.
+Flag prerequisites Build dependencies into your feature flags and control granular features from a global level.
+Managing flags
+Debugger Real-time insight into the events your application is sending to LaunchDarkly, so you can verify that your flags are set up correctly.
+Compare flags
+Clone flags
+Copy flag settings Copy flag setting across different environments.
+Code References Easily manage the technical debt by locating feature flags in your git base code repo.
+Integrations & API
+Slack, Microsoft Teams, & Trello
+Integrations
+Most
+All
+API controls
+Workflow automation
+Flag Scheduling Schedule changes to your flag's targeting rules for a future date and time.
+Require comments for flag changes Require a comment before making changes to critical feature flags.
+Required Approvals Require approvals before making changes to critical feature flags.
+Flag Triggers Automate changes to your feature flags based on metrics from external tools.
+Workflows Automate manual tasks required to manage a feature flag including scheduling and approvals.
+Security & compliance
+Multi-factor authentication
+SSO / SAML
+$10/seat/month
+SCIM Create, update, and deactivate members in LaunchDarkly using your IdP of choice.
+Audit Log for flag & segment changes
+30-day
+Unlimited
+Audit Log for account changes Review your account history across all projects and environments.
+30-day
+Unlimited
+Flag reviews Request peer review for changes to a flag’s targeting from anyone in the LaunchDarkly project.
+Custom roles & teams Define access levels to flags, projects, environments, metrics, or teams to enforce your policies.
+Service tokens Create long-term integrations with the LaunchDarkly API, that are not tied to a single seat (personal token).
+Relay Proxy Enterprise Streamline setup and management of Relay Proxy with auto-configuration and offline mode.
+Support
+Email support
+First reply SLA
+2 business days
+1 business day
+4 business hours
+Premium support
+Available
+Service SLA
+99.9%
+Dedicated Client Success Manager
+Available
+Frequently asked questions
+Pricing
+How do you calculate a month?
+Months are calculated based on when you start your plan. If you start a plan on September 18th, you'll be charged on the 18th of every month. If you start on the 31st, you'll be charged on the last day of every month. If you upgrade your plan, you'll be charged a prorated amount for the partial month, and your next month's bill will include the upgrade as part of your monthly charge.
+What is a seat?
+Each team member who logs in with a unique email address counts as a seat.
+Who needs a seat?
+To align with security best practices, we recommend unique logins for each team member responsible for any of the following:
+Creating flags, generally engineers
+Making changes to flag state (on/off, percentage rollout, targeting rules, etc.), often members of the product or growth team
+Team members requiring a unique API token, typically engineers or automation tooling
+Responsible for team management and LaunchDarkly Administration, such as folks in operations roles
+We find that teams also see increased value from the platform as they make use of delegation and our advanced audit logging features. This is increasingly true of larger teams starting at around 10 team members.
+How do you calculate Client-Side Monthly Active Users (MAUs)?
+Client-Side MAUs are calculated by counting the number of unique end users evaluating flags from client-side SDKs (JavaScript, iOS, Android, Xamarin, C/C++, React, etc.) over a 30-day period. We only count unique end users that evaluate a flag, so even if a single user account evaluates flags from multiple device types or over multiple sessions, we only count that user as 1 MAU over the 30-day period. For anonymous users, we can track them by session so if they visit multiple times they will onl
+How many Client-Side MAUs do I need?
+To estimate the number of Client-Side MAUs you'll need, you can count the number of unique monthly active users that would use your application where the LaunchDarkly SDKs are installed. If you're unsure about the number of connections, you can also see how many connections you have historically made in the usage section of our application.
+Do I need to buy the Client-Side MAUs add-on if I have just a few client-side devices?
+We provide 1,000 Client-Side MAUs on Starter plans and 10,000 MAUs on Professional plans with the core platform. The Client-Side MAUs add-on is intended for teams that need to scale their usage beyond this level. Enterprise plans also include a base set of Client-Side MAUs. Contact sales
+to discuss pricing.
+Do you offer discounts for non-profit, academic, or open-source projects?
+In most cases, yes. Please contact us
+to see if your organization is eligible.
+Do you offer annual pricing plans?
+Yes. All Enterprise plans are based on annual contracts. For Starter and Professional plans, you can select a yearly option when you sign up or at any time from the billing page in our app. There is an automatic discount on all plans set up with annual billing.
+Account management
+What happens if I go over my licensed events or MAUs?
+Usage metrics are visible in the account settings section of the application. If your team exceeds one of the licensed limits there will be a notification in the application and an email sent to all team Administrators. Professional plans are able to add more events or MAUs as needed up to the specified limits. Enterprise plans will receive the same notifications and our customer success team will work with them to correctly size their licensed limits.
+Will I have visibility of my usage?
+Yes. We provide visibility on all of your usage metrics. You can learn more about usage metrics
+in our documentation.
+What are custom roles?
+LaunchDarkly's basic role-based permission system provides global access control levels for team members based on a set of built-in roles (reader, writer, or admin/owner). Customers on enterprise plans also have access to LaunchDarkly's custom roles system. Custom roles allow you to create flexible policies that provide fine-grained access control to everything in LaunchDarkly—from feature flags and metrics to environments and teams. With custom roles, it's possible to enforce access policies th
+Data
+Can I trial Experimentation?
+Yes. Experimentation can be added as an unlimited 30-day trial by contacting sales
+.
+Can I use both the Experimentation add-on and the Data Export add-on?
+Yes, you pay per event that is sent for Experimentation and/or to the Data Export add-on.
+We've been able to roll out new features at a pace that would've been unheard of a couple of years ago.
+IBM Michael McKay Principal Software Engineer
+Discover how to deploy code faster with less risk.
+Get a demo
