@@ -16,6 +16,7 @@ const LIMIT = args.limit ? Number(args.limit) : Infinity;
 const PACE_MS = Number(args.pace || 1100);
 const PRIMARY = !!args.primary;
 const SPARSE = !!args.sparse; // before 2025: every other monthly capture
+const RESUME = !!args.resume; // continue URLs that already have state from their last accepted capture
 const LOG = path.join(ROOT, 'data', 'runs', 'backfill.log');
 const PROGRESS = path.join(ROOT, 'data', 'runs', 'backfill-progress.json');
 
@@ -63,10 +64,12 @@ async function main() {
   for (const s of services) {
     for (const url of (PRIMARY ? s.track_urls.slice(0, 1) : s.track_urls)) {
       const key = `${s.slug}|${url}`;
-      if (progress.done[key]) continue;
+      if (progress.done[key] && !RESUME) continue;
       const state = await readState(s.slug);
-      if (state.urls[urlKey(url)]?.latestTs) { progress.done[key] = 'had-state'; await writeJson(PROGRESS, progress); continue; }
-      const caps = await captures(url);
+      const have = state.urls[urlKey(url)]?.latestTs;
+      if (have && !RESUME) { progress.done[key] = 'had-state'; await writeJson(PROGRESS, progress); continue; }
+      let caps = await captures(url);
+      if (have) caps = caps.filter(c => c.timestamp > have);
       await sleep(PACE_MS);
       await log(`${s.slug} ${url}: ${caps.length} monthly captures`);
       let lastDigest = null, prevCount = 0, recorded = 0;
@@ -80,7 +83,7 @@ async function main() {
         const lines = htmlToLines(r.body);
         if (!goodEnough(lines, 25, 2)) { await log(`  ${c.timestamp}: thin capture (${lines.length} lines), skipped`); continue; }
         lastDigest = c.digest;
-        const res = await observe(s, url, c.timestamp, lines, 'wayback', { serviceName: s.name });
+        const res = await observe(s, url, c.timestamp, lines, 'wayback', { serviceName: s.name, strikes: 2 });
         if (res.status === 'changed') { recorded++; await log(`  ${c.timestamp}: ${res.change.material ? 'MATERIAL' : 'minor'} ${res.change.headline}`); }
         prevCount = lines.length;
       }

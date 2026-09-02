@@ -854,64 +854,12 @@
     }
   },
   {
-    "id": "support-atlassian-com-jira-cloud-administration-docs-explore-jira-cloud-plans-20260614094827",
-    "url": "https://support.atlassian.com/jira-cloud-administration/docs/explore-jira-cloud-plans/",
-    "ts": "20260614094827",
-    "date": "2026-06-14",
-    "source": "wayback",
-    "prevTs": "20260423101226",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Jira: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 4,
-      "added": 8,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    }
-  },
-  {
-    "id": "support-atlassian-com-jira-cloud-administration-docs-explore-jira-cloud-plans-20260902202107",
-    "url": "https://support.atlassian.com/jira-cloud-administration/docs/explore-jira-cloud-plans/",
-    "ts": "20260902202107",
-    "date": "2026-09-02",
-    "source": "http",
-    "prevTs": "20260614094827",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Jira: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 8,
-      "added": 21,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    },
-    "transition": true
-  },
-  {
     "id": "atlassian-com-software-jira-pricing-20260902202107",
     "url": "https://www.atlassian.com/software/jira/pricing",
     "ts": "20260902202107",
     "date": "2026-09-02",
     "source": "browser",
+    "transition": true,
     "prevTs": "20260201095125",
     "kind": "limits",
     "score": 32,
@@ -961,7 +909,33 @@
       "added": 170,
       "materialRemoved": 14,
       "materialAdded": 27
+    }
+  },
+  {
+    "id": "support-atlassian-com-jira-cloud-administration-docs-explore-jira-cloud-plans-20260902202107",
+    "url": "https://support.atlassian.com/jira-cloud-administration/docs/explore-jira-cloud-plans/",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260423101226",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
     },
-    "transition": true
+    "material": false,
+    "headline": "Jira: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 11,
+      "added": 28,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

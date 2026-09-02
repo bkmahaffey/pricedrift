@@ -375,11 +375,12 @@
     }
   },
   {
-    "id": "auth0-com-pricing-20260701142957",
+    "id": "auth0-com-pricing-20260902202107",
     "url": "https://auth0.com/pricing",
-    "ts": "20260701142957",
-    "date": "2026-07-01",
-    "source": "wayback",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "transition": true,
     "prevTs": "20260306093818",
     "kind": "copy",
     "score": 0,
@@ -395,36 +396,9 @@
     "removed": [],
     "totals": {
       "removed": 27,
-      "added": 88,
+      "added": 93,
       "materialRemoved": 0,
       "materialAdded": 0
     }
-  },
-  {
-    "id": "auth0-com-pricing-20260902202107",
-    "url": "https://auth0.com/pricing",
-    "ts": "20260902202107",
-    "date": "2026-09-02",
-    "source": "http",
-    "prevTs": "20260701142957",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Auth0: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 0,
-      "added": 5,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    },
-    "transition": true
   }
 ]

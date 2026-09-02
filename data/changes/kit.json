@@ -548,6 +548,7 @@
     "ts": "20260902202107",
     "date": "2026-09-02",
     "source": "http",
+    "transition": true,
     "prevTs": "20260803071040",
     "kind": "plans",
     "score": 5,
@@ -573,7 +574,6 @@
       "added": 6,
       "materialRemoved": 1,
       "materialAdded": 4
-    },
-    "transition": true
+    }
   }
 ]

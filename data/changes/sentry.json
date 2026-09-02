@@ -857,6 +857,7 @@
     "ts": "20260902202107",
     "date": "2026-09-02",
     "source": "http",
+    "transition": true,
     "prevTs": "20260811155053",
     "kind": "copy",
     "score": 0,
@@ -878,7 +879,6 @@
       "added": 0,
       "materialRemoved": 2,
       "materialAdded": 0
-    },
-    "transition": true
+    }
   }
 ]

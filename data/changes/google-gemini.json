@@ -2232,6 +2232,7 @@
     "ts": "20260902202107",
     "date": "2026-09-02",
     "source": "browser",
+    "transition": true,
     "prevTs": "20260901181012",
     "kind": "price",
     "score": 84,
@@ -2285,8 +2286,7 @@
       "added": 234,
       "materialRemoved": 0,
       "materialAdded": 34
-    },
-    "transition": true
+    }
   },
   {
     "id": "ai-google-dev-gemini-api-docs-rate-limits-20260902202107",
@@ -2294,6 +2294,7 @@
     "ts": "20260902202107",
     "date": "2026-09-02",
     "source": "browser",
+    "transition": true,
     "prevTs": "20260801054930",
     "kind": "price",
     "score": 6,
@@ -2316,7 +2317,6 @@
       "added": 31,
       "materialRemoved": 1,
       "materialAdded": 1
-    },
-    "transition": true
+    }
   }
 ]

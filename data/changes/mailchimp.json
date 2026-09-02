@@ -1909,6 +1909,7 @@
     "ts": "20260902202107",
     "date": "2026-09-02",
     "source": "http",
+    "transition": true,
     "prevTs": "20260801051744",
     "kind": "price",
     "score": 32,
@@ -1993,8 +1994,7 @@
       "materialRemoved": 49,
       "materialAdded": 20
     },
-    "flap": true,
-    "transition": true
+    "flap": true
   },
   {
     "id": "mailchimp-com-pricing-marketing-20260902203052",

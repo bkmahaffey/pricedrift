@@ -3,15 +3,16 @@
   "urls": {
     "atlassian-com-software-bitbucket-pricing": {
       "url": "https://www.atlassian.com/software/bitbucket/pricing",
-      "lastChecked": "20260902203052",
-      "lastSource": "http",
-      "latestTs": "20260502110945",
-      "hash": "6d78e5f26e533565",
+      "lastChecked": "20260801020250",
+      "lastSource": "wayback",
+      "latestTs": "20260701025015",
+      "hash": "af45579c969fc735",
       "firstTs": "20230121122416",
-      "status": "suspicious",
-      "lastChanged": "20260502110945",
-      "lastNote": "capture 20260902203052 had 60 lines vs 267; ignored",
-      "failures": 0
+      "status": "ok",
+      "lastChanged": "20260701025015",
+      "lastNote": "capture 20260602004701 had 60 lines vs 267; ignored (1/2)",
+      "failures": 0,
+      "lineCount": 60
     }
   }
 }

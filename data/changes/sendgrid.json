@@ -292,36 +292,6 @@
     }
   },
   {
-    "id": "support-sendgrid-com-hc-en-us-articles-35270136965403-twilio-sendgrid-trial-acco-20260516021402",
-    "url": "https://support.sendgrid.com/hc/en-us/articles/35270136965403-Twilio-SendGrid-Trial-Account-Plan",
-    "ts": "20260516021402",
-    "date": "2026-05-16",
-    "source": "wayback",
-    "prevTs": "20250408220653",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "SendGrid: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [
-      "Access to the \"Marketing\" user interface console will no longer be possible. Important Note: Customers on the free Marketing plan will have access to our Design Library; however, the other subtabs within the Marketing tab will remain inaccessible.",
-      "If I'm on a free Marketing Campaigns plan, will I need to upgrade after the trial period to continue using the Design Library?",
-      "Customers on the free Marketing plan will have access to our Design Library; however, the other subtabs within the Marketing tab will remain inaccessible:"
-    ],
-    "removed": [],
-    "totals": {
-      "removed": 7,
-      "added": 10,
-      "materialRemoved": 0,
-      "materialAdded": 3
-    }
-  },
-  {
     "id": "twilio-com-en-us-products-email-api-pricing-20260820084803",
     "url": "https://www.twilio.com/en-us/products/email-api/pricing",
     "ts": "20260820084803",
@@ -359,7 +329,8 @@
     "ts": "20260902202107",
     "date": "2026-09-02",
     "source": "http",
-    "prevTs": "20260516021402",
+    "transition": true,
+    "prevTs": "20250408220653",
     "kind": "copy",
     "score": 0,
     "counts": {
@@ -370,14 +341,17 @@
     "material": false,
     "headline": "SendGrid: pricing page text changed (no price or limit change detected)",
     "pairs": [],
-    "added": [],
+    "added": [
+      "Access to the \"Marketing\" user interface console will no longer be possible. Important Note: Customers on the free Marketing plan will have access to our Design Library; however, the other subtabs within the Marketing tab will remain inaccessible.",
+      "If I'm on a free Marketing Campaigns plan, will I need to upgrade after the trial period to continue using the Design Library?",
+      "Customers on the free Marketing plan will have access to our Design Library; however, the other subtabs within the Marketing tab will remain inaccessible:"
+    ],
     "removed": [],
     "totals": {
-      "removed": 2,
-      "added": 2,
+      "removed": 8,
+      "added": 11,
       "materialRemoved": 0,
-      "materialAdded": 0
-    },
-    "transition": true
+      "materialAdded": 3
+    }
   }
 ]

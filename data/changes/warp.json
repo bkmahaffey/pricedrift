@@ -1224,5 +1224,140 @@
       "materialRemoved": 3,
       "materialAdded": 3
     }
+  },
+  {
+    "id": "warp-dev-pricing-20260713203554",
+    "url": "https://www.warp.dev/pricing",
+    "ts": "20260713203554",
+    "date": "2026-07-13",
+    "source": "wayback",
+    "prevTs": "20260501075653",
+    "kind": "price",
+    "score": 83,
+    "counts": {
+      "price": 18,
+      "limit": 11,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Warp: 18 prices, 11 limits, 4 plan names changed (50 → 25; 50 → 25)",
+    "pairs": [
+      {
+        "before": "For teams scaling AI-powered development (up to 50 seats)",
+        "after": "For teams scaling AI-powered development (up to 25 seats)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50",
+            "after": "25"
+          }
+        ]
+      },
+      {
+        "before": "For teams scaling AI-powered development (up to 50 seats)",
+        "after": "For teams scaling AI-powered development (up to 25 seats)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50",
+            "after": "25"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Start free and scale as your team grows. Simple, transparent pricing with no surprises.",
+      "$20 /month",
+      "$200 /month",
+      "$50 /user /month",
+      "○ Unlimited seats",
+      "○ Unlimited seats"
+    ],
+    "removed": [
+      "Includes free AI credits",
+      "$ 1 8",
+      "$ 1 8 0",
+      "$ 4 5",
+      "Includes free AI credits",
+      "$ 1 8",
+      "$ 1 8 0",
+      "$ 4 5",
+      "Free",
+      "$ 0",
+      "Includes free AI credits",
+      "$ 1 8",
+      "Everything in Free, plus:",
+      "Unlimited Warp Drive objects and collaboration",
+      "Unlimited cloud conversation storage",
+      "$ 1 8 0",
+      "$ 4 5",
+      "For teams scaling AI-powered development (up to 50 seats)",
+      "Free",
+      "$0/mo",
+      "150/mo for 2 mo, 60/mo after",
+      "18,000/mo",
+      "1,500/mo",
+      "2 vCPU, 4 GiB RAM",
+      "4 vCPUs, 8 GiB RAM",
+      "8 vCPUs, 16 GiB RAM",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Free",
+      "150/mo for 2 mo, 60/mo after",
+      "2 vCPU,",
+      "4 GiB RAM",
+      "Free",
+      "$0/mo",
+      "Starts at $18/mo",
+      "Starts at $180/mo",
+      "Starts at $45/mo",
+      "150/mo for 2 mo, 60/mo after",
+      "1,500/mo"
+    ],
+    "totals": {
+      "removed": 596,
+      "added": 117,
+      "materialRemoved": 63,
+      "materialAdded": 21
+    }
+  },
+  {
+    "id": "warp-dev-pricing-20260804171943",
+    "url": "https://www.warp.dev/pricing",
+    "ts": "20260804171943",
+    "date": "2026-08-04",
+    "source": "wayback",
+    "prevTs": "20260713203554",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 4,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Warp: 4 prices, 3 limits changed (removed “○ 1,500 credits per month for cloud and local…”; added “○ 1,500 credits ($20 of included agent usage …”)",
+    "pairs": [],
+    "added": [
+      "○ 1,500 credits ($20 of included agent usage at API rates)",
+      "○ 18,000 credits (12× the included usage of Build)",
+      "○ 1,500 credits per seat ($20 of included agent usage at API rates)",
+      "○ 1,500 credits ($20 of included agent usage at API rates)",
+      "○ 18,000 credits (12× the included usage of Build)",
+      "○ 1,500 credits per seat ($20 of included agent usage at API rates)"
+    ],
+    "removed": [
+      "○ 1,500 credits per month for cloud and local agents",
+      "○ 1,500 credits per month for cloud and local agents",
+      "○ 1,500 credits per month for cloud and local agents",
+      "○ 1,500 credits per month for cloud and local agents"
+    ],
+    "totals": {
+      "removed": 15,
+      "added": 38,
+      "materialRemoved": 4,
+      "materialAdded": 6
+    }
   }
 ]

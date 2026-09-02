@@ -11,7 +11,8 @@
       "status": "suspicious",
       "lastChanged": "20260902202107",
       "failures": 0,
-      "lastNote": "capture 20260902203052 had 28 lines vs 376; ignored"
+      "lastNote": "capture 20260902203052 had 28 lines vs 376; ignored",
+      "lineCount": 376
     },
     "support-airtable-com-articles-2277136852-airtable-plans-overview": {
       "url": "https://support.airtable.com/articles/2277136852-airtable-plans-overview",
@@ -21,7 +22,8 @@
       "hash": "a9ec571234d14385",
       "firstTs": "20260902202107",
       "status": "ok",
-      "failures": 0
+      "failures": 0,
+      "lineCount": 273
     }
   }
 }

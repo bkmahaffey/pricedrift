@@ -1200,6 +1200,7 @@
     "ts": "20260902202107",
     "date": "2026-09-02",
     "source": "http",
+    "transition": true,
     "prevTs": "20260802131608",
     "kind": "price",
     "score": 59,
@@ -1257,8 +1258,7 @@
       "added": 23,
       "materialRemoved": 6,
       "materialAdded": 17
-    },
-    "transition": true
+    }
   },
   {
     "id": "docs-fireworks-ai-serverless-rate-limits-20260902202107",
@@ -1266,6 +1266,7 @@
     "ts": "20260902202107",
     "date": "2026-09-02",
     "source": "http",
+    "transition": true,
     "prevTs": "20260507222857",
     "kind": "limits",
     "score": 4,
@@ -1289,7 +1290,6 @@
       "added": 19,
       "materialRemoved": 0,
       "materialAdded": 4
-    },
-    "transition": true
+    }
   }
 ]

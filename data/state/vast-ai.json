@@ -11,7 +11,8 @@
       "status": "suspicious",
       "lastChanged": "20260902202107",
       "lastNote": "capture 20260902203052 had 87 lines vs 506; ignored",
-      "failures": 0
+      "failures": 0,
+      "lineCount": 506
     },
     "docs-vast-ai-guides-reference-faq-billing": {
       "url": "https://docs.vast.ai/guides/reference/faq/billing",
@@ -22,7 +23,8 @@
       "latestTs": "20260902202804",
       "hash": "39de7b7211224c6c",
       "firstTs": "20260902202804",
-      "lastSource": "http"
+      "lastSource": "http",
+      "lineCount": 23
     }
   }
 }

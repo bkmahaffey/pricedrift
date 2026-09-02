@@ -729,37 +729,12 @@
     }
   },
   {
-    "id": "docs-cohere-com-docs-rate-limits-20260802141654",
-    "url": "https://docs.cohere.com/docs/rate-limits",
-    "ts": "20260802141654",
-    "date": "2026-08-02",
-    "source": "wayback",
-    "prevTs": "20260614174550",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Cohere: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 1,
-      "added": 3,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    }
-  },
-  {
     "id": "cohere-com-pricing-20260902202107",
     "url": "https://cohere.com/pricing",
     "ts": "20260902202107",
     "date": "2026-09-02",
     "source": "http",
+    "transition": true,
     "prevTs": "20250627153407",
     "kind": "price",
     "score": 115,
@@ -831,8 +806,7 @@
       "added": 214,
       "materialRemoved": 38,
       "materialAdded": 25
-    },
-    "transition": true
+    }
   },
   {
     "id": "docs-cohere-com-docs-rate-limits-20260902202107",
@@ -840,7 +814,8 @@
     "ts": "20260902202107",
     "date": "2026-09-02",
     "source": "http",
-    "prevTs": "20260802141654",
+    "transition": true,
+    "prevTs": "20260614174550",
     "kind": "copy",
     "score": 1,
     "counts": {
@@ -856,11 +831,10 @@
     ],
     "removed": [],
     "totals": {
-      "removed": 2,
-      "added": 14,
+      "removed": 3,
+      "added": 17,
       "materialRemoved": 0,
       "materialAdded": 1
-    },
-    "transition": true
+    }
   }
 ]

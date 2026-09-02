@@ -124,14 +124,14 @@
     "source": "wayback",
     "prevTs": "20250208072351",
     "kind": "price",
-    "score": 9,
+    "score": 15,
     "counts": {
-      "price": 1,
-      "limit": 2,
+      "price": 4,
+      "limit": 1,
       "plan": 1
     },
     "material": true,
-    "headline": "Unleash: 1 price, 2 limits, 1 plan name changed (removed “53 million requests per month for Pay-as-you-…”; added “Run Unleash in your own environment 75$ / per…”)",
+    "headline": "Unleash: 4 prices, 1 limit, 1 plan name changed (removed “53 million requests per month for Pay-as-you-…”; added “Run Unleash in your own environment 75$ / per…”)",
     "pairs": [],
     "added": [
       "Run Unleash in your own environment 75$ / per seat/month billed annually 5 seat minimum GET LICENSE",
@@ -168,15 +168,15 @@
     "date": "2025-04-09",
     "source": "wayback",
     "prevTs": "20250308121251",
-    "kind": "plans",
-    "score": 3,
+    "kind": "price",
+    "score": 5,
     "counts": {
-      "price": 0,
-      "limit": 1,
+      "price": 1,
+      "limit": 0,
       "plan": 1
     },
     "material": true,
-    "headline": "Unleash: 1 limit, 1 plan name changed (removed “Run Unleash in your own environment 75$ / per…”)",
+    "headline": "Unleash: 1 price, 1 plan name changed (removed “Run Unleash in your own environment 75$ / per…”)",
     "pairs": [],
     "added": [
       "Run Unleash Enterprise in your own environment Free Download",
@@ -199,19 +199,20 @@
     "date": "2025-05-20",
     "source": "wayback",
     "prevTs": "20250409182145",
-    "kind": "limits",
-    "score": 10,
+    "kind": "price",
+    "score": 17,
     "counts": {
-      "price": 0,
-      "limit": 1,
+      "price": 3,
+      "limit": 0,
       "plan": 4
     },
     "material": true,
-    "headline": "Unleash: 1 limit, 4 plan names changed (removed “75$ / per seat/month 5 seat minimum”)",
+    "headline": "Unleash: 3 prices, 4 plan names changed (removed “75$ / per seat/month 5 seat minimum”; added “75$ / per seat/month”)",
     "pairs": [],
     "added": [
       "FREE DOWNLOAD",
       "START FREE",
+      "75$ / per seat/month",
       "Unlimited"
     ],
     "removed": [
@@ -226,7 +227,7 @@
       "removed": 42,
       "added": 40,
       "materialRemoved": 7,
-      "materialAdded": 4
+      "materialAdded": 5
     }
   },
   {
@@ -237,14 +238,14 @@
     "source": "wayback",
     "prevTs": "20250520115851",
     "kind": "price",
-    "score": 11,
+    "score": 17,
     "counts": {
-      "price": 2,
+      "price": 4,
       "limit": 1,
       "plan": 2
     },
     "material": true,
-    "headline": "Unleash: 2 prices, 1 limit, 2 plan names changed (removed “14-day free trial”; added “We host Unleash Enterprise for you. 14-day tr…”)",
+    "headline": "Unleash: 4 prices, 1 limit, 2 plan names changed (removed “14-day free trial”; added “We host Unleash Enterprise for you. 14-day tr…”)",
     "pairs": [],
     "added": [
       "We host Unleash Enterprise for you. 14-day trial, no credit card required 75$ /seat/month START FREE TRIAL",
@@ -256,12 +257,13 @@
       "14-day free trial",
       "FREE DOWNLOAD",
       "14-day free trial",
-      "START FREE"
+      "START FREE",
+      "75$ / per seat/month"
     ],
     "totals": {
       "removed": 43,
       "added": 38,
-      "materialRemoved": 4,
+      "materialRemoved": 5,
       "materialAdded": 4
     }
   },
@@ -272,25 +274,26 @@
     "date": "2026-05-14",
     "source": "wayback",
     "prevTs": "20260413202700",
-    "kind": "plans",
-    "score": 2,
+    "kind": "price",
+    "score": 5,
     "counts": {
-      "price": 0,
+      "price": 1,
       "limit": 0,
       "plan": 1
     },
     "material": true,
-    "headline": "Unleash: 1 plan name changed",
+    "headline": "Unleash: 1 price, 1 plan name changed (added “75$”)",
     "pairs": [],
     "added": [
-      "START FREE TRIAL"
+      "START FREE TRIAL",
+      "75$"
     ],
     "removed": [],
     "totals": {
       "removed": 14,
       "added": 21,
       "materialRemoved": 1,
-      "materialAdded": 2
+      "materialAdded": 3
     }
   },
   {
@@ -327,6 +330,7 @@
     "ts": "20260902202107",
     "date": "2026-09-02",
     "source": "http",
+    "transition": true,
     "prevTs": "20260816061532",
     "kind": "price",
     "score": 16,
@@ -355,7 +359,6 @@
       "added": 63,
       "materialRemoved": 0,
       "materialAdded": 9
-    },
-    "transition": true
+    }
   }
 ]

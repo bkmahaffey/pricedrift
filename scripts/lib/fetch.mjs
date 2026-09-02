@@ -65,24 +65,32 @@ export async function waybackLatest(url) {
 
 // Returns {lines, source, status, note, waybackTs?}
 export async function fetchPage(url, opts = {}) {
-  const { minLines = 15, minMaterial = 1, allowBrowser = true, allowWayback = true } = opts;
+  const { minLines = 15, minMaterial = 1, allowBrowser = true, allowWayback = true, expectLines = 0 } = opts;
   const notes = [];
+  // A capture far shorter than the last accepted one is probably client-rendered or partially blocked:
+  // keep it as a fallback but try the browser first.
+  const looksTruncated = lines => expectLines && lines.length < expectLines * 0.4;
+  let fallback = null;
   try {
     const r = await fetchPlain(url);
     if (r.ok) {
       const lines = htmlToLines(r.html);
-      if (goodEnough(lines, minLines, minMaterial)) return { lines, source: 'http', status: r.status, notes };
-      notes.push(`http: only ${lines.length} lines`);
+      if (goodEnough(lines, minLines, minMaterial)) {
+        if (!looksTruncated(lines) || !allowBrowser) return { lines, source: 'http', status: r.status, notes };
+        fallback = { lines, source: 'http', status: r.status, notes };
+        notes.push(`http: ${lines.length} lines, expected ~${expectLines}`);
+      } else notes.push(`http: only ${lines.length} lines`);
     } else notes.push(`http ${r.status}`);
   } catch (e) { notes.push(`http error: ${e.message.slice(0, 80)}`); }
   if (allowBrowser) {
     try {
       const r = await fetchRendered(url);
       const lines = htmlToLines(r.html);
-      if (goodEnough(lines, minLines, minMaterial)) return { lines, source: 'browser', status: r.status, notes };
+      if (goodEnough(lines, minLines, minMaterial) && (!fallback || lines.length > fallback.lines.length)) return { lines, source: 'browser', status: r.status, notes };
       notes.push(`browser: ${r.status}, ${lines.length} lines`);
     } catch (e) { notes.push(`browser error: ${e.message.slice(0, 80)}`); }
   }
+  if (fallback) return fallback;
   if (allowWayback) {
     try {
       const r = await waybackLatest(url);

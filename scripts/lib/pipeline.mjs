@@ -23,7 +23,7 @@ export function isInverse(a, b) {
  * Record a new observation of `url` for `service`.
  * Returns {status: 'first'|'unchanged'|'changed'|'skipped', change?}
  */
-export async function observe(service, url, ts, lines, source, { serviceName, forceTransition = false } = {}) {
+export async function observe(service, url, ts, lines, source, { serviceName, forceTransition = false, strikes = 3 } = {}) {
   const slug = service.slug;
   const key = urlKey(url);
   const state = await readState(slug);
@@ -35,7 +35,7 @@ export async function observe(service, url, ts, lines, source, { serviceName, fo
 
   if (!st.latestTs) {
     await writeSnapshot(slug, url, ts, lines);
-    Object.assign(st, { latestTs: ts, hash, firstTs: ts, status: 'ok', lastSource: source });
+    Object.assign(st, { latestTs: ts, hash, firstTs: ts, status: 'ok', lastSource: source, lineCount: lines.length });
     state.urls[key] = st;
     await writeState(slug, state);
     return { status: 'first' };
@@ -50,16 +50,14 @@ export async function observe(service, url, ts, lines, source, { serviceName, fo
   // A much shorter capture is usually a broken fetch. If the same short content shows up on three
   // consecutive checks it is the page's new reality (a redesign, a geo variant), so accept it as a baseline.
   if (isSuspiciousShrink(prevLines, lines) && !forceTransition) {
-    st.suspiciousCount = st.suspiciousHash === hash ? (st.suspiciousCount || 0) + 1 : 1;
-    st.suspiciousHash = hash;
-    if (st.suspiciousCount < 3) {
+    st.suspiciousCount = (st.suspiciousCount || 0) + 1;
+    if (st.suspiciousCount < strikes) {
       st.status = 'suspicious';
-      st.lastNote = `capture ${ts} had ${lines.length} lines vs ${prevLines.length}; ignored (${st.suspiciousCount}/3)`;
+      st.lastNote = `capture ${ts} had ${lines.length} lines vs ${prevLines.length}; ignored (${st.suspiciousCount}/${strikes})`;
       state.urls[key] = st;
       await writeState(slug, state);
       return { status: 'skipped' };
     }
-    forceTransition = true;
   }
   delete st.suspiciousCount; delete st.suspiciousHash;
   const change = computeChange(stableLines(prevLines), stable);
@@ -97,7 +95,7 @@ export async function observe(service, url, ts, lines, source, { serviceName, fo
       try { await fs.unlink(snapshotPath(slug, url, st.latestTs)); } catch {}
     }
   }
-  Object.assign(st, { latestTs: ts, hash, lastChanged: ts, status: 'ok', lastSource: source });
+  Object.assign(st, { latestTs: ts, hash, lastChanged: ts, status: 'ok', lastSource: source, lineCount: lines.length });
   state.urls[key] = st;
   await writeState(slug, state);
   return { status: 'changed', change: entry };

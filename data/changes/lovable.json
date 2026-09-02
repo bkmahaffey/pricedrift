@@ -327,32 +327,6 @@
     }
   },
   {
-    "id": "docs-lovable-dev-introduction-subscription-plans-20260811040003",
-    "url": "https://docs.lovable.dev/introduction/subscription-plans",
-    "ts": "20260811040003",
-    "date": "2026-08-11",
-    "source": "wayback",
-    "prevTs": "20260726211426",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Lovable: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 2,
-      "added": 0,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    }
-  },
-  {
     "id": "lovable-dev-pricing-20260901173948",
     "url": "https://lovable.dev/pricing",
     "ts": "20260901173948",
@@ -400,7 +374,8 @@
     "ts": "20260902202107",
     "date": "2026-09-02",
     "source": "http",
-    "prevTs": "20260811040003",
+    "transition": true,
+    "prevTs": "20260726211426",
     "kind": "copy",
     "score": 0,
     "counts": {
@@ -414,11 +389,10 @@
     "added": [],
     "removed": [],
     "totals": {
-      "removed": 10,
+      "removed": 12,
       "added": 36,
       "materialRemoved": 1,
       "materialAdded": 1
-    },
-    "transition": true
+    }
   }
 ]

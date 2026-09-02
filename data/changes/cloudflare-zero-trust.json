@@ -113,6 +113,7 @@
     "ts": "20260902202107",
     "date": "2026-09-02",
     "source": "browser",
+    "transition": true,
     "prevTs": "20260302023659",
     "kind": "price",
     "score": 20,
@@ -146,8 +147,7 @@
       "added": 85,
       "materialRemoved": 0,
       "materialAdded": 14
-    },
-    "transition": true
+    }
   },
   {
     "id": "cloudflare-com-plans-zero-trust-services-20260902203052",

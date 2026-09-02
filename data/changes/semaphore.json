@@ -297,11 +297,12 @@
     }
   },
   {
-    "id": "semaphore-io-pricing-20260901171824",
+    "id": "semaphore-io-pricing-20260902202107",
     "url": "https://semaphore.io/pricing",
-    "ts": "20260901171824",
-    "date": "2026-09-01",
-    "source": "wayback",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "transition": true,
     "prevTs": "20260711213406",
     "kind": "copy",
     "score": 0,
@@ -317,36 +318,9 @@
     "removed": [],
     "totals": {
       "removed": 0,
-      "added": 1,
+      "added": 3,
       "materialRemoved": 0,
       "materialAdded": 0
     }
-  },
-  {
-    "id": "semaphore-io-pricing-20260902202107",
-    "url": "https://semaphore.io/pricing",
-    "ts": "20260902202107",
-    "date": "2026-09-02",
-    "source": "http",
-    "prevTs": "20260901171824",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Semaphore: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 0,
-      "added": 2,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    },
-    "transition": true
   }
 ]

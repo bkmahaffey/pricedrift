@@ -1406,6 +1406,7 @@
     "ts": "20260902202107",
     "date": "2026-09-02",
     "source": "http",
+    "transition": true,
     "prevTs": "20260803225700",
     "kind": "price",
     "score": 75,
@@ -1605,7 +1606,6 @@
       "added": 90,
       "materialRemoved": 16,
       "materialAdded": 34
-    },
-    "transition": true
+    }
   }
 ]

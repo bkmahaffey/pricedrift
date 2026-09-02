@@ -97,14 +97,14 @@
     "source": "wayback",
     "prevTs": "20250702051936",
     "kind": "price",
-    "score": 36,
+    "score": 45,
     "counts": {
-      "price": 12,
+      "price": 15,
       "limit": 0,
       "plan": 0
     },
     "material": true,
-    "headline": "Mistral AI: 12 prices changed ($0.15 → $0.3; $0.15 → $0.04)",
+    "headline": "Mistral AI: 15 prices changed ($0.15 → $0.3; $0.15 → $0.04)",
     "pairs": [
       {
         "before": "Output (/M tokens) $0.15",
@@ -140,23 +140,26 @@
       "Up to 40x Free",
       "Up to 5x Free",
       "$0.004 / $0.1 (text)",
+      "Input (/M tokens) 2$",
       "Input (/M tokens) $0.4",
       "Audio Input/min $0.002",
       "Input (per min / per M tok) $0.004 (audio) / $0.1 (text)",
       "Input (per min / per M tok) $0.001 (audio) / $0.04 (text)",
       "Input (/M tokens) $0.15",
       "Output (/M tokens) $0.15",
-      "Output (/M tokens) $0.6"
+      "Output (/M tokens) $0.6",
+      "Output (/M tokens) 1$"
     ],
     "removed": [
+      "Output (/M tokens) 0.6$",
       "Input (/M tokens) $0.1",
       "Input (/M tokens) $0.1"
     ],
     "totals": {
       "removed": 117,
       "added": 180,
-      "materialRemoved": 40,
-      "materialAdded": 55
+      "materialRemoved": 41,
+      "materialAdded": 57
     }
   },
   {
@@ -167,14 +170,14 @@
     "source": "wayback",
     "prevTs": "20250802151648",
     "kind": "price",
-    "score": 258,
+    "score": 267,
     "counts": {
-      "price": 82,
+      "price": 85,
       "limit": 6,
       "plan": 0
     },
     "material": true,
-    "headline": "Mistral AI: 82 prices, 6 limits changed (removed “$0.4”)",
+    "headline": "Mistral AI: 85 prices, 6 limits changed (removed “$0.4”)",
     "pairs": [],
     "added": [],
     "removed": [
@@ -188,6 +191,7 @@
       "Output (/M tokens) $2",
       "Input (/M tokens) $2",
       "Output (/M tokens) $5",
+      "Input (/M tokens) 2$",
       "Output (/M tokens) $6",
       "Input (/M tokens) $0.4",
       "Output (/M tokens) $2",
@@ -216,13 +220,12 @@
       "Output (/M tokens) $6",
       "Pixtral 12B",
       "$2",
-      "$2",
-      "Input (/M tokens) $0.15"
+      "$2"
     ],
     "totals": {
       "removed": 276,
       "added": 23,
-      "materialRemoved": 100,
+      "materialRemoved": 103,
       "materialAdded": 0
     }
   },
@@ -295,14 +298,14 @@
     "source": "wayback",
     "prevTs": "20251105122204",
     "kind": "price",
-    "score": 319,
+    "score": 548,
     "counts": {
-      "price": 98,
-      "limit": 8,
+      "price": 175,
+      "limit": 7,
       "plan": 5
     },
     "material": true,
-    "headline": "Mistral AI: 98 prices, 8 limits, 5 plan names changed (removed “Base $ 0 0 1 2 3 4 5 6 7 8 9 0 0 1 2 3 4 5 6 …”; added “\"}],[\"$\",\"$L45\",\"1\",{\"question\":\"Which model …”)",
+    "headline": "Mistral AI: 175 prices, 7 limits, 5 plan names changed (removed “Base $ 0 0 1 2 3 4 5 6 7 8 9 0 0 1 2 3 4 5 6 …”; added “\"}],[\"$\",\"$L45\",\"1\",{\"question\":\"Which model …”)",
     "pairs": [],
     "added": [
       "\"}],[\"$\",\"$L45\",\"1\",{\"question\":\"Which model should I use?\",\"answer\":\" For most tasks: Mistral Large (best overall performance). For coding: Codestral. For vision tasks: Pixtral Large. For cost-sensitive projects: Ministral 8B. Learn more about our models",
@@ -374,7 +377,7 @@
       "removed": 149,
       "added": 550,
       "materialRemoved": 28,
-      "materialAdded": 149
+      "materialAdded": 224
     }
   },
   {
@@ -385,14 +388,14 @@
     "source": "wayback",
     "prevTs": "20251202101529",
     "kind": "price",
-    "score": 272,
+    "score": 501,
     "counts": {
-      "price": 76,
-      "limit": 20,
+      "price": 153,
+      "limit": 19,
       "plan": 2
     },
     "material": true,
-    "headline": "Mistral AI: 76 prices, 20 limits, 2 plan names changed (45 → $2; 45 → 200)",
+    "headline": "Mistral AI: 153 prices, 19 limits, 2 plan names changed (45 → $2; 45 → 200)",
     "pairs": [
       {
         "before": "\"}],[\"$\",\"$L45\",\"2\",{\"question\":\"How is API pricing calculated?\",\"answer\":\" We charge per million tokens processed - both input (your prompts) and output (responses) count. For example, Mistral Large costs $2 /M tokens in and $6 /M tokens out. Batch processing gets a 50% discount.",
@@ -532,7 +535,7 @@
     "totals": {
       "removed": 548,
       "added": 605,
-      "materialRemoved": 149,
+      "materialRemoved": 224,
       "materialAdded": 114
     }
   },
@@ -645,6 +648,7 @@
     "ts": "20260902202107",
     "date": "2026-09-02",
     "source": "http",
+    "transition": true,
     "prevTs": "20260806181159",
     "kind": "price",
     "score": 76,
@@ -705,7 +709,6 @@
       "added": 90,
       "materialRemoved": 32,
       "materialAdded": 16
-    },
-    "transition": true
+    }
   }
 ]

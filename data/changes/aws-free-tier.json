@@ -240,6 +240,7 @@
     "ts": "20260902202107",
     "date": "2026-09-02",
     "source": "http",
+    "transition": true,
     "prevTs": "20240503003959",
     "kind": "price",
     "score": 38,
@@ -289,7 +290,7 @@
       "Always Free: These free tier offers do not automatically expire at the end of your 12 month AWS Free Tier term, but are available to both existing and new AWS customers indefinitely.",
       "Trials: These free tier offers are short term trial offers that start from the time of first usage begins. Once the trial period expires you simply pay standard, pay-as-you-go service rates (see each service page for full pricing details).",
       "The Amazon AWS Free Tier applies to participating services across our global regions",
-      ". Your free usage under the AWS Free Tier is calculated each month across all regions and automatically applied to your bill – free usage does not accumulate. The AWS Free Tier is not available in the AWS GovCloud (US)",
+      "Your free usage under the AWS Free Tier is calculated each month across all regions and automatically applied to your bill – free usage does not accumulate. The AWS Free Tier is not available in the AWS GovCloud (US)",
       "*The Lambda free tier is available in the AWS GovCloud (US) Region. See Lambda pricing",
       "Learn more about AWS Free Tier Products",
       "Browse through our collection of videos to learn more about the AWS Free Tier, and how to setup and monitor your account.",
@@ -302,7 +303,6 @@
       "added": 92,
       "materialRemoved": 28,
       "materialAdded": 16
-    },
-    "transition": true
+    }
   }
 ]

@@ -43,8 +43,8 @@
     "totals": {
       "removed": 8,
       "added": 29,
-      "materialRemoved": 4,
-      "materialAdded": 9
+      "materialRemoved": 5,
+      "materialAdded": 10
     }
   },
   {
@@ -62,8 +62,19 @@
       "plan": 1
     },
     "material": true,
-    "headline": "Meilisearch Cloud: 10 prices, 5 limits, 1 plan name changed (10K → 100K; $1200 → $300)",
+    "headline": "Meilisearch Cloud: 10 prices, 5 limits, 1 plan name changed (0 → $30; 10K → 100K)",
     "pairs": [
+      {
+        "before": "Build Starting at 0$ /month",
+        "after": "Starting at $ 30 /month",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "0",
+            "after": "$30"
+          }
+        ]
+      },
       {
         "before": "10K searches/month included",
         "after": "100K searches included",
@@ -88,7 +99,6 @@
       }
     ],
     "added": [
-      "Starting at $ 30 /month",
       "1M documents included",
       "Start a 14-day free trial",
       "1M searches included",
@@ -115,7 +125,7 @@
     "totals": {
       "removed": 62,
       "added": 82,
-      "materialRemoved": 14,
+      "materialRemoved": 15,
       "materialAdded": 15
     }
   },

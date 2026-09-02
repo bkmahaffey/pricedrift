@@ -255,16 +255,17 @@
     "source": "wayback",
     "prevTs": "20240101195439",
     "kind": "price",
-    "score": 48,
+    "score": 51,
     "counts": {
-      "price": 14,
+      "price": 15,
       "limit": 3,
       "plan": 0
     },
     "material": true,
-    "headline": "MongoDB Atlas: 14 prices, 3 limits changed (removed “$5 per TB Processed”; added “$0.19”)",
+    "headline": "MongoDB Atlas: 15 prices, 3 limits changed (removed “$5 per TB Processed”; added “5$ per TB Scanned”)",
     "pairs": [],
     "added": [
+      "5$ per TB Scanned",
       "$0.19",
       "2GB",
       "$0.21",
@@ -292,7 +293,7 @@
       "removed": 201,
       "added": 90,
       "materialRemoved": 5,
-      "materialAdded": 15
+      "materialAdded": 16
     }
   },
   {
@@ -775,23 +776,25 @@
     "date": "2025-04-01",
     "source": "wayback",
     "prevTs": "20250301182909",
-    "kind": "copy",
-    "score": 0,
+    "kind": "price",
+    "score": 3,
     "counts": {
-      "price": 0,
+      "price": 1,
       "limit": 0,
       "plan": 0
     },
-    "material": false,
-    "headline": "MongoDB Atlas: pricing page text changed (no price or limit change detected)",
+    "material": true,
+    "headline": "MongoDB Atlas: 1 price changed (added “5$ per TB Scanned”)",
     "pairs": [],
-    "added": [],
+    "added": [
+      "5$ per TB Scanned"
+    ],
     "removed": [],
     "totals": {
       "removed": 1,
       "added": 12,
       "materialRemoved": 1,
-      "materialAdded": 1
+      "materialAdded": 2
     }
   },
   {
@@ -881,14 +884,14 @@
     "source": "wayback",
     "prevTs": "20250803044359",
     "kind": "price",
-    "score": 298,
+    "score": 304,
     "counts": {
-      "price": 73,
+      "price": 75,
       "limit": 39,
       "plan": 1
     },
     "material": true,
-    "headline": "MongoDB Atlas: 73 prices, 39 limits, 1 plan name changed (removed “$7.00”; added “Starts at $56.94/month”)",
+    "headline": "MongoDB Atlas: 75 prices, 39 limits, 1 plan name changed (removed “$7.00”; added “Starts at $56.94/month”)",
     "pairs": [],
     "added": [
       "Starts at $56.94/month",
@@ -937,6 +940,8 @@
       "$7.00",
       "$6.00",
       "$4.00",
+      "5$ per TB Scanned",
+      "5$ per TB Scanned",
       "100 GB",
       "200 GB",
       "$0.23/hr",
@@ -970,14 +975,12 @@
       "$2.25/hr",
       "1800 GB",
       "$3.18/hr",
-      "2400 GB",
-      "$4.16/hr",
-      "100 GB"
+      "2400 GB"
     ],
     "totals": {
       "removed": 85,
       "added": 103,
-      "materialRemoved": 76,
+      "materialRemoved": 78,
       "materialAdded": 81
     }
   },
@@ -1086,11 +1089,12 @@
     }
   },
   {
-    "id": "mongodb-com-pricing-20260801185632",
+    "id": "mongodb-com-pricing-20260902202107",
     "url": "https://www.mongodb.com/pricing",
-    "ts": "20260801185632",
-    "date": "2026-08-01",
-    "source": "wayback",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "transition": true,
     "prevTs": "20260101050850",
     "kind": "copy",
     "score": 0,
@@ -1105,37 +1109,10 @@
     "added": [],
     "removed": [],
     "totals": {
-      "removed": 24,
-      "added": 30,
+      "removed": 26,
+      "added": 32,
       "materialRemoved": 3,
       "materialAdded": 3
     }
-  },
-  {
-    "id": "mongodb-com-pricing-20260902202107",
-    "url": "https://www.mongodb.com/pricing",
-    "ts": "20260902202107",
-    "date": "2026-09-02",
-    "source": "http",
-    "prevTs": "20260801185632",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "MongoDB Atlas: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 3,
-      "added": 3,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    },
-    "transition": true
   }
 ]

@@ -548,60 +548,33 @@
     }
   },
   {
-    "id": "clerk-com-pricing-20260809170908",
-    "url": "https://clerk.com/pricing",
-    "ts": "20260809170908",
-    "date": "2026-08-09",
-    "source": "wayback",
-    "prevTs": "20260521051800",
-    "kind": "copy",
-    "score": 1,
-    "counts": {
-      "price": 0,
-      "limit": 1,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Clerk: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [
-      "A monthly retained organization is an organization with at least 2 members, where at least one of those members is a monthly retained user for that month. Like users, you are only billed for retained organizations."
-    ],
-    "removed": [],
-    "totals": {
-      "removed": 22,
-      "added": 21,
-      "materialRemoved": 7,
-      "materialAdded": 8
-    }
-  },
-  {
     "id": "clerk-com-pricing-20260902202107",
     "url": "https://clerk.com/pricing",
     "ts": "20260902202107",
     "date": "2026-09-02",
     "source": "http",
-    "prevTs": "20260809170908",
-    "kind": "copy",
-    "score": 1,
+    "transition": true,
+    "prevTs": "20260521051800",
+    "kind": "limits",
+    "score": 2,
     "counts": {
       "price": 0,
       "limit": 1,
       "plan": 0
     },
-    "material": false,
-    "headline": "Clerk: pricing page text changed (no price or limit change detected)",
+    "material": true,
+    "headline": "Clerk: 1 limit changed (added “30 day retention”)",
     "pairs": [],
     "added": [
-      "30 day retention"
+      "30 day retention",
+      "A monthly retained organization is an organization with at least 2 members, where at least one of those members is a monthly retained user for that month. Like users, you are only billed for retained organizations."
     ],
     "removed": [],
     "totals": {
-      "removed": 3,
-      "added": 7,
-      "materialRemoved": 0,
-      "materialAdded": 1
-    },
-    "transition": true
+      "removed": 25,
+      "added": 28,
+      "materialRemoved": 7,
+      "materialAdded": 9
+    }
   }
 ]

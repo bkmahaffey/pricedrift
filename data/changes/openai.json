@@ -2360,34 +2360,6 @@
     }
   },
   {
-    "id": "developers-openai-com-api-docs-guides-rate-limits-20260820143940",
-    "url": "https://developers.openai.com/api/docs/guides/rate-limits",
-    "ts": "20260820143940",
-    "date": "2026-08-20",
-    "source": "wayback",
-    "prevTs": "20260518212558",
-    "kind": "copy",
-    "score": 1,
-    "counts": {
-      "price": 0,
-      "limit": 1,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "OpenAI API: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [
-      "3s"
-    ],
-    "removed": [],
-    "totals": {
-      "removed": 241,
-      "added": 446,
-      "materialRemoved": 0,
-      "materialAdded": 1
-    }
-  },
-  {
     "id": "developers-openai-com-api-docs-pricing-20260901103152",
     "url": "https://developers.openai.com/api/docs/pricing",
     "ts": "20260901103152",
@@ -2499,6 +2471,7 @@
     "ts": "20260902202107",
     "date": "2026-09-02",
     "source": "http",
+    "transition": true,
     "prevTs": "20260901103152",
     "kind": "copy",
     "score": 0,
@@ -2517,8 +2490,7 @@
       "added": 1,
       "materialRemoved": 0,
       "materialAdded": 0
-    },
-    "transition": true
+    }
   },
   {
     "id": "developers-openai-com-api-docs-guides-rate-limits-20260902202107",
@@ -2526,27 +2498,28 @@
     "ts": "20260902202107",
     "date": "2026-09-02",
     "source": "http",
-    "prevTs": "20260820143940",
-    "kind": "copy",
-    "score": 1,
+    "transition": true,
+    "prevTs": "20260518212558",
+    "kind": "limits",
+    "score": 2,
     "counts": {
       "price": 0,
       "limit": 1,
       "plan": 0
     },
-    "material": false,
-    "headline": "OpenAI API: pricing page text changed (no price or limit change detected)",
+    "material": true,
+    "headline": "OpenAI API: 1 limit changed (added “3s”)",
     "pairs": [],
     "added": [
+      "3s",
       "As a rule of thumb, once your traffic reaches 1 million input tokens per minute (TPM), increase it by no more than 50% every 15 minutes. The exact point at which the ramp-rate limit applies can vary by model and traffic conditions."
     ],
     "removed": [],
     "totals": {
-      "removed": 13,
-      "added": 50,
+      "removed": 242,
+      "added": 484,
       "materialRemoved": 0,
-      "materialAdded": 1
-    },
-    "transition": true
+      "materialAdded": 2
+    }
   }
 ]

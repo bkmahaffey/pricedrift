@@ -11,7 +11,8 @@
       "status": "ok",
       "lastChanged": "20260902202804",
       "lastNote": "http: only 122 lines; browser: 200, 122 lines; wayback: 116 lines",
-      "failures": 0
+      "failures": 0,
+      "lineCount": 122
     },
     "elastic-co-cloud-elasticsearch-service-signup": {
       "url": "https://www.elastic.co/cloud/elasticsearch-service/signup",
@@ -22,7 +23,8 @@
       "latestTs": "20260902202628",
       "hash": "01b32a3ca9e85040",
       "firstTs": "20260902202628",
-      "lastSource": "http"
+      "lastSource": "http",
+      "lineCount": 18
     }
   }
 }

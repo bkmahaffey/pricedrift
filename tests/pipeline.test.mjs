@@ -19,7 +19,8 @@ test('a much shorter capture is ignored twice, then accepted as a baseline on th
   assert.equal((await observe(svc, url, '20260103000000', short, 'http')).status, 'skipped');
   const r = await observe(svc, url, '20260104000000', short, 'http');
   assert.equal(r.status, 'changed');
-  assert.equal(r.change.transition, true);
+  assert.ok(!r.change.transition, 'same environment: a real page change, not a baseline transition');
+  assert.equal(r.change.material, true);
   await fs.rm(path.join(DATA, 'snapshots', svc.slug), { recursive: true, force: true });
   await fs.rm(path.join(DATA, 'state', `${svc.slug}.json`), { force: true });
   await fs.rm(path.join(DATA, 'changes', `${svc.slug}.json`), { force: true });

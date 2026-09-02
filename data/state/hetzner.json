@@ -11,7 +11,8 @@
       "status": "suspicious",
       "lastChanged": "20260301051043",
       "lastNote": "capture 20260902203052 had 116 lines vs 519; ignored",
-      "failures": 0
+      "failures": 0,
+      "lineCount": 519
     },
     "docs-hetzner-com-general-infrastructure-and-availability-price-adjustment": {
       "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/",
@@ -23,7 +24,8 @@
       "status": "ok",
       "lastChanged": "20260902202804",
       "lastNote": "http: only 465 lines; browser: 200, 467 lines; wayback: 466 lines",
-      "failures": 0
+      "failures": 0,
+      "lineCount": 465
     }
   }
 }

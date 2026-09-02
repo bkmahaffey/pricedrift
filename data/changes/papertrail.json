@@ -84,10 +84,10 @@
     }
   },
   {
-    "id": "papertrail-com-plans-20250918021832",
+    "id": "papertrail-com-plans-20260614160447",
     "url": "https://www.papertrail.com/plans/",
-    "ts": "20250918021832",
-    "date": "2025-09-18",
+    "ts": "20260614160447",
+    "date": "2026-06-14",
     "source": "wayback",
     "prevTs": "20250516134904",
     "kind": "copy",
@@ -103,10 +103,38 @@
     "added": [],
     "removed": [],
     "totals": {
-      "removed": 1,
+      "removed": 97,
       "added": 1,
       "materialRemoved": 0,
       "materialAdded": 0
+    }
+  },
+  {
+    "id": "papertrail-com-plans-20260826122640",
+    "url": "https://www.papertrail.com/plans/",
+    "ts": "20260826122640",
+    "date": "2026-08-26",
+    "source": "wayback",
+    "prevTs": "20260614160447",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Papertrail: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "Free Trial"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 1
     }
   }
 ]

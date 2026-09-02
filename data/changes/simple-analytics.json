@@ -350,58 +350,5 @@
       "materialRemoved": 14,
       "materialAdded": 9
     }
-  },
-  {
-    "id": "simpleanalytics-com-pricing-20260829025540",
-    "url": "https://www.simpleanalytics.com/pricing",
-    "ts": "20260829025540",
-    "date": "2026-08-29",
-    "source": "wayback",
-    "prevTs": "20260614193849",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Simple Analytics: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 3,
-      "added": 3,
-      "materialRemoved": 3,
-      "materialAdded": 3
-    }
-  },
-  {
-    "id": "simpleanalytics-com-pricing-20260902202107",
-    "url": "https://www.simpleanalytics.com/pricing",
-    "ts": "20260902202107",
-    "date": "2026-09-02",
-    "source": "http",
-    "prevTs": "20260829025540",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Simple Analytics: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 3,
-      "added": 3,
-      "materialRemoved": 3,
-      "materialAdded": 3
-    },
-    "transition": true
   }
 ]

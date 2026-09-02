@@ -3,15 +3,16 @@
   "urls": {
     "papertrail-com-plans": {
       "url": "https://www.papertrail.com/plans/",
-      "lastChecked": "20260902203052",
-      "lastSource": "http",
-      "latestTs": "20250918021832",
-      "hash": "ed21adfc1a20150e",
+      "lastChecked": "20260826122640",
+      "lastSource": "wayback",
+      "latestTs": "20260826122640",
+      "hash": "87164224e2b55c15",
       "firstTs": "20230201213528",
-      "status": "suspicious",
-      "lastChanged": "20250918021832",
-      "lastNote": "capture 20260902203052 had 44 lines vs 140; ignored",
-      "failures": 0
+      "status": "ok",
+      "lastChanged": "20260826122640",
+      "lastNote": "capture 20260509193446 had 44 lines vs 140; ignored (1/2)",
+      "failures": 0,
+      "lineCount": 44
     }
   }
 }

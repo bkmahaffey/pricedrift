@@ -1289,6 +1289,7 @@
     "ts": "20260902202107",
     "date": "2026-09-02",
     "source": "http",
+    "transition": true,
     "prevTs": "20260701145500",
     "kind": "limits",
     "score": 98,
@@ -1351,8 +1352,7 @@
       "added": 166,
       "materialRemoved": 95,
       "materialAdded": 2
-    },
-    "transition": true
+    }
   },
   {
     "id": "azure-microsoft-com-en-us-pricing-purchase-options-azure-account-20260902202107",
@@ -1360,6 +1360,7 @@
     "ts": "20260902202107",
     "date": "2026-09-02",
     "source": "http",
+    "transition": true,
     "prevTs": "20260804041745",
     "kind": "plans",
     "score": 4,
@@ -1381,8 +1382,7 @@
       "added": 166,
       "materialRemoved": 0,
       "materialAdded": 2
-    },
-    "transition": true
+    }
   },
   {
     "id": "azure-microsoft-com-en-us-pricing-free-services-20260902203052",

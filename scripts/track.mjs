@@ -30,10 +30,11 @@ async function main() {
       if (wait > 0) await sleep(wait);
       hostLast.set(host, Date.now());
       const minLines = s.min_lines || 15;
-      const r = await fetchPage(url, { minLines, minMaterial: s.min_material ?? 1 });
+      const key = urlKey(url);
+      const expectLines = (await readState(s.slug)).urls[key]?.lineCount || 0;
+      const r = await fetchPage(url, { minLines, minMaterial: s.min_material ?? 1, expectLines });
       summary.checked++;
       const state = await readState(s.slug);
-      const key = urlKey(url);
       const st = state.urls[key] || { url };
       if (!r.lines) {
         st.status = 'unreachable'; st.lastChecked = ts; st.lastNote = r.notes.join('; ');

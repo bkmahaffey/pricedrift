@@ -3,15 +3,16 @@
   "urls": {
     "redis-io-pricing": {
       "url": "https://redis.io/pricing/",
-      "lastChecked": "20260902203052",
-      "lastSource": "http",
-      "latestTs": "20250723235941",
-      "hash": "9f842beca3f2ec7a",
+      "lastChecked": "20260813181124",
+      "lastSource": "wayback",
+      "latestTs": "20260813181124",
+      "hash": "ee814705198bab09",
       "firstTs": "20240409010852",
-      "status": "suspicious",
-      "lastChanged": "20250723235941",
-      "lastNote": "capture 20260902203052 had 68 lines vs 284; ignored",
-      "failures": 0
+      "status": "ok",
+      "lastChanged": "20260813181124",
+      "lastNote": "capture 20250902171637 had 79 lines vs 284; ignored (1/2)",
+      "failures": 0,
+      "lineCount": 69
     }
   }
 }

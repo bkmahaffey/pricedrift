@@ -7,14 +7,14 @@
     "source": "wayback",
     "prevTs": "20230121154712",
     "kind": "price",
-    "score": 24,
+    "score": 36,
     "counts": {
-      "price": 8,
+      "price": 12,
       "limit": 0,
       "plan": 0
     },
     "material": true,
-    "headline": "Prisma Postgres: 8 prices changed (removed “30,000 CPU-seconds per month included. Overag…”; added “$0/ month”)",
+    "headline": "Prisma Postgres: 12 prices changed (removed “0$/ month”; added “$0/ month”)",
     "pairs": [],
     "added": [
       "$0/ month",
@@ -25,13 +25,17 @@
       "30 million CPU milliseconds per month included. Overages at $0.0000008/mo per CPU ms"
     ],
     "removed": [
+      "0$/ month",
+      "29$/ month",
       "30,000 CPU-seconds per month included. Overages at $0.0008/mo per CPU-second",
+      "0$/ month",
+      "29$/ month",
       "30,000 CPU-seconds per month included. Overages at $0.0008/mo per CPU-second"
     ],
     "totals": {
       "removed": 11,
       "added": 11,
-      "materialRemoved": 2,
+      "materialRemoved": 6,
       "materialAdded": 6
     }
   },

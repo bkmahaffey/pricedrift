@@ -537,11 +537,12 @@
     }
   },
   {
-    "id": "heroku-com-pricing-20260709235849",
+    "id": "heroku-com-pricing-20260902202107",
     "url": "https://www.heroku.com/pricing",
-    "ts": "20260709235849",
-    "date": "2026-07-09",
-    "source": "wayback",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "transition": true,
     "prevTs": "20260601120237",
     "kind": "copy",
     "score": 0,
@@ -561,32 +562,5 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
-  },
-  {
-    "id": "heroku-com-pricing-20260902202107",
-    "url": "https://www.heroku.com/pricing",
-    "ts": "20260902202107",
-    "date": "2026-09-02",
-    "source": "http",
-    "prevTs": "20260709235849",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Heroku: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 10,
-      "added": 10,
-      "materialRemoved": 1,
-      "materialAdded": 1
-    },
-    "transition": true
   }
 ]

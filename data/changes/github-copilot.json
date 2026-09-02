@@ -958,38 +958,13 @@
     }
   },
   {
-    "id": "github-com-features-copilot-plans-20260801050043",
-    "url": "https://github.com/features/copilot/plans",
-    "ts": "20260801050043",
-    "date": "2026-08-01",
-    "source": "wayback",
-    "prevTs": "20260701015027",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "GitHub Copilot: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 3,
-      "added": 29,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    }
-  },
-  {
     "id": "github-com-features-copilot-plans-20260902202107",
     "url": "https://github.com/features/copilot/plans",
     "ts": "20260902202107",
     "date": "2026-09-02",
     "source": "http",
-    "prevTs": "20260801050043",
+    "transition": true,
+    "prevTs": "20260701015027",
     "kind": "copy",
     "score": 0,
     "counts": {
@@ -1005,11 +980,10 @@
       "Free plan Not included"
     ],
     "totals": {
-      "removed": 34,
-      "added": 21,
+      "removed": 37,
+      "added": 50,
       "materialRemoved": 1,
       "materialAdded": 0
-    },
-    "transition": true
+    }
   }
 ]

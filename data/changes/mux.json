@@ -282,6 +282,7 @@
     "ts": "20260902202107",
     "date": "2026-09-02",
     "source": "http",
+    "transition": true,
     "prevTs": "20260802182324",
     "kind": "limits",
     "score": 4,
@@ -315,7 +316,6 @@
       "added": 3,
       "materialRemoved": 1,
       "materialAdded": 3
-    },
-    "transition": true
+    }
   }
 ]

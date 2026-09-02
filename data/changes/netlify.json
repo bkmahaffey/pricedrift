@@ -676,5 +676,512 @@
       "materialRemoved": 6,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "netlify-com-pricing-20240905120237",
+    "url": "https://www.netlify.com/pricing/",
+    "ts": "20240905120237",
+    "date": "2024-09-05",
+    "source": "wayback",
+    "prevTs": "20240116153718",
+    "kind": "price",
+    "score": 136,
+    "counts": {
+      "price": 30,
+      "limit": 19,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Netlify: 30 prices, 19 limits, 4 plan names changed (removed “1TB Bandwidth”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "The Composable Web Platform offers enterprises a simplified, risk-free path towards composable web architecture and a foundation to accelerate speed to innovation for web, marketing, sales, IT and operations teams.",
+      "1TB Bandwidth",
+      "1.5TB Bandwidth",
+      "35,000 Build Minutes",
+      "Start free",
+      "Start free trial",
+      "(then $40 each)",
+      "1.5TB /month",
+      "(then $180 per 1TB)",
+      "35k minutes /month",
+      "(then $7 per 500)",
+      "Unlimited",
+      "Unlimited",
+      "5M /month",
+      "Unlimited",
+      "1k per site /month",
+      "($99 when exceeded)",
+      "1k per site /month",
+      "($99 when exceeded)",
+      "Unlimited",
+      "2.5k per site /month",
+      "($20+ when exceeded)",
+      "2.5k per site /month",
+      "($20+ when exceeded)",
+      "Unlimited",
+      "Unlimited",
+      "Starter plan features Starter $0 to get started",
+      "Start free",
+      "Limited to 1 free member, with free & unlimited Git Contributors",
+      "Unlimited",
+      "100GB /month",
+      "(then $55 per 100GB)",
+      "300 minutes /month",
+      "(then $7 per 500)",
+      "500 sites",
+      "125k per site /month",
+      "($25+ when exceeded)",
+      "1M /month",
+      "($2/m when exceeded)",
+      "($19+ when exceeded)"
+    ],
+    "totals": {
+      "removed": 595,
+      "added": 84,
+      "materialRemoved": 96,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "netlify-com-pricing-20241110085555",
+    "url": "https://www.netlify.com/pricing/",
+    "ts": "20241110085555",
+    "date": "2024-11-10",
+    "source": "wayback",
+    "prevTs": "20240905120237",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Netlify: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "netlify-com-pricing-20250106093557",
+    "url": "https://www.netlify.com/pricing/",
+    "ts": "20250106093557",
+    "date": "2025-01-06",
+    "source": "wayback",
+    "prevTs": "20241110085555",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Netlify: 1 price, 3 plan names changed (removed “Start free 30-day Pro trial”; added “$9 per site /month”)",
+    "pairs": [],
+    "added": [
+      "Free & Starter",
+      "Free & Starter",
+      "$9 per site /month",
+      "What happens when a Free site reaches its limits?",
+      "When a site reaches its monthly usage limits, it enters a suspended state until the first of the next month. We’ll notify you by email as you approach your limits at 50%, 75%, 90%, and 100% of usage. Please note that if one site exceeds its limits, all sites on your Free account will be suspended.",
+      "While you can’t set custom usage caps, Free plan sites automatically pause if they exceed monthly limits, ensuring you never receive unexpected charges. We’ll send email notifications at 50%, 75%, 90%, and 100% of your usage to help you track consumption."
+    ],
+    "removed": [
+      "Start free trial",
+      "Start free 30-day Pro trial"
+    ],
+    "totals": {
+      "removed": 25,
+      "added": 41,
+      "materialRemoved": 10,
+      "materialAdded": 14
+    }
+  },
+  {
+    "id": "netlify-com-pricing-20250502025320",
+    "url": "https://www.netlify.com/pricing/",
+    "ts": "20250502025320",
+    "date": "2025-05-02",
+    "source": "wayback",
+    "prevTs": "20250106093557",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Netlify: 2 prices changed (added “(Starter only: then $15 each)”)",
+    "pairs": [],
+    "added": [
+      "(Starter only: then $15 each)",
+      "(then $15 each)"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "netlify-com-pricing-20250701193735",
+    "url": "https://www.netlify.com/pricing/",
+    "ts": "20250701193735",
+    "date": "2025-07-01",
+    "source": "wayback",
+    "prevTs": "20250502025320",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Netlify: 1 limit changed (removed “1TB bandwidth”)",
+    "pairs": [],
+    "added": [
+      "Everything in Free, plus:"
+    ],
+    "removed": [
+      "1TB bandwidth",
+      "25,000 build minutes"
+    ],
+    "totals": {
+      "removed": 62,
+      "added": 47,
+      "materialRemoved": 3,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "netlify-com-pricing-20250812002034",
+    "url": "https://www.netlify.com/pricing/",
+    "ts": "20250812002034",
+    "date": "2025-08-12",
+    "source": "wayback",
+    "prevTs": "20250701193735",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Netlify: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "netlify-com-pricing-20250906150244",
+    "url": "https://www.netlify.com/pricing/",
+    "ts": "20250906150244",
+    "date": "2025-09-06",
+    "source": "wayback",
+    "prevTs": "20250812002034",
+    "kind": "price",
+    "score": 93,
+    "counts": {
+      "price": 21,
+      "limit": 8,
+      "plan": 7
+    },
+    "material": true,
+    "headline": "Netlify: 21 prices, 8 limits, 7 plan names changed ($19 → $20)",
+    "pairs": [
+      {
+        "before": "$19 /month per member,",
+        "after": "$20 /month per member,",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$19",
+            "after": "$20"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Build free.",
+      "Free",
+      "Build and deploy free forever",
+      "Unlimited deploy previews",
+      "Start building for free",
+      "1,000 credits / month",
+      "$20 per seat / month",
+      "5,000 credits / month",
+      "Compute 5 credits per GB-hour Compute is the amount of resources used by your functions and builders. This includes: Serverless functions, scheduled functions, and background functions.",
+      "Form submissions 1 credit each When Netlify auto-detects spam in a form submission, then a credit is not consumed.",
+      "Bandwidth 10 credits per GB Bandwidth is the amount of data traffic your project sends out to the internet. This includes: Assets & web content served, Image CDN usage, file downloads, function responses, and Large Media (Deprecated).",
+      "Free",
+      "Free",
+      "1,000 credits included /month",
+      "5,000 credits included /team/month",
+      "$5 / 200 additional credits",
+      "$20 / 1,000 additional credits",
+      "(then $40 each)",
+      "$9/month for 1 member, with free & unlimited Git Contributors",
+      "Unlimited",
+      "The free plan is always free, with hard monthly limits that cannot be exceeded or incur any costs. Paid plans have spend control using the auto recharge setting for credits, which automatically refills your credit balance in small increments based on your plan.",
+      "If you have a Free or Personal plan, you cannot add any additional team member seats.",
+      "If you have a Pro plan, then you can add additional team member seats to your team. With any plan, you can add unlimited free Reviewer roles to your team to give people a Netlify login that they can use to review your team’s web projects and share feedback."
+    ],
+    "removed": [
+      "Free & Starter",
+      "Start for free",
+      "100GB bandwidth",
+      "$19 per member / month",
+      "Free & Starter",
+      "Free & Starter Free with fixed limits, or $0 / month and pay as you go Start for free",
+      "Pro $19/month per member Buy now",
+      "Unlimited",
+      "100GB /month",
+      "(Starter only: then $55 per 100GB)",
+      "1TB /month",
+      "(then $55 per 100GB)",
+      "(Starter only: then $7 per 500)",
+      "25k minutes /month",
+      "(then $7 per 500)",
+      "500 sites",
+      "125k per site /month",
+      "(Starter only: $25+ when exceeded)",
+      "125k per site /month",
+      "($25+ when exceeded)",
+      "1M /month",
+      "(Starter only: $2/m when exceeded)",
+      "2M /month",
+      "($2/m when exceeded)",
+      "(Starter only: $19+ when exceeded)",
+      "($19+ when exceeded)",
+      "$9 per site /month",
+      "Unlimited",
+      "$19 per member /month",
+      "What happens when a Free site reaches its limits?",
+      "When a site reaches its monthly usage limits, it enters a suspended state until the first of the next month. We’ll notify you by email as you approach your limits at 50%, 75%, 90%, and 100% of usage. Please note that if one site exceeds its limits, all sites on your Free account will be suspended.",
+      "While you can’t set custom usage caps, Free plan sites automatically pause if they exceed monthly limits, ensuring you never receive unexpected charges. We’ll send email notifications at 50%, 75%, 90%, and 100% of your usage to help you track consumption."
+    ],
+    "totals": {
+      "removed": 204,
+      "added": 181,
+      "materialRemoved": 43,
+      "materialAdded": 34
+    }
+  },
+  {
+    "id": "netlify-com-pricing-20251004145938",
+    "url": "https://www.netlify.com/pricing/",
+    "ts": "20251004145938",
+    "date": "2025-10-04",
+    "source": "wayback",
+    "prevTs": "20250906150244",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 1,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Netlify: 1 price, 3 limits changed (5,000 → 3,000; 5,000 → 3,000)",
+    "pairs": [
+      {
+        "before": "5,000 credits / month",
+        "after": "3,000 credits / month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "5,000",
+            "after": "3,000"
+          }
+        ]
+      },
+      {
+        "before": "5,000 credits included /team/month",
+        "after": "3,000 credits included per team",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "5,000",
+            "after": "3,000"
+          }
+        ]
+      },
+      {
+        "before": "$5 / 200 additional credits",
+        "after": "$5 / 500 additional credits",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "200",
+            "after": "500"
+          }
+        ]
+      },
+      {
+        "before": "$20 / 1,000 additional credits",
+        "after": "$10 / 1,500 additional credits",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$20",
+            "after": "$10"
+          },
+          {
+            "before": "1,000",
+            "after": "1,500"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 21,
+      "added": 33,
+      "materialRemoved": 7,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "netlify-com-pricing-20260404121739",
+    "url": "https://www.netlify.com/pricing/",
+    "ts": "20260404121739",
+    "date": "2026-04-04",
+    "source": "wayback",
+    "prevTs": "20251004145938",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Netlify: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "includes generous monthly credits, free production deploys, and unlimited team members for qualifying projects."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 13,
+      "added": 22,
+      "materialRemoved": 2,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "netlify-com-pricing-20260503231504",
+    "url": "https://www.netlify.com/pricing/",
+    "ts": "20260503231504",
+    "date": "2026-05-03",
+    "source": "wayback",
+    "prevTs": "20260404121739",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Netlify: 1 limit changed (removed “Compute 5 credits per GB-hour Compute is the …”)",
+    "pairs": [],
+    "added": [
+      "with free & unlimited Git Contributors"
+    ],
+    "removed": [
+      "Compute 5 credits per GB-hour Compute is the amount of resources used by your functions and builders. This includes: Serverless functions, scheduled functions, background functions, Preview servers, and Agent runners.",
+      "Form submissions 1 credit each When Netlify auto-detects spam in a form submission, then a credit is not consumed."
+    ],
+    "totals": {
+      "removed": 17,
+      "added": 24,
+      "materialRemoved": 6,
+      "materialAdded": 5
+    }
+  },
+  {
+    "id": "netlify-com-pricing-20260703170730",
+    "url": "https://www.netlify.com/pricing/",
+    "ts": "20260703170730",
+    "date": "2026-07-03",
+    "source": "wayback",
+    "prevTs": "20260503231504",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Netlify: 1 price changed (added “Custom starts at $500/month”)",
+    "pairs": [],
+    "added": [
+      "Custom starts at $500/month"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 2,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "netlify-com-pricing-20260804124739",
+    "url": "https://www.netlify.com/pricing/",
+    "ts": "20260804124739",
+    "date": "2026-08-04",
+    "source": "wayback",
+    "prevTs": "20260703170730",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 1,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Netlify: 1 price, 3 limits changed (removed “Custom starts at $500/month”; added “5,000 credits/month”)",
+    "pairs": [],
+    "added": [
+      "5,000 credits/month",
+      "10,000 credits/month",
+      "15,000 credits/month",
+      "20,000 credits/month",
+      "Starting with 3,000 credits per month, choose a Pro tier up to 20,000 credits per month."
+    ],
+    "removed": [
+      "Custom starts at $500/month",
+      "3,000 credits included per team"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 19,
+      "materialRemoved": 4,
+      "materialAdded": 7
+    }
   }
 ]

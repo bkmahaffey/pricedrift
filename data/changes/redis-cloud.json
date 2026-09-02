@@ -508,5 +508,324 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "redis-io-pricing-20251004072327",
+    "url": "https://redis.io/pricing/",
+    "ts": "20251004072327",
+    "date": "2025-10-04",
+    "source": "wayback",
+    "prevTs": "20250723235941",
+    "kind": "price",
+    "score": 23,
+    "counts": {
+      "price": 4,
+      "limit": 2,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Redis Cloud: 4 prices, 2 limits, 4 plan names changed ($0 → $0.007; 30MB → 250MB)",
+    "pairs": [
+      {
+        "before": "From $0 /hour",
+        "after": "From $0.007 /hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0",
+            "after": "$0.007"
+          }
+        ]
+      },
+      {
+        "before": "30 MB – 12 GB RAM, single DB",
+        "after": "250 MB – 12 GB RAM, single DB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "30MB",
+            "after": "250MB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free",
+      "Total $5/month Get Essentials",
+      "Change plan Free",
+      "Free $0.00 /hour",
+      "Essentials $0.007 /hour"
+    ],
+    "removed": [
+      "Start Free in the Cloud",
+      "24/7 deployment monitoring & reporting",
+      "24/7 SLA-free support hotline"
+    ],
+    "totals": {
+      "removed": 248,
+      "added": 43,
+      "materialRemoved": 13,
+      "materialAdded": 15
+    }
+  },
+  {
+    "id": "redis-io-pricing-20251107035926",
+    "url": "https://redis.io/pricing/",
+    "ts": "20251107035926",
+    "date": "2025-11-07",
+    "source": "wayback",
+    "prevTs": "20251004072327",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Redis Cloud: 2 prices changed ($0.274 → $0.014; $0.274 → $0.014)",
+    "pairs": [
+      {
+        "before": "From $0.274 /hour",
+        "after": "From $0.014 /hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.274",
+            "after": "$0.014"
+          }
+        ]
+      },
+      {
+        "before": "Pro $0.274 /hour",
+        "after": "Pro $0.014 /hour",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.274",
+            "after": "$0.014"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "redis-io-pricing-20251210091045",
+    "url": "https://redis.io/pricing/",
+    "ts": "20251210091045",
+    "date": "2025-12-10",
+    "source": "wayback",
+    "prevTs": "20251107035926",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Redis Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "redis-io-pricing-20260110040016",
+    "url": "https://redis.io/pricing/",
+    "ts": "20260110040016",
+    "date": "2026-01-10",
+    "source": "wayback",
+    "prevTs": "20251210091045",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Redis Cloud: 1 limit changed (6GB removed)",
+    "pairs": [
+      {
+        "before": "6 GB RAM and up, multiple DBs",
+        "after": "Unlimited RAM, multiple DBs",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "6GB",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 8,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "redis-io-pricing-20260301103755",
+    "url": "https://redis.io/pricing/",
+    "ts": "20260301103755",
+    "date": "2026-03-01",
+    "source": "wayback",
+    "prevTs": "20260110040016",
+    "kind": "price",
+    "score": 21,
+    "counts": {
+      "price": 3,
+      "limit": 2,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Redis Cloud: 3 prices, 2 limits, 4 plan names changed (removed “Total $5/month Start flexing”; added “Up to 30 MB Just go for it”)",
+    "pairs": [],
+    "added": [
+      "Up to 30 MB Just go for it",
+      "250 MB-100 GB RAM & SSD, single DB",
+      "Free"
+    ],
+    "removed": [
+      "Total $5/month Start flexing",
+      "1-100 GB (RAM + SSD), single DB",
+      "250 MB – 12 GB RAM, single DB",
+      "Change plan Free",
+      "Free $0.00 /hour",
+      "Essentials $0.007 /hour"
+    ],
+    "totals": {
+      "removed": 33,
+      "added": 22,
+      "materialRemoved": 13,
+      "materialAdded": 10
+    }
+  },
+  {
+    "id": "redis-io-pricing-20260402034527",
+    "url": "https://redis.io/pricing/",
+    "ts": "20260402034527",
+    "date": "2026-04-02",
+    "source": "wayback",
+    "prevTs": "20260301103755",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Redis Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Up to 99.999% uptime, 24/7 SLA-free support hotline"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "redis-io-pricing-20260505143920",
+    "url": "https://redis.io/pricing/",
+    "ts": "20260505143920",
+    "date": "2026-05-05",
+    "source": "wayback",
+    "prevTs": "20260402034527",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Redis Cloud: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "Try for free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 4,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "redis-io-pricing-20260706035450",
+    "url": "https://redis.io/pricing/",
+    "ts": "20260706035450",
+    "date": "2026-07-06",
+    "source": "wayback",
+    "prevTs": "20260505143920",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Redis Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "redis-io-pricing-20260813181124",
+    "url": "https://redis.io/pricing/",
+    "ts": "20260813181124",
+    "date": "2026-08-13",
+    "source": "wayback",
+    "prevTs": "20260706035450",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Redis Cloud: 1 plan name changed",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Try for free"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 7,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
   }
 ]

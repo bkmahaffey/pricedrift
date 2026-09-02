@@ -1853,32 +1853,5 @@
       "materialRemoved": 2,
       "materialAdded": 5
     }
-  },
-  {
-    "id": "vercel-com-pricing-20260902202107",
-    "url": "https://vercel.com/pricing",
-    "ts": "20260902202107",
-    "date": "2026-09-02",
-    "source": "http",
-    "prevTs": "20260902121017",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Vercel: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 6,
-      "added": 6,
-      "materialRemoved": 1,
-      "materialAdded": 1
-    },
-    "transition": true
   }
 ]

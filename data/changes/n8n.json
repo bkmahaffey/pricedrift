@@ -347,20 +347,23 @@
     "source": "wayback",
     "prevTs": "20250904233538",
     "kind": "price",
-    "score": 18,
+    "score": 27,
     "counts": {
-      "price": 4,
+      "price": 7,
       "limit": 1,
       "plan": 2
     },
     "material": true,
-    "headline": "n8n Cloud: 4 prices, 1 limit, 2 plan names changed (removed “$24 $20”)",
+    "headline": "n8n Cloud: 7 prices, 1 limit, 2 plan names changed (removed “$24 $20”; added “20€ /mo, billed annually”)",
     "pairs": [],
     "added": [
+      "20€ /mo, billed annually",
       "workflow executions with unlimited steps",
       "Start free trial No credit card required",
+      "50€ /mo, billed annually",
       "workflow executions with unlimited steps",
       "Start free trial No credit card required",
+      "667€ /mo, billed annually",
       "workflow executions with unlimited steps"
     ],
     "removed": [
@@ -383,7 +386,7 @@
       "removed": 48,
       "added": 22,
       "materialRemoved": 15,
-      "materialAdded": 6
+      "materialAdded": 9
     }
   },
   {
@@ -512,6 +515,7 @@
     "ts": "20260902202107",
     "date": "2026-09-02",
     "source": "http",
+    "transition": true,
     "prevTs": "20260810162254",
     "kind": "limits",
     "score": 2,
@@ -535,7 +539,6 @@
       "added": 15,
       "materialRemoved": 4,
       "materialAdded": 5
-    },
-    "transition": true
+    }
   }
 ]

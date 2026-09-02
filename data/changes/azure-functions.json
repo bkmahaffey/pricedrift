@@ -173,11 +173,12 @@
     }
   },
   {
-    "id": "azure-microsoft-com-en-us-pricing-details-functions-20260815235341",
+    "id": "azure-microsoft-com-en-us-pricing-details-functions-20260902202107",
     "url": "https://azure.microsoft.com/en-us/pricing/details/functions/",
-    "ts": "20260815235341",
-    "date": "2026-08-15",
-    "source": "wayback",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "http",
+    "transition": true,
     "prevTs": "20251217013239",
     "kind": "copy",
     "score": 0,
@@ -197,32 +198,5 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
-  },
-  {
-    "id": "azure-microsoft-com-en-us-pricing-details-functions-20260902202107",
-    "url": "https://azure.microsoft.com/en-us/pricing/details/functions/",
-    "ts": "20260902202107",
-    "date": "2026-09-02",
-    "source": "http",
-    "prevTs": "20260815235341",
-    "kind": "copy",
-    "score": 0,
-    "counts": {
-      "price": 0,
-      "limit": 0,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Azure Functions: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [],
-    "totals": {
-      "removed": 1,
-      "added": 1,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    },
-    "transition": true
   }
 ]

@@ -410,34 +410,6 @@
     }
   },
   {
-    "id": "developers-cloudflare-com-d1-platform-limits-20260508064048",
-    "url": "https://developers.cloudflare.com/d1/platform/limits/",
-    "ts": "20260508064048",
-    "date": "2026-05-08",
-    "source": "wayback",
-    "prevTs": "20251204213513",
-    "kind": "copy",
-    "score": 1,
-    "counts": {
-      "price": 0,
-      "limit": 1,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Cloudflare D1: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [],
-    "removed": [
-      "3: A single Worker script can have up to 1 MB of script metadata. A binding is defined as a binding to a resource, such as a D1 database, KV namespace, environmental variable"
-    ],
-    "totals": {
-      "removed": 44,
-      "added": 5,
-      "materialRemoved": 2,
-      "materialAdded": 1
-    }
-  },
-  {
     "id": "developers-cloudflare-com-d1-platform-pricing-20260824115553",
     "url": "https://developers.cloudflare.com/d1/platform/pricing/",
     "ts": "20260824115553",
@@ -469,25 +441,27 @@
     "ts": "20260902202107",
     "date": "2026-09-02",
     "source": "http",
-    "prevTs": "20260508064048",
+    "transition": true,
+    "prevTs": "20251204213513",
     "kind": "copy",
-    "score": 0,
+    "score": 1,
     "counts": {
       "price": 0,
-      "limit": 0,
+      "limit": 1,
       "plan": 0
     },
     "material": false,
     "headline": "Cloudflare D1: pricing page text changed (no price or limit change detected)",
     "pairs": [],
     "added": [],
-    "removed": [],
+    "removed": [
+      "3: A single Worker script can have up to 1 MB of script metadata. A binding is defined as a binding to a resource, such as a D1 database, KV namespace, environmental variable"
+    ],
     "totals": {
-      "removed": 1,
-      "added": 8,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    },
-    "transition": true
+      "removed": 44,
+      "added": 12,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
   }
 ]

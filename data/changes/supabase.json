@@ -7,14 +7,14 @@
     "source": "wayback",
     "prevTs": "20230116213102",
     "kind": "price",
-    "score": 82,
+    "score": 88,
     "counts": {
-      "price": 21,
+      "price": 23,
       "limit": 8,
       "plan": 2
     },
     "material": true,
-    "headline": "Supabase: 21 prices, 8 limits, 2 plan names changed (removed “Paused after 1 week inactivity”; added “Starts from $5”)",
+    "headline": "Supabase: 23 prices, 8 limits, 2 plan names changed (removed “Paused after 1 week inactivity”; added “Starts from $5”)",
     "pairs": [],
     "added": [
       "Everything in the Free plan, plus:",
@@ -1177,6 +1177,7 @@
     "ts": "20260902202107",
     "date": "2026-09-02",
     "source": "http",
+    "transition": true,
     "prevTs": "20260802042609",
     "kind": "copy",
     "score": 0,
@@ -1197,7 +1198,6 @@
       "added": 39,
       "materialRemoved": 1,
       "materialAdded": 0
-    },
-    "transition": true
+    }
   }
 ]

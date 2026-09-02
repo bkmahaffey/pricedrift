@@ -771,44 +771,12 @@
     }
   },
   {
-    "id": "docs-cloud-google-com-free-docs-free-cloud-features-20260702073025",
-    "url": "https://docs.cloud.google.com/free/docs/free-cloud-features",
-    "ts": "20260702073025",
-    "date": "2026-07-02",
-    "source": "wayback",
-    "prevTs": "20260505022335",
-    "kind": "copy",
-    "score": 1,
-    "counts": {
-      "price": 0,
-      "limit": 1,
-      "plan": 0
-    },
-    "material": false,
-    "headline": "Google Cloud Free Tier: pricing page text changed (no price or limit change detected)",
-    "pairs": [],
-    "added": [
-      "Close your Free Trial billing account",
-      "You can close your Free Trial billing account and end your Free Trial. For more information, see Close your Cloud Billing account",
-      "Upgrading to a Paid billing account ends your Free Trial",
-      "Free Tier benefits for Datastream apply exclusively to streams originating from AlloyDB for PostgreSQL or Spanner and destined for BigQuery:",
-      "100 GiB of change data capture (CDC) per month, per billing account.",
-      "Create a 30-day Cloud SQL free trial instance at no cost."
-    ],
-    "removed": [],
-    "totals": {
-      "removed": 9,
-      "added": 18,
-      "materialRemoved": 5,
-      "materialAdded": 11
-    }
-  },
-  {
     "id": "cloud-google-com-free-20260902202107",
     "url": "https://cloud.google.com/free",
     "ts": "20260902202107",
     "date": "2026-09-02",
     "source": "http",
+    "transition": true,
     "prevTs": "20260701055050",
     "kind": "limits",
     "score": 5,
@@ -837,8 +805,7 @@
       "added": 29,
       "materialRemoved": 4,
       "materialAdded": 10
-    },
-    "transition": true
+    }
   },
   {
     "id": "docs-cloud-google-com-free-docs-free-cloud-features-20260902202107",
@@ -846,25 +813,32 @@
     "ts": "20260902202107",
     "date": "2026-09-02",
     "source": "http",
-    "prevTs": "20260702073025",
+    "transition": true,
+    "prevTs": "20260505022335",
     "kind": "copy",
-    "score": 0,
+    "score": 1,
     "counts": {
       "price": 0,
-      "limit": 0,
+      "limit": 1,
       "plan": 0
     },
     "material": false,
     "headline": "Google Cloud Free Tier: pricing page text changed (no price or limit change detected)",
     "pairs": [],
-    "added": [],
+    "added": [
+      "Close your Free Trial billing account",
+      "You can close your Free Trial billing account and end your Free Trial. For more information, see Close your Cloud Billing account",
+      "Upgrading to a Paid billing account ends your Free Trial",
+      "Free Tier benefits for Datastream apply exclusively to streams originating from AlloyDB for PostgreSQL or Spanner and destined for BigQuery:",
+      "100 GiB of change data capture (CDC) per month, per billing account.",
+      "Create a 30-day Cloud SQL free trial instance at no cost."
+    ],
     "removed": [],
     "totals": {
-      "removed": 2,
-      "added": 2,
-      "materialRemoved": 0,
-      "materialAdded": 0
-    },
-    "transition": true
+      "removed": 11,
+      "added": 20,
+      "materialRemoved": 5,
+      "materialAdded": 11
+    }
   }
 ]

@@ -10,7 +10,8 @@
       "firstTs": "20230209032946",
       "status": "suspicious",
       "lastChanged": "20250316230124",
-      "lastNote": "capture 20251008144818 had 246 lines vs 1014; ignored"
+      "lastNote": "capture 20251008144818 had 246 lines vs 1014; ignored",
+      "lineCount": 1014
     },
     "ory-com-pricing": {
       "url": "https://www.ory.com/pricing",
@@ -21,7 +22,8 @@
       "firstTs": "20251020115511",
       "status": "ok",
       "lastChanged": "20260819030524",
-      "failures": 0
+      "failures": 0,
+      "lineCount": 824
     }
   }
 }

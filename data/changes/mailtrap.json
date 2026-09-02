@@ -580,5 +580,567 @@
       "materialRemoved": 1,
       "materialAdded": 1
     }
+  },
+  {
+    "id": "mailtrap-io-pricing-20250731000059",
+    "url": "https://mailtrap.io/pricing/",
+    "ts": "20250731000059",
+    "date": "2025-07-31",
+    "source": "wayback",
+    "prevTs": "20250405060627",
+    "kind": "price",
+    "score": 300,
+    "counts": {
+      "price": 42,
+      "limit": 44,
+      "plan": 43
+    },
+    "material": true,
+    "headline": "Mailtrap: 42 prices, 44 limits, 43 plan names changed (removed “$ 0”; added “$ 17”)",
+    "pairs": [],
+    "added": [
+      "forever Start for Free",
+      "$ 17",
+      "$ 42",
+      "$ 123",
+      "$ 498",
+      "$ 17",
+      "$ 42",
+      "$ 123",
+      "$ 498",
+      "Mailtrap provides Email Sandbox Team Plan for FREE"
+    ],
+    "removed": [
+      "Free",
+      "$ 0",
+      "forever 1000 emails/mo",
+      "100 contacts",
+      "Try for Free",
+      "✓ 200 emails/day",
+      "Basic 10K",
+      "Basic 50K",
+      "Basic 100K",
+      "$ 15",
+      "per month per month per month 10,000 emails/mo",
+      "5,000 contacts",
+      "✓ All Free plan features",
+      "Business 100K",
+      "Business 250K",
+      "Business 500K",
+      "Business 750K",
+      "$ 85",
+      "per month per month per month per month 100,000 emails/mo",
+      "100,000 contacts",
+      "✓ Free Deliverability Expert",
+      "Enterprise 1,5M",
+      "Enterprise 2,5M",
+      "Enterprise 5M",
+      "$ 750",
+      "per month per month per month 1,500,000 emails/mo",
+      "1,500,000 contacts",
+      "✓ 30 days Email Logs",
+      "✓ 30 log retention days",
+      "✓ Unlimited users",
+      "Free",
+      "Free",
+      "200 emails/day",
+      "1000 emails/mo",
+      "The cost of additional 1000 emails over your monthly limit.",
+      "10MB",
+      "100 emails",
+      "Content-free logging",
+      "Free deliverability expert support",
+      "Free migration month"
+    ],
+    "totals": {
+      "removed": 1338,
+      "added": 77,
+      "materialRemoved": 160,
+      "materialAdded": 15
+    }
+  },
+  {
+    "id": "mailtrap-io-pricing-20250806004805",
+    "url": "https://mailtrap.io/pricing/",
+    "ts": "20250806004805",
+    "date": "2025-08-06",
+    "source": "wayback",
+    "prevTs": "20250731000059",
+    "kind": "limits",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mailtrap: 3 limits changed (1000 → 3,500; 200 → 150)",
+    "pairs": [
+      {
+        "before": "forever 1000 emails/mo",
+        "after": "forever 3,500 emails/mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1000",
+            "after": "3,500"
+          }
+        ]
+      },
+      {
+        "before": "200 emails/day",
+        "after": "150 emails/day",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "200",
+            "after": "150"
+          }
+        ]
+      },
+      {
+        "before": "forever 1000 emails/mo",
+        "after": "forever 3,500 emails/mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1000",
+            "after": "3,500"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
+  },
+  {
+    "id": "mailtrap-io-pricing-20251018111007",
+    "url": "https://mailtrap.io/pricing/",
+    "ts": "20251018111007",
+    "date": "2025-10-18",
+    "source": "wayback",
+    "prevTs": "20250806004805",
+    "kind": "price",
+    "score": 240,
+    "counts": {
+      "price": 53,
+      "limit": 25,
+      "plan": 16
+    },
+    "material": true,
+    "headline": "Mailtrap: 53 prices, 25 limits, 16 plan names changed (removed “$ 0”; added “3,5K | 10K | 50K | 100K | 250K | 500K | 750K …”)",
+    "pairs": [],
+    "added": [
+      "3,5K | 10K | 50K | 100K | 250K | 500K | 750K | 1,5M | 2,5M | 5M+ |",
+      "$0 $0 /month",
+      "Start for Free Start for Free",
+      "1 domain",
+      "3 days of email logs",
+      "1 user",
+      "$15 $15 /month",
+      "$20 $20 /month",
+      "$30 $30 /month",
+      "5 domains",
+      "3 users",
+      "5 days of email logs",
+      "$85 $85 /month",
+      "$200 $200 /month",
+      "$300 $300 /month",
+      "$450 $450 /month",
+      "3,000 domains",
+      "1,000 users",
+      "15 days of email logs",
+      "$750 $750 /month",
+      "$1,250 $1,250 /month",
+      "2,500,000 emails",
+      "5,000,000 emails or more",
+      "1,000 users",
+      "30 days of email logs",
+      "Unlimited user seats",
+      "Free",
+      "$0 $0 /month",
+      "Start for Free Start for Free",
+      "$15 $15 /month",
+      "$20 $20 /month",
+      "$30 $30 /month",
+      "$85 $85 /month",
+      "$200 $200 /month",
+      "$300 $300 /month",
+      "$450 $450 /month",
+      "$750 $750 /month",
+      "$1,250 $1,250 /month",
+      "Standard support covers 20 hours on weekdays, with round-the-clock assistance available on premium plans.",
+      "50 | 100 | 500 | 5K | 15K | 50K | 100K | 5M |"
+    ],
+    "removed": [
+      "$ 0",
+      "100 contacts",
+      "Try for Free",
+      "$ 15",
+      "per month per month per month 10,000 emails/mo",
+      "5,000 contacts",
+      "$ 85",
+      "per month per month per month per month 100,000 emails/mo",
+      "100,000 contacts",
+      "Enterprise 1,5M",
+      "Enterprise 2,5M",
+      "$ 750",
+      "1,500,000 contacts",
+      "Unlimited",
+      "< $0,55",
+      "Free deliverability expert support",
+      "$ 0",
+      "forever 3,500 emails/mo",
+      "100 contacts",
+      "Try for Free",
+      "Basic 10K",
+      "Basic 50K",
+      "Basic 100K",
+      "$ 15",
+      "per month per month per month 10,000 emails/mo",
+      "5,000 contacts",
+      "Most popular Business 100K",
+      "Business 250K",
+      "Business 500K",
+      "Business 750K",
+      "$ 85",
+      "per month per month per month per month 100,000 emails/mo",
+      "100,000 contacts",
+      "Enterprise 1,5M",
+      "Enterprise 2,5M",
+      "$ 750",
+      "per month per month 1,500,000 emails/mo",
+      "1,500,000 contacts",
+      "Free",
+      "$ 0"
+    ],
+    "totals": {
+      "removed": 222,
+      "added": 245,
+      "materialRemoved": 66,
+      "materialAdded": 78
+    }
+  },
+  {
+    "id": "mailtrap-io-pricing-20251210045514",
+    "url": "https://mailtrap.io/pricing/",
+    "ts": "20251210045514",
+    "date": "2025-12-10",
+    "source": "wayback",
+    "prevTs": "20251018111007",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mailtrap: 2 limits changed (3,5K → 4K; 3,500 → 4,000)",
+    "pairs": [
+      {
+        "before": "3,5K | 10K | 50K | 100K | 250K | 500K | 750K | 1,5M | 2,5M | 5M+ |",
+        "after": "4K | 10K | 50K | 100K | 250K | 500K | 750K | 1,5M | 2,5M | 5M+ |",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3,5K",
+            "after": "4K"
+          }
+        ]
+      },
+      {
+        "before": "3,500 emails",
+        "after": "4,000 emails",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3,500",
+            "after": "4,000"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 13,
+      "materialRemoved": 7,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "mailtrap-io-pricing-20260202024618",
+    "url": "https://mailtrap.io/pricing/",
+    "ts": "20260202024618",
+    "date": "2026-02-02",
+    "source": "wayback",
+    "prevTs": "20251210045514",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Mailtrap: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "mailtrap-io-pricing-20260318031509",
+    "url": "https://mailtrap.io/pricing/",
+    "ts": "20260318031509",
+    "date": "2026-03-18",
+    "source": "wayback",
+    "prevTs": "20260202024618",
+    "kind": "plans",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Mailtrap: 1 limit, 1 plan name changed (removed “The cost of additional 1,000 emails over your…”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Free migration month",
+      "The cost of additional 1,000 emails over your monthly limit."
+    ],
+    "totals": {
+      "removed": 14,
+      "added": 10,
+      "materialRemoved": 3,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "mailtrap-io-pricing-20260603191334",
+    "url": "https://mailtrap.io/pricing/",
+    "ts": "20260603191334",
+    "date": "2026-06-03",
+    "source": "wayback",
+    "prevTs": "20260318031509",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Mailtrap: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "mailtrap-io-pricing-20260708132537",
+    "url": "https://mailtrap.io/pricing/",
+    "ts": "20260708132537",
+    "date": "2026-07-08",
+    "source": "wayback",
+    "prevTs": "20260603191334",
+    "kind": "price",
+    "score": 110,
+    "counts": {
+      "price": 24,
+      "limit": 16,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Mailtrap: 24 prices, 16 limits, 3 plan names changed (1,5M → 1.5M; 1,000 → 100)",
+    "pairs": [
+      {
+        "before": "4K | 10K | 50K | 100K | 250K | 500K | 750K | 1,5M | 2,5M | 5M+ |",
+        "after": "4K | 10K | 50K | 100K | 250K | 500K | 750K | 1.5M | 2.5M | 2.5M+ |",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1,5M",
+            "after": "1.5M"
+          },
+          {
+            "before": "2,5M",
+            "after": "2.5M"
+          },
+          {
+            "before": "5M",
+            "after": "2.5M"
+          }
+        ]
+      },
+      {
+        "before": "1,000 users",
+        "after": "100 users",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1,000",
+            "after": "100"
+          }
+        ]
+      },
+      {
+        "before": "3,000 domains",
+        "after": "100 domains",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3,000",
+            "after": "100"
+          }
+        ]
+      },
+      {
+        "before": "$168, billed annually",
+        "after": "$168 billed annually",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$168,",
+            "after": "$168"
+          }
+        ]
+      },
+      {
+        "before": "$408, billed annually",
+        "after": "$408 billed annually",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$408,",
+            "after": "$408"
+          }
+        ]
+      },
+      {
+        "before": "$1,188, billed annually",
+        "after": "$1,188 billed annually",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1,188,",
+            "after": "$1,188"
+          }
+        ]
+      },
+      {
+        "before": "$4,788, billed annually",
+        "after": "$4,788 billed annually",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$4,788,",
+            "after": "$4,788"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Unlimited emails",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "50 | 100 | 500 | 5K | 15K | 50K | 100K | 100K+ |",
+      "Unlimited test emails",
+      "Unlimited users",
+      "Unlimited",
+      "Unlimited",
+      "500 | 10K | 25K | 50K | 100K | 250K | 250K+ |",
+      "Free",
+      "$0 $0 /month",
+      "500 contacts",
+      "Start for Free Start for Free",
+      "1,500 emails",
+      "1 domain",
+      "1 user",
+      "$15 $12 /month",
+      "$144 billed annually",
+      "10,000 contacts",
+      "$29 $23 /month",
+      "$278 billed annually",
+      "25,000 contacts",
+      "30,000 emails 75,000 emails",
+      "3 domains",
+      "3 users",
+      "$59 $47 /month",
+      "$566 billed annually",
+      "25,000 contacts",
+      "$109 $87 /month",
+      "$1,046 billed annually",
+      "50,000 contacts",
+      "$214 $171 /month",
+      "$2,054 billed annually",
+      "100,000 contacts",
+      "$499 $399 /month",
+      "$4,790 billed annually",
+      "250,000 contacts",
+      "Over 250,000 contacts",
+      "125,000 emails 250,000 emails 500,000 emails 1,250,000 emails 1.25M+ emails"
+    ],
+    "removed": [
+      "5,000,000 emails or more",
+      "50 | 100 | 500 | 5K | 15K | 50K | 100K | 5M |",
+      "1,000 users"
+    ],
+    "totals": {
+      "removed": 55,
+      "added": 243,
+      "materialRemoved": 12,
+      "materialAdded": 68
+    }
+  },
+  {
+    "id": "mailtrap-io-pricing-20260819022735",
+    "url": "https://mailtrap.io/pricing/",
+    "ts": "20260819022735",
+    "date": "2026-08-19",
+    "source": "wayback",
+    "prevTs": "20260708132537",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Mailtrap: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Does Email API/SMTP have a free plan?",
+      "Yes. The Email API/SMTP free plan includes 4,000 emails per month for free, no credit card required."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 12,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
   }
 ]

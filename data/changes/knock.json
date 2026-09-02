@@ -240,20 +240,22 @@
     "source": "wayback",
     "prevTs": "20250915163649",
     "kind": "price",
-    "score": 11,
+    "score": 17,
     "counts": {
-      "price": 3,
+      "price": 5,
       "limit": 1,
       "plan": 0
     },
     "material": true,
-    "headline": "Knock: 3 prices, 1 limit changed (removed “Includes 50k notifications / mo $5 per 1,000 …”; added “50K messages Includes messages sent from work…”)",
+    "headline": "Knock: 5 prices, 1 limit changed (removed “Includes 50k notifications / mo $5 per 1,000 …”; added “50K messages Includes messages sent from work…”)",
     "pairs": [],
     "added": [
       "Unlimited broadcasts",
       "Unlimited delivery channels",
       "50K messages Includes messages sent from workflows and broadcasts. Prepaid usage, then $.005 per message.",
       "2.5K guide active users A user that sees at least one guide in the month. Prepaid usage, then $.05 per user.",
+      "50,000 $.005 per additional message sent.",
+      "2,500 $.05 per additional active user.",
       "Unlimited guides Create as many guides as you need.",
       "Unlimited"
     ],
@@ -268,7 +270,7 @@
       "removed": 19,
       "added": 42,
       "materialRemoved": 8,
-      "materialAdded": 9
+      "materialAdded": 11
     }
   },
   {
@@ -278,23 +280,26 @@
     "date": "2026-08-28",
     "source": "wayback",
     "prevTs": "20251117101320",
-    "kind": "copy",
-    "score": 0,
+    "kind": "price",
+    "score": 6,
     "counts": {
-      "price": 0,
+      "price": 2,
       "limit": 0,
       "plan": 0
     },
-    "material": false,
-    "headline": "Knock: pricing page text changed (no price or limit change detected)",
+    "material": true,
+    "headline": "Knock: 2 prices changed (added “500 $.01 per additional credit.”)",
     "pairs": [],
-    "added": [],
+    "added": [
+      "500 $.01 per additional credit.",
+      "2,000 $.01 per additional credit."
+    ],
     "removed": [],
     "totals": {
       "removed": 1,
       "added": 14,
       "materialRemoved": 0,
-      "materialAdded": 0
+      "materialAdded": 2
     }
   }
 ]

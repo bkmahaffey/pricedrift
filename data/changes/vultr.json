@@ -3148,11 +3148,12 @@
     }
   },
   {
-    "id": "vultr-com-pricing-20260902202107",
+    "id": "vultr-com-pricing-20260812023712",
     "url": "https://www.vultr.com/pricing/",
-    "ts": "20260902202107",
-    "date": "2026-09-02",
-    "source": "browser",
+    "ts": "20260812023712",
+    "date": "2026-08-12",
+    "source": "wayback",
+    "transition": true,
     "prevTs": "20250803045214",
     "kind": "price",
     "score": 1170,
@@ -3698,21 +3699,20 @@
       "350 GB Storage"
     ],
     "totals": {
-      "removed": 454,
-      "added": 969,
-      "materialRemoved": 369,
-      "materialAdded": 693
-    },
-    "transition": true
+      "removed": 453,
+      "added": 967,
+      "materialRemoved": 368,
+      "materialAdded": 692
+    }
   },
   {
-    "id": "vultr-com-pricing-20260812023712",
+    "id": "vultr-com-pricing-20260902202107",
     "url": "https://www.vultr.com/pricing/",
-    "ts": "20260812023712",
-    "date": "2026-08-12",
-    "source": "wayback",
+    "ts": "20260902202107",
+    "date": "2026-09-02",
+    "source": "browser",
     "transition": true,
-    "prevTs": "20260902202107",
+    "prevTs": "20260812023712",
     "kind": "copy",
     "score": 0,
     "counts": {
@@ -3726,8 +3726,8 @@
     "added": [],
     "removed": [],
     "totals": {
-      "removed": 3,
-      "added": 2,
+      "removed": 2,
+      "added": 3,
       "materialRemoved": 1,
       "materialAdded": 1
     }
