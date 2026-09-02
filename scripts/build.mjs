@@ -173,6 +173,7 @@ ${jsonLd ? `<script type="application/ld+json">${JSON.stringify(jsonLd)}</script
   <a class="brand" href="${u('/')}"><span class="brand-mark" aria-hidden="true">Δ$</span>${esc(site.name)}</a>
   <nav aria-label="Primary">
     <a href="${u('/changes/')}">Changes</a>
+    <a href="${u('/digest/')}">Weekly</a>
     <a href="${u('/services/')}">Services</a>
     <a href="${u('/llm/')}">LLM prices</a>
     <a href="${u('/data/')}">Data</a>
@@ -270,6 +271,28 @@ function fmtLlmDelta(e) {
   }
   const minor = all.filter(c => !c.material || c.flap).slice(0, 200);
   await page('/changes/minor/', { title: 'Wording-only edits and reverted changes', description: 'Pricing page edits where no price or limit change was detected, plus changes that were reverted.', body: `<h1>Wording-only edits</h1><p class="lede-p">Edits where the detector found no changed price or limit, and changes that reverted within a capture or two (often A/B tests). Kept for completeness; not in the main feed.</p>${nav('minor')}${minor.map(c => renderChange(c)).join('\n') || '<p class="empty">Nothing here yet.</p>'}`, wide: true });
+}
+
+// Weekly digests: one page per ISO week with at least one material change.
+function isoWeek(dateStr) {
+  const d = new Date(dateStr + 'T00:00:00Z');
+  const day = (d.getUTCDay() + 6) % 7; // Monday = 0
+  d.setUTCDate(d.getUTCDate() - day + 3); // Thursday of this week
+  const firstThu = new Date(Date.UTC(d.getUTCFullYear(), 0, 4));
+  const week = 1 + Math.round(((d - firstThu) / 86400000 - 3 + ((firstThu.getUTCDay() + 6) % 7)) / 7);
+  const monday = new Date(d); monday.setUTCDate(d.getUTCDate() - 3);
+  return { key: `${d.getUTCFullYear()}-W${String(week).padStart(2, '0')}`, monday: monday.toISOString().slice(0, 10) };
+}
+{
+  const weeks = new Map();
+  for (const c of material) { const w = isoWeek(c.date); if (!weeks.has(w.key)) weeks.set(w.key, { ...w, changes: [] }); weeks.get(w.key).changes.push(c); }
+  const list = [...weeks.values()].sort((a, b) => b.key.localeCompare(a.key));
+  for (const w of list) {
+    const byKind = { price: 0, limits: 0, plans: 0 }; for (const c of w.changes) byKind[c.kind] = (byKind[c.kind] || 0) + 1;
+    const svcs = [...new Set(w.changes.map(c => c.service.name))];
+    await page(`/digest/${w.key}/`, { title: `Developer pricing changes, week of ${w.monday}`, description: `${w.changes.length} price, limit and plan changes across ${svcs.length} developer services in the week of ${w.monday}: ${svcs.slice(0, 8).join(', ')}.`, body: `<p class="crumbs"><a href="${u('/digest/')}">Weekly digests</a></p><h1>Week of ${w.monday} <span class="h-sub">${w.key}</span></h1><p class="lede-p">${w.changes.length} change${w.changes.length === 1 ? '' : 's'} across ${svcs.length} service${svcs.length === 1 ? '' : 's'}: ${byKind.price} price, ${byKind.limits} limit, ${byKind.plans} plan-name. Services: ${svcs.map(n => esc(n)).join(', ')}.</p>${w.changes.map(c => renderChange(c)).join('\n')}`, wide: true });
+  }
+  await page('/digest/', { title: 'Weekly digests', description: 'Developer pricing changes grouped by week.', body: `<h1>Weekly digests</h1><p class="lede-p">Every week with at least one detected price, limit or plan change. The <a href="${u('/feed.xml')}">RSS feed</a> carries the same entries as they happen.</p><ul class="digest-list">${list.map(w => `<li><a href="${u(`/digest/${w.key}/`)}">Week of ${w.monday}</a> <span>${w.changes.length} change${w.changes.length === 1 ? '' : 's'} · ${[...new Set(w.changes.map(c => c.service.name))].slice(0, 5).map(n => esc(n)).join(', ')}${new Set(w.changes.map(c => c.service.name)).size > 5 ? ', …' : ''}</span></li>`).join('')}</ul>` });
 }
 
 // Services index

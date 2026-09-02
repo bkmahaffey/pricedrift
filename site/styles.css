@@ -215,3 +215,7 @@ tbody th small { font-weight: 400; }
   .stats { gap: 0.5rem 1.5rem; }
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
+
+.digest-list { list-style: none; padding: 0; margin: 1rem 0; }
+.digest-list li { display: flex; flex-wrap: wrap; gap: 0.25rem 1rem; padding: 0.5rem 0; border-top: 1px solid var(--line); }
+.digest-list li span { color: var(--ink-2); font-size: 0.9rem; }
