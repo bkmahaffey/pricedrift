@@ -1,0 +1,60 @@
+[
+  {
+    "id": "postmarkapp-com-pricing-20230316073217",
+    "url": "https://postmarkapp.com/pricing",
+    "ts": "20230316073217",
+    "date": "2023-03-16",
+    "source": "wayback",
+    "prevTs": "20230107201234",
+    "kind": "price",
+    "score": 37,
+    "counts": {
+      "price": 10,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Postmark: 10 prices, 4 limits changed (removed “$15 per month”; added “$0”)",
+    "pairs": [],
+    "added": [
+      "$0",
+      "Everyone starts on our FREE developer plan. Your first 100 emails are on us!",
+      "Start free trial No credit card required",
+      "Start with 100 emails per month for free",
+      "Full message retention (45 days)",
+      "No credit card required",
+      "Starts at $50 /month per IP",
+      "Our fully managed dedicated IPs are available to customers sending 300,000 emails per month or more.",
+      "Starts at $10 /month per domain",
+      "Do you have a tier smaller than 10,000 emails/month?",
+      "We do not offer a tier between 100 emails/month (our free developer plan) and 10,000 emails/month."
+    ],
+    "removed": [
+      "$15 per month",
+      "+ $1.80 per 1,000",
+      "$55 per month",
+      "+ $1.30 per 1,000",
+      "$115 per month",
+      "+ $1.10 per 1,000",
+      "$245 per month",
+      "+ $1.00 per 1,000",
+      "$455 per month",
+      "+ $0.80 per 1,000",
+      "$775 per month",
+      "+ $0.60 per 1,000",
+      "$995 per month",
+      "+ $0.40 per 1,000",
+      "$1,295 per month",
+      "+ $0.30 per 1,000",
+      "Our fully managed dedicated IPs are available to customers sending 300,000 emails per month or more. Learn more",
+      "$50 per month",
+      "We’ll start you off with our free developer plan."
+    ],
+    "totals": {
+      "removed": 49,
+      "added": 78,
+      "materialRemoved": 20,
+      "materialAdded": 12
+    }
+  }
+]
