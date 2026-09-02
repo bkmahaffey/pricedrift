@@ -3,24 +3,26 @@
   "urls": {
     "cohere-com-pricing": {
       "url": "https://cohere.com/pricing",
-      "lastChecked": "20260902202107",
+      "lastChecked": "20260902203052",
       "lastSource": "http",
       "latestTs": "20260902202107",
       "hash": "297efef3fc63d144",
       "firstTs": "20230421010301",
       "status": "ok",
       "lastChanged": "20260902202107",
-      "lastNote": "capture 20260802131602 had 117 lines vs 376; ignored"
+      "lastNote": "capture 20260802131602 had 117 lines vs 376; ignored",
+      "failures": 0
     },
     "docs-cohere-com-docs-rate-limits": {
       "url": "https://docs.cohere.com/docs/rate-limits",
-      "lastChecked": "20260902202107",
+      "lastChecked": "20260902203052",
       "lastSource": "http",
       "latestTs": "20260902202107",
       "hash": "d797c5af6bbf2c7f",
       "firstTs": "20250111044019",
       "status": "ok",
-      "lastChanged": "20260902202107"
+      "lastChanged": "20260902202107",
+      "failures": 0
     }
   }
 }

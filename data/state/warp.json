@@ -3,14 +3,15 @@
   "urls": {
     "warp-dev-pricing": {
       "url": "https://www.warp.dev/pricing",
-      "lastChecked": "20260902202107",
+      "lastChecked": "20260902203052",
       "lastSource": "http",
       "latestTs": "20260501075653",
       "hash": "77bf6487a65473c9",
       "firstTs": "20230115041954",
-      "status": "suspicious",
+      "status": "pending",
       "lastChanged": "20260501075653",
-      "lastNote": "capture 20260902202107 had 236 lines vs 666; ignored"
+      "lastNote": "capture 20260902202107 had 236 lines vs 666; ignored",
+      "failures": 0
     }
   }
 }

@@ -1,24 +1,103 @@
 {
-  "ranAt": "2026-09-02T20:28:04.967Z",
-  "ts": "20260902202804",
-  "checked": 24,
-  "changed": [
+  "ranAt": "2026-09-02T20:30:52.158Z",
+  "ts": "20260902203052",
+  "checked": 265,
+  "changed": [],
+  "confirmed": [],
+  "pending": [
     {
-      "slug": "elastic-cloud",
-      "headline": "Elastic Cloud: 4 prices, 3 limits, 6 plan names changed (removed “As low as $95 per month 1”)",
-      "material": true
+      "slug": "airtable",
+      "url": "https://airtable.com/pricing"
+    },
+    {
+      "slug": "algolia",
+      "url": "https://www.algolia.com/pricing"
+    },
+    {
+      "slug": "linode",
+      "url": "https://www.akamai.com/cloud/pricing"
+    },
+    {
+      "slug": "azure-free",
+      "url": "https://azure.microsoft.com/en-us/pricing/free-services"
+    },
+    {
+      "slug": "bitbucket",
+      "url": "https://www.atlassian.com/software/bitbucket/pricing"
+    },
+    {
+      "slug": "azure-free",
+      "url": "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account"
+    },
+    {
+      "slug": "cloudflare-zero-trust",
+      "url": "https://www.cloudflare.com/plans/zero-trust-services/"
+    },
+    {
+      "slug": "groq",
+      "url": "https://console.groq.com/docs/models"
     },
     {
       "slug": "hetzner",
-      "headline": "Hetzner Cloud: 2 limits changed (removed “GEX131 (256 GB RAM)”)",
-      "material": true
+      "url": "https://www.hetzner.com/cloud/"
+    },
+    {
+      "slug": "mailchimp",
+      "url": "https://mailchimp.com/pricing/marketing/"
+    },
+    {
+      "slug": "mailtrap",
+      "url": "https://mailtrap.io/pricing/"
+    },
+    {
+      "slug": "mistral",
+      "url": "https://mistral.ai/pricing"
+    },
+    {
+      "slug": "netlify",
+      "url": "https://www.netlify.com/pricing/"
+    },
+    {
+      "slug": "papertrail",
+      "url": "https://www.papertrail.com/plans/"
+    },
+    {
+      "slug": "planetscale",
+      "url": "https://planetscale.com/pricing"
+    },
+    {
+      "slug": "posthog",
+      "url": "https://posthog.com/pricing"
+    },
+    {
+      "slug": "redis-cloud",
+      "url": "https://redis.io/pricing/"
+    },
+    {
+      "slug": "scaleway",
+      "url": "https://www.scaleway.com/en/pricing/"
+    },
+    {
+      "slug": "stripe",
+      "url": "https://stripe.com/pricing"
+    },
+    {
+      "slug": "vast-ai",
+      "url": "https://vast.ai/pricing"
+    },
+    {
+      "slug": "warp",
+      "url": "https://www.warp.dev/pricing"
+    },
+    {
+      "slug": "vultr",
+      "url": "https://www.vultr.com/pricing/"
     }
   ],
-  "confirmed": [],
-  "pending": [],
   "unreachable": [],
   "sources": {
-    "http": 23,
-    "browser": 1
+    "http": 247,
+    "wayback": 7,
+    "browser": 11
   }
 }

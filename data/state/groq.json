@@ -13,23 +13,25 @@
     },
     "console-groq-com-docs-models": {
       "url": "https://console.groq.com/docs/models",
-      "lastChecked": "20260902202107",
+      "lastChecked": "20260902203052",
       "lastSource": "http",
       "latestTs": "20260902202107",
       "hash": "ea8f57e1e4132a1c",
       "firstTs": "20240301024447",
-      "status": "ok",
-      "lastChanged": "20260902202107"
+      "status": "pending",
+      "lastChanged": "20260902202107",
+      "failures": 0
     },
     "console-groq-com-docs-rate-limits": {
       "url": "https://console.groq.com/docs/rate-limits",
-      "lastChecked": "20260902202107",
+      "lastChecked": "20260902203052",
       "lastSource": "http",
       "latestTs": "20260902202107",
       "hash": "76ec4f815001b784",
       "firstTs": "20250127085451",
       "status": "ok",
-      "lastChanged": "20260902202107"
+      "lastChanged": "20260902202107",
+      "failures": 0
     }
   }
 }

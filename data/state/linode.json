@@ -13,19 +13,19 @@
     },
     "akamai-com-cloud-pricing": {
       "url": "https://www.akamai.com/cloud/pricing",
-      "lastChecked": "20260902202804",
+      "lastChecked": "20260902203052",
       "lastSource": "wayback",
       "latestTs": "20260519012522",
       "hash": "cb772b13b5816ad8",
       "firstTs": "20260214183346",
-      "status": "suspicious",
+      "status": "pending",
       "lastChanged": "20260519012522",
       "lastNote": "capture 20260902202804 had 26 lines vs 2443; ignored",
-      "failures": 2
+      "failures": 0
     },
     "akamai-com-cloud-pricing-north-america": {
       "url": "https://www.akamai.com/cloud/pricing/north-america",
-      "lastChecked": "20260902202804",
+      "lastChecked": "20260902203052",
       "lastSource": "http",
       "latestTs": "20260902202107",
       "hash": "60648f792889c916",

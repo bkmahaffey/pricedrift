@@ -3,7 +3,7 @@
   "urls": {
     "claude-com-pricing": {
       "url": "https://claude.com/pricing",
-      "lastChecked": "20260902202107",
+      "lastChecked": "20260902203052",
       "lastSource": "wayback",
       "latestTs": "20260901215950",
       "hash": "01d2423aecc3db71",
@@ -14,23 +14,25 @@
     },
     "platform-claude-com-docs-en-api-rate-limits": {
       "url": "https://platform.claude.com/docs/en/api/rate-limits",
-      "lastChecked": "20260902202107",
+      "lastChecked": "20260902203052",
       "lastSource": "http",
       "latestTs": "20260902202107",
       "hash": "b43caf374bd41b5c",
       "firstTs": "20251122075834",
       "status": "ok",
-      "lastChanged": "20260902202107"
+      "lastChanged": "20260902202107",
+      "failures": 0
     },
     "platform-claude-com-docs-en-about-claude-pricing": {
       "url": "https://platform.claude.com/docs/en/about-claude/pricing",
-      "lastChecked": "20260902202107",
+      "lastChecked": "20260902203052",
       "lastSource": "http",
       "latestTs": "20260902202107",
       "hash": "9a1ee74c305a898a",
       "firstTs": "20251119190003",
       "status": "ok",
-      "lastChanged": "20260902202107"
+      "lastChanged": "20260902202107",
+      "failures": 0
     }
   }
 }
