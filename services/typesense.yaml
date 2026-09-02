@@ -1,0 +1,35 @@
+slug: typesense
+name: Typesense Cloud
+category: databases
+website: https://typesense.org
+tagline: Hosted Typesense open-source search engine on dedicated clusters
+track_urls:
+  - https://cloud.typesense.org/pricing
+  - https://cloud-help.typesense.org/article/how-does-the-free-tier-work
+free_tier:
+  status: credits
+  plan_name: Free tier
+  credit_card_required: null
+  limits:
+    - metric: Cluster hours
+      value: First 720 hrs free
+      note: one-time for the lifetime of the account, does not replenish monthly
+    - metric: Bandwidth out
+      value: First 10 GB free
+    - metric: Smallest cluster
+      value: 0.5 GB RAM, 2 vCPUs (1 hr burst per day)
+  trial_length: null
+  credit_amount: "First 720 hours and 10 GB of bandwidth free, once per account"
+  notes:
+    - "Once the free tier is exhausted, any running clusters start incurring charges"
+    - "Prices are only rendered by the calculator on the pricing page; smallest cluster is $0.03/hr (works out to $21.60/month) plus $0.09/GB bandwidth out"
+paid_from:
+  price: "$0.03 /hr"
+  period: usage
+  unit: usage
+  plan_name: null
+verified_on: "2026-09-02"
+sources:
+  - https://cloud.typesense.org/pricing
+  - https://cloud-help.typesense.org/article/how-does-the-free-tier-work
+referral: null

@@ -1,0 +1,26 @@
+slug: tabnine
+name: Tabnine
+category: ai
+website: https://www.tabnine.com
+tagline: AI code assistant and agent platform with bring-your-own LLM
+track_urls:
+  - https://www.tabnine.com/pricing
+free_tier:
+  status: none
+  plan_name: null
+  credit_card_required: null
+  limits: []
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Pricing page lists no free plan or trial; both plans are annual subscriptions
+    - Unlimited usage with your own LLM; Tabnine-provided LLM access is billed at actual provider prices + 5% handling fee
+paid_from:
+  price: "$39 per user (annual subscription)"
+  period: month
+  unit: per user
+  plan_name: Tabnine Code Assistant Platform
+verified_on: "2026-09-02"
+sources:
+  - https://www.tabnine.com/pricing
+referral: null

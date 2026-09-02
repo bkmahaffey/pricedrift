@@ -1,0 +1,26 @@
+slug: perplexity
+name: Perplexity API
+category: ai
+website: https://www.perplexity.ai
+tagline: Web-search-grounded LLM API (Sonar) plus Search, Router and Agent APIs
+track_urls:
+  - https://docs.perplexity.ai/getting-started/pricing
+free_tier:
+  status: none
+  plan_name: null
+  credit_card_required: null
+  limits: []
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Pricing page lists no free tier, trial or free credits"
+    - "Sonar also charges a request fee of $5 (low), $8 (medium) or $12 (high search context) per 1,000 requests"
+paid_from:
+  price: "$1 per 1M input tokens"
+  period: usage
+  unit: usage
+  plan_name: Sonar
+verified_on: "2026-09-02"
+sources:
+  - https://docs.perplexity.ai/getting-started/pricing
+referral: null

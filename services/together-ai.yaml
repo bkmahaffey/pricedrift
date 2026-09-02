@@ -1,0 +1,26 @@
+slug: together-ai
+name: Together AI
+category: ai
+website: https://www.together.ai
+tagline: Serverless and dedicated inference, fine-tuning and GPU clusters for open models
+track_urls:
+  - https://www.together.ai/pricing
+free_tier:
+  status: unknown
+  plan_name: null
+  credit_card_required: null
+  limits: []
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Pricing page states no free tier, signup credits or free-tier rate limits (checked 2026-09-02); it lists Ternary Bonsai 27B at $0.00 per 1M input and output tokens
+paid_from:
+  price: "$0.03 input / $0.12 output per 1M tokens (LFM2.5-8B-A1B, cheapest non-zero serverless model)"
+  period: usage
+  unit: usage
+  plan_name: Serverless Inference
+verified_on: "2026-09-02"
+sources:
+  - https://www.together.ai/pricing
+  - https://docs.together.ai/docs/rate-limits
+referral: null

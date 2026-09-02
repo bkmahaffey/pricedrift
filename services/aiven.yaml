@@ -1,0 +1,36 @@
+slug: aiven
+name: Aiven
+category: databases
+website: https://aiven.io
+tagline: Managed PostgreSQL, MySQL, Kafka, OpenSearch and Valkey services
+track_urls:
+  - https://aiven.io/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: VMs
+      value: "1 dedicated VM"
+    - metric: CPU
+      value: "1 CPU per VM"
+    - metric: RAM
+      value: "1 GB RAM per VM"
+    - metric: Storage
+      value: "1 GB total storage"
+    - metric: Services with a free plan
+      value: "PostgreSQL, MySQL, OpenSearch, Kafka, Valkey"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Cannot select a specific cloud or region"
+    - "No integrations or connection pooling"
+paid_from:
+  price: "$5"
+  period: month
+  unit: flat
+  plan_name: Developer
+verified_on: "2026-09-02"
+sources:
+  - https://aiven.io/pricing
+referral: null

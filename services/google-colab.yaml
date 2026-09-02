@@ -1,0 +1,33 @@
+slug: google-colab
+name: Google Colab
+category: gpu
+website: https://colab.research.google.com
+tagline: Hosted Jupyter notebooks with GPU and TPU runtimes
+track_urls:
+  - https://colab.research.google.com/signup
+  - https://research.google.com/colaboratory/faq.html
+free_tier:
+  status: free
+  plan_name: null
+  credit_card_required: null
+  limits:
+    - metric: GPU access
+      value: heavily restricted
+    - metric: Maximum runtime
+      value: at most 12 hours, depending on availability and usage patterns
+    - metric: Idle timeout
+      value: runtimes time out when idle (duration not published)
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Colab does not publish free usage limits because they vary over time
+    - Pricing page requires Google sign-in; paid plan prices (Colab Pro, Pro+, Pay As You Go) not readable by automated fetch on 2026-09-02
+paid_from:
+  price: null
+  period: month
+  unit: flat
+  plan_name: Colab Pro
+verified_on: "2026-09-02"
+sources:
+  - https://research.google.com/colaboratory/faq.html
+referral: null

@@ -1,0 +1,42 @@
+slug: github
+name: GitHub
+category: cicd
+website: https://github.com
+tagline: Git hosting with Actions CI/CD, Packages and Codespaces
+track_urls:
+  - https://github.com/pricing
+  - https://docs.github.com/en/billing/managing-billing-for-your-products/about-billing-for-github-actions
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Repositories
+      value: Unlimited public/private repositories
+    - metric: CI/CD minutes
+      value: 2,000 per month
+      note: free for public repositories
+    - metric: Packages storage
+      value: 500MB
+      note: free for public repositories
+    - metric: Actions artifact storage
+      value: 500 MB
+    - metric: Actions cache storage
+      value: 10 GB
+    - metric: Codespaces
+      value: $0 spend limit
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Standard GitHub-hosted runners are free in public repositories"
+    - "Team price is $4 USD per user/month for the first 12 months"
+paid_from:
+  price: "$4"
+  period: month
+  unit: per user
+  plan_name: Team
+verified_on: "2026-09-02"
+sources:
+  - https://github.com/pricing
+  - https://docs.github.com/en/billing/managing-billing-for-your-products/about-billing-for-github-actions
+referral: null

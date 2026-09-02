@@ -1,0 +1,26 @@
+slug: baseten
+name: Baseten
+category: gpu
+website: https://www.baseten.co
+tagline: Model inference hosting on dedicated GPUs, billed per minute
+track_urls:
+  - https://www.baseten.co/pricing/
+free_tier:
+  status: credits
+  plan_name: null
+  credit_card_required: null
+  limits: []
+  trial_length: null
+  credit_amount: null
+  notes:
+    - New Baseten accounts come with credits to experiment with deployments for free; the amount and duration are not stated on the page
+    - Basic plan is $0 per month, pay as you go; you only pay for the time your model is using compute, not idle time
+paid_from:
+  price: "$0.01052 per minute (T4, 16 GiB)"
+  period: usage
+  unit: usage
+  plan_name: Basic
+verified_on: "2026-09-02"
+sources:
+  - https://www.baseten.co/pricing/
+referral: null

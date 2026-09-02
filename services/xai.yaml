@@ -1,0 +1,26 @@
+slug: xai
+name: xAI API
+category: ai
+website: https://x.ai/api
+tagline: Grok language, image, video and voice model API
+track_urls:
+  - https://docs.x.ai/docs/models
+free_tier:
+  status: none
+  plan_name: null
+  credit_card_required: null
+  limits: []
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Tracked docs page lists model prices only; no free tier, credits or trial mentioned
+    - Prices double for requests with 200k or more context tokens
+paid_from:
+  price: "$1.00 per 1M input tokens / $2.00 per 1M output tokens"
+  period: usage
+  unit: usage
+  plan_name: grok-build-0.1
+verified_on: "2026-09-02"
+sources:
+  - https://docs.x.ai/docs/models
+referral: null

@@ -1,0 +1,35 @@
+slug: fusionauth
+name: FusionAuth
+category: auth
+website: https://fusionauth.io
+tagline: Self-hostable authentication and user management platform
+track_urls:
+  - https://fusionauth.io/pricing
+free_tier:
+  status: free
+  plan_name: Community
+  credit_card_required: null
+  limits:
+    - metric: Deployment
+      value: "self-hosted on your own infrastructure"
+    - metric: Monthly active users
+      value: "unlimited"
+    - metric: Features
+      value: "core authentication standards & features"
+    - metric: Hosting
+      value: "not included"
+      note: hosted plans start with Starter
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Page describes Community as "free and unlimited" with core authentication features only
+    - Passkeys/WebAuthn and some advanced features require a Free License even on paid tiers
+paid_from:
+  price: "$162 (billed annually)"
+  period: month
+  unit: flat
+  plan_name: Starter
+verified_on: "2026-09-02"
+sources:
+  - https://fusionauth.io/pricing
+referral: null

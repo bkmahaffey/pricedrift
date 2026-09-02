@@ -1,0 +1,42 @@
+slug: windsurf
+name: Windsurf
+category: ai
+website: https://windsurf.com
+tagline: AI code editor, now sold as Devin Desktop under Devin plans
+track_urls:
+  - https://devin.ai/pricing
+  - https://docs.devin.ai/desktop/accounts/usage
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Agent usage
+      value: "Light quota to code with agents"
+    - metric: Model availability
+      value: "Limited"
+    - metric: Inline edits
+      value: "Unlimited"
+    - metric: Tab completions
+      value: "Unlimited"
+    - metric: Members
+      value: "1"
+    - metric: Concurrent sessions
+      value: "Up to 10"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - windsurf.com/pricing redirects to devin.ai/pricing, which returned HTTP 429 to automated fetches on 2026-09-02 but rendered in a browser
+    - Usage allowance on paid plans refreshes daily and weekly; extra usage on paid plans is purchased at API pricing
+    - Teams is $80/month for the team plan plus $40/mo per full dev seat
+paid_from:
+  price: "$20"
+  period: month
+  unit: flat
+  plan_name: Pro
+verified_on: "2026-09-02"
+sources:
+  - https://devin.ai/pricing
+  - https://docs.devin.ai/desktop/accounts/usage
+  - https://docs.devin.ai/desktop/accounts/quota
+referral: null

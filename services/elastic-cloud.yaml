@@ -1,0 +1,29 @@
+slug: elastic-cloud
+name: Elastic Cloud
+category: databases
+website: https://www.elastic.co
+tagline: Managed Elasticsearch and Kibana for search, observability and security
+track_urls:
+  - https://www.elastic.co/pricing
+  - https://www.elastic.co/cloud/elasticsearch-service/signup
+free_tier:
+  status: trial
+  plan_name: null
+  credit_card_required: false
+  limits: []
+  trial_length: 14 days
+  credit_amount: null
+  notes:
+    - "14-day trial. All free. No credit card required."
+    - "The pricing overview page lists no prices; Elastic Cloud Hosted and Serverless prices are on separate pages"
+paid_from:
+  price: "$99"
+  period: month
+  unit: flat
+  plan_name: Standard
+verified_on: "2026-09-02"
+sources:
+  - https://www.elastic.co/pricing
+  - https://www.elastic.co/cloud/elasticsearch-service/signup
+  - https://www.elastic.co/pricing/cloud-hosted
+referral: null

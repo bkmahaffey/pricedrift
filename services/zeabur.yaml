@@ -1,0 +1,38 @@
+slug: zeabur
+name: Zeabur
+category: hosting
+website: https://zeabur.com
+tagline: Deployment platform for apps, databases and static sites
+track_urls:
+  - https://zeabur.com/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Manageable own servers
+      value: "1"
+    - metric: Build CI spec
+      value: "2C4G"
+    - metric: Log retention
+      value: "48h"
+    - metric: Single file upload size limit
+      value: "50 MB"
+    - metric: Express support passes
+      value: "2 per month"
+    - metric: Advanced model usage quota
+      value: "0"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Dev and Pro plans are "First 14 days free"; trial eligibility rules are in the FAQ/docs
+    - Free plan lists 0 domains, 0 API keys and 0 email quota
+paid_from:
+  price: "$5"
+  period: month
+  unit: flat
+  plan_name: Dev
+verified_on: "2026-09-02"
+sources:
+  - https://zeabur.com/pricing
+referral: null

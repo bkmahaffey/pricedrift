@@ -1,0 +1,33 @@
+slug: google-maps-platform
+name: Google Maps Platform
+category: backend
+website: https://mapsplatform.google.com
+tagline: Maps, routes and places APIs with monthly free calls per SKU
+track_urls:
+  - https://mapsplatform.google.com/pricing/
+free_tier:
+  status: free
+  plan_name: Free usage per SKU
+  credit_card_required: null
+  limits:
+    - metric: Essentials SKUs
+      value: 10K free calls per SKU per month
+    - metric: Pro SKUs
+      value: 5K free calls per SKU per month
+    - metric: Enterprise SKUs
+      value: 1K free calls per SKU per month
+  trial_length: null
+  credit_amount: "$300 trial credit"
+  notes:
+    - New customers get a $300 trial credit; duration not stated on the page
+    - A billing account is required after the trial period expires
+    - Per-request pay-as-you-go rates are on a separate core services pricing list
+paid_from:
+  price: "$100"
+  period: month
+  unit: flat
+  plan_name: Starter (50,000 monthly calls)
+verified_on: "2026-09-02"
+sources:
+  - https://mapsplatform.google.com/pricing/
+referral: null

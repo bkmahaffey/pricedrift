@@ -1,0 +1,30 @@
+slug: jetbrains
+name: JetBrains IDEs
+category: tools
+website: https://www.jetbrains.com
+tagline: Commercial IDEs including IntelliJ IDEA, PyCharm and WebStorm
+track_urls:
+  - https://www.jetbrains.com/all/
+  - https://www.jetbrains.com/store/comparison.html
+free_tier:
+  status: free
+  plan_name: Non-commercial use
+  credit_card_required: null
+  limits:
+    - metric: Permitted use
+      value: non-commercial use only
+    - metric: Approval
+      value: not required for non-commercial use; educational and open-source licenses require approval
+  trial_length: null
+  credit_amount: null
+  notes:
+    - All Products Pack and single-IDE prices were not readable via automated fetch on 2026-09-02 (JavaScript-rendered store); paid price left null
+paid_from:
+  price: null
+  period: year
+  unit: per user
+  plan_name: All Products Pack
+verified_on: "2026-09-02"
+sources:
+  - https://www.jetbrains.com/store/comparison.html
+referral: null

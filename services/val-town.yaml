@@ -1,0 +1,39 @@
+slug: val-town
+name: Val Town
+category: backend
+website: https://www.val.town
+tagline: Hosted TypeScript functions, crons and HTTP endpoints
+track_urls:
+  - https://www.val.town/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Runs
+      value: "100,000 / day"
+    - metric: Wall clock time
+      value: "1 min / run"
+    - metric: Cron intervals
+      value: "15 min"
+    - metric: Log retention
+      value: "3 days"
+    - metric: Public vals
+      value: "Unlimited"
+    - metric: Custom domains
+      value: "No custom domains"
+    - metric: Email
+      value: "Email yourself"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Private vals are a Pro feature (2,000 private vals on Pro)"
+paid_from:
+  price: "$21"
+  period: month
+  unit: flat
+  plan_name: Pro (billed yearly)
+verified_on: "2026-09-02"
+sources:
+  - https://www.val.town/pricing
+referral: null

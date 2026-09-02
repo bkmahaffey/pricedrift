@@ -1,0 +1,38 @@
+slug: raycast
+name: Raycast
+category: tools
+website: https://www.raycast.com
+tagline: Launcher app for macOS and Windows with extensions and AI
+track_urls:
+  - https://www.raycast.com/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Clipboard history size
+      value: "3 months"
+    - metric: Raycast Notes
+      value: "5 notes"
+    - metric: Raycast AI
+      value: "Not included"
+    - metric: Shared commands (Teams Free)
+      value: "Up to 5"
+    - metric: Shared Quicklinks (Teams Free)
+      value: "Up to 30"
+    - metric: Shared Snippets (Teams Free)
+      value: "Up to 30"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Free Team plan does not expire and is not a trial"
+    - "Eligible new accounts can start a free Pro trial with access to Pro models"
+paid_from:
+  price: "$8"
+  period: month
+  unit: flat
+  plan_name: Pro (billed annually)
+verified_on: "2026-09-02"
+sources:
+  - https://www.raycast.com/pricing
+referral: null

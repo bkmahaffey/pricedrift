@@ -1,0 +1,36 @@
+slug: flagsmith
+name: Flagsmith
+category: flags
+website: https://www.flagsmith.com
+tagline: Open-source feature flag and remote config service
+track_urls:
+  - https://www.flagsmith.com/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: API requests
+      value: Up to 50,000 per month
+    - metric: Team members
+      value: "1"
+    - metric: Feature flags
+      value: Unlimited
+    - metric: Environments
+      value: Unlimited
+    - metric: Identities and segments
+      value: Unlimited
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Fair usage policy applies"
+    - "Start-Up is $40/mo billed yearly or $45/mo billed monthly"
+paid_from:
+  price: "$40"
+  period: month
+  unit: flat
+  plan_name: Start-Up
+verified_on: "2026-09-02"
+sources:
+  - https://www.flagsmith.com/pricing
+referral: null

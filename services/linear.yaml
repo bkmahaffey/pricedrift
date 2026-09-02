@@ -1,0 +1,33 @@
+slug: linear
+name: Linear
+category: tools
+website: https://linear.app
+tagline: Issue tracking and project planning tool for software teams
+track_urls:
+  - https://linear.app/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Issues
+      value: "250"
+    - metric: Teams
+      value: "2"
+    - metric: Members
+      value: unlimited
+    - metric: File uploads
+      value: 10MB
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "AI features such as Loops and Coding Sessions require separate AI credits"
+paid_from:
+  price: "$10 (billed yearly)"
+  period: month
+  unit: per user
+  plan_name: Basic
+verified_on: "2026-09-02"
+sources:
+  - https://linear.app/pricing
+referral: null

@@ -1,0 +1,37 @@
+slug: beam
+name: Beam
+category: gpu
+website: https://www.beam.cloud
+tagline: Serverless GPU and CPU containers for AI workloads
+track_urls:
+  - https://www.beam.cloud/pricing
+free_tier:
+  status: credits
+  plan_name: Developer
+  credit_card_required: null
+  limits:
+    - metric: Free credit
+      value: $30, refreshed monthly
+    - metric: GPU concurrency
+      value: 5 containers
+    - metric: CPU concurrency
+      value: 30 containers
+    - metric: Requests
+      value: Unlimited
+    - metric: Log retention
+      value: 30 days
+    - metric: Seats
+      value: "1"
+  trial_length: null
+  credit_amount: "$30 free credit, refreshed monthly"
+  notes:
+    - "Developer plan is $0 per month plus usage; community support only"
+paid_from:
+  price: "$0.000191667/sec (RTX 4090)"
+  period: usage
+  unit: usage
+  plan_name: null
+verified_on: "2026-09-02"
+sources:
+  - https://www.beam.cloud/pricing
+referral: null

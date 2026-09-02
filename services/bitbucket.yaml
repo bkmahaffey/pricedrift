@@ -1,0 +1,35 @@
+slug: bitbucket
+name: Bitbucket
+category: cicd
+website: https://bitbucket.org
+tagline: Git repository hosting with Pipelines CI/CD
+track_urls:
+  - https://www.atlassian.com/software/bitbucket/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Users
+      value: "Up to 5"
+    - metric: Build minutes
+      value: "50 build minutes"
+      note: shared with all users on your workspace
+    - metric: Git LFS storage
+      value: "1 GB"
+    - metric: Repositories
+      value: "unlimited public and private repositories"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Standard and Premium offer a free trial
+    - 1,000 more build minutes or 100 GB storage cost $10 a month
+paid_from:
+  price: "$3.65"
+  period: month
+  unit: per user
+  plan_name: Standard
+verified_on: "2026-09-02"
+sources:
+  - https://www.atlassian.com/software/bitbucket/pricing
+referral: null

@@ -1,0 +1,40 @@
+slug: lovable
+name: Lovable
+category: ai
+website: https://lovable.dev
+tagline: AI app builder that generates full-stack web apps from prompts
+track_urls:
+  - https://lovable.dev/pricing
+  - https://docs.lovable.dev/introduction/subscription-plans
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Build credits
+      value: "5 per day, up to 30 per month"
+    - metric: Cloud credits
+      value: "20 per month"
+    - metric: AI feature credits
+      value: "4 credits usable by AI features built into user apps"
+    - metric: Workspace members
+      value: "Unlimited members on all plans"
+    - metric: Custom domains
+      value: "Not included"
+    - metric: Code download
+      value: "Not included"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Plans are priced by included credits, not by seats"
+    - "Plan cards on the pricing page render client-side; prices taken from the docs subscription-plans page"
+paid_from:
+  price: "$25"
+  period: month
+  unit: flat
+  plan_name: Pro
+verified_on: "2026-09-02"
+sources:
+  - https://lovable.dev/pricing
+  - https://docs.lovable.dev/introduction/subscription-plans
+referral: null

@@ -1,0 +1,1007 @@
+Edge Functions are now generally available! Learn some of the new ways you can cache responses and handle errors. Read our blog
+Netlify Pricing
+Netlify Pricing plans...
+Starter
+Single-member plan for personal projects, prototypes, or getting started.
+Start for free
+$ 0 to get started
+Start free, then pay as you go:
+Deploy to global edge network
+Live site previews with a collaboration UI
+100GB bandwidth and 300 build minutes
+Instant rollbacks to any version
+Deploy static assets & dynamic serverless functions
++ More features
+Pro
+Team collaboration for professional web projects.
+Start free 30-day trial
+or buy now
+$ 19 per member
+/month
+Starter features, plus:
+Background Functions
+Password-protected sites
+1TB bandwidth and 25k build minutes
+Audit logs with 7-day history
+Shared environment variables
+Support for organization-owned private Git repos
+Slack & email notifications
+Email support
++ More features
+Enterprise
+A custom plan with services tailored to team and performance requirements.
+Request demo
+Custom pricing
+Pro features, plus:
+99.99% uptime SLA
+24×7×365 premium support
+Enterprise-grade global edge network
+Unlimited teams with org-level controls
+SAML single sign-on
+Team Governance
+1.5TB bandwidth and 35k build minutes
+High-Performance Build with SLAs
+Log Drains
+Support for Github Enterprise Server or self-managed GitLab
+Security & compliance review
+Pentesting & load testing
++ More features
+Compare plans
+Fast, dynamic web experiences powered by Netlify
+Full Feature List
+Full Feature list pricing table Browse pricing by features
+Features by Topic
+Only pay for the capacity you use
+Build sites faster
+Deploy and host instantly
+Collaborate across larger teams
+Develop locally
+Get support
+Multi-tier offerings
+Enterprise Products
+Paid Support
+High-Performance Edge
+High-Performance Build
+Considering Enterprise? We can help.
+Calculate your ROI
+Request demo
+Per-site Add-Ons
+Analytics
+Identity
+Forms
+Functions
+Large Media
+Starter $0 to get started
+Start for free
+Pro $19 /month per member
+Start free 30-day trial
+or buy now
+Enterprise Custom pricing
+Request demo
+Only pay for the capacity you use
+Members
+Trigger deploys on Netlify or log into the Netlify platform UI. Sites connected to public repos will not have membership requirements for deploys.
+Limited to 1 free member, with free & unlimited Git Contributors
+$19 /month per member,
+including active Git Contributors
+Custom pricing
+Reviewers
+Provide feedback with collaborative Deploy Previews.
+Unlimited
+Concurrent builds
+Run more than one build at the same time so that new commits to a project are built even if existing builds aren’t yet finished.
+1
+3 (then $40 each)
+5 (then $40 each)
+Bandwidth
+100GB /month (then $55 per 100GB)
+1TB /month (then $55 per 100GB)
+1.5TB /month (then $180 per 1TB)
+Build minutes
+The time it takes Netlify to build your site — to run site generators, compile JavaScript, and perform other tasks.
+300 minutes /month (then $7 per 500)
+25k minutes /month (then $7 per 500)
+35k minutes /month (then $7 per 500)
+Websites
+The number of your websites that Netlify will support with a single workflow for hosting, continuous integration, and deployment pipeline.
+500 sites
+Unlimited
+Serverless functions Invocations
+Deploy serverless functions directly within Netlify. They’re version-controlled, built, and deployed along with the rest of your Netlify site.
+125k per site /month ($25+ when exceeded)
+Unlimited (Fair use. For how this is defined for Functions - contact Sales
+)
+Edge Functions Invocations
+Run JavaScript in a dedicated runtime in the Netlify Edge.
+1m /month (then $2 per 1m)
+2m /month (then $2 per 1m)
+5m /month (then $2 per 1m, for higher usage - contact Sales
+)
+Forms Submissions
+Add a simple attribute to any HTML form to start receiving submissions in your Netlify site admin panel, without JavaScript or any backend coding.
+100 per site /month ($19+ when exceeded)
+Unlimited
+Identity Active users
+Create and authenticate users on your site or app, without requiring them to be users of another service. You can use this for gated content, site administration, and more.
+1k per site /month ($99 when exceeded)
+Unlimited
+Large Media Transformations
+Manage binary files of any size right in your repo, just like code.
+2.5k per site /month ($20+ when exceeded)
+Unlimited
+Site Analytics
+Data captured directly from our servers, presented simply and beautifully.
+$9 per site /month
+Unlimited
+Real User Metrics
+Understand site performance based on user-centric Web Vitals that rely on real user interactions with your production site.
+No
+7-day history
+30-day history
+Build sites faster
+One-click rollbacks
+Instantly roll back your production environment to a previous version of your site.
+Yes
+Build plugins
+Add powerful capabilities to every build. Click to install from a catalog of community plugins or create your own.
+Yes
+Set environment variables per deploy context
+Customize environment variables for different deploy contexts, i.e. staging vs. production.
+Yes
+Scope environment variables per feature
+Limit where environment variables can be used, such as builds, functions, or post processing.
+No
+Yes
+Shared environment variables
+Set team-level variables that are shared by all sites owned by the team. These can be overridden by settings at the site level.
+No
+Yes
+Lighthouse scores on deploys list
+Easily compare Lighthouse scores for each deploy on the deploys list in the Netlify UI.
+No
+Yes
+Password-protected websites
+Site-wide protection, where only visitors with a valid password have access.
+No
+Yes
+Password-protected private deploys
+Non-production deploy password protection (including deploy previews and branch deploys), where only visitors with a valid password have access.
+No
+Yes
+Team login-protected sites and deploys
+Site-wide or non-production deploy protection, where only visitors within your Netlify team have access (including SSO authentication).
+No
+Yes
+Basic authentication headers
+Use custom HTTP headers to password protect paths of your site or specific branch previews.
+No
+Yes
+Custom deployment options for functions
+Increase execution limits, increase memory, or set a custom AWS region.
+No
+Yes
+Background Functions
+Execute long-running asynchronous functions for up to 15 minutes.
+No
+Yes
+Slack & email deploy notifications
+Notify a Slack channel or send an email when a deploy succeeds, fails, or hits other milestones. This is in addition to webhook, Zapier, & Git notifications available on all plans.
+No
+Yes
+Support for organization-owned private repositories
+Connect Netlify to your private GitHub repositories owned by organization accounts.
+No
+Yes
+Support for GitHub Enterprise Server or self-managed GitLab
+Connect Netlify to your publicly accessible repositories in GitHub Enterprise Server or self-managed GitLab.
+No
+Yes
+Priority build environment
+5x faster processing power (10vCPUs), 6x more memory (36GB), and 4x higher concurrency than the standard build environment.
+No
+Yes
+Deploy & host instantly
+Global edge deployments
+Globally distributed CDN designed for fast, low latency Jamstack sites and web apps.
+Yes
+Instant cache invalidation
+Once a build is uploaded for your website or web app, the changes in the build are instantly pushed to our global CDN and go live immediately.
+Yes
+Visitor access control
+Set granular access to your site, or to specific pages. We use JSON Web Tokens (JWT), roles, and redirect rules to grant access to those sections. And it all happens at the CDN level.
+No
+Yes
+99.99% uptime SLA
+No
+Yes
+High (95%) cache hit rate
+Fast and reliable CDN performance, for websites that load quickly, anywhere in the world.
+No
+Yes
+Secondary DNS
+DNS traffic is distributed across two DNS networks. In the event of an attack, the secondary network provides a physically and logically separate failover.
+No
+Yes
+Collaborate across larger teams
+Branch and pull request previews
+Deploy a live preview of your site, enable reviewers to leave high-quality, visual feedback, and sync feedback to the pull request and productivity tools.
+Yes
+Team management
+Set up teams of Netlify users to collaborate on specific sites. Each Netlify user can be a member of multiple teams.
+Yes
+Two-factor authentication (2FA)
+Use one time passwords from your favorite authentication apps to secure access to your Netlify account.
+Yes
+Netlify access control
+Set roles and permissions for every member of your team, what sites they can access and what they can do.
+No
+Yes
+Multiple owners
+Give more people the ability to add team members, set user permissions, transfer sites, and more.
+No
+Yes
+Audit logs
+A log of Netlify actions made by members of your team so you can keep track of what changes were made, when, and by whom.
+No
+7-day history
+Full history
+Functions log retention
+Logs to help you observe and troubleshoot serverless functions.
+24-hour history
+7-day history
+Full history
+Deploy retention policy
+Preserve deploys older than 90 days for reference or one-click rollbacks.
+No
+Retention policies up to 365 days
+SAML single sign-on
+Integrate your existing SSO provider to authenticate users to the Netlify UI.
+No
+Yes
+Billing Admin role
+No
+Yes
+Team Governance
+Monitor every team’s usage across your organization. Manage team permissions, billing, and much more.
+No
+Yes
+Develop locally
+Netlify CLI & dev server
+Deploy sites and configure continuous deployment from the command line on your local machine.
+Yes
+Live share your dev environment
+Share your development server to a live URL over HTTPS.
+Yes
+Get support
+Community forum
+Get questions answered quickly from our Netlify-staffed and community-supported forum and knowledge base.
+Yes
+Email technical support
+Get help directly from the Netlify team.
+No
+Yes
+24×7×365 support with SLA
+Production support, with anytime access to the Netlify support engineers who can help resolve issues and answer questions quickly.
+No
+Yes
+Multi-tier offerings
+Enterprise products
+Upgrade to Enterprise for top-notch support and our fastest, most reliable infrastructure.
+No
+See pricing
+Per-site add-ons
+Extend your site for free with basic access to add-ons. Automatically upgrade tiers as your usage grows, paying only for what you use.
+See pricing
+Full Feature list pricing table Starter $0 to get started
+Start for free
+Only pay for the capacity you use
+Members
+Trigger deploys on Netlify or log into the Netlify platform UI. Sites connected to public repos will not have membership requirements for deploys.
+Limited to 1 free member, with free & unlimited Git Contributors
+Reviewers
+Provide feedback with collaborative Deploy Previews.
+Unlimited
+Concurrent builds
+Run more than one build at the same time so that new commits to a project are built even if existing builds aren’t yet finished.
+1
+Bandwidth 100GB /month (then $55 per 100GB)
+Build minutes
+The time it takes Netlify to build your site — to run site generators, compile JavaScript, and perform other tasks.
+300 minutes /month (then $7 per 500)
+Websites
+The number of your websites that Netlify will support with a single workflow for hosting, continuous integration, and deployment pipeline.
+500 sites
+Serverless functions Invocations
+Deploy serverless functions directly within Netlify. They’re version-controlled, built, and deployed along with the rest of your Netlify site.
+125k per site /month ($25+ when exceeded)
+Edge Functions Invocations
+Run JavaScript in a dedicated runtime in the Netlify Edge.
+1m /month (then $2 per 1m)
+Forms Submissions
+Add a simple attribute to any HTML form to start receiving submissions in your Netlify site admin panel, without JavaScript or any backend coding.
+100 per site /month ($19+ when exceeded)
+Identity Active users
+Create and authenticate users on your site or app, without requiring them to be users of another service. You can use this for gated content, site administration, and more.
+1k per site /month ($99 when exceeded)
+Large Media Transformations
+Manage binary files of any size right in your repo, just like code.
+2.5k per site /month ($20+ when exceeded)
+Site Analytics
+Data captured directly from our servers, presented simply and beautifully.
+$9 per site /month
+Build sites faster
+One-click rollbacks
+Instantly roll back your production environment to a previous version of your site.
+Yes
+Build plugins
+Add powerful capabilities to every build. Click to install from a catalog of community plugins or create your own.
+Yes
+Set environment variables per deploy context
+Customize environment variables for different deploy contexts, i.e. staging vs. production.
+Yes
+Deploy & host instantly
+Global edge deployments
+Globally distributed CDN designed for fast, low latency Jamstack sites and web apps.
+Yes
+Instant cache invalidation
+Once a build is uploaded for your website or web app, the changes in the build are instantly pushed to our global CDN and go live immediately.
+Yes
+Collaborate across larger teams
+Branch and pull request previews
+Deploy a live preview of your site, enable reviewers to leave high-quality, visual feedback, and sync feedback to the pull request and productivity tools.
+Yes
+Team management
+Set up teams of Netlify users to collaborate on specific sites. Each Netlify user can be a member of multiple teams.
+Yes
+Two-factor authentication (2FA)
+Use one time passwords from your favorite authentication apps to secure access to your Netlify account.
+Yes
+Functions log retention
+Logs to help you observe and troubleshoot serverless functions.
+24-hour history
+Develop locally
+Netlify CLI & dev server
+Deploy sites and configure continuous deployment from the command line on your local machine.
+Yes
+Live share your dev environment
+Share your development server to a live URL over HTTPS.
+Yes
+Get support
+Community forum
+Get questions answered quickly from our Netlify-staffed and community-supported forum and knowledge base.
+Yes
+Multi-tier offerings
+Per-site add-ons
+Extend your site for free with basic access to add-ons. Automatically upgrade tiers as your usage grows, paying only for what you use.
+See pricing
+Pro $19 /month per member
+Start free 30-day trial
+or buy now
+Only pay for the capacity you use
+Members
+Trigger deploys on Netlify or log into the Netlify platform UI. Sites connected to public repos will not have membership requirements for deploys.
+$19 /month per member,
+including active Git Contributors
+Reviewers
+Provide feedback with collaborative Deploy Previews.
+Unlimited
+Concurrent builds
+Run more than one build at the same time so that new commits to a project are built even if existing builds aren’t yet finished.
+3 (then $40 each)
+Bandwidth 1TB /month (then $55 per 100GB)
+Build minutes
+The time it takes Netlify to build your site — to run site generators, compile JavaScript, and perform other tasks.
+25k minutes /month (then $7 per 500)
+Websites
+The number of your websites that Netlify will support with a single workflow for hosting, continuous integration, and deployment pipeline.
+500 sites
+Serverless functions Invocations
+Deploy serverless functions directly within Netlify. They’re version-controlled, built, and deployed along with the rest of your Netlify site.
+125k per site /month ($25+ when exceeded)
+Edge Functions Invocations
+Run JavaScript in a dedicated runtime in the Netlify Edge.
+2m /month (then $2 per 1m)
+Forms Submissions
+Add a simple attribute to any HTML form to start receiving submissions in your Netlify site admin panel, without JavaScript or any backend coding.
+100 per site /month ($19+ when exceeded)
+Identity Active users
+Create and authenticate users on your site or app, without requiring them to be users of another service. You can use this for gated content, site administration, and more.
+1k per site /month ($99 when exceeded)
+Large Media Transformations
+Manage binary files of any size right in your repo, just like code.
+2.5k per site /month ($20+ when exceeded)
+Site Analytics
+Data captured directly from our servers, presented simply and beautifully.
+$9 per site /month
+Real User Metrics
+Understand site performance based on user-centric Web Vitals that rely on real user interactions with your production site.
+7-day history
+Build sites faster
+One-click rollbacks
+Instantly roll back your production environment to a previous version of your site.
+Yes
+Build plugins
+Add powerful capabilities to every build. Click to install from a catalog of community plugins or create your own.
+Yes
+Set environment variables per deploy context
+Customize environment variables for different deploy contexts, i.e. staging vs. production.
+Yes
+Scope environment variables per feature
+Limit where environment variables can be used, such as builds, functions, or post processing.
+Yes
+Shared environment variables
+Set team-level variables that are shared by all sites owned by the team. These can be overridden by settings at the site level.
+Yes
+Lighthouse scores on deploys list
+Easily compare Lighthouse scores for each deploy on the deploys list in the Netlify UI.
+Yes
+Password-protected websites
+Site-wide protection, where only visitors with a valid password have access.
+Yes
+Basic authentication headers
+Use custom HTTP headers to password protect paths of your site or specific branch previews.
+Yes
+Custom deployment options for functions
+Increase execution limits, increase memory, or set a custom AWS region.
+Yes
+Background Functions
+Execute long-running asynchronous functions for up to 15 minutes.
+Yes
+Slack & email deploy notifications
+Notify a Slack channel or send an email when a deploy succeeds, fails, or hits other milestones. This is in addition to webhook, Zapier, & Git notifications available on all plans.
+Yes
+Support for organization-owned private repositories
+Connect Netlify to your private GitHub repositories owned by organization accounts.
+Yes
+Deploy & host instantly
+Global edge deployments
+Globally distributed CDN designed for fast, low latency Jamstack sites and web apps.
+Yes
+Instant cache invalidation
+Once a build is uploaded for your website or web app, the changes in the build are instantly pushed to our global CDN and go live immediately.
+Yes
+Collaborate across larger teams
+Branch and pull request previews
+Deploy a live preview of your site, enable reviewers to leave high-quality, visual feedback, and sync feedback to the pull request and productivity tools.
+Yes
+Team management
+Set up teams of Netlify users to collaborate on specific sites. Each Netlify user can be a member of multiple teams.
+Yes
+Two-factor authentication (2FA)
+Use one time passwords from your favorite authentication apps to secure access to your Netlify account.
+Yes
+Netlify access control
+Set roles and permissions for every member of your team, what sites they can access and what they can do.
+Yes
+Multiple owners
+Give more people the ability to add team members, set user permissions, transfer sites, and more.
+Yes
+Audit logs
+A log of Netlify actions made by members of your team so you can keep track of what changes were made, when, and by whom.
+7-day history
+Functions log retention
+Logs to help you observe and troubleshoot serverless functions.
+7-day history
+Develop locally
+Netlify CLI & dev server
+Deploy sites and configure continuous deployment from the command line on your local machine.
+Yes
+Live share your dev environment
+Share your development server to a live URL over HTTPS.
+Yes
+Get support
+Community forum
+Get questions answered quickly from our Netlify-staffed and community-supported forum and knowledge base.
+Yes
+Email technical support
+Get help directly from the Netlify team.
+Yes
+Multi-tier offerings
+Per-site add-ons
+Extend your site for free with basic access to add-ons. Automatically upgrade tiers as your usage grows, paying only for what you use.
+See pricing
+Enterprise Custom pricing
+Request demo
+Only pay for the capacity you use
+Members
+Trigger deploys on Netlify or log into the Netlify platform UI. Sites connected to public repos will not have membership requirements for deploys.
+Custom pricing
+Reviewers
+Provide feedback with collaborative Deploy Previews.
+Unlimited
+Concurrent builds
+Run more than one build at the same time so that new commits to a project are built even if existing builds aren’t yet finished.
+5 (then $40 each)
+Bandwidth 1.5TB /month (then $180 per 1TB)
+Build minutes
+The time it takes Netlify to build your site — to run site generators, compile JavaScript, and perform other tasks.
+35k minutes /month (then $7 per 500)
+Websites
+The number of your websites that Netlify will support with a single workflow for hosting, continuous integration, and deployment pipeline.
+Unlimited
+Serverless functions Invocations
+Deploy serverless functions directly within Netlify. They’re version-controlled, built, and deployed along with the rest of your Netlify site.
+Unlimited (Fair use. For how this is defined for Functions - contact Sales
+)
+Edge Functions Invocations
+Run JavaScript in a dedicated runtime in the Netlify Edge.
+5m /month (then $2 per 1m, for higher usage - contact Sales
+)
+Forms Submissions
+Add a simple attribute to any HTML form to start receiving submissions in your Netlify site admin panel, without JavaScript or any backend coding.
+Unlimited
+Identity Active users
+Create and authenticate users on your site or app, without requiring them to be users of another service. You can use this for gated content, site administration, and more.
+Unlimited
+Large Media Transformations
+Manage binary files of any size right in your repo, just like code.
+Unlimited
+Site Analytics
+Data captured directly from our servers, presented simply and beautifully.
+Unlimited
+Real User Metrics
+Understand site performance based on user-centric Web Vitals that rely on real user interactions with your production site.
+30-day history
+Build sites faster
+One-click rollbacks
+Instantly roll back your production environment to a previous version of your site.
+Yes
+Build plugins
+Add powerful capabilities to every build. Click to install from a catalog of community plugins or create your own.
+Yes
+Set environment variables per deploy context
+Customize environment variables for different deploy contexts, i.e. staging vs. production.
+Yes
+Scope environment variables per feature
+Limit where environment variables can be used, such as builds, functions, or post processing.
+Yes
+Shared environment variables
+Set team-level variables that are shared by all sites owned by the team. These can be overridden by settings at the site level.
+Yes
+Lighthouse scores on deploys list
+Easily compare Lighthouse scores for each deploy on the deploys list in the Netlify UI.
+Yes
+Password-protected websites
+Site-wide protection, where only visitors with a valid password have access.
+Yes
+Password-protected private deploys
+Non-production deploy password protection (including deploy previews and branch deploys), where only visitors with a valid password have access.
+Yes
+Team login-protected sites and deploys
+Site-wide or non-production deploy protection, where only visitors within your Netlify team have access (including SSO authentication).
+Yes
+Basic authentication headers
+Use custom HTTP headers to password protect paths of your site or specific branch previews.
+Yes
+Custom deployment options for functions
+Increase execution limits, increase memory, or set a custom AWS region.
+Yes
+Background Functions
+Execute long-running asynchronous functions for up to 15 minutes.
+Yes
+Slack & email deploy notifications
+Notify a Slack channel or send an email when a deploy succeeds, fails, or hits other milestones. This is in addition to webhook, Zapier, & Git notifications available on all plans.
+Yes
+Support for organization-owned private repositories
+Connect Netlify to your private GitHub repositories owned by organization accounts.
+Yes
+Support for GitHub Enterprise Server or self-managed GitLab
+Connect Netlify to your publicly accessible repositories in GitHub Enterprise Server or self-managed GitLab.
+Yes
+Priority build environment
+5x faster processing power (10vCPUs), 6x more memory (36GB), and 4x higher concurrency than the standard build environment.
+Yes
+Deploy & host instantly
+Global edge deployments
+Globally distributed CDN designed for fast, low latency Jamstack sites and web apps.
+Yes
+Instant cache invalidation
+Once a build is uploaded for your website or web app, the changes in the build are instantly pushed to our global CDN and go live immediately.
+Yes
+Visitor access control
+Set granular access to your site, or to specific pages. We use JSON Web Tokens (JWT), roles, and redirect rules to grant access to those sections. And it all happens at the CDN level.
+Yes
+99.99% uptime SLA Yes
+High (95%) cache hit rate
+Fast and reliable CDN performance, for websites that load quickly, anywhere in the world.
+Yes
+Secondary DNS
+DNS traffic is distributed across two DNS networks. In the event of an attack, the secondary network provides a physically and logically separate failover.
+Yes
+Collaborate across larger teams
+Branch and pull request previews
+Deploy a live preview of your site, enable reviewers to leave high-quality, visual feedback, and sync feedback to the pull request and productivity tools.
+Yes
+Team management
+Set up teams of Netlify users to collaborate on specific sites. Each Netlify user can be a member of multiple teams.
+Yes
+Two-factor authentication (2FA)
+Use one time passwords from your favorite authentication apps to secure access to your Netlify account.
+Yes
+Netlify access control
+Set roles and permissions for every member of your team, what sites they can access and what they can do.
+Yes
+Multiple owners
+Give more people the ability to add team members, set user permissions, transfer sites, and more.
+Yes
+Audit logs
+A log of Netlify actions made by members of your team so you can keep track of what changes were made, when, and by whom.
+Full history
+Functions log retention
+Logs to help you observe and troubleshoot serverless functions.
+Full history
+Deploy retention policy
+Preserve deploys older than 90 days for reference or one-click rollbacks.
+Retention policies up to 365 days
+SAML single sign-on
+Integrate your existing SSO provider to authenticate users to the Netlify UI.
+Yes
+Billing Admin role Yes
+Team Governance
+Monitor every team’s usage across your organization. Manage team permissions, billing, and much more.
+Yes
+Develop locally
+Netlify CLI & dev server
+Deploy sites and configure continuous deployment from the command line on your local machine.
+Yes
+Live share your dev environment
+Share your development server to a live URL over HTTPS.
+Yes
+Get support
+Community forum
+Get questions answered quickly from our Netlify-staffed and community-supported forum and knowledge base.
+Yes
+Email technical support
+Get help directly from the Netlify team.
+Yes
+24×7×365 support with SLA
+Production support, with anytime access to the Netlify support engineers who can help resolve issues and answer questions quickly.
+Yes
+Multi-tier offerings
+Enterprise products
+Upgrade to Enterprise for top-notch support and our fastest, most reliable infrastructure.
+See pricing
+Per-site add-ons
+Extend your site for free with basic access to add-ons. Automatically upgrade tiers as your usage grows, paying only for what you use.
+See pricing
+Take advantage of all of our pro developer resources
+Start free 30-day Pro trial
+Enterprise Products
+Upgrade to Enterprise for top-notch support and our fastest, most reliable infrastructure.
+Paid Support
+Email support is available for customers on Pro plans and above. Upgrade to an Enterprise plan for guaranteed response times and support via Slack or phone.
+Show all features Hide all features
+Support pricing table
+Email Support Pro plan
+Business Day Support Available with Enterprise
+Contact Sales
+24×7×365 Premium Support Available with Enterprise
+Contact Sales
+Guaranteed response time
+No
+Business days 6 AM – 5 PM PST Business critical: 1 hour General issue: 4 hours
+24x7x365 Business critical: 1 hour General issue: 4 hours
+Account support team
+No
+Support engineer,
+Solutions engineer,
+Account manager
+Netlify Support Forums
+Yes
+Contact by email
+Yes
+Dedicated Slack channel
+No
+Yes
+Escalate by phone
+No
+Yes
+Support pricing table Email Support Pro plan
+Guaranteed response time
+Account support team
+Netlify Support Forums
+Contact by email
+Dedicated Slack channel
+Escalate by phone
+Business Day Support Available with Enterprise
+Contact Sales
+Guaranteed response time
+Account support team
+Netlify Support Forums
+Contact by email
+Dedicated Slack channel
+Escalate by phone
+24×7×365 Premium Support Available with Enterprise
+Contact Sales
+Guaranteed response time
+Account support team
+Netlify Support Forums
+Contact by email
+Dedicated Slack channel
+Escalate by phone
+High-Performance Edge
+The premium network for mission-critical applications. Experience 30-50% faster response time and more global POPs, backed by a 99.99% uptime SLA.
+Show all features Hide all features
+High-Performance Edge pricing table
+Edge $0
+High-Performance Edge custom price
+Request demo
+Response time
+Standard
+Up to 50% faster on global average
+99.99% uptime SLA
+No
+Yes
+Proactive DDoS mitigation
+No
+Yes
+Cache hit rate
+80%
+95%
+Included bandwidth
+100GB
+1.5TB
+Extra bandwidth
+$55/month for each additional 100GB
+$180/month each additional TB
+High-Performance Edge pricing table Edge $0
+Response time Standard
+Cache hit rate 80%
+Included bandwidth 100GB
+Extra bandwidth $55/month for each additional 100GB
+High-Performance Edge custom price
+Request demo
+Response time
+99.99% uptime SLA
+Proactive DDoS mitigation
+Cache hit rate
+Included bandwidth
+Extra bandwidth
+High-Performance Build
+The premium build environment with more concurrency and processing power.
+Show all features Hide all features
+High-Performance Build pricing table
+Standard $0
+High-Performance custom price
+Request demo
+Concurrent builds
+Up to 5
+Starts with 12 concurrent builds
+Processor cores
+Up to 6
+10
+Memory
+Up to 11GB
+36GB
+Maximum execution time
+Up to 60 minutes
+Custom build timeouts
+99.9% uptime SLA
+No
+Yes
+High-Performance Build pricing table Standard $0
+Concurrent builds
+Processor cores
+Memory
+Maximum execution time
+99.9% uptime SLA
+High-Performance custom price
+Request demo
+Concurrent builds
+Processor cores
+Memory
+Maximum execution time
+99.9% uptime SLA
+Calculate your ROI
+Per-site add-ons
+Extend your site for free with basic access to add-ons. Automatically upgrade tiers as your usage grows, paying only for what you use.
+Analytics
+Netlify Analytics uses data captured directly from our servers, presented simply and beautifully. Find better accuracy, performance and privacy for your users.
+Show all features Hide all features
+Analytics pricing table
+Level 1 $9 per site /month
+Level 2 included with Enterprise plan
+Included pageviews /month
+250,000
+Unlimited
+Analytics pricing table Level 1 $9 per site /month
+Included pageviews /month
+Level 2 included with Enterprise plan
+Included pageviews /month
+Identity
+Create and authenticate users on your site or app without requiring them to use a separate service. Perfect for gated content, site administration, and more.
+Show all features Hide all features
+Identity pricing table
+Level 0 $0
+Level 1 $99 per site /month
+Level 2 included with Enterprise plan
+Active users
+Open registration
+1,000
+5,000
+Unlimited
+Active users
+Invite-only
+5
+100
+Unlimited
+Custom branded login
+No
+Yes
+Custom reply-to addresses
+No
+Yes
+Customizable email templates
+Available on Pro plans and above
+Yes
+Audit logs
+No
+7-day retention
+Full history
+SAML - SSO
+No
+Yes
+SLA
+No
+Yes
+Identity pricing table Level 0 $0
+Active users
+Custom branded login
+Custom reply-to addresses
+Customizable email templates
+Audit logs
+SAML - SSO
+SLA
+Level 1 $99 per site /month
+Active users
+Custom branded login
+Custom reply-to addresses
+Customizable email templates
+Audit logs
+SAML - SSO
+SLA
+Level 2 included with Enterprise plan
+Active users
+Custom branded login
+Custom reply-to addresses
+Customizable email templates
+Audit logs
+SAML - SSO
+SLA
+Forms
+Add a simple attribute to any HTML form to start receiving submissions in your Netlify site admin panel, without JavaScript or any backend coding.
+Show all features Hide all features
+Forms pricing table
+Level 0 $0
+Level 1 $19 per site /month
+Level 2 included with Enterprise plan
+Submissions /month
+100
+1,000
+Unlimited
+Size of uploads /month
+10MB
+1GB
+Unlimited
+Functions integration
+Yes
+Delivery SLA
+No
+Yes
+Extras
+No
+Add packs of 500 submissions and 500MB upload allowance $9/each
+Contact Sales
+Forms pricing table Level 0 $0
+Submissions /month
+Size of uploads /month
+Functions integration
+Delivery SLA
+Extras
+Level 1 $19 per site /month
+Submissions /month
+Size of uploads /month
+Functions integration
+Delivery SLA
+Extras
+Level 2 included with Enterprise plan
+Submissions /month
+Size of uploads /month
+Functions integration
+Delivery SLA
+Extras
+Functions
+Open a world of possibilities for running on-demand, server-side code — without having to run a dedicated server. Serverless functions power Netlify Functions, Background Functions, Edge Functions, and On-demand Builders.
+Show all features Hide all features
+Functions pricing table
+Level 0 $0
+Level 1 $25 per site /month
+Level 2 included with Enterprise plan
+Requests /month
+125,000
+2 million
+Unlimited (Fair use. For how this is defined for Functions contact Sales
+)
+Run time /month
+100 hours
+1,000 hours
+Unlimited (Fair use. For how this is defined for Functions contact Sales
+)
+Persistent pages or assets
+Generated by On-demand Builders
+10,000
+10,000 (Higher limits available for Enterprise)
+Background Functions
+Available on Pro plans and above
+Yes
+Deploy to custom AWS account
+No
+Yes
+Extras
+No
+Add packs of 500,000 requests and 500 runtime hours $19/each
+Contact Sales
+Edge Functions
+Invocations /month
+1 million (then $2 per 1m)
+2 million (Pro plan only, then $2 per 1m)
+5 million (then $2 per 1m, for higher usage - contact Sales
+)
+Functions pricing table Level 0 $0
+Requests /month
+Run time /month
+Persistent pages or assets
+Background Functions
+Deploy to custom AWS account
+Extras
+Edge Functions
+Level 1 $25 per site /month
+Requests /month
+Run time /month
+Persistent pages or assets
+Background Functions
+Deploy to custom AWS account
+Extras
+Edge Functions
+Level 2 included with Enterprise plan
+Requests /month
+Run time /month
+Persistent pages or assets
+Background Functions
+Deploy to custom AWS account
+Extras
+Edge Functions
+Large Media
+Manage binary files of any size right in your repo, just like code.
+Show all features Hide all features
+Large Media pricing table
+Level 0 $0
+Level 1 $20 per site /month
+Level 2 included with Enterprise plan
+Transformations /month
+2,500
+100,000
+Unlimited
+Extras
+No
+Add packs of 25k transformations $10/each
+Contact Sales
+Large Media pricing table Level 0 $0
+Transformations /month
+Extras
+Level 1 $20 per site /month
+Transformations /month
+Extras
+Level 2 included with Enterprise plan
+Transformations /month
+Extras
+Upgrade to Pro
+More bandwidth
+Background Functions
+Password-protected sites
+Slack & email notifications
+$19 per member /month
+Start free 30-day Pro trial
+Search
+Back to top
+Search for:

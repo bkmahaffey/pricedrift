@@ -1,0 +1,40 @@
+slug: framer
+name: Framer
+category: cms
+website: https://www.framer.com
+tagline: Visual website builder with hosting and built-in CMS
+track_urls:
+  - https://www.framer.com/pricing/
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Bandwidth
+      value: "1 GB"
+    - metric: Domain
+      value: "Free Framer domain"
+    - metric: CMS collections
+      value: "10"
+    - metric: Pages
+      value: "1,000"
+    - metric: File uploads
+      value: "5 MB"
+    - metric: Editors
+      value: "up to three"
+    - metric: Analytics history
+      value: "30 days"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - 500 AI credits to try Agents, only when the workspace has no active subscriptions
+    - Custom domain requires a paid plan
+paid_from:
+  price: "$10 (yearly billing)"
+  period: month
+  unit: per site
+  plan_name: Basic
+verified_on: "2026-09-02"
+sources:
+  - https://www.framer.com/pricing/
+referral: null

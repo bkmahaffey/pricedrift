@@ -1,0 +1,38 @@
+slug: ory
+name: Ory
+category: auth
+website: https://www.ory.sh
+tagline: Managed identity, OAuth2 and permissions service (Ory Network)
+track_urls:
+  - https://www.ory.com/pricing
+free_tier:
+  status: free
+  plan_name: Developer
+  credit_card_required: null
+  limits:
+    - metric: Development environments
+      value: "2"
+    - metric: Production environments
+      value: "0"
+    - metric: Staging environments
+      value: "0"
+    - metric: Members
+      value: "1"
+    - metric: Custom domains
+      value: not available
+    - metric: Analytics data retention
+      value: 24 hours
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Developer plan is positioned for test and integration systems; community support only
+    - Production plan includes $21 monthly credit and bills $0.14 per aDAU per month
+paid_from:
+  price: "$770"
+  period: year
+  unit: flat
+  plan_name: Production
+verified_on: "2026-09-02"
+sources:
+  - https://www.ory.com/pricing
+referral: null

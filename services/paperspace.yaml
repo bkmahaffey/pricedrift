@@ -1,0 +1,35 @@
+slug: paperspace
+name: Paperspace
+category: gpu
+website: https://www.paperspace.com
+tagline: GPU cloud machines and Gradient notebooks from DigitalOcean
+track_urls:
+  - https://www.paperspace.com/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Storage
+      value: "5GB"
+    - metric: Projects
+      value: "Public projects"
+    - metric: Auto-shutdown
+      value: "12 hour limit"
+    - metric: Instances
+      value: "Basic instances"
+      note: paid instances incur utilization costs
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Paperspace is now part of DigitalOcean"
+    - "Cheapest GPU machine listed is M4000 at $0.45 per hour"
+paid_from:
+  price: "$8"
+  period: month
+  unit: flat
+  plan_name: Pro
+verified_on: "2026-09-02"
+sources:
+  - https://www.paperspace.com/pricing
+referral: null

@@ -1,0 +1,39 @@
+slug: prismic
+name: Prismic
+category: cms
+website: https://prismic.io
+tagline: Headless CMS with slice-based page building
+track_urls:
+  - https://prismic.io/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Users
+      value: "1"
+    - metric: API calls
+      value: 4 million per month
+      note: no overages
+    - metric: CDN bandwidth
+      value: 100 GB per month
+      note: no overages
+    - metric: Locales
+      value: "2"
+    - metric: Documents
+      value: Unlimited
+    - metric: Custom types
+      value: Unlimited
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Starter is $10/month per repository, paid annually"
+paid_from:
+  price: "$10"
+  period: month
+  unit: per project
+  plan_name: Starter
+verified_on: "2026-09-02"
+sources:
+  - https://prismic.io/pricing
+referral: null

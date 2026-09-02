@@ -1,0 +1,35 @@
+slug: n8n
+name: n8n Cloud
+category: backend
+website: https://n8n.io
+tagline: Hosted workflow automation with AI agents and integrations
+track_urls:
+  - https://n8n.io/pricing/
+free_tier:
+  status: trial
+  plan_name: Free trial
+  credit_card_required: false
+  limits:
+    - metric: Trial features
+      value: "Pro-level features"
+    - metric: AI credits
+      value: "800 credits"
+      note: "expire when the trial ends"
+    - metric: Business plan trial length
+      value: "14 days"
+      note: "credit card required only for the Business plan trial"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "No permanent free cloud plan; a self-hosted Community Edition is available on GitHub"
+    - "Trial length in days for the standard Cloud trial is not stated on the page"
+    - "Prices shown in EUR and billed annually"
+paid_from:
+  price: "20€"
+  period: month
+  unit: flat
+  plan_name: Starter
+verified_on: "2026-09-02"
+sources:
+  - https://n8n.io/pricing/
+referral: null

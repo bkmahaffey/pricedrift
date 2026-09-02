@@ -1,0 +1,37 @@
+slug: clerk
+name: Clerk
+category: auth
+website: https://clerk.com
+tagline: Authentication, session and user management for web apps
+track_urls:
+  - https://clerk.com/pricing
+free_tier:
+  status: free
+  plan_name: Hobby
+  credit_card_required: false
+  limits:
+    - metric: Monthly retained users
+      value: 50,000 MRU per app
+    - metric: Dashboard seats
+      value: Up to 3
+    - metric: Applications
+      value: unlimited
+    - metric: User impersonations
+      value: Up to 5
+    - metric: Session lifetime
+      value: Fixed, 7 day
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Clerk branding cannot be removed on Hobby"
+    - "All Pro features can be tried in the development instance of your application"
+    - "MRU overage: $0.02/mo each for 50,001-100,000"
+paid_from:
+  price: "$20 (billed annually)"
+  period: month
+  unit: flat
+  plan_name: Pro
+verified_on: "2026-09-02"
+sources:
+  - https://clerk.com/pricing
+referral: null

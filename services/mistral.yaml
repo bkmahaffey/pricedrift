@@ -1,0 +1,38 @@
+slug: mistral
+name: Mistral AI
+category: ai
+website: https://mistral.ai
+tagline: Open-weight and commercial LLM APIs with chat and coding tools
+track_urls:
+  - https://mistral.ai/pricing
+  - https://mistral.ai/pricing/api/
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: API credits
+      value: "$10 /mo"
+    - metric: Messages and web searches
+      value: "Limited"
+    - metric: Coding sessions
+      value: "Limited"
+    - metric: Studio access
+      value: "Included"
+  trial_length: null
+  credit_amount: "$10 /mo in API credits"
+  notes:
+    - Subject to fair usage limits and Mistral's Terms of Service
+    - API rate limits are shown per organization in the Admin Panel (API > Limits) rather than published
+    - Batch processing reduces API price by 50%; cached input tokens reduce input cost by up to 90%
+paid_from:
+  price: "$0.1 per 1M tokens (Ministral 3 3B, input and output)"
+  period: usage
+  unit: usage
+  plan_name: null
+verified_on: "2026-09-02"
+sources:
+  - https://mistral.ai/pricing
+  - https://mistral.ai/pricing/api/
+  - https://docs.mistral.ai/admin/user-management-finops/tier
+referral: null

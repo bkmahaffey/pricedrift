@@ -1,0 +1,40 @@
+slug: supabase
+name: Supabase
+category: databases
+website: https://supabase.com
+tagline: Hosted Postgres with auth, storage, realtime and edge functions
+track_urls:
+  - https://supabase.com/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Active projects
+      value: "2"
+    - metric: Database size
+      value: 500 MB
+    - metric: Monthly active users
+      value: "50,000"
+    - metric: File storage
+      value: 1 GB
+    - metric: Egress
+      value: 5 GB
+      note: plus 5 GB cached egress
+    - metric: Edge function invocations
+      value: "500,000"
+    - metric: API requests
+      value: unlimited
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Free projects are paused after 1 week of inactivity"
+paid_from:
+  price: "$25"
+  period: month
+  unit: flat
+  plan_name: Pro
+verified_on: "2026-09-02"
+sources:
+  - https://supabase.com/pricing
+referral: null

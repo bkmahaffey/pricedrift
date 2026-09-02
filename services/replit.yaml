@@ -1,0 +1,35 @@
+slug: replit
+name: Replit
+category: tools
+website: https://replit.com
+tagline: Browser-based IDE with AI agent and hosting
+track_urls:
+  - https://replit.com/pricing
+free_tier:
+  status: free
+  plan_name: Starter
+  credit_card_required: null
+  limits:
+    - metric: Published live projects
+      value: "1"
+    - metric: Background tasks
+      value: "one at a time"
+    - metric: Agent usage
+      value: "Free daily usage"
+      note: page lists "Daily agent credits"
+    - metric: Database
+      value: "Built-in database"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Prices are subject to tax depending on your location
+    - Core is $18 / month when billed annually (up to 10% off)
+paid_from:
+  price: "$20"
+  period: month
+  unit: flat
+  plan_name: Core
+verified_on: "2026-09-02"
+sources:
+  - https://replit.com/pricing
+referral: null

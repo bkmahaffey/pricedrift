@@ -1,0 +1,33 @@
+slug: hasura
+name: Hasura
+category: backend
+website: https://hasura.io
+tagline: API engine generating GraphQL and REST APIs over data sources (DDN)
+track_urls:
+  - https://hasura.io/pricing
+free_tier:
+  status: free
+  plan_name: DDN Free
+  credit_card_required: null
+  limits:
+    - metric: Supergraph developers
+      value: "1"
+    - metric: API requests per month
+      value: No limit
+    - metric: Concurrent API users
+      value: No limit
+    - metric: Observability retention (traces, performance metrics)
+      value: Last 15 mins
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Paid plans are priced per active model; an active model is any model or command accessed more than 1000 times per month"
+paid_from:
+  price: "$5 per active model per month"
+  period: month
+  unit: usage
+  plan_name: DDN Base
+verified_on: "2026-09-02"
+sources:
+  - https://hasura.io/pricing
+referral: null

@@ -1,0 +1,26 @@
+slug: ovhcloud
+name: OVHcloud
+category: compute
+website: https://www.ovhcloud.com
+tagline: Public cloud instances, storage and managed services billed hourly
+track_urls:
+  - https://www.ovhcloud.com/en/public-cloud/prices/
+free_tier:
+  status: credits
+  plan_name: Public Cloud free trial
+  credit_card_required: null
+  limits: []
+  trial_length: null
+  credit_amount: "US$ 200 free credit"
+  notes:
+    - "Public Cloud free trial: launch your first project with US$ 200 free credit"
+    - "Instance prices shown excl. VAT; d2-2 is $0.0123 per hour"
+paid_from:
+  price: "$6.74"
+  period: month
+  unit: flat
+  plan_name: d2-2 (Discovery)
+verified_on: "2026-09-02"
+sources:
+  - https://www.ovhcloud.com/en/public-cloud/prices/
+referral: null

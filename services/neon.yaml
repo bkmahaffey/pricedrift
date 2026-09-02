@@ -1,0 +1,44 @@
+slug: neon
+name: Neon
+category: databases
+website: https://neon.com
+tagline: Serverless Postgres with branching and scale-to-zero
+track_urls:
+  - https://neon.com/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: false
+  limits:
+    - metric: Projects
+      value: "100"
+    - metric: Branches
+      value: "10 per project"
+    - metric: Storage
+      value: "0.5 GB/project"
+    - metric: Compute
+      value: "100 CU-hours/project"
+      note: compute suspends automatically after inactivity; no CU-hours accrue while suspended
+    - metric: Data transfer (egress)
+      value: "5 GB included"
+    - metric: History window
+      value: "6 hours (1 GB limit)"
+    - metric: Auth
+      value: "Up to 60k MAU"
+    - metric: Manual snapshots
+      value: "1"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - The Free plan is permanent (not a trial)
+    - Hitting any Free monthly limit suspends compute until the next billing month
+    - Invoices under $0.50 are not collected
+paid_from:
+  price: "$0.106 per CU-hour"
+  period: usage
+  unit: usage
+  plan_name: Launch
+verified_on: "2026-09-02"
+sources:
+  - https://neon.com/pricing
+referral: null

@@ -1,0 +1,45 @@
+slug: firebase
+name: Firebase
+category: backend
+website: https://firebase.google.com
+tagline: Google app backend platform with database, auth, hosting and functions
+track_urls:
+  - https://firebase.google.com/pricing
+free_tier:
+  status: free
+  plan_name: Spark
+  credit_card_required: false
+  limits:
+    - metric: Firestore stored data
+      value: 1 GiB total
+    - metric: Firestore document reads
+      value: 50K reads/day
+      note: 20K writes/day and 20K deletes/day
+    - metric: Cloud Functions invocations
+      value: 2M/month
+    - metric: Hosting storage
+      value: 10 GB
+    - metric: Hosting data transfer
+      value: 360 MB/day
+    - metric: Authentication
+      value: 50K MAUs
+      note: 50 MAUs for SAML/OIDC
+    - metric: Realtime Database stored data
+      value: 1 GB
+      note: 10 GB/month downloaded; 100 simultaneous connections
+    - metric: Cloud Storage (legacy buckets)
+      value: 5 GB stored
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "No payment method needed on Spark; no-cost usage quotas apply at the project-level, not at the app-level"
+    - "Blaze (pay as you go) includes the Spark no-cost quotas and, if eligible, $300 in free credit"
+paid_from:
+  price: "$0.40 per 1M invocations (Cloud Functions)"
+  period: usage
+  unit: usage
+  plan_name: Blaze
+verified_on: "2026-09-02"
+sources:
+  - https://firebase.google.com/pricing
+referral: null

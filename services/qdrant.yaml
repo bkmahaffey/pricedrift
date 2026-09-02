@@ -1,0 +1,35 @@
+slug: qdrant
+name: Qdrant Cloud
+category: databases
+website: https://qdrant.tech
+tagline: Managed vector database for similarity search
+track_urls:
+  - https://qdrant.tech/pricing/
+free_tier:
+  status: free
+  plan_name: Free Tier
+  credit_card_required: null
+  limits:
+    - metric: RAM
+      value: 1GB
+    - metric: vCPU
+      value: "0.5"
+    - metric: Disk
+      value: 4GB
+    - metric: Cluster
+      value: single node cluster
+    - metric: Cloud inference
+      value: free with selected models
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Standard Tier is usage-based (vCPU, memory and storage billed hourly); unit prices are only shown in the pricing calculator, not on the page
+paid_from:
+  price: null
+  period: usage
+  unit: usage
+  plan_name: Standard Tier
+verified_on: "2026-09-02"
+sources:
+  - https://qdrant.tech/pricing/
+referral: null

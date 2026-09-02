@@ -1,0 +1,37 @@
+slug: stytch
+name: Stytch
+category: auth
+website: https://stytch.com
+tagline: Authentication and authorization APIs for consumer and B2B apps
+track_urls:
+  - https://stytch.com/pricing
+free_tier:
+  status: free
+  plan_name: Pay as you go
+  credit_card_required: null
+  limits:
+    - metric: Monthly active users
+      value: "10,000 monthly active users and AI agents"
+    - metric: Organizations
+      value: "Unlimited"
+    - metric: SSO or SCIM connections
+      value: "5"
+    - metric: M2M tokens
+      value: "1,000"
+    - metric: Fraud fingerprints
+      value: "10,000"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "No hard caps or pricing cliffs; usage above the included amounts is billed with volume discounts"
+    - "Additional SSO/SCIM connections $125/connection; additional fingerprints $.005 each"
+    - "Per-MAU overage rate is not published on the page"
+paid_from:
+  price: null
+  period: usage
+  unit: usage
+  plan_name: Pay as you go
+verified_on: "2026-09-02"
+sources:
+  - https://stytch.com/pricing
+referral: null

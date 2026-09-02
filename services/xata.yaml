@@ -1,0 +1,26 @@
+slug: xata
+name: Xata
+category: databases
+website: https://xata.io
+tagline: Managed Postgres platform with branching, scale-to-zero and schema migrations
+track_urls:
+  - https://xata.io/pricing
+free_tier:
+  status: trial
+  plan_name: null
+  credit_card_required: false
+  limits: []
+  trial_length: "14 days"
+  credit_amount: null
+  notes:
+    - "Xata Cloud starts with a 14-day free trial; add a credit card after the trial to keep using Xata on Pay As You Go"
+    - "The open source self-managed distribution is free forever"
+paid_from:
+  price: "$0.012/hr"
+  period: usage
+  unit: usage
+  plan_name: Xata Cloud (Micro instance)
+verified_on: "2026-09-02"
+sources:
+  - https://xata.io/pricing
+referral: null

@@ -1,0 +1,34 @@
+slug: zilliz
+name: Zilliz Cloud
+category: databases
+website: https://zilliz.com
+tagline: Managed Milvus vector database with serverless and dedicated clusters
+track_urls:
+  - https://zilliz.com/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Storage
+      value: "5 GB"
+    - metric: vCUs
+      value: "2.5M per month included"
+    - metric: Collections
+      value: "Up to 5"
+    - metric: Support
+      value: "Community (Slack)"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Standard and Enterprise plans offer a 30-day free trial"
+    - "Cost calculator refers to $200 free credits for evaluation"
+paid_from:
+  price: "$126 per GB/month"
+  period: month
+  unit: usage
+  plan_name: Standard (Dedicated)
+verified_on: "2026-09-02"
+sources:
+  - https://zilliz.com/pricing
+referral: null

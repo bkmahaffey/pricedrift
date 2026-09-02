@@ -1,0 +1,33 @@
+slug: cloudflare-r2
+name: Cloudflare R2
+category: storage
+website: https://developers.cloudflare.com/r2/
+tagline: S3-compatible object storage with zero egress fees
+track_urls:
+  - https://developers.cloudflare.com/r2/pricing/
+free_tier:
+  status: free
+  plan_name: Free tier
+  credit_card_required: null
+  limits:
+    - metric: Storage
+      value: "10 GB-month / month"
+    - metric: Class A operations
+      value: "1 million requests / month"
+    - metric: Class B operations
+      value: "10 million requests / month"
+    - metric: Egress
+      value: "Free"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Free tier applies to Standard storage only, not Infrequent Access"
+paid_from:
+  price: "$0.015 per GB-month"
+  period: usage
+  unit: usage
+  plan_name: null
+verified_on: "2026-09-02"
+sources:
+  - https://developers.cloudflare.com/r2/pricing/
+referral: null

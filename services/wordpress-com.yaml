@@ -1,0 +1,35 @@
+slug: wordpress-com
+name: WordPress.com
+category: cms
+website: https://wordpress.com
+tagline: Managed WordPress hosting and site builder
+track_urls:
+  - https://wordpress.com/pricing/
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Storage
+      value: 1 GB
+    - metric: Domain
+      value: WordPress.com subdomain only
+    - metric: Pages, posts, users and visitors
+      value: unlimited
+    - metric: Stats
+      value: basic stats for the last 7 days
+    - metric: Plugins
+      value: not available
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Free sites display WordPress.com ads to visitors
+paid_from:
+  price: "$4 per month (billed annually; $9 month-to-month; $2.75 on a 3-year term)"
+  period: month
+  unit: per site
+  plan_name: Personal
+verified_on: "2026-09-02"
+sources:
+  - https://wordpress.com/pricing/
+referral: null

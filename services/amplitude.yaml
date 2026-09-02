@@ -1,0 +1,38 @@
+slug: amplitude
+name: Amplitude
+category: analytics
+website: https://amplitude.com
+tagline: Product analytics with session replay, feature flags and experiments
+track_urls:
+  - https://amplitude.com/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: false
+  limits:
+    - metric: Events
+      value: 2M per month
+    - metric: Session replays
+      value: 10K per month
+    - metric: AI feedback records
+      value: "2000"
+    - metric: Seats
+      value: unlimited
+    - metric: Feature flags
+      value: unlimited
+    - metric: Active AI Visibility prompts
+      value: "500"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Plus plan starts at $0 with the first 2M events per month free, then event-based pricing; credit card required, no fixed public price
+    - Startups under $10M funding with fewer than 20 employees can get one free year on Growth
+paid_from:
+  price: null
+  period: month
+  unit: usage
+  plan_name: Plus
+verified_on: "2026-09-02"
+sources:
+  - https://amplitude.com/pricing
+referral: null

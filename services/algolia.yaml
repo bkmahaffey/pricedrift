@@ -1,0 +1,34 @@
+slug: algolia
+name: Algolia
+category: backend
+website: https://www.algolia.com
+tagline: Hosted search and recommendation API billed per request and record
+track_urls:
+  - https://www.algolia.com/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: false
+  limits:
+    - metric: Search requests
+      value: "10K search requests/month"
+    - metric: Records
+      value: "50K records included"
+    - metric: Recommendation requests
+      value: "5K recommendation requests/month"
+    - metric: Crawls
+      value: "5K crawls/month"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Grow and Grow Plus include 10K search requests and 100K records per month before overage billing
+    - Algolia ignores the 3 days with the most records in each month before calculating the record total
+paid_from:
+  price: "$0.50 per additional 1K search requests ($0.40 per additional 1K records)"
+  period: usage
+  unit: usage
+  plan_name: Grow
+verified_on: "2026-09-02"
+sources:
+  - https://www.algolia.com/pricing
+referral: null

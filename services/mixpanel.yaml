@@ -1,0 +1,36 @@
+slug: mixpanel
+name: Mixpanel
+category: analytics
+website: https://mixpanel.com
+tagline: Product analytics with event-based pricing and session replay
+track_urls:
+  - https://mixpanel.com/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: false
+  limits:
+    - metric: Events
+      value: "Up to 1M events / month"
+    - metric: Session replays
+      value: "10K session replays / month"
+    - metric: Seats
+      value: "Unlimited seats"
+    - metric: Experiments
+      value: "Up to 1k MEU / month"
+    - metric: Feature flags
+      value: "Up to 10 active feature flags"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Growth plan "Starts at $0" and covers up to 20M events / month; the price is estimated with a slider on the page
+    - Startup Plan gives eligible early-stage companies (founded less than 5 years ago, up to $8M funding) their first year free
+paid_from:
+  price: "Starts at $0 (usage-based)"
+  period: month
+  unit: usage
+  plan_name: Growth
+verified_on: "2026-09-02"
+sources:
+  - https://mixpanel.com/pricing
+referral: null

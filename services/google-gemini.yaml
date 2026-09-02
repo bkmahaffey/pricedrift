@@ -1,0 +1,38 @@
+slug: google-gemini
+name: Google Gemini API
+category: ai
+website: https://ai.google.dev
+tagline: API access to Google's Gemini multimodal models
+track_urls:
+  - https://ai.google.dev/gemini-api/docs/pricing
+  - https://ai.google.dev/gemini-api/docs/rate-limits
+free_tier:
+  status: free
+  plan_name: Free tier
+  credit_card_required: null
+  limits:
+    - metric: Gemini 3.5 Flash-Lite input and output tokens
+      value: Free of charge
+    - metric: Gemini 2.5 Flash-Lite input and output tokens
+      value: Free of charge
+    - metric: Gemini 3.5 / 3.6 / 3.7 / 3.8 Flash input and output tokens
+      value: Free of charge
+    - metric: Spend rate limit (per 10 minutes)
+      value: N/A on Free tier
+    - metric: Per-model rate limits (RPM/TPM/RPD)
+      value: not published on the docs page; shown in Google AI Studio
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Free tier: content used to improve our products"
+    - "Tier 1 (paid) rate limits require setting up and linking an active billing account"
+paid_from:
+  price: "$0.10 per 1M input tokens"
+  period: usage
+  unit: usage
+  plan_name: Paid tier (Gemini 2.5 Flash-Lite)
+verified_on: "2026-09-02"
+sources:
+  - https://ai.google.dev/gemini-api/docs/pricing
+  - https://ai.google.dev/gemini-api/docs/rate-limits
+referral: null

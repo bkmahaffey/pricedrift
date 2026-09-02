@@ -1,0 +1,31 @@
+slug: pusher
+name: Pusher
+category: backend
+website: https://pusher.com
+tagline: Hosted realtime pub/sub WebSocket messaging (Channels)
+track_urls:
+  - https://pusher.com/channels/pricing/
+free_tier:
+  status: free
+  plan_name: Sandbox
+  credit_card_required: null
+  limits:
+    - metric: Messages per day
+      value: 200k
+    - metric: Concurrent connections
+      value: "100"
+    - metric: Support
+      value: Standard
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Pricing is prorated by days on each plan; upgrade, downgrade or cancel at any time"
+paid_from:
+  price: "$49"
+  period: month
+  unit: flat
+  plan_name: Startup
+verified_on: "2026-09-02"
+sources:
+  - https://pusher.com/channels/pricing/
+referral: null

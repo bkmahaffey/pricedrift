@@ -1,0 +1,36 @@
+slug: ghost
+name: Ghost(Pro)
+category: cms
+website: https://ghost.org
+tagline: Managed hosting for the Ghost publishing and newsletter platform
+track_urls:
+  - https://ghost.org/pricing/
+  - https://ghost.org/help/manage-your-subscription/
+free_tier:
+  status: trial
+  plan_name: null
+  credit_card_required: null
+  limits:
+    - metric: Trial length
+      value: "14 days"
+    - metric: Starter plan members
+      value: "1,000 members"
+    - metric: Starter plan staff users
+      value: "1"
+    - metric: Starter plan file upload limit
+      value: "5mb"
+  trial_length: "14 days"
+  credit_amount: null
+  notes:
+    - "No permanent free plan; you are not billed when the trial expires but must pick a plan to continue"
+    - "Starter is $18/mo billed monthly or $15/mo billed yearly"
+paid_from:
+  price: "$18"
+  period: month
+  unit: flat
+  plan_name: Starter
+verified_on: "2026-09-02"
+sources:
+  - https://ghost.org/pricing/
+  - https://ghost.org/help/manage-your-subscription/
+referral: null

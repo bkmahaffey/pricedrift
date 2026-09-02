@@ -1,0 +1,41 @@
+slug: scaleway
+name: Scaleway
+category: compute
+website: https://www.scaleway.com
+tagline: European cloud with instances, serverless, storage and GPUs
+track_urls:
+  - https://www.scaleway.com/en/pricing/
+  - https://www.scaleway.com/en/pricing/serverless/
+free_tier:
+  status: free
+  plan_name: Free Tier
+  credit_card_required: null
+  limits:
+    - metric: Serverless Functions requests
+      value: "1 000 000 requests per account and per month"
+    - metric: Serverless Functions resources
+      value: "400 000 GB-s per account and per month"
+    - metric: Serverless Containers memory
+      value: "400 000 GB-s per account and per month"
+    - metric: Serverless Containers vCPU
+      value: "200 000 vCPU-s per account and per month"
+    - metric: Object Storage egress
+      value: "75GB free every month"
+      note: "then €0.01/GB; storage requests and ingress are included"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "The main pricing page is a hub; free allowances are stated on per-product pricing pages"
+    - "Prices are in EUR"
+paid_from:
+  price: "€0.0006 per hour"
+  period: usage
+  unit: usage
+  plan_name: STARDUST1-S instance
+verified_on: "2026-09-02"
+sources:
+  - https://www.scaleway.com/en/pricing/
+  - https://www.scaleway.com/en/pricing/serverless/
+  - https://www.scaleway.com/en/pricing/storage/
+  - https://www.scaleway.com/en/pricing/virtual-instances/
+referral: null

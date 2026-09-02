@@ -1,0 +1,25 @@
+slug: lambda-labs
+name: Lambda
+category: gpu
+website: https://lambda.ai
+tagline: On-demand and reserved NVIDIA GPU cloud instances and clusters
+track_urls:
+  - https://lambda.ai/pricing
+free_tier:
+  status: none
+  plan_name: null
+  credit_card_required: null
+  limits: []
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Prices are plus applicable sales tax/VAT/GST
+paid_from:
+  price: "$0.79 per GPU per hour (NVIDIA Tesla V100)"
+  period: usage
+  unit: usage
+  plan_name: null
+verified_on: "2026-09-02"
+sources:
+  - https://lambda.ai/pricing
+referral: null

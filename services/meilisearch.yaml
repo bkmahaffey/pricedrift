@@ -1,0 +1,26 @@
+slug: meilisearch
+name: Meilisearch Cloud
+category: databases
+website: https://www.meilisearch.com
+tagline: Hosted search engine service for the open-source Meilisearch
+track_urls:
+  - https://www.meilisearch.com/pricing
+free_tier:
+  status: trial
+  plan_name: null
+  credit_card_required: false
+  limits: []
+  trial_length: 14 days
+  credit_amount: null
+  notes:
+    - 14-day free trial, no credit card required
+    - Self-hosting the open-source engine is free
+paid_from:
+  price: "$20"
+  period: month
+  unit: usage
+  plan_name: Cloud
+verified_on: "2026-09-02"
+sources:
+  - https://www.meilisearch.com/pricing
+referral: null

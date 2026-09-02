@@ -1,0 +1,36 @@
+slug: lemon-squeezy
+name: Lemon Squeezy
+category: backend
+website: https://www.lemonsqueezy.com
+tagline: Merchant-of-record payments, subscriptions and tax for software
+track_urls:
+  - https://www.lemonsqueezy.com/pricing
+free_tier:
+  status: free
+  plan_name: null
+  credit_card_required: null
+  limits:
+    - metric: Monthly fee
+      value: "$0"
+    - metric: Transaction fee
+      value: "5% + 50¢ per transaction"
+    - metric: Payment methods
+      value: "16 included, including PayPal"
+    - metric: Global VAT and sales tax collection
+      value: "Included"
+    - metric: Fraud protection
+      value: "Included"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Transactions made outside of the US may encounter small additional fees"
+    - "Volume-based pricing on request"
+paid_from:
+  price: "5% + 50¢ per transaction"
+  period: usage
+  unit: usage
+  plan_name: null
+verified_on: "2026-09-02"
+sources:
+  - https://www.lemonsqueezy.com/pricing
+referral: null

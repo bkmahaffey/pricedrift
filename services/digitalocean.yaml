@@ -1,0 +1,29 @@
+slug: digitalocean
+name: DigitalOcean
+category: compute
+website: https://www.digitalocean.com
+tagline: Cloud VMs (Droplets), managed databases and Kubernetes
+track_urls:
+  - https://www.digitalocean.com/pricing/droplets
+  - https://docs.digitalocean.com/platform/billing/signup-credit/
+free_tier:
+  status: credits
+  plan_name: null
+  credit_card_required: true
+  limits: []
+  trial_length: null
+  credit_amount: "$5 signup credit, expires 90 days after signup"
+  notes:
+    - Signup credit is applied automatically when you create your first team
+    - A valid payment method must be added before creating Droplets or other resources
+    - Droplets pricing page mentions promotional credits for new users without stating an amount
+paid_from:
+  price: "$4"
+  period: month
+  unit: usage
+  plan_name: Basic Droplet (1 vCPU, 512 MiB, 10 GiB SSD, 500 GiB transfer)
+verified_on: "2026-09-02"
+sources:
+  - https://www.digitalocean.com/pricing/droplets
+  - https://docs.digitalocean.com/platform/billing/signup-credit/
+referral: null

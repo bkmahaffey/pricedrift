@@ -1,0 +1,37 @@
+slug: turso
+name: Turso
+category: databases
+website: https://turso.tech
+tagline: Managed SQLite-compatible database platform
+track_urls:
+  - https://turso.tech/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: false
+  limits:
+    - metric: Databases
+      value: "100"
+    - metric: Storage
+      value: 5GB
+    - metric: Rows read
+      value: 500 Million per month
+    - metric: Rows written
+      value: 10 Million per month
+    - metric: Syncs
+      value: 3GB per month
+    - metric: Point-in-time restore
+      value: 1 day
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Audit logs not included; community support only
+paid_from:
+  price: "$4.99"
+  period: month
+  unit: flat
+  plan_name: Developer
+verified_on: "2026-09-02"
+sources:
+  - https://turso.tech/pricing
+referral: null

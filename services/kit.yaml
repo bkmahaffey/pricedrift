@@ -1,0 +1,35 @@
+slug: kit
+name: Kit
+category: email
+website: https://kit.com
+tagline: Email marketing platform for creators
+track_urls:
+  - https://kit.com/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: false
+  limits:
+    - metric: Subscribers
+      value: up to 10,000
+    - metric: Users
+      value: "1"
+    - metric: Landing pages and forms
+      value: unlimited
+    - metric: Email broadcasts
+      value: unlimited
+    - metric: Visual automations
+      value: not included
+  trial_length: null
+  credit_amount: null
+  notes:
+    - No SMS marketing or priority support on Free
+paid_from:
+  price: "$33 per month for 1,000 subscribers ($390 billed yearly)"
+  period: month
+  unit: flat
+  plan_name: Creator
+verified_on: "2026-09-02"
+sources:
+  - https://kit.com/pricing
+referral: null

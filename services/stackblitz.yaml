@@ -1,0 +1,33 @@
+slug: stackblitz
+name: StackBlitz
+category: tools
+website: https://stackblitz.com
+tagline: Browser-based instant development environments for web projects
+track_urls:
+  - https://stackblitz.com/pricing
+free_tier:
+  status: free
+  plan_name: Personal
+  credit_card_required: null
+  limits:
+    - metric: Public projects and collections
+      value: unlimited
+    - metric: GitHub repositories
+      value: open and edit public GitHub repositories
+    - metric: File uploads
+      value: up to 1MB per project
+    - metric: Private repositories and collections
+      value: not available
+  trial_length: null
+  credit_amount: null
+  notes:
+    - A GitHub account is required to save your work or collaborate with others
+paid_from:
+  price: "$18 per month billed annually or $25 billed monthly"
+  period: month
+  unit: flat
+  plan_name: Personal (paid)
+verified_on: "2026-09-02"
+sources:
+  - https://stackblitz.com/pricing
+referral: null

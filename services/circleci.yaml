@@ -1,0 +1,37 @@
+slug: circleci
+name: CircleCI
+category: cicd
+website: https://circleci.com
+tagline: Hosted continuous integration and delivery pipelines
+track_urls:
+  - https://circleci.com/pricing/
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: false
+  limits:
+    - metric: Credits
+      value: "30,000 free credits/month"
+    - metric: Build minutes
+      value: "Up to 6,000 build minutes"
+    - metric: Active users
+      value: "Up to 5 active users/month"
+    - metric: Concurrency
+      value: "30x concurrency"
+    - metric: Storage
+      value: "2 GB included"
+    - metric: Network
+      value: "1 GB included (self-hosted runners only)"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Credits pay for usage based on active users, machine type and size, and premium features"
+paid_from:
+  price: "$15"
+  period: month
+  unit: flat
+  plan_name: Performance
+verified_on: "2026-09-02"
+sources:
+  - https://circleci.com/pricing/
+referral: null

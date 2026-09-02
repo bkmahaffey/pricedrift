@@ -1,0 +1,36 @@
+slug: warp
+name: Warp
+category: tools
+website: https://www.warp.dev
+tagline: Terminal with built-in AI agents and team collaboration
+track_urls:
+  - https://www.warp.dev/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Warp Agent CLI
+      value: "access included"
+    - metric: Cloud agents
+      value: "Limited cloud agents access"
+    - metric: Warp Drive & collaboration
+      value: "Limited Warp Drive and collaboration feature access"
+    - metric: Cloud conversation storage
+      value: "Limited"
+    - metric: AI credits
+      value: "Reload credits at pay-as-you-go rates"
+      note: no included monthly credit amount is stated for Free
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Build includes 1,500 credits ($20 of included agent usage at API rates); $20/month when billed monthly
+paid_from:
+  price: "$18 (billed annually; $20 monthly)"
+  period: month
+  unit: per user
+  plan_name: Build
+verified_on: "2026-09-02"
+sources:
+  - https://www.warp.dev/pricing
+referral: null

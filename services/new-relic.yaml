@@ -1,0 +1,36 @@
+slug: new-relic
+name: New Relic
+category: observability
+website: https://newrelic.com
+tagline: Observability platform for metrics, logs, traces and APM
+track_urls:
+  - https://newrelic.com/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: false
+  limits:
+    - metric: Data ingest
+      value: 100 GB per month
+    - metric: Full platform users
+      value: "1"
+    - metric: Basic users
+      value: unlimited
+    - metric: Synthetic checks
+      value: "500"
+    - metric: Data retention
+      value: at least 8 days (default)
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Exceeding 100 GB of free ingest stops data ingest and platform access until you upgrade
+    - Standard edition full platform users are $10 for the first user then $99 per additional user (maximum of 5)
+paid_from:
+  price: "$0.40 per GB ingested beyond 100 GB"
+  period: usage
+  unit: usage
+  plan_name: Standard
+verified_on: "2026-09-02"
+sources:
+  - https://newrelic.com/pricing
+referral: null

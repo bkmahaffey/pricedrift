@@ -1,0 +1,39 @@
+slug: cohere
+name: Cohere
+category: ai
+website: https://cohere.com
+tagline: Enterprise LLM APIs for generation, embeddings and reranking
+track_urls:
+  - https://cohere.com/pricing
+  - https://docs.cohere.com/docs/rate-limits
+free_tier:
+  status: free
+  plan_name: Trial API key
+  credit_card_required: null
+  limits:
+    - metric: Chat rate limit
+      value: "20 req / min"
+    - metric: Embed rate limit
+      value: "2,000 inputs / min"
+    - metric: Rerank rate limit
+      value: "10 req / min"
+    - metric: Tokenize rate limit
+      value: "100 req / min"
+    - metric: Monthly calls
+      value: "1,000 API calls a month"
+      note: "stated on the rate-limits docs for Chat models"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Trial keys are not permitted for production or commercial purposes"
+    - "Per-token prices for current models are not printed on the pricing page; only legacy-model and Model Vault dedicated-instance pricing is shown"
+paid_from:
+  price: null
+  period: usage
+  unit: usage
+  plan_name: Production API key (pay-as-you-go)
+verified_on: "2026-09-02"
+sources:
+  - https://cohere.com/pricing
+  - https://docs.cohere.com/docs/rate-limits
+referral: null

@@ -1,0 +1,38 @@
+slug: snyk
+name: Snyk
+category: cicd
+website: https://snyk.io
+tagline: Developer security scanning for code, dependencies, containers and IaC
+track_urls:
+  - https://snyk.io/plans/
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Open Source tests
+      value: "200/month"
+    - metric: Code tests
+      value: "100/month"
+    - metric: Container tests
+      value: "100/month"
+    - metric: IaC tests
+      value: "300/month"
+    - metric: Projects
+      value: "5"
+    - metric: Contributing developers
+      value: "Unlimited"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Contributing developers are those who committed to a private repo monitored by Snyk in the last 90 days
+    - Plan price varies per product
+paid_from:
+  price: "$25"
+  period: month
+  unit: per user
+  plan_name: Team
+verified_on: "2026-09-02"
+sources:
+  - https://snyk.io/plans/
+referral: null

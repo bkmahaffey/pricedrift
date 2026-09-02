@@ -1,0 +1,41 @@
+slug: mapbox
+name: Mapbox
+category: backend
+website: https://www.mapbox.com
+tagline: Maps, navigation, search and geocoding APIs with monthly free allowances
+track_urls:
+  - https://www.mapbox.com/pricing
+free_tier:
+  status: free
+  plan_name: Free monthly allowance (pay-as-you-go)
+  credit_card_required: null
+  limits:
+    - metric: Map loads (Mapbox GL JS)
+      value: "Up to 50,000 per month"
+    - metric: Maps SDKs for Mobile
+      value: "Up to 25,000 monthly active users"
+    - metric: Static Images API
+      value: "Up to 50,000 requests per month"
+    - metric: Vector Tiles API
+      value: "Up to 200,000 tile requests per month"
+    - metric: Raster Tiles API
+      value: "Up to 750,000 tile requests per month"
+    - metric: Temporary Geocoding API
+      value: "Up to 100,000 requests per month"
+    - metric: Search Box API sessions
+      value: "Up to 500 per month"
+    - metric: Navigation SDK (metered trips)
+      value: "Up to 100 monthly active users and 1,000 trips per month"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Each product has its own free monthly allowance; usage beyond it is billed at the product's per-1,000 rate
+paid_from:
+  price: "$5.00 per 1,000 map loads (after the free allowance)"
+  period: usage
+  unit: usage
+  plan_name: null
+verified_on: "2026-09-02"
+sources:
+  - https://www.mapbox.com/pricing
+referral: null

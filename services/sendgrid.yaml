@@ -1,0 +1,38 @@
+slug: sendgrid
+name: SendGrid
+category: email
+website: https://sendgrid.com
+tagline: Transactional email API and SMTP relay
+track_urls:
+  - https://www.twilio.com/en-us/products/email-api/pricing
+  - https://support.sendgrid.com/hc/en-us/articles/35270136965403-Twilio-SendGrid-Trial-Account-Plan
+free_tier:
+  status: trial
+  plan_name: Free
+  credit_card_required: false
+  limits:
+    - metric: Emails
+      value: "100 emails/day"
+    - metric: Trial length
+      value: "60 days"
+    - metric: Contacts
+      value: "100 contacts (Marketing Campaigns)"
+    - metric: Teammates
+      value: "1"
+    - metric: Event webhooks
+      value: "1"
+  trial_length: "60 days"
+  credit_amount: null
+  notes:
+    - "Sending stops when the 60-day trial ends unless you upgrade"
+    - "No credit card, no commitment for the trial"
+paid_from:
+  price: "$19.95"
+  period: month
+  unit: flat
+  plan_name: Essentials
+verified_on: "2026-09-02"
+sources:
+  - https://www.twilio.com/en-us/products/email-api/pricing
+  - https://support.sendgrid.com/hc/en-us/articles/35270136965403-Twilio-SendGrid-Trial-Account-Plan
+referral: null

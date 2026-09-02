@@ -1,0 +1,33 @@
+slug: umami
+name: Umami Cloud
+category: analytics
+website: https://umami.is
+tagline: Privacy-focused, cookie-free web analytics as a managed service
+track_urls:
+  - https://umami.is/pricing
+free_tier:
+  status: free
+  plan_name: Hobby
+  credit_card_required: null
+  limits:
+    - metric: Events
+      value: "Up to 100K per month"
+    - metric: Websites
+      value: "1"
+    - metric: Data retention
+      value: "6 months"
+    - metric: Support
+      value: "Community support"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Paid plans offer a 14-day free trial"
+paid_from:
+  price: "$20"
+  period: month
+  unit: flat
+  plan_name: Pro
+verified_on: "2026-09-02"
+sources:
+  - https://umami.is/pricing
+referral: null

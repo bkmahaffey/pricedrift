@@ -1,0 +1,27 @@
+slug: twilio
+name: Twilio
+category: email
+website: https://www.twilio.com
+tagline: APIs for SMS, voice and messaging billed per message
+track_urls:
+  - https://www.twilio.com/en-us/sms/pricing/us
+free_tier:
+  status: trial
+  plan_name: Free trial
+  credit_card_required: false
+  limits: []
+  trial_length: null
+  credit_amount: null
+  notes:
+    - New accounts get a free trial with no credit card required; the trial credit amount and length are not stated on the page
+    - Text messages are charged per segment; carrier fees apply separately
+    - US long code numbers cost $1.15 per month; toll-free $2.15 per month
+paid_from:
+  price: "$0.0083 per SMS segment (US, send or receive)"
+  period: usage
+  unit: usage
+  plan_name: null
+verified_on: "2026-09-02"
+sources:
+  - https://www.twilio.com/en-us/sms/pricing/us
+referral: null

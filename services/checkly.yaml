@@ -1,0 +1,39 @@
+slug: checkly
+name: Checkly
+category: observability
+website: https://www.checklyhq.com
+tagline: Synthetic monitoring with Playwright browser and API checks
+track_urls:
+  - https://www.checklyhq.com/pricing/
+free_tier:
+  status: free
+  plan_name: Hobby
+  credit_card_required: false
+  limits:
+    - metric: Uptime monitors
+      value: "10"
+    - metric: Browser/Playwright check runs
+      value: "1,000 per month"
+    - metric: API check runs
+      value: "10,000 per month"
+    - metric: Users
+      value: "1"
+    - metric: Locations
+      value: "6"
+      note: max 3 locations per check
+    - metric: Maximum frequency
+      value: "2 min"
+    - metric: Raw data retention
+      value: "7 days"
+  trial_length: null
+  credit_amount: null
+  notes: []
+paid_from:
+  price: "$24"
+  period: month
+  unit: flat
+  plan_name: Starter
+verified_on: "2026-09-02"
+sources:
+  - https://www.checklyhq.com/pricing/
+referral: null

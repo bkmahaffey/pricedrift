@@ -1,0 +1,41 @@
+slug: ngrok
+name: ngrok
+category: tools
+website: https://ngrok.com
+tagline: Tunnels and API gateway to expose local services publicly
+track_urls:
+  - https://ngrok.com/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Included usage
+      value: $5 of one-time included usage
+    - metric: Online endpoints
+      value: Up to 3
+    - metric: Data transfer
+      value: Up to 1GB
+    - metric: HTTP/S requests
+      value: Up to 20k
+    - metric: Team members
+      value: "1"
+    - metric: Concurrent agents
+      value: "3"
+    - metric: Traffic inspector retention
+      value: 24 hours
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Interstitial page on HTTP/S endpoints"
+    - "The one-time usage credit can only be spent on the Free plan and lasts for a year after being granted"
+    - "Credit card verification is required for TCP endpoints on the Free plan"
+paid_from:
+  price: "$10"
+  period: month
+  unit: flat
+  plan_name: Hobbyist
+verified_on: "2026-09-02"
+sources:
+  - https://ngrok.com/pricing
+referral: null

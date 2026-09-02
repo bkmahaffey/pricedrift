@@ -1,0 +1,32 @@
+slug: surge
+name: Surge
+category: hosting
+website: https://surge.sh
+tagline: Static web publishing from the command line
+track_urls:
+  - https://surge.sh/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Publishing
+      value: "Unlimited publishing"
+    - metric: Custom domain
+      value: "included"
+    - metric: SSL
+      value: "Basic SSL"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Page states "Surge is free to use" without stating bandwidth or project limits
+    - Platform deployment feature is currently in limited preview
+paid_from:
+  price: "$30"
+  period: month
+  unit: flat
+  plan_name: Surge Professional
+verified_on: "2026-09-02"
+sources:
+  - https://surge.sh/pricing
+referral: null

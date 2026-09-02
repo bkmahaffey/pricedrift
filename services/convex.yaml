@@ -1,0 +1,41 @@
+slug: convex
+name: Convex
+category: backend
+website: https://www.convex.dev
+tagline: Reactive backend platform with database, functions and file storage
+track_urls:
+  - https://www.convex.dev/pricing
+free_tier:
+  status: free
+  plan_name: Free & Starter
+  credit_card_required: null
+  limits:
+    - metric: Function calls
+      value: "1M included"
+    - metric: Database storage
+      value: "0.5 GB included"
+    - metric: File storage
+      value: "1 GB included"
+    - metric: Action compute
+      value: "20 GB-hours included"
+    - metric: Database I/O
+      value: "1 GB included"
+    - metric: Data egress
+      value: "1 GB included"
+    - metric: Search storage
+      value: "0.5 GB included"
+    - metric: Developers
+      value: "1-6"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Starter plan is pay-as-you-go beyond free tier limits
+paid_from:
+  price: "$25"
+  period: month
+  unit: per user
+  plan_name: Professional
+verified_on: "2026-09-02"
+sources:
+  - https://www.convex.dev/pricing
+referral: null

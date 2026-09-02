@@ -1,0 +1,36 @@
+slug: wasabi
+name: Wasabi
+category: storage
+website: https://wasabi.com
+tagline: S3-compatible object storage with no egress or API fees
+track_urls:
+  - https://wasabi.com/pricing
+  - https://wasabi.com/pricing/faq
+free_tier:
+  status: trial
+  plan_name: Free Trial
+  credit_card_required: false
+  limits:
+    - metric: Storage
+      value: up to 1 Terabyte
+    - metric: Trial duration
+      value: 30 days
+    - metric: Egress and API requests
+      value: no fees
+  trial_length: 30 days
+  credit_amount: null
+  notes:
+    - No auto-charge after the trial ends
+    - Pay as You Go bills a minimum of 1 TB of storage even if you store less
+    - Objects deleted before 90 days incur a Timed Deleted Storage charge for the remaining days
+paid_from:
+  price: "$7.99 per TB per month"
+  period: month
+  unit: usage
+  plan_name: Pay as You Go
+verified_on: "2026-09-02"
+sources:
+  - https://wasabi.com/pricing
+  - https://wasabi.com/pricing/faq
+  - https://wasabi.com/sign-up
+referral: null

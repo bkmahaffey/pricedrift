@@ -1,0 +1,40 @@
+slug: configcat
+name: ConfigCat
+category: flags
+website: https://configcat.com
+tagline: Hosted feature flag and remote configuration service
+track_urls:
+  - https://configcat.com/pricing/
+free_tier:
+  status: free
+  plan_name: Forever Free
+  credit_card_required: false
+  limits:
+    - metric: Feature flags
+      value: "10"
+    - metric: Environments
+      value: "2"
+    - metric: Products
+      value: "2"
+    - metric: Config JSON downloads
+      value: 5 million per month
+    - metric: Network traffic
+      value: 20 GB per month
+    - metric: Team members (seats)
+      value: unlimited
+    - metric: Segments
+      value: "2"
+    - metric: Audit log retention
+      value: 7 days
+  trial_length: null
+  credit_amount: null
+  notes: []
+paid_from:
+  price: "$110"
+  period: month
+  unit: flat
+  plan_name: Pro
+verified_on: "2026-09-02"
+sources:
+  - https://configcat.com/pricing/
+referral: null

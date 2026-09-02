@@ -1,0 +1,45 @@
+slug: fly-io
+name: Fly.io
+category: hosting
+website: https://fly.io
+tagline: Pay-as-you-go Micro VMs and persistent volumes in global regions
+track_urls:
+  - https://fly.io/pricing/
+  - https://fly.io/docs/about/pricing/
+  - https://fly.io/docs/about/free-trial/
+free_tier:
+  status: trial
+  plan_name: Free Trial
+  credit_card_required: false
+  limits:
+    - metric: VM runtime
+      value: "2 total VM hours"
+      note: shared across any machines you launch
+    - metric: Trial length
+      value: "7 days"
+      note: 2 hours of machine runtime or 7 days of access, whichever comes first
+    - metric: Machines
+      value: "10 machines max"
+    - metric: Volume storage
+      value: "20GB"
+    - metric: vCPUs per machine
+      value: "Up to 2 vCPUs"
+    - metric: Memory per machine
+      value: "4GB"
+  trial_length: 7 days
+  credit_amount: null
+  notes:
+    - Trial Machines are set to automatically stop after running for 5 minutes
+    - Adding a card ends the free trial; apps stop running if no payment method is added by the end of the 7-day trial
+    - All organizations (except Linked Organizations) require a credit card on file
+paid_from:
+  price: "$2.02 per month for a shared-cpu-1x 256MB Machine ($0.00000078/second)"
+  period: usage
+  unit: usage
+  plan_name: null
+verified_on: "2026-09-02"
+sources:
+  - https://fly.io/pricing/
+  - https://fly.io/docs/about/pricing/
+  - https://fly.io/docs/about/free-trial/
+referral: null

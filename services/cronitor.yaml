@@ -1,0 +1,37 @@
+slug: cronitor
+name: Cronitor
+category: observability
+website: https://cronitor.io
+tagline: Cron job, uptime and heartbeat monitoring with status pages
+track_urls:
+  - https://cronitor.io/pricing
+free_tier:
+  status: free
+  plan_name: Hacker
+  credit_card_required: null
+  limits:
+    - metric: Monitors
+      value: "5"
+    - metric: Check interval
+      value: 5 minutes
+    - metric: Users
+      value: "1"
+    - metric: Alert integrations
+      value: Email and Slack only
+    - metric: Status pages
+      value: "1"
+      note: 50 included subscribers
+  trial_length: null
+  credit_amount: null
+  notes:
+    - No SMS alerts or premium integrations on Hacker
+    - Business plan includes a 14 day free trial with no base fee or minimum
+paid_from:
+  price: "$2 per monitor + $5 per user"
+  period: month
+  unit: usage
+  plan_name: Business
+verified_on: "2026-09-02"
+sources:
+  - https://cronitor.io/pricing
+referral: null

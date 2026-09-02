@@ -1,0 +1,39 @@
+slug: auth0
+name: Auth0
+category: auth
+website: https://auth0.com
+tagline: Hosted authentication and authorization for applications
+track_urls:
+  - https://auth0.com/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: false
+  limits:
+    - metric: Monthly active users
+      value: "Up to 25,000"
+    - metric: Social connections
+      value: "Unlimited"
+    - metric: Organizations
+      value: "5"
+    - metric: Actions + Forms
+      value: "5"
+    - metric: Custom domains
+      value: "1"
+      note: custom domains require credit card verification
+    - metric: Passwordless
+      value: "Included"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - No credit card needed to sign up
+    - If usage falls between MAU tiers you are billed at the next tier up
+paid_from:
+  price: "$35"
+  period: month
+  unit: flat
+  plan_name: Essentials (B2C)
+verified_on: "2026-09-02"
+sources:
+  - https://auth0.com/pricing
+referral: null

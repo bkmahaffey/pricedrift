@@ -1,0 +1,38 @@
+slug: mailersend
+name: MailerSend
+category: email
+website: https://www.mailersend.com
+tagline: Transactional email and SMS API with templates and analytics
+track_urls:
+  - https://www.mailersend.com/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: true
+  limits:
+    - metric: Emails
+      value: 500 per month
+    - metric: API requests
+      value: 100 per day
+    - metric: Domains
+      value: "1"
+    - metric: Users
+      value: 1 user seat + 1 accountant role
+    - metric: Templates
+      value: "1"
+    - metric: Activity data retention
+      value: 1 day
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Page says you will not be charged on the Free plan but asks for payment details to prevent abuse
+    - Hobby $5.60/month corresponds to $67.20 billed yearly; 5,000 emails/month, overage $1.50 per 1,000 emails
+paid_from:
+  price: "$5.60"
+  period: month
+  unit: flat
+  plan_name: Hobby
+verified_on: "2026-09-02"
+sources:
+  - https://www.mailersend.com/pricing
+referral: null

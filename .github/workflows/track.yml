@@ -1,0 +1,84 @@
+name: Track pricing pages and deploy
+
+on:
+  schedule:
+    - cron: "17 6 * * *"   # daily, 06:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+concurrency:
+  group: track
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  track:
+    # A push of the bot's own daily data commit does not need another build.
+    if: github.event_name != 'push' || !startsWith(github.event.head_commit.message, 'data: daily check')
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Install Chromium for Playwright
+        run: npx playwright install --with-deps chromium
+      - run: npm test
+      - name: Validate service catalog
+        run: node scripts/validate.mjs
+      - name: Check every tracked page (daily)
+        if: github.event_name != 'push'
+        run: node scripts/track.mjs --concurrency 4
+      - name: Update LLM price table (daily)
+        if: github.event_name != 'push'
+        run: node scripts/llm.mjs
+      - name: Commit data
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "pricedrift-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then echo "no data changes"; else
+            git commit -m "data: daily check $(date -u +%Y-%m-%d)"
+            git pull --rebase origin main
+            git push
+          fi
+      - name: Build site
+        run: node scripts/build.mjs --og
+      - name: Open an issue for pages that could not be fetched
+        if: github.event_name != 'push'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          node -e '
+            const s = require("./data/runs/latest.json");
+            const bad = s.unreachable || [];
+            if (!bad.length) { console.log("all pages reachable"); process.exit(0); }
+            const body = bad.map(b => `- **${b.slug}** ${b.url}\n  ${b.notes.join("; ")}`).join("\n");
+            require("fs").writeFileSync("issue.md", `The daily check on ${s.ranAt.slice(0,10)} could not fetch ${bad.length} page(s). History continues from the last good capture; nothing to do unless a page has moved.\n\n${body}`);
+          ' && gh issue list --label unreachable --state open --limit 1 --json number --jq '.[0].number' > n.txt || true
+          if [ -s issue.md ]; then
+            if [ -s n.txt ]; then gh issue comment "$(cat n.txt)" --body-file issue.md; else gh label create unreachable --color d93f0b --description "Pages the tracker could not fetch" 2>/dev/null || true; gh issue create --title "Pages the tracker could not fetch" --label unreachable --body-file issue.md; fi
+          fi
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+  deploy:
+    needs: track
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

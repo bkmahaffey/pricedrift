@@ -1,0 +1,26 @@
+slug: strapi-cloud
+name: Strapi Cloud
+category: cms
+website: https://strapi.io
+tagline: Managed hosting for the Strapi headless CMS
+track_urls:
+  - https://strapi.io/pricing-cloud
+free_tier:
+  status: none
+  plan_name: null
+  credit_card_required: null
+  limits: []
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "No free plan or Cloud trial is shown on the pricing page as of 2026-09-02"
+    - "Starter projects sleep when idle"
+paid_from:
+  price: "$35"
+  period: month
+  unit: per project
+  plan_name: Starter
+verified_on: "2026-09-02"
+sources:
+  - https://strapi.io/pricing-cloud
+referral: null

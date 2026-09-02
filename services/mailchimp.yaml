@@ -1,0 +1,34 @@
+slug: mailchimp
+name: Mailchimp
+category: email
+website: https://mailchimp.com
+tagline: Email marketing platform priced by contact count
+track_urls:
+  - https://mailchimp.com/pricing/marketing/
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Contacts
+      value: "250"
+    - metric: Monthly email sends
+      value: "Max of 500/mo or 250/day"
+    - metric: Users
+      value: "1 Seat"
+    - metric: Audiences
+      value: "1 Audience"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Sending is paused if the contact or email send limit is exceeded"
+    - "Standard and Essentials offer a 14-day free trial; valid payment information required at enrollment"
+paid_from:
+  price: "$13"
+  period: month
+  unit: flat
+  plan_name: Essentials
+verified_on: "2026-09-02"
+sources:
+  - https://mailchimp.com/pricing/marketing/
+referral: null

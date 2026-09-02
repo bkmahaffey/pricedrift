@@ -1,0 +1,37 @@
+slug: slack
+name: Slack
+category: tools
+website: https://slack.com
+tagline: Team messaging and collaboration workspace
+track_urls:
+  - https://slack.com/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Message history
+      value: "90 days of message history"
+    - metric: App integrations
+      value: "Up to 10 apps"
+    - metric: Huddles
+      value: "1:1 meetings"
+    - metric: Slack Connect
+      value: "1:1 external messages"
+    - metric: Canvases
+      value: "Included"
+    - metric: Lists
+      value: "Included"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Free forever"
+paid_from:
+  price: "$8.75"
+  period: month
+  unit: per user
+  plan_name: Pro
+verified_on: "2026-09-02"
+sources:
+  - https://slack.com/pricing
+referral: null

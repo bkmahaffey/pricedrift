@@ -1,0 +1,26 @@
+slug: depot
+name: Depot
+category: cicd
+website: https://depot.dev
+tagline: Remote Docker builds and GitHub Actions runners billed per minute
+track_urls:
+  - https://depot.dev/pricing
+free_tier:
+  status: trial
+  plan_name: null
+  credit_card_required: null
+  limits: []
+  trial_length: 7 days
+  credit_amount: null
+  notes:
+    - Page offers a 7-day trial; the minutes included in the trial are not stated
+    - Developer plan includes 500 Docker build minutes, 2,000 GitHub Actions minutes and 2,000 Depot CI minutes; overage $0.04/minute (Docker) and $0.006/minute (GitHub Actions)
+paid_from:
+  price: "$20"
+  period: month
+  unit: flat
+  plan_name: Developer
+verified_on: "2026-09-02"
+sources:
+  - https://depot.dev/pricing
+referral: null

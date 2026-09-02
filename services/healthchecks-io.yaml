@@ -1,0 +1,30 @@
+slug: healthchecks-io
+name: Healthchecks.io
+category: observability
+website: https://healthchecks.io
+tagline: Cron job and scheduled task monitoring via ping URLs
+track_urls:
+  - https://healthchecks.io/pricing/
+free_tier:
+  status: free
+  plan_name: Hobbyist
+  credit_card_required: null
+  limits:
+    - metric: Checks
+      value: Monitor 20 jobs
+    - metric: Log entries per job
+      value: "100"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Supporter plan ($5/month) has the same limits as Hobbyist"
+    - "Business plan is offered free to open-source projects and nonprofits on request"
+paid_from:
+  price: "$5"
+  period: month
+  unit: flat
+  plan_name: Supporter
+verified_on: "2026-09-02"
+sources:
+  - https://healthchecks.io/pricing/
+referral: null

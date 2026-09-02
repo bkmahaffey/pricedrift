@@ -1,0 +1,40 @@
+slug: make
+name: Make
+category: backend
+website: https://www.make.com
+tagline: Visual no-code automation and workflow platform
+track_urls:
+  - https://www.make.com/en/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Credits
+      value: "1,000 credits/month"
+    - metric: Active scenarios
+      value: "2"
+    - metric: Minimum interval between runs
+      value: "15 minutes"
+    - metric: Data transfer
+      value: "512MB"
+    - metric: Maximum file size
+      value: "5 MB"
+    - metric: Maximum scenario execution time
+      value: "5 minutes"
+    - metric: Execution log storage
+      value: "7 days"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Free plan has no time limit
+    - Credits expire at the end of the term and unused credits do not roll over
+paid_from:
+  price: "$12"
+  period: month
+  unit: flat
+  plan_name: Core
+verified_on: "2026-09-02"
+sources:
+  - https://www.make.com/en/pricing
+referral: null

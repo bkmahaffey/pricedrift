@@ -1,0 +1,27 @@
+slug: fathom
+name: Fathom Analytics
+category: analytics
+website: https://usefathom.com
+tagline: Privacy-focused, cookie-free website analytics
+track_urls:
+  - https://usefathom.com/pricing
+free_tier:
+  status: trial
+  plan_name: null
+  credit_card_required: null
+  limits: []
+  trial_length: 7 days
+  credit_amount: null
+  notes:
+    - No permanent free plan; paid pricing is based on average monthly pageviews
+    - Every plan includes at least 50 sites; extra sites in packs of 50 for $10/month
+    - Pricing selector offers 100k, 500k, 2M, 10M and 25M+ pageview tiers, but only the 500k tier price is rendered for automated fetch
+paid_from:
+  price: "$45 per month (up to 500,000 pageviews; 2 months free when paid yearly)"
+  period: month
+  unit: flat
+  plan_name: Up to 500,000 pageviews
+verified_on: "2026-09-02"
+sources:
+  - https://usefathom.com/pricing
+referral: null

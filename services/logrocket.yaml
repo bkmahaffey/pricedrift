@@ -1,0 +1,28 @@
+slug: logrocket
+name: LogRocket
+category: observability
+website: https://logrocket.com
+tagline: Session replay, product analytics and error tracking
+track_urls:
+  - https://logrocket.com/pricing
+free_tier:
+  status: trial
+  plan_name: Free trial
+  credit_card_required: false
+  limits:
+    - metric: Trial access
+      value: "all of LogRocket's features free for 14 days"
+  trial_length: "14 days"
+  credit_amount: null
+  notes:
+    - No permanent free plan is listed; pricing is based on sessions captured
+    - Analytics, logs and errors are always unlimited on every plan
+paid_from:
+  price: "$176"
+  period: month
+  unit: flat
+  plan_name: Core
+verified_on: "2026-09-02"
+sources:
+  - https://logrocket.com/pricing
+referral: null

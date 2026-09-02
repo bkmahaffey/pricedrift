@@ -1,0 +1,25 @@
+slug: vultr
+name: Vultr
+category: compute
+website: https://www.vultr.com
+tagline: Cloud compute, bare metal and GPU instances in global regions
+track_urls:
+  - https://www.vultr.com/pricing/
+free_tier:
+  status: unknown
+  plan_name: null
+  credit_card_required: null
+  limits: []
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "pricing page blocked automated access on 2026-09-02"
+paid_from:
+  price: null
+  period: null
+  unit: null
+  plan_name: null
+verified_on: "2026-09-02"
+sources:
+  - https://www.vultr.com/pricing/
+referral: null

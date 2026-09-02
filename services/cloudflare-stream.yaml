@@ -1,0 +1,26 @@
+slug: cloudflare-stream
+name: Cloudflare Stream
+category: storage
+website: https://www.cloudflare.com/developer-platform/products/cloudflare-stream/
+tagline: Video storage, encoding and delivery billed per minute
+track_urls:
+  - https://developers.cloudflare.com/stream/pricing/
+free_tier:
+  status: none
+  plan_name: null
+  credit_card_required: null
+  limits: []
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Storage is prepaid in $5 increments; uploads and live streams stop when storage runs out"
+    - "Media Transformations include a free monthly allocation of 5,000 operations"
+paid_from:
+  price: "$5 per 1,000 minutes stored"
+  period: usage
+  unit: usage
+  plan_name: null
+verified_on: "2026-09-02"
+sources:
+  - https://developers.cloudflare.com/stream/pricing/
+referral: null

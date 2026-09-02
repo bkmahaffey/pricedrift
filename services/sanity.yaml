@@ -1,0 +1,39 @@
+slug: sanity
+name: Sanity
+category: cms
+website: https://www.sanity.io
+tagline: Headless CMS with a real-time content lake and Studio editor
+track_urls:
+  - https://www.sanity.io/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: User seats
+      value: "Up to 20 user seats"
+    - metric: Datasets
+      value: "2 datasets (public only)"
+    - metric: Documents
+      value: "10k"
+    - metric: API requests
+      value: "250k per month"
+    - metric: API CDN requests
+      value: "1m per month"
+    - metric: Bandwidth
+      value: "100GB per month"
+    - metric: Assets storage
+      value: "100GB"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Free forever; datasets are public only"
+paid_from:
+  price: "$15"
+  period: month
+  unit: per seat
+  plan_name: Growth
+verified_on: "2026-09-02"
+sources:
+  - https://www.sanity.io/pricing
+referral: null

@@ -1,0 +1,28 @@
+slug: replicate
+name: Replicate
+category: ai
+website: https://replicate.com
+tagline: Run open-source and proprietary ML models via API
+track_urls:
+  - https://replicate.com/pricing
+  - https://replicate.com/docs/topics/billing
+free_tier:
+  status: trial
+  plan_name: null
+  credit_card_required: null
+  limits: []
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "You can run select models on Replicate for free, but after a bit you'll be asked to set up billing"
+    - "Most models are billed by the time they take to run; some are billed by input and output"
+paid_from:
+  price: "$0.09/hr (CPU Small)"
+  period: usage
+  unit: usage
+  plan_name: null
+verified_on: "2026-09-02"
+sources:
+  - https://replicate.com/pricing
+  - https://replicate.com/docs/topics/billing
+referral: null

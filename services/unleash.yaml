@@ -1,0 +1,36 @@
+slug: unleash
+name: Unleash
+category: flags
+website: https://www.getunleash.io
+tagline: Open-source feature flag management platform
+track_urls:
+  - https://www.getunleash.io/pricing
+free_tier:
+  status: free
+  plan_name: Open Source
+  credit_card_required: null
+  limits:
+    - metric: Projects
+      value: "1 project per instance"
+    - metric: Environments
+      value: "2 environments per instance"
+    - metric: Feature flags
+      value: "5,000 feature flags per instance"
+    - metric: Seats
+      value: "No limit on seats"
+    - metric: Hosting
+      value: "Self-hosted only"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Open Source is self-hosted only; hosted Pay-As-You-Go has a 14-day trial, no credit card required"
+    - "5 seat minimum for self-hosted Pay-As-You-Go"
+paid_from:
+  price: "$75"
+  period: month
+  unit: per seat
+  plan_name: Pay-As-You-Go
+verified_on: "2026-09-02"
+sources:
+  - https://www.getunleash.io/pricing
+referral: null

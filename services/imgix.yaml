@@ -1,0 +1,33 @@
+slug: imgix
+name: imgix
+category: storage
+website: https://www.imgix.com
+tagline: Real-time image transformation and delivery CDN
+track_urls:
+  - https://www.imgix.com/pricing
+free_tier:
+  status: trial
+  plan_name: Free trial
+  credit_card_required: false
+  limits:
+    - metric: Trial length
+      value: "30 days"
+    - metric: Credits
+      value: "100 free credits"
+    - metric: Delivery bandwidth
+      value: "1 credit/GB"
+    - metric: Image cache storage
+      value: "2 credits / GB / month"
+  trial_length: "30 days"
+  credit_amount: "100 credits"
+  notes:
+    - "No credit card required for the trial"
+paid_from:
+  price: "$25"
+  period: month
+  unit: flat
+  plan_name: Starter
+verified_on: "2026-09-02"
+sources:
+  - https://www.imgix.com/pricing
+referral: null

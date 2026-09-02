@@ -1,0 +1,41 @@
+slug: descope
+name: Descope
+category: auth
+website: https://www.descope.com
+tagline: Customer authentication and identity platform with no-code flows
+track_urls:
+  - https://www.descope.com/pricing
+free_tier:
+  status: free
+  plan_name: Free Forever
+  credit_card_required: null
+  limits:
+    - metric: Monthly active users (MAUs)
+      value: "7,500"
+    - metric: Monthly active tenants
+      value: "10"
+    - metric: SSO connections
+      value: "3"
+    - metric: Federated apps (OIDC)
+      value: "1"
+    - metric: M2M exchanges
+      value: "10,000"
+    - metric: Test users
+      value: "5"
+    - metric: Emails via Descope connector
+      value: Up to 1,000 per day
+    - metric: SMS/voice via Descope connector
+      value: Up to 100 per month
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Pro starts at $249/mo billed annually"
+paid_from:
+  price: "$249"
+  period: month
+  unit: flat
+  plan_name: Pro
+verified_on: "2026-09-02"
+sources:
+  - https://www.descope.com/pricing
+referral: null

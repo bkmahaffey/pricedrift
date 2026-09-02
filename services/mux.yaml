@@ -1,0 +1,34 @@
+slug: mux
+name: Mux
+category: storage
+website: https://www.mux.com
+tagline: Video API for on-demand and live streaming with playback analytics
+track_urls:
+  - https://www.mux.com/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: false
+  limits:
+    - metric: Delivery
+      value: 100K free monthly delivery minutes
+    - metric: Videos stored
+      value: up to 10 videos
+    - metric: Mux Robots units
+      value: 100K free monthly units
+    - metric: Video type
+      value: on-demand videos only
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Live video and unlimited storage require the Pay as you go plan
+    - Pay as you go plan includes a $20 monthly usage credit
+paid_from:
+  price: "$0.0008 per delivery minute (after 100K free minutes per month)"
+  period: usage
+  unit: usage
+  plan_name: Pay as you go
+verified_on: "2026-09-02"
+sources:
+  - https://www.mux.com/pricing
+referral: null

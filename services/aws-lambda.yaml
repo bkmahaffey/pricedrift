@@ -1,0 +1,36 @@
+slug: aws-lambda
+name: AWS Lambda
+category: hosting
+website: https://aws.amazon.com/lambda/
+tagline: Serverless functions billed per request and per GB-second
+track_urls:
+  - https://aws.amazon.com/lambda/pricing/
+free_tier:
+  status: free
+  plan_name: AWS Free Tier
+  credit_card_required: null
+  limits:
+    - metric: Requests
+      value: "one million requests per month"
+    - metric: Compute duration
+      value: "400,000 GB-seconds per month"
+    - metric: Ephemeral storage
+      value: "512 MB per function"
+      note: available at no additional cost
+    - metric: Response streaming
+      value: "100 GB included in the AWS free tier"
+      note: the first 6 MB per request streams at no cost
+  trial_length: null
+  credit_amount: null
+  notes:
+    - The Lambda free tier does not apply to functions enabling Provisioned Concurrency
+    - Free tier applies to aggregate monthly duration on the same architecture (x86 or Arm) in the same region within the account
+paid_from:
+  price: "$0.20 per 1M requests + $0.0000166667 per GB-second (x86)"
+  period: usage
+  unit: usage
+  plan_name: null
+verified_on: "2026-09-02"
+sources:
+  - https://aws.amazon.com/lambda/pricing/
+referral: null

@@ -1,0 +1,41 @@
+slug: anthropic
+name: Anthropic API
+category: ai
+website: https://www.anthropic.com
+tagline: Claude model API with prompt caching and batch processing
+track_urls:
+  - https://claude.com/pricing
+  - https://platform.claude.com/docs/en/api/rate-limits
+  - https://platform.claude.com/docs/en/about-claude/pricing
+free_tier:
+  status: credits
+  plan_name: null
+  credit_card_required: null
+  limits:
+    - metric: Start tier requests per minute
+      value: 1,000 RPM
+      note: Sonnet, Opus and Haiku 4.5
+    - metric: Start tier input tokens per minute
+      value: 2,000,000 ITPM
+      note: cached input tokens do not count for most models
+    - metric: Start tier output tokens per minute
+      value: 400,000 OTPM
+    - metric: Start tier monthly spend cap
+      value: $500 USD
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Docs FAQ says new users receive a small amount of free credits to test the API; amount not stated
+    - New organizations may start in an Evaluation tier with limits below the Start tier
+    - Batch API is 50% off input and output tokens
+paid_from:
+  price: "$1 per MTok input / $5 per MTok output"
+  period: usage
+  unit: usage
+  plan_name: Claude Haiku 4.5
+verified_on: "2026-09-02"
+sources:
+  - https://claude.com/pricing
+  - https://platform.claude.com/docs/en/api/rate-limits
+  - https://platform.claude.com/docs/en/about-claude/pricing
+referral: null

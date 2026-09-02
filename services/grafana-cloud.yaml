@@ -1,0 +1,41 @@
+slug: grafana-cloud
+name: Grafana Cloud
+category: observability
+website: https://grafana.com
+tagline: Hosted metrics, logs, traces, profiles and dashboards
+track_urls:
+  - https://grafana.com/pricing/
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: false
+  limits:
+    - metric: Metrics
+      value: "10k active series per month"
+    - metric: Logs
+      value: "50 GB ingested per month"
+    - metric: Traces
+      value: "50 GB ingested per month"
+    - metric: Profiles
+      value: "50 GB ingested per month"
+    - metric: Retention
+      value: "14 days"
+    - metric: k6 performance testing
+      value: "500 virtual user hours per month"
+    - metric: Synthetic monitoring
+      value: "100k API test executions & 10k browser test executions per month"
+    - metric: Users
+      value: "3 active users per month"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Pro adds a $19 per month platform fee with pay-as-you-go usage above the Free tier"
+paid_from:
+  price: "$19"
+  period: month
+  unit: flat
+  plan_name: Pro
+verified_on: "2026-09-02"
+sources:
+  - https://grafana.com/pricing/
+referral: null

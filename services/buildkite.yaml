@@ -1,0 +1,35 @@
+slug: buildkite
+name: Buildkite
+category: cicd
+website: https://buildkite.com
+tagline: CI/CD platform with self-hosted or Buildkite-hosted agents
+track_urls:
+  - https://buildkite.com/pricing/
+free_tier:
+  status: free
+  plan_name: Free Plan
+  credit_card_required: false
+  limits:
+    - metric: Users
+      value: up to 5
+    - metric: Concurrent jobs
+      value: up to 10
+    - metric: Build retention
+      value: 30 days
+    - metric: Hosted agent minutes
+      value: up to 2,000 Linux vCPU minutes per month
+    - metric: Test executions
+      value: up to 250k per month
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Includes 30 days of full access to the entire Buildkite Platform, then choose a plan or stay on Free
+paid_from:
+  price: "$30 per active user"
+  period: month
+  unit: per user
+  plan_name: Pro Plan
+verified_on: "2026-09-02"
+sources:
+  - https://buildkite.com/pricing/
+referral: null

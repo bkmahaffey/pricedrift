@@ -1,0 +1,36 @@
+slug: aws-amplify
+name: AWS Amplify
+category: hosting
+website: https://aws.amazon.com/amplify/
+tagline: AWS frontend hosting and CI/CD with SSR support
+track_urls:
+  - https://aws.amazon.com/amplify/pricing/
+free_tier:
+  status: trial
+  plan_name: AWS Free Tier
+  credit_card_required: null
+  limits:
+    - metric: Build minutes
+      value: 1,000 build minutes per month
+    - metric: CDN storage
+      value: 5 GB stored per month
+    - metric: Data transfer
+      value: 15 GB per month
+    - metric: SSR requests
+      value: 500,000 requests per month
+    - metric: SSR request duration
+      value: 100 GB-hours per month
+  trial_length: 12 months
+  credit_amount: null
+  notes:
+    - Free tier allowances are described as "Free for 12 months"
+    - Storage charges recur until the app is deleted
+paid_from:
+  price: "$0.01 per build minute"
+  period: usage
+  unit: usage
+  plan_name: null
+verified_on: "2026-09-02"
+sources:
+  - https://aws.amazon.com/amplify/pricing/
+referral: null

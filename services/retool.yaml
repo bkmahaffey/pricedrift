@@ -1,0 +1,35 @@
+slug: retool
+name: Retool
+category: tools
+website: https://retool.com
+tagline: Low-code builder for internal tools, apps and workflows
+track_urls:
+  - https://retool.com/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Users
+      value: "Up to 5 users"
+    - metric: Apps
+      value: "Unlimited web & mobile apps"
+    - metric: Workflow runs
+      value: "500 workflow runs/month"
+    - metric: Database capacity
+      value: "5GB"
+    - metric: File storage
+      value: "5GB"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Team plan is $10/mo per builder and $5/mo per internal user when billed annually; monthly billing costs 20% more
+paid_from:
+  price: "$10 per builder (billed annually)"
+  period: month
+  unit: per user
+  plan_name: Team
+verified_on: "2026-09-02"
+sources:
+  - https://retool.com/pricing
+referral: null

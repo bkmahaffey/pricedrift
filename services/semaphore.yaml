@@ -1,0 +1,37 @@
+slug: semaphore
+name: Semaphore
+category: cicd
+website: https://semaphore.io
+tagline: Hosted CI/CD with per-minute compute pricing
+track_urls:
+  - https://semaphore.io/pricing
+free_tier:
+  status: credits
+  plan_name: null
+  credit_card_required: null
+  limits:
+    - metric: Free credits
+      value: $15 per month
+      note: approximately 2,000 Ubuntu x64 2-vCPU minutes
+    - metric: Concurrent jobs
+      value: 20 by default
+    - metric: Artifacts egress
+      value: 20 GB/month
+    - metric: Artifacts storage
+      value: 100 GB/month
+    - metric: Cache storage
+      value: 9.6 GB per project
+  trial_length: null
+  credit_amount: "$15 per month"
+  notes:
+    - "Credits can be used across available services"
+    - "Additional artifact usage: $0.35/GB egress and $0.07/GB storage"
+paid_from:
+  price: "$0.003/min (Ubuntu ARM 2vCPU)"
+  period: usage
+  unit: usage
+  plan_name: null
+verified_on: "2026-09-02"
+sources:
+  - https://semaphore.io/pricing
+referral: null

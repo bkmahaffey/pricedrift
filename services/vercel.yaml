@@ -1,0 +1,41 @@
+slug: vercel
+name: Vercel
+category: hosting
+website: https://vercel.com
+tagline: Frontend cloud for deploying web apps with serverless functions and CDN
+track_urls:
+  - https://vercel.com/pricing
+free_tier:
+  status: free
+  plan_name: Hobby
+  credit_card_required: null
+  limits:
+    - metric: Fast Data Transfer
+      value: 100 GB / month included
+    - metric: Edge Requests
+      value: 1M / month included
+    - metric: Function Invocations
+      value: 1M / month included
+    - metric: Fluid Active CPU
+      value: 4 hours / month included
+    - metric: Fluid Provisioned Memory
+      value: 360 GB-hrs / month included
+    - metric: Blob Storage Size
+      value: 1 GB / month included
+    - metric: Web Analytics Events
+      value: 50K events / month included
+    - metric: Runtime Logs
+      value: 1 hour of logs
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Hobby plan is for personal, non-commercial use"
+paid_from:
+  price: "$20"
+  period: month
+  unit: null
+  plan_name: Pro
+verified_on: "2026-09-02"
+sources:
+  - https://vercel.com/pricing
+referral: null

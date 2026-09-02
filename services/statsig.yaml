@@ -1,0 +1,33 @@
+slug: statsig
+name: Statsig
+category: flags
+website: https://www.statsig.com
+tagline: Feature flags, experimentation, analytics and session replay platform
+track_urls:
+  - https://www.statsig.com/pricing
+free_tier:
+  status: free
+  plan_name: Developer
+  credit_card_required: false
+  limits:
+    - metric: Events
+      value: 2M events/month
+    - metric: Flag & config checks
+      value: unlimited
+    - metric: Session replays
+      value: 50,000 session replays/month
+    - metric: Data retention
+      value: 1 year
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Exceeding 2M events prompts an upgrade; metric lift calculations stop if the limit is exceeded without upgrading"
+paid_from:
+  price: "$150"
+  period: month
+  unit: flat
+  plan_name: Pro
+verified_on: "2026-09-02"
+sources:
+  - https://www.statsig.com/pricing
+referral: null

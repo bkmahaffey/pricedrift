@@ -1,0 +1,22 @@
+{
+  "name": "free-tier-facts",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "The changelog of developer free tiers: structured limits for developer services, tracked daily, with diffs of every pricing-page change.",
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "track": "node scripts/track.mjs",
+    "backfill": "node scripts/backfill.mjs",
+    "build": "node scripts/build.mjs",
+    "serve": "node scripts/serve.mjs",
+    "test": "node --test tests/"
+  },
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "diff": "^8.0.2",
+    "js-yaml": "^4.1.0",
+    "playwright": "^1.62.1"
+  }
+}

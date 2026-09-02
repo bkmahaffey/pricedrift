@@ -1,0 +1,34 @@
+slug: plausible
+name: Plausible
+category: analytics
+website: https://plausible.io
+tagline: Privacy-friendly, cookie-free web analytics
+track_urls:
+  - https://plausible.io/#pricing
+free_tier:
+  status: trial
+  plan_name: null
+  credit_card_required: false
+  limits:
+    - metric: Trial length
+      value: "30 days"
+    - metric: Starter plan pageviews
+      value: "10k monthly pageviews"
+    - metric: Starter plan sites
+      value: "1 site"
+    - metric: Starter plan data retention
+      value: "3 years"
+  trial_length: "30 days"
+  credit_amount: null
+  notes:
+    - "No permanent free plan"
+    - "30-day free trial, no credit card required"
+paid_from:
+  price: "$9"
+  period: month
+  unit: flat
+  plan_name: Starter
+verified_on: "2026-09-02"
+sources:
+  - https://plausible.io/#pricing
+referral: null

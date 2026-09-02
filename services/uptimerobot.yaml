@@ -1,0 +1,36 @@
+slug: uptimerobot
+name: UptimeRobot
+category: observability
+website: https://uptimerobot.com
+tagline: Website and API uptime monitoring with status pages
+track_urls:
+  - https://uptimerobot.com/pricing/
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: false
+  limits:
+    - metric: Monitors
+      value: "50 monitors"
+    - metric: Monitoring interval
+      value: "5 min."
+    - metric: Status pages
+      value: "1 basic status page"
+    - metric: Data retention
+      value: "3 months"
+    - metric: Integrations
+      value: "5"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Monthly email reports only for the first 3 months on Free
+    - SMS/voice credits not included, can be added
+paid_from:
+  price: "$12 (billed annually at $144/y; $13 monthly)"
+  period: month
+  unit: flat
+  plan_name: Solo
+verified_on: "2026-09-02"
+sources:
+  - https://uptimerobot.com/pricing/
+referral: null

@@ -1,0 +1,39 @@
+slug: growthbook
+name: GrowthBook
+category: flags
+website: https://www.growthbook.io
+tagline: Open-source feature flags and A/B testing platform
+track_urls:
+  - https://www.growthbook.io/pricing
+free_tier:
+  status: free
+  plan_name: Starter
+  credit_card_required: false
+  limits:
+    - metric: Users
+      value: "Up to 3"
+    - metric: Projects
+      value: "1"
+    - metric: Feature flags
+      value: "unlimited"
+    - metric: Experiments
+      value: "unlimited"
+    - metric: Traffic
+      value: "unlimited"
+    - metric: CDN requests
+      value: "1M/month included"
+    - metric: CDN bandwidth
+      value: "5GB/month included"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Self-hosted Open Source edition is free with 1 project
+paid_from:
+  price: "$40"
+  period: month
+  unit: per seat
+  plan_name: Pro
+verified_on: "2026-09-02"
+sources:
+  - https://www.growthbook.io/pricing
+referral: null

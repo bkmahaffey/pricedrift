@@ -1,0 +1,42 @@
+slug: appwrite
+name: Appwrite
+category: backend
+website: https://appwrite.io
+tagline: Open-source backend with auth, databases, storage and functions
+track_urls:
+  - https://appwrite.io/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Projects
+      value: "Limit of 2 projects"
+    - metric: Bandwidth
+      value: "5GB"
+    - metric: Storage
+      value: "2GB"
+    - metric: Function executions
+      value: "750K"
+    - metric: Database reads
+      value: "500K / month"
+    - metric: Database writes
+      value: "250K / month"
+    - metric: Monthly active users
+      value: "75,000"
+    - metric: Log retention
+      value: "1 hour"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Free projects are paused after 1 week of inactivity
+    - 1 organization member; 1 Database, 1 Bucket and 2 Functions per project
+paid_from:
+  price: "$25"
+  period: month
+  unit: flat
+  plan_name: Pro
+verified_on: "2026-09-02"
+sources:
+  - https://appwrite.io/pricing
+referral: null

@@ -1,0 +1,26 @@
+slug: sourcegraph
+name: Sourcegraph
+category: cicd
+website: https://sourcegraph.com
+tagline: Code search and AI code-understanding platform for large codebases
+track_urls:
+  - https://sourcegraph.com/pricing
+free_tier:
+  status: trial
+  plan_name: null
+  credit_card_required: null
+  limits: []
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "FAQ: trials include credits tailored to your team size and evaluation goals; contact sales to get started"
+    - "Only an Enterprise plan is listed; no self-serve free plan on the pricing page"
+paid_from:
+  price: "$16K"
+  period: year
+  unit: flat
+  plan_name: Enterprise
+verified_on: "2026-09-02"
+sources:
+  - https://sourcegraph.com/pricing
+referral: null

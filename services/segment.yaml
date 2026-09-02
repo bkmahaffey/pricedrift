@@ -1,0 +1,36 @@
+slug: segment
+name: Segment
+category: analytics
+website: https://segment.com
+tagline: Customer data platform that collects events and routes them to destinations
+track_urls:
+  - https://www.twilio.com/en-us/products/connections/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: false
+  limits:
+    - metric: Visitors
+      value: 1,000 per month
+    - metric: Sources
+      value: "2"
+    - metric: Reverse ETL records
+      value: 500,000 per month
+    - metric: Data warehouse destinations
+      value: "1"
+    - metric: Integrations
+      value: 700+
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Team plan has a 14-day free trial; credit card required after the trial
+    - Team plan is limited to 10 seats
+paid_from:
+  price: "$120"
+  period: month
+  unit: usage
+  plan_name: Team (10,000 visitors per month)
+verified_on: "2026-09-02"
+sources:
+  - https://www.twilio.com/en-us/products/connections/pricing
+referral: null

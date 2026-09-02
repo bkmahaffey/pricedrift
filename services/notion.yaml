@@ -1,0 +1,37 @@
+slug: notion
+name: Notion
+category: tools
+website: https://www.notion.com
+tagline: Workspace for notes, docs, wikis and databases
+track_urls:
+  - https://www.notion.com/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Blocks
+      value: unlimited for individuals, limited for 2+ members
+    - metric: File uploads
+      value: Up to 5 MB
+    - metric: Page history
+      value: 7 days
+    - metric: Guests
+      value: "10"
+    - metric: Charts
+      value: "1"
+    - metric: Notion AI
+      value: Limited Trial
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Save up to 20% with yearly billing"
+paid_from:
+  price: "$10"
+  period: month
+  unit: per seat
+  plan_name: Plus
+verified_on: "2026-09-02"
+sources:
+  - https://www.notion.com/pricing
+referral: null

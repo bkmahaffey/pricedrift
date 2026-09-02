@@ -1,0 +1,34 @@
+slug: upstash
+name: Upstash
+category: databases
+website: https://upstash.com
+tagline: Serverless Redis, Vector and QStash with per-request pricing
+track_urls:
+  - https://upstash.com/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: false
+  limits:
+    - metric: Data size (Redis)
+      value: "256 MB"
+    - metric: Commands (Redis)
+      value: "500K per month"
+    - metric: Bandwidth (Redis)
+      value: "10 GB per month"
+    - metric: Databases (Redis)
+      value: "1"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Limits above are for Redis; Vector, QStash, Workflow, Search, Box and Blob are priced on separate tabs
+    - Once you upgrade to a paid tier, data size and commands are charged according to that plan
+paid_from:
+  price: "$0.2 per 100K commands"
+  period: usage
+  unit: usage
+  plan_name: Pay As You Go
+verified_on: "2026-09-02"
+sources:
+  - https://upstash.com/pricing
+referral: null

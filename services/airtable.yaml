@@ -1,0 +1,43 @@
+slug: airtable
+name: Airtable
+category: databases
+website: https://airtable.com
+tagline: Cloud spreadsheet-database hybrid with automations, interfaces and API
+track_urls:
+  - https://airtable.com/pricing
+  - https://support.airtable.com/articles/2277136852-airtable-plans-overview
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Bases
+      value: unlimited
+    - metric: Records
+      value: 1,000 records / base
+    - metric: Attachment space
+      value: 1GB attachment space / base
+    - metric: Editors
+      value: 5 collaborators with Editor or Creator permissions
+      note: from the plans overview support page
+    - metric: API calls
+      value: 1000 API calls per workspace per month
+      note: from the plans overview support page
+    - metric: Revision history
+      value: 2 weeks of revision and snapshot history
+      note: from the plans overview support page
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "On the Free plan all users are free; Team and Business charge for users with edit permissions on at least one base"
+    - "Over the record or attachment limit you cannot add more records or attachments until you upgrade; automations and API calls are capped at the plan limit"
+paid_from:
+  price: "$20 (billed annually)"
+  period: month
+  unit: per user
+  plan_name: Team
+verified_on: "2026-09-02"
+sources:
+  - https://airtable.com/pricing
+  - https://support.airtable.com/articles/2277136852-airtable-plans-overview
+referral: null

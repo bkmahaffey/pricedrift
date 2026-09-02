@@ -1,0 +1,43 @@
+slug: deno-deploy
+name: Deno Deploy
+category: hosting
+website: https://deno.com/deploy
+tagline: Serverless hosting for JavaScript and TypeScript apps on Deno
+track_urls:
+  - https://deno.com/deploy/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Requests
+      value: 1M per month
+    - metric: Egress bandwidth
+      value: 20GiB
+    - metric: Active CPU
+      value: 10 hr
+    - metric: Memory time
+      value: 150 GiB-hr
+    - metric: Apps
+      value: "10"
+    - metric: Custom domains
+      value: "5"
+    - metric: KV storage
+      value: 1 GiB
+      note: 1,000,000 KV read units and 500,000 KV write units per month
+    - metric: Team members
+      value: "3"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Logs & traces retention is 1 day on Free"
+    - "Sandboxes, wildcard subdomains and email support are not included on Free"
+paid_from:
+  price: "$20"
+  period: month
+  unit: flat
+  plan_name: Pro
+verified_on: "2026-09-02"
+sources:
+  - https://deno.com/deploy/pricing
+referral: null

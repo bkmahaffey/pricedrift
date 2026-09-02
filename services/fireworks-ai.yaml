@@ -1,0 +1,37 @@
+slug: fireworks-ai
+name: Fireworks AI
+category: ai
+website: https://fireworks.ai
+tagline: Serverless and on-demand inference for open-weight models
+track_urls:
+  - https://fireworks.ai/pricing
+  - https://docs.fireworks.ai/serverless/rate-limits
+free_tier:
+  status: credits
+  plan_name: null
+  credit_card_required: null
+  limits:
+    - metric: Free credits
+      value: "$1"
+    - metric: Total Prompt TPM
+      value: "64.8M (models under 400B parameters)"
+      note: ceiling; adaptive limits rise with spending tier
+    - metric: Uncached Prompt TPM
+      value: "16.2M (models under 400B parameters)"
+    - metric: Generated TPM
+      value: "648k (models under 400B parameters)"
+  trial_length: null
+  credit_amount: "$1"
+  notes:
+    - "Rate limits are scoped per account and per model; higher spending tiers raise the upper bound"
+paid_from:
+  price: "$0.10 per 1M tokens"
+  period: usage
+  unit: usage
+  plan_name: null
+verified_on: "2026-09-02"
+sources:
+  - https://fireworks.ai/pricing
+  - https://docs.fireworks.ai/serverless/rate-limits
+  - https://docs.fireworks.ai/serverless/pricing
+referral: null

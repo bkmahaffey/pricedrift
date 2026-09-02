@@ -1,0 +1,33 @@
+slug: tigris
+name: Tigris
+category: storage
+website: https://www.tigrisdata.com
+tagline: S3-compatible globally distributed object storage
+track_urls:
+  - https://www.tigrisdata.com/pricing/
+free_tier:
+  status: free
+  plan_name: Free tier
+  credit_card_required: null
+  limits:
+    - metric: Storage
+      value: "5 GB of data storage (standard tier) per month"
+    - metric: Class A requests
+      value: "10,000 PUT, COPY, POST, LIST requests per month"
+    - metric: Class B requests
+      value: "100,000 GET, SELECT, and all other requests per month"
+    - metric: Egress
+      value: "no egress fees"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Infrequent Access has a 30-day minimum storage retention; Archive tiers 90 days
+paid_from:
+  price: "$0.02 per GB per month"
+  period: usage
+  unit: usage
+  plan_name: null
+verified_on: "2026-09-02"
+sources:
+  - https://www.tigrisdata.com/pricing/
+referral: null

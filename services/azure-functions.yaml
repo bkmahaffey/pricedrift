@@ -1,0 +1,34 @@
+slug: azure-functions
+name: Azure Functions
+category: hosting
+website: https://azure.microsoft.com/en-us/products/functions
+tagline: Event-driven serverless compute service on Microsoft Azure
+track_urls:
+  - https://azure.microsoft.com/en-us/pricing/details/functions/
+free_tier:
+  status: free
+  plan_name: Free grant (Consumption plan)
+  credit_card_required: null
+  limits:
+    - metric: Executions (Consumption plan)
+      value: 1 million per month per subscription
+    - metric: Resource consumption (Consumption plan)
+      value: 400,000 GB-s per month per subscription
+    - metric: Executions (Flex Consumption plan)
+      value: 250,000 per month per subscription
+    - metric: Resource consumption (Flex Consumption plan)
+      value: 100,000 GB-s per month per subscription
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "The storage account created by default is not included in the free grant; standard storage and networking rates are charged separately"
+    - "Beyond the grant, Consumption plan execution time is billed at $0.000016/GB-s"
+paid_from:
+  price: "$0.20 per million executions"
+  period: usage
+  unit: usage
+  plan_name: null
+verified_on: "2026-09-02"
+sources:
+  - https://azure.microsoft.com/en-us/pricing/details/functions/
+referral: null

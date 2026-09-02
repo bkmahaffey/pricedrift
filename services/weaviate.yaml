@@ -1,0 +1,39 @@
+slug: weaviate
+name: Weaviate Cloud
+category: databases
+website: https://weaviate.io
+tagline: Managed vector database with hybrid search and agents
+track_urls:
+  - https://weaviate.io/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: false
+  limits:
+    - metric: Clusters
+      value: "1 cluster per user"
+    - metric: Objects
+      value: "100,000 objects"
+    - metric: Memory
+      value: "1 GB"
+    - metric: Disk
+      value: "10 GB"
+    - metric: Collections
+      value: "1 collection, up to 3 tenants"
+    - metric: Embeddings
+      value: "2,000 requests/day"
+    - metric: Query Agent
+      value: "1,000 requests/month"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Always free; upgrade to paid anytime"
+paid_from:
+  price: "$45"
+  period: month
+  unit: usage
+  plan_name: Flex
+verified_on: "2026-09-02"
+sources:
+  - https://weaviate.io/pricing
+referral: null

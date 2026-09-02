@@ -1,0 +1,36 @@
+slug: backblaze-b2
+name: Backblaze B2
+category: storage
+website: https://www.backblaze.com
+tagline: S3-compatible object cloud storage
+track_urls:
+  - https://www.backblaze.com/cloud-storage/pricing
+free_tier:
+  status: free
+  plan_name: null
+  credit_card_required: null
+  limits:
+    - metric: Storage
+      value: first 10GB storage is always free
+    - metric: Egress
+      value: free egress up to 3x monthly average storage
+      note: overage billed at $0.01 per GB unless routed through CDN/compute partners
+    - metric: API calls
+      value: Class A, B and C API calls are free for pay-as-you-go customers
+    - metric: Class D transactions
+      value: first 2,500 calls per day free
+      note: then $0.004 per 10,000 calls
+  trial_length: null
+  credit_amount: null
+  notes:
+    - No minimum file size or minimum storage duration fees
+    - Unlimited free egress through CDN and compute partners (Fastly, Cloudflare, bunny.net and others)
+paid_from:
+  price: "$6.95 per TB per month"
+  period: usage
+  unit: usage
+  plan_name: B2 Cloud Storage (pay-as-you-go)
+verified_on: "2026-09-02"
+sources:
+  - https://www.backblaze.com/cloud-storage/pricing
+referral: null

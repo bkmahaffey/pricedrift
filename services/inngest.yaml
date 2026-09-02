@@ -1,0 +1,40 @@
+slug: inngest
+name: Inngest
+category: backend
+website: https://www.inngest.com
+tagline: Durable workflow and background job engine with step functions
+track_urls:
+  - https://www.inngest.com/pricing
+free_tier:
+  status: free
+  plan_name: Hobby
+  credit_card_required: false
+  limits:
+    - metric: Executions
+      value: "50k /mo included"
+    - metric: Concurrent steps
+      value: "5 included"
+    - metric: Users
+      value: "3"
+    - metric: Events ingested
+      value: "500k/mo included"
+    - metric: Queue depth
+      value: "100k included"
+    - metric: Trace retention
+      value: "24 hours"
+    - metric: Realtime connections
+      value: "50"
+    - metric: Span data
+      value: "500 MB"
+  trial_length: null
+  credit_amount: null
+  notes: []
+paid_from:
+  price: "$99"
+  period: month
+  unit: flat
+  plan_name: Pro
+verified_on: "2026-09-02"
+sources:
+  - https://www.inngest.com/pricing
+referral: null

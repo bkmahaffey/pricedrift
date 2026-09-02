@@ -1,0 +1,35 @@
+slug: honeycomb
+name: Honeycomb
+category: observability
+website: https://www.honeycomb.io
+tagline: Observability platform for events, distributed traces and metrics
+track_urls:
+  - https://www.honeycomb.io/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Event volume
+      value: Up to 20M per month
+    - metric: Metrics data points
+      value: Up to 100M per month
+    - metric: Triggers
+      value: "2"
+    - metric: SLOs
+      value: Not included
+    - metric: Service Map
+      value: Not included
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Pro starts at $150 per month for up to 750M events and 3.75B metrics data points"
+paid_from:
+  price: "$150"
+  period: month
+  unit: flat
+  plan_name: Pro
+verified_on: "2026-09-02"
+sources:
+  - https://www.honeycomb.io/pricing
+referral: null

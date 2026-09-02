@@ -1,0 +1,44 @@
+slug: cloudflare-pages
+name: Cloudflare Pages
+category: hosting
+website: https://pages.cloudflare.com
+tagline: Static site and full-stack hosting on Cloudflare's edge network
+track_urls:
+  - https://developers.cloudflare.com/workers/platform/pricing/
+  - https://developers.cloudflare.com/pages/platform/limits/
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Builds
+      value: "500 per month"
+    - metric: Concurrent builds
+      value: "1"
+    - metric: Projects
+      value: "100 per account"
+    - metric: Custom domains
+      value: "100 per project"
+    - metric: Files per site
+      value: "20,000"
+    - metric: Functions requests
+      value: "100,000 per day"
+      note: Pages Functions are billed as Workers
+    - metric: Static asset requests
+      value: "free and unlimited"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - pages.cloudflare.com redirects to a product overview with no pricing; facts come from the Workers pricing and Pages limits docs
+    - Builds time out after 20 minutes
+    - Maximum size for a single site asset is 25 MiB
+paid_from:
+  price: "$5"
+  period: month
+  unit: flat
+  plan_name: Workers Paid
+verified_on: "2026-09-02"
+sources:
+  - https://developers.cloudflare.com/workers/platform/pricing/
+  - https://developers.cloudflare.com/pages/platform/limits/
+referral: null

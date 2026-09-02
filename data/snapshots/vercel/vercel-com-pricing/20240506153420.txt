@@ -1,0 +1,280 @@
+Skip to content
+Find a plan to power your projects
+Hobby
+$0
+The ultimate project kickstart.
+Import any git repo
+Deploy in seconds
+Automatic CI/CD
+Serverless Compute
+Traffic & performance insights
+Community Support
+Start deploying
+Pro
+$20
+per user / month
+The plan to help you keep growing.
+Most Popular
+First member included
+Secure team collaboration
+Frontend Observability tools
+Advanced Protection
+Scales with you
+Email support
+Start a free trial
+Enterprise
+Custom
+For teams with more security, support, and performance needs.
+SCIM & Directory Sync
+Guest & Team access controls
+Enhanced Firewall & DDoS Mitigation
+Multi-region compute & failover
+Advanced Support
+99.99% SLA
+Contact Sales
+Request Trial
+Trusted by the best frontend teams
+20 days
+Saved on daily builds
+98%
+faster time to market
+34%
+higher conversion
+6x
+site impressions
+Need enterprise scale and security?
+Talk to our sales team about your requirements, learn about custom pricing, or request a demo.
+Contact Sales
+Customize your plan with Pro add-ons
+$150 / month
+Advanced Deployment Protection
+Allows you to provide fine-grained control over who can access your deployments.
+$50 / month per additional build
+Additional Concurrent Builds
+Determines how many builds you can run at the same time. By increasing the number, you are increasing the level of concurrency.
+$10 / month
+Monitoring
+Monitoring is a query editor that allows you to visualize errors, debug bandwidth issues, and monitor usage and web traffic.
+$10 / month per project
+Speed Insights
+Detailed view of your website's performance metrics, facilitating informed decisions for its optimization.
+$100 / month
+Preview Deployment Suffix
+Choose your own custom domain for Preview Deployments, in place of the default.vercel.app suffix.
+$50 / month
+Web Analytics Plus
+Increased Analytics limits, a longer reporting window, and more custom event properties.
+Scale
+Application
+Hobby
+Pro
+Enterprise
+Fast Data Transfer
+100 GB /month
+1 TB /month
+Custom
+Fast Origin Transfer
+10 GB /month
+100 GB /month included
+Custom
+Edge Requests
+1M /month
+10M /month
+Custom
+Function Invocations
+100,000 invocations /month
+1M invocations /month
+Custom
+Function Duration
+100 GB-hour /month
+1,000 GB-hour /month
+Custom
+Data Cache Reads
+1M reads /month
+10M reads /month
+Custom
+Build Execution
+6,000 minutes
+24,000 minutes
+Custom
+Source Images
+1000 images /month
+5000 images /month
+Custom
+Concurrent Builds
+1 included
+1 included $50 per additional concurrency slot
+Custom
+Data Cache Writes
+200,000 writes /month
+2M writes /month
+Custom
+Edge Middleware Invocations
+1M /month
+Custom
+Enhanced Builds
+Available
+Edge Function Execution
+500,000 execution units /month included
+1M execution units /month
+Custom
+Runtime Logs
+1 hour of Logs
+1 day of Logs
+3 days of Logs
+Remote Cache
+10 GB
+10 GB then $0.50 per GB
+Layout Shift Tool
+Team
+Hobby
+Pro
+Enterprise
+Team Seats
+$20/mo per member
+Custom
+Unlimited Previewers
+Comments
+Productivity Integrations
+Draft Mode
+Business
+Hobby
+Pro
+Enterprise
+Domains per Project
+50
+Unlimited
+Deployments per Day
+100
+6,000
+Custom
+Preview Deployment Suffix
+$
+Custom
+Vercel Projects Connected per Git Repository
+3
+60
+Custom
+Speed Insights
+10,000
+$10 per project per month
+Custom
+Conformance
+Custom
+Code Owners
+Monitoring
+$10 base fee per month
+$
+Custom
+$
+Automatic CI/CD
+Web Analytics
+2,500 events
+25,000 events
+$
+Custom
+Storage
+KV
+30,000 Requests
+150,000 Requests
+$
+Coming soon
+Postgres
+60 Compute Hours
+100 Compute Hours
+$
+Coming soon
+Blob
+Coming soon
+Edge Config Reads
+100,000 reads /month included
+1M reads /month included then starting at $3.00 per million
+Custom
+Edge Config Writes
+100 writes /month included
+1000 writes /month included then starting at $5.00 per 500 writes
+Custom
+Security
+HTTPS/SSL by default
+DDoS Mitigation
+Advanced Deployment Protection
+$
+SSO Protected Previews
+Custom Firewall Rules
+Single Sign-On (SSO)
+IP Blocking
+Directory Sync
+Secure Compute
+$
+Audit Logs
+Support
+Email Support
+Community Support
+SLA for 99.99% Uptime
+Email Support SLA
+Advanced Support Scope
+Onboarding Support
+Dedicated Customer Success Team
+Code Audits & Professional Services
+Custom
+FAQs
+Which Vercel plan is right for me?
+Our Hobby plan is for personal, non-commercial use. Pro is for small teams with moderate usage and collaboration requirements. Enterprise is for teams seeking greater performance, collaboration, and security. Contact our sales team
+to learn more.
+Do you offer custom invoicing?
+Yes, we offer custom invoicing for Enterprise customers. Contact our sales team
+to learn more.
+What are the limits for each plan?
+Our limits are listed here
+. Additionally, check out our Fair Use Policy
+.
+I went over my limits. What can I do?
+We are glad you are growing and scaling with Vercel! Please contact us
+to discuss your resource requirements and we can customize a plan for your team.
+Can I buy additional usage?
+Yes! On top of your included usage on Pro, you can pay as you go for additional products like Fast Data Transfer (starting at $0.15 per GB) and Edge Requests (starting at $2 per million), uncapped. If you have a free Hobby account, you are limited to the usage constraints listed on this page and cannot purchase additional usage. Read more details in our documentation
+.
+I have a Hobby account, how do I upgrade to a paid plan?
+Thanks for continuing to use Vercel! Follow this guide
+to upgrade your account.
+Is there a limit to how many teams I can have?
+No, there is not a limit.
+I want to transfer a domain name to Vercel. Is there a fee?
+Potentially. Transfer fees are dependent on the TLD and the domain renewal fee. The domain-transfer workflow will alert you of fees before initiating transfer.
+How does Vercel calculate usage?
+We calculate the total response size which includes headers along with the number of bytes in the body. Anything served from our servers from your project’s domain will be counted as bandwidth (including JSON responses for Serverless Functions).
+When it comes to Serverless Functions though, GB-Hrs is calculated by multiplying the duration that your functions ran for by the amount of memory that was consumed by them.
+To learn more, check out the Usage documentation
+.
+Is anything changing about our open source plan?
+No—to help support the open-source ecosystem, we provide free Vercel pro accounts to a variety of frontend frameworks, JavaScript libraries, non-profits, and philanthropic efforts. These sponsored plans are not being changed.
+Can you share a before and after pricing example?
+With our current pricing, developers on the Pro plan have some included usage in the first $20/mo plan, and then can pay for additional usage on demand after the included amount has been reached. For example, bandwidth. The first 1TB is included at $20/mo, and then after it is $40/100GB. This is not ideal for two reasons. First, there are multiple services included in the “bandwidth” price, including Fast Data Transfer, Fast Origin Transfer, and Edge Requests. With our improved infrastructure pr
+Where can I learn more about the new metrics?
+Our more granular infrastructure pricing splits bandwidth and functions into metrics like Fast Data Transfer, Fast Origin Transfer, Edge Requests, and more. You can learn more about each metric in our documentation
+. Further, to explore all prices, you can view a preview of our updated pricing page
+.
+Do cached responses affect usage?
+Caching responses can reduce the usage of Vercel Functions. If the function response is cached
+, it will not run and incur a Function invocation or any GB/hrs of duration. Any request made to Vercel will incur an Edge Request. Requests to static assets incur the same Fast Data Transfer usage if the response is cached or uncached. Further, Vercel automatically adds etags to all responses to prevent end users from downloading the same asset many times. Our Edge Network automatically compresses
+responses to reduce your Fast Data Transfer.
+What is Vercel's commitment to the free tier?
+We are committed to providing a free tier for Vercel users. As a reminder, free plans do not require the addition of a payment method and come with included infrastructure usage to build your first few projects. While making our infrastructure metrics more granular, we have kept a equivalent of the previous free tier included usage. For example, 100GB of Bandwidth is now 100GB of Fast Data Transfer, 10GB of Fast Origin Transfer, and 1 million Edge Requests. If you exceed the included free tier u
+How can I manage my spend?
+We provide customers with tools to observe, control, and alert on their infrastructure spend with Spend Management
+. You can define a spend amount (e.g. $40) and receive email, web, and SMS notifications as you reach that amount. When reaching 100%, you can optionally automatically pause all projects with a hard limit. Over the past year, we've added features to the platform based on your feedback to help automatically prevent runaway spend, including recursion protection
+, improved function defaults
+, hard spend limits
+, Attack Challenge Mode
+, and more.
+Will my monthly bill increase?
+For the majority of Pro customers, monthly bills will stay the same or go down. Emails with next steps for your account will be sent to account owners. Hobby will remain free and will have free included usage in proportion to previously included bandwidth and functions. If a Hobby customer exceeds these new metrics within the next 6 months, their applications will be unaffected to give time to adjust. This update to our infrastructure pricing does not change any other part of our pricing.
+When do these changes go live?
+These changes will go into effect during your billing cycle between May and June 2024. Before that date, the Vercel dashboard will display updated usage and billing information to allow you to understand these changes. Further, updated documentation will be live explaining each priced metric and how to optimize for each.
+What is regional pricing?
+We've introduced regional pricing
+for Fast Data Transfer, Fast Origin Transfer, Edge Requests, and other metrics. These resources are priced differently depending on where your users are visiting from, due to differences in the underlying infrastructure.
+Develop. Preview. Ship.
+Vercel is the platform for frontend developers, providing the speed and reliability innovators need to create at the moment of inspiration.
+Start Deploying
+Tour the Product

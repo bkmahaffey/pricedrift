@@ -1,0 +1,35 @@
+slug: bugsnag
+name: Bugsnag
+category: observability
+website: https://www.bugsnag.com
+tagline: Error and performance monitoring for web and mobile apps
+track_urls:
+  - https://www.bugsnag.com/pricing/
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Events
+      value: 7.5K events per month
+    - metric: Spans
+      value: 1M spans per month
+    - metric: Users
+      value: "1"
+    - metric: Data retention
+      value: 7 days
+    - metric: Projects
+      value: unlimited
+  trial_length: 14 days
+  credit_amount: null
+  notes:
+    - Select and Preferred plans show "starting at $0/month" with event tiers from 50k to 3M monthly events; tier prices are not rendered without JavaScript
+paid_from:
+  price: null
+  period: month
+  unit: flat
+  plan_name: Select
+verified_on: "2026-09-02"
+sources:
+  - https://www.bugsnag.com/pricing/
+referral: null

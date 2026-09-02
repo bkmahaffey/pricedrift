@@ -1,0 +1,31 @@
+slug: uploadthing
+name: UploadThing
+category: storage
+website: https://uploadthing.com
+tagline: File upload API and hosted storage for web applications
+track_urls:
+  - https://uploadthing.com/pricing
+free_tier:
+  status: free
+  plan_name: 2GB App
+  credit_card_required: null
+  limits:
+    - metric: Storage
+      value: 2GB of storage
+      note: shared between all apps
+    - metric: Uploads and downloads
+      value: Unlimited
+    - metric: Audit log retention
+      value: 7 days
+  trial_length: null
+  credit_amount: null
+  notes: []
+paid_from:
+  price: "$10"
+  period: month
+  unit: flat
+  plan_name: 100GB App
+verified_on: "2026-09-02"
+sources:
+  - https://uploadthing.com/pricing
+referral: null

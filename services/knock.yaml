@@ -1,0 +1,38 @@
+slug: knock
+name: Knock
+category: email
+website: https://knock.app
+tagline: Notification infrastructure API for email, push, SMS, chat and in-app
+track_urls:
+  - https://knock.app/pricing
+free_tier:
+  status: free
+  plan_name: Developer
+  credit_card_required: null
+  limits:
+    - metric: Messages
+      value: 10K
+    - metric: Guide active users
+      value: "500"
+    - metric: AI agent credits
+      value: "500"
+    - metric: Notification workflows
+      value: Unlimited
+    - metric: Delivery channels
+      value: Unlimited
+    - metric: Team members
+      value: Unlimited
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "No hard cap: service continues if limits are exceeded and Knock follows up about billing"
+    - "Overages: $.005 per message, $.05 per guide active user, $.01 per AI agent credit"
+paid_from:
+  price: "$250"
+  period: month
+  unit: flat
+  plan_name: Starter
+verified_on: "2026-09-02"
+sources:
+  - https://knock.app/pricing
+referral: null

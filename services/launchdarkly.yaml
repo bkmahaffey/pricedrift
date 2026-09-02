@@ -1,0 +1,38 @@
+slug: launchdarkly
+name: LaunchDarkly
+category: flags
+website: https://launchdarkly.com
+tagline: Feature flag management, experimentation and AI config platform
+track_urls:
+  - https://launchdarkly.com/pricing/
+free_tier:
+  status: free
+  plan_name: Developer
+  credit_card_required: false
+  limits:
+    - metric: Seats
+      value: unlimited
+    - metric: Service connections
+      value: "5"
+    - metric: Client-side MAU
+      value: 1K per month
+    - metric: AI runs
+      value: 5k per month
+    - metric: Data retention
+      value: 14 days
+    - metric: Projects and environments
+      value: 1 project with 3 environments
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Developer plan is $0/mo forever, no credit card required
+    - Foundation is pay as you go after a 14-day trial with no platform or seat fees; $8.33 per 1k client-side MAU/mo billed yearly
+paid_from:
+  price: "$10 per service connection"
+  period: month
+  unit: usage
+  plan_name: Foundation
+verified_on: "2026-09-02"
+sources:
+  - https://launchdarkly.com/pricing/
+referral: null

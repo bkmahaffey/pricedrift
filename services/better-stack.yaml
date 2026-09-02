@@ -1,0 +1,38 @@
+slug: better-stack
+name: Better Stack
+category: observability
+website: https://betterstack.com
+tagline: Uptime monitoring, incident management, logs and telemetry
+track_urls:
+  - https://betterstack.com/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Uptime monitors & heartbeats
+      value: "10"
+    - metric: Status pages
+      value: "1"
+    - metric: Check frequency
+      value: "up to 30 seconds"
+    - metric: Alerts
+      value: "Slack & e-mail alerts"
+    - metric: Logs
+      value: "3 GB retained for 3 days"
+    - metric: Traces
+      value: "3 GB retained for 3 days"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Telemetry Nano bundle from $30/mo (Europe) with 40 GB each of logs, traces and metrics at 30-day retention
+    - Prices vary by region (Europe, United States, Singapore)
+paid_from:
+  price: "$29 (billed yearly; $34 monthly)"
+  period: month
+  unit: per seat
+  plan_name: Responder
+verified_on: "2026-09-02"
+sources:
+  - https://betterstack.com/pricing
+referral: null

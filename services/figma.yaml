@@ -1,0 +1,36 @@
+slug: figma
+name: Figma
+category: tools
+website: https://www.figma.com
+tagline: Collaborative interface design tool with Dev Mode and FigJam
+track_urls:
+  - https://www.figma.com/pricing/
+  - https://help.figma.com/hc/en-us/articles/360040328273-Figma-plans-and-features
+free_tier:
+  status: free
+  plan_name: Starter
+  credit_card_required: null
+  limits:
+    - metric: Team files
+      value: 3 files in a single team with one folder
+    - metric: Drafts
+      value: unlimited
+    - metric: Version history
+      value: 30 days
+    - metric: AI credits
+      value: 150 per day, up to 500 per month
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Professional also offers Dev seats at $12/mo and Collab seats at $3/mo
+    - Pricing page has a Monthly/Annual toggle; billing period of the displayed $16 figure could not be confirmed via automated fetch
+paid_from:
+  price: "$16"
+  period: month
+  unit: per seat
+  plan_name: Professional (Full seat)
+verified_on: "2026-09-02"
+sources:
+  - https://www.figma.com/pricing/
+  - https://help.figma.com/hc/en-us/articles/360040328273-Figma-plans-and-features
+referral: null

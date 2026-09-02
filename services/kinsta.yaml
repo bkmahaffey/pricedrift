@@ -1,0 +1,40 @@
+slug: kinsta
+name: Kinsta
+category: hosting
+website: https://kinsta.com
+tagline: Managed WordPress hosting on Google Cloud with CDN and backups
+track_urls:
+  - https://kinsta.com/plans/
+free_tier:
+  status: trial
+  plan_name: 1st month free (Single 20GB / WP 2)
+  credit_card_required: null
+  limits:
+    - metric: Trial length
+      value: "1st month free"
+      note: on Single 20GB and WP 2 plans only
+    - metric: WordPress installs (Single 20GB)
+      value: "1 WordPress install"
+    - metric: Storage (Single 20GB)
+      value: "10GB Storage"
+    - metric: CDN bandwidth (Single 20GB)
+      value: "125GB CDN bandwidth"
+    - metric: Backup retention
+      value: "14 days"
+    - metric: Migrations
+      value: "Unlimited free migrations"
+  trial_length: 1 month
+  credit_amount: null
+  notes:
+    - "Pay $0 today, $350 after the first month (annual Single 20GB plan)"
+    - Static Site, Application and Database Hosting are not priced on this page (linked out to sevalla.com)
+    - Prices exclude tax and are in USD
+paid_from:
+  price: "$30 (billed annually at $350; $35 monthly)"
+  period: month
+  unit: per site
+  plan_name: Single 20GB
+verified_on: "2026-09-02"
+sources:
+  - https://kinsta.com/plans/
+referral: null

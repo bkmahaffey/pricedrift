@@ -1,0 +1,30 @@
+slug: datadog
+name: Datadog
+category: observability
+website: https://www.datadoghq.com
+tagline: Cloud monitoring platform for infrastructure, APM, logs and security
+track_urls:
+  - https://www.datadoghq.com/pricing/
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Hosts
+      value: up to 5
+    - metric: Metric retention
+      value: 1 day
+    - metric: Features
+      value: core collection and visualization features
+  trial_length: null
+  credit_amount: null
+  notes: []
+paid_from:
+  price: "$15 per host (billed annually) or $18 on-demand"
+  period: month
+  unit: usage
+  plan_name: Pro (Infrastructure)
+verified_on: "2026-09-02"
+sources:
+  - https://www.datadoghq.com/pricing/
+referral: null

@@ -1,0 +1,42 @@
+slug: groq
+name: Groq
+category: ai
+website: https://groq.com
+tagline: Fast LLM and speech inference API on custom LPU hardware
+track_urls:
+  - https://console.groq.com/docs/models
+  - https://console.groq.com/docs/rate-limits
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: openai/gpt-oss-120b requests
+      value: 30 RPM / 1K RPD
+    - metric: openai/gpt-oss-120b tokens
+      value: 8K TPM / 200K TPD
+    - metric: openai/gpt-oss-20b requests
+      value: 30 RPM / 1K RPD
+    - metric: openai/gpt-oss-20b tokens
+      value: 8K TPM / 200K TPD
+    - metric: groq/compound
+      value: 30 RPM / 250 RPD / 70K TPM
+    - metric: whisper-large-v3
+      value: 20 RPM / 2K RPD / 7.2K ASH / 28.8K ASD
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "groq.com/pricing redirects to the Groq homepage; per-model prices are on the console models page"
+    - "Llama 3.1 8B and Llama 3.3 70B are listed as Enterprise / Contact Sales on the models page"
+    - "Higher limits, Batch and Flex processing require the Developer (pay per token) plan"
+paid_from:
+  price: "$0.075 per 1M input tokens"
+  period: usage
+  unit: usage
+  plan_name: Developer
+verified_on: "2026-09-02"
+sources:
+  - https://console.groq.com/docs/models
+  - https://console.groq.com/docs/rate-limits
+  - https://console.groq.com/settings/billing/plans
+referral: null

@@ -1,0 +1,34 @@
+slug: loops
+name: Loops
+category: email
+website: https://loops.so
+tagline: Email platform for SaaS with marketing, transactional and lifecycle email
+track_urls:
+  - https://loops.so/pricing
+free_tier:
+  status: free
+  plan_name: Early Stage Plan
+  credit_card_required: false
+  limits:
+    - metric: Subscribed contacts
+      value: "1,000"
+    - metric: Sends
+      value: Up to 4,000 sends/month
+    - metric: Send rate
+      value: Up to 10 emails per second
+    - metric: Team seats
+      value: not charged
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Includes a small \"Powered by Loops\" footer"
+    - "Pricing is based on subscribed contacts; sends are not charged separately"
+paid_from:
+  price: "$49"
+  period: month
+  unit: flat
+  plan_name: Starter
+verified_on: "2026-09-02"
+sources:
+  - https://loops.so/pricing
+referral: null

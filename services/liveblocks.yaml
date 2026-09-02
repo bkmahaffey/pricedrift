@@ -1,0 +1,42 @@
+slug: liveblocks
+name: Liveblocks
+category: backend
+website: https://liveblocks.io
+tagline: Realtime collaboration infrastructure with presence, comments and storage
+track_urls:
+  - https://liveblocks.io/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: false
+  limits:
+    - metric: Collaboration minutes
+      value: "3,000 minutes"
+    - metric: Comments
+      value: "200 comments"
+    - metric: Realtime data storage
+      value: "1 GB"
+    - metric: File storage
+      value: "512 MB included"
+    - metric: Projects
+      value: "10"
+    - metric: Dashboard seats
+      value: "3"
+    - metric: Simultaneous connections per room
+      value: "10"
+    - metric: Version history
+      value: "24 hours"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Free plan features have hard caps per meter; when exceeded, that feature pauses until the next cycle
+    - Free plan includes Liveblocks branding
+paid_from:
+  price: "$30"
+  period: month
+  unit: flat
+  plan_name: Pro
+verified_on: "2026-09-02"
+sources:
+  - https://liveblocks.io/pricing
+referral: null

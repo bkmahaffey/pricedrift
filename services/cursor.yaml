@@ -1,0 +1,29 @@
+slug: cursor
+name: Cursor
+category: ai
+website: https://cursor.com
+tagline: AI code editor with agent, Composer and autocomplete
+track_urls:
+  - https://cursor.com/pricing
+free_tier:
+  status: free
+  plan_name: Hobby
+  credit_card_required: false
+  limits:
+    - metric: Agent requests
+      value: Limited
+    - metric: Composer
+      value: Access included
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Hobby plan lists no numeric request limits, only 'Limited Agent requests'"
+paid_from:
+  price: "$20"
+  period: month
+  unit: per user
+  plan_name: Pro
+verified_on: "2026-09-02"
+sources:
+  - https://cursor.com/pricing
+referral: null

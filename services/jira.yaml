@@ -1,0 +1,39 @@
+slug: jira
+name: Jira
+category: tools
+website: https://www.atlassian.com/software/jira
+tagline: Issue tracking and agile project management by Atlassian
+track_urls:
+  - https://www.atlassian.com/software/jira/pricing
+  - https://support.atlassian.com/jira-cloud-administration/docs/explore-jira-cloud-plans/
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Users
+      value: up to 10
+    - metric: Storage
+      value: 2 GB
+    - metric: Automation
+      value: 150 automation steps per subscription per month
+    - metric: Sites
+      value: "1"
+    - metric: Support
+      value: community support
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Free plan has no time limit
+    - Standard and Premium offer a 7-day free trial
+paid_from:
+  price: "$7.91 per user / month"
+  period: month
+  unit: per user
+  plan_name: Standard
+verified_on: "2026-09-02"
+sources:
+  - https://www.atlassian.com/software/jira/pricing
+  - https://support.atlassian.com/jira-cloud-administration/docs/explore-jira-cloud-plans/
+  - https://www.atlassian.com/software/jira/guides/more/jira-editions
+referral: null

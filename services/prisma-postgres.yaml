@@ -1,0 +1,40 @@
+slug: prisma-postgres
+name: Prisma Postgres
+category: databases
+website: https://www.prisma.io
+tagline: Managed Postgres database with Prisma ORM and serverless compute
+track_urls:
+  - https://www.prisma.io/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: false
+  limits:
+    - metric: Databases
+      value: "50"
+    - metric: Storage
+      value: 500 MB
+    - metric: Operations
+      value: 200k operations/month
+    - metric: Compute requests
+      value: 1M requests/month
+    - metric: Compute memory
+      value: 360 GB-hours memory/month
+    - metric: Active vCPU
+      value: 4 active vCPU-hours/month
+    - metric: Outbound bandwidth
+      value: 10 GB/month
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Free forever. No credit card required"
+    - "All paid plans include a hard spend limit, on by default"
+paid_from:
+  price: "$10"
+  period: month
+  unit: flat
+  plan_name: Starter
+verified_on: "2026-09-02"
+sources:
+  - https://www.prisma.io/pricing
+referral: null

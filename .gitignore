@@ -1,0 +1,12 @@
+node_modules/
+dist/
+data/pending/
+.DS_Store
+issue.md
+n.txt
+data/runs/*.log
+data/runs/*.stdout
+data/runs/backfill-progress.json
+data/runs/half2.txt
+scripts/seed/slice-*.json
+scripts/seed/AGENT_TASK.md

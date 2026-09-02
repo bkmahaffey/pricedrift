@@ -1,0 +1,36 @@
+slug: trigger-dev
+name: Trigger.dev
+category: backend
+website: https://trigger.dev
+tagline: Background jobs and workflow platform for TypeScript
+track_urls:
+  - https://trigger.dev/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Included usage
+      value: $5 per month free credits
+    - metric: Concurrent runs
+      value: "20"
+    - metric: Team members
+      value: "5"
+    - metric: Log retention
+      value: 1 day
+    - metric: Schedules
+      value: "10"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - DEV environment runs are not charged
+    - Upgrade required to continue once the $5 monthly credits are exhausted
+paid_from:
+  price: "$10"
+  period: month
+  unit: flat
+  plan_name: Hobby
+verified_on: "2026-09-02"
+sources:
+  - https://trigger.dev/pricing
+referral: null

@@ -1,0 +1,40 @@
+slug: pinecone
+name: Pinecone
+category: databases
+website: https://www.pinecone.io
+tagline: Managed vector database for similarity search
+track_urls:
+  - https://www.pinecone.io/pricing/
+free_tier:
+  status: free
+  plan_name: Starter
+  credit_card_required: null
+  limits:
+    - metric: Storage
+      value: "Up to 2 GB"
+    - metric: Read units
+      value: "Up to 1M/mo"
+    - metric: Write units
+      value: "Up to 2M/mo"
+    - metric: Indexes
+      value: "Up to 5"
+    - metric: Projects
+      value: "1"
+    - metric: Namespaces per index
+      value: "100"
+    - metric: Regions
+      value: "us-east-1 only (AWS only)"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Standard plan offers a 3 week trial that includes $300 credits
+    - Starter usage examples exclude Inference (embeddings/reranking) and Assistant usage
+paid_from:
+  price: "$20"
+  period: month
+  unit: flat
+  plan_name: Builder
+verified_on: "2026-09-02"
+sources:
+  - https://www.pinecone.io/pricing/
+referral: null

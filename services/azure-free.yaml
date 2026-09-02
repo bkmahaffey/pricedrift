@@ -1,0 +1,43 @@
+slug: azure-free
+name: Azure Free Services
+category: compute
+website: https://azure.microsoft.com/en-us/pricing/free-services
+tagline: Microsoft Azure free account credit and always-free service allowances
+track_urls:
+  - https://azure.microsoft.com/en-us/pricing/free-services
+  - https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account
+free_tier:
+  status: free
+  plan_name: Azure free account
+  credit_card_required: true
+  limits:
+    - metric: Azure Functions
+      value: 1 million requests per month
+    - metric: App Service
+      value: up to 10 web/API apps with 1 GB storage, 1 hour per day
+    - metric: Azure Cosmos DB
+      value: 1,000 request units per second provisioned throughput, 25 GB storage
+    - metric: Azure SQL Database
+      value: 100,000 vCore seconds serverless usage, 32 GB storage
+    - metric: Azure Container Apps
+      value: 180,000 vCPU seconds, 360,000 GiB seconds, 2 million requests
+    - metric: Azure DevOps
+      value: 5 users with unlimited private Git repos
+    - metric: AI Search
+      value: 50 MB storage for 10,000 hosted documents, 3 indexes
+  trial_length: null
+  credit_amount: "$200 for 30 days"
+  notes:
+    - $200 credit within 30 days plus 20+ services free for 12 months (new customers only); must move to pay as you go within 30 days to keep 12-month free services
+    - Requires a phone number, a non-prepaid credit or debit card, and a Microsoft account
+    - Paid usage is per-service pay-as-you-go; no single headline price on the tracked pages
+paid_from:
+  price: null
+  period: usage
+  unit: usage
+  plan_name: null
+verified_on: "2026-09-02"
+sources:
+  - https://azure.microsoft.com/en-us/pricing/free-services
+  - https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account
+referral: null

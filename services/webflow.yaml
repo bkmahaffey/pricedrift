@@ -1,0 +1,37 @@
+slug: webflow
+name: Webflow
+category: cms
+website: https://webflow.com
+tagline: Visual website builder with hosting and CMS
+track_urls:
+  - https://webflow.com/pricing
+free_tier:
+  status: free
+  plan_name: Starter
+  credit_card_required: null
+  limits:
+    - metric: Static pages
+      value: "2"
+    - metric: Bandwidth
+      value: "1 GB/month"
+    - metric: Form submissions
+      value: "50"
+    - metric: CMS items
+      value: "50"
+    - metric: CMS Collections
+      value: "20"
+    - metric: Domain
+      value: "Webflow.io subdomain"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Some features on Starter sites require a paid Workspace plan"
+paid_from:
+  price: "$15"
+  period: month
+  unit: per site
+  plan_name: Basic (billed yearly)
+verified_on: "2026-09-02"
+sources:
+  - https://webflow.com/pricing
+referral: null

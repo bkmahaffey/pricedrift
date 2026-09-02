@@ -1,0 +1,49 @@
+slug: google-cloud-free
+name: Google Cloud Free Tier
+category: compute
+website: https://cloud.google.com/free
+tagline: Always-free usage allowances and trial credit across Google Cloud products
+track_urls:
+  - https://cloud.google.com/free
+  - https://docs.cloud.google.com/free/docs/free-cloud-features
+free_tier:
+  status: free
+  plan_name: Free Tier
+  credit_card_required: true
+  limits:
+    - metric: Compute Engine
+      value: "1 non-preemptible e2-micro VM instance per month"
+      note: us-west1, us-central1 and us-east1 only
+    - metric: Persistent disk
+      value: "30 GB-months standard persistent disk"
+    - metric: Cloud Storage
+      value: "5 GB-months of regional storage per month"
+      note: US regions only; 5,000 Class A and 50,000 Class B operations
+    - metric: Cloud Run
+      value: "2 million requests per month"
+      note: plus 360,000 GB-seconds memory and 180,000 vCPU-seconds
+    - metric: Cloud Run functions
+      value: "2 million invocations per month"
+    - metric: BigQuery
+      value: "1 TiB of querying per month"
+      note: plus 10 GiB of storage per month
+    - metric: Firestore
+      value: "1 GiB of storage per project"
+      note: 50,000 reads, 20,000 writes, and 20,000 deletes per day
+    - metric: Cloud Build
+      value: "2,500 build-minutes per month"
+  trial_length: null
+  credit_amount: "$300 Welcome credit for 90 days (free trial)"
+  notes:
+    - Free trial requires a valid payment method at signup; no charges during the trial period
+    - Cloud Storage free usage applies only in us-east1, us-west1 and us-central1
+    - Paid usage is priced per product; no single headline price on the tracked pages
+paid_from:
+  price: null
+  period: usage
+  unit: usage
+  plan_name: null
+verified_on: "2026-09-02"
+sources:
+  - https://docs.cloud.google.com/free/docs/free-cloud-features
+referral: null

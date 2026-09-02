@@ -1,0 +1,29 @@
+slug: matomo-cloud
+name: Matomo Cloud
+category: analytics
+website: https://matomo.org
+tagline: Hosted web analytics with full data ownership
+track_urls:
+  - https://matomo.org/pricing/
+free_tier:
+  status: trial
+  plan_name: Free trial
+  credit_card_required: false
+  limits:
+    - metric: Trial access
+      value: "all core features"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Cloud free trial length is not stated on the page; no credit card required
+    - Matomo On-Premise Community edition is free with unlimited users and hits
+    - Cloud price is shown in the visitor's currency (USD 26 or EUR 22 per month for 50,000 hits); additional hits cost USD 2.6 per 5,000 per month
+paid_from:
+  price: "USD 26 (EUR 22)"
+  period: month
+  unit: flat
+  plan_name: Cloud (50,000 hits per month)
+verified_on: "2026-09-02"
+sources:
+  - https://matomo.org/pricing/
+referral: null

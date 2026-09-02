@@ -1,0 +1,34 @@
+slug: elevenlabs
+name: ElevenLabs
+category: ai
+website: https://elevenlabs.io
+tagline: AI text-to-speech, voice cloning and audio generation
+track_urls:
+  - https://elevenlabs.io/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Credits
+      value: "10k credits per month"
+      note: "Text to Speech is 1 credit per character"
+    - metric: Studio projects
+      value: "3 Projects in Studio"
+    - metric: Commercial license
+      value: "Not included"
+    - metric: Products included
+      value: "Text to Speech, Speech to Text, Sound Effects, Voice Design, Music, Productions, Image"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Commercial license starts at the Starter plan"
+paid_from:
+  price: "$6"
+  period: month
+  unit: flat
+  plan_name: Starter
+verified_on: "2026-09-02"
+sources:
+  - https://elevenlabs.io/pricing
+referral: null

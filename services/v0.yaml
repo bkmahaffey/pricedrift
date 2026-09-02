@@ -1,0 +1,32 @@
+slug: v0
+name: v0
+category: ai
+website: https://v0.app
+tagline: AI app builder that generates and deploys web apps to Vercel
+track_urls:
+  - https://v0.app/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Monthly credits
+      value: "$5"
+    - metric: Messages
+      value: "7 per day"
+    - metric: Deploy to Vercel
+      value: "included"
+    - metric: GitHub sync
+      value: "included"
+  trial_length: null
+  credit_amount: null
+  notes: []
+paid_from:
+  price: "$30"
+  period: month
+  unit: per user
+  plan_name: Plus
+verified_on: "2026-09-02"
+sources:
+  - https://v0.app/pricing
+referral: null

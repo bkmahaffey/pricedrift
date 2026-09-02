@@ -1,0 +1,43 @@
+slug: posthog
+name: PostHog
+category: analytics
+website: https://posthog.com
+tagline: Product analytics, session replay, feature flags and surveys
+track_urls:
+  - https://posthog.com/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: false
+  limits:
+    - metric: Analytics events
+      value: "1M per month"
+    - metric: Session replay
+      value: "5K recordings per month"
+    - metric: Feature flag requests
+      value: "1M per month"
+    - metric: Error tracking
+      value: "100K exceptions per month"
+    - metric: Survey responses
+      value: "1500 per month"
+    - metric: Data warehouse
+      value: "1M rows per month"
+    - metric: Logs
+      value: "10 GB ingested per month"
+    - metric: Data retention
+      value: "1-year"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Free allowance renews every month and is not a trial
+    - Usage stops at the free tier limits, so you can't be charged by surprise
+paid_from:
+  price: "$0.0000500 per event (analytics, 1-2 million events)"
+  period: usage
+  unit: usage
+  plan_name: Pay-as-you-go
+verified_on: "2026-09-02"
+sources:
+  - https://posthog.com/pricing
+  - https://posthog.com/product-analytics/pricing
+referral: null

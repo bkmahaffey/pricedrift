@@ -1,0 +1,36 @@
+slug: modal
+name: Modal
+category: gpu
+website: https://modal.com
+tagline: Serverless platform for running Python code on CPUs and GPUs
+track_urls:
+  - https://modal.com/pricing
+free_tier:
+  status: credits
+  plan_name: Starter
+  credit_card_required: null
+  limits:
+    - metric: Free credits
+      value: $30 / month
+    - metric: Workspace seats
+      value: "3"
+    - metric: Containers
+      value: 100 containers + 10 GPU concurrency
+    - metric: Deployed crons
+      value: "5"
+    - metric: Log retention
+      value: 1 day
+  trial_length: null
+  credit_amount: "$30 / month free credits"
+  notes:
+    - "Starter is $0 + compute per month; compute beyond the free credits is billed per second"
+    - "Graduate students, labs and researchers can get up to $10k free compute credits; early-stage startups can get free credits"
+paid_from:
+  price: "$0.000164 / sec (Nvidia T4)"
+  period: usage
+  unit: usage
+  plan_name: null
+verified_on: "2026-09-02"
+sources:
+  - https://modal.com/pricing
+referral: null

@@ -1,0 +1,35 @@
+slug: buttondown
+name: Buttondown
+category: email
+website: https://buttondown.com
+tagline: Newsletter publishing and email list tool
+track_urls:
+  - https://buttondown.com/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Subscribers
+      value: "100"
+    - metric: Sending volume
+      value: "at most one email a day to your entire subscriber base"
+      note: stated as the assumption behind all listed prices
+    - metric: Custom domain sending
+      value: "included"
+    - metric: Hosted newsletter archives
+      value: "included"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Optional add-ons are priced from +$9/month to +$79/month each
+    - 501(c)(3) non-profits get a 50% discount
+paid_from:
+  price: "$9"
+  period: month
+  unit: flat
+  plan_name: Basic
+verified_on: "2026-09-02"
+sources:
+  - https://buttondown.com/pricing
+referral: null

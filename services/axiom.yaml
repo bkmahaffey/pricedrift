@@ -1,0 +1,33 @@
+slug: axiom
+name: Axiom
+category: observability
+website: https://axiom.co
+tagline: Log and event data platform with ingest, query and monitors
+track_urls:
+  - https://axiom.co/pricing
+free_tier:
+  status: free
+  plan_name: Personal
+  credit_card_required: false
+  limits:
+    - metric: Data loading
+      value: 500 GB/mo
+    - metric: Query compute
+      value: 10 GB-hours
+    - metric: Storage
+      value: 25 GB
+    - metric: Retention
+      value: 30-day
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Axiom Cloud ($25/month platform fee) includes 1 TB / mo data loading, 100 GB-hours / mo query compute and 100 GB storage"
+paid_from:
+  price: "$25 + usage"
+  period: month
+  unit: flat
+  plan_name: Axiom Cloud
+verified_on: "2026-09-02"
+sources:
+  - https://axiom.co/pricing
+referral: null

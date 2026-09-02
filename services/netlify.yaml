@@ -1,0 +1,45 @@
+slug: netlify
+name: Netlify
+category: hosting
+website: https://www.netlify.com
+tagline: Web hosting and deployment platform for frontends and serverless functions
+track_urls:
+  - https://www.netlify.com/pricing/
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Included credits
+      value: 300 credits / month
+      note: hard monthly limit covering production deploys, compute, form submissions, bandwidth and web requests
+    - metric: Members
+      value: "1"
+      note: free and unlimited Git Contributors on public repos
+    - metric: Concurrent builds
+      value: "1"
+    - metric: Deploy previews
+      value: unlimited
+    - metric: Production deploys
+      value: 15 credits each
+    - metric: Bandwidth
+      value: 20 credits per GB
+    - metric: Compute
+      value: 10 credits per GB-hour
+    - metric: Web requests
+      value: 2 credits per 10k requests
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "When a project reaches its monthly credit limit it is paused until the next billing cycle; if one project exceeds its limits, all projects on the account are paused"
+    - "Free and Personal plans cannot add additional team member seats"
+    - "New projects start private by default and become public only when you publish"
+paid_from:
+  price: "$9"
+  period: month
+  unit: flat
+  plan_name: Personal
+verified_on: "2026-09-02"
+sources:
+  - https://www.netlify.com/pricing/
+referral: null

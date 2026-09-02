@@ -1,0 +1,34 @@
+slug: tailscale
+name: Tailscale
+category: tools
+website: https://tailscale.com
+tagline: Zero-config mesh VPN built on WireGuard
+track_urls:
+  - https://tailscale.com/pricing
+free_tier:
+  status: free
+  plan_name: Personal
+  credit_card_required: null
+  limits:
+    - metric: Users
+      value: Up to 6
+    - metric: User devices
+      value: Unlimited
+    - metric: ACL groups
+      value: Up to 3
+    - metric: Tagged resources
+      value: Up to 50 to start
+    - metric: Ephemeral resources
+      value: 1,000 mins per month
+  trial_length: null
+  credit_amount: null
+  notes: []
+paid_from:
+  price: "$8"
+  period: month
+  unit: per user
+  plan_name: Standard
+verified_on: "2026-09-02"
+sources:
+  - https://tailscale.com/pricing
+referral: null

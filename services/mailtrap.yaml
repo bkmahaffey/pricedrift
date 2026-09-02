@@ -1,0 +1,40 @@
+slug: mailtrap
+name: Mailtrap
+category: email
+website: https://mailtrap.io
+tagline: Email sending API/SMTP and email testing sandbox
+track_urls:
+  - https://mailtrap.io/pricing/
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: false
+  limits:
+    - metric: Emails per month (Email API/SMTP)
+      value: "4,000"
+    - metric: Emails per day (Email API/SMTP)
+      value: "150"
+    - metric: Sending domains
+      value: "1"
+    - metric: Users
+      value: "1"
+    - metric: Email logs retention
+      value: 3 days
+    - metric: Test emails per month (Email Sandbox)
+      value: "50"
+    - metric: Sandboxes (Email Sandbox)
+      value: 1 sandbox, 10 emails per sandbox
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Separate free plans for Email API/SMTP (sending) and Email Sandbox (testing)"
+    - "Cheapest paid: Email Sandbox Basic at $14/month billed yearly ($17 monthly); Email API/SMTP Basic is $15/month for 10,000 emails"
+paid_from:
+  price: "$14"
+  period: month
+  unit: flat
+  plan_name: Basic (Email Sandbox)
+verified_on: "2026-09-02"
+sources:
+  - https://mailtrap.io/pricing/
+referral: null

@@ -1,0 +1,29 @@
+slug: hetzner
+name: Hetzner Cloud
+category: compute
+website: https://www.hetzner.com/cloud
+tagline: Cloud VPS with hourly billing, monthly price caps and included traffic
+track_urls:
+  - https://www.hetzner.com/cloud/
+  - https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/
+free_tier:
+  status: none
+  plan_name: null
+  credit_card_required: null
+  limits: []
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Servers are billed hourly and the bill never exceeds the monthly price cap"
+    - "Cloud servers located in the EU include at least 20 TB of traffic"
+    - "hetzner.com/cloud renders prices only in its JavaScript calculator; CX23 price taken from the Hetzner docs price-adjustment table (Germany/Finland, effective 15 June 2026, excl. VAT and IPv4)"
+paid_from:
+  price: "€5.49"
+  period: month
+  unit: flat
+  plan_name: CX23
+verified_on: "2026-09-02"
+sources:
+  - https://www.hetzner.com/cloud/
+  - https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/
+referral: null

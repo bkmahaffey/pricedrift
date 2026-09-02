@@ -1,0 +1,29 @@
+slug: temporal-cloud
+name: Temporal Cloud
+category: backend
+website: https://temporal.io
+tagline: Managed Temporal workflow orchestration billed per action
+track_urls:
+  - https://temporal.io/pricing
+free_tier:
+  status: credits
+  plan_name: null
+  credit_card_required: true
+  limits:
+    - metric: Free credits
+      value: "$1,000"
+  trial_length: null
+  credit_amount: "$1,000"
+  notes:
+    - "FAQ states a credit card is required for the free trial"
+    - "Startup program offers $6,000 in credits to startups with less than $30M in funding"
+    - "Plans charge the greater of the monthly plan fee or 5%-10% of usage"
+paid_from:
+  price: "$100"
+  period: month
+  unit: flat
+  plan_name: Essentials
+verified_on: "2026-09-02"
+sources:
+  - https://temporal.io/pricing
+referral: null

@@ -1,0 +1,38 @@
+slug: bolt
+name: Bolt.new
+category: ai
+website: https://bolt.new
+tagline: AI agent that builds and deploys full-stack web apps from prompts
+track_urls:
+  - https://bolt.new/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Daily tokens
+      value: 300K tokens daily limit
+    - metric: Monthly tokens
+      value: 1M tokens per month
+    - metric: File upload
+      value: 10MB limit
+    - metric: Web requests
+      value: up to 333k
+    - metric: Projects
+      value: public and private projects
+    - metric: Databases
+      value: unlimited
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Bolt branding shown on hosted websites
+    - Unused tokens roll over only on paid subscriptions
+paid_from:
+  price: "$25"
+  period: month
+  unit: flat
+  plan_name: Pro
+verified_on: "2026-09-02"
+sources:
+  - https://bolt.new/pricing
+referral: null

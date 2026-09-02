@@ -1,0 +1,33 @@
+slug: digitalocean-app-platform
+name: DigitalOcean App Platform
+category: hosting
+website: https://www.digitalocean.com/products/app-platform
+tagline: Platform-as-a-service for static sites and containers on DigitalOcean
+track_urls:
+  - https://www.digitalocean.com/pricing/app-platform
+free_tier:
+  status: free
+  plan_name: Free Tier
+  credit_card_required: null
+  limits:
+    - metric: Static site apps
+      value: "3"
+      note: additional static-site-only apps $3.00/month each
+    - metric: Data transfer
+      value: 1 GiB per app per month
+      note: overage billed at $0.02 per GiB
+    - metric: Workload types
+      value: static sites only
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Container instances (services, workers, jobs) require the paid tier
+paid_from:
+  price: "$5.00"
+  period: month
+  unit: usage
+  plan_name: Shared (Fixed) container instance, 1 vCPU / 512 MiB
+verified_on: "2026-09-02"
+sources:
+  - https://www.digitalocean.com/pricing/app-platform
+referral: null

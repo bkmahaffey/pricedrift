@@ -1,0 +1,42 @@
+slug: pipedream
+name: Pipedream
+category: backend
+website: https://pipedream.com
+tagline: Integration platform for building event-driven workflows in code
+track_urls:
+  - https://pipedream.com/pricing
+  - https://pipedream.com/docs/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Credits
+      value: up to 100 credits/mo
+    - metric: AI tokens
+      value: 1M
+    - metric: Active workflows
+      value: "3"
+    - metric: Connected accounts
+      value: "3"
+    - metric: Workflow execution time
+      value: 300 seconds (5 min) per execution
+    - metric: Event history
+      value: 7 days
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Workflow testing in the builder is unlimited and does not consume credits
+    - Docs describe the free allowance as a daily limit of free credits that cannot be exceeded
+    - Pipedream Connect is available in development only on the Free plan
+paid_from:
+  price: "$29 per month ($348 billed annually)"
+  period: month
+  unit: flat
+  plan_name: Basic
+verified_on: "2026-09-02"
+sources:
+  - https://pipedream.com/pricing
+  - https://pipedream.com/docs/pricing
+  - https://pipedream.com/docs/workflows/limits
+referral: null

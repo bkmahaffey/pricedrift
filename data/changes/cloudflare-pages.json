@@ -1,0 +1,120 @@
+[
+  {
+    "id": "pages-cloudflare-com-20230201022935",
+    "url": "https://pages.cloudflare.com/",
+    "ts": "20230201022935",
+    "date": "2023-02-01",
+    "source": "wayback",
+    "prevTs": "20230107074330",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare Pages: 2 prices changed (removed “$ 20 / mo”; added “$ 25 / mo”)",
+    "pairs": [],
+    "added": [
+      "$ 25 / mo",
+      "$ 250 / mo"
+    ],
+    "removed": [
+      "$ 20 / mo",
+      "$ 200 / mo"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "pages-cloudflare-com-20230402025521",
+    "url": "https://pages.cloudflare.com/",
+    "ts": "20230402025521",
+    "date": "2023-04-02",
+    "source": "wayback",
+    "prevTs": "20230201022935",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare Pages: 3 prices changed (removed “$ 25 / mo”; added “$ 20 / mo billed annually”)",
+    "pairs": [],
+    "added": [
+      "$ 20 / mo billed annually",
+      "$ 25 / mo billed monthly",
+      "$ 200 / mo billed annually",
+      "$ 250 / mo billed monthly"
+    ],
+    "removed": [
+      "$ 25 / mo",
+      "$ 250 / mo"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 4,
+      "materialRemoved": 2,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "pages-cloudflare-com-20250504022718",
+    "url": "https://pages.cloudflare.com/",
+    "ts": "20250504022718",
+    "date": "2025-05-04",
+    "source": "wayback",
+    "prevTs": "20230402025521",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Pages: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "pages-cloudflare-com-20251001131259",
+    "url": "https://pages.cloudflare.com/",
+    "ts": "20251001131259",
+    "date": "2025-10-01",
+    "source": "wayback",
+    "prevTs": "20250504022718",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Pages: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  }
+]

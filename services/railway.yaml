@@ -1,0 +1,37 @@
+slug: railway
+name: Railway
+category: hosting
+website: https://railway.com
+tagline: App hosting platform with usage-based compute, databases and volumes
+track_urls:
+  - https://railway.com/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Monthly usage credits
+      value: "$1 per month"
+    - metric: Max per service
+      value: "1 vCPU / 0.5 GB"
+    - metric: Replicas
+      value: "1"
+    - metric: Log history
+      value: "3 days"
+    - metric: Free Trial credit
+      value: "$5 one-time credit (30 days)"
+      note: separate trial tier with 2 vCPU / 1 GB per service
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Free Trial credit expires in 30 days; no credit card required for the trial"
+    - "Usage beyond included credits is billed at $0.00000386 per GB/s memory and $0.00000772 per vCPU/s"
+paid_from:
+  price: "$5"
+  period: month
+  unit: flat
+  plan_name: Hobby
+verified_on: "2026-09-02"
+sources:
+  - https://railway.com/pricing
+referral: null

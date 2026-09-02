@@ -1,0 +1,36 @@
+slug: openrouter
+name: OpenRouter
+category: ai
+website: https://openrouter.ai
+tagline: Unified API gateway for many LLM providers with passthrough pricing
+track_urls:
+  - https://openrouter.ai/docs/api-reference/limits
+  - https://openrouter.ai/docs/faq
+free_tier:
+  status: free
+  plan_name: Free models
+  credit_card_required: null
+  limits:
+    - metric: Free model requests per minute
+      value: "20"
+    - metric: Free model requests per day
+      value: "50"
+      note: 1000 requests per day after purchasing at least $10 in credits
+    - metric: Platform-level request cap on paid models
+      value: none
+  trial_length: null
+  credit_amount: null
+  notes:
+    - All new users receive a small free allowance to test OpenRouter; amount not stated
+    - A negative balance returns 402 errors even on free models
+    - Free models are described as usually not suitable for production use
+paid_from:
+  price: "5.5% fee on credit purchases ($0.80 minimum), no markup on inference"
+  period: usage
+  unit: usage
+  plan_name: null
+verified_on: "2026-09-02"
+sources:
+  - https://openrouter.ai/docs/api-reference/limits
+  - https://openrouter.ai/docs/faq
+referral: null

@@ -1,0 +1,29 @@
+slug: openai
+name: OpenAI API
+category: ai
+website: https://openai.com/api/
+tagline: Token-priced API access to GPT and reasoning models
+track_urls:
+  - https://developers.openai.com/api/docs/pricing
+  - https://developers.openai.com/api/docs/guides/rate-limits
+free_tier:
+  status: none
+  plan_name: null
+  credit_card_required: null
+  limits: []
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Pricing page lists no free credits, trial or free tier for the API
+    - Rate-limits docs list a "Free" usage tier restricted to allowed geographies with a $100 / month usage limit; Tier 1 requires $5 paid
+    - openai.com/api/pricing returned HTTP 403 to automated access on 2026-09-02; tracking the docs pricing page instead
+paid_from:
+  price: "$0.05 per 1M input tokens / $0.40 per 1M output tokens (gpt-5-nano)"
+  period: usage
+  unit: usage
+  plan_name: null
+verified_on: "2026-09-02"
+sources:
+  - https://developers.openai.com/api/docs/pricing
+  - https://developers.openai.com/api/docs/guides/rate-limits
+referral: null

@@ -1,0 +1,41 @@
+slug: google-cloud-run
+name: Google Cloud Run
+category: hosting
+website: https://cloud.google.com/run
+tagline: Serverless container platform billed per request and per second
+track_urls:
+  - https://cloud.google.com/run/pricing
+  - https://docs.cloud.google.com/free/docs/free-cloud-features
+free_tier:
+  status: free
+  plan_name: Free tier
+  credit_card_required: null
+  limits:
+    - metric: Requests
+      value: "2 million requests free per month"
+    - metric: CPU (request-based billing)
+      value: "First 180,000 vCPU-seconds free per month"
+    - metric: Memory (request-based billing)
+      value: "First 360,000 GiB-seconds free per month"
+    - metric: CPU (instance-based billing)
+      value: "First 240,000 vCPU-seconds free per month"
+    - metric: Memory (instance-based billing)
+      value: "First 450,000 GiB-seconds free per month"
+    - metric: Outbound data transfer
+      value: "1 GiB free within North America per month"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Free tier is aggregated across projects by billing account and resets every month"
+    - "A Google Cloud billing account is required to access the Free Tier"
+    - "New accounts also get $300 in credits to spend over 90 days"
+paid_from:
+  price: "$0.40 per 1,000,000 requests"
+  period: usage
+  unit: usage
+  plan_name: null
+verified_on: "2026-09-02"
+sources:
+  - https://cloud.google.com/run/pricing
+  - https://docs.cloud.google.com/free/docs/free-cloud-features
+referral: null

@@ -1,0 +1,43 @@
+slug: datocms
+name: DatoCMS
+category: cms
+website: https://www.datocms.com
+tagline: Headless CMS with GraphQL API, assets and video streaming
+track_urls:
+  - https://www.datocms.com/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: false
+  limits:
+    - metric: Projects
+      value: "3"
+    - metric: Collaborators
+      value: "1"
+    - metric: Records
+      value: "300"
+    - metric: Models
+      value: "100"
+    - metric: Locales
+      value: "5"
+    - metric: Bandwidth
+      value: 10GB/mo
+    - metric: CDA API calls
+      value: 100k/mo
+    - metric: File storage
+      value: 200MB
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "In the Free plan, you can't go over the allowed monthly limits; the service stops responding if limits are exceeded"
+    - "History retention is 3 days on Free"
+    - "A two-week free trial of paid plans is available on request"
+paid_from:
+  price: "€149 (billed annually)"
+  period: month
+  unit: flat
+  plan_name: Professional
+verified_on: "2026-09-02"
+sources:
+  - https://www.datocms.com/pricing
+referral: null

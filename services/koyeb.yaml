@@ -1,0 +1,40 @@
+slug: koyeb
+name: Koyeb
+category: hosting
+website: https://www.koyeb.com
+tagline: Serverless platform for deploying apps, APIs and GPU workloads
+track_urls:
+  - https://www.koyeb.com/pricing
+  - https://www.koyeb.com/docs/faqs/pricing
+free_tier:
+  status: free
+  plan_name: Hobby
+  credit_card_required: true
+  limits:
+    - metric: Free web services
+      value: "1"
+      note: 0.1 vCPU, 512MB RAM, 2GB SSD; Frankfurt or Washington, D.C. only
+    - metric: Free PostgreSQL database
+      value: "1"
+      note: limited to 5 hours of active time and 1GB of storage
+    - metric: Outbound bandwidth
+      value: 100GB per month
+    - metric: Scale to zero
+      value: after 1 hour without traffic
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Free instances cannot be used as Worker Services, with Volumes, or with custom scaling
+    - Credit card required for account validation
+    - Pro plan is $29/mo with $10 included compute; Scale is $299/mo with $100 included
+paid_from:
+  price: "$1.61"
+  period: month
+  unit: usage
+  plan_name: Starter (eco-nano instance)
+verified_on: "2026-09-02"
+sources:
+  - https://www.koyeb.com/pricing
+  - https://www.koyeb.com/docs/faqs/pricing
+  - https://www.koyeb.com/docs/reference/instances
+referral: null

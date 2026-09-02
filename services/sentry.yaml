@@ -1,0 +1,41 @@
+slug: sentry
+name: Sentry
+category: observability
+website: https://sentry.io
+tagline: Error tracking, tracing and session replay for applications
+track_urls:
+  - https://sentry.io/pricing/
+free_tier:
+  status: free
+  plan_name: Developer
+  credit_card_required: null
+  limits:
+    - metric: Errors
+      value: "5k errors"
+    - metric: Users
+      value: "One user"
+    - metric: Spans
+      value: "5M spans"
+    - metric: Replays
+      value: "50 replays"
+    - metric: Attachments
+      value: "1GB"
+    - metric: Cron monitors
+      value: "1 cron monitor"
+    - metric: Uptime monitors
+      value: "1 uptime monitor"
+    - metric: Data retention
+      value: "30-day lookback"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Limited to one user"
+paid_from:
+  price: "$26"
+  period: month
+  unit: flat
+  plan_name: Team
+verified_on: "2026-09-02"
+sources:
+  - https://sentry.io/pricing/
+referral: null

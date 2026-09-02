@@ -1,0 +1,36 @@
+slug: mongodb-atlas
+name: MongoDB Atlas
+category: databases
+website: https://www.mongodb.com/atlas
+tagline: Managed MongoDB with shared free, Flex and dedicated clusters
+track_urls:
+  - https://www.mongodb.com/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Storage
+      value: "512MB"
+    - metric: RAM
+      value: "Shared"
+    - metric: vCPU
+      value: "Shared"
+    - metric: Operations
+      value: "up to 100 operations per second"
+    - metric: Sort memory
+      value: "32MB"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Free forever"
+    - "Flex clusters cost between $8 and $30 for a month's usage"
+paid_from:
+  price: "$0.011 per hour"
+  period: usage
+  unit: usage
+  plan_name: Flex
+verified_on: "2026-09-02"
+sources:
+  - https://www.mongodb.com/pricing
+referral: null

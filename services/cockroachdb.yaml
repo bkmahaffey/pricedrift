@@ -1,0 +1,36 @@
+slug: cockroachdb
+name: CockroachDB Cloud
+category: databases
+website: https://www.cockroachlabs.com
+tagline: Distributed SQL database as a managed cloud service
+track_urls:
+  - https://www.cockroachlabs.com/pricing/
+free_tier:
+  status: free
+  plan_name: Basic
+  credit_card_required: false
+  limits:
+    - metric: Request units
+      value: 50 million RUs free per month
+    - metric: Storage
+      value: 10 GiB free per month
+      note: up to 3 TiB on Basic
+    - metric: Availability
+      value: 99.99%
+    - metric: Multi-region
+      value: AWS and GCP, select regions
+  trial_length: null
+  credit_amount: null
+  notes:
+    - No credit card required for Basic and Standard plans
+    - Page shows "Try free with $400 in credits" without stating eligibility or duration
+    - Per-unit RU and storage overage prices for Basic are not stated on the page
+paid_from:
+  price: "$0.18 per hour"
+  period: usage
+  unit: usage
+  plan_name: Standard (2 vCPUs)
+verified_on: "2026-09-02"
+sources:
+  - https://www.cockroachlabs.com/pricing/
+referral: null

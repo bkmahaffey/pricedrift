@@ -1,0 +1,37 @@
+slug: docker
+name: Docker
+category: cicd
+website: https://www.docker.com
+tagline: Container tooling, Docker Hub registry and Build Cloud
+track_urls:
+  - https://www.docker.com/pricing/
+free_tier:
+  status: free
+  plan_name: Personal
+  credit_card_required: null
+  limits:
+    - metric: Docker Hub image pulls
+      value: 100 per hour
+      note: when logged in, subject to reasonable use
+    - metric: Private repositories
+      value: "1"
+    - metric: Docker Scout-enabled repos
+      value: "1"
+    - metric: Build Cloud minutes
+      value: free trial only
+    - metric: Testcontainers Cloud minutes
+      value: free trial only
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Pro is $9/user/month billed annually or $11/user/month billed monthly
+    - Pro includes 200 Build Cloud minutes and 100 Testcontainers Cloud minutes per month
+paid_from:
+  price: "$9"
+  period: month
+  unit: per user
+  plan_name: Pro
+verified_on: "2026-09-02"
+sources:
+  - https://www.docker.com/pricing/
+referral: null

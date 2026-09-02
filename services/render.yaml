@@ -1,0 +1,48 @@
+slug: render
+name: Render
+category: hosting
+website: https://render.com
+tagline: Cloud platform for web services, static sites, cron jobs and databases
+track_urls:
+  - https://render.com/pricing
+  - https://render.com/docs/free
+free_tier:
+  status: free
+  plan_name: Hobby
+  credit_card_required: null
+  limits:
+    - metric: Free instance hours
+      value: 750 Free instance hours per workspace per calendar month
+    - metric: Free instance size
+      value: 512 MB RAM
+    - metric: Idle spin-down
+      value: Free web services spin down after 15 minutes without inbound traffic
+    - metric: Bandwidth
+      value: 5 GB included per month
+      note: $0.15 for each additional GB
+    - metric: Build pipeline minutes
+      value: 500 per month
+    - metric: Free Postgres
+      value: 256 MB RAM, 100 connections, 1 GB storage
+      note: only one Free Postgres database can be active per workspace
+    - metric: Free Key Value
+      value: 25 MB RAM, 50 connections
+    - metric: Team members
+      value: "1"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Free Postgres databases expire 30 days after creation, with 14 days to upgrade before deletion
+    - Changes to a Free web service's filesystem are lost on every redeploy, restart, or spin down
+    - Without a payment method on file, Render suspends all Free services when included bandwidth or build minutes are exceeded
+paid_from:
+  price: "$7"
+  period: month
+  unit: usage
+  plan_name: 0.5c-512mb service instance (512 MB RAM, less than 1 CPU) on the free Hobby workspace
+verified_on: "2026-09-02"
+sources:
+  - https://render.com/pricing
+  - https://render.com/docs/free
+  - https://render.com/docs/new-workspace-plans
+referral: null

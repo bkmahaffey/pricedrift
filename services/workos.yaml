@@ -1,0 +1,35 @@
+slug: workos
+name: WorkOS
+category: auth
+website: https://workos.com
+tagline: Enterprise auth APIs for user management, SSO and directory sync
+track_urls:
+  - https://workos.com/pricing
+free_tier:
+  status: free
+  plan_name: AuthKit (User Management)
+  credit_card_required: false
+  limits:
+    - metric: Monthly active users
+      value: first 1 million users free
+      note: per additional 1M users $2,500 / mo
+    - metric: Radar bot and fraud checks
+      value: first 1,000 checks free
+    - metric: Staging environments
+      value: free
+      note: only production environments are billed
+  trial_length: null
+  credit_amount: null
+  notes:
+    - No credit card needed until you are ready to move to production
+    - Custom domain add-on is $99/mo
+    - SSO and Directory Sync pricing table reads "$125/ea" per connection (1-15 connections) without an explicit billing period on the row
+paid_from:
+  price: "$125 per connection"
+  period: null
+  unit: usage
+  plan_name: Single Sign-On (1-15 connections)
+verified_on: "2026-09-02"
+sources:
+  - https://workos.com/pricing
+referral: null

@@ -1,0 +1,37 @@
+slug: polar
+name: Polar
+category: backend
+website: https://polar.sh
+tagline: Merchant-of-record billing platform for software products
+track_urls:
+  - https://polar.sh/resources/pricing
+free_tier:
+  status: free
+  plan_name: Starter
+  credit_card_required: null
+  limits:
+    - metric: Monthly fee
+      value: "Free"
+    - metric: Transaction fee
+      value: "5% + 50¢"
+    - metric: International cards
+      value: "+1.5%"
+    - metric: Dispute fee
+      value: "$15 per dispute"
+    - metric: Payout fees (Stripe)
+      value: "$2 per month of active payouts + 0.25% + $0.25 per payout"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Organizations created before May 27, 2026 keep the Early Member rate of 4% + 40¢ (+0.5% on subscriptions)"
+    - "Polar acts as Merchant of Record and handles international tax compliance"
+paid_from:
+  price: "$20"
+  period: month
+  unit: flat
+  plan_name: Pro
+verified_on: "2026-09-02"
+sources:
+  - https://polar.sh/resources/pricing
+  - https://polar.sh/docs/merchant-of-record/fees
+referral: null

@@ -1,0 +1,37 @@
+slug: cloudflare-zero-trust
+name: Cloudflare Zero Trust
+category: tools
+website: https://www.cloudflare.com/zero-trust/
+tagline: Zero trust network access, secure web gateway and tunnels
+track_urls:
+  - https://www.cloudflare.com/plans/zero-trust-services/
+  - https://www.cloudflare.com/sase/products/access/
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Users
+      value: 50 user limit
+    - metric: Log retention
+      value: up to 24 hours
+    - metric: Access applications
+      value: "500"
+    - metric: DEX tests
+      value: "10"
+    - metric: Application connector and device client
+      value: included
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Plans page renders plan cards with JavaScript; limits taken from the Access product page and Cloudflare One account-limits docs
+paid_from:
+  price: "$7 per user/month (paid annually)"
+  period: month
+  unit: per user
+  plan_name: Pay-as-you-go
+verified_on: "2026-09-02"
+sources:
+  - https://www.cloudflare.com/sase/products/access/
+  - https://developers.cloudflare.com/cloudflare-one/account-limits/
+referral: null

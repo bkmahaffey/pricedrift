@@ -1,0 +1,33 @@
+slug: amazon-q-developer
+name: Amazon Q Developer
+category: ai
+website: https://aws.amazon.com/q/developer/
+tagline: AWS AI coding assistant with agents and code transformation
+track_urls:
+  - https://aws.amazon.com/q/developer/pricing/
+free_tier:
+  status: free
+  plan_name: Free Tier
+  credit_card_required: null
+  limits:
+    - metric: Agentic requests
+      value: 50 per month
+    - metric: Code transformation (Java upgrades)
+      value: 1,000 lines of code per month
+    - metric: Admin dashboard
+      value: not included
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Available to AWS IAM users or AWS Builder ID users
+    - Limits may be adjusted based on regional factors, payment history, or quota requests
+    - Pro extra transformation lines cost $.003 per line of code submitted
+paid_from:
+  price: "$19"
+  period: month
+  unit: per user
+  plan_name: Pro Tier
+verified_on: "2026-09-02"
+sources:
+  - https://aws.amazon.com/q/developer/pricing/
+referral: null

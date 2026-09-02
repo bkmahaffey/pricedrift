@@ -1,0 +1,33 @@
+slug: cloudinary
+name: Cloudinary
+category: storage
+website: https://cloudinary.com
+tagline: Image and video storage, transformation and delivery API
+track_urls:
+  - https://cloudinary.com/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: false
+  limits:
+    - metric: Credits
+      value: 25 monthly credits
+      note: 1 credit = 1,000 transformations or 1GB managed storage or 1GB image bandwidth
+    - metric: Users
+      value: "3"
+    - metric: Accounts
+      value: "1"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Free forever, no credit card required"
+    - "2GB video bandwidth per credit applies to paid plans only"
+paid_from:
+  price: "$89 (billed yearly)"
+  period: month
+  unit: flat
+  plan_name: Plus
+verified_on: "2026-09-02"
+sources:
+  - https://cloudinary.com/pricing
+referral: null

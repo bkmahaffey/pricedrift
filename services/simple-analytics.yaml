@@ -1,0 +1,36 @@
+slug: simple-analytics
+name: Simple Analytics
+category: analytics
+website: https://www.simpleanalytics.com
+tagline: Privacy-friendly, cookieless web analytics
+track_urls:
+  - https://www.simpleanalytics.com/pricing
+free_tier:
+  status: free
+  plan_name: Free forever
+  credit_card_required: null
+  limits:
+    - metric: Websites
+      value: "5"
+    - metric: Users
+      value: "1"
+    - metric: Data history
+      value: 30 days
+    - metric: Pageviews
+      value: unlimited
+    - metric: Badge
+      value: Badge required
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "14-day free trial of all features, no credit card required"
+    - "Paid plan includes 1 user, +$20/mo per extra user; annual billing gives 2 months free"
+paid_from:
+  price: "$20"
+  period: month
+  unit: flat
+  plan_name: null
+verified_on: "2026-09-02"
+sources:
+  - https://www.simpleanalytics.com/pricing
+referral: null

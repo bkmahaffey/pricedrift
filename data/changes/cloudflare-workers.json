@@ -1,0 +1,833 @@
+[
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20230212091736",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20230212091736",
+    "date": "2023-02-12",
+    "source": "wayback",
+    "prevTs": "20230109083005",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Workers: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 18,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20230301141117",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20230301141117",
+    "date": "2023-03-01",
+    "source": "wayback",
+    "prevTs": "20230212091736",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Workers: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20230402125235",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20230402125235",
+    "date": "2023-04-02",
+    "source": "wayback",
+    "prevTs": "20230301141117",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Workers: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 8,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20230509005840",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20230509005840",
+    "date": "2023-05-09",
+    "source": "wayback",
+    "prevTs": "20230402125235",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Workers: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20230603182111",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20230603182111",
+    "date": "2023-06-03",
+    "source": "wayback",
+    "prevTs": "20230509005840",
+    "kind": "price",
+    "score": 15,
+    "counts": {
+      "price": 2,
+      "limit": 4,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Cloudflare Workers: 2 prices, 4 limits, 1 plan name changed (added “D1 is available on both the Workers Free”)",
+    "pairs": [],
+    "added": [
+      "D1 is available on both the Workers Free",
+      "maximum database size to 100 MB and allows a total of 10 databases across all Workers plans",
+      "Workers Free",
+      "Read units (per 4KB scanned)",
+      "First 25 billion / month included + $0.001 / million units",
+      "Write units (per 1KB written)",
+      "100,000 / day",
+      "First 50 million / month included + $1.00 / million units",
+      "1GB (total)",
+      "First 5GB included + $0.75 / GB-mo",
+      "Read units measure how much data a query reads (scans), in units of 4 KB. For example, if you have a table with 5000 rows, with each row ~200 bytes, and run a SELECT * FROM table, your query would scan (5000 rows * 0.2KB / 4KB read unit) 1000 KB in total, or 250 read units.",
+      "Write units measure how much data was written to a D1 database, in 1KB units. An INSERT of a single row of 1900 bytes — a userID, name, email address and comments field, for example — would count as two (2) write units (2KB).",
+      "Both read and write units are rounded up to the nearest whole unit. A query that reads 1,000 rows of approximately 90 bytes ( 1000*.009 / 4), would consume 23 read units."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 14,
+      "added": 67,
+      "materialRemoved": 0,
+      "materialAdded": 13
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20230701155933",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20230701155933",
+    "date": "2023-07-01",
+    "source": "wayback",
+    "prevTs": "20230603182111",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Workers: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 10,
+      "added": 13,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20230820103116",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20230820103116",
+    "date": "2023-08-20",
+    "source": "wayback",
+    "prevTs": "20230701155933",
+    "kind": "limits",
+    "score": 10,
+    "counts": {
+      "price": 0,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare Workers: 5 limits changed (100MB → 500MB)",
+    "pairs": [
+      {
+        "before": "maximum database size to 100 MB and allows a total of 10 databases across all Workers plans",
+        "after": "maximum database size to 500 MB and allows a total of 10 databases across all Workers plans",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100MB",
+            "after": "500MB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Rows read measure how many rows a query reads (scans), regardless of the size of each row. For example, if you have a table with 5000 rows and run a SELECT * FROM table as a full table scan, this would count as 5,000 rows read. A query that filters on an unindexed column",
+      "Rows written measure how many rows were written to D1 database. A query that INSERT 10 rows into a users table would count as 10 rows written.",
+      "Row size or the number of columns in a row does not impact how rows are counted. A row that is 1 KB and a row that is 100 KB both count as one row."
+    ],
+    "removed": [
+      "Read units (per 4KB scanned)",
+      "Write units (per 1KB written)",
+      "Read units measure how much data a query reads (scans), in units of 4 KB. For example, if you have a table with 5000 rows, with each row ~200 bytes, and run a SELECT * FROM table, your query would scan (5000 rows * 0.2KB / 4KB read unit) 1000 KB in total, or 250 read units.",
+      "Write units measure how much data was written to a D1 database, in 1KB units. An INSERT of a single row of 1900 bytes — a userID, name, email address and comments field, for example — would count as two (2) write units (2KB).",
+      "Both read and write units are rounded up to the nearest whole unit. A query that reads 1,000 rows of approximately 90 bytes ( 1000*.009 / 4), would consume 23 read units."
+    ],
+    "totals": {
+      "removed": 64,
+      "added": 79,
+      "materialRemoved": 8,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20231002221047",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20231002221047",
+    "date": "2023-10-02",
+    "source": "wayback",
+    "prevTs": "20230820103116",
+    "kind": "price",
+    "score": 117,
+    "counts": {
+      "price": 24,
+      "limit": 19,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Cloudflare Workers: 24 prices, 19 limits, 4 plan names changed (1,2 → 3,4)",
+    "pairs": [
+      {
+        "before": "400,000 GB-s, + $12.50/million GB-s 1,2",
+        "after": "400,000 GB-s, + $12.50/million GB-s 3,4",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1,2",
+            "after": "3,4"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free",
+      "100,000 per day",
+      "+$0.50 per additional million",
+      "+$0.15 per additional million",
+      "400,000 GB-s included per month",
+      "+$12.50 per additional million GB-s",
+      "15 minutes of CPU time per Cron Trigger",
+      "The Bundled Usage Model is billed exclusively based on the number of incoming requests to your Worker, and has a limit of 50 ms of CPU time per invocation.",
+      "+$0.50 per additional million",
+      "$5",
+      "$45",
+      "(100,000,000 requests - 10,000,000 included requests) / 1,000,000 * $0.50",
+      "$50",
+      "+$0.15 per additional million",
+      "400,000 GB-s included per month",
+      "+$12.50 per additional million GB-s 1, 2",
+      "15 minutes of CPU time per Cron Trigger",
+      "0.025 gigabyte seconds (GB-s) per request (0.2 seconds * 128 MB / 1024 MB)",
+      "2,500,000 gigabyte seconds (GB-s) per month (0.025 GB-s per request * 100,000,000 requests)",
+      "$5.00",
+      "$14.85",
+      "(100,000,000 requests - 1,000,000 included requests) / 1,000,000 * $0.15",
+      "$26.25",
+      "(2,500,000 GB-s per month - 400,000 included GB-s) / 1,000,000 * $12.50",
+      "$46.10",
+      "+$0.30 per additional million",
+      "+$0.02 per additional million CPU milliseconds",
+      "Max of 15 minutes of CPU time per Cron Trigger",
+      "$5.00",
+      "$27.00",
+      "(100,000,000 requests - 10,000,000 included requests) / 1,000,000 * $0.30",
+      "$13.40",
+      "(7 ms of CPU time per request * 100,000,000 requests - 30,000,000 included CPU ms) / 1,000,000 * $0.02",
+      "$45.40",
+      "An operation is counted for each 64 KB of data that is written, read, or deleted.",
+      "Messages larger than 64 KB are charged as if they were multiple messages: for example, a 65 KB message and a 127 KB message would both incur two operation charges when written, read, or deleted.",
+      "Operations are per message, not per batch. A batch of 10 messages (the default batch size), if processed, would incur 10x write, 10x read, and 10x delete operations: one for each message in the batch.",
+      "Free Tier",
+      "1,000,000 operations / month",
+      "$0.40 / million operations"
+    ],
+    "removed": [
+      "Free plan",
+      "100,000 / day",
+      "10 million / month, +$0.50/million",
+      "1 million / month, + $0.15/million",
+      "10 ms CPU time / invocation",
+      "50 ms CPU time / invocation",
+      "400,000 GB-s, + $12.50/million GB-s 2,3",
+      "Total = ~$0.08 USD + Minimum $5/mo usage = $5.08",
+      "(1.5 million requests - included 1 million requests) x $0.15 / 1,000,000 = $0.075",
+      "(200,000 seconds) * 128 MB / 1 GB = 25,000 GB-seconds",
+      "(25,000 GB-s - included 400,000 GB-s) x $12.50 / 1,000,000 = $0.00",
+      "Total = ~$6.35 + Minimum $5/mo usage = $11.35",
+      "(10 million requests - included 1 million requests) x $0.15 / 1,000,000 requests = $1.35",
+      "(6,400,000 seconds) * 128 MB / 1 GB = 800,000 GB-seconds",
+      "(800,000 GB-s - included 400,000 GB-s) x $12.50 / 1,000,000 GB-s = $5.00",
+      "maximum database size to 500 MB and allows a total of 10 databases across all Workers plans",
+      "1GB (total)",
+      "Total = ~$0.08 USD + Minimum $5/mo usage = $5.08",
+      "(1.5 million requests - included 1 million requests) x $0.15 / 1,000,000 = $0.075",
+      "1,000,000 seconds * 128 MB / 1 GB = 128,000 GB-s",
+      "(128,000 GB-s - included 400,000 GB-s) x $12.50 / 1,000,000 = $0.00",
+      "Total = ~$64.65 USD + $202.36 USD + Minimum $5/mo usage = $272.01",
+      "100 requests to establish the WebSockets.",
+      "100 messages per minute * 100 Durable Objects * 60 minutes * 24 hours * 30 days = 432,000,000 requests",
+      "(432 million requests - included 1 million requests) x $0.15 / 1,000,000 = $64.65",
+      "100 Durable Objects * 60 seconds * 60 minutes * 24 hours * 30 days / 2 = 129,600,000 seconds",
+      "129,600,000 seconds * 128 MB / 1 GB = 16,588,800 GB-s",
+      "(16,588,800 GB-s - included 400,000 GB-s) x $12.50 / 1,000,000 = $202.36",
+      "Total = ~$38.73 USD + $409.72 USD + Minimum $5/mo usage = $453.45",
+      "100 requests to establish the WebSockets.",
+      "1 message per second * 100 connections * 60 seconds * 60 minutes * 24 hours * 30 days = 259,200,000 requests",
+      "(259.2 million requests - included 1 million requests) x $0.15 / 1,000,000 = $38.73",
+      "100 Durable Objects * 60 seconds * 60 minutes * 24 hours * 30 days = 259,200,000 seconds",
+      "259,200,000 seconds * 128 MB / 1 GB = 33,177,600 GB-s",
+      "(33,177,600 GB-s - included 400,000 GB-s) x $12.50 / 1,000,000 = $409.72"
+    ],
+    "totals": {
+      "removed": 96,
+      "added": 200,
+      "materialRemoved": 40,
+      "materialAdded": 58
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20231114080024",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20231114080024",
+    "date": "2023-11-14",
+    "source": "wayback",
+    "prevTs": "20231002221047",
+    "kind": "price",
+    "score": 25,
+    "counts": {
+      "price": 7,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare Workers: 7 prices, 3 limits changed (∅ → 2,; $0.50 → $0.30)",
+    "pairs": [
+      {
+        "before": "+$12.50 per additional million GB-s",
+        "after": "+$12.50 per additional million GB-s 2, 3",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "2,"
+          }
+        ]
+      },
+      {
+        "before": "+$0.50 per additional million",
+        "after": "+$0.30 per additional million",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.50",
+            "after": "$0.30"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$5.00",
+      "$27.00",
+      "$13.40",
+      "$45.40"
+    ],
+    "removed": [
+      "The Bundled Usage Model is billed exclusively based on the number of incoming requests to your Worker, and has a limit of 50 ms of CPU time per invocation.",
+      "+$0.15 per additional million",
+      "400,000 GB-s included per month",
+      "+$12.50 per additional million GB-s 1, 2",
+      "15 minutes of CPU time per Cron Trigger",
+      "+$0.30 per additional million",
+      "$5.00",
+      "$27.00",
+      "$13.40",
+      "$45.40"
+    ],
+    "totals": {
+      "removed": 101,
+      "added": 86,
+      "materialRemoved": 17,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20231208180209",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20231208180209",
+    "date": "2023-12-08",
+    "source": "wayback",
+    "prevTs": "20231114080024",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Workers: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Workers KV is included in both the Free and Paid Workers plans"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 7,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20240105220841",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20240105220841",
+    "date": "2024-01-05",
+    "source": "wayback",
+    "prevTs": "20231208180209",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Workers: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 20,
+      "added": 22,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20240303153727",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20240303153727",
+    "date": "2024-03-03",
+    "source": "wayback",
+    "prevTs": "20240105220841",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Workers: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "If you had a Worker on the Bundled usage model prior to the migration to Standard pricing on March 1, 2024, Cloudflare has automatically added a 50 ms CPU limit on your Worker."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 26,
+      "added": 33,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20240409031550",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20240409031550",
+    "date": "2024-04-09",
+    "source": "wayback",
+    "prevTs": "20240303153727",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare Workers: 2 limits changed (3,4 → 4,5)",
+    "pairs": [
+      {
+        "before": "400,000 GB-s, + $12.50/million GB-s 3,4",
+        "after": "400,000 GB-s, + $12.50/million GB-s 4,5",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "3,4",
+            "after": "4,5"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "1 Requests include all incoming HTTP requests, WebSocket messages, and alarm invocations. There is no charge for outgoing WebSocket messages, nor for incoming WebSocket protocol pings Open external link"
+    ],
+    "totals": {
+      "removed": 17,
+      "added": 83,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20240505211455",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20240505211455",
+    "date": "2024-05-05",
+    "source": "wayback",
+    "prevTs": "20240409031550",
+    "kind": "price",
+    "score": 19,
+    "counts": {
+      "price": 6,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare Workers: 6 prices, 1 limit changed (added “$1.50”)",
+    "pairs": [],
+    "added": [
+      "$1.50",
+      "(15,000,000 requests - 10,000,000 included requests) / 1,000,000 * $0.30",
+      "$1.50",
+      "((7 ms of CPU time per request * 15,000,000 requests) - 30,000,000 included CPU ms) / 1,000,000 * $0.02",
+      "$8.00",
+      "720 requests/month",
+      "3 minutes (180,000ms) of CPU time per request",
+      "$5.00",
+      "$0.00",
+      "$1.99",
+      "((180,000 ms of CPU time per request * 720 requests) - 30,000,000 included CPU ms) / 1,000,000 * $0.02",
+      "$6.99",
+      "$5.00"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 39,
+      "materialRemoved": 1,
+      "materialAdded": 14
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20240608160048",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20240608160048",
+    "date": "2024-06-08",
+    "source": "wayback",
+    "prevTs": "20240505211455",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Workers: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 13,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20240706053753",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20240706053753",
+    "date": "2024-07-06",
+    "source": "wayback",
+    "prevTs": "20240608160048",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Cloudflare Workers: 1 price, 1 limit, 1 plan name changed (removed “1,000,000 operations / month”; added “1,000,000 operations/month included + $0.40/m…”)",
+    "pairs": [],
+    "added": [
+      "1,000,000 operations/month included + $0.40/million operations"
+    ],
+    "removed": [
+      "Free Tier",
+      "1,000,000 operations / month",
+      "$0.40 / million operations"
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 7,
+      "materialRemoved": 3,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20240807121616",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20240807121616",
+    "date": "2024-08-07",
+    "source": "wayback",
+    "prevTs": "20240706053753",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Workers: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20240901205008",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20240901205008",
+    "date": "2024-09-01",
+    "source": "wayback",
+    "prevTs": "20240807121616",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cloudflare Workers: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 262,
+      "added": 22,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-pricing-20241006022049",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "ts": "20241006022049",
+    "date": "2024-10-06",
+    "source": "wayback",
+    "prevTs": "20240901205008",
+    "kind": "price",
+    "score": 56,
+    "counts": {
+      "price": 15,
+      "limit": 5,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Cloudflare Workers: 15 prices, 5 limits, 1 plan name changed ($0.040 → $0.01; $0.040 → $0.05)",
+    "pairs": [
+      {
+        "before": "First 50 million queried vector dimensions / month included + $0.040 per million",
+        "after": "First 50 million queried vector dimensions / month included + $0.01 per million",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.040",
+            "after": "$0.01"
+          }
+        ]
+      },
+      {
+        "before": "First 10 million stored vector dimensions + $0.040 per million",
+        "after": "First 10 million stored vector dimensions + $0.05 per 100 million",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.040",
+            "after": "$0.05"
+          },
+          {
+            "before": null,
+            "after": "100"
+          }
+        ]
+      },
+      {
+        "before": "To calculate your potential usage, calculate the sum of your stored + queried vectors, multiply by the dimension size, and multiply by the unit price (divided by 1 million). The formula is defined as (stored vectors + queried vectors) * dimensions * ($0.040 / 1000000)",
+        "after": "To calculate your potential usage, calculate the sum of your stored + queried vectors, multiply by the dimension size, and multiply by the unit price. The formula is defined as (queried vectors * dimensions * ($0.01 / 1000000) + (stored vectors + dimensions * ($0.05 / 100000000)",
+        "confidence": 0.9,
+        "deltas": [
+          {
+            "before": "1",
+            "after": "$0.01"
+          },
+          {
+            "before": "$0.040",
+            "after": "1000000"
+          },
+          {
+            "before": "1000000",
+            "after": "$0.05"
+          },
+          {
+            "before": null,
+            "after": "100000000"
+          }
+        ]
+      },
+      {
+        "before": "Separately, and excluding the included monthly allocation, this would be calculated as (30,000+10,000) * 768 * ($0.040 / 1,000,000) and sum to $1.23 per month.",
+        "after": "Separately, and excluding the included monthly allocation, this would be calculated as (30,000 * 768 * ($0.01 / 1,000,000) + (10,000 * 768 * ($0.05 / 100,000,000) and sum to $0.23 per month.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10,000",
+            "after": "768"
+          },
+          {
+            "before": "768",
+            "after": "$0.01"
+          },
+          {
+            "before": "$0.040",
+            "after": "1,000,000"
+          },
+          {
+            "before": "1,000,000",
+            "after": "10,000"
+          },
+          {
+            "before": "$1.23",
+            "after": "768"
+          },
+          {
+            "before": null,
+            "after": "$0.05"
+          },
+          {
+            "before": null,
+            "after": "100,000,000"
+          },
+          {
+            "before": null,
+            "after": "$0.23"
+          }
+        ]
+      },
+      {
+        "before": "+$0.50 per additional million",
+        "after": "+$0.60 per additional million",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.50",
+            "after": "$0.60"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "2 Requests to static assets are free and unlimited.",
+      "Requests to static assets are free and unlimited. This project would have the following estimated costs:",
+      "$5.00",
+      "$0",
+      "$0",
+      "$0",
+      "$5.00",
+      "Workers Logs is included in both the Free and Paid Workers plans",
+      "Workers Free",
+      "200,000 per day",
+      "7 Days",
+      "7 Days",
+      "First 25 billion / month included + $0.001 / million rows",
+      "First 50 million / month included + $1.00 / million rows",
+      "5 GB-month, + $0.20/ GB-month",
+      "1 Rows read and rows written included limits and rates match D1, Cloudflare’s serverless SQL database, pricing"
+    ],
+    "removed": [
+      "+$0.15 per additional million",
+      "400,000 GB-s included per month",
+      "+$12.50 per additional million GB-s 2, 3",
+      "15 minutes of CPU time per Cron Trigger",
+      "$5",
+      "$45",
+      "(100,000,000 requests - 10,000,000 included requests) / 1,000,000 * $0.50",
+      "$50",
+      "0.025 gigabyte seconds (GB-s) per request (0.2 seconds * 128 MB / 1024 MB)",
+      "2,500,000 gigabyte seconds (GB-s) per month (0.025 GB-s per request * 100,000,000 requests)",
+      "$5.00",
+      "$14.85",
+      "(100,000,000 requests - 1,000,000 included requests) / 1,000,000 * $0.15",
+      "$26.25",
+      "(2,500,000 GB-s per month - 400,000 included GB-s) / 1,000,000 * $12.50",
+      "$46.10",
+      "1 Vectorize will be available to developers on the Workers Free plan in the future."
+    ],
+    "totals": {
+      "removed": 79,
+      "added": 83,
+      "materialRemoved": 23,
+      "materialAdded": 22
+    }
+  }
+]

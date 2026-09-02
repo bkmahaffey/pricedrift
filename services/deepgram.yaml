@@ -1,0 +1,34 @@
+slug: deepgram
+name: Deepgram
+category: ai
+website: https://deepgram.com
+tagline: Speech-to-text, text-to-speech and voice agent APIs
+track_urls:
+  - https://deepgram.com/pricing
+free_tier:
+  status: credits
+  plan_name: Pay As You Go
+  credit_card_required: false
+  limits:
+    - metric: Free credit
+      value: $200
+    - metric: Speech-to-text concurrency
+      value: REST API 50, WSS API 150, Whisper Cloud 5
+    - metric: Text-to-speech concurrency
+      value: REST + WSS API 45
+    - metric: Models
+      value: all endpoints in public models
+  trial_length: null
+  credit_amount: $200
+  notes:
+    - Credit expiry not stated on the page
+    - Growth plan is $4K+ per year of pre-paid credits with up to 20% savings
+paid_from:
+  price: "$0.0048 per minute"
+  period: usage
+  unit: usage
+  plan_name: Pay As You Go (Nova-3 monolingual streaming)
+verified_on: "2026-09-02"
+sources:
+  - https://deepgram.com/pricing
+referral: null

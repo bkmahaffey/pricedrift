@@ -1,0 +1,40 @@
+slug: rollbar
+name: Rollbar
+category: observability
+website: https://rollbar.com
+tagline: Error monitoring and crash reporting for applications
+track_urls:
+  - https://rollbar.com/pricing/
+  - https://rollbar.com/pricing-for-agents
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: false
+  limits:
+    - metric: Occurrences
+      value: "5K occurrences per month"
+    - metric: Session replays
+      value: "1K sessions per month"
+    - metric: Users
+      value: "Unlimited users"
+    - metric: Projects
+      value: "Unlimited projects"
+    - metric: Data retention
+      value: "30 days"
+    - metric: AI credits
+      value: "0 credits included"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "14-day full access free trial with 200K occurrences, 10K replays and 15K credits"
+    - "Essentials/Advanced prices are not printed on the main pricing page; taken from the machine-readable pricing page"
+paid_from:
+  price: "$9"
+  period: month
+  unit: flat
+  plan_name: Essentials
+verified_on: "2026-09-02"
+sources:
+  - https://rollbar.com/pricing/
+  - https://rollbar.com/pricing-for-agents
+referral: null

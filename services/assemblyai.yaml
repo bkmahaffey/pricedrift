@@ -1,0 +1,29 @@
+slug: assemblyai
+name: AssemblyAI
+category: ai
+website: https://www.assemblyai.com
+tagline: Speech-to-text and audio intelligence API billed per hour
+track_urls:
+  - https://www.assemblyai.com/pricing
+free_tier:
+  status: credits
+  plan_name: null
+  credit_card_required: false
+  limits:
+    - metric: Free credits
+      value: "$50 on signup"
+    - metric: Streaming concurrency
+      value: "5 new streams per minute"
+      note: pay-as-you-go accounts get 100 new streams per minute
+  trial_length: null
+  credit_amount: "$50"
+  notes: []
+paid_from:
+  price: "$0.15 per hour"
+  period: usage
+  unit: usage
+  plan_name: null
+verified_on: "2026-09-02"
+sources:
+  - https://www.assemblyai.com/pricing
+referral: null

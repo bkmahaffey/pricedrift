@@ -1,0 +1,39 @@
+slug: hugging-face
+name: Hugging Face
+category: ai
+website: https://huggingface.co
+tagline: Hub for hosting models, datasets, Spaces and inference
+track_urls:
+  - https://huggingface.co/pricing
+  - https://huggingface.co/docs/hub/storage-limits
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Private storage
+      value: "100GB"
+    - metric: Public storage
+      value: "Best-effort"
+      note: beyond the first few gigabytes, use responsibly
+    - metric: Spaces hardware
+      value: "CPU Basic (2 vCPU, 16 GB) FREE"
+    - metric: Egress and CDN
+      value: "included at no extra cost"
+    - metric: Single file size
+      value: "500GB hard limit"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - PRO gives 10x private storage, 2x public storage, 20x inference credits and 8x ZeroGPU quota versus free
+    - Team plan is set up via credit card
+paid_from:
+  price: "$9"
+  period: month
+  unit: flat
+  plan_name: PRO
+verified_on: "2026-09-02"
+sources:
+  - https://huggingface.co/pricing
+  - https://huggingface.co/docs/hub/storage-limits
+referral: null

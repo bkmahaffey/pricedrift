@@ -1,0 +1,43 @@
+slug: cloudflare-d1
+name: Cloudflare D1
+category: databases
+website: https://developers.cloudflare.com/d1/
+tagline: Serverless SQLite database on Cloudflare Workers
+track_urls:
+  - https://developers.cloudflare.com/d1/platform/pricing/
+  - https://developers.cloudflare.com/d1/platform/limits/
+free_tier:
+  status: free
+  plan_name: Workers Free
+  credit_card_required: null
+  limits:
+    - metric: Rows read
+      value: "5 million / day"
+    - metric: Rows written
+      value: "100,000 / day"
+    - metric: Storage
+      value: "5 GB (total)"
+    - metric: Databases per account
+      value: "10"
+    - metric: Maximum database size
+      value: "500 MB"
+    - metric: Queries per Worker invocation
+      value: "50"
+    - metric: Time Travel
+      value: "7 days"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Daily limits reset at 00:00 UTC; queries return errors once read/write limits are exceeded"
+    - "Exceeding the storage limit requires deleting data before new inserts"
+paid_from:
+  price: "$5"
+  period: month
+  unit: flat
+  plan_name: Workers Paid
+verified_on: "2026-09-02"
+sources:
+  - https://developers.cloudflare.com/d1/platform/pricing/
+  - https://developers.cloudflare.com/d1/platform/limits/
+  - https://developers.cloudflare.com/workers/platform/pricing/
+referral: null

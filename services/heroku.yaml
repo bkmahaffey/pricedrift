@@ -1,0 +1,26 @@
+slug: heroku
+name: Heroku
+category: hosting
+website: https://www.heroku.com
+tagline: Managed platform-as-a-service running apps on dynos with add-ons
+track_urls:
+  - https://www.heroku.com/pricing
+free_tier:
+  status: none
+  plan_name: null
+  credit_card_required: null
+  limits: []
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "No free dyno plan is listed; the cheapest Eco dyno is $5 per month"
+    - "Eco dynos are for personal accounts only and sleep after 30 minutes of inactivity"
+paid_from:
+  price: "$5"
+  period: month
+  unit: flat
+  plan_name: Eco
+verified_on: "2026-09-02"
+sources:
+  - https://www.heroku.com/pricing
+referral: null

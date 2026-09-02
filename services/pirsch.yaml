@@ -1,0 +1,26 @@
+slug: pirsch
+name: Pirsch
+category: analytics
+website: https://pirsch.io
+tagline: Privacy-friendly, cookie-free web analytics
+track_urls:
+  - https://pirsch.io/pricing
+free_tier:
+  status: trial
+  plan_name: null
+  credit_card_required: false
+  limits: []
+  trial_length: 30 days
+  credit_amount: null
+  notes:
+    - "Free 30-day trial with no credit card required"
+    - "Custom events and 10% of events for session extensions count towards the monthly page view limit"
+paid_from:
+  price: "$6"
+  period: month
+  unit: flat
+  plan_name: Standard
+verified_on: "2026-09-02"
+sources:
+  - https://pirsch.io/pricing
+referral: null

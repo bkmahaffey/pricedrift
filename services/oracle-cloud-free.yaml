@@ -1,0 +1,49 @@
+slug: oracle-cloud-free
+name: Oracle Cloud Free Tier
+category: compute
+website: https://www.oracle.com/cloud/free/
+tagline: Oracle Cloud Infrastructure Always Free resources plus 30-day trial credits
+track_urls:
+  - https://www.oracle.com/cloud/free/
+  - https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm
+free_tier:
+  status: free
+  plan_name: Always Free
+  credit_card_required: true
+  limits:
+    - metric: AMD compute
+      value: 2 AMD based compute VMs with 1/8 OCPU and 1 GB memory each
+    - metric: Arm Ampere A1 compute
+      value: 2 OCPUs and 12 GB memory total
+      note: 1,500 OCPU hours and 9,000 GB hours per month
+    - metric: Block volume storage
+      value: up to 2 block volumes, 200 GB total
+      note: 5 volume backups
+    - metric: Object storage
+      value: up to 20GB total for standard, infrequent and archive
+      note: 50,000 API requests per month
+    - metric: Autonomous Database
+      value: up to two databases total, 20 GB storage and 1 OCPU each
+    - metric: Outbound data transfer
+      value: up to 10 TB per month
+    - metric: Load balancer
+      value: 1 instance, 10 Mbps
+    - metric: NoSQL Database
+      value: 133 million reads and 133 million writes per month, 25 GB storage
+  trial_length: 30 days
+  credit_amount: US$300 cloud credit for 30 days
+  notes:
+    - Always Free compute and Autonomous Databases can only be created in the home region
+    - Idle compute instances may be reclaimed after a 7-day period of under 20% CPU, network and memory utilization
+    - Credit or debit card required at sign-up for identity verification; not charged unless you upgrade. Paid OCI usage pricing is not on this page
+paid_from:
+  price: null
+  period: usage
+  unit: usage
+  plan_name: null
+verified_on: "2026-09-02"
+sources:
+  - https://www.oracle.com/cloud/free/
+  - https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm
+  - https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier.htm
+referral: null

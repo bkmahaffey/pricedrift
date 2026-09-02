@@ -1,0 +1,37 @@
+slug: ably
+name: Ably
+category: backend
+website: https://ably.com
+tagline: Realtime pub/sub messaging platform with WebSockets and presence
+track_urls:
+  - https://ably.com/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Messages
+      value: 6M messages / month
+    - metric: Concurrent connections
+      value: "200"
+    - metric: Message rate
+      value: 500 messages / second
+    - metric: Message storage
+      value: 1 day
+    - metric: Max message size
+      value: 64KiB
+    - metric: Presence members per channel
+      value: "200"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Overage on paid plans: messages $2.50 / million, connection and channel minutes $1.00 / million mins, data transfer $0.25 / GiB"
+paid_from:
+  price: "$29 + usage"
+  period: month
+  unit: flat
+  plan_name: Standard
+verified_on: "2026-09-02"
+sources:
+  - https://ably.com/pricing
+referral: null

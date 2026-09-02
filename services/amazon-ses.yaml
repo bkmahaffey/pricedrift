@@ -1,0 +1,27 @@
+slug: amazon-ses
+name: Amazon SES
+category: email
+website: https://aws.amazon.com/ses/
+tagline: Transactional and bulk email sending billed per 1,000 emails
+track_urls:
+  - https://aws.amazon.com/ses/pricing/
+free_tier:
+  status: credits
+  plan_name: AWS Free Tier
+  credit_card_required: null
+  limits: []
+  trial_length: null
+  credit_amount: "up to $200 in AWS Free Tier credits"
+  notes:
+    - Credits are for new AWS customers; the free plan is available for 6 months after account creation and credits must be used within 12 months
+    - "Plan pricing: Essentials $0.16 per 1,000 emails (no monthly fee); Pro $105/month + $0.22 per 1,000; Enterprise $500/month + $0.23 per 1,000"
+    - Attachment data is $0.12 per GB sent
+paid_from:
+  price: "$0.10 per 1,000 outbound emails (a la carte)"
+  period: usage
+  unit: usage
+  plan_name: null
+verified_on: "2026-09-02"
+sources:
+  - https://aws.amazon.com/ses/pricing/
+referral: null

@@ -1,0 +1,33 @@
+slug: northflank
+name: Northflank
+category: hosting
+website: https://northflank.com
+tagline: Container platform for deploying services, databases and jobs
+track_urls:
+  - https://northflank.com/pricing
+free_tier:
+  status: free
+  plan_name: Sandbox
+  credit_card_required: null
+  limits:
+    - metric: Services
+      value: "2 free services"
+    - metric: Databases
+      value: "1 free database"
+    - metric: Cron jobs
+      value: "2 free cron jobs"
+    - metric: Compute
+      value: "Always-on, no sleeping"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Page does not state the vCPU, memory or storage size of free resources"
+paid_from:
+  price: "$2.70"
+  period: month
+  unit: usage
+  plan_name: Pay-as-you-go (nf-compute-10)
+verified_on: "2026-09-02"
+sources:
+  - https://northflank.com/pricing
+referral: null

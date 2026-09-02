@@ -1,0 +1,37 @@
+slug: imagekit
+name: ImageKit
+category: storage
+website: https://imagekit.io
+tagline: Image and video CDN with optimization and digital asset management
+track_urls:
+  - https://imagekit.io/plans
+free_tier:
+  status: free
+  plan_name: Forever Free
+  credit_card_required: false
+  limits:
+    - metric: Bandwidth
+      value: "20 GB per month"
+    - metric: DAM storage
+      value: "3 GB"
+    - metric: Video units
+      value: "500 per month"
+    - metric: Extension units
+      value: "650 per month"
+    - metric: Users
+      value: "2"
+    - metric: Purge requests
+      value: "500 per month"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - There is no minimum billing on the Forever Free plan
+paid_from:
+  price: "$9"
+  period: month
+  unit: flat
+  plan_name: Lite
+verified_on: "2026-09-02"
+sources:
+  - https://imagekit.io/plans
+referral: null

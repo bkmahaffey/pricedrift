@@ -1,0 +1,41 @@
+slug: postman
+name: Postman
+category: tools
+website: https://www.postman.com
+tagline: API development and testing platform
+track_urls:
+  - https://www.postman.com/pricing/
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Users
+      value: "1"
+    - metric: AI credits
+      value: "50 per month"
+    - metric: API monitoring
+      value: "1,000 requests per month"
+    - metric: Postman API calls
+      value: "10,000 per month"
+    - metric: Integrations
+      value: "5"
+    - metric: Collection recovery
+      value: "1 day"
+    - metric: Automation Flows
+      value: "25 credits / month"
+    - metric: Collection Runner & Performance Testing runs
+      value: "unlimited"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Free plan has no pay-as-you-go option for extra AI credits
+paid_from:
+  price: "$9"
+  period: month
+  unit: flat
+  plan_name: Solo
+verified_on: "2026-09-02"
+sources:
+  - https://www.postman.com/pricing/
+referral: null

@@ -1,0 +1,39 @@
+slug: cloudflare
+name: Cloudflare
+category: tools
+website: https://www.cloudflare.com
+tagline: CDN, DNS, DDoS protection and WAF priced per domain
+track_urls:
+  - https://www.cloudflare.com/plans/
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: DNS
+      value: "Fast, Easy-to-use DNS"
+    - metric: DDoS protection
+      value: "Unmetered"
+    - metric: CDN
+      value: "Included"
+    - metric: SSL
+      value: "Universal SSL Certificate"
+    - metric: WAF
+      value: "Free Managed Ruleset"
+    - metric: Lossless image optimization
+      value: "Not included"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Pricing is per domain; each domain is charged separately"
+    - "Pro is $20/mo billed annually or $25/mo billed monthly"
+paid_from:
+  price: "$25"
+  period: month
+  unit: per site
+  plan_name: Pro
+verified_on: "2026-09-02"
+sources:
+  - https://www.cloudflare.com/plans/
+  - https://www.cloudflare.com/plans/faq/
+referral: null

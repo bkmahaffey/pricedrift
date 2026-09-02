@@ -1,0 +1,36 @@
+slug: github-pages
+name: GitHub Pages
+category: hosting
+website: https://pages.github.com
+tagline: Static site hosting from GitHub repositories
+track_urls:
+  - https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits
+free_tier:
+  status: free
+  plan_name: GitHub Free (public repositories)
+  credit_card_required: null
+  limits:
+    - metric: Published site size
+      value: "1 GB"
+    - metric: Bandwidth
+      value: "100 GB per month"
+      note: soft limit
+    - metric: Builds
+      value: "10 builds per hour"
+      note: soft limit; does not apply to custom GitHub Actions workflows
+    - metric: Source repository size
+      value: "1 GB (recommended limit)"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Private-repository sites require GitHub Pro, GitHub Team, GitHub Enterprise Cloud or Enterprise Server"
+    - "Not allowed for e-commerce, SaaS or other primarily commercial sites"
+paid_from:
+  price: null
+  period: null
+  unit: null
+  plan_name: null
+verified_on: "2026-09-02"
+sources:
+  - https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits
+referral: null

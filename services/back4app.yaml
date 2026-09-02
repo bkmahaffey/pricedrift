@@ -1,0 +1,36 @@
+slug: back4app
+name: Back4app
+category: backend
+website: https://www.back4app.com
+tagline: Parse-based backend-as-a-service with database, files and cloud code
+track_urls:
+  - https://www.back4app.com/pricing/backend-as-a-service
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: false
+  limits:
+    - metric: Requests
+      value: 25K
+      note: period not stated in the plan column
+    - metric: Database
+      value: 250MB
+    - metric: Data transfer
+      value: 1GB
+    - metric: File storage
+      value: 1GB
+    - metric: Projects
+      value: up to five projects on the free tier
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "MVP plan is $15 per app per month billed annually (save 40%)"
+paid_from:
+  price: "$15"
+  period: month
+  unit: per project
+  plan_name: MVP
+verified_on: "2026-09-02"
+sources:
+  - https://www.back4app.com/pricing/backend-as-a-service
+referral: null

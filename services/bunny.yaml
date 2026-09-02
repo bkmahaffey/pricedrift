@@ -1,0 +1,26 @@
+slug: bunny
+name: Bunny.net
+category: storage
+website: https://bunny.net
+tagline: CDN, edge storage and video streaming billed per GB
+track_urls:
+  - https://bunny.net/pricing/
+free_tier:
+  status: trial
+  plan_name: null
+  credit_card_required: false
+  limits: []
+  trial_length: "14 days"
+  credit_amount: null
+  notes:
+    - "$1 monthly minimum charge"
+    - "No request fees; charges are based on bandwidth consumed"
+paid_from:
+  price: "$0.005 per GB"
+  period: usage
+  unit: usage
+  plan_name: Volume Network
+verified_on: "2026-09-02"
+sources:
+  - https://bunny.net/pricing/
+referral: null

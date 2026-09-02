@@ -1,0 +1,40 @@
+slug: storyblok
+name: Storyblok
+category: cms
+website: https://www.storyblok.com
+tagline: Headless CMS with a visual editor and component-based content
+track_urls:
+  - https://www.storyblok.com/pricing
+free_tier:
+  status: free
+  plan_name: Starter
+  credit_card_required: false
+  limits:
+    - metric: User seats
+      value: "1"
+      note: additional seats $15.00 per month each, max 2 total
+    - metric: Spaces
+      value: "1"
+    - metric: API requests
+      value: 100k per month
+    - metric: Traffic
+      value: 100GB per month
+    - metric: Assets
+      value: "2,000"
+    - metric: Locales
+      value: "2"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Includes a 45-day free trial of the Growth Plus plan
+    - Subscriptions are per space
+    - Growth is $90.75/mo billed annually or $99.00/mo billed monthly, 5 seats included
+paid_from:
+  price: "$90.75"
+  period: month
+  unit: flat
+  plan_name: Growth
+verified_on: "2026-09-02"
+sources:
+  - https://www.storyblok.com/pricing
+referral: null

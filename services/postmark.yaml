@@ -1,0 +1,29 @@
+slug: postmark
+name: Postmark
+category: email
+website: https://postmarkapp.com
+tagline: Transactional email delivery API and SMTP service
+track_urls:
+  - https://postmarkapp.com/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: false
+  limits:
+    - metric: Emails
+      value: "100 emails/month"
+    - metric: Overages
+      value: "No overages allowed in this plan"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Free plan never expires
+paid_from:
+  price: "$15.00"
+  period: month
+  unit: flat
+  plan_name: Basic
+verified_on: "2026-09-02"
+sources:
+  - https://postmarkapp.com/pricing
+referral: null

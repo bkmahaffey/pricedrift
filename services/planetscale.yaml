@@ -1,0 +1,25 @@
+slug: planetscale
+name: PlanetScale
+category: databases
+website: https://planetscale.com
+tagline: Managed Postgres and Vitess (MySQL) databases with metal option
+track_urls:
+  - https://planetscale.com/pricing
+free_tier:
+  status: none
+  plan_name: null
+  credit_card_required: null
+  limits: []
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Cluster price excludes extra EBS storage, backups, egress, dedicated PgBouncer and extra replicas"
+paid_from:
+  price: "$5"
+  period: month
+  unit: flat
+  plan_name: PS-5 (Postgres, single node)
+verified_on: "2026-09-02"
+sources:
+  - https://planetscale.com/pricing
+referral: null

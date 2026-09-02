@@ -1,0 +1,26 @@
+slug: paddle
+name: Paddle
+category: backend
+website: https://www.paddle.com
+tagline: Merchant of record for selling SaaS and digital products
+track_urls:
+  - https://www.paddle.com/pricing
+free_tier:
+  status: none
+  plan_name: null
+  credit_card_required: null
+  limits: []
+  trial_length: null
+  credit_amount: null
+  notes:
+    - No migration fees, monthly fees, or hidden extras; pricing is per transaction
+    - Products under $10 or invoicing require custom pricing
+paid_from:
+  price: "5% + 50¢ per Checkout transaction"
+  period: usage
+  unit: usage
+  plan_name: Pay-as-you-go
+verified_on: "2026-09-02"
+sources:
+  - https://www.paddle.com/pricing
+referral: null

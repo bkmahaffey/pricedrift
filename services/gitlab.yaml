@@ -1,0 +1,31 @@
+slug: gitlab
+name: GitLab
+category: cicd
+website: https://about.gitlab.com
+tagline: Git hosting with built-in CI/CD, security scanning and planning
+track_urls:
+  - https://about.gitlab.com/pricing/
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: false
+  limits:
+    - metric: Users
+      value: 5 users per top-level group
+    - metric: Compute minutes
+      value: 400 compute minutes per month
+    - metric: Storage
+      value: 10 GiB adjustable storage
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "AI features can be accessed via the purchase of GitLab Credits add-on"
+paid_from:
+  price: "$29 (billed annually)"
+  period: month
+  unit: per user
+  plan_name: Premium
+verified_on: "2026-09-02"
+sources:
+  - https://about.gitlab.com/pricing/
+referral: null

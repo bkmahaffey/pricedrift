@@ -1,0 +1,44 @@
+slug: cloudflare-workers
+name: Cloudflare Workers
+category: hosting
+website: https://workers.cloudflare.com
+tagline: Serverless functions that run on Cloudflare's global edge network
+track_urls:
+  - https://developers.cloudflare.com/workers/platform/pricing/
+  - https://developers.cloudflare.com/workers/platform/limits/
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Requests
+      value: "100,000 per day"
+    - metric: CPU time
+      value: "10 ms per invocation"
+    - metric: Workers per account
+      value: "100"
+    - metric: Worker script size
+      value: "3 MB (after gzip)"
+    - metric: Subrequests
+      value: "50 per request"
+    - metric: Cron triggers
+      value: "5 per account"
+    - metric: Memory
+      value: "128 MB per isolate"
+    - metric: Workers KV reads
+      value: "100,000 per day"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Free plan also includes 1 GB KV stored data and 5 GB total D1 storage"
+    - "No charge for duration; CPU time is the metered unit"
+paid_from:
+  price: "$5"
+  period: month
+  unit: flat
+  plan_name: Paid
+verified_on: "2026-09-02"
+sources:
+  - https://developers.cloudflare.com/workers/platform/pricing/
+  - https://developers.cloudflare.com/workers/platform/limits/
+referral: null

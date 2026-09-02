@@ -1,0 +1,39 @@
+slug: nhost
+name: Nhost
+category: backend
+website: https://nhost.io
+tagline: Backend-as-a-service with Postgres, Hasura GraphQL, auth and storage
+track_urls:
+  - https://nhost.io/pricing
+free_tier:
+  status: free
+  plan_name: Starter
+  credit_card_required: null
+  limits:
+    - metric: Projects
+      value: "1"
+    - metric: Database
+      value: 1 GB
+    - metric: Storage
+      value: 1 GB
+    - metric: Egress
+      value: 5 GB
+    - metric: Functions
+      value: 10 included
+    - metric: Auth users
+      value: unlimited
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Project paused after 1 week of inactivity
+    - No automated backups on Starter
+    - Pro includes $15 in compute credits, 10 GB database, 50 GB storage, 50 GB egress
+paid_from:
+  price: "$25"
+  period: month
+  unit: flat
+  plan_name: Pro
+verified_on: "2026-09-02"
+sources:
+  - https://nhost.io/pricing
+referral: null

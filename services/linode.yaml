@@ -1,0 +1,30 @@
+slug: linode
+name: Akamai Linode
+category: compute
+website: https://www.linode.com
+tagline: Cloud compute, storage and networking from Akamai
+track_urls:
+  - https://www.akamai.com/cloud/pricing
+  - https://www.akamai.com/cloud/pricing/north-america
+free_tier:
+  status: credits
+  plan_name: null
+  credit_card_required: true
+  limits: []
+  trial_length: null
+  credit_amount: "US$100"
+  notes:
+    - Promotional credits are only for new customers who have not yet signed up for a free trial; a valid payment method is required
+    - Credits cannot be applied to GPU plans and unused credits expire at the end of the trial period
+    - linode.com/pricing redirects to akamai.com/cloud/pricing; instance prices are on the regional pages
+paid_from:
+  price: "$5.00"
+  period: month
+  unit: flat
+  plan_name: Nanode 1 GB
+verified_on: "2026-09-02"
+sources:
+  - https://www.akamai.com/cloud/pricing
+  - https://www.akamai.com/cloud/pricing/north-america
+  - https://www.akamai.com/lp/free-credit-100
+referral: null

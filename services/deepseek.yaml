@@ -1,0 +1,27 @@
+slug: deepseek
+name: DeepSeek API
+category: ai
+website: https://www.deepseek.com
+tagline: Token-priced API for DeepSeek chat, reasoning and vision models
+track_urls:
+  - https://api-docs.deepseek.com/quick_start/pricing
+free_tier:
+  status: none
+  plan_name: null
+  credit_card_required: null
+  limits: []
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Pricing page lists no free credits, trial or free tier
+    - "Off-peak rates are half of the peak rates; page states peak hours are 01:00 - 04:00 and 06:00 - 10:00 UTC, Monday through Friday"
+    - Images sent to the vision model are billed as input tokens
+paid_from:
+  price: "$0.44 per 1M input tokens (cache miss) / $1.32 per 1M output tokens (deepseek-v4-flash, peak)"
+  period: usage
+  unit: usage
+  plan_name: null
+verified_on: "2026-09-02"
+sources:
+  - https://api-docs.deepseek.com/quick_start/pricing
+referral: null

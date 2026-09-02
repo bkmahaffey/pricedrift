@@ -1,0 +1,38 @@
+slug: hygraph
+name: Hygraph
+category: cms
+website: https://hygraph.com
+tagline: GraphQL-native headless CMS with content federation
+track_urls:
+  - https://hygraph.com/pricing
+free_tier:
+  status: free
+  plan_name: Hobby
+  credit_card_required: false
+  limits:
+    - metric: Seats
+      value: "3 seats"
+    - metric: Content entries
+      value: "1,000"
+    - metric: API calls
+      value: "500,000"
+    - metric: Asset traffic
+      value: "100 GB"
+    - metric: Locales
+      value: "2 locales"
+    - metric: Roles
+      value: "2 standard roles"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Hobby lacks custom roles, SSO and multitenancy
+    - A 30-day Enterprise trial is available without a credit card
+paid_from:
+  price: "$199"
+  period: month
+  unit: flat
+  plan_name: Growth
+verified_on: "2026-09-02"
+sources:
+  - https://hygraph.com/pricing
+referral: null

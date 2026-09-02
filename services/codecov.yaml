@@ -1,0 +1,36 @@
+slug: codecov
+name: Codecov
+category: cicd
+website: https://about.codecov.io
+tagline: Code coverage reporting for pull requests
+track_urls:
+  - https://about.codecov.io/pricing/
+free_tier:
+  status: free
+  plan_name: Developer
+  credit_card_required: null
+  limits:
+    - metric: Users
+      value: "1"
+    - metric: Public repositories
+      value: "Unlimited"
+    - metric: Private repositories
+      value: "Unlimited"
+    - metric: Public repo uploads
+      value: "Unlimited"
+    - metric: Private repo uploads
+      value: "250 per month"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Pro plan features can be trialed free for 14 days"
+    - "Team plan is limited to 10 or fewer users"
+paid_from:
+  price: "$5"
+  period: month
+  unit: per user
+  plan_name: Team
+verified_on: "2026-09-02"
+sources:
+  - https://about.codecov.io/pricing/
+referral: null

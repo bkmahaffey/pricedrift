@@ -1,0 +1,41 @@
+slug: kinde
+name: Kinde
+category: auth
+website: https://kinde.com
+tagline: Authentication, user management, billing and feature flags
+track_urls:
+  - https://kinde.com/pricing/
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: false
+  limits:
+    - metric: Monthly active users
+      value: "10,500 monthly active users (MAU)"
+    - metric: Organizations
+      value: "5 included"
+    - metric: Team members
+      value: "Unlimited"
+    - metric: Environments
+      value: "1 production, 1 non-production"
+    - metric: Custom roles
+      value: "2 roles, 10 permissions"
+    - metric: Feature flags
+      value: "10 included"
+    - metric: Webhooks
+      value: "1 per environment"
+    - metric: Enterprise SSO
+      value: "1 included"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Free forever; no credit card required"
+paid_from:
+  price: "$25"
+  period: month
+  unit: flat
+  plan_name: Pro
+verified_on: "2026-09-02"
+sources:
+  - https://kinde.com/pricing/
+referral: null

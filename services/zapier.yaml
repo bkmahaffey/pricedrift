@@ -1,0 +1,36 @@
+slug: zapier
+name: Zapier
+category: backend
+website: https://zapier.com
+tagline: No-code workflow automation connecting thousands of apps
+track_urls:
+  - https://zapier.com/pricing
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: false
+  limits:
+    - metric: Tasks
+      value: 100 tasks/mo
+    - metric: Zap steps
+      value: Two-step Zap workflows
+    - metric: Update time
+      value: 15 min
+    - metric: Zaps, Tables and Forms
+      value: unlimited
+    - metric: Users
+      value: "1"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "New accounts get a 14-day free trial of Professional"
+    - "Tasks are shared across all Zapier products (automation, MCP, Code, etc.)"
+paid_from:
+  price: "$19.99 (billed annually)"
+  period: month
+  unit: flat
+  plan_name: Professional
+verified_on: "2026-09-02"
+sources:
+  - https://zapier.com/pricing
+referral: null

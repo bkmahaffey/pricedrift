@@ -1,0 +1,37 @@
+slug: mailgun
+name: Mailgun
+category: email
+website: https://www.mailgun.com
+tagline: Transactional email API and SMTP relay
+track_urls:
+  - https://www.mailgun.com/pricing/
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Emails
+      value: "100 per day"
+    - metric: Custom sending domains
+      value: "1"
+    - metric: API keys
+      value: "2"
+    - metric: Log retention
+      value: "1 day"
+    - metric: Inbound routes
+      value: "1"
+    - metric: Users
+      value: "1"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Foundation ($35/mo) and Scale ($90/mo) plans are free for the first month"
+paid_from:
+  price: "$15"
+  period: month
+  unit: flat
+  plan_name: Basic
+verified_on: "2026-09-02"
+sources:
+  - https://www.mailgun.com/pricing/
+referral: null

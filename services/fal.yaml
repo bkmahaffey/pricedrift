@@ -1,0 +1,29 @@
+slug: fal
+name: fal
+category: gpu
+website: https://fal.ai
+tagline: Hosted inference for image, video and audio models plus GPU rental
+track_urls:
+  - https://fal.ai/pricing
+  - https://fal.ai/docs/documentation/model-apis/sandbox
+free_tier:
+  status: credits
+  plan_name: null
+  credit_card_required: null
+  limits: []
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Pricing page lists no free tier; docs say free credits and free request coupons are only usable in Sandbox and the Playground, not via the API or Workflows
+    - New accounts start at 2 concurrent requests
+paid_from:
+  price: "$2.99 per hour (as low as $1.10 per hour)"
+  period: usage
+  unit: usage
+  plan_name: RTX PRO 6000 GPU (96GB)
+verified_on: "2026-09-02"
+sources:
+  - https://fal.ai/pricing
+  - https://fal.ai/docs/documentation/model-apis/sandbox
+  - https://fal.ai/docs/faq
+referral: null

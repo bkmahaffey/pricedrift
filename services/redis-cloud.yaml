@@ -1,0 +1,30 @@
+slug: redis-cloud
+name: Redis Cloud
+category: databases
+website: https://redis.io
+tagline: Fully managed Redis database service
+track_urls:
+  - https://redis.io/pricing/
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: null
+  limits:
+    - metric: Memory
+      value: up to 30 MB
+    - metric: Databases
+      value: single DB
+    - metric: Availability
+      value: best-effort SLA
+  trial_length: null
+  credit_amount: null
+  notes: []
+paid_from:
+  price: "$5 per month minimum (from $0.007/hour)"
+  period: month
+  unit: usage
+  plan_name: Essentials
+verified_on: "2026-09-02"
+sources:
+  - https://redis.io/pricing/
+referral: null

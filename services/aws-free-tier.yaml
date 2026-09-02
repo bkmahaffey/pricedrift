@@ -1,0 +1,36 @@
+slug: aws-free-tier
+name: AWS Free Tier
+category: compute
+website: https://aws.amazon.com/free/
+tagline: AWS new-account credits plus always-free service allowances
+track_urls:
+  - https://aws.amazon.com/free/
+free_tier:
+  status: credits
+  plan_name: Free plan
+  credit_card_required: null
+  limits:
+    - metric: Credits
+      value: "$100 immediately, up to $100 more by exploring key services"
+    - metric: Credit validity
+      value: "6 months"
+    - metric: Services available on Free plan
+      value: "over 90 services"
+    - metric: Always-free services
+      value: "30+ services within monthly usage limits"
+      note: applies on both Free and Paid plans
+  trial_length: null
+  credit_amount: "up to $200 over 6 months"
+  notes:
+    - "Free plan account closes on its own 6 months after opening or when credits run out, whichever comes first"
+    - "No charges unless you convert to a Paid plan"
+    - "Per-service always-free usage limits are not listed on the page"
+paid_from:
+  price: null
+  period: usage
+  unit: usage
+  plan_name: Paid plan
+verified_on: "2026-09-02"
+sources:
+  - https://aws.amazon.com/free/
+referral: null

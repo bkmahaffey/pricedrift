@@ -1,0 +1,35 @@
+slug: github-copilot
+name: GitHub Copilot
+category: ai
+website: https://github.com/features/copilot
+tagline: AI code completion, chat and agents in editors and GitHub
+track_urls:
+  - https://github.com/features/copilot/plans
+free_tier:
+  status: free
+  plan_name: Free
+  credit_card_required: false
+  limits:
+    - metric: Code completions
+      value: 2,000 completions per month
+    - metric: Chat requests
+      value: "50"
+      note: including Copilot Edits
+    - metric: Models
+      value: Haiku 4.5, GPT-5 mini, and more
+    - metric: Support
+      value: Community Support
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Paid plans include monthly AI credits (Pro $15); 1 AI credit = $0.01 USD"
+    - "Code completions and next edit suggestions are unlimited on every paid plan"
+paid_from:
+  price: "$10"
+  period: month
+  unit: per user
+  plan_name: Pro
+verified_on: "2026-09-02"
+sources:
+  - https://github.com/features/copilot/plans
+referral: null

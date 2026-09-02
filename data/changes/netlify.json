@@ -1,0 +1,844 @@
+[
+  {
+    "id": "netlify-com-pricing-20230202155156",
+    "url": "https://www.netlify.com/pricing/",
+    "ts": "20230202155156",
+    "date": "2023-02-02",
+    "source": "wayback",
+    "prevTs": "20230108032422",
+    "kind": "price",
+    "score": 20,
+    "counts": {
+      "price": 4,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Netlify: 4 prices, 4 limits changed (removed “Pro $19/month per member Try Pro for free”; added “Pro $19/month per member Start free Pro trial”)",
+    "pairs": [],
+    "added": [
+      "Start free, then pay as you go",
+      "Start free Pro trial",
+      "Pro $19/month per member Start free Pro trial",
+      "Pro $19/month per member Start free Pro trial",
+      "Start free Pro trial",
+      "Start free Pro trial"
+    ],
+    "removed": [
+      "Try Pro for free",
+      "Pro $19/month per member Try Pro for free",
+      "Pro $19/month per member Try Pro for free",
+      "Try Pro for free",
+      "Included bandwidth 600GB",
+      "Extra bandwidth $180/month each additional TB",
+      "Included pageviews /month Unlimited",
+      "Active users Unlimited",
+      "Size of uploads /month 10MB",
+      "Size of uploads /month 1GB",
+      "Extras Add packs of 500 submissions and 500MB upload allowance $9/each",
+      "Submissions /month Unlimited",
+      "Size of uploads /month Unlimited",
+      "Run time /month 100 hours",
+      "Edge Functions 3m",
+      "Run time /month 1,000 hours",
+      "Extras Add packs of 500k requests and 500 runtime hours $19/each",
+      "Edge Functions 15m (Pro plan only)",
+      "Requests /month Unlimited",
+      "Run time /month Unlimited",
+      "Edge Functions 150m (Business plan only. For higher limits - contact sales",
+      "Extras Add packs of 25k transformations $10/each",
+      "Transformations /month Unlimited",
+      "Try Pro for free"
+    ],
+    "totals": {
+      "removed": 83,
+      "added": 101,
+      "materialRemoved": 25,
+      "materialAdded": 7
+    }
+  },
+  {
+    "id": "netlify-com-pricing-20230306190849",
+    "url": "https://www.netlify.com/pricing/",
+    "ts": "20230306190849",
+    "date": "2023-03-06",
+    "source": "wayback",
+    "prevTs": "20230202155156",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Netlify: 2 prices, 1 limit, 2 plan names changed (removed “Pro $19/month per member Start free Pro trial”; added “Pro $19/month per member”)",
+    "pairs": [],
+    "added": [
+      "Start for free",
+      "Pro $19/month per member",
+      "Start free Pro trial",
+      "Start for free",
+      "Pro $19/month per member",
+      "Start free Pro trial",
+      "1.5TB"
+    ],
+    "removed": [
+      "The Netlify Pro plan is available for one month. Start your free Pro trial now!",
+      "Pro $19/month per member Start free Pro trial",
+      "Pro $19/month per member Start free Pro trial",
+      "600GB"
+    ],
+    "totals": {
+      "removed": 28,
+      "added": 40,
+      "materialRemoved": 8,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "netlify-com-pricing-20230401174330",
+    "url": "https://www.netlify.com/pricing/",
+    "ts": "20230401174330",
+    "date": "2023-04-01",
+    "source": "wayback",
+    "prevTs": "20230306190849",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Netlify: 1 price changed (removed “1 free, then $15/mo per member”; added “Limited to 1 free member, with free & unlimit…”)",
+    "pairs": [],
+    "added": [
+      "Limited to 1 free member, with free & unlimited Git Contributors",
+      "Limited to 1 free member, with free & unlimited Git Contributors"
+    ],
+    "removed": [
+      "1 free, then $15/mo per member",
+      "1 free, then $15/mo per member"
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 7,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
+  },
+  {
+    "id": "netlify-com-pricing-20230505022433",
+    "url": "https://www.netlify.com/pricing/",
+    "ts": "20230505022433",
+    "date": "2023-05-05",
+    "source": "wayback",
+    "prevTs": "20230401174330",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Netlify: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 16,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "netlify-com-pricing-20230605070445",
+    "url": "https://www.netlify.com/pricing/",
+    "ts": "20230605070445",
+    "date": "2023-06-05",
+    "source": "wayback",
+    "prevTs": "20230505022433",
+    "kind": "price",
+    "score": 52,
+    "counts": {
+      "price": 12,
+      "limit": 8,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Netlify: 12 prices, 8 limits changed (∅ → $0; ∅ → $0)",
+    "pairs": [
+      {
+        "before": "Free to get started",
+        "after": "$ 0 to get started",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": null,
+            "after": "$0"
+          }
+        ]
+      },
+      {
+        "before": "Starter Free to get started",
+        "after": "Starter $0 to get started",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": null,
+            "after": "$0"
+          }
+        ]
+      },
+      {
+        "before": "1.5TB /month (then $55 per 100GB)",
+        "after": "1.5TB /month (then $180 per 1TB)",
+        "confidence": 0.8,
+        "deltas": [
+          {
+            "before": "$55",
+            "after": "$180"
+          },
+          {
+            "before": "100GB",
+            "after": "1TB"
+          }
+        ]
+      },
+      {
+        "before": "Full Feature list pricing table Starter Free to get started",
+        "after": "Full Feature list pricing table Starter $0 to get started",
+        "confidence": 0.89,
+        "deltas": [
+          {
+            "before": null,
+            "after": "$0"
+          }
+        ]
+      },
+      {
+        "before": "Bandwidth 1.5TB /month (then $55 per 100GB)",
+        "after": "Bandwidth 1.5TB /month (then $180 per 1TB)",
+        "confidence": 0.83,
+        "deltas": [
+          {
+            "before": "$55",
+            "after": "$180"
+          },
+          {
+            "before": "100GB",
+            "after": "1TB"
+          }
+        ]
+      },
+      {
+        "before": "Add packs of 500k requests and 500 runtime hours $19/each",
+        "after": "Add packs of 500,000 requests and 500 runtime hours $19/each",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "500k",
+            "after": "500,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "100GB bandwidth and 300 build minutes",
+      "Unlimited",
+      "1m /month (then $2 per 1m)",
+      "2m /month (then $2 per 1m)",
+      "5m /month (then $2 per 1m, for higher usage - contact Sales",
+      "Retention policies up to 365 days",
+      "Extend your site for free with basic access to add-ons. Automatically upgrade tiers as your usage grows, paying only for what you use.",
+      "1m /month (then $2 per 1m)",
+      "Extend your site for free with basic access to add-ons. Automatically upgrade tiers as your usage grows, paying only for what you use.",
+      "2m /month (then $2 per 1m)",
+      "Extend your site for free with basic access to add-ons. Automatically upgrade tiers as your usage grows, paying only for what you use.",
+      "Unlimited",
+      "5m /month (then $2 per 1m, for higher usage - contact Sales",
+      "Retention policies up to 365 days",
+      "Extend your site for free with basic access to add-ons. Automatically upgrade tiers as your usage grows, paying only for what you use.",
+      "Unlimited (Fair use. For how this is defined for Functions contact Sales",
+      "Unlimited (Fair use. For how this is defined for Functions contact Sales",
+      "1 million (then $2 per 1m)",
+      "2 million (Pro plan only, then $2 per 1m)",
+      "5 million (then $2 per 1m, for higher usage - contact Sales"
+    ],
+    "removed": [
+      "$ 99 per member",
+      "Unlimited Analytics for all sites",
+      "Unlimited Forms and Identity",
+      "Business $99/month per member",
+      "$99/month per member,",
+      "3m /month",
+      "15m /month",
+      "150m /month (For higher limits - contact sales",
+      "Customize up to 90 days (For retention policies up to 365 days - contact sales",
+      "3m /month",
+      "15m /month",
+      "Business $99/month per member",
+      "$99/month per member,",
+      "500 sites",
+      "150m /month (For higher limits - contact sales",
+      "Customize up to 90 days (For retention policies up to 365 days - contact sales",
+      "Unlimited",
+      "Unlimited",
+      "15m (Pro plan only)",
+      "150m (Business plan only. For higher limits - contact sales"
+    ],
+    "totals": {
+      "removed": 142,
+      "added": 180,
+      "materialRemoved": 40,
+      "materialAdded": 40
+    }
+  },
+  {
+    "id": "netlify-com-pricing-20230714064214",
+    "url": "https://www.netlify.com/pricing/",
+    "ts": "20230714064214",
+    "date": "2023-07-14",
+    "source": "wayback",
+    "prevTs": "20230605070445",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Netlify: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Start free 30-day trial",
+      "Start free 30-day trial",
+      "Start free 30-day trial",
+      "Unlimited",
+      "Start free 30-day trial",
+      "Unlimited",
+      "Start free 30-day Enterprise trial",
+      "Start free 30-day Enterprise trial",
+      "Start free 30-day Enterprise trial",
+      "Start free 30-day Enterprise trial"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 31,
+      "added": 175,
+      "materialRemoved": 1,
+      "materialAdded": 11
+    }
+  },
+  {
+    "id": "netlify-com-pricing-20230803114356",
+    "url": "https://www.netlify.com/pricing/",
+    "ts": "20230803114356",
+    "date": "2023-08-03",
+    "source": "wayback",
+    "prevTs": "20230714064214",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Netlify: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "netlify-com-pricing-20230909113131",
+    "url": "https://www.netlify.com/pricing/",
+    "ts": "20230909113131",
+    "date": "2023-09-09",
+    "source": "wayback",
+    "prevTs": "20230803114356",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Netlify: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 14,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "netlify-com-pricing-20231001182202",
+    "url": "https://www.netlify.com/pricing/",
+    "ts": "20231001182202",
+    "date": "2023-10-01",
+    "source": "wayback",
+    "prevTs": "20230909113131",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Netlify: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 12,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "netlify-com-pricing-20231102173410",
+    "url": "https://www.netlify.com/pricing/",
+    "ts": "20231102173410",
+    "date": "2023-11-02",
+    "source": "wayback",
+    "prevTs": "20231001182202",
+    "kind": "price",
+    "score": 233,
+    "counts": {
+      "price": 60,
+      "limit": 26,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Netlify: 60 prices, 26 limits, 1 plan name changed (100GB → $55; 1TB → $55)",
+    "pairs": [
+      {
+        "before": "100GB /month (then $55 per 100GB)",
+        "after": "(then $55 per 100GB)",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "100GB",
+            "after": "$55"
+          },
+          {
+            "before": "$55",
+            "after": "100GB"
+          },
+          {
+            "before": "100GB",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "1TB /month (then $55 per 100GB)",
+        "after": "(then $55 per 100GB)",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "1TB",
+            "after": "$55"
+          },
+          {
+            "before": "$55",
+            "after": "100GB"
+          },
+          {
+            "before": "100GB",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "1.5TB /month (then $180 per 1TB)",
+        "after": "(then $180 per 1TB)",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "1.5TB",
+            "after": "$180"
+          },
+          {
+            "before": "$180",
+            "after": "1TB"
+          },
+          {
+            "before": "1TB",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "125k per site /month ($25+ when exceeded)",
+        "after": "125k per site /month",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "$25",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "1k per site /month ($99 when exceeded)",
+        "after": "1k per site /month",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "$99",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "2.5k per site /month ($20+ when exceeded)",
+        "after": "2.5k per site /month",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "$20",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "Bandwidth 100GB /month (then $55 per 100GB)",
+        "after": "(then $55 per 100GB)",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "100GB",
+            "after": "$55"
+          },
+          {
+            "before": "$55",
+            "after": "100GB"
+          },
+          {
+            "before": "100GB",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "125k per site /month ($25+ when exceeded)",
+        "after": "125k per site /month",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "$25",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "1k per site /month ($99 when exceeded)",
+        "after": "1k per site /month",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "$99",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "2.5k per site /month ($20+ when exceeded)",
+        "after": "2.5k per site /month",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "$20",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "125k per site /month ($25+ when exceeded)",
+        "after": "125k per site /month",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "$25",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "1k per site /month ($99 when exceeded)",
+        "after": "1k per site /month",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "$99",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "2.5k per site /month ($20+ when exceeded)",
+        "after": "2.5k per site /month",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "$20",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "Bandwidth 1.5TB /month (then $180 per 1TB)",
+        "after": "(then $180 per 1TB)",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "1.5TB",
+            "after": "$180"
+          },
+          {
+            "before": "$180",
+            "after": "1TB"
+          },
+          {
+            "before": "1TB",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "The Composable Web Platform offers enterprises a simplified, risk-free path towards composable web architecture and a foundation to accelerate speed to innovation for web, marketing, sales, IT and operations teams.",
+      "5 Member Seats",
+      "1TB Bandwidth",
+      "1.5TB Bandwidth",
+      "35,000 Build Minutes",
+      "20 Member Seats",
+      "Unlimited Member Seats",
+      "Unlimited Advanced Projects",
+      "Unlimited Content Sources",
+      "Unlimited Component and Page Templates",
+      "$0 to get started, then pay as you go",
+      "100GB bandwidth",
+      "300 build minutes",
+      "$19 per member/month",
+      "1TB bandwidth",
+      "25,000 build minutes",
+      "$19 /month per member, including active Git Contributors",
+      "(then $40 each)",
+      "(then $40 each)",
+      "100GB /month",
+      "1TB /month",
+      "1.5TB /month",
+      "300 minutes /month",
+      "(then $7 per 500)",
+      "25k minutes /month",
+      "(then $7 per 500)",
+      "35k minutes /month",
+      "(then $7 per 500)",
+      "($25+ when exceeded)",
+      "125k per site /month",
+      "($25+ when exceeded)",
+      "Unlimited",
+      "1m /month",
+      "($2/m when exceeded)",
+      "2m /month",
+      "($2/m when exceeded)",
+      "5m /month",
+      "($19+ when exceeded)",
+      "($19+ when exceeded)",
+      "($99 when exceeded)"
+    ],
+    "removed": [
+      "$ 0 to get started",
+      "Start free, then pay as you go:",
+      "100GB bandwidth and 300 build minutes",
+      "$ 19 per member",
+      "1TB bandwidth and 25k build minutes",
+      "Start free 30-day trial",
+      "Unlimited teams with org-level controls",
+      "1.5TB bandwidth and 35k build minutes",
+      "Start free 30-day trial",
+      "Start free 30-day trial",
+      "$19 /month per member,",
+      "3 (then $40 each)",
+      "5 (then $40 each)",
+      "300 minutes /month (then $7 per 500)",
+      "25k minutes /month (then $7 per 500)",
+      "35k minutes /month (then $7 per 500)",
+      "Unlimited (Fair use. For how this is defined for Functions - contact Sales",
+      "1m /month (then $2 per 1m)",
+      "2m /month (then $2 per 1m)",
+      "5m /month (then $2 per 1m, for higher usage - contact Sales",
+      "100 per site /month ($19+ when exceeded)",
+      "Extend your site for free with basic access to add-ons. Automatically upgrade tiers as your usage grows, paying only for what you use.",
+      "Full Feature list pricing table Starter $0 to get started",
+      "300 minutes /month (then $7 per 500)",
+      "1m /month (then $2 per 1m)",
+      "100 per site /month ($19+ when exceeded)",
+      "Extend your site for free with basic access to add-ons. Automatically upgrade tiers as your usage grows, paying only for what you use.",
+      "$19 /month per member,",
+      "3 (then $40 each)",
+      "Bandwidth 1TB /month (then $55 per 100GB)",
+      "25k minutes /month (then $7 per 500)",
+      "2m /month (then $2 per 1m)",
+      "100 per site /month ($19+ when exceeded)",
+      "Extend your site for free with basic access to add-ons. Automatically upgrade tiers as your usage grows, paying only for what you use.",
+      "Start free 30-day trial",
+      "5 (then $40 each)",
+      "35k minutes /month (then $7 per 500)",
+      "Unlimited (Fair use. For how this is defined for Functions - contact Sales",
+      "5m /month (then $2 per 1m, for higher usage - contact Sales",
+      "Extend your site for free with basic access to add-ons. Automatically upgrade tiers as your usage grows, paying only for what you use."
+    ],
+    "totals": {
+      "removed": 736,
+      "added": 354,
+      "materialRemoved": 119,
+      "materialAdded": 101
+    }
+  },
+  {
+    "id": "netlify-com-pricing-20231202151203",
+    "url": "https://www.netlify.com/pricing/",
+    "ts": "20231202151203",
+    "date": "2023-12-02",
+    "source": "wayback",
+    "prevTs": "20231102173410",
+    "kind": "limits",
+    "score": 12,
+    "counts": {
+      "price": 0,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Netlify: 6 limits changed (1m → 1M; 2m → 2M)",
+    "pairs": [
+      {
+        "before": "1m /month",
+        "after": "1M /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1m",
+            "after": "1M"
+          }
+        ]
+      },
+      {
+        "before": "2m /month",
+        "after": "2M /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2m",
+            "after": "2M"
+          }
+        ]
+      },
+      {
+        "before": "5m /month",
+        "after": "5M /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "5m",
+            "after": "5M"
+          }
+        ]
+      },
+      {
+        "before": "1m /month",
+        "after": "1M /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1m",
+            "after": "1M"
+          }
+        ]
+      },
+      {
+        "before": "2m /month",
+        "after": "2M /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2m",
+            "after": "2M"
+          }
+        ]
+      },
+      {
+        "before": "5m /month",
+        "after": "5M /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "5m",
+            "after": "5M"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 6,
+      "materialRemoved": 6,
+      "materialAdded": 6
+    }
+  },
+  {
+    "id": "netlify-com-pricing-20240116153718",
+    "url": "https://www.netlify.com/pricing/",
+    "ts": "20240116153718",
+    "date": "2024-01-16",
+    "source": "wayback",
+    "prevTs": "20231202151203",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Netlify: 1 limit changed (removed “5 Member Seats”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "5 Member Seats",
+      "20 Member Seats",
+      "Unlimited Member Seats",
+      "Unlimited Advanced Projects",
+      "Unlimited Content Sources",
+      "Unlimited Component and Page Templates"
+    ],
+    "totals": {
+      "removed": 9,
+      "added": 8,
+      "materialRemoved": 6,
+      "materialAdded": 0
+    }
+  }
+]

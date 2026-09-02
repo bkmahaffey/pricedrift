@@ -1,0 +1,26 @@
+slug: papertrail
+name: Papertrail
+category: observability
+website: https://www.papertrail.com
+tagline: Hosted log management with search, alerts and archives
+track_urls:
+  - https://www.papertrail.com/plans/
+free_tier:
+  status: trial
+  plan_name: null
+  credit_card_required: null
+  limits: []
+  trial_length: null
+  credit_amount: null
+  notes:
+    - "Plans page offers a Free Trial signup but states no trial length or free plan limits"
+    - "When the plan limit is reached, logs can stop or continue as usage-based (up to 200% extra, at 30% higher price per GB)"
+paid_from:
+  price: "$5.00 per GB per month"
+  period: usage
+  unit: usage
+  plan_name: Log Observability
+verified_on: "2026-09-02"
+sources:
+  - https://www.papertrail.com/plans/
+referral: null

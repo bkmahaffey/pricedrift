@@ -1,0 +1,40 @@
+slug: influxdb-cloud
+name: InfluxDB Cloud
+category: databases
+website: https://www.influxdata.com
+tagline: Managed time series database (InfluxDB 3 Cloud Serverless)
+track_urls:
+  - https://www.influxdata.com/influxdb-pricing/
+  - https://docs.influxdata.com/influxdb3/cloud-serverless/admin/billing/limits/
+free_tier:
+  status: free
+  plan_name: Free Plan
+  credit_card_required: false
+  limits:
+    - metric: Data in
+      value: 5 MB per 5 minutes
+    - metric: Query response payload
+      value: 300 MB per 5 minutes
+    - metric: Data retention
+      value: 30 days
+    - metric: Buckets
+      value: "2"
+    - metric: Partitions per query
+      value: "500"
+    - metric: Parquet files per query
+      value: "1000"
+  trial_length: null
+  credit_amount: null
+  notes:
+    - Free tier is multi-tenant with service quotas and no HA
+    - New paid accounts receive $250 in credits applied to the first 30 days
+paid_from:
+  price: "$0.0025 per MB written"
+  period: usage
+  unit: usage
+  plan_name: Usage-Based
+verified_on: "2026-09-02"
+sources:
+  - https://www.influxdata.com/influxdb-pricing/
+  - https://docs.influxdata.com/influxdb3/cloud-serverless/admin/billing/limits/
+referral: null

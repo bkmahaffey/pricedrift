@@ -1,0 +1,34 @@
+slug: beehiiv
+name: beehiiv
+category: email
+website: https://www.beehiiv.com
+tagline: Newsletter platform with website builder, ads and paid subscriptions
+track_urls:
+  - https://www.beehiiv.com/pricing
+free_tier:
+  status: free
+  plan_name: Launch
+  credit_card_required: null
+  limits:
+    - metric: Subscribers
+      value: "Up to 2,500 subscribers"
+    - metric: Publications
+      value: "3"
+    - metric: Email sends
+      value: "Unlimited"
+    - metric: Team members
+      value: "1"
+    - metric: Custom domains
+      value: "Included"
+  trial_length: null
+  credit_amount: null
+  notes: []
+paid_from:
+  price: "$43"
+  period: month
+  unit: flat
+  plan_name: Scale
+verified_on: "2026-09-02"
+sources:
+  - https://www.beehiiv.com/pricing
+referral: null
