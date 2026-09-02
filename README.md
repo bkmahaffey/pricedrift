@@ -20,6 +20,9 @@ data/                  snapshots (text), detected changes, tracker state, run su
 .github/workflows      daily cron: track → commit data → build → deploy to GitHub Pages
 ```
 
+Snapshots are visible text only; credential-shaped strings (example connection strings, API keys)
+are redacted before storage, so nothing that trips GitHub push protection reaches the repo.
+
 A change is **material** when a line containing a price, a quantity with a unit, or a plan name
 changed. Everything else is a wording-only edit and stays off the main feed. A live-detected
 change is published only after it is seen on two consecutive days (A/B test guard); a change that
