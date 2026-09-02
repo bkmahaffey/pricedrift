@@ -47,13 +47,21 @@ export async function observe(service, url, ts, lines, source, { serviceName, fo
     return { status: 'unchanged' };
   }
   const prevLines = await readSnapshot(slug, url, st.latestTs);
-  if (isSuspiciousShrink(prevLines, lines)) {
-    st.status = 'suspicious';
-    st.lastNote = `capture ${ts} had ${lines.length} lines vs ${prevLines.length}; ignored`;
-    state.urls[key] = st;
-    await writeState(slug, state);
-    return { status: 'skipped' };
+  // A much shorter capture is usually a broken fetch. If the same short content shows up on three
+  // consecutive checks it is the page's new reality (a redesign, a geo variant), so accept it as a baseline.
+  if (isSuspiciousShrink(prevLines, lines) && !forceTransition) {
+    st.suspiciousCount = st.suspiciousHash === hash ? (st.suspiciousCount || 0) + 1 : 1;
+    st.suspiciousHash = hash;
+    if (st.suspiciousCount < 3) {
+      st.status = 'suspicious';
+      st.lastNote = `capture ${ts} had ${lines.length} lines vs ${prevLines.length}; ignored (${st.suspiciousCount}/3)`;
+      state.urls[key] = st;
+      await writeState(slug, state);
+      return { status: 'skipped' };
+    }
+    forceTransition = true;
   }
+  delete st.suspiciousCount; delete st.suspiciousHash;
   const change = computeChange(stableLines(prevLines), stable);
   if (!change) { // only volatile lines differed
     st.hash = hash; st.status = 'ok';
@@ -64,7 +72,7 @@ export async function observe(service, url, ts, lines, source, { serviceName, fo
   const changes = await readChanges(slug);
   // The first live capture after archived history usually differs in rendering (regions, currency
   // toggles, client-side sections). Record the diff but keep it out of the main feed.
-  const transition = forceTransition || (st.lastSource === 'wayback' && source !== 'wayback');
+  const transition = !!forceTransition || (st.lastSource === 'wayback' && source !== 'wayback');
   const entry = {
     id: `${key}-${ts}`,
     url, ts, date: tsToDate(ts), source, ...(transition ? { transition: true } : {}),
