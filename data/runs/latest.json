@@ -1,103 +1,144 @@
 {
-  "ranAt": "2026-09-02T20:30:52.158Z",
-  "ts": "20260902203052",
+  "ranAt": "2026-09-03T11:13:16.853Z",
+  "ts": "20260903111316",
   "checked": 265,
   "changed": [],
   "confirmed": [],
   "pending": [
     {
       "slug": "airtable",
-      "url": "https://airtable.com/pricing"
+      "url": "https://support.airtable.com/articles/2277136852-airtable-plans-overview"
     },
     {
       "slug": "algolia",
       "url": "https://www.algolia.com/pricing"
     },
     {
-      "slug": "linode",
-      "url": "https://www.akamai.com/cloud/pricing"
+      "slug": "assemblyai",
+      "url": "https://www.assemblyai.com/pricing"
     },
     {
       "slug": "azure-free",
       "url": "https://azure.microsoft.com/en-us/pricing/free-services"
     },
     {
-      "slug": "bitbucket",
-      "url": "https://www.atlassian.com/software/bitbucket/pricing"
+      "slug": "baseten",
+      "url": "https://www.baseten.co/pricing/"
     },
     {
       "slug": "azure-free",
       "url": "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account"
     },
     {
-      "slug": "cloudflare-zero-trust",
-      "url": "https://www.cloudflare.com/plans/zero-trust-services/"
+      "slug": "datadog",
+      "url": "https://www.datadoghq.com/pricing/"
     },
     {
-      "slug": "groq",
-      "url": "https://console.groq.com/docs/models"
-    },
-    {
-      "slug": "hetzner",
-      "url": "https://www.hetzner.com/cloud/"
+      "slug": "jira",
+      "url": "https://www.atlassian.com/software/jira/pricing"
     },
     {
       "slug": "mailchimp",
       "url": "https://mailchimp.com/pricing/marketing/"
     },
     {
-      "slug": "mailtrap",
-      "url": "https://mailtrap.io/pricing/"
+      "slug": "hetzner",
+      "url": "https://www.hetzner.com/cloud/"
+    },
+    {
+      "slug": "mixpanel",
+      "url": "https://mixpanel.com/pricing"
+    },
+    {
+      "slug": "neon",
+      "url": "https://neon.com/pricing"
     },
     {
       "slug": "mistral",
       "url": "https://mistral.ai/pricing"
     },
     {
-      "slug": "netlify",
-      "url": "https://www.netlify.com/pricing/"
+      "slug": "openrouter",
+      "url": "https://openrouter.ai/docs/faq"
     },
     {
-      "slug": "papertrail",
-      "url": "https://www.papertrail.com/plans/"
+      "slug": "openrouter",
+      "url": "https://openrouter.ai/docs/api-reference/limits"
     },
     {
-      "slug": "planetscale",
-      "url": "https://planetscale.com/pricing"
+      "slug": "railway",
+      "url": "https://railway.com/pricing"
     },
     {
       "slug": "posthog",
       "url": "https://posthog.com/pricing"
     },
     {
-      "slug": "redis-cloud",
-      "url": "https://redis.io/pricing/"
-    },
-    {
       "slug": "scaleway",
       "url": "https://www.scaleway.com/en/pricing/"
     },
     {
-      "slug": "stripe",
-      "url": "https://stripe.com/pricing"
-    },
-    {
-      "slug": "vast-ai",
-      "url": "https://vast.ai/pricing"
+      "slug": "vercel",
+      "url": "https://vercel.com/pricing"
     },
     {
       "slug": "warp",
       "url": "https://www.warp.dev/pricing"
     },
     {
-      "slug": "vultr",
-      "url": "https://www.vultr.com/pricing/"
+      "slug": "vast-ai",
+      "url": "https://vast.ai/pricing"
+    },
+    {
+      "slug": "xai",
+      "url": "https://docs.x.ai/docs/models"
+    },
+    {
+      "slug": "windsurf",
+      "url": "https://devin.ai/pricing"
     }
   ],
-  "unreachable": [],
+  "unreachable": [
+    {
+      "slug": "linode",
+      "url": "https://www.akamai.com/cloud/pricing",
+      "notes": [
+        "http 403",
+        "browser: 403, 3 lines",
+        "wayback: no snapshot"
+      ]
+    },
+    {
+      "slug": "contentful",
+      "url": "https://www.contentful.com/pricing/",
+      "notes": [
+        "http 429",
+        "browser: 429, 2 lines",
+        "wayback: no snapshot"
+      ]
+    },
+    {
+      "slug": "codesandbox",
+      "url": "https://codesandbox.io/pricing",
+      "notes": [
+        "http 403",
+        "browser: 403, 7 lines",
+        "wayback: no snapshot"
+      ]
+    },
+    {
+      "slug": "vultr",
+      "url": "https://www.vultr.com/pricing/",
+      "notes": [
+        "http 403",
+        "browser: 403, 7 lines",
+        "wayback: no snapshot"
+      ]
+    }
+  ],
   "sources": {
-    "http": 247,
-    "wayback": 7,
-    "browser": 11
+    "http": 244,
+    "browser": 14,
+    "wayback": 3
   }
 }
