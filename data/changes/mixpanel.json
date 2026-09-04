@@ -761,5 +761,34 @@
       "materialRemoved": 27,
       "materialAdded": 51
     }
+  },
+  {
+    "id": "mixpanel-com-pricing-20260903111316",
+    "url": "https://mixpanel.com/pricing",
+    "ts": "20260903111316",
+    "date": "2026-09-03",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Mixpanel: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Experiments and Feature Flags are now included with Free and Growth plans!",
+      "Experiments and Feature Flags are now included with Free and Growth plans!"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 6,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
   }
 ]

@@ -1359,5 +1359,37 @@
       "materialRemoved": 4,
       "materialAdded": 6
     }
+  },
+  {
+    "id": "warp-dev-pricing-20260903111316",
+    "url": "https://www.warp.dev/pricing",
+    "ts": "20260903111316",
+    "date": "2026-09-03",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260804171943",
+    "kind": "price",
+    "score": 7,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Warp: 2 prices, 1 limit changed (added “Warp Factories, now in Early Access — select …”)",
+    "pairs": [],
+    "added": [
+      "Warp Factories, now in Early Access — select teams get up to $10,000 in factory usage Learn more",
+      "○ Up to 25 seats, with per-seat included credits",
+      "○ Unlimited seats with custom shared usage pools",
+      "Select teams get up to $10,000 in factory usage during Early Access."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 50,
+      "materialRemoved": 0,
+      "materialAdded": 4
+    }
   }
 ]

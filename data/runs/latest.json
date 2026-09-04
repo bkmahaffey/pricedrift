@@ -1,69 +1,151 @@
 {
-  "ranAt": "2026-09-03T11:13:16.853Z",
-  "ts": "20260903111316",
+  "ranAt": "2026-09-04T11:23:36.883Z",
+  "ts": "20260904112336",
   "checked": 265,
   "changed": [],
-  "confirmed": [],
+  "confirmed": [
+    {
+      "slug": "algolia",
+      "headline": "Algolia: 1 price, 6 limits, 4 plan names changed (10K → 5K; 10K → 5K)",
+      "material": true
+    },
+    {
+      "slug": "baseten",
+      "headline": "Baseten: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "datadog",
+      "headline": "Datadog: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "mixpanel",
+      "headline": "Mixpanel: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "openrouter",
+      "headline": "OpenRouter: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "openrouter",
+      "headline": "OpenRouter: 2 limits changed (removed “Free usage limits: If you’re using a free mod…”; added “A 429 error can come from two places: OpenRou…”)",
+      "material": true
+    },
+    {
+      "slug": "vercel",
+      "headline": "Vercel: 1 price changed (added “$0.007 per minute”)",
+      "material": true
+    },
+    {
+      "slug": "warp",
+      "headline": "Warp: 2 prices, 1 limit changed (added “Warp Factories, now in Early Access — select …”)",
+      "material": true
+    },
+    {
+      "slug": "xai",
+      "headline": "xAI API: pricing page text changed (no price or limit change detected)",
+      "material": false
+    }
+  ],
   "pending": [
     {
       "slug": "airtable",
       "url": "https://support.airtable.com/articles/2277136852-airtable-plans-overview"
     },
     {
-      "slug": "algolia",
-      "url": "https://www.algolia.com/pricing"
+      "slug": "anthropic",
+      "url": "https://claude.com/pricing"
     },
     {
       "slug": "assemblyai",
       "url": "https://www.assemblyai.com/pricing"
     },
     {
-      "slug": "azure-free",
-      "url": "https://azure.microsoft.com/en-us/pricing/free-services"
+      "slug": "linode",
+      "url": "https://www.akamai.com/cloud/pricing"
     },
     {
-      "slug": "baseten",
-      "url": "https://www.baseten.co/pricing/"
+      "slug": "azure-free",
+      "url": "https://azure.microsoft.com/en-us/pricing/free-services"
     },
     {
       "slug": "azure-free",
       "url": "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account"
     },
     {
-      "slug": "datadog",
-      "url": "https://www.datadoghq.com/pricing/"
+      "slug": "bolt",
+      "url": "https://bolt.new/pricing"
     },
     {
-      "slug": "jira",
-      "url": "https://www.atlassian.com/software/jira/pricing"
+      "slug": "clerk",
+      "url": "https://clerk.com/pricing"
     },
     {
-      "slug": "mailchimp",
-      "url": "https://mailchimp.com/pricing/marketing/"
+      "slug": "cloudflare-workers",
+      "url": "https://developers.cloudflare.com/workers/platform/limits/"
     },
     {
-      "slug": "hetzner",
-      "url": "https://www.hetzner.com/cloud/"
+      "slug": "cohere",
+      "url": "https://cohere.com/pricing"
     },
     {
-      "slug": "mixpanel",
-      "url": "https://mixpanel.com/pricing"
+      "slug": "cursor",
+      "url": "https://cursor.com/pricing"
+    },
+    {
+      "slug": "depot",
+      "url": "https://depot.dev/pricing"
+    },
+    {
+      "slug": "fal",
+      "url": "https://fal.ai/pricing"
+    },
+    {
+      "slug": "figma",
+      "url": "https://www.figma.com/pricing/"
+    },
+    {
+      "slug": "github-copilot",
+      "url": "https://github.com/features/copilot/plans"
+    },
+    {
+      "slug": "google-gemini",
+      "url": "https://ai.google.dev/gemini-api/docs/pricing"
+    },
+    {
+      "slug": "kinsta",
+      "url": "https://kinsta.com/plans/"
+    },
+    {
+      "slug": "lovable",
+      "url": "https://docs.lovable.dev/introduction/subscription-plans"
     },
     {
       "slug": "neon",
       "url": "https://neon.com/pricing"
     },
     {
-      "slug": "mistral",
-      "url": "https://mistral.ai/pricing"
+      "slug": "notion",
+      "url": "https://www.notion.com/pricing"
     },
     {
-      "slug": "openrouter",
-      "url": "https://openrouter.ai/docs/faq"
+      "slug": "openai",
+      "url": "https://developers.openai.com/api/docs/pricing"
     },
     {
-      "slug": "openrouter",
-      "url": "https://openrouter.ai/docs/api-reference/limits"
+      "slug": "openai",
+      "url": "https://developers.openai.com/api/docs/guides/rate-limits"
+    },
+    {
+      "slug": "pinecone",
+      "url": "https://www.pinecone.io/pricing/"
+    },
+    {
+      "slug": "plausible",
+      "url": "https://plausible.io/#pricing"
     },
     {
       "slug": "railway",
@@ -74,71 +156,30 @@
       "url": "https://posthog.com/pricing"
     },
     {
-      "slug": "scaleway",
-      "url": "https://www.scaleway.com/en/pricing/"
+      "slug": "slack",
+      "url": "https://slack.com/pricing"
     },
     {
-      "slug": "vercel",
-      "url": "https://vercel.com/pricing"
+      "slug": "sourcegraph",
+      "url": "https://sourcegraph.com/pricing"
     },
     {
-      "slug": "warp",
-      "url": "https://www.warp.dev/pricing"
+      "slug": "stripe",
+      "url": "https://stripe.com/pricing"
+    },
+    {
+      "slug": "tailscale",
+      "url": "https://tailscale.com/pricing"
     },
     {
       "slug": "vast-ai",
       "url": "https://vast.ai/pricing"
-    },
-    {
-      "slug": "xai",
-      "url": "https://docs.x.ai/docs/models"
-    },
-    {
-      "slug": "windsurf",
-      "url": "https://devin.ai/pricing"
     }
   ],
-  "unreachable": [
-    {
-      "slug": "linode",
-      "url": "https://www.akamai.com/cloud/pricing",
-      "notes": [
-        "http 403",
-        "browser: 403, 3 lines",
-        "wayback: no snapshot"
-      ]
-    },
-    {
-      "slug": "contentful",
-      "url": "https://www.contentful.com/pricing/",
-      "notes": [
-        "http 429",
-        "browser: 429, 2 lines",
-        "wayback: no snapshot"
-      ]
-    },
-    {
-      "slug": "codesandbox",
-      "url": "https://codesandbox.io/pricing",
-      "notes": [
-        "http 403",
-        "browser: 403, 7 lines",
-        "wayback: no snapshot"
-      ]
-    },
-    {
-      "slug": "vultr",
-      "url": "https://www.vultr.com/pricing/",
-      "notes": [
-        "http 403",
-        "browser: 403, 7 lines",
-        "wayback: no snapshot"
-      ]
-    }
-  ],
+  "unreachable": [],
   "sources": {
     "http": 244,
-    "browser": 14,
-    "wayback": 3
+    "browser": 16,
+    "wayback": 5
   }
 }

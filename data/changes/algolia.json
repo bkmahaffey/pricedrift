@@ -751,5 +751,75 @@
       "materialRemoved": 2,
       "materialAdded": 1
     }
+  },
+  {
+    "id": "algolia-com-pricing-20260903111316",
+    "url": "https://www.algolia.com/pricing",
+    "ts": "20260903111316",
+    "date": "2026-09-03",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260802181704",
+    "kind": "price",
+    "score": 23,
+    "counts": {
+      "price": 1,
+      "limit": 6,
+      "plan": 4
+    },
+    "material": true,
+    "headline": "Algolia: 1 price, 6 limits, 4 plan names changed (10K → 5K; 10K → 5K)",
+    "pairs": [
+      {
+        "before": "10K crawls/month",
+        "after": "5K crawls/month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10K",
+            "after": "5K"
+          }
+        ]
+      },
+      {
+        "before": "10K AI Recommendation requests/month",
+        "after": "5K recommendation requests/month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10K",
+            "after": "5K"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Free",
+      "No credit card required.",
+      "50K records included",
+      "Free",
+      "Free",
+      "Free",
+      "5,000 per month",
+      "7 days",
+      "5,000 per month",
+      "1 GB",
+      "1 GB",
+      "10 KB"
+    ],
+    "removed": [
+      "Free to start, then pay as you go",
+      "Free to test out all features",
+      "1M records included",
+      "Why does the Algolia Build plan include more free records than Grow? 0",
+      "To help you develop, test and experiment with your full data set risk-free, the Algolia Build plan permits up to 1 Million records when you’re in development, with API rate limiting and a limited number of Search Requests per month.",
+      "A Forrester Consulting study found Algolia delivered $3.1M NPV over three years, helping commerce teams improve relevance, automate merchandising, and grow revenue"
+    ],
+    "totals": {
+      "removed": 43,
+      "added": 30,
+      "materialRemoved": 10,
+      "materialAdded": 16
+    }
   }
 ]

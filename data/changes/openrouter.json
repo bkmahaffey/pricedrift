@@ -393,5 +393,70 @@
       "materialRemoved": 2,
       "materialAdded": 2
     }
+  },
+  {
+    "id": "openrouter-ai-docs-faq-20260903111316",
+    "url": "https://openrouter.ai/docs/faq",
+    "ts": "20260903111316",
+    "date": "2026-09-03",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260825143826",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "OpenRouter: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "openrouter-ai-docs-api-reference-limits-20260903111316",
+    "url": "https://openrouter.ai/docs/api-reference/limits",
+    "ts": "20260903111316",
+    "date": "2026-09-03",
+    "source": "browser",
+    "transition": true,
+    "prevTs": "20251107223220",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OpenRouter: 2 limits changed (removed “Free usage limits: If you’re using a free mod…”; added “A 429 error can come from two places: OpenRou…”)",
+    "pairs": [],
+    "added": [
+      "How many requests you can make (free-model request caps and DDoS protection)",
+      "Rate limits govern how many requests you can make. There are a few rate limits that apply to certain types of requests, regardless of account status: Free usage limits: If you’re using a free model variant (with an ID ending in:free), the following limits apply:",
+      "A 429 error can come from two places: OpenRouter, when you hit one of the platform limits above (free-model requests per minute or per day, or DDoS protection).",
+      "On free variants, purchase at least 10 credits to raise your daily limit, or switch to the paid variant of the model, which has no platform-level request cap."
+    ],
+    "removed": [
+      "limit: number | null; // Credit limit for the key, or null if unlimited",
+      "limit_remaining: number | null; // Remaining credits for the key, or null if unlimited",
+      "Free usage limits: If you’re using a free model variant (with an ID ending in: free), you can make up to 20 requests per minute. The following per-day limits apply:",
+      "If you have purchased less than 10 credits, you’re limited to 50: free model requests per day.",
+      "If you purchase at least 10 credits, your daily limit is increased to 1000: free model requests per day."
+    ],
+    "totals": {
+      "removed": 113,
+      "added": 56,
+      "materialRemoved": 6,
+      "materialAdded": 5
+    }
   }
 ]

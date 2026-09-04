@@ -1853,5 +1853,33 @@
       "materialRemoved": 2,
       "materialAdded": 5
     }
+  },
+  {
+    "id": "vercel-com-pricing-20260903111316",
+    "url": "https://vercel.com/pricing",
+    "ts": "20260903111316",
+    "date": "2026-09-03",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Vercel: 1 price changed (added “$0.007 per minute”)",
+    "pairs": [],
+    "added": [
+      "$0.007 per minute"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
   }
 ]

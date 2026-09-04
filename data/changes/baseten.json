@@ -1498,5 +1498,31 @@
       "materialRemoved": 20,
       "materialAdded": 34
     }
+  },
+  {
+    "id": "baseten-co-pricing-20260903111316",
+    "url": "https://www.baseten.co/pricing/",
+    "ts": "20260903111316",
+    "date": "2026-09-03",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Baseten: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

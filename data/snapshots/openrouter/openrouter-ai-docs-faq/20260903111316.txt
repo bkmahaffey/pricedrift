@@ -38,10 +38,6 @@ What are model variants?
 Variants are suffixes that can be added to the model slug to change its behavior. Static variants can only be used with specific models and these are listed in our models api
 .:free - The model is always provided for free and has low rate limits. Learn more
 .
-:extended - The model has longer than usual context length. Learn more
-.
-:thinking - The model supports reasoning by default. Learn more
-.
 Dynamic variants can be used on all models and they change the behavior of how the request is routed or used.:online (deprecated) - All requests will run a query to extract web results that are attached to the prompt. Use the openrouter:web_search server tool
 instead. Learn more
 .
@@ -144,6 +140,5 @@ For account and billing questions, please contact us at support@openrouter.ai
 How can I file a bug report or change request for OpenRouter?
 You can file bug reports or change requests by posting in our Discord
 .
-⌘ I
 Assistant
 Responses are generated using AI and may contain mistakes.
