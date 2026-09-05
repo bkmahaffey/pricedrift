@@ -1,52 +1,92 @@
 {
-  "ranAt": "2026-09-04T11:23:36.883Z",
-  "ts": "20260904112336",
+  "ranAt": "2026-09-05T10:34:05.688Z",
+  "ts": "20260905103405",
   "checked": 265,
   "changed": [],
   "confirmed": [
     {
-      "slug": "algolia",
-      "headline": "Algolia: 1 price, 6 limits, 4 plan names changed (10K → 5K; 10K → 5K)",
+      "slug": "assemblyai",
+      "headline": "AssemblyAI: 12 prices, 1 limit changed (13 → 14)",
       "material": true
     },
     {
-      "slug": "baseten",
-      "headline": "Baseten: pricing page text changed (no price or limit change detected)",
+      "slug": "bolt",
+      "headline": "Bolt.new: pricing page text changed (no price or limit change detected)",
       "material": false
     },
     {
-      "slug": "datadog",
-      "headline": "Datadog: pricing page text changed (no price or limit change detected)",
+      "slug": "clerk",
+      "headline": "Clerk: pricing page text changed (no price or limit change detected)",
       "material": false
     },
     {
-      "slug": "mixpanel",
-      "headline": "Mixpanel: pricing page text changed (no price or limit change detected)",
+      "slug": "cohere",
+      "headline": "Cohere: pricing page text changed (no price or limit change detected)",
       "material": false
     },
     {
-      "slug": "openrouter",
-      "headline": "OpenRouter: pricing page text changed (no price or limit change detected)",
+      "slug": "cursor",
+      "headline": "Cursor: pricing page text changed (no price or limit change detected)",
       "material": false
     },
     {
-      "slug": "openrouter",
-      "headline": "OpenRouter: 2 limits changed (removed “Free usage limits: If you’re using a free mod…”; added “A 429 error can come from two places: OpenRou…”)",
+      "slug": "depot",
+      "headline": "Depot: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "fal",
+      "headline": "fal: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "figma",
+      "headline": "Figma: 1 plan name changed",
       "material": true
     },
     {
-      "slug": "vercel",
-      "headline": "Vercel: 1 price changed (added “$0.007 per minute”)",
+      "slug": "github-copilot",
+      "headline": "GitHub Copilot: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "google-gemini",
+      "headline": "Google Gemini API: 1 price, 1 plan name changed (added “$0.08 per song”)",
       "material": true
     },
     {
-      "slug": "warp",
-      "headline": "Warp: 2 prices, 1 limit changed (added “Warp Factories, now in Early Access — select …”)",
+      "slug": "mailchimp",
+      "headline": "Mailchimp: 1 price changed ($20 → 0)",
       "material": true
     },
     {
-      "slug": "xai",
-      "headline": "xAI API: pricing page text changed (no price or limit change detected)",
+      "slug": "notion",
+      "headline": "Notion: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "pinecone",
+      "headline": "Pinecone: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "plausible",
+      "headline": "Plausible: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "slack",
+      "headline": "Slack: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "sourcegraph",
+      "headline": "Sourcegraph: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "tailscale",
+      "headline": "Tailscale: pricing page text changed (no price or limit change detected)",
       "material": false
     }
   ],
@@ -56,16 +96,12 @@
       "url": "https://support.airtable.com/articles/2277136852-airtable-plans-overview"
     },
     {
+      "slug": "amplitude",
+      "url": "https://amplitude.com/pricing"
+    },
+    {
       "slug": "anthropic",
       "url": "https://claude.com/pricing"
-    },
-    {
-      "slug": "assemblyai",
-      "url": "https://www.assemblyai.com/pricing"
-    },
-    {
-      "slug": "linode",
-      "url": "https://www.akamai.com/cloud/pricing"
     },
     {
       "slug": "azure-free",
@@ -76,12 +112,8 @@
       "url": "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account"
     },
     {
-      "slug": "bolt",
-      "url": "https://bolt.new/pricing"
-    },
-    {
-      "slug": "clerk",
-      "url": "https://clerk.com/pricing"
+      "slug": "cloudflare-pages",
+      "url": "https://developers.cloudflare.com/pages/platform/limits/"
     },
     {
       "slug": "cloudflare-workers",
@@ -89,31 +121,23 @@
     },
     {
       "slug": "cohere",
-      "url": "https://cohere.com/pricing"
+      "url": "https://docs.cohere.com/docs/rate-limits"
     },
     {
-      "slug": "cursor",
-      "url": "https://cursor.com/pricing"
+      "slug": "contentful",
+      "url": "https://www.contentful.com/pricing/"
     },
     {
-      "slug": "depot",
-      "url": "https://depot.dev/pricing"
+      "slug": "hostinger",
+      "url": "https://www.hostinger.com/web-hosting"
     },
     {
-      "slug": "fal",
-      "url": "https://fal.ai/pricing"
+      "slug": "influxdb-cloud",
+      "url": "https://docs.influxdata.com/influxdb3/cloud-serverless/admin/billing/limits/"
     },
     {
-      "slug": "figma",
-      "url": "https://www.figma.com/pricing/"
-    },
-    {
-      "slug": "github-copilot",
-      "url": "https://github.com/features/copilot/plans"
-    },
-    {
-      "slug": "google-gemini",
-      "url": "https://ai.google.dev/gemini-api/docs/pricing"
+      "slug": "hetzner",
+      "url": "https://www.hetzner.com/cloud/"
     },
     {
       "slug": "kinsta",
@@ -124,52 +148,60 @@
       "url": "https://docs.lovable.dev/introduction/subscription-plans"
     },
     {
+      "slug": "mistral",
+      "url": "https://mistral.ai/pricing"
+    },
+    {
       "slug": "neon",
       "url": "https://neon.com/pricing"
     },
     {
-      "slug": "notion",
-      "url": "https://www.notion.com/pricing"
+      "slug": "ngrok",
+      "url": "https://ngrok.com/pricing"
     },
     {
       "slug": "openai",
       "url": "https://developers.openai.com/api/docs/pricing"
     },
     {
+      "slug": "openrouter",
+      "url": "https://openrouter.ai/docs/api-reference/limits"
+    },
+    {
       "slug": "openai",
       "url": "https://developers.openai.com/api/docs/guides/rate-limits"
-    },
-    {
-      "slug": "pinecone",
-      "url": "https://www.pinecone.io/pricing/"
-    },
-    {
-      "slug": "plausible",
-      "url": "https://plausible.io/#pricing"
     },
     {
       "slug": "railway",
       "url": "https://railway.com/pricing"
     },
     {
+      "slug": "render",
+      "url": "https://render.com/pricing"
+    },
+    {
+      "slug": "sanity",
+      "url": "https://www.sanity.io/pricing"
+    },
+    {
+      "slug": "segment",
+      "url": "https://www.twilio.com/en-us/products/connections/pricing"
+    },
+    {
       "slug": "posthog",
       "url": "https://posthog.com/pricing"
-    },
-    {
-      "slug": "slack",
-      "url": "https://slack.com/pricing"
-    },
-    {
-      "slug": "sourcegraph",
-      "url": "https://sourcegraph.com/pricing"
     },
     {
       "slug": "stripe",
       "url": "https://stripe.com/pricing"
     },
     {
-      "slug": "tailscale",
-      "url": "https://tailscale.com/pricing"
+      "slug": "scaleway",
+      "url": "https://www.scaleway.com/en/pricing/"
+    },
+    {
+      "slug": "unleash",
+      "url": "https://www.getunleash.io/pricing"
     },
     {
       "slug": "vast-ai",
@@ -179,7 +211,7 @@
   "unreachable": [],
   "sources": {
     "http": 244,
-    "browser": 16,
-    "wayback": 5
+    "browser": 15,
+    "wayback": 6
   }
 }

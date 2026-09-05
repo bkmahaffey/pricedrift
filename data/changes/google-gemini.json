@@ -2318,5 +2318,34 @@
       "materialRemoved": 1,
       "materialAdded": 1
     }
+  },
+  {
+    "id": "ai-google-dev-gemini-api-docs-pricing-20260904112336",
+    "url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "ts": "20260904112336",
+    "date": "2026-09-04",
+    "source": "browser",
+    "prevTs": "20260902202107",
+    "kind": "price",
+    "score": 5,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Google Gemini API: 1 price, 1 plan name changed (added “$0.08 per song”)",
+    "pairs": [],
+    "added": [
+      "Free Tier",
+      "$0.08 per song"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 14,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
   }
 ]

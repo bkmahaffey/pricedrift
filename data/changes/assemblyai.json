@@ -1633,5 +1633,57 @@
       "materialRemoved": 102,
       "materialAdded": 55
     }
+  },
+  {
+    "id": "assemblyai-com-pricing-20260904112336",
+    "url": "https://www.assemblyai.com/pricing",
+    "ts": "20260904112336",
+    "date": "2026-09-04",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "price",
+    "score": 38,
+    "counts": {
+      "price": 12,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "AssemblyAI: 12 prices, 1 limit changed (13 → 14)",
+    "pairs": [
+      {
+        "before": "Under $1 / 1M in 13",
+        "after": "Under $1 / 1M in 14",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "13",
+            "after": "14"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0.10 /hr Medium effort",
+      "$0.07 /hr Medium effort",
+      "$0.02 /hr Low effort (default)",
+      "$0.10 /hr Medium effort",
+      "$0.02 /hr Low effort (default)",
+      "$0.07 /hr Medium effort",
+      "$0.75 / 1M",
+      "$3.75 / 1M"
+    ],
+    "removed": [
+      "$0.08 /hr",
+      "$0.03 /hr",
+      "$0.08 /hr",
+      "$0.03 /hr"
+    ],
+    "totals": {
+      "removed": 17,
+      "added": 18,
+      "materialRemoved": 7,
+      "materialAdded": 11
+    }
   }
 ]
