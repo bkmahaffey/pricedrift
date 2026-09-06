@@ -2521,5 +2521,64 @@
       "materialRemoved": 0,
       "materialAdded": 2
     }
+  },
+  {
+    "id": "developers-openai-com-api-docs-pricing-20260905103405",
+    "url": "https://developers.openai.com/api/docs/pricing",
+    "ts": "20260905103405",
+    "date": "2026-09-05",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "price",
+    "score": 96,
+    "counts": {
+      "price": 32,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OpenAI API: 32 prices changed (added “$10.00”)",
+    "pairs": [],
+    "added": [
+      "$10.00",
+      "$1.00",
+      "$12.50",
+      "$50.00",
+      "$20.00",
+      "$2.00",
+      "$25.00",
+      "$75.00",
+      "$5.00",
+      "$0.50",
+      "$6.25",
+      "$25.00",
+      "$10.00",
+      "$1.00",
+      "$12.50",
+      "$37.50",
+      "$5.00",
+      "$0.50",
+      "$6.25",
+      "$25.00",
+      "$10.00",
+      "$1.00",
+      "$12.50",
+      "$37.50",
+      "$20.00",
+      "$2.00",
+      "$25.00",
+      "$100.00",
+      "$40.00",
+      "$4.00",
+      "$50.00",
+      "$150.00"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 45,
+      "materialRemoved": 0,
+      "materialAdded": 32
+    }
   }
 ]

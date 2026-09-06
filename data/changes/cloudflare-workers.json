@@ -1400,5 +1400,45 @@
       "materialRemoved": 2,
       "materialAdded": 2
     }
+  },
+  {
+    "id": "developers-cloudflare-com-workers-platform-limits-20260905103405",
+    "url": "https://developers.cloudflare.com/workers/platform/limits/",
+    "ts": "20260905103405",
+    "date": "2026-09-05",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260818205746",
+    "kind": "limits",
+    "score": 11,
+    "counts": {
+      "price": 0,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare Workers: 6 limits changed (removed “3 MB”; added “64 MiB”)",
+    "pairs": [],
+    "added": [
+      "64 MiB",
+      "Up to 5 GB (self-serve)",
+      "Enterprise customers can adjust the maximum request body size up to 5 GB themselves from the zone's Network page ( Maximum Upload Size). For limits above 5 GB, contact your account team or Cloudflare Support",
+      "64 MiB"
+    ],
+    "removed": [
+      "3 MB",
+      "10 MB",
+      "500 MB (by default)",
+      "3 MB",
+      "10 MB",
+      "64 MB",
+      "If you need more than 500 Workers, consider using Workers for Platforms"
+    ],
+    "totals": {
+      "removed": 14,
+      "added": 17,
+      "materialRemoved": 7,
+      "materialAdded": 4
+    }
   }
 ]

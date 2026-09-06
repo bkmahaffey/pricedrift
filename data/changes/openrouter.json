@@ -458,5 +458,65 @@
       "materialRemoved": 6,
       "materialAdded": 5
     }
+  },
+  {
+    "id": "openrouter-ai-docs-api-reference-limits-20260905103405",
+    "url": "https://openrouter.ai/docs/api-reference/limits",
+    "ts": "20260905103405",
+    "date": "2026-09-05",
+    "source": "http",
+    "prevTs": "20260903111316",
+    "kind": "limits",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OpenRouter: 3 limits changed (402 removed; 429 removed)",
+    "pairs": [
+      {
+        "before": "Credit limits govern how much you can spend. They come from two places: Account balance, your available credits across the account. If your account has a negative credit balance, you may see 402 errors, including for free models. Adding credits to put your balance above zero allows you to use those models again.",
+        "after": "Credit limits govern how much you can spend. They come from two places: Account balance, your available credits across the account. If your account has a negative credit balance, you may see errors, including for free models. Adding credits to put your balance above zero allows you to use those models again.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "402",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "A 429 error can come from two places: OpenRouter, when you hit one of the platform limits above (free-model requests per minute or per day, or DDoS protection).",
+        "after": "A error can come from two places: OpenRouter, when you hit one of the platform limits above (free-model requests per minute or per day, or DDoS protection).",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "429",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "On free variants, purchase at least 10 credits to raise your daily limit, or switch to the paid variant of the model, which has no platform-level request cap.",
+        "after": "On free variants, purchase at least credits to raise your daily limit, or switch to the paid variant of the model, which has no platform-level request cap.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 18,
+      "added": 12,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
   }
 ]

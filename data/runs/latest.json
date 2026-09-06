@@ -1,23 +1,28 @@
 {
-  "ranAt": "2026-09-05T10:34:05.688Z",
-  "ts": "20260905103405",
+  "ranAt": "2026-09-06T10:55:26.703Z",
+  "ts": "20260906105526",
   "checked": 265,
   "changed": [],
   "confirmed": [
     {
-      "slug": "assemblyai",
-      "headline": "AssemblyAI: 12 prices, 1 limit changed (13 → 14)",
+      "slug": "amplitude",
+      "headline": "Amplitude: 1 plan name changed",
       "material": true
     },
     {
-      "slug": "bolt",
-      "headline": "Bolt.new: pricing page text changed (no price or limit change detected)",
+      "slug": "anthropic",
+      "headline": "Anthropic API: pricing page text changed (no price or limit change detected)",
       "material": false
     },
     {
-      "slug": "clerk",
-      "headline": "Clerk: pricing page text changed (no price or limit change detected)",
-      "material": false
+      "slug": "cloudflare-pages",
+      "headline": "Cloudflare Pages: 1 limit changed (removed “Cloudflare Pages has a limit of 100 projects …”; added “Cloudflare Pages has a limit of 100 projects 2”)",
+      "material": true
+    },
+    {
+      "slug": "cloudflare-workers",
+      "headline": "Cloudflare Workers: 6 limits changed (removed “3 MB”; added “64 MiB”)",
+      "material": true
     },
     {
       "slug": "cohere",
@@ -25,68 +30,68 @@
       "material": false
     },
     {
-      "slug": "cursor",
-      "headline": "Cursor: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "depot",
-      "headline": "Depot: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "fal",
-      "headline": "fal: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "figma",
-      "headline": "Figma: 1 plan name changed",
+      "slug": "contentful",
+      "headline": "Contentful: 2 prices, 3 limits, 2 plan names changed (removed “$850/month (limited to one Lite space)”)",
       "material": true
     },
     {
-      "slug": "github-copilot",
-      "headline": "GitHub Copilot: pricing page text changed (no price or limit change detected)",
+      "slug": "hostinger",
+      "headline": "Hostinger: pricing page text changed (no price or limit change detected)",
       "material": false
     },
     {
-      "slug": "google-gemini",
-      "headline": "Google Gemini API: 1 price, 1 plan name changed (added “$0.08 per song”)",
+      "slug": "influxdb-cloud",
+      "headline": "InfluxDB Cloud: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "lovable",
+      "headline": "Lovable: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "neon",
+      "headline": "Neon: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "ngrok",
+      "headline": "ngrok: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "openai",
+      "headline": "OpenAI API: 32 prices changed (added “$10.00”)",
       "material": true
     },
     {
-      "slug": "mailchimp",
-      "headline": "Mailchimp: 1 price changed ($20 → 0)",
+      "slug": "openrouter",
+      "headline": "OpenRouter: 3 limits changed (402 removed; 429 removed)",
       "material": true
     },
     {
-      "slug": "notion",
-      "headline": "Notion: pricing page text changed (no price or limit change detected)",
+      "slug": "railway",
+      "headline": "Railway: pricing page text changed (no price or limit change detected)",
       "material": false
     },
     {
-      "slug": "pinecone",
-      "headline": "Pinecone: pricing page text changed (no price or limit change detected)",
+      "slug": "render",
+      "headline": "Render: pricing page text changed (no price or limit change detected)",
       "material": false
     },
     {
-      "slug": "plausible",
-      "headline": "Plausible: pricing page text changed (no price or limit change detected)",
+      "slug": "sanity",
+      "headline": "Sanity: pricing page text changed (no price or limit change detected)",
       "material": false
     },
     {
-      "slug": "slack",
-      "headline": "Slack: pricing page text changed (no price or limit change detected)",
+      "slug": "segment",
+      "headline": "Segment: pricing page text changed (no price or limit change detected)",
       "material": false
     },
     {
-      "slug": "sourcegraph",
-      "headline": "Sourcegraph: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "tailscale",
-      "headline": "Tailscale: pricing page text changed (no price or limit change detected)",
+      "slug": "unleash",
+      "headline": "Unleash: pricing page text changed (no price or limit change detected)",
       "material": false
     }
   ],
@@ -96,12 +101,12 @@
       "url": "https://support.airtable.com/articles/2277136852-airtable-plans-overview"
     },
     {
-      "slug": "amplitude",
-      "url": "https://amplitude.com/pricing"
+      "slug": "linode",
+      "url": "https://www.akamai.com/cloud/pricing"
     },
     {
-      "slug": "anthropic",
-      "url": "https://claude.com/pricing"
+      "slug": "beam",
+      "url": "https://www.beam.cloud/pricing"
     },
     {
       "slug": "azure-free",
@@ -112,96 +117,24 @@
       "url": "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account"
     },
     {
-      "slug": "cloudflare-pages",
-      "url": "https://developers.cloudflare.com/pages/platform/limits/"
-    },
-    {
-      "slug": "cloudflare-workers",
-      "url": "https://developers.cloudflare.com/workers/platform/limits/"
-    },
-    {
       "slug": "cohere",
-      "url": "https://docs.cohere.com/docs/rate-limits"
-    },
-    {
-      "slug": "contentful",
-      "url": "https://www.contentful.com/pricing/"
-    },
-    {
-      "slug": "hostinger",
-      "url": "https://www.hostinger.com/web-hosting"
-    },
-    {
-      "slug": "influxdb-cloud",
-      "url": "https://docs.influxdata.com/influxdb3/cloud-serverless/admin/billing/limits/"
-    },
-    {
-      "slug": "hetzner",
-      "url": "https://www.hetzner.com/cloud/"
+      "url": "https://cohere.com/pricing"
     },
     {
       "slug": "kinsta",
       "url": "https://kinsta.com/plans/"
     },
     {
-      "slug": "lovable",
-      "url": "https://docs.lovable.dev/introduction/subscription-plans"
-    },
-    {
-      "slug": "mistral",
-      "url": "https://mistral.ai/pricing"
-    },
-    {
-      "slug": "neon",
-      "url": "https://neon.com/pricing"
-    },
-    {
-      "slug": "ngrok",
-      "url": "https://ngrok.com/pricing"
-    },
-    {
-      "slug": "openai",
-      "url": "https://developers.openai.com/api/docs/pricing"
-    },
-    {
-      "slug": "openrouter",
-      "url": "https://openrouter.ai/docs/api-reference/limits"
-    },
-    {
       "slug": "openai",
       "url": "https://developers.openai.com/api/docs/guides/rate-limits"
     },
     {
-      "slug": "railway",
-      "url": "https://railway.com/pricing"
-    },
-    {
-      "slug": "render",
-      "url": "https://render.com/pricing"
-    },
-    {
-      "slug": "sanity",
-      "url": "https://www.sanity.io/pricing"
-    },
-    {
-      "slug": "segment",
-      "url": "https://www.twilio.com/en-us/products/connections/pricing"
-    },
-    {
-      "slug": "posthog",
-      "url": "https://posthog.com/pricing"
+      "slug": "runpod",
+      "url": "https://www.runpod.io/pricing"
     },
     {
       "slug": "stripe",
       "url": "https://stripe.com/pricing"
-    },
-    {
-      "slug": "scaleway",
-      "url": "https://www.scaleway.com/en/pricing/"
-    },
-    {
-      "slug": "unleash",
-      "url": "https://www.getunleash.io/pricing"
     },
     {
       "slug": "vast-ai",
@@ -211,7 +144,7 @@
   "unreachable": [],
   "sources": {
     "http": 244,
-    "browser": 15,
-    "wayback": 6
+    "wayback": 6,
+    "browser": 15
   }
 }

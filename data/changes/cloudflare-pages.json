@@ -1019,5 +1019,36 @@
       "materialRemoved": 1,
       "materialAdded": 4
     }
+  },
+  {
+    "id": "developers-cloudflare-com-pages-platform-limits-20260905103405",
+    "url": "https://developers.cloudflare.com/pages/platform/limits/",
+    "ts": "20260905103405",
+    "date": "2026-09-05",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260813010547",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare Pages: 1 limit changed (removed “Cloudflare Pages has a limit of 100 projects …”; added “Cloudflare Pages has a limit of 100 projects 2”)",
+    "pairs": [],
+    "added": [
+      "Cloudflare Pages has a limit of 100 projects 2"
+    ],
+    "removed": [
+      "Cloudflare Pages has a limit of 100 projects per account. This limit is not routinely increased."
+    ],
+    "totals": {
+      "removed": 1,
+      "added": 4,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
   }
 ]

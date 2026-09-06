@@ -8,11 +8,12 @@
       "latestTs": "20260801041003",
       "hash": "ef17b938465e2f0a",
       "firstTs": "20230315122539",
-      "status": "pending",
+      "status": "suspicious",
       "lastChanged": "20260801041003",
-      "lastNote": "capture 20260902203052 had 140 lines vs 572; ignored",
+      "lastNote": "capture 20260905103405 had 143 lines vs 572; ignored (1/3)",
       "failures": 0,
-      "lineCount": 572
+      "lineCount": 572,
+      "suspiciousCount": 1
     }
   }
 }

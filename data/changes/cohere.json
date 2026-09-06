@@ -862,5 +862,31 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "docs-cohere-com-docs-rate-limits-20260905103405",
+    "url": "https://docs.cohere.com/docs/rate-limits",
+    "ts": "20260905103405",
+    "date": "2026-09-05",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Cohere: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

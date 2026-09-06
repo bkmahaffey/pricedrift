@@ -8,16 +8,16 @@
       "latestTs": "20240506043609",
       "hash": "89a4051d1ddc2ad9",
       "firstTs": "20230104231656",
-      "status": "pending",
+      "status": "suspicious",
       "lastChanged": "20240506043609",
-      "lastNote": "capture 20260903111316 had 124 lines vs 3054; ignored (1/3)",
+      "lastNote": "capture 20260905103405 had 124 lines vs 3054; ignored (2/3)",
       "failures": 0,
       "lineCount": 3054,
-      "suspiciousCount": 1
+      "suspiciousCount": 2
     },
     "scaleway-com-en-pricing-serverless": {
       "url": "https://www.scaleway.com/en/pricing/serverless/",
-      "lastChecked": "20260905103405",
+      "lastChecked": "20260906105526",
       "lastSource": "wayback",
       "latestTs": "20260826141106",
       "hash": "0097215301407c36",

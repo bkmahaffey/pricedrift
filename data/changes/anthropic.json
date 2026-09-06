@@ -1835,5 +1835,34 @@
       "materialRemoved": 1,
       "materialAdded": 15
     }
+  },
+  {
+    "id": "claude-com-pricing-20260905103405",
+    "url": "https://claude.com/pricing",
+    "ts": "20260905103405",
+    "date": "2026-09-05",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260901215950",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Anthropic API: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "500k on default model"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 151,
+      "added": 218,
+      "materialRemoved": 49,
+      "materialAdded": 50
+    }
   }
 ]

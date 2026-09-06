@@ -360,5 +360,31 @@
       "materialRemoved": 0,
       "materialAdded": 9
     }
+  },
+  {
+    "id": "getunleash-io-pricing-20260905103405",
+    "url": "https://www.getunleash.io/pricing",
+    "ts": "20260905103405",
+    "date": "2026-09-05",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Unleash: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 6,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

@@ -809,5 +809,33 @@
       "materialRemoved": 0,
       "materialAdded": 17
     }
+  },
+  {
+    "id": "amplitude-com-pricing-20260905103405",
+    "url": "https://amplitude.com/pricing",
+    "ts": "20260905103405",
+    "date": "2026-09-05",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Amplitude: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "Free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
   }
 ]

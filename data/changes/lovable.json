@@ -394,5 +394,31 @@
       "materialRemoved": 1,
       "materialAdded": 1
     }
+  },
+  {
+    "id": "docs-lovable-dev-introduction-subscription-plans-20260905103405",
+    "url": "https://docs.lovable.dev/introduction/subscription-plans",
+    "ts": "20260905103405",
+    "date": "2026-09-05",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Lovable: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]
