@@ -1,112 +1,34 @@
 {
-  "ranAt": "2026-09-06T10:55:26.703Z",
-  "ts": "20260906105526",
+  "ranAt": "2026-09-07T12:31:11.783Z",
+  "ts": "20260907123111",
   "checked": 265,
   "changed": [],
   "confirmed": [
     {
-      "slug": "amplitude",
-      "headline": "Amplitude: 1 plan name changed",
+      "slug": "beam",
+      "headline": "Beam: 31 prices, 4 limits, 3 plan names changed ($1.74 → $1.83; $0.000986 → $0.000972)",
       "material": true
     },
     {
-      "slug": "anthropic",
-      "headline": "Anthropic API: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "cloudflare-pages",
-      "headline": "Cloudflare Pages: 1 limit changed (removed “Cloudflare Pages has a limit of 100 projects …”; added “Cloudflare Pages has a limit of 100 projects 2”)",
+      "slug": "linode",
+      "headline": "Akamai Linode: 482 prices, 351 limits changed (removed “Egress overage costs = US$0.005 per GB”)",
       "material": true
-    },
-    {
-      "slug": "cloudflare-workers",
-      "headline": "Cloudflare Workers: 6 limits changed (removed “3 MB”; added “64 MiB”)",
-      "material": true
-    },
-    {
-      "slug": "cohere",
-      "headline": "Cohere: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "contentful",
-      "headline": "Contentful: 2 prices, 3 limits, 2 plan names changed (removed “$850/month (limited to one Lite space)”)",
-      "material": true
-    },
-    {
-      "slug": "hostinger",
-      "headline": "Hostinger: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "influxdb-cloud",
-      "headline": "InfluxDB Cloud: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "lovable",
-      "headline": "Lovable: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "neon",
-      "headline": "Neon: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "ngrok",
-      "headline": "ngrok: pricing page text changed (no price or limit change detected)",
-      "material": false
     },
     {
       "slug": "openai",
-      "headline": "OpenAI API: 32 prices changed (added “$10.00”)",
+      "headline": "OpenAI API: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "runpod",
+      "headline": "RunPod: 8 prices changed (removed “$ 3.29 /hr”; added “$ 3.49 /hr”)",
       "material": true
-    },
-    {
-      "slug": "openrouter",
-      "headline": "OpenRouter: 3 limits changed (402 removed; 429 removed)",
-      "material": true
-    },
-    {
-      "slug": "railway",
-      "headline": "Railway: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "render",
-      "headline": "Render: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "sanity",
-      "headline": "Sanity: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "segment",
-      "headline": "Segment: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "unleash",
-      "headline": "Unleash: pricing page text changed (no price or limit change detected)",
-      "material": false
     }
   ],
   "pending": [
     {
       "slug": "airtable",
       "url": "https://support.airtable.com/articles/2277136852-airtable-plans-overview"
-    },
-    {
-      "slug": "linode",
-      "url": "https://www.akamai.com/cloud/pricing"
-    },
-    {
-      "slug": "beam",
-      "url": "https://www.beam.cloud/pricing"
     },
     {
       "slug": "azure-free",
@@ -117,24 +39,64 @@
       "url": "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account"
     },
     {
-      "slug": "cohere",
-      "url": "https://cohere.com/pricing"
+      "slug": "contentful",
+      "url": "https://www.contentful.com/pricing/"
+    },
+    {
+      "slug": "hostinger",
+      "url": "https://www.hostinger.com/web-hosting"
+    },
+    {
+      "slug": "hygraph",
+      "url": "https://hygraph.com/pricing"
+    },
+    {
+      "slug": "hetzner",
+      "url": "https://www.hetzner.com/cloud/"
+    },
+    {
+      "slug": "jira",
+      "url": "https://support.atlassian.com/jira-cloud-administration/docs/explore-jira-cloud-plans/"
     },
     {
       "slug": "kinsta",
       "url": "https://kinsta.com/plans/"
     },
     {
-      "slug": "openai",
-      "url": "https://developers.openai.com/api/docs/guides/rate-limits"
+      "slug": "mistral",
+      "url": "https://mistral.ai/pricing"
     },
     {
-      "slug": "runpod",
-      "url": "https://www.runpod.io/pricing"
+      "slug": "ovhcloud",
+      "url": "https://www.ovhcloud.com/en/public-cloud/prices/"
+    },
+    {
+      "slug": "redis-cloud",
+      "url": "https://redis.io/pricing/"
+    },
+    {
+      "slug": "sanity",
+      "url": "https://www.sanity.io/pricing"
+    },
+    {
+      "slug": "posthog",
+      "url": "https://posthog.com/pricing"
+    },
+    {
+      "slug": "storyblok",
+      "url": "https://www.storyblok.com/pricing"
     },
     {
       "slug": "stripe",
       "url": "https://stripe.com/pricing"
+    },
+    {
+      "slug": "scaleway",
+      "url": "https://www.scaleway.com/en/pricing/"
+    },
+    {
+      "slug": "unleash",
+      "url": "https://www.getunleash.io/pricing"
     },
     {
       "slug": "vast-ai",
@@ -143,8 +105,8 @@
   ],
   "unreachable": [],
   "sources": {
-    "http": 244,
-    "wayback": 6,
-    "browser": 15
+    "http": 243,
+    "browser": 16,
+    "wayback": 6
   }
 }

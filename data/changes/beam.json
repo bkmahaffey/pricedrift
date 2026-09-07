@@ -75,5 +75,202 @@
       "materialRemoved": 19,
       "materialAdded": 81
     }
+  },
+  {
+    "id": "beam-cloud-pricing-20260906105526",
+    "url": "https://www.beam.cloud/pricing",
+    "ts": "20260906105526",
+    "date": "2026-09-06",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260720145002",
+    "kind": "price",
+    "score": 106,
+    "counts": {
+      "price": 31,
+      "limit": 4,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Beam: 31 prices, 4 limits, 3 plan names changed ($1.74 → $1.83; $0.000986 → $0.000972)",
+    "pairs": [
+      {
+        "before": "· H100s from $1.74 /hr",
+        "after": "· H100s from $1.83 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.74",
+            "after": "$1.83"
+          }
+        ]
+      },
+      {
+        "before": "80 GB $0.000986 /sec",
+        "after": "80 GB $0.000972 /sec",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.000986",
+            "after": "$0.000972"
+          }
+        ]
+      },
+      {
+        "before": "from $ 3.93 /hr",
+        "after": "from $ 4.11 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.93",
+            "after": "$4.11"
+          }
+        ]
+      },
+      {
+        "before": "from $ 1.99 /hr",
+        "after": "from $ 2.09 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.99",
+            "after": "$2.09"
+          }
+        ]
+      },
+      {
+        "before": "from $ 1.74 /hr",
+        "after": "from $ 1.83 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.74",
+            "after": "$1.83"
+          }
+        ]
+      },
+      {
+        "before": "from $ 1.30 /hr",
+        "after": "from $ 1.36 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.30",
+            "after": "$1.36"
+          }
+        ]
+      },
+      {
+        "before": "from $ 1.04 /hr",
+        "after": "from $ 1.09 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.04",
+            "after": "$1.09"
+          }
+        ]
+      },
+      {
+        "before": "from $ 0.72 /hr",
+        "after": "from $ 0.76 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.72",
+            "after": "$0.76"
+          }
+        ]
+      },
+      {
+        "before": "from $ 0.68 /hr",
+        "after": "from $ 0.72 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.68",
+            "after": "$0.72"
+          }
+        ]
+      },
+      {
+        "before": "from $ 0.51 /hr",
+        "after": "from $ 0.54 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.51",
+            "after": "$0.54"
+          }
+        ]
+      },
+      {
+        "before": "from $ 0.42 /hr",
+        "after": "from $ 0.44 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.42",
+            "after": "$0.44"
+          }
+        ]
+      },
+      {
+        "before": "Example 8 hours on an H100 machine is $ 13.92. That price already includes the 26 vCPU, 200 GB RAM, and 1 TB NVMe drive.",
+        "after": "Example 8 hours on an H100 machine is $ 14.64. That price already includes the 26 vCPU, 200 GB RAM, and 1 TB NVMe drive.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$13.92",
+            "after": "$14.64"
+          }
+        ]
+      },
+      {
+        "before": "H100 — $ 3.55 /hr",
+        "after": "H100 — $ 3.50 /hr",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.55",
+            "after": "$3.50"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "$30 Free Credit, Every Month",
+      "180 GB VRAM",
+      "180 GB $0.001561 /sec",
+      "141 GB VRAM",
+      "141 GB $0.001136 /sec",
+      "96 GB VRAM",
+      "96 GB $0.000758 /sec",
+      "A100 80GB SXM4",
+      "80 GB VRAM",
+      "80 GB $0.000625 /sec",
+      "48 GB VRAM",
+      "48 GB $0.000486 /sec",
+      "48 GB VRAM",
+      "48 GB $0.000227778 /sec",
+      "A6000 — $ 0.82 /hr",
+      "L40S — $ 1.75 /hr",
+      "A100 80GB — $ 2.25 /hr",
+      "RTX PRO 6000 — $ 2.73 /hr",
+      "H200 — $ 4.09 /hr",
+      "B200 — $ 5.62 /hr",
+      "$30",
+      "Includes $30 Free",
+      "Includes $30 Free",
+      "Includes $30 Free",
+      "$30 free credit refreshed monthly"
+    ],
+    "totals": {
+      "removed": 44,
+      "added": 18,
+      "materialRemoved": 38,
+      "materialAdded": 13
+    }
   }
 ]
