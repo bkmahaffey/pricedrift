@@ -1231,5 +1231,34 @@
       "materialRemoved": 0,
       "materialAdded": 2
     }
+  },
+  {
+    "id": "storyblok-com-pricing-20260907123111",
+    "url": "https://www.storyblok.com/pricing",
+    "ts": "20260907123111",
+    "date": "2026-09-07",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260822044148",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Storyblok: 1 price changed (removed “Exclusive new data reveals that content debt …”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Exclusive new data reveals that content debt costs $4.63 trillion globally. Read the full report"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
   }
 ]

@@ -1,27 +1,47 @@
 {
-  "ranAt": "2026-09-07T12:31:11.783Z",
-  "ts": "20260907123111",
+  "ranAt": "2026-09-08T11:17:57.237Z",
+  "ts": "20260908111757",
   "checked": 265,
   "changed": [],
   "confirmed": [
     {
-      "slug": "beam",
-      "headline": "Beam: 31 prices, 4 limits, 3 plan names changed ($1.74 → $1.83; $0.000986 → $0.000972)",
-      "material": true
-    },
-    {
-      "slug": "linode",
-      "headline": "Akamai Linode: 482 prices, 351 limits changed (removed “Egress overage costs = US$0.005 per GB”)",
-      "material": true
-    },
-    {
-      "slug": "openai",
-      "headline": "OpenAI API: pricing page text changed (no price or limit change detected)",
+      "slug": "hostinger",
+      "headline": "Hostinger: pricing page text changed (no price or limit change detected)",
       "material": false
     },
     {
-      "slug": "runpod",
-      "headline": "RunPod: 8 prices changed (removed “$ 3.29 /hr”; added “$ 3.49 /hr”)",
+      "slug": "hygraph",
+      "headline": "Hygraph: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "hetzner",
+      "headline": "Hetzner Cloud: 5 prices, 39 limits changed (removed “You’ll get at least 20 TB of inclusive traffi…”)",
+      "material": true
+    },
+    {
+      "slug": "jira",
+      "headline": "Jira: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "mistral",
+      "headline": "Mistral AI: 65 prices, 10 limits, 1 plan name changed (removed “$5.99”; added “$10 /mo in API credits.”)",
+      "material": true
+    },
+    {
+      "slug": "sanity",
+      "headline": "Sanity: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "storyblok",
+      "headline": "Storyblok: 1 price changed (removed “Exclusive new data reveals that content debt …”)",
+      "material": true
+    },
+    {
+      "slug": "scaleway",
+      "headline": "Scaleway: 309 prices, 169 limits, 11 plan names changed (removed “Monthly requests: each request is billed €0.0…”)",
       "material": true
     }
   ],
@@ -39,60 +59,40 @@
       "url": "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account"
     },
     {
+      "slug": "cursor",
+      "url": "https://cursor.com/pricing"
+    },
+    {
       "slug": "contentful",
       "url": "https://www.contentful.com/pricing/"
-    },
-    {
-      "slug": "hostinger",
-      "url": "https://www.hostinger.com/web-hosting"
-    },
-    {
-      "slug": "hygraph",
-      "url": "https://hygraph.com/pricing"
-    },
-    {
-      "slug": "hetzner",
-      "url": "https://www.hetzner.com/cloud/"
-    },
-    {
-      "slug": "jira",
-      "url": "https://support.atlassian.com/jira-cloud-administration/docs/explore-jira-cloud-plans/"
     },
     {
       "slug": "kinsta",
       "url": "https://kinsta.com/plans/"
     },
     {
-      "slug": "mistral",
-      "url": "https://mistral.ai/pricing"
+      "slug": "loops",
+      "url": "https://loops.so/pricing"
+    },
+    {
+      "slug": "lovable",
+      "url": "https://docs.lovable.dev/introduction/subscription-plans"
     },
     {
       "slug": "ovhcloud",
       "url": "https://www.ovhcloud.com/en/public-cloud/prices/"
     },
     {
-      "slug": "redis-cloud",
-      "url": "https://redis.io/pricing/"
-    },
-    {
-      "slug": "sanity",
-      "url": "https://www.sanity.io/pricing"
-    },
-    {
       "slug": "posthog",
       "url": "https://posthog.com/pricing"
     },
     {
-      "slug": "storyblok",
-      "url": "https://www.storyblok.com/pricing"
+      "slug": "sendgrid",
+      "url": "https://www.twilio.com/en-us/products/email-api/pricing"
     },
     {
       "slug": "stripe",
       "url": "https://stripe.com/pricing"
-    },
-    {
-      "slug": "scaleway",
-      "url": "https://www.scaleway.com/en/pricing/"
     },
     {
       "slug": "unleash",
@@ -101,12 +101,35 @@
     {
       "slug": "vast-ai",
       "url": "https://vast.ai/pricing"
+    },
+    {
+      "slug": "xai",
+      "url": "https://docs.x.ai/docs/models"
     }
   ],
-  "unreachable": [],
+  "unreachable": [
+    {
+      "slug": "linode",
+      "url": "https://www.akamai.com/cloud/pricing/north-america",
+      "notes": [
+        "http 403",
+        "browser: 403, 3 lines",
+        "wayback: no snapshot"
+      ]
+    },
+    {
+      "slug": "codesandbox",
+      "url": "https://codesandbox.io/pricing",
+      "notes": [
+        "http 403",
+        "browser: 403, 7 lines",
+        "wayback: no snapshot"
+      ]
+    }
+  ],
   "sources": {
-    "http": 243,
-    "browser": 16,
-    "wayback": 6
+    "http": 242,
+    "browser": 17,
+    "wayback": 4
   }
 }

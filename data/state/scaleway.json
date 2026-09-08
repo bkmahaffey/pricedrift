@@ -4,20 +4,19 @@
     "scaleway-com-en-pricing": {
       "url": "https://www.scaleway.com/en/pricing/",
       "lastChecked": "20260907123111",
-      "lastSource": "wayback",
-      "latestTs": "20240506043609",
-      "hash": "89a4051d1ddc2ad9",
+      "lastSource": "http",
+      "latestTs": "20260907123111",
+      "hash": "bb555c07c5d79a21",
       "firstTs": "20230104231656",
-      "status": "pending",
-      "lastChanged": "20240506043609",
+      "status": "ok",
+      "lastChanged": "20260907123111",
       "lastNote": "capture 20260905103405 had 124 lines vs 3054; ignored (2/3)",
       "failures": 0,
-      "lineCount": 3054,
-      "suspiciousCount": 2
+      "lineCount": 124
     },
     "scaleway-com-en-pricing-serverless": {
       "url": "https://www.scaleway.com/en/pricing/serverless/",
-      "lastChecked": "20260907123111",
+      "lastChecked": "20260908111757",
       "lastSource": "wayback",
       "latestTs": "20260826141106",
       "hash": "0097215301407c36",

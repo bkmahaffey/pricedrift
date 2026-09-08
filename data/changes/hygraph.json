@@ -558,5 +558,31 @@
       "materialRemoved": 0,
       "materialAdded": 2
     }
+  },
+  {
+    "id": "hygraph-com-pricing-20260907123111",
+    "url": "https://hygraph.com/pricing",
+    "ts": "20260907123111",
+    "date": "2026-09-07",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Hygraph: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

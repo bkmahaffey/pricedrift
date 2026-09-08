@@ -710,5 +710,78 @@
       "materialRemoved": 32,
       "materialAdded": 16
     }
+  },
+  {
+    "id": "mistral-ai-pricing-20260907123111",
+    "url": "https://mistral.ai/pricing",
+    "ts": "20260907123111",
+    "date": "2026-09-07",
+    "source": "http",
+    "prevTs": "20260701051001",
+    "kind": "price",
+    "score": 216,
+    "counts": {
+      "price": 65,
+      "limit": 10,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Mistral AI: 65 prices, 10 limits, 1 plan name changed (removed “$5.99”; added “$10 /mo in API credits.”)",
+    "pairs": [],
+    "added": [
+      "$10 /mo in API credits.",
+      "$15 /mo in API credits.",
+      "Unlimited",
+      "Unlimited",
+      "including our latest models, chat, search, creation, and Vibe for code for agentic coding in your terminal. On the Free plan, you also get access to Mistral Studio"
+    ],
+    "removed": [
+      "$5.99",
+      "Unlimited (Subject to fair usage limits and Mistral's Terms of Service.)",
+      "We charge per million tokens processed - both input (your prompts) and output (responses) count. For example, Mistral Large costs $2 /M tokens in and $6 /M tokens out. Batch processing gets a 50% discount.",
+      "$1.5",
+      "$7.5",
+      "$4 / 1000 pages",
+      "$2 / 1000 pages",
+      "$5 / 1000 pages",
+      "$0.016 per 1k characters",
+      "$1.5",
+      "$7.5",
+      "$0.15",
+      "$0.6",
+      "$4 / 1000 pages",
+      "$2 / 1000 pages",
+      "$5 / 1000 pages",
+      "$0.5",
+      "$1.5",
+      "$0.016 per 1k characters",
+      "$0.003",
+      "$0.006",
+      "$0.004 (audio) / $0.1 (text)",
+      "$0.4",
+      "$0.4",
+      "$2",
+      "$0.1",
+      "$0.3",
+      "$0.3",
+      "$0.9",
+      "Free",
+      "$2",
+      "$5",
+      "$0.5",
+      "$1.5",
+      "Ministral 3 - 3B",
+      "$0.1",
+      "$0.1",
+      "ministral-3b-latest",
+      "Ministral 3 - 8B",
+      "$0.15"
+    ],
+    "totals": {
+      "removed": 453,
+      "added": 83,
+      "materialRemoved": 90,
+      "materialAdded": 11
+    }
   }
 ]
