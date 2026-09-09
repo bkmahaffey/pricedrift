@@ -359,5 +359,31 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "docs-x-ai-docs-models-20260908111757",
+    "url": "https://docs.x.ai/docs/models",
+    "ts": "20260908111757",
+    "date": "2026-09-08",
+    "source": "http",
+    "prevTs": "20260903111316",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "xAI API: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 67,
+      "added": 52,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

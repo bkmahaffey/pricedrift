@@ -1,54 +1,50 @@
 {
-  "ranAt": "2026-09-08T11:17:57.237Z",
-  "ts": "20260908111757",
+  "ranAt": "2026-09-09T11:21:47.974Z",
+  "ts": "20260909112147",
   "checked": 265,
   "changed": [],
   "confirmed": [
     {
-      "slug": "hostinger",
-      "headline": "Hostinger: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "hygraph",
-      "headline": "Hygraph: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "hetzner",
-      "headline": "Hetzner Cloud: 5 prices, 39 limits changed (removed “You’ll get at least 20 TB of inclusive traffi…”)",
+      "slug": "contentful",
+      "headline": "Contentful: 2 prices, 3 limits, 2 plan names changed (added “$850/month (limited to one Lite space)”)",
       "material": true
     },
     {
-      "slug": "jira",
-      "headline": "Jira: pricing page text changed (no price or limit change detected)",
+      "slug": "sendgrid",
+      "headline": "SendGrid: pricing page text changed (no price or limit change detected)",
       "material": false
     },
     {
-      "slug": "mistral",
-      "headline": "Mistral AI: 65 prices, 10 limits, 1 plan name changed (removed “$5.99”; added “$10 /mo in API credits.”)",
-      "material": true
-    },
-    {
-      "slug": "sanity",
-      "headline": "Sanity: pricing page text changed (no price or limit change detected)",
+      "slug": "unleash",
+      "headline": "Unleash: pricing page text changed (no price or limit change detected)",
       "material": false
     },
     {
-      "slug": "storyblok",
-      "headline": "Storyblok: 1 price changed (removed “Exclusive new data reveals that content debt …”)",
-      "material": true
-    },
-    {
-      "slug": "scaleway",
-      "headline": "Scaleway: 309 prices, 169 limits, 11 plan names changed (removed “Monthly requests: each request is billed €0.0…”)",
-      "material": true
+      "slug": "xai",
+      "headline": "xAI API: pricing page text changed (no price or limit change detected)",
+      "material": false
     }
   ],
   "pending": [
     {
       "slug": "airtable",
       "url": "https://support.airtable.com/articles/2277136852-airtable-plans-overview"
+    },
+    {
+      "slug": "amplitude",
+      "url": "https://amplitude.com/pricing"
+    },
+    {
+      "slug": "assemblyai",
+      "url": "https://www.assemblyai.com/pricing"
+    },
+    {
+      "slug": "auth0",
+      "url": "https://auth0.com/pricing"
+    },
+    {
+      "slug": "axiom",
+      "url": "https://axiom.co/pricing"
     },
     {
       "slug": "azure-free",
@@ -59,77 +55,122 @@
       "url": "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account"
     },
     {
+      "slug": "cloudflare-stream",
+      "url": "https://developers.cloudflare.com/stream/pricing/"
+    },
+    {
       "slug": "cursor",
       "url": "https://cursor.com/pricing"
     },
     {
-      "slug": "contentful",
-      "url": "https://www.contentful.com/pricing/"
+      "slug": "fathom",
+      "url": "https://usefathom.com/pricing"
+    },
+    {
+      "slug": "fly-io",
+      "url": "https://fly.io/pricing/"
+    },
+    {
+      "slug": "fireworks-ai",
+      "url": "https://fireworks.ai/pricing"
+    },
+    {
+      "slug": "github-copilot",
+      "url": "https://github.com/features/copilot/plans"
+    },
+    {
+      "slug": "google-cloud-run",
+      "url": "https://cloud.google.com/run/pricing"
+    },
+    {
+      "slug": "google-gemini",
+      "url": "https://ai.google.dev/gemini-api/docs/pricing"
+    },
+    {
+      "slug": "hetzner",
+      "url": "https://www.hetzner.com/cloud/"
     },
     {
       "slug": "kinsta",
       "url": "https://kinsta.com/plans/"
     },
     {
-      "slug": "loops",
-      "url": "https://loops.so/pricing"
-    },
-    {
       "slug": "lovable",
       "url": "https://docs.lovable.dev/introduction/subscription-plans"
+    },
+    {
+      "slug": "mongodb-atlas",
+      "url": "https://www.mongodb.com/pricing"
+    },
+    {
+      "slug": "neon",
+      "url": "https://neon.com/pricing"
+    },
+    {
+      "slug": "netlify",
+      "url": "https://www.netlify.com/pricing/"
+    },
+    {
+      "slug": "mux",
+      "url": "https://www.mux.com/pricing"
+    },
+    {
+      "slug": "openai",
+      "url": "https://developers.openai.com/api/docs/pricing"
+    },
+    {
+      "slug": "openai",
+      "url": "https://developers.openai.com/api/docs/guides/rate-limits"
     },
     {
       "slug": "ovhcloud",
       "url": "https://www.ovhcloud.com/en/public-cloud/prices/"
     },
     {
+      "slug": "plausible",
+      "url": "https://plausible.io/#pricing"
+    },
+    {
+      "slug": "prismic",
+      "url": "https://prismic.io/pricing"
+    },
+    {
+      "slug": "railway",
+      "url": "https://railway.com/pricing"
+    },
+    {
       "slug": "posthog",
       "url": "https://posthog.com/pricing"
     },
     {
-      "slug": "sendgrid",
-      "url": "https://www.twilio.com/en-us/products/email-api/pricing"
+      "slug": "slack",
+      "url": "https://slack.com/pricing"
+    },
+    {
+      "slug": "simple-analytics",
+      "url": "https://www.simpleanalytics.com/pricing"
+    },
+    {
+      "slug": "storyblok",
+      "url": "https://www.storyblok.com/pricing"
     },
     {
       "slug": "stripe",
       "url": "https://stripe.com/pricing"
     },
     {
-      "slug": "unleash",
-      "url": "https://www.getunleash.io/pricing"
+      "slug": "vercel",
+      "url": "https://vercel.com/pricing"
     },
     {
       "slug": "vast-ai",
       "url": "https://vast.ai/pricing"
-    },
-    {
-      "slug": "xai",
-      "url": "https://docs.x.ai/docs/models"
     }
   ],
-  "unreachable": [
-    {
-      "slug": "linode",
-      "url": "https://www.akamai.com/cloud/pricing/north-america",
-      "notes": [
-        "http 403",
-        "browser: 403, 3 lines",
-        "wayback: no snapshot"
-      ]
-    },
-    {
-      "slug": "codesandbox",
-      "url": "https://codesandbox.io/pricing",
-      "notes": [
-        "http 403",
-        "browser: 403, 7 lines",
-        "wayback: no snapshot"
-      ]
-    }
-  ],
+  "unreachable": [],
   "sources": {
-    "http": 242,
-    "browser": 17,
-    "wayback": 4
+    "http": 245,
+    "browser": 15,
+    "wayback": 5
   }
 }

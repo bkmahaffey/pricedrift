@@ -1,25 +1,17 @@
 Get Started
-Welcome
-Grok 4.6 Latest
+Overview
 Quickstart
-Models New
+Grok 4.6 Latest
+Models
 Pricing
 Release Notes
-Grok Build
-Getting Started
-Modes and Commands
-Keyboard Shortcuts
-Features
-Settings
-CLI
-Enterprise Deployments
 Text
 Text Generation
+Streaming
 Reasoning
 Structured Outputs
-Streaming
+Image Understanding
 Multi Agent
-Completions (Legacy)
 Imagine
 Overview
 Image Generation
@@ -30,19 +22,13 @@ Image-to-Video
 Reference-to-Video New
 Video Editing
 Video Extension
-Files API Integration
-Voice New
+Voice
 Overview
-Ephemeral Tokens
 Speech to Speech
 Text to Speech
 Speech to Text
 Custom Voices New
-Resources
-Rate Limits
-Cost Tracking
-Debugging Errors
-Docs MCP
+Ephemeral Tokens
 Files & Collections
 Files Overview
 Managing Files
@@ -51,6 +37,7 @@ Chat with Files
 Collections
 Collections via API
 Collection Metadata
+Generated Media
 Tools
 Overview
 Function Calling
@@ -60,54 +47,52 @@ Code Execution
 Image Generation
 Collections Search (RAG)
 Remote MCP Tools
-Deep Dive
+In Depth
 Advanced API Usage
+Rate Limits
+Prompt Caching
+Context Compaction
+Priority Processing
 Batch API
 Deferred Completions
-Prompt Caching
-Context Compaction New
-Priority Processing New
-mTLS Authentication
 Async Requests
-WebSocket Mode New
-Migration Guides
-Imagine Image Quality Retirement on Nov 2 New
-Model Retirement on May 15
-Migrating to Responses API
-Community
+WebSocket Mode
+mTLS Authentication
+Cost Tracking
+Debugging Errors
+Platforms
 Community Integrations
 Google Cloud Vertex AI
 Microsoft Foundry
+Docs MCP
+Migration Guides
+Imagine Image Quality Retirement (Nov 2, 2026) New
+Model Retirement (May 15, 2026)
+Migrating to Responses API
+Chat Completions (Legacy)
 FAQ
 Data & Privacy
 General
+API
 Docs
+REST Reference
+Grok Build
 Grok Bot
-Grok & Console
-REST API
-gRPC
+Grok
 Get Started
-Welcome
-Grok 4.6 Latest
+Overview
 Quickstart
-Models New
+Grok 4.6 Latest
+Models
 Pricing
 Release Notes
-Grok Build
-Getting Started
-Modes and Commands
-Keyboard Shortcuts
-Features
-Settings
-CLI
-Enterprise Deployments
 Text
 Text Generation
+Streaming
 Reasoning
 Structured Outputs
-Streaming
+Image Understanding
 Multi Agent
-Completions (Legacy)
 Imagine
 Overview
 Image Generation
@@ -118,19 +103,13 @@ Image-to-Video
 Reference-to-Video New
 Video Editing
 Video Extension
-Files API Integration
-Voice New
+Voice
 Overview
-Ephemeral Tokens
 Speech to Speech
 Text to Speech
 Speech to Text
 Custom Voices New
-Resources
-Rate Limits
-Cost Tracking
-Debugging Errors
-Docs MCP
+Ephemeral Tokens
 Files & Collections
 Files Overview
 Managing Files
@@ -139,6 +118,7 @@ Chat with Files
 Collections
 Collections via API
 Collection Metadata
+Generated Media
 Tools
 Overview
 Function Calling
@@ -148,24 +128,29 @@ Code Execution
 Image Generation
 Collections Search (RAG)
 Remote MCP Tools
-Deep Dive
+In Depth
 Advanced API Usage
+Rate Limits
+Prompt Caching
+Context Compaction
+Priority Processing
 Batch API
 Deferred Completions
-Prompt Caching
-Context Compaction New
-Priority Processing New
-mTLS Authentication
 Async Requests
-WebSocket Mode New
-Migration Guides
-Imagine Image Quality Retirement on Nov 2 New
-Model Retirement on May 15
-Migrating to Responses API
-Community
+WebSocket Mode
+mTLS Authentication
+Cost Tracking
+Debugging Errors
+Platforms
 Community Integrations
 Google Cloud Vertex AI
 Microsoft Foundry
+Docs MCP
+Migration Guides
+Imagine Image Quality Retirement (Nov 2, 2026) New
+Model Retirement (May 15, 2026)
+Migrating to Responses API
+Chat Completions (Legacy)
 FAQ
 Data & Privacy
 General
