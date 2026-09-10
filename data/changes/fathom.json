@@ -347,5 +347,63 @@
       "materialRemoved": 1,
       "materialAdded": 1
     }
+  },
+  {
+    "id": "usefathom-com-pricing-20260909112147",
+    "url": "https://usefathom.com/pricing",
+    "ts": "20260909112147",
+    "date": "2026-09-09",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260820225415",
+    "kind": "price",
+    "score": 55,
+    "counts": {
+      "price": 15,
+      "limit": 3,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Fathom Analytics: 15 prices, 3 limits, 2 plan names changed (removed “100k 500k 2M 10M 25M+”; added “$15/m Up to 100,000 monthly page views”)",
+    "pairs": [],
+    "added": [
+      "Start free trial",
+      "$15/m Up to 100,000 monthly page views",
+      "$25/m Up to 200,000 monthly page views",
+      "$45/m Up to 500,000 monthly page views",
+      "$60/m Up to 1,000,000 monthly page views",
+      "$100/m Up to 2,000,000 monthly page views",
+      "$140/m Up to 5,000,000 monthly page views",
+      "$200/m Up to 10,000,000 monthly page views",
+      "$290/m Up to 15,000,000 monthly page views",
+      "$380/m Up to 20,000,000 monthly page views",
+      "$470/m Up to 25,000,000 monthly page views",
+      "Unlimited CSV data exports",
+      "Start free trial",
+      "Do you offer a free plan?",
+      "We don’t offer a free plan. Subscription fees pay for running and improving Fathom. We don’t sell your data.",
+      "We don’t run seasonal sales. Annual billing includes two months free, and signing up through an affiliate gives you a $10 credit toward your first invoice.",
+      "Select a plan above to see its included sites. Every plan includes at least 50. You can add up to 15 packs of 50 extra sites in billing settings, at $10/month or $100/year per pack. For more than 750 extra sites, contact us"
+    ],
+    "removed": [
+      "100k 500k 2M 10M 25M+",
+      "Up to 500,000 pageviews",
+      "$45 /month Contact us",
+      "Bigger pageview plans include more. Need extra? Add them yourself in packs of 50 for $10/month.",
+      "2, 4 or 8 years? How about forever! While you're a customer, your full analytics history stays available.",
+      "Full API access with 600 requests per hour included. Pull your data into your own tools and workflows.",
+      "We unfortunately don't offer live demos or do calls in our sales process. That said, our software is ridiculously easy to use and you can watch a 10 minute video demo",
+      "and you can even give our software a 7-day free trial (run it alongside your existing analytics). Of course, if you need help or have specific questions, we're here via email",
+      "Do you have a lower/free option?",
+      "Every plan includes at least 50 sites, and the bigger pageview plans include more (75 on the 1M plan, scaling up to hundreds on the largest plans). You'll see the exact number for each plan in the pricing table",
+      "If you need more than your plan includes, you can add sites yourself in packs of 50 for $10/month each (or $100/year, which gets you two months free) from your billing settings. You can add up to 15 packs (750 extra sites) yourself. Need more than that? Get in touch",
+      "or Start a free trial"
+    ],
+    "totals": {
+      "removed": 79,
+      "added": 80,
+      "materialRemoved": 17,
+      "materialAdded": 22
+    }
   }
 ]

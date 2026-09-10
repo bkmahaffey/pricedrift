@@ -1457,5 +1457,45 @@
       "materialRemoved": 5,
       "materialAdded": 11
     }
+  },
+  {
+    "id": "cloud-google-com-run-pricing-20260909112147",
+    "url": "https://cloud.google.com/run/pricing",
+    "ts": "20260909112147",
+    "date": "2026-09-09",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 6,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Google Cloud Run: 6 prices, 3 limits changed (added “Free tier (based on us-central1 pricing):”)",
+    "pairs": [],
+    "added": [
+      "Free tier (based on us-central1 pricing):",
+      "CPU - First 342,857 vCPU-seconds free per month",
+      "RAM - First 642,857 GiB-seconds free per month",
+      "Compute Flexible CUD - 1 Year * (USD) info",
+      "D97B-0795-975B",
+      "Compute Flexible CUD - 3 Year * (USD) info",
+      "$0.0000126 / 1 second",
+      "$0.000009072 / 1 second",
+      "$0.000006804 / 1 second",
+      "$0.0000014 / 1 gibibyte second",
+      "$0.000001008 / 1 gibibyte second",
+      "$0.000000756 / 1 gibibyte second",
+      "Note: Delayed Jobs Prices are dynamic and can change up to once every 30 days."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 76,
+      "materialRemoved": 0,
+      "materialAdded": 13
+    }
   }
 ]

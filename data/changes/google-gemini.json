@@ -2347,5 +2347,119 @@
       "materialRemoved": 0,
       "materialAdded": 2
     }
+  },
+  {
+    "id": "ai-google-dev-gemini-api-docs-pricing-20260909112147",
+    "url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "ts": "20260909112147",
+    "date": "2026-09-09",
+    "source": "browser",
+    "prevTs": "20260904112336",
+    "kind": "price",
+    "score": 40,
+    "counts": {
+      "price": 10,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Google Gemini API: 10 prices, 5 limits changed (1, added; 1, added)",
+    "pairs": [
+      {
+        "before": "$2.00 (text / image / video / audio)",
+        "after": "$2.00 (text / image / video / audio) starting January 1, 2027.",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": null,
+            "after": "1,"
+          },
+          {
+            "before": null,
+            "after": "2027"
+          }
+        ]
+      },
+      {
+        "before": "$1.00 / 1,000,000 tokens per hour (storage price)",
+        "after": "$1.00 / 1,000,000 tokens per hour (storage price) starting January 1, 2027.",
+        "confidence": 0.71,
+        "deltas": [
+          {
+            "before": null,
+            "after": "1,"
+          },
+          {
+            "before": null,
+            "after": "2027"
+          }
+        ]
+      },
+      {
+        "before": "$1.00 (text / image / video / audio)",
+        "after": "$1.00 (text / image / video / audio) starting January 1, 2027.",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": null,
+            "after": "1,"
+          },
+          {
+            "before": null,
+            "after": "2027"
+          }
+        ]
+      },
+      {
+        "before": "$1.00 / 1,000,000 tokens per hour (storage price)",
+        "after": "$1.00 / 1,000,000 tokens per hour (storage price) starting January 1, 2027.",
+        "confidence": 0.71,
+        "deltas": [
+          {
+            "before": null,
+            "after": "1,"
+          },
+          {
+            "before": null,
+            "after": "2027"
+          }
+        ]
+      },
+      {
+        "before": "$2.00 (text / image / video / audio)",
+        "after": "$2.00 (text / image / video / audio) starting January 1, 2027.",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": null,
+            "after": "1,"
+          },
+          {
+            "before": null,
+            "after": "2027"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$10.00 starting January 1, 2027.",
+      "$0.20 starting January 1, 2027.",
+      "$5.00 starting January 1, 2027.",
+      "$0.10 starting January 1, 2027.",
+      "$10.00 starting January 1, 2027."
+    ],
+    "removed": [
+      "$10.00",
+      "$0.20",
+      "$5.00",
+      "$0.10",
+      "$10.00"
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 10,
+      "materialRemoved": 10,
+      "materialAdded": 10
+    }
   }
 ]

@@ -5723,5 +5723,77 @@
       "materialRemoved": 780,
       "materialAdded": 1204
     }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20260909112147",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20260909112147",
+    "date": "2026-09-09",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "price",
+    "score": 72,
+    "counts": {
+      "price": 14,
+      "limit": 14,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "OVHcloud: 14 prices, 14 limits, 1 plan name changed (removed “50 GB NVMe”; added “50 GB NVMe + 2 x 2 TB NVMe Passthrough”)",
+    "pairs": [],
+    "added": [
+      "50 GB NVMe + 2 x 2 TB NVMe Passthrough",
+      "Next 450 TiB",
+      "30 days",
+      "90 days",
+      "180 days",
+      "1 TiB = 1024 GiB. Object Storage is billed based on the storage space used, with a granularity of 1 GiB.",
+      "30 days",
+      "1 TiB = 1024 GiB. Object Storage is billed based on the storage space used, with a granularity of 1 GiB.",
+      "For optimal readability, the price is displayed as GiB/month – but since there are 730 hours in an average month, the invoicing granularity is GiB/hour.",
+      "1 TiB = 1024 GiB. Object Storage is billed based on the storage space used, with a granularity of 1 GiB.",
+      "For optimal readability, the price is displayed as GiB/month – but since there are 730 hours in an average month, the invoicing granularity is GiB/hour.",
+      "From 80 GiB to 400 GiB",
+      "$0.093264",
+      "~$68.08272",
+      "From 80 GiB to 400 GiB",
+      "$0.093189",
+      "~$68.02797",
+      "$0.070059",
+      "~$51.14307",
+      "4 GB",
+      "$0.095316",
+      "~$69.58068",
+      "4 GB",
+      "$0.095316",
+      "~$69.58068",
+      "From 40 GiB to 200 GiB",
+      "4 GB",
+      "$0.081481",
+      "~$59.48113",
+      "4 GB",
+      "$0.059385",
+      "~$43.35105",
+      "4 GB",
+      "4 GB",
+      "4 GB"
+    ],
+    "removed": [
+      "50 GB NVMe",
+      "50 - 500 TiB",
+      "1 Tio = 1024 Gio. Object Storage is billed based on the storage space used, with a granularity of 1 GB.",
+      "The minimum storage duration is 180 days. If an object is deleted during this period, an additional charge will be applied and calculated using the following formula: [24h*180 - # of hours of storage of the object] x price per hour of storage class.",
+      "Object Storage is billed based on the storage space used, with a granularity of 1 GB.",
+      "The minimum storage time is 730 hours (30 days). If an object is deleted during this period, an additional charge will be applied and calculated using the following formula: [730h - # of hours of storage of the object] x price per hour of storage class.",
+      "Discovery DB2-FREE",
+      "512 MiB",
+      "Free, limited to one service per project"
+    ],
+    "totals": {
+      "removed": 149,
+      "added": 166,
+      "materialRemoved": 46,
+      "materialAdded": 72
+    }
   }
 ]

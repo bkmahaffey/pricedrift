@@ -746,5 +746,70 @@
       "materialRemoved": 10,
       "materialAdded": 8
     }
+  },
+  {
+    "id": "axiom-co-pricing-20260909112147",
+    "url": "https://axiom.co/pricing",
+    "ts": "20260909112147",
+    "date": "2026-09-09",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260821124453",
+    "kind": "limits",
+    "score": 9,
+    "counts": {
+      "price": 0,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Axiom: 5 limits changed (10GB → 50GB; 400GB → 250GB)",
+    "pairs": [
+      {
+        "before": "Query (GB-hrs/mo) Low 10 GB-hrs/mo",
+        "after": "Query (GB-hrs/mo) Low 50 GB-hrs/mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "10GB",
+            "after": "50GB"
+          }
+        ]
+      },
+      {
+        "before": "Base 400 GB-hrs/mo",
+        "after": "Base 250 GB-hrs/mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "400GB",
+            "after": "250GB"
+          }
+        ]
+      },
+      {
+        "before": "High 2,000 GB-hrs/mo",
+        "after": "High 1,500 GB-hrs/mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "2,000GB",
+            "after": "1,500GB"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "Data loading 1 TB included",
+      "Query compute 100 GB-hrs included",
+      "Storage 12 TB retained · within free allowance"
+    ],
+    "totals": {
+      "removed": 17,
+      "added": 20,
+      "materialRemoved": 10,
+      "materialAdded": 7
+    }
   }
 ]

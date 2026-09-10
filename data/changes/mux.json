@@ -317,5 +317,43 @@
       "materialRemoved": 1,
       "materialAdded": 3
     }
+  },
+  {
+    "id": "mux-com-pricing-20260909112147",
+    "url": "https://www.mux.com/pricing",
+    "ts": "20260909112147",
+    "date": "2026-09-09",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mux: 1 price changed ($0.0024 → $0.024)",
+    "pairs": [
+      {
+        "before": "6k free minutes / month then $0.0024",
+        "after": "6k free minutes / month then $0.024",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.0024",
+            "after": "$0.024"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
   }
 ]

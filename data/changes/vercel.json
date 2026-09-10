@@ -1881,5 +1881,38 @@
       "materialRemoved": 0,
       "materialAdded": 1
     }
+  },
+  {
+    "id": "vercel-com-pricing-20260909112147",
+    "url": "https://vercel.com/pricing",
+    "ts": "20260909112147",
+    "date": "2026-09-09",
+    "source": "http",
+    "prevTs": "20260903111316",
+    "kind": "price",
+    "score": 14,
+    "counts": {
+      "price": 4,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Vercel: 4 prices, 1 limit changed (removed “10M / month included”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "10M / month included",
+      "then starting at $2 per 1M",
+      "1TB / month included",
+      "then starting at $0.15 per GB",
+      "Starting at $0.05 per GB",
+      "Starting at $0.15 per GB"
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 11,
+      "materialRemoved": 6,
+      "materialAdded": 0
+    }
   }
 ]

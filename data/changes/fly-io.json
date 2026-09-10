@@ -439,5 +439,77 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "fly-io-pricing-20260909112147",
+    "url": "https://fly.io/pricing/",
+    "ts": "20260909112147",
+    "date": "2026-09-09",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260612142707",
+    "kind": "price",
+    "score": 184,
+    "counts": {
+      "price": 54,
+      "limit": 11,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fly.io: 54 prices, 11 limits changed (removed “Everything you need for HIPAA-compliant workl…”; added “shared-cpu-1x · 256MB”)",
+    "pairs": [],
+    "added": [
+      "shared-cpu-1x · 256MB",
+      "$0.0027",
+      "$1.94",
+      "shared-cpu-2x · 512MB",
+      "$0.0054",
+      "$3.89",
+      "shared-cpu-4x · 1GB",
+      "$0.0108",
+      "$7.78",
+      "shared-cpu-6x · 1.5GB",
+      "$0.0162",
+      "$11.67",
+      "shared-cpu-8x · 2GB",
+      "$0.0216",
+      "$15.56",
+      "performance-1x · 2GB",
+      "$0.0431",
+      "$31.00",
+      "performance-2x · 4GB",
+      "$0.0861",
+      "$62.00",
+      "performance-4x · 8GB",
+      "$0.1722",
+      "$124.00",
+      "performance-6x · 12GB",
+      "$0.2583",
+      "$186.00",
+      "performance-8x · 16GB",
+      "$0.3444",
+      "$248.00",
+      "performance-10x · 20GB",
+      "$0.4306",
+      "$310.00",
+      "performance-12x · 24GB",
+      "$0.5167",
+      "$372.00",
+      "performance-14x · 28GB",
+      "$0.6028",
+      "$434.00",
+      "performance-16x · 32GB"
+    ],
+    "removed": [
+      "Everything you need for HIPAA-compliant workloads, from BAAs to SOC2s, for just $99/month.",
+      "Unlimited users per organization",
+      "Unlimited organizations"
+    ],
+    "totals": {
+      "removed": 51,
+      "added": 182,
+      "materialRemoved": 4,
+      "materialAdded": 78
+    }
   }
 ]
