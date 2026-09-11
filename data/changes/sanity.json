@@ -761,5 +761,31 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "sanity-io-pricing-20260910111800",
+    "url": "https://www.sanity.io/pricing",
+    "ts": "20260910111800",
+    "date": "2026-09-10",
+    "source": "http",
+    "prevTs": "20260907123111",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Sanity: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

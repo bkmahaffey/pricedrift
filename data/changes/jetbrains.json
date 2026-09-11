@@ -24,5 +24,32 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "jetbrains-com-store-comparison-html-20260910111800",
+    "url": "https://www.jetbrains.com/store/comparison.html",
+    "ts": "20260910111800",
+    "date": "2026-09-10",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20251003181234",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "JetBrains IDEs: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

@@ -420,5 +420,38 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "docs-lovable-dev-introduction-subscription-plans-20260910111800",
+    "url": "https://docs.lovable.dev/introduction/subscription-plans",
+    "ts": "20260910111800",
+    "date": "2026-09-10",
+    "source": "http",
+    "prevTs": "20260905103405",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Lovable: 2 limits changed (added “Students and teachers at universities, colleg…”)",
+    "pairs": [],
+    "added": [
+      "Students and teachers at universities, colleges, and schools get 50% off for up to 12 months on the Pro plan with 100 credits per month, billed monthly. Lovable verifies your status on lovable.dev/students",
+      "by checking the domain of your account’s email address (the part after the @) against a list of academic institutions. Verification is available only to workspaces on the Free plan, and each person can use the discount once.",
+      "The discount has these limits: It applies only to the Pro plan with 100 credits per month, billed monthly. Higher Pro credit tiers, annual billing, and other plans are not available with the discount.",
+      "The support team handles billing issues, refund reviews, and plan questions. On the Free plan, the support form is not available. Use the docs assistant on any docs page or ask the community on Discord",
+      "Yes. Verified students and teachers get 50% off the Pro plan with 100 credits per month, billed monthly, for up to 12 months. Verify your academic email on lovable.dev/students",
+      "while your workspace is on the Free plan, then subscribe to Pro for Students. See Student and teacher discount"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 12,
+      "added": 46,
+      "materialRemoved": 2,
+      "materialAdded": 8
+    }
   }
 ]

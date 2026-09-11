@@ -1,117 +1,82 @@
 {
-  "ranAt": "2026-09-10T11:18:00.642Z",
-  "ts": "20260910111800",
+  "ranAt": "2026-09-11T11:19:57.110Z",
+  "ts": "20260911111957",
   "checked": 265,
   "changed": [],
   "confirmed": [
     {
-      "slug": "amplitude",
-      "headline": "Amplitude: pricing page text changed (no price or limit change detected)",
+      "slug": "anthropic",
+      "headline": "Anthropic API: pricing page text changed (no price or limit change detected)",
       "material": false
     },
     {
-      "slug": "auth0",
-      "headline": "Auth0: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "axiom",
-      "headline": "Axiom: 5 limits changed (10GB → 50GB; 400GB → 250GB)",
+      "slug": "circleci",
+      "headline": "CircleCI: 1 plan name changed",
       "material": true
     },
     {
-      "slug": "cloudflare-stream",
-      "headline": "Cloudflare Stream: pricing page text changed (no price or limit change detected)",
+      "slug": "cloudflare-pages",
+      "headline": "Cloudflare Pages: pricing page text changed (no price or limit change detected)",
       "material": false
     },
     {
-      "slug": "fathom",
-      "headline": "Fathom Analytics: 15 prices, 3 limits, 2 plan names changed (removed “100k 500k 2M 10M 25M+”; added “$15/m Up to 100,000 monthly page views”)",
+      "slug": "cloudflare-workers",
+      "headline": "Cloudflare Workers: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "configcat",
+      "headline": "ConfigCat: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "cursor",
+      "headline": "Cursor: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "elastic-cloud",
+      "headline": "Elastic Cloud: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "figma",
+      "headline": "Figma: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "growthbook",
+      "headline": "GrowthBook: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "imgix",
+      "headline": "imgix: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "jetbrains",
+      "headline": "JetBrains IDEs: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "lovable",
+      "headline": "Lovable: 2 limits changed (added “Students and teachers at universities, colleg…”)",
       "material": true
     },
     {
-      "slug": "fireworks-ai",
-      "headline": "Fireworks AI: pricing page text changed (no price or limit change detected)",
+      "slug": "pinecone",
+      "headline": "Pinecone: pricing page text changed (no price or limit change detected)",
       "material": false
     },
     {
-      "slug": "fly-io",
-      "headline": "Fly.io: 54 prices, 11 limits changed (removed “Everything you need for HIPAA-compliant workl…”; added “shared-cpu-1x · 256MB”)",
-      "material": true
-    },
-    {
-      "slug": "github-copilot",
-      "headline": "GitHub Copilot: pricing page text changed (no price or limit change detected)",
+      "slug": "sanity",
+      "headline": "Sanity: pricing page text changed (no price or limit change detected)",
       "material": false
     },
     {
-      "slug": "google-cloud-run",
-      "headline": "Google Cloud Run: 6 prices, 3 limits changed (added “Free tier (based on us-central1 pricing):”)",
-      "material": true
-    },
-    {
-      "slug": "hetzner",
-      "headline": "Hetzner Cloud: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "google-gemini",
-      "headline": "Google Gemini API: 10 prices, 5 limits changed (1, added; 1, added)",
-      "material": true
-    },
-    {
-      "slug": "mongodb-atlas",
-      "headline": "MongoDB Atlas: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "mux",
-      "headline": "Mux: 1 price changed ($0.0024 → $0.024)",
-      "material": true
-    },
-    {
-      "slug": "netlify",
-      "headline": "Netlify: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "openai",
-      "headline": "OpenAI API: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "ovhcloud",
-      "headline": "OVHcloud: 14 prices, 14 limits, 1 plan name changed (removed “50 GB NVMe”; added “50 GB NVMe + 2 x 2 TB NVMe Passthrough”)",
-      "material": true
-    },
-    {
-      "slug": "plausible",
-      "headline": "Plausible: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "prismic",
-      "headline": "Prismic: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "railway",
-      "headline": "Railway: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "redis-cloud",
-      "headline": "Redis Cloud: 1 plan name changed",
-      "material": true
-    },
-    {
-      "slug": "simple-analytics",
-      "headline": "Simple Analytics: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "vercel",
-      "headline": "Vercel: 4 prices, 1 limit changed (removed “10M / month included”)",
+      "slug": "turso",
+      "headline": "Turso: 22 prices, 12 limits, 15 plan names changed (removed “Dedicated Cloud and BYOC deployments, custom …”; added “Save $1/month”)",
       "material": true
     }
   ],
@@ -122,7 +87,7 @@
     },
     {
       "slug": "anthropic",
-      "url": "https://claude.com/pricing"
+      "url": "https://platform.claude.com/docs/en/api/rate-limits"
     },
     {
       "slug": "assemblyai",
@@ -133,84 +98,80 @@
       "url": "https://azure.microsoft.com/en-us/pricing/free-services"
     },
     {
+      "slug": "baseten",
+      "url": "https://www.baseten.co/pricing/"
+    },
+    {
       "slug": "azure-free",
       "url": "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account"
     },
     {
-      "slug": "circleci",
-      "url": "https://circleci.com/pricing/"
-    },
-    {
-      "slug": "cloudflare-pages",
-      "url": "https://developers.cloudflare.com/workers/platform/pricing/"
-    },
-    {
-      "slug": "cloudflare-workers",
-      "url": "https://developers.cloudflare.com/workers/platform/pricing/"
+      "slug": "buildkite",
+      "url": "https://buildkite.com/pricing/"
     },
     {
       "slug": "cohere",
       "url": "https://cohere.com/pricing"
     },
     {
-      "slug": "configcat",
-      "url": "https://configcat.com/pricing/"
-    },
-    {
-      "slug": "cursor",
-      "url": "https://cursor.com/pricing"
+      "slug": "cronitor",
+      "url": "https://cronitor.io/pricing"
     },
     {
       "slug": "datadog",
       "url": "https://www.datadoghq.com/pricing/"
     },
     {
-      "slug": "contentful",
-      "url": "https://www.contentful.com/pricing/"
-    },
-    {
-      "slug": "elastic-cloud",
-      "url": "https://www.elastic.co/pricing"
-    },
-    {
       "slug": "deepseek",
       "url": "https://api-docs.deepseek.com/quick_start/pricing"
     },
     {
-      "slug": "figma",
-      "url": "https://www.figma.com/pricing/"
+      "slug": "firebase",
+      "url": "https://firebase.google.com/pricing"
     },
     {
-      "slug": "ghost",
-      "url": "https://ghost.org/help/manage-your-subscription/"
+      "slug": "fly-io",
+      "url": "https://fly.io/pricing/"
     },
     {
-      "slug": "growthbook",
-      "url": "https://www.growthbook.io/pricing"
+      "slug": "framer",
+      "url": "https://www.framer.com/pricing/"
     },
     {
-      "slug": "imgix",
-      "url": "https://www.imgix.com/pricing"
+      "slug": "contentful",
+      "url": "https://www.contentful.com/pricing/"
     },
     {
-      "slug": "jetbrains",
-      "url": "https://www.jetbrains.com/store/comparison.html"
+      "slug": "hostinger",
+      "url": "https://www.hostinger.com/web-hosting"
+    },
+    {
+      "slug": "hetzner",
+      "url": "https://www.hetzner.com/cloud/"
+    },
+    {
+      "slug": "jira",
+      "url": "https://support.atlassian.com/jira-cloud-administration/docs/explore-jira-cloud-plans/"
     },
     {
       "slug": "kinsta",
       "url": "https://kinsta.com/plans/"
     },
     {
-      "slug": "lovable",
-      "url": "https://docs.lovable.dev/introduction/subscription-plans"
+      "slug": "koyeb",
+      "url": "https://www.koyeb.com/pricing"
     },
     {
-      "slug": "mailchimp",
-      "url": "https://mailchimp.com/pricing/marketing/"
+      "slug": "jetbrains",
+      "url": "https://www.jetbrains.com/all/"
     },
     {
       "slug": "loops",
       "url": "https://loops.so/pricing"
+    },
+    {
+      "slug": "modal",
+      "url": "https://modal.com/pricing"
     },
     {
       "slug": "neon",
@@ -221,56 +182,96 @@
       "url": "https://developers.openai.com/api/docs/pricing"
     },
     {
-      "slug": "pinecone",
-      "url": "https://www.pinecone.io/pricing/"
+      "slug": "openai",
+      "url": "https://developers.openai.com/api/docs/guides/rate-limits"
+    },
+    {
+      "slug": "planetscale",
+      "url": "https://planetscale.com/pricing"
+    },
+    {
+      "slug": "plausible",
+      "url": "https://plausible.io/#pricing"
+    },
+    {
+      "slug": "postman",
+      "url": "https://www.postman.com/pricing/"
+    },
+    {
+      "slug": "prismic",
+      "url": "https://prismic.io/pricing"
+    },
+    {
+      "slug": "raycast",
+      "url": "https://www.raycast.com/pricing"
     },
     {
       "slug": "replit",
       "url": "https://replit.com/pricing"
     },
     {
-      "slug": "sanity",
-      "url": "https://www.sanity.io/pricing"
+      "slug": "posthog",
+      "url": "https://posthog.com/pricing"
     },
     {
       "slug": "storyblok",
       "url": "https://www.storyblok.com/pricing"
     },
     {
-      "slug": "posthog",
-      "url": "https://posthog.com/pricing"
-    },
-    {
       "slug": "stripe",
       "url": "https://stripe.com/pricing"
+    },
+    {
+      "slug": "tailscale",
+      "url": "https://tailscale.com/pricing"
+    },
+    {
+      "slug": "sentry",
+      "url": "https://sentry.io/pricing/"
+    },
+    {
+      "slug": "together-ai",
+      "url": "https://www.together.ai/pricing"
     },
     {
       "slug": "twilio",
       "url": "https://www.twilio.com/en-us/sms/pricing/us"
     },
     {
-      "slug": "turso",
-      "url": "https://turso.tech/pricing"
+      "slug": "unleash",
+      "url": "https://www.getunleash.io/pricing"
+    },
+    {
+      "slug": "vercel",
+      "url": "https://vercel.com/pricing"
     },
     {
       "slug": "vast-ai",
       "url": "https://vast.ai/pricing"
+    },
+    {
+      "slug": "wordpress-com",
+      "url": "https://wordpress.com/pricing/"
+    },
+    {
+      "slug": "windsurf",
+      "url": "https://devin.ai/pricing"
     }
   ],
   "unreachable": [
     {
-      "slug": "vultr",
-      "url": "https://www.vultr.com/pricing/",
+      "slug": "new-relic",
+      "url": "https://newrelic.com/pricing",
       "notes": [
-        "http 403",
-        "browser: 403, 7 lines",
+        "http: only 0 lines",
+        "browser: 200, 0 lines",
         "wayback: no snapshot"
       ]
     }
   ],
   "sources": {
-    "http": 245,
-    "browser": 14,
-    "wayback": 5
+    "http": 243,
+    "browser": 15,
+    "wayback": 6
   }
 }

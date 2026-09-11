@@ -639,5 +639,33 @@
       "materialRemoved": 0,
       "materialAdded": 5
     }
+  },
+  {
+    "id": "circleci-com-pricing-20260910111800",
+    "url": "https://circleci.com/pricing/",
+    "ts": "20260910111800",
+    "date": "2026-09-10",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "CircleCI: 1 plan name changed",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Free"
+    ],
+    "totals": {
+      "removed": 17,
+      "added": 0,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
   }
 ]
