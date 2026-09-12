@@ -1260,5 +1260,44 @@
       "materialRemoved": 1,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "storyblok-com-pricing-20260911111957",
+    "url": "https://www.storyblok.com/pricing",
+    "ts": "20260911111957",
+    "date": "2026-09-11",
+    "source": "http",
+    "prevTs": "20260907123111",
+    "kind": "price",
+    "score": 25,
+    "counts": {
+      "price": 8,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Storyblok: 8 prices, 1 limit changed (removed “Includes 15 team member seats, add new member…”)",
+    "pairs": [],
+    "added": [
+      "Unlimited"
+    ],
+    "removed": [
+      "Includes 15 team member seats, add new members at $15.00 /month",
+      "Up to 20 user seats $15.00 /month each additional user",
+      "Up to 2TB traffic / month $75.00 /month for each 250GB extra",
+      "Up to 15M API requests $10.00 /month per 1M API requests",
+      "Unlimited locales available $20.00 /month per additional locale",
+      "Up to 1M AI credits $20.00 /month per 200k AI credits",
+      "2TB",
+      "$5.00",
+      "Unlimited",
+      "$5.00"
+    ],
+    "totals": {
+      "removed": 17,
+      "added": 25,
+      "materialRemoved": 10,
+      "materialAdded": 1
+    }
   }
 ]

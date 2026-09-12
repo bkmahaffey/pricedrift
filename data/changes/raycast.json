@@ -547,5 +547,46 @@
       "materialRemoved": 3,
       "materialAdded": 3
     }
+  },
+  {
+    "id": "raycast-com-pricing-20260911111957",
+    "url": "https://www.raycast.com/pricing",
+    "ts": "20260911111957",
+    "date": "2026-09-11",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260901081032",
+    "kind": "price",
+    "score": 32,
+    "counts": {
+      "price": 10,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Raycast: 10 prices, 1 limit changed (removed “+ $8 / month”; added “Pro 500 credits Plus 3,000 credits Max 7,500 …”)",
+    "pairs": [],
+    "added": [
+      "Pro 500 credits Plus 3,000 credits Max 7,500 credits",
+      "Pro 500 credits / user Plus 3,000 credits / user Max 7,500 credits / user",
+      "Pro $ 10 / month Plus $ 20 / month Max $ 50 / month",
+      "Pro $ 15 / user / month Plus $ 25 / user / month Max $ 65 / user / month",
+      "Pro $ 96 / year Plus $ 192 / year Max $ 480 / year",
+      "Pro $ 144 / user / year Plus $ 240 / user / year Max $ 624 / user / year"
+    ],
+    "removed": [
+      "+ $8 / month",
+      "+ $8 / user / month",
+      "$10 / month",
+      "$15 / user / month",
+      "$8 / month",
+      "$12 / user / month"
+    ],
+    "totals": {
+      "removed": 15,
+      "added": 62,
+      "materialRemoved": 9,
+      "materialAdded": 9
+    }
   }
 ]

@@ -511,5 +511,33 @@
       "materialRemoved": 4,
       "materialAdded": 78
     }
+  },
+  {
+    "id": "fly-io-pricing-20260911111957",
+    "url": "https://fly.io/pricing/",
+    "ts": "20260911111957",
+    "date": "2026-09-11",
+    "source": "http",
+    "prevTs": "20260909112147",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fly.io: 1 price changed (added “HIPAA package at $99/mo, with the BAA pre-sig…”)",
+    "pairs": [],
+    "added": [
+      "HIPAA package at $99/mo, with the BAA pre-signed so you are not waiting on legal to start building."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
   }
 ]

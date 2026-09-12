@@ -1042,5 +1042,37 @@
       "materialRemoved": 5,
       "materialAdded": 10
     }
+  },
+  {
+    "id": "postman-com-pricing-20260911111957",
+    "url": "https://www.postman.com/pricing/",
+    "ts": "20260911111957",
+    "date": "2026-09-11",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Postman: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Unlimited cloud & local mock servers",
+      "Unlimited cloud & local mock servers",
+      "Unlimited cloud & local mock servers",
+      "Unlimited cloud & local mock servers",
+      "Unlimited cloud & local mock servers"
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 9,
+      "materialRemoved": 6,
+      "materialAdded": 1
+    }
   }
 ]

@@ -3,15 +3,15 @@
   "urls": {
     "kit-com-pricing": {
       "url": "https://kit.com/pricing",
-      "lastChecked": "20260911111957",
+      "lastChecked": "20260912104509",
       "lastSource": "http",
       "latestTs": "20260902202107",
       "hash": "16211e1b63233ab2",
       "firstTs": "20241002011146",
-      "status": "ok",
+      "status": "unreachable",
       "lastChanged": "20260902202107",
-      "lastNote": "capture 20250802012534 had 55 lines vs 233; ignored",
-      "failures": 0,
+      "lastNote": "http 403; browser: 403, 3 lines; wayback: no snapshot",
+      "failures": 1,
       "lineCount": 421
     }
   }

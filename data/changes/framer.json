@@ -1597,5 +1597,35 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "framer-com-pricing-20260911111957",
+    "url": "https://www.framer.com/pricing/",
+    "ts": "20260911111957",
+    "date": "2026-09-11",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "plans",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Framer: 3 plan names changed",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Free.com",
+      "Free.com",
+      "Free.com"
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 3,
+      "materialAdded": 0
+    }
   }
 ]

@@ -50,5 +50,31 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "hostinger-com-web-hosting-20260911111957",
+    "url": "https://www.hostinger.com/web-hosting",
+    "ts": "20260911111957",
+    "date": "2026-09-11",
+    "source": "http",
+    "prevTs": "20260907123111",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Hostinger: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 6,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

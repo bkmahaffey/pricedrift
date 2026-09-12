@@ -974,5 +974,63 @@
       "materialRemoved": 17,
       "materialAdded": 11
     }
+  },
+  {
+    "id": "replit-com-pricing-20260911111957",
+    "url": "https://replit.com/pricing",
+    "ts": "20260911111957",
+    "date": "2026-09-11",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "price",
+    "score": 10,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Replit: 2 prices, 1 limit, 1 plan name changed ($17 → $18; $95 → $90)",
+    "pairs": [
+      {
+        "before": "$20 $17 / month, billed annually AI integrations",
+        "after": "$20 $18 / month, billed annually AI integrations",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$17",
+            "after": "$18"
+          }
+        ]
+      },
+      {
+        "before": "$100 $95 / month, billed annually 10 parallel agents",
+        "after": "$100 $90 / month, billed annually 10 parallel agents",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$95",
+            "after": "$90"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Up to 30 hours of chat on Free Mode",
+      "Up to 60 projects on Free Mode",
+      "Even more Free Mode usage to chat and create"
+    ],
+    "removed": [
+      "Free Daily agent credits",
+      "Free daily usage",
+      "More free agent usage",
+      "Even more free agent usage"
+    ],
+    "totals": {
+      "removed": 17,
+      "added": 7,
+      "materialRemoved": 6,
+      "materialAdded": 5
+    }
   }
 ]

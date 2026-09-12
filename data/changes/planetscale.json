@@ -973,5 +973,48 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "planetscale-com-pricing-20260911111957",
+    "url": "https://planetscale.com/pricing",
+    "ts": "20260911111957",
+    "date": "2026-09-11",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "price",
+    "score": 21,
+    "counts": {
+      "price": 3,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "PlanetScale: 3 prices, 6 limits changed (removed “PS-5 1/16 vCPU”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Ultra-fast NVMe drives and unlimited IOPS make high-availability Metal clusters the fastest nodes available in the cloud.",
+      "PS-5 1/16 vCPU",
+      "· 512 MB memory",
+      "· 10 GB storage",
+      "$15",
+      "1/16 vCPU",
+      "512 MB",
+      "1/16 vCPU",
+      "512 MB",
+      "1/16 vCPU",
+      "512 MB",
+      "3/16 vCPU",
+      "1.5 GB",
+      "100 GB of egress bandwidth is included. Additional usage: $0.06 / GB.",
+      "$15",
+      "Storage amount — Included for Metal databases. For network-attached storage databases, the first 10 GB is free, with per-GB pricing beyond that. See the pricing calculator for details."
+    ],
+    "totals": {
+      "removed": 57,
+      "added": 14,
+      "materialRemoved": 16,
+      "materialAdded": 0
+    }
   }
 ]

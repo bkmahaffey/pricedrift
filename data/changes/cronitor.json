@@ -168,6 +168,46 @@
       "added": 59,
       "materialRemoved": 17,
       "materialAdded": 23
-    }
+    },
+    "flap": true
+  },
+  {
+    "id": "cronitor-io-pricing-20260911111957",
+    "url": "https://cronitor.io/pricing",
+    "ts": "20260911111957",
+    "date": "2026-09-11",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cronitor: 1 limit changed (6 → 12)",
+    "pairs": [
+      {
+        "before": "6 month data retention",
+        "after": "12 month data retention",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "6",
+            "after": "12"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    },
+    "flap": true
   }
 ]
