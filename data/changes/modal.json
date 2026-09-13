@@ -992,5 +992,31 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "modal-com-pricing-20260912104509",
+    "url": "https://modal.com/pricing",
+    "ts": "20260912104509",
+    "date": "2026-09-12",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Modal: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 7,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
   }
 ]

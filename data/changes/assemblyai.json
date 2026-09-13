@@ -1685,5 +1685,49 @@
       "materialRemoved": 7,
       "materialAdded": 11
     }
+  },
+  {
+    "id": "assemblyai-com-pricing-20260912104509",
+    "url": "https://www.assemblyai.com/pricing",
+    "ts": "20260912104509",
+    "date": "2026-09-12",
+    "source": "http",
+    "prevTs": "20260904112336",
+    "kind": "price",
+    "score": 17,
+    "counts": {
+      "price": 5,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "AssemblyAI: 5 prices, 1 limit changed (6 → 7)",
+    "pairs": [
+      {
+        "before": "$5+ / 1M in 6",
+        "after": "$5+ / 1M in 7",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "6",
+            "after": "7"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0.12 /hr",
+      "Universal-3.5 Pro Realtime $0.12 /hr",
+      "Universal-Streaming $0.12 /hr",
+      "$10.00 / 1M",
+      "$50.00 / 1M"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 18,
+      "materialRemoved": 1,
+      "materialAdded": 6
+    }
   }
 ]

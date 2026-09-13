@@ -2461,5 +2461,53 @@
       "materialRemoved": 10,
       "materialAdded": 10
     }
+  },
+  {
+    "id": "ai-google-dev-gemini-api-docs-pricing-20260912104509",
+    "url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "ts": "20260912104509",
+    "date": "2026-09-12",
+    "source": "browser",
+    "prevTs": "20260909112147",
+    "kind": "price",
+    "score": 48,
+    "counts": {
+      "price": 10,
+      "limit": 2,
+      "plan": 7
+    },
+    "material": true,
+    "headline": "Google Gemini API: 10 prices, 2 limits, 7 plan names changed (removed “Paid Tier, per 1M tokens in USD”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Free Tier",
+      "Paid Tier, per 1M tokens in USD",
+      "Free of charge",
+      "$0.15",
+      "Free Tier",
+      "Paid Tier, per 1M tokens in USD",
+      "$0.075",
+      "Free of charge",
+      "$1.00 (text / image / video)",
+      "$2.00 (audio)",
+      "Free of charge",
+      "$5.00",
+      "5,000 free search requests per month (shared across all Gemini 3.x models), then $14 per 1,000 requests.",
+      "Free Tier",
+      "Paid Tier, per 1M tokens in USD",
+      "$0.50 (text / image / video)",
+      "$1.00 (audio)",
+      "$2.50",
+      "5,000 free search requests per month (shared across all Gemini 3.x models), then $14 per 1,000 requests.",
+      "Free Tier",
+      "Paid Tier, per 1M tokens in USD"
+    ],
+    "totals": {
+      "removed": 78,
+      "added": 8,
+      "materialRemoved": 21,
+      "materialAdded": 0
+    }
   }
 ]

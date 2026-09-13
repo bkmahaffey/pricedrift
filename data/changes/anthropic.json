@@ -1890,5 +1890,57 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "claude-com-pricing-20260912104509",
+    "url": "https://claude.com/pricing",
+    "ts": "20260912104509",
+    "date": "2026-09-12",
+    "source": "http",
+    "prevTs": "20260910111800",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Anthropic API: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "platform-claude-com-docs-en-api-rate-limits-20260912104509",
+    "url": "https://platform.claude.com/docs/en/api/rate-limits",
+    "ts": "20260912104509",
+    "date": "2026-09-12",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Anthropic API: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 21,
+      "added": 7,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

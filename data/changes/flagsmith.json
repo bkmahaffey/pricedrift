@@ -203,5 +203,32 @@
       "materialRemoved": 0,
       "materialAdded": 2
     }
+  },
+  {
+    "id": "flagsmith-com-pricing-20260912104509",
+    "url": "https://www.flagsmith.com/pricing",
+    "ts": "20260912104509",
+    "date": "2026-09-12",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260624073952",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Flagsmith: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

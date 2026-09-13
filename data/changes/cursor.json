@@ -481,5 +481,39 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "cursor-com-pricing-20260912104509",
+    "url": "https://cursor.com/pricing",
+    "ts": "20260912104509",
+    "date": "2026-09-12",
+    "source": "http",
+    "prevTs": "20260910111800",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 6,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cursor: 6 prices changed (removed “$40 / user / mo.”; added “$60 / mo.”)",
+    "pairs": [],
+    "added": [
+      "$60 / mo.",
+      "$200 / mo.",
+      "$60 / mo.",
+      "$200 / mo."
+    ],
+    "removed": [
+      "$40 / user / mo.",
+      "$40 / user / mo."
+    ],
+    "totals": {
+      "removed": 74,
+      "added": 54,
+      "materialRemoved": 4,
+      "materialAdded": 6
+    }
   }
 ]

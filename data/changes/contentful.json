@@ -335,5 +335,45 @@
       "materialRemoved": 2,
       "materialAdded": 15
     }
+  },
+  {
+    "id": "contentful-com-pricing-20260723033137",
+    "url": "https://www.contentful.com/pricing/",
+    "ts": "20260723033137",
+    "date": "2026-07-23",
+    "source": "wayback",
+    "prevTs": "20260908111757",
+    "kind": "price",
+    "score": 16,
+    "counts": {
+      "price": 2,
+      "limit": 3,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Contentful: 2 prices, 3 limits, 2 plan names changed (removed “$850/month (limited to one Lite space)”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$850/month (limited to one Lite space)",
+      "1M/month + Lite Space allowance if purchased (paid overages allowed)",
+      "100 GB/month + Lite Space allowance if purchased (paid overages allowed)",
+      "1000 MB",
+      "Free Spaces included on all plans",
+      "Start for free",
+      "Start for free",
+      "2M/month",
+      "750 GB/month",
+      "Unlimited Spaces can be enabled",
+      "500K (upgrades available)",
+      "Can you get started with Contentful for free?",
+      "and pay only for the overage: $5 per additional 1 million API calls per month (waved on some of our Enterprise plans), plus $0.15 per additional GB of asset bandwidth per month. The Free plan works differently, using hard caps so your usage stays within the included limits"
+    ],
+    "totals": {
+      "removed": 81,
+      "added": 27,
+      "materialRemoved": 17,
+      "materialAdded": 4
+    }
   }
 ]

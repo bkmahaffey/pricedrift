@@ -2632,5 +2632,67 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "developers-openai-com-api-docs-pricing-20260912104509",
+    "url": "https://developers.openai.com/api/docs/pricing",
+    "ts": "20260912104509",
+    "date": "2026-09-12",
+    "source": "http",
+    "prevTs": "20260905103405",
+    "kind": "price",
+    "score": 27,
+    "counts": {
+      "price": 9,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OpenAI API: 9 prices changed (added “$0.05”)",
+    "pairs": [],
+    "added": [
+      "$0.05",
+      "$8.00",
+      "$2.00",
+      "$30.00",
+      "$5.00",
+      "$1.25",
+      "$5.00",
+      "$0.50",
+      "$25.00"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 32,
+      "added": 95,
+      "materialRemoved": 0,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "developers-openai-com-api-docs-guides-rate-limits-20260912104509",
+    "url": "https://developers.openai.com/api/docs/guides/rate-limits",
+    "ts": "20260912104509",
+    "date": "2026-09-12",
+    "source": "http",
+    "prevTs": "20260909112147",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "OpenAI API: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 30,
+      "added": 63,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

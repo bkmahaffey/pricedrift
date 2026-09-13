@@ -251,5 +251,32 @@
       "materialRemoved": 0,
       "materialAdded": 4
     }
+  },
+  {
+    "id": "mapsplatform-google-com-pricing-20260912104509",
+    "url": "https://mapsplatform.google.com/pricing/",
+    "ts": "20260912104509",
+    "date": "2026-09-12",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260708133518",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Google Maps Platform: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 26,
+      "added": 20,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

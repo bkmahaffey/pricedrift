@@ -3012,5 +3012,35 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "datadoghq-com-pricing-20260912104509",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20260912104509",
+    "date": "2026-09-12",
+    "source": "http",
+    "prevTs": "20260903111316",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Datadog: 2 prices changed (removed “$ 0.05 Per instance-hour,”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$ 0.05 Per instance-hour,",
+      "*Billed annually or $ 27 on-demand",
+      "Unlimited users"
+    ],
+    "totals": {
+      "removed": 53,
+      "added": 121,
+      "materialRemoved": 7,
+      "materialAdded": 4
+    }
   }
 ]
