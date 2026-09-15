@@ -247,5 +247,47 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "loops-so-pricing-20260913115019",
+    "url": "https://loops.so/pricing",
+    "ts": "20260913115019",
+    "date": "2026-09-13",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "limits",
+    "score": 3,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Loops: 2 limits changed (4,000 added)",
+    "pairs": [
+      {
+        "before": "Loops pricing is based on subscribed contacts. Transactional email sending is included at no additional charge on paid plans, and the free plan includes monthly sends for getting started.",
+        "after": "Loops pricing is based on subscribed contacts. Transactional email sending is included at no additional charge on paid plans, and the free plan includes up to 4,000 sends in any rolling 30-day window for getting started.",
+        "confidence": 0.81,
+        "deltas": [
+          {
+            "before": null,
+            "after": "4,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Up to 4,000 sends in any rolling 30 days"
+    ],
+    "removed": [
+      "The free plan includes up to 4,000 sends a month to 1,000 stored subscribed contacts. We do not charge for additional stored contacts. It also includes Loops branding at the bottom of your emails. Any paid plan will remove these limitations."
+    ],
+    "totals": {
+      "removed": 83,
+      "added": 5,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
   }
 ]

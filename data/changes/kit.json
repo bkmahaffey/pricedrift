@@ -575,5 +575,34 @@
       "materialRemoved": 1,
       "materialAdded": 4
     }
+  },
+  {
+    "id": "kit-com-pricing-20260912225306",
+    "url": "https://kit.com/pricing",
+    "ts": "20260912225306",
+    "date": "2026-09-12",
+    "source": "wayback",
+    "prevTs": "20260902202107",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Kit: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Start 14-day free trial",
+      "Start 14-day free trial"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
   }
 ]

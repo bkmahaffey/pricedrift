@@ -1,113 +1,28 @@
 {
-  "ranAt": "2026-09-13T11:50:19.275Z",
-  "ts": "20260913115019",
+  "ranAt": "2026-09-15T11:43:03.435Z",
+  "ts": "20260915114303",
   "checked": 265,
   "changed": [],
   "confirmed": [
     {
-      "slug": "1password",
-      "headline": "1Password: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "anthropic",
-      "headline": "Anthropic API: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "anthropic",
-      "headline": "Anthropic API: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "assemblyai",
-      "headline": "AssemblyAI: 5 prices, 1 limit changed (6 → 7)",
+      "slug": "loops",
+      "headline": "Loops: 2 limits changed (4,000 added)",
       "material": true
     },
     {
-      "slug": "cloudflare-pages",
-      "headline": "Cloudflare Pages: pricing page text changed (no price or limit change detected)",
+      "slug": "kit",
+      "headline": "Kit: pricing page text changed (no price or limit change detected)",
       "material": false
     },
     {
-      "slug": "datadog",
-      "headline": "Datadog: 2 prices changed (removed “$ 0.05 Per instance-hour,”)",
+      "slug": "sendgrid",
+      "headline": "SendGrid: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "together-ai",
+      "headline": "Together AI: 141 prices, 16 limits changed ($0.13 → $0.25; 397B → 35B)",
       "material": true
-    },
-    {
-      "slug": "cursor",
-      "headline": "Cursor: 6 prices changed (removed “$40 / user / mo.”; added “$60 / mo.”)",
-      "material": true
-    },
-    {
-      "slug": "deepgram",
-      "headline": "Deepgram: 12 limits changed (12 → 14; 12 → 14)",
-      "material": true
-    },
-    {
-      "slug": "deno-deploy",
-      "headline": "Deno Deploy: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "depot",
-      "headline": "Depot: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "contentful",
-      "headline": "Contentful: 2 prices, 3 limits, 2 plan names changed (removed “$850/month (limited to one Lite space)”)",
-      "material": true
-    },
-    {
-      "slug": "flagsmith",
-      "headline": "Flagsmith: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "google-maps-platform",
-      "headline": "Google Maps Platform: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "google-gemini",
-      "headline": "Google Gemini API: 10 prices, 2 limits, 7 plan names changed (removed “Paid Tier, per 1M tokens in USD”)",
-      "material": true
-    },
-    {
-      "slug": "lovable",
-      "headline": "Lovable: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "modal",
-      "headline": "Modal: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "openai",
-      "headline": "OpenAI API: 9 prices changed (added “$0.05”)",
-      "material": true
-    },
-    {
-      "slug": "openai",
-      "headline": "OpenAI API: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "railway",
-      "headline": "Railway: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "weaviate",
-      "headline": "Weaviate Cloud: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "umami",
-      "headline": "Umami Cloud: pricing page text changed (no price or limit change detected)",
-      "material": false
     }
   ],
   "pending": [
@@ -116,16 +31,72 @@
       "url": "https://support.airtable.com/articles/2277136852-airtable-plans-overview"
     },
     {
+      "slug": "anthropic",
+      "url": "https://claude.com/pricing"
+    },
+    {
+      "slug": "assemblyai",
+      "url": "https://www.assemblyai.com/pricing"
+    },
+    {
       "slug": "azure-free",
       "url": "https://azure.microsoft.com/en-us/pricing/free-services"
+    },
+    {
+      "slug": "baseten",
+      "url": "https://www.baseten.co/pricing/"
+    },
+    {
+      "slug": "bitbucket",
+      "url": "https://www.atlassian.com/software/bitbucket/pricing"
+    },
+    {
+      "slug": "buttondown",
+      "url": "https://buttondown.com/pricing"
     },
     {
       "slug": "azure-free",
       "url": "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account"
     },
     {
+      "slug": "clerk",
+      "url": "https://clerk.com/pricing"
+    },
+    {
+      "slug": "cockroachdb",
+      "url": "https://www.cockroachlabs.com/pricing/"
+    },
+    {
+      "slug": "cohere",
+      "url": "https://cohere.com/pricing"
+    },
+    {
+      "slug": "cursor",
+      "url": "https://cursor.com/pricing"
+    },
+    {
+      "slug": "deepgram",
+      "url": "https://deepgram.com/pricing"
+    },
+    {
+      "slug": "contentful",
+      "url": "https://www.contentful.com/pricing/"
+    },
+    {
       "slug": "groq",
       "url": "https://console.groq.com/docs/models"
+    },
+    {
+      "slug": "groq",
+      "url": "https://console.groq.com/docs/rate-limits"
+    },
+    {
+      "slug": "hygraph",
+      "url": "https://hygraph.com/pricing"
+    },
+    {
+      "slug": "kinde",
+      "url": "https://kinde.com/pricing/"
     },
     {
       "slug": "kinsta",
@@ -136,46 +107,80 @@
       "url": "https://www.jetbrains.com/all/"
     },
     {
-      "slug": "loops",
-      "url": "https://loops.so/pricing"
+      "slug": "mailchimp",
+      "url": "https://mailchimp.com/pricing/marketing/"
     },
     {
-      "slug": "kit",
-      "url": "https://kit.com/pricing"
+      "slug": "mailtrap",
+      "url": "https://mailtrap.io/pricing/"
     },
     {
-      "slug": "redis-cloud",
-      "url": "https://redis.io/pricing/"
+      "slug": "mongodb-atlas",
+      "url": "https://www.mongodb.com/pricing"
+    },
+    {
+      "slug": "neon",
+      "url": "https://neon.com/pricing"
+    },
+    {
+      "slug": "railway",
+      "url": "https://railway.com/pricing"
+    },
+    {
+      "slug": "runpod",
+      "url": "https://www.runpod.io/pricing"
     },
     {
       "slug": "posthog",
       "url": "https://posthog.com/pricing"
     },
     {
-      "slug": "sendgrid",
-      "url": "https://support.sendgrid.com/hc/en-us/articles/35270136965403-Twilio-SendGrid-Trial-Account-Plan"
-    },
-    {
       "slug": "stripe",
       "url": "https://stripe.com/pricing"
     },
     {
-      "slug": "together-ai",
-      "url": "https://www.together.ai/pricing"
+      "slug": "temporal-cloud",
+      "url": "https://temporal.io/pricing"
+    },
+    {
+      "slug": "v0",
+      "url": "https://v0.app/pricing"
+    },
+    {
+      "slug": "wasabi",
+      "url": "https://wasabi.com/pricing/faq"
     },
     {
       "slug": "vast-ai",
       "url": "https://vast.ai/pricing"
     },
     {
+      "slug": "windsurf",
+      "url": "https://docs.devin.ai/desktop/accounts/usage"
+    },
+    {
       "slug": "xai",
       "url": "https://docs.x.ai/docs/models"
+    },
+    {
+      "slug": "xata",
+      "url": "https://xata.io/pricing"
     }
   ],
-  "unreachable": [],
+  "unreachable": [
+    {
+      "slug": "vultr",
+      "url": "https://www.vultr.com/pricing/",
+      "notes": [
+        "http 403",
+        "browser: 403, 7 lines",
+        "wayback: no snapshot"
+      ]
+    }
+  ],
   "sources": {
     "http": 245,
     "browser": 13,
-    "wayback": 7
+    "wayback": 6
   }
 }
