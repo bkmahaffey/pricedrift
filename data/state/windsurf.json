@@ -14,7 +14,7 @@
     },
     "devin-ai-pricing": {
       "url": "https://devin.ai/pricing",
-      "lastChecked": "20260915114303",
+      "lastChecked": "20260916113123",
       "lastSource": "browser",
       "latestTs": "20260911111957",
       "hash": "579098264a2e0363",
@@ -26,15 +26,16 @@
     },
     "docs-devin-ai-desktop-accounts-usage": {
       "url": "https://docs.devin.ai/desktop/accounts/usage",
-      "status": "pending",
+      "status": "ok",
       "lastChecked": "20260915114303",
       "lastNote": "http: only 64 lines; browser: 200, 64 lines; wayback: 65 lines",
       "failures": 0,
-      "latestTs": "20260902202628",
-      "hash": "633b214bc71f5b07",
+      "latestTs": "20260915114303",
+      "hash": "0cbb0b8a7c3fec9f",
       "firstTs": "20260902202628",
       "lastSource": "http",
-      "lineCount": 64
+      "lineCount": 63,
+      "lastChanged": "20260915114303"
     }
   }
 }

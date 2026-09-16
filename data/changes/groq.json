@@ -2225,5 +2225,67 @@
       "materialRemoved": 2,
       "materialAdded": 1
     }
+  },
+  {
+    "id": "console-groq-com-docs-models-20260915114303",
+    "url": "https://console.groq.com/docs/models",
+    "ts": "20260915114303",
+    "date": "2026-09-15",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "price",
+    "score": 8,
+    "counts": {
+      "price": 1,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Groq: 1 price, 3 limits changed (removed “Qwen/Qwen3.6-27B”; added “100 MB”)",
+    "pairs": [],
+    "added": [
+      "100 MB"
+    ],
+    "removed": [
+      "Qwen/Qwen3.6-27B",
+      "qwen/qwen3.6-27b",
+      "$0.60 input $3.00 output",
+      "250K TPM 1K RPM",
+      "20 MB"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 1,
+      "materialRemoved": 5,
+      "materialAdded": 1
+    }
+  },
+  {
+    "id": "console-groq-com-docs-rate-limits-20260915114303",
+    "url": "https://console.groq.com/docs/rate-limits",
+    "ts": "20260915114303",
+    "date": "2026-09-15",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Groq: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "qwen/qwen3.6-27b"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 0,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
   }
 ]

@@ -1766,5 +1766,203 @@
       "materialRemoved": 12,
       "materialAdded": 12
     }
+  },
+  {
+    "id": "deepgram-com-pricing-20260915114303",
+    "url": "https://deepgram.com/pricing",
+    "ts": "20260915114303",
+    "date": "2026-09-15",
+    "source": "http",
+    "prevTs": "20260912104509",
+    "kind": "price",
+    "score": 45,
+    "counts": {
+      "price": 15,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Deepgram: 15 prices changed ($0.056 → $0.075; $0.051 → $0.068)",
+    "pairs": [
+      {
+        "before": "$0.056/min through 9/14 Then $0.075/min i calculated based on websocket connection time.",
+        "after": "$0.075/min i calculated based on websocket connection time.",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "$0.056",
+            "after": "$0.075"
+          },
+          {
+            "before": "9",
+            "after": null
+          },
+          {
+            "before": "14",
+            "after": null
+          },
+          {
+            "before": "$0.075",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$0.051/min through 9/14 Then $0.068/min i calculated based on websocket connection time.",
+        "after": "$0.068/min i calculated based on websocket connection time.",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "$0.051",
+            "after": "$0.068"
+          },
+          {
+            "before": "9",
+            "after": null
+          },
+          {
+            "before": "14",
+            "after": null
+          },
+          {
+            "before": "$0.068",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$0.050/min through 9/14 Then $0.065/min i calculated based on websocket connection time.",
+        "after": "$0.059/min i calculated based on websocket connection time.",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "$0.050",
+            "after": "$0.059"
+          },
+          {
+            "before": "9",
+            "after": null
+          },
+          {
+            "before": "14",
+            "after": null
+          },
+          {
+            "before": "$0.065",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$0.122/min through 9/14 Then $0.163/min i calculated based on websocket connection time.",
+        "after": "$0.163/min i calculated based on websocket connection time.",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "$0.122",
+            "after": "$0.163"
+          },
+          {
+            "before": "9",
+            "after": null
+          },
+          {
+            "before": "14",
+            "after": null
+          },
+          {
+            "before": "$0.163",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$0.110/min through 9/14 Then $0.146/min i calculated based on websocket connection time.",
+        "after": "$0.146/min i calculated based on websocket connection time.",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "$0.110",
+            "after": "$0.146"
+          },
+          {
+            "before": "9",
+            "after": null
+          },
+          {
+            "before": "14",
+            "after": null
+          },
+          {
+            "before": "$0.146",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$0.056/min through 9/14 Then $0.075/min i calculated based on websocket connection time.",
+        "after": "$0.075/min i calculated based on websocket connection time.",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "$0.056",
+            "after": "$0.075"
+          },
+          {
+            "before": "9",
+            "after": null
+          },
+          {
+            "before": "14",
+            "after": null
+          },
+          {
+            "before": "$0.075",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "$0.122/min through 9/14 Then $0.163/min i calculated based on websocket connection time.",
+        "after": "$0.163/min i calculated based on websocket connection time.",
+        "confidence": 0.75,
+        "deltas": [
+          {
+            "before": "$0.122",
+            "after": "$0.163"
+          },
+          {
+            "before": "9",
+            "after": null
+          },
+          {
+            "before": "14",
+            "after": null
+          },
+          {
+            "before": "$0.163",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0.0450/1k characters",
+      "$0.0405/1k characters",
+      "$0.0450/1k characters"
+    ],
+    "removed": [
+      "Free until 9/14 Then $0.0450/1k characters",
+      "Free until 9/14 Then $0.0405/1k characters",
+      "Free until 9/14 Then $0.0450/1k characters",
+      "$0.041/min through 9/14 Then $0.059/min i calculated based on websocket connection time.",
+      "$0.050/min through 9/14 Then $0.065/min i calculated based on websocket connection time."
+    ],
+    "totals": {
+      "removed": 14,
+      "added": 11,
+      "materialRemoved": 12,
+      "materialAdded": 10
+    }
   }
 ]

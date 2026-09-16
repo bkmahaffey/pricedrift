@@ -1550,5 +1550,36 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "baseten-co-pricing-20260915114303",
+    "url": "https://www.baseten.co/pricing/",
+    "ts": "20260915114303",
+    "date": "2026-09-15",
+    "source": "http",
+    "prevTs": "20260911111957",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 4,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Baseten: 4 prices changed (added “$0.30”)",
+    "pairs": [],
+    "added": [
+      "$0.30",
+      "$0.03",
+      "$1.20 Try Model API",
+      "$1.20 Try"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 6,
+      "materialRemoved": 0,
+      "materialAdded": 4
+    }
   }
 ]

@@ -755,5 +755,118 @@
       "materialRemoved": 13,
       "materialAdded": 15
     }
+  },
+  {
+    "id": "xata-io-pricing-20260915114303",
+    "url": "https://xata.io/pricing",
+    "ts": "20260915114303",
+    "date": "2026-09-15",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "price",
+    "score": 22,
+    "counts": {
+      "price": 6,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Xata: 6 prices, 2 limits changed (1TB → 10GB; $313.54 → $35.42)",
+    "pairs": [
+      {
+        "before": "Production database size 1 TB",
+        "after": "Production database size 10 GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1TB",
+            "after": "10GB"
+          }
+        ]
+      },
+      {
+        "before": "Total $ 313.54 /month",
+        "after": "Total $ 35.42 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$313.54",
+            "after": "$35.42"
+          }
+        ]
+      },
+      {
+        "before": "CoW branches only store changed data. 0.32 % of 1 TB = 3 GB per branch. Estimate auto-adjusts with database size.",
+        "after": "CoW branches only store changed data. 3.16 % of 10 GB = 0 GB per branch. Estimate auto-adjusts with database size.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "0.32",
+            "after": "3.16"
+          },
+          {
+            "before": "1TB",
+            "after": "10GB"
+          },
+          {
+            "before": "3GB",
+            "after": "0GB"
+          }
+        ]
+      },
+      {
+        "before": "Production Clone $ 297.52 /mo",
+        "after": "Production Clone $ 20.32 /mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$297.52",
+            "after": "$20.32"
+          }
+        ]
+      },
+      {
+        "before": "Development Branches $ 16.02 /mo",
+        "after": "Development Branches $ 15.10 /mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$16.02",
+            "after": "$15.10"
+          }
+        ]
+      },
+      {
+        "before": "0.32 % of 1 TB × 5,000 branches × $ 0.28 /GB/month × 10 / 43,800 minutes = $ 1.02",
+        "after": "3.2 % of 10 GB × 5,000 branches × $ 0.28 /GB/month × 10 / 43,800 minutes = $ 0.10",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "0.32",
+            "after": "3.2"
+          },
+          {
+            "before": "1TB",
+            "after": "10GB"
+          },
+          {
+            "before": "$1.02",
+            "after": "$0.10"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "10 GB × $ 0.28 /GB = $ 2.80"
+    ],
+    "removed": [
+      "1 TB × $ 0.28 /GB = $ 280.00"
+    ],
+    "totals": {
+      "removed": 8,
+      "added": 8,
+      "materialRemoved": 7,
+      "materialAdded": 7
+    }
   }
 ]

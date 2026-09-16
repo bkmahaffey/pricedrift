@@ -537,5 +537,34 @@
       "materialRemoved": 55,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "atlassian-com-software-bitbucket-pricing-20260915114303",
+    "url": "https://www.atlassian.com/software/bitbucket/pricing",
+    "ts": "20260915114303",
+    "date": "2026-09-15",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260701025015",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Bitbucket: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Build minutes measure CI/CD pipeline execution time on Atlassian cloud runners. Total build minutes is calculated based on runner size used, for example, a 5-minute step on a 2× runner would count as 10 build minutes."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 6,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
   }
 ]

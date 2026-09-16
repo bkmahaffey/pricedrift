@@ -824,5 +824,33 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "neon-com-pricing-20260915114303",
+    "url": "https://neon.com/pricing",
+    "ts": "20260915114303",
+    "date": "2026-09-15",
+    "source": "http",
+    "prevTs": "20260911111957",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Neon: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "\"A quarter of work, done in 6 days\". How a solo founder built isolated Postgres per tenant on Neon"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
   }
 ]

@@ -602,5 +602,54 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "clerk-com-pricing-20260915114303",
+    "url": "https://clerk.com/pricing",
+    "ts": "20260915114303",
+    "date": "2026-09-15",
+    "source": "http",
+    "prevTs": "20260904112336",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Clerk: 2 limits changed (500 → 501; 500 → 501)",
+    "pairs": [
+      {
+        "before": "500+ $15/mo each",
+        "after": "501+ $15/mo each",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "500",
+            "after": "501"
+          }
+        ]
+      },
+      {
+        "before": "500+ $15/mo each",
+        "after": "501+ $15/mo each",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "500",
+            "after": "501"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
   }
 ]

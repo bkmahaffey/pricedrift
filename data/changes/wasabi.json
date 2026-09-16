@@ -297,5 +297,98 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "wasabi-com-pricing-faq-20260915114303",
+    "url": "https://wasabi.com/pricing/faq",
+    "ts": "20260915114303",
+    "date": "2026-09-15",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "price",
+    "score": 15,
+    "counts": {
+      "price": 3,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Wasabi: 3 prices, 3 limits changed ($8.99 → $9.99; 0088GB → 0099GB)",
+    "pairs": [
+      {
+        "before": "$8.99 TB/mo",
+        "after": "$9.99 TB/mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$8.99",
+            "after": "$9.99"
+          }
+        ]
+      },
+      {
+        "before": "($.0088 GB/mo)",
+        "after": "($.0099 GB/mo)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "0088GB",
+            "after": "0099GB"
+          }
+        ]
+      },
+      {
+        "before": "$8.99 TB/mo",
+        "after": "$9.99 TB/mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$8.99",
+            "after": "$9.99"
+          }
+        ]
+      },
+      {
+        "before": "($.0088 GB/mo)",
+        "after": "($.0099 GB/mo)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "0088GB",
+            "after": "0099GB"
+          }
+        ]
+      },
+      {
+        "before": "$8.99 TB/mo",
+        "after": "$9.99 TB/mo",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$8.99",
+            "after": "$9.99"
+          }
+        ]
+      },
+      {
+        "before": "($.0088 GB/mo)",
+        "after": "($.0099 GB/mo)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "0088GB",
+            "after": "0099GB"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 6,
+      "added": 6,
+      "materialRemoved": 6,
+      "materialAdded": 6
+    }
   }
 ]

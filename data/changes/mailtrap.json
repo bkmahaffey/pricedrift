@@ -1142,5 +1142,34 @@
       "materialRemoved": 0,
       "materialAdded": 2
     }
+  },
+  {
+    "id": "mailtrap-io-pricing-20260915114303",
+    "url": "https://mailtrap.io/pricing/",
+    "ts": "20260915114303",
+    "date": "2026-09-15",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260819022735",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Mailtrap: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "200 emails per sandbox"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
   }
 ]

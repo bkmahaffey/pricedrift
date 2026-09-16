@@ -605,5 +605,36 @@
       "materialRemoved": 8,
       "materialAdded": 8
     }
+  },
+  {
+    "id": "v0-app-pricing-20260915114303",
+    "url": "https://v0.app/pricing",
+    "ts": "20260915114303",
+    "date": "2026-09-15",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "price",
+    "score": 8,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "v0: 2 prices, 1 plan name changed (removed “$30 /user/month”; added “$30 $ 90 /user/month”)",
+    "pairs": [],
+    "added": [
+      "$30 $ 90 /user/month",
+      "Everything from Free"
+    ],
+    "removed": [
+      "$30 /user/month"
+    ],
+    "totals": {
+      "removed": 66,
+      "added": 50,
+      "materialRemoved": 17,
+      "materialAdded": 18
+    }
   }
 ]

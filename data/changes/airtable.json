@@ -95,5 +95,43 @@
       "materialRemoved": 2,
       "materialAdded": 62
     }
+  },
+  {
+    "id": "support-airtable-com-articles-2277136852-airtable-plans-overview-20260915114303",
+    "url": "https://support.airtable.com/articles/2277136852-airtable-plans-overview",
+    "ts": "20260915114303",
+    "date": "2026-09-15",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Airtable: 1 limit changed (18 → 1)",
+    "pairs": [
+      {
+        "before": "Last updated 18 days ago",
+        "after": "Last updated 1 month ago",
+        "confidence": 0.6,
+        "deltas": [
+          {
+            "before": "18",
+            "after": "1"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
   }
 ]

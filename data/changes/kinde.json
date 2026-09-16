@@ -672,5 +672,32 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "kinde-com-pricing-20260915114303",
+    "url": "https://kinde.com/pricing/",
+    "ts": "20260915114303",
+    "date": "2026-09-15",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260819234557",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Kinde: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 60,
+      "added": 83,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

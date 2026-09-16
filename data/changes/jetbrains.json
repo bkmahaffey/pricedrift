@@ -51,5 +51,34 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "jetbrains-com-all-20260915114303",
+    "url": "https://www.jetbrains.com/all/",
+    "ts": "20260915114303",
+    "date": "2026-09-15",
+    "source": "browser",
+    "prevTs": "20260902202107",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "JetBrains IDEs: 1 limit changed (added “20 JetBrains AI Credits per 30 days”)",
+    "pairs": [],
+    "added": [
+      "20 JetBrains AI Credits per 30 days",
+      "20 JetBrains AI Credits per 30 days"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 11,
+      "added": 8,
+      "materialRemoved": 1,
+      "materialAdded": 3
+    }
   }
 ]
