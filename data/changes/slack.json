@@ -624,5 +624,33 @@
       "materialRemoved": 3,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "slack-com-pricing-20260916113123",
+    "url": "https://slack.com/pricing",
+    "ts": "20260916113123",
+    "date": "2026-09-16",
+    "source": "http",
+    "prevTs": "20260904112336",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Slack: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Existing Salesforce customers on Slack Free and Pro invoice plans can get access to Slackbot, and Slack Business+ customers on invoice plans can unlock higher message limits by purchasing Flex Credits through Salesforce."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
   }
 ]

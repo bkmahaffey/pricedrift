@@ -1391,5 +1391,34 @@
       "materialRemoved": 0,
       "materialAdded": 4
     }
+  },
+  {
+    "id": "warp-dev-pricing-20260916113123",
+    "url": "https://www.warp.dev/pricing",
+    "ts": "20260916113123",
+    "date": "2026-09-16",
+    "source": "http",
+    "prevTs": "20260903111316",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Warp: 1 limit changed (added “○ Up to 10 seats”)",
+    "pairs": [],
+    "added": [
+      "○ Up to 10 seats",
+      "○ Up to 10 seats"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
   }
 ]

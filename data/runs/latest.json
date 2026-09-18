@@ -1,137 +1,124 @@
 {
-  "ranAt": "2026-09-16T11:31:23.509Z",
-  "ts": "20260916113123",
+  "ranAt": "2026-09-18T11:12:44.151Z",
+  "ts": "20260918111244",
   "checked": 265,
   "changed": [],
   "confirmed": [
     {
       "slug": "airtable",
-      "headline": "Airtable: 1 limit changed (18 → 1)",
-      "material": true
-    },
-    {
-      "slug": "baseten",
-      "headline": "Baseten: 4 prices changed (added “$0.30”)",
-      "material": true
-    },
-    {
-      "slug": "bitbucket",
-      "headline": "Bitbucket: pricing page text changed (no price or limit change detected)",
+      "headline": "Airtable: pricing page text changed (no price or limit change detected)",
       "material": false
     },
     {
-      "slug": "buttondown",
-      "headline": "Buttondown: pricing page text changed (no price or limit change detected)",
+      "slug": "depot",
+      "headline": "Depot: pricing page text changed (no price or limit change detected)",
       "material": false
     },
     {
-      "slug": "clerk",
-      "headline": "Clerk: 2 limits changed (500 → 501; 500 → 501)",
-      "material": true
-    },
-    {
-      "slug": "cockroachdb",
-      "headline": "CockroachDB Cloud: 27 prices, 5 limits, 6 plan names changed (removed “Starts at $0 / month”; added “With Cockroach Continuum, pay only for what y…”)",
-      "material": true
-    },
-    {
-      "slug": "cohere",
-      "headline": "Cohere: pricing page text changed (no price or limit change detected)",
+      "slug": "fly-io",
+      "headline": "Fly.io: pricing page text changed (no price or limit change detected)",
       "material": false
     },
     {
-      "slug": "deepgram",
-      "headline": "Deepgram: 15 prices changed ($0.056 → $0.075; $0.051 → $0.068)",
-      "material": true
-    },
-    {
-      "slug": "groq",
-      "headline": "Groq: 1 price, 3 limits changed (removed “Qwen/Qwen3.6-27B”; added “100 MB”)",
-      "material": true
-    },
-    {
-      "slug": "groq",
-      "headline": "Groq: pricing page text changed (no price or limit change detected)",
+      "slug": "github",
+      "headline": "GitHub: pricing page text changed (no price or limit change detected)",
       "material": false
     },
     {
-      "slug": "kinde",
-      "headline": "Kinde: pricing page text changed (no price or limit change detected)",
+      "slug": "github-pages",
+      "headline": "GitHub Pages: pricing page text changed (no price or limit change detected)",
       "material": false
     },
     {
-      "slug": "jetbrains",
-      "headline": "JetBrains IDEs: 1 limit changed (added “20 JetBrains AI Credits per 30 days”)",
+      "slug": "growthbook",
+      "headline": "GrowthBook: 1 price, 2 limits changed (50 → 30)",
       "material": true
     },
     {
-      "slug": "mailtrap",
-      "headline": "Mailtrap: pricing page text changed (no price or limit change detected)",
+      "slug": "hygraph",
+      "headline": "Hygraph: pricing page text changed (no price or limit change detected)",
       "material": false
     },
     {
-      "slug": "mongodb-atlas",
-      "headline": "MongoDB Atlas: pricing page text changed (no price or limit change detected)",
+      "slug": "imgix",
+      "headline": "imgix: pricing page text changed (no price or limit change detected)",
       "material": false
     },
     {
-      "slug": "neon",
-      "headline": "Neon: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "redis-cloud",
-      "headline": "Redis Cloud: 1 plan name changed",
+      "slug": "google-gemini",
+      "headline": "Google Gemini API: 2 plan names changed",
       "material": true
     },
     {
-      "slug": "runpod",
-      "headline": "RunPod: pricing page text changed (no price or limit change detected)",
+      "slug": "jira",
+      "headline": "Jira: pricing page text changed (no price or limit change detected)",
       "material": false
     },
     {
-      "slug": "stripe",
-      "headline": "Stripe: pricing page text changed (no price or limit change detected)",
+      "slug": "jira",
+      "headline": "Jira: pricing page text changed (no price or limit change detected)",
       "material": false
     },
     {
-      "slug": "temporal-cloud",
-      "headline": "Temporal Cloud: 21 prices, 13 limits, 1 plan name changed (removed “Get started for free with $1,000 in credits”; added “Temporal Raises Series E at $12.55B Valuation…”)",
-      "material": true
-    },
-    {
-      "slug": "v0",
-      "headline": "v0: 2 prices, 1 plan name changed (removed “$30 /user/month”; added “$30 $ 90 /user/month”)",
-      "material": true
-    },
-    {
-      "slug": "wasabi",
-      "headline": "Wasabi: 3 prices, 3 limits changed ($8.99 → $9.99; 0088GB → 0099GB)",
-      "material": true
-    },
-    {
-      "slug": "windsurf",
-      "headline": "Windsurf: pricing page text changed (no price or limit change detected)",
+      "slug": "loops",
+      "headline": "Loops: pricing page text changed (no price or limit change detected)",
       "material": false
     },
     {
-      "slug": "xata",
-      "headline": "Xata: 6 prices, 2 limits changed (1TB → 10GB; $313.54 → $35.42)",
+      "slug": "openrouter",
+      "headline": "OpenRouter: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "slack",
+      "headline": "Slack: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "together-ai",
+      "headline": "Together AI: 4 prices changed (removed “$2.00”; added “$2.50”)",
       "material": true
+    },
+    {
+      "slug": "typesense",
+      "headline": "Typesense Cloud: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "warp",
+      "headline": "Warp: 1 limit changed (added “○ Up to 10 seats”)",
+      "material": true
+    },
+    {
+      "slug": "webflow",
+      "headline": "Webflow: pricing page text changed (no price or limit change detected)",
+      "material": false
     }
   ],
   "pending": [
     {
-      "slug": "airtable",
-      "url": "https://airtable.com/pricing"
+      "slug": "aiven",
+      "url": "https://aiven.io/pricing"
+    },
+    {
+      "slug": "anthropic",
+      "url": "https://claude.com/pricing"
+    },
+    {
+      "slug": "anthropic",
+      "url": "https://platform.claude.com/docs/en/api/rate-limits"
+    },
+    {
+      "slug": "assemblyai",
+      "url": "https://www.assemblyai.com/pricing"
     },
     {
       "slug": "appwrite",
       "url": "https://appwrite.io/pricing"
     },
     {
-      "slug": "assemblyai",
-      "url": "https://www.assemblyai.com/pricing"
+      "slug": "backblaze-b2",
+      "url": "https://www.backblaze.com/cloud-storage/pricing"
     },
     {
       "slug": "azure-free",
@@ -142,133 +129,171 @@
       "url": "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account"
     },
     {
-      "slug": "depot",
-      "url": "https://depot.dev/pricing"
+      "slug": "brevo",
+      "url": "https://www.brevo.com/pricing/"
     },
     {
-      "slug": "contentful",
-      "url": "https://www.contentful.com/pricing/"
+      "slug": "circleci",
+      "url": "https://circleci.com/pricing/"
+    },
+    {
+      "slug": "cockroachdb",
+      "url": "https://www.cockroachlabs.com/pricing/"
+    },
+    {
+      "slug": "cohere",
+      "url": "https://cohere.com/pricing"
+    },
+    {
+      "slug": "cohere",
+      "url": "https://docs.cohere.com/docs/rate-limits"
+    },
+    {
+      "slug": "convex",
+      "url": "https://www.convex.dev/pricing"
+    },
+    {
+      "slug": "figma",
+      "url": "https://www.figma.com/pricing/"
     },
     {
       "slug": "fireworks-ai",
       "url": "https://fireworks.ai/pricing"
     },
     {
-      "slug": "fly-io",
-      "url": "https://fly.io/pricing/"
+      "slug": "gitlab",
+      "url": "https://about.gitlab.com/pricing/"
     },
     {
-      "slug": "github",
-      "url": "https://docs.github.com/en/billing/managing-billing-for-your-products/about-billing-for-github-actions"
+      "slug": "google-colab",
+      "url": "https://research.google.com/colaboratory/faq.html"
     },
     {
-      "slug": "github-pages",
-      "url": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits"
-    },
-    {
-      "slug": "growthbook",
-      "url": "https://www.growthbook.io/pricing"
-    },
-    {
-      "slug": "hygraph",
-      "url": "https://hygraph.com/pricing"
-    },
-    {
-      "slug": "imgix",
-      "url": "https://www.imgix.com/pricing"
-    },
-    {
-      "slug": "google-gemini",
-      "url": "https://ai.google.dev/gemini-api/docs/pricing"
-    },
-    {
-      "slug": "jira",
-      "url": "https://support.atlassian.com/jira-cloud-administration/docs/explore-jira-cloud-plans/"
+      "slug": "hostinger",
+      "url": "https://www.hostinger.com/web-hosting"
     },
     {
       "slug": "kinsta",
       "url": "https://kinsta.com/plans/"
     },
     {
-      "slug": "loops",
-      "url": "https://loops.so/pricing"
+      "slug": "lovable",
+      "url": "https://docs.lovable.dev/introduction/subscription-plans"
+    },
+    {
+      "slug": "mailtrap",
+      "url": "https://mailtrap.io/pricing/"
+    },
+    {
+      "slug": "mapbox",
+      "url": "https://www.mapbox.com/pricing"
     },
     {
       "slug": "mistral",
       "url": "https://mistral.ai/pricing/api/"
     },
     {
+      "slug": "mux",
+      "url": "https://www.mux.com/pricing"
+    },
+    {
+      "slug": "neon",
+      "url": "https://neon.com/pricing"
+    },
+    {
+      "slug": "openai",
+      "url": "https://developers.openai.com/api/docs/pricing"
+    },
+    {
+      "slug": "openai",
+      "url": "https://developers.openai.com/api/docs/guides/rate-limits"
+    },
+    {
       "slug": "openrouter",
       "url": "https://openrouter.ai/docs/api-reference/limits"
     },
     {
-      "slug": "openrouter",
-      "url": "https://openrouter.ai/docs/faq"
+      "slug": "papertrail",
+      "url": "https://www.papertrail.com/plans/"
+    },
+    {
+      "slug": "pipedream",
+      "url": "https://pipedream.com/pricing"
+    },
+    {
+      "slug": "prismic",
+      "url": "https://prismic.io/pricing"
     },
     {
       "slug": "railway",
       "url": "https://railway.com/pricing"
     },
     {
+      "slug": "render",
+      "url": "https://render.com/pricing"
+    },
+    {
+      "slug": "replit",
+      "url": "https://replit.com/pricing"
+    },
+    {
       "slug": "retool",
       "url": "https://retool.com/pricing"
+    },
+    {
+      "slug": "segment",
+      "url": "https://www.twilio.com/en-us/products/connections/pricing"
     },
     {
       "slug": "posthog",
       "url": "https://posthog.com/pricing"
     },
     {
-      "slug": "slack",
-      "url": "https://slack.com/pricing"
+      "slug": "stripe",
+      "url": "https://stripe.com/pricing"
     },
     {
-      "slug": "together-ai",
-      "url": "https://www.together.ai/pricing"
+      "slug": "supabase",
+      "url": "https://supabase.com/pricing"
     },
     {
-      "slug": "typesense",
-      "url": "https://cloud.typesense.org/pricing"
+      "slug": "tigris",
+      "url": "https://www.tigrisdata.com/pricing/"
+    },
+    {
+      "slug": "twilio",
+      "url": "https://www.twilio.com/en-us/sms/pricing/us"
+    },
+    {
+      "slug": "turso",
+      "url": "https://turso.tech/pricing"
     },
     {
       "slug": "vercel",
       "url": "https://vercel.com/pricing"
     },
     {
+      "slug": "weaviate",
+      "url": "https://weaviate.io/pricing"
+    },
+    {
       "slug": "vast-ai",
       "url": "https://vast.ai/pricing"
     },
     {
-      "slug": "warp",
-      "url": "https://www.warp.dev/pricing"
+      "slug": "windsurf",
+      "url": "https://devin.ai/pricing"
+    },
+    {
+      "slug": "wordpress-com",
+      "url": "https://wordpress.com/pricing/"
     },
     {
       "slug": "xai",
       "url": "https://docs.x.ai/docs/models"
-    },
-    {
-      "slug": "webflow",
-      "url": "https://webflow.com/pricing"
     }
   ],
   "unreachable": [
-    {
-      "slug": "linode",
-      "url": "https://www.akamai.com/cloud/pricing",
-      "notes": [
-        "http 403",
-        "browser: 403, 3 lines",
-        "wayback: no snapshot"
-      ]
-    },
-    {
-      "slug": "linode",
-      "url": "https://www.akamai.com/cloud/pricing/north-america",
-      "notes": [
-        "http 403",
-        "browser: 403, 3 lines",
-        "wayback: no snapshot"
-      ]
-    },
     {
       "slug": "codesandbox",
       "url": "https://codesandbox.io/pricing",
@@ -277,37 +302,11 @@
         "browser: 403, 7 lines",
         "wayback: no snapshot"
       ]
-    },
-    {
-      "slug": "kit",
-      "url": "https://kit.com/pricing",
-      "notes": [
-        "http 403",
-        "browser: 403, 3 lines",
-        "wayback: no snapshot"
-      ]
-    },
-    {
-      "slug": "vultr",
-      "url": "https://www.vultr.com/pricing/",
-      "notes": [
-        "http 403",
-        "browser: 403, 7 lines",
-        "wayback: no snapshot"
-      ]
-    },
-    {
-      "slug": "new-relic",
-      "url": "https://newrelic.com/pricing",
-      "notes": [
-        "http: only 0 lines",
-        "browser: 200, 0 lines",
-        "wayback: no snapshot"
-      ]
     }
   ],
   "sources": {
-    "http": 246,
-    "browser": 13
+    "http": 245,
+    "browser": 13,
+    "wayback": 6
   }
 }

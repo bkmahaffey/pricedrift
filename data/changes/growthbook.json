@@ -664,5 +664,46 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "growthbook-io-pricing-20260916113123",
+    "url": "https://www.growthbook.io/pricing",
+    "ts": "20260916113123",
+    "date": "2026-09-16",
+    "source": "http",
+    "prevTs": "20260910111800",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 1,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "GrowthBook: 1 price, 2 limits changed (50 → 30)",
+    "pairs": [
+      {
+        "before": "Up to 50 users",
+        "after": "Up to 30 users",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50",
+            "after": "30"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "1M events/mo",
+      "2M events/mo (then $30/M)"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 11,
+      "added": 19,
+      "materialRemoved": 1,
+      "materialAdded": 3
+    }
   }
 ]

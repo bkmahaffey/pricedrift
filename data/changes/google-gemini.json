@@ -2509,5 +2509,35 @@
       "materialRemoved": 21,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "ai-google-dev-gemini-api-docs-pricing-20260916113123",
+    "url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "ts": "20260916113123",
+    "date": "2026-09-16",
+    "source": "browser",
+    "prevTs": "20260912104509",
+    "kind": "plans",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Google Gemini API: 2 plan names changed",
+    "pairs": [],
+    "added": [
+      "Free Tier"
+    ],
+    "removed": [
+      "Free Tier"
+    ],
+    "totals": {
+      "removed": 24,
+      "added": 28,
+      "materialRemoved": 10,
+      "materialAdded": 10
+    }
   }
 ]

@@ -289,5 +289,31 @@
       "materialRemoved": 3,
       "materialAdded": 3
     }
+  },
+  {
+    "id": "loops-so-pricing-20260916113123",
+    "url": "https://loops.so/pricing",
+    "ts": "20260916113123",
+    "date": "2026-09-16",
+    "source": "http",
+    "prevTs": "20260913115019",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Loops: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 11,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

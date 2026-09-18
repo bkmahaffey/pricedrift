@@ -745,5 +745,31 @@
       "materialRemoved": 41,
       "materialAdded": 53
     }
+  },
+  {
+    "id": "docs-github-com-en-billing-managing-billing-for-your-products-about-billing-for--20260916113123",
+    "url": "https://docs.github.com/en/billing/managing-billing-for-your-products/about-billing-for-github-actions",
+    "ts": "20260916113123",
+    "date": "2026-09-16",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "GitHub: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

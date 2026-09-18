@@ -632,5 +632,33 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "imgix-com-pricing-20260916113123",
+    "url": "https://www.imgix.com/pricing",
+    "ts": "20260916113123",
+    "date": "2026-09-16",
+    "source": "http",
+    "prevTs": "20260910111800",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "imgix: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "30 days to use 100 free credits. No credit card required."
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 1,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
   }
 ]

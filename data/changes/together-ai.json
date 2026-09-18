@@ -1766,5 +1766,37 @@
       "materialRemoved": 56,
       "materialAdded": 151
     }
+  },
+  {
+    "id": "together-ai-pricing-20260916113123",
+    "url": "https://www.together.ai/pricing",
+    "ts": "20260916113123",
+    "date": "2026-09-16",
+    "source": "http",
+    "prevTs": "20260913115019",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 4,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Together AI: 4 prices changed (removed “$2.00”; added “$2.50”)",
+    "pairs": [],
+    "added": [
+      "$2.50",
+      "$7.50"
+    ],
+    "removed": [
+      "$2.00",
+      "$6.00"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
   }
 ]

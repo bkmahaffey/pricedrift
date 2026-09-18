@@ -518,5 +518,35 @@
       "materialRemoved": 4,
       "materialAdded": 4
     }
+  },
+  {
+    "id": "openrouter-ai-docs-faq-20260916113123",
+    "url": "https://openrouter.ai/docs/faq",
+    "ts": "20260916113123",
+    "date": "2026-09-16",
+    "source": "http",
+    "prevTs": "20260903111316",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "OpenRouter: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "with their own pricing, context length, and endpoints. They only work on the models that list them.:free - A free version of the model with its own rate limits. Learn more"
+    ],
+    "removed": [
+      ".:free - The model is always provided for free and has low rate limits. Learn more"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 7,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
   }
 ]
