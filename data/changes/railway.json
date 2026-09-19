@@ -690,5 +690,45 @@
       "materialRemoved": 4,
       "materialAdded": 4
     }
+  },
+  {
+    "id": "railway-com-pricing-20260918111244",
+    "url": "https://railway.com/pricing",
+    "ts": "20260918111244",
+    "date": "2026-09-18",
+    "source": "http",
+    "prevTs": "20260912104509",
+    "kind": "price",
+    "score": 23,
+    "counts": {
+      "price": 5,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Railway: 5 prices, 4 limits changed (added “$ 0.00001929 per GB / sec”)",
+    "pairs": [],
+    "added": [
+      "$ 0.00001929 per GB / sec",
+      "about $ 50 per GB-month, while running",
+      "$ 0.00001929 per vCPU / sec",
+      "about $ 50 per vCPU-month, active use only",
+      "$ 0.05 per GB",
+      "2 vCPU / 2 GB",
+      "4 vCPU / 4 GB",
+      "8 vCPU / 8 GB",
+      "2 vCPU / 2 GB",
+      "8 vCPU / 8 GB",
+      "32 vCPU / 32 GB",
+      "Up to 5 minutes",
+      "Up to 2 hours, or never"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 30,
+      "materialRemoved": 0,
+      "materialAdded": 13
+    }
   }
 ]

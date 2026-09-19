@@ -295,5 +295,31 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "twilio-com-en-us-products-connections-pricing-20260918111244",
+    "url": "https://www.twilio.com/en-us/products/connections/pricing",
+    "ts": "20260918111244",
+    "date": "2026-09-18",
+    "source": "http",
+    "prevTs": "20260905103405",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Segment: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

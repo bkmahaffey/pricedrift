@@ -1199,5 +1199,56 @@
       "materialRemoved": 1,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "supabase-com-pricing-20260918111244",
+    "url": "https://supabase.com/pricing",
+    "ts": "20260918111244",
+    "date": "2026-09-18",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "limits",
+    "score": 18,
+    "counts": {
+      "price": 0,
+      "limit": 8,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Supabase: 8 limits, 1 plan name changed (removed “1 GB RAM / 2-core ARM CPU / Connections: Dire…”; added “1 GB RAM / Shared compute / Connections: Dire…”)",
+    "pairs": [],
+    "added": [
+      "1 GB RAM / Shared compute / Connections: Direct 60, Pooler 200",
+      "Dedicated · 2 vCPUs",
+      "Dedicated · 4 vCPUs",
+      "Dedicated · 8 vCPUs",
+      "Dedicated · 16 vCPUs",
+      "Dedicated · 32 vCPUs",
+      "Dedicated · 48 vCPUs",
+      "Dedicated · 64 vCPUs",
+      "Dedicated · 2 vCPUs",
+      "Dedicated · 4 vCPUs",
+      "Dedicated · 8 vCPUs",
+      "Dedicated · 16 vCPUs",
+      "Dedicated · 32 vCPUs",
+      "Dedicated · 48 vCPUs",
+      "Dedicated · 64 vCPUs",
+      "Included in free"
+    ],
+    "removed": [
+      "1 GB RAM / 2-core ARM CPU / Connections: Direct 60, Pooler 200",
+      "Not included in Free Plan",
+      "Not included in Free Plan",
+      "Not included in Free Plan",
+      "Not included in Free Plan",
+      "Not included in Free Plan",
+      "Not included in Free Plan"
+    ],
+    "totals": {
+      "removed": 69,
+      "added": 38,
+      "materialRemoved": 8,
+      "materialAdded": 17
+    }
   }
 ]

@@ -1093,5 +1093,31 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "aiven-io-pricing-20260918111244",
+    "url": "https://aiven.io/pricing",
+    "ts": "20260918111244",
+    "date": "2026-09-18",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Aiven: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

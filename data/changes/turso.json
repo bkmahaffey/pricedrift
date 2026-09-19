@@ -795,5 +795,33 @@
       "materialRemoved": 34,
       "materialAdded": 70
     }
+  },
+  {
+    "id": "turso-tech-pricing-20260918111244",
+    "url": "https://turso.tech/pricing",
+    "ts": "20260918111244",
+    "date": "2026-09-18",
+    "source": "http",
+    "prevTs": "20260910111800",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Turso: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Can I restore a database that was deleted while I was on the Free plan?"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 15,
+      "added": 23,
+      "materialRemoved": 8,
+      "materialAdded": 9
+    }
   }
 ]

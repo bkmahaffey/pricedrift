@@ -852,5 +852,39 @@
       "materialRemoved": 0,
       "materialAdded": 1
     }
+  },
+  {
+    "id": "neon-com-pricing-20260918111244",
+    "url": "https://neon.com/pricing",
+    "ts": "20260918111244",
+    "date": "2026-09-18",
+    "source": "http",
+    "prevTs": "20260915114303",
+    "kind": "price",
+    "score": 4,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Neon: 1 price, 1 limit changed (removed “\"A quarter of work, done in 6 days\". How a so…”; added “Object Storage is $0.023 per GB-month of stor…”)",
+    "pairs": [],
+    "added": [
+      "Object Storage is $0.023 per GB-month of stored volume. There's no per-operation charge. Egress counts toward your public network transfer allowance. The Free plan includes 5 GB of Object Storage per project.",
+      "Functions are billed for active compute, waiting compute, and invocations at the rates in the plan table. The Free plan includes 10 active capacity-hours, 400 waiting capacity-hours, and 1 million invocations per month."
+    ],
+    "removed": [
+      "\"A quarter of work, done in 6 days\". How a solo founder built isolated Postgres per tenant on Neon",
+      "No. CU-hours are specific to Postgres database compute. Object Storage, Functions, and AI Gateway will have their own usage limits that will be published before GA. During the beta phase, they are free to use within the guardrails we've set to prevent abuse.",
+      "They aren't billed yet. Usage is free of charge for all three during beta, with rate and usage guardrails in place. Public pricing for Object Storage and Functions will be announced before general availability (GA).",
+      "AI Gateway requires a paid Neon plan (Launch or Scale) to access, and while it's also free of charge during beta, its pricing model is already public - Neon will charge the same per-token rate as the underlying model provider, with zero markup. Exact per-model rates will be published before billing begins."
+    ],
+    "totals": {
+      "removed": 24,
+      "added": 23,
+      "materialRemoved": 7,
+      "materialAdded": 5
+    }
   }
 ]

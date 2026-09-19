@@ -136,5 +136,34 @@
       "materialRemoved": 0,
       "materialAdded": 1
     }
+  },
+  {
+    "id": "papertrail-com-plans-20260918111244",
+    "url": "https://www.papertrail.com/plans/",
+    "ts": "20260918111244",
+    "date": "2026-09-18",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260826122640",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Papertrail: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "Free Trial"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 7,
+      "added": 10,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
   }
 ]

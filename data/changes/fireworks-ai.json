@@ -1317,5 +1317,47 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "fireworks-ai-pricing-20260918111244",
+    "url": "https://fireworks.ai/pricing",
+    "ts": "20260918111244",
+    "date": "2026-09-18",
+    "source": "http",
+    "prevTs": "20260909112147",
+    "kind": "price",
+    "score": 42,
+    "counts": {
+      "price": 14,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fireworks AI: 14 prices changed (removed “$7.00”; added “$4.86”)",
+    "pairs": [],
+    "added": [
+      "$4.86",
+      "$0.972",
+      "$12.15",
+      "$14.58",
+      "$0.134",
+      "$0.134",
+      "$0.217",
+      "$0.250",
+      "$0.334"
+    ],
+    "removed": [
+      "$7.00",
+      "$7.00",
+      "$10.00",
+      "$12.00",
+      "$18.00"
+    ],
+    "totals": {
+      "removed": 7,
+      "added": 12,
+      "materialRemoved": 5,
+      "materialAdded": 9
+    }
   }
 ]

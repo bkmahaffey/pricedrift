@@ -1123,5 +1123,55 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "wordpress-com-pricing-20260918111244",
+    "url": "https://wordpress.com/pricing/",
+    "ts": "20260918111244",
+    "date": "2026-09-18",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260901104531",
+    "kind": "limits",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "WordPress.com: 2 limits changed (50,000 → 60,000; 50,000 → 60,000)",
+    "pairs": [
+      {
+        "before": "Yes. Plugin installation is available on every paid WordPress.com plan — Personal, Premium, Business, and Commerce. You get access to over 50,000 plugins starting with the Personal plan at $2.75/month (billed every 3 years). You do not need to be on the Business or Commerce plan to install plugins.",
+        "after": "Yes. Plugin installation is available on every paid WordPress.com plan — Personal, Premium, Business, and Commerce. You get access to over 60,000 plugins starting with the Personal plan at $2.75/month (billed every 3 years). You do not need to be on the Business or Commerce plan to install plugins.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50,000",
+            "after": "60,000"
+          }
+        ]
+      },
+      {
+        "before": "The Personal plan, starting at $2.75/month (billed every 3 years), includes full plugin access. You can install any of the 50,000+ plugins on this plan. You do not need a higher-tier plan to use plugins on WordPress.com.",
+        "after": "The Personal plan, starting at $2.75/month (billed every 3 years), includes full plugin access. You can install any of the 60,000+ plugins on this plan. You do not need a higher-tier plan to use plugins on WordPress.com.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "50,000",
+            "after": "60,000"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 13,
+      "added": 11,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
   }
 ]

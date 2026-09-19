@@ -212,5 +212,32 @@
       "materialRemoved": 3,
       "materialAdded": 4
     }
+  },
+  {
+    "id": "brevo-com-pricing-20260918111244",
+    "url": "https://www.brevo.com/pricing/",
+    "ts": "20260918111244",
+    "date": "2026-09-18",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260803062235",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Brevo: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

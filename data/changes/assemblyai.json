@@ -1729,5 +1729,58 @@
       "materialRemoved": 1,
       "materialAdded": 6
     }
+  },
+  {
+    "id": "assemblyai-com-pricing-20260918111244",
+    "url": "https://www.assemblyai.com/pricing",
+    "ts": "20260918111244",
+    "date": "2026-09-18",
+    "source": "http",
+    "prevTs": "20260912104509",
+    "kind": "price",
+    "score": 41,
+    "counts": {
+      "price": 13,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "AssemblyAI: 13 prices, 1 limit changed (14 → 16)",
+    "pairs": [
+      {
+        "before": "Under $1 / 1M in 14",
+        "after": "Under $1 / 1M in 16",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "14",
+            "after": "16"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0.62 /hr",
+      "$0.62 /hr",
+      "Every feature is included in the $0.62/hr rate. One line on your bill covers the whole request — there is no second rate to model and no token math to do.",
+      "$0.20 / 1M",
+      "$1.20 / 1M",
+      "$0.30 / 1M",
+      "$1.20 / 1M",
+      "$2.00 / 1M",
+      "$12.00 / 1M",
+      "$3.00 / 1M"
+    ],
+    "removed": [
+      "$1.00 / 1M",
+      "$6.00 / 1M",
+      "$2.50 / 1M"
+    ],
+    "totals": {
+      "removed": 20,
+      "added": 68,
+      "materialRemoved": 4,
+      "materialAdded": 11
+    }
   }
 ]

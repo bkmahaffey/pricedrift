@@ -649,5 +649,36 @@
       "materialRemoved": 0,
       "materialAdded": 1
     }
+  },
+  {
+    "id": "backblaze-com-cloud-storage-pricing-20260918111244",
+    "url": "https://www.backblaze.com/cloud-storage/pricing",
+    "ts": "20260918111244",
+    "date": "2026-09-18",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260901043342",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Backblaze B2: 2 prices changed (removed “Service is billed monthly, based on the amoun…”; added “Service is billed monthly, based on the amoun…”)",
+    "pairs": [],
+    "added": [
+      "Service is billed monthly, based on the amount of data stored per byte-hour over the last month at a rate of $ 6.95 /TB/30-days. You can also commit to a set amount of storage for a term of 1 to 5 years. You’re billed for the full term at contract start, and your rate is locked for the length of the contract."
+    ],
+    "removed": [
+      "Service is billed monthly, based on the amount of data stored per byte-hour over the last month at a rate of $ 6.95 /TB/30-day."
+    ],
+    "totals": {
+      "removed": 6,
+      "added": 6,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
   }
 ]

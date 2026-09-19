@@ -888,5 +888,31 @@
       "materialRemoved": 1,
       "materialAdded": 91
     }
+  },
+  {
+    "id": "appwrite-io-pricing-20260918111244",
+    "url": "https://appwrite.io/pricing",
+    "ts": "20260918111244",
+    "date": "2026-09-18",
+    "source": "browser",
+    "prevTs": "20260902202107",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Appwrite: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 23,
+      "added": 18,
+      "materialRemoved": 7,
+      "materialAdded": 7
+    }
   }
 ]

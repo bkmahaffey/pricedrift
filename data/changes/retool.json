@@ -702,5 +702,41 @@
       "materialRemoved": 1,
       "materialAdded": 4
     }
+  },
+  {
+    "id": "retool-com-pricing-20260918111244",
+    "url": "https://retool.com/pricing",
+    "ts": "20260918111244",
+    "date": "2026-09-18",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 2,
+      "limit": 2,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Retool: 2 prices, 2 limits, 1 plan name changed (removed “5,000/month”; added “5,000/month Additional runs are available at …”)",
+    "pairs": [],
+    "added": [
+      "5,000/month Additional runs are available at $75 per 5,000 runs per month.",
+      "5,000/month Additional runs are available at $75 per 5,000 runs per month.",
+      "Free Hours Useful for experimentation and light automation. Upgrade for larger use cases. Useful for experimentation and light automation. Upgrade for larger use cases.",
+      "Rows and tables Up to 5GB of stored data. Up to 5GB of stored data."
+    ],
+    "removed": [
+      "5,000/month",
+      "5,000/month",
+      "Free Hours",
+      "Up to 5GB of stored data."
+    ],
+    "totals": {
+      "removed": 97,
+      "added": 54,
+      "materialRemoved": 8,
+      "materialAdded": 8
+    }
   }
 ]

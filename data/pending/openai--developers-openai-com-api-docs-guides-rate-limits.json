@@ -1,8 +1,8 @@
 {
   "slug": "openai",
   "url": "https://developers.openai.com/api/docs/guides/rate-limits",
-  "ts": "20260918111244",
-  "hash": "9ec955e454f78d88",
+  "ts": "20260919105727",
+  "hash": "ddb1eff743a10d0e",
   "source": "http",
   "lines": [
     "For the complete documentation index, see llms.txt",
@@ -251,9 +251,7 @@
     "IP allowlist",
     "Mutual TLS",
     "Workload identity federation",
-    "Codex setup",
     "Federation rules",
-    "Admin API",
     "X.509 certificates",
     "Kubernetes",
     "AWS",
@@ -532,7 +530,6 @@
     "ChatGPT Work: usage and cost",
     "Identity and authentication",
     "Authentication overview",
-    "Workload identity",
     "Personal Access Tokens",
     "Service accounts",
     "Workspace access, policy, and models",

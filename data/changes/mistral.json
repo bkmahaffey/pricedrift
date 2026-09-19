@@ -783,5 +783,40 @@
       "materialRemoved": 90,
       "materialAdded": 11
     }
+  },
+  {
+    "id": "mistral-ai-pricing-api-20260918111244",
+    "url": "https://mistral.ai/pricing/api/",
+    "ts": "20260918111244",
+    "date": "2026-09-18",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "price",
+    "score": 15,
+    "counts": {
+      "price": 4,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mistral AI: 4 prices, 2 limits changed (removed “$0.14”; added “$1.4”)",
+    "pairs": [],
+    "added": [
+      "$1.4",
+      "$4.4"
+    ],
+    "removed": [
+      "$0.14",
+      "$0.14",
+      "ministral-3b-latest",
+      "ministral-8b-latest",
+      "ministral-14b-latest"
+    ],
+    "totals": {
+      "removed": 45,
+      "added": 23,
+      "materialRemoved": 5,
+      "materialAdded": 2
+    }
   }
 ]

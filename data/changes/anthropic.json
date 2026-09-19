@@ -1942,5 +1942,67 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "claude-com-pricing-20260918111244",
+    "url": "https://claude.com/pricing",
+    "ts": "20260918111244",
+    "date": "2026-09-18",
+    "source": "http",
+    "prevTs": "20260912104509",
+    "kind": "price",
+    "score": 15,
+    "counts": {
+      "price": 4,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Anthropic API: 4 prices, 2 limits changed (removed “500k on default model”; added “Up to 1M varies by model”)",
+    "pairs": [],
+    "added": [
+      "Up to 1M varies by model",
+      "Up to 1M varies by model"
+    ],
+    "removed": [
+      "Access to unlimited projects to organize chats and documents",
+      "500k on default model",
+      "$15 / MTok",
+      "$75 / MTok",
+      "$1.50 / MTok",
+      "$18.75 / MTok"
+    ],
+    "totals": {
+      "removed": 73,
+      "added": 56,
+      "materialRemoved": 8,
+      "materialAdded": 4
+    }
+  },
+  {
+    "id": "platform-claude-com-docs-en-api-rate-limits-20260918111244",
+    "url": "https://platform.claude.com/docs/en/api/rate-limits",
+    "ts": "20260918111244",
+    "date": "2026-09-18",
+    "source": "http",
+    "prevTs": "20260912104509",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Anthropic API: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

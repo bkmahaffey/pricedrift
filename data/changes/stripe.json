@@ -897,5 +897,33 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "stripe-com-pricing-20260918111244",
+    "url": "https://stripe.com/pricing",
+    "ts": "20260918111244",
+    "date": "2026-09-18",
+    "source": "http",
+    "prevTs": "20260915114303",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Stripe: 1 price changed (removed “2.9% + $0.30”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "2.9% + $0.30"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
   }
 ]

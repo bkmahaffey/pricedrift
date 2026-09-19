@@ -1366,5 +1366,38 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "render-com-pricing-20260918111244",
+    "url": "https://render.com/pricing",
+    "ts": "20260918111244",
+    "date": "2026-09-18",
+    "source": "http",
+    "prevTs": "20260905103405",
+    "kind": "price",
+    "score": 10,
+    "counts": {
+      "price": 2,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Render: 2 prices, 2 limits changed (removed “Less than 1 CPU”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Less than 1 CPU",
+      "$0.05/hour",
+      "512 MB RAM",
+      "1 CPU",
+      "$0.20/hour",
+      "2 GB RAM"
+    ],
+    "totals": {
+      "removed": 10,
+      "added": 0,
+      "materialRemoved": 6,
+      "materialAdded": 0
+    }
   }
 ]

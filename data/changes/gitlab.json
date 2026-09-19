@@ -1017,5 +1017,33 @@
       "materialRemoved": 15,
       "materialAdded": 13
     }
+  },
+  {
+    "id": "about-gitlab-com-pricing-20260918111244",
+    "url": "https://about.gitlab.com/pricing/",
+    "ts": "20260918111244",
+    "date": "2026-09-18",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "GitLab: 1 price changed (added “If you enable a capability without reserving …”)",
+    "pairs": [],
+    "added": [
+      "If you enable a capability without reserving credits for it, its consumption draws from your GitLab Flex commitment as on-demand usage at list rate ($1/credit)."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 18,
+      "added": 23,
+      "materialRemoved": 2,
+      "materialAdded": 3
+    }
   }
 ]

@@ -385,5 +385,38 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "docs-x-ai-docs-models-20260918111244",
+    "url": "https://docs.x.ai/docs/models",
+    "ts": "20260918111244",
+    "date": "2026-09-18",
+    "source": "http",
+    "prevTs": "20260908111757",
+    "kind": "price",
+    "score": 13,
+    "counts": {
+      "price": 4,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "xAI API: 4 prices, 1 limit changed (removed “Agent Starting at $0.05 / min”; added “$0.08 / min”)",
+    "pairs": [],
+    "added": [
+      "$0.08 / min",
+      "Image · 1K / 2K",
+      "Starting at $0.02 / image"
+    ],
+    "removed": [
+      "Agent Starting at $0.05 / min",
+      "Image · 1K / 2K Starting at $0.02 / image"
+    ],
+    "totals": {
+      "removed": 16,
+      "added": 30,
+      "materialRemoved": 9,
+      "materialAdded": 10
+    }
   }
 ]
