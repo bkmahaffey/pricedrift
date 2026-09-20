@@ -161,5 +161,31 @@
       "materialRemoved": 0,
       "materialAdded": 1
     }
+  },
+  {
+    "id": "airtable-com-pricing-20260919105727",
+    "url": "https://airtable.com/pricing",
+    "ts": "20260919105727",
+    "date": "2026-09-19",
+    "source": "browser",
+    "prevTs": "20260916113123",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Airtable: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

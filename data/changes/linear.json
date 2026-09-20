@@ -365,5 +365,32 @@
       "materialRemoved": 0,
       "materialAdded": 1
     }
+  },
+  {
+    "id": "linear-app-pricing-20260919105727",
+    "url": "https://linear.app/pricing",
+    "ts": "20260919105727",
+    "date": "2026-09-19",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260902063023",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Linear: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

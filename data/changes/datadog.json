@@ -3042,5 +3042,35 @@
       "materialRemoved": 7,
       "materialAdded": 4
     }
+  },
+  {
+    "id": "datadoghq-com-pricing-20260919105727",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20260919105727",
+    "date": "2026-09-19",
+    "source": "http",
+    "prevTs": "20260912104509",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Datadog: 1 limit changed (added “1M monthly flag configuration requests ( MFCRs”)",
+    "pairs": [],
+    "added": [
+      "Unlimited seats, users metrics and dimensional analyses",
+      "1M monthly flag configuration requests ( MFCRs",
+      "*An experiment becomes billable once it has launched and reached at least 500 subjects and 3 days of data. Experiments that never reach that threshold are never billed."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 8,
+      "added": 10,
+      "materialRemoved": 2,
+      "materialAdded": 5
+    }
   }
 ]

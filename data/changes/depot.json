@@ -991,5 +991,31 @@
       "materialRemoved": 2,
       "materialAdded": 2
     }
+  },
+  {
+    "id": "depot-dev-pricing-20260919105727",
+    "url": "https://depot.dev/pricing",
+    "ts": "20260919105727",
+    "date": "2026-09-19",
+    "source": "http",
+    "prevTs": "20260916113123",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Depot: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

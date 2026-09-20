@@ -355,5 +355,40 @@
       "materialRemoved": 1,
       "materialAdded": 1
     }
+  },
+  {
+    "id": "mux-com-pricing-20260919105727",
+    "url": "https://www.mux.com/pricing",
+    "ts": "20260919105727",
+    "date": "2026-09-19",
+    "source": "http",
+    "prevTs": "20260909112147",
+    "kind": "price",
+    "score": 19,
+    "counts": {
+      "price": 6,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mux: 6 prices, 1 limit changed (removed “Mux Robots has many variables you can set for…”; added “$0.0040 / min + $0.0100 / job”)",
+    "pairs": [],
+    "added": [
+      "$0.0040 / min + $0.0100 / job",
+      "$0.0025 / min + $0.0400 / job",
+      "$0.0200 / job",
+      "$0.0050 / min",
+      "$0.7000 / min",
+      "Mux also offers custom contract pricing for larger workloads, with additional discounts available above $3,000/month. Those contract rates are negotiated separately, require a quote from Mux"
+    ],
+    "removed": [
+      "Mux Robots has many variables you can set for your usage. For our calculations we're using the full input minutes and estimated asset count to simulate cost across your full library. We're using 3 questions, 10 sec sampling intervals, and 1 language, where needed."
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 24,
+      "materialRemoved": 1,
+      "materialAdded": 6
+    }
   }
 ]

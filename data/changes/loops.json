@@ -315,5 +315,34 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "loops-so-pricing-20260919105727",
+    "url": "https://loops.so/pricing",
+    "ts": "20260919105727",
+    "date": "2026-09-19",
+    "source": "http",
+    "prevTs": "20260916113123",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Loops: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "A subscribed contact is an email address marked as subscribed. Paid plans are priced by the number of subscribed contacts; unsubscribed contacts do not count toward pricing. Every plan, including Free, lets you upload as many contacts as you’d like. You can view all contacts on your Audience page.",
+      "The free plan includes unlimited contacts and up to 4,000 total emails to your 1,000 newest contacts in any rolling 30-day window, counting marketing and transactional sends together. Free emails include Loops branding. Upgrade to send to more subscribed contacts, with unlimited sends and no Loops branding."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
   }
 ]

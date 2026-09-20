@@ -1074,5 +1074,35 @@
       "materialRemoved": 6,
       "materialAdded": 1
     }
+  },
+  {
+    "id": "postman-com-pricing-20260919105727",
+    "url": "https://www.postman.com/pricing/",
+    "ts": "20260919105727",
+    "date": "2026-09-19",
+    "source": "http",
+    "prevTs": "20260911111957",
+    "kind": "price",
+    "score": 9,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Postman: 3 prices changed (removed “$49”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$49",
+      "$49",
+      "$29 per user/month"
+    ],
+    "totals": {
+      "removed": 12,
+      "added": 4,
+      "materialRemoved": 3,
+      "materialAdded": 0
+    }
   }
 ]

@@ -734,5 +734,31 @@
       "materialRemoved": 12,
       "materialAdded": 6
     }
+  },
+  {
+    "id": "api-docs-deepseek-com-quick-start-pricing-20260919105727",
+    "url": "https://api-docs.deepseek.com/quick_start/pricing",
+    "ts": "20260919105727",
+    "date": "2026-09-19",
+    "source": "http",
+    "prevTs": "20260911111957",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "DeepSeek API: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 5,
+      "added": 4,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]
