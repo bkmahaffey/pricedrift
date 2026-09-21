@@ -1,67 +1,42 @@
 {
-  "ranAt": "2026-09-20T11:21:42.872Z",
-  "ts": "20260920112142",
+  "ranAt": "2026-09-21T12:46:17.518Z",
+  "ts": "20260921124617",
   "checked": 265,
   "changed": [],
   "confirmed": [
     {
-      "slug": "airtable",
-      "headline": "Airtable: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "datadog",
-      "headline": "Datadog: 1 limit changed (added “1M monthly flag configuration requests ( MFCRs”)",
+      "slug": "cursor",
+      "headline": "Cursor: 6 prices changed (removed “$60 / mo.”; added “$40 / user / mo.”)",
       "material": true
     },
     {
-      "slug": "deepseek",
-      "headline": "DeepSeek API: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "depot",
-      "headline": "Depot: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "linear",
-      "headline": "Linear: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "lovable",
-      "headline": "Lovable: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "loops",
-      "headline": "Loops: pricing page text changed (no price or limit change detected)",
-      "material": false
-    },
-    {
-      "slug": "mux",
-      "headline": "Mux: 6 prices, 1 limit changed (removed “Mux Robots has many variables you can set for…”; added “$0.0040 / min + $0.0100 / job”)",
+      "slug": "groq",
+      "headline": "Groq: 2 limits changed (removed “PRICE PER 1M TOKENS”)",
       "material": true
     },
     {
-      "slug": "postman",
-      "headline": "Postman: 3 prices changed (removed “$49”)",
-      "material": true
-    },
-    {
-      "slug": "pipedream",
-      "headline": "Pipedream: pricing page text changed (no price or limit change detected)",
+      "slug": "groq",
+      "headline": "Groq: pricing page text changed (no price or limit change detected)",
       "material": false
     },
     {
-      "slug": "redis-cloud",
-      "headline": "Redis Cloud: 1 plan name changed",
-      "material": true
+      "slug": "jira",
+      "headline": "Jira: pricing page text changed (no price or limit change detected)",
+      "material": false
     },
     {
-      "slug": "runpod",
-      "headline": "RunPod: pricing page text changed (no price or limit change detected)",
+      "slug": "openai",
+      "headline": "OpenAI API: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "openai",
+      "headline": "OpenAI API: pricing page text changed (no price or limit change detected)",
+      "material": false
+    },
+    {
+      "slug": "slack",
+      "headline": "Slack: pricing page text changed (no price or limit change detected)",
       "material": false
     }
   ],
@@ -69,6 +44,10 @@
     {
       "slug": "anthropic",
       "url": "https://claude.com/pricing"
+    },
+    {
+      "slug": "appwrite",
+      "url": "https://appwrite.io/pricing"
     },
     {
       "slug": "azure-free",
@@ -83,42 +62,72 @@
       "url": "https://www.contentful.com/pricing/"
     },
     {
-      "slug": "groq",
-      "url": "https://console.groq.com/docs/models"
+      "slug": "fathom",
+      "url": "https://usefathom.com/pricing"
     },
     {
-      "slug": "groq",
-      "url": "https://console.groq.com/docs/rate-limits"
+      "slug": "google-cloud-run",
+      "url": "https://cloud.google.com/run/pricing"
+    },
+    {
+      "slug": "hygraph",
+      "url": "https://hygraph.com/pricing"
     },
     {
       "slug": "kinsta",
       "url": "https://kinsta.com/plans/"
     },
     {
-      "slug": "openai",
-      "url": "https://developers.openai.com/api/docs/pricing"
+      "slug": "liveblocks",
+      "url": "https://liveblocks.io/pricing"
     },
     {
-      "slug": "openai",
-      "url": "https://developers.openai.com/api/docs/guides/rate-limits"
+      "slug": "mailchimp",
+      "url": "https://mailchimp.com/pricing/marketing/"
     },
     {
-      "slug": "railway",
-      "url": "https://railway.com/pricing"
+      "slug": "ovhcloud",
+      "url": "https://www.ovhcloud.com/en/public-cloud/prices/"
     },
     {
       "slug": "posthog",
       "url": "https://posthog.com/pricing"
     },
     {
+      "slug": "redis-cloud",
+      "url": "https://redis.io/pricing/"
+    },
+    {
+      "slug": "retool",
+      "url": "https://retool.com/pricing"
+    },
+    {
+      "slug": "snyk",
+      "url": "https://snyk.io/plans/"
+    },
+    {
+      "slug": "storyblok",
+      "url": "https://www.storyblok.com/pricing"
+    },
+    {
       "slug": "vast-ai",
       "url": "https://vast.ai/pricing"
     }
   ],
-  "unreachable": [],
+  "unreachable": [
+    {
+      "slug": "vultr",
+      "url": "https://www.vultr.com/pricing/",
+      "notes": [
+        "http 403",
+        "browser: 403, 7 lines",
+        "wayback: no snapshot"
+      ]
+    }
+  ],
   "sources": {
-    "http": 245,
-    "browser": 14,
-    "wayback": 6
+    "http": 246,
+    "browser": 13,
+    "wayback": 5
   }
 }

@@ -1041,5 +1041,31 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "atlassian-com-software-jira-pricing-20260919105727",
+    "url": "https://www.atlassian.com/software/jira/pricing",
+    "ts": "20260919105727",
+    "date": "2026-09-19",
+    "source": "browser",
+    "prevTs": "20260903111316",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Jira: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

@@ -652,5 +652,35 @@
       "materialRemoved": 0,
       "materialAdded": 1
     }
+  },
+  {
+    "id": "slack-com-pricing-20260919105727",
+    "url": "https://slack.com/pricing",
+    "ts": "20260919105727",
+    "date": "2026-09-19",
+    "source": "http",
+    "prevTs": "20260916113123",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Slack: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Not very — we only need recent messages, 90 days is fine",
+      "Slack Free is a great place to start",
+      "Unlimited message history, easy collaboration with people outside your org, and everything a growing team needs to do its best work."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 53,
+      "materialRemoved": 0,
+      "materialAdded": 3
+    }
   }
 ]
