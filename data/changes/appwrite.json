@@ -914,5 +914,33 @@
       "materialRemoved": 7,
       "materialAdded": 7
     }
+  },
+  {
+    "id": "appwrite-io-pricing-20260921124617",
+    "url": "https://appwrite.io/pricing",
+    "ts": "20260921124617",
+    "date": "2026-09-21",
+    "source": "browser",
+    "prevTs": "20260918111244",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Appwrite: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "Free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 16,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
   }
 ]

@@ -912,5 +912,33 @@
       "materialRemoved": 1,
       "materialAdded": 2
     }
+  },
+  {
+    "id": "redis-io-pricing-20260921124617",
+    "url": "https://redis.io/pricing/",
+    "ts": "20260921124617",
+    "date": "2026-09-21",
+    "source": "http",
+    "prevTs": "20260919105727",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Redis Cloud: 1 plan name changed",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Try for free"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 5,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
   }
 ]

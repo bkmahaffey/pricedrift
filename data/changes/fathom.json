@@ -405,5 +405,35 @@
       "materialRemoved": 17,
       "materialAdded": 22
     }
+  },
+  {
+    "id": "usefathom-com-pricing-20260921124617",
+    "url": "https://usefathom.com/pricing",
+    "ts": "20260921124617",
+    "date": "2026-09-21",
+    "source": "http",
+    "prevTs": "20260909112147",
+    "kind": "price",
+    "score": 4,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fathom Analytics: 1 price, 1 limit changed (added “$15/m · Up to 100,000 monthly page views · 50…”)",
+    "pairs": [],
+    "added": [
+      "$15/m · Up to 100,000 monthly page views · 50 sites included",
+      "7 days free. Card required; your plan starts billing automatically when the trial ends. Cancel anytime in your account settings.",
+      "Choose a plan and add your card to start a 7-day free trial. Your card is not charged until the trial ends. Your subscription then renews automatically unless you cancel in your account settings. You can run Fathom alongside your existing analytics while you try it."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 17,
+      "added": 24,
+      "materialRemoved": 4,
+      "materialAdded": 7
+    }
   }
 ]

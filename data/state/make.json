@@ -3,15 +3,16 @@
   "urls": {
     "make-com-en-pricing": {
       "url": "https://www.make.com/en/pricing",
-      "lastChecked": "20260921124617",
+      "lastChecked": "20260922113650",
       "lastSource": "browser",
       "latestTs": "20260902202107",
       "hash": "5e0b93d86713eea6",
       "firstTs": "20230115203012",
-      "status": "ok",
+      "status": "unreachable",
       "lastChanged": "20260902202107",
-      "failures": 0,
-      "lineCount": 255
+      "failures": 1,
+      "lineCount": 255,
+      "lastNote": "http 403; browser: 403, 7 lines; wayback: no snapshot"
     }
   }
 }

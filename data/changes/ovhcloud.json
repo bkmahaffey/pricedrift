@@ -5795,5 +5795,33 @@
       "materialRemoved": 46,
       "materialAdded": 72
     }
+  },
+  {
+    "id": "ovhcloud-com-en-public-cloud-prices-20260921124617",
+    "url": "https://www.ovhcloud.com/en/public-cloud/prices/",
+    "ts": "20260921124617",
+    "date": "2026-09-21",
+    "source": "http",
+    "prevTs": "20260909112147",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "OVHcloud: 1 price changed (removed “$0.000017”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$0.000017"
+    ],
+    "totals": {
+      "removed": 1,
+      "added": 0,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
   }
 ]

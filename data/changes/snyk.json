@@ -651,5 +651,60 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "snyk-io-plans-20260921124617",
+    "url": "https://snyk.io/plans/",
+    "ts": "20260921124617",
+    "date": "2026-09-21",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260818211213",
+    "kind": "price",
+    "score": 34,
+    "counts": {
+      "price": 6,
+      "limit": 5,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Snyk: 6 prices, 5 limits, 3 plan names changed (removed “$1,260 / year”; added “1 credit = $1. The pricing unit for all capab…”)",
+    "pairs": [],
+    "added": [
+      "Snyk Free & Team subscription",
+      "Compare Free vs. Team plan",
+      "Currently, Snyk Evo capabilities are not available via the Free or Team plan. Access to these capabilities, such as AI Pentesting or Coding Agent security, requires an Enterprise Platform Subscription - book a demo here",
+      "Start for free.",
+      "1 credit = $1. The pricing unit for all capabilities.",
+      "1.0 credits",
+      "1.0 credits",
+      "0.33 credits",
+      "0.66 credits",
+      "0.66 credits",
+      "0.33 credits",
+      "3.0 credits",
+      "1.0 credits",
+      "4,000 credits"
+    ],
+    "removed": [
+      "$1,260 / year",
+      "Unlimited code tests",
+      "$1,260 / year",
+      "Unlimited",
+      "Unlimited",
+      "Snyk defines contributing developers as developers who have made a commit to a private repo monitored by Snyk in the last 90 days. We do not count contributions to public (open source) repos. Contributor counts are displayed on Snyk’s Usage page",
+      "If you sign up with our ‘Free’ plan, the limits are: Open Source, 200 tests; Code, 100 tests; IaC, 300 tests; Container, 100 tests. Want to know more about the usage settings? Click here for more details",
+      "Free",
+      "$0 / month",
+      "Start Free",
+      "$25 / month",
+      "$1,260 / year"
+    ],
+    "totals": {
+      "removed": 124,
+      "added": 105,
+      "materialRemoved": 15,
+      "materialAdded": 17
+    }
   }
 ]
