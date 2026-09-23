@@ -532,5 +532,34 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "docs-lovable-dev-introduction-subscription-plans-20260922113650",
+    "url": "https://docs.lovable.dev/introduction/subscription-plans",
+    "ts": "20260922113650",
+    "date": "2026-09-22",
+    "source": "http",
+    "prevTs": "20260918111244",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Lovable: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Make the most of your included daily chat allowance and daily build credits. Chat usage follows its own pricing model, including a per-message price and a daily chat allowance. Free, Pro, and Business plans include the daily chat allowance for messages in Chats",
+      "Included, larger than Free"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 12,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
   }
 ]

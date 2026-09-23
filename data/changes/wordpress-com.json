@@ -1173,5 +1173,44 @@
       "materialRemoved": 3,
       "materialAdded": 3
     }
+  },
+  {
+    "id": "wordpress-com-pricing-20260922113650",
+    "url": "https://wordpress.com/pricing/",
+    "ts": "20260922113650",
+    "date": "2026-09-22",
+    "source": "http",
+    "prevTs": "20260918111244",
+    "kind": "limits",
+    "score": 12,
+    "counts": {
+      "price": 0,
+      "limit": 6,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "WordPress.com: 6 limits changed (removed “Auto-renews at %(renewalMonthlyPrice)s per mo…”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 12 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 24 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 36 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every month.",
+      "Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 12 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 24 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 36 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every month.",
+      "Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 12 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 24 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 36 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every month.",
+      "Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 12 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 24 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 36 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every month.",
+      "Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 12 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 24 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 36 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every month.",
+      "Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 12 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 24 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 36 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every month.",
+      "Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 12 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 24 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 36 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every month.",
+      "Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 12 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 24 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 36 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every month.",
+      "Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 12 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 24 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 36 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every month.",
+      "Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 12 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 24 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 36 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every month.",
+      "Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 12 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 24 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 36 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every month.",
+      "Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 12 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 24 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every 36 months. Auto-renews at %(renewalMonthlyPrice)s per month. Billed every month."
+    ],
+    "totals": {
+      "removed": 16,
+      "added": 16,
+      "materialRemoved": 12,
+      "materialAdded": 0
+    }
   }
 ]

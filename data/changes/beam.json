@@ -272,5 +272,66 @@
       "materialRemoved": 38,
       "materialAdded": 13
     }
+  },
+  {
+    "id": "beam-cloud-pricing-20260922113650",
+    "url": "https://www.beam.cloud/pricing",
+    "ts": "20260922113650",
+    "date": "2026-09-22",
+    "source": "http",
+    "prevTs": "20260906105526",
+    "kind": "price",
+    "score": 13,
+    "counts": {
+      "price": 4,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Beam: 4 prices, 1 limit changed ($0.000191667 → $0.000192; $0.69 added)",
+    "pairs": [
+      {
+        "before": "24 GB $0.000191667 /sec",
+        "after": "24 GB $0.000192 /sec",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.000191667",
+            "after": "$0.000192"
+          }
+        ]
+      },
+      {
+        "before": "Example An endpoint on an RTX 4090 with 2 physical cores ( 4 vCPU) and 16 GiB RAM costs $1.77 /hr. Billed by the millisecond, only while your code is running.",
+        "after": "Example An endpoint on an RTX 4090 with 2 physical cores ( 4 vCPU) and 16 GiB RAM costs $1.77 /hr ( $0.69 GPU + $0.76 CPU + $0.32 RAM, at the GPU-attached rates above). Billed by the millisecond, only while your code is running.",
+        "confidence": 0.79,
+        "deltas": [
+          {
+            "before": null,
+            "after": "$0.69"
+          },
+          {
+            "before": null,
+            "after": "$0.76"
+          },
+          {
+            "before": null,
+            "after": "$0.32"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "CPU Physical core (2 vCPU equivalent)",
+      "$0.000105 /sec · per core",
+      "$0.0000055 /sec · per GiB"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 9,
+      "materialRemoved": 2,
+      "materialAdded": 5
+    }
   }
 ]

@@ -172,5 +172,31 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "research-google-com-colaboratory-faq-html-20260922113650",
+    "url": "https://research.google.com/colaboratory/faq.html",
+    "ts": "20260922113650",
+    "date": "2026-09-22",
+    "source": "http",
+    "prevTs": "20260918111244",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Google Colab: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

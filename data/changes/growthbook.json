@@ -705,5 +705,31 @@
       "materialRemoved": 1,
       "materialAdded": 3
     }
+  },
+  {
+    "id": "growthbook-io-pricing-20260922113650",
+    "url": "https://www.growthbook.io/pricing",
+    "ts": "20260922113650",
+    "date": "2026-09-22",
+    "source": "http",
+    "prevTs": "20260916113123",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "GrowthBook: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

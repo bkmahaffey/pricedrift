@@ -565,5 +565,33 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "fly-io-pricing-20260922113650",
+    "url": "https://fly.io/pricing/",
+    "ts": "20260922113650",
+    "date": "2026-09-22",
+    "source": "http",
+    "prevTs": "20260916113123",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fly.io: 1 price changed (removed “One-year blocks from $36/yr for shared, $144/…”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "One-year blocks from $36/yr for shared, $144/yr for performance."
+    ],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
   }
 ]

@@ -859,5 +859,38 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "zapier-com-pricing-20260922113650",
+    "url": "https://zapier.com/pricing",
+    "ts": "20260922113650",
+    "date": "2026-09-22",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260901162559",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Zapier: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Unlimited Zaps, Tables, and Forms",
+      "Unlimited Zaps"
+    ],
+    "removed": [
+      "Unlimited Zap workflows, Tables, and Forms",
+      "Unlimited Zap workflows"
+    ],
+    "totals": {
+      "removed": 8,
+      "added": 8,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
   }
 ]

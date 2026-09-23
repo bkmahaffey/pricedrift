@@ -1497,5 +1497,47 @@
       "materialRemoved": 0,
       "materialAdded": 13
     }
+  },
+  {
+    "id": "cloud-google-com-run-pricing-20260922113650",
+    "url": "https://cloud.google.com/run/pricing",
+    "ts": "20260922113650",
+    "date": "2026-09-22",
+    "source": "http",
+    "prevTs": "20260909112147",
+    "kind": "price",
+    "score": 42,
+    "counts": {
+      "price": 14,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Google Cloud Run: 14 prices changed (removed “$0.0000126 / 1 second”; added “$0.0000126”)",
+    "pairs": [],
+    "added": [
+      "$0.0000126",
+      "$0.000009072",
+      "$0.000006804",
+      "$0.0000014",
+      "$0.000001008",
+      "$0.000000756",
+      "$0.0001867",
+      "$0.00036522"
+    ],
+    "removed": [
+      "$0.0000126 / 1 second",
+      "$0.000009072 / 1 second",
+      "$0.000006804 / 1 second",
+      "$0.0000014 / 1 gibibyte second",
+      "$0.000001008 / 1 gibibyte second",
+      "$0.000000756 / 1 gibibyte second"
+    ],
+    "totals": {
+      "removed": 18,
+      "added": 59,
+      "materialRemoved": 6,
+      "materialAdded": 8
+    }
   }
 ]

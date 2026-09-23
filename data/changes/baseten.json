@@ -1581,5 +1581,97 @@
       "materialRemoved": 0,
       "materialAdded": 4
     }
+  },
+  {
+    "id": "baseten-co-pricing-20260922113650",
+    "url": "https://www.baseten.co/pricing/",
+    "ts": "20260922113650",
+    "date": "2026-09-22",
+    "source": "http",
+    "prevTs": "20260915114303",
+    "kind": "price",
+    "score": 95,
+    "counts": {
+      "price": 31,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Baseten: 31 prices, 1 limit changed ($2.20 → $1.20; $2.20 → $1.20)",
+    "pairs": [
+      {
+        "before": "$2.20 Try Model API",
+        "after": "$1.20 Try Model API",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.20",
+            "after": "$1.20"
+          }
+        ]
+      },
+      {
+        "before": "$2.20 Try",
+        "after": "$1.20 Try",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$2.20",
+            "after": "$1.20"
+          }
+        ]
+      },
+      {
+        "before": "$3.48 Try Model API",
+        "after": "$6.60 Try Model API",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3.48",
+            "after": "$6.60"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$2.10",
+      "$0.21",
+      "$6.60 Try",
+      "$0.007"
+    ],
+    "removed": [
+      "$0.60",
+      "$0.12",
+      "$1.74",
+      "$0.145",
+      "$3.48 Try",
+      "$0.03",
+      "$1.20 Try Model API",
+      "$1.20 Try",
+      "$0.95",
+      "$0.16",
+      "$4.00 Try Model API",
+      "$4.00 Try",
+      "$0.95",
+      "$0.16",
+      "$4.00 Try Model API",
+      "$4.00 Try",
+      "$0.50",
+      "$0.10",
+      "$1.20 Try Model API",
+      "$1.20 Try",
+      "$1.00",
+      "$0.17",
+      "$4.05 Try Model API",
+      "$4.05 Try",
+      "Qwen3.8-27B",
+      "Qwen3.8-27B"
+    ],
+    "totals": {
+      "removed": 43,
+      "added": 13,
+      "materialRemoved": 30,
+      "materialAdded": 8
+    }
   }
 ]
