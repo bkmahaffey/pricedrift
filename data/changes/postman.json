@@ -1104,5 +1104,43 @@
       "materialRemoved": 3,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "postman-com-pricing-20260923113416",
+    "url": "https://www.postman.com/pricing/",
+    "ts": "20260923113416",
+    "date": "2026-09-23",
+    "source": "http",
+    "prevTs": "20260919105727",
+    "kind": "price",
+    "score": 23,
+    "counts": {
+      "price": 6,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Postman: 6 prices, 3 limits changed (added “Free, 24 hr refresh”)",
+    "pairs": [],
+    "added": [
+      "Free, 24 hr refresh",
+      "1,000 / month, then $0.01 / query",
+      "5,000 / month, then $0.01 / query",
+      "Free, 24 hr refresh",
+      "1,000 / month, then $0.01 / query",
+      "Free, 24 hr refresh",
+      "5,000 / month, then $0.01 / query",
+      "Free, 24 hr refresh",
+      "5,000 / month, then $0.01 / query",
+      "Free, 24 hr refresh",
+      "5,000 / month, then $0.01 / query"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 21,
+      "materialRemoved": 0,
+      "materialAdded": 11
+    }
   }
 ]

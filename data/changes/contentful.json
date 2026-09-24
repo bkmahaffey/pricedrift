@@ -375,5 +375,35 @@
       "materialRemoved": 17,
       "materialAdded": 4
     }
+  },
+  {
+    "id": "contentful-com-pricing-20260923113416",
+    "url": "https://www.contentful.com/pricing/",
+    "ts": "20260923113416",
+    "date": "2026-09-23",
+    "source": "browser",
+    "transition": true,
+    "prevTs": "20260723033137",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Contentful: 1 price changed (added “and pay only for the overage: $5 per addition…”)",
+    "pairs": [],
+    "added": [
+      "Can you get started with Contentful for free?",
+      "and pay only for the overage: $5 per additional 1 million API calls per month (waved on some of our Enterprise plans), plus $0.15 per additional GB of asset bandwidth per month. The Free plan works differently, using hard caps so your usage stays within the included limits"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 25,
+      "added": 32,
+      "materialRemoved": 2,
+      "materialAdded": 4
+    }
   }
 ]

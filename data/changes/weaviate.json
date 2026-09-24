@@ -813,5 +813,68 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "weaviate-io-pricing-20260923113416",
+    "url": "https://weaviate.io/pricing",
+    "ts": "20260923113416",
+    "date": "2026-09-23",
+    "source": "http",
+    "prevTs": "20260918111244",
+    "kind": "price",
+    "score": 15,
+    "counts": {
+      "price": 5,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Weaviate Cloud: 5 prices changed ($0.0264 → $0.0290; $0.0042 → $0.0200)",
+    "pairs": [
+      {
+        "before": "from $0.0264 / GiB",
+        "after": "from $0.0290 / GiB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.0264",
+            "after": "$0.0290"
+          }
+        ]
+      },
+      {
+        "before": "from $0.0042 / GiB",
+        "after": "from $0.0200 / GiB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.0042",
+            "after": "$0.0200"
+          }
+        ]
+      },
+      {
+        "before": "from $0.0063 / GiB",
+        "after": "from $0.0134 / GiB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.0063",
+            "after": "$0.0134"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "Starts at $400 /mo",
+      "from $400 / month"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 5,
+      "materialRemoved": 5,
+      "materialAdded": 3
+    }
   }
 ]

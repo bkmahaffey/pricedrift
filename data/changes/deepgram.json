@@ -1964,5 +1964,31 @@
       "materialRemoved": 12,
       "materialAdded": 10
     }
+  },
+  {
+    "id": "deepgram-com-pricing-20260923113416",
+    "url": "https://deepgram.com/pricing",
+    "ts": "20260923113416",
+    "date": "2026-09-23",
+    "source": "http",
+    "prevTs": "20260915114303",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Deepgram: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

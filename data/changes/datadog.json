@@ -3072,5 +3072,79 @@
       "materialRemoved": 2,
       "materialAdded": 5
     }
+  },
+  {
+    "id": "datadoghq-com-pricing-20260923113416",
+    "url": "https://www.datadoghq.com/pricing/",
+    "ts": "20260923113416",
+    "date": "2026-09-23",
+    "source": "http",
+    "prevTs": "20260919105727",
+    "kind": "price",
+    "score": 17,
+    "counts": {
+      "price": 5,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Datadog: 5 prices, 1 limit changed (3 added; $1.50 → $6.50)",
+    "pairs": [
+      {
+        "before": "Trace data is retained for 15 days by default, and trace metrics are retained for 15 months. Experiment results are retained for 15 days by default, and datasets are versioned and stored for 3 years so you can always rerun experiments against the same baseline.",
+        "after": "Trace data is retained for 15 days by default, and trace metrics are retained for 15 months. Experiment results are retained for 15 days by default (3 months with an annual or month-to-month commitment), and datasets are versioned and stored for 3 years so you can always rerun experiments against the same baseline.",
+        "confidence": 0.86,
+        "deltas": [
+          {
+            "before": null,
+            "after": "3"
+          }
+        ]
+      },
+      {
+        "before": "30-day retention at $ 1.50 per 10K LLM spans per month (30-day trace retention, 6-month experiment retention)",
+        "after": "30-day retention at $ 6.50 per 10K LLM spans per month (30-day trace retention, 6-month experiment retention)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1.50",
+            "after": "$6.50"
+          }
+        ]
+      },
+      {
+        "before": "60-day retention at $ 3 per 10K LLM spans per month (60-day trace retention, 9-month experiment retention)",
+        "after": "60-day retention at $ 8 per 10K LLM spans per month (60-day trace retention, 9-month experiment retention)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$3",
+            "after": "$8"
+          }
+        ]
+      },
+      {
+        "before": "90-day retention at $ 4 per 10K LLM spans per month (90-day trace retention, 12-month experiment retention)",
+        "after": "90-day retention at $ 9 per 10K LLM spans per month (90-day trace retention, 12-month experiment retention)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$4",
+            "after": "$9"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Separately: On-Call at $ 20 per seat, per month, and Incident Management at $ 30, each seated and billed independently. Choose this when the two groups barely overlap, such as a large on-call rotation plus a handful of incident commanders.",
+      "The Incident Response bundle: at $ 40 per seat, per month, gives you one seat pool covering both products. Choose this when the same people do both, since it avoids paying for two seats per person."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 39,
+      "added": 58,
+      "materialRemoved": 5,
+      "materialAdded": 7
+    }
   }
 ]

@@ -1299,5 +1299,54 @@
       "materialRemoved": 10,
       "materialAdded": 1
     }
+  },
+  {
+    "id": "storyblok-com-pricing-20260923113416",
+    "url": "https://www.storyblok.com/pricing",
+    "ts": "20260923113416",
+    "date": "2026-09-23",
+    "source": "http",
+    "prevTs": "20260911111957",
+    "kind": "price",
+    "score": 34,
+    "counts": {
+      "price": 8,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Storyblok: 8 prices, 5 limits changed (removed “Includes 1 team member seat, add 1 more user …”; added “1 seat (up to 2)”)",
+    "pairs": [],
+    "added": [
+      "1 seat (up to 2)",
+      "5 seats (up to 10)",
+      "400GB traffic (up to 1TB)",
+      "1M API requests (up to 5M)",
+      "2 locales (up to unlimited)",
+      "100k AI credits (up to 500k)",
+      "Unlimited options for multiple editorial teams, multi-language content, or testing environments.",
+      "Access unlimited spaces; users; AI credits; and more"
+    ],
+    "removed": [
+      "Includes 1 team member seat, add 1 more user at $15.00 /month",
+      "1 user seat included",
+      "Up to 2 user seats $15.00 /month for additional seats",
+      "Includes 5 team member seats, add more users at $15.00 /month",
+      "5 user seats included",
+      "Up to 10 user seats $15.00 /month each additional user",
+      "400GB Traffic/month included",
+      "Up to 1TB traffic / month $75.00 /month for each 250GB extra",
+      "1M API requests/month included",
+      "Up to 5M API requests $10.00 /month per 1M API requests",
+      "Unlimited locales available $20.00 /month per additional locale",
+      "100k AI credits / month included",
+      "Up to 500k AI credits $20.00 /month per 200k AI credits"
+    ],
+    "totals": {
+      "removed": 33,
+      "added": 26,
+      "materialRemoved": 19,
+      "materialAdded": 14
+    }
   }
 ]

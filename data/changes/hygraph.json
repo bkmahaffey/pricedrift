@@ -636,5 +636,34 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "hygraph-com-pricing-20260923113416",
+    "url": "https://hygraph.com/pricing",
+    "ts": "20260923113416",
+    "date": "2026-09-23",
+    "source": "http",
+    "prevTs": "20260921124617",
+    "kind": "plans",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Hygraph: 2 plan names changed",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Start for free",
+      "Start for free"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 0,
+      "materialRemoved": 2,
+      "materialAdded": 0
+    }
   }
 ]

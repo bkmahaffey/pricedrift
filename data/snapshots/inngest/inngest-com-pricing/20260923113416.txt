@@ -1,0 +1,312 @@
+Pricing that scales with you
+Inngest is an open source SDK for orchestrating event-driven apps and agents. Start locally, and move to Cloud when you're ready for production. Zero infra required.
+Trusted by 100k+
+developers at logos
+you actually know.
+Free
+Generous monthly limits to prove it before production. No credit card required.
+$ 0 / mo
+No credit card required
+Start Free
+Platform
+5 seats
+50k executions
+5 concurrent steps
+3 workers
+Unlimited serverless workers
+Events
+500k events ingested
+100k queue depth
+50 realtime connections
+256 KiB event size
+Observability
+500 MB span data ingested
+10K scores
+24 hour trace history
+30 minute metrics granularity
+POPULAR
+Pro
+Production-ready features for teams that are scaling fast, but still need flexibility.
+Starting at
+$ 99 / mo
+Start Free
+Platform
+15 seats
+1M executions + add-on
+100+ concurrent steps
+20 workers + add-on
+Unlimited serverless workers
+Events
+5M+ events ingested
+1M+ queue depth
+1000 realtime connections
+3 MiB event size
+Observability
+5GB span data + overages
+50K scores
+7 day trace history
+15 minute metrics granularity
+Datadog / advanced observability add-on
+Security
+HIPAA add-on
+Business
+For growing teams that need higher limits, and greater cost efficiency as they scale.
+Starting at
+$ 499 / mo
+Start Free
+Platform
+30 seats
+10M executions + add-on
+500 concurrent steps
+100 workers + add-on
+Unlimited serverless workers
+Events
+50M+ events ingested
+10M+ queue depth
+5000 realtime connections
+3 MiB event size
+Observability
+25GB span data + overages
+250K scores
+14 day trace history
+1 minute metrics granularity
+Datadog / advanced observability add-on
+Security
+HIPAA add-on
+Enterprise
+For established teams that need additional security, support, and observability.
+Custom
+Contact us to learn more
+Contact Us
+Platform
+Custom seats
+Custom executions
+Custom concurrent steps
+Custom workers
+Unlimited serverless workers
+Events
+Custom events ingested
+Custom queue depth
+1000 realtime connections
+Custom event size
+Observability
+Custom span data ingested
+Custom scores
+90 day trace history
+1 minute metrics granularity
+Trace and log exports
+Datadog and advanced observability
+Security
+SAML, RBAC, audit trails
+HIPAA included
+Support
+Dedicated Slack channel
+Dedicated account management
+“Inngest completely transformed how Otto (by Cohere) handles AI orchestration. What would have taken us a month on other providers we evaluated took us only a couple hours.”
+Sully Omar Co-founder, Otto (acquired by Cohere)
+Which plan is right for me?
+Use the pricing calculator to see which plan is the best option for you.
+Pricing calculator
+Number of runs
+30,000
+Function invocations per month.
+Average steps per run
+2
+step.run() calls per run. Executions = runs × (steps + 1).
+Scores
+5,000
+Evaluation scores ingested per month.
+Queue depth
+50,000
+Maximum events queued awaiting execution.
+Realtime connections
+20
+Concurrent realtime connections.
+Seats
+Concurrent steps
+Workers
+FREE
+Recommended
+Generous monthly limits to prove it before production. No credit card required.
+$0 /mo
+No credit card required
+seats 5
+executions 50k
+concurrent steps 5
+scores 10K
+queue depth 100k
+realtime connections 50
+Start Free
+Compare All Plan Features
+A detailed look at every Cloud pricing tier. Know exactly what you get at every phase of growth.
+Free
+Start Free
+Pro
+Start Free
+Business
+Start Free
+Enterprise
+Contact Us
+Platform
+Base price
+$0
+$99 /mo
+$499 /mo
+Contact us
+Executions
+A single durable function run or step execution
+50k /mo included
+1M executions + add-on
+10M executions + add-on
+Custom
+Concurrent steps
+Process steps in parallel while smoothing load
+5 included
+100 included then $25 per 25
+500 included
+Seats
+Develop with your entire team
+5
+15 then $10/seat
+30 then $10/seat
+Custom
+Workers
+Low latency always-connected workers
+3
+20 workers + add-on
+100 workers + add-on
+Custom
+Serverless workers
+Serverless endpoints for your apps
+Unlimited
+Dedicated slack channel
+Direct P0 support from our team
+HIPAA
+BAAs for healthcare compliance
+Add-on
+Events
+Received/processed
+500k/mo included
+5m/mo included then $0.5 per 1m
+50m/mo included
+Custom
+Queue depth
+Maximum events queued awaiting execution
+100k included
+1m included
+10m included
+Custom
+Size
+Size of a single event
+256 KiB
+3 MiB
+Custom
+Batch capacity
+Number of events in a single batch
+5
+100
+500
+Custom
+Batch timeout
+Time to wait for a batch to be full
+30 seconds
+5 minutes
+Custom
+Realtime
+Connections
+50
+1000
+5000
+Custom
+Messages
+250k per day
+1m per day
+5m per day
+Custom
+Observability
+Metrics granularity
+Real-time function metrics
+30 minutes
+15 minutes
+1 minute
+Trace and log history
+Tracing for every function run
+24 hours
+7 days
+14 days
+90 days
+Span data ingested
+Trace span data ingested for observability
+500 MB included
+5GB span data + overages
+25GB span data + overages
+Custom
+Scores
+Evaluation scores ingested for observability
+10K included
+50K included then $1.50 per 1K
+250K included
+Custom
+Trace and log exports
+Push traces and logs to other systems
+Advanced observability
+Integration with Datadog, etc
+$300
+Real customer savings
+Saved a month of work in 4 hours
+Read Customer Story
+Analogue ™
+Deploy growth in 3 months 9×
+Read Customer Story
+Deployed within 1 week
+Read Customer Story
+How it works
+See Docs
+01
+Wrap functions in Steps
+Wrap your existing code in step.run(). Each step automatically handles retries, state, and failure recovery. No refactoring, no new patterns to learn — just wrap and go.
+02
+Connect Inngest with one command
+Run npx inngest-cli dev locally. Inngest discovers your functions instantly and gives you a real-time dev server with traces, logs, and a UI — zero config.
+03
+Deploy & forget the infra
+Push your code. Inngest handles the orchestration — retries, concurrency, throttling, scheduling, and observability — all without workers or queues on your end.
+01
+Wrap functions in Steps
+Wrap your existing code in step.run(). Each step automatically handles retries, state, and failure recovery. No refactoring, no new patterns to learn — just wrap and go.
+02
+Connect Inngest with one command
+Run npx inngest-cli dev locally. Inngest discovers your functions instantly and gives you a real-time dev server with traces, logs, and a UI — zero config.
+03
+Deploy & forget the infra
+Push your code. Inngest handles the orchestration — retries, concurrency, throttling, scheduling, and observability — all without workers or queues on your end.
+FAQ
+What counts as one "execution"?
+An execution is metered per function run and per step inside that run. A function with 5 step.run() calls uses 6 executions total — 1 for the run, 5 for the steps. If you're estimating usage, count steps, not just runs.
+How many executions does a typical workflow use?
+It depends heavily on step count. A simple 2-3 step job might use 3-4 executions per run. A multi-step AI agent with tool calls, retries, or sub-agent handoffs can use significantly more — often 10+ executions per run. Model your usage against your actual step count, not the headline execution number.
+What happens when I exceed my plan's included executions?
+On Pro, overage is metered at tiered rates that decrease as volume grows (from $0.000050 down to $0.000015 per execution, based on current published rates). On Free, there's no metered overage — execution pauses once you hit the free quota, and you'll need to upgrade to resume.
+Which limits are most likely to affect me?
+Executions are the most common constraint for most accounts. Concurrency, seats, workers, span data, and events each have their own separate limits and overage rates, but they typically become relevant only at higher scale or with specific usage patterns (e.g., many team members, high trace volume).
+Can my bill change from month to month?
+Yes. Because execution volume, concurrency, and several other dimensions are each billed independently, your bill can vary if usage spikes on any one of them — not just total execution count.
+What's included versus billed as an add-on?
+Core execution, concurrency, seats, and workers are part of your plan's base allowance and overage rates. Advanced observability and HIPAA compliance are separate paid add-ons, not included in the base Pro, Business, or Enterprise price.
+How does Inngest's pricing model compare to Temporal's or Trigger.dev's?
+The three vendors bill on different units. Temporal charges per "action" — a workflow start plus one charge for every step (called an activity) inside it, so cost rises directly with how many steps a run has. Trigger.dev charges a flat per-run fee plus metered wall-clock compute time, so a slower step (a bigger file, a slow API call) raises the bill even at the same step count.
+Which vendor is cheapest for my workload?
+It depends on how many steps your typical run has and how long each step takes to execute — that's the number to check before comparing sticker prices, not the headline monthly rate. A third-party cost comparison modeled 500,000 runs/month at 4 steps each against each vendor's published rates and found the ranking can flip depending on step count and compute duration per step — so we'd recommend running your own numbers against your actual workflow shape rather than relying on any one published 
+Why might the same workload cost different amounts on different platforms?
+Because "cost per run" depends on three separate variables that each vendor weights differently: step count, compute time per step, and whether overage is metered continuously or in fixed tiers. A workflow with few, fast steps and one with many, slow steps won't rank vendors the same way.
+Can I switch plans later?
+Yes. You can upgrade from Free to Pro or Business at any time, and switch to Enterprise once you need custom scale, SAML, or dedicated support. Plan changes take effect immediately and prorate the current billing cycle.
+Can I self-host Inngest?
+Yes. Inngest is open-source and can be self-hosted. The cloud product adds managed infrastructure, observability, and reliability on top — but the core engine is yours to run.
+I have other billing questions. How do I get in touch?
+Email us at support@inngest.com or open a support ticket from the dashboard. Pro and Enterprise customers get faster SLAs on billing and account questions.
+Contact sales →
+Start for free in under two minutes
+No credit card required.
+Start Building
+Talk to Sales
