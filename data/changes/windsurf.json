@@ -856,5 +856,51 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "devin-ai-pricing-20260924114430",
+    "url": "https://devin.ai/pricing",
+    "ts": "20260924114430",
+    "date": "2026-09-24",
+    "source": "http",
+    "prevTs": "20260918111244",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Windsurf: 1 price, 1 limit, 1 plan name changed ($40 → 200)",
+    "pairs": [
+      {
+        "before": "Unlimited flex seats +$40/month per full user Each full user includes their own generous quota and access to Devin Desktop",
+        "after": "Up to 200 users $40/month per full user Each full user includes their own generous quota and access to Devin Desktop",
+        "confidence": 0.78,
+        "deltas": [
+          {
+            "before": "$40",
+            "after": "200"
+          },
+          {
+            "before": null,
+            "after": "$40"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Up to 200 users"
+    ],
+    "removed": [
+      "Unlimited team members"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
   }
 ]

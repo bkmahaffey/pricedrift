@@ -672,5 +672,32 @@
       "materialRemoved": 132,
       "materialAdded": 85
     }
+  },
+  {
+    "id": "aws-amazon-com-ses-pricing-20260924114430",
+    "url": "https://aws.amazon.com/ses/pricing/",
+    "ts": "20260924114430",
+    "date": "2026-09-24",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260810102831",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Amazon SES: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 3,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

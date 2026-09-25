@@ -218,5 +218,36 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "tigrisdata-com-pricing-20260924114430",
+    "url": "https://www.tigrisdata.com/pricing/",
+    "ts": "20260924114430",
+    "date": "2026-09-24",
+    "source": "http",
+    "prevTs": "20260918111244",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Tigris: 1 price changed (added “$0”)",
+    "pairs": [],
+    "added": [
+      "$0",
+      "Free to start. No egress fees. No lock-in."
+    ],
+    "removed": [
+      "We offer a free tier as follows:"
+    ],
+    "totals": {
+      "removed": 13,
+      "added": 20,
+      "materialRemoved": 3,
+      "materialAdded": 4
+    }
   }
 ]

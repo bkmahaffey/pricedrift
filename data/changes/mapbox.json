@@ -775,5 +775,40 @@
       "materialRemoved": 8,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "mapbox-com-pricing-20260924114430",
+    "url": "https://www.mapbox.com/pricing",
+    "ts": "20260924114430",
+    "date": "2026-09-24",
+    "source": "http",
+    "prevTs": "20260918111244",
+    "kind": "price",
+    "score": 22,
+    "counts": {
+      "price": 6,
+      "limit": 0,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Mapbox: 6 prices, 2 plan names changed (added “$3.00”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "$3.00",
+      "$2.75",
+      "$2.50",
+      "Free",
+      "$1.00",
+      "$0.85",
+      "$0.70"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 26,
+      "materialRemoved": 0,
+      "materialAdded": 8
+    }
   }
 ]

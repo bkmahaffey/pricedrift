@@ -811,5 +811,74 @@
       "materialRemoved": 10,
       "materialAdded": 7
     }
+  },
+  {
+    "id": "axiom-co-pricing-20260924114430",
+    "url": "https://axiom.co/pricing",
+    "ts": "20260924114430",
+    "date": "2026-09-24",
+    "source": "http",
+    "prevTs": "20260909112147",
+    "kind": "price",
+    "score": 111,
+    "counts": {
+      "price": 32,
+      "limit": 8,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Axiom: 32 prices, 8 limits changed (removed “Personal is for individual developers and sma…”; added “Data loading compute and query compute are bi…”)",
+    "pairs": [],
+    "added": [
+      "Every organization gets a free allowance each month, and you only pay for usage above it.",
+      "Data loading compute and query compute are billed in compute credits, at $1 per compute credit if you pay as you go. Rates are graduated: each rate applies only to the usage within its tier. Each month, the first 1,000 GB of data loading compute and 100 GB-hours of query compute are free.",
+      "Storage is charged on compressed data, which moves to cheaper tiers as it ages. The first 100 GB is free.",
+      "0 – 999 GB",
+      "1,000 – 99,999 GB",
+      "$0.12",
+      "100,000 – 499,999 GB",
+      "$0.10",
+      "500,000 – 999,999 GB",
+      "$0.085",
+      "1,000,000 – 4,999,999 GB",
+      "$0.07",
+      "$0.06",
+      "0 – 99 GB-hrs",
+      "100 – 499 GB-hrs",
+      "$0.20",
+      "500 – 4,999 GB-hrs",
+      "$0.16",
+      "5,000 – 49,999 GB-hrs",
+      "$0.12",
+      "50,000 – 2,499,999 GB-hrs",
+      "$0.10",
+      "$0.08",
+      "$0.03",
+      "$0.0163",
+      "$0.00522",
+      "Personal is for individual developers and small projects. It's free, needs no credit card, and keeps data for 30 days.",
+      "Axiom Cloud is for teams. It costs $25 a month plus usage, comes with a larger free allowance, lets you choose how long to keep data, and lets you turn on paid add-ons yourself in the Console. Both run on the same platform.",
+      "12 months",
+      "24 months",
+      "36 months",
+      "$1.00",
+      "$0.90 10 % off",
+      "$0.86 14 % off",
+      "$0.83 17 % off",
+      "$0.85 15 % off",
+      "$0.81 19 % off",
+      "$0.78 22 % off",
+      "$0.80 20 % off",
+      "$0.76 24 % off"
+    ],
+    "removed": [
+      "Personal is for individual developers and small projects (no credit card, smaller free allowance, 30-day retention). Axiom Cloud is for teams ($25/mo platform fee, larger free allowance, configurable retention, self-serve enterprise add-ons). Same architecture across both."
+    ],
+    "totals": {
+      "removed": 29,
+      "added": 99,
+      "materialRemoved": 6,
+      "materialAdded": 52
+    }
   }
 ]

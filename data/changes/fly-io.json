@@ -593,5 +593,61 @@
       "materialRemoved": 1,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "fly-io-pricing-20260924114430",
+    "url": "https://fly.io/pricing/",
+    "ts": "20260924114430",
+    "date": "2026-09-24",
+    "source": "http",
+    "prevTs": "20260922113650",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Fly.io: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
+  },
+  {
+    "id": "fly-io-docs-about-free-trial-20260924114430",
+    "url": "https://fly.io/docs/about/free-trial/",
+    "ts": "20260924114430",
+    "date": "2026-09-24",
+    "source": "http",
+    "prevTs": "20260902202628",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Fly.io: 1 plan name changed",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Fly.io Free Trial",
+      "The free trial is meant for kicking the tires. Spin something up, poke around, deploy a real app or two. If Fly.io fits your use case, great! Add a credit card to keep going. If not, no hard feelings.",
+      "Whether you’re testing the waters or gearing up to launch something real, the free trial gives you room to get started. If Fly.io feels like a fit, adding a payment method from the Dashboard is all it takes to keep going. No surprises, no downtime, no pressure."
+    ],
+    "totals": {
+      "removed": 17,
+      "added": 14,
+      "materialRemoved": 4,
+      "materialAdded": 1
+    }
   }
 ]

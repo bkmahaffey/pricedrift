@@ -925,5 +925,33 @@
       "materialRemoved": 1,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "stripe-com-pricing-20260924114430",
+    "url": "https://stripe.com/pricing",
+    "ts": "20260924114430",
+    "date": "2026-09-24",
+    "source": "http",
+    "prevTs": "20260918111244",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Stripe: 1 price changed (removed “$329.00 Stripe Reader T600”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$329.00 Stripe Reader T600"
+    ],
+    "totals": {
+      "removed": 1,
+      "added": 0,
+      "materialRemoved": 1,
+      "materialAdded": 0
+    }
   }
 ]

@@ -1037,5 +1037,43 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "github-com-features-copilot-plans-20260924114430",
+    "url": "https://github.com/features/copilot/plans",
+    "ts": "20260924114430",
+    "date": "2026-09-24",
+    "source": "http",
+    "prevTs": "20260909112147",
+    "kind": "price",
+    "score": 23,
+    "counts": {
+      "price": 7,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "GitHub Copilot: 7 prices, 1 plan name changed (removed “$ 0 USD”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Free",
+      "$ 0 USD",
+      "No credit card required. Verified students have access to the GitHub Copilot Student plan. Learn more",
+      "$ 10 USD per user / month",
+      "Everything in Free and:",
+      "Unlimited code completion and next edit suggestions",
+      "$15 monthly total credits for Pro",
+      "$ 39 USD per user / month",
+      "$70 monthly total credits for Pro+",
+      "$ 100 USD per user / month",
+      "$200 monthly total credits for Max"
+    ],
+    "totals": {
+      "removed": 54,
+      "added": 16,
+      "materialRemoved": 11,
+      "materialAdded": 0
+    }
   }
 ]

@@ -5,11 +5,11 @@
       "url": "https://fly.io/pricing/",
       "lastChecked": "20260924114430",
       "lastSource": "http",
-      "latestTs": "20260922113650",
-      "hash": "6c6a46e8105e3324",
+      "latestTs": "20260924114430",
+      "hash": "9e24f207a9d4054b",
       "firstTs": "20241007223931",
-      "status": "pending",
-      "lastChanged": "20260922113650",
+      "status": "ok",
+      "lastChanged": "20260924114430",
       "failures": 0,
       "lineCount": 187
     },
@@ -20,23 +20,25 @@
       "latestTs": "20260902202107",
       "hash": "9fa40418794a2ffa",
       "firstTs": "20250104170030",
-      "status": "pending",
+      "status": "suspicious",
       "lastChanged": "20260902202107",
       "failures": 0,
-      "lineCount": 4152
+      "lineCount": 4152,
+      "suspiciousCount": 1,
+      "lastNote": "capture 20260924114430 had 371 lines vs 4152; ignored (1/3)"
     },
     "fly-io-docs-about-free-trial": {
       "url": "https://fly.io/docs/about/free-trial/",
       "lastChecked": "20260924114430",
       "lastSource": "http",
-      "latestTs": "20260902202628",
-      "hash": "7edf050a1d317a02",
+      "latestTs": "20260924114430",
+      "hash": "efb45586ebac4c6c",
       "firstTs": "20251108012440",
-      "status": "pending",
-      "lastChanged": "20260902202628",
+      "status": "ok",
+      "lastChanged": "20260924114430",
       "lastNote": "http: only 35 lines; browser: 200, 35 lines; wayback: 1 lines",
       "failures": 0,
-      "lineCount": 35
+      "lineCount": 32
     }
   }
 }

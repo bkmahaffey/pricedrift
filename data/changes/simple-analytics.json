@@ -376,5 +376,37 @@
       "materialRemoved": 1,
       "materialAdded": 1
     }
+  },
+  {
+    "id": "simpleanalytics-com-pricing-20260924114430",
+    "url": "https://www.simpleanalytics.com/pricing",
+    "ts": "20260924114430",
+    "date": "2026-09-24",
+    "source": "http",
+    "prevTs": "20260909112147",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Simple Analytics: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Test it on your own website. Free for 30 days.",
+      "What is the difference between the free trial and the POC?",
+      "The 14-day self-serve trial lets you explore Simple Analytics on your own. The free 30-day proof of concept is an assisted evaluation alongside GA4. Book a demo to discuss your measurement questions and agree on what to compare."
+    ],
+    "removed": [
+      "How does the free trial work?"
+    ],
+    "totals": {
+      "removed": 19,
+      "added": 24,
+      "materialRemoved": 1,
+      "materialAdded": 3
+    }
   }
 ]

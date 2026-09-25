@@ -2056,5 +2056,99 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "platform-claude-com-docs-en-about-claude-pricing-20260924114430",
+    "url": "https://platform.claude.com/docs/en/about-claude/pricing",
+    "ts": "20260924114430",
+    "date": "2026-09-24",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "price",
+    "score": 83,
+    "counts": {
+      "price": 14,
+      "limit": 21,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Anthropic API: 14 prices, 21 limits changed ($50 → $4)",
+    "pairs": [
+      {
+        "before": "$50 / MTok",
+        "after": "$4 / MTok",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$50",
+            "after": "$4"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$0.25",
+      "$20 / MTok",
+      "$8 / MTok",
+      "$0.20 / MTok",
+      "$0.25",
+      "$50 / MTok",
+      "$8 / MTok",
+      "$40 / MTok",
+      "$2 / MTok",
+      "$10 / MTok",
+      "$5 / MTok",
+      "286 tokens",
+      "354 tokens",
+      "474 tokens",
+      "496 tokens",
+      "588 tokens",
+      "286 tokens",
+      "406 tokens",
+      "290 tokens",
+      "410 tokens",
+      "675 tokens",
+      "804 tokens",
+      "497 tokens",
+      "589 tokens",
+      "496 tokens",
+      "588 tokens",
+      "313 tokens",
+      "315 tokens",
+      "313 tokens",
+      "315 tokens",
+      "497 tokens",
+      "589 tokens",
+      "496 tokens",
+      "588 tokens",
+      "313 tokens",
+      "315 tokens",
+      "264 tokens",
+      "355 tokens"
+    ],
+    "removed": [
+      "$0.25 / MTok 1",
+      "$0.25 / MTok 1",
+      " MTok = Million tokens. The \"Base Input Tokens\" column shows standard input pricing, the \"5m Cache Writes\", \"1h Cache Writes\", and \"Cache Hits & Refreshes\" columns are specific to prompt caching",
+      "286 tokens 406 tokens",
+      "290 tokens 410 tokens",
+      "675 tokens 804 tokens",
+      "497 tokens 589 tokens",
+      "496 tokens 588 tokens",
+      "313 tokens 315 tokens",
+      "313 tokens 315 tokens",
+      "354 tokens 474 tokens",
+      "497 tokens 589 tokens",
+      "496 tokens 588 tokens",
+      "313 tokens 315 tokens",
+      "496 tokens 588 tokens",
+      "264 tokens 355 tokens"
+    ],
+    "totals": {
+      "removed": 119,
+      "added": 169,
+      "materialRemoved": 46,
+      "materialAdded": 68
+    }
   }
 ]
