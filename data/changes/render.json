@@ -1399,5 +1399,51 @@
       "materialRemoved": 6,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "render-com-pricing-20260925114938",
+    "url": "https://render.com/pricing",
+    "ts": "20260925114938",
+    "date": "2026-09-25",
+    "source": "http",
+    "prevTs": "20260918111244",
+    "kind": "price",
+    "score": 7,
+    "counts": {
+      "price": 1,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Render: 1 price, 2 limits changed (4 → 8)",
+    "pairs": [
+      {
+        "before": "Scale up to 4 CPU and 16 GB of RAM",
+        "after": "Scale up to 8 CPU and 32 GB of RAM",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "4",
+            "after": "8"
+          },
+          {
+            "before": "16GB",
+            "after": "32GB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "8 CPU",
+      "$2.50/hour",
+      "32 GB RAM"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 5,
+      "materialRemoved": 1,
+      "materialAdded": 4
+    }
   }
 ]

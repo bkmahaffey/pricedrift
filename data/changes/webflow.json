@@ -1376,5 +1376,31 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "webflow-com-pricing-20260925114938",
+    "url": "https://webflow.com/pricing",
+    "ts": "20260925114938",
+    "date": "2026-09-25",
+    "source": "browser",
+    "prevTs": "20260916113123",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Webflow: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

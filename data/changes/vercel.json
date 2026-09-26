@@ -1970,5 +1970,42 @@
       "materialRemoved": 1,
       "materialAdded": 1
     }
+  },
+  {
+    "id": "vercel-com-pricing-20260925114938",
+    "url": "https://vercel.com/pricing",
+    "ts": "20260925114938",
+    "date": "2026-09-25",
+    "source": "http",
+    "prevTs": "20260918111244",
+    "kind": "price",
+    "score": 14,
+    "counts": {
+      "price": 1,
+      "limit": 3,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "Vercel: 1 price, 3 limits, 3 plan names changed (removed “10K events / month included”; added “10K events / team / rolling 30 days”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "10K events / team / rolling 30 days",
+      "Free",
+      "10K events / team / rolling 30 days",
+      "Free",
+      "10K events / team / rolling 30 days",
+      "1M span units / month included",
+      "$0.50 per 1M span units"
+    ],
+    "removed": [
+      "10K events / month included"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 13,
+      "materialRemoved": 1,
+      "materialAdded": 8
+    }
   }
 ]

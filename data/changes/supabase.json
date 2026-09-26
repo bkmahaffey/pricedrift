@@ -1250,5 +1250,37 @@
       "materialRemoved": 8,
       "materialAdded": 17
     }
+  },
+  {
+    "id": "supabase-com-pricing-20260925114938",
+    "url": "https://supabase.com/pricing",
+    "ts": "20260925114938",
+    "date": "2026-09-25",
+    "source": "http",
+    "prevTs": "20260918111244",
+    "kind": "price",
+    "score": 7,
+    "counts": {
+      "price": 1,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Supabase: 1 price, 2 limits changed (added “1 GB included”)",
+    "pairs": [],
+    "added": [
+      "1 GB included",
+      "100 GB included",
+      "1 GB included",
+      "20 GB included then $0.50 per GB",
+      "100 GB included"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 12,
+      "materialRemoved": 0,
+      "materialAdded": 5
+    }
   }
 ]

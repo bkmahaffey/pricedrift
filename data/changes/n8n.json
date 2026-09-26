@@ -540,5 +540,35 @@
       "materialRemoved": 4,
       "materialAdded": 5
     }
+  },
+  {
+    "id": "n8n-io-pricing-20260925114938",
+    "url": "https://n8n.io/pricing/",
+    "ts": "20260925114938",
+    "date": "2026-09-25",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "plans",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "n8n Cloud: 1 plan name changed",
+    "pairs": [],
+    "added": [
+      "Start free trial Self-hosted only"
+    ],
+    "removed": [
+      "Start free trial"
+    ],
+    "totals": {
+      "removed": 1,
+      "added": 5,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
   }
 ]
