@@ -856,5 +856,31 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "convex-dev-pricing-20260926112331",
+    "url": "https://www.convex.dev/pricing",
+    "ts": "20260926112331",
+    "date": "2026-09-26",
+    "source": "http",
+    "prevTs": "20260922113650",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Convex: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

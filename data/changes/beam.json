@@ -333,5 +333,41 @@
       "materialRemoved": 2,
       "materialAdded": 5
     }
+  },
+  {
+    "id": "beam-cloud-pricing-20260926112331",
+    "url": "https://www.beam.cloud/pricing",
+    "ts": "20260926112331",
+    "date": "2026-09-26",
+    "source": "http",
+    "prevTs": "20260922113650",
+    "kind": "limits",
+    "score": 9,
+    "counts": {
+      "price": 0,
+      "limit": 5,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Beam: 5 limits changed (added “H100 80GB VRAM”)",
+    "pairs": [],
+    "added": [
+      "H100 80GB VRAM",
+      "B200 180GB VRAM",
+      "RTX 4090 24GB VRAM",
+      "H200 141GB VRAM",
+      "RTX 5090 32GB VRAM",
+      "H100 80GB VRAM",
+      "RTX 4090 24GB VRAM",
+      "B200 180GB VRAM",
+      "H200 141GB VRAM"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 17,
+      "materialRemoved": 1,
+      "materialAdded": 10
+    }
   }
 ]

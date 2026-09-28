@@ -649,5 +649,39 @@
       "materialRemoved": 4,
       "materialAdded": 1
     }
+  },
+  {
+    "id": "fly-io-pricing-20260926112331",
+    "url": "https://fly.io/pricing/",
+    "ts": "20260926112331",
+    "date": "2026-09-26",
+    "source": "http",
+    "prevTs": "20260924114430",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 6,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Fly.io: 6 prices changed (removed “$11.67”; added “$11.66”)",
+    "pairs": [],
+    "added": [
+      "$11.66",
+      "$15.55",
+      "$496.01"
+    ],
+    "removed": [
+      "$11.67",
+      "$15.56",
+      "$496.00"
+    ],
+    "totals": {
+      "removed": 5,
+      "added": 5,
+      "materialRemoved": 4,
+      "materialAdded": 4
+    }
   }
 ]
