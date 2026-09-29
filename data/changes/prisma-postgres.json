@@ -1814,5 +1814,35 @@
       "materialRemoved": 47,
       "materialAdded": 157
     }
+  },
+  {
+    "id": "prisma-io-pricing-20260928135207",
+    "url": "https://www.prisma.io/pricing",
+    "ts": "20260928135207",
+    "date": "2026-09-28",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260827085630",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Prisma Postgres: 1 price changed (added “Not for your database — unlimited data transf…”)",
+    "pairs": [],
+    "added": [
+      "Yes. Prisma ORM is open source and will always be free. The paid plans cover Prisma Postgres (managed database hosting) and Prisma Compute (app hosting).",
+      "Not for your database — unlimited data transfer is included with Prisma Postgres on all plans. Prisma Compute includes 10 GB of outbound bandwidth per month on Free. Paid plans bill outbound bandwidth at $0.025 per GB."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 6,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
   }
 ]

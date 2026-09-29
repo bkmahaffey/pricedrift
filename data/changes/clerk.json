@@ -677,5 +677,31 @@
       "materialRemoved": 2,
       "materialAdded": 2
     }
+  },
+  {
+    "id": "clerk-com-pricing-20260928135207",
+    "url": "https://clerk.com/pricing",
+    "ts": "20260928135207",
+    "date": "2026-09-28",
+    "source": "http",
+    "prevTs": "20260923113416",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Clerk: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

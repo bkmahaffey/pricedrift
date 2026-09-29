@@ -2171,5 +2171,34 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "runpod-io-pricing-20260928135207",
+    "url": "https://www.runpod.io/pricing",
+    "ts": "20260928135207",
+    "date": "2026-09-28",
+    "source": "http",
+    "prevTs": "20260919105727",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "RunPod: 1 limit changed (added “Deploy Pro 6000 MIG 48GB”)",
+    "pairs": [],
+    "added": [
+      "Deploy Pro 6000 MIG 48GB",
+      "Deploy Pro 6000 MIG 24GB"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 21,
+      "added": 21,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
   }
 ]

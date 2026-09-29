@@ -573,5 +573,33 @@
       "materialRemoved": 3,
       "materialAdded": 10
     }
+  },
+  {
+    "id": "resend-com-pricing-20260928135207",
+    "url": "https://resend.com/pricing",
+    "ts": "20260928135207",
+    "date": "2026-09-28",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Resend: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "No, but we provide a free-forever plan."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 10,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
   }
 ]
