@@ -2150,5 +2150,52 @@
       "materialRemoved": 46,
       "materialAdded": 68
     }
+  },
+  {
+    "id": "platform-claude-com-docs-en-about-claude-pricing-20260929125054",
+    "url": "https://platform.claude.com/docs/en/about-claude/pricing",
+    "ts": "20260929125054",
+    "date": "2026-09-29",
+    "source": "http",
+    "prevTs": "20260924114430",
+    "kind": "price",
+    "score": 24,
+    "counts": {
+      "price": 7,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Anthropic API: 7 prices, 2 limits changed (354 → 286)",
+    "pairs": [
+      {
+        "before": "354 tokens",
+        "after": "286 tokens",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "354",
+            "after": "286"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "$2",
+      "$10",
+      "$2.50 / MTok",
+      "$4 / MTok",
+      "$0.20 / MTok",
+      "$1 / MTok",
+      "$5 / MTok",
+      "354 tokens"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 11,
+      "added": 23,
+      "materialRemoved": 4,
+      "materialAdded": 12
+    }
   }
 ]

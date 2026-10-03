@@ -24,5 +24,31 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "fusionauth-io-pricing-20260929125054",
+    "url": "https://fusionauth.io/pricing",
+    "ts": "20260929125054",
+    "date": "2026-09-29",
+    "source": "http",
+    "prevTs": "20260924114430",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "FusionAuth: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 0,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

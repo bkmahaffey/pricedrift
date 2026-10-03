@@ -1596,5 +1596,65 @@
       "materialRemoved": 1,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "grafana-com-pricing-20260929125054",
+    "url": "https://grafana.com/pricing/",
+    "ts": "20260929125054",
+    "date": "2026-09-29",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "price",
+    "score": 45,
+    "counts": {
+      "price": 4,
+      "limit": 7,
+      "plan": 10
+    },
+    "material": true,
+    "headline": "Grafana Cloud: 4 prices, 7 limits, 10 plan names changed (removed “A Host is any physical or virtual OS instance…”; added “50 GB ingested per month then pay as you go”)",
+    "pairs": [],
+    "added": [
+      "Unlimited access to all Grafana Cloud services; simply pay as you go above the free tier",
+      "50 GB ingested per month then pay as you go",
+      "30 days retention",
+      "Grafana Pricing | Free, Pro, Enterprise | Grafana Labs"
+    ],
+    "removed": [
+      "Pay as you go above the Free tier",
+      "Start free",
+      "Start free",
+      "Start free",
+      "Start free",
+      "A Host is any physical or virtual OS instance sending observability signals (including K8s metrics). It is considered active if it has sent a signal in the last 15 minutes.",
+      "Start free",
+      "A Host is any physical or virtual OS instance sending observability signals (including K8s metrics). It is considered active if it has sent a signal in the last 15 minutes.",
+      "Start free",
+      "Start free",
+      "A database host is any database instance sending monitoring data to Grafana Cloud. It is considered active if it has sent data in the last 15 minutes.",
+      "Start free",
+      "Each active user includes up to 40M tokens per month. Additional usage is charged at $2 per 1M tokens. Token limits apply per user and are not shared across users.",
+      "The system-initiated pool (25M per month on Free and Pro; custom pools on contracted plans) covers all other AI work that runs automatically — investigations triggered by alerts, incidents, or IRM webhooks, LLM-based evals and guards from Agent Observability, and service-account or API usage.",
+      "Watcher agents are free while in public preview.",
+      "Once a pool is used, additional tokens are billed at $2 per 1M.",
+      "A token is a piece of text that an AI model reads or generates. Tokens can be whole words, parts of words, punctuation, or spaces. As a rough rule of thumb: 1 token ≈ 4 characters in English; 100 tokens ≈ 75 words.",
+      "A token is a piece of text that an AI model reads or generates. Tokens can be whole words, parts of words, punctuation, or spaces. As a rough rule of thumb: 1 token ≈ 4 characters in English; 100 tokens ≈ 75 words.",
+      "A test execution is a Synthetic test running in a probe location per minute of run time. Example: A synthetic test running in 5 locations that takes 1.5 minutes to complete will consume 10 executions each time it runs.",
+      "A test execution is a Synthetic test running in a probe location per minute of run time. Example: A synthetic test running in 5 locations that takes 1.5 minutes to complete will consume 10 executions each time it runs.",
+      "Start free",
+      "(Maximum number of VUs x test execution duration in minutes) / 60 minutes = VUh",
+      "If your test ramps up to a maximum of 100 VUs and runs for 10 minutes, the test run will use 16.67 VUh ((100 VUs x 10 minutes)/60 = 16.67 VUh).",
+      "Note that VU hours are calculated based on the period that the test run executes, not the preconfigured test duration. If the test duration is 2 or more hours but runs for only 30.01 minutes, then the subscription will be charged for the test-execution period rounded up to the next minute (in this case, 31 minutes).",
+      "Both the free tier and free trial period are limited to 500 VUh / month.",
+      "Enterprise plugins are a paid add-on for the Cloud Pro Pay As You Go Plan that is priced at $55 per active user per month. By default, your account will have Grafana without Enterprise plugins, which is priced at $8 per active user per month.",
+      "Enterprise plugins are a paid add-on for the Cloud Pro Pay As You Go Plan that is priced at $55 per active user per month. By default, your account will have Grafana without Enterprise plugins, which is priced at $8 per active user per month.",
+      "Start free"
+    ],
+    "totals": {
+      "removed": 332,
+      "added": 218,
+      "materialRemoved": 100,
+      "materialAdded": 76
+    }
   }
 ]

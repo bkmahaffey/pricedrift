@@ -461,5 +461,42 @@
       "materialRemoved": 1,
       "materialAdded": 1
     }
+  },
+  {
+    "id": "usefathom-com-pricing-20260929125054",
+    "url": "https://usefathom.com/pricing",
+    "ts": "20260929125054",
+    "date": "2026-09-29",
+    "source": "http",
+    "prevTs": "20260926112331",
+    "kind": "price",
+    "score": 12,
+    "counts": {
+      "price": 3,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Fathom Analytics: 3 prices, 1 limit, 1 plan name changed (removed “Select a plan above to see its included sites…”; added “Every plan includes at least 50 sites, and bi…”)",
+    "pairs": [],
+    "added": [
+      "Unlimited email reports and exports",
+      "Every plan includes at least 50 sites, and bigger plans include more. Select a plan above to see exactly how many. If you need more, you can add up to 15 packs of 50 extra sites yourself from your billing settings, at $10/month or $100/year per pack. Need to go really big? Get in touch",
+      "Pick a plan, add Fathom to your site and run it alongside your current analytics for 7 days. We’ll email you before your plan starts billing, and you can cancel anytime in your account settings.",
+      "Start free trial"
+    ],
+    "removed": [
+      "Unlimited email reports",
+      "Unlimited CSV data exports",
+      "Select a plan above to see its included sites. Every plan includes at least 50. You can add up to 15 packs of 50 extra sites in billing settings, at $10/month or $100/year per pack. For more than 750 extra sites, contact us",
+      "We don’t offer a free plan. Subscription fees pay for running and improving Fathom. We don’t sell your data.",
+      "We don’t run seasonal sales. Annual billing includes two months free, and signing up through an affiliate gives you a $10 credit toward your first invoice."
+    ],
+    "totals": {
+      "removed": 37,
+      "added": 41,
+      "materialRemoved": 19,
+      "materialAdded": 18
+    }
   }
 ]

@@ -1166,5 +1166,35 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "mongodb-com-pricing-20260929125054",
+    "url": "https://www.mongodb.com/pricing",
+    "ts": "20260929125054",
+    "date": "2026-09-29",
+    "source": "http",
+    "prevTs": "20260915114303",
+    "kind": "price",
+    "score": 5,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "MongoDB Atlas: 1 price, 1 limit changed (added “$0.09/hour”)",
+    "pairs": [],
+    "added": [
+      "$0.09/hour",
+      "Enhanced performance for dedicated workloads: architected with decoupled compute and storage for modern agentic workloads. Rapidly scale storage up to 128TB per HA shard with sub-second scaling triggers. Available on M10+ dedicated clusters.",
+      "Storage: 128TB per HA shard capacity Throughput: 1M + IOPS burst performance"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 9,
+      "added": 23,
+      "materialRemoved": 0,
+      "materialAdded": 3
+    }
   }
 ]

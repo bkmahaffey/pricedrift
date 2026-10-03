@@ -694,5 +694,38 @@
       "materialRemoved": 2,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "hygraph-com-pricing-20260929125054",
+    "url": "https://hygraph.com/pricing",
+    "ts": "20260929125054",
+    "date": "2026-09-29",
+    "source": "http",
+    "prevTs": "20260925114938",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 6,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Hygraph: 6 prices changed (added “Pricing generally ranges from about $32,000 t…”)",
+    "pairs": [],
+    "added": [
+      "Pricing generally ranges from about $32,000 to $300,000 per year, depending on scale and needs. It is made up of a platform fee for infrastructure plus one or more projects aligned to specific use cases. Teams new to a use case typically start at the lower end and scale up over time.",
+      "Pricing has two parts: platform and infrastructure, covering support, SLA, and security, plus project 'dials' such as API usage limits and user seats. Enterprise plans typically range from about $32,000 to $300,000 per year, depending on requirements, and Hygraph tailors a proposal aligned to actual usage.",
+      "Per-locale pricing is $150 per month. Locales can be added at any time through a quick contract amendment, without needing to renegotiate the entire agreement, which makes it straightforward to expand language coverage as needs grow.",
+      "Pricing generally ranges from about $32,000 to $300,000 per year, depending on scale and needs. It is made up of a platform fee for infrastructure plus one or more projects aligned to specific use cases. Teams new to a use case typically start at the lower end and scale up over time.",
+      "Pricing has two parts: platform and infrastructure, covering support, SLA, and security, plus project 'dials' such as API usage limits and user seats. Enterprise plans typically range from about $32,000 to $300,000 per year, depending on requirements, and Hygraph tailors a proposal aligned to actual usage.",
+      "Per-locale pricing is $150 per month. Locales can be added at any time through a quick contract amendment, without needing to renegotiate the entire agreement, which makes it straightforward to expand language coverage as needs grow."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 20,
+      "materialRemoved": 0,
+      "materialAdded": 6
+    }
   }
 ]
