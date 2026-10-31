@@ -472,5 +472,31 @@
       "materialRemoved": 11,
       "materialAdded": 16
     }
+  },
+  {
+    "id": "onesignal-com-pricing-20261003113802",
+    "url": "https://onesignal.com/pricing",
+    "ts": "20261003113802",
+    "date": "2026-10-03",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "OneSignal: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 2,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

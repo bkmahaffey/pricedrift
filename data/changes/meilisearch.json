@@ -487,5 +487,34 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "meilisearch-com-pricing-20261003113802",
+    "url": "https://www.meilisearch.com/pricing",
+    "ts": "20261003113802",
+    "date": "2026-10-03",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260813210623",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Meilisearch Cloud: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Yes. Cloud includes a 14-day free trial. No credit card required to start."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 5,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
   }
 ]

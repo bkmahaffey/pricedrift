@@ -489,5 +489,32 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "val-town-pricing-20261003113802",
+    "url": "https://www.val.town/pricing",
+    "ts": "20261003113802",
+    "date": "2026-10-03",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260828130551",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Val Town: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

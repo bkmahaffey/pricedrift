@@ -406,5 +406,61 @@
       "materialRemoved": 1,
       "materialAdded": 1
     }
+  },
+  {
+    "id": "twilio-com-en-us-products-email-api-pricing-20261003113802",
+    "url": "https://www.twilio.com/en-us/products/email-api/pricing",
+    "ts": "20261003113802",
+    "date": "2026-10-03",
+    "source": "http",
+    "prevTs": "20260908111757",
+    "kind": "price",
+    "score": 71,
+    "counts": {
+      "price": 15,
+      "limit": 5,
+      "plan": 8
+    },
+    "material": true,
+    "headline": "SendGrid: 15 prices, 5 limits, 8 plan names changed (removed “you can send 100 emails per day on our free S…”; added “Twilio SendGrid pricing comes down to two thi…”)",
+    "pairs": [],
+    "added": [
+      "Twilio SendGrid pricing comes down to two things: how much email you send each month and which features you need. Plans run from a free 60-day trial to Essentials at $19.95/mo, Pro at $89.95/mo, and custom Premier pricing. Volume discounts kick in as you scale.",
+      "Start with your monthly send volume. Testing or sending a trickle? The free trial gets you going. Sending 50,000 to 100,000 a month? Essentials fits. Scaling into the millions? Pro adds dedicated IPs and SSO. High volume with custom needs? That's Premier.",
+      "Twilio SendGrid's free trial runs $0 for 60 days and lets you send 100 emails a day — no credit card, no commitment. You get analytics, deliverability optimization, and the dynamic template editor, so you can test the real platform before committing to a paid plan.",
+      "Yes. You can upgrade any time after you set you your free account. Twilio SendGrid plans are built to scale with you. Move from Essentials to Pro to Premier as your volume climbs and your feature needs grow, without getting locking into more than you need today."
+    ],
+    "removed": [
+      "you can send 100 emails per day on our free SMTP plan. If you need to send more than that, complete your account setup to upgrade to a paid email plan!",
+      "We also offer a Free Marketing Campaigns Plan. This lets you store up to 2,000 contacts and send 6,000 free emails per month. It also provides A/B testing, sign-up forms, automation, and email testing credits.",
+      "Sign up for my free account",
+      "Essentials 50K",
+      "$0.0013",
+      "Essentials 100K",
+      "$0.0009",
+      "Pro 100K",
+      "$0.0011",
+      "Pro 300K",
+      "$0.0009",
+      "Pro 700K",
+      "$0.0008",
+      "Pro 1.5M",
+      "$0.0006",
+      "Pro 2.5M",
+      "$0.0005",
+      "Pro 2.5M Legacy",
+      "$0.0005",
+      "30 Email Testing credits per month, available for $18.00 USD",
+      "60 Email Testing credits per month, available for $30.00 USD",
+      "100 Email Testing credits per month, available for $40.000 USD",
+      "500 Email Testing credits per month, available for $200.00 USD",
+      "2,000 Email Testing credits per month, available for $800.00 USD"
+    ],
+    "totals": {
+      "removed": 58,
+      "added": 15,
+      "materialRemoved": 25,
+      "materialAdded": 5
+    }
   }
 ]

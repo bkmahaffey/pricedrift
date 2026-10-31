@@ -699,5 +699,45 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "aws-amazon-com-ses-pricing-20261003113802",
+    "url": "https://aws.amazon.com/ses/pricing/",
+    "ts": "20261003113802",
+    "date": "2026-10-03",
+    "source": "http",
+    "prevTs": "20260924114430",
+    "kind": "price",
+    "score": 5,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Amazon SES: 1 price, 1 limit changed (1,1000 → 1,000)",
+    "pairs": [
+      {
+        "before": "Per email fee: $0.08/1,1000 emails (0–10M emails per month), $0.04/1,000 emails (10–50M emails per month), $0.02/1,000 emails (50–100M emails per month), Contact us (>100M emails per month)",
+        "after": "Per email fee: $0.08/1,000 emails (0–10M emails per month), $0.04/1,000 emails (10–50M emails per month), $0.02/1,000 emails (50–100M emails per month), Contact us (>100M emails per month)",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "1,1000",
+            "after": "1,000"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Email size over 256KB will be charged at $0.09 for every 1,000 mail chunks [a chunk is 256 kilobytes (KB) of incoming data, including headers, message content (text and images), and attachments]."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 22,
+      "materialRemoved": 2,
+      "materialAdded": 3
+    }
   }
 ]

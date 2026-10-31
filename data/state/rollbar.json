@@ -3,7 +3,7 @@
   "urls": {
     "rollbar-com-pricing": {
       "url": "https://rollbar.com/pricing/",
-      "lastChecked": "20261003113802",
+      "lastChecked": "20261031122445",
       "lastSource": "http",
       "latestTs": "20260922113650",
       "hash": "2dbdabcdbe08672f",
@@ -17,12 +17,13 @@
       "url": "https://rollbar.com/pricing-for-agents",
       "lastChecked": "20261003113802",
       "lastSource": "http",
-      "latestTs": "20260902202107",
-      "hash": "b8c4faa618d999e0",
+      "latestTs": "20261003113802",
+      "hash": "4d7b066d5fb3dfab",
       "firstTs": "20260902202107",
-      "status": "pending",
+      "status": "ok",
       "failures": 0,
-      "lineCount": 259
+      "lineCount": 259,
+      "lastChanged": "20261003113802"
     }
   }
 }

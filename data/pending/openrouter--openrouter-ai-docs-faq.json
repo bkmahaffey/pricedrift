@@ -1,8 +1,8 @@
 {
   "slug": "openrouter",
   "url": "https://openrouter.ai/docs/faq",
-  "ts": "20261003113802",
-  "hash": "2709241a410ca76c",
+  "ts": "20261031122445",
+  "hash": "b3dda447b04e2863",
   "source": "http",
   "lines": [
     "Documentation Index",
@@ -77,7 +77,8 @@
     "For free models, rate limits are determined by the credits that you have purchased. If you have purchased at least credits, your free model rate limit will be requests per day. Otherwise, you will be rate limited to free model API requests per day. You can learn more about how rate limits work for paid accounts in our rate limits documentation",
     ".",
     "What API endpoints are available?",
-    "OpenRouter implements the OpenAI API specification for /completions and /chat/completions endpoints, allowing you to use any model with the same request/response format. Additional endpoints like /api/v1/models are also available. See our API documentation",
+    "OpenRouter implements the OpenAI API specification for the /responses",
+    "/chat/completions, and /completions endpoints, allowing you to use any model with the same request/response format. Additional endpoints like /api/v1/models are also available. See our API documentation",
     "for detailed specifications.",
     "What are the supported formats?",
     "The API supports text, images, and PDFs. Images",
@@ -105,6 +106,9 @@
     "tab. If you specify provider routing",
     "in your request, but none of the providers match the level of privacy specified in your account settings, you will get an error and your request will not complete. Learn more about provider logging policies",
     ".",
+    "Does OpenRouter support EU data residency?",
+    "Yes, for prompts and completions. Requests to eu.openrouter.ai are decrypted in the EU and routed only to shared provider endpoints in Europe (the EU/EEA, the UK, and Switzerland). BYOK requests go to your own deployment’s region. Account and billing data may be stored or processed in the US. DPA Exhibit A covers API payloads when elected in writing. Business is self-serve, with no contract, and the DPA includes SCCs. See EU in-region routing on Business",
+    "for the live EU model list and the full data boundary.",
     "Credit and billing systems",
     "What purchase options exist?",
     "OpenRouter uses a credit system where the base currency is US dollars. All of the pricing on our site and API is denoted in dollars. Users can top up their balance manually or set up auto top up so that the balance is replenished when it gets below the set threshold.",
@@ -150,7 +154,12 @@
     "How can I file a bug report or change request for OpenRouter?",
     "You can file bug reports or change requests by posting in our Discord",
     ".",
+    "Was this page helpful?",
+    "Yes",
+    "No",
     "Assistant",
-    "Responses are generated using AI and may contain mistakes."
+    "Responses are generated using AI and may contain mistakes.",
+    "Suggestions",
+    "How do I get started using decision models like Jev?"
   ]
 }

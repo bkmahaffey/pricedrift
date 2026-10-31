@@ -8,14 +8,16 @@
       "latestTs": "20260919105727",
       "hash": "805b8b2165c542ef",
       "firstTs": "20230202133327",
-      "status": "pending",
+      "status": "suspicious",
       "lastChanged": "20260919105727",
       "failures": 0,
-      "lineCount": 298
+      "lineCount": 298,
+      "suspiciousCount": 1,
+      "lastNote": "capture 20261003113802 had 114 lines vs 298; ignored (1/3)"
     },
     "pipedream-com-docs-pricing": {
       "url": "https://pipedream.com/docs/pricing",
-      "lastChecked": "20261003113802",
+      "lastChecked": "20261031122445",
       "lastSource": "wayback",
       "latestTs": "20260828075820",
       "hash": "20cf00715e97ee9c",

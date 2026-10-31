@@ -889,5 +889,34 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "amplitude-com-pricing-20261003113802",
+    "url": "https://amplitude.com/pricing",
+    "ts": "20261003113802",
+    "date": "2026-10-03",
+    "source": "http",
+    "prevTs": "20260923113416",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Amplitude: 1 limit changed (added “30 days”)",
+    "pairs": [],
+    "added": [
+      "30 days",
+      "Add on for 90 days"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 142,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
   }
 ]

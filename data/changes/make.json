@@ -345,5 +345,31 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "make-com-en-pricing-20260929125054",
+    "url": "https://www.make.com/en/pricing",
+    "ts": "20260929125054",
+    "date": "2026-09-29",
+    "source": "browser",
+    "prevTs": "20260902202107",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Make: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

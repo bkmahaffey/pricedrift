@@ -636,5 +636,33 @@
       "materialRemoved": 17,
       "materialAdded": 18
     }
+  },
+  {
+    "id": "v0-app-pricing-20261003113802",
+    "url": "https://v0.app/pricing",
+    "ts": "20261003113802",
+    "date": "2026-10-03",
+    "source": "http",
+    "prevTs": "20260915114303",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "v0: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Free access to v0"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 2,
+      "materialRemoved": 1,
+      "materialAdded": 2
+    }
   }
 ]
