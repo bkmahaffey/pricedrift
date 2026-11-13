@@ -495,5 +495,75 @@
       "materialRemoved": 23,
       "materialAdded": 69
     }
+  },
+  {
+    "id": "inngest-com-pricing-20261031122445",
+    "url": "https://www.inngest.com/pricing",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "http",
+    "prevTs": "20260923113416",
+    "kind": "price",
+    "score": 93,
+    "counts": {
+      "price": 24,
+      "limit": 11,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Inngest: 24 prices, 11 limits changed (removed “1M executions + add-on”; added “24 hour max duration”)",
+    "pairs": [],
+    "added": [
+      "24 hour max duration",
+      "24 hour max duration",
+      "1 vCPU Compute",
+      "$0.000011 $0.0396",
+      "1 GB Memory",
+      "$0.000003 $0.0108",
+      "Show machine sizes 1–16 vCPU · 1–128 GB RAM",
+      "1 × RAM ( 1 GB per vCPU)",
+      "2 × RAM ( 2 GB per vCPU)",
+      "4 × RAM ( 4 GB per vCPU)",
+      "8 × RAM ( 8 GB per vCPU)",
+      "1 vCPU",
+      "1 GB $0.0504 /hr",
+      "2 GB $0.0612 /hr",
+      "4 GB $0.0828 /hr",
+      "8 GB $0.1260 /hr",
+      "2 vCPU",
+      "2 GB $0.1008 /hr",
+      "4 GB $0.1224 /hr",
+      "8 GB $0.1656 /hr",
+      "16 GB $0.2520 /hr",
+      "4 vCPU",
+      "4 GB $0.2016 /hr",
+      "8 GB $0.2448 /hr",
+      "16 GB $0.3312 /hr",
+      "32 GB $0.5040 /hr",
+      "8 vCPU",
+      "8 GB $0.4032 /hr",
+      "16 GB $0.4896 /hr",
+      "32 GB $0.6624 /hr",
+      "64 GB $1.0080 /hr",
+      "16 vCPU",
+      "16 GB $0.8064 /hr",
+      "32 GB $0.9792 /hr",
+      "64 GB $1.3248 /hr",
+      "128 GB $2.0160 /hr",
+      "vCPUs are available in powers of two: 1, 2, 4, 8, or 16. Each vCPU can be paired with 1, 2, 4, or 8 GB of RAM (e.g. 2 vCPU with 2, 4, 8, or 16 GB). Usage is billed per second; hourly rates are shown for reference.",
+      "1m/mo included then $50 per 1m",
+      "10m/mo included then $25 per 1m",
+      "30 days"
+    ],
+    "removed": [
+      "1M executions + add-on",
+      "10M executions + add-on"
+    ],
+    "totals": {
+      "removed": 2,
+      "added": 66,
+      "materialRemoved": 2,
+      "materialAdded": 43
+    }
   }
 ]

@@ -771,5 +771,249 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "github-com-pricing-20261031122445",
+    "url": "https://github.com/pricing",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "price",
+    "score": 195,
+    "counts": {
+      "price": 13,
+      "limit": 9,
+      "plan": 69
+    },
+    "material": true,
+    "headline": "GitHub: 13 prices, 9 limits, 69 plan names changed (2,000 removed; 3,000 removed)",
+    "pairs": [
+      {
+        "before": "2,000 minutes/month Free for public repositories",
+        "after": "Free for public repositories",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "2,000",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "3,000 minutes/month Free for public repositories",
+        "after": "Free for public repositories",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "3,000",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "50,000 minutes/month Free for public repositories",
+        "after": "Free for public repositories",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "50,000",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "500 MB Free for public repositories",
+        "after": "Free for public repositories",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "500MB",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "2GB Free for public repositories",
+        "after": "Free for public repositories",
+        "confidence": 0.8,
+        "deltas": [
+          {
+            "before": "2GB",
+            "after": null
+          }
+        ]
+      },
+      {
+        "before": "50GB Free for public repositories",
+        "after": "Free for public repositories",
+        "confidence": 0.8,
+        "deltas": [
+          {
+            "before": "50GB",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Create a free organization",
+      "Get started for free",
+      "Unlimited Unlimited",
+      "Unlimited Unlimited",
+      "Unlimited Unlimited",
+      "Unlimited Unlimited",
+      "Unlimited Unlimited",
+      "Unlimited Unlimited",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Unlimited Unlimited",
+      "Unlimited Unlimited",
+      "Unlimited Unlimited",
+      "Free",
+      "Unlimited Unlimited",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free"
+    ],
+    "removed": [
+      "$ 0 USD per month",
+      "Join for free",
+      "Free for public repositories",
+      "Free for public repositories",
+      "per user/month for the first 12 months *",
+      "Blazing fast cloud developer environments with flexible compute and pre-configured containers, developers can code, collaborate, and debug from any browser. Pay only for what you use with compute fees starting at $0.18/hr and storage fees at $0.07/GB per month.",
+      "Free for public repositories",
+      "Free for public repositories",
+      "per user/month for the first 12 months *",
+      "GitHub Enterprise Cloud offers a multi-tenant enterprise SaaS solution on Microsoft Azure, allowing you to choose a regional cloud deployment for data residency, so your in-scope data is stored at rest in a designated location. Start a free 30 day trial",
+      "Free for public repositories",
+      "Free for public repositories",
+      "$ 0 USD",
+      "$ 0 USD",
+      "$ 4 USD",
+      "$ 4 USD",
+      "per user/month for the first 12 months *",
+      "$ 21 USD",
+      "$ 21 USD",
+      "per user/month for the first 12 months *",
+      "Join for free",
+      "Start a free trial",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "Spin up fully configured dev environments in the cloud with the power of your favorite editor. A \"core hour\" denotes compute usage. On a 2-core machine, you would get 60 hours free. On a 4-core machine, you would get 30 hours free, etc. Free hours are assigned to personal accounts, rather than free organizations.",
+      "$0 spend limit",
+      "Unlimited",
+      "Unlimited",
+      "Unlimited",
+      "$ 4",
+      "$ 21",
+      "Unlimited",
+      "$ 4",
+      "$ 21",
+      "Unlimited",
+      "Unlimited"
+    ],
+    "totals": {
+      "removed": 519,
+      "added": 486,
+      "materialRemoved": 58,
+      "materialAdded": 102
+    }
+  },
+  {
+    "id": "docs-github-com-en-billing-managing-billing-for-your-products-about-billing-for--20261031122445",
+    "url": "https://docs.github.com/en/billing/managing-billing-for-your-products/about-billing-for-github-actions",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "http",
+    "prevTs": "20260916113123",
+    "kind": "price",
+    "score": 18,
+    "counts": {
+      "price": 6,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "GitHub: 6 prices changed (10 → $0.06)",
+    "pairs": [
+      {
+        "before": "If you run a workflow on a Linux runner and it takes 10 minutes to complete, you'll use 10 minutes of the repository owner's allowance. If the workflow generates a 10 MB artifact, then you'll also use 10 MB of the repository owner's artifact storage allowance.",
+        "after": "If you run a workflow on a standard Linux runner and it takes 10 minutes to complete, $0.06 USD is deducted from the repository owner's included compute usage (10 × $0.006 USD). If the workflow generates a 10 MB artifact, then you'll also use 10 MB of the repository owner's artifact storage allowance.",
+        "confidence": 0.73,
+        "deltas": [
+          {
+            "before": "10",
+            "after": "$0.06"
+          },
+          {
+            "before": "10MB",
+            "after": "10"
+          },
+          {
+            "before": "10MB",
+            "after": "$0.006"
+          },
+          {
+            "before": null,
+            "after": "10MB"
+          },
+          {
+            "before": null,
+            "after": "10MB"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "The following usage remains free independently and does not reduce the included compute usage:",
+      "Public repositories: This usage remains free.",
+      "$12 USD",
+      "$18 USD",
+      "$12 USD",
+      "$18 USD",
+      "$300 USD",
+      "Copilot code review runner costs draw from the included compute usage on private repositories. For public repositories, this usage remains free."
+    ],
+    "removed": [
+      "Learn how usage of GitHub Actions is measured against your free allowance and how to pay for additional use.",
+      "GitHub Actions usage is free for self-hosted runners and for public repositories that use standard GitHub-hosted runners. See Choosing the runner for a job",
+      "For private repositories, each GitHub account receives a quota of free minutes, artifact storage, and cache storage for use with GitHub-hosted runners, depending on the account's plan. Any usage beyond the included amounts is billed to your account.",
+      "Minutes: Your free minutes reset to the full amount at the start of each billing cycle. Minutes usage is charged to the repository owner, not the person who triggered the workflow runs.",
+      "Public repositories: Minutes remain free.",
+      "Free use of GitHub Actions",
+      "Copilot code review consumes GitHub Actions minutes on private repositories. For public repositories, GitHub Actions minutes remain free."
+    ],
+    "totals": {
+      "removed": 26,
+      "added": 38,
+      "materialRemoved": 10,
+      "materialAdded": 11
+    }
   }
 ]

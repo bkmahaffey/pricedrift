@@ -706,5 +706,34 @@
       "materialRemoved": 15,
       "materialAdded": 17
     }
+  },
+  {
+    "id": "snyk-io-plans-20261031122445",
+    "url": "https://snyk.io/plans/",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "http",
+    "prevTs": "20260921124617",
+    "kind": "copy",
+    "score": 1,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Snyk: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Snyk defines contributing developers as developers who have made a commit to a private repo monitored by Snyk in the last 90 days. We do not count contributions to public (open source) repos. Contributor counts are displayed on Snyk’s Usage page.",
+      "If you sign up with our ‘Free’ plan, the limits are: Open Source, 200 tests; Code, 100 tests; IaC, 300 tests; Container, 100 tests. Want to know more about the usage settings? Click here for more details"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 9,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
   }
 ]

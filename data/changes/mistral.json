@@ -818,5 +818,45 @@
       "materialRemoved": 5,
       "materialAdded": 2
     }
+  },
+  {
+    "id": "mistral-ai-pricing-20261031122445",
+    "url": "https://mistral.ai/pricing",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "http",
+    "prevTs": "20260907123111",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Mistral AI: 2 prices changed ($30 → $25.5)",
+    "pairs": [
+      {
+        "before": "$30 /mo in API credits.",
+        "after": "$25.5 /mo in API credits.",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$30",
+            "after": "$25.5"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "$10 /mo in API credits."
+    ],
+    "totals": {
+      "removed": 9,
+      "added": 11,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
   }
 ]

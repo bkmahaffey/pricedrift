@@ -80,5 +80,56 @@
       "materialRemoved": 1,
       "materialAdded": 3
     }
+  },
+  {
+    "id": "jetbrains-com-all-20261031122445",
+    "url": "https://www.jetbrains.com/all/",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "browser",
+    "prevTs": "20260915114303",
+    "kind": "limits",
+    "score": 6,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "JetBrains IDEs: 3 limits changed (10 → 30)",
+    "pairs": [
+      {
+        "before": "Yes, the All Products Pack comes with JetBrains AI Credits – 10 for individual use and 20 for organizations every 30 days, plus anytime top-ups. One credit equals approximately 10 requests to generate code in the AI chat or 25 requests to explain code fragments.",
+        "after": "Yes, the All Products Pack comes with JetBrains AI credits that refresh every 30 days: 10 for individual use and 20 for organizations, plus anytime top-ups. One credit equals approximately 10 requests to generate code in the AI chat or 25 requests to explain code fragments.",
+        "confidence": 0.94,
+        "deltas": [
+          {
+            "before": "10",
+            "after": "30"
+          },
+          {
+            "before": "20",
+            "after": "10"
+          },
+          {
+            "before": "30",
+            "after": "20"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "for individual use or 20 for organizations every 30 days, plus anytime top-ups.",
+      "20 JetBrains AI Credits per 30 days",
+      "20 JetBrains AI Credits per 30 days",
+      "“So the reason I made the switch is because of the time it takes to set it up: 20 minutes. Everything was fully functional in under 20 minutes. I absolutely got no error at all. I just went through all the steps of the wizard, and then: done. Unit testing, code coverage, build, reports, etc...”"
+    ],
+    "totals": {
+      "removed": 98,
+      "added": 159,
+      "materialRemoved": 5,
+      "materialAdded": 1
+    }
   }
 ]

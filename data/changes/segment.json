@@ -321,5 +321,43 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "twilio-com-en-us-products-connections-pricing-20261031122445",
+    "url": "https://www.twilio.com/en-us/products/connections/pricing",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "http",
+    "prevTs": "20260918111244",
+    "kind": "price",
+    "score": 7,
+    "counts": {
+      "price": 1,
+      "limit": 2,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Segment: 1 price, 2 limits changed (removed “Yes! There is a 14-day free trial for the Tea…”; added “Pricing scales with monthly tracked users (MT…”)",
+    "pairs": [],
+    "added": [
+      "Pricing scales with monthly tracked users (MTUs) — the unique users you collect data on each month. Free covers 1,000 visitors at $0. Team starts at $120/month for 10,000, then adds $10 per 1,000 visitors beyond that. Business is custom volume — contact sales for a quote.",
+      "Free: Testing or small projects for 1,000 visitors, 2 sources, one warehouse destination.",
+      "Team: Up 10,000 visitors, unlimited sources, public API access.",
+      "Is the free plan enough, or do I need Team?",
+      "The free plan works if you're pulling from a couple of sources and syncing to one warehouse once a day. Move up to Team once you pass 1,000 visitors, need unlimited sources, want twice-daily syncs, or need public API access to build on top of your data.",
+      "Is there a free trial, and what does annual billing save?",
+      "Team plans includes a 14-day free trial, so you can test paid features before you commit. Annual billing lets you buy MTUs at a lower rate than month-to-month, though going over your allotted MTUs on an annual plan can add charges. The Free plan stays free permanently, capped at 1,000 visitors."
+    ],
+    "removed": [
+      "Is there a free trial of the paid plans?",
+      "Yes! There is a 14-day free trial for the Team plan. To try the Business plan, please contact us",
+      "No, you’re responsible for accounts that you register with Sources, Integrations, and Warehouse providers, whether they are paid or free."
+    ],
+    "totals": {
+      "removed": 14,
+      "added": 16,
+      "materialRemoved": 3,
+      "materialAdded": 7
+    }
   }
 ]

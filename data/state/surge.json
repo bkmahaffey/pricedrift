@@ -3,15 +3,16 @@
   "urls": {
     "surge-sh-pricing": {
       "url": "https://surge.sh/pricing",
-      "status": "pending",
+      "status": "ok",
       "lastChecked": "20261031122445",
       "lastNote": "http: only 24 lines; browser: 200, 24 lines; wayback: 24 lines",
       "failures": 0,
-      "latestTs": "20260902202628",
-      "hash": "15ff197461aa135f",
+      "latestTs": "20261031122445",
+      "hash": "9b5b95d19bc82285",
       "firstTs": "20260902202628",
       "lastSource": "http",
-      "lineCount": 24
+      "lineCount": 51,
+      "lastChanged": "20261031122445"
     }
   }
 }

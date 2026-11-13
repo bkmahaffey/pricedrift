@@ -204,5 +204,55 @@
       "materialRemoved": 19,
       "materialAdded": 36
     }
+  },
+  {
+    "id": "strapi-io-pricing-cloud-20261031122445",
+    "url": "https://strapi.io/pricing-cloud",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260829020809",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Strapi Cloud: 2 prices changed ($1,50 → $1.50; $0,60 → $0.60)",
+    "pairs": [
+      {
+        "before": "API requests - per project Additional API requests: +$1,50 per 25k",
+        "after": "API requests - per project Additional API requests: +$1.50 per 25k",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$1,50",
+            "after": "$1.50"
+          }
+        ]
+      },
+      {
+        "before": "Asset storage (in GB) - per environment Additional asset storage: +$0,60 per GB",
+        "after": "Asset storage (in GB) - per environment Additional asset storage: +$0.60 per GB",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0,60",
+            "after": "$0.60"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 8,
+      "added": 2,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
   }
 ]

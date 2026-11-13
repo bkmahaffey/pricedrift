@@ -1196,5 +1196,59 @@
       "materialRemoved": 0,
       "materialAdded": 3
     }
+  },
+  {
+    "id": "mongodb-com-pricing-20261031122445",
+    "url": "https://www.mongodb.com/pricing",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "http",
+    "prevTs": "20260929125054",
+    "kind": "price",
+    "score": 42,
+    "counts": {
+      "price": 8,
+      "limit": 9,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "MongoDB Atlas: 8 prices, 9 limits changed (added “Up to 128TB”)",
+    "pairs": [],
+    "added": [
+      "Atlas includes free Basic Support. Upgrade to a paid plan for faster response times, with select security features available as developer add-ons and included with Pro and higher plans.",
+      "Up to 128TB",
+      "2 GB",
+      "2 vCPUs",
+      "$0.088/hr",
+      "Up to 128TB",
+      "4 GB",
+      "2 vCPUs",
+      "$0.227/hr",
+      "Up to 128TB",
+      "8 GB",
+      "2 vCPUs",
+      "$0.677/hr",
+      "Up to 128TB",
+      "16 GB",
+      "4 vCPUs",
+      "$1.354/hr",
+      "Up to 128TB",
+      "32 GB",
+      "8 vCPUs",
+      "$2.709/hr",
+      "Up to 128TB",
+      "64 GB",
+      "16 vCPUs",
+      "$5.417/hr",
+      "$0.30 per GB per month",
+      "$0.30 per GB per month"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 14,
+      "added": 61,
+      "materialRemoved": 1,
+      "materialAdded": 28
+    }
   }
 ]

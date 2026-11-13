@@ -799,5 +799,41 @@
       "materialRemoved": 2,
       "materialAdded": 1
     }
+  },
+  {
+    "id": "docker-com-pricing-20261031122445",
+    "url": "https://www.docker.com/pricing/",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260810095729",
+    "kind": "price",
+    "score": 17,
+    "counts": {
+      "price": 5,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Docker: 5 prices, 1 plan name changed (removed “500 minutes: $25”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Docker Build Cloud and Testcontainers Cloud free trial",
+      "Unlimited",
+      "Free Trial",
+      "500 minutes: $25",
+      "1,000 minutes: $50",
+      "5,000 minutes: $250",
+      "10,000 minutes: $500",
+      "20,000 minutes: $1,000"
+    ],
+    "totals": {
+      "removed": 30,
+      "added": 1,
+      "materialRemoved": 8,
+      "materialAdded": 0
+    }
   }
 ]

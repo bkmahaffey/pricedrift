@@ -1016,5 +1016,31 @@
       "materialRemoved": 16,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "planetscale-com-pricing-20261031122445",
+    "url": "https://planetscale.com/pricing",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "http",
+    "prevTs": "20260911111957",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "PlanetScale: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 0,
+      "materialAdded": 0
+    }
   }
 ]

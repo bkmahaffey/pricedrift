@@ -391,5 +391,33 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "developers-cloudflare-com-r2-pricing-20261031122445",
+    "url": "https://developers.cloudflare.com/r2/pricing/",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "http",
+    "prevTs": "20260926112331",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Cloudflare R2: 1 price changed (added “First 100,000 included + $0.10 per additional…”)",
+    "pairs": [],
+    "added": [
+      "First 100,000 included + $0.10 per additional bucket per month"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 4,
+      "added": 14,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
   }
 ]

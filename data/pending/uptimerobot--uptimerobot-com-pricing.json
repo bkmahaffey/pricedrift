@@ -1,8 +1,8 @@
 {
   "slug": "uptimerobot",
   "url": "https://uptimerobot.com/pricing/",
-  "ts": "20261031122445",
-  "hash": "f195b6c39a62761a",
+  "ts": "20261113143224",
+  "hash": "202ab0d77441183b",
   "source": "http",
   "lines": [
     "Save ~15% with annual billing.",
@@ -116,9 +116,9 @@
     "UDP monitoring",
     "Monitor User Datagram Protocol (UDP) services on a host/IP and port. Get alerts on missing replies, packet loss, or unexpected responses.",
     "Re-check from a second data center",
-    "When a check fails, we re-check it from a different data center in the same region before we alert you.",
+    "When a check fails, we re-check it from a different data center in the same region before we alert you. How we prevent false alerts",
     "Location-specific monitoring",
-    "Add multiple regions to a single monitor and set region-specific alert thresholds. Choose from 4: North America, Europe, Asia, and Australia.",
+    "Add multiple regions to a single monitor and set region-specific alert thresholds. Choose from 4: North America, Europe, Asia, and Australia. Catch the outages only part of the world sees. How we confirm downtime",
     "Slow response alerts",
     "Set a threshold between 50 ms and 5000 ms, and receive alerts when performance dips or returns to normal.",
     "DNS monitoring",

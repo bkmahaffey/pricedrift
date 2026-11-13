@@ -942,5 +942,70 @@
       "materialRemoved": 0,
       "materialAdded": 1
     }
+  },
+  {
+    "id": "appwrite-io-pricing-20261031122445",
+    "url": "https://appwrite.io/pricing",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "browser",
+    "prevTs": "20260921124617",
+    "kind": "price",
+    "score": 70,
+    "counts": {
+      "price": 17,
+      "limit": 10,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Appwrite: 17 prices, 10 limits changed (removed “Daily backups stored for 7 days”; added “1 member”)",
+    "pairs": [],
+    "added": [
+      "1 member",
+      "Unlimited members",
+      "1 core",
+      "2 cores",
+      "$20/mo",
+      "2 cores",
+      "$49/mo",
+      "4 cores",
+      "$85/mo",
+      "4 cores",
+      "$160/mo",
+      "4 cores",
+      "$299/mo",
+      "8 cores",
+      "32 GB",
+      "$425/mo",
+      "8 cores",
+      "$699/mo",
+      "16 cores",
+      "64 GB",
+      "$999/mo",
+      "16 cores",
+      "128 GB",
+      "$1,699/mo",
+      "32 cores",
+      "128 GB",
+      "$2,399/mo",
+      "32 cores",
+      "256 GB",
+      "$4,099/mo"
+    ],
+    "removed": [
+      "Daily backups stored for 7 days",
+      "$15/mo",
+      "$60/mo",
+      "$110/mo",
+      "$210/mo",
+      "$410/mo",
+      "$960/mo"
+    ],
+    "totals": {
+      "removed": 30,
+      "added": 63,
+      "materialRemoved": 9,
+      "materialAdded": 32
+    }
   }
 ]

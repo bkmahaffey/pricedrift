@@ -1402,5 +1402,38 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "webflow-com-pricing-20261031122445",
+    "url": "https://webflow.com/pricing",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "browser",
+    "prevTs": "20260925114938",
+    "kind": "price",
+    "score": 5,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Webflow: 1 price, 1 limit changed (removed “100 MB”; added “1 GB”)",
+    "pairs": [],
+    "added": [
+      "1 GB",
+      "Create on-brand landing pages and ads that drive pipeline. Works alongside any CMS. Starting at $2k/mo."
+    ],
+    "removed": [
+      "100 MB",
+      "Preview Localize for free",
+      "You can try out basic Localize functionality for free, no matter what plan you’re on. Pay only when you’re ready to publish."
+    ],
+    "totals": {
+      "removed": 15,
+      "added": 27,
+      "materialRemoved": 6,
+      "materialAdded": 5
+    }
   }
 ]

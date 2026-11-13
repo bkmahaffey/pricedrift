@@ -601,5 +601,41 @@
       "materialRemoved": 0,
       "materialAdded": 1
     }
+  },
+  {
+    "id": "resend-com-pricing-20261031122445",
+    "url": "https://resend.com/pricing",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "http",
+    "prevTs": "20260928135207",
+    "kind": "price",
+    "score": 11,
+    "counts": {
+      "price": 3,
+      "limit": 0,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Resend: 3 prices, 1 plan name changed (added “$1 / inbox”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "$1 / inbox",
+      "Every plan includes 3 inboxes. On paid plans with pay-as-you-go enabled, each additional inbox is billed at $1 per month. Inboxes do not come with a separate email allowance: every email sent or received through an inbox counts towards your transactional emails quota.",
+      "Is open and click tracking included on the Free plan?",
+      "Yes. Open and click tracking is a per-domain setting available on every plan, including Free. The \"Marketing analytics\" feature on the pricing page is the separate analytics dashboard for your broadcasts, not tracking.",
+      "Is there a plan between Free and Pro?",
+      "No. The plans are Free, Pro, Scale, and Enterprise. If you occasionally need more than your plan includes, pay-as-you-go lets a paid plan keep sending past its monthly quota at the plan's overage rate. It's an option on paid plans, not a plan of its own.",
+      "Inboxes · $1 / inbox",
+      "Start with 3 inboxes for free, and scale as you need. With pay-as-you-go enabled, Resend charges for each additional inbox per month. Inbox emails use your transactional quota. Available to paid subscriptions. Enable pay-as-you-go"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 31,
+      "materialRemoved": 1,
+      "materialAdded": 10
+    }
   }
 ]

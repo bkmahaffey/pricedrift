@@ -390,5 +390,74 @@
       "materialRemoved": 6,
       "materialAdded": 6
     }
+  },
+  {
+    "id": "wasabi-com-pricing-20261031122445",
+    "url": "https://wasabi.com/pricing",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260708171856",
+    "kind": "price",
+    "score": 13,
+    "counts": {
+      "price": 2,
+      "limit": 4,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Wasabi: 2 prices, 4 limits changed (added “$7.99/month”)",
+    "pairs": [],
+    "added": [
+      "$7.99/month",
+      "Company email domain: 100 GB for 30 days",
+      "Freemail Domain (e.g. Gmail, Yahoo, Outlook.com): 10 GB for 14 days",
+      "25 TB to no limit",
+      "90 days",
+      "30 days",
+      "Yes, tied to 1 TB active storage per account",
+      "$0",
+      "Fixed term (1, 3, or 5 years); auto-renews annually unless canceled (30+ days' notice)"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 37,
+      "materialRemoved": 0,
+      "materialAdded": 9
+    }
+  },
+  {
+    "id": "wasabi-com-pricing-faq-20261031122445",
+    "url": "https://wasabi.com/pricing/faq",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "http",
+    "prevTs": "20260915114303",
+    "kind": "limits",
+    "score": 5,
+    "counts": {
+      "price": 0,
+      "limit": 3,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Wasabi: 3 limits changed (added “For example, a 100 TB, one-year RCS contract …”)",
+    "pairs": [],
+    "added": [
+      "For example, a 100 TB, one-year RCS contract entitles you to utilize up to 100 TB billable storage per month without incurring additional charges. Should consumption exceed this threshold, overage fees will apply at the prevailing then-current list rate plus premium support.",
+      "Yes. All stored objects must remain in the system for at least 30 days. Deleting data before this minimum retention period will result in the data being moved to deleted storage which makes up an accounts billable storage.",
+      "We’ll notify you several times before your term ends. If neither you nor your reseller cancels at least 30 days before the end date, your plan will automatically renew for another year at the then-current price.",
+      "You’ll be billed monthly for any excess usage at the then-current rate, plus premium support. For instance, using 110 TB in a month when you’ve reserved 100 TB means billing for 10 TB overage plus support. RCS usage is calculated on the first of each month.",
+      "You may also add capacity on to your current RCS contract (Minimum purchase of 25TB), any storage added to your RCS contract will be prorated to your contract’s current term at the same rate as your original RCS purchase."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 1,
+      "added": 34,
+      "materialRemoved": 0,
+      "materialAdded": 5
+    }
   }
 ]

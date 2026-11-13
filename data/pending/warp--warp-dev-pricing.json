@@ -1,8 +1,8 @@
 {
   "slug": "warp",
   "url": "https://www.warp.dev/pricing",
-  "ts": "20261031122445",
-  "hash": "90faa811a63850fb",
+  "ts": "20261113143224",
+  "hash": "c6fce0a25be4e611",
   "source": "http",
   "lines": [
     "Warp Terminal and agents",
@@ -232,8 +232,8 @@
     "$",
     "brew install --cask warp",
     "Linux",
-    ".deb Debian, Ubuntu",
-    ".rpm Red Hat, Fedora, SUSE",
+    ".deb Debian, Ubuntu x64",
+    ".rpm Red Hat, Fedora, SUSE x64",
     ".deb",
     "x64",
     "ARM64",
@@ -253,6 +253,7 @@
     "winget install Warp.Warp",
     ".exe",
     "x64",
-    "ARM64"
+    "ARM64",
+    "Product Hunt 4.8★ (81)"
   ]
 }

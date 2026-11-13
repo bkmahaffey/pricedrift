@@ -985,5 +985,32 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "pipedream-com-docs-pricing-20261031122445",
+    "url": "https://pipedream.com/docs/pricing",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260828075820",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Pipedream: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 29,
+      "added": 23,
+      "materialRemoved": 5,
+      "materialAdded": 5
+    }
   }
 ]

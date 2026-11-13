@@ -1,8 +1,8 @@
 {
   "slug": "google-cloud-run",
   "url": "https://cloud.google.com/run/pricing",
-  "ts": "20261031122445",
-  "hash": "22df0f56ab817d5b",
+  "ts": "20261113143224",
+  "hash": "5d02883fd8486db9",
   "source": "http",
   "lines": [
     "Cloud Run pricing",
@@ -717,7 +717,7 @@
     "$0 / month",
     "$0 (Unlimited requests)",
     "Paid Tier",
-    "$10 / month / container instance (Pro-rated per active minute while enabled)",
+    "$10 / month per Ambient sidecar, prorated per active minute. Each container instance with Ambient networking enabled runs one managed Ambient sidecar. This is not a flat fee per service. Billing follows the lifecycle of each container instance, so you aren't charged when your service scales to zero.",
     "$2.00 / Million requests",
     "(Applies to both inbound and outbound traffic)",
     "Pricing Examples",

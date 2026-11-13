@@ -1058,5 +1058,42 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "replit-com-pricing-20261031122445",
+    "url": "https://replit.com/pricing",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "http",
+    "prevTs": "20260918111244",
+    "kind": "price",
+    "score": 27,
+    "counts": {
+      "price": 9,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Replit: 9 prices changed (removed “$100 $90 / month, billed annually 10 parallel…”; added “$100 $90 / month, billed annually For commerc…”)",
+    "pairs": [],
+    "added": [
+      "$100 $90 / month, billed annually For commercial and professional builds.",
+      "$100 credits",
+      "Save $10",
+      "$90 / month",
+      "$215 / month",
+      "$425 / month",
+      "$825 / month",
+      "$2,000 / month"
+    ],
+    "removed": [
+      "$100 $90 / month, billed annually 10 parallel agents"
+    ],
+    "totals": {
+      "removed": 11,
+      "added": 17,
+      "materialRemoved": 4,
+      "materialAdded": 11
+    }
   }
 ]

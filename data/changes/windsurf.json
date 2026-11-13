@@ -902,5 +902,33 @@
       "materialRemoved": 2,
       "materialAdded": 2
     }
+  },
+  {
+    "id": "docs-devin-ai-desktop-accounts-usage-20261031122445",
+    "url": "https://docs.devin.ai/desktop/accounts/usage",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "http",
+    "prevTs": "20260915114303",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Windsurf: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [
+      "Free trials of paid plans are not currently offered, and support cannot apply one to your account. You are welcome to subscribe directly to a paid plan, and you can request a refund before using the subscription if you change your mind."
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 16,
+      "added": 15,
+      "materialRemoved": 0,
+      "materialAdded": 1
+    }
   }
 ]

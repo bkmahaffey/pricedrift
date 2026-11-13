@@ -1,8 +1,8 @@
 {
   "slug": "google-cloud-free",
   "url": "https://docs.cloud.google.com/free/docs/free-cloud-features",
-  "ts": "20261031122445",
-  "hash": "bc19f65719a36665",
+  "ts": "20261113143224",
+  "hash": "d4f16f3a03daf9c2",
   "source": "http",
   "lines": [
     "Skip to main content",
@@ -95,7 +95,8 @@
     "$300 in Welcome credit to spend on products and services covered by the Free Trial program.",
     "Full access to the Google Cloud Free Tier",
     ".",
-    "Full access to Google Cloud, with some restrictions: The $300 credit can't be used for the following use cases: The $300 credit can't pay for Gemini API in AI Studio",
+    "Full access to Google Cloud, with some restrictions: The $300 credit can't be used for the following use cases: The $300 credit can't pay for Gemini platform (formerly known as Gemini Enterprise Agent Platform, Vertex AI) services if you sign up for a free trial or upgrade to a paid account on or after November 16, 2026.",
+    "The $300 credit can't pay for Gemini API in AI Studio",
     "costs. Consider using the Gemini API Free tier",
     "or sign up for a Prepay billing plan",
     ".",
@@ -501,6 +502,6 @@
     "and code samples are licensed under the Apache 2.0 License",
     "For details, see the Google Developers Site Policies",
     "Java is a registered trademark of Oracle and/or its affiliates.",
-    "Last updated 2026-10-27 UTC."
+    "Last updated 2026-11-10 UTC."
   ]
 }

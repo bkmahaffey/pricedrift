@@ -1106,5 +1106,55 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "buildkite-com-pricing-20261031122445",
+    "url": "https://buildkite.com/pricing/",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "http",
+    "prevTs": "20260911111957",
+    "kind": "price",
+    "score": 38,
+    "counts": {
+      "price": 8,
+      "limit": 7,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Buildkite: 8 prices, 7 limits changed (removed “250GB/month”; added “250GB/month Then $0.05/GB-month overage”)",
+    "pairs": [],
+    "added": [
+      "250GB/month Then $0.05/GB-month overage",
+      "2.5TB/month Then $0.10/GB overage",
+      "Up to 64 vCPU",
+      "Up to 64 vCPU",
+      "250GB/month Then $0.05/GB-month overage",
+      "2.5TB/month Then $0.10/GB overage",
+      "Up to 64 vCPU",
+      "Up to 64 vCPU",
+      "$0.008 USD per vCPU minute",
+      "2 vCPU, 8GB RAM",
+      "2 vCPU min / min",
+      "$0.016",
+      "4 vCPU, 16GB RAM",
+      "4 vCPU min / min",
+      "$0.032",
+      "8 vCPU, 32GB RAM",
+      "8 vCPU min / min",
+      "$0.064"
+    ],
+    "removed": [
+      "250GB/month",
+      "2.5TB/month",
+      "250GB/month",
+      "2.5TB/month"
+    ],
+    "totals": {
+      "removed": 36,
+      "added": 129,
+      "materialRemoved": 4,
+      "materialAdded": 18
+    }
   }
 ]

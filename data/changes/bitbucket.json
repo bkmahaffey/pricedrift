@@ -566,5 +566,35 @@
       "materialRemoved": 0,
       "materialAdded": 1
     }
+  },
+  {
+    "id": "atlassian-com-software-bitbucket-pricing-20261031122445",
+    "url": "https://www.atlassian.com/software/bitbucket/pricing",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "http",
+    "prevTs": "20260915114303",
+    "kind": "price",
+    "score": 6,
+    "counts": {
+      "price": 2,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Bitbucket: 2 prices changed (removed “$7.25”; added “$8”)",
+    "pairs": [],
+    "added": [
+      "$8"
+    ],
+    "removed": [
+      "$7.25"
+    ],
+    "totals": {
+      "removed": 1,
+      "added": 1,
+      "materialRemoved": 1,
+      "materialAdded": 1
+    }
   }
 ]

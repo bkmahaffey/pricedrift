@@ -398,5 +398,71 @@
       "materialRemoved": 1,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "cloudflare-com-plans-20261031122445",
+    "url": "https://www.cloudflare.com/plans/",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260801043949",
+    "kind": "price",
+    "score": 65,
+    "counts": {
+      "price": 15,
+      "limit": 5,
+      "plan": 5
+    },
+    "material": true,
+    "headline": "Cloudflare: 15 prices, 5 limits, 5 plan names changed (added “50 GB / month”)",
+    "pairs": [],
+    "added": [
+      "Unlimited",
+      "50 GB / month",
+      "$0.04 / GB",
+      "50 GB / month shared across sinks",
+      "$0.03 / GB",
+      "50 GB / month shared across sinks",
+      "$0.06 / GB",
+      "Free Unlimited",
+      "Paid Free",
+      "Free 50 GB / month",
+      "Paid $0.04 / GB",
+      "Free 50 GB / month shared across sinks",
+      "Paid $0.03 / GB",
+      "Free 50 GB / month shared across sinks",
+      "Paid $0.06 / GB",
+      "$9 / million operations",
+      "10 GB / month",
+      "$0.005 / GB",
+      "$2 / million objects",
+      "Free 1 million / month",
+      "Paid $9 / million operations",
+      "Free 10 GB / month",
+      "Paid $0.005 / GB",
+      "Free 1 million / month",
+      "Paid $2 / million objects",
+      "Free",
+      "10 GB / month",
+      "$0.0025 / GB",
+      "Free 10 GB / month",
+      "Paid $0.0025 / GB",
+      "R2 storage and operations are billed separately. Sink delivery is billed by uncompressed data sent to each destination. Basin SQL is $2.50 / TB with a 10 MB minimum billable scan per query. Compaction charges apply only when enabled.",
+      "Free"
+    ],
+    "removed": [
+      "TBD (free during beta)",
+      "TBD (free during beta)",
+      "Paid TBD (free during beta)",
+      "Free —",
+      "Paid TBD (free during beta)"
+    ],
+    "totals": {
+      "removed": 13,
+      "added": 57,
+      "materialRemoved": 6,
+      "materialAdded": 33
+    }
   }
 ]

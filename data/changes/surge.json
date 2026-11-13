@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "surge-sh-pricing-20261031122445",
+    "url": "https://surge.sh/pricing",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "http",
+    "prevTs": "20260902202628",
+    "kind": "price",
+    "score": 7,
+    "counts": {
+      "price": 1,
+      "limit": 1,
+      "plan": 1
+    },
+    "material": true,
+    "headline": "Surge: 1 price, 1 limit, 1 plan name changed (added “$0”)",
+    "pairs": [],
+    "added": [
+      "$0",
+      "Unlimited projects and domains",
+      "Everything in Free",
+      "15 minutes",
+      "450 MB, 10,100 files",
+      "Is Free really free, with a custom domain?",
+      "Yes. Custom domains and their certificates are free for every account, with no trial period and no project cap."
+    ],
+    "removed": [
+      "Unlimited publishing",
+      "Get started for free",
+      "For unlimited production-ready projects",
+      "Unlimited projects",
+      "Unlimited publishing"
+    ],
+    "totals": {
+      "removed": 22,
+      "added": 43,
+      "materialRemoved": 6,
+      "materialAdded": 8
+    }
+  }
+]

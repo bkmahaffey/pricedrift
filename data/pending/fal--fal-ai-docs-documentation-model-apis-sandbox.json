@@ -1,14 +1,17 @@
 {
   "slug": "fal",
   "url": "https://fal.ai/docs/documentation/model-apis/sandbox",
-  "ts": "20261031122445",
-  "hash": "245774210e560dfa",
+  "ts": "20261113143224",
+  "hash": "c48f7a3508911899",
   "source": "http",
   "lines": [
     "Documentation Index",
     "Fetch the complete documentation index at: /docs/llms.txt",
     "Use this file to discover all available pages before exploring further.",
     "Skip to main content",
+    "Assistant",
+    "Responses are generated using AI and may contain mistakes.",
+    "Contact support",
     "Documentation",
     "Examples",
     "Model API Reference",
@@ -94,7 +97,7 @@
     "Before running, Sandbox displays an estimated cost based on: The models you’ve selected",
     "The quantity (number of times to run each model)",
     "The estimate appears in the footer of the prompt bar with color-coded badges: Green: Under $1",
-    "Yellow: 1 − 1 - 1 − 2.50",
+    "Yellow: $1 - $ 2.50",
     "Red: Over $2.50",
     "The actual cost may vary based on output complexity (e.g., longer videos cost more).",
     "Using Sandbox",
@@ -307,9 +310,6 @@
     "Was this page helpful?",
     "Yes",
     "No",
-    "⌘ I",
-    "Assistant",
-    "Responses are generated using AI and may contain mistakes.",
-    "Contact support"
+    "⌘ I"
   ]
 }

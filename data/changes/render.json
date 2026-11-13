@@ -1445,5 +1445,52 @@
       "materialRemoved": 1,
       "materialAdded": 4
     }
+  },
+  {
+    "id": "render-com-docs-free-20261031122445",
+    "url": "https://render.com/docs/free",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "http",
+    "transition": true,
+    "prevTs": "20260901133538",
+    "kind": "limits",
+    "score": 2,
+    "counts": {
+      "price": 0,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Render: 1 limit changed (18012, removed)",
+    "pairs": [
+      {
+        "before": "Free web services can't listen on reserved ports 18012, 18013, or 19099.",
+        "after": "Free web services can't bind to Render's reserved ports",
+        "confidence": 0.67,
+        "deltas": [
+          {
+            "before": "18012,",
+            "after": null
+          },
+          {
+            "before": "18013,",
+            "after": null
+          },
+          {
+            "before": "19099",
+            "after": null
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 2,
+      "added": 3,
+      "materialRemoved": 2,
+      "materialAdded": 2
+    }
   }
 ]

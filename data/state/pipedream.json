@@ -3,12 +3,12 @@
   "urls": {
     "pipedream-com-pricing": {
       "url": "https://pipedream.com/pricing",
-      "lastChecked": "20261003113802",
+      "lastChecked": "20261113143224",
       "lastSource": "browser",
       "latestTs": "20260919105727",
       "hash": "805b8b2165c542ef",
       "firstTs": "20230202133327",
-      "status": "suspicious",
+      "status": "pending",
       "lastChanged": "20260919105727",
       "failures": 0,
       "lineCount": 298,
@@ -18,14 +18,14 @@
     "pipedream-com-docs-pricing": {
       "url": "https://pipedream.com/docs/pricing",
       "lastChecked": "20261031122445",
-      "lastSource": "wayback",
-      "latestTs": "20260828075820",
-      "hash": "20cf00715e97ee9c",
+      "lastSource": "http",
+      "latestTs": "20261031122445",
+      "hash": "cdebda878f4e6336",
       "firstTs": "20250108155459",
-      "status": "pending",
-      "lastChanged": "20260828075820",
+      "status": "ok",
+      "lastChanged": "20261031122445",
       "failures": 0,
-      "lineCount": 132
+      "lineCount": 126
     }
   }
 }

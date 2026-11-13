@@ -1121,5 +1121,33 @@
       "materialRemoved": 33,
       "materialAdded": 13
     }
+  },
+  {
+    "id": "betterstack-com-pricing-20261031122445",
+    "url": "https://betterstack.com/pricing",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Better Stack: 1 price changed (removed “$5 per million tokens”)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "$5 per million tokens"
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 5,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
   }
 ]

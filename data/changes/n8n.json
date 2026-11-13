@@ -570,5 +570,95 @@
       "materialRemoved": 1,
       "materialAdded": 1
     }
+  },
+  {
+    "id": "n8n-io-pricing-20261031122445",
+    "url": "https://n8n.io/pricing/",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "http",
+    "prevTs": "20260925114938",
+    "kind": "price",
+    "score": 23,
+    "counts": {
+      "price": 1,
+      "limit": 7,
+      "plan": 3
+    },
+    "material": true,
+    "headline": "n8n Cloud: 1 price, 7 limits, 3 plan names changed (2.5K added; 10K added)",
+    "pairs": [
+      {
+        "before": "workflow executions with unlimited steps",
+        "after": "2.5K workflow executions with unlimited steps",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "2.5K"
+          }
+        ]
+      },
+      {
+        "before": "workflow executions with unlimited steps",
+        "after": "10K workflow executions with unlimited steps",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "10K"
+          }
+        ]
+      },
+      {
+        "before": "workflow executions with unlimited steps",
+        "after": "40K workflow executions with unlimited steps",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": null,
+            "after": "40K"
+          }
+        ]
+      },
+      {
+        "before": "Up to 13,700/month",
+        "after": "Up to 9,600/month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "13,700",
+            "after": "9,600"
+          }
+        ]
+      }
+    ],
+    "added": [
+      "Start free trial",
+      "No credit card required",
+      "Start free trial",
+      "No credit card required",
+      "Start free trial",
+      "1,600/month",
+      "Unlimited",
+      "5 min",
+      "40 min",
+      "Free trials include 800 credits, which expire when the trial ends."
+    ],
+    "removed": [
+      "Start free trial No credit card required",
+      "Unlimited users",
+      "Start free trial No credit card required",
+      "Start free trial Self-hosted only",
+      "2,300/month",
+      "AI Assistant (currently in preview) is included in all n8n Cloud plans except Enterprise. Each plan comes with a monthly allowance of AI credits: 2,300 on Starter and 5,700 or 13,700 on Pro, depending on your plan size. Free trials include 800 credits, which expire when the trial ends.",
+      "If there's no response or upgrade path, the overages if any will be automatically invoiced 45 days after they have occurred.For the Business plan, overage prices are 4,000 EUR for extra buckets of 300,000 executions."
+    ],
+    "totals": {
+      "removed": 81,
+      "added": 207,
+      "materialRemoved": 13,
+      "materialAdded": 16
+    }
   }
 ]

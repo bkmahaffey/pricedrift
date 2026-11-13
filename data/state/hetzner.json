@@ -3,7 +3,7 @@
   "urls": {
     "hetzner-com-cloud": {
       "url": "https://www.hetzner.com/cloud/",
-      "lastChecked": "20261031122445",
+      "lastChecked": "20261113143224",
       "lastSource": "http",
       "latestTs": "20260923113416",
       "hash": "e01381b1c88c5eb9",
@@ -16,15 +16,15 @@
     },
     "docs-hetzner-com-general-infrastructure-and-availability-price-adjustment": {
       "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/",
-      "lastChecked": "20261031122445",
+      "lastChecked": "20261113143224",
       "lastSource": "http",
       "latestTs": "20260902202804",
       "hash": "5531e2a93a417526",
       "firstTs": "20260223101431",
-      "status": "ok",
+      "status": "unreachable",
       "lastChanged": "20260902202804",
-      "lastNote": "http: only 465 lines; browser: 200, 467 lines; wayback: 466 lines",
-      "failures": 0,
+      "lastNote": "http 404; browser: 404, 1 lines; wayback: no snapshot",
+      "failures": 1,
       "lineCount": 465
     }
   }

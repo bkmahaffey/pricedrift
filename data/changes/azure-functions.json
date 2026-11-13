@@ -198,5 +198,34 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "azure-microsoft-com-en-us-pricing-details-functions-20261031122445",
+    "url": "https://azure.microsoft.com/en-us/pricing/details/functions/",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "http",
+    "prevTs": "20260902202107",
+    "kind": "plans",
+    "score": 4,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 2
+    },
+    "material": true,
+    "headline": "Azure Functions: 2 plan names changed",
+    "pairs": [],
+    "added": [
+      "Free Azure services",
+      "Free Azure services"
+    ],
+    "removed": [],
+    "totals": {
+      "removed": 0,
+      "added": 167,
+      "materialRemoved": 0,
+      "materialAdded": 2
+    }
   }
 ]

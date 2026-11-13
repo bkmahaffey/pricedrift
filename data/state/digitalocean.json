@@ -3,12 +3,12 @@
   "urls": {
     "digitalocean-com-pricing-droplets": {
       "url": "https://www.digitalocean.com/pricing/droplets",
-      "lastChecked": "20261031122445",
+      "lastChecked": "20261113143224",
       "lastSource": "wayback",
       "latestTs": "20260901103025",
       "hash": "450df270dc2e5dcc",
       "firstTs": "20230102002909",
-      "status": "ok",
+      "status": "pending",
       "lastChanged": "20260901103025",
       "lastNote": "capture 20231104154625 had 197 lines vs 617; ignored",
       "failures": 0,
@@ -17,7 +17,7 @@
     "docs-digitalocean-com-platform-billing-signup-credit": {
       "url": "https://docs.digitalocean.com/platform/billing/signup-credit/",
       "status": "ok",
-      "lastChecked": "20261031122445",
+      "lastChecked": "20261113143224",
       "lastNote": "http: only 20 lines; browser: 200, 28 lines; wayback: 20 lines",
       "failures": 0,
       "latestTs": "20260902202628",

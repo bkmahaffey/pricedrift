@@ -549,5 +549,73 @@
       "materialRemoved": 4,
       "materialAdded": 2
     }
+  },
+  {
+    "id": "cursor-com-pricing-20261031122445",
+    "url": "https://cursor.com/pricing",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "http",
+    "prevTs": "20260915114303",
+    "kind": "price",
+    "score": 108,
+    "counts": {
+      "price": 26,
+      "limit": 1,
+      "plan": 14
+    },
+    "material": true,
+    "headline": "Cursor: 26 prices, 1 limit, 14 plan names changed (removed “$20 / mo.”; added “$0 /month”)",
+    "pairs": [],
+    "added": [
+      "Free",
+      "$0 /month",
+      "$8 /month",
+      "$30 /month",
+      "✓ Ad-free scrolling on most surfaces",
+      "$100 /month",
+      "$200 /month",
+      "at least 24 hours prior to renewal to avoid additional charges. Prices subject to change.",
+      "Free $0 /month",
+      "Plus $8 /month",
+      "Premium $30 /month",
+      "Super $100 /month",
+      "Ultra $200 /month",
+      "Teams $30 +/user/month",
+      "Ad-free scrolling",
+      "Free",
+      "$0 /month",
+      "$8 /month",
+      "$30 /month",
+      "✓ Ad-free scrolling on most surfaces",
+      "$100 /month",
+      "$200 /month",
+      "at least 24 hours prior to renewal to avoid additional charges. Prices subject to change.",
+      "Free $0 /month",
+      "Plus $8 /month",
+      "Premium $30 /month",
+      "Super $100 /month",
+      "Ultra $200 /month",
+      "Teams $30 +/user/month",
+      "Ad-free scrolling"
+    ],
+    "removed": [
+      "Free",
+      "✓ No credit card required",
+      "$20 / mo.",
+      "$40 / user / mo.",
+      "and share your thoughts! If you prefer a private conversation, feel free to email us directly at hi@cursor.com",
+      "Free",
+      "✓ No credit card required",
+      "$20 / mo.",
+      "$40 / user / mo.",
+      "and share your thoughts! If you prefer a private conversation, feel free to email us directly at hi@cursor.com"
+    ],
+    "totals": {
+      "removed": 120,
+      "added": 514,
+      "materialRemoved": 10,
+      "materialAdded": 30
+    }
   }
 ]

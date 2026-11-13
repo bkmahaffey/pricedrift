@@ -868,5 +868,34 @@
       "materialRemoved": 7,
       "materialAdded": 7
     }
+  },
+  {
+    "id": "xata-io-pricing-20261031122445",
+    "url": "https://xata.io/pricing",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "http",
+    "prevTs": "20260915114303",
+    "kind": "copy",
+    "score": 0,
+    "counts": {
+      "price": 0,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": false,
+    "headline": "Xata: pricing page text changed (no price or limit change detected)",
+    "pairs": [],
+    "added": [],
+    "removed": [
+      "Start your 14 -day free trial",
+      "Start your 14 -day free trial"
+    ],
+    "totals": {
+      "removed": 15,
+      "added": 16,
+      "materialRemoved": 3,
+      "materialAdded": 1
+    }
   }
 ]

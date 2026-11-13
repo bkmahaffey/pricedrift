@@ -897,5 +897,81 @@
       "materialRemoved": 9,
       "materialAdded": 9
     }
+  },
+  {
+    "id": "mailersend-com-pricing-20261031122445",
+    "url": "https://www.mailersend.com/pricing",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "http",
+    "prevTs": "20260922113650",
+    "kind": "price",
+    "score": 8,
+    "counts": {
+      "price": 2,
+      "limit": 1,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "MailerSend: 2 prices, 1 limit changed (100 → 150; $0.90 → $1.30)",
+    "pairs": [
+      {
+        "before": "100 SMS /month",
+        "after": "150 SMS /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "100",
+            "after": "150"
+          }
+        ]
+      },
+      {
+        "before": "$ 0.90 € 0.90 £ 0.90 /1,000 emails",
+        "after": "$ 1.30 € 1.20 £ 1.03 /1,000 emails",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.90",
+            "after": "$1.30"
+          },
+          {
+            "before": "€0.90",
+            "after": "€1.20"
+          },
+          {
+            "before": "£0.90",
+            "after": "£1.03"
+          }
+        ]
+      },
+      {
+        "before": "$ 0.90 € 0.90 £ 0.90 /1,000 emails",
+        "after": "$ 1.30 € 1.20 £ 1.03 /1,000 emails",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$0.90",
+            "after": "$1.30"
+          },
+          {
+            "before": "€0.90",
+            "after": "€1.20"
+          },
+          {
+            "before": "£0.90",
+            "after": "£1.03"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [],
+    "totals": {
+      "removed": 3,
+      "added": 3,
+      "materialRemoved": 3,
+      "materialAdded": 3
+    }
   }
 ]

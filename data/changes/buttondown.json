@@ -363,5 +363,45 @@
       "materialRemoved": 0,
       "materialAdded": 0
     }
+  },
+  {
+    "id": "buttondown-com-pricing-20261031122445",
+    "url": "https://buttondown.com/pricing",
+    "ts": "20261031122445",
+    "date": "2026-10-31",
+    "source": "http",
+    "prevTs": "20260915114303",
+    "kind": "price",
+    "score": 3,
+    "counts": {
+      "price": 1,
+      "limit": 0,
+      "plan": 0
+    },
+    "material": true,
+    "headline": "Buttondown: 1 price changed ($9 → $29)",
+    "pairs": [
+      {
+        "before": "+$ 9 /month",
+        "after": "+$ 29 /month",
+        "confidence": 1,
+        "deltas": [
+          {
+            "before": "$9",
+            "after": "$29"
+          }
+        ]
+      }
+    ],
+    "added": [],
+    "removed": [
+      "We only charge for what you use. Many email providers charge for your unused subscribers or services that won’t be relevant to your work. We charge only for active subscribers, let you use features à la carte, and add features to larger lists for free, because we’re nice."
+    ],
+    "totals": {
+      "removed": 4,
+      "added": 5,
+      "materialRemoved": 2,
+      "materialAdded": 1
+    }
   }
 ]
